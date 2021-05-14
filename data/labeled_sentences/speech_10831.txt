@@ -1,0 +1,23 @@
+NEUT0|"""I'm going to actually show you a stock right now on Yahoo Finance trading at $0.13."
+BULL1|For tomorrow things will do well tomorrow.
+NEUT2|I'm also going to use the New York Times website to prove to you live on video that these dates and times are real.
+NEUT3|So first, let's go to newyorktimes.com.
+NEUT4|Now, as you can see, the date is the 30th of October.
+NEUT5|And tomorrow is Halloween.
+NEUT6|So now I'm going to head over to Yahoo Finance to show you the stock moral things will do very well tomorrow.
+NEUT7|So the market is now closed and this date corresponds to that on the New York Times website.
+NEUT8|Now if I Scroll down, you can see the stock price is at $0.13.
+BULL9|Morale has identified that the stock could double or maybe more as quick as tomorrow morning.
+NEUT10|I'll cut the video now and skipped it tomorrow.
+NEUT11|OK, we're just going to take a look at the stock today and I'll show you what happened.
+NEUT12|Again, I'm going to use the New York Times to show you the date and time.
+NEUT13|As you can see, it is actually the 31st of October, so it is Halloween.
+NEUT14|The time is 10:00 AM and the markets are open.
+NEUT15|OK, I'm going to navigate to Yahoo Finance again.
+NEUT16|The address is just finance.yahoo.com.
+NEUT17|And we're going to look at the same stock today.
+NEUT18|This is the stock model shows yesterday as the one that I showed you.
+NEUT19|So the markets opened an hour ago and the stock is trading at $0.26.
+BULL20|That's 103.85% return overnight.
+NEUT21|I'll just show you the date and time again, but let me point out.
+NEUT22|"Had you invested $5000 yesterday, like owners of Morrow, you've made $5192.00 in just under 24 hours."""

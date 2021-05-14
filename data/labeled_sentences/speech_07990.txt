@@ -1,0 +1,31 @@
+NEUT0|"""Hey fools Austin Smith here as part of our ask a full series where we pulled viewers from both Facebook and Twitter and help them answer their investing questions."
+NEUT1|So Austin from Facebook asked when analyzing the stock market, what are some points to look for and basic stocks to keep your eye on in order to get the information you really need before you start investing?
+BEAR2|Well, also I've got bad news.
+NEUT3|There's no end all be all metrics to look at with the stock market and there's no end all.
+NEUT4|Be all companies that will really give you.
+NEUT5|All the information you need before you start investing.
+NEUT6|Now there are some companies that are considered economic bellwethers companies like General Electric and waste management, whose movements are generally believed to be indicative of a strengthening or weakening underlying economy and General Electric due to their huge conglomerate structure and the fact that they have exposure to so many different industries.
+NEUT7|They are often considered a good gauge for where the underlying economy is going.
+NEUT8|But that doesn't mean you can just look at General Electric in waste management and get an idea about where the stock market as a whole is going.
+NEUT9|In fact, it's basically impossible and I recommend that you don't try and analyze.
+NEUT10|The market look at indices like the S&P 500 and the Dow Jones industrials average.
+NEUT11|There's nobody out there that can tell you where they are moving tomorrow the next day or a week from now.
+NEUT12|Sure, there's a lot of estimates, but everybody gets it wrong, and the Dow was only an index of 30 components.
+NEUT13|How hard can it be to analyze 30 components?
+NEUT14|Will actually pretty difficult.
+NEUT15|So instead what I would say is that if you really want to get investing, pick some companies that you're interested in that you know you'll be fascinated about that you know you'll be interested in reading about and researching.
+NEUT16|So, for example, I'm a car guy, so I got interested in the automakers.
+NEUT17|And I believe that Ford is very cheap today, so I bought shares and it's a company that I enjoy following because I'm interested in it.
+NEUT18|If you're a technology guy, you have to have the latest gadget.
+NEUT19|Maybe look at a company like Apple.
+NEUT20|The point to investing is there's no end all be all metrics to look at it.
+NEUT21|And there's more than one way to skin a cat.
+NEUT22|And there's more than one way to beat the market.
+NEUT23|But there's no doubt that you're going to be a better investor if you're invested in companies that you find interesting that you're not going to find researching and learning about, and that you'll truly be engaged with.
+NEUT24|So, Austin, there's no metrics to look for.
+NEUT25|There's no best stocks to keep your eye on.
+NEUT26|The best stock to watch today is the one that you're interested in, the one that you're not going to mind doing some deep homework on.
+BULL27|So thanks for tuning in an Foulon.
+NEUT28|People on the show may have interest in the stocks they talk about, and The Motley Fool may have formal recommendations for or against.
+NEUT29|Don't buy or sell stocks based solely on what you hear.
+NEUT30|"Yeah, do it now."""

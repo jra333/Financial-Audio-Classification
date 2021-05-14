@@ -1,0 +1,13 @@
+NEUT0|"""Hello and welcome to today's technical analysis for December 4th, 2014."
+NEUT1|I'm Selena Nicholas technical idleness that xm.com.
+NEUT2|Today we will look at Aussie dollar on the daily chart.
+BEAR3|Now the dollar remains bearish as the downtrend continues to new pair reach Zero Point 8357 in early European session trading and it looks set to head even lower.
+BEAR4|The decline accelerated after breaking below the 50% to bonacci level at Zero Point 8546 of the up leg from 0.6008 up to the high.
+NEUT5|At one point 1078.
+NEUT6|The next key technical level that would act as immediate support is seeing that zero point 8300 and then at zero point 8200.
+BEAR7|To the upside, prices are capped at Zero Point 8500.
+BEAR8|Overall, the bias is strongly bearish and technical indicators are highlighting the underlying bearish market structure.
+BEAR9|Our size falling and the tenkan Sen Kijun Sen lines are negatively aligned.
+BEAR10|Prices remain below the downtrend line that started from the the Hyatt Zero Point 9400 on September 5th and also prices are below Ichimoku cloud.
+NEUT11|Also, underlying the bearish market structure.
+BULL12|"Thank you for watching and have a great day."""

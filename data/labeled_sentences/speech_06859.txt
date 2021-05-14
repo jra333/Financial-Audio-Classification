@@ -1,0 +1,21 @@
+NEUT0|"""Hello, this is on the bottom to Sue your ABC National Chief economist."
+NEUT1|Well, we received some more data from the government today regarding construction spending, this time for July of 2020.
+BEAR2|If you look at non residential construction, spending was down in July and this is part of a trend.
+BEAR3|Now spending has been in decline recently we saw declines by the way in both private nonresidential construction and public nonresidential construction.
+BEAR4|Private non residential construction is now down on a year over year basis.
+NEUT5|There are couple of forces at work here, some working for good, some for evil.
+BULL6|On the positive side of the Ledger, the broader economy, which is coming back third quarter GDP growth should be quite strong.
+BEAR7|We've been adding a lot of jobs as of May, June and July.
+BULL8|Unemployment has fallen, retail sales have been quite strong.
+NEUT9|Residential building permits of come back.
+BEAR10|And of course the stock market has performed incredibly well, but on the negative side of the Ledger we're dealing with state local government finances that have been pummeled.
+BEAR11|We're dealing with less confident developers and other users of construction services.
+BEAR12|Lending standards are tightening.
+NEUT13|We're seeing less design work taking place where you look at the architecture Billings index or other leading indicators.
+BEAR14|Our own construction backlog indicator at ABC is trending lower as is our construction confidence index.
+BEAR15|And so when you put it all together, the factors that directly affect non resident construction spending like tighter credit are overwhelming the forces for good broader economic recovery such as spending is in decline and I would expect that to continue for the facility future.
+NEUT16|Indeed 2021 and shape your pre.
+BEAR17|A quite harsh year for many contractors.
+NEUT18|I hope that's not the case, but that looks to be what the leading indicators are suggesting.
+NEUT19|If you want more information, please do go to abc.org/economics.
+BULL20|"I'll see you next time when the next data release comes out and hopefully the news will be better."""

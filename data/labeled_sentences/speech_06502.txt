@@ -1,0 +1,17 @@
+NEUT0|"""Hello and welcome to this technical analysis video here at xm.com."
+BEAR1|It's Wednesday, September 5th from Christina Barton, investment analyst and today we're going to look at the New Zealand dollar versus the US dollar, which closed yesterday for the fourth straight day in negative territory on the back of a stronger dollar.
+BEAR2|And now if we zoom into the daily time frame, we can see that the Prairie continues to trade bearish today, extending it's a long term downtrend from.
+BEAR3|Zero Point 7319, three to Zero Point 6528 the lowest since early 2016, Allemagne has strengthened to the downside and below its red signal line, suggesting that further downside could be expected in the short term.
+BEAR4|The price has also weakened even further below its 50 neutral mark, but we see that the index is pretty close to the 30 oversold threshold.
+BEAR5|While looking at the stochastics, those have already entered the oversold zone below 20.
+BULL6|The blue percentage Kaline is ready to cross above the Red Percentage D line, so any rebound in the price in the very short term could be possible also.
+BULL7|Now in case the downside continues at the price could find immediate support at the zero point 65 psychological level before the lower bound of this dissenting channel, currently seen near Zero Point 6460, comes into view.
+BEAR8|If however, this fails to hold, turning the outlook even more.
+NEUT9|Bearish, then the next target could be the 2016 low of Zero point 6343.
+BEAR10|On the other hand, if bullish pressures dominates, sending the price higher, the middle ground of the channel around zero point 6585 could provide some resistance, while further up the upper line of the channel around zero point 6567.
+BULL11|Twenty slightly below the previous peak of Zero Point 6720.
+BULL12|Live in near the 50 day moving average could be stronger, could be stronger barrier to upside movement because any significant step higher would probably bring additional gains to the market in coming sessions.
+BEAR13|Finally, looking at the medium term picture, the market continues to trade bearish over the past three months.
+NEUT14|And then I got the outlook is not expected to change unless we see prices moving above zero point 7050.
+NEUT15|So that's all from me.
+BULL16|"Thank you for watching and have a great day."""

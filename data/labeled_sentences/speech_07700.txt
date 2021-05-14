@@ -1,0 +1,18 @@
+NEUT0|"""Welcome to the growth investing channel I put together the portfolio diversification for Berkshire Hathaway."
+NEUT1|And it looks like they're almost 50% in Apple.
+NEUT2|The next biggest holding is Bank of America Coca Cola XP Katzie and it goes on from there.
+NEUT3|I created my own portfolio based off these companies.
+BULL4|But giving a higher allocation for higher performance over the last five years.
+NEUT5|So this is the portfolio I came up with.
+BEAR6|Some of the companies I got rid of because they weren't performing the greatest.
+NEUT7|An 15% in Amazon, 10% gold 10% and Apple 10% and MasterCard 8% shorter.
+NEUT8|6% in MCO, 6% in vRS and and you can see the rest.
+NEUT9|There's a few that's less than 2%.
+NEUT10|A few that are the other ones that are 2% as well.
+NEUT11|That are smaller in the slice, but I got the information from a.
+NEUT12|The website on CNBC showing the Holdings of Berkshire Hathaway.
+NEUT13|Portfolio tracker and I just input the numbers and these are all the companies that they.
+NEUT14|They own and how much?
+NEUT15|For example, Amazon, they got 1.6 billion Apple 113 billion.
+NEUT16|That's why it's almost 50% of their portfolio.
+NEUT17|"But this will give you an idea how to invest like Warren Buffett, but."""

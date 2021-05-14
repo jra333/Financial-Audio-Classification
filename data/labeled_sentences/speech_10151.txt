@@ -1,0 +1,57 @@
+NEUT0|"""Today's video is brought to you by Weebl."
+NEUT1|Invest more trade free.
+BULL2|Everyone, thanks for joining.
+BULL3|Today we're going over a potential breakout on ticker symbol NVIV.
+NEUT4|I'm currently using the Weibull app.
+NEUT5|I'll leave a link in the description down below.
+NEUT6|Sign up, get a couple free stocks.
+NEUT7|Alright, let's get into it.
+NEUT8|I'm currently viewing this on a four hour chart.
+NEUT9|Moving average lines are set at 50 and 1:20.
+NEUT10|As we can see here, we have a nice Cup forming.
+BULL11|Getting ready to test our resistance at $0.73.
+NEUT12|We're currently trading at $0.69.
+NEUT13|If we go out to the daily chart, we can see here.
+BULL14|We have a nice gap to fill currently.
+NEUT15|At what are prices up to a dollar four?
+NEUT16|My price target is around $2.00, give or take.
+BEAR17|And as we can see, we fell off through October of this year.
+BULL18|Finding support at $0.49.
+NEUT19|And currently resistance at $0.73.
+NEUT20|And it has been trading within this range for over 2 months.
+NEUT21|Whether this takes me three months or six months to reach my price target of $2.00.
+NEUT22|I will hold this.
+NEUT23|If you guys found this video helpful, please subscribe.
+NEUT24|I'll see you in the next video.
+NEUT25|We will review, let's get into it.
+NEUT26|I'm currently viewing the markets.
+NEUT27|Tab top left hand Corner as we Scroll down through we can see top gainers.
+NEUT28|Top losers.
+NEUT29|Close active.
+BEAR30|Advance declines, huh?
+NEUT31|ETF's.
+NEUT32|Best performing industries we can go over to Crypto's.
+NEUT33|Global.
+NEUT34|If we had Explorer at the top.
+BEAR35|We have explored less.
+NEUT36|Calendars for earnings dividends splits.
+NEUT37|Scanners you can create your own.
+NEUT38|I have a couple low flow.
+NEUT39|Short of all.
+NEUT40|My number one.
+BEAR41|IPO center 52 week high and low.
+BULL42|High dividend stocks.
+NEUT43|If we go down to the bottom section here you can see where I am.
+NEUT44|It's highlighted markets.
+NEUT45|You can go to community.
+NEUT46|At the top you can go to top news.
+NEUT47|Over to watch list.
+NEUT48|This is news on stocks that I have on my watch list.
+NEUT49|Download at the bottom watch list.
+NEUT50|Now.
+NEUT51|Hot stocks Bitcoin.
+NEUT52|Low flow.
+NEUT53|Options.
+NEUT54|I hope you guys take a chance exploring the Weibull.
+NEUT55|I know you love it.
+NEUT56|"I'll see you guys on the next video."""

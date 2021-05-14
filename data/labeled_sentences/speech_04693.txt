@@ -1,0 +1,45 @@
+BULL0|"""Gene good morning to you."
+NEUT1|And I gotta say this, this is an interesting point.
+BEAR2|We've got a market that's in real Rally mode, despite the fact that a company like Alphabet has provided such a disappointment where you was disappointed in those alphabet earnings as the street seems to be.
+NEUT3|I was and ultimately is that these big tech names have the flywheel of install base.
+NEUT4|In Google's case you have a couple of billion people use it every day.
+BEAR5|You'd expect that this sharp decline in revenue growth.
+BULL6|You hit it right on last quarter they grew their ad revenue, which is 83% of the overall business at 22% in the December quarter that decelerated to 16% and also expecting that to be 18% growth.
+BEAR7|And so you know that seems small as analysts adjust their models for the next several quarters.
+BEAR8|That impact obviously is compounding instead of having it's called a 15 to 20% growing story.
+NEUT9|You have a 13 to 16% growing and that impacts how I think people should look at this.
+NEUT10|If you step back and think about the Fang results in Google, put that in.
+NEUT11|The context is really Facebook and Google.
+BEAR12|The two ad plays were faced with some headwinds so in some respects, well I was surprised.
+NEUT13|Maybe we should have seen some of the writing on the wall after the Facebook results earlier in the quarter.
+NEUT14|So gene.
+NEUT15|Let's talk about whether or not I'm trying to figure chicken or egg here.
+NEUT16|Do we glean something about the overall health of the ad market based upon Facebook and Alphabet results?
+NEUT17|Or do Alphabet and Facebook results tell us something about what's going to happen with the macro market for advertising revenues?
+NEUT18|I think it's more the latter.
+NEUT19|I think that this is a better indication of the macro market.
+NEUT20|Ultimately, these are the two bellwethers.
+NEUT21|If you are an advertiser and you want to get reach, you have to really spend on Google or Facebook, and so I think that what they're seeing in their ad business is more representative.
+NEUT22|What's going on.
+NEUT23|The overall advertising market?
+NEUT24|I'm not a believer in Facebook.
+NEUT25|I don't think Facebook necessarily puts the world in a better place, but the more I've studied what advertisers need in terms of reach and target ability.
+NEUT26|I think that there is no other place to go and so I do think that these are bellwethers relative to the overall ad spending market before my comments maybe are taken out of context.
+BULL27|I think it's important that even though these are decelerations and it is a disappointment, it still is healthy growth.
+BEAR28|We're still talking about mid teens growth in the case of Google Anheier Facebook, so big picture, it's a deceleration.
+BULL29|But I think the overall ad market remains healthy Tesla a huge focus here, just a few moments left here.
+NEUT30|Can you take us through what you feel about these, I mean.
+NEUT31|It's just I can't even describe it.
+NEUT32|I don't know what's happening here.
+NEUT33|I can't either dama been covering stocks for a long time and this is really unprecedented.
+NEUT34|I think at the end of the day, what we're seeing is a shift from people viewing this as a car company, using Ford and General Motors of comps is quickly thinking about this as a tech company.
+NEUT35|I just want to put some quick perspective on where this could go with Tesla.
+NEUT36|Is that their real business is a computer on wheels.
+NEUT37|It's a combination of hardware and software similar to what Apple is combination hardware, software and services.
+NEUT38|If you apply a 20% growth rate on Tesla for the next few years.
+BULL39|And give a similar revenue multiple as Apple.
+NEUT40|That equates to $360 billion market cap.
+NEUT41|The current market cap of Tesla is 140 billion.
+NEUT42|In other words, I agree with you.
+NEUT43|I'm glued to the screen yesterday watching this movement and Tesla stock.
+BULL44|"But the reality is is that if they are successful at capitalizing this undeniable truth about electrification autonomy, the stock has much higher to go."""

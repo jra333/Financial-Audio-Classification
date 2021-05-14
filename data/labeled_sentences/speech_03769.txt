@@ -1,0 +1,26 @@
+BEAR0|"""Joe Biden's tax hikes will hurt everyone."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to better navigate these turbulent times.
+NEUT2|Joe Biden is proposing $4 trillion in higher taxes, but claims that only the ritual end up paying for them.
+NEUT3|Don't buy it.
+BEAR4|The Democrat candidate for president also promises to repeal the Trump tax cuts, which did reduce the tax bill for a typical household by more than $1000.
+NEUT5|But let's assume Biden doesn't take away those middle class tax reductions.
+BEAR6|His plan will still damage most Americans.
+BEAR7|He ignores the fact that his owners exactions will mean fewer jobs, depressed wages, less innovation.
+BEAR8|And a stagnant standard of living.
+BULL9|For instance, he wants to boost the capital gains tax to over 40% level, not seen since the 1970s when the economy stagnated and the stock markets tanked.
+BEAR10|A capital gains exaction at the level Biden proposes would send stocks downward.
+NEUT11|It punishes risk taking.
+BEAR12|Why risk money when the rewards are heavily penalized, made worse when you factor in state capital gains.
+NEUT13|Taxes and losses are absorbed totally by the investor.
+NEUT14|Democrats forget that over 100,000,000 Americans have 401K zariah raise millions of people, especially government workers are in traditional pension plans whose assets are primarily invested in stocks.
+BEAR15|All will be hurt by a lousy stock market.
+BEAR16|Biden's desire to boost the tax on business profits by 33% will make the rate one of the worst among developed nations that will curb the flow of job, creating capital that had been flowing into the US before the covid crisis.
+BEAR17|Far more damaging this far higher level, will leave less money to expand companies and less money to pay dividends, thereby injuring equities, and will also mean less money to raise employee wages.
+BEAR18|Biden's plan for far more taxes and higher personal incomes will be a disaster for smaller businesses, which are usually taxed at personal tax rates.
+BEAR19|This would deaden a huge part of the economy when it comes to job creation and innovation.
+NEUT20|His plan would also mean a smaller pool of savings for investing.
+NEUT21|A bigger economy is impossible without more investments.
+BEAR22|So Joe Biden can claim the direct tax bill of many people won't go up, but their job prospects and their opportunities for better incomes will wither.
+NEUT23|I'm Steve Forbes.
+NEUT24|Thank you for listening.
+NEUT25|"Do send in your comments and suggestions and I look forward to seeing you next time."""

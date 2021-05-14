@@ -1,0 +1,33 @@
+BEAR0|"""Breaking news involving Boeing and its 737 Max jet Phil about joins us."
+NEUT1|He's got the details on that, so what's up?
+BULL2|Good morning, Becky.
+BULL3|This is another substantial order for the 737 Max.
+NEUT4|It is in order for 24/7 37 Max is this is being placed by 777 partners.
+NEUT5|That is an investment firm out of Miami with a number of investments in the aviation industry as well as other industries.
+NEUT6|This is the first time that it will be leasing aircraft among the clients that will be taking some of these.
+NEUT7|Max is Flare which is an ultra low cost airline out of Canada.
+NEUT8|The significance of this order?
+NEUT9|You now have 121 firm orders since November for the 737 Max and by my count at least 48 more that have been announced like this one, but not yet officially booked.
+NEUT10|We talked about this when they released their orders and deliveries earlier this week.
+BULL11|You are starting to see orders outpaced cancellations for the 737 Max and this morning they're announcing an order for 24/7.
+NEUT12|37 Max is an option for 60 more to be purchased by an investment firm out of Miami.
+NEUT13|Guys back to you.
+NEUT14|Well Phil, this is some big news.
+BULL15|We do see that stock up 1 1/4%.
+NEUT16|I guess there's the question that people have out there is how much investment will you see in these things?
+NEUT17|Based on what we've seen with the industry to date, how quickly things can actually rebound.
+NEUT18|I think that depends on demand.
+BULL19|Worldwide you look at certain markets like China where you've seen domestic air travel come back pretty strong in almost two pre pandemic levels.
+BULL20|And there's optimism that if you see that in the US, if you ultimately see that in Europe then you have an industry that perhaps in two to three years will be back to pre pandemic levels.
+NEUT21|And don't forget what we have, especially in Europe and you're going to see this around the world.
+NEUT22|You see government saying we want our airlines.
+NEUT23|To have lower emissions, well, that fits right in with the Max because you have a more fuel efficient lower emission producing aircraft because of its new engines.
+NEUT24|You put all that together.
+NEUT25|That should be a tailwind for the Max, but let's be clear.
+NEUT26|121 orders since November.
+BEAR27|I mean that's a drop in the bucket compared to the cancellations that they've seen since the airplane was first grounded.
+BEAR28|I mean that was well over 1000 cancellations, so they've got a long ways to go to.
+NEUT29|A long ways to go to make it up.
+NEUT30|One last thing guys, we have yet to hear from Southwest, which is expected to announce an expanded 737 Max order at some point in the near future.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,25 @@
+NEUT0|"""Part I have a third account."
+NEUT1|There's a man.
+NEUT2|Power another Los Angeles for years named Howard Ahmanson.
+NEUT3|He once said something that I've taken to my heart.
+NEUT4|Add.
+NEUT5|Never underestimate the man over his doings himself.
+NEUT6|I think Elon Musk is peculiar in.
+NEUT7|You may overestimate yourself, but you may not be wrong all the time.
+NEUT8|Well that was Berkshire Hathaway Vice Chairman Charlie Munger weighing in on Tesla and Elon Musk, coming just before the company announced its offering of $2 billion worth of common stock this morning, philipo has more on that from Chicago, Phil.
+BEAR9|Ann Morgan those shares were under pressure premarket when this deal was first announced.
+BULL10|Now they're up almost what more than 2% on the day.
+NEUT11|This is a $2 billion common stock offering that Tesla has announced.
+NEUT12|By the way, Elon Musk, he's going to be buying $10 million of that stock offering.
+NEUT13|Remember, it was just a couple of weeks ago after their quarterly earnings.
+NEUT14|This is what Elon Musk said when asked about the need to raise more capital.
+NEUT15|So.
+NEUT16|We're spending money, but I think officially and we're not artificially limiting our progress.
+BULL17|And then despite all that, we are still generating positive cash so.
+NEUT18|You know, in light of that, it doesn't make sense to you know to raise money because we expect to generate cash despite this growth level.
+BULL19|After he made those comments, we talked about a number of analysts who believe look this is the time to raise if you're a Tesla Jose back from RBC Capital saying, we would argue that Tesla should try to take even greater advantage of the stock price, raise a larger amount of equity to enable more of a recapitalization of the company, and have enough to fund their growth.
+NEUT20|Ambition to take a look at shares of Tesla.
+NEUT21|We should also point out that Director Larry Ellison is going to be buying $1,000,000 of this stock offering and one other note.
+NEUT22|Morgan in today's 10K that Tesla release, they also acknowledge that they have received a subpoena from the FCC seeking information on certain data from the company.
+NEUT23|Not sure what to make out of that in terms of something more, something less, but that is also in the 10K.
+BULL24|"And they also said that they plan to have greater CapEx spending over the next three years than originally forecasted guys back to you."""

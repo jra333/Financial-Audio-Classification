@@ -1,0 +1,11 @@
+BEAR0|"""China's latest rate cut failed to give stocks an immediate boost."
+BULL1|However, many analysts think Beijing will ultimately do whatever it takes to prevent a prolonged sell off.
+NEUT2|Here are three reasons why.
+NEUT3|First off, a share and it creates wealth.
+BULL4|Making people richer should help them get out shopping, potentially boosting consumption at a time when China is trying to shift away from construction in heavy industry as drivers of growth.
+BULL5|Second rising stocks make it easier to sell new shares.
+BULL6|If companies are able to raise equity from eager investors.
+BULL7|The cash can then be used to pay down debt, helping to lessen the effects of China's credit ***** hangover.
+BEAR8|Fat Chinese investors are still woefully short on alternative investment options, pushing them into the housing market or shadow banking creates greater economic risks than a stock bubble.
+BULL9|The logic goes, and having them give cash to companies, especially young private ones, could help foster the next Alibaba.
+NEUT10|"At least that's the theory."""

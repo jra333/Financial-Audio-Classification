@@ -1,0 +1,20 @@
+NEUT0|"""Hi everyone, subscribe to our channel to be informed daily technical analysis and the latest news from the cryptocurrency world."
+NEUT1|Yes, let's start.
+BEAR2|The Bitcoin price is struggling after soaring to an all time high of $61,690.00 in February.
+BEAR3|The Bitcoin has struggled even to move above the psychological level of $60,000 today.
+BEAR4|The currency is trading at $52,740, which is slightly above yesterday's low of $50,455.
+BEAR5|The Bitcoin price has struggled at a time when it ought to be doing well.
+BEAR6|For one, Fidelity has filed for a Bitcoin ETF with the SEC.
+BULL7|If granted, the fund will be a cheaper option for institutional investors to invest in Bitcoin.
+BEAR8|Bitcoin therefore likely dropped because of investors who were selling their grayscale Bitcoin trust Holdings in anticipation of the ETF.
+BEAR9|Also, the digital currency dropped even after Tesla announced that it would allow customers to buy using the currency.
+BULL10|While this was good news, it was already priced in since the company has already committed itself to start accepting the currency in trading.
+NEUT11|This is known as buying the rumor and selling the news.
+BEAR12|Other reasons why the Bitcoin price fell is the overall strong U.S. dollar and the performance of the US bond yields.
+BEAR13|Therefore, any move below this support will open the possibility of the price falling to the third support at $46,000, which is about 12% below the current level.
+BEAR14|However, a move above first support at $53,618 will invalidate this trend.
+NEUT15|Subscribe to our channel and open notifications to learn more about Bitcoin Ethereum altcoin crypto currencies and other investment tools.
+NEUT16|In this video, references and opinion is for information purposes only.
+NEUT17|It is not intended to be investment advice.
+NEUT18|Every investment and trading move involves risk.
+NEUT19|"You should do your own research while making a decision."""

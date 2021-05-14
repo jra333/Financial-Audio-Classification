@@ -1,0 +1,12 @@
+BULL0|"""Welcome back everybody."
+BEAR1|Right now it's time for the executive Edge Evercore Partners is offering to pay junior bankers up to $25,000 to delay starting their new jobs.
+BEAR2|External recruiters told the Wall Street Journal that recent college graduates who were due to start at Evercore this summer will get $15,000 to defer their start date until January, or 25,000 if they wait until next summer to actually join the firm.
+BEAR3|It's a reflection of the pandemic challenges, including an anticipated decline in deal making and a lack of resources to onboard new employee.
+BEAR4|Says the Journal says that consulting firms, McKinsey and Accenture are also delaying start dates for fall hires.
+NEUT5|Just tells you a little bit about how desperate and dire things are right now as people are trying to figure out how to operate in this new world and and figure out what kind of revenue they're going to have in resources.
+NEUT6|You know?
+NEUT7|Guys recently I saw something that said if you think our market is inexplicable, we look at what's happening in Europe.
+NEUT8|Did you know we're lagging Europe really?
+NEUT9|I guess it makes sense.
+NEUT10|They probably are crazy rebounding a little more quickly than we are, but that at least gives you maybe some things.
+NEUT11|"Some idea that maybe this isn't as insane as it seems."""

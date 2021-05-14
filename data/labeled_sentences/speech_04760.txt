@@ -1,0 +1,30 @@
+NEUT0|"""David, let's start with you."
+NEUT1|We're all still getting all these details, but now we're looking at that long term.
+BEAR2|Loan rate can be as low as Depot rate plus 1/10 of 1%.
+NEUT3|What does that mean to you?
+NEUT4|The headline.
+NEUT5|Well, I think I mean the first point I would make is the market really had got ahead of itself.
+NEUT6|I think you know talk of rate cuts is entirely premature.
+NEUT7|We had some very strong actually domestic demand figures published by Euro stat this morning for the eurozone first thing.
+BULL8|And we've seen wages pick up again in Germany.
+NEUT9|They're running their forces.
+NEUT10|Rate wage inflation there.
+NEUT11|Since the commencement of the Euro 99 so I think the markets really work ahead of themselves to the Ultra is obviously the devil will be in the detail, but obviously it's there in theory to promote bank lending.
+BULL12|And maybe it's not quite as generous as some people in the markets were expecting, but the end of the day if they hit their lending targets, they can still borrow at a very, very low rate and that will help the recovery.
+NEUT13|If it's you know, for the Italian banking sector there maybe it's not quite as generous as they were hoping that it devil, as I say, will be in the detail, but will have to.
+NEUT14|I have to wait, really.
+NEUT15|When I get back to the office and listen to Mario Draghi at the press conference in particular, which will be taking live here on Bloomberg Television?
+NEUT16|Of course, so David, this is really my fundamental question when we talk about what the market was pricing and was expecting.
+NEUT17|Does that read through to business confidence and consumer confidence or not?
+NEUT18|Because it seems like perhaps on both sides of the Atlantic there's a version of this going on with the Fed.
+BEAR19|The markets get really out over their skis and expecting accommodation from the central bank.
+BEAR20|If that doesn't come through, it obviously affects the markets.
+NEUT21|Does it also read through?
+NEUT22|To business decisions, for example, investment decisions.
+NEUT23|Well, I think the first point to make is that capital markets, particularly equity markets much less relevant for the eurozone, corporate sector overall.
+NEUT24|That is for the US or for the UK, where clearly large cap companies race or financing through markets.
+NEUT25|Most of the financing for the euro system is done with the banks, and in particular there's an awful lot of small medium sized companies and the recoveries we're seeing around the Arizona is really based around the service sector about small medium sized firms, and I think in that sense.
+NEUT26|There is a clear divorce between you know what the markets are saying and what we can see on the ground in terms of the hard data.
+NEUT27|The aerostat figures the figures published by the ECB and so forth, but at the end of the day it does matter, but it's not that relevant.
+NEUT28|I don't, I don't know anyone who uses their five year five year forward expectation when they go chasing pay rises is not relevant for most people operating in the wider real economy.
+NEUT29|"It matters for markets, but it's not relevant from other people on the ground."""

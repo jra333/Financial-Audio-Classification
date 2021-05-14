@@ -1,0 +1,23 @@
+NEUT0|"""Alright, let's take a look at the Apple price."
+NEUT1|We can see here.
+NEUT2|I performed a red candle and this red candle actually could be called a dodgy because it has nearly at across as a cross pattern.
+BULL3|So actually here we can see it has hit the 50 days AMA and still.
+NEUT4|Under the five days, yeah may.
+NEUT5|And the 20 days yeah may.
+NEUT6|And if we check the volume we can see the volume is comparably the same with the several days before it.
+BEAR7|And if we draw a line here we can see it's still in a downtrend here.
+NEUT8|If we draw a line we can see.
+BEAR9|Is still in a downturn.
+NEUT10|And according to the volume here, we can see the selling pressure is not so strong.
+NEUT11|Actually because the volume is comparably low and if we check the low here, we can see actually.
+BEAR12|It's still above the law which has made on the 22nd of September, so actually there's still room for Apple stock to drop, and in my opinion, as long as the price keeps above this level, there still opportunity for Apple stock to make consolidation here, because the volume here is not so strong.
+NEUT13|It means there's not too many cells, so.
+NEUT14|Actually, though the sale is mild and then.
+NEUT15|If we check the whole picture we can see.
+NEUT16|This is one top.
+NEUT17|This is another top, so before it can break out.
+NEUT18|Back up and above this point, the two top part patent is valid, so it means it's a lot of pressure upset.
+NEUT19|So in my opinion, if you hold Apple now, you should consider to hold it.
+NEUT20|Before.
+BEAR21|It dropped back to here and if you think you should sell it then you should start earlier, because if it drops below this point then it's very dangerous side.
+BULL22|"Thank you."""

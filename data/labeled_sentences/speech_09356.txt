@@ -1,0 +1,16 @@
+NEUT0|"""Well, it's now time for ETF spotlight."
+NEUT1|We're taking a look at the spider SMP Aerospace and Defense ETF ticker there, XAR, it is in the green.
+BULL2|Today it's at 4 1/2 percent, adding to its three month gains, about 30% over that time.
+NEUT3|Two names in the fund that are surging this morning are Virgin Galactic, an maxar technologies on news that Kathy was arc invest is planning a space exploration ETF focusing on companies that are quote leading, enabling or benefiting from technologically enabled products and or services.
+NEUT4|That occur beyond the surface of Earth.
+NEUT5|No word.
+BULL6|Look at that Virgin Galactic up 20% Max are up, 27 was 28%.
+NEUT7|No word yet on what the names will be that will be included in that ETF.
+BULL8|But the space names are shooting higher nonetheless, including names that are not in XA.
+NEUT9|Our names like satellite operators via set an eridium.
+NEUT10|Also, the specs that are taking space exploration, startups, public this quarter stable Rd acquisition, which is merging with momentous and New Providence acquisition, which is bringing AST.
+NEUT11|Science public Huawei is a filing tie to a new ETF.
+BULL12|Doing this right now will keep in mind Ark, Invest management and an Kathy would have had a very strong year.
+NEUT13|Strong performances for funds last year, most notably that Ark Innovation ETF, which gained more than 150% investors, are taking notice, and while there hasn't necessarily been that much public investor money going into space until now, I think many folks that are in this industry expect 2021 to be a year where that significantly changes.
+NEUT14|Shepard Smith here.
+NEUT15|"Thanks for watching CNBC on YouTube."""

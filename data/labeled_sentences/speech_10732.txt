@@ -1,0 +1,15 @@
+NEUT0|"""Jesse, the Achilles heel of Bitcoin has always been its volatility, particularly for institutional investors."
+NEUT1|Do you think that volatility starts to come down now?
+NEUT2|And do you think it's almost a kind of circular argument because this institution starts to move in, they will force the volatility lower.
+NEUT3|You know, I don't think that we're going to see a lower volatility Bitcoin for a long time.
+NEUT4|You know?
+NEUT5|Maybe, maybe not, until Bitcoin replaces all of the world's currencies.
+NEUT6|You know which is something that the true believers have predicted would happen all along, and something that the New believers are predicting more and more these days.
+NEUT7|But, you know, I think between 28,000 and $1,000,000 of Bitcoin, you're going to have a lot of volatility.
+NEUT8|You know that's potentially another decade.
+NEUT9|So I think volatility is not going to end anytime soon.
+NEUT10|Bitcoin certainly is not for the faint of heart.
+NEUT11|People should be buying in dot through dollar cost averaging.
+NEUT12|They should not be day trading this asset.
+NEUT13|I think that it's a buy and hold asset.
+NEUT14|"It's a long term investment."""

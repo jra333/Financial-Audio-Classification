@@ -1,0 +1,18 @@
+BULL0|"""Hello and welcome to technical analysis."
+BEAR1|Here at exam.com is June 29th and today we're going to look at the Aussie dollar which is set to close the week in losses for the third consecutive time as trade tensions between the US and China remain a threat to Australian exports, so zooming into the daily time frame, we can see that Aussie dollar continues to post lower lows and lower highs touching a 17 month lower point 7322 early this week.
+BEAR2|In the short term, negative momentum is expected to continue given that very site still in bearish territory, trying to gain some ground busted, but still well below 50.
+BEAR3|While if we look at the magazine, the indicator is moving below 0 and it's red signal line, suggesting that chances for downside corrections are still high.
+NEUT4|So the way down we could look for support on the previous loves your point 7322, which acted as an obstacle back in May 2017 as well, while even lower the area between 0.73.
+BULL5|And your point 71 could attract some attention, turning the picture more bearish.
+NEUT6|If the pricing data falls below Zero Point 7322.
+BEAR7|On the other hand, if the price keeps recovering, resistance could run towards the 23.6% fibo Nachi of the download from Zero Point 8135 to Zero point, 7322.
+NEUT8|This is at Zero point 7512 and pretty close to the 20 day and the 50 day moving average lines.
+NEUT9|However, this level fails to hold them.
+NEUT10|The area between the 38.2%.
+NEUT11|Wanna cheat of Zero Point 7631 and the previous high of Zero Point 7675 could be the next target.
+BULL12|The bullish sentiment though, could become even stronger if the market manages to close significantly above the 200 day moving average currently at zero point 7704.
+BEAR13|Finally, turning to the medium term picture, the outlook here is bearish as well.
+NEUT14|Given the market's performance over the past three months and the negative picture is not likely to change unless we see.
+BULL15|Aussie dollar breaking above the 61.8% Fibo Nachi up Zero point 7823.
+NEUT16|So that's all from me.
+BULL17|"Thank you for watching and have a great day."""

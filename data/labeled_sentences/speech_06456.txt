@@ -1,0 +1,49 @@
+NEUT0|"""It's my field."
+BULL1|Welcome back to you.
+NEUT2|Monday morning it is.
+BEAR3|You'll feel good breakfast show now investors and Eagle Eyed News readers alike will have heard the news that Facebook stocks plummeted in value recently in what was the biggest single day drop in the company's history.
+BEAR4|Now it's been a very difficult past year for the social network.
+NEUT5|And to explain this and what it means, we're joined by our resident tech expert Brian Smith.
+BULL6|Great to have you here.
+NEUT7|I'm going to bed.
+NEUT8|So what's happening?
+NEUT9|What?
+NEUT10|What is MOG doing and marking friends or just not having?
+NEUT11|A good time of it saying simple terms, what exactly happened at Facebook in terms of the valuation?
+NEUT12|Sure.
+NEUT13|So as we know, we have private companies and we have public companies which issue shares or parts of that company to various shareholders all around the world.
+NEUT14|And as Facebook does, these companies hold what's called a yearly earnings call where they discussed their profit growth and versus the echo, their competition and Facebook's earnings call didn't reveal great numbers.
+BEAR15|Profits of decreased revenues decreased by about 7% or decelerated by 7% and as a result what happens is that investors then sell their Facebook shares, not expecting to generate a quick return.
+BEAR16|What we saw was at Facebook shares decreased in value by about 20% and in terms of Facebook's market capitalization, so the entire value of shares held by the company dropped by about 120 billion U.S. dollars that there's a massive massive numbers in the negatives.
+NEUT17|So what exactly played a part in all of this?
+NEUT18|So, according to Facebook, it's two different things.
+NEUT19|The first on its agenda is what they call long lead times to generate revenue.
+NEUT20|Whether the sensually means is that Facebook creates a lot of newproducts, and when those products come out there, not necessarily able to monetize them, say it's essentially able to draw.
+NEUT21|Revenue from the second is that a variety of new privacy laws have come out, such as the GDP are in Europe, which is essentially made it more difficult for Facebook to track and advertise to consumers.
+BEAR22|More broadly, the social network, of course, has had a variety of problems with fake news and the light, so it hasn't exactly been a rosy year in the press either.
+NEUT23|Why is fake news still a thing that's bugging Facebook?
+NEUT24|I mean, obviously it started there to begin with, but your content in fake news.
+BEAR25|Why is it still such a big problem for them?
+NEUT26|That's a good question.
+NEUT27|A lot of what Facebook has tried to do, specially after the wake of the Donald Trump.
+NEUT28|Election campaign has tried to pivot towards more community and social focused news.
+NEUT29|For example, in Facebook's newsfeed, the algorithm dictates that you will always see a post over from your from your friends and family over the likes of an advert.
+NEUT30|Now, OK, what Facebook is increasingly trying to do to distance itself from this fake news problem is use Instagram.
+NEUT31|It's new platform is that it's acquired just recently as a vehicle to accrue revenue.
+NEUT32|And what we do know is that Instagram is pretty successful and popular.
+BULL33|It brings in about $8 billion revenue per year, so that's a good sign for the company.
+NEUT34|Alright, so where is Facebook heading?
+NEUT35|What's the direction here?
+NEUT36|And if you had some money, would you buy Facebook shares right now?
+NEUT37|Well, I'm not a financial advisor, so I'm gonna be very kind for that, yeah?
+NEUT38|This is me speculating.
+NEUT39|I think I would.
+BULL40|I think there there is potential of this.
+BULL41|This optimism for the company in the long run.
+NEUT42|Yeah, I think what will happen is that we will see Facebook increasingly focused on engaging users between their own posts are not showing as many adverts as it used to be, an increasingly what I think we'll see is Facebook deploye revenue tactics, new products on Instagram appealing to younger, more smartphones, heavy users?
+NEUT43|Yeah, maybe they just need to just dial it back to the old days of what Facebook was all about.
+NEUT44|Just just start from scratch.
+NEUT45|Mark, that's all we want, start.
+NEUT46|From scratch list pads please right thanks so much future there's no turning back.
+NEUT47|Yeah well anyway let us know which stories are caught your attention online.
+NEUT48|"And of course if you want the latest in technology, check out Expreso show.com."""

@@ -1,0 +1,33 @@
+NEUT0|"""Welcome to Yahoo Finance is special presentation of the Biden Presidency the 1st 100 days."
+NEUT1|I'm Shawna Smith and I'm Adam Shapiro.
+NEUT2|We have a lot to cover in the next hour from the latest on the pandemic to the situation at the border, but we want to start with infrastructure.
+NEUT3|President Biden unveiling his $2 trillion infrastructure plan just last week and it is the main focus of the administration right now.
+NEUT4|Yahoo Finance's Jessica Smith is in Washington DC with more forest chest.
+NEUT5|Yeah Adam since we last talked President Biden has been around the country selling the American rescue plan.
+NEUT6|That $2 trillion relief package.
+NEUT7|And now he's shifted focus to his long term economic recovery plan.
+NEUT8|It is focused on infrastructure.
+NEUT9|This is the first of two plans that the White House plans to unveil in the coming week.
+NEUT10|This more than $2 trillion package includes rebuilding the nation's roads, highways, bridges, the water systems, electric grid in much, much more in all of it.
+NEUT11|Has the theme of fighting climate change throughout?
+NEUT12|It has big investments into fighting climate change and to pay for it.
+NEUT13|President Biden wants to raise the corporate tax rate to 28% and take other measures to crack down on companies and take away methods they may use to try and reduce their tax bill.
+BEAR14|Republicans have slammed those tax hikes and said the package is just too much, but President Biden has defended his plan.
+NEUT15|Let's watch.
+NEUT16|So today.
+NEUT17|I'm proposing a plan for the nation that rewards work, not just rewards well.
+NEUT18|It builds a fair economy that gives everybody a chance to succeed.
+BULL19|It's going to create the strongest, most resilient, innovative economy in the world.
+NEUT20|It's not a plan that tinkers around the edges.
+NEUT21|It's a once in a generation investment.
+NEUT22|In America, unlike anything we've seen or done.
+NEUT23|Since we built the Interstate Highway System and the Space Race decades ago.
+NEUT24|Now the president has said that he wants this to be bipartisan.
+NEUT25|He says there is no reason it can't be.
+NEUT26|But Republicans have not gotten on board yet.
+BEAR27|They have really opposed the tax hikes that are in this plan, so it's looking more and more like Democrats may have to use reconciliation again to get this done.
+BEAR28|But there are some moderate Democrats who may have problems with the bill as well.
+BULL29|And we've heard from Senator Joe Manchin, he said today that he would support a 25% increase in the corporate tax rate.
+NEUT30|But 28% might be too hard.
+BEAR31|And all of this is leading to the debate that we've also seen really play out over the past few weeks, which is pressure from some Democrats for President Biden to back abolishing the filibuster, which would allow them to get more things done with just 51 votes.
+BEAR32|"So far he has resisted those pushes, but that would be something to watch as this continues to play out Adam in China."""

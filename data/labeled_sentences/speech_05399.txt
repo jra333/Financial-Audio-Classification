@@ -1,0 +1,36 @@
+BEAR0|"""Stock market futures are actually still trading hands and the Dow is off a little bit short of 100 points."
+NEUT1|Dow Jones Chris Dietrich joins us now with a look ahead to the week coming up.
+NEUT2|Chris good morning, good morning roll so.
+NEUT3|First of all, stock markets.
+NEUT4|They weren't going to close them yesterday.
+NEUT5|Remember that they were actually just going to shut down.
+NEUT6|I guess the New York Stock Exchange floor try for electronic trading, but overnight they said you know what?
+NEUT7|Forget about that.
+NEUT8|What happened?
+BEAR9|What happened is, as you point out, there was a bit of a reversal.
+NEUT10|Clearly the New York Stock Exchange decided based on the personnel safety of the personnel not to have floor traders in.
+NEUT11|They're going to have the electronic system take over.
+NEUT12|But what happened is there were exchanges together with investors in the SEC got together and talked about the details and ultimately what they did.
+NEUT13|Included is that this by shutting down the floor and also having this go to electronic trading only, it might stir confusion.
+BEAR14|That's going to lead to uneven trading.
+NEUT15|Basically what happens is exchanges talk to each other and by shutting down the floor of the Stock Exchange there was concern that they wouldn't talk to each other properly as they have to re code a lot of the software systems that actually handle the trading precisely so there wasn't there wasn't certainty that they could.
+NEUT16|They could pull this off without without having some unevenness, some choppiness, and so they decided to call the whole thing off.
+NEUT17|We don't know how long market is going to be closed just today so far.
+BEAR18|Just today, it's likely they're going to close tomorrow as we know the fury of the storm is likely going to hit tomorrow, so the concerns are going to be pressing.
+NEUT19|So at this point it looks very much like exchanges are going to be closed Tuesday as well, but we don't have confirmation.
+NEUT20|Again, just as a reminder for folks at home.
+BEAR21|This is the first one scheduled shutdown of the stock market since September 2001.
+NEUT22|That's right, so I mean, this isn't decisions that anyone ways lightly so.
+NEUT23|Absolutely over 10 years and seven.
+NEUT24|By the way, we do have some stuff going on this week.
+BEAR25|There's a jobs report Friday, key jobs report.
+NEUT26|As you know, right?
+NEUT27|Of course before the election.
+NEUT28|Obviously it's key for the economy and it's going to be one of the final things that people see before they cast their ballots.
+NEUT29|That's going to be the focus once once this hurricane subsides.
+NEUT30|We do have economic data coming out as well that still even though the federal government shutdown, we still had some price and income data for the month of September.
+BEAR31|Corporate earnings as we know we're still very much in the thicket of that, but we do have is, but that's delayed.
+NEUT32|That's the late companies.
+NEUT33|Companies are delaying some of those women and for the same reason is they don't want to analysts and investors who are clearly distracted by other things.
+BULL34|To Pfizer's one, Thomson Reuters and other energy, Chris, thank you very much for joining us this morning.
+BULL35|"Thanks, Ralph."""

@@ -1,0 +1,27 @@
+NEUT0|"""The intrinsic value of Keurig doctor pepper is range between $0.20 per share and $8.87 per share."
+NEUT1|How are those values calculated?
+NEUT2|Paying $0.20 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $0.20 in cash and cash equivalents, paying $8.87 per share represents the company's price per share based on its earnings, a price of $8.87 per share represents the fractional payment.
+NEUT4|We would all pay for the company's next 20 years of median historical earnings.
+NEUT5|The conservative way to value company this is different now than calculating Keurig Doctor Pepper's price to earnings ratio.
+NEUT6|So the next question becomes, well, I have two questions for this company.
+NEUT7|What do they do and what are they trading at?
+NEUT8|So let's answer the last question, so Keurig doctor Pepper is a conglomerate with headquarters in Burlington, MA.
+NEUT9|They sell coffee and they're responsible for the Green Mountain brand, which is interesting.
+NEUT10|Now what are they trading at?
+NEUT11|$27.73 per share.
+NEUT12|Most recently.
+NEUT13|With APE ratio of $30.25, which is really high, we you know a threshold for that is the upper threshold is.
+BEAR14|20 So $27.73 per share is much higher than our high end that we've calculated for intrinsic value, which means the only reasonable conclusion is that they're overpriced.
+NEUT15|So now the alternative one that offers safety of principle with an ample margin of safety, similar return with an even lower risk well.
+NEUT16|None other than our Vanguard 500 index fund.
+NEUT17|Now reason I like this index fund is because it will help make you money as opposed to just hoarding or keeping your money in a savings account in some greedy bank.
+NEUT18|So over the 10 years over the last 10 years, folks have made 12.98% which is huge.
+NEUT19|Look at this low variance low beta.
+NEUT20|There isn't that much volatility in this in this fund, it's just a tracking tracker fund for the for the top 500 performing companies, most of them in the United States.
+NEUT21|So put your money here.
+NEUT22|Until this price becomes more reasonable, specifically until the share price starts trading below a price of $8.87, folks.
+NEUT23|It's really that simple, guys.
+NEUT24|If you got any value from this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance so that way your investment performance is optimized.
+NEUT25|Remember when your investment performance is optimized so wish you well production value investors?
+NEUT26|"I'll see you in the next video."""

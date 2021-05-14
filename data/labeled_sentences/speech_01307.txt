@@ -1,0 +1,15 @@
+BULL0|"""The US Central bank last night hiked interest rates up to .75%."
+NEUT1|The actual hike itself is not a surprise.
+NEUT2|People had expected that for some time.
+NEUT3|What is new is that the Fed signaled it may raise interest rates at a faster pace next year, and beyond that that's had a big effect on markets.
+BEAR4|As you can expect, the Dow Jones index was down overnight when the markets opened in Asia, Japanese shares initially jumped nearly 1%, but later in the morning they retreated back down to.
+BEAR5|.2%, Meanwhile, the yen has slid what tends to happen is that because interest rates are going up, that pushes the dollar up against other global currencies.
+BULL6|An in particularly yen people think that's good for Japanese exporters and the Japanese stock market has risen on that.
+BEAR7|However, elsewhere in Asia, not such a pretty picture markets in Australia and career down already this morning.
+BEAR8|The worry in those places is that as the Fed raises interest rates, more money will go back to the US.
+NEUT9|Investors will pile money back into the US economy.
+BULL10|It's a continuation of what we've seen since Donald Trump was elected as president, his pro Growth policy's tax cuts, extra infrastructure spending have all lead investors to believe that growth in America will be faster.
+BULL11|Inflation will rise quicker, and the interest rates will rise quicker in the US, that's good for the US.
+BULL12|So far not so good for emerging markets.
+BULL13|It's going to be an interesting day here.
+BULL14|"It's going to be even more interesting year in 2017."""

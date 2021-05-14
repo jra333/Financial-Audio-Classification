@@ -1,0 +1,25 @@
+BULL0|"""Thank you for tuning into wisdom."
+NEUT1|Investor TV's Richard hit the daily stock market Port Four Tuesday, April 19th, 2016 finds that wisdom investor.com.
+NEUT2|Please recommend a friend OK earnings reports.
+NEUT3|The big news here right now so.
+NEUT4|Need to see the reaction to the news to the earnings IBM after the Bell.
+NEUT5|On Monday reported and said IBM beats.
+BEAR6|Expectations, but revenue keeps climbing down about 2% in after market.
+BEAR7|On Monday, Netflix plunges after we got instead about 10%.
+BULL8|Morgan Stanley earnings top expectations.
+BEAR9|They've got all these companies that lower expectations or beating those expectations, but revenues or lower they were flat on the day.
+BEAR10|PepsiCo Corley earnings sales fall 3%, so we're seeing a.
+BEAR11|Start of a possible trend here with lower expectations that are beating the lower expectations but revenues down.
+NEUT12|We'll see how the market reacts to the news.
+NEUT13|It's a lot of the guidance in the futures.
+BEAR14|If they're continuing to expect lower revenues in the future, then the stock prices were going to most likely move down.
+NEUT15|Spy here.
+BULL16|On Monday was up point 7%.
+NEUT17|We have more earnings news out today.
+NEUT18|We have Goldman Sachs and then after the Bell, Intel and Yahoo and of course many others.
+BULL19|So we've if the spy here has a level of support at 204.
+NEUT20|If we do get any selling, we break 204.
+BEAR21|That's going to turn to trend down, but right now we've been holding a support area, so that's the biggest thing right now.
+NEUT22|Be watching for support areas and how the reaction is to the.
+NEUT23|Earnings news OK, you can find that wisdom investor.com.
+NEUT24|"Please recommend a friend."""

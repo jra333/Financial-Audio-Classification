@@ -1,0 +1,42 @@
+NEUT0|"""I'm Chris Hill here with Tim Hanson."
+BEAR1|Stock of the day is Tesla Motors falling a little bit.
+BEAR2|Today we saw a pretty big fall yesterday in the wake of this Internet video that showed up car in Seattle.
+NEUT3|One of the Model X video, it was a pretty cool video, maybe not so much if you're a Tesla shareholder.
+NEUT4|But this Model S hit some large metallic object an caught on fire.
+NEUT5|What do you think?
+NEUT6|Well, you know this is an example.
+BEAR7|I mean, the stock was down.
+BEAR8|I guess it got downgraded yesterday.
+BEAR9|Got downgraded this YouTube video, hit Anna Thing was sort of selling off all day.
+BULL10|I guess it's selling off more today.
+BEAR11|This is an example of a stock that I think has become disconnected from the fundamentals of the business.
+NEUT12|Wanna downgrade?
+BEAR13|And a video of a car on fire can cause it to drop.
+NEUT14|You know 1015% now.
+NEUT15|Interesting things about Tesla.
+BEAR16|I saw an interesting chart the other day that showed that institutional shareholder of Tesla has declined to only about 60%, which means that retail shareholders now make up a lot of the investor base, and I think that's when you know it's got a very active Yahoo message board.
+NEUT17|You know, Cramer called in a cult stock the other day, and I think that you know when you get involved in something like that where the business and the stock become disconnected and there are a lot of forces pushing on it, you're going to get a lot of volatility backing away from Tesla for just a second.
+NEUT18|We've talked about this before.
+NEUT19|The whole notion of headline risk.
+BULL20|You look at a company like Boeing in the headlines for the dreamline battery fires, and that stock has done really well.
+NEUT21|Do you like headline risk?
+NEUT22|Yeah, generally speaking, headlines make a bigger deal out of something than the actual event is in terms of like the long term value creation story for a company.
+NEUT23|You know, in the case of Tesla, however, the stock at this point is so expensive.
+NEUT24|In my view that you're not being.
+BEAR25|I mean, the stock would have to fall dramatically to get to get me interested in it.
+NEUT26|I think you know the way I've looked at Teslas.
+NEUT27|I've made it basically turned it into Portia over the next five years and that only gives you a stock price of like $6070.00.
+NEUT28|So people are very optimistic about Tesla and if it weren't so expensive an event like this would probably be a buying opportunity.
+BEAR29|But I think the valuations gotten so out of control.
+NEUT30|At its best, to just sort of watch it from the side you mentioned the downgrade the downgrade yesterday from the analyst was from a buy to a whole.
+NEUT31|Do you think that's where the stock is right now?
+NEUT32|If you're a shareholder, you already own the stock, not this this.
+NEUT33|This Internet video is not reason to run out and sell it, but it's not time to buy.
+NEUT34|I think we all know that hold on Wall Street as a euphemism for sell because they don't have the gumption to actually come out and say sell on anything on the sell side so you know you know the fact that institutional shareholders have been dumping stock and there's some.
+NEUT35|A dilutive event coming on the horizon.
+NEUT36|It's very expensive.
+BULL37|I would say if you're a Tesla shareholder, you've had a great run.
+NEUT38|I'd probably look at, you know if you've got long term capital gains and not short term.
+NEUT39|I probably think about lightening up alright.
+NEUT40|That's our stock of the day for Thursday.
+NEUT41|"Will see you tomorrow."""

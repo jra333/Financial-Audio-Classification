@@ -1,0 +1,23 @@
+NEUT0|"""Cloud computing is the on demand delivery of it resources via the Internet."
+NEUT1|With pay as you go pricing.
+NEUT2|Instead of buying, owning and maintaining physical data centers and servers.
+NEUT3|You can access technology services such as computing power storage and databases on an as needed basis from a cloud provider like Amazon Web Services.
+NEUT4|Organizations of every type, size and industry are using the cloud for a wide variety of use cases, such as data backup, disaster recovery, email, virtual desktops, software development and testing big data analytics.
+NEUT5|And customer facing web applications.
+NEUT6|For example, healthcare companies are using the cloud to develop more personalized treatments for patients.
+NEUT7|Financial services companies are using the cloud to power real time fraud detection and prevention and video game makers are using the cloud to deliver online games to millions of players around the world.
+BULL8|With cloud computing, your business can become more agile, reduce costs instantly, scale and deployed globally in minutes.
+NEUT9|Cloud computing gives you instant access to a broad range of technologies, so you can innovate faster and build nearly anything you can imagine from infrastructure services such as compute, storage and databases.
+NEUT10|To Internet of Things, machine learning, data analytics and much more.
+NEUT11|You can deploy technology services in a matter of minutes and get from idea to implementation several orders of magnitude faster than before.
+NEUT12|This gives you the freedom to experiment and test new ideas to differentiate customer experiences and transform your business.
+NEUT13|Such as adding machine learning and intelligence to your applications in order to personalize experiences for your customers and improve their engagement.
+NEUT14|You don't need to make large upfront investments in hardware and overpay for capacity you don't use.
+NEUT15|Instead, you can trade capital expense for variable expense.
+NEUT16|And only pay for it as you consume it.
+NEUT17|With cloud computing, you access resources from the cloud in real time as they're needed.
+BEAR18|You can scale these resources up and down to grow or shrink capacity instantly as your business needs change.
+BULL19|Cloud computing also makes it easy to expand to new regions and deploy globally in minutes.
+NEUT20|For example, Amazon Web Services has infrastructure all over the world, so you're able to deploy your application in multiple physical locations in just a few clicks.
+BULL21|Putting applications in closer proximity to end users reduces latency and improves their experience.
+NEUT22|"No matter your location, size or industry, the cloud frees you for managing infrastructure and data centers so you can focus on what matters most to your business."""

@@ -1,0 +1,12 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xm.com."
+BEAR1|Today will be looking at Euro USD on the daily chart so zooming in or we can see that the euro found some difficulty in pushing below the 1.09 ninety support, returning the price back above the one point 10:05 level which is a 23.6% fever Nachi retracement of the down leg from one point 1411 to 1.08 seventy 8 the picture seems negative.
+BEAR2|Overall, given the downward slopes in the 200 day simple moving average.
+BEAR3|As well as the 100 day one and the 20 day Mid Bollinger band that said negative directional momentum seems to have stalled, something reflected by the flat 40 day SMAD and the short term oscillators.
+BULL4|If sellers pick up immediate support to surpass is the 23.6% fibo of one point 10:05 followed by the area of 1.09 ninety to 1.09 eighty related to the swing lows from October 15 and November 14 and where the Lower Bollinger Band lies as well.
+BEAR5|Diving lower another support area from 1.09 forty to one point zero 925 could halt further declines towards the multi year low of 1.08 seventy 8 and 2017 may low of 1.08 forty.
+BEAR6|To the upside, initial resistance comes from the bearish cross residing around the one point 1040 area ahead of the 100 day.
+BULL7|SMAP at one point, 1068 and neighboring 38.2% febbo of one Point, 1082 climbing higher than nearby Upper Bollinger Band, coinciding with the swing high of one Point 1096 could interrupt the test of a more challenging region from one point 1145 to one point 1175.
+BULL8|With a 50% fibo, the 200 day SMAD an peak of one point 1175 exist.
+BEAR9|Overall, the short term is looking increasingly bearish and a break below 1.09 ninety would strengthen the negative outlook yet to break above one point 1175 could throw into question the medium term negative bias.
+NEUT10|That's it for me.
+BULL11|"Have a great trading day."""

@@ -1,0 +1,51 @@
+NEUT0|"""An alternative to Tasers."
+NEUT1|This is the Bola.
+NEUT2|Wrap are going to show it to you.
+NEUT3|It discharges an 8 foot cord to entangle somebody from 10 to 25 feet away.
+NEUT4|So far 52 police departments in the United States have received training with this device.
+NEUT5|700 others have requested demonstrations and the LAPD is going to start testing it in January, joining us to discuss it is Tom Smith.
+NEUT6|He is the president of Wrap Technologies which is behind this non lethal weapon.
+NEUT7|I gotta ask you something 'cause we're going to get into.
+NEUT8|You had experience bringing Taser to market the Taser gun.
+NEUT9|Those issues, but this device.
+NEUT10|It used in Fresno.
+NEUT11|I'm going to use the word failed.
+NEUT12|It didn't do what it was supposed to do.
+NEUT13|So where do you go with this device?
+NEUT14|Yeah, so Fresno was a highly active situation right?
+NEUT15|So they used beanbag rounds initially.
+NEUT16|Then they deployed the rap.
+NEUT17|The rap did actually work in Fresno, it just worked around his midsection.
+NEUT18|So where the officer was trying to hit the arms or legs, he didn't exactly get the right spot, but it got this subject to immediately stopped.
+NEUT19|He said don't shoot me, don't shoot me.
+NEUT20|Then they were able to get close enough and use another tool.
+NEUT21|So again in that use of multiple tools that did it did stop the individual they were able to get him into custody successfully, so we're working on our training and working with the officers.
+BEAR22|'cause obviously these are tense situations.
+NEUT23|The adrenaline.
+NEUT24|Pumping to get them to deploy it in the right fashion on the arms or legs.
+NEUT25|Worked perfectly around the individual, so we're just working on training.
+NEUT26|So Tom.
+NEUT27|Eat for them to deploy and hit their aiming at.
+NEUT28|So let me ask you about you.
+NEUT29|Know the training that you are talking about.
+NEUT30|What aspects of Deescalation are kind of involved and sort of this?
+NEUT31|You can imagine that someone might immediately go to some easy solution like this, which is probably easier than talking to someone.
+NEUT32|Is that something that you guys are advising police departments in as well and trying to figure out like an order of operations?
+NEUT33|And exactly how all of these technologies including the Taser should be used before resorting to something potentially fatal?
+NEUT34|Absolutely.
+NEUT35|It's all about that communication.
+NEUT36|Trying to talk somebody that's in a crisis we don't want to have to hurt him, so what's the lowest level of force that we can use to end that situation?
+NEUT37|So we do talk to them very much about, you know employment skills of of trying to keep that person contained, keeping them in uninjured, keeping them from leaving the scene that they're going to get them, help everything about it is deescalation, so even in the design of our product, it doesn't look like a firearm.
+NEUT38|It looks more like a TV remote so it's non threatening.
+NEUT39|It's a different color.
+NEUT40|The deployment again, it's like throwing handcuffs on somebody from a distance, so it's the only tool available to police that that does not use pain to end that situation, but everything you know just the device coming out or or police presence that they can end that without having to use any tools.
+NEUT41|That's the best scenario, and there's a lot of emphasis right now in law enforcement for that happening to make sure that we can, they can do their jobs and do it safely, not only for themselves, but for the suspects.
+NEUT42|So everything about the design, the training that communication is to try and deescalate, or an that situation.
+NEUT43|Without having to use any force, and then if they do have to use something like the Bola, we're not putting electricity or chemicals or any pain into the body.
+NEUT44|We're just trying to wrap him with with a Kevlar cord, and in that situation before it escalates to require a higher level of force like the Taser or Baton chemical spray.
+NEUT45|Ultimately a firearm, yeah, and working with police that's the design is how do we end these safely?
+BULL46|Well, I think a lot of people are hoping that this is a solution, especially with so many police departments looking at this, and we hope the tests in Los Angeles go well because non lethal.
+NEUT47|Way to stop somebody from harming another is important.
+NEUT48|Tom Smith from rap technologies.
+BULL49|Here the president, we appreciate your telling us about Bola.
+BULL50|"Absolutely thanks for having me on this morning."""

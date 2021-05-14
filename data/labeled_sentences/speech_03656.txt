@@ -1,0 +1,26 @@
+BULL0|"""Welcome to the Adani ports and Special economic zone."
+NEUT1|Limited stock analysis video.
+NEUT2|In this video we would look at fundamentals of Adani ports and Special Economic Zone Limited and important financial rate issue.
+NEUT3|Adani power.
+NEUT4|Send special economic zone.
+BULL5|Limited current price is 348.00 exchange 2.13% higher than previous.
+BEAR6|Close its 52 week highs 359.2 and 52 week low is 169.7 companies earning per share is 19 and its price to equity ratio is 18.
+NEUT7|Stockists book to price ratio is 4.1 add-on need parts and special economic zone limited return on equity is that 23.8%.
+BEAR8|Company had 2231.5 revenue in Q416 as compared to 2208.74 in Q316.
+BULL9|Revenue has grown consistently in last few quarters, which is positive for company.
+BULL10|Revenue has grown quarter on quarter with 1% in current quarter and one point 2% in previous quarters.
+BEAR11|Rough, it has been fluctuating in last few quarters which is a bit concerning.
+BEAR12|Current quarter profit is 1164.1 as compared to 847 point 6,00,00,000 in previous quarter.
+BEAR13|Profit growth rate has been fluctuating in last few quarters.
+BULL14|It has grown 38.98% in last quarter compared to minus 23.21% in previous quarter.
+BEAR15|Profit margin is the ratio of net profits revenues profit margin in Q416 is 52.17 as compared to 37.92 in 2/3/16.
+BEAR16|Operating profit for the company in Q416 is 1647.56 floor as compared to 1343.62 roller in Q 316.
+BEAR17|Abbott in Q416 is 1173.18 or as compared to 968.9 roller into 316.
+BEAR18|Operating profit margin for the company in Q416 is 73.39% as compared to 60.83% in Q316.
+BEAR19|Edit margin in Q416 is 52.57% as compared to 43.87% in Q316.
+BEAR20|Company has 228734 dead.
+BULL21|It has increased liability of 1294.74 companies.
+NEUT22|Inquisitor coverage ration is 4.23.
+NEUT23|Finally, here is a summary of few positives and negatives based on these analysis points we have calculated the rating for Adani ports and Special Economic Zone Limited.
+NEUT24|Heroes rating on the scale of 10 for Adani ports and Special Economic Zone Limited.
+BULL25|"Thanks for watching this video."""

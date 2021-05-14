@@ -1,0 +1,15 @@
+NEUT0|"""Facebook is the world's largest social media network with a user base of 1.65 billion users."
+NEUT1|What makes this asset unique is that the value of a social network is exactly the level of user engagement from other users.
+BULL2|So the fact that you are the largest means that in all likelihood you will continue to grow and gain market share from others.
+BULL3|And in this respect Facebook continues to add 45 to 50 million.
+BULL4|Active users on a quarterly basis, which is roughly 15% growth on an annualized basis.
+NEUT5|In terms of revenue drivers, the lion share of revenues earned by advertising and specifically advertising that appears on a display basis in one's news Feed and Facebook.
+NEUT6|In this regard, the business made revenue of about $18 billion in fiscal 2015 and importantly, has about an 80% market share of the overall social media advertising industry in the developed world, excluding China.
+BULL7|Now, if we place this in context, that equates to about 16% market share of online advertising, whereas something like Search would command North of 45% and we believe that this market share has a long way to run in terms of increasing, and we would expect it could get as high as 33%.
+BULL8|If this is the case, Facebook has the opportunity to grow ads online advertising revenues from from a display perspective by as much as 25 to 30% per annum.
+NEUT9|Because Facebook has scale and it does not purchase its own content.
+NEUT10|It's really other people's content which forms the basis of the site.
+BULL11|It's a very high margin business in fiscal 2015 and operating margins on a non GAAP basis of about 55%.
+BULL12|And we expect that as revenue grows strongly, that probably has even more upside to it.
+NEUT13|From a valuation perspective, we've assessed Facebook on a DCF basis, which is a discounted cash flow valuation model and we estimate value very close to 100.
+BULL14|"$50 per share, which is about 25% upside from here."""

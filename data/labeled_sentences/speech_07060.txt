@@ -1,0 +1,12 @@
+BULL0|"""Thermo Fisher, the American company operating in the development of biotech products, closed the strongest year of performance in his company's history, according to the company's CEO Mark Kasper, with fourth quarter revenue that topped Wall Street's expectations."
+BULL1|Net income GAPPS came in at 6 point, $24.00 per share, up from 2.49 dollars in the previous quarter on an adjusted basis, earnings jumped 100% to 7.09 dollars per share, handily exceeding estimates of six point $56 per share.
+BULL2|The Corona virus outbreak helped to consolidate the company's position in the biotechnology sector, fueled by strong demand for coronavirus tests, including the amplitude solution, molecular diagnosis test system.
+BULL3|The Specialty Diagnostic segment's revenue surged 109% to $1.97 billion in the quarter, while laboratories products and services top line increased 28%.
+BULL4|The company expects revenue of $35.1 billion in 2021, implying a 9% growth from last year.
+BULL5|Well adjusted earnings per share should continue their upward trajectory to 21 point, $62.00 per share.
+BULL6|Following the earnings release, shares climbed 0.9% to end Monday's session at 514.98 dollars.
+BULL7|Thermo Fisher Scientific stock has risen by 62% over the past 12 months.
+BEAR8|Morningstar rates its fair value estimate for the company at $384 and considers the stock overvalued.
+NEUT9|Consider buying at 268.80 and selling at 518 point $40.
+NEUT10|FactSet Records a 12 month target price between 475 and $600 out of 22.
+BULL11|"Analysts interviewed by Fax set 15 rated the stock a buy two overweight for hold and one underweight."""

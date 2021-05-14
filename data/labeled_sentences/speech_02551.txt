@@ -1,0 +1,10 @@
+NEUT0|"""May 16 is in the books and here's what Wall Street did."
+BEAR1|In truth it was another dull day for U.S. markets with the S&P 500 giving up some modest early gains.
+BEAR2|Desag Zero point, 1% lower in the day.
+BULL3|Technology and telecom stocks notched up.
+BULL4|The biggest gains of the day, but most other sectors ended Tuesday in the red.
+BEAR5|While the SP 500 managed to close above the 2400 point mark again, the subdued market was a capsulated by the VIX index, which serves as a proxy for expected volatility in fear on Wall Street.
+BULL6|Vixen urged a little higher.
+BEAR7|On Wednesday were remains rooted near A1 decade, low of 10%.
+BEAR8|Dollars Dive was one of the few sources of excitement with the DX wide Greenback index falling for a fourth day running to its lowest since mid November.
+BEAR9|"The latest Bank of America Investor Survey revealed that many money managers still reckon that the dollar is overvalued, even though the tech heavy NASDAQ is now considered the most crowded trade."""

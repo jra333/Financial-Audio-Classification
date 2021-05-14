@@ -1,0 +1,25 @@
+NEUT0|"""Advisorshares specializes in a new kind of ETF, an actively managed ETF."
+NEUT1|How many do you have?
+NEUT2|And we have six in the marketplace in almost 300,000,000 of assets under management.
+NEUT3|It's very much like a mutual fund, but with the benefits of exchange traded funds, so you get transparency, which you normally don't get with active money managers, but you also get liquid iti so you can place your order anytime throughout the market day.
+NEUT4|You can use limit orders you have more control over your investments than you do in a traditional mutual fund product.
+NEUT5|The one that we're celebrating today on the New York Stock Exchange is a trend following model.
+NEUT6|It's a risk managed portfolio.
+NEUT7|We have a high yield.
+NEUT8|We have an all shortly and international growth manager so.
+NEUT9|Every one of our managers have a unique attribute to them.
+NEUT10|Either they are sort of an alternative manager or you're getting access to a manager you might not normally have access to the way individual investors trade them as you traded on the market, so you've got instant liquid iti one way or another.
+NEUT11|There always are going to be trading.
+NEUT12|In fact, a lot of people look at some of these ETF's that don't trade, is actively and think there might not be liquidity, but the liquidity for an ETF is driven by its underlying Holdings, so you can always see what's in the portfolio and if those Holdings are liquid, your ETF is going to have liquidity.
+NEUT13|These ETF's typically hold other ETF's.
+NEUT14|Is that right?
+NEUT15|Some of them do and we have several that do the one global tactical asset allocation strategy, the GTA ETF is ETF of ETF's, so it's a value sale at the end of the day.
+NEUT16|You do actually have to believe your portfolio manager can outperform over time and a lot of it depends on what you're comparing it to.
+NEUT17|Our best example probably most recently is RH Yld High Yield ETF.
+BULL18|Outperforming those index benchmarks, net of expenses, and so that's a great deal.
+NEUT19|But that's not always going to be persistent.
+BEAR20|Sometimes active managers are going to underperform a bench.
+NEUT21|Mark, but overtime the most of the people that we talked to want someone in control of that investment process.
+BEAR22|The active ETF space is still small right now, it's about 33 productsin around almost 5 billion in assets under management.
+NEUT23|So what we've seen most of the investors are financial advisors.
+NEUT24|"Guys that do traditionally use actively managed mutual funds who want those benefits of ETF's are starting to incorporate them in their portfolio for clients."""

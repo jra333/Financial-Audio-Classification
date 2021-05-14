@@ -1,0 +1,30 @@
+NEUT0|"""Democrats versus Republicans who's better for the market well?"
+BULL1|In nominal terms, I think that the Democrats are are somewhat better.
+NEUT2|You know, there's no question the stock market in nominal terms and SNP turns.
+BULL3|The stock market is up significantly over the past four years there have been.
+NEUT4|Academic studies that have.
+NEUT5|Describe the difference as as much as 11% returns versus 2% returns, but it's actually quite tricky question.
+NEUT6|I deal with it a little bit in the book, there are many you know.
+NEUT7|Do you mean a Republican president?
+NEUT8|You mean a Democratic Congress?
+NEUT9|President Reagan.
+NEUT10|In 1980 he was running for office.
+BULL11|The stock market was up 32%.
+BULL12|Do you think it was up 32% because the market was was?
+NEUT13|Because they were happy that Jimmy Carter was in office.
+NEUT14|I think the market was up because it knew before we did that Jimmy Carter was going to leave.
+NEUT15|The recent data using gold as a deflator.
+NEUT16|Suggest that Republicans Republican Congress is good for real wealth, although the if you're talking about the Presidency, Clinton, you know, Clinton dominated the presidency during a lot of the time that those numbers were good as well.
+NEUT17|So it's giving you a little bit of a mish mosh answer, but I think the Republicans are a little bit better on real wealth accumulation.
+NEUT18|So how do we mitigate the baleful effects of Congress?
+NEUT19|Well, what should Congress do aside from not me or what should?
+NEUT20|What should Congress do so well?
+NEUT21|First of all, I think I think that you know, 59% of Americans would would replace every single Member of Congress.
+NEUT22|Right now, those are the polls that are out there.
+NEUT23|I think in the case of Congress, we gotta go out and get better.
+BULL24|Congressman, we ought to be increasing the amount of money that Congress makes it.
+NEUT25|I know it's counter counter intuitive, but I'd like to pay Congressman several $1,000,000 a year.
+NEUT26|They're making very important decisions.
+NEUT27|I want them to get wealthy from their day job.
+NEUT28|I don't want them to get wealthy from arranging real estate transactions or finding another issue.
+BULL29|"I want them focused on just the good of the country, and if I could get term limits as part of that bargain, even better."""

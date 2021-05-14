@@ -1,0 +1,34 @@
+NEUT0|"""What's up guys?"
+NEUT1|Welcome to Wrench capital.
+NEUT2|Today we're gonna be taking a look at Neo ticker symbol, an IO on the Daily, Weekly and monthly charts.
+NEUT3|Now before we happen, I do want to let you guys know I upload the stock analysis videos every trading day, right after market close.
+NEUT4|And typically we are looking at the Daily, Weekly and monthly charts on each particular stock that deserves coverage that day.
+NEUT5|So be sure to subscribe and you don't want to miss the stock that you're looking after when we do the analysis and try to give everyone the best opportunity to make some money as possible.
+NEUT6|So looking here on the daily chart, this crazy daily chart is one that I use for day trading, typically again in the after hours here.
+BULL7|With the crazy move that most stocks did have from the news coming out of the White House again, I expect to see a bounce back from that move.
+NEUT8|Typically it's just an overreaction, so I want to zoom out a little bit, but first we'll just take a look here, kind of consolidating, obviously before the move I almost just want to take that out of there again, 'cause I think we're going to bounce back tomorrow from that.
+NEUT9|Typically it's just an overreaction.
+BULL10|So again, the RSI staying within the channel prior to that move looking good at least consolidation wise.
+BULL11|And the Mac D again looking pretty good.
+NEUT12|Let's move on to the moving averages on here.
+NEUT13|This white line is the 50 day Gray line is the 200 day.
+BULL14|Again, decent consolidation here.
+BULL15|Before that massive move the VWAP which is my personal favorite day trading tool, offered a few good opportunities for a scalp today.
+NEUT16|Expect that to continue tomorrow so if you do want to use the view up to try to grab a scalp opportunity I would be looking for the bounce down here off of that a support line.
+NEUT17|As a long entry point tomorrow for tomorrow's trading day of January 7th.
+NEUT18|Zooming out here, we're going to look at the five day 30 minute chart.
+NEUT19|This is looking incredibly bullish to me.
+NEUT20|I want to draw a couple of price levels for you.
+NEUT21|Again, we're going to take this out of here and just look at these higher lows here.
+NEUT22|So we got one here.
+NEUT23|One here.
+NEUT24|Again, Stair stepping up.
+NEUT25|That's what we like to see.
+NEUT26|Higher lows, and I mean relatively higher highs you have this one and this one was barely a little bit higher.
+NEUT27|But again, Stair stepping up, that's what we like to see from a bull standpoint.
+NEUT28|Moving on to this 30 day 4 hour chart.
+BULL29|Here again, OK consolidation.
+NEUT30|But if we want to take an entry point from maybe this point.
+NEUT31|Again, we're looking at those stairstep so lower lows, lower lows.
+BEAR32|Well, I'm sorry, higher lows in each point on those stair steps going up, and that's what we like to see.
+BULL33|"And we'll see if Neo can bounce back from that big late late day move today, tomorrow will see if they can hold the line."""

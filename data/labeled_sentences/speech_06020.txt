@@ -1,0 +1,9 @@
+NEUT0|"""Hello, welcome to Capital Academy, the professional online Academy with exclusive and professional courses to master the trading on the global financial markets, silver prices technical analysis forecast for today, April 23, 2014."
+BEAR1|The silver continues to slide against the US dollar due to the decrease of the demand for the precious metals as safe haven assets amid the absence of US and European economic data where global markets resumed its activity yesterday after the Easter holiday.
+BEAR2|On the other hand, the significant rebound of the US stocks has hurt the demand for the gold and silver.
+BULL3|The main important usdata to watch today, new home sales in US as we can see on the one hour chart, the silver prices are trading within an ascending correction flag and a breakthrough.
+BEAR4|The 1941 level to the downside will open the door for further decline of the prices toward the main target stated in our daily newsletters.
+NEUT5|To follow the rest of the technical analysis.
+NEUT6|And to know the next target of the gold, oil, silver and other currencies, please open a live account with our recommended broker nbcfx.com and start receiving buy and sell signals with entry and take profit prices.
+NEUT7|For more info please contact us at info@capital-academy.com.
+BULL8|"Thank you and have a nice day."""

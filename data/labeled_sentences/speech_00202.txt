@@ -1,0 +1,42 @@
+NEUT0|"""Petco CEO Ron Koglin joins us now, first on CNBC."
+NEUT1|A first run graduations and then second a lot of people say, wait?
+NEUT2|Aren't pets, isn't Petco just a big beneficiary of what happened during the pandemic and now they're done, or is there a reason to own the stock of Petco now that the pandemic hopefully is winding down?
+BULL3|Thanks Jim, and it's great to be here.
+NEUT4|I consider us a bit of a Unicorn between the two.
+BULL5|Yeah, we were a Co beneficiary, but we're also seeing lift coming out of covid.
+BULL6|And the reason for that is one of the presence of covid is 3,000,000 plus incremental new pets in 2020 and we're seeing elevated pet adoptions which is fantastic.
+NEUT7|Breeder demand as well as live animal sales into 21.
+NEUT8|So what happens is all of those new pets are now an annuity for our category.
+NEUT9|End our business.
+NEUT10|The second thing is just a relationship that people have with their pets.
+BULL11|I would say that pets were a major component of the emotional well being of the country, as as people brought in new pets and that bond is, it's creating more spend per pet, which historically is grown by 4% a year.
+NEUT12|Well, you don't run a lot of people are crazy about chewy and look, I love to eat dinner client.
+NEUT13|They do not have a brick and mortar approach obviously.
+NEUT14|Tell me about the advantage of brick and mortar once you've.
+NEUT15|Bought a pet.
+NEUT16|Yeah, yeah there was a lot of thought that maybe brick and mortar was an albatross for our business and what's happening is it's the exact opposite and covid really brought this to light and powerful way.
+NEUT17|We tripled the number of ship from store locations as soon as Covid hit, we launched curbside pickup when Covid hit we launched same day delivery in December.
+NEUT18|So right now 80% of our e-commerce orders are shipped or delivered via our pet care centers.
+NEUT19|Formerly known as stores.
+NEUT20|What that means is they're getting to a customer faster and they're getting there at lower costs than our online competitors were shipping from distribution centers, and a great example of this is a £40 bag of dog food, right?
+NEUT21|Our online competitors are shipping it from a distribution center through a FedEx or UPS.
+NEUT22|It's going across multiple zones where we're taking it in the back of a door dasher's car for the same price as if it was a tennis ball.
+NEUT23|Delivering it the same day and delivering it at lower cost.
+BULL24|So we believe we have a structural advantage in this space.
+BEAR25|But also I think that we've been seeing from the home home building companies they've been saying, look, there's a tremendous wave right now of people who have left departments and going to single family homes.
+NEUT26|That is the strongest part of the whole U.S. economy.
+NEUT27|I imagine there are people, Millennials who can't couldn't have pets in apartments who are now buying homes, and there could be a second wave of pet buying to the point where even there's a feel good story here.
+NEUT28|You know where I'm going?
+NEUT29|That may be the euthanasia euthanasia that we have the kill centers.
+NEUT30|We have.
+NEUT31|Those pets will be adopted and that will be even more business for Petco.
+NEUT32|I 100% agree with your first contention.
+BULL33|More homes and actually migration to rural areas provides for more pets and actually that would provide for bigger pets, which is good for our business.
+NEUT34|But more importantly, you know we're at Petco.
+NEUT35|We're on an absolute mission to eliminate euthanasia.
+NEUT36|We help 400,000 pets a year, avoid euthanasia, but the sad truth is there still a million that do get euthanized and we are gonna get euthanasia eliminated.
+NEUT37|But not quite there yet.
+NEUT38|But more adoptions means less euthanasia.
+NEUT39|So I agree with you.
+NEUT40|Shepard Smith here.
+NEUT41|"Thanks for watching CNBC on YouTube."""

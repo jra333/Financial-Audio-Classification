@@ -1,0 +1,1 @@
+NEUT0|"""If Nifty goes above 14890, then if nifty goes below 14680, then if nifty goes near 14760, then if bank Nifty goes above 33980 then if bank Nifty goes below 33400 then."""

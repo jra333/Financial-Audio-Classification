@@ -1,0 +1,39 @@
+NEUT0|"""What's good everybody."
+NEUT1|Welcome back to another AMC video.
+NEUT2|So today we actually have a few things to cover.
+NEUT3|But before we get started, make sure you press that like and subscribe button to help support the channel and make sure you click the link below.
+NEUT4|If you try to sign up and get some free stocks.
+NEUT5|Now, taking a look at the charge today, we mainly just consolidated around the 1450 in the $14.00 area.
+BULL6|Besides right now and we recently just broke off that support and now even though it seems like we might be going down if we take a look compared to yesterday were still up 1% compared to yesterday's close.
+BULL7|And even if we take a look at the daily chart, we can see that little by little we are increasing in price even though we have our red days, which are like natural, it is going to happen.
+BULL8|So taking a look, we have been climbing higher and higher pretty much throughout the past week.
+NEUT9|I think last week we were around $10.
+BULL10|If you take a look right here on the 12 last Friday we were there around like to $10 area and now we're at $14.00, which was a really good run, especially for one week.
+NEUT11|That's like insane gains.
+NEUT12|Now these are the types of days where you want to be adding more to your position.
+BEAR13|If you already have a position in AMC, for example today, like as it was dipping, you could have been averaging up or down.
+NEUT14|And the reason I say you want to be buying on days like these is because if we take a look at this screenshot right here yesterday Fidelity Bot over half a million shares of AMC out of average cost of 1326 per share.
+NEUT15|Now any company doesn't just go out and buy half a million shares expecting to fail, so that shows that they have high conviction towards AMC.
+NEUT16|And if we take a look so they did buy around yesterday's like closing time and I think it should have it probably was executed around closing because if we take a look right here we saw this huge volume spike that's bigger than today's volume and yesterday's volume probably combined.
+NEUT17|Another reason I think they were they went out and bought even more shares the besides shares that they already had is because we took a look AMC.
+NEUT18|So they actually did open their theaters and LA already.
+NEUT19|Few like few days ago and now there's this new article saying that by the March 26 all of AMC theatres are going to be open and on top of that almost 950,000 shares were acquired yesterday by Aaron Adam, who's the CEO of AMC right now.
+NEUT20|So we combined the over 500,000 shares acquired by Fidelity an almost a million shares acquired by the CEO.
+NEUT21|If you combine those two, that's around 1.5 million shares in total.
+NEUT22|So that's one of the top news categories I believe we've had for AMC within the past week or two.
+NEUT23|The last thing I wanted to talk about was something that I saw that caught my attention.
+BULL24|So if we take a look, this is supposedly the reason why we haven't been seeing an increase in price like we expected.
+NEUT25|And it's because Robin Hood is engaging in CFD trading and with safety trading as it says right here, it prevents its users from affecting the market price since users don't actually own the shares they buy.
+NEUT26|Now let me know what you guys think about this, because I personally think that's one of the most sketchy as an illegal things that they could be doing.
+NEUT27|So it says Robin Hood sells your order to citado with enema.
+NEUT28|Lippia Leitze manipulates the market price by purchasing shares on dark Pool exchanges, which does not affect the market price.
+NEUT29|And then they sell your shares on the market which drives the price down.
+NEUT30|So basically, when you're buying shares, you technically don't own them because they're not purchasing them from the direct market, their purchase them from Darko Exchanges, which is illegal.
+NEUT31|But then, when you're selling your shares, then they sell it on the active market.
+BEAR32|So is tricking the market into thinking that all that's happening is just pure selling pressure which is driving the price down.
+NEUT33|And as we can see, that's been happening.
+BULL34|I mean, it happened today a little bit where we broke below 14, but as you can see we are making a comeback.
+BULL35|We're coming back around the $14.00 area, so we're able to close.
+BULL36|'cause we do have 4 minutes left if we're able to close above 14 SMB.
+BULL37|Good sign for us, which is which is showing we're still on the uptrend.
+NEUT38|"Now that's it for today's video, but let me know you guys's opinion on this and let me know what your price predictions are for this stock and with that being said, I'll see you guys in the next video."""

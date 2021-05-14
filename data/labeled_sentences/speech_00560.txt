@@ -1,0 +1,23 @@
+NEUT0|"""A price prediction."
+NEUT1|We're discovering multi frequency trading patterns.
+NEUT2|Investment on stocks has become one of the principle method for financial management.
+NEUT3|Investors.
+NEUT4|Attempts to discover Latin trading patterns in stock market so they can infer the future trend to make money.
+NEUT5|However, as stock prices reflect long term and short term commercial activities, it is still challenging to make a reliable prediction.
+NEUT6|Besides predictions in different time range rely on different trading patterns in the stock market.
+NEUT7|For example, investors like mutual funds and 401K managers tends to look for long term returns.
+NEUT8|Their trading frequency is relatively low.
+NEUT9|On the contrary, in the high frequency trading, transactions are processed much more frequently in a short time.
+NEUT10|Discovering multi frequency trading patterns should be critical.
+NEUT11|However, to our best knowledge, there are no existing methods that decompose trading patterns into various frequency components.
+NEUT12|In signal processing, the frequency domain is analyzed based.
+NEUT13|This great Fourier transform to capture the long term dependency.
+BULL14|The long short term memory emerges as a candidate.
+NEUT15|Here we propose our integration of the two methods, the state frequency memory to capture the multi frequency trading patterns.
+NEUT16|Here we show the comparison between are in LTM, an SFM SFM is a variant of recurrent in your network.
+NEUT17|It returns the gating structure in our stem to capture the long term dependency.
+NEUT18|Besides the memory states or decomposed to multiple frequency components in RDF fashion so as to capture the multi frequency trading patterns.
+NEUT19|How are you experiments on the real market data being demonstrated?
+NEUT20|The more competitive performance by the SFM?
+NEUT21|Wants to know more details, please feel free to contact us.
+BULL22|"Thank you for watching our video."""

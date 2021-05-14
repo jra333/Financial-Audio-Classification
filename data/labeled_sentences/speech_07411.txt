@@ -1,0 +1,18 @@
+BEAR0|"""Death of another Amazon warehouse worker adding to mounting pressure on the company to protect its workers from this virus are Deirdre Bosa."
+NEUT1|Following that story joins us now D What can you tell us?
+BEAR2|Well Scott, this is the 4th known case of an Amazon worker that has died of the virus.
+BEAR3|Amazon has declined to provide total nationwide numbers, but as you said, this adds to mounting pressure and growing.
+BEAR4|Labor unrest at the company as demand surges amid the pandemic as more consumers turn to E Commerce and grocery delivery.
+BEAR5|Now, warehouse workers are raising concerns that Amazon isn't doing enough to protect them, and they're not putting enough safety precautions in place.
+NEUT6|This has resulted.
+BEAR7|And a number of strikes and walkouts, which Amazon has said has not affected any operations.
+BEAR8|But this week there are signs that that unrest is reaching Amazon's White collar employees.
+BEAR9|A senior engineer and vice President, Tim Bray resigned over the firing of workers that organized or participated in some of these movements that, in turn prompted another VP today to defend Amazon in a LinkedIn post.
+NEUT10|Now lawmakers, they are taking note senators.
+BEAR11|Bernie Sanders and Cory Booker, among others, have written a letter to Amazon CEO Jeff Bezos expressing their concern about the health and safety of warehouse workers.
+NEUT12|It was also New York City mayor, Mayor de Blasio.
+BEAR13|Bill de Blasio has often has ordered excuse me an investigation into the firing of a worker who was fired and participated in one of these walkouts, but Scott, even as unrest, builds it, has done nothing to knock Amazon's share price off the perch that it's been sitting at in recent weeks.
+BEAR14|Even hitting new record highs, not even Jeff Bezos being called to testify before Congress on a different investigation relating to antitrust can stop the rally that we've seen in shares this year.
+BEAR15|Yeah, troubling story nonetheless.
+BULL16|Georgia Boussa thank you for that.
+BULL17|"We appreciate your reporting."""

@@ -1,0 +1,33 @@
+NEUT0|"""Since the Occupy Wall Street movement of 2011 gained national interest, Wall Street has taken center stage on the political radar."
+BEAR1|In particular, candidates Bernie Sanders and Hillary Clinton have rallied against Wall Street's disproportionate influence in the US and on the global economy.
+NEUT2|So just how powerful is Wall Street?
+NEUT3|Well, in common use, Wall Street refers to the American banking industry.
+NEUT4|The term is used because Wall Street in New York City is location of significant financial markets, including the NASDAQ and the New York Stock Exchange.
+NEUT5|These two markets are the largest exchanges in the world and facilitate the trade of more than $27 trillion of company stock changes in the global economy are directly reflected in the performance of the stock markets and vice versa.
+NEUT6|But stock market capitalization isn't necessarily a measurement of power as that money is actually held by investors and not specifically by Wall Street.
+NEUT7|By comparison, U.S. financial institutions hold roughly $15 trillion in assets, half of which is controlled by just five.
+NEUT8|Banks, that's almost the United States entire yearly GDP, the largest in the world.
+NEUT9|So what does Wall Street do with that money?
+NEUT10|Well, a significant portion of it goes towards swaying political policy.
+NEUT11|A 2009 study by the Center for Economic and Policy Research found that banking deregulation in the United States was heavily pushed by banks themselves by way of financial lobbyists, deregulation in the 1970s and 1980s was based on the idea that removing government oversight of the financial system would allow it to flourish.
+NEUT12|And Wall Street's profits would trickle down to Main Street.
+NEUT13|In fact, what ended up happening was that financial deregulation allowed banks and lenders to take on riskier loans as well as to bet on the stock market using customer money.
+BEAR14|This all came to a head during the late 2000s financial crisis where it came out that poorly regulated banks were offering massive mortgages to people who were unable to pay them.
+NEUT15|So when the housing market finally collapsed under the weight of these bad loans, it took down the world's financial markets as well.
+NEUT16|In short, Wall Street's practices.
+NEUT17|Contributed to the downturn in the global economy?
+NEUT18|That's pretty powerful, but what's even more powerful is what happened next.
+NEUT19|Instead of letting the affected financial institutions fail under the weight of their bad loans, they were bailed out with public money.
+NEUT20|The Federal Reserve committed roughly $16 trillion to the bailout, which was led by Henry Paulson, the Secretary of the Treasury.
+NEUT21|Paulson was also the former CEO of Goldman Sachs, which received nearly $13 billion as part of the bailout.
+NEUT22|Clearly, Wall Street has a huge amount of money.
+NEUT23|A huge amount of influence and even former CEOs in government positions.
+NEUT24|So when candidates like Bernie Sanders promised to take down Wall Street, it may sound like a good idea, but it's probably harder than you think.
+NEUT25|So why exactly does Bernie Sanders want to take down big banks?
+NEUT26|And what's so bad about them anyway?
+NEUT27|Learn more about the problem with banks being too big to fail.
+NEUT28|In this video.
+NEUT29|The first major bailout of a too big to Fail Bank was in 1984, when the Reagan administration gave $2 billion to the United States as a largest bank continental Illinois.
+BEAR30|It came close to failing after buying loans that weren't worth as much as originally thought.
+BEAR31|This was not unlike the 2008 mortgage crisis where home loans were misrepresented as being stronger than they actually were, thanks watching secret daily.
+NEUT32|"Don't forget to like and subscribe for new videos every day."""

@@ -1,0 +1,18 @@
+NEUT0|"""How much farther do you think they run in Bitcoin will go an?"
+NEUT1|What are you expecting in terms of price?
+NEUT2|I think it's going to go a lot farther.
+NEUT3|Listen one of the reasons Bitcoin didn't go so high is it's hard to buy, right?
+NEUT4|You can't call womans axe.
+NEUT5|You can call JP Morgan.
+NEUT6|You can't call Bank of America.
+NEUT7|You can't call E trade and say buy me some Bitcoin right?
+NEUT8|And so were most of the wealth is in America right?
+NEUT9|45 to 80 year olds.
+NEUT10|The baby Boomers and Anne.
+NEUT11|Next generation, they're not used to logging in on a square app or on a coin base wallet, right?
+NEUT12|They call their brokers, and So what I'm seeing at a rapidly changing pace is more and more infrastructure being put in place to allow easier access to buy, right?
+NEUT13|We just with PayPal, it's a huge step and how easy it is for people to buy, buy and sell crypto.
+NEUT14|You're going to see E trade come next.
+NEUT15|You're going to see the credit card companies Visa, MasterCard.
+NEUT16|And then American Express they were going to.
+NEUT17|"I would bet you within a year offer a platform where their thirty million merchants can transact in stable coins in crypto."""

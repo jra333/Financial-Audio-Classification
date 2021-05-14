@@ -1,0 +1,25 @@
+BULL0|"""As the coronavirus pandemic ways on its operating earnings and stock price, Berkshire Hathaway ramped up its stock repurchasing program even more in the third quarter, nearly doubling the record."
+NEUT1|Buy back from the second quarter, Warren Buffett's conglomerate bought back $9 billion of its own stock.
+NEUT2|It was revealed Saturday in its third quarter earnings report.
+BULL3|That's up big from the $5.1 billion level during the second quarter that turned heads when it was announced and brings Berkshires total buybacks to $15.7 billion for 2020.
+NEUT4|Berkshire repurchased more than $2.5 billion in Class A shares and about $6.7 billion in Class B stock during the quarter.
+BEAR5|This blew away the UBS estimate for a total quarterly buyback of just $3.2 billion buffets.
+BEAR6|Repurchase spree comes amid a tough time for its operations as the global economy struggles to recover from the coronavirus directly impacting the company's wholly owned businesses, which include railroads, utilities and insurance.
+BEAR7|Berkshire said its operating earnings came in at $5.478 billion, down more than 30% from the year earlier period.
+BEAR8|But the company's net earnings, which account for Berkshires big investments in the public market like Apple, skyrocketed more than 82% on a year over year basis, to $30.137 billion.
+BULL9|Apple Berkshires biggest stockholding rallied more than 26% in the third quarter.
+BULL10|Coca-Cola gained 10.5% over that time.
+NEUT11|Though Buffett has cautioned investors not to pay attention to those net earnings because the investing gains are unrealized and volatile in his annual letter released earlier this year, Buffett discussed when he and Berkshire Vice Chairman Charlie Munger would decide to repurchase.
+NEUT12|Stock are thinking boiled down.
+NEUT13|Berkshire will buy back its stock only if a. Charlie and I believe that it is selling for less than it is worth and beat the company upon completing.
+BULL14|The repurchase is left with ample cash, Buffett wrote.
+BEAR15|Overtime we want Berkshire share count to go down.
+BULL16|If the price to value discount as we estimate it widens, we will likely become more aggressive in purchasing shares.
+NEUT17|We will not, however, prop the stock at any level.
+BEAR18|Buffett also defended the practice in general at the Berkshire Annual meeting in May, when the conditions are right.
+NEUT19|It should also be obvious to repurchase shares, and there shouldn't be the slightest taint to it anymore than there is to dividends, he said.
+BEAR20|Despite a nearly 20% comeback in the third quarter by Berkshire Hathaway's Class A shares, the stock is still widely underperforming the S&P 500.
+BEAR21|This year, the share have lost 8% compared to a 10% total return for the S&P 500.
+NEUT22|Buffett's buyback spree comes as the Oracle of Omaha has made relatively few big moves this year.
+NEUT23|In late August, Buffett announced that Berkshire had taken stakes of at least 5% in Japan's five leading trading companies.
+NEUT24|"Itochu Corp Marabini Corp Mitsubishi Corp Mitsui and Co and Sumitomo Corp."""

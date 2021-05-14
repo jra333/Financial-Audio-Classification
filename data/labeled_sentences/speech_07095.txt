@@ -1,0 +1,25 @@
+BEAR0|"""There's one category of small businesses that is about to be punched even harder by the COVID-19 crisis."
+BEAR1|Unless Congress acts soon, literally thousands of micro breweries, distilleries, and wineries will be slammed with a big tax increase that will unnecessarily destroy many of them.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to better navigate these turbulent times.
+BEAR3|In the 2017 Tax Act Craft breweries, wineries and distilleries cut major cuts in the federal excise tax applied to their products.
+NEUT4|An excise tax is a specific levy on a particular product.
+NEUT5|For instance, the current tax on a barrel of beer made by a small Brewer starts at $3.50.
+NEUT6|For reasons that only Washington's absurd way of scoring tax changes could create, these reductions were not permanent but temporary.
+BEAR7|There **** once, but they expire at the end of this year if not extended again, those levies will go up sharply.
+BULL8|The cuts have been a resounding success, enabling craft breweries.
+BULL9|To invest in new equipment and hire additional employees, these entities numbering almost 10,000 have over the years made America the Premier beer maker in the world.
+BEAR10|Small distilleries and wineries also blossom, but the pandemic has hurt them badly as restaurant lockdowns and cancellations of live entertainment events have slammed sales.
+BULL11|Extending these tax reductions have wide bipartisan support and no wonder small Brewers and their wine and liquor cousins populate numerous congressional districts.
+BEAR12|Restaurants also favor an extension because the tax cut make beer and other alcoholic beverages less expensive for them.
+BEAR13|Yet Congress has been hung up on other issues, most notably a new stimulus bill.
+NEUT14|Normally, if a tax break expires, Congress can renew it past the deadline and make it retroactive.
+BEAR15|That won't work here, because federal excise taxes must be paid as frequently as twice a month, and these companies can afford the hit to their cash flows which are already under severe stress.
+BEAR16|People's faith in Washington politicians is already at rock bottom.
+BULL17|Surely Congress can summon the energy to pass an extension.
+BULL18|In fact, our national legislators should make the cuts permanent.
+BEAR19|The survival of these entities is at stake, not to mention the jobs of their thousands of employees.
+NEUT20|Micro breweries, wineries, and distilleries are prime examples of American creativity and entrepreneurship.
+NEUT21|Congress should get off its collective Duff and get this tax thing taken care of once and for all.
+NEUT22|I'm Steve Forbes.
+NEUT23|Thank you for listening to send in your comments and suggestions.
+BULL24|"I look forward to being with you soon again."""

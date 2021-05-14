@@ -1,0 +1,33 @@
+BULL0|"""Now that the covid relief packages become law sources tell Bloomberg the president is planning the first major federal tax hike since 1993, aimed at funding long term recovery programs."
+NEUT1|Yesterday, on ABC's This week, the Treasury Secretary Janet Yellen was asked about the call for a wealth tax.
+NEUT2|Here's what she said.
+NEUT3|President Biden has put forward in number of proposals.
+NEUT4|He hasn't proposed a wealth tax, but he has proposed that corporations and wealthy individuals should pay more in order to meet the needs of the economy.
+NEUT5|The spending we need to do, and overtime.
+BULL6|I expect that we will be putting forth proposals to get deficits under control.
+NEUT7|But no wealth tax.
+NEUT8|Well, that's something that we haven't decided yet and can look at, but you know, President President Biden during the campaign proposed higher tax rate on corporations on individuals and on payments.
+NEUT9|Capital gains and dividend payments that are received.
+NEUT10|And those are alternatives that address.
+NEUT11|Visitors similar in their impact to a wealth tax.
+NEUT12|Jim, so they are talking about corporate tax back up to 28.
+BULL13|Paring back some benefits for pass throughs.
+NEUT14|Tax rate would go higher for those with incomes of a million or more look.
+BEAR15|I think that those of us who've seen what it's meant to corporate America have those rates reduced.
+NEUT16|Know that part of this stock movements paint directly from that.
+NEUT17|I know lower in straights obviously, but the idea that capital gains and dividends could be taxed like ordinary income tax.
+NEUT18|Lot of Americans just feel these are huge breaks for the rich.
+NEUT19|I I'd like to think that it's not the case.
+NEUT20|I'd like to think that there are many people who are participating in stocks, but we know David.
+NEUT21|We know that that's just not the case.
+NEUT22|So capital gains and dividends if they went to ordinary income.
+NEUT23|And I don't want that to happen, but if it happened raise a lot of money and it would certainly raise money, a lot of money before it happened as people would rush to do it right?
+NEUT24|And you're saying people would rush to sell at the current.
+NEUT25|At the current rate you know the question always becomes Carl and all these things like what is the math look like in the Senate in particular, and what can you really get through there?
+NEUT26|Obviously the relief bill was done under reconciliation.
+NEUT27|Could you do a tax bill in that same way?
+NEUT28|And then what about infrastructure just becomes very much unclear exactly what they're going to be able to accomplish with a 5050 split right now, and certainly moderates such as Joe Manchin having such influence.
+NEUT29|Indeed, I mean in Goldman with a note over the weekend.
+NEUT30|Guys looking at proposals at least of infrastructure of two trillion, maybe 4 trillion depending on what the White House decides to put in there.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

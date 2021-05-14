@@ -1,0 +1,26 @@
+NEUT0|"""Volatility is episodic and the volatility episode we're following now is the Wuhan virus."
+BEAR1|It's spreading rapidly and as China moves aggressively to quarantine cities and contain the spread of the virus markets are worried the first symptoms of the virus appeared around the 8th of December 2019 in Wuhan, China.
+BEAR2|The first case showed up at the local hospital on the 31st of December.
+BULL3|Then the reported cases grew exponentially to thousands by the week of the 20th of January 2020, and they're still growing rapidly.
+NEUT4|The virus hits everyone, but it's most deadly only for the elderly.
+NEUT5|But you don't feel very good even if you're young.
+NEUT6|The narrative has been captured in part by the parallels with the SARS virus back in 2003.
+BULL7|SARS spread rapidly, eventually peaked, and then came under full control.
+BULL8|While the patient the ability to contain the Wuhan virus will differ from SARS because medical research has improved and China is moving much more aggressively to stop the spread.
+BULL9|Still, many epidemiologists expect a very similar pattern in terms of exponential expansion.
+NEUT10|A topping off containment and then a rapid removal of the virus in the cases.
+NEUT11|What is critically different from SARS this time around?
+NEUT12|Is that the Wuhan virus can spread prior to symptoms appearing.
+NEUT13|This very different aspect of how the virus spreads will complicate containment and is potentially what is driving the initial market reactions to the Wuhan virus.
+NEUT14|Market reactions are likely to follow the narrative as it develops in the news cycle is long as the narrative puts the progression of the virus is moving up the curve with rapidly increasing cases.
+BEAR15|The markets will be worried and the worries will spread from market to market.
+BEAR16|Starting the week of the 20th of January, we saw the first market affected, which was the Chinese Yuan, and then immediately the oil market oil was impacted because China buys a lot of oil and that means that oil demand fell.
+BEAR17|Inventories are going to wise and traders were looking very carefully at the oil market a couple of days later, there was a flight to quality that moved into U.S. Treasury with yields lower and then gold prices moved higher.
+NEUT18|Finally, on Monday the 27th of January, we saw equities respond that response is being partly reversed the next day.
+NEUT19|If you think about it, boil and something like copper are going to be much more impacted because that's what China buys equities.
+NEUT20|They're not going to be nearly as affected over the cycle.
+BEAR21|Now, once the news cycle narrative moves to the containment phase, and that's when new cases start to decline rapidly, then the most likely outcome for markets is a reversal, as fears abate full price recovery for the markets.
+NEUT22|Hit the hardest.
+NEUT23|May take some time as we struggle to analyze the economic impacts on China, an on global growth.
+NEUT24|Our bottom line at this early stage is to follow the narrative and then move very quickly when the narrative shifts direction.
+NEUT25|"I'm Blue Putnam chief economist, CME Group."""

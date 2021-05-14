@@ -1,0 +1,25 @@
+NEUT0|"""Hi, it's Geoff here at stockideas.org and I just want to quickly show you how to use the Google stock Screener."
+NEUT1|So just head over to google.com/finance or type finance into Google.
+NEUT2|Annual get this page and you can see the stock Screener is just here on the left so click that and you'll be taken to the stock screen or home page.
+NEUT3|See some screening criteria here, as well as the ability to select any country and any of their exchanges.
+NEUT4|So this is one of the things that sets the Google stock Screener apart.
+NEUT5|Is how you can screen in so many different countries.
+NEUT6|Other cool thing is that the stocks are just listed below and they update in real time as you change these criteria so you can see that there are about 27,000 stocks.
+BEAR7|Now if we increase the market cap to 10 billion, that number should go down.
+NEUT8|Yeah 2 to 1600 so.
+NEUT9|It's pretty great how quickly it updates and then you can sort by clicking on these fields here.
+NEUT10|So if you were looking for stocks with the highest yield, you could click and find them.
+NEUT11|You can also again zero in on exchanges.
+NEUT12|Which can help you find stocks that meet your investment criteria.
+NEUT13|So and then Lastly, you can add additional screening criteria by clicking on this button here and then you can add whichever metrics that you'd like to look at you.
+NEUT14|Just click it and add criteria and there it is.
+NEUT15|So.
+NEUT16|Give that ago and again there never down to 59 stocks so.
+NEUT17|I hope this is helped you understand what the Google stock Screener is in a little bit more about how it works.
+NEUT18|Play around on your own to find stocks that meet your criteria.
+NEUT19|You can see what's cool this distribution thing as you can see.
+NEUT20|You know how the spectrum of stocks is distributed across these different metrics so.
+NEUT21|You know, definitely if your screen is not coming up with anything you can see.
+BULL22|Maybe why you need to adjust it to find more stock, so that's another helpful tip.
+NEUT23|If you want more videos on stock screeners, I suggest you check out my YouTube channel or stock ideas.org.
+BULL24|"Thanks very much for watching."""

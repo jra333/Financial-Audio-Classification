@@ -1,0 +1,13 @@
+NEUT0|"""You're saying basically the rise of cryptocurrency AKA Bitcoin, for."
+NEUT1|For most of us, is sort of an activist response to the financial crisis.
+NEUT2|Part of it was absolutely I would.
+NEUT3|I wouldn't call it necessarily activist.
+NEUT4|I think it's a a principled issue a it was a vision of wouldn't the world be more efficient if individuals could deal directly in financial terms that much as they do in other markets?
+NEUT5|The reality though is that when you're transferring value instruments of value, essentially money you need, you need to have trust in centralized institutions that are accountable for the consequences of how that happens.
+NEUT6|The implications for.
+NEUT7|Not permitting money laundering or terrorist financing.
+NEUT8|Which of course if you allow anonymous exchanges of value over the Internet is a big problem, you need to know who to call when something goes wrong.
+NEUT9|You need the technology to be reversible so that if a mistake is made, there's there's somewhere to go to correct that.
+NEUT10|You need to be confident of the privacy being maintained of this activity.
+NEUT11|So all of those things are not features of the public Bitcoin blockchain, but are features of the new technologies that have been inspired by that.
+NEUT12|"And that are now being redeployed in different contexts to actually help financial institutions provide a better service to their customers rather than put financial institutions entirely out of business."""

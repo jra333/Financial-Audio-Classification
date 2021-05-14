@@ -1,0 +1,34 @@
+NEUT0|"""In this video I'm going to give advice on two stocks I think are good investments."
+NEUT1|Do not put all your money in one or two stocks.
+NEUT2|You should be aware of how risky playing the market can be.
+NEUT3|What you should do is put most of your money in an index fund that reflects the entire market.
+NEUT4|A smaller portion of your money in bonds, and then if you really want to try the market, put a small portion of your money in that.
+NEUT5|Well, now that I got the warning out the way.
+NEUT6|I'll give my advice.
+NEUT7|Firstly, when I give investment advice, I'm talking about long term investments that last a long time.
+NEUT8|An absolute minimum of six months and up to 10 or even 20 years.
+NEUT9|I don't give advice on short term speculation.
+NEUT10|The first stock, I think it's a good investment is Disney.
+BULL11|I think Disney is a good stock to buy back.
+BULL12|In November 2018 I made a video saying Disney was a very good stock to invest in and since then the price went up by 40%.
+NEUT13|It was taken down with my YouTube channel was deleted, but I'll post the video later.
+BULL14|The stock may have increased 40%, but it still has plenty of room to grow.
+NEUT15|If Disney pulls off the new streaming service right, there will be bigger than Netflix.
+NEUT16|Netflix's valuation alone is already near the size of Disney, so that's the type of value we're talking about being created.
+NEUT17|Since they now own Hulu, they're already in over 25% of US homes and they have the treasure trove of IP to force consumers to sign up.
+BULL18|An unlike Netflix Disney at least says it has a plan to reach profitability with their service.
+NEUT19|That at least sounds possible on the surface.
+BULL20|That's better than Netflix is doing.
+BEAR21|And look at that platform violation.
+NEUT22|Unless they make a really obvious stupid mistake, Disney streaming service is going to work.
+NEUT23|The other company, I think is a good pick is Roku.
+NEUT24|Roku is leading the smart TV market.
+NEUT25|Streaming is the future.
+NEUT26|And we'll soon get to a point where all TV's are smart TV's.
+NEUT27|Roku is absolutely dominating the smart TV market.
+NEUT28|The device has the first mover advantage and it just has the best interface.
+BULL29|Only just over 50% of US households own smart TV, so there's plenty of room for growth in the market.
+NEUT30|And that's just in the US.
+NEUT31|Those are two stocks I think are good long term investments and that's my advice.
+NEUT32|For what it's worth, please like this video.
+NEUT33|"Share it, subscribe to my channel, hit the notification bill, and leave your thoughts in the comments."""

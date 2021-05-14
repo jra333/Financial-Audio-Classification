@@ -1,0 +1,26 @@
+NEUT0|"""Economic indicators are used to measure the overall health and state of the economy."
+NEUT1|They are typically issued by government agencies in the form of a census or survey, and investors care about them because they indicate the amount of systematic risk in the system which affects the prices of securities and investments.
+NEUT2|The primary economic indicator is gross domestic product, which measures the total dollar value of an economy.
+NEUT3|The value of an economy consists of four parts consumption investments that are made net exports and government expenditures.
+NEUT4|All combined, they give an overall view of the economy.
+NEUT5|And the change in the economy is measured as GDP growth, which can be very important for investors in terms of their outlook on the economy and the stock market.
+NEUT6|GDP numbers are released once a quarter.
+NEUT7|Let's look at GDP in the United States in 2017.
+NEUT8|So you're well calibrated.
+NEUT9|It was $19.4 trillion in total value on a per person basis.
+NEUT10|That equates to approximately $59,000 per American.
+BULL11|The growth rate in 2017 compared to 2016 was two point 3%.
+NEUT12|Let's look at other economic indicators, PMI.
+NEUT13|The Purchasing Managers Index is a very important one that looks at production levels, orders, inventories.
+BULL14|An employment in the system for manufacturing companies.
+BEAR15|It shows expansion or contraction with a reading above 50 indicating expansion and below 50 indicating contraction.
+NEUT16|The scale is from zero to 100.
+NEUT17|The Consumer price Index or CPI is a measure of inflation for an economy and it's calculated by taking a basket price of goods and comparing it over a time period, typically a year in the United States Consumer price index inflation in 2017 was two point 1% compared to 2016.
+NEUT18|Let's look at the difference between leading and lagging indicators.
+NEUT19|Leading economic indicators tell us where the economy is headed in the future.
+BEAR20|The stock market, for example, typically looks forward at least six to nine months about where the economy is headed, and so you will see stock prices start to fall before GDP growth rates decline.
+NEUT21|That's an example of a forward looking indicator.
+NEUT22|Lagging indicators, by contrast, represent what's happened in the past, so GDP growth rates are collected and take time to be processed.
+BEAR23|When investors actually read the GDP numbers, they're looking back at what happened last quarter or last year, so they are lagging indicators.
+NEUT24|Investors care about both leading and lagging indicators when valuing companies and making investments.
+BULL25|"Thank you so much for joining us on this tutorial about economic indicators."""

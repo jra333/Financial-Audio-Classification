@@ -1,0 +1,31 @@
+NEUT0|"""What kind of return can you expect from your retirement portfolio?"
+NEUT1|I've got a way of formulating a realistic expectation.
+NEUT2|Expectation means we're not guaranteeing it, but it's what you're likely to get over a long period of time.
+NEUT3|And I've got a formula for you.
+NEUT4|The real return, I think is found by taking five times your stock allocation two times.
+NEUT5|Your bond allocation and subtracting your expenses.
+NEUT6|And I'm going to explain what all that means.
+NEUT7|Real return, remember, is what you've got after inflation.
+NEUT8|So if you're making, let's just say 7% a year.
+NEUT9|But inflation is 2.
+NEUT10|Your real return is only five.
+NEUT11|What do I expect from the stock market?
+NEUT12|I think a total return after inflation, but including the dividends is realistically around 5 percentage points a year.
+NEUT13|Multiply your stock allocation by 5 percentage points.
+NEUT14|What can you expect from a bond portfolio?
+BEAR15|Well, 10 year Treasurys are yielding less than 3% these days.
+BULL16|More aggressive investing like in corporates or even junk bonds can boost that a little bit.
+BULL17|I think a bond portfolio that mixes high quality and low quality bonds realistically is going to earn two percentage points a year after inflation.
+NEUT18|So we'll take your bond allocation and multiply it by two.
+NEUT19|And what's that big?
+BEAR20|E, That's a big warning signal.
+NEUT21|It is that whatever you're earning and real returns, you're going to have to reduce by the overhead expenses.
+NEUT22|Whatever you're paying the fund managers to pick your stocks and bonds.
+NEUT23|Let's take an example.
+NEUT24|A typical 6040 mix, 60% in stocks were going to .6 times the stock number, which is 540% in bonds.
+NEUT25|When multiply that 2 by .4, and I'm going to assume that you're very efficient, you're buying index funds, which is the kind of thing you own.
+NEUT26|In a 401K and your expense ratio is a very modest .2%.
+NEUT27|Add it all up your real return from that portfolio realistically is 3.6%.
+NEUT28|So how good is 3.6%?
+NEUT29|I think it's good to do fairly well for you in retirement, but it's not going to make you usually rich.
+NEUT30|"Your basic rule of thumb on 401K's is putting the maximum you're allowed to put in because the earnings there are not going to be fabulous, they're just going to be good."""

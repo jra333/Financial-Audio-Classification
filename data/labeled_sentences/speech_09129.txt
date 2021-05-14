@@ -1,0 +1,34 @@
+NEUT0|"""Do you think this is a long term phenomenon that people are going to live in?"
+NEUT1|Zoom cities that people aren't going to go to meetings in person?
+NEUT2|Or do you think that the 2nd that people can get back on an airplane and if your sales person or in some kind of business where you have to go kiss the ring of this client and if one person gets on the plane, the next person the next sales person is going to have to get on the plane and that we're back to that?
+NEUT3|We're back to where we were pre pandemic.
+NEUT4|Well, my prediction would be that.
+NEUT5|Over 50% of business travel an over 30% of days in the office will go away that now that.
+NEUT6|It's not the gold standard.
+NEUT7|Yes, he flew all the way here to sit in front of me.
+NEUT8|That you can.
+NEUT9|Do the virtual connection that it will be a very high threshold for actually doing that business trip and that there will be ways that you can work from home.
+NEUT10|A lot of the time some companies will be extreme on one end or the other.
+NEUT11|I just know like talking to African leaders.
+BEAR12|I always feel bad for African leaders because there's so many conferences in Europe.
+NEUT13|In the US, they're expected to come too, and yet you know their job in their country is so important, like their education or health system, or, you know, collecting taxes or just ability.
+NEUT14|And yet you know they spend half their time on all these trips.
+NEUT15|The fact that now we can go in and do a 20 minute.
+NEUT16|All about what's needed.
+NEUT17|You know?
+BULL18|Touch base with them again, it's been pretty impressive how a lot has gotten done.
+NEUT19|You know, in Kurt, including you know, I, I see.
+NEUT20|Albert Lot because we do this Pharma CEO Roundtable and that used to be, you know we live in New York.
+NEUT21|For that, we've done five of those this year.
+NEUT22|All you know virtually to talk about how the industry is working together and you know doing communicates about how they see their role.
+NEUT23|So you know, I we will go to the office some what we'll do, some business travel, but dramatically last.
+NEUT24|OK, different question.
+NEUT25|Have you made any either new friend friends?
+NEUT26|Or business friends remotely since this all began, I'll ask both of you.
+NEUT27|Bill.
+NEUT28|Yeah, the fact that the software.
+NEUT29|Doesn't have any sort of serendipitous thing of people you run into after the meeting or gathering things.
+NEUT30|There's more to be done there, and so my answer is no, I haven't like.
+NEUT31|You know ran.
+NEUT32|I haven't run into somebody and made a new friendship.
+NEUT33|"So yet there is something missing there."""

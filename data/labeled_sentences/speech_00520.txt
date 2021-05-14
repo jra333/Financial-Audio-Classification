@@ -1,0 +1,23 @@
+BULL0|"""Hello and welcome to TD's."
+NEUT1|My name is Mr.
+NEUT2|Right and I'll be instructor for this project.
+NEUT3|In this project we will be obstruction livestock market data from Yahoo Finance.
+NEUT4|We will find similarities among various companies.
+NEUT5|You see their stock market prices and then cluster them into different clusters.
+NEUT6|Using the K means algorithm.
+NEUT7|Since this is an unsupervised machine learning problem we will be using unsupervised machine learning technique with the help of the K means algorithm we will be using the pandas datareader to obstruct live data from the Yahoo Finance site.
+NEUT8|At the end of the project you see something like this.
+NEUT9|We will start by loading the various libraries necessary for this project.
+NEUT10|Then we create additional reach contains the various companies that we're going to structure data for would be a structure in data all the way from April 2015 to airport 2020 will be using the data reader to read this data from the Yahoo site that will convert this data into a data frame and then visualize it.
+NEUT11|We also do some data pre processing to get our data ready for further analysis.
+NEUT12|As you can see over here also plot the trend, which is consistent among Amazon and then Apple and then compare it with the real time data that is assisting on the Yahoo side.
+NEUT13|So if you can see over here this is a real time data that is happening on the Yahoo site is a real trend that is happening over here and if you compare it with what we have been able to extract over here is inconsistent with what is over here.
+NEUT14|Moving on, we also plotted the trend that existed among the various opening and the closing price in the various years.
+NEUT15|We also normalize our data since the stock prices of Amazon and Apple have different skills.
+NEUT16|We visualize this first to see the inconsistencies that existed among the rear stock prices of Amazon and Apple, then normalizes them.
+NEUT17|Visualize it again.
+NEUT18|We also see the various clusters that will be able to cluster using the what is called a make pipeline which combines the K means algorithm and then the normalizer.
+NEUT19|After that we also reduce the dimension from 1260 all the way to 2 dimensional spaces that we'll be able to visualize.
+NEUT20|Then we also use the decision boundary to visualize these various clusters.
+BULL21|So as you can see, this is a very wonderful project and I'll be glad to take you through.
+NEUT22|"So let's get started."""

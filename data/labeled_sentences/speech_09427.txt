@@ -1,0 +1,2 @@
+BULL0|"""SmarTrend identified an uptrend for CIT Group New York Stock exchange symbol CIT on December 10th, 2009 at $28.08 in approximately 2 months, CIT Group has returned 16.4% as of today's recent price of $32.69."
+NEUT1|"Trade your way to success today with SmarTrend click below for more news and market analysis."""

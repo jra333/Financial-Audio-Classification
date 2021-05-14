@@ -1,0 +1,14 @@
+NEUT0|"""What really struck us and why we went all in on this whole blockchain movement is we just realized there's a fundamental problem in the world that needs to be solved and that is you really can't have globalization that's workable unless you have interoperability in three things, data, goods, and money, and we only have those in two things, data and goods without the money part, globalization doesn't work, it's incomplete, so it's really exciting as we think what blockchain really represents the finishing of an Internet value is the completion of globalization, and now suddenly I think."
+BULL1|We have a much better chance of that working for another 2 billion people.
+NEUT2|We just thought if there was just a matter of time before the world was going to have some form of a digital currency that had no government behind it or no counterparty.
+NEUT3|But I think that that kind of evolved into this excitement around.
+NEUT4|Hey, it's not just about the currency, but fundamentally it's about wiring and Internet for money.
+NEUT5|This is almost like 1994 the first days of the data Internet, but I think what that means for the world is it's.
+NEUT6|The commoditization of reach suddenly every single entrepreneur, every bank, every government currency in the world has unlimited reach, and right now that's not the way it is.
+NEUT7|And that's just exactly what happened.
+NEUT8|The data now is happening for money, and that's that's really fun and exciting.
+NEUT9|And I think we have kind of the stakes are even larger when it comes to money and value.
+BULL10|This is going to be a profound change on the way the world works, and I think brings the world closer together.
+NEUT11|I mean, through all this backlash and globalization, we all know that this.
+BEAR12|We have no hope and less we are kind of working together and I think this is really going to clear a lot of friction.
+BEAR13|"That's kind of getting in the way of the promise that globalization was supposed to bring."""

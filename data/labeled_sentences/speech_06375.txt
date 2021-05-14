@@ -1,0 +1,15 @@
+NEUT0|"""Thursday, November 3rd is in the books."
+BEAR1|This is the New York Minute markets have been captivated by the US election in just a few days time, with rising anxiety waiting on benchmark stock bourses for the eighth consecutive trading day.
+BULL2|The SNP 500 zero point 4% to 2089 on Thursday, Ting within a hair of breaching its 200 day moving average volatility, Meanwhile, has surged to the forefront of investor minds.
+BEAR3|With the election in its final days, the VIX Index Wall Street, so called fear gauge, closed at 22, its highest settlement since the aftermath of the Brexit vote.
+BEAR4|Some investors say the rise in the VIX means downside protection is.
+BEAR5|Already too pricey.
+BEAR6|Others say it could echo higher of polls tighten.
+BEAR7|But despite the long losing streak, the markets decline has been somewhat muted.
+BEAR8|Again, be 500 slipped, 2.9% over the last day.
+BULL9|Trading days will tenure Treasury yields have climbed this four bips?
+BEAR10|Money managers warn a Trump victory could yet spark a sell off in U.S. stocks and rally and Safe Haven assets.
+NEUT11|Gold is 1 asset class.
+BULL12|That's called a bid as Mr. Trump is gained in the polls, closing both $1300.
+BULL13|A Troy oz on Thursday for the first time since October 3rd.
+NEUT14|"And that's the New York minute."""

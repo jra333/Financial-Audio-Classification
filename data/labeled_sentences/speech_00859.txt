@@ -1,0 +1,23 @@
+NEUT0|"""Hey traders, pardon the change of location, but as a result of the pandemic, trade Wiki is now operating from home."
+NEUT1|We are moving into a new month and a new financial quarter.
+NEUT2|What do new earnings spell for the US markets come April 1st?
+NEUT3|The markets may be fooling us.
+BEAR4|Expectations for second quarter earnings are less than favorable.
+NEUT5|In other words, that's it.
+NEUT6|Man game over man.
+NEUT7|It's game over.
+NEUT8|What does the month of April hold for traders?
+NEUT9|It's all right here on this week's trade Wiki Weekly forecast.
+BEAR10|March is ending on the cusp of one of the most extensive bullish markets in history, and even more shrinkage is expected to begin this quarter.
+BEAR11|Unfortunately, this could continue on into the summer.
+BEAR12|That risk of a recession is mounting heavily and becoming more likely as cases of coronavirus in the US continue to climb and that is the key metric to look for this week instead of corporate earnings.
+BEAR13|Traders need to pay attention to whether confirmed cases of the coronavirus in the US are continuing to climb or if they level off this month and quarter.
+NEUT14|This pandemic is serving as the primary fuel that's driving this crazy train right off the rails, as the US government attempts to kick start a new positive outlook on the pandemic.
+BEAR15|The markets are still trying to figure out what to do with all of this information, consumer spending is dying down, so a market restart, so to speak, is not looking too likely.
+NEUT16|Nothing is guaranteed at the moment, but keep a sharp eye out for new developments.
+NEUT17|That'll do it for this week's trade Wiki Weekly forecast.
+NEUT18|Stay safe out there, wash your hands and happy trading.
+NEUT19|This is trade wiki.
+NEUT20|Your one source for trading tips, strategies and guides for more.
+NEUT21|Make sure to like this video and subscribe to our channel.
+NEUT22|"Hit the Bell button to get notified of our latest upload and we'll see you in the next one."""

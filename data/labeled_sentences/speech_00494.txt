@@ -1,0 +1,28 @@
+NEUT0|"""The intrinsic value of CME Group is range between $4.57 per share and $69.66 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $4.57 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $4.57 in cash and cash equivalents, paying $69.66 per share represents the company's price per share based on its earnings, a price of $69.66 per share represents the fractional payment that we don't pay.
+NEUT4|For the company's next 20 years of median historical earnings.
+NEUT5|Now this is a conservative way to value a company using future earnings, which slightly differs from the results you get by calculating the company's price to earnings ratio.
+NEUT6|So what are they trading at today?
+NEUT7|CME Group is currently trading at a price of 162, with $0.41.
+NEUT8|Of course, this is much higher than our high end for the intrinsic value calculation, which means the reasonable conclusion.
+NEUT9|They are overpriced.
+NEUT10|What's the next step?
+NEUT11|We still have to find a place to park our money.
+NEUT12|If it's not CME Group, then we need some alternative that will yield a similar return.
+NEUT13|Mitigate our risk all while maintaining safety of principle with an ample margin of safety.
+NEUT14|And if you're defensive investor like myself, you will feel an affinity towards index fund, specifically the Vanguard 500 index Fund is the one I like an advocate because Warren Buffett likes it.
+NEUT15|This is the same phone he used to beat up the hedge fund guys in New York City and OH, wait through 18 so I figured what why?
+NEUT16|If it was good for him, why wouldn't it be good for me to get this 10 year return?
+NEUT17|12.98% I'm down for that, so this is where we park our money until this price.
+BEAR18|Drops two or below $69.66 per share, barring any new publications.
+NEUT19|Or it may be some time is elapsed since.
+NEUT20|You know, since you're may be watching this video when they've released a new 10K, just check the 10K, do the calculation again.
+NEUT21|High End calculation is just their median net earnings for the past 20 years, times 20, all divided by their shares outstanding.
+NEUT22|Issued and outstanding.
+NEUT23|Low end is just cash and cash equivalents divided by their shares issued and outstanding.
+NEUT24|So take it for what it's worth, but in the meantime guys, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance.
+NEUT25|That way your investment performance is optimized.
+NEUT26|Remember when your investment performance is optimized, so wish you well.
+NEUT27|"Production value investors will see you in the next video stick around."""

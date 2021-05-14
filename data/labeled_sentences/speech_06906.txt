@@ -1,0 +1,44 @@
+NEUT0|"""Let's get right to Forbes media."
+NEUT1|Cerci Forbes on what is going on with the markets now you wrote.
+NEUT2|Great to see you Steve, but we'll see you later.
+NEUT3|Former boss, you wrote an opinion piece entitled When the White House Fights the Fed.
+NEUT4|The White House usually wins.
+NEUT5|What did you mean by that?
+NEUT6|If you have a real fight, the Fed loses to the White House.
+NEUT7|That's a pure politics.
+NEUT8|the Fed is not enshrined in the Constitution.
+NEUT9|Going back to Woodrow Wilson, he forced in the lower interest rates during World War One.
+BEAR10|Harry Truman had a huge fight several times with the Fed.
+NEUT11|Remove fed chairman twice and Richard Nixon did the same thing behind the scenes.
+NEUT12|Lyndon Johnson did it.
+NEUT13|George HW Bush did it, so this happens all the time in the media saying I'm sorry to interrupt, but the media is saying, hey wait, a second.
+NEUT14|The president is attacking the Fed, but you're saying history shows otherwise?
+NEUT15|The feds always getting attacked.
+NEUT16|It's a political institution.
+NEUT17|This idea that there next to where God is preposterous.
+NEUT18|They are accountable for what they do.
+BEAR19|Their forecasts have been wrong, the decisions they've made over the years have been disastrous.
+NEUT20|So this idea.
+NEUT21|How dare you attack us is in a democracy is ridiculous.
+NEUT22|I mean yeah, I mean the town's lawsuit and I were talking at least two trillion might be 3 trillion since October 3rd, right?
+NEUT23|I mean, this is when the.
+BEAR24|The strange idea that if we get prosperous, that's a bad thing.
+NEUT25|They call it overheating.
+NEUT26|So if you get a raise, you feel you're overheating you take the money away 'cause I'm getting too hot it's it's ridiculous of economy is made up of individuals, not a machine, and so the less the Fed does just they shouldn't even be manipulating interest rates.
+NEUT27|Just let people do it on their own and you say that it feels really manipulative now because there's no really no inflation.
+NEUT28|You know, wage inflation, gold price, very stable oil is.
+BEAR29|Plunging for commodity firm commanded commodities are down.
+NEUT30|So where's the inflation guys?
+NEUT31|Only in your head I gotta get out of their bubble to pop their bubble before they pop the economy.
+NEUT32|That's interesting is Trump's.
+NEUT33|It's the president's pressure on the Fed.
+BULL34|Is it working in slowing down your rate hikes even though Paul today made it sound like oh I'm standing up to the guy they were going to do three to four rate increases announced next year.
+BEAR35|Now they're down to two and I guarantee if the economy starts to falter, it'll be 0.
+NEUT36|Well, OK, because you know why with rate hikes trigger recessions, Anna Recession could come in time for the presidential election, right?
+NEUT37|Why are they manipulating the price of money in the 1st place?
+NEUT38|Yeah, they have no business doing it.
+BEAR39|Then Dow is now at a 52 week low.
+NEUT40|See Forbes.
+BULL41|Great to see you Sir.
+BULL42|Good to see you.
+BULL43|"Thank you."""

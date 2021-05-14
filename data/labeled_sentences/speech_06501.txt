@@ -1,0 +1,9 @@
+NEUT0|"""Hello, welcome to today's technical analysis for July the 5th, 2016."
+NEUT1|I'm referred by John currency analyst, Alex m.com.
+NEUT2|Today we will look at the euro versus the Japanese yen on the daily chart.
+BEAR3|Euro Yen was heading back down today as four day rally that came after the June 24th slam faltered.
+BEAR4|Prices were unable to rebound beyond her in 14.80, making their 114 point 82115 region a key resistance area to break in order to achieve a more sustained rally.
+NEUT5|The next resistance on the horizon is the 20 day moving average at 117.
+BEAR6|However, with the momentum indicators looking increasingly bearish, further gains are looking unlikely in the near term, extended losses could see Euro yen finding support at the June 27 low of an 11.36, while below that the June 24 low of 109.40 comes in focus.
+BEAR7|The drop below this level would put prices on course for fresh 3 1/2 year lows and strengthen the bearish outlook.
+BULL8|"Thank you for watching and have a great day."""

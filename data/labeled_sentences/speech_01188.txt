@@ -1,0 +1,35 @@
+NEUT0|"""Here comes Joker and Poison Ivy."
+NEUT1|Fan Expo is the largest convention of its kind in Canada.
+NEUT2|People come to show off costumes and mixed with characters from their favorite franchises in the world of film.
+NEUT3|No one owns more fan friendly content than Walt Disney Studios.
+NEUT4|From Star Wars to frozen, from Avatar to Avengers, they're all inside the walls of the Magic Kingdom.
+NEUT5|The house that Walt build is now the biggest studio in Hollywood.
+NEUT6|After buying Pixar, Marvel, Lucasfilm, and 20th Century Fox.
+NEUT7|This year alone, Disney claimed 37% of the box office in the US and Canada.
+NEUT8|An yet the mouse wants more.
+NEUT9|You're coming with us this week.
+BEAR10|Sony Pictures walked away from a deal to share.
+NEUT11|The Spiderman character, reportedly because Disney wanted half of the profits, so Spidey won't be swinging with The Avengers anytime soon.
+NEUT12|Grace right now.
+BEAR13|I'm sure the fans are uproar right now.
+NEUT14|I just hope that Tom Holland still gets to be Spiderman.
+NEUT15|It was nice to see him play a teenager with the two religions.
+BULL16|Other heroes well, as well.
+NEUT17|I can't say anything about that but.
+NEUT18|But Disney's dominance goes beyond heroes.
+NEUT19|This studio flexes its own muscles all year round at the Multiplex.
+NEUT20|The release calendar is like a giant chess board and all the other studios have to figure out where are we going to put our movie and when is Disney opening a movie?
+BEAR21|Because if you go head to head with Disney you might get run over like a steamroller already.
+NEUT22|The top five films for 2019 are all owned by Disney.
+NEUT23|This Hollywood watcher says the key to competing with the mouse is to make movies Mickey.
+NEUT24|Won't touch, it's pretty telling that the two big hits this year that Disney was not in some way responsible for was us and John Wick three neither, neither of which are movies that Disney really could make right now.
+NEUT25|But as the studio grows, little guys can feel squeezed over.
+NEUT26|There will be where the screen is at the Brackley Drive-in Theater in PE I.
+NEUT27|Bob Boyle says he spending $350,000 to build a second screen.
+NEUT28|Because of Disney, there is one large studio that is.
+NEUT29|Makes brilliant content that's quite entertaining, but they know that, and so they demand a lot for it.
+NEUT30|It's not just my money wise, but but time wise, Boyle says Disney demands he run their films a minimum of three weeks.
+NEUT31|He needs that second screen to show other titles in a timely manner.
+NEUT32|Cinema chains big and small are anxious to see what comes next, as Disney spends the weekend hatching future hits at its own fan convention, relying heavily on familiar.
+NEUT33|Films from the past.
+NEUT34|"Eli Glasner CBC News Toronto."""

@@ -1,0 +1,9 @@
+BULL0|"""Indeed, the Shanghai Stock Connect has operating quite smoothly for the past few months."
+NEUT1|According to the government work report delivered by Chinese Premier Li Keqiang, China will link it Stock Exchange in the southern Chinese city, Shenzhen, with Hong Kong and an appropriate time this year.
+NEUT2|Song hopes that the Shenzhen Hong Kong Stock Connect could be launched before the middle of this year.
+NEUT3|We've been discussing that for four months, and we have all I think we have settled, if not all the technical issues and.
+BULL4|We were getting to the stage of we were ready to launch that and we are keeping in close contact with the central authorities and hopefully that we would be able to have that in operation sometime later on this year.
+NEUT5|Hopefully with an announcement.
+NEUT6|Before the middle of the year.
+NEUT7|China kicked off its Shanghai Hong Kong Stock Connect in November.
+NEUT8|"The program allows investors at the two bourses to trade stocks listed on the other in a bit to spur reform of China's stock market and realign it to the international norms."""

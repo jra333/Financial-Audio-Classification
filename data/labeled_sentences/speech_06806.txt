@@ -1,0 +1,27 @@
+NEUT0|"""The challenges are going to be execution."
+NEUT1|A common refrain for the company.
+NEUT2|Can Elon Musk continue at this pace?
+NEUT3|We saw an announcement this weekend that in China they began production of the Model Y that compact sport utility vehicle, which we already have here in the states, in which is very important for the China market.
+NEUT4|The question is going to be, you know, how much demand is there for that vehicle?
+BULL5|And and would you think that the demand for it will be higher overseas, IE in China?
+NEUT6|Then it will be.
+NEUT7|I don't even know whether it's coming here this year.
+NEUT8|Well, it's already here and it was here last year and it was part of the reason why.
+BULL9|OK. Part of the reason that that Tesla was able to kind of continue to see some sales growth in the US?
+NEUT10|Here?
+NEUT11|When you look at some of the numbers, the segment is very important in the Chinese market.
+BULL12|In the US market, small SUV's are very popular with buyers more so.
+NEUT13|In cars in fact, so it Tesla is a little bit then out of step having cars out on the market rather than these SUV's.
+NEUT14|So the Model 3 is seen as supremely important for the China market, but when you look at the US sales.
+NEUT15|They don't break out those results, but if you look at like Autodata estimates the model, why has not overtaken the Model 3 in US deliveries, and that you know is curious and it perhaps it could be a production issue.
+NEUT16|They don't have the capacity for the world, so once that China factory starts putting out those SVS, that's going to be the big test.
+BEAR17|How worrisome is the fall off in sales of some of the higher priced models and how concerned should we be about factories in Berlin and Austin?
+NEUT18|What do you be watching there quickly?
+NEUT19|Please?
+NEUT20|Yeah yeah.
+NEUT21|Very, very big.
+NEUT22|You know those Model S and Model X's are big high value products, investors and some fans are looking for a refresh of the Model S this year.
+NEUT23|I'll note that the Plaid version of the $140,000 version is gonna be able to go to zero to 60 in less than two seconds is expected later this year, and that could be.
+NEUT24|Important.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

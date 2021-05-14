@@ -1,0 +1,26 @@
+NEUT0|"""With the TD Ameritrade mobile app for iPhone trading, stocks and ETF's is simple."
+NEUT1|This demo shows you how to place a trade from start to finish.
+NEUT2|First tap the trade button.
+NEUT3|Next, tap the search bar and type the name of a stock or ETF.
+NEUT4|When the results appear, tap the symbol to launch the trade ticket for that security.
+NEUT5|From trade ticket you can specify all the details of your order.
+NEUT6|First, choose an order type.
+NEUT7|Tap either the action or type tab to choose the direction of the trade in order type, then tap done to save your selections.
+NEUT8|Next, tap quantity to type the quantity manually or tap the up and down arrows to increase and decrease the amount.
+NEUT9|If you're placing a limit order, tap price to manually enter a limit price or tap the up and down arrows to adjust the amount.
+NEUT10|Tap expiration to choose an expiration and input any special instructions depending on the order type.
+NEUT11|You can read more about our order types and expiration options online at tdameritrade.com.
+NEUT12|Finally, tap review order to ensure everything is set before placing the trade.
+NEUT13|If the order is correct, tap place order to place the trade.
+NEUT14|To see this, another open positions tap the accounts tab, select the account you want to view, and then tap orders.
+NEUT15|You can trade ETF's on the TD Ameritrade mobile app by following these same steps.
+NEUT16|You can also initiate trades from the position screen.
+NEUT17|Tap accounts, select the account you want to trade, and then tap positions are all of the stock or ETF you want to trade.
+NEUT18|Appears you can close the position, add to it or reduce it.
+NEUT19|Let's close the position.
+NEUT20|Tap closed position and your full position will be pre loaded to the trade ticket to make edits to your limit price or any other order detail.
+NEUT21|Tap review order, then Tap place order to close the position.
+NEUT22|Congratulations, you have learned how to place a trade on stocks and ETF's through the TD Ameritrade mobile app for iPhone.
+NEUT23|Thanks for watching TD Ameritrade is here to help you better understand the tools and strategies you need to pursue your financial goals to stay up to date on new videos.
+NEUT24|Please subscribe and don't forget to hit the Bell to get notified about new uploads.
+NEUT25|"Be sure to follow us on all your favorite social media platforms and open a TD Ameritrade account by clicking the link in this window."""

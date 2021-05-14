@@ -1,0 +1,29 @@
+NEUT0|"""Powerhouse to regulate cryptocurrency?"
+NEUT1|Now they're looking into security token offerings, and they will probably be the First Nation to specifically look at security token offerings and put legislation in what particular trends are you looking at for your clients and your customers on your exchange liquid?
+NEUT2|Are you seeing more?
+NEUT3|Increase in institutional participation or retail and what a side shot to that question would be.
+NEUT4|The implementation of high frequency trading and what impact does that happen?
+NEUT5|Yeah, so liquid were open to casual traders too.
+NEUT6|Sophisticated institutional investors as well, but our sweet spot are these professional traders and these are all API based high frequency traders as in any any financial product from equities, fixed income.
+NEUT7|The the global trend is to accommodate these high frequency traders and obviously we provide full API's for that.
+NEUT8|So our main customer base are these professional traders and November was our biggest month in our history in terms of transaction volume in Bitcoin and also U.S. dollars.
+NEUT9|And through that how is that going to grow through this consolidation as the industry as you are predicting becomes more institutionalized?
+NEUT10|Yeah, so.
+NEUT11|As as there are going to be these dealer brokers who will be offering crypto to their retail customers.
+NEUT12|And then there's also these OTC brokers who will be providing services to institutional investors.
+NEUT13|All of these will combine in working with exchanges and we are an exchange that provides liquidity to all these service providers.
+NEUT14|Is that kind of behind the rebranding or of the exchange to liquid?
+NEUT15|And as one of the keys you need liquid ITI 2 which is the chicken or the egg right?
+NEUT16|Exactly far as.
+NEUT17|You get the institutional investors in that provides liquidity or the other way around exactly.
+NEUT18|So that's why we rebranded our service and it's called Liquid because if you take away Bitcoin, it's still a very illiquid market and we were operating two discrete exchanges.
+NEUT19|One was a crypto Fiat exchange and one was a crypto only exchange.
+NEUT20|They're all being regulated now, so we're consolidating everything together and it's called liquid and we're also inviting different participants so that we can provide that liquidity.
+NEUT21|Does Bitcoin have a chance of getting back to the record levels 19,500 and change?
+BULL22|I think it will surprise surpass it by when at least, well that's very difficult, but I would say by end of next year I think it will surpass the all time high.
+BULL23|There you go 2019 we should see cryptocurrency prices rebound, and maybe hopefully hit 1 billion.
+NEUT24|So I'm going to say it might take a little bit longer for us to recover, but one to two years.
+NEUT25|I do see some sort of growth and this bear market will be over, but let me know your thoughts on this and I will talk to you soon.
+NEUT26|Thank you for watching.
+NEUT27|Subscribe for the next video.
+NEUT28|"If you like a thumb up."""

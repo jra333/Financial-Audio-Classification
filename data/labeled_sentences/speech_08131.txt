@@ -1,0 +1,34 @@
+BEAR0|"""Stepping back, if you look at the odds right now to win the US presidential election, they're pretty tight."
+NEUT1|So Joe Biden is at 5 to 6 and President Trump is at 1:00 to 1:00 to your point, if you look at how the market did NASDAQ in particular during the eight years that Joe Biden was vice president under President Obama, the market did really well.
+NEUT2|So on that basis, you can make an argument for more years of President Trump or four years of President Biden.
+NEUT3|The market will be more than OK. Where I do think you'll see a difference is an individual names.
+NEUT4|In particular Apple under four more years of Trump and Amazon under four more years.
+NEUT5|Or sorry for years of Biden.
+NEUT6|So let's let's take that apart a little bit here.
+NEUT7|As I look back.
+NEUT8|Or as I look at where things are today, I guess you would say that the analyst boils down to maybe three things that affect business.
+NEUT9|One is tax rates of President Trump, like somewhere they are.
+BULL10|Might even like him lower Presei President Biden would raise them back to 28%.
+NEUT11|That's 1/2 would be regulation.
+NEUT12|President Trump is strongly deregulatory.
+NEUT13|President Biden would probably restore some regulations, particularly in the energy area and the third one is antitrust.
+NEUT14|And there it may be a push because it is possible that the Republicans might be just as interested in looking at some companies on antitrust grounds as the Democrats would be if I got that right.
+BULL15|You have got it right, so excellent points there.
+BEAR16|What I would say is that when you think about Apple is probably one of the largest taxpayers among American corporations because of their huge profits, they really have benefited from lower corporate tax rates under Trump and they would stand to be hurt.
+NEUT17|Then if Biden raised it on the regulatory front an antitrust, I would argue that Amazon could be real.
+BEAR18|Could be in real trouble.
+NEUT19|One of the few things that has bipartisan support is raining in.
+NEUT20|The excess influence that Amazon, Apple, Facebook, and Google have.
+NEUT21|Well, if you're Amazon, do you want President Trump influencing both regulations in anti competitive efforts?
+NEUT22|Who are do you want?
+NEUT23|President Biden and I would think from Amazon's vantage point they would prefer President Biden.
+NEUT24|Yes, and the reason for that is in part, isn't it that President Trump has no fondness for Amazon because its owner owns the Washington Post, which has not been kind to him and there.
+NEUT25|And he's also raised the case right or wrong, that to where he buy his lights, Amazon gets favorable treatment from the US Postal Service.
+NEUT26|Absolutely.
+BEAR27|So if you look at the fact that Amazon Lossed the $10 billion Jedi contract to Microsoft in cloud computing, I think that's a tangible example of the cost of a President Trump four more years to Amazon on the US Postal Service.
+BULL28|He's talked about Amazon getting a sweetheart deal.
+NEUT29|It's our understanding that every deal the Postal Service enters is profitable to the Postal Service.
+BEAR30|But to the extent that they may raise rates to Amazon, that would be a significant cost and problem for Amazon.
+BEAR31|And yes, there's a lot of ire directed toward.
+NEUT32|Amazon because Mr Bezos owns the Washington Post.
+BEAR33|"That's why four more years of President Trump may be a challenge for shares of Amazon."""

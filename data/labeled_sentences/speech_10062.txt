@@ -1,0 +1,41 @@
+NEUT0|"""Based on where the stock appears to be poised to open this morning, you're going to be overseeing a company that will have roughly a $60 billion market value."
+NEUT1|Does that make you nervous?
+NEUT2|Do you feel like you can deliver on that kind of expectation in the marketplace?
+BULL3|I think that the great news is that loose is a tech company and we're bringing the world's best technology to the market this year.
+NEUT4|Here in the US, and I think that the valuation is a reflection of our technology.
+BULL5|I think that that has been validated and endorsed.
+BULL6|Please, through the due diligence that Churchill Capital have undertaken, and they're thrilled with the product everything they've seen.
+BULL7|I'm very confident we've got world class tech.
+NEUT8|What we need to do now is humbly and diligently execute and get this into production.
+NEUT9|And that is what will truly drive the value.
+NEUT10|Yes it will and it is behind some of the numbers that you're putting out there and let me just share some of them because they're they're impressive.
+NEUT11|You were looking for generating as much as 2.885 billion in EBIT Ah by 2026.
+NEUT12|So within the next five years, what gives you the confidence Peter, that you can ramp up production and sales?
+BULL13|Obviously to the point where you're going to be able to deliver on that kind of a target.
+NEUT14|Well, I think we've got an ambitious forget really realizable plan.
+BULL15|And we've shown that we can execute if you look at the factory that we've built to date.
+NEUT16|We did that in record time.
+NEUT17|The first Greenfield purpose built EV factory in North America.
+NEUT18|So the team I've gotten surrounded myself with a consummate professionals.
+BULL19|And we've got the expertise.
+BULL20|We've got the track record delivery.
+NEUT21|What's really important now, though.
+NEUT22|Particularly the next few months is to get our first product into production.
+NEUT23|That's the great litmus.
+NEUT24|OK, so Peter, you say your technology company and I share that an on page 37 of your excellent depth that has everything that people should know leading charging speeds.
+NEUT25|I happen to think that the differential for many, many people and many, many cars is how quick you can get on the road and how quick you can charge.
+NEUT26|Give us what you can do versus the other guys.
+NEUT27|Absolutely Jim couldn't agree more.
+BEAR28|It's a huge differential.
+NEUT29|So here we have a charging speed where we can put 300 miles in the car in around 20 minutes and we're doing that with ultra high voltage over 900 Volt charging through our partnership with Electrify America.
+NEUT30|This is next generation technology and we're doing that with our Wonder Blocks boost charger.
+NEUT31|And not only that, we've got two way charging on board.
+NEUT32|So we can actually go vehicle to grid.
+NEUT33|You can run your house off the car.
+NEUT34|Well I also like as someone who has kids who drop.
+BULL35|I see that you have 32 sensors on board, a comprehensive sensor suite.
+NEUT36|I always ask my kids how many sensors.
+NEUT37|Why because this is what a parent cares about.
+NEUT38|This is the most correct.
+BULL39|This is the maybe the safest car on the road to the best of my knowledge it's the most comprehensive and beautifully integrated sensor suite for autonomous driving and aidas over 14 cameras, 32 sensors, and we fuse long and short.
+NEUT40|"Range radar surround radar with long range plus 120 degree solid state LIDAR in the nose."""

@@ -1,0 +1,15 @@
+BULL0|"""Over the edge."
+NEUT1|Play my phone.
+NEUT2|All the sudden.
+NEUT3|Oh, I am restricted thanks to bomb the web.
+BEAR4|I need to kick the habit that my mind is breathing and freak out.
+NEUT5|I've got to see.
+NEUT6|All my life holding on.
+NEUT7|Updated this contest finally facing her.
+NEUT8|Fearless.
+NEUT9|Turn in the fridge that keeps.
+BULL10|I'm here and I'm feeling exaggerated.
+NEUT11|It does what you us.
+NEUT12|Stories over now.
+NEUT13|I must come clue.
+BEAR14|"I am conflicted watching where I step still hanging in the balance of the light bulb."""

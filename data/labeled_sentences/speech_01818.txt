@@ -1,0 +1,35 @@
+NEUT0|"""Welcome to five minutes or less essential finance."
+NEUT1|Today we will be examining cake stock on a high level.
+NEUT2|After watching this video let us know is the cake expired?
+NEUT3|Should you take a nibble, eat a bite, or take the whole damn slice?
+NEUT4|So without further ado, let's finagle this bagel.
+NEUT5|Let's get right to the batter.
+NEUT6|What is the probability that The Cheesecake Factory goes bankrupt as of March 31st, Cake had 81 million in cash on their balance sheet.
+BULL7|But in April 2020, they got a cash investment from an investment firm for an amount of $200 million, pushing the odds of bankruptcy much lower.
+NEUT8|Right now most of The Cheesecake Factory locations are open at 50% capacity.
+NEUT9|If you go to The Cheesecake Factory, you could order for curbside pickup, and Additionally, they also do food delivery with other companies such as Uber.
+NEUT10|All of those elements taken into consideration Jeremy from financial education believes there is a 95% probability of them not going bankrupt.
+BEAR11|In his view, the only scenario where cake would go bankrupt is if the Rona comes back much stronger for a longer period of time where their restaurants are forced to be closed and no one is willing to lend them money.
+NEUT12|Not even the Fed.
+BULL13|Once this crisis passes, the Cheesecake Factory's management believes it will expand another 50 to 100 locations in the United States within the next 5 to 10 years.
+BULL14|They currently own a bit over 200 locations, so at 100, store addition represents 50% fundamental growth.
+NEUT15|They also have many locations internationally.
+BEAR16|Not many people have been talking about this, but many of their competitors have been going out of business.
+BULL17|So once this crisis is over, cheesecake will be in such a stronger position than it was before.
+BULL18|Historically, the restaurant space has been extremely competitive, but this once in a 100 year event has forced natural selection into the space.
+NEUT19|So they own The Cheesecake Factory and another lesser known brand called North Italia, which focuses on higher end Italian foods.
+BULL20|With North Italia management believes they will be expanding and opening another 100 locations in the US within the next 5 to 10 years.
+NEUT21|They also on another brand called Fox Restaurant Concepts.
+NEUT22|Fox restaurants are more experimental, operating many different restaurant types in a trial and error kind of fashion.
+NEUT23|Who knows, it might become another massive brand for them.
+BEAR24|The current stock price is down more than 60% from its 52 week highs.
+NEUT25|Considering how low this is and where the stock could be if its revenue came back to what it previously was, it's definitely interesting.
+NEUT26|According to Jeremy from financial education, there is a very attractive risk reward.
+BEAR27|The odds of losing 50% on the stock right now are extremely low and the odds of doubling or even tripling the price in the next three to five years are very likely.
+NEUT28|Jeremy from financial education would like to make this a 10,000 share position, especially if it hit $15.
+NEUT29|He also mentioned his interest in buying call options for the January 20, 2320 dollars strike price options.
+NEUT30|But of course, please make your own investment decisions, do your own research.
+NEUT31|Let us know your thoughts in the comment sections below.
+NEUT32|If you made it this far into the video, comment below.
+NEUT33|Unicorn and Unicorns will visit you in your dreams.
+BULL34|"Thank you so much for watching your support is super appreciated."""

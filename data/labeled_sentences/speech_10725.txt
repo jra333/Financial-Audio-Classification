@@ -1,0 +1,13 @@
+BULL0|"""All right, my stocks are up."
+NEUT1|Thank you stocks.
+NEUT2|Alerter wait, did you just get stock advice from an app?
+NEUT3|Yeah, with stocks alerter, the app tells me what stocks to buy at what price and when to sell for a profit.
+NEUT4|It's like having a little Wall Street trade expert in your pocket.
+BULL5|Wow, that sounds way better than carrying around my little Wall Street trade expert in my pocket.
+BEAR6|This is extremely degrading.
+NEUT7|I went to Yale.
+NEUT8|I'm not some sort of I have.
+NEUT9|So many questions you were saying about stocks learner right by the right stocks an maximize your profit with stocks alerter.
+NEUT10|So does he just stay in there all day?
+NEUT11|Yeah, he gets a 20 minute lunch at noon.
+NEUT12|"I feed him like a single cheese puff."""

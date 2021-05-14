@@ -1,0 +1,31 @@
+NEUT0|"""Hello yours first of disclaimer."
+NEUT1|He's not a financial advice and I'm not your financial advisor.
+NEUT2|Please use your discretion when making financial and investment decisions.
+NEUT3|Today we're going to look at Facebook.
+BULL4|Facebook has been an incredible stock right from the time it's been.
+NEUT5|It's been IPO.
+NEUT6|But we're interested in 2017, and so let's look at how the stock has done over the last one year.
+BEAR7|So Facebook shows a change of 48.92% so.
+NEUT8|If you would've bought the shares on, let's say, 12 January, 2017 hundred, $25.
+NEUT9|He would have been $88.00.
+NEUT10|So that's close to roughly $62.00.
+BULL11|$62.00 which is a very good return on your investment.
+NEUT12|Uhm?
+NEUT13|Push it and let's look at comparison with the S&P 500.
+BULL14|SMP 500 for the last one year, gave has even a return of 22%, whereas as we have seen.
+NEUT15|Facebook has given 48%.
+NEUT16|Now let's compare it with NASDAQ.
+BULL17|NASDAQ has given up 30% and we have 48% so it has comfort ubly build in both.
+NEUT18|NASDAQ and S&P 500.
+NEUT19|However, today's pre market is around 100.
+BEAR20|$79180.00 is down 8 bucks which is 4%.
+NEUT21|I know this is just short term and then.
+NEUT22|So people who would want to get in, they would buy in and then.
+NEUT23|Sit on it for some time.
+NEUT24|However.
+NEUT25|Apparently this happens to be a good stock in this bull market, and as the number of people who have Facebook accounts and keep using Facebook grow.
+NEUT26|This company's stock is going to go.
+BULL27|Apparently it has a good management team which has really fueled its growth.
+NEUT28|Again, this is not financial advice and I'm not your financial advisor.
+NEUT29|Please use your discretion when making investment decisions.
+BULL30|"Thank you."""

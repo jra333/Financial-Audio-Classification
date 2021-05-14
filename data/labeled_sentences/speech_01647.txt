@@ -1,0 +1,30 @@
+BEAR0|"""Black girl stocks."
+NEUT1|David Jackie will passstrategy.com, and in this video I'm going to do a review of Black Girl stocks.
+NEUT2|I've spent the last two hours watching her videos.
+BULL3|An overall I think that she's really good.
+NEUT4|I think that it's a great source of information, especially for beginners.
+BULL5|I think that as a younger person for her to provide valuable information to other young people is incredibly valuable.
+NEUT6|Some of the things that I took away from this is that she definitely encourages selling options.
+NEUT7|She also has a few videos on the Greeks, even though I'm not really a big fan of looking at the Greeks, primarily because it's already factored into the current market price of the option.
+NEUT8|I do think that it's definitely very important to understand how Delta and Theta and Gamma and Vega, how all of them impact the current market price of that option, because by helping to understand how those Greeks influence the market price, then it's going to help you make a more informed decision.
+NEUT9|I just think overall that she's a really credible source of information, like here's a playlist that she has on how to sell options.
+NEUT10|Choosing the right options, the best options trading strategy so she really talks about both selling options, which has a very high probability of profit.
+NEUT11|She also touches upon buying options.
+NEUT12|She also has a few videos on day trading and swing trading, and overall she strikes me as someone who is very intelligent and who is very credible.
+BULL13|And I think that it's great to have another creator on here.
+NEUT14|Who focuses on selling option premium?
+NEUT15|I guess the only thing that I would like to see is some of her trades that would be great, but Even so, she's not putting herself out there as an expert.
+NEUT16|Instead, she's putting out very valuable information primarily geared towards options traders for beginners options.
+NEUT17|Traders who are interested in learning different trading strategies like buying options or selling options or day trading or swing trading, and she's giving you the pros and cons.
+NEUT18|Of each of those, while also providing her opinion.
+NEUT19|So overall I'm very impressed with her an I like her videos are very well produced and I think that as a beginner it's definitely worthwhile and I think that it's worthwhile to subscribe to her channel if you are an experienced options trader than some of her videos might be a little bit too basic and like I said before, it would be nice to look at some of her personal trade so that I can gain more insight into how she manages her own accounts, how she manage is.
+NEUT20|Trades that become challenged, or when the trade goes against you.
+BULL21|But Even so, my takeaway from consuming a lot of her videos is overall very positive and I think that she's a credible source of information and I think it's fantastic that you have young creators on YouTube who are putting out great content, encouraging their followers to engage in high probability trading.
+NEUT22|Because to me, high probability trading is investing when you buy options and it has a very low probability of profit.
+NEUT23|It is oftentimes like buying lottery tickets.
+NEUT24|Yes, like 20 or 30% of your options, trades are going to make money, but I personally think that the best way to trade is by selling option premium.
+NEUT25|But I love how black girl stocks in her videos.
+NEUT26|She goes over the expected probability and the probability of profits.
+BULL27|And overall I'm just very impressed and I think she does a great job.
+NEUT28|David Jaffe with beststrategy.com.
+NEUT29|"If you have a question, then leave a comment below and let me know your thoughts on Black Girl stocks and I appreciate your attention."""

@@ -1,0 +1,13 @@
+NEUT0|"""Another trading week is in the books here on Wall Street's."
+NEUT1|Here's the New York Minutes for October the 14th.
+BEAR2|We had a strong day in Europe and the opening here in Wall Street, but that soon dissipated stocks ended up largely flat for the day, and that was because of changes in fixed income and currencies.
+BULL3|The dollar is strengthening very noticeably.
+BULL4|At present you can see it's right back up to the top of its recent range, and that is because bond yields Treasury yields are also rising very sharply.
+BULL5|The 10 year yield is almost got back up to 1.8%.
+BULL6|Inflation expectations are also rising for the state.
+BULL7|Still, it's a very low level, but right back up towards the top of their recent ranges.
+NEUT8|Now all of this is becauses there is now a belief that the Fed really is going to be raising rates in December of this year.
+NEUT9|However, if you take a look at implicit forecasts for rates by the end of next year, people still think it's only really a 5050 shot that they will have raised rates once more by then.
+BEAR10|There is still a belief that the Fed is fundamentally dovish, even though there is a great concern.
+BEAR11|About rising inflation and a strengthening dollar, it's an unappetizing mix, and it explains why stocks gave up their gains for today.
+NEUT12|"And that's the New York minute."""

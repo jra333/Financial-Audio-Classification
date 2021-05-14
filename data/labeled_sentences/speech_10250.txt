@@ -1,0 +1,32 @@
+BEAR0|"""Probably, maybe the dumbest action of the year."
+NEUT1|Is this running BP today, yet?
+NEUT2|The old British Petroleum think Macondo.
+BULL3|Back in February, BP raised its dividend by two point.
+NEUT4|4% raised OK. You hear me February race making the case that the world of oil was getting better and better and then one return money to shareholders.
+BULL5|Chris things were so rosy.
+NEUT6|So what happened when they boosted that dividend?
+BULL7|The stock immediately flew up almost 5%.
+BEAR8|Pre pandemic today, the company announces a record loss pronounces prospects incredibly.
+NEUT9|Grim offers to pivot to lower carbon.
+NEUT10|Is in welcoming and cut it in half.
+NEUT11|Now they telling you business is terrable BP is trying to distance itself from crude while preserving cash.
+BEAR12|But maybe that dividend hike was a mistake.
+NEUT13|Alright, so how much was that?
+BEAR14|Stock down?
+NEUT15|I mean wow what a what a parade of horrors are you kidding me.
+BULL16|BP stock rallied 7.5%.
+BULL17|That's a bigger gain then when they got.
+BULL18|They got in February when they told you business was great and they raised the dividend.
+NEUT19|Stupid is as stupid does and I also didn't know it.
+BULL20|Turns out the big buyer today.
+NEUT21|With someone by the name of Navin Johnson, the bottom line.
+NEUT22|Sometimes the stock market roars and makes perfect sense.
+NEUT23|But there's also plenty of stupidity, specially during earnings season when there's so much news that it's hard to keep track of what's going on.
+NEUT24|So the next time you see something totally crazy, it might not.
+NEUT25|Well, it's not going to be fed.
+NEUT26|It might not be the president.
+NEUT27|It may just be standard garden variety idiocy.
+NEUT28|Don't miss a second of mad money.
+NEUT29|Follow at Jim Cramer on Twitter.
+NEUT30|Have a question?
+NEUT31|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

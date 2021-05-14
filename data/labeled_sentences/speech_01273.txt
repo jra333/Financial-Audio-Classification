@@ -1,0 +1,51 @@
+NEUT0|"""Why GMC has a P slash E of 92.36?"
+BEAR1|The average P slash E of all the stocks in the vector vest database is minus 120.24.
+NEUT2|He why earnings yield EY reflects earnings per share as a percent of price.
+NEUT3|Why GMC hazony?
+NEUT4|Why of 1.08%?
+BEAR5|This is below the current average of minus 0.83% for all the stocks in the vector vest database.
+BULL6|GDP growth 2P slash E ratio.
+NEUT7|GMC has a GP rating of minus 0.05.
+BEAR8|A stock is commonly considered to be undervalued when GP is greater than 1.00.
+NEUT9|Div dividend vector Vest reports annual regular cash dividends as indicated by the most recent payments.
+NEUT10|Special distributions one time payments, stock, dividends etc are not generally included in Dvy.
+NEUT11|GMC does not pay a dividend.
+NEUT12|DY dividend yield YY reflects dividend per share as a percent of price.
+NEUT13|Why GMC does not pay a dividend, so it does not have a dividend yield rating.
+NEUT14|D y = 100 XDIV slash price.
+NEUT15|It is useful to compare DY with the Y.
+BEAR16|If the Y is not significantly lower than EY, the dividend payment may be in jeopardy.
+NEUT17|DS Dividend safety DS is an indicator of the assurance that regular cash dividends will be declared and paid at current or at higher rates for the foreseeable future.
+NEUT18|Why GMC does not pay a dividend, so it does not have a dividend safety rating.
+NEUT19|Stocks with DS values above 75 typically have ours values well above 1.00 anyway.
+BULL20|Levels that are much higher than the YDG dividend growth rate.
+NEUT21|Dividend growth is a forecasted annual growth rate of a company's dividend based on historical dividend payments and dividend predictability.
+NEUT22|It is a subtle yet important indicator of a company's financial performance.
+BULL23|It also provides some insight into the board's outlook on the company's ability to increase earnings.
+NEUT24|Why GMC does not pay a dividend, so it does not have a dividend growth rating.
+NEUT25|Ycg ysg vector YSG is an indicator which combines DYDS&DG into a single value and allows direct comparison of all dividend paying stocks in the database.
+NEUT26|Why GMC does not pay a dividend, so it does not have a ysg rating.
+NEUT27|Stocks with the highest ysg values have the best combinations of dividend yield, safety, and growth.
+NEUT28|These are the stocks to buy for some with above current income and long term growth.
+BULL29|Average fall average volleys.
+NEUT30|The 50 day moving average of daily volume as computed by vector vest.
+BEAR31|Why GMC has an average fall of 600 and 72,000 and 59 shares traded per day?
+NEUT32|Percent Vol.
+NEUT33|Percent Vol reflects the percent change in today's trading volume as compared to the average volume.
+NEUT34|Percent Vol equals volume average Val slash average Val* 100.
+NEUT35|Why GMC had 8% volume minus 73.02% on Thursday December 31st 2020% PRC?
+BEAR36|Why GMC price changed minus 4.15% from the prior day's closing price?
+NEUT37|Sales why GMZ has annual sales of 29 million sales growth.
+NEUT38|Sales growth is the sales growth rate in percent over the last 12 months.
+NEUT39|Why GMC has a sales growth of 8.00% per year?
+BULL40|This is good.
+BULL41|Sales per share SBS.
+NEUT42|Why GMC has annual sales of $3.27 per share.
+NEUT43|Price to sales ratio P slash SY GMC has a P slash S of 3.11.
+NEUT44|Cheers Y GMC has nine million shares of stock outstanding.
+NEUT45|Market capitalization.
+NEUT46|Why GMC has a market capitalization of 91 million?
+NEUT47|Business sector.
+NEUT48|Why GMC has been assigned to the transportation business sector?
+NEUT49|Vector vest classified stocks into over 200 industry group San 40 business sectors.
+NEUT50|"Industry group Why GMC has been assigned to the."""

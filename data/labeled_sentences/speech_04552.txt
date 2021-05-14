@@ -1,0 +1,30 @@
+BEAR0|"""The most watched U.S. jobs number was a clear disappointment today."
+NEUT1|Now Anthony, were there any peculiarities in the report that you'd like to point out?
+NEUT2|Well, I like.
+BULL3|I was encouraged by the fact that the length of the workweek actually increased.
+BULL4|I was encouraged by the fact that some of the cyclical components of the report were good.
+BULL5|For example, construction employment was very positive.
+BULL6|I was also encouraged by the fact that temporary help was positive, so it suggests that in the next couple of months, we're going to see an improved.
+NEUT7|Labor market report.
+NEUT8|Next time, or perhaps the reports shortly thereafter.
+NEUT9|So no expectations of more soft reports coming up as the markets are fearing right now.
+BULL10|I really don't think so, because if you look at all the other data that's out there, it's telling us that in the first quarter we're going to have economic growth North of 3 1/2%.
+NEUT11|And that's not bad.
+BEAR12|Despite all the negative shocks, the sequester, the payroll tax, it's true that in the second quarter economic growth slows a little bit.
+BULL13|But by and large, I think that we're going to get better than 2% growth this year.
+BEAR14|So does that mean that we'll see less unity in the Fed on policy going forward?
+NEUT15|Well, I think that there's no question that all this discussion at the Fed that they're going to be tapering off this year may be true, but I think there's going to be less of an urgent desire or need to do so anytime soon.
+NEUT16|So I think that this probably pushes things a few months further into the future.
+NEUT17|Not to say that one report makes a trend because everyone knows it doesn't.
+BULL18|This certainly will allay some of those concerns now.
+NEUT19|First quarter earnings season kicks off next week with Alcoa.
+NEUT20|Do you think that's going to set the tone for earnings season?
+NEUT21|Well, I think so.
+BEAR22|Everybody knows that in the first quarter of this year, economic growth is going to be robust, but earnings are going to be a little bit weaker.
+BULL23|But I think as the year progresses, we're going to see an improvement in corporate earnings.
+NEUT24|So the year as a whole won't be all that bad.
+NEUT25|So what there's petitions in terms of earnings guidance starting from next week?
+NEUT26|What kind of guidance do you think companies will reveal?
+BULL27|I think the guidance is going to be a little bit more positive, and that's going to be easy because if the first quarter corporate profit growth is not all that strong, then to be able to say that things are going to get a little bit better as the year progresses won't be that challenging.
+BULL28|Thanks, Anthony.
+NEUT29|"This is Andrew say reporting for the street."""

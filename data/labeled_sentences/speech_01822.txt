@@ -1,0 +1,43 @@
+NEUT0|"""Hey fools and welcome I'm Jill Ralph here with Stuart Watson, Roger hi Stuart and we're here to talk about a very popular theme and investing."
+NEUT1|Dividend stocks full 97 of the 100 Footsie 100 stocks pay a dividend but not all is created equal when it comes to dividend stocks.
+NEUT2|So we're going to give you 3 warning signs when you're looking at dividend stocks, so I'm going to jump right in.
+BEAR3|A warning sign #1A company with an inconsistent track record of paying the dividend.
+NEUT4|So Stuart it sounds pretty intuitive, but tell us why is that a problem for for a company or a dividend investor?
+BULL5|Yeah, I mean most companies will try and increase their dividends steadily each year, so just maybe add sort of five 6% because generally that's what big investors like to see.
+BULL6|I like to see a steadily increased dividend year on year.
+NEUT7|There's not actually that many companies that can boast that sort of record.
+NEUT8|So we picked out a few.
+NEUT9|This is for example Tesco Articules TCO.
+NEUT10|Pyside cousins, peas, Edsi and Greg sandwiches Giorgi.
+NEUT11|These are all got great track records of over 20 years of paying increasing dividends, but there's very few companies that position so when you look back over a company's dividend history, you see cuts or maybe it's past its dividend altogether.
+BULL12|You know that can indicate it hasn't got a great track record over the long term, so that's a good sign to look out for if you want to avoid those dodgy dividend payers.
+NEUT13|So warning sign one look for consistency in a dividend payment.
+BEAR14|Warning sign #2 low dividend cover.
+NEUT15|So we're going to talk through what does that actually mean?
+NEUT16|So a low dividend cover is when basically the dividend is not that well covered by profits.
+NEUT17|So saying company earns 100,000,000 in profits in one year and pays out 80 million in dividends.
+NEUT18|That's quite a low dividend cover, so a good example there at the moment is Man Group, particularly EMG, and that's actually paying out more in dividends in the moment that it's actually earning profits.
+NEUT19|Warning sign number two.
+BULL20|Yeah, that's a big warning sign in each year it says will pay this level of dividend and it keeps on sort of.
+NEUT21|Prolonging the agony almost, but that's it.
+NEUT22|Can't go on forever, so you're a little nervous about that one.
+NEUT23|A little bit.
+NEUT24|Yeah, alright, so warning sign #3.
+NEUT25|High yield dividend investors like to chase yield it can workout, but sometimes it can be risky.
+NEUT26|So talk us through.
+NEUT27|Why is chasing a high yielding dividend paying stock risky?
+NEUT28|Yeah, I mean we like high yields, but the danger is too high yield so a lot of people will look at the average paid by the market, which is about three and a half.
+NEUT29|4% of the moment and they will say.
+NEUT30|Anything 50% more than that or higher, so say 6% or more.
+BEAR31|That's too high, and that's a bit of a danger sign.
+NEUT32|So a company that falls into that at the moment is Aviva.
+NEUT33|Ticket is a VDOT shopping is paying about 7% at the moment.
+BEAR34|Quite often you get these high yields, not because the dividends are going up, but the price is falling.
+NEUT35|So you need to watch out there, so if it's if it's too high, then that's a big warning sign number.
+NEUT36|So great, so there you have it.
+BEAR37|Three warning signs, a couple.
+NEUT38|Couple of companies that have stored a little nervous, including Man Group and Aviva, but then a couple companies that don't and then have a nice consistent track record of paying their dividend.
+NEUT39|Tesco, PZ Cussons and Greg's.
+NEUT40|So that was our dividend warning special for today.
+BULL41|Hope you enjoyed it.
+BULL42|"Thank you, Stuart."""

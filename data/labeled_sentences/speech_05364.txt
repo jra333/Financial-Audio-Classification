@@ -1,0 +1,37 @@
+BEAR0|"""Alright, Apple is a big reason why we're down 119 points today, contributing about 100 points to that fall off today."
+BEAR1|As you know, by now Apple disappointed, even though the overall sales and earnings were off the charts so that it didn't make it.
+NEUT2|In fact, it made a lot of money off the phones.
+NEUT3|It sells a lot more money, just not as many of them and now so much so that Apple is said, you know, we're not going to break down or break apart these sales figures anymore.
+NEUT4|Too much attention is paid to that.
+NEUT5|The first trust advisors chief economist Brian Westbury.
+BEAR6|Brian, the effect was immediate on the market for Apple and technology stocks in general, and even now as we speak in the overall Dow Apple course of Premier component.
+NEUT7|What do you think?
+BEAR8|Yeah, well, first of all, Apple is a great company and I and I can't specifically recommend a company or not because we might hold it in our portfolios and so let me just talk in general about the consumer because some people are looking at this as a as a sign that the consumer is hurting and that's just not true.
+BEAR9|Today we got 250,000 new jobs in the month of October wages and this is average hourly earnings.
+NEUT10|And remember they don't include tips, commissions.
+NEUT11|Irregular bonuses or health benefits at all.
+BULL12|Those wages are up three point 1% in the past year.
+BULL13|That's the strongest in almost a decade since 2009 and we when we look at the 370 plus companies that have reported so far for the S&P 500 total sales are up 8.9%.
+BULL14|And then if you pull out consumer discretionary companies, their sales are up over 10% so wages are up.
+BULL15|Jobs are up, spending is up.
+NEUT16|I mean this.
+BEAR17|There's no sign that this economy is rolling over and that the consumer is running out of gas.
+BEAR18|I'm just wondering whether Apple, which has become more of a mutual fund these days for all things technology, I'd even slash retail there, that it headline certain troubles for the consumer.
+NEUT19|Do you mind that?
+NEUT20|Yeah, I don't.
+NEUT21|I think you know.
+NEUT22|I mean, it's one specific product.
+NEUT23|It has a lot of competitors out there.
+BULL24|They've done extremely well.
+NEUT25|I mean, if we look back, I mean it's it's.
+NEUT26|It's an amazing company, and if you think about the Fang stocks in general, they're all amazing companies.
+NEUT27|They have grown rapidly, but that doesn't mean there's not going to be competition.
+NEUT28|That doesn't mean that they don't have to keep innovating and there's no sign that they have a bad market to sell in, in other words.
+BEAR29|If they've had some issues or any of these companies have issues with their results, it's not because the economy is rolling over.
+BEAR30|In fact, the economy looks to me as if it's accelerating just a few years ago, we kept hearing complaints about where's the top line growth.
+BULL31|In other words, revenue or sales growth for companies and today it's booming.
+BULL32|It's up over 8%.
+BULL33|In the past year for all companies, up over 10% for consumer discretionary companies.
+NEUT34|I can't imagine a better environment for retailers than the than the one we're in right now.
+BULL35|Alright Brian, always good chatting my friend.
+BULL36|"Thank you very very much."""

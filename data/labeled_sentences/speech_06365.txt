@@ -1,0 +1,32 @@
+BULL0|"""Hello and welcome back to the note."
+BULL1|We've had an exciting first week of the US earnings season, broadly.
+BULL2|As expected, those companies that manage to surprise were amply rewarded.
+NEUT3|Most noticeably GE today.
+BEAR4|Those that had an unpleasant surprise were strongly punished.
+NEUT5|See Walmart from earlier.
+NEUT6|The week.
+BEAR7|Broadly, revenues are down and worse than expectation, but thanks to profit margins, a number of companies are ahead of earnings expectations.
+NEUT8|And you are seeing.
+BULL9|You are seeing share prices continue to rise.
+BEAR10|In fact, if you take a look at this chart, you'll see that the S&P is now beginning to challenge the prognosis that was made a couple of months ago when it formed a death cross.
+BEAR11|That's when the daily price drops below the 50 day moving average measure of the short term trends, which in turn drops below the 200 day moving average, which is a measure of the longer term now, not almost not all of that is still in place, because the.
+BEAR12|The main index is now back above its 50 day moving average.
+NEUT13|What is driving it upwards primarily, of course.
+BEAR14|It's changing sentiment on rates.
+BULL15|If the Fed does indeed keep rates lower for longer, that will help stock valuations.
+BEAR16|However, that has to be balanced against the fact that if the Fed does the lower for longer, that will be because the economy is in bad shape.
+NEUT17|That brings us to the second trend that is worth looking at.
+BULL18|If we take a look at this next chart, you can see that stocks certainly seem to have been supported very much.
+NEUT19|During the era since the crisis by QE, by the steady growth of the Fed's balance sheets, it's once that accumulation of assets on the balance sheet stopped.
+BEAR20|That stock market got into trouble.
+NEUT21|One thing that is now beginning to be discussed in Wall Street.
+NEUT22|I don't know whether it's being discussed in the Fed.
+NEUT23|Is that maybe there may yet be cause for QE four or some other form of stimulus?
+NEUT24|Extra stimulus beyond what has been?
+NEUT25|Administered already.
+NEUT26|If you see something like that, maybe that does drive the stock market further, or at least the hope of it does.
+NEUT27|As it stands, that's the very Interestingly poised position we have at the moment.
+NEUT28|Stocks appear to be trying to.
+BEAR29|Reverse what appeared to be a very dangerous situation where they were slipping into a bear market for the next week.
+BULL30|We have lots knew of new earnings results to look forward to and we also have lots of announcements from central banks around the world.
+BULL31|"We can expect this rather exciting period in markets to continue for a while yet."""

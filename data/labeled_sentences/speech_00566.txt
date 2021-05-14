@@ -1,0 +1,12 @@
+NEUT0|"""Alright, let's take a look at the Apple stock."
+BULL1|We can see Apple had advanced at nearly 3% for the day, so it's a very huge jump if we change the chart into daily Charter can see here we got a completely new high with a huge breakout from the consolidation area of this rekindles.
+BULL2|But now I think we already got a little bit overbought in this condition, but the constructive signs that the volume is comparatively strong.
+NEUT3|And this means somebody is buying it.
+NEUT4|And with this, our boat situation.
+NEUT5|I don't think it will go much higher in the near.
+NEUT6|Time, especially tomorrow.
+BEAR7|I think it will be pulled back down to the AMA supporting level in neutral, but in short term we are in a clearly uptrend channel.
+NEUT8|We can see here is the stage one.
+NEUT9|Stage 2.
+NEUT10|Stage three now we got the suit stateful so it's very clear I pose in after the channel in meter.
+BULL11|"Thank you."""

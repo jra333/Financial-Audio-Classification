@@ -1,0 +1,23 @@
+NEUT0|"""So Alibaba Group is a technology company with many E Commerce sites such as T Mall."
+NEUT1|And Taobao in China.
+NEUT2|Perhaps Westerners may be more likely to have heard of Ali Express before.
+BULL3|Alibaba Group trains under ticker symbol Ba BA on the New York Stock Exchange and Revenue and earnings have been growing quite nicely over the last four years.
+BEAR4|The current CEO of the Alibaba Group is Jack Marr and after recently speaking out against the financial system in China, he's gone missing.
+BEAR5|Which wasn't great for the share price and neither was the failed IPO of an group which had its IPO.
+BEAR6|The plug was pulled by the Chinese Regulatory authority.
+BEAR7|So that's not great for the share price either.
+NEUT8|We can see the effect of these issues.
+BEAR9|In the last six months, as the share price has declined from a peak around October, there's also been talk about the bar bar stock being delisted.
+NEUT10|However, it doesn't seem like this will happen so much anymore.
+BEAR11|Even more bad news is the there has been a investigation into antitrust from the Chinese market regulator into the Alibaba Group.
+BULL12|But a positive essence securities have showcased it believes that Alibaba will have strong revenue growth and just growth as a company and essence securities is a part of the SDC which is a state owned Corporation in China.
+BULL13|So perhaps this actually shows that the Chinese state believes that Alibaba will grow.
+BULL14|So this is a good sign for the company.
+BULL15|So from the peak there and then all the news making the share price go down, I believe the share price will go back up again, reaching around $380.
+BULL16|However, this is conservative analysis, but is actually quite high compared to many analysts targets.
+BULL17|However, they still target around $330, which is still substantially higher than the share price today.
+NEUT18|So let me know if you think I missed anything.
+NEUT19|This was quite quick.
+NEUT20|Look at many.
+NEUT21|Quite important issues concerning the barstock, so make sure to do your own due diligence before making any investment decisions.
+NEUT22|"I'm not a financial advisor."""

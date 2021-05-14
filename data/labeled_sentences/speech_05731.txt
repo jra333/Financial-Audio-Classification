@@ -1,0 +1,7 @@
+BEAR0|"""But now you probably heard that struggling video game retailer Gamestop's stock miraculously skyrocketed in value thanks to small time investors on Reddit."
+BEAR1|This came at the expense of Wall Street hedge funds, who stood to profit from Gamestop's seemingly inevitable demise.
+BEAR2|Unsurprisingly, deep pocketed investors are crying foul and demanding regulators do something to prevent this shameless manipulation of the stock market.
+NEUT3|Well, so that I say baloney for years, vulture capitalists on Wall Street have treated the economy like their own rigged casino, exploiting companies for the point of collapse.
+NEUT4|Instead of focusing on Reddit users, regulators should set their sights on hedge funds and other Wall Street players.
+NEUT5|And stop there really reckless gambling.
+NEUT6|"A financial transaction tax on their risky stock bedding would be a good place to start."""

@@ -1,0 +1,21 @@
+NEUT0|"""Let's go to the next story here and it's about we work."
+NEUT1|According to the Journal Planning to raise up to $4 billion in debt before the your.
+NEUT2|I just got really big when I said what would talk to me.
+BEAR3|$4 billion in debt that could turn into $10 billion in debt for a company that's losing almost $2 billion.
+BEAR4|This is making Wall Street salivate.
+NEUT5|And so we work is going to be potentially appealing as early as this year, right?
+NEUT6|And then everyone's really excited about it, but think about how much fees is this is imbedded for the banks.
+NEUT7|This draws, actually, it's not even just about the money.
+BEAR8|This draws a huge question mark on all these pre IPO companies that are losing money.
+NEUT9|How easily they be able to raise money in capital markets especially through debt financing.
+NEUT10|So I basically just don't get this.
+NEUT11|Why do they load up the balance sheet just before they go?
+NEUT12|I was asking that question.
+NEUT13|Why is that a good corporate finance decision?
+NEUT14|This is the question mark for everybody.
+NEUT15|To be honest an it's not even just for we work.
+NEUT16|Remember is debtor equity better source of financing for all of these money losing companies?
+NEUT17|And how much do the banks keep on their own?
+NEUT18|Looks, I mean, that's the big question mark.
+NEUT19|And it's something regulators.
+NEUT20|"This is leverage lending is all about."""

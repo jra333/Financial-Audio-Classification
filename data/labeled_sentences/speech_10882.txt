@@ -1,0 +1,35 @@
+BULL0|"""OK, perfect in this lesson."
+NEUT1|We'll continue to explore how Monte Carlo simulations can be applied in practice.
+NEUT2|In particular, we will see how we can run a simulation when trying to predict the future stock price of a company.
+NEUT3|There is a group of libraries and modules that can be imported when carrying out this task, but the good news is you have already used all of them besides the classical NUM, py, and pandas.
+NEUT4|We will need Norm from Scipy and some specific matplotlib.
+NEUT5|Features.
+NEUT6|Once again, the company we will use for our analysis will be PNG the timeframe under consideration reflects the past ten years starting from January the 1st 2007.
+NEUT7|We want to forecast PNG's future stock price in this exercise, so the first thing we'll do is estimate its historical log returns.
+NEUT8|There is a second way to obtain simple or log arhythmic returns and we will discuss it in more detail in the notebook document attached to this video.
+NEUT9|The method will apply here is called percent change and you must write percent_change.
+NEUT10|Open and) to obtain the simple returns from a provided data set.
+NEUT11|We can create the formula for log returns by using numpy's log and then type 1 plus the simple returns extracted from our data.
+NEUT12|And.
+NEUT13|Here's the table with PNG's log returns awesome.
+BULL14|In the first graph we can see PNG's price which has been gradually growing.
+NEUT15|During the past decade.
+NEUT16|In the second one, we plot the log returns, not the price of PNG.
+NEUT17|The picture tells us the returns are normally distributed and have a stable mean.
+NEUT18|Great.
+NEUT19|Now let's explore their mean and variance as we will need them for the calculation of the Brownian motion we talked about in our previous lecture, remember.
+NEUT20|We already know how to calculate mean and variance, don't we?
+NEUT21|After a few lines of code.
+NEUT22|We obtain these numbers zero.
+NEUT23|What are we going to do with them?
+NEUT24|1st, I'll compute the drift component we studied in our previous lecture.
+NEUT25|It is the best approximation of future rates of return of the stock.
+NEUT26|The formula to use here will be you, which equals the average log return minus half its variance.
+NEUT27|Alright.
+NEUT28|We obtained a tiny number and that need not scare you because we'll do this entire exercise without annualizing are indicators why?
+NEUT29|Because we will try to predict PNG's daily stock price.
+BULL30|Good.
+NEUT31|Next we will create a variable called T dev and we will assign to it the standard deviation of log returns.
+NEUT32|We said the Brownian motion comprises the son of the Drift and standard deviation of adjusted by E to the power of R0.
+NEUT33|We will use this block in the second part of the expression.
+NEUT34|"OK, we've set up the first Brownian motion element in our simulation in the next lesson, we will create the second component and we'll show you how this would allow us to run a simulation about a firm's future stock price."""

@@ -1,0 +1,29 @@
+NEUT0|"""Yeah, I mean China set the world's second largest economy."
+BEAR1|Lots of other countries are dependent on its manufacturing sector on its consumer sector, on its infrastructure and real estate contract construction sectors so slow down, even if it looks relatively small in the aggregate growth figures can have quite a big knock on impact on the broader global economy.
+BEAR2|We're fairly downbeat on the prospects for Chinese coming for the next few quarters, which is a key reason why we think the global economy will continue to slow into next year and see the weakest growth.
+NEUT3|Since the global financial crisis, but they will hold the hard line on 6%.
+NEUT4|You think China can go below that Mark.
+BULL5|I think they will meet their target for this year, so they will keep it above 6%.
+NEUT6|Whether it's actually above 6% or not.
+NEUT7|That's another question.
+BULL8|We think the economy is actually going around 5% already at the moment.
+NEUT9|But then the question becomes next year.
+BEAR10|Do they lower their target given all the additional headwinds from trade from the slowdown that we're seeing in some parts of the economy, particularly consumer sector?
+NEUT11|Sadly.
+NEUT12|Doing it sadly out in Dubai, I want to follow up to 10 years first question, just speaking about the countries that are dependent in terms of exports on China.
+NEUT13|What about the oil producers, particularly here in the GCC countries like Saudi Arabia, the UAE, these countries that really depend on oil prices to make their bottom line.
+NEUT14|How worrying is this for them?
+BEAR15|Well, I think the slowdown in China's economy is a concern.
+NEUT16|You know, as I said, it's the world's second largest economy.
+NEUT17|It you know, it's a key source of demand for oil imports, especially from the Middle East.
+BULL18|Given that the US is increasingly supplying its own oil.
+BEAR19|So I think you know a slowdown in China.
+NEUT20|Does does matter?
+NEUT21|I think that oil is perhaps less exposed than some other sectors.
+NEUT22|I think I'd be more concerned if I was Australia.
+BEAR23|For example, you know, iron ore. Has done extremely well recently, and that's partly on the back of the strength of China's steel sector and property construction, but that's on very shaky foundations, and I think we're going to see a pretty significant decline in Chinese steel prices and iron ore prices as a result of that, so I think that's the most exposed sort of sector.
+NEUT24|But oil is also exposed to some degree as well.
+NEUT25|Hey everybody, it's Hadley.
+NEUT26|Gamble from our new CNBC Middle East Bureau in Abu Dhabi.
+BULL27|Thanks for stopping by.
+NEUT28|"Now to watch more you can try one of the videos that just popped up on your screen and don't forget to subscribe."""

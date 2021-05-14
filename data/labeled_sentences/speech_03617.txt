@@ -1,0 +1,32 @@
+BULL0|"""Richard, the Greek stock market opened again this morning after a prolonged break during the crisis."
+NEUT1|I guess it was.
+NEUT2|It wasn't pretty.
+NEUT3|Tell tell me what's happened there.
+NEUT4|We weren't expecting it to be pretty.
+BEAR5|It was done more than 1/5 and it's been closed for five weeks and top amongst the hardest hit where the the big four banks so Alpha Eurobank and Pearson National Bank of Greece.
+NEUT6|So pretty harsh head to the four big banks have the big banks said anything at all about what?
+NEUT7|What's been happening on the balance sheets they have, but they haven't been able to say much.
+NEUT8|One gets the feeling there's a bit of a coordinated Greek chorus of banks today that the regulations are probably told them what they can and can't say what they have said is they've reiterated their capital levels at the end of March, which doesn't really help us very much because we don't know what losses are going to have to be.
+NEUT9|Thrown at that capital and how much they're going to have to absorb.
+BEAR10|They have reiterated their outflows, number they've lost 125 billion of deposits.
+NEUT11|If you take that as the usage of Eurosystem funding, they've talked about their deferred tax assets.
+NEUT12|Which are these funny things that the European Central Bank itself last year allowed them to count towards their common equity tier one capital.
+NEUT13|And there's a little bit more detail, but unfortunately the overriding theme is.
+NEUT14|And we don't really.
+NEUT15|We can't really tell you what the trouble is that we've seen, and this is going to take at least until the end of the year when there's been a stress test and asset quality review.
+NEUT16|Capital adequacy is known, and those those banks would have been recapitalized we hope.
+NEUT17|But how much faith will we be able to have?
+NEUT18|Even then?
+NEUT19|It's it's less than the instance.
+NEUT20|The last stress tests were conducted on the Greek banks and and those stress tests said that although the banks didn't look good, actually.
+BULL21|Subsequently, they raised a lot of capital and and actually they would have passed had that capital being taken into account.
+NEUT22|So it's not so long since stress tests which are supposed to test for all kinds of scenarios given a clean bill of health, can we have more faith in them this time around?
+BEAR23|I don't think so, and in fact the the capitalization of the Greek banks is now just just over €9 billion, which is just over 1/4 of the declining and probably still as we speak, falling Athens market capitalization.
+NEUT24|The real.
+NEUT25|The real issue here and what's being judged, I think, is that.
+BEAR26|This is now the third eurozone crisis involving Greece.
+NEUT27|As far as I can count, and we don't seem to be getting any better at fixing things and a priority in any bailout ought to be getting the banks up and running and solid ASAP.
+NEUT28|We're not seeing that this is a fudge over the summer break, and then hope we can somehow think it'll be OK by Christmas.
+NEUT29|I didn't buy that for a moment.
+BEAR30|No surprise then that the shares are down by so much when they reopen today.
+BULL31|"Richard, thanks very much."""

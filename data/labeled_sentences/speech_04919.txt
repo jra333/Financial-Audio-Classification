@@ -1,0 +1,19 @@
+NEUT0|"""Well, I mean the fundamental problem is that most economic data these days is survey based, GDP, inflation, unemployment in many countries is survey based."
+NEUT1|People are not filling in surveys if they are filling in, surveys are not filling them accurately.
+NEUT2|And then we've got lots of little differences between countries in how data is calculated.
+NEUT3|Now, in normal circumstances this doesn't matter.
+BEAR4|But in the current situation, these small differences suddenly magnified huge problems so.
+BULL5|UK is a good example.
+BEAR6|UK first sorry, second quarter GDP terrible number absolutely awful.
+BEAR7|But in actual fact the UK's performance was probably about the same as that of France and the UK's had more of its workers working during lockdown than the French have.
+BEAR8|So be very weird, if the UK was doing a lot worse in France.
+NEUT9|So why did this happen?
+NEUT10|Because the UK measures the GDP value of education by counting the number of pupils.
+NEUT11|France measures the GDP value of education by counting the amount they pay their teachers.
+NEUT12|So if you've locked down schools, you've got no pupils.
+NEUT13|But you've got teachers still being paid.
+NEUT14|You get completely opposite effects for exactly the same economic circumstance.
+BEAR15|Now, normally this doesn't matter, but obviously in this situation this has become a huge huge issue, and it's creating complexity and misunderstanding about relative data where we're going, and so on.
+NEUT16|I think we can identify the broad trend of where the economy is going, but we can't be precise.
+NEUT17|There is no precision in the data.
+NEUT18|"Your decimal points are purely there to add an element of humor to economic analysis."""

@@ -1,0 +1,29 @@
+NEUT0|"""Would you agree with that as a principle that whoever goes in with, say, a plurality of delegates, if it's 50 to 100, that should be the nominee?"
+NEUT1|The convention would have to explain to the American people hey candidate X, you know, kind of got the most votes and won the most delegates in the primary process.
+NEUT2|But we're not going to give him or her the nomination.
+BEAR3|I think that would be a very divisive moment for the Democratic Party.
+NEUT4|There's already been quite a bit of buzz about the very real scenario of a contested convention.
+NEUT5|When the Democrats arrive in Milwaukee this July, some say it's a reality due in large part due to a unique primary calendar, an an unusually wide field of candidates after Iowa and New Hampshire, so we had to ask 538 Nate Silver.
+NEUT6|Do you buy that?
+NEUT7|So yeah, it's been a long time since we've had a contested convention, but there are some factors this year that make it a real possibility.
+NEUT8|One of those is the calendar.
+NEUT9|Super Tuesday is just three days after South Carolina, and by the time Super Tuesday states have voted, including places like Texas.
+BEAR10|In California, 38% of all delegates will already have been chosen, so unless someone breaks into a commanding position before Super Tuesday, all those delegates could be split several different ways, making it hard for anyone to ever get a majority.
+NEUT11|Factor 2 is Michael Bloomberg.
+BEAR12|His strategy of skipping the first four states is confusing the entire process.
+BEAR13|It's making it hard for moderates to settle on one candidate, whether it's Bloomberg himself for Pete Buddha, check for any Klipsch R or even let's not forget about him.
+BULL14|Quite yet, Joe Biden, but frankly, it's working better than I would have thought.
+BULL15|Bloomberg is up to 15%.
+BULL16|In national polls, and is very competitive in a number of Super Tuesday states.
+BEAR17|The biggest thing that could prevent a contested convention is Bernie Sanders.
+NEUT18|He won New Hampshire.
+BULL19|He won the popular vote in Iowa, and he set up to do well in Nevada.
+NEUT20|But while Bernie is leading in national polls, numbers are in the mid 20s, which leaves plenty of vote to go around among other candidates, even in New Hampshire, which should be one of his strongest states, get 26% of the vote, so it's not quite clear yet just how high his ceiling is.
+NEUT21|Our 538 primary model attempts to account for all these complex factors, and the model says there's a 36% chance that nobody wins a delegate majority.
+NEUT22|That's not exactly the same thing as a contested convention, but close enough for our purposes here, so I buy that contested convention is very, very possible.
+NEUT23|Is it more likely than not?
+NEUT24|Not yet, but just one more surprise.
+BULL25|Results ain't upset in Nevada means we could be getting there soon, and our thanks to Nate for that and a reminder you can get the very latest primary forecast at fivethirtyeight.com.
+NEUT26|Hey folks, I predict that you're going to either subscribe to our YouTube channel or watch some related videos, or both.
+NEUT27|You can do both, but you can't do neither.
+NEUT28|"So either subscribe or watch more videos."""

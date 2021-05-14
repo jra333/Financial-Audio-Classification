@@ -1,0 +1,31 @@
+NEUT0|"""What do you think?"
+NEUT1|You know how the streaming world is working right now?
+BULL2|Netflix has risen sharply.
+BEAR3|Cannot keep up with expectations.
+NEUT4|Well, I think it's going to become increasingly clear that with all the talk of streaming wars, Netflix really isn't in that war that Netflix is really in a category by itself.
+NEUT5|It was in this state before Covid, but over Covid, it's really established itself as the as the default streaming service.
+BEAR6|There's a war going on between the other services as to what else subscribers are going to have, particularly as they cut the cord.
+NEUT7|But Netflix, increasingly in a category by itself.
+NEUT8|Maybe a bit of a nod to that earlier last week when the company said that it would no longer be offering free subscriptions or free trials to people to try and get them.
+NEUT9|And I guess you only do that if you don't need to.
+BULL10|If you're not in this to try and win win more subscribers, I'm guessing they're going to have pretty solid strong subscriber growth.
+BULL11|Well, they had huge subscriber growth last quarter.
+NEUT12|They had about 2,000,000 ten million Subs.
+BEAR13|They guided to a much lower number for this quarter, suggesting that a lot of those Subs were pulled forward.
+NEUT14|But the sub number is much less of an issue for Netflix as compared to the other services.
+NEUT15|Netflix is already added in the first half of the year, about 26 million Subs, all of 2019 they added.
+NEUT16|29 million Subs.
+NEUT17|So in 2020 they're going to blow out last year's number, but with Netflix it's much more of a story of just how much engagement they have going on.
+NEUT18|How much more time people are spending watching their service.
+NEUT19|Their total engagement is about the same as all the legacy media companies streaming services together, Hulu, Disney plus HBO Peacock Showtime.
+NEUT20|And so they're just way out there in terms of the time spent and the reason for that is their programming budget is so enormous compared to any of the legacy media companies streaming services that are out there today with a $15 billion programming budget looks like it's on its way, probably in the next few years to a $20 billion programming budget, which will probably allow them to be introducing one new movie or series just about every day.
+NEUT21|And that's just something that none of the other services can touch.
+NEUT22|The engagement that brings with it is huge and to your point on no more free trials.
+NEUT23|The pricing power that brings is also critical.
+BULL24|They just raised price in Canada, bring to 1499 for the core package that people take.
+BULL25|I would listen very **** ** this call to hints of price rises here.
+NEUT26|They really have such an enormous.
+NEUT27|Price to value relationship, huge value perception among consumers that pricing power is something that the other streaming services just haven't established yet.
+NEUT28|Whether you look at Disney plus you look at HBO Max so many free Subs promotionally out there still.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

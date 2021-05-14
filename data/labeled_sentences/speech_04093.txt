@@ -1,0 +1,19 @@
+NEUT0|"""David, let's begin with the inflation vector."
+NEUT1|Now it is discrete and different than Europe.
+NEUT2|With the Rising 5 year five year break even do you assume a trend towards rising and larger inflation and the next years to come?
+BEAR3|I have a tough time believing that inflation is going to become a sustained problem.
+NEUT4|At least the next I'd say one to three years.
+NEUT5|You know the the output gap.
+NEUT6|Or the differential between where aggregate supply and aggregate demand is in the United States.
+NEUT7|Is far too high for me to be worried about inflation.
+BEAR8|I know that it's become a bit of a narrative of late with the steepening yield curve and the increase in the break even levels.
+NEUT9|My forecast is a little bit different, I think, than the consensus on this.
+NEUT10|It doesn't mean that we're not going to go through a temporary.
+NEUT11|Where some of these cost pressures in the material sector seep through.
+NEUT12|That's been the case, but remember, inflation is a process.
+NEUT13|It stuck, you know, you have to have continuously.
+BEAR14|Accelerating price is not just a one off level shift and so I think that the market is overdone.
+BEAR15|It basically think the narrative is overdone it on the inflation side.
+NEUT16|I think it's going to be years before we see.
+NEUT17|OK.
+NEUT18|"I think date acceleration."""

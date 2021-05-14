@@ -1,0 +1,15 @@
+NEUT0|"""My family and I we build bubbles that look very enticing, but bubbles can get away from you in an economic bubble, investors buy and sell assets for prices that are much higher than the assets real value."
+BEAR1|Now there's been a long string of bubbles.
+NEUT2|Thehousingmarket.com stocks Asian currencies, oil stretching back to the 17th century.
+NEUT3|When the Dutch went wild over tulips.
+NEUT4|Sometimes bubbles happen because interest rates are low and it's easy to borrow money.
+NEUT5|But when loans start to go bad like subprime mortgages during the housing bubble, banks stopped lending.
+NEUT6|People's confidence goes up in smoke.
+NEUT7|Some bubbles are all about her behavior.
+NEUT8|When investors decide that they have to own, say, electric condo, no matter what, it costs.
+BEAR9|Prices get inflated by the demand and people have to stretch to afford what they want, and that can lead to a very big mess.
+NEUT10|There are other reasons too.
+BULL11|During the tech bubble, the NASDAQ went up 40% in one year and 85% the next.
+NEUT12|Many investors bought stocks because they thought the upward climb would last forever, and we know how that turned out.
+BEAR13|Here's the worst thing about bubbles.
+NEUT14|"Most investors don't see them until it's too late."""

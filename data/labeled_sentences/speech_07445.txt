@@ -1,0 +1,12 @@
+NEUT0|"""From the FT in London, here's the latest on markets overnight."
+BEAR1|The three main U.S. stock indices that Dow Jones, the S&P, and the NASDAQ all closed at record highs for the first time this Millennium.
+NEUT2|So party like it's 1999 not quite.
+BEAR3|This is a seriously unloved stock market.
+BEAR4|Rallies swept along by cheap money from central banks, but tainted by the grim suspicion that rock bottom interest rates and souped up bond buying programs are increasingly part of the problem.
+NEUT5|Still, for now, with bonds yielding next to nothing, the only option seems to be pinching nose and.
+BULL6|Buy Asian stocks also did well overnight in Europe.
+BEAR7|Started well but has since pulled back with GDP data today showing Apache performance including stagnation in Italy.
+BULL8|Meanwhile oil is holding on to gains, just having gained a boost yesterday after Saudi once again hinted at coordinated action to support prices, cynics would point out this is far from the first time we've heard that industrial metals.
+BEAR9|There were a little weaker after a pullback in Chinese industrial consumer and investment data.
+NEUT10|Lastly, Sterling is on the ropes, yes.
+BULL11|"Again, trading comfortably under 130 to the dollar."""

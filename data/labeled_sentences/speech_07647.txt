@@ -1,0 +1,15 @@
+NEUT0|"""Warren Buffett's Berkshire Hathaway revealed over the weekend."
+BULL1|It boosted its stake in Liberty SiriusXM Group by 14.23%.
+NEUT2|According to Guru focus, Real time picks the conglomerate invested in 4.39 million shares of the series.
+BEAR3|See tracking stock on May 29th, impacting the equity portfolio by .09%.
+NEUT4|Berkshire now owns a total of 35.2 million shares, which represent .73% of the total assets managed.
+NEUT5|The stock traded for an average price of $36.15 on the day of the transaction.
+BULL6|Gurufocus estimates Berkshire has gained seven point 3% on the investment since the second quarter of 2016, which was when the company recapitalized its existing common stock in order to accommodate investors interested in benefiting from its stake in SiriusXM Holdings.
+NEUT7|The Englewood Co based media company has a $12.88 billion market cap.
+NEUT8|Its shares were trading around $37.10 on Monday.
+BEAR9|Amid the turmoil related to the ongoing COVID-19 pandemic, the stock has fallen over 20% so far this year.
+NEUT10|In May, Buffett released Berkshires equity portfolio for the first quarter, valued at $175.53 billion.
+NEUT11|A majority of the 50 stock portfolio was invested in the financial services and technology sectors.
+NEUT12|Accounting for over half of the portfolio Buffett's five largest Holdings as of March 31st were Apple Bank of America, Coca Cola, American Express and Wells Fargo.
+NEUT13|Stay tuned for future real time pics from the world's top gurus.
+NEUT14|"See you next time."""

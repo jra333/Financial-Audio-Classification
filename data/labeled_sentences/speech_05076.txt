@@ -1,0 +1,8 @@
+NEUT0|"""Hello, my name is Tim Smith from FX Empire."
+NEUT1|Today we're looking at streaming content provider Netflix.
+NEUT2|OK, taking a closer look at price action since the stock hit its all time high back in early July, the prices traded within a 105 point trading range.
+BULL3|Today we're looking for an open towards the top end of that range at around $560.00 after the company announced better than expected fourth quarter sales and also hinted at the possibility of a share buyback.
+NEUT4|In terms of tactical trading opportunities, I'd be looking for breakouts above the top of the range.
+NEUT5|And set a profit target around $680.
+NEUT6|Now we derive that target by adding the distance of this trading range, which is $105.00 to the breakout point at $575.
+BEAR7|"And in terms of protecting my downside, I'd be looking to place a stop loss order around $20 below my execution price."""

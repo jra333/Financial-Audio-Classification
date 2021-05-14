@@ -1,0 +1,39 @@
+BEAR0|"""Sharply on the back of Q3 earnings as they did after the last quarters."
+BULL1|Earnings revenues beat expectations.
+BULL2|EPS was in line with estimates joining us now.
+NEUT3|Bernstein analyst Stacy Rasgon Stacy.
+BULL4|Thanks for joining us.
+NEUT5|I mean, is this down to the data center print?
+NEUT6|No, no, so the overall prints were kind of in line in line on the quarter and the guide on people were expecting a material beat on both of those.
+BULL7|I think just given the strength of PCs.
+NEUT8|So an inline ish kind of quarter isn't good enough under under the best of circumstances, but circumstances are not the best here.
+NEUT9|Either you start digging in there, there's there's almost no good news here.
+BEAR10|Gross margins have collapsed.
+BEAR11|Notebook ASP have collapsed, server ASP's have collapsed like like it's this is.
+NEUT12|Sort of like the beginning of the bear feces, kind of writ large.
+NEUT13|That seems to be embedded in the numbers here, overlaid with kind of an overall sort of, you know.
+NEUT14|Inline inline, which is not nearly enough given where expectations or anything.
+NEUT15|What, why is this happening?
+NEUT16|Stacy, when some of its more immediate competitors like AMD seem to be doing so well right now?
+NEUT17|Well, I mean it's they're probably not existing in a vacuum, right?
+NEUT18|I mean, like the markets that Intel plays in many of them are sort of duopoly between Intel and AMD Andy.
+NEUT19|Reports next week we'll see how they're doing, but like already even before this print, AMD was calling for growth in the second half in Intel was calling for declines obviously.
+BEAR20|Now you also have the uncertainty around the process technology, which was the biggest sticky issue from last quarter.
+NEUT21|I don't know how about how that is influencing customer decisions and road Maps and everything right now, but it can't be a good thing.
+NEUT22|That was sort of Intel's mode for many many years.
+NEUT23|That is is now gone, and it doesn't seem to be able to stop by any any of the other issues that they're facing right now.
+BEAR24|So two consecutive disappointing quarters.
+NEUT25|What are you listening on the call?
+NEUT26|I'm sorry, say that again, what are you gonna be listening out for on the call?
+NEUT27|Yeah, obviously you like you want to dig into the quarter and figure out what's actually going on in particular with gross margins and with server ASP's 'cause those those server pricing 'cause those are both very important and critical issues that are seem to be impacting the near term.
+NEUT28|We also want to hear any updates if there are any on the process.
+NEUT29|Technologies whose last quarter.
+NEUT30|I'm not expecting any.
+NEUT31|I didn't see any anything in the release on that, but we'll see if they have anything to say.
+NEUT32|But right now I don't think they have a plan and I think they are the current trajectory.
+NEUT33|The business is not going in the right direction.
+BEAR34|Doesn't look good.
+BULL35|Thanks for joining us Stacy.
+NEUT36|Thank you.
+NEUT37|Shepard Smith here.
+NEUT38|"Thanks for watching CNBC on YouTube."""

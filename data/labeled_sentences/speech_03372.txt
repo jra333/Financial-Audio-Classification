@@ -1,0 +1,29 @@
+BULL0|"""After a rotten year, here are some trends for a better future."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+BULL2|Will you get the insights you need to better navigate these turbulent times?
+NEUT3|No tears will be shed for the end of 2020 Year of disease, disruption and death.
+BULL4|While the focus was coping on the pandemic, things are actually unfolding on the health care front that could well make our lives better in the years ahead.
+NEUT5|Here are just a few of them.
+BULL6|The need for better, quicker and more consistent delivery of primary medical care, especially to underserved communities, is being blazed.
+NEUT7|By an innovator provider called Village, MD.
+BULL8|The company is pioneered a unique system that effectively integrates tools, technology and staffing support that enables doctors to treat patients not for just a specific ailment or illness, but on a continuous, coordinated basis.
+NEUT9|The focus is on patients with chronic conditions.
+NEUT10|Docs aren't worn down this way by paperwork and patients benefit from both preventive care and effective follow through.
+NEUT11|Village, MD this year.
+BULL12|Agreed to a partnership with Walgreens to Open 5 to 700 physician staff clinics inside Walgreens Pharmacies Village MD already has a network of over 2800 doctors delivering excellent care at less cost.
+NEUT13|Breakthroughs are coming on the drug front in an inspiring example is Doctor Jeffrey Leiden a Vertex Pharmaceuticals, his pioneering approach to drug innovation led to the creation of effective treatments for cystic fibrosis are hideous disease that was once a certain death sentence for its victims.
+NEUT14|Leiden focuses not on treating symptoms or making incremental improvements, but attacking underlying causes of diseases and novel ways such as gene therapy.
+BEAR15|Heunis teams are now attacking.
+BULL16|Several other so-called specialty afflictions, such as sickle cell disease, his persistent innovative approaches, bode well for countless sufferers of these once incurable diseases.
+NEUT17|The surgery center of Oklahoma is a model for how hospitals will someday be operating around the country.
+NEUT18|The miracle here it treats thousands of patients each year at a fraction of the cost of traditional hospitals.
+NEUT19|For example, a tonsillectomy that might cost $14,000 at a typical hospital will set you back at around $3000.00 at the center.
+NEUT20|The Center post inclusive prices for procedures on line, no hidden expenses or mysterious bills hitting patients for months or years later outcomes or as good or better than at a typical hospital.
+BULL21|Patient satisfaction is high.
+BEAR22|The center cuts out big insurance companies and government as much as possible, and yet patients save money because of the high deductible so prevalent on insurance today.
+NEUT23|Giving patients price information to save money is the goal of Sesame, a pioneering healthcare online platform where doctors post actual prices for various services.
+NEUT24|Sesame is the medical equivalent of companies like Priceline and Expedia.
+BULL25|Thankfully, even during difficult times, people are working to make our futures better.
+NEUT26|I'm Steve Forbes.
+NEUT27|Thank you for listening.
+BULL28|"Do send in your comments and suggestions and look forward to being with you soon again."""

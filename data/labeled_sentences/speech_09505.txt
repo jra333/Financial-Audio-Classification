@@ -1,0 +1,51 @@
+NEUT0|"""It is time is something."
+NEUT1|And then the lighting round is over.
+NEUT2|Are you ready?
+NEUT3|Skiing daddy?
+NEUT4|Cover the light rail cars and must go to Sammy, Louisiana, Sammy Booyah, Jim Booyah and Kim.
+NEUT5|You got a real good staff there is your show.
+BULL6|I'm sorry you've got a great show.
+BULL7|My staff is fantastic.
+NEUT8|You getting.
+NEUT9|We got Dylan there.
+NEUT10|He's amazing what's up your great who I'll take it and also I just want to let you know that today.
+NEUT11|The robo call Colby.
+NEUT12|I insulted it when I said you can throw the margin out the window to see the butterfly for all I care.
+NEUT13|OK.
+NEUT14|I couldn't wait to tell you that I have a special operatic Samuel to stop playing Friday from the Charles.
+NEUT15|Apply at any way of what's your thought about Kellogg's?
+NEUT16|I tell him.
+NEUT17|I think it's OK, not my favorite food stock.
+NEUT18|There are others like even more, but it's something.
+NEUT19|So I was basically used to be let's go to Ryan and Oregon Ryan Abuya Doctor Kramer.
+BULL20|Thank you very much.
+NEUT21|Hey, I'm calling about a company focused on the development of cloud based platforms for work management.
+NEUT22|What are your thoughts on smartsheet?
+NEUT23|Now, no, if you're going to cloud based work for me, you just couldn't even do service now or actually much more.
+NEUT24|My favorite which is indeedsalesforce.com Marc Benioff Bill in Pennsylvania.
+NEUT25|Bill, Jimmy chill.
+BULL26|I'm nervous over rival Tesla's ride hailing service with your outlook on Uber, I think whoever is OK.
+NEUT27|I mean look, Cooper has to get rid of anything that is not making money.
+NEUT28|I mean.
+NEUT29|Point blank.
+NEUT30|Just get rid of it and I think they have the capability of doing that.
+NEUT31|But if they don't, well, it's just not going to work.
+NEUT32|And if the pandemic doesn't help with though, I do like their tie up with Clorox.
+NEUT33|How about Daniel Massachusetts Daniel?
+BULL34|Hello Jim Dan, how you doing today doing fine?
+NEUT35|Thanks for asking.
+NEUT36|How are you good?
+BULL37|Thanks thanks for taking my call.
+BULL38|I appreciate that.
+BULL39|Session I called you about a month ago and ask your advice about Pinterest and it worked out very well.
+NEUT40|So they got that advice for that very well.
+NEUT41|I like this guys like then.
+NEUT42|Yeah, and will try really good now, how about our drop box?
+NEUT43|That's a tough one, because you know Mrs Off.
+BEAR44|He really doesn't like them.
+NEUT45|I've been trying to get it look.
+NEUT46|This talk is almost said, it's high, but I'm a seller, not a buyer and that lends him so conclusion of the lightning round lightning round is sponsored by TD Ameritrade.
+NEUT47|Don't miss a second of mad money.
+NEUT48|Follow at Jim Cramer on Twitter.
+NEUT49|Have a question?
+NEUT50|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

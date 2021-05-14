@@ -1,0 +1,47 @@
+NEUT0|"""Joining us now here at Post Nine."
+NEUT1|Former Target Vice chairman and former Toys R Us CEO Jerry Storch and Amira Instanet, senior retail analyst Simeon Siegel.
+BULL2|Gentlemen, good morning to both of you.
+NEUT3|Morning Jerry, I'll start with you some of the early numbers we've gotten on Black Friday and now as Cyber Monday gets underway here, how does this stack up against years pass and do we already have winners and losers?
+NEUT4|Losers in this process?
+BEAR5|We said this would be the biggest Black Friday in history and it clearly was.
+BEAR6|This will also be the biggest Cyber Monday in history.
+BULL7|The customer is very, very strong.
+NEUT8|There's over 4 weeks.
+NEUT9|Until Christmas is the longest amount of time you have Thanksgiving and Christmas, and people are spending whatever is going on the stock market.
+BULL10|It's not affecting the consumer pocketbook right now, and they're spending spending spending, of course, online spending was up and everyone's talked about that, but the stores held up pretty well.
+BEAR11|Traffic may have been down, you know, low single digit percent, but we don't know the average ticket was.
+BULL12|And based on what I saw in my store checks, it was likely up.
+BULL13|And so the retailers have been doing fantastic Simeon, is it still Amazon versus everybody else?
+NEUT14|Especially when you think about how much collaboration is sort of not taking place with a lot of retailers caving and now selling on the Amazon platform.
+NEUT15|Right, so I think that's an interesting point.
+NEUT16|Amazon is becoming much more of a partner to everyone then they were before and what my team has done.
+NEUT17|A lot of analysis around this idea that Amazon is becoming much more of the mall and less of the retailer.
+BULL18|And that means that the brands can sell on Amazon, but mathematically and what's important for the stock is that the margin grows higher.
+NEUT19|It's much more profitable to collect a fee than it is to try to run fulfillment to Courtney's Point.
+NEUT20|As we can see in that fulfillment center.
+NEUT21|So I think what's happening is that's the future of where we're going, Amazon and even Walmart is a marketplace.
+NEUT22|It's just this idea of a marketplace.
+NEUT23|Things will blend and as long as you have the product where the customer wants to find it, you're going to win.
+NEUT24|What does that mean in terms of valuations for these stocks?
+NEUT25|They've come down so it's interesting when you think about the transition from a sales to a margin story for a stock that's normally not a good thing, right?
+NEUT26|Because normally if you can see exponential growth in that in my world, yes, let IT companies are probably the best example, but if you have exponential sales growth, you get rewarded once you start maturing is a deadly word, but maturing also means doing things better, right with age comes wisdom and profits, so right now we're going through this.
+NEUT27|Where.
+NEUT28|The consumers great Jerry's point, figuring out where those profits are going to lie.
+NEUT29|I think a lot of people in and you layer on some Asia global concern, and we've had a lot of contraction looking out into next year.
+NEUT30|I think those are the stocks you want to look at, so I think it's interesting point, I'm curious to see if you agree this idea of Amazon becoming more of a platform less of a.
+NEUT31|Of a buyer of a buyer of to then sell product.
+NEUT32|I mentioned this and he's a very smart guy.
+NEUT33|I heard him say that the other day.
+NEUT34|He's right.
+BULL35|If you looked at Amazon's third quarter results, you saw that their first party sales only up about 10%.
+NEUT36|That might be great for a normal guy, but not for Amazon.
+BEAR37|It was their marketplace that was way the heck up.
+NEUT38|That's where they're growing and why, because you know, they could collect revenues.
+NEUT39|Let's just say, for sake of example, is pretty accurate.
+NEUT40|About 15% of sales on a marketplace sale on their own.
+NEUT41|So they are lucky to make any money at all.
+BEAR42|Meanwhile, the bricks and mortar guys are trying to copy the Amazon model, 'cause everyone says why don't you be as smart as Amazon and all they do is find out that it's almost impossible 8 money doing it and so they have this huge negative market margin arbitrage taking place as their cells shift.
+NEUT43|At least mix from being in the store to online.
+NEUT44|So Amazon is a marketplace is, you know, he's it's there's worship there so and so on the weapons everyone they're going to make a lot of money doing that.
+NEUT45|Bricks and mortar guys had to figure out what the heck they're going to do.
+BEAR46|"You are also going to see is their profits get compressed."""

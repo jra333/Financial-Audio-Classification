@@ -1,0 +1,70 @@
+NEUT0|"""Everybody needs money."
+NEUT1|That's why they call it money.
+NEUT2|Investor beat starts now.
+BULL3|Thanks for watching.
+NEUT4|I'm Chris Hill joined in studio by Ron Gross.
+NEUT5|We're wrapping up.
+NEUT6|I love that quote.
+NEUT7|One of the best movie quote about money, Barnes.
+NEUT8|Thank you.
+NEUT9|David Mamet.
+NEUT10|Let's get right to the earnings.
+NEUT11|Will start with McConnell Liebre, the eBay of Latin America shares up big.
+NEUT12|They beat on the top and bottom line.
+BEAR13|It's looking pretty good looking pretty good, but it's been a rough four or five months for this stock.
+NEUT14|When you're focused in Argentina and Venezuela, you've got inflation issues.
+NEUT15|Currency exchange issues.
+BEAR16|The stock has really not done well.
+BULL17|Nice to see a rebound today.
+BULL18|Revenue up 30% beat expectations.
+NEUT19|The company is doing well, it's just operating in an area of the world that's a little bit uncertain.
+NEUT20|It's the eBay of Latin America, but let's be clear.
+NEUT21|This is a company that is a fraction of the size of eBay, and one thing it has going for it that eBay doesn't really is some pretty insane growth when you look at it on a yearly basis.
+NEUT22|Four straight years.
+NEUT23|Of growth of 30% or more is that the kind of thing they can keep up?
+NEUT24|Are they still in that growth mode?
+BULL25|I think they still have a pretty long growth runway ahead, which is kind of it was interesting as we saw the sell off over the last four months.
+BULL26|You had some people saying wow, what an incredible opportunity.
+BEAR27|Others saying it's too uncertain right now.
+NEUT28|I'm going to stay away today.
+NEUT29|The Bulls have decided and won the day.
+BULL30|Alright fourth quarter results looking good for Deckers Outdoor, but guidance for Q1.
+NEUT31|Yikes.
+BULL32|And once again, we're seeing that guidance.
+BULL33|Trump's results true.
+NEUT34|That is true in this particular case, because it really took investors by surprise.
+BEAR35|They are guiding to a loss versus an expected profit, so not just reduced profit.
+NEUT36|Actually a loss, which really was a big surprise.
+BEAR37|They're blaming it on new store openings.
+BULL38|The cost of new store openings, increased marketing expenses, but invested.
+BULL39|Just weren't expecting it, but fourth quarter was strong.
+BULL40|As you said, I think there was a / 40% increase in net income, so the companies continues to do well.
+BEAR41|But no one likes to see a loss for the coming quarter.
+BEAR42|Stock sold off.
+NEUT43|What do you think of the stock right now?
+NEUT44|When you look at it when you take everything into account, is it look like a value opportunity?
+NEUT45|Stocks still about 20 times earnings, so it's still still a little rich for me, but it's a well run company, very reliant on drugs which always worried me it's not as reliant as it used to be, but it's still a concern.
+NEUT46|So I would wait for additional pullbacks before I personally got interested, OK, this seems to be a running theme in terms of cutting guidance, because Pier one imports.
+BEAR47|Has cut full year guns.
+BEAR48|This is the second month in a row.
+BEAR49|They've cut their guidance.
+BEAR50|They're blaming the weather.
+BEAR51|Yeah, and they're getting punished for it.
+NEUT52|They're not getting any benefit of the doubt like we saw week ago with Panera getting the benefit of the doubt from investors.
+NEUT53|Do you think this is warranted?
+NEUT54|Well, it certainly is a common theme.
+NEUT55|It's not like they're the only ones blaming the polar vortex, so lot lot of other retailers blaming the same thing.
+BEAR56|They saw soft store traffic they actually had disclosed some storage temporarily, which really can hurt when you do some adjusting for their comp store sales numbers.
+BEAR57|They were actually down 5.7%.
+BEAR58|That's I think a pretty bad metric, and that's what investors are focused on.
+NEUT59|Selling the stock off.
+NEUT60|Alright, that's going to do it for this week's action.
+NEUT61|Let's look ahead to next week.
+NEUT62|What's a stock I can put on my watch list?
+NEUT63|One of my favorite companies is Costco.
+NEUT64|They report next week.
+BEAR65|We've owned this company for years and $1,000,000 portfolio, but we've had it on hold as the stock has run up were over $150 per share.
+NEUT66|I'd love to have a reason to upgrade the stock back to buy, so I'll be watching with open eyes to see what they have to say.
+NEUT67|Alright, for Ron Gross, I'm Chris Hill.
+BULL68|Thanks for watching.
+NEUT69|"We'll see you on Monday."""

@@ -1,0 +1,44 @@
+BULL0|"""Hello hello traders Lance little here."
+NEUT1|Let's get to the big earnings tonight, which is Netflix.
+NEUT2|So we have Netflix here.
+NEUT3|Very, very bullish price action.
+BULL4|Last quarter it had a good earnings with the stock rarely moved and the previous quarter in July.
+NEUT5|That's when it caught everyone's attention from about 160 all the way up to 180 plus which was a huge move because when you're trading options.
+NEUT6|The market makers are implying for this quarter.
+NEUT7|And for the options expiring this Friday, the weeklies.
+NEUT8|About a $17.00 move, how do I find that?
+NEUT9|I look at the implied volatility an icy about $17.00.
+NEUT10|Here you could look here.
+NEUT11|The market makers expected move.
+NEUT12|It's it's 15.
+NEUT13|I usually what I normally like to do is look at the at the money straddle.
+NEUT14|You can add, let's say the stock at 2:26, so we'll just do 227 half 8 bucks for the calls, 9 bucks for the puts.
+NEUT15|That gives us just about 17 bucks.
+NEUT16|Or so where you could go actually single and look at straddle, and then we'll look at that.
+NEUT17|We could look at the 227 hafts about 17 bucks again so.
+NEUT18|Now I can analyze a trade to put on from Netflix depending on where I think Netflix goes.
+NEUT19|So I personally think Netflix is going to.
+BULL20|Move up on earnings.
+NEUT21|I have a bullish.
+NEUT22|View on Netflix.
+NEUT23|So therefore I could do a couple of things.
+NEUT24|I could sell Bull, put credit spread like 225 to 22 and a half collected bout $1.15 with two and a half dollars risk.
+NEUT25|That's not bad.
+NEUT26|I can buy it outright called, but when you're buying outright options, remember you're also buying the high volatility, high implied volatility.
+NEUT27|Or I go look at a call spread.
+NEUT28|Let's see.
+NEUT29|I think Netflix can trade up to 250.
+NEUT30|I can sell it 250 calls for about $1.40, and I can buy.
+NEUT31|The two forty calls so $10 wide for about 2 bucks.
+NEUT32|So therefore I'm risking $2.00 for one lot or $200 to potentially make.
+NEUT33|$800 so about a four to one risk versus reward, and I can analyze the trade.
+NEUT34|Here I go and I can see OK my Max loss first thing always look at 200 Max reward 800 so therefore if Netflix at expiration is above 250, which is this week I make $800.
+BEAR35|If it's below 240, I lose $200 Max loss or the price I paid for the debit spread and my break even will be the call.
+NEUT36|I bought 240 call +2 bucks at 242.
+NEUT37|Anything above 242.
+NEUT38|I'm in the.
+NEUT39|Profit, let's say Netflix closes at 248 or so.
+NEUT40|I'll make about 600 bucks of profit on that $200 of risk.
+NEUT41|But obviously I would like it to be at 2:50 or above.
+BULL42|Hope this helps.
+NEUT43|"And I'll be going over members trade and Netflix today as well."""

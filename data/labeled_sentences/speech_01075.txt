@@ -1,0 +1,34 @@
+NEUT0|"""Legendary investor Peter Lynch once said that everyone has the brainpower to follow the stock market."
+NEUT1|If you made it through 5th grade math, you can do it, but then stock traders and investors also use technical analysis, but that is not really everyone's Cup of tea.
+NEUT2|Or is it?
+NEUT3|Let's peep into the underworld of technical analysis and see how stock traders make use of it.
+NEUT4|Hi, I am a bit of call from economictimes.com and in this video we will talk about a tool that will not just help you understand the stock market better.
+NEUT5|But put you ahead of the curve.
+NEUT6|Well, one such most widely used technical indicator is relative strength index, or RSI.
+NEUT7|To know more about it, let's move across 2,000,000 vejnar who is himself a technical analyst.
+NEUT8|When we speak about technical analysis, is it usually implies the analysis of the future price trends based on the analysis of the past data.
+NEUT9|When we do such an analysis, there are certain tools and indicators and oxygenators that we use and relative strength index.
+NEUT10|RSI is one among them.
+NEUT11|It's a momentum indicator that we use an.
+NEUT12|It's an indicator that would measure the rate and the pace of change of the change in price of the security against its own self.
+NEUT13|The RSI can be calculated for any stock or index such as NIFTY later.
+NEUT14|In this video we'll talk about where we can get the RSI data, but first we'll talk about how RSA works.
+NEUT15|And how it can be used to generate different signals?
+NEUT16|Typically the RSI for a particular security is considered overbought when the level is above 70 and oversold when it is below 30.
+BEAR17|The RSI oscillates between zero and 100 levels in an uptrend or a bull market.
+NEUT18|The RSI tends to remain in the 4290 range, with the 40 to 50 zone acting as support, but during a doubted or a bear market the RSI tends to stay between the 10 and 60 levels.
+NEUT19|With the 50 and 60 zoom acting as resistance, here is an example of how RSI indicates weaker trend, a bearish signal or negative divergent points to lower prices in the future.
+NEUT20|This occurs when the prices make a high, but the RSI does not.
+NEUT21|Moving onto the bullish signal or a positive divergences.
+NEUT22|In this chart we can see that the buy signal is flashed when the RSI makes a fresh 14.
+NEUT23|High.
+NEUT24|But remember at this point prices are not making highs, but it sets the stage.
+NEUT25|For onset of an up move in the price now waking at the RSA data million has the answer RSI, which was founded way back in 1978, is as relevant today as it was when it was founded, so it is one of the most widely used indicators, and it is readily available with most of the charting performs even the charting facilities that we have on economic Times website will have this indicator despite changes in volatility in the market.
+NEUT26|Relative strength index remains as relevant as when it was invented.
+NEUT27|However, Miller has a word of caution so far as we speak about the precautions.
+NEUT28|The same set of precautions will apply that we use while analyzing the chart using rest of the indicators.
+NEUT29|The main thing that we need to take care of about is that this indicator should not be used singularly.
+NEUT30|It has to be used in overall context of the market structure, and you should also look out for the other confirmations.
+NEUT31|On the charts before making any trades so there you have it.
+NEUT32|This is how relative strength index works.
+NEUT33|"To know more about such technical terms, keep watching this space."""

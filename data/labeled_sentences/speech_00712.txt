@@ -1,0 +1,43 @@
+NEUT0|"""During the commercial break, we were mentioning that there's a Tesla now in space."
+NEUT1|Yes, you like Tesla love Tesla, it's one of our largest Holdings.
+NEUT2|Largest in our overall fund.
+BULL3|We think that if if Elon Musk's SpaceX can do what they did yesterday in space, right, they're going to be able to produce the Model 3.
+NEUT4|They're different companies that the whole it's a whole different game braintrust sitting by the way, do you eventually rocket science?
+NEUT5|You eventually want Tesla and SpaceX to merge.
+NEUT6|No, I kind of like things the way they are right now.
+NEUT7|I like the focus, the focus, but in the Tesla story at the you know, we also keep looking at that stock with one big question.
+NEUT8|If it walks and talks like a car, it must be a car and so it has four wheels that drives around.
+NEUT9|All cars will be automated with AI eventually GM will.
+NEUT10|Everybody else trades it up 15 to 16 multiple.
+NEUT11|They trade as if every cars being shot to the sun at some stratospheric number, which happens first.
+NEUT12|All GM goes to a 300 PE or Tesla goes back to 16.
+NEUT13|'cause one of those two has to happen.
+NEUT14|No explain that GM is a call option on the future.
+NEUT15|The future is electric GM's, not electric yet, right?
+NEUT16|It's the internal combustion engine all the way.
+NEUT17|The future is transportation.
+NEUT18|As a service software.
+NEUT19|As a service, you need software engineers for that.
+BULL20|GM has great engineers with their hardware engineers.
+NEUT21|They had to go by Cruise Automation to get those software engineers in Silicon Valley.
+NEUT22|Then you've got.
+NEUT23|So you've got two big model changes.
+NEUT24|Electric software as a service, gross margins going from 20 to 25, which is the hardware model two 8590%, which is the software as a service model.
+NEUT25|Completely different DNA.
+NEUT26|This is where Tesla is going.
+BEAR27|There's a third problem.
+NEUT28|Jam has it's called distribution by law.
+BEAR29|In many states, auto companies cannot do over the air updates.
+NEUT30|Tesla's been doing that regularly.
+NEUT31|It updates, it improves performance, it corrects mistakes, flaws, GM cannot do that.
+NEUT32|Ann is really going to have to go, maybe through cruise automation, an rebuild a company, right?
+NEUT33|And?
+NEUT34|Even if they were allowed to do it by law, how do most dealerships get their profits?
+NEUT35|It's service.
+NEUT36|What are these?
+BEAR37|Is GM going to alienate its dealers?
+NEUT38|I don't think so.
+NEUT39|Hey there, thanks for checking out CNBC on YouTube.
+NEUT40|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT41|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL42|"Thanks for watching."""

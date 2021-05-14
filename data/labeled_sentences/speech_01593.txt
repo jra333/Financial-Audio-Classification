@@ -1,0 +1,23 @@
+NEUT0|"""Bubbles."
+NEUT1|They usually suggest something light and fun, but not in finance.
+NEUT2|Bubbles have been used to describe the rise and fall of the housing market.
+NEUT3|Commodities like oil and gold or Bitcoin which is forcing us to rethink what we know about bubbles.
+NEUT4|What is a financial bubble?
+NEUT5|Why and when do they burst, and are booms and busts happening faster and sharper than ever before?
+NEUT6|The first financial bubble didn't involve stocks or bonds.
+NEUT7|Tulips like these can be worth anywhere from 10 to $15 today, but for a brief period in 17th century Holland these could be worth more than the value of your home.
+NEUT8|It was called Tulip mania.
+NEUT9|The value of the flower sword at its peak, a single bulb could trade hands up to 10 times a day, but one day some buyers realized that this was insane.
+BEAR10|Their value plummeted.
+NEUT11|The bubble had burst.
+NEUT12|Since then many industries have been through cycles of boom and bust in the 18th and 19th centuries, bubbles emerged in products such as railways and cotton alongside the Industrial Revolution.
+NEUT13|Those paled in comparison to the roaring 1920s, when booming stocks ultimately crashed, paving the way for the Great Depression in the 1990s, the world discovered the joys of the Internet, but also its risks.
+NEUT14|People got so excited about what the World Wide Web could offer that everyone was throwing money into anything web related, and then the bubble burst in the span of less than six months more than $1 trillion in market value vanished.
+NEUT15|That's like today's value of Apple and Facebook combined.
+NEUT16|Tulips.com the famous housing bubble in the mid 2000s.
+NEUT17|These are just some examples of historical bubbles.
+BEAR18|The difference today and the major worry for analysts is that booms and busts are happening sharper and faster than ever before.
+NEUT19|Take Bitcoin, its value went from $600 to over $5000 in the span of a year.
+BEAR20|Prices fell more than 30% over a few days when China announced new regulations, but they have more than recovered while Bitcoin is still in niche market, it's risen almost twice as fast as tech stocks in just a fraction of the time.
+NEUT21|The true believers say it could revolutionize the way money is used around the world, but others call it a fraud.
+NEUT22|"And a bubble, and if that's the case, the question remains, when will it pop?"""

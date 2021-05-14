@@ -1,0 +1,35 @@
+BULL0|"""Thank you for joining me."
+NEUT1|I'm Alex and I want to talk about Morgan Stanley today and I'm surprised I haven't covered this one before because obviously it's one of the big ones and their assets are amazing so.
+NEUT2|What they do is banking.
+NEUT3|I'm sure you knew that current price is $57.51 which gives them market cap of $92 billion.
+BULL4|Dividend yield is 2.43% with a payload ratio of 25%, which is pretty amazing.
+NEUT5|Total revenue is $38.9 billion and total earnings $9 billion, which give them PE of 11 in two.
+NEUT6|Compare that with their peers.
+NEUT7|It's pretty much the same as everyone else.
+BEAR8|Bank of America Citigroup quipment sacks.
+NEUT9|Wells Fargo they all have between just over 10 and just over 12 so.
+NEUT10|There's really nothing to set them apart at that point.
+NEUT11|Total assets $853 billion.
+NEUT12|Total liabilities $772 billion, which gives them tacos total stockholders equity of $80 billion.
+NEUT13|So.
+NEUT14|Imagine having $700 billion in debt and still doing fine just fine anyway.
+BULL15|Overall, I would say that obviously, as with most of these banking stocks, the dividend is decent.
+BULL16|The payout ratio is pretty good.
+BULL17|They're making a lot of money right now, and the balance sheet looks pretty good.
+NEUT18|Obviously you can't expect banks to have.
+NEUT19|Assets to liabilities ratio of two because yeah, that's the numbers.
+NEUT20|Just get too high at that point.
+BULL21|So overall I think for dividend investor this is a pretty good buy right now.
+NEUT22|Wouldn't really mind opening a fairly large position in that either.
+BULL23|Obviously, Morgan Stanley is pretty stable and pretty safe, and obviously the total stockholders equity hints that they have enough money to weather any recession, and so if you were dividend investor, I think that it would pay to buy the stock, and I wouldn't even mind a pretty big position in this because of the safety and because of the payout ratio payout ratio is pretty good.
+NEUT24|You're a value investor.
+BULL25|I think that the P is amazing.
+NEUT26|The dividend yield this season.
+BULL27|The balance sheet looks good and the payout ratios pretty nice.
+NEUT28|So for a value investor, I think that even opening fairly large position in this would also make sense.
+BEAR29|Obviously, growth investors are out because you can't really grow assets of $850 billion a whole lot.
+BULL30|A growth of 3% on the revenue and the earnings is pretty good, so I would say that it's pretty much the top of the line right there.
+NEUT31|I don't expect them to get much higher than that.
+NEUT32|Anyway, that's it for me for today.
+NEUT33|If you like this video, make sure to subscribe and coming up with more videos everyday before market open.
+BULL34|"I hope you have a successful day."""

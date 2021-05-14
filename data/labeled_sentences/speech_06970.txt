@@ -1,0 +1,15 @@
+BEAR0|"""A big shock for some investors overnight when they found some of the biggest names in the US such as Apple, Amazon and Google."
+BEAR1|All of a sudden they had their prices slashed.
+NEUT2|So what happened?
+NEUT3|Everyday exchanges send out their data feeds in slightly different languages for every different exchange data vendor will typically take all of these different languages and put it together, scrub it and make it into something a little bit more palatable to the outside world.
+NEUT4|Then they can repackage that data and sell it on to the average investor.
+BEAR5|Answer That on users somewhere in the middle something had gone very wrong.
+NEUT6|Now we're still trying to find out exactly what happened here, but we think it's related to the July, the 4th holiday where the data that was sent over from their stack as a test accidentally made its way onto the screens such as Thomson Reuters here or the Bloomberg Terminal.
+BEAR7|Now it turns out that there weren't any trades off this, so the data has been scrubbed.
+NEUT8|But for some investors, waking up to find this Amazon.
+BEAR9|Maybe down 90% from its normal price was a bit of a shock.
+NEUT10|It's quite common for changes to be made, but quite wise something that happens quite normally for most trading days of the year for three very experienced at market operators in NASDAQ, Bloomberg and Thomson Reuters, and why it should change this time around, nobody is quite sure things were a lot quieter than normal.
+NEUT11|It is US Independence Day and now it's like only had 1/2 day.
+NEUT12|Perhaps somebody got confused here.
+NEUT13|Amid all the finger pointing, it's also likely that US regulators will take a look first thing on Wednesday when the markets reopen.
+NEUT14|"After all the fireworks."""

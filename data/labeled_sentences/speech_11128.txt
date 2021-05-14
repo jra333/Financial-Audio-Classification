@@ -1,0 +1,26 @@
+NEUT0|"""Neo stock analysis and predictions, November 21st."
+NEUT1|In today's NEO stock analysis and predictions, Neo price prediction after Neo Day.
+NEUT2|Alright, let's get started.
+NEUT3|Neo Day is just around the corner.
+NEUT4|Sometime on January 9th.
+NEUT5|Neo Day is a conclave of Neo vehicle owners and other guests where the company usually showcases new technology and products.
+NEUT6|January 2021 will mark the company's fourth Neo Day.
+NEUT7|The event is to be held at Wuliangye Chung Do Financial City Performing Arts Center.
+BULL8|Located at the Chengdu Hi-tech Industrial Development Zone, Neo is expected to launch a new high performance premium, all electric sedan, the E7.
+BULL9|The E7 will likely compete against the Tesla Model S history of NEO stock price after Neo Day Neo held its first Neo Day, December 16th, 2017 in Beijing, where it launched its first mass produced vehicle, the S8.
+BULL10|A full electric SUV V. After the first Neo Day, Neo stock climbed 5% II.
+NEUT11|Neo Day was held at the Shanghai Oriental Sports Center.
+BULL12|On December 15th, 2018 with the theme of the year being together and better after that event, Neo climbed another 5% on Neo's third Neo Day.
+BULL13|The stock reaction was great, with Neo shares climbing 8.7% above its target price of $12.00.
+BULL14|Analysts state that Neo stock should climb another 12% after Neo Day their stock price predictions for the week after Neo Day.
+BEAR15|A January 11th, 2021 low price $52.59 median price $60.11 high price $67.62.
+NEUT16|January 12th 2021.
+NEUT17|Low price $52.82 median price $60.18 high price $67.92 January 13th 2021 low price $52.70 medium price $61.22 high price $68.62 January 14th 2021 Low Price $53.21 medium price $63.11 high price $69.62 January 15th 2021 Low price $53.59.
+NEUT18|Median price $63.99.
+NEUT19|High price $70.00.
+NEUT20|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT21|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT22|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL23|We'd really appreciate it.
+NEUT24|Are you still watching and want more?
+NEUT25|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

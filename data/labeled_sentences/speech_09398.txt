@@ -1,0 +1,48 @@
+NEUT0|"""As 2020 comes to a close walk, alley is taking a look at some of the biggest winners in the market this year."
+BULL1|Starting with remote learning education company check seeing shares up more than 140% since January.
+NEUT2|Joining us now is Chegg CEO Dan Rosen.
+NEUT3|Swag Dan.
+NEUT4|Good to see you and I remember four years ago we used to have you on to talk about everything but Chegg.
+NEUT5|When you were less than 1/10 of your current value.
+NEUT6|But now we're going to talk a lot.
+NEUT7|About check because this company is absolutely built for the situation that we're in for digital remote learning, what do you expect to change in 2021?
+BULL8|Yeah, well thank you for having me on and and happy Holidays.
+NEUT9|Merry Christmas everybody.
+NEUT10|So look, we you know check has been built from day one to support the student.
+NEUT11|The way the student learns which is they need an on demand.
+NEUT12|They need it remote.
+NEUT13|As you say, they need inexpensive, incredibly high quality and it needs to scale academic support for students and then ultimately skills building for students so they can get jobs and so Chegg was rising anyway when we were on 40 years ago.
+NEUT14|You didn't talk about check is it?
+NEUT15|Stock was at $4.
+NEUT16|I've been introduced to see Yahoo one more time I would have thought I didn't leave 14 years ago.
+NEUT17|But but we knew then that we were betting on the inevitable, which is more students.
+NEUT18|We're going to have to learn more often are going to need more help, and check is built to do that.
+NEUT19|What the pandemic has done is really revealed just how important it is.
+NEUT20|Not just domestically but internationally.
+NEUT21|I mean, we weren't really talking about international six months ago, now we're in 190 countries.
+NEUT22|So this is a global situation.
+NEUT23|And so it's pretty amazing.
+NEUT24|So then you've got so much data, not only relating to the student cohort, which is young, which is interesting along a lot of different lines.
+NEUT25|You know what they know, what they need to know, kind of where their interests are headed.
+NEUT26|I'm seeing a lot of zoom integrations happening now on learning platforms.
+NEUT27|I'm seeing money raised for sort of asynchronous learning.
+NEUT28|How does all of that fit into the road map that you have for either additional capabilities to build into Chegg, or perhaps things to buy?
+NEUT29|Yeah, no great question and so we're looking at you know what the inevitable looks like in the next few years so you know we have clearly been highlighted as a result of the pandemic.
+BEAR30|But when the pandemic is over, we don't expect growth to significantly slow because this is not just the trend.
+NEUT31|This is what it's going to be.
+NEUT32|And this is what it has to be.
+NEUT33|And so if you break it into two groups, John, you break it into K through 12, you're going to see a lot more integration of technology.
+NEUT34|Actually in the classroom and then hopefully goes home with the student.
+NEUT35|An we get broadband to every student, which is a really big issue.
+NEUT36|Higher education which is where we focus.
+NEUT37|The trends are clear.
+NEUT38|Students are getting older.
+NEUT39|They have to learn more things.
+BULL40|They need their education curriculum to expand to be increasingly skills based and they need to be able to get support whenever they need it.
+NEUT41|Most people don't know that the average age of a student in the United States, actually 25 years old, that the two largest schools in the United States not for profit or for our not for profit online institutions.
+NEUT42|Southern New Hampshire and Western governors is an example.
+NEUT43|Community colleges actually.
+NEUT44|California community colleges have 10% of all students, so you know the American student doesn't look like what people think that it does, and they need more help.
+BEAR45|40% of them are working 30 hours a week or more cannot be scheduled in fashion.
+NEUT46|Shepard Smith here.
+NEUT47|"Thanks for watching CNBC on YouTube."""

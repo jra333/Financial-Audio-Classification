@@ -1,0 +1,31 @@
+BULL0|"""This issue is our 2013 investment guide, which is one of our most exciting and best issues of the year."
+NEUT1|This is where we tell people how to get rich and to help with that, we have 20 wealth Wizards this time and we got some really big names.
+NEUT2|Are people like Warren Buffett, Ben Stein, Meredith Whitney, Leon Cooperman and Leon Black and their share with you?
+NEUT3|Their wisdom from everything from taxes to retirement to real estate.
+NEUT4|Everything that they've learned over their lives about how to make, save and invest and enjoy money.
+NEUT5|Leon Cooperman, who is a billionaire.
+NEUT6|Hedge fund guy.
+NEUT7|Obviously his big advice is go against the crowd.
+NEUT8|You're never going to really make a lot of money investing like everybody else.
+NEUT9|You can't be a sheep.
+NEUT10|You sort of have to be a Wolf.
+NEUT11|Another Leon Leon Black, who's the private equity guy behind Apollo, says something really interesting.
+NEUT12|He said the big thing for him was starting his career with a lot of smart people.
+NEUT13|A lot of people that understood, risk and reward and understood how to make a difference.
+NEUT14|And Ben Stein probably has the most interesting quote of all.
+NEUT15|He says.
+NEUT16|Money in abundance is paradise, power and love.
+NEUT17|In scarcity, it is terror, an guilt.
+NEUT18|And to help you avoid that terror in guilt, we have a bunch of other stories.
+NEUT19|We have a story about investing in ETF's now.
+NEUT20|If you're a retail investor, probably the safest and smartest way to accumulate a lot of money over a long period of time to invest in something like an exchange traded fund that invests in something like the stock market as a whole.
+BULL21|Because it's very hard to pick individual stocks, but you know overtime that the stock market in general is going to go up.
+NEUT22|So the real question is then not looking so much it returns, but looking at costs.
+NEUT23|So you want to keep your costs in terms of fees low.
+NEUT24|So our best ETF guide takes a look at the 10 year cost of ownership of various exchange traded funds, and in some cases that cost of ownership is so low it's in fact negative and I want to explain how you can get a negative cost and let you actually read this story.
+NEUT25|We also have a great story about homes that are now being bought up by billionaires.
+NEUT26|The guy who started Public Storage is buying a lot of these.
+NEUT27|This is a huge market now and the reason they're doing that is they're able to renovate them and then rent them out so they have an income flow, and then they're betting on the.
+NEUT28|Appreciation of the houses and now you can get in on this too, because they're having a number of these companies are going public and some other people are securitized bonds, so you can invest along with these guys and we take a look at whether why that may or may not be a good deal and the last thing I want to talk about really quickly is about fakes.
+BULL29|It's about counterfeits over the last 10 years, a number of collectible categories, including classic cars, coins, fine art and fine wine have dramatically outperformed almost any other asset class, including the stock market.
+NEUT30|"But what this is meant is not only just opportunity for people who own these things, but opportunity for thieves and counterfeiters, particularly things like wine and abstract art can be sort of easy to counterfeit, and so we take a look at what you can do to protect yourself in these areas, if anything."""

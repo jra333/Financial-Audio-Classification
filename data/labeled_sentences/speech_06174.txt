@@ -1,0 +1,33 @@
+NEUT0|"""The intrinsic value of Cognizant is range between $6.69 per share and $51.39 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $6.69 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have 669 in cash and cash equivalents.
+NEUT4|Paying 5139 per share represents the company's price per share based on its earnings.
+NEUT5|So a price of $51.39 per share represents the fractional payment.
+NEUT6|We'd all have to pay for the company's next 20 years of median historical earnings.
+NEUT7|Now this is a conservative way to value a company that is different from calculating its price to earnings ratio.
+NEUT8|But this brings up the next two questions.
+NEUT9|What does Cognizant do and what are they currently trading at today?
+NEUT10|Well, to answer the last question, they're trading at a price of 7388, which is immediately.
+BULL11|While it's well beyond our intrinsic value upper bound, so definitely it's deflating to see.
+NEUT12|But it's better that we know now.
+NEUT13|Cognition is an American multinational product LED digital Corporation that provides digital products and IT services, consulting, etc.
+NEUT14|According to Wikipedia, but that's kind of where we stop.
+NEUT15|We would only investigate further, spend more time on this company if this price was a favorable one.
+NEUT16|Will a bet or a bolster our assumption or our suspicion that they are in fact overpriced by looking at the price earnings ratio?
+NEUT17|27.39 is 7.39 points above where we would want it to warrant further investigation.
+BEAR18|Further research, so we would wait until this price drops beneath our upper bound of 51.390.
+NEUT19|Fifty $1.39 per share.
+NEUT20|That would then enable us to dig a little deeper and cognizant, but it's not going to happen today.
+NEUT21|Now if you were thinking of an investment in Cognizant.
+NEUT22|Or some alternative that's a bit healthier.
+NEUT23|Don't keep your money in the bank guys.
+NEUT24|Put your money into Vanguard 500 index fund.
+BULL25|It'll earn ya 12.98%.
+BEAR26|Trailing 10 years performance.
+NEUT27|So put it there.
+NEUT28|Low variance, low beta on this growth rate.
+NEUT29|So definitely check that out.
+NEUT30|If you guys have any value from this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance so that way your investment performance is optimized.
+NEUT31|Remember when your investment performance is optimized, so is your wealth production value investors.
+NEUT32|"I'll see you in the next video."""

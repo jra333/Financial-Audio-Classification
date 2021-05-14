@@ -1,0 +1,34 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|November 13th.
+NEUT2|In today's NEO stock analysis and predictions, why NEO stock will dominate despite citrons ratings?
+NEUT3|Alright, let's get started.
+NEUT4|The biggest market in the world for electric vehicles is in China.
+NEUT5|It's why Tesla is so focused on China with its Giga Shanghai factory.
+NEUT6|However, the Chinese government will not allow a foreign brand to dominate the domestic market.
+BEAR7|It would hurt their national pride to see Tesla succeed as a result.
+BULL8|NIO stock is the much better bet in the long run, and I also has backing from the Chinese government.
+NEUT9|So it's not only in their national interest, but also their financial interest for NIO to be Tesla in the world's largest TV market.
+NEUT10|Furthermore, the subsidy to purchase CVS under 300,000 yuan applies to manufacturers that use swappable batteries.
+NEUT11|Tesla does not use swappable batteries, while NIO does.
+NEUT12|Under this new policy, NIO is the biggest beneficiary as they are the only premium EV company with battery swap services.
+NEUT13|All future premium models price above 300,000 yuan developed by NIO that come with swappable batteries are still eligible for the subsidy.
+BEAR14|In terms of comparison, Neowing Sports a valuation of just $61 billion compared to Tesla's $251 billion market cap in Q3.
+BULL15|Neo delivered 5331 electric SUV's just in the month of October, which is a 109% increase from last year.
+NEUT16|If you value NIO, Inc on a per car delivery basis with Tulsa, it should have a current market cap similar or greater than Tesla in the next three years.
+NEUT17|Bottom line, it's important for traders and investors to always look at the big picture first.
+NEUT18|When it comes to NIO stock electric vehicles in China are the future.
+NEUT19|The Chinese government, as well as the US wants its citizens to drive electric vehicles with the current population of 1.393 billion.
+NEUT20|How many car sales do you think this will create?
+NEUT21|It's foolish to bet against NIO stock.
+BEAR22|Unfortunately, there are plenty of fools out there and 15% of the float is now short.
+BEAR23|They're going to get squeezed when it comes to Citroen.
+NEUT24|Ignore the noise.
+NEUT25|Don't listen to Citron or another brokerage telling you what to do with your money.
+BULL26|For that matter, don't listen to us, just use your own common sense population plus government support plus Clean air initiative equals success that common sense tells us that NIO stock is heading much, much higher.
+NEUT27|That's what's been happening this week in the world of Neo.
+NEUT28|Stock analysis and predictions.
+NEUT29|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT30|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL31|We'd really appreciate it.
+NEUT32|Are you still watching and want more?
+NEUT33|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

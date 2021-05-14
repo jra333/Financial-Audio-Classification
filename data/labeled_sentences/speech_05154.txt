@@ -1,0 +1,28 @@
+NEUT0|"""Show chapters best of the bull market betting on one of the top stocks since 2009 three."
+BEAR1|19 PME team on the 20th of August 20, 1804 fifty one at nearly 3500 days since the markets hit their lows back in March 2009.
+NEUT2|This bull market is on track to become the longest ever on Wednesday.
+BULL3|Since its lows, the S&P 500 has rallied more than 320%.
+BULL4|But some of its components have seen more astronomical returns.
+BULL5|Stocks such as Ulta Beauty, United Rentals, Amazon, NVIDIA and Netflix are among the best performers with quadruple digit percentage gains over that.
+NEUT6|Stretch one of those stocks appears to have even more major upside ahead of it.
+NEUT7|Says Ari Wald head of a technical analysis had Oppenheimer for Netflix.
+BEAR8|The stocks come under pressure in recent weeks.
+NEUT9|The important point for us is it's all within trend, said Ari Wald, head of a technical analysis.
+BEAR10|Had Oppenheimer to CNBC's Trading Nation on Monday, we have a correction into a rising 200 day moving average.
+NEUT11|We define that as a near term opportunity to buy long term strength.
+BEAR12|Netflix shares have tumbled 20% since hitting a 52 week high two months ago.
+BEAR13|Putting the stock in correction territory, its 200 day moving average which smooths out day-to-day volatility has been on the rise since late 2016.
+NEUT14|The stock's 50 day retracement of its year to date gains also comes in at around $300.
+BEAR15|So good support their added walled Netflix is still a 12% drop from $300.
+BEAR16|It has not closed below that level since early April.
+BEAR17|Bill Baruch, president of Blue Line Futures, sees Netflix is rally restarting following its pullback over the past month it has sold off a bit in that subscriber growth was the Big Bad Scary Wolf, but it has settled in Barukh told Trading Nation on Monday.
+BEAR18|Netflix has been selling off since missing quarterly subscriber growth estimates in mid July.
+BEAR19|Both domestic and international subscriber growth fell short of expectations.
+BULL20|The first miss in five quarters, it looks to be turning around this week, though its shares are up 7% over the past two sessions.
+BULL21|You're going to see this be a leader later this year, added barukh.
+BULL22|They have content in there producing fresh content, and I think they're going to be on a track to continue higher and you'll see this stock get back to.
+NEUT23|It's all time high.
+BULL24|Netflix hit an all time high of $423.21 a share on July 21st.
+BULL25|Even with recent losses, its stock remains 77% higher for the year vote vote.
+NEUT26|To see results total votes.
+NEUT27|"Not a scientific survey results may not total 100% due to rounding disclaimer."""

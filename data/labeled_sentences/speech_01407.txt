@@ -1,0 +1,33 @@
+NEUT0|"""Let's summarize where we've been."
+NEUT1|We're starting with the stock market.
+NEUT2|When's it a good bet?
+NEUT3|When isn't it?
+NEUT4|Well, one thing you definitely want to avoid.
+NEUT5|Is the kind of debackle we had.
+NEUT6|Whenthe.com bubble burst and the stock market collapse.
+NEUT7|And So what we've done is we've taken a look at a broad sweep of history here.
+NEUT8|And we've said to ourselves, well, what can the stock market history tell us?
+NEUT9|Can it show us how to avoid trouble in the in the future?
+NEUT10|And So what we did was review the record.
+NEUT11|And what we found.
+NEUT12|Was that?
+NEUT13|We have a measure of speculation.
+NEUT14|Called the price earnings ratio.
+BULL15|And when the price earnings ratio rose to unusual levels in the 1990s.
+BULL16|That told us that the stock market was marching forward much more rapidly than the earnings.
+NEUT17|Of.
+NEUT18|The underlying firms.
+BEAR19|And that tells us that investors were overconfident.
+NEUT20|In the kinds of gains from.
+NEUT21|Productivity improvements that and efficiency improvements that the personal computer revolution would be.
+NEUT22|Would bring.
+BEAR23|Anso one the stock market collapsed finally.
+NEUT24|Be 'cause those earnings gains just.
+NEUT25|Weren't as rosy as speculators at hope.
+BEAR26|When the stock market finally collapsed, it brought about in the.
+NEUT27|Years since the collapse.
+BULL28|Since the year 2002, a much healthier growth in the stock market.
+BULL29|Earnings have grown beyond the level that they had once reached and still stock market investors haven't pushed.
+BEAR30|The stock market well beyond the peak it had reached in the year 2000, so investors have been more cautious.
+NEUT31|And much less willing to bid the value of stocks up.
+BULL32|"Beyond the level justified by current earnings."""

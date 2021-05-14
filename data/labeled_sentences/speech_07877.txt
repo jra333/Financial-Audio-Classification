@@ -1,0 +1,13 @@
+NEUT0|"""I want to tell you about a report just coming out of the Wall Street Journal about we works."
+NEUT1|Is CEO Adam Neumann who we had on the show just last week, making millions as a landlord to his own company.
+BEAR2|So now new questions about a conflict of interest between the CEO and controlling shareholder of that company who has participated as an owner of many of the buildings that we worked effectively is then leasing from him and investment groups that he is part of.
+NEUT3|Some of this was disclosed.
+NEUT4|Two debt investors unclear whether Masan or some of the other big equity owners.
+NEUT5|Fully appreciate and understand how all of this took place, but it's now the that you know Newman now that makes a lot more sense to say that, don't you think?
+NEUT6|This reminds me, actually, of Sarah Taj with Eddie Lampert, right where he was buying a lot of these properties and then some dealing.
+NEUT7|It sounds like where you're buying those properties and then leasing them back to the other entity.
+NEUT8|Clearly the board at some level seems to have understood or known about some of this because they had in one of the instances they stopped in.
+NEUT9|There was a situation in Chicago where he actually is part of one of the leases wanted to actually buy a company.
+NEUT10|Other is it still.
+NEUT11|We were, I guess now it's called the We Company Company, but I think this is going to raise some new questions about.
+NEUT12|"We works about his management of the company benefits we do so we Co. Write we company."""

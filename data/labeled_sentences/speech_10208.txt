@@ -1,0 +1,30 @@
+BULL0|"""Jack Ma has resurfaced after months out of public view."
+NEUT1|China's most recognizable billionaire address teachers via live stream during an annual event to recognize rural educators.
+NEUT2|Bloomberg's Alan one has more great news for Jack MA fans.
+BEAR3|China's most famous entrepreneur has reappeared after being out of spotlight since November when he didn't appear for the taping of the show called Business Heroes.
+BEAR4|It was a pretty tough for November for Jack.
+NEUT5|Not only did the Chinese government.
+NEUT6|Torpedo his $35 billion an IPO, but it also ordered an overhaul of Ant and in loss to probe of Ali Baba.
+NEUT7|So after a lot of our recent speculation to his whereabouts were talking about everything from being detained, two hanging out and Sagna to being seen at a funeral in Hong Kong.
+NEUT8|For this tycoon, Jack was actually following.
+NEUT9|Spotted at a live stream where he spoke to a rural educators at this annual event.
+NEUT10|Why is the world so concerned about Jack Ma's whereabouts?
+BULL11|To give it an indication of how much investors will concern the stock soared as much as 11% on Wednesday.
+BULL12|On the news, Machak Mar is not just one of China's richest persons, but he's one of the most admired.
+NEUT13|When I went to Hangzhou last week on my search for Jack, it just seems like every everybody there, all the residents and people do business Alibaba talk about him and almost reverential terms.
+NEUT14|They call him a teacher Ma.
+NEUT15|Jack is a fluent English speaker, and he's a very quick Darius.
+NEUT16|If you ever watch him speak.
+BEAR17|He's also had a sort of no holds barred way of talking, and that's probably why I've gotten in trouble in the 1st place back in October, he gave a speech that criticizes regulators and state owned banks for lock innovation, which act may have officially retired as the day they Chief of Alibaba.
+NEUT18|He's still seen as the face of a Chinese speak because e-commerce company.
+NEUT19|And after retiring, instead of gently going into that good night.
+NEUT20|Actually been trying to transform the financial sector in China.
+NEUT21|The way he's done in his direct disrupted the retail sector here and with his aunt group, which is priority biggest IPO at $35 billion?
+NEUT22|What he's looking at right now is possible.
+BEAR23|Possible breakup of his empire.
+NEUT24|I mean it's easy to say that it's unfair to penalize Jack Mehoffer's hard earned success, but you have to understand both Alibaba and Tencent.
+NEUT25|They dominate so many key areas of Chinese economy, from finance to the retail and a lot of the concerns that Chinese government has is intact.
+NEUT26|The similar from what you see in the US where calls to break up big tech amid fears of a monopolies.
+BULL27|But at the very least, we know that Jack MA is safe and sound.
+BEAR28|I mean, that's more than we can say for some overtime codes in China who've had their empires torn apart.
+BEAR29|"They've had to sell assets, and they've even been detained."""

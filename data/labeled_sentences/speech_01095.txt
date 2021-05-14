@@ -1,0 +1,10 @@
+BULL0|"""So some nice FUD from Bloomberg."
+BEAR1|I would like to counter some of these statements because yes, the price of Bitcoin could go under six 6000, but.
+NEUT2|I'm not really worried about it and like I said, I'd continue to buy the dip.
+BEAR3|And yes, the prices of Bitcoin have recovered in the past, and it's true that the crypto adoption might be slower than expected, but we really are just waiting for a global recession.
+NEUT4|I really do feel like the global recession is what will bring a lot of value and a lot of money into crypto currencies and regulators.
+NEUT5|Just catching up and allowing an ETF and custodian ship to be set up so these two events are going to happen.
+NEUT6|Now if it's going to be the end of 2018 or 2019.
+NEUT7|No one knows, but long term I don't think that outlook is bleak and the prices you bought in you know, even if it is overvalued.
+NEUT8|If you can hold long term, I'm pretty confident that the market cap will go over 1 billion and the all time high was 800 and 53150 million and it should go over 1 trillion.
+NEUT9|"But let me know your thoughts on this and I will talk to you soon."""

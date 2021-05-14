@@ -1,0 +1,20 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Friday, June 23rd.
+NEUT2|I'm Celina Nicholas technical analyst.
+BEAR3|Xm.com today will look at Dollar CAD on the daily chart so we can see how USD CAD has been in a downtrend.
+BEAR4|Since falling from the May 5th high one point 3792.
+BEAR5|There is still risk to the downside, since the momentum indicators are bearish.
+BEAR6|We can see our size below 50 and then Mark D is below 0 and it still sloping down.
+BEAR7|Other bearish signals were given when the Tenkan Sen line crossed below the Kijun Sen Line.
+NEUT8|And this happened on May 24th.
+BEAR9|Trend indicators are also showing a bearish picture as the market is below the ichimoku cloud and also below the 200 day moving average.
+BEAR10|Major resistance is now being provided by this 200 day moving average at one point 3342 and a sustained break above.
+BEAR11|This would start to weaken the downside bias and prices would target the base of the cloud.
+NEUT12|At one point 35 Zero 7 from here prices would move into the cloud and then rising above it.
+BULL13|The cloud top at one point 3612 would negate the bearish bias immediate support.
+BEAR14|The downside is that the June 14 low of one point 3163 and a drop below this level would target the January 31st low one point 2968, but for look at the bigger picture.
+NEUT15|Prices now are more less back in the range if prices stay within the range between one point 30 and 1.36.
+NEUT16|This would keep a neutral bias for the medium term.
+NEUT17|That's it.
+BULL18|Thanks so much for watching.
+BULL19|"Have a great day."""

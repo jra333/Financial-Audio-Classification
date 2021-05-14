@@ -1,0 +1,31 @@
+NEUT0|"""Not at all."
+NEUT1|Well, it's Friday, everybody and what we're looking at here just so everyone knows is a weekly chart on Amazon.com.
+NEUT2|And basically the SMF Pro trading students are looking at the difference between bear and bull trend cycles.
+NEUT3|Add when the.
+NEUT4|Can people hear me?
+NEUT5|OK, so excuse me.
+BEAR6|There's going to be a little interruption on this tape.
+NEUT7|You'll have to live with it.
+NEUT8|Is that a couple of major key things have happened.
+BEAR9|We rolled over 10 week rolled down.
+BEAR10|And that meant that Amazon was in a bear reversal trend 1234567 weeks below that, ten week ten week was descending, but now check it out.
+NEUT11|The ten week is flat and just the opposite of the bear.
+BULL12|SMF Bear Qualifier trend is that we have come back up and we had 1234 weeks above the ten week and the ten week is flat.
+NEUT13|It's pointing up.
+BULL14|The 20 week is holding it up.
+NEUT15|So we are not in the bear trend that we were over here.
+BEAR16|That that was a bear reversal from the long term bull trend over here.
+NEUT17|Basically what we've done is we have broken that bear reversal from January end of December, and now that Blue line is a 10 week moving average, it's flat.
+NEUT18|We've got four weeks closing price above it.
+BULL19|We're back up toward the 52 week I reversal.
+NEUT20|Which remains up here.
+NEUT21|This blue line is a 10 week half of that weekly bars about right there.
+BULL22|And basically we have consolidated the high of that weekly breakout bar.
+NEUT23|Which is bullish?
+NEUT24|And when I take out this trend line, it's when you can consolidate the high of a weekly bar, daily bar monthly, 3 minutes, 15 or 16 minutes bar.
+NEUT25|We're holding the high end.
+NEUT26|And the support level is the high of that bar.
+BULL27|The bodies are closing right on the high that this weekly breakout bar and we got a 20 rising week.
+BULL28|We've got the ten week coming up behind it.
+NEUT29|So basically, as of right now, with four weeks above it, that is constant, that provides the bull trend.
+BEAR30|"We have had a bear reversal here to a bowl."""

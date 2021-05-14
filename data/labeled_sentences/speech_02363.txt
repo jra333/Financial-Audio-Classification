@@ -1,0 +1,37 @@
+NEUT0|"""What's going on?"
+NEUT1|YouTube and welcome to Stonk money.
+NEUT2|Today we are beginning a new series called Stonk Play of the day where we will be looking daily at a single stock to take profits on.
+NEUT3|And since it is called stonk play of the day and not stock play of the day, we are going to be looking for stocks to get in and exit out quickly.
+NEUT4|Somewhere between scalping and holding, long before we begin, please hit the like button and subscribe to my channel below.
+NEUT5|It definitely helps a small time, you tuber like me.
+NEUT6|Continue to provide you content that hopefully has some value for you.
+NEUT7|As always, this is not financial advice and I am not a financial advisor.
+NEUT8|This video is purely for entertainment purposes.
+NEUT9|We're going to be taking a look at today's stock play.
+NEUT10|Disney ticker symbol.
+NEUT11|DIS Disney is the mass media and entertainment behemoth set to take on Netflix and dominate the online streaming space.
+BEAR12|Looking at today's movement, Disney is currently down.
+BEAR13|.94% to $189.33 but up 40% in after market hours.
+NEUT14|Now Disney is normally a good long hold dividend stock.
+NEUT15|However I like Disney as a stock play based on the upcoming earnings report which will be made available after hours.
+BULL16|On February 11th, in light of the upcoming earnings report, I expect there to be more volume tomorrow, especially on the short term options with Disney projected to be earning expectations, an show significant growth in its Disney plus streaming service.
+BEAR17|Now looking at the RSI for today, we can see it was oversold around 11:00 AM.
+BEAR18|Before recovering an ending in a more neutral position, the macdee relatively neutral with a slight bullish to neutral trend throughout the day.
+BEAR19|Taking a look at the last earnings report, we can see Disney earnings per share fell steeply for Q3 2020, but still beat analysts expectations, causing a jump up in the share price.
+BEAR20|It closed at $135.52 on November 12th when the earnings report was published after hours and immediately opened the following day at $140.90 with highs up to 141 before closing on that Friday at 138.
+BULL21|The strong earnings report supported the bullish momentum.
+NEUT22|Into the next week, trading around $144 per share.
+NEUT23|The following two days looking for positions to enter into Disney tomorrow.
+NEUT24|I would keep almost a scalping mindset and look for a big gap down, knowing that market makers once again love to fill and test these gaps.
+BULL25|I would hold any position through the earnings report after market hours on February 11th and expect it to continue to move up.
+BEAR26|If Disney beats analyst expectations now, it is always possible for the stock to still fall after a positive earnings report.
+BEAR27|But I usually associate that contrary movement when analysts have overly high expectations, which, given the continued struggle with Disney amusement parks and theatrical releases, I do not expect here.
+NEUT28|And that is my song play of the day for February 10th.
+NEUT29|If you enjoyed this video, please once again hit the like button and subscribe to my channel below.
+NEUT30|Please also comment below on your thoughts on Disney commenting.
+NEUT31|Definitely helps a small time you tuber like myself with the YouTube algorithm.
+NEUT32|Do you like the stock?
+NEUT33|Or do you really like the stock?
+NEUT34|Let me know your thoughts below.
+BULL35|Thanks for watching.
+BULL36|"Stay safe and go out there and do something great."""

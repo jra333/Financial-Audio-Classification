@@ -1,0 +1,26 @@
+NEUT0|"""Stanley Black and Stanley Black and Decker tools and storage is 70% of this company and Home Depot and Lowe's is 30% of the of the tools and storage business."
+NEUT1|They have organic growth of 25%.
+NEUT2|Last quarter they keep beating.
+BULL3|Raising margins are going up.
+NEUT4|I like the story a lot.
+NEUT5|OK, So what do you have for us today?
+NEUT6|I like GoDaddy.
+NEUT7|I liked it up in the high 70s, low 80s.
+BEAR8|It's back down to 73.
+BEAR9|I think there's a great secular growth story in tech that's been thrown out.
+NEUT10|OK, Jerry and.
+NEUT11|Steven, now we're talking about Boeing.
+NEUT12|She's in the stock.
+NEUT13|I'm in the options.
+NEUT14|They continue to buy.
+NEUT15|Scott.
+BULL16|I think it's going higher.
+NEUT17|Yeah, nice order number today is Phil was telling us that stock was leading the Dow.
+BULL18|You could see it up by nearly 4% alright.
+NEUT19|Reform broker.
+NEUT20|What's your call here?
+NEUT21|Berkshire Brooks?
+NEUT22|Yeah, Brookshire is not done going up.
+NEUT23|I think the stock works for a lot of reasons.
+NEUT24|Staying long.
+BULL25|"OK, seeing those shares getting a lift today 2 by about 1 3/4%."""

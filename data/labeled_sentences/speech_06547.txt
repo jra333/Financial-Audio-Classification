@@ -1,0 +1,13 @@
+NEUT0|"""Hello, welcome to today's technical analysis for November 10th, 2015."
+NEUT1|I'm Celina Nicholas, technical analyst at xm.com.
+NEUT2|Today we will look at the pound versus U.S. dollar on the daily chart.
+BEAR3|Gbpusd is consolidating Fridays, drop and hovering around the key psychological level of 1.51.
+NEUT4|This is currently acting as support.
+BEAR5|Our size in bearish territory below 50 in the market is also below that.
+BEAR6|200 day moving average and also below the daily Tomoka clout and these are all giving bearish signals.
+BEAR7|Meanwhile, lower highs and lower lows have been created since the fall of the peak from one point 5929 back in June to the upside resistance lies at the next psychological level.
+NEUT8|1.52 and move above.
+BULL9|This would bring the boys back to neutral, but a fall below.
+BEAR10|Current levels below the 1.51 level would bring 1.50 into focus and then a deeper decline.
+NEUT11|From here would target the April low one point 4564.
+BULL12|"Thank you for watching and have a great day."""

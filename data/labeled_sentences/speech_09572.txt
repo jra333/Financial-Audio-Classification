@@ -1,0 +1,37 @@
+NEUT0|"""Alright, Disney wants more of Hulu."
+NEUT1|It already owns a 60% stake in the streaming service, and now Comcast is in talks to sell its 30% stake in the service.
+NEUT2|2 Disney and here to talk about it is Mary Ann Halford, senior adviser at OCC strategy consultants Marion.
+BULL3|Thanks for joining us great to be here.
+NEUT4|So what is the skinny on Disney?
+NEUT5|Plus, how big could this be?
+NEUT6|I saw some estimates out there knee upwards of 70 million subscribers.
+NEUT7|I believe that could happen.
+NEUT8|Definitely believe it could happen.
+NEUT9|I think Disney surprised a lot of people in the market by.
+BULL10|Pricing it so competitively, I think that was definitely a fire shot into the market.
+NEUT11|Definitely must have people at Warner Entertainment thinking very carefully about what they're going to do.
+NEUT12|Listen, there's no better studio content factory if you will ever known in the history of mankind than the Walt Disney Company.
+NEUT13|I mean, even my parents were brought up on Walt Disney movies.
+NEUT14|You know, going to see Bambi at the movie theater as a young girl in the 40s.
+NEUT15|It resonates with lots of generation, right?
+NEUT16|It's just it's something you know my father remembers seeing Mickey Mouse shorts, you know, on the on the Avenue on an in Greenpoint, Brooklyn, so the reality is that way I'm from that area.
+NEUT17|I had shout out to Williamsburg and very very cool go Brooklyn, but Disney is just been part of us as a country for almost 100 years now and back in the 90s when I was bringing up my daughter and friends of mine were bringing up our kids.
+NEUT18|We all had home Entertainment an what do we all have to have all the time?
+NEUT19|We had to have those Disney DVDs.
+NEUT20|Now families are going to need Disney.
+BEAR21|Plus if I'm Netflix this morning, I'm shaking in my boots because there is a new survey and surveys are not always correct.
+NEUT22|But if this is any indication, 14 1/2 percent of current Netflix subscribers already say you know what I would drop Netflix for Disney Plus and they haven't even seen Disney Plus yet.
+NEUT23|And that equates to about 8.7 million customers at some point.
+NEUT24|When is Netflix going to have to worry?
+NEUT25|So not already?
+NEUT26|Well, I think Netflix has to start worrying because 72% of the viewership there's an article in the Wall Street Journal about this.
+NEUT27|Yesterday 72% of the viewership on Netflix is for library content.
+BEAR28|NBC is already in discussions about pulling the office.
+NEUT29|What Will Warner Entertainment do with friends next year?
+NEUT30|Will that become part of what their new entertainment offering is?
+NEUT31|We already know a lot of the key Disney and Fox content will no longer be on Netflix.
+BULL32|Yes, Netflix has been very good at producing originals, but is that going to be enough to sustain?
+NEUT33|Large numbers of people wanting to watch it on a regular basis.
+NEUT34|Do they wind up having some of their premium content and a little bit lower level library content?
+NEUT35|Or will there be other suppliers that will come in and fill the gap?
+NEUT36|"Certain companies have already said that they will choose to be arms dealers Paramount to said that Sony so we have to say."""

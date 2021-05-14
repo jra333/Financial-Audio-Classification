@@ -1,0 +1,22 @@
+BULL0|"""By David Dawkins, Ariel Shapiro, Mamina Con, Jennifer Wong, Chase Peterson, Whithorn, and Kerry a Dolan in Africa, as elsewhere in the world, the wealthiest have come through the pandemic just fine."
+BULL1|The continents 18 billionaires are worth an average 4.1 billion dollars, 12% more than a year ago, driven in part by Nigeria's surging stock market for the 10th year in a row, Aliko Dangote of Nigeria as the continents richest person worth $12.1 billion.
+BULL2|Up by $2 billion from last year's list, thanks to a roughly 30% rise in the share price of Dangote Cement, by far his most valuable asset.
+NEUT3|The second richest is massive, so we receive Egypt, whose largest asset as a nearly 6% stake in sportswear maker Adidas, at #3, Nicky Oppenheimer of South Africa, who inherited a stake in Diamond Firm De Beers and ran the company until 2012 when he sold his families 40% stake in De Beers to mining giant Anglo American for $5.1 billion.
+BULL4|The biggest gainer this year as another Nigerian cement tycoon Abdelsamad Rabiot.
+BULL5|Remarkably shares of his Boo Semente PLC, which listed on the Nigerian Stock Exchange in January 2020, have doubled in value in the past year that pushed Robbie use fortune up by an extraordinary 77% to $5.5 billion.
+NEUT6|One thing to note, Robbie you and his son together own about 97% of the company, giving the company a tiny public float.
+NEUT7|The Nigerian Stock Exchange requires that either 20% or more of a company's shares to be floated to the public, or that the floated shares are worth at least 20 billion naira.
+NEUT8|About $50 million, a paltry sum.
+NEUT9|To be sure, a spokesman for the Nigerian Stock Exchange told Forbes that Bussa meant meets the second requirement.
+NEUT10|Forbes discounts the value of steaks when the public float of a company is less than 5%.
+NEUT11|Read more.
+NEUT12|The full list of Africa's richest people.
+NEUT13|While some got richer by the billions.
+BEAR14|Two from the 2020 list of Africa's richest dropped below the $1 billion mark.
+BEAR15|In fact, the only two women billionaires from Africa have both fallen off the list.
+BEAR16|Forbes calculates that the fortune of Folorunsho Alakija of Nigeria, who owns an oil exploration company, dropped below $1 billion due to lower oil prices and Isabel dos Santos, who since 2013 has been the richest woman in Africa, was knocked from her perch by a series of court decisions, freezing her assets in both Angola and Portugal.
+BEAR17|In January 2020, the Attorney General of Angola charged Dos Santos with embezzlement and money laundering the ankle in court claimed the actions taken by Dos Santos, her husband Sindika Dakolo, who died in October 2020, reportedly in a scuba diving accident and one other associate caused the Angolan government losses of at least $1.14 billion.
+NEUT18|Forbes has marked Dos Santos, frozen assets at zero through a spokesperson, Dos.
+NEUT19|Santos declined to comment.
+NEUT20|Read more how Africa's richest woman went broke the unmaking of a billionaire.
+NEUT21|"The 18 billionaires from Africa hailed from 7 different countries."""

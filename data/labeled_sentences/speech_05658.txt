@@ -1,0 +1,4 @@
+NEUT0|I don't.
+BULL1|Amazing place.
+NEUT2|Is it?
+NEUT3|Good morning.

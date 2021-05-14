@@ -1,0 +1,55 @@
+BEAR0|"""Many of the nation's top economists do see a recession hitting by 2021."
+NEUT1|That's according to the latest survey from the National Association of Business Economics, Yahoo Finance senior columnist Rick Newman is here to break this down.
+NEUT2|Rick large, part on why they don't?
+NEUT3|This survey doesn't predict recessions that thanks to monetary policy, isn't it mildly disturbing?
+NEUT4|Yeah, let me just let me just go through the numbers of the service.
+NEUT5|So this is a quarterly survey of economists working for big companies.
+NEUT6|2% of them think we will.
+BEAR7|The next recession will start in 2019.
+NEUT8|Thirty 8% think the next recession will start in 2020, so combined, that's 40% by 2020.
+NEUT9|Then another 34%, say the next recession will start by 2021.
+NEUT10|So that's 70.
+NEUT11|What is that?
+NEUT12|74% of economists these guys think we're going to have a recession by 2021.
+NEUT13|That is quite different from what you're hearing that the Trump White House say.
+BEAR14|Of course, you know the White House can't come out and say, yeah, we agree there's going to be a recession because of course they would know if there is a recession, they're going to get blamed for it.
+BULL15|So yeah, monetary policy is loosening.
+NEUT16|Obviously, that might help, but just another thing about this business economist survey.
+NEUT17|This was taken in.
+BEAR18|Mostly in late July, which was before the latest escalation in the trade fight with China.
+BEAR19|So that is making lots have worse and I, by the way, I don't think Kudlow is right.
+BULL20|That Wall Street economists have we're upgrading their forecast for the week.
+NEUT21|I mean, you know what?
+BEAR22|He didn't bother to mention is we're basically in a manufacturing recession right now.
+BEAR23|We've had two consecutive quarters of declining activity in manufacturing.
+NEUT24|Manufacturing is crucial to the overall economy as it used to be, but it's still important.
+NEUT25|That's an important indicator.
+NEUT26|It's also the part of the economy Trump said he was going to rejuvenate.
+BEAR27|So we're seeing trouble there and there's their problem.
+BEAR28|Seeing SPRL come down for the third quarter?
+BEAR29|Yeah, that's so when he when Kudlow saying forecasts are going up, the opposite is happening with regard earnings forecasts coming back, some sectors are in an earnings recession.
+NEUT30|Right now, right steals materials, absolutely I. I don't think we're in a recession right now.
+BULL31|I mean, the good news here is that consumers feel fine.
+BULL32|They're looking around saying not worried about job security, comfortable spending, money, getting enough of a raise to be pretty optimistic.
+NEUT33|This survey also showed that most of these.
+NEUT34|Economists out that fiscal policy was just where it should be that while fiscal and monetary monetary policy is the one they're asking about, in other words, you seeing both.
+NEUT35|I see current fiscal policy is about right, so it's just so they asked fiscal and monetary.
+NEUT36|Yeah, so they think that that's where it should be, and I have to think I have to kind of puzzle that one out because of all the deficit spending we're having in deficits going Tord.
+NEUT37|$1 trillion that is fiscal spending.
+NEUT38|And by the way, these guys don't necessarily predict the future.
+BEAR39|So there's a quarterly survey in the last time they asked if they were actually a little bit gloomier.
+BEAR40|They thought a recession was going to arrive soon.
+NEUT41|Other then they seem to think right now an you know.
+NEUT42|I think economists do have this habit of always seeing a recession about two years away.
+NEUT43|Yeah, you know.
+NEUT44|And then two years arrives at all.
+NEUT45|No.
+BULL46|Well, you know we got through the next two years.
+BULL47|We are proud it's possible.
+BEAR48|We are talking a little too much about a recession.
+NEUT49|I mean, we're not in one right now.
+NEUT50|Consumers feel pretty good and I think The thing is, if Trump were not prosecuting this trade war with China, I think everybody would just be more optimistic because there would be no policy threat to a growing economy.
+NEUT51|But Trump has just committed to this and he now has to convince himself that staying the course on the trade war and perhaps escalating tariffs is the right thing to do.
+BEAR52|And we're kind of increasingly getting Trump and his economists in never Neverland, saying, oh the trade wars find nothing that's not hurting the economy at all.
+BEAR53|Just about every mainstream economist says the trade war is hurting the economy a little bit, even if it's just at the margins right now.
+BEAR54|"But the more the trade war escalates, the more it's going to hurt the economy."""

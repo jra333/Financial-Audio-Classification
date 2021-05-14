@@ -1,0 +1,32 @@
+BULL0|"""Welcome back everybody."
+NEUT1|Right now it's time for the executive edge.
+NEUT2|Goldman Sachs is expected to announce that fewer than 65 people will be named partners this year.
+BEAR3|The Wall Street Journal says that that would make it the smallest class of new partners since 1998.
+NEUT4|Back when Goldman was still a private company, an official announcement is expected this week, but partners now own less than 5% of the firm.
+NEUT5|By the way, you know why this is?
+NEUT6|Cost control.
+NEUT7|Good wave because if you if you turn into partners guess what.
+NEUT8|Everybody makes a little bit more money right now, but by the way we, we shouldn't.
+NEUT9|The partners of Goldman Sachs should be clear.
+NEUT10|It's a partnership, but it's not a partnership in the classic sense of an ownership partnership.
+NEUT11|It's simply almost at this point a designation as sort of a title.
+NEUT12|Designations about the way they think about exactly.
+BEAR13|All right in other corporate news, General Electric will pay former CEO John Flannery 4.3 million in cash severance over the next 12 months.
+BEAR14|He was fired last month after just 14 months on the job, according to an SEC filing.
+NEUT15|Flannery will also be eligible for equity awards.
+NEUT16|It could total several $1,000,000 will receive a pension more from his more than 30 years at GE, once he turned 60, it was valued at nearly 24 million at the end of last year.
+BULL17|Saw something over the weekend that kind of got me got me going.
+NEUT18|It was an arc from zero hedge about some guy recounting what he remembers so vividly from the financial crisis.
+NEUT19|Yeah, and that was of Immelt being on CNBC on this show.
+NEUT20|I remember when this talking about it was an email.
+NEUT21|It was key sharing.
+NEUT22|Immelt was not on oh, I thought you meant so.
+NEUT23|He remembers this and then he ties and then Imel was supposedly on the New York Fed and knew what was.
+NEUT24|It wasn't Immelt it was Keith share being saying when the stock was down at 5 or $6 a share.
+NEUT25|So this guy vividly remembers him out and the stock was going in up.
+NEUT26|His email talked and as he massages the market so the entire article is based on a false premise.
+NEUT27|It wasn't me.
+NEUT28|It was Keith Sharon and I remember it well because the ticker was down in his hands.
+BEAR29|Were I mean it was a very nervous time.
+NEUT30|Jeff Immelt didn't have credibility then.
+NEUT31|"At that point they said, and sharing in the CFO anyway, if you're actually there, it's different than if you're just writing about it, and you know that's like fake news narrative."""

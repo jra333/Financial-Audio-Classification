@@ -1,0 +1,29 @@
+BEAR0|"""Coca Cola said Wednesday the coronavirus pandemic is still hurting its sales, but cost cutting efforts helped at top analysts earnings estimates."
+NEUT1|The company also released its first forecast since the crisis hit its business.
+BULL2|Analysts appear to be more optimistic than the soft drink company about the speed of its recovery.
+BULL3|Shares of the company rose 1% in morning trading.
+NEUT4|Here's what the company reported compared with what Wall Street was expecting.
+NEUT5|Based on a survey of analysts by Refinitiv.
+BEAR6|The beverage giant reported fourth quarter net income of $1.46 billion, or $0.34 per share, down from $2.04 billion, or $0.47 per share a year earlier.
+BEAR7|In response to the Pandemic, Coke has accelerated its workforce restructuring and slimmed down its portfolio.
+BEAR8|The company recorded a $15 million charge related to these efforts and a $4 million benefit from discontinuing its Odwalla brand.
+NEUT9|About 11% of Cokes.
+BEAR10|Global jobs have been cut.
+NEUT11|Including its bottling investments and global ventures segments, Coke expects to spend $350 million to $550 million on severance.
+NEUT12|Excluding restructuring charges and other items.
+BEAR13|Cocoran $0.47 per share topping the $0.42 per share expected by analysts surveyed by Refinitiv net sales dropped 5% to $8.6 billion.
+BEAR14|Missing expectations of $8.63 billion.
+BEAR15|Organic revenue, which doesn't include the impact of acquisitions, divestitures or foreign currency, fell 3% in the quarter.
+NEUT16|Unit case volume, which strips out the impact of foreign currency and pricing.
+BEAR17|Shrank by 3%, all four of its beverage segments reported.
+BEAR18|Volume declines, and Latin America was the only geographic region to report volume growth.
+BEAR19|The company said the resurgence of the virus around the world in December and January has put pressure on demand so far in February.
+BEAR20|Global volume has declined by mid single digits.
+BULL21|It is still early days in the vaccination process and we'd expect to see further improvements in our business as vaccination become more widely available over the coming months.
+BEAR22|CEO James Quincey told analysts on an earnings conference call, it's clear that the pace and availability of vaccines will look different around the world, and therefore we will likely see some level of asynchronous recovery, depending both on vaccine distribution and other macroeconomic factors, he added in the fourth quarter, sparkling soft drinks saw volume declined by 1%.
+BULL23|Its namesake soda reported volume growth of 1% in the period, and Coke 0 Sugar's volume rose 3%.
+BEAR24|The company's juice, dairy, and plant based beverage segments of volume shrink by 2%, while Coke simply juice in far life.
+BULL25|Milk performed well.
+BEAR26|They weren't enough to offset a decline in the Minute Maid fountain business volume of its water.
+BEAR27|Enhanced water and sports drinks fell by 9%, but it's tea and coffee business reported the biggest contraction in volume.
+BEAR28|"Demand fell 15%, largely due to the pressure on its Costa cafes and dog Adanti brand in Turkey."""

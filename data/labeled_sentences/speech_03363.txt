@@ -1,0 +1,17 @@
+NEUT0|"""Michael Eisners, Toronto Company is backing an initial public offering for sports trading card company top Sync with the former Disney boss set to remain chairman."
+NEUT1|The $1.00 three billion public move will be the result of a merger with a shock, one of the popular investment vehicles, also known as Blank Check companies.
+BULL2|A range of SP AC's have recently attracted interest from a pedigreed group of entertainment executives and celebrities.
+NEUT3|Spock deals have resulted in publicly traded companies like sports betting firm DraftKings and Digital Media aggregator Group 9 Mudrick Capital Acquisition Corp.
+NEUT4|The shock in question will generate gross proceeds of $571 million through the transaction.
+NEUT5|An injection of $250 million in private funds will come from Mudrick capital and other institutions like GAMCO Investors and Wells.
+NEUT6|Capital Management tops will trade on the NASDAQ under the ticker symbol top.
+NEUT7|Topps, which Toronto bought for $385 million in 2007 has been a leading purveyor of trading cards for more than 80 years.
+NEUT8|More recently, it has been exploring a booming component of the sports collectibles business, non fungible tokens which use blockchain technology, NFTS containing NBA video, highlights a dunk by LeBron James, for example have reached $230 million in value, according to an estimate in February by Dapper Labs.
+NEUT9|Instead of swapping cards, fans traded currency suited to the 21st century in an interview with CNBC, Iser said Topps currently gets about 25% of its revenue from digital sources.
+BULL10|But that area of the company is growing really fast.
+BULL11|Blockchain, he said, would enable the company to participate in the secondary market around Collectables.
+BULL12|I bought the company because I thought it had a great consumer emotional appeal.
+NEUT13|The way Disney did, Eisner said the decision to go public was made before the explosion of blockchain and NFTS.
+NEUT14|He maintained adding we're running the company as a real company and this is the icing on the cake.
+NEUT15|In addition to its core sports cards, business Tops also owns a line of confections including bazooka gum.
+NEUT16|"Here's a longer piece of the CNBC interview."""

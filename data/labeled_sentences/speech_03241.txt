@@ -1,0 +1,29 @@
+NEUT0|"""Developing the financial projections for your startup may seem a daunting task."
+NEUT1|After all, how can you know what type of revenue and costs your business will encounter in its first year of operation, let alone the first five years putting the projections in the plan and presenting it to funders also seems so final.
+NEUT2|As of saying you promise stand by these numbers.
+NEUT3|How can this be the case when you feel extremely uncertain about the projections?
+NEUT4|In this video, we're going to share six major components of financial.
+NEUT5|Projections for start up One Financial goals and objectives.
+NEUT6|Every startup owner wants to make as much money as possible from those startup, but how much money do you really need?
+NEUT7|What are the financial goals you want to achieve with your business?
+NEUT8|You need to write all of your financial goals and objectives in your financial projection.
+NEUT9|2 income tax planning.
+NEUT10|Ignoring tax planning is very common among many small business owners.
+NEUT11|It is not an optional process, so be sure you are on the correct path when dealing with your taxes with the help of a profession.
+NEUT12|Who will help you through the ongoing process that helps small business review their total income and manage the expenses every month?
+NEUT13|3 balance sheets.
+NEUT14|The balance sheet boldly declares where a business stands at a given moment in time from the balance sheet.
+NEUT15|A financially sophisticated reader can learn an immense amount of valuable information about a business and its viability.
+NEUT16|That is why potential investors and lenders will almost always ask you for a copy of your financial statements.
+NEUT17|Including the balance sheets, income statement, statement of retained earnings and statement of cash flows for risk management and insurance, no matter the size or nature of your business.
+NEUT18|One thing that remains the same is the need for business insurance.
+NEUT19|There are many different aspects of your business that you want to take into consideration when looking for new business insurance or reviewing your current insurance coverage.
+NEUT20|5 cash flow statements.
+NEUT21|In financial projections, a cash flow statement or statement of cash flows is a financial statement that shows a company's incoming and outgoing cash during a time period.
+NEUT22|All three statements are arranged from the same accounting information, but each statement serves its individual function.
+NEUT23|These statements of cash flow reports the movement of cash into an out of your business in a given year and six investment planning investments are all about working out a particular financial projection so that you can get from one place to the other.
+NEUT24|It is precisely due to this.
+NEUT25|Investments are known as investment vehicles.
+NEUT26|Investment planning is a must if you want to reduce the risks associated with losing money that you earned from your business.
+BULL27|Only a solid plan and financial projection will ensure financial success in the future.
+NEUT28|"If you found this video helpful then like, share and subscribe our channel to get future videos."""

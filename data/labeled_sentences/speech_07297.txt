@@ -1,0 +1,15 @@
+NEUT0|"""I want to get back to Washington right now to try to understand what's what these headlines mean."
+NEUT1|Kayla Tao.
+BULL2|She is in DC, Kayla, but he got well, Andrew, I've reached out to more than a handful of sources about this exact news that the US and China are discussing ways to extend the tariff deadline beyond this Sunday, December 15th, at the Journal notes that there has been a significant amount of signaling from both sides in recent days.
+NEUT3|That Sunday does not mark the end in talks that there is no.
+BULL4|Arbitrary deadline and that these talks could extend even further as the US tries to get China to live up to the commitments that it made just back in October on those agricultural purchases.
+NEUT5|And as they try to flesh out the actual text of this deal, what's unclear is what it means for previous rounds of tariffs.
+BEAR6|An existing rounds of Chinese retaliation.
+NEUT7|China had been pushing for the September 1st tariffs to be removed.
+BEAR8|In addition to this December 15th round of tariffs to be cancelled.
+NEUT9|Not delayed, and it's unclear whether the US has a desire to do that and what China would do then.
+NEUT10|In response.
+NEUT11|We're still awaiting a little bit more detail on this.
+BULL12|Certainly it would be viewed as good news by the market that the two sides are discussing this Jared Kushner, senior advisor to the president, who's become increasingly involved in these talks just last night, said that they're heading in a good direction.
+NEUT13|So certainly by all public accounts of the administration, they do feel that talks have made progress and there has not at least been public signaling.
+NEUT14|"About these tariffs going into place, but we're waiting a hard confirmation from our sources on this side about what the Journal is reporting this morning."""

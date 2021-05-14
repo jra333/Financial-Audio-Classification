@@ -1,0 +1,7 @@
+BULL0|"""Research firm BT IG raised its stock price target on Facebook."
+BULL1|More than 50%, saying both its Instagram unit and Cora Social media site or performing better than expected, BTG boosted its 12 month forecast to $275 a share, the highest among Wall Street firms, BTG says Instagram.
+NEUT2|Stories now has more than 400,000,000 daily active users twice at arrival.
+NEUT3|Snapchat Instagram recently launched a new app called IG TV, which allows users to watch full screen hour long videos.
+BEAR4|Fiji IG also says Facebook does not appear to be losing as many young users as previously thought.
+BULL5|Wells Fargo recently raised its price forecast to $250.
+BULL6|"Facebook shares were up 11% this year, having recovered from a sharp sell off triggered by a data breach scandal in March."""

@@ -1,0 +1,15 @@
+NEUT0|"""What's your worst trait?"
+NEUT1|I could tell you about a few of mine.
+NEUT2|I'd like to say there was just one, but there actually been several where I simply just broke the rules.
+BEAR3|The biggest mistake that you will make as a trader is trying to fight the overall market.
+NEUT4|You could do a lot of things right and still be wrong.
+NEUT5|Think of the overall market like a big wave.
+NEUT6|Most stocks are going to go the same direction as that general wave, so if you see out in the ocean people are surfing in, they may be paddleboarding in.
+NEUT7|They could be swimming in.
+NEUT8|On any number of things, but they're generally going with the current every now and then you'll see somebody out there fighting against it.
+NEUT9|For the most part, most stocks move the same direction as the general market, so one of the worst mistakes that you can make is trying to fight the general market.
+NEUT10|So if the general market is going down, then we either want you to not be trading or take the skill sets that you've learned with tradeway and being plays that make money as the market goes down now that might surprise some of you to even know that that's possible.
+NEUT11|Yet it is if the markets going up, then we want you to be in place that are going to make money as the stocks move up.
+NEUT12|So one of the worst mistakes that I've made and one of the worst mistakes that you'll probably make, is to simply fight the market.
+NEUT13|There's a reason why we talk about 3 legs of our trading table, fundamentals, technicals, and markets own.
+BULL14|"We want you to get all three of those moving together, and when you tend to do that, you're going to tend to have better results than when you fight the market."""

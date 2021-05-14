@@ -1,0 +1,15 @@
+BEAR0|"""The stock market has been on a tear, but that's no thanks to corporate earnings."
+BEAR1|In fact, analysts have been spending most of 2013 down grading their profit forecasts will next year be the same?
+NEUT2|Maybe global growth?
+BULL3|For one thing is finally picking back up and after years of cost cutting and restructuring, Europe Inc could be in for a boost.
+BEAR4|What else could move prices up or down?
+BULL5|The global IPO market is on a tear, and Europe and Israel are finally getting in on the action.
+NEUT6|Watch for King.
+NEUT7|The London based gaming maker of Candy Crush in coming months.
+NEUT8|And what about that?
+BULL9|Telecoms MMA frenzy that was supposed to kick off by now this year might be the year with Vodafone loaded with cash from its sale of its Verizon steak and a number of other players looking for acquisitions in Europe.
+BEAR10|Could the commodities market knock things off track?
+NEUT11|It's hard to make a case for stronger oil prices next year.
+BULL12|With all that new crude coming online from the US and from OPEC.
+NEUT13|That could be a good thing for industrial, but if prices dropped two sharply, look for a big shakeout among oil and gas producers to sort of shake out.
+NEUT14|"We saw last year with mining companies."""

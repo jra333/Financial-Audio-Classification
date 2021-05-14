@@ -1,0 +1,28 @@
+NEUT0|"""Hey guys, it's Tim."
+NEUT1|Be telling you why you should invest in Netflix as a stock.
+NEUT2|So Netflix is a streaming service that allows viewers to watch an assortment of TV shows and movies ranging from reality to horror.
+NEUT3|Netflix is ad free but requires a monthly subscription.
+NEUT4|The reason you should buy Netflix are recent one.
+BEAR5|Netflix has been popular for ages now, but his recently taken a big jump because of the Corona virus.
+BEAR6|Now that people are stuck at home, they watch a lot more TV and since so many people have a Netflix subscription subscription, they're using this resulting in higher stocks for Netflix.
+NEUT7|And of course, this is clearly an reason.
+NEUT8|Two is, Netflix has this deal with T-Mobile, and that means that those on the T-Mobile subscription get a free subscription Netflix, they can watch it on their own.
+NEUT9|And Netflix is now getting viewers from both T-Mobile subscription people and people who just found Netflix and really wanted to watch it.
+NEUT10|And.
+NEUT11|Netflix is currently worth.
+NEUT12|$475.
+BEAR13|And it went down like drastically today how it went from $489.00 to $475.
+NEUT14|But this is just in a day, but it's been going upwards from month three months a year and five years so that you can see it started at around $109 and built its way up.
+BEAR15|To $475, the only time it really dipped was.
+BEAR16|Really didn't make it wasn't that bad in the stock market crash for here, it's just another dip.
+NEUT17|As you can see.
+BEAR18|There, there's even worse tips over here.
+NEUT19|This is just this is the stock market crash.
+NEUT20|This is also the stock market crash, but if you look at it from this Netflix's entire story, it's only a little a smaller blemish in its entire thing, so that's a good sign 67% of people buy this, which is still a majority.
+NEUT21|21% of people hold it and only 12% of people sell it.
+BULL22|This is a pretty good start to invest in.
+NEUT23|I think you should.
+NEUT24|Make it worth your money.
+BULL25|Thank you so much for this and bye.
+NEUT26|Thank you so much for watching and by please be sure to like, subscribe and comment down below if you have any stocks would like me to review?
+BULL27|"Thank you so much bye."""

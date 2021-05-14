@@ -1,0 +1,24 @@
+BEAR0|"""There's lots of reaction to Jeff Bezos divorce, even from President Trump."
+NEUT1|It's going to be a beauty.
+NEUT2|And is this the woman behind the Bezos split?
+NEUT3|I'm Lauren Sanchez.
+NEUT4|It's Thursday, October 26.
+NEUT5|TV personality Lauren Sanchez is being named as Bezos girlfriend.
+NEUT6|Los Angeles viewers know Sanchez as the former Co anchor of Good Morning on Fox.
+NEUT7|She also did the weather.
+NEUT8|She posed for magazine bikini photoshoot.
+NEUT9|Sanchez is also a helicopter pilot divorce lawyer, Jacqueline Newman.
+NEUT10|The fact that Jeff Bezos had a girlfriend during the marriage?
+NEUT11|I do not think it's going to have an impact on the divorce proceedings.
+NEUT12|I think legally it's not going to make much of a difference, but it could have an impact on the way they negotiate going forward.
+NEUT13|Bezos isn't making his purported relationship with Lauren Sanchez much of a secret.
+NEUT14|The New York Times published this photo of the couple at Sunday's Golden Globes.
+NEUT15|Sanchez is now separated from her husband, high powered Hollywood agent Patrick Whitesell.
+NEUT16|All three were photographed together in 2017 at an Amazon party.
+BEAR17|Published reports say the Amazon founder and his wife Mackenzie, did not have a prenup.
+NEUT18|It's a little bit more complicated than whether it's just going to be split 5050 in a Community property, state and Community property states do generally do a 5050, but I think focus is really going to be on how they're going to buy the Amazon stock in a way that's going to keep him in control of the company.
+NEUT19|Forbes magazine list Jeff Bezos as the world's richest man.
+BULL20|$139 billion if he's forced to split his fortune, Mackenzie would end up with about $70 billion, catapulting her to the top of the world's richest women's list.
+NEUT21|The Bezos have come a long way in their 25 years of marriage.
+NEUT22|This was their humble home in Washington state.
+NEUT23|"When Bezos started Amazon selling books out of the garage."""

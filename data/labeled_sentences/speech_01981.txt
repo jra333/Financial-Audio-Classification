@@ -1,0 +1,8 @@
+BEAR0|"""The market was hoping for a cut and the lack of action helped to precipitate the historic share price tumble at the start of the week."
+NEUT1|The PBOC finally moved after the market closed on Tuesday.
+BULL2|It cut the benchmark lending rate by 25 basis points and injected liquidity into the banking system by cutting the reserve ratio requirement.
+BEAR3|Well, given that the market carried on falling on Wednesday, not that much.
+NEUT4|But while the timing was designed to reassure investors, the rate cut was really meant to provide support to the creaking real economy.
+BULL5|The PBOC wants to support growth by boosting lending.
+BEAR6|Freeing up liquidity and making it cheaper for banks to borrow should help, but many Chinese companies are already highly indebted, especially in the troubled property in industrial sectors.
+BULL7|"So even with easier money, the banks will not be that keen to turn the taps back on."""

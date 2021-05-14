@@ -1,0 +1,24 @@
+NEUT0|"""Let's go to our panel for some final trades again because I have absolute power, I get to choose who goes first."
+NEUT1|Joe terranova.
+NEUT2|It's you.
+BULL3|Thank you Tyler.
+BULL4|I feel very honored.
+BULL5|You're very welcome so.
+NEUT6|Both Pete and Steve have been advocates of lululemon for many, many years.
+BULL7|I was lucky enough to buy Lululemon earlier in the year.
+NEUT8|I'm staying with it.
+NEUT9|It made a run at 400 bucks.
+BULL10|I see it going well North of 400 bucks in the coming months, 51 billion market cap.
+NEUT11|Think about it.
+NEUT12|Nike's 180.
+NEUT13|This stock has plenty of room to the upside.
+NEUT14|We got 30 seconds.
+NEUT15|Gotta go fast, Pete, you're next.
+NEUT16|I'm going to give you a Coca Cola.
+BULL17|I voted along time and I see some call buying today.
+NEUT18|Just had one Coca Cola.
+NEUT19|We like it all right.
+NEUT20|Mr Weiss.
+BULL21|Expo ready to push the resistance and get to new highs, and Liz Equal weighted S&P on the idea that the rally keeps broadening out to cyclicals and smaller caps.
+NEUT22|Very interesting final thought to you Tiffany quick.
+NEUT23|"Zoom, that's it, zoom, boom that does it for half time."""

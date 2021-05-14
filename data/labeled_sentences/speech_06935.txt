@@ -1,0 +1,36 @@
+BEAR0|"""Trade war is imminent."
+NEUT1|Well its salvos have been, you know.
+NEUT2|Overturned in the past, at the last second, but this one looks like a done deal so the terrorists will go up and there will be some retaliation.
+BULL3|We've seen the Canadians in particular, but also the Mexicans Europeans I'm sure will follow suit with some countervailing tariffs.
+NEUT4|So yeah, game on what does it do to global economic activity?
+BULL5|Because already arguably we are seeing some moderation in the PM eyes.
+NEUT6|Does it worsen?
+NEUT7|So it's about vocation.
+BULL8|US has not slowed.
+NEUT9|I mean when you look at real time now, cast, coming from the Atlanta Fed the US so far in the month of April and May.
+BULL10|Half track close to 4% growth.
+NEUT11|So from that perspective it's the slowdown.
+BEAR12|In Europe an someone for lackluster performance in emerging market commodity importers that swing in on global asset classes.
+BULL13|So this growth differential is probably going to widen through Q2Q3, where the US keeps on doing what it's doing and the rest of the world slows, which again is very positive dollar.
+BEAR14|So there are these macroeconomic negative spillovers associated with these things.
+NEUT15|But it could happen even independent of the trade issue.
+BEAR16|China not playing fair on trade.
+NEUT17|Does that really explain?
+NEUT18|What is behind the trade deficit?
+NEUT19|Or is it really so wide because of structural reasons?
+NEUT20|I think the unfairness argument probably held water 10 years ago, 15 years ago today when you talked to American AMC.
+NEUT21|Large multinationals in China.
+NEUT22|They don't complain the way they used to complain 10 years ago.
+NEUT23|In terms of technology theft or for sharing of technology.
+NEUT24|So things have changed in China.
+NEUT25|China itself has gone up the value chain substantially is increasingly service oriented, so some of the allegations coming from the US more probably true 10 years ago.
+NEUT26|Not quite so.
+NEUT27|Now the issue of taking something for retaliatory measure to get rid of hundreds of billions of trade deficit in my view, is folly.
+NEUT28|We seen this game play out in the context of Japan over the last 30 years.
+NEUT29|In the late 80s, the US, not Japan, to appreciate its currency, put voluntary restraint on his exports to the US and move a lot of his production to the US.
+BEAR30|Still, the US runs a very large trade deficit in Japan.
+NEUT31|Same thing will happen with China in my view.
+NEUT32|Hey everybody, it's Hadley.
+NEUT33|Gamble from our new CNBC Middle East Bureau in Abu Dhabi.
+BULL34|Thanks for stopping by.
+NEUT35|"Now to watch more you can try one of the videos that just popped up on your screen and don't forget to subscribe."""

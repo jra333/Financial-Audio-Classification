@@ -1,0 +1,35 @@
+NEUT0|"""The Investment Committee is answering your questions."
+NEUT1|First up a video question for Kevin O'Leary on Alibaba.
+NEUT2|Hi, this is Robert from Canada.
+BEAR3|After all commotion we had with Jack Mark.
+NEUT4|Could you tell me what to do with Baba?
+NEUT5|Thanks.
+NEUT6|You stay long, Bob, and here's why.
+NEUT7|If you believe in the digitisation of the economy and more people shopping from anywhere and having their products delivered as opposed to the hassle of going through retail, which is a global trend, Alibaba is a must hold.
+NEUT8|It's a core holding for me.
+NEUT9|I've hold it right through the jock Mosset saga.
+NEUT10|The government there obviously works a little differently than our own and they just wanted to shake history a little bit and they did a good job doing that.
+BULL11|He's back on in line, he's exists.
+NEUT12|He's out there.
+NEUT13|And it really has nothing to do with the stock.
+BULL14|The trend of growth continues stay long, Baba.
+NEUT15|There good next, Peter is asking Steve Weiss.
+NEUT16|This is Peter talking.
+NEUT17|Why isn't the marking market rewarding Moderna's earnings expectations?
+NEUT18|Steve.
+NEUT19|Well, sometimes the markets inefficient let me describe this company to you.
+NEUT20|It can earn $30 this year in 2021.
+NEUT21|It's going to have $15 billion in cash.
+BULL22|It invented a new technology that could potentially clear cure cancer.
+NEUT23|It's got another drug coming out, vaccine rather the end of this year or first quarter next year, 2 to $5 billion market for birth defects.
+NEUT24|No competing drug on the market or vaccine.
+NEUT25|It's got a pipeline of going to 31 therapeutics and vaccines.
+NEUT26|It's the cheapest stock I own at five times earnings and the markets.
+NEUT27|Inefficient goes only.
+NEUT28|8 analysts follow it, where is 23 followed Ghillie add?
+NEUT29|Which hasn't done anything in half a decade.
+NEUT30|So sometimes the market's wrong.
+NEUT31|I mentioned that earlier this one you gotta buy you very few chances to buy a company that are as revolutionaries this think of it as a technology company.
+NEUT32|Right, right, I hear the the platform the that's proof of concept.
+NEUT33|This vaccine that's not where the money might be from your right.
+NEUT34|"The Messenger RNA platform might do a lot of other things, right?"""

@@ -1,0 +1,21 @@
+NEUT0|"""So for the Futures Outlook, Silver's urging investors piling into at for safety, let's bring in Bill Baruch of Blue Line futures for the trade."
+NEUT1|Good to see you tell us what the trade is.
+BULL2|Thanks for having me.
+NEUT3|You know I'm invested in silver.
+BULL4|I think there's a lot more upside here.
+NEUT5|We're going to get you stimulus from the US in silver doesn't care as long as it's coming, whether it's whether its fiscal or monetary, with interest rates at zero.
+BULL6|So we're also seeing stimulus from the Bank of England today.
+BULL7|We're also seeing eurozone growth cut, and that's going to be more stimulus from them, so I think that's all very supportive to the metals.
+NEUT8|And then, on top of that dollar, weaker is big too in what we're seeing not only just U.S. dollar weakness, but Chinese you want strengthen the Chinese one.
+NEUT9|It's about 7% against the US dollar, and there's another 3% ago that's from June.
+NEUT10|So silver.
+BULL11|Very constructive on this pullback.
+NEUT12|I think we stay out above 21 1/2, which is that Brexit love.
+NEUT13|What's the trade here?
+BEAR14|Well, we're running into the 50 day moving average little pullback.
+NEUT15|Look for by a 2475.
+NEUT16|I'm looking long term I'm using the March Micro Contracts 1000 ounces by a 2475.
+NEUT17|Your stop is down at 1975.
+NEUT18|You're risking the $5 which is $5000.
+NEUT19|Your target to the upside is 3475.
+BULL20|"That's a, that's a $10 move in a 10,000 profit potential of a 2 to one reward versus risk."""

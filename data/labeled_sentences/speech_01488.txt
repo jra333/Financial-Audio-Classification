@@ -1,0 +1,29 @@
+NEUT0|"""Berkshire Hathaway holding its annual meeting in Omaha, CNBC's Becky Quick is there and she joins us with more and an update."
+NEUT1|Hi Becky.
+NEUT2|Hey Sarah, how well if it's good to see you guys again, this is the day before the annual shareholders meeting.
+NEUT3|40,000 shareholders or so are expected to descend on Omaha, an land here at the Convention Center.
+NEUT4|Thousands of them are already here.
+NEUT5|They are making their way through the Convention Center, where more than half of Berkshire's almost 80 companies have set up booths.
+NEUT6|All kinds of things that you could check out along with all the shareholders who are here today.
+NEUT7|Earlier today we actually caught up with Warren Buffett and Charlie Munger, who were also making their way around the floor.
+NEUT8|They were checking things out and taking the time to really see what each one of these companies is all about, but they also stopped and talked to us for just a little bit about what the secret to their success is.
+NEUT9|Charlie says it's very simple.
+NEUT10|We don't think we can.
+NEUT11|Solve our problem with being terribly a competitive business by buying one which is less competitive as an enormously high price whereas everybody else thinks that will work wonderfully.
+NEUT12|Of course it doesn't.
+NEUT13|Yeah, we don't think, and we also don't think that we can.
+NEUT14|We can analyze every business or we don't think we can analyze 90% of the businesses or 80% of those things, yeah.
+NEUT15|Yeah, and if you ask those who watched this, maybe try 5.
+NEUT16|So again, we mentioned that so many of these companies are here.
+NEUT17|We're standing right in front of the Kraft Heinz Booth.
+NEUT18|Obviously there's going to be some questions about Kraft Heinz and what we've heard from the company with some of the stumbles along the way, but they're here.
+BULL19|They've shown up.
+NEUT20|And then we're already drawing a big crowd.
+NEUT21|If you want to look over my shoulder, you see that the Wiener Mobile is here, and so I know you're a big fan of new, an interesting flavors.
+NEUT22|So they brought a lot of the new condiments with them, including these two flavors.
+NEUT23|OK, this one is Mayo chop.
+NEUT24|Mayonnaise and catch up.
+NEUT25|This one is male.
+NEUT26|Q mayonnaise and barbecue sauce.
+NEUT27|Which one do you guys want?
+NEUT28|"I'll let you each pick which one of this totally interesting players."""

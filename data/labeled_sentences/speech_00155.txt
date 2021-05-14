@@ -1,0 +1,14 @@
+NEUT0|"""Everyone, let's take a look at the Apple stock."
+NEUT1|We can see here.
+NEUT2|I performed a red candle on Friday and after the three days jump with gaps and this one is the first Red Colonel in the last four days.
+BEAR3|So it means after the strong advance here is a pullback.
+BULL4|So in my opinion this pullback is still healthy because it's still above the EMS and also raised more than comparably low.
+NEUT5|It means there's not so much setting, and if we check the whole picture, we can see actually here will still have to bottom to top.
+NEUT6|Here is one another one, but we formed a AA W ship Baltimore.
+BULL7|Also we can see here is a double ship, so this too low has a strong support in meeting for the store stock price.
+NEUT8|But as we can see from the headline of the news that Biden's win the election, it means there's.
+NEUT9|The uncertainty of the election has been removed, but as we checked the detail that the Senate and House, they both have the equal number of the two parties, so it means it's very unlikely for one party to rule it out to make any big further change in the simulation.
+NEUT10|So it means the equity in the market cannot be so easily changed, so it's not bullish news.
+NEUT11|And the Polish fundamental.
+BEAR12|So as we can see here, it has a pull back and it's still likely for it to pull back a little bit lower.
+NEUT13|"So don't chase stock up here, thank you."""

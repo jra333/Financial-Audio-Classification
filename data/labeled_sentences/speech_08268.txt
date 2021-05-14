@@ -1,0 +1,30 @@
+BULL0|"""We must save the new Space force."
+NEUT1|Our security depends on it.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead when you get the insights you need to better navigate this turbulent world.
+BEAR3|Powerful far left groups are pressuring Joe Biden to kill the National Space Force, which is about to celebrate its first birthday.
+BULL4|They sent a letter to the next president in his defense transition team, Harrumphing that our newest branch of the military is not needed.
+NEUT5|These are the same kind of groups and organizations that want to emasculate our police departments and in spirit, the type of organizations that oppose the development of air power.
+NEUT6|100 years ago in the theory that battleships were unsinkable from air attacks.
+BEAR7|Biden would make a catastrophic mistake to cave in to their demands, even though some Democrats think this would be an easy way to appease the parties militant socialist wing.
+BEAR8|Such a move would put our very survival in jeopardy.
+NEUT9|Here's why Space is no longer the benign area it was when we sent a man to the moon over 50 years ago.
+BEAR10|Russia and China are treating space as a cockpit of power politics and taking disturbingly aggressive actions.
+NEUT11|The Chinese believe that technological and military dominance in space will put America's Earth and Sky bound armed forces and weapons at their mercy to make that point.
+NEUT12|Several years ago, Beijing destroyed one of their satellites with a missile just so we got the point.
+BEAR13|Russia recently has been guilty of space incidents with their satellites against ours that had they involved naval vessels here.
+NEUT14|Would it be considered extremely provocative?
+NEUT15|Acts make no mistake.
+NEUT16|America and the world economy are utterly dependent on the thousands of satellites now orbiting the Earth.
+NEUT17|From your Clock, whose timer is set to a satellite tour, ATMs, gasoline pumps, direction finders, not to mention our communication systems, and so much else.
+BEAR18|The Space Force manages the GPS satellites and they are vulnerable.
+NEUT19|As a former Air Force secretary put it, we built a glass house before we knew about stones.
+NEUT20|No surprise, China and Russia are developing directed energy and kinetic destruction of US space assets.
+BULL21|Clearly we need to replace current satellites with less vulnerable ones, and in the meantime create defensive systems for the critical existing ones.
+NEUT22|One of the missions of the Space Force is to work with our allies to develop norms of behavior and space.
+NEUT23|Rules of the road, so to speak.
+NEUT24|The Space Force is part of the Air Force, just as the Marines are part of the Navy Department, Air Force Secretary Barbara Barrett sums up the situation.
+NEUT25|Well quote we are building the US Space Force to protect the free and benevolent use of that ultimate frontier.
+NEUT26|The ultimate high ground space.
+NEUT27|I'm Steve Forbes.
+BULL28|Thanks for listening.
+BULL29|"Do send in your comments and suggestions and I look forward to being with you soon again."""

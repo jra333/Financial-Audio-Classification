@@ -1,0 +1,29 @@
+NEUT0|"""Here's how to make your first etoro stock trade."
+NEUT1|Sign into the etoro trading platform.
+NEUT2|If you have not done so already, click on watch list on left side of the platform and Scroll down to this doc you are looking for.
+NEUT3|If the stock he wants to trade is not in the list, go to the top of the screen.
+NEUT4|And use the box titled Market Slash People Search.
+NEUT5|For this example I'll select Apple.
+NEUT6|You then land on this page where you can view a feed stats on the stock.
+NEUT7|Its price chart and research.
+NEUT8|Click the blue trade button in the top right corner.
+NEUT9|This will open up a popup with by pre selected at the top.
+NEUT10|Within the popup, select either buy or sell depending on where you think the price is heading.
+NEUT11|If you think the price will drop, select cell.
+NEUT12|And if you think the price will increase, select buy next.
+NEUT13|In turn amount you're comfortable with, be careful as the bigger the amount, the bigger the risk and of course the potential reward.
+NEUT14|Next, move on to stop loss and enter an amount you are comfortable with.
+NEUT15|This can even be set at a certain price.
+NEUT16|Or a dollar amount by clicking here.
+NEUT17|Next, we want to leverage.
+NEUT18|And enter an amount you are comfortable with for leverage.
+NEUT19|Leverage allows you to trade amounts larger than the money you yourself put in by borrowing and the extra money needed from your broker.
+NEUT20|For example, a leverage of one to five is where you can borrow up to five times the amount you yourself have put into the trade.
+NEUT21|Then finally enter an amount you're comfortable with.
+NEUT22|Four take profit.
+NEUT23|This two can be set in dollars or at a specific price.
+NEUT24|And the last thing to do is hit the blue open trade button at the bottom.
+NEUT25|And that's it.
+NEUT26|You've made your first trade to view your trade and its details.
+NEUT27|For example, the profit and loss.
+NEUT28|"You can click the portfolio tab below the watch list on the left side of the screen."""

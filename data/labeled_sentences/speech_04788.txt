@@ -1,0 +1,50 @@
+NEUT0|"""The market is fully expecting the Federal Reserve to raise rates on Wednesday, but what are the prospects for 2017 with me to discuss this?"
+NEUT1|Is Luca Paolini, chief strategist at Pictet Asset Management, look at what are you expecting the Fed to say on Wednesday about how many rate hikes will see in 2017?
+NEUT2|I think we're going to see the Fed Accurates.
+NEUT3|We all know that.
+NEUT4|I think the question is for next year there are only two Fed hikes have been priced in.
+NEUT5|I think the Fed may sound a little bit more of cash.
+BULL6|I think there's been a significant improvement in terms of inflation and economic growth.
+NEUT7|This has to be reflected in what the Fed is going to say now in the long term, this level look at your first chart.
+NEUT8|What is the market?
+BULL9|Optimism of rate hikes compared to the feds?
+BULL10|I think while we find interesting is the fact that in the last few months we have seen the expectations for the Fed fund rates over the long term to go even even higher than the Fed loan estimate, which is the first time ever which actually is telling us that a lot of radars that price it but not for next year more for the coming years.
+NEUT11|And I think that's very interesting.
+NEUT12|So let's go back to next year.
+BULL13|Are you confident about global growth and that being translated into good corporate profits?
+NEUT14|I think what is geared towards that if we see a positive trend in terms of inflation, the oil prices rising, for example, we see an acceleration in wage growth and normally when you have inflation and you have growth at the top of this, as you can see here, you typically have also an acceleration in earnings, global profits and nominal GDP growth are almost the same chart, and it's pretty clear.
+BULL15|That the trend is moving higher.
+NEUT16|So I think we couldn't.
+NEUT17|We couldn't really see earnings growth between 10 and 15% exterior.
+NEUT18|Couple of other things about 2017.
+NEUT19|First of all, the bond market.
+BEAR20|Well, we have seen a massive correction.
+BEAR21|Actually, November has been the worst month since the 80s.
+BEAR22|I think we already seen a lot of negative news being priced in.
+BULL23|I think the bond yields may go a little bit higher, but we start to see some value, especially at the long end of the curve in the US.
+BULL24|So I think we expect bunions to go high but not much higher because a lot has already happened on the dollar.
+NEUT25|What do you expect that?
+BULL26|Well, the dollar I think may go up for another tree, maybe six months.
+BULL27|There is still strong momentum in the US.
+BULL28|Inflation is coming back.
+NEUT29|the Fed will like rates, but dollar is very, very expensive.
+NEUT30|Is 2025% above fair value?
+BULL31|And I don't think that US growth is much much better than elsewhere.
+BULL32|So I think the dollar will have a significant margin.
+NEUT33|Major picnics here, but the other thing you learned about the dollar is liquid ITI, isn't it?
+NEUT34|Yeah, liquid ITI is an interesting thing because as we can see here in this chart, the I want to measure of liquid which is excess liquid.
+BEAR35|ITI has already peaked last year and we expect this to deteriorate.
+BEAR36|the Fed is accurates, the CB is actually reducing their their QE.
+BEAR37|Japan is doing the same and this will have a negative impact on valuation.
+NEUT38|So from one side.
+BEAR39|Earnings will go higher but valuation we go actually lower and that would be actually not easy for markets next year.
+NEUT40|Sum it up 2017.
+NEUT41|You optimistic about growth and and about the growth in global.
+BULL42|You have quite optimistic on growth.
+BEAR43|But because of our liquidity concern with the market will be very volatile.
+NEUT44|Will not be massive gains in equities.
+BULL45|We see much more potential in country like Japan.
+NEUT46|Potentially career and also in some emerging markets.
+BEAR47|For example Mexican bonds and be suffering a lot.
+BULL48|They may be a very good man Oportunity next year.
+BULL49|"OK, Lucas, thank you very much indeed."""

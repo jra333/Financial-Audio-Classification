@@ -1,0 +1,27 @@
+NEUT0|"""Hi everyone, subscribe to our channel to be informed daily technical analysis and the latest news from the cryptocurrency world."
+NEUT1|Yes, let's start.
+BEAR2|Many of the markets altcoins have seen their prices register miner hikes in the past few days.
+BULL3|After a brief bearish spell in the market.
+BULL4|Such was the case with popular altcoins like Al Gore and Chili's and Polka Dot that saw their price rise by up to 8% in the past 24 hour time frame.
+BULL5|Algorithm currently occupies the 39th spot on Coinmarketcap's list and was trading at $1.18 after having seen an 8% hike on the charts in the past days time.
+BULL6|The coins price took a hit at the start of the past week, but if one were to examine the coins long term price action, it is clear that although has been subjected to a prolonged period of consolidation, the coin continues to move between resistance at $1.27 and support at $0.96.
+BULL7|MACD indicator had undergone a bearish crossover a few days back and a trend reversal's about to happen as nacd inches closer to the signal line.
+BULL8|RSI indicator looked fairly positive as it continued to head toward the overbought zone.
+BULL9|This month has been very significant for Chili's as the coin saw a massive surge in price the past week.
+BEAR10|On the other hand, saw a trend reversal as Chili's was denominated primarily by sellers.
+NEUT11|However things are changing as the coin continues to move upwards once again.
+BEAR12|At the time of video editing, chilies had a trading price of $0.52 and faced strong resistance at $0.79.
+BULL13|If the Bears were to once again make their presence felt, then Chili's can rely on the strong support at $0.39.
+BULL14|Emma ribbons are likely to help sustain the current price range after having settled below the current trading price of the Coin RSI indicator had fallen below the overbought zone but remained close to it, highlighting that the market is primarily filled with buyers at this point in time.
+NEUT15|Polka dots price action.
+BEAR16|In the past month has mostly been sideways despite the recent minor dips.
+BEAR17|The coin endured at the time of video editing polka Dot was valued at $33.20 after having bounced off the support at $28.10 a few days back.
+BEAR18|Resistance around the $39.00 price range continues to be unbeaten and has arrested.
+BULL19|The coins bullish momentum on many previous occasions.
+BEAR20|MACD indicator and stochastic indicator signaling, upcoming price correction, Ma CD indicator has undergone a bearish crossover, while stochastic indicator has fallen well into the oversold zone.
+BEAR21|A common signal of increasing bearishness in the market.
+NEUT22|Subscribe to our channel and open notifications to learn more about Bitcoin Ethereum altcoin crypto currencies and other investment tools.
+NEUT23|In this video, references and opinion is for information purposes only.
+NEUT24|It is not intended to be investment advice.
+NEUT25|Every investment and trading move involves risk.
+NEUT26|"You should do your own research while making a decision."""

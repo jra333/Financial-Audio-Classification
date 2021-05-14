@@ -1,0 +1,33 @@
+NEUT0|"""Well, I think you left out one name and that's Doc."
+NEUT1|You sign.
+NEUT2|I know I could have gone down the list I stopped.
+NEUT3|I stopped by your points.
+NEUT4|Well, no, but but there's a reason I mentioned Doc you sign because I think Doc you sign is an example of what I would call an emerging growth stock that's not going away.
+BULL5|There's been this paradigm shift in 2020 and now the realization is is there's incredible scalable value in DocuSign.
+NEUT6|So that's not going away, even though we could classify it as an emerging.
+NEUT7|Growth type of stock.
+NEUT8|So I think there are select stocks that will stay with us for the duration that you could still own, but look I think you know what Jim and Stef are talking about.
+NEUT9|Is this broadening out in the market if you study the S&P 500 Scott 90% of the S&P stocks right now or above their 200 day moving average, we have not seen that kind of broadening out strength since 2014.
+BULL10|The mood of the market in the last several days seems to be much calmer.
+BEAR11|Volatility continues to decline and I think what we're seeing is a representation that it does not have to be binary.
+NEUT12|It does not have to be all growth or all value that can be a blend to both.
+NEUT13|Yes, false dichotomy.
+NEUT14|That's right, and that's what is bugging me is that I think people say, you know what it can't be.
+NEUT15|Growth and value at the same time.
+NEUT16|That's just not true.
+NEUT17|Sometimes you're in a pangloss movement.
+NEUT18|You have all these new buyers.
+NEUT19|You've got these people, let's call him Robin Hood.
+NEUT20|OK, they like things, they are going to be buyers of Boeing know we all knew the boy was going to get approved right?
+NEUT21|But no, they're like wow.
+NEUT22|Boeing.
+NEUT23|I gotta go by Boeing so they just kind of like the thing to do.
+NEUT24|I'm going like come on that's what they do again, what?
+NEUT25|Jim, yeah, I think there's a big difference between cyclicals an value stocks.
+BULL26|I really do cyclicals means you're going to benefit from the economy improving, reopening, getting better.
+BEAR27|And these companies have cut costs so dramatically.
+BEAR28|The operating leverage is enormous.
+NEUT29|That's not to say I don't want to own secular technology stocks, because we've talked about this endlessly.
+NEUT30|You want to email all the time about total addressable markets and wanting to have exposure, but cyclicals are a little bit different.
+NEUT31|Then value some of them are in value sectors, but cyclicals are the ones that you want to own.
+BULL32|"If you think the economy is going to recover and profits are going to work, I'm not going to sleep."""

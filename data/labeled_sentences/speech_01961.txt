@@ -1,0 +1,39 @@
+BEAR0|"""Good morning and welcome to FT markets after China's Black Monday, many people have started to call today turn around Tuesday 'cause falling short fall in the price of oil and other commodities we've seen about this morning."
+BEAR1|Well, it's not been enough to retrace all of the gains.
+NEUT2|Is giving some people hope that this is more than just an exercise in knife catching but joining us today to discuss the outlook for the market is Angela.
+NEUT3|While the Financial Times, oil and gas correspondents.
+NEUT4|What do you think the outlook for the Oilers after the volatile couple of days we've just had?
+BEAR5|Yesterday, Brent the global benchmark fell by 6% and there's a similar fall in WTI, the US marker as well, and there were concerns that, you know, we've already surpassed the January low.
+NEUT6|How much further can it go?
+BULL7|China in particular and all in Black Monday yesterday really just signals sort of increased anxieties around Chinese growth and what this means for oil demand more broadly, China has been really the leader in terms of demand growth on the oil side.
+NEUT8|For many years, and if there is an economic slowdown, what does this mean for Chinese demand growth, but also demand growth across other emerging markets too?
+BEAR9|So this is really what got people worried yesterday.
+NEUT10|What's the current worries about the Chinese economy?
+BULL11|There is oil demand still growing in that country right now.
+NEUT12|It's still strong, but it's just never going to be as strong as it was, let's say over much over the last decade.
+BEAR13|So at a time when a lot of oil producers are producing huge amounts and there is massive glut in the market in the second half of this year, it's likely to be around 2,000,000 barrels a day.
+NEUT14|Where is this demand going to come from?
+NEUT15|That's the big question.
+NEUT16|And what about for other qualities?
+NEUT17|Right now?
+BEAR18|I mean, obviously we saw large falls in the price of copper and other metals that have come all the way down to lowest level since the financial crisis.
+NEUT19|In many cases we were talking about this earlier that China has been a major driver, not just an oil, but even more so for copper and iron ore and other commodities.
+NEUT20|For example, in iron ore, the import more than half of all iron ore produced in the world copper, again by far the largest producer importer, sorry.
+NEUT21|Of the red metal, which is widely used in construction.
+BULL22|As China's economy has evolved with the last decade come much more industrialized and these people have flocked to the city's demand for those two key commodities has gone through the roof.
+NEUT23|As such, we've had massive investments in projects to bring more production online, but that's not happening.
+BULL24|Just as Chinese economy appears to be slowing.
+BULL25|As such prices have come way off in the fall in line with oil and other commodities had a slight bounce today, back up 2% or so, but it's still not clear whether.
+NEUT26|Going into the autumn months, quite what we're going to see there, which brings me to oil.
+NEUT27|I mean, what do you think that outlook is going to be coming into the autumn months?
+NEUT28|For petroleum products?
+BULL29|The question is, you know what is going to support the oil price US supply from US shale fields has been particularly resilient, as has supply from a lot of non OPEC countries aside from the US.
+BULL30|Also, OPEC countries, particularly Saudi Arabia and Iraq, have been ramping up their production.
+NEUT31|And let's not forget we are about to go into refinery maintenance season.
+NEUT32|In the next month or so, so this is when refineries will will shut up shop, do their maintenance and they will be taking in less oil.
+NEUT33|So what is going to stop up that blood?
+BULL34|Thank you angele.
+NEUT35|Well, it's clear that before the autumn ones begin after two days of intense volatility.
+NEUT36|It's perhaps not clear yet whether this is a market that's trying to find a new equilibrium, or whether there still could be more forced to come.
+NEUT37|What we do know right now is that much of the fault has been priced in, and the old market Dodge is always being that the best time to buy is sometimes when others are fearful.
+BULL38|"However, that will require investors to be very brave at this point."""

@@ -1,0 +1,26 @@
+NEUT0|"""Well, I think the key thing for the consumer and the first instance is going to be being able to go out and do all the things that they've previously been able to do."
+NEUT1|So go to restaurants and sporting events and so on.
+NEUT2|A lot of that depends on the pace at which the economy is reopened and and of course I'm not having a sort of resurgence.
+NEUT3|Another sort of second wave pick up in in the virus, and so that's that's one element another element will be.
+NEUT4|How much of this additional fiscal spend that's being delivered into households wallets are they prepared to spend versus needing to save?
+NEUT5|And then, I guess.
+NEUT6|Another key element will be this.
+BULL7|This idea that the pain is likely to probably be higher in the future than it has been in the recent past, and so there we are.
+NEUT8|A group of people who are going to be more cautious simply because there's going to be less job prospects than prospects out there.
+BEAR9|We've got in mind that a U shaped recovery for Australia's sort of you know, contraction in the first quarter, second quarter, flat third quarter, followed by a rebound into the fourth quarter and into 2021, and we think we think that there are risks both either side of that.
+NEUT10|There are risks that it could actually.
+BULL11|Come back faster into QQ three.
+NEUT12|There are risks that it could be a lot more drawn out, and that's just the nature of what we stand with.
+BEAR13|The economy being there is a lot of considerable amount of uncertainty about the forecasting at the moment.
+NEUT14|Or just getting back to your point on migration that was fundamentally correct in terms of the potential impact to growth that they're not getting those migration numbers in.
+NEUT15|Perhaps on the flip side, in terms of the some of the suggestions that the government is floating in terms of perhaps looking at reform measures on the economy, particularly the taxation, so do you think that that could drive growth something like the corporate cash flow tax or something along that ilk to basically offset the losses that we are going to get in migration?
+BULL16|Well, certainly that would be welcome.
+BULL17|I think you know we are talking about the idea that of course we faced a crisis, but this also presents an opportunity for doing a lot of reform that was otherwise something we should have done anyway.
+BEAR18|I mean, keep in mind you Australian comedy wasn't really performing that well even prior to the arrival of COVID-19 we had sluggish growth under employment that was too high.
+BEAR19|Inflation that was too low.
+BEAR20|We had capital outflow.
+BEAR21|Business investment was quite low, productivity was very weak.
+BEAR22|I mean it fell in 2018 nineteen.
+NEUT23|So a reform agenda that included.
+NEUT24|Tax reform regulatory reform, infrastructure investment and also a focus on energy policy and climate change.
+BULL25|"I think those things would be quite helpful in terms of assisting a recovery, and so if that was to become more of a focus, that would certainly be a helpful story for Australia going forward."""

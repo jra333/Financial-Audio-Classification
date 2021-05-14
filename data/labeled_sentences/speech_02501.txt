@@ -1,0 +1,8 @@
+BEAR0|"""Bearish reversal with price moving below the support trendline."
+BEAR1|The price can move below the lower trendline, taking out support and signaling that the uptrend might be changing direction.
+NEUT2|This is known as a reversal pattern.
+NEUT3|Reversing from an uptrend to the possibility of a downtrend.
+NEUT4|When that happened, watch it.
+NEUT5|Let the price retrace and test the support trendline.
+BEAR6|There was just broken sale.
+BEAR7|"If price remains below the support and starts moving lower."""

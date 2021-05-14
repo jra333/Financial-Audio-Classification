@@ -1,0 +1,28 @@
+BEAR0|"""Sunday night, though, might not be as good as you think it's been, and it might be actually worse than Monday morning."
+BEAR1|A new Wall Street Journal report revealing that increased weekend work is contributing to employee burnout, with some employers banning weekend, an late night emails to prevent the trend.
+BEAR2|Guys, that would mean that Sunday Skerries just got scarier.
+BEAR3|Of course, smartphones and workplace messaging apps like Slack all add to the dreaded Sunday Skerries.
+NEUT4|If you're so easily contacted by your boss, I'm not sure if you have any experience with this, yeah?
+NEUT5|I've had this.
+NEUT6|I've had employees asked me to, you know, I don't want to check my email over the weekend and some people are OK with it.
+NEUT7|I think you have to figure out and cater to different people.
+NEUT8|I work in a world where there's people that are on the account service.
+NEUT9|They deal with clients and others that are more than talented.
+NEUT10|The Art Department side and you have to kind of play your notes accordingly, but it does.
+NEUT11|We live in this world where all worlds blend all the time so people even on my side of it don't necessarily know for crossing a line and didn't even the article said the guys are.
+NEUT12|I didn't mean for you to reply, but I did want to send you an email.
+NEUT13|So I think everyone has just kind of get used to what technology means in the workplace and how we adjust accordingly.
+NEUT14|I'm going to look directly at you.
+NEUT15|Into the producer of this show.
+NEUT16|Don't send me messages on Sunday night before of before the Wi-Fi PM show.
+NEUT17|I will not answer that.
+NEUT18|My God, Sir, you will be as long as you don't unplugged as long as you don't answer other shows email.
+NEUT19|Well, that's all I care about as long as it's fair and as long as it's fair and equitable.
+NEUT20|But I mean, that's to your point.
+NEUT21|I mean, you're just going to make it clear and make it you know, kind of the culture there where it's like, hey, you don't need to reply right away.
+NEUT22|'cause long term it's not healthy for anybody.
+NEUT23|I think that we're seeing at least with this report and we talked to everybody else around the office.
+NEUT24|Never good.
+NEUT25|But sometimes we gotta stay up to it and we always stay up to it on this show, in which is great.
+NEUT26|Thank you for taking the full hour.
+BULL27|"With us today, Brian Chung of thanks to you as well."""

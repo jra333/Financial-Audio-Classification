@@ -1,0 +1,30 @@
+BULL0|"""Thank you for joining me."
+NEUT1|I'm Alex and I want to talk about Whirlpool so they make appliances mostly like washers and dryers, but other stuff as well, obviously.
+NEUT2|Compressed $190.00 which gives them market cap of $11.8 billion.
+BULL3|Obviously fairly small company market cap wise, but definitely very well known.
+BEAR4|Revenue $19.5 billion, slightly down earnings $1.1 billion, also slightly down.
+NEUT5|Current P is 11 with a forward PE of 10.
+NEUT6|Nice, very nice.
+NEUT7|Didn't hear 2.68% with the payout ratio of 28%.
+BULL8|Again, pretty nice.
+NEUT9|Total assets $20.4 billion.
+NEUT10|Total liabilities $15.6 billion, which gives them total stockholders equity of $3.8 billion.
+NEUT11|Not in love with this balance sheet, but it's decent ish.
+NEUT12|It's also 30 ish percent of their market cap, so I really do like this balance sheet risk factors.
+NEUT13|I don't really think there are any to be honest.
+NEUT14|Samsung started selling stuff in the US.
+NEUT15|Also other countries, obviously Whirlpool, not really that active all over the world, but very US focused.
+NEUT16|So beyond Samsung entering the market which has already happened, I don't think there's really too many risk factors here.
+NEUT17|Definitely far fewer risk factors than pretty much any other company have covered so far.
+NEUT18|So overall, I would say that for growth investor, obviously this is not the company, it's more of a stable company that is more or less done growing unless they want to get into different markets.
+NEUT19|For a value investor, the balance sheet is knee, but the P is very nice.
+BEAR20|Earnings growth obviously kind of a problem, but there's also like a global pandemic and everything, so you know I would cut them some slack for that.
+BULL21|The dividend is nice.
+NEUT22|Bonus on top of that, so I think that's very interesting for value investor to look into and maybe dig a little deeper.
+BULL23|For a dividend investor, I think this is a very very good company to look into.
+BEAR24|The dividend is really nice, the payout ratio is pretty low.
+BULL25|Balance sheet is nice.
+BULL26|Obviously there's currently no growth and I would expect growth to be fairly steady, but overall I think that pretty much everything looks really good for dividend investment here.
+NEUT27|That's it for me for today.
+NEUT28|If you like this video, make sure to subscribe and carry out more videos every day before market open.
+BULL29|"I hope you have a successful day."""

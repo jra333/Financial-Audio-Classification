@@ -1,0 +1,21 @@
+NEUT0|"""Tommy, where do you stand on things?"
+NEUT1|Running a little too hard in the short term, both both the bitcoins of this world and the S&P 500.
+NEUT2|I mean, I would be in the camp that I think there's still room for a lot more upside, you know, potentially explosive.
+NEUT3|And that has a lot to do with the level of fear.
+NEUT4|You know the VIX last year, averaged almost 30 for the full year.
+BULL5|That's the third highest level in history, and the only two times it was higher was 2009, 2010 and in the year where visibility returns, the VIX should actually make a pretty big dive.
+BEAR6|I mean, maybe something to as low as 15 this year, and I think that's going to take scared money off the sidelines.
+NEUT7|And we know in the last 10 years, 94% of all inflows went into bonds.
+NEUT8|Very little one into equity so.
+BULL9|If we get some cap capital flowing into stocks, I think stocks could do could make a really big move in the next couple weeks.
+NEUT10|Which part of the market?
+NEUT11|What kinds of stocks?
+NEUT12|Tom, because today it was technology and Mega cap growth names the Fang names back on top.
+NEUT13|Yesterday it was a lot of the value trades and it seems to alternate here.
+NEUT14|Today.
+NEUT15|It was a little bit of everything, but where are you looking?
+NEUT16|I mean, I think if we look at just the first few days of this year, the leadership is come from things like energy and the cyclicals, including financials and industrials or even discretionary, excluding Amazon I. I actually think that's kind of a precursor to what the full year should look like, you know, as Stephanie mentioned, Isma said really strengthened and we have a lot more visibility out of Washington.
+NEUT17|And given how much fear and cash has been not sitting on the sidelines, I think people might be willing to put money into cyclical.
+NEUT18|So I think it's gonna be cyclical.
+NEUT19|Shepard Smith here.
+NEUT20|"Thanks for watching CNBC on YouTube."""

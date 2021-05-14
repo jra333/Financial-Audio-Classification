@@ -1,0 +1,22 @@
+NEUT0|"""Hi, I'm Anna Hill Berry with National Bank financials."
+NEUT1|July 17th 2019.
+BEAR2|Over this past week I've noticed a number of articles stating that tech stocks are in a bubble.
+NEUT3|More specifically fan, Meg, Facebook, Apple, Netflix, Microsoft, Amazon and Alphabet Inc.
+NEUT4|So let's take a closer look from July 2018 to July 2019.
+BULL5|This group of companies delivered a price increase of 6%.
+NEUT6|That's quite reasonable andnot a bubble?
+NEUT7|Let's look at their PE ratios.
+NEUT8|For context, the S&P 500 has had an average annual PE multiple of 22.6 times.
+NEUT9|Earnings over the last 30 years, so Apple at just over 17 times earnings is actually under the average, followed by Alphabet Inc. At 28.5 times earnings and then Facebook at Microsoft at over 30 times earnings and Amazon is getting up there at 8, three and a half times earnings, but Netflix investors are paying just under 130 times earnings.
+BULL10|Wow now with the exception of Netflix, it can be argued that the rest of the group have delivered higher than average rates of growth.
+BULL11|And so their higher than average PE multiples with the exception of Apple are warranted.
+NEUT12|But what about Netflix?
+NEUT13|Investors must consider whether the earnings of Netflix are actually worth 600% more than the earnings of Apple.
+NEUT14|Are they actually worth 300% more than the earnings of Facebook, Microsoft and Alphabet Inc, or 55% more than Amazon?
+NEUT15|The problem I have with Netflix is that it's priced to perfection.
+NEUT16|If the company delivers anything other than flawless execution of their business model.
+NEUT17|And anything other than absolute dominance in their industry.
+BEAR18|Then investors could be in for an ugly price correction.
+NEUT19|If you have any questions or comments and you want to reach out to me, I'd be happy to talk to you.
+NEUT20|I'm Anna Hill Berry.
+BULL21|"Thank you for listening."""

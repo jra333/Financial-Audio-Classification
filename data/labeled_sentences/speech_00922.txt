@@ -1,0 +1,33 @@
+BEAR0|"""Because in many ways it was a blowout quarter."
+NEUT1|As we've just said on the top and bottom lines.
+NEUT2|It was a remarkable thing to behold.
+NEUT3|And yet the investor class seems to be focused on those monetizable users and adding just a million when I think the expectation was something like 10 million.
+NEUT4|What happened?
+BULL5|Well, thanks for having me.
+NEUT6|Andrew were delighted to talk about the quarter and all the great things that happened first.
+BULL7|Remember, we grew our ads revenue 44% sequentially in Q3 because of a much larger audience.
+NEUT8|42 million more people using Twitter than we had a year ago.
+NEUT9|The improvements to our revenue products?
+NEUT10|The choices we make as we lead the service.
+NEUT11|That makes it easier for advertisers to give us their next dollar and all the events and product launches that came back in force in Q3.
+BULL12|Now we did have a big surge.
+BULL13|In usage in March and the Great News about that is we're retaining that group of people better than we have historical groups because of all the product work we've done.
+NEUT14|We don't get surges like that all the time, and so the way it flowed through our monetizable, daily active usage, we ended up going RDA.
+NEUT15|You buy a million sequentially this quarter, but 42 million year over year, we're really excited about the fourth quarter, because whether it's on the advertising side where this will play out differently than any fourth quarter we've ever seen or with.
+NEUT16|The US election happening here in the United States.
+BULL17|There are great advertiser and engagement and audience opportunities for us as well.
+NEUT18|I want I want to talk about the election and the advertising market in just a moment, but just let's get back to just want to talk about the users for a just to put a button on this in large part because that's what the investors were focused on.
+NEUT19|What do you think you have to do to increase that number come next quarter?
+NEUT20|But we've done a lot of things to make sure that when people want to find out what's happening, the world and what people are talking about, they will come to Twitter, give you a couple of examples.
+NEUT21|Today, 70 million people follow a topic on Twitter that was basically zero a year ago is 50 million last quarter when people follow a topic, whether it's a cash tag for a stock like Twitter or a topic like investing, they let us do the work for them to find the tweets that don't care about most.
+NEUT22|When we do that, they engage more.
+NEUT23|They click on more things.
+NEUT24|They retweet more things.
+NEUT25|They comment more frequently and that's what Twitter is all about.
+NEUT26|Is creating an enabling and informing conversation for people.
+NEUT27|So topics is a great example of this.
+NEUT28|Second, is you brought up the election.
+BULL29|We've done so much work to make sure that we can be a trusted source for conversation and information before, during and after the election.
+BULL30|So this is a great audience opportunity for us right here in the United States, where 20% of our audience and almost half of our revenue is.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

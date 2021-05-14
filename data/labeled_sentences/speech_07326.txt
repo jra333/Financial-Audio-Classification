@@ -1,0 +1,10 @@
+BULL0|"""Welcome back Squawk box, some Uber and Lyft drivers may have a chance to benefit from anticipated initial public offerings."
+BEAR1|The Wall Street Journal reporting that both ride jail rideshare.
+NEUT2|Hailing companies that I don't know why that's a tongue twister.
+NEUT3|Those companies planning to give some of their drivers a chance to buy IPO shares.
+NEUT4|Now the paper says some of the most active or longest standing drivers would get a cash award with an option to put that money towards stock in the IPO's.
+NEUT5|It's typically difficult or impossible for ordinary investors or employees to buy shares at the IPO price in many ways.
+BEAR6|This could be a good look for these companies, especially Uber, which has had its own issues, but at the same time boy if that stock were to drop.
+NEUT7|Joseph and you think about the impact that would have, especially on on drivers whose literally you know, income on a weekly basis is so important.
+NEUT8|I think that there's a potential could also backfire, so it'll be.
+NEUT9|"It'll be interesting to see what happens."""

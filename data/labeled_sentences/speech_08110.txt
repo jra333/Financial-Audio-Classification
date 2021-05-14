@@ -1,0 +1,23 @@
+NEUT0|"""What did what did the market not like about Netflix?"
+NEUT1|It was one thing in particular, Paul we, when they gave their forecast for what they expected for additions for their domestic streaming operation.
+BEAR2|That was really well below what Wall Street expected from them.
+NEUT3|Netflix argues that it's a seasonality thing.
+NEUT4|In fact, they put a full year guidance for this number that was actually ahead of the street.
+BEAR5|But they said because of the way they calculate seasonality, the second quarter is going to be really low.
+NEUT6|So I think what you're seeing this morning is, you know, is a reaction in kind of a debate among, and this remains a controversial stock.
+NEUT7|You're seeing a debate among analysts about whether they really believe that seasonality, not, or if they think that flicks can really hit that number.
+BEAR8|Yeah, and I think that just shows that there's a lack of confidence in the management at Netflix to trust what they're saying.
+NEUT9|You know, we we ever since they made that move last year to split the businesses and to do the whole quickstar thing, which they total bomb, which they then retreated from where they kept the price hike in.
+BEAR10|You know that has sourd the management and Reed Hastings to analyst Anan, so they're sceptical that oh, the second quarter could be worse.
+BULL11|But yet the year could be better.
+NEUT12|Do you?
+NEUT13|Do you think people are still kind of punishing Dan?
+NEUT14|Do you think people are still punishing Netflix for their past sins?
+NEUT15|I think there's some of that.
+BEAR16|It's it's good to keep in mind that the stock is still up pretty strongly for the year, but you're definitely seeing a bad correction now.
+NEUT17|It remains, I think one of the more controversial stocks about that I cover in our group here because of the difference between the people who are bullish on it and bearish on it, and how and how strong they are in their opinions.
+NEUT18|But yeah, what you're seeing is there's some.
+NEUT19|There's a fair amount of questions on past performance, and especially when you breakdown what their guiding for the year.
+BULL20|That means they gotta have a very strong second half of the year in order to make that full year number.
+NEUT21|And so there's a fair.
+NEUT22|"There's some fair skepticism on whether they can do that, or yeah."""

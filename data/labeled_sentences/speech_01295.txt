@@ -1,0 +1,42 @@
+NEUT0|"""Hold wreck reflects the cumulative effect of all the vector vest parameters working together."
+BULL1|These parameters are designed to help investors buy safe undervalued stocks rising in price dot value Ekeren price $2.32 current value $0.00 point 1/3 xom has a current value of $0.13 per share compared to a price of $2.32 per share.
+NEUT2|This stock is currently overvalued.
+NEUT3|Value is computed from forecasted earnings per share.
+BULL4|Forecasted earnings growth.
+NEUT5|Profitability, interest and inflation rates.
+NEUT6|Dot upside.
+NEUT7|Potential relative value RV very pors.
+BEAR8|RV is an indicator of long term price appreciation potential xom has an RV of 0.04 which is very poor on a scale of 0.0 to 2.0.
+NEUT9|This indicator is far superior to a simple comparison of price and value because it is computed from an analysis of projected price appreciation.
+NEUT10|Three years out.
+NEUT11|AAA corporate bond rates.
+NEUT12|An risk dot safety relative safety Rs pores is an indicator of risk.
+BEAR13|Xom has an Rs of 0.71 which is poor on a scale of 0.0 to 2.0.
+NEUT14|Rs is computed from an analysis of the consistency and predictability of a company's financial performance.
+NEUT15|Debt to equity ratio.
+NEUT16|Miss longevity, price, volatility and other factors dot timing relative timing.
+BULL17|RT excellent and analyzes of stocks price trend Xom has a relative timing of 1.41 which is excellent on a scale of 0.0 to 2.0.
+NEUT18|RT is computed from an analysis of the direction, magnitude and dynamics of a stocks price movements day over date, week, over week, quarter, over quarter and year over year.
+BULL19|If the trend dissipates, RT will gravitate toward 1.0 overall rating value.
+NEUT20|Safety timing VST.
+NEUT21|Therapist is the master indicator for ranking every stock in the vector of his database.
+NEUT22|Xom has a VST rating of 0.97 which is fair on a scale of 0.0 to 2.0.
+NEUT23|VST is computed from the square root of a weighted sum of the squares of RV, Rs and RT stocks with the highest VST ratings have the best combinations of value, safety and timing stop stop price, stock price $1.00 point 6 three stop is an indicator of when to sell a position.
+NEUT24|Xom has a stop of $1.63 per share.
+NEUT25|A stock stop is computed from a 13 week moving average of its closing prices and is fine tuned according to the Stocks Fundamentals Dot CI Comfort index.
+NEUT26|Fire See is an indicator which reflects a stock's ability to resist severe and or lengthy price declines.
+NEUT27|Xom has a sigh of 1.07, which is fair on a scale of 0.0 to 2.0 size based solely upon his stocks.
+NEUT28|Long term price history.
+BULL29|GRT earnings growth rate GRT reflects a companies one to three year forecasted earnings growth rate in percent per year.
+BULL30|Has a forecasted earnings growth rate of minus 7.00%.
+BEAR31|Which vector vest considers to be very poor DPS earnings per share.
+BULL32|EPS stands for leading 12 months earnings per share.
+NEUT33|Zahm has a forecasted EPS of minus six cents per share vector vis determines this forecast from a combination of recent earnings performance and traditional fiscal and or calendar year earnings forecasts.
+NEUT34|Dot P price to earnings ratio.
+NEUT35|Dollars required to buy $1.00 of earnings.
+NEUT36|Xom has a P of minus 38.67.
+NEUT37|The average P of all the stocks in the vector of his database is 70.1 oday.
+NEUT38|Earnings yield Aeroflex earnings per share as a perceived dividend vector vest reports annual regular cash dividends as indicated by the most recent payments special distributions.
+NEUT39|One time payments, stock dividends etc are not generally included and if xom does not pay a dividend DY dividend yield.
+NEUT40|Di reflects dividend per share as a percent of price.
+NEUT41|"Xom does not pay a dividend, so it does not have a dividend yield rating DI equal."""

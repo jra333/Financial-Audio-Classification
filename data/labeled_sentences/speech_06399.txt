@@ -1,0 +1,10 @@
+BULL0|"""I think if you are willing to have a career that's non-linear, you actually end up having a lot more opportunity."
+NEUT1|I think you have to trust your instincts and when you know it's time to move on, it usually is time to move on.
+NEUT2|I chose to take some time off and and I traveled.
+NEUT3|I went to culinary school and when I came back to the industry later, those periods of time also informed me.
+NEUT4|So you know, I think you learn from each of your experiences and they they just build on each other.
+NEUT5|Your skills are applicable in more than one place.
+NEUT6|I was leveraging working in a kitchen, the same skills I was leveraging working on the trading floors and being able to be a clear communicator and to.
+NEUT7|To work well under pressure, all of those things you can apply to so many different places, and I think that's important to recognize because women, especially, tend to think well.
+NEUT8|I haven't done that job before, but it's the skills that you that make you who you are make you good at so many different jobs.
+NEUT9|"I would focus on that and less about the specific role you had."""

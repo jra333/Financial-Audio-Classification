@@ -1,0 +1,27 @@
+NEUT0|"""Coca Cola bull say."
+BULL1|By volume, Coke is almost three times the size of its next largest competitor in the global non-alcoholic, ready to drink market, which begets patently obvious scale benefits.
+BULL2|The firm's vast marketing budget should help maintain consumer awareness and brand relevance.
+BULL3|The recent Coast acquisition should allow the firm to expand the trademark into other formats, such as ready to drink coffee, which is one of the fastest growing non carbonated categories.
+BEAR4|There say adverse currency exposure has recently been an albatross on the firms reported operating results and there is no guarantee that this will not continue.
+BEAR5|The firm is still disproportionately exposed to the soda category, which is facing secular headwinds in many markets.
+BULL6|High growth categories such as water and ready to drink coffee have been more conducive to intense competition.
+BEAR7|Given the firm's relatively weaker brand equity in these markets.
+NEUT8|Analyst ratings by 68% hold 26% sell 5%.
+NEUT9|Market cap 257.36 billions.
+NEUT10|Average volume 10.78 millions.
+NEUT11|Dividend yield 2.80.
+NEUT12|Cronos group.
+BULL13|Bull, say Altria groups investment of CAD $2.4 billion, provides Cronus with capital and a strategic partner with significant product development, branding and regulatory experience.
+BULL14|If successful, Altria Group may increase its 55% ownership of Cronus, or potentially acquire it.
+BULL15|Altria's distribution network gives Kronos an advantage in the hyper competitive US CBD market, Chronos has strengthened its medical cannabis export business through production expansions in Israel, Colombia.
+BULL16|And Australia and distribution agreements in Poland and Germany.
+NEUT17|There say the existence of the black market limits the potential price increases.
+BULL18|Kronos can push through to consumers.
+BULL19|Many countries such as Lesotho, South Africa, and Turkey plan to become major cannabis exporters, taking advantage of fertile climate and low labor costs to grow cannabis more cheaply than Canada.
+NEUT20|Provinces and countries are incentivized to maximize tax revenue for products like alcohol, tobacco and cannabis.
+NEUT21|Although alcohol and tobacco companies successfully pass higher taxes onto consumers, cannabis companies like the brand power to do the same.
+NEUT22|Analyst ratings by 47% hold 47% sell, 7% market cap 2.45 billion's.
+NEUT23|Average volume 8.08 millions.
+NEUT24|As always, be sure to let me know your thoughts down in the comments.
+NEUT25|Be sure to smash that like button.
+BULL26|"Thank you so much for tuning in and I will catch you in the next video."""

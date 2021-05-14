@@ -1,0 +1,16 @@
+BEAR0|"""Hey hey, what's going on?"
+NEUT1|Just touching bases with you wanted to talk a little bit about what's been happening in the stock market?
+NEUT2|Interestingly enough, of course you know earnings.
+BEAR3|Were being reported for a couple of companies.
+NEUT4|The one I want to touch on is Netflix.
+BEAR5|Unfortunately Netflix they just pretty much you know missed their their earnings mark.
+BEAR6|So of course for the stock it dropped, unfortunately.
+NEUT7|By the way, don't forget to hit the like button and subscribe and also shared with three friends.
+NEUT8|But with Netflix, you know it's.
+NEUT9|It's a rather expensive stock being that is going for roughly about $500, so that's a couple $100 per share.
+NEUT10|Me personally, that's not a stock that I've invested in.
+NEUT11|I thought about it.
+NEUT12|I just don't see how many more innovations they can make to really stay.
+NEUT13|Relevant for the next 1020 years, but you know, if that's your thing, that's fine.
+NEUT14|If you want to invest in a more if you're trading with options anyway, I'll talk to you guys later.
+NEUT15|"Alright, talk to you later."""

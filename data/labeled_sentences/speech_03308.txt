@@ -1,0 +1,7 @@
+NEUT0|"""Hi, my name is Aidan Sirkar."
+NEUT1|I'm the head of asset location, a pack at UBS Chief Investment office.
+BULL2|Last week we saw a few interesting leading indicators for the global economy, which in our view confirmed that the underlying fundamentals are still solid.
+BEAR3|But we also think that the second quarter GDP growth is probably the strongest, and growth now is peaking and the second half of 2018 beginning of 19 will see slower growth.
+BULL4|Over the next few weeks, the market will definitely focus on the trade situation with the US We saw some positive news coming from Europe that there probably there's a solution between the US and European situation, but on the Chinese side we got new information that probably the tariffs will be even increased and that could impact global growth, not just in China but also in the US.
+BEAR5|Given the short term uncertainties about this trade about growth, we have scaled back our risk in output.
+BULL6|"Olias, so a bit less optimistic on global equities for the next couple of weeks, but we do think that once we see some weakness over the next couple of weeks because of the trade situation that this could be a good buying opportunities because the underlying fundamentals are still quite solid."""

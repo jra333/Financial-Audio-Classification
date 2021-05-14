@@ -1,0 +1,23 @@
+BULL0|"""Hello and welcome back to the note."
+NEUT1|Perhaps it's appropriate in a week when Tom Cruise has a new big movie out here in the states that the American stock market appears to be a show me the money market now.
+BULL2|We've had earnings season.
+BULL3|Now it's almost over and as you can see, broadly speaking, it's been a very positive one.
+BEAR4|We were braced for an outright decline in earnings at the outset of the quarter on July, the first mostly, but not entirely because of the awful results everybody knew were going to come from the energy companies after the falling oil.
+NEUT5|Broadly speaking, it hasn't happened.
+BULL6|We are on course now for 1% rise in earnings.
+BULL7|Most sectors showed considerably better earnings than expected.
+NEUT8|Normally you would expect that to produce a very nice bump for the overall stock market, and it hasn't really happened.
+NEUT9|Now.
+BEAR10|Some of that is because I think it was widely thought that the official earnings estimates were unduly pessimistic, but mostly I think it's because of these revenue numbers, which are awful and again.
+NEUT11|Not just in energy and materials.
+BEAR12|At this point, S and S&P 500 companies are on course for an outright year on year decline in revenues, many of them, of course, are very global.
+NEUT13|So that's a reflection of global growth or the lack of it, not just of the US economy.
+BULL14|They are relying on continuing to eke out higher profit margins or resorting to financial engineering status share buybacks in order to make their earnings rise.
+NEUT15|Therefore, perhaps not that surprising that the stock market as a whole isn't gaining that value.
+BEAR16|Stocks ones that appear to be cheaper actually down for the year as a whole.
+NEUT17|Growth is concentrated in those companies that do the most buybacks.
+BULL18|And in those companies that can show the most true growth.
+BEAR19|It's rather a worrying picture.
+NEUT20|Plainly though, when there is a lack of confidence, the market is saying show me the money.
+NEUT21|So this is a very important insight.
+BULL22|"It suggests that women could be instrumental in helping us to avoid investment bubbles."""

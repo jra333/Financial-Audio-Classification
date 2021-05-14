@@ -1,0 +1,41 @@
+BULL0|"""Our next guest says there is more room to run in these big tech names and some could actually benefit even as folks head out into the real world again."
+NEUT1|For more.
+NEUT2|Let's welcome in Brian Nowak, the head of US Internet strategists strategy at Morgan Stanley.
+BULL3|Good to see Brian.
+BULL4|Thank you for joining us.
+NEUT5|Great night, I don't know.
+NEUT6|So thank you for having me you rank them, which is handy for TV purposes.
+NEUT7|So number one is Amazon explained to me how Amazon is a beneficiary when people are cooped up and also Amazon is a beneficiary when people are able to go out.
+NEUT8|If they got incremental sales, even an incremental sale because people had to buy on line, don't they lose some of that incremental sale when people are free to go out?
+NEUT9|You know, we try to try to be reader friendly now.
+NEUT10|I think on Amazon is a situation where the the market in our view, is overestimating the extent to which U.S. consumer expenditure on Amazon is going to decelerate as the world reopens the way we think about this is Amazon is in many ways in the business of behavior modification and prime is really behavior modification.
+NEUT11|101 you added a record number of prime Subs last year we think, and the extent to which you add more and more prime Subs to the base.
+NEUT12|The more the longer they stay in the base, they're across more categories.
+BULL13|They shop across fewer incremental websites and we think share of wallet actually grows.
+NEUT14|Will people spend less in some categories as the world reopens, they start traveling, yes, but don't underestimate the stickiness of the prime ecosystem.
+NEUT15|What that means for Amazons forward top line growth as well as the free cash flow they're going to generate through and post the recovery.
+NEUT16|I want to get to #2 and #3 alphabet and Facebook.
+NEUT17|But before we move on I have to ask you about the conversation we're having before in terms of higher interest rates and how do you layer in higher interest rates?
+NEUT18|When it comes to a name specifically like Amazon with a higher valuation.
+NEUT19|Yeah, I think you know we.
+NEUT20|We think about this a lot and actually sort of our view on sort of the interest rate, environment and any of the correction on the multiples have seen in tech.
+NEUT21|I would actually argue that a lot of these large cap stocks like Amazon Alphabet, Facebook already pricing a lot of this in.
+NEUT22|I mean these are these are companies that are going to grow 20% plus the next few years and then are trading at low to mid teens forward free cash flow multiples.
+NEUT23|So I don't actually think if you look at the forward free cash flow we expect them to generate Amazon alphabet.
+NEUT24|I really that expensive and and neither is another Facebook alright.
+NEUT25|So let's get to the others number 2 on your list is alphabet and not too many people.
+NEUT26|Think of it necessarily as a reopening trade, but 10.
+BULL27|15% of page searches related to travel and of course that is ticking higher.
+NEUT28|So are we seeing that already?
+NEUT29|And how much more is there to come of that?
+NEUT30|Yeah, this is a.
+NEUT31|This is a this is a great dark horse.
+NEUT32|Reopening trade 10 to 15% of search is from travel as online travel agencies and Marriott or Hilton or any travel companies want to get in front of people as they're planning out their forward vacations for the rest of the year.
+BULL33|They're going to spend on Google search which helps Alphabet the other thing that's happening from a recovery perspective is we think that the Google map is really doing very well 'cause people are going on the map.
+NEUT34|They're trying to figure out where they want to go.
+NEUT35|Places to go eat sushi, bars to go to, etc.
+NEUT36|And so the map has always been one of these utilities.
+BULL37|I would argue at Google that never really turned on the monetization around, and it sounds like based on early discussions, you are now starting to get some ad revenue flowing through that map.
+NEUT38|So as the world reopens and people are planning out where they want to go, where they want to eat, where they want to travel, there are a lot of ways in which we think the overall alphabet ecosystem across search Maps and even YouTube candidly can really benefit from the ad dollar flows.
+NEUT39|Shepard Smith here.
+NEUT40|"Thanks for watching CNBC on YouTube."""

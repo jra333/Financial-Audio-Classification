@@ -1,0 +1,16 @@
+BULL0|"""Three years ago, global commercial real estate Giants CB Ari was hunting for a new space for its headquarters and saw a chance to shake up its culture."
+BULL1|At the same time, the company introduced unassigned workstations, illuminated private offices and ramped up tech capabilities.
+NEUT2|The result, a mostly happier workforce that functions more efficiently in less space and the ultimate showroom for clients for 30 years, I sat in a private office and if somebody wanted to see me, they, you know.
+NEUT3|Knock on the door they call and I would work one way.
+NEUT4|Now I work differently every day.
+NEUT5|What was the biggest challenge initially I think by and initially, anytime you're trying to do something that's new, people want to look at the example of what had just been done and we didn't have a lot of that to show.
+NEUT6|So a lot of this was on pure faith.
+NEUT7|We really looked at the way people were using technology in schools and places in other parts of the world like Amsterdam, and then drilled down to how might that work here?
+NEUT8|It's also created a laboratory for us to be able to test what we think is next.
+NEUT9|So whether it's a new technology solution, whether it's a new service we really have been able to really pilot and test and validate different bets that we think are going to be meaningful in the future with how people go to work.
+NEUT10|What do you think you've gotten right here that maybe other people have implemented creative spaces, haven't I.
+NEUT11|Would say the biggest thing that we've gotten right here has been.
+NEUT12|We changed the culture.
+NEUT13|I mean, we changed the culture.
+NEUT14|We have taken people in their 40s and 50s and 60s and converted them into using technology in a way that makes more collaborative and efficient.
+NEUT15|"There's an old expression, more is caught than taught, and I think when people actually see the way we're living and the way we're conducting ourselves in the way we've incorporated these new ideas into space, it's inspiring not just to us, but to others."""

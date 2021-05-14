@@ -1,0 +1,2 @@
+NEUT0|"""If 50 goes above 14950, then if Nifty goes near 15217, then if nifty goes below 14900 then."
+NEUT1|"If bank Nifty goes above 35360, then if bank Nifty goes below 3434900 then."""

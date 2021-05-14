@@ -1,0 +1,27 @@
+NEUT0|"""The PC form factor is now so versatel and it's really gone from, you know this this place where you know many homes had maybe one PC per home now going to you know everyone has their own PC and so you know back to the use cases."
+NEUT1|I think we're all familiar with the work from home, school from home.
+NEUT2|So definitely webcams and all of that other stuff.
+NEUT3|But I think you also see a lot of multitasking and you know people doing.
+NEUT4|Sometimes they're doing productivity tasks for work.
+NEUT5|And sometimes there are gaming and really having an all around great machine that you can take from room to room and from experience to experience is is really what it's all about.
+BULL6|So you know we're very excited this year to be launching our Ryzen 5000 series here at CES.
+NEUT7|It's our next generation mobile processor, but it really looks at how we enhance some of those experiences and get you know more performance, more battery life, more capability for those evolving use cases.
+NEUT8|So Verizon 5000 versus 4000.
+BULL9|You're going from correct me where I might be getting this wrong here of around 100 platforms to 150 so a 50% increase and also what's been happening is you've hit around 20% market share for both desktops and for laptops so.
+NEUT10|When you're going to that many new platforms, how does that translate up possibility wise into market share over time?
+BULL11|Yeah, so you are rising 5000 series, you know, is significant performance improvement versus, you know, just last year's Rising 4000 series.
+NEUT12|So we're talking about over, you know, 20% performance over 20 hours of battery life.
+NEUT13|If you're doing things like movie playback, and.
+NEUT14|You mentioned platforms.
+NEUT15|You know we're all about.
+NEUT16|You know this year at CES were actually highlighting the breath of our relationships and the platform relationships.
+NEUT17|So Microsoft, HP, Lenovo, Lucasfilm, they've all joined us on stage at CES to talk about sort of the evolution of the PC form factor and going forward.
+BULL18|So it is about building a broader ecosystem, and you know, we we are very proud of the progress that we've made in PC's in 2020, but the key is to have even more platforms and more capabilities.
+NEUT19|So whether you're talking about.
+NEUT20|Enterprise notebooks that really focus on security.
+NEUT21|Or you're talking about gaming notebooks that want you know the highest frames per second that you can get?
+NEUT22|Or you're talking about Ultra Thins that you want to be.
+NEUT23|You know, very very portable or you're talking about Chromebooks for education.
+BULL24|I think all of those are areas that AMD has expanded and we feel good about our opportunity to continue to grow our market presence.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

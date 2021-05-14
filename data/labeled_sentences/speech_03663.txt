@@ -1,0 +1,29 @@
+NEUT0|"""Hey option traders for today's trading strategy, we're going to take a look at a bear put spread in United Health Group."
+BEAR1|The market is currently in a confirmed uptrend but things are starting to look a little extended so traders with a lot of bullish exposure may want to start hedging their bets by adding some bearish option trades in case the market takes a turn to the downside.
+NEUT2|Health care giant United Health Group could be a good candidate since the stock is currently.
+BEAR3|Below a declining 21 day E MA and a 50 day moving average for the last month, UNH has been unable to cross back above its 50 day line as that level has proven to be a very strong resistance point and easier trade for beginners.
+NEUT4|Here would be setting up a bear call spread.
+NEUT5|The trade is known as a vertical spread and it basically involves selling an out of the money call and then buying further out of the money call the strategy can be profitable if the stock trades lower sideways and even if it trades slightly higher.
+NEUT6|As long as it stays below the short call at expiration, so let's take a look at United Health stock and set up this trade together.
+NEUT7|So here's my thinkorswim dashboard and I'm going to show you how to set up this trade in your own trading account first.
+NEUT8|Obviously, you're going to type in UNH, which is the ticker symbol for United Health Group.
+NEUT9|And we're going to be looking at options contracts that expire the week of March 19th, 2021.
+NEUT10|And if you have this in your trading account, you will select the type of spread were trading, which is a vertical spread and strike prices are right here in the middle panel and we're going to be looking at this one right here.
+NEUT11|The 3:30 call and the 3:40 call and down here.
+NEUT12|I already have the expiration and strike price is set up for this trade, so this bear call spread is going to be set up by selling the 3:30 call and buying the 3:40 call in the maximum profit on the trade will be around 300.
+NEUT13|$40 and the maximum risk will be around 660.
+NEUT14|The spread would achieve the Max profit if you and H closes below 330 on March 19th, in which case the entire spread would expire worthless, allowing the trader to keep the $340 option premium.
+BEAR15|Now the maximum loss would occur if you and H closes above 340 on March 19th, in which case you would lose 600 and $60.00 on the trade.
+NEUT16|While some option trades have the risk of unlimited losses, a bear call spread is a risk defined strategy.
+NEUT17|So you always know your worst case scenario in advance for a trade like this, I would look to closeout.
+BEAR18|If the trade loses a maximum of $300, or if you and H stock closes above 330 and one final note.
+NEUT19|UNH earnings are scheduled for April 21st, so there is no earnings risk with this trade.
+NEUT20|To recap, this option trade involves selling a March 19330 call in buying a March 19340 call.
+NEUT21|The total premium collected on the trade would be roughly $340 and the trade has a maximum risk of 600.
+NEUT22|60 and there you have it.
+BULL23|I hope this was another helpful trading strategy.
+BEAR24|Remember, options are very risky and investors can lose 100% or more of their investment.
+NEUT25|So make sure you practice with a virtual trading account before risking any real money, especially if this is new to you.
+NEUT26|And check out investors.com/features Dash options for more option trading tips.
+BULL27|Hey everyone, thanks so much for watching investors business daily on YouTube.
+NEUT28|"If you want to watch more videos make sure you hit that subscribe button so you don't miss a thing."""

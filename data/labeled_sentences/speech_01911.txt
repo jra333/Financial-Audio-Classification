@@ -1,0 +1,29 @@
+NEUT0|"""Reliance Industries share prices rallied today after Facebook announced investments of $5.7 billion in Reliance Jio, let's do a 3 point analysis to understand the broad contours of the deal and what it really means for Reliance Industries shareholders."
+NEUT1|Now one.
+NEUT2|The Geo Facebook deal.
+NEUT3|Well, Facebook will invest forty 3005 seventy ₹4,00,00,000 in Reliance Jio platforms.
+NEUT4|And with this investment.
+NEUT5|Facebook will by 9.99% stake in Reliance Jio the investment makes Facebook the largest minority shareholder in Jio platforms and Values Geo platforms at an enterprise value of 4.62 Lac crore rupees.
+NEUT6|It is the largest investment for a minority stake by Tech Firm in Anywhere in the world.
+NEUT7|It is also the largest FDI in technology sector in India.
+BULL8|And with this the deal values Geo platforms among the top five listed companies.
+BULL9|In India by market cap simultaneously, a commercial partnership agreement has also been signed between Geo, Reliance, Retail and WhatsApp for Reliances new Commerce platform Jio Mart.
+NEUT10|It is also targeting seamless kirana transactions with Geomod using WhatsApp two.
+NEUT11|What is the deal really aimed at while commenting on the partnership Mukesh Ambani, the chairman and managing Director of Reliance Industries, has said.
+BULL12|That he really welcomes Facebook as their long term partner in continuing to grow and to transform the digital ecosystem of India.
+BULL13|He also said that the synergy between Geo and Facebook will really help realize Prime Minister Narendra Modi's digital India Mission.
+BULL14|Now, Facebook has said that the focus of its collaboration with you will enable new opportunities for more than 60 million small business owners across India.
+BULL15|See your Mark Zuckerberg also said that Facebook is teaming up with you to work together on some of the major projects that will open up Commerce.
+BULL16|Opportunities for people across India with Geo 388,000,000 customers.
+BULL17|Facebook also gets access to a wider audience in India.
+NEUT18|Three, what does it mean for shareholders of Reliance Industries?
+BEAR19|Well for investors badgered by the COVID-19 crisis.
+BULL20|The deal comes like a breath of fresh air markets also gave a thumbs up to the deal with Reliance Industries stock closing with 10% gains.
+NEUT21|Now since it is a fresh equity and not a sale of shares, the money goes directly into gioan not to Reliance Industries.
+BEAR22|So this ultimately means that you will have more resources and less investments from Reliance Industries.
+NEUT23|That will be needed now.
+BULL24|This will also enable Geo to continue to compete aggressively.
+BULL25|Besides investing in futuristic technological advancements as well, now the shareholders will be equally delighted by the prospects of Geo and its possible IPO going forward.
+BEAR26|Experts also feel that it is indeed a win win situation for both the partners.
+BULL27|The investment would also significantly strengthen the balance sheet of Reliance Industries and definitely this is a key positive for the company.
+BULL28|"SBI Cap says that the deal will play a meaningful role in mobile Commerce space."""

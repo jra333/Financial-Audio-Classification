@@ -1,0 +1,18 @@
+NEUT0|"""I want to ask you about Tesla."
+NEUT1|You've been on the Board of Tesla since the Get go and we've been talking a lot about the valuation.
+NEUT2|It's a car company worth $600 billion.
+NEUT3|Now I realize you're doing a lot of other things as well, including home batteries, including, you know, solar roof panels charging.
+NEUT4|What do you think makes Tesla worth $600 billion?
+NEUT5|Though as essentially?
+NEUT6|Winter in the EV area.
+NEUT7|Well, I can't really speak to the value of the company as you know, I'm I'm on the board.
+NEUT8|I can say that I'm really excited about the future of Tesla, and it does include energy it includes, frankly, I mean, and I actually don't know the exact numbers about energy, so don't quote me on this.
+NEUT9|But it's going to be one of the biggest interest.
+NEUT10|It probably is one of the biggest cities in the world, if not the biggest anri that Tesla is about alternative energy.
+NEUT11|It's a.
+NEUT12|It's an energy company.
+BULL13|And obviously we're really good at product.
+NEUT14|We could really go to technology and we were going to making cars.
+NEUT15|But it's it's the future of Tesla is very bright.
+NEUT16|I do not want to speak to the valuation.
+NEUT17|"I will leave that up to the stock traders."""

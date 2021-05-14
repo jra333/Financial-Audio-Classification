@@ -1,0 +1,23 @@
+NEUT0|"""Hi, I'm Danish and I'll be pitching Disney a media conglomerate but for market cap of 90 billion."
+BULL1|I suggest that it will outperform with a target price of 5740 based on the hot model.
+BULL2|Disney's upside potential is backed by sealing strategy of acquiring, building and monetizing intellectual property while scaling it.
+BULL3|After acquiring Pixar and Marvel, the impact and consistency of studio releases have led to higher studio margins.
+BULL4|They have diversified their IP portfolio and invigorated their creative and technological pipeline, which built their IP into strong brands.
+BULL5|The acquisition of Lucasfilm adds to the synergy and the prospect of more films a full slate can be expected going forward with big hits continuing recent release wreck it Ralph has already been the largest debut for Walt Disney Animation Studios.
+BULL6|After building their IP to Studio, Disney has an excellent opportunity to monetize them through other products, especially with their clear competitive edge in having more diversified business lines.
+NEUT7|Pixar's Impact is seen through the opening of cars land, which has been huge.
+BULL8|With Lucasville, they can leverage the iconic Star Wars brand along with Marvel Psyche in Steam Parks and TV.
+BULL9|These acquisitions will also benefit from Disney's distribution and in turn built the Disney brand.
+BULL10|Also, the Netflix Amazon deals allow this need to accelerate its monetization of IP through digital platforms and unfortunately, align with the growth of Internet TV.
+BEAR11|This could help to offset the risk or flat earnings from their TV business due to recent lower ratings.
+BULL12|Disney is also making smart investments in park technology, attractions and cruise upgrades to enhance guest experiences.
+BULL13|Yes, the weak economy lead to sluggish attendances, but upgrades allow them to raise prices more than competitors, increasing margins and profit.
+BULL14|Also, investments in international parks such as Hong Kong, which is searching attendance rates and Shanghai's strategically estimate given the growth trajectory of the spending power in Asia.
+NEUT15|Join mine analysis.
+NEUT16|We turn to valuation.
+BULL17|Sales growth will pick up next year and he peed growth in fiscal year 16 while margins will pick up in 14 after the completion of growth initiatives.
+NEUT18|Fiscal year traffic is expected to be careful.
+NEUT19|Keep X and will decrease thereafter.
+BEAR20|The CFO rifle classes, hence increasing against our faith to the benchmark of 6% but toward the industry median of about 12% if enough, like final feed rate of 5.5%, will asset growth will expectedly fade toward the benchmark 2.5%.
+NEUT21|Using the whole discount rate, I derive an equity valuation of 5740, an upside of 15% from the price at Christmas.
+BULL22|"Thanks for watching."""

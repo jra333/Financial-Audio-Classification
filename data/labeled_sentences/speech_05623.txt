@@ -1,0 +1,24 @@
+NEUT0|"""Hello FBA, sourcing simplifiers."
+NEUT1|This is Steve and this is a real quick video on how you may get caught up on Amazon Flip if you don't pay attention to the keep graph.
+NEUT2|So I found these Cheez-its it was on.
+NEUT3|Keep a 10 pack.
+NEUT4|Usually sells for 30 price dropped to 1039 thousand and grocery store thinking it's not too bad.
+NEUT5|Click here to see what other sellers are selling it for.
+NEUT6|There was one other seller 3499 so you think Oh yeah, I could buy him at 10 so I'm at 2999.
+NEUT7|Make a little bit of money.
+NEUT8|But then you have to look at the Keeper graph.
+NEUT9|And I'll keep it shows Amazon in stock at just about all times in the last three months.
+NEUT10|When Amazon is at $10.
+NEUT11|Rank stays under 100,000.
+NEUT12|Looks halfway decent.
+NEUT13|I'm thinking that seller came in at $34 and Amazon raised their price to 31 to stay a little bit under that seller.
+NEUT14|And the rank just climbs climbs.
+BEAR15|They went back down to 10 for a day.
+BULL16|No sales the other sales rank still climbing and then finally Amazon decided to put their price back down to $10 and they've been getting sales.
+NEUT17|So this is just to show you.
+BULL18|Even though Amazon selling for 10 next sellers at 35 looks like a good deal.
+NEUT19|Amazon Bennett.
+BEAR20|31, It's not a good deal 'cause the 38,000 sales rank.
+BEAR21|Is only because Amazon went down the $10 and they probably got four or five sales on it today.
+NEUT22|Alright, that's all I wanted to show you real quick.
+NEUT23|"Any questions you can leave him in the Facebook group?"""

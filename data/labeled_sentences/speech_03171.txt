@@ -1,0 +1,22 @@
+NEUT0|"""Welcome to the Federal Bank Limited stock analysis video."
+NEUT1|In this video, we would look at fundamentals of the Federal Bank Limited and important financial rate issue.
+BEAR2|The Federal Bank Limited current price is 115.00 exchange minus 0.86% lower than previous closed.
+BEAR3|Its 52 week highs 119 and 52 week low is 49 companies earning per share is 4.8 and it's priced equity ratio is 22.3 stockers.
+NEUT4|Book to price ratio is 2.1.
+NEUT5|The Federal Bank Limited return on equity is at 6%.
+BEAR6|Company had 2316 revenue in Q416 as compared to 2281 point 4,00,00,000 in Q316.
+BULL7|Revenue has grown consistently in last few quarters, which is positive for company.
+BULL8|Revenue has grown quarter on quarter with 1.5% in current quarter and 10.4% in previous quarters.
+BULL9|Raafat has grown steadily in last few quarters with 256.6 as compared to 205 point 6,00,00,000 in previous quarter.
+BULL10|Profit growth rate has also grown steadily in last few quarters.
+BULL11|It has grown 24.77% in last quarter compared to 2.19% in previous quarter, which is great positive.
+BEAR12|Profit margin is the ratio of net profits revenues profit margin in Q416 is 11.08 as compared to 9.01 in 316.
+BEAR13|Operating profit for the company in view 416 is 1617.964 as compared to 1531.44 roller in Q316L built in Q416 is 426.514 as compared to 316.08 roller in Q316.
+BEAR14|Operating profit margin for the company in view 416 is 69.86% as compared to 67.13% in Q316.
+BEAR15|Ebbett margin in Q416 is 18.42% as compared to 13.85% in Q316.
+BEAR16|Company has eighty 1348.34 dead.
+BULL17|It has increased liability of 5624.8 roller companies.
+NEUT18|Interest to coverage ration is 1.23.
+NEUT19|Finally, here is a summary of few positives and negatives based on these analysis points we have calculated the rating for the Federal Bank Limited.
+NEUT20|Heroes rating on a scale of 10 for the Federal Bank Limited.
+BULL21|"Thanks for watching this video."""

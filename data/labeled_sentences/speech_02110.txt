@@ -1,0 +1,47 @@
+BEAR0|"""News out of Coca Cola."
+NEUT1|This morning the company realigning its 17 business units into a 9 unit structure and planning offer buyout packages to 4000 workers.
+NEUT2|Sara Eisen just spoke with Coke CEO and she joins us now in this Crock News line with some more detail and color setter.
+NEUT3|What did you hear?
+NEUT4|What's behind this move?
+BULL5|Good morning Mike.
+NEUT6|I think the biggest headline from James Quincy, the CEO Coca Cola.
+NEUT7|About this restructuring is it's not driven by the pandemic.
+NEUT8|He tells me it was set up by the pandemic, but the effort is to set Coca-Cola up for future growth.
+NEUT9|So here's what Coke is announcing today.
+NEUT10|So 17 business units go to 9 under 4 geographies.
+NEUT11|They're trying to get leaner.
+NEUT12|They're trying to get faster than market and the ultimate priority here is they're trying to get better marketing.
+BEAR13|And yes, there will be layoffs.
+NEUT14|As a result of these changes, 4000 jobs are eligible in North America, the US, Puerto Rico, Canada, which is actually a sizable chunk of employees.
+BEAR15|They have about 10,800 in the region, so as many as 35% eligible for layoffs here.
+NEUT16|Now Coca Cola CEO James Quincy says they are trying to get back to growth, evolving the way they do marketing more scaled winners.
+NEUT17|How they digitize the company and data analytics flatter operation.
+NEUT18|All of these things behind it.
+NEUT19|I asked him if it was about the weakness they've seen.
+BEAR20|Coca Cola has half of its business outside the home so it really got slammed on the lockdowns in restaurants and stadiums closing closing.
+BEAR21|He said he sticks by what he said last quarter which was April was the bottom.
+BULL22|And they continue to see steadily improving volumes as economies open up.
+BULL23|Quincy tells me, I think Covid will pass.
+NEUT24|This is really about setting ourselves up in these discussions again as early as January, guys before the pandemic.
+NEUT25|It's just allowed them to really focus on a key number on a few number of brands.
+NEUT26|They have more than 400 less than half of those contribute mostly to revenue, and that's where the focus is going to be on marketing and on growth.
+NEUT27|And so there's going to be a lot of readjustments here on the way that they're announcing today.
+NEUT28|Yes, I was going to ask you.
+NEUT29|In terms of this streamlining, what does it say about the company's priorities in terms of categories, types of products that they want to get more behind, and what might fall by the wayside?
+NEUT30|The growth category.
+NEUT31|So remember last quarter Quincy told me they're going to be looking to get rid of zombie companies, and we've already seen them make some moves on this front AUD Wallah.
+NEUT32|For instance, the juice brands no longer there, just not focusing.
+NEUT33|They're going to focus on the big drivers.
+NEUT34|The Coca Cola is obviously, and some of the growth areas, like a topo Chico for instance.
+NEUT35|This has no effect.
+NEUT36|You might be happy to know, or maybe Andrew would be happy to know that Topo Chico hard seltzer is still scheduled.
+NEUT37|Come as soon as September next year in the US, which is something that that I announced a few weeks ago, so that the focus really is on growth and on brands that are working.
+NEUT38|It's not necessarily on a retrenchment by Coca Cola.
+NEUT39|That was the main point.
+NEUT40|It doesn't have any impact, for instance, on their plans for Ma an on their plans to invest behind the brands.
+NEUT41|That's all on track.
+NEUT42|It's just it's just a more sort of focused.
+NEUT43|Think about it like what PNG did to get rid of its matrix structure a year or so ago to make it a faster.
+BULL44|Quicker operating machine.
+NEUT45|These huge companies Anan Coca Cola.
+BEAR46|"Has you know something like 80,000 employees worldwide are just becoming more focused, ANAN and more driven during the pandemic, which has put a sharper focus on on what's important for a lot of these big firms."""

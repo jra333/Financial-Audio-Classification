@@ -1,0 +1,19 @@
+NEUT0|"""See in the building behind me are 5800 of nearly 500,000 workers across America who work for Amazon, the nation's second largest employers."
+BEAR1|But the vast majority of the warehouse jobs are at will jobs and the workers here have said that the work is unstable and very difficult.
+BULL2|Meanwhile, Amazon says that it is paying twice the state minimum wage.
+BULL3|Then it offers a clean work environment and health care benefits.
+NEUT4|Listen to what two different workers had to say to us about their feelings about this union vote.
+BEAR5|I think the working people has been devalued for a long time.
+NEUT6|We have been looked at as disposable.
+NEUT7|We get the use out of you, but we don't pay you what you deserve.
+NEUT8|We deserve to live a good life like everyone else I have yet from the day I started.
+NEUT9|Until today.
+NEUT10|Have ever felt anything less than human inside that building?
+NEUT11|I mean, we're a big family now ship, although this is an American first.
+BEAR12|It's important to note that a union in Italy struck against Amazon last week, and a German Union struck this week.
+NEUT13|The stakes are very high.
+NEUT14|Economists have said for years that Amazon really could be the future of capitalism.
+NEUT15|The question here in Bessemer is whether unions will be the future of Labor.
+BULL16|Chef Jake thanks.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

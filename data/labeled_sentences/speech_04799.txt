@@ -1,0 +1,21 @@
+NEUT0|"""How long can the global economy take?"
+NEUT1|The kind of measures we're seeing at the moment?
+BEAR2|Social distancing, isolation and shutdowns of key parts of the economy.
+NEUT3|Not very long is the is the quick answer.
+NEUT4|The longer answer is that I think IMF came out of report that says that every month that we have this social distancing, it costs 3% of GDP overall.
+BULL5|So in other words, we have another 2-3 weeks and we should be able to sort of mitigate that through some of the very very forceful policy that we've seen being released by the governments and central banks globally.
+NEUT6|But we come to a point very, very soon Steve where we need to decide whether we're going to keep society at a social.
+NEUT7|Using a model or we need to rehome it?
+BEAR8|I mean, we're really we're talking about an unemployment in the USI heard this morning, some people mention a number of 20%, the highest number of unemployment we've seen historically in the US was 10.7 in 2008.
+NEUT9|Anan, I still think the market is totally unprepared for what is coming in terms of when we open up.
+BULL10|I mean, market is celebrating that, and very rightly so that we have a flattening out of the curve right now in terms of people being infected.
+NEUT11|But you know the the real economic drama will be when we get to the other side of this because the opening up will take months upon months.
+NEUT12|Think about it, you and I see we love going to a game of football.
+NEUT13|I mean will football field Mob, airport anything where you are in enclosed circumstances, it's going to be very difficult to see government allowing that to be over but freely.
+NEUT14|Which means essentially the economy will be running at 6070.
+NEUT15|Eighty 90%, even China.
+NEUT16|And I had a number of chats with my colleagues in China this week.
+NEUT17|I mean, they say they're 90%, but foot traffic less than 50% airports less than 20%, so you know it's going to take a very, very long time, and the economic impact is not accounted for in the in the stock market right now.
+NEUT18|Hi, I'm Joanna Barsacchi and thank you for watching.
+NEUT19|You can check out more of our videos by clicking on the boxes on the screen and don't forget to subscribe to our channel for more from CNBC International.
+BULL20|"Thank you for watching."""

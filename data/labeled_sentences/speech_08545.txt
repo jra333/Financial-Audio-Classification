@@ -1,0 +1,44 @@
+BEAR0|"""A lot of money lost so."
+NEUT1|We can see the risk in this company, but when we look at the five year we can see there's there's a sort of a of an upwards trend so we can see.
+NEUT2|Right here it just seemed to be kind of like a bubble, and then the bubble burst it right here.
+NEUT3|And then we're kind of back into bubble territory.
+NEUT4|So maybe right now it's a little overvalued, I would say.
+NEUT5|Just by looking at it at a glance.
+NEUT6|Now when we look at the volume we could see the volume is a 6,000,000, but the average volumes 11 million.
+NEUT7|So the average volume is much higher than what it is right now.
+NEUT8|We look at the the the highs.
+BULL9|We could see that it were pretty close to our highs.
+NEUT10|Actually, we're not that close.
+NEUT11|Their eyes, the highest.
+BEAR12|We still got a bit away to go to the 52 week high.
+NEUT13|And we come to the lows were also kind of far away from the low, so we're kind of in the middle point.
+BULL14|Right now Netflix is pretty rich company with 152 billion market cap, high PE ratio of 134.
+NEUT15|And Netflix is offered no dividends, which *****.
+NEUT16|So the sucky thing about Netflix is it offers no dividends.
+NEUT17|We look at the news.
+NEUT18|We can see the news.
+NEUT19|There's not much going on when it comes to Netflix in the short term that will necessarily affect the price in a major way.
+NEUT20|As of right now.
+NEUT21|Netflix is pretty much the news that has occurred about Netflix is pretty much similar to that.
+NEUT22|It's always been.
+NEUT23|Netflix has always been good at blowing money, and that's pretty much what the news of Netflix has always pretty much been.
+NEUT24|They haven't.
+NEUT25|They haven't fixed that problem of burning through cash.
+NEUT26|Now when we look at the analyst.
+NEUT27|Got 44 analysts ratings, 66% are saying it's a by 27% are saying it's a hold.
+NEUT28|7% are saying itself.
+NEUT29|We look at the Morningstar.
+BULL30|They're saying that international expansion offers attractive markets for adding subscribers.
+NEUT31|Excuse me to subscribers, sorry bout that.
+NEUT32|Netflix internal recommendation stuff.
+BULL33|There are in large subscriber base.
+NEUT34|Give the company an edge when deciding which content to acquire.
+BULL35|In future years Netflix has built a substantial content library that will benefit the firm over the long term.
+BULL36|Now when we look at the the haters the haters for Morningstar, saying that the firm continues to burn billions of dollars of cash, credits, original content with no end insight, the level of competition in the US and internationally is increasing and will continue to do so over the near future.
+NEUT37|Disney will launch its own branded as Vo D service in the second half of 2019.
+BULL38|The need for increased content and marketing spend outside of the US will limit the rate of margin expansion.
+NEUT39|For the international segment.
+NEUT40|Now when we look at the researcher report.
+NEUT41|From Morningstar, what they're saying is that Netflix continues to burn cash with competition looming on the horizon.
+NEUT42|When the Morning Star rating they're giving it is one star with the economic smoking very narrow and their their fair value with their valuing Netflix is that is at $135 their own certainty very high and the stewardship standard.
+NEUT43|"Now they're saying that it's worth only."""

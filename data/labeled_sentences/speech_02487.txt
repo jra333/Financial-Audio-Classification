@@ -1,0 +1,13 @@
+BEAR0|"""Well, that's right, Disney shares have declined by nearly 20% since Bob Eiger announced he was stepping down as CEO and becoming Executive Chairman at the end of February."
+BEAR1|Now, Disney is furloughing the majority of its parks employees, as well as cutting jobs and pay across divisions.
+BULL2|Now, Tiger Woods had been heralded for investing in Disney's theme parks and cruises and for growing Disney's dominance of event movies that drew people to theaters.
+NEUT3|Now disease strength in gathering people and the business of live sports are liabilities.
+NEUT4|The long term questions, though, are how long until people want to be in crowds again, and how quickly will Bob Iger's pivot to focus on digital distribution.
+NEUT5|Over the past few years grow to compensate for some of these declines in his other businesses guys back over to get Julia?
+NEUT6|To what extent is this this idea that Bob Iger's helping out more than perhaps would have been expected after his semi retirement?
+BEAR7|To what extent is that a big blow to JPEG?
+NEUT8|Look, I think at this point it's all hands on deck.
+NEUT9|I think that it's natural that someone who's run the business for as long as Eiger has would want to be there not just to help with the transition.
+NEUT10|'cause remember he was supposed to be there as executive Chairman to help with the transition, but also to help figure out how to really deal with coronavirus impacting so many of their divisions.
+NEUT11|So I think it's a positive to have him in there as opposed to having him announced that he was he was leaving and there was a new CEO and he wasn't going to help with that transition right now.
+NEUT12|"I think it's essential to have him in there as well."""

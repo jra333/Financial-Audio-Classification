@@ -1,0 +1,12 @@
+NEUT0|"""Hello, welcome to today's technical analysis for January 4th, 2016."
+NEUT1|I'm Celina, Nicholas, technical analyst, that exam.com.
+BEAR2|Today we will look at the euro versus Japanese yen on the daily chart Euro JPY dipped below 1:30 to touch 129.95 on the 1st Trading Day of 2016.
+BEAR3|Technical setup favors a retest of the November 2015 low of 129.65.
+NEUT4|And a break below.
+NEUT5|This would open the way towards the April 2015 low and this this level comes in at 126.08.
+BEAR6|If we look at the whole market picture it's below the Daily Ichimoku cloud right now and this is a bearish signal.
+BEAR7|Also market is below the 200 day moving average.
+NEUT8|Also highlighting the bearish bias.
+BEAR9|If we look at RSI it's below 50 in bearish territory, suggesting there is downward momentum.
+BULL10|Prices would have to rise back above Lecha McLeod and also above the key 134 level to shift the bias to more bullish one.
+BULL11|"Thank you very much for watching and have a great day."""

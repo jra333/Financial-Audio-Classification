@@ -1,0 +1,23 @@
+BULL0|"""It took 14 months, but Facebook incorporated stock on Tuesday nearly reached its $38.00 debut price for the first time since the social network went public in May 2012."
+NEUT1|Reuters reports.
+BULL2|Facebook stock was really liked this past week after the company reported its strongest revenue growth since the third quarter of 2011.
+NEUT3|Facebook with one point 15 billion users, has never traded at or exceeded $38.00.
+BULL4|Benchmark Facebook's turn around is being attributed to its success.
+BULL5|In building a mobile advertising business, revenue of which grew 75% in a span of three months, Reuters reports shares in the company are up more than 50% this month.
+NEUT6|A defense spending bill that reverses the most drastic cuts from this sequestration cross.
+BEAR7|The Board budget cuts from the spring was approved Tuesday by the Senate Appropriations Defense Subcommittee.
+NEUT8|The budget goes next to the full Senate Thursday.
+BULL9|The approved budget adds almost $4.5 billion to the budget for the armed forces to cover shortfalls in military training.
+NEUT10|And equipment maintenance.
+BEAR11|The sequestration bill that forces cuts to every federal program would require $52 billion cut from the 2014 Pentagon budget, and Senator **** Durbin, Democrat from Illinois, the Defense subcommittee chairman said sequestration is impossible to implement in regards to the armed forces.
+BULL12|The bill includes a 1% pay raise for military personnel and Defense Department civilian employees and $25 million to.
+NEUT13|Implement a program to provide victims of ****** assault with legal assistance and support a new Gallup poll says 22% of Americans want smoking to be illegal everywhere.
+NEUT14|In 2007, only 12% of Americans favored a complete ban of the habit, according to a survey, 39% of non whites support a universal ban and 15% of Caucasians call for the ban.
+NEUT15|29% of those with only a high school diploma.
+NEUT16|Call for a ban on smoking.
+NEUT17|While 16% of college graduates think smoking should be illegal.
+BEAR18|55% want smoking in all public places illegal according to a poll.
+NEUT19|Democrats are more interested in a band than Republicans.
+BEAR20|26% to 19 reporting from Millionaire Corner.
+NEUT21|I'm Heather Kylie.
+BULL22|"Thanks for watching."""

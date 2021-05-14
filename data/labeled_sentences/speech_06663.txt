@@ -1,0 +1,20 @@
+NEUT0|"""Hello and welcome to technical Analysis here the exam.com."
+NEUT1|It's May 24th, 2018.
+NEUT2|I'm Christina, Bethany investment analyst, and today will be looking at the British pound versus the Japanese yen on the daily chart so pognon her face to strong sell off.
+BEAR3|Yesterday we saw their price spanking too and more than a 2 1/2 months love 145.93 extending this downward pattern started in mid April and falling further below.
+BEAR4|Additional clouds moving average lines, which suggests that the trend is more likely to remain on the downside today the market opened lower and it seems that in the short term we might see the price declining even further since the market down here is increasing negative momentum below its red signal line.
+BULL5|But looking at the RSI we see that the index is pretty close to oversold levels, slightly above 30 actually is now turning higher, which means that we might also see the market gaining positive momentum.
+BEAR6|So this could be temporary if Mcatee continues to stretch lower below its red signal line.
+BEAR7|So the downside if the market manage is to close below yesterday's low of 114 five point 93 as support could come around the 145 he level where the price dropped in early March.
+NEUT8|Then if this level fails to hold, how then the next stop could come around 144 psychological level, which provided both support.
+BULL9|And resistance back in 2017.
+BULL10|However, if now the market manages to bounce up, I will probably look for resistance around her 147.80 because we saw their market report rebounding several times around this area from September onwards.
+NEUT11|So it should be an important area to watch further above.
+BULL12|The price could also touch the 20 day moving average currently at 148.57, while even higher.
+NEUT13|The focus could shift to 100.
+NEUT14|49.60 which is pretty near to the 50 day and the 200 day moving average lines are finally looking at the medium term picture.
+BULL15|We see that the applicant from 144.97, two 153.83 has been almost reversed, that is, their market is set to turn from bullish to neutral.
+BULL16|So as long as the 50 day moving average remains above the 200 day in May, there is still some hope for games in the medium term.
+NEUT17|So that's all from me.
+NEUT18|Thank you for watching.
+BULL19|"Have a great day."""

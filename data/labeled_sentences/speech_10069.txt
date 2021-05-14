@@ -1,0 +1,30 @@
+NEUT0|"""Tesla stock ticker symbol."
+NEUT1|TSLA everybody.
+BULL2|Well, Tesla has had a wild ride the past few weeks going from a high of 900 all the way down to a low of 500 and.
+BEAR3|39 is the low that we had here, so it really, really big decline.
+NEUT4|Almost 40% I think from the top of my head, right?
+NEUT5|If it would be 1000 to 500 V 50% so you know, almost you know how engineers say it.
+NEUT6|Say almost the number, right?
+NEUT7|In mathematicians always want the exact number.
+NEUT8|That's just for me being an engineer, never mind so we can see here that there was an uptrend here that we had here.
+BULL9|A recovery that went all the way back to the 700 area.
+BEAR10|And then we had the last week, another decline going back here with a low of 623 on Friday, but it finished up at 654 up 0.26%.
+NEUT11|So it's a very in a very, very interesting area, Tesla.
+NEUT12|Here you can see that we do have if we if we look at it, we do have here a symmetrical triangle.
+BEAR13|I'm really bad at drying them, but you can see here we have a line here and then a line here so it's starting to wedge between these two areas here and we could see maybe a little bit of consolidation to the 6:50 area or a little bit of a pullback to the 6:20 area before we could see a pop going up.
+NEUT14|If we look at the technical indicators, the 4:42 were at 42 area, which is not too over but not too oversold.
+BULL15|The Mac D it's looking OK, the blue is over the yellow.
+BEAR16|It's because we're in an uptrend.
+NEUT17|You can see we don't have these green juicy candles like we had before this bright green color.
+NEUT18|But we do have the green colors and not red colors on the bars and the stochastic all the red is over the purple so I don't see us going into a deep down trend it.
+BULL19|I think this is just a little bit of recovery although.
+NEUT20|The price is currently under the MA so you can see this blue line here.
+NEUT21|This is the MA, so we're currently under it.
+NEUT22|Let me remove one second fibbonaci so you can see here that we are under it, so that's a little bit concerning.
+NEUT23|We need to get back over this area and then you see this dotted line here.
+NEUT24|The white guideline, the 710 area that would be the resistance area that we'd have to break over because it's you can see we had two weeks here that finished at that area.
+NEUT25|If we were able to.
+BULL26|We weren't really able to break out of it here as well, so if it's able to break that 710 area then we could see maybe recovery back to 750 or even the 800 area going forward.
+NEUT27|If you have any adjoining, the Moneymaker tribe subscribe ring the Bell to get notifications about videos that drop and smash mess, mess, mess, mess, mess master like button.
+NEUT28|Thank you for watching.
+NEUT29|"I hope to see you next time and like I always say guys, let's make some money."""

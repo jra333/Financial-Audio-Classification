@@ -1,0 +1,17 @@
+NEUT0|"""I did buy actually three stocks today."
+NEUT1|This was a third stock I bought happened.
+BEAR2|Just look at the chart and you can see it's bouncing off its 200 day moving average right here along with the trendline.
+NEUT3|As you can see that the trend is your friend until it ends.
+NEUT4|So about right here.
+NEUT5|If it crashes through there, I will sell it came down what 7?
+BEAR6|Almost 7% and it's doing a low volume, so I'm hoping it'll bounce off this trend line and go back right off for a couple 100 bucks.
+NEUT7|I did this.
+NEUT8|I did trade this stock earlier in the week, made a couple 100 bucks off of it so you know keep doing that.
+NEUT9|Logan that the Ivide where you.
+BULL10|EPS is 98, so it's a healthy stock Rs lines 97, so it's still pretty good.
+NEUT11|You can see it's bouncing off right here.
+NEUT12|Just bounce here, here, here, here, so if history repeats itself, it's going to bounce off again and hopefully come back to 50 for about two points or so.
+NEUT13|Alright, so hopefully guys that got into the stock can hopefully make some money off of it.
+NEUT14|Don't forget to subscribe to us.
+NEUT15|Right there, I think for all of our watch list in our alerts.
+BULL16|"Alright have a great weekend guys."""

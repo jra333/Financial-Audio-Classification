@@ -1,0 +1,49 @@
+NEUT0|"""You know Tesla is the only company on the planet that's introduced this new software brain that people actually are dying to get attachments like 30 to 40% or something."
+NEUT1|And it's only going to go up and up in price and so this is a very new thing for the entire automotive industry.
+BULL2|It's why Tesla's gross margins are going to be structurally so much higher than every automaker we've seen in history.
+NEUT3|That's why their valuation makes no sense to traditional analysts.
+NEUT4|They don't get this.
+NEUT5|And this is all symptom of, like you know, the media and Tesla trying to communicate this new thing.
+NEUT6|They're like yo, we got the car 25 K An you know, and they're all excited about that.
+NEUT7|From the hardware perspective.
+NEUT8|And they don't realize that people are getting confused about the autopilot.
+NEUT9|But you know, at the end of the day I think it's just a symptom of how new and disruptive Tesla is and the car is becoming a computer on wheels and the software brain of the car is worth just as much as the nuts and bolts in the steel.
+NEUT10|That's an important point there.
+NEUT11|Can you drill down on that for like 2 seconds?
+BULL12|You just said you think that the gross margin is going to grow overtime?
+NEUT13|I've also heard that that argument from other people.
+NEUT14|Can you dig into the why behind you think that that's going to happen?
+NEUT15|I mean so it already has happened.
+NEUT16|I mean if you look at the commentary for David Einhorn, you know I was when I was talking to him two years ago.
+NEUT17|There's no way test looking at 25% gross margin at this price point.
+BEAR18|So they've dropped the price of their car.
+NEUT19|You know, the whole word used to be open to ask about the $40,000 car.
+NEUT20|No way they can make money, and so what's happened now is they actually made money for four quarters in a row.
+NEUT21|Like with all of those cars.
+BULL22|And so this is just starting the incremental gross margin expansion.
+NEUT23|So now you have that price stabilizing and actually FSD's been taking up 6000 to 7000 to 8000 and you know what's happening here.
+NEUT24|I think is.
+NEUT25|You're going to get incremental gross margin expansion before full autonomy, so when the full autonomy hits you with 30K and you're like, oh, that's three or four years down the road, it's going to take forever.
+NEUT26|But in between them were getting 8000 to 9000 to 10,000 for that software package, and the attachment rate staying fixed.
+NEUT27|And so Tesla to download that new software to each car.
+NEUT28|The incremental cost is super duper low, and on a typical $50,000 car you're only making 10,000 in profit, or 12,000 profits.
+BULL29|If I make another 8000 in profit on a software package, I've doubled my margins and so and as that software package goes up to 8 to 12 to 50, you know.
+NEUT30|And I made videos about why this is going to go up as they release more features is a whole thing.
+NEUT31|You can discuss that with billion deferred revenue on the balance sheet to wait for this.
+NEUT32|These features to roll out, but it's kind of this idea that as they charge more for the software packages, more people buy it.
+NEUT33|There's this chunk of Ultra high margin revenue as a part of their vehicle that that really changes the equation for thinking about.
+NEUT34|OK, maybe test it 3035% gross margin structure.
+NEUT35|Long term it looks a lot more like Apple then forward, then all of a sudden this price sales ratio starts to make sense all of a sudden.
+NEUT36|We're looking at the cash flow.
+NEUT37|We're looking at the debt to revenue.
+NEUT38|You're like.
+NEUT39|This is not a car company.
+NEUT40|You know this is way more like Apple Direct to consumer with inventory with supply chain.
+NEUT41|Yeah, they have way more factories and it's more CapEx intensive.
+NEUT42|But this is a lot more like a product tech company than it is like a traditional automaker.
+NEUT43|So yeah.
+NEUT44|I I I agree with you, I agree with you.
+NEUT45|There are people who called us a car company all along.
+NEUT46|I remember a interview I heard with Elon 6-7 years ago when he said people think Tesla is a car company.
+NEUT47|Tesla is a ******** engineering company that is currently focused on cars.
+NEUT48|"I've always kept that in my mind about when I think about Tesla."""

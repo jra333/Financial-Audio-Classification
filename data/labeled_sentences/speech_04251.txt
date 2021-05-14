@@ -1,0 +1,37 @@
+NEUT0|"""Hi and welcome to the Motley Fool's Bottom line series."
+NEUT1|In this episode, we're going to take a look at a few signs that indicate that the US may be headed for a recession and what that means for the US economy.
+BEAR2|In the stock market a decade ago, things were looking pretty dire.
+BEAR3|In October 2009, the US unemployment rate peaked at 10%, and the Federal Reserve was scrambling to incite calm in a very jittery stock market and U.S. economy just seven months earlier, the Dow Jones industrial Average, NASDAQ Composite and broad based SMP 500 all hit multi year lows.
+BULL4|But things have rebounded in a big way over the past decade or currently in the midst of the longest expansionary.
+BEAR5|For the US economy in recorded history, the unemployment rate is at a nearly 50 year low, and the Dow, NASDAQ and S&P 500 have all hit record highs since the Great Recession.
+NEUT6|Unfortunately, all good things must come to an end.
+BEAR7|Right now there are a few red flags indicating that there could be trouble ahead for the US economy and the stock market.
+NEUT8|The first red flag is the inverted yield curve.
+BEAR9|A yield curve inversion happens when longer maturing bonds have a lower yield than shorter maturing bonds.
+BEAR10|Generally speaking, short term bonds should have lower yields than long term bonds.
+NEUT11|After all, if you're giving up your money for a longer period of time, you expect to be paid more for doing so, but over the past couple of months the two year and 10 year Treasury note swapped places a few times with the two year note bearing a higher yield than the 10 year, which is known as an inversion.
+NEUT12|Every single recession in the US economy.
+NEUT13|Since World War Two has been preceded by an inversion of the yield curve, although it's important to note that not all yield inversions have necessarily been followed by a recession.
+NEUT14|Nevertheless, inversions don't come about unless there's some serious concern about the health of the US economy.
+BEAR15|A second concern for the economy is the current contraction in US manufacturing.
+NEUT16|The Institute for Supply Management releases its purchasing managers Index every month, which is a gauge for how the manufacturing sector is doing in the US and in September.
+BEAR17|The PMI fell to 47.8%.
+BEAR18|That's the lowest percentage it's been since June 2009 and any reading below 50 signals a contraction.
+BEAR19|There's little doubt that the ongoing trade war between the US and China is the biggest headwind in this confidence collapse in manufacturing Peter Book Bar.
+BEAR20|The Chief investment officer at Bleakley Advisory Group recently said that we have now tariffed our way into a manufacturing recession in the US and globally.
+BULL21|the US and China have been trying to work out a long term trade deal for more than a year now, with tariffs being imposed on and off for the past 15 months.
+BEAR22|There's simply no quick fix to the trade war, and the longer it lingers, the more US manufacturing may suffer.
+BEAR23|Lastly, history would suggest that the stock market and U.S. economy are primed for a recession despite more than 10 years of expansion.
+NEUT24|There's a good probability that a recession will happen sooner rather than later.
+BEAR25|the US has had 14 recessions over the past 90 years, or about 1:00 every six and a half years.
+BEAR26|Even though the US economy doesn't stick to averages, this long term data is pretty clear that recessions are natural and unavoidable.
+NEUT27|Part of the economic cycle.
+NEUT28|We also know that stock market corrections are perfectly normal.
+NEUT29|In fact, the S&P 500 has had 37 corrections of at least 10% since 1950.
+BULL30|The bottom line is that no matter what the US economy has historically thrown at, the Dow, NASDAQ, or S&P 500, they've always bounced back stronger than they were before.
+BULL31|That's why long term investors continue to be rewarded for their patience.
+NEUT32|Thanks for watching this video.
+BEAR33|Do you think the US economy is headed for a recession in 2020?
+NEUT34|Let us know in the comments below.
+NEUT35|And if you like this video, click the thumbs up button and hit subscribe.
+BULL36|"It helps us to reach more people, which allows us to make more awesome content."""

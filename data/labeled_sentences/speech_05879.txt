@@ -1,0 +1,6 @@
+BULL0|"""The Wall Street Journal on Friday highlighted South Korea that management of the COVID-19."
+BULL1|The article said South Korea appears to have cracked the code for managing the coronavirus, adding that the solution is straightforward, flexible and relatively easy to replicate.
+NEUT2|It introduced how South Korea successfully blocked transmission in the early stage of dip.
+BULL3|Endemik compared to other economically advanced countries such as the USA and UK.
+BULL4|The key to our success was reportedly from blending technology and testing like no other country.
+NEUT5|"Centralized or controlling communication and a constant fear of failure."""

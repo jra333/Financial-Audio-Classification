@@ -1,0 +1,22 @@
+BEAR0|"""Now you have stock futures shrugging off overnight gains in Asian stocks."
+NEUT1|Kathy Yang has been tracking the markets there and she joins us now with the details from Hong Kong Cathy.
+BULL2|Hey Scarlet, Asian stocks extended gains a second straight session.
+BULL3|There were a lot more to cheer about rather than worry over at the IMF announcing it will raise global growth forecasts and George Soros saying the worst of the global recession is over Japan's improving confidence and talk over increased lending among Chinese banks also lifted the region shares.
+NEUT4|Just take a look at that.
+BULL5|The naked 225 in Tokyo hang staying here in Hong Kong and the SX 200 Index and Sidney all extended gains a second straight A session.
+BULL6|I CPC gained over 3 1/2% in Hong Kong.
+BEAR7|Auto report knew loans in June will exceed lending in May.
+NEUT8|Separately, China is also ordered.
+NEUT9|Companies listed since 2006 to transfer some of their state held shares to the National Pension Fund.
+NEUT10|The move say.
+BULL11|The analyst says fairly positive the pension fund acting as a stabilizing force for the stocks.
+BULL12|Darren Kansai Electric Power gained over 3 1/2 percent aswell as crude prices fell.
+BULL13|Nissan Motor also ended five and a half percent higher on news, saying the carmaker will invest in a US electric car plant.
+NEUT14|He saw it along with NEC Corp. Will be investing as much as a billion dollars in the project to make lithium ion batteries at a factory in Tennessee.
+BULL15|The move allowing Nissan to tap government loans for environmentally friendly vehicles and staying with Japan's manufacturers.
+BULL16|Little bit of a spark of optimism as well.
+BULL17|Japan's business confidence, rebounds and demand for services goes up the data reinforcing science.
+BEAR18|Japan's recession is easing and over in China the economy there at a key moment, so says Premier Punch at Bow.
+NEUT19|He called for a moderately loose monetary policy.
+NEUT20|And proactive financial policies once comments echoing those made earlier by the State Council, saying the economy is in a critical phase, that's it.
+NEUT21|"Back to you, Scarlett."""

@@ -1,0 +1,44 @@
+NEUT0|"""So it's March 10th an it's the day after the stock market crash."
+BEAR1|The Dow is down over 2000 points.
+BEAR2|Oil cratered to $30 a barrel or so.
+BEAR3|The 10 year Bond went to below .5%.
+NEUT4|What the heck is going on?
+NEUT5|I told you many years ago it stick around long enough you'll see everything in market San and it may have taken me to 89 to years of age to throw this one in the in the into the experience but you know.
+NEUT6|Markets, if yet if you have to be open second by second they react to news in a big time way.
+NEUT7|I mean it's not like the market for real estate or farms or things of that sort, so you have to have a price of the swimming.
+BEAR8|Of course we hit the circuit breaker yesterday, but.
+NEUT9|You know it's so was it wasn't in October 19th, 1987, but but it was a.
+NEUT10|It was a sign it was an imitation anyway, and the combination actually of the of the coronavirus and and and what happened with oil over the week?
+NEUT11|I mean that is that's a big one.
+NEUT12|Two punch.
+NEUT13|And does this remind you of any other time?
+NEUT14|Well, I've certainly been a fair number of times.
+BEAR15|One panic is rained in Wall Street and.
+NEUT16|October 19, 1987.
+NEUT17|And the period around it.
+BEAR18|I mean, there was there was panic on on at the close of business on Monday, October 19th.
+BEAR19|Most of the specialist firms which were important in those days on their Stock Exchange were broke and.
+NEUT20|This morning there was a check to the clearinghouse in Chicago that didn't get there, and an.
+NEUT21|Sometime late in the morning.
+NEUT22|You know a decision.
+NEUT23|I think Flynn had made the decision in over.
+BEAR24|We're going to stay open but but it was really close.
+NEUT25|That was, and of course the financial panic there were.
+NEUT26|Yeah, 35 million people on September 1st.
+NEUT27|They weren't worried about at all about their money market accounts on September 15th or 16th they were all what year was that?
+NEUT28|Well that was that was 2000 and eight, 2008 and 2008.
+NEUT29|And you literally have 3 1/2.
+NEUT30|Trillion.
+NEUT31|In money market accounts, which people regarded as equivalent of cash or bank deposit, that was half the amount of all the insured bank deposits in the country.
+NEUT32|But these weren't insured and literally I remembered because in all my friends have money market so I didn't have one.
+NEUT33|But I was at a party and that's an birthday party and that's all they talked about.
+NEUT34|I suddenly became very popular as like a sports hero or something there for a very brief period of time and out of Hank Paulson.
+BEAR35|They they had 175 billion of withdrawals in a few days.
+NEUT36|That's one.
+BEAR37|I think anybody that knew what was going on panic.
+NEUT38|Basically an Hank Paulson did the varigotti thing of using exchange stabilization fund that was set up in the 30s because of the revaluation of gold.
+NEUT39|It had nothing to do with us but he stepped in and and.
+BEAR40|3 1/2 billion dollars worth of deposits fell or trillion.
+NEUT41|I should say of deposits.
+NEUT42|Felt a whole lot better that if that move had been made because those funds held all the commercial paper and you couldn't roll commercial made everything had come to a stop and.
+BEAR43|"That was much more scary by far than anything happened yesterday."""

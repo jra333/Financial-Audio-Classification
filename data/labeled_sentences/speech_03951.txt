@@ -1,0 +1,40 @@
+NEUT0|"""Hello everyone, this is Mr Talmage."
+NEUT1|I'd like to explain to you how to sign up for how the market works.
+NEUT2|So you want to pull up Internet Explorer.
+NEUT3|Eventually on my blog I have a button for you, probably down here in the important links section.
+NEUT4|Until that time, just type in www.howthemarketworks.com.
+NEUT5|When this screen pulls up.
+NEUT6|Go ahead and click on register.
+NEUT7|It's that red word up there.
+NEUT8|And then you'll.
+NEUT9|Get a screen like this and you're going to sign in for a new account or register for a new account.
+NEUT10|From here, just enter your first name.
+NEUT11|And then for the email type in your first name at.
+NEUT12|Myname.com so first name at mrtalmage.com for the password you can use here.
+NEUT13|6 digit number.
+NEUT14|It's really important that you always use this suffix for your email address mrtalmage.com, I don't want you to use a private email address then click register.
+NEUT15|For Step 2, you're going to want to skip, so for that step, the bonus offers you're going to click no thanks.
+NEUT16|Scroll down to the bottom of the screen.
+NEUT17|And click no thanks.
+NEUT18|So from here you can now log in with your password.
+NEUT19|Whatever you set it to be.
+NEUT20|Now you'll see your portfolio screen so you can join a contest by clicking right here where it says my contests.
+NEUT21|Quick join.
+NEUT22|And then from here you want to click on classrooms and private groups.
+NEUT23|Then Scroll down to the bottom of the screen, click on show all.
+NEUT24|And you can probably search right here.
+NEUT25|Let's see I'm going to type in Mr. T first trimester 2009.
+NEUT26|See what happens.
+NEUT27|Looks like it's located it right here, so you're going to click on Join Now.
+NEUT28|And then the private password is SMSEAGLESSMS Eagles.
+NEUT29|All one word, all lowercase and click Join Now.
+NEUT30|And then you can view the contest.
+BULL31|And you can see we have quite a few people already signed up.
+NEUT32|Beginning with me.
+NEUT33|So that's a little bit about how to sign up for the stock market game.
+NEUT34|I will be taking all classes to the lab and making sure that everybody is signed up, but if you wanted to do it, do it from home.
+NEUT35|That's how you would do it.
+NEUT36|Already.
+NEUT37|Have a great day.
+NEUT38|We will talk to you some other time.
+NEUT39|"Bye bye."""

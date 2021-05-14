@@ -1,0 +1,46 @@
+BULL0|"""OK, today we have a beauty."
+NEUT1|My name is Melvin Dillon Junior and the prediction today is ARCT.
+NEUT2|Here is the tongue.
+NEUT3|Here is the date.
+NEUT4|Here is the stock.
+NEUT5|Prediction is that it's going to go over $60.00 in the future.
+NEUT6|And when I say over 60, I mean it could see in the neighborhood of 100.
+NEUT7|Somewhere around in that neighborhood in the future.
+BEAR8|Which makes this such a good buy, because today it fell 42%.
+NEUT9|Let's say you bought this today and it was a little early.
+BEAR10|OK, so the stock fell a little bit more.
+NEUT11|It's OK once you come to understand stock chart reading, you will come to see that these prices.
+NEUT12|Around $24.00 down here.
+NEUT13|It's not coming back there.
+NEUT14|Until they finish doing something great.
+NEUT15|Over here in the future.
+NEUT16|So even if you did buy it early at 36, your risk is only what.
+NEUT17|Tim bucks?
+NEUT18|It's not going any lower.
+NEUT19|Not much Lord in 24.
+NEUT20|I would be surprised to see it Touch 24, but even if it did.
+NEUT21|Only a chorreador could know that.
+NEUT22|Do not want to see.
+NEUT23|24 they're not interested in in this stuff anymore.
+NEUT24|They have bigger plans, that's why they're up here.
+BULL25|Which makes this such a good purchase.
+BEAR26|At 42% down they just came down and fell into my hands.
+NEUT27|Bought this stock today.
+NEUT28|The prediction is that it's going to go in the neighborhood of $100.
+NEUT29|OK, so.
+NEUT30|Let's talk money.
+NEUT31|Let's talk percentages.
+NEUT32|If you know.
+NEUT33|A purchase around 34.
+NEUT34|Your risk is only about $10.
+NEUT35|But you also know that 60 is the beginning.
+NEUT36|That lets you know you have about 40% just built in.
+NEUT37|That's before this stock moves, you have 40 something percent increase built in just by buying this good stuck.
+NEUT38|That's before it rises.
+NEUT39|That's just getting back to 60, OK. Will let you know how group by this is at 36 books.
+NEUT40|You look at it in time, probably around $100 so.
+NEUT41|This is our prediction video.
+NEUT42|A RCT I really don't have much else to say on it.
+NEUT43|Let's see how we do it.
+NEUT44|This one.
+BULL45|"I have a good day."""

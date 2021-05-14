@@ -1,0 +1,40 @@
+BEAR0|"""Google could be altering your search results by tampering with its algorithm."
+BEAR1|The investigation found an increase in reengineering an interference with search results since the 2016 presidential election.
+BEAR2|This spike coincides with the rise in online misinformation and comes as big tech faces increasing scrutiny from regulators over the concentration of power.
+NEUT3|For more, let's dig in deeper.
+NEUT4|Kirsten Grind is financial Reporter for the Wall Street Journal Anna Co.
+NEUT5|Author of this report.
+BULL6|Thank you so much for joining us.
+BULL7|Thanks so much for having me here.
+NEUT8|So walk us through some of your findings.
+NEUT9|Sure, I mean the biggest one is really that your search results are not just computer code that everyday Google is under so much pressure from just a wide variety of interest groups.
+NEUT10|Governments around the world and big advertisers to display a certain thing in your results.
+NEUT11|I mean, this comes as no surprise to a lot of people because Google swore up and down that they were doing this.
+NEUT12|So what and who exactly decides what does or doesn't show up in those results?
+NEUT13|Exactly will ultimately they are the only arbiter.
+NEUT14|I mean, they're the largest search engine in the world and they're the ones making these decisions, and I can tell you this was very, very hard reporting to show.
+NEUT15|Kind of what was going on behind the scenes here and how they were making these decisions based on other interests besides just what the user is seeing.
+BEAR16|You know, big Tech has really faced some several antitrust investigations recently.
+NEUT17|Why would these findings be alarming to regulators?
+NEUT18|Right?
+NEUT19|Well, it's alarming because you know, first of all, Google is not very transparent about how it's doing this.
+NEUT20|First of all, and it doesn't have anyone in there that's an unbiased party.
+NEUT21|Really looking at results.
+NEUT22|Besides, these sort of low paid contractors and you know it's just showing how much power they have over this tool that everyone uses every single day.
+NEUT23|Yeah, should Google searchers be concerned about, well, the accuracy of their search results and you know?
+NEUT24|And is there a way to like work around this interference?
+NEUT25|Well, The thing is, I mean, I certainly don't use Google search the same after this.
+NEUT26|Look.
+NEUT27|It's like every time you search for something now I sort of have to think it was an interest group lobbying for this result.
+NEUT28|They use a blacklist to take something out here.
+NEUT29|It's just kind of unclear what's going on.
+NEUT30|And really the only solution would be to use another search engine, but you know, you could argue that they're not as good as Google, so it's hard to say, so you're kind of stuck between a rock and a hard place because Google has dominated this.
+NEUT31|Right?
+NEUT32|Alright, so Google has.
+NEUT33|Have they responded to your investigation?
+NEUT34|They haven't since it came out.
+NEUT35|We went.
+NEUT36|Of course, through them extensively with it there, they dispute.
+NEUT37|You know some of the premises and the testing that the conclusions that we came to.
+NEUT38|But they're saying they're doing what they always did, which is to provide relevant results.
+BULL39|"Alright Kirsten God, thank you so much."""

@@ -1,0 +1,7 @@
+NEUT0|"""Hey guys, so Berkshire Hathaway, which is Warren Buffett's fund?"
+BEAR1|Which is the biggest fund in the world, slashes JPMorgan by 95% of via their 13 F filings and also reduces their Wells Fargo position by, I think like 2530% plus.
+NEUT2|That's absolutely crazy considering you know him.
+NEUT3|And three former an EGR like really close together, which are the owners of rocket mortgages.
+NEUT4|Rocket Mortgage, which I'm pretty excited.
+NEUT5|To see you know what Berkshire Hathaway kind of has in their filings.
+NEUT6|"If they maybe bought a position and rocket because rocket mortgage is actually there's rumors that they're partnering with somebody really, really, really big."""

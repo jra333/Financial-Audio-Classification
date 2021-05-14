@@ -1,0 +1,31 @@
+NEUT0|"""Welcome in the fourth section of our course in the section will be creating decision process for stock prediction with rewards using Q learning approach."
+NEUT1|So firstly will try to understand stock prediction problem.
+NEUT2|Will you predicting stock and understanding that that will be creating configuration for stock prediction learning?
+NEUT3|So we'll create our Q learning configuration next will be leveraging Q learning discrete dance from RL for the API and finally would be.
+BULL4|Performing stock prediction training and will be validating results, so we'll see what we were achieving.
+NEUT5|And this is the first video in which will be understanding stock prediction problem.
+NEUT6|So first we will define state of stock market.
+NEUT7|Then will define the reward as a profit or loss.
+NEUT8|So depending on the action of our actor.
+NEUT9|So buy or sell we will get a feedback.
+NEUT10|Feedback will be profit.
+NEUT11|So comparing to the previous value or loss if we will sell at the lower price finally will be understanding stock prediction with RL.
+NEUT12|So let's take a look at the stock prediction and how reinforcement learning.
+NEUT13|Algorithm and model could look like for this problem.
+NEUT14|So at the left hand side we have an agent that is a reinforcement trained model and we have a state.
+NEUT15|That model will be using deep learning neural network and we will have a specific policy not based on the output of the final layer of our deep learning will make a choice.
+NEUT16|The action will be to buy a specific stock or not to buy.
+NEUT17|So based on the state of the stock market or our three abstraction in this.
+NEUT18|Section our deep learning neural network will produce the output that tells our algorithm to buy or not to buy.
+NEUT19|So then when we are buying our environment that will be a stock market, we will produce the feedback.
+BULL20|The feedback will be rewarded in form of profit or loss.
+NEUT21|So both of those will be returned or we will get profit or loss and we can treat it as a reward function as we did in the previous sections.
+NEUT22|Also the environment is a.
+NEUT23|Stock market so it will be a state that is observed from our reinforcement learning algorithm.
+NEUT24|So if you remember from the section #2, our state was a cart ball that was moving on the X axis in the section number free.
+NEUT25|Our state was a Minecraft game and here we will have a stock market.
+NEUT26|So some numbers and mattress is so looking at the state our model will be able to take an action.
+NEUT27|This will be an input to our state.
+NEUT28|Action will be output.
+BULL29|And then we will get a profit or loss that deep learning, neural network and renforcement learning will adapt.
+NEUT30|"And then it will observe the environment once again and based on the environment state it will make another action buying or selling specific action."""

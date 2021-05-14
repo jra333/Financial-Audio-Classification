@@ -1,0 +1,32 @@
+NEUT0|"""Like boss here, folks today, we're going to be looking at stock market margin debt, so the New York Stock Exchange recently updated its margin debt data, showing that Main Street and Wall Street continued to dump billions of dollars into the stock market."
+NEUT1|So I put together this nice little chart for you, and this shows that borrowed money in the stock market known as margin debt.
+BULL2|Hit another all time high of $451 billion in January, which is an increase of around 1.4% over the previous month.
+NEUT3|Put this in perspective.
+BULL4|It puts margin debt even adjusted for inflation.
+BULL5|Above levels seen during the housing bubbleandthe.com bubble, so we're going to new all time record here.
+NEUT6|Since the Internet bubble.
+NEUT7|But what is margin debt?
+NEUT8|Folks is pretty complex.
+NEUT9|Terms don't feel bad if you don't know what it means, so margin debt is accrued when someone takes out a loan.
+BULL10|Invest that money into the stock market and due to historically low interest rates, the appeal of margin debt today is much greater than it has been in previous bull markets.
+BULL11|So based on the attractiveness of this low interest debt that you can get to invest in the stock market, it's likely that margin debt will continue to track higher.
+NEUT12|Due to the low cost of it, another side of the coin, though we can look at this other chart I put together over short interest, so the New York Stock Exchange reports this as credit balances in margin accounts and basically what this is, is is equal to the amount of money in an account.
+NEUT13|To satisfy that minimum minimum margin account balance requirement plus monies borrowed to short a stock.
+NEUT14|So the majority of those balances largely going to be that money to short a stock on this amount was equal to $165 billion.
+BEAR15|That's 57% below the high set during.
+NEUT16|The housing bubble 385 billion.
+BULL17|So as you can tell, it appears we're within historical normal levels as far as credit balances go, which means shorts really haven't piled into the market in a big way like they did in 2008 to finish up, we're going to look at one stock that's benefiting from this debt in the stock market, and some of the pitfalls of using margins in the stock market, so the stock benefiting I'd like to highlight Green Mountain Coffee Roasters.
+BULL18|This stock has been on an absolute tear, rising 47% year to date already compared to the Dow Jones industrial average falling around 1.6% so far this year.
+BEAR19|This rally largely stemmed from the belief that the company's new at home soda machine will provide more growth opportunities and was really sent into OverDrive when Coca Cola took a 10% equity stake in the company.
+NEUT20|Here recently, investors in Green Mountain Coffee Roasters, or looking at that scene should keep an eye on the IA show in Chicago.
+NEUT21|That's going to take place from March 15th to 18th.
+BULL22|Should see some details emerge, hopefully about the new machinic to wrap it up, folks margin debt can be very tempting for the average investor, and especially during a strong bull market like we've been having with those record low interest rates.
+BEAR23|Although this environment can set investors up for a lot of pain down the road, we're all human beings and when you mix the amplified emotions that come with investing, borrowed money with a market crash, you can get a very nasty combination.
+NEUT24|Typically what happens to investors on margins?
+NEUT25|They'll see large profits during a bull market, but when the market sells off in or interest rates rise, the forced to sell those stocks at the worst time possible.
+BEAR26|That's going to effectively wipe out all the gains they've had, and then some, and is why margin debt isn't for the average investor in my opinion, is better to not use margin debt as most human beings.
+NEUT27|Aren't emotionally equipped to handle the decisions that go along with that debt being invested in the market.
+NEUT28|Slow and steady is the name of the game in my book, folks.
+NEUT29|That's all I have on margin debt today.
+NEUT30|Be sure to check back in March will have more margin data for you then.
+BULL31|"Thanks for watching and Beulah."""

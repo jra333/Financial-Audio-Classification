@@ -1,0 +1,16 @@
+NEUT0|"""Training is over on Wall Street for September 29th."
+NEUT1|Here's the New York minutes.
+BEAR2|It's been an ugly day, buffeted by both systemic and political risks.
+NEUT3|This is what happens to the S&P 500 during the day.
+BEAR4|You can see a sharp sell off at lunchtime and that was driven by news on Bloomberg about Deutsche Bank.
+BEAR5|As you can see, Deutsche Bank ADR's in the US also fell very sharply at that point.
+BEAR6|Bloomberg's report was that hedge funds were trying to reduce their exposure to Deutsche as a counterparty.
+NEUT7|Very reminiscent of the kind of news we had about leap banks like Lehman or Bear Stearns during the financial crisis.
+BULL8|Now that had an effect of raising perceived risk across the spectrum.
+BULL9|If you look at emerging market, foreign exchange of big sell off there to match yesterday's gain on.
+BULL10|The good news for emerging markets about oil have.
+NEUT11|However, there's also some political risk about this is what happens to the share price in Mylan now.
+BEAR12|It's a three year low pharmaceutical.
+BEAR13|Companies in general were down.
+BEAR14|That's because Hillary Clinton appears more likely to win the presidency than she did.
+BEAR15|"Full and she is still likely to take a tough line on drugs prices and that's the New York Minute."""

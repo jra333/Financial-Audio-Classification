@@ -1,0 +1,40 @@
+NEUT0|"""Is it true that long-term very few can beat the index funds like Jack Bogle says?"
+NEUT1|Then why buy individual stocks?
+NEUT2|Mark, you've asked one of my favorite questions.
+NEUT3|'cause you're right, if beating the index fund would just be luck, why buy individual stocks?
+NEUT4|I still think there's a good answer to that question, which I'll give briefly.
+NEUT5|Right now.
+NEUT6|I think you learn a lot by investing in individual companies.
+NEUT7|I think you learn about the world.
+NEUT8|For me, I learn a lot more about our culture when I own Under Armour or Apple than if I just own some index fund that happens to have those companies in 100 others in it.
+NEUT9|So if you're anything from somebody who enjoys studying our culture, or maybe you're an entrepreneur.
+NEUT10|Or you're trying to figure out how the world works.
+NEUT11|I think studying and investing in individual companies is just worth it on its own, but more importantly into your point and to your question, I don't think that it's just locked to beat the market over the long term.
+BEAR12|I realize this is a major point of contention between me and us at The Motley Fool and Jack, Bogle, and Vanguard, and we love Jack.
+NEUT13|I really do love Jack.
+NEUT14|I saw Jack a year or two ago, but you just spoke at my daughter's college class, not at my request, but at Princeton because he's a Prince Tony and himself.
+NEUT15|I mean, Jack Bogle is one of those admirable people I've ever met.
+BULL16|He is incredibly great benefit to the world at large, especially for investors here in the United States of America.
+NEUT17|However, all that said, why is why is stock picking or investing the one profession that I can think of in the world where it's often taught in college that to be above average at that profession?
+NEUT18|Would just be luck I. I really can't think of any other job.
+NEUT19|Anything from being a lawyer to a basketball player.
+NEUT20|Whatever it is, most of the people who are really good at stuff in the world.
+NEUT21|I don't say that's luck, but for whatever reason, I think random walk down Wall Street written by.
+NEUT22|By the way, I think another Prince Tony Burton Malkiel.
+NEUT23|I think there were some influential works that convince people that the markets were efficient.
+NEUT24|I will not have time to fully do this.
+NEUT25|For mailbag, we have to get to others, so I'm not going to.
+NEUT26|I'm going to.
+NEUT27|Not go off on a rant here, but I'm telling you that the act of putting an effort to pick stocks in every context that I've done it over the course of my life before we started The Motley Fool.
+NEUT28|In our original Motley Fool portfolio, Motley Fool Rule Breakers, Motley Fool stock advisor Mike Apps page where I have a separate portfolio in all of those instances I've beaten the market.
+NEUT29|It's not me bragging, though.
+NEUT30|Let's go back to Caps Virsec cap shows you 10s of thousands of investors who are picking.
+NEUT31|Stocks on a regular basis, and the ones that are in the top quintile are, so the top 20% are regularly right.
+BULL32|60% or more of the time, and racking up meaningful Alpha that is percentage points ahead of the market averages.
+NEUT33|So I think there's a transparent demonstration on that platform.
+NEUT34|But all of the logic and all of my own personal experience and watching my dad investment for me, I'm very first waited that, in contrast to Mark's good question and quoting Jack Bogle, I do not believe that it is true that quote long term very few can beat the index funds, in fact.
+NEUT35|I strongly disagree.
+NEUT36|I will say that it's not just easy or like anything else.
+NEUT37|If you want to be good at something, you have to put in the effort, but if you put in the effort, I think you'll find that you will be beating the market averages and I think we have thousands of examples I can think among our Motley full membership of people who have lived that and seen that for 10 plus years.
+NEUT38|As always, people on this program may have interest in the stocks they talk about, and The Motley Fool may have formal recommendations for or against, so don't buy or sell stocks.
+NEUT39|"Based solely on what you hear, learn more about rulebreaker investing at rbi.full.com."""

@@ -1,0 +1,13 @@
+NEUT0|"""We've got some comments from Berkshire Hathaway's Charlie Munger to the Journal this morning on investing during the pandemic."
+NEUT1|He says I would basically say we're like the captain of a ship when the worst typhoon that's ever happened comes.
+NEUT2|We just want to get through the typhoon.
+NEUT3|We're not playing.
+NEUT4|Oh, goodie.
+NEUT5|Goodie everything's going to hell.
+NEUT6|Let's plunge 100% of the reserves back into buying businesses.
+NEUT7|He also says on the economy.
+BEAR8|Of course we're having a recession.
+NEUT9|The only question is how big it's going to be, how long it's going to last.
+NEUT10|I don't think will have a long lasting Great Depression.
+NEUT11|But we may have a different kind of mess.
+BEAR12|"All of this money printing may start bothering us, so we'll look to see if any any market reaction comes after that."""

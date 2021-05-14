@@ -1,0 +1,21 @@
+NEUT0|"""Hello and welcome to today's technical analysis."
+BEAR1|It's Wednesday, August 23rd among us your you can see allison.com today will be looking at the New Zealand dollar versus the US dollar on the daily chart so we can see that NZD USD is on its second straight day of declines.
+BEAR2|Yesterday the pair failed by .7% while today he has so far experienced a fall.
+NEUT3|Of similar proportions.
+BEAR4|In addition, today failed to a six week low of point 7215.
+BEAR5|While it is currently relatively close to that low, challenging it for a fresh low below that level.
+BEAR6|Looking at technical indicators, the RSI has been falling over the last couple of days.
+BEAR7|After hovering around the 50 neutral perceive level it is currently at 39 comfortably in bearish territory.
+BEAR8|These suggest that momentum individual term for the pair is negative.
+BEAR9|Looking at Mattie, it is below 0 as well as below.
+NEUT10|The red signal line feeds visa.
+BULL11|To the conviction for a bearish bias for the pair.
+BEAR12|If the price continues, declining support could come around.
+BEAR13|The 50% people, not she level of the May 11 to July 27 up leg at point 7287 while additional declines would she photos to the area that is formed by the current level of that one day moving average at point 7122 and the 61.8% people not.
+NEUT14|Schumacher Point 71.
+NEUT15|For additional support.
+BULL16|If, on the other hand, the price advances, resistance could come around 38.2% Fibonacci level upon 7227.
+BEAR17|Notice that these level failed to provide support on their way down today and could instead act as resistance further above, an additional barrier could be formed around the current level of 50 day moving average or point 7327.
+BEAR18|Regarding the medium term picture, it remains positive given the overall uptrend over the last three months, though this positive, this bullish structure has weekend after the price fell below the 50 day moving average also take into account that the pair recorded a bullish cross otherwise known as a Golden Cross in early July.
+NEUT19|That's it for today.
+BULL20|"Thank you very much for watching and have a great day."""

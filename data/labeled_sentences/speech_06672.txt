@@ -1,0 +1,22 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xl.com."
+NEUT1|Today will be looking at USD CAD on the daily chart so zooming in we can see that the loonie was halted at the one point.
+BEAR2|3068 support coming from the swing low of February, the first after breaching the uptrend line drawn from 2017, low sellers have kept the price below the trendline and therefore further declines on the table.
+BULL3|Something also backed by the downward slopes of the 2050 and 100 days.
+NEUT4|Simple moving averages.
+BEAR5|The short term oscillators reflect some weakening, but remain bearish, suggesting more losses could unravel.
+BEAR6|Moreover, back in the negative picture is the nearing bearish crossover.
+NEUT7|Of the 100 day SMAD by the 20 day one.
+BEAR8|Below the uptrend line, if the sellers managed to penetrate below the limiting support of one point 3068, the nine month low of one point 3015 could challenge the Bears.
+BEAR9|A violation of the one point 3015 triumph could reflect a bearish shift in the medium term biased with the October 2018 low.
+NEUT10|Of one point 2968 and one point 2915, respectively.
+NEUT11|Testing this view.
+BULL12|To the upside, buyers would need to push the price above the one point 5105 resistance to encourage optimism.
+NEUT13|Above this, the one point 3145.
+NEUT14|Resistance level, which is the 23.6% Fibo Nachi retracement of down leg from one point 3564 to one point.
+BEAR15|3015 could hinder further gains to the tougher one point.
+BULL16|3205 area where the 20 and 100 day Smas line moving higher than 50% fibo of one point 3290 could test the Bulls as it is where the 200 day SMAD is located.
+BEAR17|Summarizing the short term bias remains bearish.
+BEAR18|However a break below one point 3015.
+BULL19|Would reinforce the negative outlook while it closed above a one point 3105 could return a neutral to bullish bias.
+NEUT20|That's it from me.
+BULL21|"Have a great trading day."""

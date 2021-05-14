@@ -1,0 +1,36 @@
+BEAR0|"""We heard so much about the confusion around trying to secure an appointment to get a vaccine, especially in the initial rollout with a limited supply."
+NEUT1|But add to that vaccines scans now that's the focus of our tech support this week.
+NEUT2|Dan Hally joins us on that front jet, Dan.
+NEUT3|Yeah, that's right, there's a good number of scams out there right now that are focused on trying to get people to pay for either getting access to a vaccine, getting on line for a vaccine, or anything along those lines.
+NEUT4|So let's just go through some of the scans and how to fight back against him in the first is like I said, a scam trying to get people to literally pay to get a vaccine.
+NEUT5|Now this is something that the FCC has actually mentioned is going around.
+NEUT6|The important thing to take note of though is that everything to do with the vaccine.
+NEUT7|Is being paid for by the federal government?
+NEUT8|That's what the CDC says.
+NEUT9|The only fee that you may get wouldn't go to you.
+NEUT10|It would go to your insurance provider or Medicare provider Medicaid provider.
+NEUT11|Those are the only kind of fees they would be administrative fees, but you pay nothing out of pocket if you live in the United States.
+NEUT12|That goes for everyone.
+NEUT13|The second scam is to pay to get on a waiting list.
+BEAR14|Now yes, the rollout has been difficult.
+BEAR15|Yes, getting on a list has been difficult and it's going to get probably a little bit worse as more people are eligible for the vaccine, but.
+NEUT16|There are no charges at all to get on the waiting list, you simply go to your state or city or County Health Department's website & up.
+NEUT17|You will not have to pay after that.
+NEUT18|There are tests, sorry scans that are trying to get you to take tests prior to getting a vaccine.
+NEUT19|Now this is something where they'll say OK, we need to make sure you need a covid test before you get your vaccine.
+NEUT20|That's simply not the case.
+NEUT21|That does not happen.
+NEUT22|You don't have to pay for a test ahead of time and most of the time you don't have to pay.
+NEUT23|For tests to begin with, depending on your insurance, so avoid that.
+NEUT24|There's also by the way some websites where that are using basically misspellings in the name of certain vaccine providers.
+BEAR25|So Moderna, their sitemodernatx.com was spoofed by criminals as Moderna TX Dot shop and people were being told they could buy vaccines there.
+NEUT26|That again not the case.
+NEUT27|So if you're looking for some simple tips and tricks, basically don't fall for anything asking you to pay.
+NEUT28|If you're getting text messages or emails, things like that that don't look like they're legitimate.
+NEUT29|If they say they're coming from a hospital, go to the hospital's website instead.
+NEUT30|Don't rely on your email.
+NEUT31|If you think that it may be real, go to the website that it says that it's coming through.
+NEUT32|Don't trust those, but again, the big thing to take away from here is nothing should be coming out of your pocket when it comes to these vaccines.
+NEUT33|Alright Dan hally.
+NEUT34|Bring us latest there.
+BULL35|"Appreciate that."""

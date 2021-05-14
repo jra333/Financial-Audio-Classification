@@ -1,0 +1,43 @@
+BEAR0|"""Does does Apple's presumed entry into this market spell real trouble for Tesla and its stock price?"
+NEUT1|The time before I get into that, I need to start with a public service announcement.
+NEUT2|I've been famously wrong at predicting Apple product 1 Apple product in the past, which is Apple TV and I learn a valuable lesson.
+NEUT3|And that's what Apple is working on.
+NEUT4|Doesn't necessarily mean that that product is going to see the light of day, and I'm reminded of that lesson over the last 24 hours.
+NEUT5|So let's start from that point and then get to your question about the impact on the market.
+NEUT6|Do I think that Apple eventually will have a car?
+NEUT7|The answer is I don't know if they have a car or some other play in the autonomous space, whether it's a software licensing model.
+NEUT8|I do believe that with the seven years of work that they've put into this, along with this massive addressable market that Josh outlined is $2 trillion market, I do believe that the company is going to pursue and eventually have something there, so the timing of this is difficult to predict.
+NEUT9|The magnitude is measurable.
+NEUT10|Just one last thought on this Tyler is that this $2 trillion market apples revenue next year is going to be $315 billion.
+NEUT11|This is big enough for Apple to move the needle.
+NEUT12|And I'm going to go all the way back to your question here.
+NEUT13|What does it mean for the automotive industry?
+NEUT14|For Tesla for the broader traditional OEM's an it is certainly trouble for traditional automakers, and Tesla is going to be the tale of two stories.
+NEUT15|One is the fundamentals of the company and 2nd the stock.
+NEUT16|I think it's going to different reactions.
+NEUT17|So let me let me go back to your point that you began with, not the one about getting things wrong on Apple's products.
+BEAR18|I've been wrong on him too.
+NEUT19|I didn't see any reason for the iPad.
+NEUT20|I didn't get it.
+NEUT21|I didn't get it, but whatever.
+NEUT22|So you basically lay out two scenarios here.
+NEUT23|One is that Apple becomes a manufacturer of automobiles, either either with a partner or on its own.
+NEUT24|The other is that it becomes a seller of technology and systems and an integrated.
+NEUT25|Artificial intelligence and other things to auto manufacturers.
+NEUT26|Which is the smarter way for Apple to go?
+NEUT27|It would seem that the latter really is closer to their sweet spot.
+NEUT28|Number one and #2 doesn't have all of the attendant risk of becoming a full scale automobile maker.
+NEUT29|I was slightly different approach.
+NEUT30|I think the former is the controlling the whole experience with the look and feel of a car is vertical integration of artificial intelligence, hardware, software services.
+NEUT31|Doing the full stack.
+NEUT32|I think that is Apple's violent Concerto and so that piece to me makes a lot of sense.
+NEUT33|There's a dynamic to that.
+NEUT34|We talked about manufacturing car actually is pretty easy.
+NEUT35|Assembly is pretty easy.
+NEUT36|It's being profitable at it's hard, so I think that they can do that.
+NEUT37|I think there is a.
+NEUT38|A dynamic at play here that is.
+NEUT39|It's not a fun one to talk about, but I think that this weighs on Apple's decision about what the go to market is, and I think that is that cars can be dangerous.
+NEUT40|It is something that the tech companies grab headlines when bad things happen in cars.
+NEUT41|Shepard Smith here.
+NEUT42|"Thanks for watching CNBC on YouTube."""

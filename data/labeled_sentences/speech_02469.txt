@@ -1,0 +1,18 @@
+BULL0|"""Alright, so Disney is at $189.99 with a market cap of 344.88 billion so we got some pretty big news and in today's article is California eases covid rules giving Disneyland and other theme parks go ahead for limited reopening."
+BEAR1|April 1st, so California health officials on Friday gave Walt Disney's Disneyland and other theme theme parks the go ahead to reopen at a limited capacity from April 1st after a closure of almost a year.
+BEAR2|Due to the coronavirus pandemic, capacity will be limited to between 15 and 35%.
+BEAR3|The California Department of Health said in an update, masks and other safety measures will be required and the parks initially will be open to only state residents, outdoor stadiums and ballparks will be allowed to reopen at a reduced capacity starting April 1st, so this is a good.
+BULL4|This is great news.
+BULL5|This means that we're actually going to start earning some money back at Disneyland.
+BULL6|At Disney World, and this is, this is good for stockholders.
+BULL7|This is good if you own the stock, we're going to start earning money and we want to see little improvements like this.
+NEUT8|We're going to.
+BULL9|We're going to see things get better.
+NEUT10|They'll probably open it up to 50% at some point very soon.
+NEUT11|Once everyone starts getting the vaccine.
+NEUT12|And this is.
+BULL13|This is great news, so please stay on top of this.
+NEUT14|Do your own research.
+NEUT15|Have some fun, make some money.
+NEUT16|Video is not financial advice, any statements made, or my views and is for entertainment purposes only and should not be taken as financial advice.
+NEUT17|"Do your own research before making any financial investments."""

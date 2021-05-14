@@ -1,0 +1,11 @@
+NEUT0|"""Forbes released its Fintech 50 list this week, which included six blockchain companies among the media outlets, compilation of top financial technology companies carrying a blockchain and Bitcoin category tag."
+NEUT1|Forbes listed acts Sony Chainalysis, Coinbase, Everledger maker, Dao and Ripple amongst its top 50 fintech list for 2020, released on February 12.
+NEUT2|Other contenders on the list included companies such as plant opened or in Lemonade categorized under payments, real estate and insurance, respectively, spanning an array of categories within Fintech.
+NEUT3|Forbes composed it's 2020 list alphabetically.
+NEUT4|Among the six blockchain and crypto related categories, crypto exchange powerhouse Coinbase touted the most funding at $525 million.
+NEUT5|Ripple came in second place with $293 million.
+BEAR6|Everledger posted the smallest funding base among listed crypto firms at $20 million.
+NEUT7|Forbes noted three similarities for the 50 fintech companies listed regarding shareholding, location and services.
+NEUT8|A couple things all our Fintech fifty 2020 picks have in common the private companies with operations or customers in the US and there making it easier, faster and cheaper to use financial services.
+NEUT9|The media outlet explained of the 50 businesses listed, 48 called the US home.
+NEUT10|"The two remaining fintech players are based in London in the UK* the author of this article writes regularly as a Forbes contributor."""

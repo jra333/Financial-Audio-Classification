@@ -1,0 +1,37 @@
+NEUT0|"""You want to hit on Amazon since Prime Day started today."
+NEUT1|It's a two day event.
+NEUT2|Of course.
+NEUT3|I was on this site looking around for it.
+NEUT4|I mean, I'm always looking for a deal Gene, but what I noticed about Prime Day was that a lot of the deals were the Amazon in-house brand products and I'm wondering what your take on Prime Day was today.
+NEUT5|So that's, uh, there's two topics going on.
+NEUT6|Once Prime day all about.
+NEUT7|And now it's about building brand more broadly, just the Amazon brand.
+NEUT8|It used to be about gaining prime members when they started five years ago.
+NEUT9|There were 70 million prime members.
+NEUT10|Now there's about 150,000,000 mission accomplished for Prime beta.
+NEUT11|Add 'cause you gotta be a prime member to participate in Prime Day.
+NEUT12|But then there's this dynamic about what you're picking up, which is really gets to what's going on in the regulatory environment with Amazon.
+NEUT13|How much should they be promoting their own products?
+NEUT14|How much do they compete with the sellers on their platform?
+NEUT15|I'm not surprised to hear that I have not been shopping on Prime Day.
+NEUT16|I will undoubtedly look in this 48 hour window, but my simple take on it this way is Amazon should be careful and tread.
+NEUT17|Tread softly on this because this is a hot button and they don't want to poke the bear.
+NEUT18|This is precisely the issue outlined in that House report.
+BULL19|Jean, great to speak with you.
+NEUT20|Thank you.
+NEUT21|Thank you Gene Munster.
+NEUT22|You pick guy Apple or Amazon?
+NEUT23|What do you want to trade?
+NEUT24|Choose, choose your adventure an adventure.
+NEUT25|I would trade so so this is not a would you rather, but I'll turn it into one since he was able to do that earlier.
+NEUT26|I would rather Amazon here and I'll tell you why, because Apple reports at the end of the month I think on the 29th, obviously they fired the split bullet last quarter.
+BEAR27|This is sort of a weird quarter for them.
+NEUT28|You wonder how much was pulled forward?
+NEUT29|This move from 103 to 120 is basically a textbook.
+BEAR30|50% retracement of the recent all time high and that 103 low.
+NEUT31|Makes sense that it stopped here.
+BEAR32|Amazon, I think continues to run into earnings.
+NEUT33|I said that last night.
+NEUT34|So given the parameters that you just said, I would rather Amazon right here, alright?
+NEUT35|Shepard Smith here.
+NEUT36|"Thanks for watching CNBC on YouTube."""

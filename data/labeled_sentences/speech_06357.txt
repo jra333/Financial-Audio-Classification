@@ -1,0 +1,27 @@
+NEUT0|"""This is YouTube news."
+BULL1|Stocks making the biggest moves midday Twitter Disney Coca Cola Hasbro and more.
+BULL2|Check out the companies making headlines midday Tuesday, Coca-Cola, the soda maker's stock rose one point 7% after the company reported better than expected quarterly results.
+BULL3|Coca-Cola said its earnings were boosted by sales of water sports drinks and 0 sugar beverages.
+BULL4|United Technologies the Dow component traded more than two percent higher on the back of strong first quarter earnings.
+BULL5|The company reported earnings per share of $1.91, twenty cents above a refinitiv estimate.
+BULL6|United Tech also raised its 2019 earnings guidance.
+BULL7|Twitter shares of Twitter surged 15.7% after the social media company reported better than expected earnings.
+BULL8|Twitter reported earnings of $0.37 per share, more than double what analysts polled by Refinitiv expected.
+NEUT9|The company also said that 134 million of its users are monetizable.
+BULL10|Lockheed Martin Lockheed Martin shares jumped 6% after the Aerospace and defense Company delivered first quarter earnings that were far above Wall Street expectations.
+BULL11|Lockheed saw first quarter earnings of $5.99 a share more than the $4.34 a share expected by Refinitiv.
+BULL12|The defense contractor raised its full year earnings outlook.
+BEAR13|Procter and Gamble the consumer giant's stock fell more than two percent, despite the release of better than expected first quarter earnings.
+BULL14|Procter and Gamble said its quarterly results were driven by beauty product sales.
+BULL15|Walt Disney shares of the media giant rose more than 1% after an analyst at Bank of America Merrill Lynch hiked its price target on them to $168 from $144, implying a 27.6% upside from Monday's close of $131.68.
+BULL16|The analysts cited potential upside from the companies Disney in service, noting it can become a material value driver for shareholders.
+BULL17|Whirlpool Whirlpool shares Rose Zero Point 8% after the appliance maker reported earnings per share of $3.11.
+NEUT18|Analysts polled by Refin, if expected, a profit of $2.86 per share.
+BULL19|CFO Jim Peters also said we are on track to meet our strong earnings and cash flow guidance for the year.
+BEAR20|Harley-Davidson Harley-Davidson shares fell as much as 4% before rebounding after President Donald Trump pledged to retaliate against unfair European Union tariffs that the motorcycle manufacturer partially blamed for its almost 27% drop in first quarter profit.
+BEAR21|The company said its first quarter net income was $127.9 million on consolidated revenue of $1.38 billion, as opposed to $174.8 million on consolidated revenue of $1.54 billion last year.
+NEUT22|The stock last traded 0.5% higher.
+BULL23|Hasbro shares of Hasbro jumped 15.59% after the Toymaker reported better than expected results.
+BULL24|The company said the box office success of Transformers movie spin-off Bumblebee charged sales of its action toys.
+NEUT25|CNBC's Isabel Soisson and Nadine Alba contributed to this report.
+NEUT26|"YouTube news."""

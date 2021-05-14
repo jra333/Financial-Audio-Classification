@@ -1,0 +1,30 @@
+NEUT0|"""When you look at an insurance company's balance sheet, there are a few metrics that you definitely need to look at to understand what's going on in their different than other companies."
+NEUT1|Metrics, right?
+NEUT2|'cause like, there's some things that you look at for any company that you're that you're going to research, but for insurance companies you need to look at the loss ratio, the expense ratio, and the combined ratio.
+NEUT3|Right, so so let's break those down so the loss ratio is the percentage of premiums earned that are paid out in losses.
+BEAR4|So if I get in a car accident today and do $1000 of damage to my car, that would show up in the loss ratio because that's actual money paid out for losses.
+NEUT5|Then you have expenses, which are things like advertising or getting a claims adjuster to show up to look at my car that would go in the expenses, and then when you add those together you get the combined ratio, which is the percentage of money paid out.
+NEUT6|In claims and expenses to run the insurance company as a percentage of premiums as a percentage of premiums.
+NEUT7|So like it's the loss of ratio plus the expense ratio over premium so.
+NEUT8|Would you want a higher or lower combined ratio?
+NEUT9|Because this trip me up the first time that I tried to analyze an insurance company, right?
+BEAR10|You definitely want a lower combined ratio.
+NEUT11|Lower combined ratio would be would mean that you have a fatter underwriting margin, meaning you're making more money on each dollar of premium that comes in right?
+NEUT12|And this is actually, I think, a really interesting topic.
+NEUT13|I don't know if everyone thinks this is interesting, but actuarial tables are fascinating because they have these.
+NEUT14|These lists of risk factors and they can, just, you know, run their line.
+NEUT15|Serve their fingers across the lines and figure out exactly how risky you are for any any given thing.
+BULL16|So companies that are better at underwriting are going to have better combined ratios.
+NEUT17|So this is how you check.
+NEUT18|If a company is doing well on that side of their business, right?
+NEUT19|Just like the actual business of insurance, right?
+NEUT20|Exactly?
+NEUT21|So?
+NEUT22|The key to running a great insurance company's pricing risk correctly.
+NEUT23|It's very easy to grow premiums.
+BULL24|It's very easy to grow revenue.
+NEUT25|All you have to do is write bad risk right?
+NEUT26|All you have to do is ensure something that should cost $100 for $50.00.
+NEUT27|But ultimately at the end of the day, there's nothing wrong with being small and being very profitable at the you know, the premiums you do right, or their policies you do right again, just like banks with loans.
+NEUT28|Except in this case, it's.
+NEUT29|"Insurance."""

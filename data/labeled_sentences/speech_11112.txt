@@ -1,0 +1,24 @@
+NEUT0|"""Neo stock analysis and predictions, January 10th."
+NEUT1|In today's NEO stock analysis and predictions, will NIO reach $100?
+NEUT2|Alright, let's get started.
+BULL3|An iOS track record has been consistent with upwards trend spanning from last year into this year.
+BULL4|Anio stock is up over 400% and its delivery figures are topping 1254% compared to 2019 figures.
+BULL5|A large amount of analysts expect an iota continue its climb this year with its new sedan and improved battery pack revealed on NIO Day.
+BEAR6|This has left analysts predicting that NIO will reach 100 plus dollars soon.
+BULL7|Here's why EV deliveries Anio has broken delivery records for the past six months, with deliveries topping 7007 in December alone an iOS deliveries are on a steady upward incline of 1001% year over year.
+BULL8|This upwards trend suggests brand trust as well nio's popularity amongst its consumers.
+NEUT9|Backorders, one thing Nio as well as other Chinese EV brands have over Tesla is local consumer loyalty.
+NEUT10|Consumers in China are more likely to purchase a brand that is locally grown rather than a foreign company.
+NEUT11|We can see this by nio's large amount of back orders.
+NEUT12|It has been speculated that NIO now has over 30,000 vehicle back orders for their 87 as well as their other models.
+NEUT13|Since Nio Day China's market.
+NEUT14|China is the largest market for ivis.
+BULL15|Analysts expect China's EV market to grow by 65% this year alone, with NIO taking 40 to 45% of that market, Anio has an advantage over others because they are located in China, is being backed by the Chinese government who is invested in NIO.
+BULL16|Success summary an IO is on the same trajectory as Tesla analysts believe Nio will axe into 100 plus dollars sooner than later.
+BULL17|An iOS fundamentals remain strong into the future as they continue to develop innovative tools to progress over other TV company.
+NEUT18|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT19|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT20|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL21|We'd really appreciate it.
+NEUT22|Are you still watching and want more?
+NEUT23|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

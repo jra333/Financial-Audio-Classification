@@ -1,0 +1,35 @@
+NEUT0|"""Sat down with the Chief Technology Officer of Amazon Werner Vogels who join me to talk about 8 predictions for the coming year."
+NEUT1|One of his predictions is that pictures video an audio are going to speak louder than words because of AI.
+NEUT2|The cloud and AI are going to allow stores to watch how customers navigate physical spaces the same way they can now.
+NEUT3|Watch how we navigate websites and apps and that will help them make the experience more efficient.
+NEUT4|Take a listen.
+NEUT5|Without having to have a focus group that actually needs to do that for you, actually sit on the data and we think that's one of the bigger challenge changes that really we've been seeing the past years, because now we generate a lot more data.
+NEUT6|I mean, we have better data from your cash register all the way to your security cameras.
+NEUT7|You know there's all these data streams that need to come together.
+NEUT8|We can make predictions about, nor for example, a simple one, you know, quite a few stores have many security cameras around the checkout lines.
+NEUT9|About the cash register, you would know immediately how long the line is at the cash register with you, we need to open a new one that doesn't need to be someone that actually calls someone else, so you can start to understand how people move for your store you made.
+NEUT10|For me slightly, you know, make determinations about demographics and things like that you know it's it's 12:00 o'clock at the high school.
+NEUT11|Next door goes out, and so you get a whole bunch of high school kids coming.
+NEUT12|They have very different behavior.
+NEUT13|Maybe then.
+NEUT14|So these elderly people that may be shopping between 8:00 and 9:00 in the morning.
+NEUT15|And Julia, we started off talking about the importance of data in the digital context.
+BEAR16|This fight between Facebook and Apple.
+NEUT17|But now we've got physical space is becoming digitized and Vogelsang that's going to be perhaps just as important.
+NEUT18|Absolutely.
+NEUT19|And what I think is so interesting.
+NEUT20|John as we talk about physical space is becoming digitized and then all the other ways that Amazon is collecting data on us in our homes take with Alexa.
+NEUT21|Obviously, Amazon has been a leader in the audio space, but if you think about these different ways of communicating this idea that it's going to be more about images, an audio than it will be about text and the way I type things into my phone or my laptop, I really think that audio has been at the forefront.
+BULL22|We've seen so much growth in the podcast and music space this year, and I think Amazon is really going to figure out how to make.
+NEUT23|Money from that as they listen to us and figure out what we want to buy and do through our Alexis.
+NEUT24|Yeah, platform approach for sure.
+NEUT25|Another theme that Vogels and Amazon see in 2021 is a race of small businesses tored the cloud, especially in markets like Southeast Asia and in Sub Saharan Africa where the focus for startups is less about being a Unicorn and more about just multiple sustainable digitally driven businesses.
+NEUT26|Take a listen.
+BULL27|Strong focus still here.
+NEUT28|Definitely in the US, on on unicorns and companies in Southeast Asia and South America are clearly not focused on becoming a Unicorn that focused on building a sustainable business that they can run for longer period of time, and as such they have very different idea about sort of how to use technology, not build it themselves.
+NEUT29|And that whole not building it themselves.
+NEUT30|Deirdre fits in with this trend we've been seeing with Shopify.
+NEUT31|With big Commerce with Stripe so many companies out there that are looking to provide that platform like experience.
+NEUT32|We just talked to shipped a couple of days ago to smaller businesses so that they can compete with the bigger ones.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

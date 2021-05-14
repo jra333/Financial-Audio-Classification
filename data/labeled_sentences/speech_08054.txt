@@ -1,0 +1,28 @@
+BULL0|"""April has been the best month for stocks."
+NEUT1|Do you think this April will mirror that?
+BULL2|Yes, I think it will be a strong month over the past six weeks or so, we've seen two different markets where technology has been in a correction, as seen by the NASDAQ composite.
+BULL3|But other sectors such as value and opening up the economy stocks have been in strong uptrends as seen in the S&P 500 and the Dow.
+BULL4|But from here I think technology is going to firm up and it will start to participate again to the upside for three reasons.
+BULL5|One, as you mentioned April over the last 20 years has been the best month.
+BULL6|And the second best month since 1950.
+BULL7|And then also the semiconductor sector tends to be a leading sector and that is improving technically and 3rd the earnings season's coming up so we can focus more on the fundamentals coming up an less on the interest rate picture.
+NEUT8|OK, on semiconductors and I mean on semiconductors pun intended Joe.
+NEUT9|That's one of your favorite picks right now what?
+NEUT10|What's it got going on?
+NEUT11|I love the entire sector.
+BULL12|This is a great company that is starting to shift from their low margin businesses to more profitable businesses such as automotive and EV.
+NEUT13|They're technically very strong.
+BULL14|They are expected to increase their earnings 90% this year, and there was also some unusual option activity yesterday.
+NEUT15|Where there are over 4000 May 40 calls bots.
+NEUT16|So overall I like this picture and I like the sector as chips are going into more than just PC's and smartphones.
+NEUT17|They are really the leading economic indicator.
+NEUT18|Who is Vera cell and why do you like him?
+NEUT19|I love the medical product sector and Vera cell.
+NEUT20|Believe it or not, is kind of a reopening play because a lot of elective surgeries were postponed last year an they have cell therapy products that are involved in repairing patients tissues.
+NEUT21|So think for example in sports medicine where they can take some of the cartilage and regrow it and implant it back into the patient.
+NEUT22|Also with skin for burn victims for repairing skin and so forth.
+BULL23|Again, technically it's a very strong stock.
+BULL24|They recently upped their guidance and their last earnings.
+BULL25|They have no debt they are running at strong profit margins, and I think this is a stock that can be up 30 to 50% over the next year or so.
+NEUT26|Shepard Smith here.
+NEUT27|"Thanks for watching CNBC on YouTube."""

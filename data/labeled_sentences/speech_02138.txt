@@ -1,0 +1,42 @@
+NEUT0|"""Mr. Buffett."
+NEUT1|My name is will Jackson.
+NEUT2|I'm from Chicago and I'm a happy shareholder.
+NEUT3|I first want to thank both of you.
+BULL4|For the unusual privilege to give us your time and your expertise, this is very unusual and I think is is to be commended.
+NEUT5|My question has to do with one of the major American industries that unless I missed something in the reading.
+NEUT6|That is the Pharmaceutical industry.
+NEUT7|Companies that make medicines and I wonder under what circumstances you might consider those industries for investment by Berkshire Hathaway.
+BULL8|Well, those industries, the pharmaceutical industries obviously been a terrific industry to invest in.
+BEAR9|We have trouble, at least I have trouble.
+NEUT10|Distinguishing among the companies in terms of seeing.
+NEUT11|Which ones 10 years from now might be the the best ones to be in?
+NEUT12|I mean, it's easier for me to figure out that.
+NEUT13|Coca Cola soft drink company to be energy letters.
+NEUT14|The shaving company to be in or Disney is the entertainment company to be in than it is for me to figure out which one in the pharmaceutical.
+NEUT15|But that I'm not saying you can't do it.
+NEUT16|I'm just saying that that's difficult for me.
+NEUT17|We have.
+NEUT18|We started buying one of them a couple of years ago.
+BULL19|We should and we should have continued, but we didn't because it went up in 8th and.
+NEUT20|Your chairman was a little reluctant to follow it.
+BEAR21|That terrible mistake, but.
+BULL22|I would say the biggest and we could have bought the whole industry and done very well at various times, particularly when the.
+NEUT23|The threat of.
+NEUT24|What people thought was the threat of the Clinton health program of cash to Big Cloud over the Pharmaceutical industry.
+NEUT25|That was a time you could have just bought the whole industry and done very well.
+NEUT26|We didn't do it.
+BEAR27|It was a mistake.
+NEUT28|Charlie.
+NEUT29|Well, it's hard to think of any.
+BULL30|Industry that's done more good for consumers generally.
+NEUT31|When you think of the way children used to die and now they very seldom die.
+NEUT32|Yeah.
+BULL33|It's been a fabulous business and it's been one of the glories of American.
+NEUT34|Civilization.
+NEUT35|But it's.
+NEUT36|We've admired it, but we haven't been part of it.
+NEUT37|We've missed a lot of things, and I'm dead serious about that and we miss things that.
+NEUT38|God should not have been beyond our capacity.
+NEUT39|To grasp their blood things that should be beyond our capacity grass but but there's something that that that haven't been and.
+NEUT40|We've just been playing Mr.
+NEUT41|"Zone one."""

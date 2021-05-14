@@ -1,0 +1,41 @@
+BULL0|"""Hello though, so this is as good news and welcome to my tube channel."
+NEUT1|Please subscribe and press the Bell icon.
+NEUT2|Letter do SWOT analysis of Apple Company for the year 2020.
+NEUT3|Before going to that small introduction about the company.
+BULL4|Apple Inc. Is one of the most successful companies in the world.
+NEUT5|It produces products like iPhones, iPads, watches, TV's and strong software like Mac OS and iOS.
+NEUT6|Apple is headquartered in California and was founded in 1976 by two jobs.
+NEUT7|At present, Tim Cook is the CEO of the company.
+NEUT8|Coming to its friends, it has a strong brand value of two 34 billion years dollars.
+NEUT9|It is a globally known product.
+BULL10|Strong research.
+NEUT11|Apple spends lots of money for better understanding the customer needs and requirements.
+NEUT12|App Store The App Store is available in 175 countries and regions.
+BULL13|And it is the world's safest and most vibrant app marketplace.
+BULL14|Strong customer base.
+BULL15|It has millions of loyal customers with steady increment coming to its weaknesses.
+NEUT16|High priced products.
+NEUT17|Most of the Apple products are priced high.
+NEUT18|Basic iPhone 6S costs around ₹25,000.
+BULL19|On 11 Pro Max spots around one Lac ₹50,000.
+NEUT20|Advertisements Apple advertisements are very limited.
+NEUT21|Software incompatibility.
+NEUT22|Most of the Apple products does not support other than Apple software or technologies, making them incompatible with other devices.
+NEUT23|Coming to opportunities.
+NEUT24|Creating Eco friendly products.
+BULL25|Utilization of artificial intelligence to give better experience to its customers.
+NEUT26|Focusing on smart wearable technology.
+BULL27|Consistent customer growth.
+BULL28|Apple has a customer retention rate of 92% which is very high in technology industries.
+BULL29|It can gain new customers easily.
+NEUT30|Coming to threats coronavirus pandemic.
+BEAR31|Almost all the countries got affected by the coronavirus.
+BEAR32|This is a challenging situation for everyone.
+NEUT33|Brand duplication the legal dealer sell duplicate Apple products at the same price as an virginal product.
+BEAR34|Duplicate products can make potential customer believe that it is a product made by Apple with low quality.
+BULL35|Increasing competition.
+BEAR36|Although Apple has a good brand image, is still faces threats from companies like Samsung, Google and Dell.
+BEAR37|China tariffs U.S. government has imposed a high tariff on products from China, increasing the overall cost of products.
+NEUT38|These are the few strengths, weaknesses, opportunities and threats of Apple Inc.
+NEUT39|If you feel this video information to please support us by subscribing to this channel.
+BULL40|"Thank you."""

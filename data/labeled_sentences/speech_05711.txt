@@ -1,0 +1,24 @@
+BEAR0|"""Amazon and Google two Internet Giants have been locked in a fierce rivalry for years, challenging each other in everything from groceries to smart speakers."
+NEUT1|First, we have Amazon Founded in 1994 by Jeff Bezos.
+NEUT2|It started off just selling books.
+NEUT3|Three years later, it listed on the NASDAQ, valued at $438 million.
+NEUT4|Then this Google.
+NEUT5|The search engine was founded in 1998 by Larry Page and Sergey Brine.
+NEUT6|Its IPO came six years later and with the shares listed at $85 each gave Google a market cap of $23 billion.
+NEUT7|The biggest overlap their range of hardware products, including tablets, phones and video streaming sticks a domain Google has dominated thanks to the acquisition of the Android operating system.
+NEUT8|In 2005.
+NEUT9|The software is used by more than 1300 brands, including Amazon, who released its fire phone in 2000.
+BEAR10|14 but that device was a failure losing Amazon billions of dollars and causing an 8% drop in its share price.
+BULL11|Google may have won that battle.
+BULL12|Amazon is winning when it comes to smart speakers.
+BULL13|Its share price has risen more than 240% since the Echo smart speaker was released and as of 2017, the Echo had a 70% market share, beating out Googles competing device.
+NEUT14|The Google Home, not one to be beaten, though.
+NEUT15|Google is taking on Amazon in the video streaming arena back in 2006, it bought YouTube.
+BULL16|And following the success of streaming services such as Amazon Prime Instant Video, Google added YouTube TV within two months, Google share price had risen over 19%.
+NEUT17|When it comes to shopping though, Amazon still has the edge.
+BEAR18|In 2012, Google launched a service to rival Amazon's, but the plan backfired when the European Commission slapped it with a fine for manipulating search results.
+BEAR19|Its market value dropped more than 1% overnight.
+BULL20|The following year, Google to the battle directly to Amazon's front door announcing a partnership with its largest retail rival Walmart.
+BULL21|But that hasn't stopped Amazon's rally, and in March 2018, it surpassed Google to become the second most valuable company in the world of position.
+NEUT22|Google will be desperate to get back and said the battle will continue search versus shop For more information on the competition between Amazon and Google, including how you can trade the rivalry today.
+NEUT23|"Visitig.com"""

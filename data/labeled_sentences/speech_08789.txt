@@ -1,0 +1,33 @@
+NEUT0|"""That's the key question I should've asked everyone I talked to in the Bitcoin space."
+NEUT1|Well, you know, why does Bitcoin have value?
+NEUT2|And you know some of the answers you get are around the fact that it's got a big group of believers.
+NEUT3|The so called Bitcoin is in this, but also more recently.
+NEUT4|You know if we compare the rally we've seen over the past few months to the last big rally we saw back in 2017, one of the big differences that's being talked about is the fact that there's a lot more institutional money going into.
+NEUT5|Bitcoin this time around.
+NEUT6|Yes, there is a large retail participation, but you are seeing larger investors involved and Secondly on top of that, you are seeing large technology companies also jumping in on actually purchasing Bitcoin and holding some of that as well.
+NEUT7|The lights of square for example, and test as well.
+NEUT8|So these are some of the differences that you often hear about when talking about the two rallies or more recently and the one a few years back.
+NEUT9|And the thing there arguing is that the retailers are piggybacking on essentially the institutions now because you know I was.
+NEUT10|Talking to friend yesterday who bought 4 bitcoins at a price of $1000.
+NEUT11|You can do the math and what his games are like at this junction with scores of stories like that, right?
+NEUT12|So it's a free ride for them, so why not?
+NEUT13|That there's some of that.
+NEUT14|I mean, to some extent it's interesting to look at the Bitcoin community to some extent.
+NEUT15|Their front run almost, you know ahead of the institution the institutions were looking at what the retail investors were doing and then jumping on this.
+NEUT16|And then yes, you have got those investors now jumping in as the price has been beginning to go up as well, and I think the big coin story is an interesting one, because yes, you've got that institutional backing.
+NEUT17|But also the idea is growing as Bitcoin as some sort of digital gold.
+NEUT18|Now this is something that has been discussed over the past few years.
+NEUT19|I remember talking about this back.
+BULL20|In 2014, but also that idea is starting to grow also again on an institutional level, the fact that Bitcoin could potentially be a hedge against inflation could potentially be a safe haven asset, much like gold.
+NEUT21|I think that idea is beginning to gain steam, and when we talk about future prices and some of the huge calls we've seen, that is a big part of the story as well.
+NEUT22|Yeah, I think the only last angle that I want to highlight.
+NEUT23|I don't want to get your thoughts in and what are the techies feeling about this?
+NEUT24|You know we've seen a lot of the financial guys getting into Bitcoin, but our technologist I mean starting with an mask.
+BULL25|Also, time is spreading across their medium tool that they believe that they should hop on to make money on this asset class.
+NEUT26|Yeah, I think a lot of the technologists you know are very bullish on the actual underlying technology.
+NEUT27|The fact that Bitcoin is decentralized, it's not owned by a single entity such as a central bank like Fiat currencies are issued.
+NEUT28|So that's one of the big differences they talk about.
+NEUT29|Also, the fact that blockchain technology, this underlying technology whilst they talk about transactions also being much much slower than existing the likes of Visa or MasterCard for example, there are upgrades underway to the Bitcoin network as well that Bitcoin proponents fill.
+BULL30|Could propel this to become a real crucial currency going forward.
+NEUT31|These again, I'll wait to be seen.
+NEUT32|"Kind of moments, but these are just some of the arguments you're seeing as to why there is such belief from technologies kept technologists around Bitcoin."""

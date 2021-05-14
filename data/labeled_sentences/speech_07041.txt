@@ -1,0 +1,22 @@
+NEUT0|"""Here is the official audio showing WSJ misquoting and poachers pic twitter.com/TV wafik Sarah Sanders at Presec January 14th 2018."
+BEAR1|Late Saturday night White House press secretary Sarah Sanders accused the Wall Street Journal of Fake News, specifically saying that they must quoted the president to make it appear that he had said he has a very good relationship with North Korean dictator Kim Jong-un.
+NEUT2|Instead, the president claims.
+BULL3|He said he would have a good relationship if the two leaders met.
+NEUT4|The difference comes down to I versus kid Pic twitter.com/U nine make it out Sarah Sanders at Presec January 13th, 2018.
+BULL5|In a phone interview with the Journal Trump is quoted as saying I probably have a very good relationship with the North Korean dictator.
+NEUT6|Obviously idid NT say that Trump wrote on Twitter on Sunday morning.
+BULL7|I said have a good relationship with Kim Jong-un a big difference he continued.
+NEUT8|Fortunately, we now record conversations with reporters.
+NEUT9|Sanders also said Sunday.
+BEAR10|We first contacted the WSJ Friday morning and asked for a correction.
+BEAR11|They repeatedly refused to SU-1 despite clear audio evidence said misquoted purchase.
+NEUT12|The Journal released its own recording of the moment and says they are standing by their original reporting.
+NEUT13|We have reviewed the audio from our interview with President Trump as well as the transcript provided by an external service and stand by what we reported here is audio of the portion.
+NEUT14|The White House disputes.
+NEUT15|HTTPS: slash slash T dot Co slash mute mic pic twitter.com/V X9 from the Wall Street Journal at WSJ, January 14th, 2018.
+NEUT16|Trump Sunday tweets the Wall Street Journal stated falsely, that I said to them, I have a good relationship with Kim Jong-un Event Korea obviously idid NT say that I said have a good relationship with Kim Jong Un, a big difference.
+NEUT17|Fortunately, we now record conversations with reporters.
+NEUT18|J. Trump at real Donald Trump, January 14th, 2018, thought and then knew exactly what I said and meant.
+NEUT19|They just wanted a story.
+NEUT20|Fake news.
+NEUT21|"Donald J. Trump at real Donald Trump, January 14th, 2018."""

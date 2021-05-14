@@ -1,0 +1,23 @@
+NEUT0|"""Hello and welcome to today's technical analysis here at the exam.com."
+BULL1|It's Monday, June 18th and Christina Barton, investment analysts, and today we're going to look at what's happening in the gold market because we finally saw the yellow metal moving sharply on Friday after being neutral for almost a month.
+BEAR2|Probably the reaction was a delayed response to the dollars arise last week.
+BULL3|But now if we zoom into the daily time frame, we can see that gold is in recovery mode today.
+BEAR4|After driving by one point 7% on Friday to touch A5 and a half months low of 12175.30, a clear break below are the base of this range started on May 15th.
+BEAR5|Other sentiment though is negative at the moment because of the price is currently trading below the 20 day moving average which is below the 200 day MA bearish trend signal for the market.
+BEAR6|Moreover, if you look at the momentum indicators down here, the Mcatee has reverse to the downside on Friday.
+BEAR7|And today is on track to close below its red signal line, which if that's the case, then we could expect further downside for the gold in the short term.
+BEAR8|Other side supports this view as well, since it's located below its neutral threshold 50, but it's also very close to oversold levels, so we can't exclude any upside corrections for now.
+NEUT9|And to confirm this I will look at the stochastics.
+BEAR10|Others are heading towards oversold levels two now if the price continues to recover, immediate resistance could come from the 61.
+BULL11|8% Fibo Nachi of the applet from 12136.34 to 13165.89.
+NEUT12|This is at 12185.85.
+NEUT13|Then a step above this level could touch the 20 day moving average at 12195.65 before the price test.
+NEUT14|The 1300 key level where the 50% Fibonacci is also located.
+NEUT15|I strongly resistant those expected to come at 13110 because.
+BULL16|Any successful break above the area around this level could, which includes the 50 day and 200 day moving average lines quick turn, the medium term and the long term picture from bearish back into neutral again.
+BEAR17|If this indeed happens, then the next level to watch could be a 38.2% Fibonacci of 13116.38, on the other hand, if the market breaches Fridays low of 12175.30, extending the downward pattern.
+BEAR18|Started in mid April from 13165.14 and therefore deteriorating the Bears perspective for the market.
+BULL19|We could look for support at the Cemetery, 8.6% in monaci of 12163.77 which offered some support back in October and November, while if the drop appears much deeper than the 12150 psychological level could also come into play.
+NEUT20|So that's all from me.
+NEUT21|Thank you for watching.
+BULL22|"Have a great day."""

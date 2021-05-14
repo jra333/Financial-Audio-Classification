@@ -1,0 +1,39 @@
+NEUT0|"""How's it going?"
+NEUT1|Everyone failure from fierce technologies.
+NEUT2|So you have your brand new peloton bike and you're wondering how to watch Netflix on your Palatine while you're writing.
+NEUT3|I'm going to show you how to do that in this video.
+NEUT4|It's actually very, very simple.
+NEUT5|The unfortunate part I will mention though, as there is no native built-in app on your actual peloton, you actually have to go through a browser to watch it.
+BULL6|It's really not that difficult, and it's definitely helpful.
+NEUT7|I've watched Netflix on my peloton while I was writing, so it's super cool to do so.
+NEUT8|I'm going to show you how to do that.
+NEUT9|Let's get started.
+NEUT10|So first thing you want to do is, I'm just going to jump onto my peloton.
+NEUT11|It's off right now and I'm going to select my profile right there, and we're just going to log into our main screen.
+NEUT12|And now what we're going to do is go down to the bottom right hand corner.
+NEUT13|There's three dots right there, so we're going to tap on those three dots, and it's going to bring up this menu on the side.
+NEUT14|And then you're going to tap about searching.
+NEUT15|Tap that right there and then it's going to pop up with this screen right here in the middle, and we're going to just tap this screen seven times in the bottom right hand corner.
+BEAR16|I know it sounds really, really weird.
+NEUT17|But this is the way to bring up the browser.
+NEUT18|So if you look on the bottom right hand corner of this square box right here and you're just going to tap it seven times.
+NEUT19|So here we go.
+NEUT20|1234567 and that's going to pop up with this screen.
+NEUT21|And the only thing you can select in the screen is Webview browser tester.
+NEUT22|So we're going to tap on that, and that's going to bring up the browser and then all you're going to do is just go netflix.com netflix.com and then go.
+NEUT23|And there we go.
+NEUT24|And now we're on the Netflix home screen, so we can actually just go ahead and just go sign in and you can just sign right into your Netflix account.
+NEUT25|And once you've signed in, you have full access to watching Netflix on your actual Palatine.
+NEUT26|Now, to go back to the home screen are going to do is type this back button right here, and that's going to bring up this menu again.
+NEUT27|And then you're just going to click on back in the top left hand corner and that's going to bring you back to this main home screen.
+NEUT28|We can just tap off of it just like that.
+BULL29|And we're good to go.
+NEUT30|We can go back to our actual Palatine.
+NEUT31|The only unfortunate thing now is if you do that same thing you type in the three dots and go about and then you tap it seven times.
+NEUT32|If I did it.
+NEUT33|1234567 There we go and we go back into the browser.
+NEUT34|It doesn't actually save your browser or anything like that.
+NEUT35|So unfortunately you have to just go back, log right back into your Netflix account, but it is definitely a way to watch Netflix while you're riding on your peloton.
+NEUT36|If this video was helpful for you, make sure you hit that thumbs up button.
+NEUT37|Not you guys on the next one.
+NEUT38|"Bye bye."""

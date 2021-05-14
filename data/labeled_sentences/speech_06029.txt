@@ -1,0 +1,14 @@
+NEUT0|"""It's August the 11th trading is over on Wall Street."
+NEUT1|Here's the New York minute.
+BEAR2|It's sizzling outside in New York, and it's also sizzling in the stock market.
+NEUT3|All the three traditional industries people look at are at all time highs, but with the catalysts.
+BULL4|Well, first of all, look at Department store stocks roaring back into favor today, but not necessarily for the most positive reasons.
+BEAR5|Macy's announced it was cutting back more than 100 branches, and that was regarded as positive news on the market.
+BULL6|After the belt Nordstrom announced earnings that were better than expected.
+NEUT7|But on sales.
+BEAR8|That had actually fallen the other big catalyst was the oil prices.
+BULL9|You can see it's rose very significantly through the morning after you heard comments from Saudi Arabia suggesting they do want to try to manage the oil price once more.
+NEUT10|Any suggestion of an active OPEC once more is positive as far as the oil prices concerns, but take a look at where US inventories still stand.
+BEAR11|That is a huge overhang of supply and earlier in the day the IEA had warned that growth in demand.
+BULL12|Would be slowing.
+NEUT13|"There is still a long way to go for the oil price and that's the New York Minute."""

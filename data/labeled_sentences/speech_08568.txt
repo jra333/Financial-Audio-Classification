@@ -1,0 +1,31 @@
+NEUT0|"""The money here we go."
+NEUT1|Money talks.
+NEUT2|Hey everyone.
+NEUT3|Today I'm going to be talking about the stock and the company FB.
+NEUT4|What is FB?
+NEUT5|Well, this is part one to the Fe Co summation, death, subscribe and TuneIn for.
+NEUT6|A more critical critique of this company.
+NEUT7|So let's get started with the basics.
+NEUT8|What is FP?
+NEUT9|FB is Facebook Inc.
+NEUT10|Some people are in the dark about Facebook and what it is.
+NEUT11|Facebook engages in the development of social media applications for people to connect through mobile devices, personal computers and other surfaces.
+NEUT12|It enables users to share opinions, ideas, photos, videos and other activities on line.
+NEUT13|Its products include Facebook Instagram Messenger, WhatsApp, and Oculus.
+NEUT14|The company was founded by Mark.
+NEUT15|Elliott Zuckerberg, Dustin Moskovitz, Chris Hubz, Andrew Mccullen, and Eduardo Saverin.
+NEUT16|On February 2 February 4th, 2004 and is headquartered in Menlo Park, CA.
+NEUT17|The listed name for FP is Facebook Inc. Class A common stock.
+NEUT18|So is this social media website abai that's the question, is it by so today I'm going to be going over whether it's a buy versus go over the earnings per share.
+BULL19|As you can see, the earnings per share is still at a very good.
+BULL20|Positive earnings per share and it looks like it's been increasing.
+NEUT21|What did the analysts had to say at a 49 analysts?
+NEUT22|82%?
+NEUT23|That's 82% are saying it's via 14% are saying it's a whole and purpose it is saying it to sell.
+NEUT24|So the buyer rating.
+NEUT25|What did they buy?
+BULL26|Analysts had say the application of AI technologies faced with various offerings along with the launch of VR products such as Aculus Rift will increase user engagement, driving further growth in advertising revenue.
+BULL27|Facebooks ad revenue per user is growing, demonstrating the value that advertisers see and working with the firm with more users and usage time than any other.
+NEUT28|Social network.
+NEUT29|Facebook provides the largest the large.
+NEUT30|"Here we go, money talks."""

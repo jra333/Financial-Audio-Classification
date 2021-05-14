@@ -1,0 +1,39 @@
+BULL0|"""We talked a little bit yesterday about Apple's big year and how stunning it has been."
+NEUT1|Just 'cause the size of the company, Brian, I know you dug into this a little bit more or looking kind of the driving factors and stats behind Apple's big year.
+NEUT2|What did you find out?
+BULL3|Yeah, really a couple amazing stats.
+NEUT4|Let me set this up real quick.
+NEUT5|You have Apple's market cap hit $2 trillion on August 19th and it hasn't looked back on December 31st, 2019.
+NEUT6|Apple's market cap stood at 1.29 trillion today.
+NEUT7|Right now, almost $2.3 trillion.
+NEUT8|So those big numbers Julie that we talked about yesterday.
+BULL9|They continue to grow.
+BULL10|They have continue to grow.
+NEUT11|You look at Apple's price to earnings multiple right now, 33 times on a forward basis.
+BULL12|That is about two times more than the five year average on Apple.
+NEUT13|So in another way to look at it.
+NEUT14|Apple is trading at a premium relative.
+NEUT15|Its five year average P wonky but very important to a lot of folks that plug numbers into it spreadsheet and calculate apples fair value.
+NEUT16|And last but not least, very simple number 85%.
+NEUT17|That's how much Apple stock is up here today.
+NEUT18|Almost two times the gain in the NASDAQ composite for the year to date and and what's interesting here guys is that 20% of that gain has come in the past month and a lot of the conventional wisdom out there in the street.
+BEAR19|It's been because of the speculation about an Apple car.
+NEUT20|We've talked about extensively, maybe by 2025.
+NEUT21|Apple comes out with $100,000 electric car, but I think if you really dig down to the Apple Store right now, you poke.
+NEUT22|Around on Wall Street and what you're seeing in the stock is just a lot of optimism around apples core product.
+BULL23|The iPhone there continues to be really strong positive research out from the South side.
+BULL24|Notably a company like JP Morgan saying that a lot of these iPhones have seen very, very strong demand, not just the regular iPhone 12 pro across the board.
+BULL25|Even the Max, despite the higher prices.
+NEUT26|And that is really what's driving the stock, and that's likely to drive the stock next year, ultimately fueling this 5G supercycle thesis that is now starting to play out.
+NEUT27|And I think Brian.
+NEUT28|All that stuff kind of feeds into this optimism around Apple.
+NEUT29|I just called out one other amazing staff for Apple, which is what's happened in their Mac business.
+NEUT30|Everyone's been at home.
+BEAR31|Kids are being homeschooled.
+BULL32|We've got 50% sales growth in a business that investors wouldn't care about it.
+NEUT33|Alright, $9 billion in the last quarter.
+BULL34|That's up from about 6 1/2 in the prior years quarter and I just think that's it's.
+NEUT35|It's an amazing illustration of how these kind of forgotten growth levers for some companies got pulled because of how quickly everything happened during covid.
+BULL36|Yeah, we'll see, though, if that momentum keeps up right.
+NEUT37|If people are still going to be home this year if they've already bought the computers that they're going to buy, or are they going to keep buying them?
+NEUT38|"We shall see."""

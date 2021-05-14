@@ -1,0 +1,5 @@
+BULL0|"""One of the big investment stories for 2020 is Bitcoin, and cryptocurrencies in general, reaching an rising above levels that we haven't seen since December of 2017."
+BULL1|In 2020 so far Bitcoin is up over 220%, but Ethereum is actually up over 400% initiatives from PayPal which added Bitcoin and other cryptocurrencies to their platform, along with Square, which added it to its cash app in 2018.
+NEUT2|And futures products from the CME Group have been drivers of institutional demand.
+BULL3|Square this year bought $50 million worth of Bitcoin for the company's balance sheet and they are not alone driving crypto currencies to new highs.
+NEUT4|"Then don't see an end insight at this point."""

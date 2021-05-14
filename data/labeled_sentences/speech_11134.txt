@@ -1,0 +1,25 @@
+NEUT0|"""Neo stock analysis and predictions, November 30th."
+NEUT1|In today's NEO stock analysis and predictions, Anio won't be delisted.
+NEUT2|Alright?
+NEUT3|Let's get started.
+NEUT4|House leaders plan to consider a measure on Wednesday that would make Chinese firms such to either to make the transition to getting an annual audit that is reviewed by US regulators or remove the shares from trading in the US.
+NEUT5|The house plans to vote under rules that limit debate and require a 2/3 majority for passage, according to an online notice posted Friday.
+NEUT6|The legislation, if it becomes law.
+NEUT7|Would give Chinese companies and their auditors three years to comply with inspection requirements before the Stock Exchange decided what to do with the stock on the New York Stock Exchange or NASDAQ stock market.
+NEUT8|NIO has nothing to hide today.
+BEAR9|Anio CFO Steven Finn was asked about how the company would respond amid fears of a USD listing things said.
+NEUT10|Looking forward, we will actually and closely monitor the changes and trends of the markets and adopt plans that best serve the interests of our Anio investors and shareholders.
+NEUT11|If the US government want to do an audit our books in order.
+NEUT12|We have nothing to hide.
+BULL13|Neo reported above consensus third quarter results thanks to strong deliveries and margin improvement.
+BULL14|Revenues climbed 146.4% year over year and 21.7% sequentially, $666.6 million.
+BEAR15|This compares to the year ago revenue of $262.47 million.
+BULL16|The company also issued a strong fourth quarter outlook.
+BULL17|According to Fink, we're willing to work with the US if need be.
+BULL18|We are looking to continue our run within the US markets.
+NEUT19|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT20|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT21|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL22|We'd really appreciate it.
+NEUT23|Are you still watching and want more?
+NEUT24|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

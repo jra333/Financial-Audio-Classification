@@ -1,0 +1,35 @@
+BULL0|"""Got this large amount of issuance here."
+NEUT1|Big question then as to how these bonds are going to be taken by the market.
+NEUT2|They range 30 years.
+NEUT3|Well since we saw the 30 year past the past 3.25%, that's one of the big questions.
+NEUT4|Is it?
+NEUT5|How is the market going to absorb this paper?
+BULL6|Yeah, I mean, now that we're in a new range, we're in Uncharted territory to an extent.
+NEUT7|These are ranges that have held for many years.
+NEUT8|The 30 year range has been in place since 2014, so this is new for bond investors, and I think what the market is slowly coming around 2:00.
+NEUT9|Is 2 main things.
+NEUT10|One the ownership of the fixed income market is shifting away from being in public sector hands where we've been heavily influenced by the buying of central banks, so we know now that the Fed are winding down the balance sheet.
+NEUT11|They're selling about 40 billion worth of the balance sheet per month.
+BEAR12|These could be a tapering towards the end of the year, and the Bank of Japan are trying to tweak their policy to remove some of their stimulus and FX reserve managers are also not buying either, so China's FX reserves growth isn't increasing anymore.
+NEUT13|So the public sector bank isn't really there anymore.
+NEUT14|So now it's relying on private sector buying.
+NEUT15|So pension funds, asset managers in the US and what we've seen so far as they want high yields to takedown these bonds.
+BEAR16|There was also a tax break that ended in September, which meant a lot of the buying by pension funds was frontloaded that's come to an end now, so we're in a little bit of an air pocket where it's not quite clear where this demand for fixed incomes are going to come from, and I think that's one of the reasons we're taking down this large amount of issuance this week.
+NEUT17|I like I like that description that we are in an air pocket and in that pocket we are repricing the curve.
+NEUT18|I just wonder do you think that the market will jump on this bandwagon?
+NEUT19|Morgan Stanley saying they're saying mea culpa.
+BULL20|We're on the turn two 30s flattening is done.
+NEUT21|We're going to see a reappraisal and a repricing.
+NEUT22|We're going to start to talk about stapling again.
+NEUT23|Would you agree?
+NEUT24|Would you throw in the towel?
+NEUT25|Well, we've actually liked curve steepening ideas for quite some time.
+NEUT26|One thing that we've been quite keen to push back on is this concept that the Fed are never going to be able to raise rates past 3%.
+NEUT27|This concept of secular stagnation, the interest rates need to stay low.
+NEUT28|Inflation is going to stay low pretty much forever this cycle, and as the Fed raise interest rates, the curves you just gradually bear flatten and 3% was that focal point that partly because that's where the Fed have been quite vocal in terms of saying that's where their long term neutral rate is.
+NEUT29|But now with the unemployment rate of multi year lows with ISMA readings, printing in the 60s, the market starting to revaluate, where's the Fed going to need to get to this cycle to actually slow down the economy at all?
+BULL30|We've seen the two year yield go from nought .8 to roughly 2.8 today, and US equities are still the highest in.
+BEAR31|Credit spreads are still low, so we haven't seen any material financial tightening in the US.
+BULL32|So the market saying OK, it probably needs to get past 3% before actually going to see any tightening conditions.
+NEUT33|And at some point the Fed is going to want to move from accommodative to neutral.
+NEUT34|"And actually restrictive policy and that could be a long way from here in terms of."""

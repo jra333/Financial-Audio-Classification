@@ -1,0 +1,28 @@
+BEAR0|"""If you follow the customer well, you're going to understand why Salesforce, which build a gigantic business by helping clients harness the power of the cloud, decided to shell out $27.7 billion for Slack technologies and the deal that was widely criticized by people who."
+NEUT1|Frankly, I don't think, read the conference calls of either.
+BULL2|They would have known that Slack had a fantastic quarter, as did Salesforce.
+NEUT3|I think it was a brilliant slack Scott.
+NEUT4|Great business collaboration software, but they don't have the financial wherewithal to go head to head against Microsoft Forever, right?
+NEUT5|Microsoft Teams is embedded everywhere.
+NEUT6|Salesforce has the firepower, though, in Slack.
+NEUT7|Fits right in with their cloud platform.
+NEUT8|Here's what the skeptics don't understand.
+NEUT9|Salesforce.com is going to be a $200 million Dow Jones Colossus under the leadership of Marc Benioff, but thanks to the law of large numbers and the fact that she's you know, you got to keep scaling there, it's very difficult for Mark to go from 2 billion to the $500 billion.
+NEUT10|So I think that company can go, at least not all organically.
+NEUT11|Why?
+NEUT12|Because most people, Salesforce is invisible.
+NEUT13|Unless you're a data scientist or you work in sales, you don't interact with their software.
+NEUT14|That's why Mark needs a visible platform, something everyone can see.
+NEUT15|It's something everyone can buy.
+NEUT16|Don't get me wrong, Salesforce works miracles.
+BULL17|When we brought them into thestreet.com, which we sold last year, we saw a 30% uptake, 30% in uptick in sales almost immediately.
+NEUT18|But I saw that 30% numbers.
+NEUT19|I was an executive.
+NEUT20|The rank and file, they didn't see sales force, but they did Cieslak everyone Cieslak.
+NEUT21|Now the two of them were one, and that's what matters.
+NEUT22|Don't miss a second of mad money.
+NEUT23|Follow at Jim Cramer on Twitter.
+NEUT24|Have a question?
+NEUT25|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT26|Shepard Smith here.
+NEUT27|"Thanks for watching CNBC on YouTube."""

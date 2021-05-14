@@ -1,0 +1,29 @@
+BULL0|"""Hello everyone, welcome back to the channel."
+NEUT1|Today I wanted to update you on Neo stock as they are getting closer to their earnings release for the first quarter of 2021.
+NEUT2|Stay tuned and let's hop right into the video.
+BEAR3|Neo stock closed at $58.34 in the latest trading session marking a + 1.09% move from the prior day.
+BEAR4|However, the share price is down around 2.5% in premarket trading, alongside with many other electric vehicle makers such as Tesla.
+BULL5|Lior XP V Neo shares are up more than 20% since 2021 began, so the needed cool off was likely to happen, especially after Neo's day, which pushed the share price to as high as $67.
+BULL6|Investors will be hoping for strength from Neo as it approaches its next earnings release.
+BULL7|In that report, analysts expect Neo to post earnings of minus $0.14 per share.
+BULL8|This would mark year over year growth of 64.1%.
+NEUT9|Short term trend shouldn't worry investors who seek real value.
+NEUT10|As the company keeps growing at an incredible rate, here is what the founder of CEO said about the company's growth.
+NEUT11|When the share were touching the $2.00 mark in 2019, your shares right now are trading at about $2.06 a share.
+BEAR12|That's the lowest ever as a public company.
+NEUT13|Is this warranted?
+NEUT14|Do you feel like investors are missing something, perhaps?
+NEUT15|With young Canadian woman that's hung, see that that I think our investors don't understand our long term value for the standpoint of NEO, we have faith in our long term value.
+NEUT16|There are complicated reasons led to the stock rise and fall, which is beyond our control.
+NEUT17|It's a very complicated thing, especially if there is a short selling mechanism in the US.
+BULL18|Since that interview, the shares of Neo have grown by more than 1100% and company became a leading electric vehicle maker in China, delivering more than 43,000 vehicles.
+NEUT19|In 2020, the company's main goal is to focus on their development and the premium market in China as their upcoming sedan DT7 will be priced in the region of around $80,000.
+BULL20|The other very important thing that will definitely boost to sales is the announcement of having the possibility to buy a car with no down.
+NEUT21|Payment it's very important to remind that it is not the first time the company has offered a No Down Payment plan to its customers.
+BEAR22|The last time Neo launched a 0 down payment purchase plan was in early September 2019 when the company was facing operational pressure with shares trading in the penny stock range below $5 per share.
+BEAR23|At that time, Neo was affected by the S8 recall and production and deliveries dropped.
+NEUT24|In July.
+BEAR25|It was also hit by the withdrawal of new energy vehicle subsidies and the continued decline in domestic passenger car sales.
+BULL26|Now, since the company delivers nearly ten times more cars than they did in July 2019, the new option for purchasing a vehicle seems like a great business tactic that may help boost the sales and record another high number of deliveries in 2021.
+NEUT27|As always, guys, thank you for watching and hit the subscribe button.
+NEUT28|"If you enjoyed the video."""

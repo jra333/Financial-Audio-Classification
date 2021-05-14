@@ -1,0 +1,23 @@
+BEAR0|"""So drop him in his remarks, contrasting with almost 30% gains in U.S. stocks since the March lows."
+NEUT1|What does he say to justify his bearishness?
+BEAR2|So he says that investors who have bid up those stocks, as you say, almost 30% from the lows are operating on a false premise.
+BULL3|That premise being that the massive liquidity injection we've gotten all this stimulus is going to save the US economy.
+NEUT4|He says, frankly, that's not true.
+BEAR5|It won't help to spur US growth.
+NEUT6|In fact, he calls the programs from the Fed an from Congress just a transfer of wealth to individuals, encouraging people not to work because they're getting paid more to stay at home, then go into their job.
+NEUT7|He also says that all this is doing is just support and keeping zombie.
+BEAR8|Companies alive so certainly harsh words from Drunken Miller, who also says that the Treasury borrowing is likely to crowd out the private economy.
+BEAR9|He also had some harsh words for President Trump, saying that the Trump administration is going to become the poster child for bad policy response.
+BEAR10|In fact, the worst policy response on a risk reward basis.
+NEUT11|Politics is never far from market participants.
+NEUT12|Is it an he is bullish on one thing, though I'm still waiting for my special gift from Nera to be delivered.
+NEUT13|I stand every day at the door and I went and I wait and I wait.
+NEUT14|Well, according to Drunken Miller manis, you should be thankful that Amazon exist.
+BULL15|That's what he said on this web and R. He said that Amazon has done a great job just supplying jobs to the economy and doing a good job turning around, transforming to deliver essentials without raising prices so he's bullish on Amazon.
+NEUT16|He's not the only one.
+BEAR17|It's up nearly 28% year to date, while the rest of the market has fallen.
+NEUT18|He also says that he's bullish on long, short strategies.
+NEUT19|It's a well known hedge fund strategy.
+NEUT20|That includes some bearish bets among the bullish ones, but he says it's relative.
+NEUT21|He says that the only reason he likes long short is because he's worried about everything else.
+NEUT22|"Manis nera."""

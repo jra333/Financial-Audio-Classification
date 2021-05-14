@@ -1,0 +1,21 @@
+NEUT0|"""So we have a little bit of interesting gossip in the stock market today."
+NEUT1|Yesterday I made a video about how the FTC and DOJ are doing antitrust investigations into Google, Facebook, Apple, and Amazon.
+NEUT2|The DOJ is responsible for the antitrust investigation into Google and Apple, and some interesting news came out get this so Elizabeth Warren made it public knowledge that the chief antitrust.
+NEUT3|Or or the chief of the Antitrust Division of the DOJ.
+NEUT4|The guy running the investigation into Google and Apple used to be a paid lobbyist of Googles and Apples.
+NEUT5|I'm going to review this quote from Elizabeth Warren.
+BEAR6|Your past work as a lobbyist for two of the largest and most scrutinized tech companies in the world creates the appearance of conflict of interest.
+NEUT7|As the head of the Antitrust Division at the DOJ, you should not be supervising investigations into former clients who paid you 10s of thousands of dollars to lobby the federal government.
+NEUT8|Damn, now I am not a fan of Elizabeth Warren.
+BEAR9|I think she'll be bad for US businesses.
+BEAR10|I think she'll be bad for.
+BULL11|US businesses ability to compete internationally.
+NEUT12|She's publicly called for the breakup of Amazon, Google and Facebook.
+NEUT13|Having said that, I'll say this.
+BULL14|I think she makes a pretty valid point.
+NEUT15|Obviously a dude who used to be paid a lobbyist of Apple and Google probably shouldn't be heading the antitrust investigation into them specifically when he the lobbyist duties he was performing for.
+NEUT16|Google was explicitly anti antitrust.
+NEUT17|He was helping Google Acquire a company and he had to get past potential antitrust issues.
+NEUT18|The other thing I'll say is, if I were an Apple or Google investor.
+NEUT19|I'd be feeling a little bit more comfortable about this antitrust investigation right now.
+BULL20|"Hope you guys have a great day."""

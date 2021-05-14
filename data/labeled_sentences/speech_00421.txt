@@ -1,0 +1,53 @@
+NEUT0|"""So is Astra Zeneca good by of course everyone's talking about the vaccine rollout, and there wondering whether or not it's a good person."
+NEUT1|Let's just look at it.
+NEUT2|If we missed the boat, is it worth going into or are we just speculating on news?
+NEUT3|There are several pointers which are positive and some which are negative.
+NEUT4|You look at this chart here.
+BULL5|What you can see here is since 2016, Astra Zeneca in Green has tended actually well for the last couple of years to outperform its sector.
+NEUT6|The sector of pharmaceutical companies.
+NEUT7|And the broader Footsie 100 index.
+BULL8|In that way it's good.
+NEUT9|However, that's historical.
+NEUT10|How does that help us going forward?
+BEAR11|The consensus amongst the brokers seems to be that it's an outperform.
+NEUT12|Well, you'd expect that.
+NEUT13|Target price that the that the analysts as a group collectively have put for it on average compared to the current price would see you getting a 24% return on this tend to be over optimistic, but that seems fair enough.
+BULL14|I mean fairly good positive news.
+NEUT15|What about valuation?
+NEUT16|Surely it is overvalued.
+NEUT17|Well, actually, when you measure the share price compared to the profits attributed to each share, then you're paying 25 times each pound of profit in the share price.
+NEUT18|So if your company is making just one pound in profit, you'd be buying the company for £25.
+NEUT19|That's what price earnings basically means, and multiple of 25 isn't actually overly expensive.
+NEUT20|In actual fact you might say, well, wait a minute, hang on I'll push that seems a bit.
+NEUT21|I mean, how come people haven't caught on and it might be that people didn't expect AstraZeneca to be the 1K price to forward cash flow.
+NEUT22|However, at 207 multiple all that worries me a little bit.
+BULL23|So yes, there is a case to be said that it is a tiny bit undervalued.
+NEUT24|Not much a tiny bit, but there are other cases to say orbit expenses you can see on the risk profile.
+NEUT25|You might many of you might say hang on.
+NEUT26|I don't think I want to take that level of risk as there is obviously some.
+NEUT27|Level of risk, particularly if we look at other things, forecast growth, all greens not too bad over there, however.
+NEUT28|Dividends, I'm sure they're going to up their dividends now anyway.
+BEAR29|Cash flow that's a bit low.
+BEAR30|2.8% in my book is a little bit low.
+NEUT31|Return on capital invested.
+NEUT32|I would have liked to have seen bigger numbers.
+NEUT33|My point to you is this.
+BEAR34|Is it a bad one?
+NEUT35|Well, if you can't think of others, you know it's not.
+NEUT36|It's not going to be dangerous, it is still slightly overvalued slightly in the expensive category.
+NEUT37|If I were to compare it to other stocks, 'cause that's what you should do.
+NEUT38|You should look at it relative to everything else and I'll do a separate one about or condo.
+NEUT39|Where are where's?
+NEUT40|AstraZeneca is down here from my own valuation, valuation, growth, income.
+NEUT41|It's only got a five.
+BEAR42|OK, that isn't particularly good.
+NEUT43|Sortino is a measure of average returns and the volatility of the share price.
+NEUT44|1/2 N .5 that's not particularly good that you want that number to be as high as possible.
+NEUT45|There are stops which do better.
+NEUT46|So what often pains people is hang on.
+NEUT47|What you're saying is it's in the news.
+BULL48|There's all this we we think we could get ahead, but in actual fact there are other companies which might give us a better return and that's what concerns me about it.
+NEUT49|So for me personally, I'm not planning to get into Astra Zeneca.
+NEUT50|I'd rather going to look at some of the others and I'll do videos about some of the others.
+NEUT51|Follow, share me, do all the usual show social media stuff.
+NEUT52|"To see those future videos, thank you very much."""

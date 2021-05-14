@@ -1,0 +1,18 @@
+NEUT0|"""Hello, welcome to today's technical analysis for March 4th, 2016."
+NEUT1|I'm Celina, Nicholas, technical analyst, that extend.com.
+NEUT2|Today we will look at the British pound versus U.S. dollar on the daily chart.
+BEAR3|The recent rebound from multi year lows has told today the RSI has failed to continue its rise and pause just below the 50 line, suggesting upside momentum has weakened GBP USD.
+BULL4|Sage to study rally from a low of one point, 3834 reached earlier this week on February 29th and rose steadily all week to reach a high of one point 4193 on Thursday.
+NEUT5|The key level.
+NEUT6|At one point, 41, is now a target to the downside and a break below.
+BEAR7|This would bring one point 14 to sight and failure to support at this level would indicate that this week's corrective move has stopped at one point.
+BULL8|4193 and this would strengthen the bearish outlook.
+NEUT9|To the upside, from current levels, the resistance level lies at one point 4248, and this is where the key ginsan line converges with the 50% Fibonacci retracement of the down Lake from one point 4667 to one point 3834.
+BEAR10|If we look at the daily chart, overall, we can see the moving averages there falling and also the shorter term moving average of 50 day.
+NEUT11|It's negatively line.
+BEAR12|It's below the other two moving averages and this is supporting a bearish bias.
+BEAR13|Also might be trending down.
+BEAR14|It's below 0.
+NEUT15|This is bearish as well.
+BEAR16|Meanwhile, if we look at the tank and send it's below the Kijun Sen line, this is a bearish signal and also the market is below the HMO cloud which also highlights the bearish market structure.
+BULL17|"Thank you for watching and have a great day."""

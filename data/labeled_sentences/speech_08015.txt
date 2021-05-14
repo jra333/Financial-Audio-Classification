@@ -1,0 +1,39 @@
+BEAR0|"""When the stock market is talking about going up 100 points or down 200 points."
+NEUT1|The obvious question is what's the point?
+NEUT2|Everybody knows what the stock when it goes up, appoints a dollar, a dollar, a share.
+BULL3|So if you hear somebody talking about Exxon Rising 2 points, it rose $2.00 a share.
+NEUT4|But with indexes like the Dow Jones Industrial average points don't really correspond to dollars at all.
+NEUT5|And so the question comes up, why?
+NEUT6|What are those points mean?
+NEUT7|The answer goes back to history when the Dow was first created, it had 12 stocks and each of those 12 stocks.
+NEUT8|The way that you came up with the Dow was you added the value of those 12 stocks.
+NEUT9|The stock prices of each of those twelve companies, and that was your Dow average.
+NEUT10|What messed up that simple calculation?
+NEUT11|Is something known as a stock split?
+NEUT12|Now?
+NEUT13|What happens with the stock split?
+NEUT14|Is that a company decides that they want to say double the number of shares that they have, and So what they do is they issue those shares and on that day they say each share now represents 1/2 of the interest in the company that it used to.
+NEUT15|What happens therefore, naturally is that the share price of that stock gets cut in half as well.
+NEUT16|Now for an investor that makes no difference at all.
+NEUT17|Before you may have had 100 shares of stock that was worth about $50 a share.
+NEUT18|After the split, you have 200 shares of stock worth, about $25 a share.
+NEUT19|Your total value still roughly the same.
+BEAR20|But what it does to the Dow is that it messes up the addition that you do.
+BEAR21|The people who calculate the Dow were faced with a conundrum.
+NEUT22|How do they keep the Dow flat reflecting the stock split?
+NEUT23|And so they came up with the Dow divisor to do it?
+NEUT24|Basically, the Dow divisor changes whenever a stock decides to do a split and it's what changes to whatever number is necessary to nullify the effect that the split would have.
+NEUT25|So what the Dow's point system does, is it?
+NEUT26|Keeps the value of the average tide to the actual stock prices of its components, and so it gives you a proxy for.
+NEUT27|Really just the overall price movements of the underlying stocks as a whole.
+NEUT28|You know a lot of people would probably love to just get rid of this whole thing and talk about the market going up 1% and down 1% instead of dealing with these points.
+NEUT29|But in actuality, the point system actually resonates with a lot of the general public.
+NEUT30|You certainly would never have any news about the Dow having risen 28% over the past year, but when you had Dow 10,000 or Dow 12,000, anytime the Dow hits any kind of point milestone, it seems like it's 'cause for celebration among the financial media.
+NEUT31|And it's something that ordinary people pay attention to.
+NEUT32|So I don't think that the point system is antiquated and confusing.
+NEUT33|Is it?
+NEUT34|Sometimes is it's not going to go away anytime soon.
+NEUT35|And frankly, I don't think it should.
+NEUT36|It's a good way to keep track of things and to maintain a connection with history.
+NEUT37|Showing just how far the US stock market has come in.
+NEUT38|"Its more than 100 year history."""

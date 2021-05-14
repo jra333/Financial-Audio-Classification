@@ -1,0 +1,34 @@
+NEUT0|"""So if 2020 was the year of the pandemic, what is 2021 going to be the year?"
+NEUT1|Oh my goodness, I wish I had a glass bowl to know what 2021 was going to be the year of, but let's hope it's the year over new normal.
+BEAR2|It's been tumultuous for sure.
+NEUT3|If we can think of some good things it could be that 2021 will start to see investments into nature as well as into climate.
+NEUT4|In our view, the economy today is wild and by wild we mean wasteful idle, lopsided and dirty.
+NEUT5|But what we also realizing at Lombard JDA was that there is a transition happening.
+NEUT6|It's already underway, and that is what we call a click economy.
+BULL7|And that's a circular lean, inclusive and clean economy.
+NEUT8|And we love the fact that the acronym CLICK also Encompases digitalization and technology because for us, that is a key enabler of the transition is greener becomes cheaper.
+NEUT9|That's exactly when investors can wake up and say, actually, this isn't about ethical investing.
+NEUT10|This is about returns.
+NEUT11|We've seen oil and gas companies that have woken up to the need to transition and have completely changed themselves around becoming renewable energy companies.
+BEAR12|And you've seen the valuations of these companies skyrocket.
+NEUT13|I think the pandemic has provided a catalyst, but it's not the only catalyst.
+NEUT14|I think a lot of this change was already happening.
+NEUT15|2021 is a year where we're going to see a lot more regulation on sustainability, and we've got COP 26 happening in Glasgow.
+NEUT16|We expect to see a lot more.
+NEUT17|Countries coming out with targets on climate.
+NEUT18|With the new Green Deal, we saw, the plastics tax is just coming in January.
+NEUT19|We're expecting in 2021 to see more regulation for companies on how they need to disclose on nature while regulation is changing.
+BEAR20|It is still a little bit lagging towards what is needed.
+NEUT21|We're constantly developing new tools, new methodology's and one of those tools we've recently developed as a temperature alignment tool so that we can look at where companies are.
+NEUT22|Position today in terms of their temperatures trajectory, whether they're aligned with Paris, the Paris Agreement in Netzero, and for us we believe it is absolutely vital to do that level of analysis.
+BULL23|We want to find those companies that really are reacting fastest, and we're excited by the opportunities ahead.
+NEUT24|We see huge amounts of investment opportunities, urbanization as a trend will be something in focus in 2021, but certainly this should mark a point in time for cities to rethink.
+NEUT25|The way they're structured, there's so much that could be rethought.
+NEUT26|Electrification is really exciting because it's driving change.
+NEUT27|It's driving much more sustainability.
+NEUT28|We just need to think outside of the box and away from it.
+NEUT29|Being an electric car, if we can think about electric 2 Wheelers, electric pods, electric cooks in in, in developing markets.
+NEUT30|I was super excited about micro mobility.
+BULL31|I'm hopeful that 2021 will really bring an acceleration in focus on sustainability, and that's that.
+NEUT32|Focus will broaden sustainability beyond climate and encompass nature as well and nature is vital and we have to protect it.
+BULL33|"And we have to invest in it and it's there are lots of opportunities across the spectrum of natural capital to invest."""

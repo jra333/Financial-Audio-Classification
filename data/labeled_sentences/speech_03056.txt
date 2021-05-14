@@ -1,0 +1,19 @@
+BEAR0|"""Around Facebook's IPO, there was just there was so much hype."
+NEUT1|Regular retail investors cable with retirement funds.
+NEUT2|Teenagers who use the app everyone wanted to invest is an awesome moment right after it went public, it tanked.
+BEAR3|Facebook stocks slipped on concerns that they weren't going to be able to figure out this growing shift of their users to mobile phones, but eventually they did put these promoted posts that work so well on desktop computers into their mobile app.
+NEUT4|This was driven by Sheryl Sandberg, who was really trying to encourage marketers to spend on mobile.
+NEUT5|Zuckerberg himself told engineers to build mobile first.
+NEUT6|In fact, if they didn't present the mobile side of there.
+NEUT7|Apps first at meetings he would start over again.
+NEUT8|Facebook has 1.65 billion users.
+NEUT9|In order to continue to grow they need to have other properties.
+NEUT10|They acquired Instagram for 700,000,000 around the time of their IPO a couple years later they acquired WhatsApp for 22 billion.
+NEUT11|They also spun off Messenger, the Facebook chat service into its own app.
+BULL12|This multi app strategy is helping Facebook think of other ways to generate revenue beyond the main app.
+BULL13|Now Facebook makes more than 80% of its revenue from mobile, up from zero at the time of its IPO prospectus.
+BULL14|So that's really driven this growth in Facebook stock, and it's now more than triple its IPO value.
+NEUT15|When companies are growing as fast as Facebook is, it's very easy to forgive their mistakes.
+NEUT16|They've had some apps that never got off the ground, some acquisitions that never got done.
+NEUT17|But as long as the revenue keeps growing to record highs, Wall Street is going to turn a blind eye and say.
+NEUT18|"Zuckerberg do whatever you want."""

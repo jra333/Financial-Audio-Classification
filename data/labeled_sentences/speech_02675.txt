@@ -1,0 +1,21 @@
+BEAR0|"""The uneven nature of how the pandemic has affected the US economy adds friction to the recovery, and it's limited the efficiency of monetary policy tools."
+BULL1|As of the end of 2020, US real GDP had climbed about 75% of the way back from the Q2 low point, while jobs were only 55% of the way back from their previous pre pandemic peaks.
+BULL2|In the meantime, equity indexes were well above pre pandemic Hieizan regularly setting new records.
+NEUT3|The challenge is that some sectors of the economy, such as services involving tourism, restaurants, hotels, airline, other sectors like education.
+BEAR4|These sectors were hit very hard.
+BEAR5|An restrictions still hamper any recovery.
+BEAR6|This may well reverse at some point in second half of the year.
+BULL7|Once widespread vaccinations allow for a full reopening, the economy and the pent up demand for travel and dining kicks in.
+BEAR8|For now though, it is a very uneven recovery.
+NEUT9|The monetary policy implications are complex.
+NEUT10|The Federal Reserve has used its power to lower short term interest rates to near 0 and to purchase trillions of U.S. Treasuries and mortgage backed securities.
+BEAR11|Yet these powerful tools have mostly worked to support bond and equity prices, and they have not been much help for the economy, or at least not as much help as one might have hoped.
+NEUT12|Consumers are dealing with the virus and trying to stay safe, so interest rates are not currently a primary factor in most economic decisions, except possibly for by.
+NEUT13|Buying a house.
+NEUT14|Corporations in certain service sectors as noted earlier or facing severe disruptions in demand, and again, they're not making decisions based on interest rates, but based on how to keep their businesses running in these tough times.
+BEAR15|The job market particularly shows the challenges of broad based policies designed to lift all boats when the economic damage has been so uneven.
+BEAR16|Over 850,000 new people are still applying for unemployment insurance every week compared to about 200,000 before the pandemic.
+BEAR17|There's still 3,000,000 more people receiving unemployment insurance benefits compared to pre pandemic levels.
+BULL18|U.S. economy is still 10 million jobs below the pre pandemic peak and employment optimism about the recovery is likely to follow the path of vaccine distributions which will allow for the full reopening of the economy.
+BULL19|Until then, fiscal policy can help cushion the blow with monetary policy largely having done what it could.
+NEUT20|"I include Putnam, chief economist, CME Group."""

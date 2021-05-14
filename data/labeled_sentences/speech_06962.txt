@@ -1,0 +1,14 @@
+NEUT0|"""What's up guys?"
+NEUT1|Thanks for checking out this special video.
+NEUT2|There are so many ways to make money online.
+NEUT3|Thousands of ways.
+NEUT4|But in this video I will show you my most favorite, an efficient method to make money online.
+NEUT5|Are you ready?
+NEUT6|Looking for a way to get started investing, or maybe you're a seasoned investor looking for new ideas at The Motley Fool.
+NEUT7|We've got something for every investor from stock picking services like stock advisor and rule Breakers, to model portfolio services like Supernova, an $1,000,000 portfolio.
+NEUT8|We seek out great companies to invest in for the long term and our services span a variety of investing strategies including high growth, dividends and options.
+NEUT9|Check us out at start.fool.com, The Motley Fool.
+BULL10|Helping the world invest better.
+NEUT11|Thank you guys for watching this video.
+BULL12|I hope this review helped in a way or another.
+NEUT13|"Make sure to click on the link in the description and receive my special discounted promo price."""

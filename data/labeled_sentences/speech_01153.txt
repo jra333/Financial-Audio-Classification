@@ -1,0 +1,26 @@
+BEAR0|"""Hey guys, shares of Tesla slide sharply on Monday extending or bearish feel weak for the start."
+BEAR1|It finished almost 6% lower.
+BEAR2|The electric carmaker share will likely down on Monday due to weakness in overall market, particularly in the tech stocks.
+BEAR3|So what now, reflecting the tech stocks, sell off on Monday?
+BEAR4|The tech heavy NASDAQ composite fell 2.4% even as the S&P 500 many growth stocks.
+BEAR5|Like Tesla fell even more sharply, Monday's market dynamic represented a continuation of trend in recent week of the tech stock.
+BEAR6|Taking a breather after a big run, Tesla stock has been hit specially hard, declining more than 30% since mid February.
+BEAR7|It is now down by more than 20%.
+NEUT8|So what now?
+NEUT9|What we should expect from Tesla investors should note that Tesla stock is.
+BULL10|Still up about 300% over the past 12 months.
+NEUT11|And 570% since the beginning of 2020.
+BULL12|It's not too late, surprisingly, to see the growth stock pullback growth.
+NEUT13|Stocks are generally more than volatile than the overall market.
+NEUT14|Investors should plan for more volatile from the stock, like Tesla.
+NEUT15|On the other hand, shareholders should simply remain focused on the company.
+BULL16|On that note, management guided for its year over year, vehicle delivery growth to accelerate this year compared to last year.
+BULL17|We are planning to grow our manufacturing capacity as quickly as possible.
+BULL18|Tesla said in his recent fourth quarter shareholder letter over a multiyear horizan we expect to achieve 50% average annual growth in vehicle delivery in some near.
+BULL19|We may go faster which we expect to be in the case of 2021 competition is increasing.
+NEUT20|That's why Tesla is planning to deliver vehicles faster than ever in 2021.
+NEUT21|So these are the future plans of Tesla.
+BULL22|I believe that it's a good chance to add more.
+NEUT23|Will see that this come on.
+NEUT24|It's the part of the game.
+BULL25|"Once the sales will increase, everything will be fine and we all know that in the long run, fiscal eyes and awesome and much blue."""

@@ -1,0 +1,12 @@
+NEUT0|"""Alright, let's take a look at the Apple stock."
+NEUT1|We can see from this dirty chart here.
+NEUT2|It formed a green candle.
+NEUT3|The discrete can now has an important.
+BULL4|Meaning tours because we can see from this chart the volume is comparatively large than yesterday.
+BULL5|So it's already breakout from the yummies, so in my opinion it's a very constructive sign for Apple stock and it.
+NEUT6|It has been very possible to go advance from here because the volume here says somebody is buying in and somebody believe.
+NEUT7|The bottom has been not so in my opinion.
+NEUT8|The Apple stock will.
+NEUT9|Go higher from here slowly.
+BULL10|And then even make a new high in the meter so that the US stock market can advance a little bit with the Apple stock because I will stop is the leader.
+BULL11|"Thank you."""

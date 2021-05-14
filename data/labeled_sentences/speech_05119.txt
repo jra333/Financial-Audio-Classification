@@ -1,0 +1,24 @@
+NEUT0|"""Hi, this is second readings by Andre or every prediction."
+NEUT1|Like maybe a prediction frame accounts below.
+NEUT2|Today we're talking about Netflix stuff that just came out not that long, is it?
+NEUT3|Bleep sound.
+NEUT4|Just make sure we can, at the low point.
+NEUT5|I don't fly up here when everybody's excited.
+NEUT6|This usually after everybody's excited, it'll be come down and you'll be crying.
+NEUT7|Already.
+NEUT8|Why no?
+NEUT9|Number one rule by love.
+NEUT10|When it's pennies, almost dollar that we buy that when it's up here, OK?
+BULL11|I have some good feelings about this one.
+NEUT12|It will be around for quite some time now.
+BEAR13|Most people are saying that Netflix is not angry with him.
+NEUT14|Go bye bye.
+NEUT15|Don't listen.
+NEUT16|Do you due diligence?
+NEUT17|Know what you're doing.
+NEUT18|Get with somebody who knows how to do it.
+NEUT19|And got some Netflix stuff like that.
+BULL20|Thank everyone who's been donating down below.
+NEUT21|Make sure you get your 15 to 35% off Amazon purchases.
+NEUT22|Remember to like subscribe.
+NEUT23|"I'll see you in the future."""

@@ -1,0 +1,11 @@
+NEUT0|"""Welcome to Investor mania, brother."
+NEUT1|Death Star CEO Darth Bezos strikes again.
+BEAR2|Amazon's E Pharmacy dropped this week, offering prime members free two day shipping and savings on prescription meds.
+NEUT3|Amazon has over 110,000,000 U prime members.
+BEAR4|That's a major code red to the OG pharmacies, which sell hundreds of billions of dollars in prescription meds.
+BEAR5|Each year for the week Walgreens stock dropped 12% and CVS fell 6% Good, RX plunged 18% since it is the Expedia of prescription drugs.
+BEAR6|Amazon's steep discounts threaten its entire value proposition.
+NEUT7|It's one of the more reasons to buy Amazon if you didn't already have enough reasons to buy Amazon.
+NEUT8|On the other hand.
+NEUT9|I would steer clear of the legacy pharmacy companies because right now it is a battleground.
+NEUT10|"Until next time my name is Jordan Knight and this has been Investor Mania."""

@@ -1,0 +1,41 @@
+NEUT0|"""One of the biggest names in business is back to trading."
+NEUT1|Following a long hiatus.
+BEAR2|Billionaire hedge fund founder and philanthropist George Soros is making a series of big bearish investments.
+NEUT3|WSJ's Greg Zuckerman wrote today's page one story on this in Wall Street Journal news editor Geoffrey Rogow joins us now to discuss.
+BULL4|Hi Jeff, thanks for being here.
+NEUT5|So what's known about why Soros has chosen to come back now?
+NEUT6|Yeah, I mean, ultimately Mr Soros, when he sees what he views, are trades of a lifetime, he puts down his philanthropist at he puts down his.
+NEUT7|Put a client is alright.
+NEUT8|I'm pushing everyone away and I'm making the trade because he's no longer been running his fun for awhile.
+NEUT9|He doesn't run his fund he is run by, you know sort of people still his money.
+NEUT10|It's not outside investors his money and he viewed this during the housing crisis in 2007.
+NEUT11|He made very big bearish bets in housing market, made a billion dollars on those bets.
+BULL12|He's seeing what he thinks is a similar opportunity.
+NEUT13|Now he's making very bearish bets and he's doing himself.
+NEUT14|And what are those bets alright?
+NEUT15|So there's two big bets or he's betting on gold and this is something that when you think that the world is going to end, you buy a lot of gold.
+NEUT16|And the second thing he's doing is is a big bearish bet on China.
+BEAR17|This we know the Chinese economy is slowing down, but he views that as being very big structural issues in the Chinese economy and those issues are going to take down Chinese stock market and other parts of the world that are tide to Chinese growth.
+NEUT18|He's known for being bearish in general though, isn't he?
+NEUT19|Absolutely?
+NEUT20|I mean he's not a.
+NEUT21|He's famous for two very concrete examples of bearishness.
+BEAR22|One is he credited as being the mayor took down the Bank of England and this was a very bearish bet on the pound.
+NEUT23|And he also did a similar bet in Asia.
+BEAR24|This is first bearish bonasia.
+NEUT25|He was one of the men who is credited with some series of bearish bets in Southeast Asia, specifically in the Thai baht that led to the 1997 Asia Crisis, right.
+NEUT26|That said, he denies some of, I think part of the reason he has this view is is become political in that part of the world.
+NEUT27|The Thai leader at that time blamed him for the entire Asian financial crisis and he is 85 years old.
+NEUT28|What is he been focusing on?
+NEUT29|Up to this point?
+NEUT30|But most lately he's been focusing on getting Hillary elected president.
+NEUT31|Well, I guess so far.
+BULL32|He's been doing a good job with that.
+NEUT33|He's also had a lot of philanthropy that he's been supporting as well, correct?
+NEUT34|Absolutely everything from medical research to impoverished parts of the world and trying to trying to get more money trying to help raise the minimum wage in some parts of the world.
+BEAR35|As we commented on the current US bull market at all, yeah, so this is part of it, and he believes that the Chinese market is so bad it's going to takedown the US stock market with it.
+BULL36|And he's made a very.
+NEUT37|We actually don't know what bets he's made in the US, but we know they have in bearish on the future of the US stock market.
+NEUT38|Alright?
+BULL39|Jeff, Ergo, thank you so much for all of that.
+BULL40|"Great to see you."""

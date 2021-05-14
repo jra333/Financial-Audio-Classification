@@ -1,0 +1,12 @@
+NEUT0|"""Steven, what is different about this latest OPEC plus deal?"
+NEUT1|Unlike other deals in the past, this deal actually has a measuring it to ensure that production cuts in May or June are met and that laggards will have to make up the extra reductions from July to September to compensate.
+NEUT2|If they don't agree, or if they don't cut what they agreed to do, you know the first OPEC output surveys showed that engola, Iraq, Kazakhstan, Nigeria weren't exactly squeezing supply.
+BEAR3|Nearly as much as they had promised, this has been a bit of an issue for OPEC for decades, but it's come under bigger scrutiny now that Russia and Saudi Arabia are really pushing for folks to cut, output and bring the market back into balance.
+BULL4|So with this sort of stricter view on the market, there's an expectation that the cuts will be made and this could help bring a faster E balance forward.
+NEUT5|And So what are we seeing in terms of measures from Saudi Arabia to try and boost market prices?
+NEUT6|You know, not only do we see Saudi Arabia be one of the most aggressive in terms of just cutting their output, they've now come out with their pricing scheme for July.
+NEUT7|They put this out every month and it's in either a discount or premium to the market.
+BULL8|And what you're seeing now is that their July exports are have jumped basically to the biggest price increase for its oil in at least two decades, doubling down on its strategy to really pull bolster the oil market in particular.
+BEAR9|The steepest jump will hit July exports to Asia.
+BEAR10|Now this comes after March where they had cut their prices significantly to try to capture market share from Russia.
+BULL11|"So this move shows that they are not at odds with Russia and also they're trying to shore up prices so that the physical market sort of follows in step and you see a rebound going forward."""

@@ -1,0 +1,11 @@
+NEUT0|"""Hello, welcome to today's technical analysis for January 5th, 2016."
+NEUT1|I'm Celina, Nicholas, technical analyst, that xm.com.
+BEAR2|Today we will look at Dollar Yen on the daily chart, USD, JPY stabilized on Tuesday after reaching at 2 1/2 months low on Monday at 118.69 sustained trading below 118.05 October low would expose the 116 point 11.
+BULL3|Low reached in August for a retest.
+BEAR4|The technical indicators are giving bearish signals if we look at the tank and sennenki jinsan lines, they're both negatively line than both pointing South, meaning current.
+BEAR5|Downside momentum is very negative.
+NEUT6|The level of 119.27 is important.
+NEUT7|It's actually the 76.4% Fibonacci retracement of the 118.05 to 123.74.
+BEAR8|October to November Rise Close below this level would have bearish implications and increase the likelihood of a break of the low of 118.05 R's size in bearish territory below 50 and it's falling, which is also highlighting the bearish bias.
+BEAR9|Also, the market is below the daily ichimoku cloud prices would need to break above list in order to shift the bearish buys.
+BULL10|"Thank you for watching and have a great day."""

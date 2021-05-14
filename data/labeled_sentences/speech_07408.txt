@@ -1,0 +1,23 @@
+BULL0|"""U.S. bank both say US Bancorp is in a good position to enter new expansion markets and to take share strong fee revenue in Modi businesses such as payments helps insulate US Bancorp from a flatter yield curve environment and drive higher returns on equity."
+BULL1|US Bancorp has one of the best deposit market share concentrations among peers and consistently runs one of the most efficient operations.
+NEUT2|This is likely to continue.
+BEAR3|Berset the bank still faces stiff competition within payments, often against players with even more scale than US Bancorp.
+BEAR4|COVID-19 will be devastating for the economy and likely devastating for the banks.
+NEUT5|There is no way to know for sure how hard the banks will get hit or how bad things might get.
+BULL6|Fintech will keep innovating and advancing pressuring profitability for the entire banking industry as well as the payment space.
+NEUT7|Analyst ratings by 35% hold 48% sell, 17% market cap.
+NEUT8|55.97 billion average volume 10.99 million dividend yield 4.42%.
+NEUT9|General Motors.
+BULL10|Bull say GM, can charge thousands of dollars more per vehicle and light truck segments higher prices with fewer incentive dollars allow GM to get more margin per vehicle, which helps mitigate a severe decline in light vehicle sales and falling marketshare.
+BEAR11|Gmas break even point of about 10 million 11 million units is drastically lower than it was under the old GM.
+BULL12|The company's earnings should grow rapidly as GM becomes more cost efficient.
+BEAR13|GMs, US hourly labor cost is about $5 billion, compared with about $16 billion in 2000.
+NEUT14|Under the old GM.
+BEAR15|There say auto stocks are often sold off severely because of macro economic concerns, even if the bottom up story looks attractive, GM may have to see a US recession to prove it can do much better than old GM before the market will award the stock.
+BULL16|A higher PE multiple.
+BEAR17|the US auto market is becoming more crowded each year.
+BULL18|Hun day, Tesla and other firms such as new entrants from China may take more share overtime from existing players such as GM.
+NEUT19|Analyst ratings by 83% hold 17% sell, 0% market cap 32.88 billion average volume 22.25 million dividend yield 6.32%.
+NEUT20|As always, be sure to let me know your thoughts down in the comments.
+NEUT21|Be sure to smash that like button.
+BULL22|"Thank you so much for tuning in and I will catch you in the next video."""

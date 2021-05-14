@@ -1,0 +1,33 @@
+BULL0|"""Hi everybody, Jason Moser here analyst with Motley Fool, One thanks for joining us for another edition of Ask a fool."
+NEUT1|But today we're taking a question from Erica Johnson and Erica asks what are some good stocks to get started for small started in and for small time investors?
+NEUT2|I've read that $200 per stock is a good price point to aim at.
+NEUT3|Is that good advice?
+NEUT4|A couple of questions there, Erica, and I'm happy to answer them both.
+NEUT5|But when you're looking at stocks to buy, whether you're looking at investing in stocks or mutual funds or index funds.
+NEUT6|The primary focus needs to be on minimizing your transaction costs.
+NEUT7|Once you've found an investment you want to be part of, make sure the transaction costs, and that's the amount that you're online brokerage will charge you to buy or sell a stock.
+NEUT8|Make sure that cost doesn't exceed 2% of your total purchase.
+NEUT9|It's a good rule of thumb that we use and it helps protect your returns and keep you from paying too much.
+NEUT10|Nowadays, many brokerages offer Commission free trading with certain balances or other qualifiers, so definitely investigate that by checking out our brokerages section to fool com.
+NEUT11|And the way to get there is from the very from the front page of full.com.
+NEUT12|Check out the final broker link under the How to Invest tab and that will guide you through to help you and help you find the different different types of brokerages that are out there.
+NEUT13|So let me give you an example.
+NEUT14|My accounts are actually the Scottrade.
+NEUT15|Scottrade charges a $7.00 transaction fee whenever I buy or sell a stock.
+NEUT16|So for me to keep within that 2% threshold I want to make sure that I invest at least $350.00 at one time.
+NEUT17|2% of $350.00 is $7.00 and so that keeps me within that threshold.
+NEUT18|If you have an account where the Commission is zero, well then you don't have to worry about this because 2% of 0 is still 0.
+NEUT19|But that's the way you want to approach this question.
+NEUT20|Make sure you are minimizing your transaction costs and that will help you overtime save from paying too much.
+NEUT21|It will protect your returns.
+NEUT22|Now as far as good stocks for beginning investors, you know there are a lot of different ways you can go with that.
+NEUT23|We talk about this kind of stuff at stock advisor all the time, but really, you know whether it's stock advisor.
+NEUT24|I mean, one of my investing heroes is Peter Lynch and he's always taught us to invest in things that we.
+NEUT25|Understand, and so I think if you can follow that rule of thumb, invest in companies and businesses that interest you.
+NEUT26|Businesses that you understand that you see every day.
+NEUT27|I think that's a great way to get started and so some of the low hanging fruit there you could look at things like Starbucks.
+NEUT28|Perhaps Google, perhaps Amazon or Apple.
+NEUT29|Those are four great companies that we cover in our foolish universe that were very positive about today and as long term investors there great place to start.
+NEUT30|But definitely you can find out more ideas if you just go check out full com.
+BULL31|That's what we're here for, so thanks again for the question and For more information.
+NEUT32|"Don't forget to check out full com."""

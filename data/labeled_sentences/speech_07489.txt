@@ -1,0 +1,22 @@
+NEUT0|"""Vechain News and price prediction, October 20th."
+NEUT1|In today's Vechain news and price prediction, Vechain makes food safer.
+NEUT2|Alright, let's get started.
+NEUT3|The Vechain Foundation announced a blockchain based food safety solution based on its blockchain as a service platform tool chain.
+BULL4|The chain's newly released tool offers a suite of white label services that will allow the food sector to implement on chain safety management services.
+NEUT5|These services include trace ability templates which track things like Origin Trace ability, cross border trace ability.
+NEUT6|Full process trace ability and more.
+BULL7|They have high hopes that the tool will be useful for many sub sectors in products such as fresh food, dairy, alcohol and wine and imported food companies will also gain access to third party services such as PwC Deloitte, DNV GL.
+NEUT8|Juice the cost of certification, auditing, insurance and supply chain financial services, lifecycle food traceability.
+NEUT9|Vechain stated that most boss platforms and companies on the market today provide only assistance for high level framework services such as deployment of nodes.
+NEUT10|They elaborated that this massive barrier of entry hinders the adoption of blockchain in the food sector with Vechain toolchain ready to use, blockchain applications can be deployed and implemented quickly to solve real business needs.
+NEUT11|The foundation is also providing built in.
+NEUT12|Ready to use templates modeled for food cultivation, processing, packaging, logistics, retail and more.
+BULL13|the United States Food and Drug Administration or FDA recently released a blueprint and pilot study for food safety, highlighting blockchain as a viable option for some of the identified challenges.
+BULL14|Cointelegraph also reported in July that the team behind the Cardano blockchain Io, HK recently partnered with Wyoming based company Beef Chain.
+BULL15|They too hope to use blockchain technology to improve food, trace ability and security.
+NEUT16|That's what's been happening this week in the world of Vechain news and price prediction.
+NEUT17|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to crypto health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of Vechain news and price prediction.
+NEUT18|If you enjoyed this edition of Vechain News and price prediction, leave a comment and please hit the like or share button.
+BULL19|We'd really appreciate it.
+NEUT20|Are you still watching and want more?
+NEUT21|"Check out last week's Vechain news and price prediction by checking out our Vechain Foundation playlist."""

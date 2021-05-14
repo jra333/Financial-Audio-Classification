@@ -1,0 +1,36 @@
+BULL0|"""The Evergreen State College is a public liberal arts institution nestled in the beautiful Pacific Northwest."
+NEUT1|Sitting at the base of the Puget Sound on the outskirts of Olympia, WA, downtown Olympia is just 15 minutes from campus and has lots to see and do.
+BULL2|Stuck up on organic produce at the farmers market?
+NEUT3|Check out the local coffee shops or catch a film screening at the historic Capitol Theater.
+NEUT4|If you're after something a little more Metropolitan, Tacoma, Seattle and Portland are all less than a 2 hour drive away.
+NEUT5|When it comes to the great outdoors, we've got you covered.
+NEUT6|Take in the majestic waterfalls of the Columbia River Gorge.
+NEUT7|Watch the sun come up over the Pacific Ocean, or take a hike in Mount Rainier National Park a short day trip is all it takes to get you up close and personal with these and many other natural wonders.
+NEUT8|If you don't want to get off campus, there's still plenty to do.
+NEUT9|We have over 100 student designed clubs and social groups.
+NEUT10|Outdoor Leadership Office organizes activities to enjoy in groups or as a solo adventurer.
+NEUT11|We also have some great sports teams who play in the N AIA division.
+NEUT12|These include men and women's soccer, basketball track and field, and volleyball.
+NEUT13|Surrounded by 1000 acres of lush forest evergreens, campus is more than a great place to let your mind wander.
+NEUT14|It's also a natural environment for learning.
+NEUT15|With many traditional majors, Evergreen offers the ability to customize your education, giving you ultimate flexibility and control.
+NEUT16|Every class you take in Evergreen will integrate multiple subjects, helping you connect dots and find ways to innovate your specific course of study.
+BULL17|This, combined with our hands on approach to learning and you'll be ready to take your problem solving skills into the real world.
+NEUT18|In addition to the regular academic coursework, you'll have access to open Lab and studio spaces.
+NEUT19|Each space is staffed with faculty and student workers to teach you new skills or help with existing hobbies.
+NEUT20|You'll have access to the ceramics studio, the wooden metal shops, the Natural History Museum, personal chemistry labs, and the aquarium, plus many more.
+NEUT21|Higher education doesn't have to be high cost.
+BULL22|We have tons of scholarships and tuition awards to help you offset college expenses and make your Evergreen experience as affordable as possible.
+NEUT23|Yearly tuition is just over $7000 for Washington residents and $27,000 for out-of-state students.
+NEUT24|Appan application, you'll automatically be considered for one of our merit scholarships.
+NEUT25|The Evergreen State College is also a member of the Western Undergraduate Exchange Program.
+NEUT26|The application deadline for additional scholarships is February 1st and requires a separate application.
+NEUT27|It's always a good idea to apply early.
+NEUT28|Applications for admission are now open.
+NEUT29|You can apply at evergreen.edu/apply or through the common application along with the admissions application.
+NEUT30|You'll need to submit your official high school transcripts and SAT or AC T scores.
+NEUT31|You can also apply test optional by submitting an essay in lieu of your test scores.
+NEUT32|While we don't have a minimum GPA, we recommend that students with a GPA lower than 2.7 submit an essay resume, letters of recommendation or conduct an interview to supplement their application.
+NEUT33|The application priority deadline is December 1st.
+NEUT34|To receive your free information packet about the Evergreen State College, fill out the form at info.evergreen.edu/requestinfo.
+NEUT35|"For help with your application or to get your questions answered, please contact your admissions counselor."""

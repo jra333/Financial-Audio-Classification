@@ -1,0 +1,20 @@
+BULL0|"""We've had another day of relative calm on the stock market."
+BULL1|Investors across the world continue to behave on the assumption that it's alright.
+NEUT2|After all.
+BEAR3|We do, however, see a full in the main stock indices here in the US into the close.
+NEUT4|That's almost entirely down to the oil price, so we can show you here and it won't be surprising there's a very close link indeed between energy stock prices and the crude oil price, you had a genuine surprise from the oil markets daily kind of thing that.
+BEAR5|The stock market in general isn't good at discounting the supplies of oil here in the US were higher than people thought that pushed the price further down.
+BEAR6|WTI crude nearly got down to $80.00 a barrel.
+BEAR7|That was bad news for energy stocks now.
+BEAR8|The oil price has varied impact on stocks.
+BEAR9|Plainly it's bad for energy stocks.
+NEUT10|It tends to be better for everybody else.
+NEUT11|If you strip out energy companies from the S&P, then there is again so far this year.
+NEUT12|Total return of seven point 7% according to S&P.
+BEAR13|Meanwhile, SNP energy companies themselves down 3 1/4% even including dividends.
+NEUT14|It obviously helps to skew perceptions.
+NEUT15|Now as it comes into the end of the week, plainly the greatest event risks that we can see coming are in Europe.
+NEUT16|The we have the results of the asset quality review of the banks to look forward to.
+BULL17|The leaking is already started ahead of it, judging by the way the markets have behaved in the last few days with the Eurozone banks index regaining almost 10% in a matter of days.
+NEUT18|There is a belief that there are going to be no ugly surprises out of the AQR.
+NEUT19|"We will find out whether the market is right about that."""

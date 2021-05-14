@@ -1,0 +1,17 @@
+NEUT0|"""Here's what we're watching."
+NEUT1|We're trading underway in London.
+BEAR2|The first signs of investors fading Trump flation the hardest hit assets in recent days are catching a break as a selling abates, at least for now, Treasury yields are lower.
+BULL3|The dollar is easing back.
+BULL4|The battered Mexican pesos lifted itself up off the canvas.
+BEAR5|Currency shifts are influencing equities weaker.
+BULL6|Pound is lifting the Footsie 100.
+BULL7|The rebound of the euro is clipping opening gains for eurozone equities.
+BEAR8|Italy, Spain and Portugal are seeing the biggest drops in 10 year euro zone bond yields.
+BULL9|Oil prices have also joined the recovery wave.
+NEUT10|As sentiment continues to oscillate, count on that aspect of trading, remaining in force for some time.
+NEUT11|The Trump flation trade hinges on what the president elect can actually get through Congress next year.
+BULL12|At this stage, dumping bonds and buying the dollar on the prospect of stronger growth and higher inflation is a raw bet that Trump delivers on his fiscal stimulus promise.
+BEAR13|There is also the legacy of massive debt accumulated since the crisis.
+BEAR14|The debt binge has reduced the effectiveness of aggressive monetary policy.
+NEUT15|That's the same result.
+BULL16|"Back in for fiscal stimulus."""

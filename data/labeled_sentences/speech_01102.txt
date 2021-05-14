@@ -1,0 +1,43 @@
+BULL0|"""Markets are welcome, are good to have you here, nice to be here."
+NEUT1|So talk us through what you saw in the quarter.
+NEUT2|Looks like Wall Street likes the bottom line.
+NEUT3|Beats license like Miss on revenues though.
+BULL4|You know we're just coming off actual best year in our recent history all time record earnings and we close the year with an all time record quarter.
+BULL5|So we obviously come with a strong momentum.
+BULL6|We feel good about what we've achieved for price increases and disciplined cost management and our cash flow came in very strong so we feel very good about the momentum coming out over the year.
+BULL7|And also for momentum which would pick up the beginning of this year.
+NEUT8|And that's sort of been the theme, right?
+BULL9|Growth has been driven by higher prices and cost discipline, not necessarily by actual growth of selling more units.
+NEUT10|Does that change?
+NEUT11|Does that turn?
+NEUT12|How do you fix it?
+BEAR13|You know overall for the entire last year we've been focused on getting our price increases through and executed in the market, and that has been the consequences of basically two years of cost inflation.
+NEUT14|Now what has changed in the back half of last years, we increasingly got the cost pressure in control.
+BULL15|So we actually were able to take cost out while maintaining our pricing discipline and that helped a whole lot.
+NEUT16|On the top line growth you know, of course you gotta factoring certain currencies and you also need to keep in mind, but we sold the business in South America and were some of last year.
+NEUT17|So you take that out of equation.
+BULL18|We actually had a 1.2% revenue growth, so we had some organic sales growth.
+BULL19|We aspire to get around the 3% organic sales growth so lot has been driven by currency and the fact that we sold the business.
+NEUT20|How's the strength of the US consumer, you know?
+BULL21|Actually, I would say surprising and resilient.
+NEUT22|You know, actually when we same time last year Member looked into 2019.
+BULL23|We were a little bit more cautious and I think we're entering 2020 with a little bit more confidence about back consumers.
+BULL24|Actually fairly resilient now.
+NEUT25|In particular our sector.
+BULL26|What was very encouraging was for housing data for December, which at this point is just one data point, but it has been a very encouraging data point.
+BULL27|Was going to ask you about that because obviously domestic home building and housing related companies are doing well.
+NEUT28|How leveraged are you to either new units, both multi family and single family?
+NEUT29|How big a part of your business is?
+NEUT30|You know our business in total highly correlated with existing home sales.
+NEUT31|But of course we look at the home starts and the new homes as a kind of lead indicator of everything.
+BEAR32|And you know, if you look at that, that has been depressed for 10 years and the market has been under supplied.
+NEUT33|We've been for the longest time arguing we need 1.5 to 1.7 new homes every year to just keep a steady state.
+BEAR34|And for ten years we've been below that.
+BEAR35|So do not have this December data point with 1.6 million about was very encouraging.
+NEUT36|However, obviously we got to see is that trend.
+NEUT37|Or is it turning to a trend?
+NEUT38|Is it just a data point?
+NEUT39|Is it stabilizing and member aspect?
+NEUT40|Of course you know in our business we appliances, they come at the very tail end of a new home.
+NEUT41|So appliances are typically last one to come in.
+BULL42|"So if we now see a positive signal took 9 to 12 months afterward, that translates into revenues."""

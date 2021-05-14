@@ -1,0 +1,41 @@
+NEUT0|"""We now turn to Chicago and Jacob Bunge."
+NEUT1|Jacob is here to tell us more about the continuing pressure on NASDAQ following the Facebook faux pas, if that's what you can call it Jacob.
+BULL2|Hello, thanks for joining us early morning there.
+BEAR3|It looks like in Chicago, the sun shining bright so continued pressure on NASDAQ.
+NEUT4|Following following the Facebook IPO, what do we have now in terms of what regulators are looking at?
+NEUT5|Well, the the regulators have been looking at this since the day of that was May 18th.
+BEAR6|Obviously there are a lot of issues with trades going unconfirmed for several hours that they a lot of fallout for retail investors, institutional investors and the regulators.
+NEUT7|And by this we mean the Securities and Exchange Commission that overseas NASDAQ they were in there from day one trying to understand what had happened.
+NEUT8|They're going through, you know, trade by trade to really get a sense of where the issues were and how people were impacted.
+NEUT9|So what the the situation?
+NEUT10|As it is it?
+NEUT11|Is he understanding it right now?
+NEUT12|The regulators could come back to NASDAQ and say at the end of their review, NASDAQ, you know we have a decent grasp on what went wrong here.
+NEUT13|We need you to take steps XY and see and make sure that this doesn't happen again now Jacob haven't have it.
+NEUT14|Hasn't Natas deck itself said that they've taken the steps necessary that they review their trading platforms and they say, OK, you know we figured it out back right?
+NEUT15|Yeah, now some of this you're right now.
+NEUT16|Sachs said, you know the following new Sunday, in fact, that they were going to change the process that use for opening up stocks that IPO and you know, that's fine that they had, uh, they brought back the market yesterday, but.
+NEUT17|The The thing is that that may not be enough to go all the way there for the regulators.
+NEUT18|They may want to see something changed in the supervisory role.
+NEUT19|You know the people were overseeing the process, how those people interact with one another, communication, that sort of thing which you know you talk to, the customers that were affected by this time and time.
+BEAR20|Again, they say the communication here was the problem.
+NEUT21|So there's all manner of different things that the regulators can ask them to do, and we've seen them do this sort of thing as recently as last fall when they sanctioned the smaller exchange company.
+NEUT22|I'll direct edge OK and also I mean it's you know the regulators here?
+NEUT23|I mean if NASDAQ said well, we made you know we made these these corrections and everything is fine.
+NEUT24|I mean they said they did all these tests before the IPO and those tests proved.
+NEUT25|You know they did.
+NEUT26|They didn't.
+NEUT27|They didn't bear fruit.
+BEAR28|There were these problems with the IPO and so regulators, especially in some of the reporting that you and our colleagues have done just the kind of fear in the individual investor.
+NEUT29|You know who the SEC is charged with charged with protecting the kind of fear that this raised among individual investors about what is going on in the.
+NEUT30|Market if I have a you know a name brand exchange can't even guarantee my orders.
+NEUT31|Well, that gets to the heart of the matter.
+NEUT32|You know, the SEC's main function.
+NEUT33|One of them is to instill confidence, protect investors, and, in fact, encourage investment in the public markets.
+NEUT34|So this type of events here we saw with the flash crash.
+NEUT35|We've seen you know, some other instances bats IPO.
+NEUT36|You know, when these sorts of things happen, it's a function of raising money in the public markets.
+NEUT37|Do some function that you know in.
+BEAR38|In some cases, retail investors are affected in the SEC.
+NEUT39|Real seriously wonderful Jacob buns in Chicago.
+BULL40|"Thanks so much for your time, Jacob."""

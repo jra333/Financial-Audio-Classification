@@ -1,0 +1,25 @@
+NEUT0|"""Hey fools Brian Henman here, senior analyst with Motley Fool Pro Ann Motley Fool options here today to answer a question from our Ask a full series and today's question comes from Matthew Brown from Facebook."
+NEUT1|Matthew asks, I want to go long on a specific stock, but I don't have much to invest.
+NEUT2|Should I consider options?
+NEUT3|Well, Matthew, the first thing I need to say is it's perfectly OK.
+NEUT4|If you don't have a lot of money just to buy one or two or 10 or 20 shares, don't think that you need to buy 100 shares of a stock or more in order to fully participate in the rising of that business.
+NEUT5|The improving of that business, owning one share gives you just as much upside on a percentage basis as owning 1000 shares.
+NEUT6|So with that said, can you use options because you have a small portfolio and the answer is.
+NEUT7|Heck yes, provided that you understand the risks involved with options.
+NEUT8|Now all options are are a bet on the upside of an underlying stock or the bet on the downside of an underlying stock.
+NEUT9|So you said you want to go long a stock, meaning you want to take a bet on the upside.
+NEUT10|Now to do this you would simply purchase a call option.
+NEUT11|Now, why would you do this, as you noted?
+NEUT12|Investing using options is cheaper than buying 100 shares of stock.
+NEUT13|To see why this is, let's consider what happens if you go wrong.
+NEUT14|If things go wrong.
+NEUT15|So if you own the stock and let's say earnings are bad one quarter, the stock might lose a couple percent in value, but you'll still own the stock and have the right to the upside, so that's recourse if you own a call option.
+NEUT16|What you own is a contract for the upside of that stock.
+NEUT17|If things go wrong.
+BEAR18|You could lose your entire investment because options have an expiration date, and at that expiration date your option will either be in the money mean, meaning things are going like you planned or out of the money, meaning things went in the other direction and you could lose your entire investment.
+NEUT19|So absolutely options can be a tool for you to bet on the upside of a stock.
+NEUT20|To do this you would purchase a call.
+NEUT21|You need to be aware of the risks, however, that if things go against you.
+BEAR22|It's non recourse and you could lose 100% of your investment.
+BULL23|With that said, I think options are a great tool and there are a great tool for small portfolios.
+BULL24|"Hope I've helped fulan."""

@@ -1,0 +1,35 @@
+NEUT0|"""Hi Matthew, Kratter here from Trader University and today I want to talk to you about how to swing trade this stock after its earnings report."
+NEUT1|And to do that, we're going to look at Target ticker symbols.
+NEUT2|T GT.
+BEAR3|They just reported earnings a couple days ago on February, February 27th, 28th and you can see we had earnings shortfall and weak projection for coming sales.
+NEUT4|Now you can see what happened when after these earnings reports the earnings were reported on.
+BEAR5|The 27th after the market closed next day, the stock caps down quite sharply.
+NEUT6|And what you want to do in a situation like that, you can see that.
+BEAR7|The stock is trading below the 50 day moving average, which is this this blue line and the blue line is below the 200 day moving average.
+NEUT8|So what I found is if you get a gap down move like this where the stock is below the 50 day moving average and the 50 day moving average is below the 200 day moving average, you can have a very nice nice sell off and it makes for a nice multi day swing is what happens.
+BEAR9|Basically there's bad news.
+NEUT10|There are a lot of institutions in this stock and they're all running for the doors at the same time and it takes him a few days to unload their positions.
+BULL11|And you can see we've had really, really good follow through on the downside here.
+NEUT12|The last piece you want to actually add if you look very lightly here, you can see this big green bar.
+NEUT13|It's fairly light in the video that is the daily volume.
+NEUT14|And you can see sort of this blue haze down here.
+NEUT15|That's the 60 day moving average of the daily volume, so you can see that the daily volume on this day was something like I don't know 4/5 times its normal normal volume, so that's really the third piece you want to see there.
+BEAR16|And if you get this sort of gap down move stop will often continue much lower.
+NEUT17|So what does this mean for us?
+NEUT18|Well, there are two things.
+NEUT19|If you're if you're a Holder and target sort of an intermediate term Holder.
+NEUT20|When you see something like this happens and you still like the stock, you want to cost average, the first rule would be never too.
+NEUT21|Don't don't buy it on the same day when it gaps down you've got, you've got plenty of days and you can get a good price if you wait.
+NEUT22|Now if you're more aggressive trader like me, you can use this to actually go short this stock.
+BEAR23|So what I would do is I would go short on the close of this gap down day, seen big gap down on higher than average volume and the stocks in the downtrend as measured by the two moving averages and what you can do is you can put.
+NEUT24|Your stop loss right at the top of this candle stick.
+BEAR25|So that was basically 5967, so we would have gone short on the clothes here at 5877 stop loss just just less than a point away at 5967 at the high this daily high.
+NEUT26|And then you can swing it for a couple of days.
+NEUT27|You can move your you can keep moving your stop loss lower as the stock moves lower.
+NEUT28|So maybe as of today March 7, 2017, maybe we'd use the high of yesterday with a high of the day before as our stop loss.
+NEUT29|And you basically sell short here and then buy to cover if you like the strategy, check out my book, just published on Amazon, the Little Black Book of Stock market Secrets got lots of great strategies like this and there's a link on your screen now.
+NEUT30|There's also a link if you're on mobile.
+NEUT31|In the description notes before.
+NEUT32|Below this video also if you enjoy this video, don't forget to subscribe to my YouTube channel so you won't miss out on any future videos.
+BULL33|Thanks for listening.
+NEUT34|"I'll see you in the next one."""

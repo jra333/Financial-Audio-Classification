@@ -1,0 +1,13 @@
+NEUT0|"""What's your stock pic right now?"
+NEUT1|OK, well I'm gonna pick Walt Disney Disney.
+NEUT2|TI is listed in the US.
+NEUT3|This is not just Mickey Mouse, their own sports networks that unseen parks they earn cruises.
+BEAR4|Obviously every single one of those sectors just got hammered down with a set of and unlike a lot of growth companies, Disney hasn't really recovered, and that's obviously because of concerns about their deep business model being further impact.
+NEUT5|But you asking their theme parks opening up again, Cruz is probably going to take a little bit more time.
+NEUT6|They're going to find other ways to actually distribute the.
+NEUT7|A sports, you know, even if there's no people in the stadiums you're gonna have, you know sport on TV and they've got such a wide array of content.
+NEUT8|So not a great stock for the short term, but this is a quality stock to hold for your long term portfolio.
+NEUT9|Let's leave it there.
+NEUT10|Caroline.
+BULL11|Thanks so much for having joined us on the line this evening.
+NEUT12|"That of course Caroline Kevin from advice works."""

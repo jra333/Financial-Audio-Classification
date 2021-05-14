@@ -1,0 +1,24 @@
+BULL0|"""OK CJ your company is very exciting."
+NEUT1|Not just because it's got biodiesels got renewable diesel.
+NEUT2|It's got Reg Ultraclean tell us about these different grades and what they mean for shareholders.
+NEUT3|Well, biodiesel and renewable diesel is sort of class altogether, as biomass based diesel, and they're both made from basically waste bio oils, either animal or plant fats.
+NEUT4|Think used cooking oil.
+NEUT5|We convert them into high quality, very low carbon diesel fuel.
+NEUT6|If its biodiesel, it's made through transistor ification.
+NEUT7|If it's renewable diesel, it's made through hydrodeoxygenation, but that doesn't matter.
+NEUT8|They actually both have similar very strong, good qualities.
+NEUT9|If you make them from used cooking oil, their 85% lower carbon than ultra low sulfur diesel.
+NEUT10|In other words, petroleum diesel.
+BULL11|They both have better tailpipe emissions from criteria pollutants like particulate matter, carbon monoxide, total hydrocarbon.
+NEUT12|They can both be used in a conventional diesel engine without modification, and they can both because of that decarbonized today and decarbonize now.
+NEUT13|In fact, it's the fastest path in transportation to decarbonization.
+BULL14|And it's even better than electric vehicles today, because the EV's are waiting for the grid to decarbonize.
+NEUT15|So compared to a passenger vehicle, if it's on the US average grid biodiesel and renewable diesel are both 65% lower carbon than EVs.
+NEUT16|And if you use the California grid, which is further along its decarbonization path, even still 42% lower carbon when you use biodiesel and renewable diesel.
+NEUT17|Don't miss a second of mad money.
+NEUT18|Follow at Jim Cramer on Twitter.
+NEUT19|Have a question?
+NEUT20|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT21|Miss something head to madmoney.cnbc.com.
+NEUT22|Shepard Smith here.
+NEUT23|"Thanks for watching CNBC on YouTube."""

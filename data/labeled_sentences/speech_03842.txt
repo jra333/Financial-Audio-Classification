@@ -1,0 +1,62 @@
+BULL0|"""You've been here before."
+NEUT1|As you know, the small Giants community is about.
+NEUT2|Companies that kind of take a different approach.
+NEUT3|Some people get confused and they think they're not interested in growth.
+NEUT4|Most of them are interested in growth, but they want to grow on their own terms.
+NEUT5|Yeah, you're more ambitious about and more aggressive about your growth goals than most of these companies.
+NEUT6|Yeah, Service Express provides data center hardware maintenance, so we're selling service contracts on high end servers, storage and networking gear inside large corporate data centers, and we've been in business since 1993.
+NEUT7|I've been with the company since 1997.
+BULL8|And when I joined, where $3 million in revenue, and now we're over $100 million in revenue, our whole thing has been double digit growth every year at 500,000,000.
+NEUT9|I'm not sure you're a small giant anymore.
+NEUT10|You might be a giant giant at that point.
+NEUT11|How do you do that and yet preserve what you think is special about service?
+NEUT12|Express size is relative, right?
+NEUT13|So when we hit like 20 million, we thought we were becoming a big company and so size is relative.
+BULL14|And compared to other companies, 500,000,000.
+NEUT15|Not that big.
+NEUT16|But the way we do it is.
+NEUT17|Through our people, and that's that's the whole thing about what Goddess from 3,000,000 to 100,000,000 was.
+NEUT18|We focus on our people first.
+NEUT19|Select right and create an environment where people could come in and do their best work.
+NEUT20|No, they're having an impact.
+NEUT21|You know the value they bring it to the company and then be recognized and rewarded for that.
+NEUT22|And I think that scales.
+NEUT23|I don't think it's a choice of being great or growing, or will folks enter people until we can't like people scale.
+NEUT24|People are the ones who drive the growth and they do that service Express.
+NEUT25|And that's the differentiator between US and anybody else.
+NEUT26|Is will focus on our people first and they'll drive us to where we go and see if I'm selecting people that say I only want to be part of a $25 million company.
+NEUT27|There's nothing wrong with that is wrong.
+NEUT28|If I select them, there's nothing wrong with that thought process, but that's not our stated goals.
+BEAR29|You take that relationship with your employees to an unusual extreme.
+NEUT30|You have very, very candid conversations with them.
+NEUT31|Yeah, well, we come vision goals.
+NEUT32|So it's a person's personal, professional and financial goals and.
+NEUT33|It's the Zig Ziglar quote.
+NEUT34|You can get everything you want out of life if you help enough.
+NEUT35|Other people get what they want.
+NEUT36|That's our philosophy as a company is choose choose the right people who fit into what we're trying to achieve.
+NEUT37|Figure out what they want to achieve.
+NEUT38|So as we grow like that, like how much money do you want to make?
+NEUT39|What do you want to do in your ear?
+NEUT40|And by the way, how does this work in your personal goals?
+NEUT41|Your personal life with your family, your interest, your hobbies and whatnot?
+NEUT42|And how can being part of Service Express in the growth?
+NEUT43|Add to all of those areas of your life.
+NEUT44|Most bosses do not invite that conversation.
+NEUT45|They dread the moment when somebody comes into their office and says I want to raise you.
+NEUT46|Invite that kind.
+NEUT47|Yeah well I wish to be there and I used to wonder about that in in an had somebody early in my career that put out this like I want to make this much and it kind of freaked me out like I don't know if we can pay that much.
+NEUT48|And in talking with him further it was like why don't I make it all next year but those are my goals and I was like OK let's you know we'll see how that works out.
+NEUT49|He end up achieving those goals and far beyond what would you advise someone who is considering taking private equity and needs to make sure they?
+NEUT50|That get the right group.
+NEUT51|It's about being authentic to yourself in lead with your story.
+NEUT52|And So what I thought was that private equity would come in and change strategy and change everything that you're doing and take control.
+NEUT53|What I learned at least through our process and who were with now, is we presented.
+NEUT54|Here's our strategy.
+NEUT55|Here's where we have been.
+NEUT56|Here's where we're at now.
+NEUT57|And here's our strategy for going forward, and we presented that, and we're looking for the company that bought into that.
+NEUT58|And if you don't buy into it, that's fine.
+NEUT59|Doesn't make you a bad company, doesn't make sense of right or wrong, but it's not a good fit.
+NEUT60|Ron Elvis stepper.
+BULL61|"Thank you very much, thank you, appreciate it, appreciate it."""

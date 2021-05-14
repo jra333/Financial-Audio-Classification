@@ -1,0 +1,45 @@
+NEUT0|"""Question from Mike in Ohio."
+NEUT1|He writes I have two questions.
+NEUT2|I've never had a stock I own be part of a buyout, but what is the general rule of thumb?
+NEUT3|If you own a company that gets bought and the stock subsequently shoots up 20% or more, do you sell and take the profit or hold the stock to own shares of the new company?
+NEUT4|What are the pros and cons of each?
+NEUT5|Great question I I don't know that there is a general rule of thumb.
+NEUT6|I feel like it's.
+NEUT7|I mean this is happened to me a couple of times and it just.
+NEUT8|It just sort of depends.
+NEUT9|I know that's not a particularly satisfying answer, but to his point.
+NEUT10|In terms of like what are the pros and cons of each?
+NEUT11|You're completely right that it depends.
+NEUT12|And it also depends on the type of buyout.
+NEUT13|So a lot of times you might get a cash buyout where a company is acquiring another one, and you know it's not rolling into shares of the new company, right?
+NEUT14|You're just getting cash in your brokerage account in exchange for that share.
+NEUT15|In that case it's important to remember that that's a taxable event.
+NEUT16|First of all, whatever your cost basis is for that stock, you're going to pay taxes on whatever cash you receive.
+NEUT17|And now you have to make a decision about what to do with that extra cash.
+NEUT18|Most the time, I think the average premium is about 25%, so a lot of times you as an investor are either really happy because you got a premium or really sad because this might be a company that you love that maybe no longer exist, at least not in the way that you've known it.
+NEUT19|In this case, I think what our Members talking about is asking about when it's a stock buyout, so the stock shoots up and shares that you own are going to translate into shares of a new company.
+NEUT20|And that's when the kind of decision making comes into play because.
+NEUT21|You have to completely redo all your due diligence about that investment.
+NEUT22|Do you even want to own shares of that new company?
+NEUT23|So in that case you have to kind of critically think about it and think you know I can sell this now and roll it into an investment.
+NEUT24|That's a different investment.
+NEUT25|I could retain the shares of the new company.
+NEUT26|It's a personal investing decision.
+NEUT27|The guys to kind of question is when you have a stock and it shoots up 20% and you're trying to figure out what to do in that.
+NEUT28|In between.
+NEUT29|You'll notice that a lot of times the stock price doesn't directly go up to the entire T of the offer price.
+NEUT30|And that's because there's always the risk of something falling through, so you can choose that if you want to cash in that opportunity, mitigate their risk of that buyout, not happening, and sell.
+NEUT31|You can do that.
+NEUT32|You can continue to hold because you love the company and you want to roll it into new shares.
+NEUT33|It really is an independent investing decision.
+NEUT34|I will just say that it's important to consider the taxable effects of whatever you're choosing to do.
+NEUT35|It is the proverbial good problem to have.
+NEUT36|Yes, exactly exactly, well.
+BEAR37|I mean, we also see great companies that we love get bought out by, you know, I know, for example, Red Hat recently got purchased by IBM and it's kind of a sad thing.
+NEUT38|I think for a lot of Red Hat investors because they believed in that company.
+NEUT39|They believed in the culture and then you have a company that has a completely different culture coming in and acquiring it.
+NEUT40|The question is, are they going to continue to do what they're known for doing?
+NEUT41|What I love that they do and we don't know.
+NEUT42|So it can be a great thing.
+NEUT43|As an investor you can make a lot of money, but it can also be sad as an investor 'cause you lose companies that you know.
+NEUT44|"Really hold a special place in your heart."""

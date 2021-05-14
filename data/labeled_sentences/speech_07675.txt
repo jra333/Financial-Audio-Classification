@@ -1,0 +1,28 @@
+BULL0|"""Good morning Mr. Munger and Mr Buffett."
+NEUT1|My name is Prakash or I'm from Minneapolis.
+NEUT2|There seemed to be great values in the technology sector that meet most of your criteria, philosophy and investing.
+NEUT3|With the exception of the simplicity criterion.
+NEUT4|Names like IBM, Microsoft, HP, Intel.
+NEUT5|Would you ever consider investing in companies in this sector in the future?
+NEUT6|Well, then the answer is no, and it's got.
+NEUT7|It's probably pretty unfortunate because I've I've been an admirer of Andy Grove and Bill Gates and you know, I wish I translated that admiration into backing it up with money.
+NEUT8|But the truth is, I don't.
+NEUT9|I don't know where Microsoft or Intel.
+NEUT10|I don't know what that world will look like in in 10 years and.
+NEUT11|I don't want to play in a game where I think the other guys have got an advantage over me and and I could spend all my time thinking about technology for the next year.
+NEUT12|An I wouldn't be the hundreds or thousands of the 10,000 smartest guy in the country.
+NEUT13|In looking at those businesses, so that is a 7 or 8 foot bar.
+NEUT14|That I can't clear.
+NEUT15|There are people that can clear it, but I can't clear it and no matter how I train, I can't clear it.
+NEUT16|So the fact that.
+NEUT17|There will be a lot of money made by somebody.
+NEUT18|Doesn't bother me really.
+NEUT19|And I mean there may be a lot of money made by somebody in cocoa beans, but I don't know anything about him and there's a whole lot of areas I don't know think about so.
+NEUT20|You know more power to him an I think it would be a very valid criticism.
+NEUT21|If Charlie and I, if you, if it were possible that Charlie and I, and by spending a year working on it.
+NEUT22|Could become well enough informed so that our judgment would be better than other peoples, but that wouldn't happen and it would be a waste of time.
+NEUT23|It's much better for us to swing at the easy pitches, Charlie.
+NEUT24|Whatever you think you know about technology, I think I know less.
+NEUT25|That's probably not true.
+NEUT26|Incidentally, Charlie has a little more of a.
+NEUT27|"He understands some things in the in the physical world, a lot better than I do."""

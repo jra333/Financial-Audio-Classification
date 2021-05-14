@@ -1,0 +1,17 @@
+NEUT0|"""OK, so three dates which could be important for markets in November 1st up we have the US election which will be news only to people who have been in a coma for the last 18 months."
+BEAR1|The markets are getting a little bit nervous as we approach the final day though with the S&P 500 only on Friday breaking an 8 day losing streak as nerves seem to creep in.
+BEAR2|That Mr. Trump might possibly steal the election.
+NEUT3|Sorry not steal win it.
+BULL4|Of course the election could turn out being good for stock markets.
+BULL5|Either way, both candidates are promising to spend lots of money and Mr Trump plans lots of tax cuts.
+NEUT6|And certainly those things might happen first before any of the more concerning fears for a Trump administration.
+NEUT7|After that, we turn to UK politics on the 23rd of November.
+NEUT8|We will have the autumn statement from new Chancellor Philip Hammond.
+NEUT9|This will be interesting in light of the Brexit delay which might happen following the court case we had.
+BEAR10|But also Mr. Hammond has promised to loosen fiscal policy to offset any Brexit related downturn in the economy.
+NEUT11|Everything is still up in the air, but again, this feeds into the bigger inflation debate in the UK.
+NEUT12|Will we start to see a return of fiscal policy, economic stimulus, and maybe an end to very low interest rates?
+NEUT13|Certainly something to watch out for, and then at the end of the month we have the oil price.
+BEAR14|OPEC will be meeting in Vienna to potentially flesh out details of the production cuts, which they agreed in September, but the oil price has been coming back in recent weeks.
+BEAR15|It's out of $46 per barrel in Brent terms where it has been bouncing around for much of the year and where it was back in September when the agreement in principle.
+NEUT16|"Was reached, so the question will be, where next for the oil price, particularly at a time when US production is rising once again and those are going to be the dates in focus for us in November."""

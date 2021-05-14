@@ -1,0 +1,40 @@
+NEUT0|"""They say buy low, but if you were buying Apple stock in 1998, you were buying really low under a dollar a share."
+NEUT1|In today's terms, when you first invested in Apple, how much money was your initial investment?
+NEUT2|We started on the landing in 1998.
+NEUT3|Seventy thousand for the 600.
+NEUT4|That's how we started.
+NEUT5|We didn't spend much of my monitor that would.
+NEUT6|They were cheap.
+BEAR7|This is before the iPhone, even before the iPod that was actually a low point for the Apple companies.
+NEUT8|What made you so excited about Apple 1990?
+NEUT9|Eighteen or 1999?
+NEUT10|Went to the Macworld conference and I saw Steve Jobs talking and that you know the whole thing.
+NEUT11|Check it it.
+NEUT12|It's not just about the product and they kind of start to be interested in their business.
+NEUT13|Need.
+NEUT14|Wing and his wife Team Chen didn't stop buying Apple stock in 1998.
+NEUT15|They say they've invested 10s of thousands in the company over the years.
+BULL16|An investment in a stock that's up over 13,000% since they first bought just recently you finally hit $1,000,000 in your total investment.
+NEUT17|What was that moment like?
+NEUT18|She's more excited about no.
+NEUT19|We are participating in.
+NEUT20|Not only yeah, not the money pad.
+NEUT21|Leaning Ting have sold some of their stock to buy things like a vacation home, but they say they've always held on to most of it.
+NEUT22|When you guys have sold stock was it because you didn't have confidence in the products or the business?
+NEUT23|Never, you know always discipline.
+NEUT24|Discipline.
+NEUT25|You know the market goes up and down.
+NEUT26|You cannot catch it.
+NEUT27|Now.
+NEUT28|Apple Watch has come out.
+BEAR29|A lot of analysts have said they don't think Apple Watch sales have been nearly as high as expected.
+NEUT30|So is this a time for you to stop and assess and decide whether you want to cash in on some of the stock?
+NEUT31|What are you guys going to do?
+NEUT32|You know, any Nugent first generation comes out?
+NEUT33|You know?
+NEUT34|Maybe there's a waiting times?
+NEUT35|Yes, of course.
+NEUT36|So what does the couple think about this?
+NEUT37|Talk today?
+NEUT38|I think it's time to buy.
+BULL39|"That's news to him."""

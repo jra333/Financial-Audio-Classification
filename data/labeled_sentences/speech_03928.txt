@@ -1,0 +1,46 @@
+NEUT0|"""Web, what it means."
+BULL1|Microblog in Mandarin Chinese and Sina Weibo is one of the most popular microblogging sites in the world's most populous country.
+NEUT2|Often compared to Twitter in the West, Sina Weibo launched in 2009.
+NEUT3|Today it's got about 170 million monthly active users and 600,000 businesses trying to make money.
+NEUT4|Say I'm a company in the US who wants exposure to the Chinese market.
+NEUT5|Where would I begin away?
+NEUT6|Boy I think is perfect starting point again because opening account it's free.
+NEUT7|You don't have to pay anything.
+NEUT8|You can't do this if you just have a English speaking team.
+NEUT9|Unfortunately, I think if you are serious about the China market, you have to whether it's internal resource or outsourcing to a third party, you have to have the people who not only speak the language.
+BULL10|Hopefully better understanding of the Chinese consumers.
+NEUT11|Let's say I make shoes in the US and I want.
+NEUT12|Some of the Chinese market to buy my shoes?
+NEUT13|How does the conversation start?
+NEUT14|Start with your brand story, your product story, right?
+NEUT15|So why what do you want people to know about your shoes?
+NEUT16|What's different about it, right?
+NEUT17|So what is the main selling point?
+NEUT18|Maybe it's the leather.
+NEUT19|Maybe it's a custom made.
+NEUT20|Maybe the pricing is competitive.
+NEUT21|Maybe a service that you can provide.
+NEUT22|So I think formulate some of the stories because opening a account, an account, and making posts is not difficult, but telling the story and getting people interested is the key.
+NEUT23|Give us a good example of someone who's used social.
+NEUT24|To penetrate that Chinese market and how much has it added?
+NEUT25|Yeah, there's.
+NEUT26|There's relatively small Chinese brand.
+NEUT27|It's called whist Wis.
+NEUT28|They started three years ago and they mainly use social media again way Bulan.
+NEUT29|They reach 100,000,000 RMB in revenue last year and how they did it was because they had a good product.
+NEUT30|They had a good story to tell.
+BULL31|It was effective and they also engage some of the KLS.
+NEUT32|The key opinion leaders and occasionally some celebrities there as well.
+NEUT33|Helping them tell them.
+BULL34|The story, so they quickly grew their fanbase and they also very good as servicing these fans.
+BULL35|You can see this tremendous trajectory in terms of how quickly they can grow their business from 0 to $100 million.
+NEUT36|RB Sorry in two years and it's mostly leveraging the social media power.
+NEUT37|Forscene away Bois.
+BULL38|It's a story of growth to monthly active users grew 36% year on year and since we went public on the NASDAQ in April, its stock price has risen about 5 1/2%.
+BEAR39|And while popular sites like Facebook, YouTube and Twitter are blocked, Hong says censorship hasn't hurt way Bois.
+NEUT40|I think a lot of times that's probably overestimating terms of the importance of that, and I think a lot of stuff again around the marketing messages stuff, it's.
+NEUT41|No, it's just not an issue.
+NEUT42|I think censorship and things like that.
+NEUT43|I think you know, maybe in some particular areas we have to be a little bit careful, but most of the time this is not an issue for for brands and marketers.
+BULL44|Thanks very much.
+BULL45|"Thank you so much, thanks."""

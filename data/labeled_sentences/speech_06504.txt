@@ -1,0 +1,17 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's February 6 2017.
+NEUT2|I'm Celina Nicklaus technical analyst at exam.com.
+NEUT3|Today will look at the euro versus the US dollar on the daily chart.
+BULL4|The uptrend from early January seems to have taken a pause after the euro USD pair reached the area around 1.08.
+NEUT5|And this is now acting as a key resistance area and it's leading to a neutral bias.
+BEAR6|In the immediate short term, a high of 1.0, eight, 28 was hit on February 2nd last week, and then the market since then has been trading below 1.08 moreles, consolidating the intraday bias though, is to the downside and we can see our aside starting to tilt downwards.
+BEAR7|But even though the indicator is still in bullish territory above 50, the markets recent bullish bias.
+NEUT8|From early January can only be sustained if prices break.
+BULL9|Above last week's high, the one point oh 828 high and also above December's high of 1.08 seventy 3.
+NEUT10|A downside move from current levels would find support at 1.06 seventy and then below this there is an important support area where the 50 day moving average converges with the key psychological level of 1.06.
+BEAR11|Dropping below this support level would result in more than half of a retracement of the up leg from the January low of 1.03.
+BULL12|Thirty nine to the high of 1.828 February.
+BEAR13|An A move below the 50 day moving average would actually start to shift.
+NEUT14|This medium term bullish bias to a more bearish one.
+BULL15|Thank you very much for watching.
+BULL16|"Have a great day."""

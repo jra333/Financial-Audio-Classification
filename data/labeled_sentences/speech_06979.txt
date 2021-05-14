@@ -1,0 +1,45 @@
+BEAR0|"""Three years after the financial crisis pushed the global economy to the edge, protesters have taken to the streets to voice their anger in London."
+NEUT1|They've targeted the Stock Exchange setting up camp just outside Saint Paul's Cathedral.
+BEAR2|Demonstrations have spread from Seattle to Sydney, from Santiago to Stockholm, but the most widespread protests are in America, led by the Occupy Wall Street movement in Zuccotti Park in downtown Manhattan, where it first began.
+NEUT3|I'm occupying Wall Street because that's where the American dream went.
+NEUT4|And we want to get it back.
+NEUT5|The Ciccotti Park occupiers have become semi permanent squatters erecting a kitchen, a Media Center, first aid, and cleanup crews.
+NEUT6|Well, I do.
+NEUT7|Sanitation, hockey, pie, Wall Street.
+NEUT8|Pretty much means I pick up the trash, change out, trash cans, sweep up around the place I just showed up and saw that there was a lot of traffic kept guns out with.
+NEUT9|I just started dealing with it, so this guy's been here is like three times with the hair cutting equipment.
+NEUT10|He does the shave thing.
+NEUT11|He does the hair cutting thing, and we're basically a small village.
+NEUT12|Due to a ban on amplification systems, messages are passed by a slow but effective innovation called the people's microphone.
+NEUT13|One person speaks and all those that can hear shout out the words.
+NEUT14|In a way, it's a surprise that such protests have taken so long to emerge.
+BEAR15|The young have a lot to be angry about in the short term, a combination of high youth unemployment, student loans, and the difficulty of getting on the housing ladder in the long run.
+BEAR16|A feeling that they will pay higher taxes have lower benefits and work longer than their parents.
+NEUT17|Politicians need to take note of this anger, since it's by no means confined to the young.
+NEUT18|What are the protesters against?
+NEUT19|The issues differ from country to country, but a common theme is a dislike of income and wealth inequality.
+NEUT20|The power of the financial sector and the way that austerity is falling on the backs of the poor.
+BEAR21|Broadly speaking, the protestors are on the left.
+NEUT22|This is not the Tea Party here.
+NEUT23|The goal is to provoke discussion.
+NEUT24|It's not about.
+NEUT25|You know who's right or who's wrong?
+NEUT26|Because it's all about what everybody has in common.
+NEUT27|We have all these people whose futures have been sold, you know, and unfortunately, there's no clear, easy, simple way to say that if you try to explain it to a critic, they'll just say Oh well, you're lazy or your dirty hippie.
+NEUT28|Maybe the Wall Street people are not the audience.
+NEUT29|I think the audience is a middle class because they haven't had a voice in the financial crisis and they haven't had a voice up until now.
+NEUT30|What are the protestors full?
+NEUT31|They have no clear agenda.
+NEUT32|Indeed, it doesn't seem like they want one.
+NEUT33|In some ways, it's a clever move.
+BULL34|It enables them together abroad.
+BULL35|Massive support.
+NEUT36|But to have success they either need to broaden their movement by bringing the Union, say or like.
+NEUT37|the Tea Party takes the electoral route.
+NEUT38|We really feel like the demands aren't really the point right now.
+NEUT39|What we want to focus on is really how we came to discuss those demands in the 1st place.
+NEUT40|We want people to be more aware of the issues and have more accountability about what they have to do with them and how those affect them.
+NEUT41|Unfortunately, the kind of policies that might help young people may not appeal to the group.
+BULL42|In Spain, for example, labor rules keep middle aged insiders in work at the expense of useful outsiders in the US, eliminating tax loopholes and lowering marginal rates might improve the tax take from the rich.
+NEUT43|Alas, it's hard to boil such complex ideas down into a slogan.
+NEUT44|"The economist."""

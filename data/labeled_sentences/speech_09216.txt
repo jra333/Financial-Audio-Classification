@@ -1,0 +1,15 @@
+BEAR0|"""One of the world's largest mainstream publications, Bloomberg presented its own report on the state of Affairs in Bitcoin ecosystem, according to which everyone says that the first cryptocurrency will be bullish, rally in the style of 2017, according to the authors, a collapse in the stock markets will temporarily affect Bitcoin."
+NEUT1|The end result, however, will be more reminiscent of what happened to gold after the 2008 financial crisis.
+NEUT2|Datagopriest.org cryptocurrency born in 2009.
+NEUT3|Alfred is considered a high risk involed laset in comparison with other market instruments.
+BULL4|For example, the SP 500 shows good results this year in 2020, when the world is embraced by relative COVID-19.
+BEAR5|Pandemic is a crisis and states are printing huge amounts of paper money to support the economy.
+NEUT6|Bitcoin is waiting for a key test in the process of becoming a quasi currency like gold and with this test the researchers believe.
+BULL7|It was successfully cope.
+BULL8|Bitcoin and gold will benefit most from the unprecedented monetary stimulus accompanied by a fall in the stock markets.
+BULL9|The report says the appearance of Bitcoin futures tamed the BU LL2017 rally.
+BULL10|However, growth and open positions decreasing volatility and comparative outperforming dynamics, which can be observed against the backdrop of falling stock markets, indicate that Bitcoin is entering the maturity stage and is becoming more and more a digital version of gold than an asset for speculation.
+BULL11|Authors expect Bitcoin volatility to Bedek line and this is an extremely important observation.
+BEAR12|It is the historically lowest level of volatility that was observed in October 2015 that marked the beginning of a bull rally, the culmination of which with the cryptocurrency price reaching historic highs in December 2017.
+BULL13|Recall on the Eve of the price of Bitcoin when sharp rising in the moment to dollars, 7750, which amounted to 100% growth from a minimum of March 13, this growth was preceded by an increase in network activity.
+BULL14|"Which may indicate that new investors are entering the market."""

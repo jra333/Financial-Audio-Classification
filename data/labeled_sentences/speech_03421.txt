@@ -1,0 +1,12 @@
+BEAR0|"""Before the opening Bell US indices, they closed down on Monday, pressured by utilities real estate as well as the energy sectors."
+NEUT1|Meanwhile, on the economic tonic docket, there was no major data released.
+BEAR2|This all as 85% of S&P 500 constituents traded unchanged yesterday.
+BEAR3|Now after the markets closed the IBM, the IT Company reported first quarter adjusted EPS down to $1.84, just above expectations of $2.25 a year ago, on revenue down to $17.6 billion.
+BEAR4|Down from $18.2 billion last year moving on, we have Coca Cola.
+BULL5|The soft drinks giant posting first quarter net income of $2.78 billion or $0.64 from $1.68 billion a year earlier.
+BEAR6|Adjusted BPA rising to $0.51 above expectations from $0.48 a year ago, with sales down 1% to $8.6 billion due to the Corona virus.
+NEUT7|Now in terms of expectations today we do have results from Netflix, Lockheed Martin, as well as Texas Instruments while on the economic docket before the opening Bell, we do have the red book.
+NEUT8|And right after the opening Bell we have the March existing home sales figures expected at 6 1/2 percent.
+NEUT9|Meanwhile, the S&P 500 is where we begin.
+NEUT10|That's under pressure and didn't focus short positions below 2833 are favored with targets at 2746 and 2710.
+BULL11|"An extension to says the relative Strength Index is mixed with a bearish bias moving on the NASDAQ sees its key resistance at 8760 in the Dow Jones sees the downside prevail."""

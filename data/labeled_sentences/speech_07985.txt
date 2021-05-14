@@ -1,0 +1,19 @@
+NEUT0|"""You're joining me looking back at Netflix now."
+BULL1|Netflix reported overnight and came out with some stunning new subscriber numbers, but misses on the EPS estimates.
+BULL2|New subscribers increased by 10 million in Q2 versus 7.5 million expected.
+BULL3|Now that brings the total number of new subscribers this year to 26 million versus 28 million for the whole of 2019.
+BULL4|Revenue increased by almost 25% to $1.35 billion whilst EPS came in at 1.59 dollars per share.
+BEAR5|The group has forecast softer subscriber numbers for the second half and revenue was guided at 6.33 billion.
+BEAR6|Now this is below analyst estimates for 6.4 billion U.S. dollars and that disappointment in the guidance caused the.
+BEAR7|Shares to sell off steeply in the grey market they did.
+BEAR8|They were down as much as 10% at one point, just ahead of the US Open.
+BEAR9|Now the Netflix are set are trading down just below 7% in the pre market.
+BULL10|Now if we're looking at the chart here, next flicks had accelerated gains moving towards the earnings hitting an all time high just earlier this week.
+NEUT11|Now following the result prior to the result and following.
+BULL12|The results we could see shares price continue to retrace from the all time high.
+BULL13|But importantly here we can see that it's also brought Netflix out of overbought territory.
+NEUT14|Now, traditionally, pullbacks have been a buying opportunity in Netflix and traders might want to wait to see if the stocks of retraces back to this for 75 level and whether this level holds.
+NEUT15|Here we've got the 50.
+BULL16|Smad daily moving average there, as well as a level which has offered support and resistance over the past month or so.
+BULL17|So if it does hold, that could produce a good buying opportunity for a long position to see whether Netflix can look to retake that all time high of $575.
+NEUT18|"For more trading videos please subscribe to my YouTube channel."""

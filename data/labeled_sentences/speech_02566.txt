@@ -1,0 +1,12 @@
+BEAR0|"""In the wake of the stunning news that Britain had voted to leave the European Union, the Dow tumbled over 600 points."
+BEAR1|On Friday, the 3.4% drop came after a topsy turvy day stoked by investor jitters.
+BEAR2|Traders had bet heavily on Britain remaining in the EU and the markets were caught off guard.
+BEAR3|It was a day that started with stocks falling sharply in the early morning.
+BEAR4|The Dow Jones industrial average dropped more than 500 points, or about 2.8%, shortly after the open financial stocks LED declines in the S&P 500, dropping 3.4%.
+BEAR5|US traders had the small benefit of having a little time to prepare before trading started and the Blue chip index pared losses, buoyed in part by traders exiting bets against U.S. stocks by late morning.
+BEAR6|Things looked bad but not out of control bad.
+BEAR7|The Dow Industrials an S&P 500 were down about 2.5%.
+NEUT8|Wall Street being Wall Street people were already looking for opportunity at the other end of the sell off.
+BEAR9|Still, the Dow kept dipping to 465 points, or 2.6% in midday trading.
+BEAR10|And as Brexit anxiety rose, the Dow turned further South into the final stretch to close at 611 points down, wiping out its year to date gains.
+BULL11|"As the dust settles, many are bracing for what the UK referendum will mean for confidence in the world's economies, a key ingredient for everything from corporate mergers to stock sales."""

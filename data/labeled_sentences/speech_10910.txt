@@ -1,0 +1,24 @@
+NEUT0|"""Hello everyone, let's take a look at the Apple stock you can see from this chart."
+NEUT1|This is a daily chart.
+NEUT2|It's a one day price we can see from the beginning from the opening of the market.
+NEUT3|Here it's a nearly a flat.
+NEUT4|For the price, so when it go around 2:00 o'clock PM, in your trading time, it dropped and dropped, but at the end of the market and it will need closeout market.
+BULL5|It bounced a little bit back with huge volume.
+BEAR6|So in my opinion is still a bearish sign for Apple stock because there's not so much buying in during the training time especially.
+BEAR7|At the closing of the market is very bearish side and the reason for its bounce back at the end of the market is full.
+NEUT8|The institution to.
+NEUT9|To make it higher, to make it easy to distribute tomorrow.
+NEUT10|So if we change the chart to six months and one candle represent one day, then we can see clearly here it's a green candle.
+NEUT11|But we can see this green candle when it touched the.
+NEUT12|EMS above it it stopped and also it has a upper tail.
+NEUT13|It means there's resistance there.
+NEUT14|And another thing is that we can see the lower part of this candle is lower than.
+BULL15|The law of yesterday, so it makes us a new law, a lower low compared to yesterday, and it had approached the law.
+BULL16|Made on the 21st of September, so it's very likely that Apple can dropped a little bit.
+BEAR17|No, and if it appears this price does 103 and $0.10 if it dropped below this price, it will be very bearish for.
+NEUT18|Apple stock and it's very likely to get here.
+NEUT19|So in my opinion it will very likely get to the 97.
+NEUT20|So in my opinion you should hold your money and don't.
+NEUT21|Go back to U.S. stock markets so.
+NEUT22|Early so that you will save your money.
+BULL23|"Thank you."""

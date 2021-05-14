@@ -1,0 +1,26 @@
+NEUT0|"""Hey guys, welcome back to another video into this video."
+NEUT1|To explain to you a little bit more about the intrinsic value of Amazon and we want to see whether Amazon is currently trading at a good investment deal for us.
+NEUT2|So a very important indicator that we can use is to look at Amazon's PE ratio.
+BULL3|Amazon has an average PE ratio of 166 with a 5 year high of 256 and a five year low of 75.
+BEAR4|Looking at Amazon's current PE ratio, we can see that it has a P ratio of 78, which is way below the average, which may indicate that Amazon may be currently undervalued.
+NEUT5|So let's try to calculate Amazon's intrinsic value.
+NEUT6|At the moment Amazon currently has an EPS of 34.
+NEUT7|We also want to use a conservative P ratio that is lower than the current PE ratio, so we will take 58.
+NEUT8|We can also take the current growth rate that many analysts use, which is a 36% growth rate.
+NEUT9|Therefore we can arrive at a future price of $9320 in five years time.
+NEUT10|So now that we got the future value of Amazon.
+NEUT11|Let's discount it back to its present value at a 7% rate of return, according to Amazon's beta.
+NEUT12|This would give us a number of $6646.
+NEUT13|However, this is not the end.
+NEUT14|We still want to use a margin of safety.
+NEUT15|I usually usually like to use 30%.
+NEUT16|Therefore the amount that I'm comfortable paying for is anything below $4652.
+NEUT17|If I want to achieve a return of more than 30%, looking at the price targets of analysts at the moment.
+BEAR18|Most analysts are putting a price target of around $3800 off for Amazon.
+BULL19|So let's look at the technical charts at the moment at the short term, we can see that Amazon is having a healthy pullback after hitting a resistance at around $3400.
+BULL20|I can foresee Amazon hitting the support line at around 3200 as there are strong support lines with the 50 and 150 moving average around that price.
+NEUT21|I can also foresee that people may consider adding more shares of Amazon at a price, which is a reasonable price to pay for, considering that Amazon has.
+BULL22|A lot more, a long term growth potential.
+NEUT23|Come to the end of the video.
+NEUT24|If you enjoyed the video and you want to see more content like this, don't forget to like comment and subscribe for more future videos.
+NEUT25|"See in the next video guys."""

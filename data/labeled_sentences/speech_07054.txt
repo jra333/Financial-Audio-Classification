@@ -1,0 +1,4 @@
+NEUT0|"""In a world where more people can work from their laptop on zoom remotely, what does that mean for where people live?"
+NEUT1|Maybe people will travel around the world.
+NEUT2|More people may not just work from home, they may work from other homes and those homes.
+NEUT3|"Money even be in the same country as their company, but I think there is a whole new world of travel just waiting for us."""

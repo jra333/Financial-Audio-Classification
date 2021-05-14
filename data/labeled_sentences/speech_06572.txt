@@ -1,0 +1,20 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's December 14th, 2016.
+NEUT2|I'm Celina, Nicholas technical analyst at exam.com.
+NEUT3|Today will look at gold on the daily chart.
+NEUT4|You can see that gold maintains a bearish market structure.
+BEAR5|Prices have reached oversold territory.
+BEAR6|We can see that this is indicated by the Daily RSI, which is below the 30 point threshold, so it's in oversold territory right now.
+BULL7|And the momentum indicator is suggesting that the market will likely consolidate in the near term or even bounce slightly higher if we look for immediate support.
+NEUT8|It lies at around 1151.
+BEAR9|This was the low reached early this week, December 12.
+BEAR10|It's the lowest level in 10 months.
+BEAR11|Any upside moves will find resistance at the 1166 area.
+BULL12|It was a resistance level.
+BULL13|Recently and it was also support level last week recently.
+NEUT14|A move higher from this level would target the key 1200 level.
+BULL15|It's a very important level psychological level and only a breach of this key resistance level would start to negate the current downtrend.
+BEAR16|But if we look at the bigger picture, of course the market structure remains bearish, gold being below the 200 day moving average is keeping this.
+BEAR17|Bearish bias so the bearish crossover that took place last month with the 50 day moving below the 200 day moving average.
+BEAR18|This was a bearish signal as well.
+BULL19|"Thank you very much for watching and have a great day."""

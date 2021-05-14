@@ -1,0 +1,17 @@
+NEUT0|"""Hello everyone and thank you for joining this technical analysis video for the exam.com."
+NEUT1|It's Wednesday, July 8th.
+NEUT2|I'm Christina, Bethany, do investment analyst taking a look at the euro versus the British pound in the daily chart.
+BEAR3|So having a look at the chart, we have some discouraging signals playing on how the price list below the 20 day moving average and into the bearish Bollinger Band area.
+BEAR4|While more importantly, the price closed below the ascending trendline that has been strictly supporting the markets in mid February.
+NEUT5|However, the bridge was insignificant and if you look at their side, this is still around its 50 neutral mark.
+BEAR6|Despite a big we can get below this point.
+BEAR7|So the short term bias is currently looking bearish but weak and we may need to see another negative close to confirm a stronger bearish bias.
+BEAR8|The 50 day moving average and the lower boundary band both around.
+BULL9|Oh point 8930 could save the market from additional losses even know.
+BEAR10|Then it offers support may come near or point 8865 fabric of which would ruin the positive structure seen over the past two months, shifting attention.
+NEUT11|Probably 2 or point 8780.
+BULL12|I know in case we return above the trend line, we would like to see a close above the OR point 1955 nearby resistance.
+BEAR13|Such a move would send the price probably into the OR point 9114 point, 9175 area where the pink tentative descending trendline is located as well are crawling higher.
+BEAR14|The whole point 9290 level has been quite restrictive previously and therefore may next.
+BULL15|Attention, however, in the medium term picture, we may need to see a steeper rally above all point 9497 to resume the uptrend starting mid February, so that's all for these technical analysis session.
+BULL16|"Thank you for watching and have a great day."""

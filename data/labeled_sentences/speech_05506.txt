@@ -1,0 +1,44 @@
+NEUT0|"""OK, so how is it that there gonna be a company like expanse which shows you the same thing the bad guy?"
+NEUT1|See how was that available?
+NEUT2|I mean to me that is like I gotta have that.
+NEUT3|How did you get that?
+NEUT4|Well, I think Jim what's important is you've got to go see where the Buck is going, not where the **** was.
+NEUT5|I think the puck is going where you know five years ago you couldn't scan the Internet on a regular basis and in a day five years ago you couldn't aggregate that data and stored cheaply to be able to look at it.
+NEUT6|Fires where you can attribute that data to individual customers that are out there today.
+NEUT7|Technology has made it possible.
+BULL8|Now these guys have done a phenomenal job that work with various large governments around the world.
+NEUT9|They work with large companies.
+NEUT10|They actually have a visibility from the outside.
+NEUT11|Most securities inside out.
+NEUT12|You know, shut the door, shut the window, don't let anything bad happen to you.
+BULL13|These guys OK, great.
+NEUT14|Let's go take a look from the outside and say after done everything doing everything you done.
+NEUT15|What do I get to see?
+NEUT16|'cause that's what the bad guys we're seeing that's what the hackers are seeing.
+NEUT17|So they spend 4-5 years building the capability creating that capability from the outside, not within.
+NEUT18|The company is made above technical people will try to make sure this data is understood.
+NEUT19|We can take that.
+NEUT20|We can incorporate that into our product suite.
+NEUT21|We can deploy it against our 2000 Global 2000 accounts are Fortune 100 accounts and show them the benefits.
+NEUT22|Right on the gate.
+NEUT23|So we're launching our user conference tomorrow morning.
+NEUT24|Going to make all of our CIO and CISO sign up.
+NEUT25|We give them the ability to get a free report to actually see from the outside what the bad guys are seeing now.
+NEUT26|It's incredible.
+NEUT27|That's incredible because you have these like red Team Blue team.
+NEUT28|That's not good enough that those are people who are two good guys trying to hack.
+NEUT29|You.
+NEUT30|Need the bad guy mentality in this gives it to them.
+BULL31|Yes, we're really excited about the team.
+BULL32|Really excited about the acquisition.
+NEUT33|Really excited about the possibility of incorporating that data feed, and we're going to combine the two.
+BULL34|We have amazing inside out capability to bring outside in capability.
+NEUT35|I think the future you'll find out that people will need both perspectives to actually have a comprehensive, secure solution in front of them.
+NEUT36|And that's what we're aspiring to be.
+NEUT37|Don't miss a second of mad money.
+NEUT38|Follow at Jim Cramer on Twitter.
+NEUT39|Have a question?
+NEUT40|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT41|Miss something head to madmoney.cnbc.com.
+NEUT42|Shepard Smith here.
+NEUT43|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,12 @@
+NEUT0|"""Here's what we're watching is the first trading day of February, gets going in London."
+BULL1|Investors buying equities with Europe seem broad.
+BULL2|Based gains France and Germany leading the way.
+BULL3|UK's Footsie 100 is also climbing towards a 7200 mark.
+BULL4|This comes as U.S. equity futures indicate a firmer open in New York.
+BULL5|Shares in Apple trading 3% higher in the pre market after the iPhone Maker beat sales estimates overnight.
+BULL6|Also worth watching biotechs after their near 3% gain on Tuesday.
+NEUT7|InFocus later for the US will be the Fed Reserve meeting and their latest statement on the outlook for policy and the economy.
+BEAR8|the US Treasury 10 year note remains just below 2 1/2%, but the biggest story for bonds weakness in France relative to Germany.
+BEAR9|The gap between these countries respective 10 year yields is widen beyond 60 basis points, the largest divergent since the start of 2014 now yields for French bonds have been rising in recent months, reflecting investor unease as a country heads for its presidential election in May.
+NEUT10|At this juncture, though not surprisingly, few want to catch that.
+NEUT11|"Holy knife that is a French bond market just yet."""

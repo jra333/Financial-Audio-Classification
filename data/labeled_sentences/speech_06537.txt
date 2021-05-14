@@ -1,0 +1,19 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|I'm Celine Nicholas, technical analysts at xm.com.
+NEUT2|Today's February 10th, 2017 and will look at the euro versus the pound on the daily chart.
+BULL3|So your GBP is currently up on the day, but little change relative to yesterday's close.
+BEAR4|The short term sentiment given by the RSI is negative, as the indicators below 50.
+NEUT5|It's currently around 46.
+BEAR6|So this is in bearish territory right now.
+BEAR7|Additionally we look at them like D. It's slightly below 0, so it's also in bearish territory.
+NEUT8|On the upside, if there's a move higher, we can see that the 50 day moving average will act as resistance.
+BEAR9|It's currently at Zero point 8535.
+BULL10|A successful breakup of this moving average, which shift the focus to recently congested area, and we could say that resistance will come in at the key 0.86 level.
+BEAR11|On the downside, we have support at Zero Point 8470, and this is actually the late January 5 week low.
+BULL12|And it would act as an immediate support for any moves to the downside.
+BEAR13|Another focus for support would be the 200 day moving average, which falls below the point 8470 level, so this area is now around Zero Point 8450.
+BEAR14|Overall, in the medium term, prices are falling as long as they remain below the 50 day moving average.
+NEUT15|We expect a neutral outlook for now.
+BEAR16|But the immediate intraday bias would remain bearish.
+NEUT17|As long as the as long as the market remains below the 50 day moving average, thank you so much for watching.
+BULL18|"Have a great day."""

@@ -1,0 +1,40 @@
+BULL0|"""Thanks John Anrich, thanks so much for joining us today."
+NEUT1|In the midst of what is a very interesting time for the theatrical movie business.
+NEUT2|Just yesterday we heard from Disney that they aim to distribute some of their films in theaters at the same time they offer them on their streaming service.
+NEUT3|Disney Plus, for an additional $30 fee.
+NEUT4|I'm wondering what you make of all of this and what kind of threat it poses to the movie business.
+NEUT5|So Julie, I think you a little bit buried the lead with your question.
+BULL6|I think the lead was that Disney is reaffirming its commitment to the theatrical business.
+NEUT7|They kept about 7 movies theatrical only release on the All the Big Marvel movies for the year.
+NEUT8|Jungle Cruise, a big Pixar movie Luka.
+NEUT9|And as a matter of fact that in the Q&A Bob Chapin said we made $13 billion last year from theatrical and that's not easy to replace.
+NEUT10|And he said, we're going to be a little bit flexible during the pandemic and the movies you referred to a very early releases March kind of things.
+NEUT11|And I think what he did was very smart.
+NEUT12|I mean, while we're in the middle of a pandemic, especially in the United States, he said we're going to be a little bit flexible, but he sort of said to protect that box office when things changed.
+NEUT13|We're going to change.
+BULL14|So I I thought it was overall very good.
+NEUT15|And then the last point is the buzz coming out of this.
+NEUT16|Other than the financial buzz.
+NEUT17|Is that the next Star Wars is going to be directed by Patty Jenkins and I know they announced a lot of TV episodes and things.
+NEUT18|But as with the movie business, the Buzz comes out of the theatrical.
+NEUT19|Yeah, you are right, rich that there was an affirmation of a commitment to the theatrical business, but it sounds like there will be a lot of flexibility in terms of deciding what content is going to go straight to Disney plus and what will have a theatrical release.
+NEUT20|But I do want to point out though, that this is stands in contrast to what we just heard from Warner Media.
+NEUT21|They announced that there for the next year going to be releasing 18 films in theaters at the same time as they are available on HBO.
+NEUT22|Max.
+BEAR23|Does that pose a bigger threat to the theatrical moviegoing business?
+NEUT24|You know I wouldn't use.
+NEUT25|I wouldn't use the word threat.
+BEAR26|I think it was mostly a lack of understanding of a lot of elements of how the theatrical business works.
+NEUT27|First of all, when people make movies, they're different than making TV things for streaming.
+NEUT28|So when Big directores like Chris Nolan or Danny Villanu or Patty Jenkins envision their movies, they envision them on the big screen and they do special effects that way.
+NEUT29|Lighting, camera.
+NEUT30|They're telling a visual story in a certain way that doesn't translate well to the small screen, and it's not what the talent wants.
+BULL31|As you know, Julia 'cause it's been a huge outpouring this week.
+NEUT32|They've had a lot a lot to say about that, so I do understand what Time Warner did or Warner Media during the pandemic.
+NEUT33|It makes a lot of sense.
+NEUT34|You know, if they wanted Wonder Woman out and they wanted to put it on their platform where people don't feel safe to go, I get that.
+NEUT35|But if you look at international results IMAX is a global company were in 82 countries and we're killing it in China and Japan where our attendance is basically at 100% of where it was pre pandemic.
+NEUT36|So I just don't for the life of me understand why Warner Media would give up that box.
+NEUT37|Office doesn't make any sense except during a pandemic.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

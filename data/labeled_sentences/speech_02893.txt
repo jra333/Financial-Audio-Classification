@@ -1,0 +1,29 @@
+NEUT0|"""Inflation is a very hot topic right now because it's a puzzle, and it's especially a puzzle for central bankers."
+NEUT1|Historically, we've only worried about inflation was too high.
+NEUT2|What's a little unusual this year?
+NEUT3|Is that all around the world?
+BEAR4|Central bankers and policymakers are worrying that it's too low.
+BULL5|The Federal Reserve has two jobs, which is to boost employment and to keep prices stable.
+NEUT6|And since 2012, they've had a 2% inflation objective.
+NEUT7|So to understand the Feds 2% target, you have to think a little bit about the fable of Goldilocks into three bears.
+NEUT8|the Fed doesn't want the economy running too hot.
+BEAR9|When it runs too hot, you get inflation that gets very high as it did in the 1970s, and that takes purchasing power out of people's wallets when it runs too cold you get a recession.
+BEAR10|We've had weak inflation in the good sector for a long time.
+BULL11|What's different this year is that services have been showing less price pressure.
+NEUT12|You think of housing, education, health care services, and so this is something that's relatively new and it's raising more questions.
+NEUT13|There are a lot of explanations for why inflation has been running low.
+BEAR14|One possibility is that even though unemployment is quite low, we're still not a full employment.
+NEUT15|One reason could be demographics.
+BEAR16|We have a greater cohort of baby boomers that are aging and they're leaving the workforce, and those workers are being replaced with younger workers who may be less expensive.
+BEAR17|Technology is another potential source of downward pressure on inflation.
+BEAR18|There's pressure on any seller.
+NEUT19|To get to the lowest price, there's one final possibility of what could be happening to inflation right now, and that is noise.
+NEUT20|A lot of things happen from one month to the next that we can't really explain with fundamental reasons.
+NEUT21|The price of oil and gasoline goes up, or it goes down.
+BEAR22|Airlines decide to raise fares, or they decide to cut them.
+NEUT23|An indeed that is the Federal Reserve's main theory about what's going on right now.
+NEUT24|It's just one darn thing after another.
+BEAR25|Every month we've seen a different decline in the price basket, and that's going to create a problem at some point for the Fed's credibility.
+BEAR26|the Fed wants to see inflation get up to 2% low and steady inflation is in everybody's interest at the same time when it gets too low, central bankers get worried because they worry that it's a sign that we're heading potentially into a recession.
+BEAR27|And they also worry that it's a sign that they're running out of.
+NEUT28|"Tools to manage the economy."""

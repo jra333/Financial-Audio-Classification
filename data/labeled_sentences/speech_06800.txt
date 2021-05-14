@@ -1,0 +1,7 @@
+NEUT0|"""Welcome back to halftime report."
+BEAR1|I'm Leslie Picker, an updated statement from Amex today in response to the Wall Street Journal article, which alleges that the company's FX unit increased fees on their small and medium sized business customers without their knowledge.
+NEUT2|Then updated statement says that that group their transactions were completed and reported in a fair and transparent manner.
+NEUT3|This is according to a spokesperson.
+NEUT4|They said they take these allegations very seriously and they'll be conducting a review with an external party in order to determine whether their standards.
+NEUT5|Are being met now.
+BEAR6|"As you can see, their Amex shares down about 3%."""

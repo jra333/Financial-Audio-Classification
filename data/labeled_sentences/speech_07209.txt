@@ -1,0 +1,25 @@
+BULL0|"""Good morning and thank you for joining our daily Outlook and today will cover the changes in the Bitcoin U.S. dollar pair."
+NEUT1|Michael will be sharing insights from our trading desk.
+BEAR2|Bitcoin has fallen 8.3% in the last two sessions.
+BEAR3|The ADX is sinking into the negative zone.
+BEAR4|The euro dollar pair has lost point 3% in the last three sessions.
+BEAR5|The highs lows indicator has transitioned into neutral territory.
+BEAR6|The Sterling dollar pair has added .4% in the last session to speak Ostick RSI has sunk into negative territory.
+BEAR7|The Aussie dollar pair has fallen .6% in the last two sessions.
+BEAR8|The highs lows indicator is cooling down and is currently negative.
+BULL9|Thank you Michael for your insightful trading ideas.
+NEUT10|Moving on to world headlines.
+BEAR11|A battle for control of Poland's booming $19 billion online shopping market is about to reach a fever pitch.
+BULL12|After Amazon incorporated said it plans to launch in the EU's largest eastern economy, London listed shares closed, lower led by a decline in mining shares, a surge in virus cases and movement curbs raised demand worries while Fresnillo slump Reddit is partnering with the Ethereum Foundation to build scaling solutions for the blockchain network, expanding its role in the ecosystem.
+BULL13|Thank you, Michael.
+NEUT14|Now let's hear today's most important economic events.
+NEUT15|The US gross domestic product annualized will be released at 1330 GMT.
+BEAR16|the US continuing jobless claims at 1330 GMT.
+NEUT17|Germany's harmonized Index of consumer prices at 1300 GMT.
+NEUT18|The eurozone's business climate will be released at 1000 GMT.
+BEAR19|Japan's unemployment rate at 2330 GMT.
+NEUT20|Japan's Tokyo CPI at 2330 GMT.
+BULL21|We hope you enjoy today's market outlook on behalf of all of us here.
+NEUT22|We wish you.
+NEUT23|Productive trading day.
+NEUT24|"Be sure to log in tomorrow morning for the latest news and events from the financial markets."""

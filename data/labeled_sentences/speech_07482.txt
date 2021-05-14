@@ -1,0 +1,14 @@
+BEAR0|"""Before the opening Bell, US embassies, they closed down on Thursday, this time pressured by software and services as well as consumer services as well as the real estate sectors."
+BULL1|Now on the economic docket on Thursday morning retail sales advanced, they were at 7 1/2% in June from a revised 18.2% in May.
+BEAR2|Initial jobless claims slightly fell to 1.3 million for the weekend of July 11th.
+BEAR3|Continuing claims declined to 17.338 million for the weekend of July 4th.
+BEAR4|This all is 52% of S&P 500 constituents traded lower or unchanged yesterday.
+BEAR5|Now after the markets closed, Netflix heavily under pressure before hours after reporting second quarter EPS of $1.59 below the estimate and up from $0.60 a year ago on revenue of $6.1 billion, slightly above the consensus moving on in terms of expectations.
+NEUT6|Today we first have results from Black Rock and then we take a look at the economic docket this morning before the opening Bell at 8:30 AM.
+NEUT7|We have U.S. housing starts, figures as well as US building permits.
+NEUT8|10:00 o'clock in the morning we have the release of the Michigan Consumer Sentiment Index.
+NEUT9|That's the preliminary read.
+NEUT10|Meanwhile, in the markets, the S&P 500 is where we begin that sees the bias remain bullish, and that's in focus.
+NEUT11|Even though a continuation of the current allocation cannot be ruled out, the extent should be limited.
+BULL12|Long positions above 3190 are favored with targets at 3211 and 3225.
+NEUT13|"In extension, moving on the NASDAQ that sees the bias remain bullish and the Dow Jones intraday that continues to see the bullish bias above 26,460."""

@@ -1,0 +1,22 @@
+BULL0|"""Palantir stock Monday morning pre market is on the rise at around 9:45."
+NEUT1|Dollars a share.
+NEUT2|Again, for those who do not believe in Palantir.
+NEUT3|Here is a nice list of the company's clients and the so-called code names they use for their clients.
+NEUT4|So.
+NEUT5|We got some big names here.
+NEUT6|American Express Bank of America Bank of England let's see here.
+NEUT7|Oh.
+NEUT8|Coca Cola Comcast all your favourites that you like to invest in Hershey.
+NEUT9|Glaxo Smith Home Depot JP Morgan Kimberly Clark Morgan Stanley wow.
+BEAR10|Look at North Northrop Grumann War company Walmart and you still think Palantir stock is gonna fail?
+BEAR11|Well, I'm sorry you're missing out on a good deal.
+NEUT12|$9 a share.
+BULL13|It's going to go up.
+NEUT14|But I guess if it's not going up $100 a share, it doesn't mean anything to you people.
+NEUT15|So now you can move along.
+NEUT16|And go to the forecaster on YouTube.
+NEUT17|We're real, forecasters don't actually.
+NEUT18|Reveal their secrets, but you can go trust one of those guys.
+NEUT19|Who is very loud and obnoxious and lives in his mother's basement and has probably 10 shares of stock altogether.
+NEUT20|Because they.
+NEUT21|"Don't have a job and they get allowance still at age 40."""

@@ -1,0 +1,5 @@
+BEAR0|"""Copper demand is continuing to surge as another sharp decline in LME copper stocks happened overnight."
+BEAR1|What we're seeing is the supply side of copper continuing to tighten, and it's not only just in copper, it's in other base metals as well.
+BEAR2|Those LME copper stocks are at the lowest level since 2005, and really what it is is it's interrupted production from the pandemic, along with surging.
+BULL3|Infrastructure spending not only in China, also in the United States and also globally we saw a surge in building as people leaving cities because of the pandemic and moving to outer areas like suburbs that sparked quite a bit of new building, new home construction.
+NEUT4|"And that's where your copper demand really comes in."""

@@ -1,0 +1,26 @@
+BULL0|"""Say it quietly, but protectionism really works well for the steel market, at least."
+BULL1|Bolting the door against imports has made a difference in the US and should do in Europe to the US in particular has formed.
+BULL2|Back in 2001, then President George W Bush took action for steelmakers, struggling with an economic recession and a strong U.S. dollar.
+BEAR3|In the three years up to late 2001, Mills accounting for nearly 1/3 of US capacity had filed for bankruptcy in March 2002.
+NEUT4|The White House finally introduced blanket tariffs of 30% on the price of imported steel products.
+NEUT5|This action had a direct effect upon imports and US steel.
+NEUT6|Prices which never fell that low again then came the explosive growth of China's own steel industry back in 2001.
+NEUT7|It exported just 5.5 million tons.
+NEUT8|Today.
+NEUT9|It exports 20 times that 13 1/2 percent of its production.
+NEUT10|One reason.
+NEUT11|It makes too much steel, less than 3/4 of its mill capacity gets used.
+BULL12|Nevertheless, steel prices everywhere have rebounded and may keep going just as a program of public works.
+BULL13|Spending accelerated in China, the US government decided to protect its domestic industry with a new series of import tariffs from late 2015.
+BEAR14|Imports into the US, which had been on the rise, peaked last year.
+BEAR15|The European Union last year followed the US in setting its own series of trade tariffs, though imports to the EU have yet to fall.
+BULL16|That has not stopped European hot rolled coil prices surging 77% / 12 months.
+BULL17|Global Steel shares did even better, doubling over the same.
+BULL18|These jumps in market value discount a big recovery in earnings.
+BULL19|The sector price earnings multiple is now well above the decade average at 16 times.
+BULL20|Yet, if history is any guide, profitability has much further to rise.
+BULL21|Operating profit margins for the largest steelmakers.
+BEAR22|Arcelor Mittal, POSCO Nippon Steel average under 5% half the amount of a decade ago.
+BULL23|Assuming prices can hold relatively steady and improvement should follow.
+BULL24|That may sound a big if given China's persistent excess capacity.
+BULL25|"Even so, trade barriers take time to dismantle, which should support steelmakers in the US and Europe for awhile longer yet."""

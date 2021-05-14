@@ -1,0 +1,26 @@
+BULL0|"""Netflix reported earnings for the fourth quarter of 2020 after the Bell on Tuesday, announcing it is very close to being free cash flow positive and is considering stock buybacks this year."
+BULL1|It expects to be around break even on cash flow.
+BULL2|The stock was up about 12% after hours.
+NEUT3|Here are the key numbers.
+NEUT4|Netflix is expectation of soon becoming free.
+BULL5|Cash flow positive would bring to life the bull case for the stock.
+BULL6|Netflix said it would no longer need to raise external financing for daily operations and would even explore returning cash to shareholders.
+NEUT7|Netflix hasn't made such a move since 2011, a pivotal year in the company's shift from DVD's to streaming.
+BULL8|The company said it intends to pay down more of its debt as well.
+NEUT9|It's raised $15 billion in debt since 2011 and currently has $8.2 billion cash on hand.
+BULL10|Netflix has been free cash flow positive for the past three quarters, though executives mostly credited that is ineffective.
+BEAR11|Postponed production during the pandemic free cash flow for Q4 was negative, as predicted due to production restarts in some regions.
+BULL12|But not as significant as expected free cash flow for full year 2020 was plus $1.9 billion versus $3.3 billion in 2019 in Q4, Netflix had to contend with several new competitors in streaming, including Apple TV plus Discovery, Plus Disney, plus HBO Max from AT&T's, Warner Media and Peacock from CNBC parent, NBC Universal still to come as Viacom CBS Paramount Plus.
+BULL13|Executives said in their letter to shareholders that 2020 was a testament to the company's approach of improving the platform for subscriber satisfaction to stand up to competition.
+BULL14|Disney Plus had a massive first year, 87 million paid subscribers and we recorded the biggest year of paid membership growth in our history.
+NEUT15|Executives wrote.
+NEUT16|The company shared details of some of its biggest hits from the quarter, like the Queen's Gambit, which 62 million member households watched in the 1st 28 days on the service.
+BULL17|In addition to becoming the biggest limited series in Netflix history, Netflix boasted its cultural impact, prompting chess board sales the midnight Sky, starring and directed by George Clooney, was the biggest original film of the quarter, Netflix said.
+BULL18|With 72 million member households watching in the first four weeks, Netflix said production as back up and running in most regions.
+NEUT19|It previously announced it would plan to release one new original film per week in 2021.
+NEUT20|Netflix executives will discuss the results in their earnings interview at 6:00 PM Eastern Time.
+NEUT21|CNBC's Alex Sherman contributed to this report.
+NEUT22|This story is developing.
+NEUT23|Check back for updates.
+NEUT24|Subscribe to CNBC on YouTube.
+NEUT25|"Watch what will happen to your favorite shows."""

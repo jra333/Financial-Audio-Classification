@@ -1,0 +1,33 @@
+NEUT0|"""Here to make sense of all of that fedspeak, including the more bullish comments from Saint Louis Fed President James Bullard Dance Wang joins us."
+NEUT1|Now she's the chief economist at Grant Thornton Day and welcome.
+NEUT2|And what do you think?
+NEUT3|the Fed is trying to do here?
+NEUT4|Well, I think it's clear that Fed Chairman Powell is playing Congress for more aid, and many of the Fed presidents agree with them.
+NEUT5|The outlier is Bullard, although he himself also acknowledged the critical role that the stimulus played in supporting the recovery early on.
+NEUT6|So as much as there is dissonance, and I think they're having a real problem with their communications these days, I do think there is a sort of underlying commonality in terms of what the Fed can do, too.
+NEUT7|Cure what ails us and frankly, they're limited.
+BEAR8|They're running out of rabbits to pull out of a hat and chair.
+NEUT9|Powell has really emphasized that this is the role that fiscal policy must play, and he's also been sort of trying to stay out of the middle of the debate saying it's needed, but it's your guys is job to actually determine what needs to be done.
+NEUT10|It's interesting, Diane, because they're sort of the short term in the long term.
+NEUT11|Issues here in the short run, they're trying to get Congress to pass another stimulus bill, but in the longer run, they're trying to persuade markets that they're serious about letting inflation hit 2% and run above that so.
+NEUT12|Do you think that's what accounts for the mixed messages?
+NEUT13|Right now?
+NEUT14|I mean, once we if we were to get another covid bill with all the sudden start talking about, yeah, let her rip.
+NEUT15|Yeah, I mean this is really an interesting issue.
+NEUT16|Is there are new average inflation?
+NEUT17|Target isn't actually an average inflation target yet in the GNU tools that they've got are just guidelines and they really depend on who's sitting at the table.
+BULL18|And that's given us even some distance on the Fed on that.
+NEUT19|I think it's really important to understand what the Fed appears to have agreed on.
+BULL20|They've agreed that they're willing to overshoot on inflation a bit to allow wages to rise as a share bargaining power for workers to come back.
+NEUT21|They saw that in the last expansion, not until the very end of the expansion.
+NEUT22|They want to recreate that.
+NEUT23|Get back to 3 1/2 percent unemployment as soon as possible and let it run for a little bit.
+BULL24|That actually if markets believe them is not great for profit share in the US economy and so it's not as good for financial markets but better for Main Street than Wall Street.
+NEUT25|That said, would the Fed raise rates?
+NEUT26|The trajectory matters.
+BULL27|the Fed would not hesitate to raise rates if inflation suddenly moved up from 1 1/2 to two to three.
+NEUT28|The trajectory of that inflation matters too.
+NEUT29|They would then have to deal with that.
+NEUT30|What we worry the most about?
+BEAR31|Is that if Congress doesn't provide aid, you could have enough consolidation and a supply side shock that you actually have a price increase or inflation increase at the same time.
+BEAR32|"The economy is still stagnating."""

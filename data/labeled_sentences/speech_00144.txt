@@ -1,0 +1,19 @@
+NEUT0|"""Everyone, let's take a look at the Apple stock."
+NEUT1|We can see from this daily chart.
+NEUT2|Actually, today it has formed a green candle with long lower tail.
+NEUT3|It means supporting underneath with the smaller model.
+NEUT4|It means the selling pressure.
+NEUT5|Not big, but also the supporting strength is not so strong.
+BULL6|But anyway we have closed above the EMS and also we have full days of gain.
+NEUT7|And as we can see here this is a double shift.
+NEUT8|Bottom, The double shift bottom one is here.
+NEUT9|The bottom to the here and also this load is higher than this low, so it's a bullish sign for Apple stock if we change it to the weekly chart we can see here.
+NEUT10|The double shape is more clear and.
+NEUT11|If we check the pattern, we can see actually the.
+BEAR12|This point is still be the virtual resistance hanging above, but the volume down here has been.
+BULL13|Higher compared to before, so we can see.
+NEUT14|Here's a little bit distribution by the institution, but as to the volume, here is not so strong.
+NEUT15|So should we be be careful in the next few weeks so it's the mid term pattern.
+BULL16|So if we change it to the monthly pattern we can see the uptrend from the from April this year still kept intact so don't easily judge that it has been topped here.
+NEUT17|So because I will still have strong earnings, so let's wait and see what will happen.
+BULL18|"Thank you."""

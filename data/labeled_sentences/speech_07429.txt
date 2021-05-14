@@ -1,0 +1,10 @@
+NEUT0|"""March 23rd is in the books here on Wall Street."
+NEUT1|Here's the New York minute.
+BEAR2|Now it's been a day of relative calm on the market here in New York, and obviously quite a lot of drama in Washington, where the subject is the health care bill.
+NEUT3|Now, if you take a look at the managed health care sector, obviously the one that will be most affected, you can see that it's reacted quite sharply to the news at lunchtime that the Freedom Caucus was going to be voting against, and later in the day that there wasn't even going to be a vote tonight, if you take a look at the broader S&P 500, you can see that yes, there was a similar effect.
+NEUT4|On the market as a whole, but let's not overstate this.
+NEUT5|This was from.
+NEUT6|Beginning to close really quite a quiet day.
+BEAR7|If the Trump trade still isn't in too much trouble, the reflation trade, which is a bigger and broader phenomenon, does seem to be moving in a slightly negative direction.
+BEAR8|This is the 10 year break even for the US beginning to decline below 2%.
+BEAR9|"It's the two year break even sharply lower thanks to oil price and even in Germany you can see that inflation expectations are falling, so the reflation trade maybe in slightly more trouble in the Trump trade, and that's the New York Minute."""

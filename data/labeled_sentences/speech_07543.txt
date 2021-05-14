@@ -1,0 +1,9 @@
+NEUT0|"""I think overall the Motley Fool's pretty much out there saying if you can hold it for five years, it's probably not a good idea to invest in it at all, and some of the reasons for that are when you actually look at the performance of the market over long periods of time."
+NEUT1|A very small fraction of companies drive the majority of the returns.
+NEUT2|If you go back 100 years.
+NEUT3|One in 25 companies is driven all the returns.
+BULL4|In fact, 80 public companies out of 25,000 over the last 100 years are responsible for 50% of the market's gains.
+NEUT5|So really what we're trying to do it for?
+BULL6|Long term business focused investors try and find what companies do we think will stand the test of time like Starbucks, which is up 20% a year since 1992 when you focus on quality, well run businesses with strong balance sheets.
+NEUT7|Whether we're talking about REITs or the all the other companies we mentioned this hour.
+NEUT8|"Those are the stocks that come as we want to be invested in."""

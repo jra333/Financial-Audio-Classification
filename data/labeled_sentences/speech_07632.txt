@@ -1,0 +1,22 @@
+NEUT0|"""We have the only first copy that exists, so here it is."
+NEUT1|1917 seventeen.
+NEUT2|Wow, volume one number one.
+NEUT3|But what was the face price there $0.15?
+NEUT4|Recommend any socks in there or not.
+NEUT5|God Henry Ford's in there, Rockefeller Thomas Edison was a big fan of the early days.
+NEUT6|That's it.
+BULL7|That's OK. Yeah.
+NEUT8|Never make any women that a whole women in business.
+NEUT9|They were headed there quite a bit ahead of time, so the idea for the cover to connect 100 years where you were.
+NEUT10|Yeah, we get the first issue and then we actually have technology where people will be able to take a picture that cover with their smartphone and a video and it's artificial intelligence and people can ask a question and it will.
+NEUT11|You can have an interactive conversation shot off the cover.
+NEUT12|Yeah, it can be really, really something really cool.
+NEUT13|Hi.
+NEUT14|I'm Warren Buffett and we're celebrating the 100th anniversary of Forbes magazine by answering your questions.
+NEUT15|Thanks to artificial intelligence.
+NEUT16|You and I can have a conversation.
+BULL17|Can hold a little bit higher up here.
+NEUT18|An ice pack at me.
+NEUT19|Love it.
+NEUT20|Picking up his history with us and bring the magazine a little bit lower.
+NEUT21|"Are you finding any stock tips in there?"""

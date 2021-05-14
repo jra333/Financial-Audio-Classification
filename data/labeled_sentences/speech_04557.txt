@@ -1,0 +1,19 @@
+BEAR0|"""Well, Tyler, a federal judge has granted Amazon's requests to stop any work on this project while it is being protested by Amazon."
+BEAR1|Now remember, Amazon had said that the process by which the Department of Defense had granted this contract to Microsoft was flawed.
+BEAR2|They've alleged political interference in the process as well, and acid judge to put a temporary stay while they go through this litigation with the government.
+NEUT3|A judge has now approved that request.
+BULL4|Mike, Amazon and the DoD had agreed to limit any initial work on Jedi through this week and now that stay will continue as this case is litigated and it has been a very fiery one, with Amazon requesting depositions now from President Trump as well as the current Defense Secretary Mark Esper and the previous Defense Secretary.
+NEUT5|But guys, we are still awaiting whether or not the judge will allow that request for testimony to go forward.
+NEUT6|Right now we know that work on Jedi will come to a stop for now.
+NEUT7|Back over to you.
+NEUT8|So quantify once again for for those who have feeble memories, how big a contract this is and why the stakes are so high.
+NEUT9|Sure it is a $10 billion contract that Amazon has been fighting for and that frankly, the big tech companies have been fighting over for number of years now.
+NEUT10|Amazon thought that it was the frontrunner for this contract, but certainly.
+BEAR11|With President Trump's beef with Jeff Bezos at one point saying that he wanted to screw Amazon.
+NEUT12|According to reports, now, Amazon is claiming that this process was flawed from the start and they wanted us to take a look at it.
+NEUT13|Do we know Elon where we are in terms of the president of having to sit down and be deposes?
+NEUT14|That even is there precedent for that?
+NEUT15|Yeah, Amazon is telling us that this is an unprecedented request and those documents in which Amazon made that request to the court.
+NEUT16|Or just only recently unsealed.
+NEUT17|We're expecting a decision to come in that request sometime within the next few weeks, but certainly the judge making a ruling in favor of Amazon.
+NEUT18|"I'm sure folks will be reading the tea leaves in this decision to see what happens ultimately with whether or not the president and some of his top lieutenants will have to testify."""

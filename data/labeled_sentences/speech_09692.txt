@@ -1,0 +1,33 @@
+NEUT0|"""Let's bring in George Balls, CEO of Sanders Morris Harris."
+NEUT1|George.
+NEUT2|Always good to see you gotta ask right off the top here.
+NEUT3|What's going on with big tech?
+NEUT4|There seems to be nothing that can stop it.
+BEAR5|Are you concerned at all that we've gotten ahead of ourselves here?
+NEUT6|Yes, there's been a great deal of talk about Fang Bubbles and usually since the moment the market climbs a wall of worry and all that sort of nice thing bubbles exist, just like bubbles in the air for much longer than people would expect.
+NEUT7|But if you look at the fundamentals, some of the big tech companies are great companies.
+NEUT8|They're earning a lot of money.
+BEAR9|They got a huge amount of cash, are coming under governmental attack, you're seeing senior leaders.
+NEUT10|Leave to start their own companies.
+NEUT11|They're becoming much more bureaucratic now and usually that's the sign of the beginning of the Fishers, the crack bubble.
+BULL12|If that's not a mixed metaphor, and I do think that the Fang stocks in particular have a good deal of downside risk Now, the reason that they continue to be so strong is that they are the one group that algorithmic traders can can follow right now with a fair degree of confidence, and I think that's giving them there.
+BULL13|There can their continued strength, but that's that's gonna end it some fairly near point.
+BEAR14|George, let's say clients call you this week and they after reading what Joe Biden puts out regarding his potential plan to reboot the economy and they say, hey George, you know my taxes are going up.
+NEUT15|What's your response to them and what do they?
+NEUT16|What should they do with their portfolio?
+BEAR17|Well, there there is a problem because the Bible is probably more of a middle of the roader than than many of the Democrats.
+NEUT18|But all of life is after tax.
+NEUT19|That's unfortunate, but really, at the end of the day with you can put in your pocket is after tax and.
+NEUT20|If you combine corporate taxes, capital gains, taxes, individual income tax rates, probably you're going to put $0.25 less in your pocket under a Biden plan.
+NEUT21|Then you would under the current laws and then the current administration.
+NEUT22|Now that's a negative you'd like to put more in your pocket, and that that means that the present value of the after tax stream dividends, which is sort of the capital markets theory, means that.
+BEAR23|Stocks, all things being equal, would be lower by 25% than they are today.
+NEUT24|May not work that way, that at least is the theory.
+NEUT25|Right, George ball.
+NEUT26|We're going to leave it there, CEO of SMH Group.
+BULL27|Thanks so much.
+BULL28|Always a pleasure to see you there.
+NEUT29|Thanks Alexis hey investors, Zach Guzman?
+NEUT30|Here are you interested in learning more about the markets and getting the latest financial news?
+NEUT31|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT32|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

@@ -1,0 +1,30 @@
+BEAR0|"""The world's number 2 cigarette producer British American Tobacco shocked the market a little bit cigarette sales were down in 2013."
+BULL1|Revenue was up.
+NEUT2|So what exactly is going on?
+NEUT3|Let's take a closer look.
+NEUT4|OK, Nate, so British American Tobacco that says we're probably going to be calling in this video.
+BEAR5|It's 2013 numbers are out.
+NEUT6|Let's what's your quick take on what you saw.
+NEUT7|Well, companies facing the same trends we've been seeing for a while.
+BEAR8|This is the fourth year in a row that we've seen.
+BEAR9|Cigarette volumes actually decline.
+NEUT10|This is an industry wide issue, so it's nothing wrong with the company necessarily.
+BEAR11|Other than they are in an industry that has declining demand for its goods, but for the people who still want to smoke, they are very particular about their brands, which gives the major tobacco companies pricing power, which is why we can see volumes drop.
+BULL12|But revenues go up.
+NEUT13|And importantly, for most investors in a company like British American Tobacco, the.
+BULL14|Dividend was raised and this is really viewed as an income generating investment because most people recognize that this isn't exactly a growth industry and they just want the predictable cash flow generation and they want their dividend and that's delivered well.
+NEUT15|That's always good to hear.
+BEAR16|So you mentioned declining volumes.
+NEUT17|One area where bats another cigarette makers are investing, some time and energy and money is the E cigarette.
+NEUT18|So do you think this is something that investors either in bats or potentially in bats should even be?
+NEUT19|Paying attention to is an exciting thing.
+NEUT20|I think you need to pay attention to it because it is a potential extension for reverse away.
+NEUT21|To reverse this trend, perhaps, but really, the E cigarette industry is still very young.
+NEUT22|Still very small portion of total cigarette sales regulations aren't even fully cemented yet, so we're not sure exactly where the regulators are going to come down on.
+NEUT23|Advertising what type of labels you have to put on the devices, and so I think right now it's very early.
+NEUT24|It's good to see these companies moving into this area because to ignore it would be foolish, but I think for investors it's something to watch.
+NEUT25|It's not something to bet on at this point.
+NEUT26|OK so.
+BEAR27|Revenues revenues were up, cigarette sales were actually down a little bit of an interesting trend on the E cigarette, but I guess the good news for investors is that the dividend is safe, healthy, good dividend for that.
+NEUT28|So thanks for being here to take a closer look.
+BULL29|"Thanks for watching full on."""

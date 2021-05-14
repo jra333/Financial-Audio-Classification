@@ -1,0 +1,38 @@
+BEAR0|"""Starbucks is lower in early trading and this morning, as US comps down five in the first quarter, following some tighter covid restrictions joining us this morning, first on CNBC."
+BULL1|We're always pleased to welcome Starbucks CEO Kevin Johnson.
+BULL2|KJ welcome back.
+BULL3|Good to see you good morning, good morning.
+NEUT4|How are you guys this morning?
+BULL5|Trying to hang in there, it's a pleasure to talk to you about the quarter.
+BULL6|Down five is certainly better than down 9 prior.
+NEUT7|Is there a sense that it could have been even better if maybe the January restrictions hadn't popped up again?
+NEUT8|Well, you know.
+BULL9|Certainly, it's it's another quarter of sequential progress, and you know, I'd say the overall recovery is unfolding as we had forecasted.
+BULL10|You know, China posted a positive 5% comp in the quarter.
+BULL11|the US showed sequential improvement going from minus nine in the previous quarter to minus 5%.
+BULL12|And certainly that could have been even better.
+BULL13|Carl, as you point out, given the fact that we had this resurgence of of the spread of Covid late in the quarter, and you know, we had to.
+BEAR14|We had to eliminate a lot of the limited seating indoor seating in our stores, and so that had an impact.
+NEUT15|But you know, we we have this operationalized where we can.
+NEUT16|We can monitor and adapt, store by store to whatever is unfolding.
+BULL17|And I think as we disclosed yesterday, you know, January on US was is looking like it's coming in at a -- 2% comp so.
+NEUT18|You know this this recovery is not linear week by week, but quarter by quarter.
+BULL19|You know we're tracking to the to the recovery that we had forecasted.
+NEUT20|You know several months ago.
+NEUT21|Right, we've talked to you for a long time about traffic and it's not.
+NEUT22|It's not endemic just to Starbucks, but quick service in general.
+BEAR23|How do you get traffic back up transactions down 21 even though average ticket was way up?
+BEAR24|Is there a sense that that transactions are bottoming at these levels?
+NEUT25|Well, you know what's happening right now.
+NEUT26|Carl is is customers are looking for experiences that are safe, familiar and convenient.
+NEUT27|And so when they come to Starbucks, you know, in many ways their their their placing group orders.
+NEUT28|They're buying multiple beverages, multiple food items, and that's because you know they're buying.
+NEUT29|You know either for their their family, or you know their work.
+NEUT30|Colleagues, you know, whatever it's it's driving ticket up an transactions down an as as we get through this pandemic, and you know the vaccination process starts to unfold.
+BULL31|We're going to see that normalize a bit more.
+NEUT32|You know transactions are good are going to start to go back up once we get back into a more normal routine.
+BULL33|You know, ticket will come down, but we still think ticket is going to have some positive long term.
+NEUT34|You know, upside as we look to the future.
+BULL35|But right now, what we're seeing is, you know, customers continue to group order an we've increased throughput at drive-thru and curbside, and mobile order, and that's working.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

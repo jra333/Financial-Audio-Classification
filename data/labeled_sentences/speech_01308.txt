@@ -1,0 +1,26 @@
+NEUT0|"""Hey there, I'm Jason Moser analyst with Motley Fool one here at The Motley Fool and welcome to another edition of Ask a Fool."
+NEUT1|So this week we had a question that was submitted to us from Facebook and this comes from Gene and she asked on MSN Money.
+NEUT2|I noticed volume and average volume volume changes by the minute.
+NEUT3|Is this volume stocks on the shelf are set for sale or is it stocks that have sold?
+NEUT4|How can I use this to know how to buy or sell?
+NEUT5|Please explain this in layman's terms and I think that's a great question Jean.
+NEUT6|And thanks for submitting it, and let's take a look at what volume and how how it can play into your trading or investing strategy.
+NEUT7|Volume essentially gives us an idea of the liquid iti of a stock or how many shares of a trade in a particular day.
+NEUT8|The more shares trade, the more liquid the stock, the less shares trade then the less liquid the stock is.
+NEUT9|Average volume gives us basically an idea of the average over a given time.
+NEUT10|This can give us a better idea of how the stock has been trading over a longer period of time, and it's just another useful piece of information.
+NEUT11|So let's look at 2 examples in your first example in your question with Calu met game, it is a $2.3 billion market cap and has a three month average volume of about 680,000 shares per day.
+NEUT12|Now if we go to the other end of the spectrum there with something like Chevron, will Chevron's a $230 billion market cap company and it has a three month average of about 5.5 million shares per day.
+BULL13|So with those two examples, we can see that Chevron is a more liquid stock than than calument.
+NEUT14|It's a more liquidly liquid traded stock than calument, so with less liquid stocks you want to pay particular attention to what's called the bid ask spread.
+NEUT15|I know that sounds a little bit technical, but really it's pretty easy to understand.
+NEUT16|This is the difference between the price that the market is asking for the stock versus what investors are bidding to pay for the stock, and you can see this bid and ask spread.
+NEUT17|You can see these prices on any standard ticker page as well, so.
+NEUT18|Highly liquid stocks will typically give you a bid ask spread of a penny or two, so it's rarely a concern at all.
+NEUT19|However, when we start talking about less liquid stocks, it can be a bigger concern and it's something you want to pay attention to because there will be oftentimes a larger spread between the two.
+NEUT20|What this means is if you submit just what's called a market order to buy your stock, then you may actually pay more than you are willing to pay for the stock, and you might not even realize you realize that you're doing it so foolish investors will use what we call.
+NEUT21|A limit order at limit order is simply a way to buy or sell a stock with a particular price target in mind.
+NEUT22|Simply put, it ensures that you won't pay more than you're willing to pay when you're buying a stock, and you won't sell a stock for less than you're willing to accept in selling a stock, and after all, it's your hard, harder money we're talking about here, so it's a handy tool to have in your toolbox.
+NEUT23|It's called a limit order, and it's a standard order on any of your brokerage statements, so it's a great question.
+NEUT24|Jean, thanks for posting it, and For more information, make sure to head on over to fool.com.
+NEUT25|"People on the show may have interest in the stocks they talk about, and The Motley Fool may have formal recommend."""

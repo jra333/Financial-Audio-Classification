@@ -1,0 +1,11 @@
+NEUT0|"""What are the uncertainties among corporate America when it comes to borrowing more money to prepare for the next phase ahead?"
+NEUT1|Well, that that's an interesting point.
+NEUT2|I think.
+NEUT3|Firstly a lot of financing has already occurred.
+NEUT4|We can't forget we had record issuance in the investment grade market going back 345 months ago.
+NEUT5|There is some financing pipeline coming right now in the high yield market and some LBO financings.
+NEUT6|But a lot of financing has already taken place here at this point in time, so there is no necessary pressing need for people to go to the market that may adjust in the next few weeks, depending on people's economic outlook here right now.
+NEUT7|But at the moment it seems relatively muted.
+NEUT8|Certainly on the investment grade side, and the high yield side.
+BULL9|You know the search for yield continues, obviously with low interest rates, so the markets have been relatively decent and I think you'll start to see some LBO financings getting done here.
+BULL10|"Some high yield financings and that will provide the marketplace, both with yield an with interesting product where to put their money."""

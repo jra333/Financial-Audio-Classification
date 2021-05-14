@@ -1,0 +1,15 @@
+NEUT0|"""Just to give everybody a heads up, I really believe in what Zomedica can do."
+NEUT1|You know, I believe in everything that they are doing.
+BEAR2|Understand that they had a down week last week.
+BEAR3|They also had a down day really on Thursday.
+NEUT4|You know.
+BULL5|The long weekend really took a toll on a lot of things, but we are seeing them up 2% as of today and I think we're going to see a pretty good day today with a lot of things.
+NEUT6|Is going to be a reversal of a lot of different positions, and xom is going to be one of those.
+NEUT7|We're going to see that actually, take a jump today when we look at in the pre market.
+NEUT8|It really wasn't moving that much.
+NEUT9|Pretty flat somewhere around here.
+NEUT10|Did have a little bit of.
+BULL11|Moon increased over the after hours market.
+BEAR12|The pre market started to decrease a little bit and now it's hovering around that you know $1.50 mark so hopefully we can have that push up to $1.00.
+NEUT13|Sixty $1.70 make that move all the way up this week, hopefully to two dollars $2.50.
+NEUT14|"But I believe in it."""

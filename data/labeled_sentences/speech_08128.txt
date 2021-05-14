@@ -1,0 +1,24 @@
+BULL0|"""The social networking giant reported first quarter results including engagement gains driven by COVID-19."
+NEUT1|What happened?
+BULL2|Shares of Facebook, NASDAQ, FB have popped today up by 5% as of 12:20 PM Eastern Daylight Saving Time after the social networking juggernaut reported first quarter results.
+BULL3|Facebook modestly beat revenue expectations and provided some encouraging commentary about the ad industry.
+BULL4|So what revenue in the first quarter increased 18% to $17.74 billion, topping the consensus estimate of $17.25 billion.
+BULL5|That led to net income of $4.9 billion, or $1.71 per share, which was right on target with expectations.
+NEUT6|Family daily active people.
+BULL7|DAP increased to 2.36 billion while family monthly active people map grew to 2.99 billion.
+BULL8|Facebook's role in connecting people has become increasingly important amid the COVID-19 pandemic and engagement is soaring as people stay home, the tech company continues to combat misinformation and has committed $300 million in support and relief programs designed to.
+NEUT9|Help small businesses and news publishers.
+NEUT10|Now what?
+BEAR11|On the conference call with analysts CEO Sheryl Sandberg said the Corona virus outbreak had a significant impact on our business starting in the second week of March, with advertisers pulling back on spending, Sandberg added companies of all types are adapting to a world where people aren't walking into their stores, are seeing their brand on billboards.
+BEAR12|However, there are indications that ad sales are recovering after initial steep decrease in AD revenue in March.
+BULL13|We have seen signs of stability reflected in the first three weeks of April.
+BEAR14|According to CFO Dave Wehner, due to the ongoing macroeconomic uncertainty.
+NEUT15|Wenner said Facebook was not providing revenue guidance for the second quarter.
+NEUT16|10 stocks that could be the biggest winners of the stock market crash when investing geniuses David and Tom Gardner have a stock tip it can pay to listen after all.
+BULL17|The newsletter they have run for over a decade, Motley Fool Stock advisor, has tripled the market* David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now.
+NEUT18|And Facebook wasn't one of them.
+NEUT19|That's right.
+BULL20|They think these ten stocks are even better buys Randi Zuckerberg, a former director of Market development and spokeswoman for Facebook and sister to its CEO, Mark Zuckerberg, is a member of the Motley Fool's Board of directors.
+NEUT21|Evan Niu, CFA, owns shares of Facebook.
+NEUT22|The Motley Fool owns shares of and recommends Facebook.
+NEUT23|"The Motley Fool has a disclosure policy."""

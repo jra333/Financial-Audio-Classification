@@ -1,0 +1,9 @@
+NEUT0|"""I want to get to a stock move that you're doing so it's unrelated to technology."
+NEUT1|Well, you bought.
+BULL2|We're starting to buy Disney.
+NEUT3|We like Disney at these levels.
+NEUT4|Stock is 15 times earnings, five year trailing 21 times earnings.
+NEUT5|They're about to close this acquisition of Fox.
+NEUT6|I think the new Disney is a multi pronged strategy where you actually have the ability not just to have interactive content, but you also have content in the consumer theme parks.
+BULL7|And given what we talked about with consumer being really strong consumer confidence really strong.
+BULL8|"This company, we feel, has really a good amount of ammunition to kind of go forward."""

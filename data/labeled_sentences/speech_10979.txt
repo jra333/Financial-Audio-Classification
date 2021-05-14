@@ -1,0 +1,21 @@
+NEUT0|"""Let's switch gears now."
+BULL1|Talk a little Evie, because we've got the struggling and troubled EV Truckmaker Nikola planning to raise capital.
+NEUT2|By the way of a $100 million stock sale to investors, Emily McCormick joins us now for the details on this one.
+NEUT3|And when you think about Nikola Emily, I mean this was a company with a market cap of $37 billion just last June.
+BEAR4|Now its market cap is below 7 billion.
+NEUT5|That's right, Alexis.
+NEUT6|And of course many of these concerns here for nicolla really stem from that Hindenburg Research a short seller report that had come out.
+BEAR7|A scathing report really saying that its founder, Nicholas founder Trevor Milton, had defrauded investors with misleading statements over the course of Nicholas History.
+NEUT8|So that is really something that has been weighing on this company heavily, but it's taking a look here at this latest news and Nicholas saying that it plans to sell up to $100 million in stock to investors in a secondary offering.
+BEAR9|We are seeing shares of Nicola under more pressure today amid concerns of additional dilution for stakeholders.
+NEUT10|Essentially, the company did say that it would use the capital raise for general corporate purposes as well as to build out its factory in Phoenix, AZ and scale its battery and fuel.
+NEUT11|Cell powered semi truck production.
+NEUT12|And that's according to a filing yesterday from the company.
+NEUT13|Now in the past we should note though, that Nicole's management has not necessarily been shy about saying that they would be willing to tap the financial markets.
+NEUT14|For additional capital, we have Nicolette Chief, Financial Officer, Kim Brady actually telling investors during the company's last earnings call last month.
+NEUT15|Quote Do not be surprised if we do end up capping the market this year.
+NEUT16|We do that because we want to make sure that we have ample liquidity at least 12 months to 18 months in advance and just of course in the past month we did have additional concerns here coming out of Nicola.
+BEAR17|The company slashing its outlook for battery electric vehicle deliveries to just 100 this year from the 600 at a forecasted.
+BULL18|Previously so Additionally with this capital raise it might be able to get that production up and running when we think about the fact that this company is really still in that pre revenue phase, something that is going to want to accelerate out of moving forward Alexis.
+NEUT19|Alright, thanks so much, will be watching it.
+NEUT20|"Emily McCormack."""

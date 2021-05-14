@@ -1,0 +1,38 @@
+BULL0|"""Michael Lewis is out with his new book, which has gotten a lot of play."
+NEUT1|Lot of sensationalized play, some would say, is there truth to it?
+NEUT2|What are your thoughts on on his book and the reaction to it?
+NEUT3|Well, I had Michael Lewis on with Brad Katsuyama who started this new exchange called IEX and I asked them both.
+NEUT4|Do you regret saying that the markets are rigged?
+NEUT5|Because I can see little by little.
+NEUT6|Certainly Brad is backing away from it and say well well I didn't mean the market direct.
+NEUT7|I meant part of the markets are rigged.
+NEUT8|I said no.
+NEUT9|You said the markets are rigged, he said, well, I said it once.
+NEUT10|I said you said it once and once is enough I will go on the record right here.
+NEUT11|The market is not rigged.
+NEUT12|I mean the retail investor putting money into the stock market.
+NEUT13|Who that investor who is looking for sound investments over the long term?
+NEUT14|Is doing a wise thing by looking at the market, looking at equities, looking at corporate America for growth, and they're not being impacted by these fast traders that are operating in milliseconds.
+NEUT15|Trying to get you know an edge over other institutions.
+BEAR16|There are players that I believe are doing wrong wrong doing an these are these fast traders that skim off the top and try to get in front of trades.
+NEUT17|They see all of the.
+NEUT18|The bids at the and the offers out there for stocks and they try to get the cheapest price.
+NEUT19|Those people who are doing that should stop doing it, and the SEC should actually get their arms around this.
+NEUT20|But this is not a new idea.
+NEUT21|Front running this is not something that just, you know, became enlightened by Wall Street because people have known about front running for a long time.
+NEUT22|But the SEC has done nothing about it.
+NEUT23|So even though some traders are doing this, getting in front of other orders, it's all around the within the confines of what's legal.
+NEUT24|So unfortunately you can't say that they're breaking the law.
+NEUT25|Be 'cause the SEC has allowed people to navigate and figure out better ways to do things, and you know, unfortunately, over the last 20 years while I've been covering markets.
+NEUT26|Things have changed quite a bit.
+NEUT27|There are new participants in the market.
+NEUT28|There are new strategies.
+BULL29|You know you've got a ton of new strategies with which to invest and things have gotten cheaper, faster and as a result certain players have figured out the fastest, cheapest, quickest way to get in front of line and get their trades done at the expense of others.
+NEUT30|That says a very small part of the market and it doesn't impact the retail investor.
+NEUT31|I believe having said that it should be changed.
+NEUT32|There are pockets of the market that.
+NEUT33|People are able to get in front of others, but the SEC has not done anything about it.
+NEUT34|We haven't had a real market structure review.
+NEUT35|In 20 years, so I'm glad Michael Lewis came out with the book to put this at the forefront to actually get the SEC guilted into doing something about it.
+NEUT36|But is the market rigged now?
+NEUT37|"I don't believe that it is."""

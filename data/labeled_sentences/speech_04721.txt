@@ -1,0 +1,45 @@
+BULL0|"""Netflix shares surging to a four month high today."
+BEAR1|This on some unsubstantiated rumors that Disney is looking to acquire Netflix.
+NEUT2|Let's discuss the stock with two analysts in today's trading nation, Uskali of Cantor Fitzgerald rates Company by Barton Crockett of FBR Capital Markets rates at market, perform a barn to you, 'cause you cover both of these companies.
+NEUT3|You know it's interesting because Disney's Surface is a potential acquirer of two different companies in just the past couple of weeks.
+NEUT4|What do you make a Disney right here seeing that it I mean these are rumors, of course.
+BULL5|But the seeming perception that Disney is willing to make a big acquisition that isn't directly in its Lane.
+NEUT6|Right, I think that it's very much speculation.
+NEUT7|You know, I don't think Disney is really said anything publicly that should make people assume that they're going to step up and do what so many other media companies have done or tried to do, and not successfully, which is by a big Internet company you know.
+NEUT8|Could it make sense for Disney to buy Netflix potentially?
+NEUT9|But I haven't heard any signals from them that they're looking to do it, so I would not make that the core reason to be looking at buying a Netflix doc here today.
+NEUT10|I think that that's very speculative.
+NEUT11|Prior to these rumors, did you think Disney would be?
+NEUT12|Shopping for a fairly big acquisition given by buyers going to retire at the end of 2018.
+NEUT13|No, I mean I'd be surprised if Igor did this.
+NEUT14|Now you know, I think someone new in charge of Disney might think about it, but I've heard nothing from Eiger to suggest that they're thinking about this type of push.
+NEUT15|Their acquisitions have all about been about content, and putting that through the Disney kind of machine, not about picking up Internet distribution.
+NEUT16|You know things like Twitter, Netflix, they might make sense.
+NEUT17|We just haven't been conditioned to expect it, so I'd be surprised if it happened.
+NEUT18|Youssef investors want to believe.
+NEUT19|There is a take out a bid to take out premium that should be afforded Netflix.
+NEUT20|What do you think?
+NEUT21|Is it up for sale?
+NEUT22|Are you asking me if Netflix is up for sale?
+BEAR23|Sorry, Youssef.
+NEUT24|OK, yeah, I don't think it's up for sale.
+NEUT25|I think we've been here before.
+NEUT26|We've seen many rumors at one point Apple was interested then.
+NEUT27|Not at one point Amazon was interested or Google.
+NEUT28|So look, I think it's a very valuable asset.
+BULL29|But I do think it's an asset that's going to continue to grow on its own for the next several years.
+NEUT30|I think the time of it being kind of an easy tuck in acquisition is over and I think, and I think before you know it, it's probably going to be.
+NEUT31|A global or it's already becoming a global phenomenon.
+NEUT32|I think it's going to be out of reach for most players, except for maybe one or two, and I don't think we're not seeing.
+NEUT33|Really, we're not saying we're not hearing anything.
+NEUT34|Should not effect, so we should note that Netflix is declined to comment.
+NEUT35|Disney didn't respond to a request for comment.
+NEUT36|Guys.
+BULL37|Thanks so much for joining us Barton and use it for more market insights.
+NEUT38|Tradingnation.cnbc.com, there are several considerations to keep in mind when trading in the aftermarket sessions.
+BEAR39|First, there may be lower liquidity in the aftermarket than during the regular session.
+BEAR40|This can result in wider spreads between the bid and the ASK, as well as clients getting partial executions or no executions at all.
+BULL41|Hey CNBC fans, thanks for checking out our YouTube channel here.
+NEUT42|You're going to find videos packed with all of the information that you need to be smarter about your finances.
+NEUT43|You can subscribe by clicking right here and click on all the videos around me or the eye right here to watch the latest from CNBC.
+BULL44|"Thanks for watching."""

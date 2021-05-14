@@ -1,0 +1,32 @@
+NEUT0|"""August 9th, 2007."
+NEUT1|Do you remember where you were?
+BEAR2|August 2007, where the first blow was struck at that confidence that would lead to just it being shattered in everything we knew and thought about markets we did not know at the time.
+BEAR3|That the fears of 2007 would turn into the chaos and trials of 2008.
+NEUT4|All of us is financial reporters.
+NEUT5|We were watching to see what would happen with the US housing bust.
+BEAR6|There was something going wrong.
+BEAR7|It was an obscure French bank, BNP Paribas and obscure credit fund that all of a sudden decided people its investors could not get their money out was really scary about it.
+NEUT8|Was the reason behind it was because they said they had these securities backed by subprime US mortgages.
+BEAR9|That they couldn't value that.
+NEUT10|They couldn't say what they're worth anymore.
+BEAR11|That's why August 2007 was really such a.
+BULL12|An awakening for Wall Street because it started casting doubt not just about a handful of bonds.
+NEUT13|It started getting people think about the interconnections.
+BEAR14|If subprime bonds or subprime mortgages in California could force this to happen to some investment funds based in France that meant this was global.
+BEAR15|This sowed the seeds of what was going to happen in the fall of 2008, and it was that loss of confidence.
+NEUT16|And so if we don't know what they're worth, we don't know what the banks are worth.
+NEUT17|And then that's our prompting people to ask the question well.
+NEUT18|What's underpinning the banks?
+NEUT19|How much equity do they have?
+NEUT20|And now people didn't trust banks and so banks started demanding more money just to lend to each other because nobody was sure who had more subprime stuff.
+BULL21|People on Wall Street were starting to realize that the banks had gotten over their skis.
+NEUT22|They were too big.
+BEAR23|They weren't profitable enough.
+NEUT24|Even people who were early in calling this, they didn't believe it would go on the way it did, and that it would be as deep as it was.
+NEUT25|Banks have much, much more capital than they did 10 years ago.
+BULL26|They're far stronger.
+NEUT27|You have a group of people who are still at the top of many of these big banks.
+NEUT28|They saw the potential end of their firms, their careers, everything they knew the markets.
+NEUT29|None of them want to go back to that.
+NEUT30|Yeah, sure, they won't take a risk.
+BEAR31|"They won't make money, but I don't think most people have any desire to go back to waking up one morning and thinking, wow, we could all be out of business."""

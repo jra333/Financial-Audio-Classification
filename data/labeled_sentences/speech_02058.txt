@@ -1,0 +1,6 @@
+BULL0|"""Coca Cola stock Ko is finally attracting large players volume."
+BEAR1|In a significant amount, in fact, the current uptick in large players volume is possibly the biggest uptick since the pandemic plunge.
+NEUT2|What may be going on is Coca-Cola could be taking a bigger interest in.
+NEUT3|A monster beverage takeover, being that PepsiCo recently announced an acquisition of Rock Star on the daily chart.
+BULL4|Coca Cola looks like an excellent set up.
+BULL5|"We've got a higher low put in on May 15th and the stock looks like it's gearing up to take the next leg higher."""

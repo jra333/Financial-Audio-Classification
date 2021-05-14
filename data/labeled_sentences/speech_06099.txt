@@ -1,0 +1,26 @@
+NEUT0|"""Starbucks versus the stock market."
+BULL1|A fascinating connection.
+NEUT2|I'm Bob Stokes with Elliott Wave International.
+NEUT3|It usually takes time to see if a financial, economic or social forecast works out.
+NEUT4|After all, we're talking about a broad future trend.
+NEUT5|But let me share with you a forecast that's been an exception to that rule.
+BEAR6|It's from our April 2018 Elliott Wave theorist, the number of coffee shops in the United States will decline substantially.
+NEUT7|Now just two months later, look at this June 20th headline Starbucks to close 150 stores as sales growth cools in Dwis view, this announcement is just a hint of what's ahead.
+NEUT8|You might ask, what does this have to do with the stock market?
+NEUT9|Fair question.
+BEAR10|You see, the April Elliott wave theorists made that forecast because the dramatic rise in the number of coffee shops that started about 25 years ago is a bull market trend.
+NEUT11|Starbucks initial period of expansion began around the same time as the 1990s bull market.
+BEAR12|Therefore, it naturally follows that a bear market should bring a dramatic drop in the number of coffee shops.
+NEUT13|Indeed, here's a January 28th, 2009 New York Times headline, which published more than a year after the start of the 2007 2009 Bear Market.
+BEAR14|Starbucks to close 300 stores and open fewer new ones.
+NEUT15|As you might imagine, the number of coffee shops is by no means the sole stock market indicator.
+NEUT16|And you could argue that with Starbucks, shops often literally across the street from each other, it may be time to curb the chains expansion a bit.
+NEUT17|But the stock market, as our readers know as an indicator of social mood, and as such the timing of Starbucks decision is fitting from a socionomic perspective.
+BEAR18|After all, that comes four months after the swift 10% sell off in stocks.
+BEAR19|Back in February, the largest market sell off in nine years.
+NEUT20|Indeed, Speaking of caffeine, it appears that the stock market could use some.
+NEUT21|Here's what our June 15th US short term update said about the Dow Jones Industrial Average is rally that started in April and stretched up until a week or two ago.
+BEAR22|The short term update has discussed the tepid internal strength of the advance, just two trading days later on June 19th, the Dow tumbled 287 points.
+BEAR23|On June 21st, investors were handed another triple digit drop which was the Dow's 8th down day in a row.
+NEUT24|This is an important juncture.
+BEAR25|"To learn why are US short term update editor described the market's recent rebound as a kuring on tepid internal strength?"""

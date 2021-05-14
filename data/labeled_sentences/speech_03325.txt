@@ -1,0 +1,25 @@
+BULL0|"""The coronavirus has made Americans appreciate just how essential the food industry's, while simultaneously exposing its weakest parts."
+BEAR1|As America's largest employer, the food industry saw millions of workers suddenly land on the front lines of the pandemic.
+NEUT2|At supermarkets, slaughter houses, food plants, farms, and restaurants.
+NEUT3|Although there were fresh beef shortages at Wendy's and the odd grocery shelves stripped bare, the food industry mostly delivered for us in 2020.
+NEUT4|Here are our picks for the best product's.
+BULL5|The most intriguing people, and the most exciting trends from a time of extreme chaos, pandemic comfort, baking and bread making sent flower sales surging.
+NEUT6|And Miller, scrambling and transformed yeast into a black market commodity, the crazy even created an unlikely hero.
+NEUT7|The sourdough starter.
+NEUT8|Simple flour and water with time and some wild airborne yeast, suddenly ferments into the beginnings of some very good bread.
+NEUT9|In November, Oregon became the first state to legalize the use of Psilocybe and mushrooms in a therapeutic setting.
+BEAR10|It's the latest wrinkle in the burgeoning food as medicine movement and the on going rollback of the war on Drugs.
+BULL11|Investors for one air tripping out, pouring funds into more than 200 mushroom startups in the US.
+NEUT12|The first ever meat grown from animal cells in a lab was recently approved for official sale in Singapore.
+NEUT13|The lab grown chicken Nuggets made by eat just the 9 year old San Francisco firm behind the Just tag among being based pho egg cost $23.00 a serving at the one restaurant in Singapore that currently sells them.
+NEUT14|The first were sold in December.
+BEAR15|The emerging lab grown meat sector has raised close to $1 billion from investors this year, despite a partial recovery from the darkest days of the spring, more than 30 million Americans remain out of work feeding America, a Chicago based network of 200 food banks estimates fifty million Americans, including 17 million children, now struggle to get enough to eat on a daily basis.
+NEUT16|Feeding America's network, the largest in the country, is a vital component of the country's social safety net.
+BULL17|Visits are up 60% compared with 2019.
+BEAR18|Food companies endured supply chain shocks all year as breakdowns delayed materials like packaging and held up exports.
+BEAR19|Nearly every food brand, big and small, was forced to re-evaluate distribution, with many reconsidering more locally based logistics networks.
+BEAR20|Backups at meatpacking plants led to millions of chickens and around 300,000 pigs being killed on their farms.
+BEAR21|While lettuce was left to rot in California fields in Midwestern milk was dumped down the drain.
+NEUT22|Inexcusable waste with millions going hungry Instacart, the grocery delivery app is expected to go public next year.
+NEUT23|Founder Apoorva Mehta, who became a billionaire in June when the San Francisco based company raised $225 million at a $13.7 billion valuation.
+BEAR24|"Might see his net worths or it's already ratcheting up."""

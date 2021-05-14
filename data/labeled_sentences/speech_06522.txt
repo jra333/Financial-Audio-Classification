@@ -1,0 +1,23 @@
+NEUT0|"""Hey David, yeah we hear a bit more on Squawk Alley, but I spoke with a WS CEO Andy Jassy last night as Amazon AWSA kick off their annual reinvent conference today."
+NEUT1|It's going to last weeks this time instead of just days.
+BULL2|John sees the number 2 to Jeff Bezos, head of the world's largest cloud player, nearly double the market share of the next largest competitor.
+NEUT3|We talked about a lot of stuff, most of which, again you can see on Squawk Alley, but we also talked about some.
+NEUT4|Acquisitions and potential acquisitions.
+NEUT5|We talked about a Facebook buying Connect because Amazon also has sorry Facebook buying customer.
+NEUT6|Amazon has Amazon Connect which is a customer service and call center technology.
+NEUT7|We also talked a bit about NVIDIA buying ARM because Amazon works on custom chips in the cloud.
+BULL8|He said he's hopeful that NVIDIA would treat arm the way ARM has operated in the past and allow that kind of rich.
+NEUT9|Ecosystem and we talked about just likely to be some of the news of the day.
+NEUT10|Salesforce and its potential acquisition of Slack.
+NEUT11|Those are two companies that rely on a WS for their business.
+NEUT12|Take a listen.
+BULL13|Both Slack and Salesforce are really significant important strategic partners for a WS and we have really strong relationships with both of those companies who predominantly run on top of us, and we've built a number of things where we've worked together to embed each other services in one another.
+NEUT14|So if you look at our video conferencing service, which is chime Amazon chime that is embedded in both Slack and in sales force, and you know we have an agreement with Salesforce where we sell connect together alongside their customer service software so.
+NEUT15|Those are very important.
+BULL16|Significant long term strategic partners where we will look to build products alongside them to continue to grow the you know the business for both of us.
+NEUT17|Part of the message and theme here which you're going to hear more of coming up on Squawk Alley.
+NEUT18|A WS is a big ecosystem where lots of people can play even if we punch him every once in awhile.
+NEUT19|We talked about Snowflake for listen for that.
+NEUT20|We also talked about Apple David.
+NEUT21|Shepard Smith here.
+NEUT22|"Thanks for watching CNBC on YouTube."""

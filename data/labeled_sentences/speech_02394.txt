@@ -1,0 +1,33 @@
+BEAR0|"""Hit the Disney earnings, which are out."
+NEUT1|I'm not quite sure about the bottom line.
+NEUT2|Whether that's compareable, they're reporting an adjusted eight cents profit, but let's look at the revenue number for the quarter coming in at 11.8 billion.
+BEAR3|That's a disappointment compared to expectations for 12.43 billion, and it comes out in particular the miss on direct to consumer and international, which of course is meant to be an area of growth in an area that perhaps could have done well despite the current environment that came in at 3.97 billion.
+NEUT4|The forecast there was for 4.6 billion.
+BEAR5|We're also seeing a little bit of a mess on the parks, experiences and products, which is already massively lowered.
+NEUT6|The expectation was for 1 billion.
+BULL7|They came in at 983 million, so fractional miss their media and networks came in just ahead of expectations.
+NEUT8|6.5 billion forecast with 6.3 billion and studio entertainment came in in line 1.7 billion.
+NEUT9|So it was that direct to consumer line.
+BEAR10|Just a slight miss there.
+BEAR11|Just under 4 billion, the forecast 4.6, which accounted for that revenue miss and Sarah were seeing it move after as low but.
+NEUT12|But not too significant.
+BEAR13|About 1.5% lower.
+NEUT14|And Bob Shapack in the in the announcement, the CEO does call out the what he says.
+BULL15|We're continuing to build the incredible success of Disney.
+NEUT16|Plus, as we grow direct to consumer business, he also puts a number.
+BULL17|Here, he says the global reach of our full portfolio of direct to consumer Services now exceeds an astounding 100,000,000 paid subscriptions, which he calls a big milestone.
+NEUT18|So that is actually the first quotation from the CEO, which sort of shows that their priority and what they want to highlight here for investors.
+NEUT19|As far as what he says is the key to future growth of their company, Julia Boston's been diving in a little bit deeper.
+NEUT20|What stands out Julia?
+NEUT21|Yeah, I think that Sarah is absolutely right there and pointing to the fact that they give an aggregate number for the streaming subscribes.
+BULL22|It really indicates their focus on being able to go direct to Consumer Disney plus ending the quarter with 57.5 million subscribers.
+BULL23|ESPN plus eight and a half million streaming streaming subscribers, so that's up from just two and a half.
+NEUT24|2.4 million in a year ago.
+NEUT25|Also, Hulu 32 million in terms of S bot of the streaming vodu, whose total subscribers 35 and a half million.
+NEUT26|So those numbers really pointing to where Disney sees the future.
+NEUT27|I do want to pull out here.
+NEUT28|The impact of Covid, particularly on the parks business.
+BEAR29|They say they estimate the total net adverse impact of covid on separated segment operating income on the parks business was three and a half billion dollars, but in terms of studio entertainment, there was actually better than expected results in terms of streaming video on demand so that operating income just decreased by 16%.
+BEAR30|It wasn't expected to decrease.
+BULL31|More than that and then the there was in terms of the bottom line, the Media Networks division benefited from having the bottom line results benefited from having lower production costs as well as lower marketing costs.
+BULL32|"So you saw the segment operating income in the quarter at cable networks actually increased 50% and broadcasting increased 55% on some of those lower costs."""

@@ -1,0 +1,18 @@
+BEAR0|"""Pete, unusual activity."
+NEUT1|Talk to us.
+NEUT2|Yeah, here you go.
+BEAR3|I've got your milk oh this one's pretty interesting Scott, because the fact the stock has dropped back significantly just in the last five days or so.
+NEUT4|They're buying the October 17 calls about 10,000 of those calls buying stock was about 1650 at the time.
+NEUT5|Gives you a little bit of time for these to work.
+NEUT6|It's not going to be a quick expiration.
+NEUT7|The next one is snap.
+NEUT8|This was my teas from earlier, so I was out of snap.
+NEUT9|I'm right back in snap.
+NEUT10|And why am I buying it?
+BEAR11|Because they're buying this week's expiring 25 1/2 strike calls about 12,000 of those Scott.
+NEUT12|They're only $0.20, which I like.
+BEAR13|They also had buyers just the other day in options that were at the 24 strike.
+NEUT14|They've worked.
+BULL15|This stock continues to go higher.
+BEAR16|I think it's going to break out.
+NEUT17|"This is one of those that I'm trading as soon as it doubles, I'm going to take at least half and then I'll start to hold the rest of it for at least a couple of days."""

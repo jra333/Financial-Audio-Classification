@@ -1,0 +1,13 @@
+BULL0|"""Analysts remain bullish on Amazon earnings with 53 buys for holds in zero cells from Wall Street."
+NEUT1|As we head into the company's fourth quarter earnings report.
+BULL2|Amazon recently nabbed a Fresh Street high price target of $2300, a share from benchmark.
+BULL3|But if the company wants to continue last year's 23% rally in the stock analysts, a growth in one day shipping and the cloud are key.
+NEUT4|It was that one day shipping investment in 2019 that turned many heads on Wall Street.
+BULL5|Benchmarks analyst Daniel Kurnos says he expects quote another record revenue holiday quarter an the impressive aggressive one day shipping rollout could result in revenue, eclipsing the high end of guidance.
+NEUT6|But any hesitation about Amazon comes from the increasingly competitive cloud business.
+BEAR7|In mid January, Deutsche Bank analysts highlighted the risks from rising competition to a WS from Microsoft and Alphabet and underscores increased risk of further deceleration at AWS.
+NEUT8|And Tim Kolpin of Bloomberg opinion says a WS no longer has the cool factor.
+NEUT9|It's not the hip cloud offering.
+NEUT10|People are going a little bit cool on a WS with 2020 already shaping up to be a big advertising year analyst from Bernstein, Mizuho?
+NEUT11|Wanna see how Amazon starts taking market share in the growing advertising market to drive future revenue growth?
+NEUT12|"Taylor Riggs Bloomberg News San Francisco."""

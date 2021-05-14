@@ -1,0 +1,12 @@
+NEUT0|"""Here's what we're watching."
+NEUT1|Is the trading day gets going in London?
+BULL2|Investors have connected the dots and are buying equities of the Federal Reserve's measured approach towards tightening policy.
+BEAR3|This year has pressured the dollar and bolstered gold expectations for US rate tightening in June have dropped below 50%.
+BULL4|Not helping the case for Dollar Bulls feeling better emerging market currencies thanks to the weaker dollar and a better tone for copper and oil.
+BULL5|After Wall Street's overnight rally Asia and European shares are firmer sentiment.
+BULL6|Europe also helped by the Dutch election.
+BULL7|Keeping a firm lid on populism, Dutch and French bonds are performing better against German bunds.
+BEAR8|Central banks are also continued to over shadow the markets.
+BEAR9|Japan kept policy steady while China raised borrowing costs this with central Bank has sat on its hands and, not surprisingly, still, says the Frank is too strong.
+BEAR10|Later we get to hear from the Bank of England and given the uncertainty over Brexit, expect a dovish message that likely means little relief for the pound.
+BULL11|"With the currency bumping along near the bottom of its post Brexit trading range."""

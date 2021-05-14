@@ -1,0 +1,25 @@
+BULL0|"""Once we emerge from the pandemic to a fully reopened economy, we know that consumer behavior, business practices, and government policies will have been changed in significant ways from their pre pandemic patterns."
+NEUT1|In pondering the change in economic activity patterns, we've taken the view that the pandemic is best seen as an accelerant of changes that were already underway, rather than a creator of completely new change.
+NEUT2|And by the way, they'll be no going back to the old patterns.
+NEUT3|Check online shopping.
+NEUT4|This trend was well established before the pandemic.
+BEAR5|Online shopping has now totally eclipse, brick and mortar storefronts and they were already in decline.
+BULL6|And with the pandemic we've also vastly expanded grocery store and meal delivery conveniences that are not likely to fade away.
+BULL7|The pandemic's push for work from home for office workers was a major acceleration of trends toward more flexible work hours.
+NEUT8|Companies are embracing work from home and saving money on real estate and business travel.
+BULL9|Formally vibrant downtown officers will need to adapt.
+NEUT10|Technology was changing corporate business bottles before the pandemic in the post pandemic World Technology is the new leverage.
+BULL11|This allows certain businesses to scale their services in an impressive manner.
+BULL12|And as they scale their services, they can even reduce costs.
+BULL13|The stock market has already rewarded technology companies that have the ability to harness.
+BULL14|The New Information Society and to reduce costs while expanding their business.
+BULL15|Governments have embraced fiscal stimulus to a degree previously only seen in wartime.
+BULL16|Central banks have been braced their role in helping governments finance their massive budget deficits.
+NEUT17|The Fusion of monetary and fiscal policy puts the possibility of future inflation on the radar screens of risk managers.
+BULL18|Indeed, we've seen yield curve steepened with yields on longer term bonds rising even though short term rates are still near 0.
+NEUT19|The post pandemic economy may seem like a new world, but in reality the pandemic was the tipping point which accelerated trends that had been building for decades over the long sweep of history.
+NEUT20|It may seem that evolution is a slow process that's not really correct.
+NEUT21|The seeds of change may take decades to develop, but when the process reaches a tipping point, there is an abrupt acceleration of new patterns.
+NEUT22|Financial risk management will have to adapt rapidly.
+NEUT23|'cause the economy is not going back to its old patterns.
+NEUT24|"I'm blue Platinum chief economist CME Group."""

@@ -1,0 +1,19 @@
+NEUT0|"""One of the world's largest commodities trading and mining giant Glencore."
+BEAR1|So its share price tanked 30% on Monday.
+BEAR2|Its stock price has already fallen nearly three quarters since the start of the year.
+NEUT3|So what's going on with the commodities giant?
+NEUT4|The company is essentially a natural resources play with a big exposure to China.
+BEAR5|Neither of those things are doing particularly well at the moment and that's got investors spooked.
+BEAR6|Worse, it has a heavy debt burden that analysts warn could obliterate any value in the company shares, unless commodity prices improve.
+NEUT7|So how did it end up in this position?
+BEAR8|Alot of Glencoe's current problems can be traced back to its 2011 IPO and its 2012 acquisition of Mining Drawing Extra to the public offering made the large training division, which relies heavily on debt to operate, answerable to investors.
+BULL9|And the acquisition turned the company into a mining giant.
+NEUT10|As a trader, the company was agnostic about prices, but as a minor a huge portion of its business is dependent on the cost of raw materials.
+NEUT11|But what's management doing about it?
+BULL12|In fairness, management has acted fast to try to stop the bloodletting.
+BEAR13|It said it will reduce net debt by third by 2016, and also will sell $2 billion worth of assets.
+BEAR14|It's scrapped the dividend and issued $2.5 billion worth of equity.
+BEAR15|Investors, though, seem unconvinced.
+NEUT16|So what's next?
+BEAR17|Glencore share prices rallied since Monday's slump, but analysts seem divided about the future of the company.
+NEUT18|"A lot will depend on where commodity prices go."""

@@ -1,0 +1,9 @@
+BEAR0|"""Hey Sarah, that's right Amazon letting sellers know that it is going to be removing Washington Redskins merchandise from its website."
+NEUT1|This after the NFL called on the team to change its name in a statement in a note to Amazon Sellers.
+NEUT2|The company basically said that it's going to pull a variety of products that feature the team, including jerseys T shirts, rather in jewelry, and sellers are going to 48 hours to review and remove any of these products that are flagged by Amazon.
+NEUT3|In a statement, the company said with the announcement from the Washington team.
+NEUT4|And the NFL.
+BEAR5|We're removing products with the team's name and logo from our stores.
+NEUT6|This was in a notice that was shared by someone.
+NEUT7|Ed Rosenberg, who runs an online seller group for Amazon.
+NEUT8|"It also said failure to properly close or delete all restrict restricted rather product listings from your inventory may result in deactivation, so that would be seller deactivate deactivation Sarah back over to you."""

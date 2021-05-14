@@ -1,0 +1,3 @@
+NEUT0|"""If 50 goes below 14635, then."
+NEUT1|If Nifti goes near 14312, then.
+NEUT2|"If bank Nifty goes below 35065, then if bank Nifty goes near 34200 then."""

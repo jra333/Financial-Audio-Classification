@@ -1,0 +1,11 @@
+NEUT0|"""Money managers are locked into the reopening trade and retail investors ought to invest accordingly."
+NEUT1|CNBC's Jim Cramer said Wednesday you need to use any opportunity to buy high quality cyclicals into weakness.
+NEUT2|The Mad Money host said.
+NEUT3|Cyclical stocks are those whose trading patterns tend to be levered to the business cycle and the state of the overall economy.
+BEAR4|Cramer highlighted railroad company Union Pacific, whose stock initially declined after news broke Sunday that its rival Kansas City, Southern, was being acquired by Canadian Pacific in a $25 billion deal.
+BEAR5|The shares have since recovered those losses and then some Kramer called the Transporter a one stop shop for the great reopening.
+NEUT6|If you knew the score, you could confidently by Union Pacific into weakness because this market loves the reopening place, he said.
+BULL7|I bet it's got a lot more room to run.
+BEAR8|Cramer has spent weeks breaking down the market rotation, explaining that investors are trading out of last year's lockdown winners, especially in the tech segment and into companies whose businesses do better when the economy is growing.
+BEAR9|The major averages all declined during the trading day Wednesday.
+BULL10|"Those stocks in the energy, industrial and financial parts of the market showed strength."""

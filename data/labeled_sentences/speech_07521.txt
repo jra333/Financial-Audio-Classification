@@ -1,0 +1,12 @@
+NEUT0|"""Daughters ranking Member McHenry, members of the committee."
+NEUT1|My name is Vlad Tenev and I'm the chief executive Officer and Co.
+NEUT2|Founder of Robin Hood.
+NEUT3|Thank you for the invitation to speak about Robin Hood and the millions of people we serve.
+NEUT4|Almost eight years ago, beige ubot and I founded Robin Hood.
+NEUT5|We believe then, as we do now, that the financial system should be built to work for everyone, not just a select few.
+NEUT6|We dreamed of making investing more accessible, especially for people without a lot of money.
+NEUT7|The stock market is a powerful wealth creator, but half of US households participated.
+NEUT8|I would like you to use your limited time to talk directly to what happened January 28, and your involvement in it.
+NEUT9|Certainly, Madam Chair, Madam Chair, the witness has the opportunity to to give their own testimony.
+NEUT10|For your questioning, you are not recognized Mr.
+NEUT11|"Please go right for it and speak directly to the question can I Mr McHenry yes of course."""

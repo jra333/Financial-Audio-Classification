@@ -1,0 +1,33 @@
+NEUT0|"""When it comes to fundamental analysis, there's two ways you can evaluate it or analyze it."
+NEUT1|You have a top down approach and then you have a bottom up approach.
+NEUT2|Basically, let's say we broke down our fundamental analysis into three sections.
+NEUT3|OK, we're going to evaluate the health of the economy.
+NEUT4|We're going to evaluate the industry or the sector that the company is in and we're going to evaluate the company itself on its earnings.
+NEUT5|OK, or any other factors for that matter.
+NEUT6|So a top down analysis would mean that first I check the health of the economy.
+NEUT7|If the health of the economy is good, then I'm going to check that industry.
+NEUT8|If that industry is doing good, then we'll check the company earnings.
+NEUT9|If the company earnings look good, then from here this is where I may buy the stock.
+NEUT10|OK, so I evaluate it in that way.
+NEUT11|That's the top down analysis.
+NEUT12|OK, so I'm going from the top.
+NEUT13|To the bottom, this is the top down.
+NEUT14|Analysis or top to bottom analysis and then the other way is basically going opposite.
+NEUT15|OK, so the other way is the bottom up analysis or bottom the top analysis.
+NEUT16|So here you start with the earnings first.
+NEUT17|OK, so after you start with the earnings you go and check earnings look good.
+NEUT18|How's that industry doing, you know?
+BULL19|Is the sector good or other tech companies doing good?
+BULL20|If I'm looking to buy Apple or other tech companies doing good, is Google doing good Microsoft doing good?
+NEUT21|If that looks good.
+NEUT22|Then how's the health of the economy?
+BULL23|Is the health of the economy doing good?
+BULL24|The health of the economy is doing pretty good.
+NEUT25|Then you know that might tell me the pull the trigger, and you know, buy some stock.
+NEUT26|That's the basic run of the mill.
+NEUT27|Fundamental analysis is you have the top to bottom analysis and bottom the top analysis.
+NEUT28|OK, so as far as fundamental goes, so you have two ways that you can do it.
+NEUT29|Other people have their own techniques or tactics, but this is just kind of a simple way that you know you can do it if you don't have your own personal method yet.
+NEUT30|And that's what people talk about it from.
+NEUT31|If they talk about top to bottom or bottom, the top top always usually refers to the bigger things or the bigger picture the economy.
+NEUT32|"You could say something above this and you could say how's the health of the world doing, you know, and you know so you can add different levels in here, But that's basically a simplified version of the fundamental analysis."""

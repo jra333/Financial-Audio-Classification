@@ -1,0 +1,14 @@
+NEUT0|"""Alright, let's take a look at the Apple stock."
+BEAR1|We can see we open positive and then close at the low point of the day in negative area.
+NEUT2|And if we change charge into daily chart, we can see here we got a.
+NEUT3|Very small red candle after the.
+NEUT4|Hymer pattern here.
+BULL5|So actually the stock has made a.
+NEUT6|That cross here with the five days you may cross the tendency are made so it's a better sign in short term.
+BULL7|But in mid term we are still well above the normal high over here.
+BULL8|So we're still have a.
+NEUT9|Higher law this law.
+BULL10|Compared to here, here is high, so we have the two stage breakout disease stage two, this street stage one, so we are well beyond the stage one level.
+NEUT11|So in mid term will still in the afternoon channel, but.
+NEUT12|It's very important for it to keep above this level before it can make any new.
+BULL13|"Hi, thank you very much."""

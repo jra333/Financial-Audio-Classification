@@ -1,0 +1,28 @@
+BEAR0|"""Economists were really affected by the continued numbers on jobless claims last week."
+BEAR1|Unprecedented declines in real estate as well as manufacturing not so impressed by the optimism that seemed to hit some markets when it they're looking at a drug showing some effectiveness as well as plans by the president to open up the economy.
+BEAR2|So the result was a lower outlook for second quarter GDP.
+BEAR3|Something better of a rebound expected looking at the rapid update, we're now looking at a 34% decline in the second quarter.
+BEAR4|That's down a bit from what we had earlier in the month.
+NEUT5|It's not a bit, it's actually 7 percentage points, but in context it's a bit with a little bit more expected on the third quarter in the fourth quarter.
+NEUT6|So is this a V while you look at it, you say you know what it takes 2 three quarters to get back what we lossed in that one quarter, so not necessarily AV here.
+BEAR7|Looking at which economists are where 45% decline paces the street, which is Barclays estimate, followed by a 35% they do have of the built in at Barclays.
+NEUT8|Goldman Sachs minus 34 Buck followed by 19% rebound and city right about with the average.
+NEUT9|Also a V but not as far down a little bit further up.
+NEUT10|What are the constraints that economists are looking at when it comes to whether or not this third quarter and fourth quarter rebound actually happened?
+BEAR11|They're worried about businesses being shuttered much longer than is currently forecast.
+NEUT12|Consumers continuing this show on social gatherings, a second round of contagion figures in everybody's risks to their forecasts.
+NEUT13|And of course, the idea that stimulus you have this relief program now.
+NEUT14|But no stimulus on the back end guys.
+NEUT15|They'll be looking for whether or not states or help them.
+NEUT16|Whether or not this money from small business and the feds Main Street lending program actually gets out to the economy to keep things from getting worse.
+NEUT17|Kelly, Steve.
+NEUT18|Do you still get the sense of people are kind, you know?
+NEUT19|Kind of guessing on this.
+NEUT20|Or how wide are we talking about in terms of a range on these forecasts?
+NEUT21|Well, it's it's a guess and it is really a forecast and I'll tell you how that kind of works, which is they're looking at the decline.
+BEAR22|For example, the increase in jobless claims in the decline in employment.
+NEUT23|You figure that many people doing that much less work and you can use certain formulas that exist for GDP.
+NEUT24|The guesswork comes in how long will we be closed?
+NEUT25|How much of the economy will be closed and geographically, what will be closed?
+NEUT26|So that's where the guesswork comes in.
+NEUT27|"But what they are doing is taking certain assumptions, putting that into their model, and coming out with their forecasts."""

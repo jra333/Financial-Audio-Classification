@@ -1,0 +1,36 @@
+BULL0|"""The question always with Netflix PIM is whether or not this company can keep adding to its subscriber base streaming subscribers, not the old fashioned DVD subscribers, and the answer is yes, Netflix indeed was able to do that during the quarter that fuels revenue and helps out on the bottom line."
+BULL1|The earnings per share in the quarter were better than estimated.
+BULL2|The outlook for the coming quarter also exceeding some estimates and the revenue of more than a billion dollars.
+BULL3|Basically in line with Wall Street, was looking for.
+NEUT4|As for that subscriber data, they had more than 2,000,000.
+BULL5|US streaming subscribers that they added getting their total number up North of 29 million and they added another million plus subscribers overseas getting that number North of 7,000,000.
+NEUT6|So they now easily have more than 36 million streaming subscribers around the globe, getting more and more of those people is very important because they spend a lot of money on content and to offset that content costs you need the revenue coming in from those subscribers who are paying for the service.
+NEUT7|And John, you know that content.
+NEUT8|Sometimes it's even viewed on things that are made by Apple, like iPhones, an.
+BEAR9|Apple just prevailed in a lawsuit brought by Google in their Motorola Division, and Google was seeking to block the import of the iPhone 4.
+BEAR10|They lossed Apple one.
+NEUT11|Yeah, and look.
+NEUT12|I think this these battles continue an I think that if you think about Google's purchase of Motorola in part, it was for the patent protection you think of Apple versus Samsung.
+NEUT13|In that case they had down in San Jose.
+NEUT14|It was all about the.
+BULL15|Differentiation of design in a very competitive space at the end of the day, Pym.
+NEUT16|It's about iPhones, an Android devices that are fueling the smartphone wars right now, and so everyone, to certain extent has been looking for some kind of patent protection.
+NEUT17|So certainly something we've been watching as well.
+NEUT18|John, just a little bit more if we can.
+NEUT19|On Netflix.
+NEUT20|This idea that Netflix is that Netflix is trying to break into this notion of don't let everybody view everything on every device you want to charge and make sure that.
+NEUT21|You're getting every subscriber dollar that you can.
+NEUT22|Well, one thing that they introduced today is if you have four people that want to stream in the House at the same time, they're going to soon introduce $11.99 a month to try and basically cater to the families that are already streaming.
+NEUT23|A lot of Netflix, but I think that you know it's it's a tricky balancing act for this company because they very much are interested in giving people free offerings, monthly service offerings, trial offerings.
+NEUT24|And they know that there are a lot of people that are watching Netflix in a, you know, packed homes, multiple people that are using it.
+BULL25|They have benefited from having a fairly flexible strategy on that front and keeping the pricing down so they know that they want to make sure they get the revenue.
+NEUT26|But they also want to make sure people use this service in a big way.
+BULL27|Alright, and we know that the shares of Netflix or higher by nearly 25% in after hours trading.
+NEUT28|John just one more thing about Apple.
+NEUT29|We get the results tomorrow after the market closes.
+NEUT30|Other than the details of how much they earned and however their sales like.
+NEUT31|Are they really going to look at just how many iPhones were sold during the quarter?
+BULL32|I think it will be helpful.
+BULL33|PIM last quarter the iPhone revenue was more than 55% of the company's total sales, so right now this device is key to the top line performance and the bottom line performance.
+NEUT34|And if you see some evidence of a slowdown there, that obviously raises questions about whether they can give any more guidance on new products that could be coming or on potentially giving back some of that money to shareholders.
+BULL35|"We know activist investor David Einhorn's been pressuring them to make some of that cash available and could tomorrow be the day when they give more guidance on that front."""

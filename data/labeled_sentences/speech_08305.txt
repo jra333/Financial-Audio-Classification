@@ -1,0 +1,38 @@
+BULL0|"""Hi there, Jason Moser Reynolds with Motley Fool one."
+NEUT1|Thanks for joining us for another edition of Ask a fool today we're taking a question from Steven who asks will markets go up forever and Stephen makes reference in particular the Dow.
+NEUT2|I think it's a philosophical question.
+NEUT3|I love it.
+BULL4|You know, I for the purposes of our lifetimes, I think yes, you can assume that markets will continue to go up.
+BEAR5|There's nothing really that prevents them from trending upward overtime.
+NEUT6|And if we look further out, you know that could be a bit trickier to determine.
+NEUT7|So let's think about the things that make markets go up and down.
+NEUT8|First and foremost, it's companies.
+NEUT9|It's businesses that base their foundations on making money, and they make money by providing goods and services to people.
+NEUT10|Now today there are approximately 7 billion people in the world.
+BULL11|Around 1970 or so, the population was about half that, and it's projected to move upward with time.
+BEAR12|Is it possible that the population could fall over time, of course, but if you go by the United Nations middle of the road projections here, you'll see that by around 2000.
+NEUT13|40 The world could be expecting the world population could be hitting around 9 billion people.
+NEUT14|So as emerging markets continue to emerge as technology continues to improve, more people will need more things.
+NEUT15|More things will become more accessible to more people and just kind of goes around.
+NEUT16|Think about this today.
+BEAR17|There's still 65% of the global population that doesn't or can't use the Internet.
+NEUT18|That will change.
+NEUT19|It's changing now, and I think that's certainly something to keep in mind.
+NEUT20|So much of what we invest in today.
+NEUT21|You know we're talking about food, energy, financial services, technology, entertainment.
+NEUT22|These are things that will continue to be needed in wanted overtime.
+NEUT23|Not to mention what else may develop during all of this time.
+NEUT24|So if there were more people needing more things in more ways for them to get all of this stuff, then I think one can reasonably assume that for the foreseeable future, markets will continue to trend upward now will we ever reach a point where the we ever reach a point where the Earth is saturated with no room for more people?
+NEUT25|I guess it's possible.
+NEUT26|I mean, then conceivably the overall market opportunity could be in question in regard to sheer numbers.
+NEUT27|But what about market disruption or new technology?
+NEUT28|New ways of doing things?
+NEUT29|What if Elon Musk is right in humans eventually live on Mars or elsewhere.
+NEUT30|So I think my point is you can see there are all sorts of questions that come into play here, and I'm sure that it would make for an excellent college philosophy course.
+NEUT31|I've had a lot of fun just actually pondering it.
+NEUT32|The one thing I would say I'll make one recommendation to you, and that is to focus more on the S&P 500 as opposed to the Dow.
+NEUT33|The S&P 500 is just a better representation of the economy as a whole.
+BULL34|Better cross section of.
+NEUT35|Of really, what drives our markets versus the Dow, which is very it's limited to 30 companies that aren't necessarily as representative.
+NEUT36|But again, there's a great question.
+NEUT37|"I had fun trying to answer it, and For more information make sure to check out full.com."""

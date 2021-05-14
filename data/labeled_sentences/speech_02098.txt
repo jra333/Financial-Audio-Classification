@@ -1,0 +1,21 @@
+NEUT0|"""We have some Coca Cola news earnings just out."
+NEUT1|Wanted to tell people about that adjusted profit coming in at $0.51 per share at $0.07 above estimates.
+BULL2|Revenue also beating Wall Street forecasts as many other companies have done.
+BEAR3|Coke is withdrawing its full year guidance.
+NEUT4|As you might imagine, due to the uncertainties around COVID-19.
+NEUT5|It's also says that the changing consumer purchase patterns will have a material effect on the current quarter's results and.
+NEUT6|Becky, hey you want to jump in and I just let you know Andrew there's yeah there's a lot of commentary that they're talking about this pretty interesting.
+BEAR7|They say that they were on track to achieve the full year 2020 targets through February, but then they saw significant changes in consumer purchasing patterns in March.
+BEAR8|No surprise on that, but what's interesting about this is they saw substantial declines in the away from home channels.
+NEUT9|You forget about that.
+NEUT10|How much of this is sold at restaurants or at bars or at stadiums?
+NEUT11|Or different things that were happening all of that business shut down in March and that's where they saw the big impact.
+BEAR12|They say that that's going to have a significant impact on the second quarter results.
+BULL13|They do hope that they said the impact of second quarter will be material, but they are optimistic about the second half of 2020.
+NEUT14|Again, all of that coming from the away from home Channel and that represents about half of the company's revenue, so that's why it's so substantial.
+NEUT15|You may have thought people weren't hoarding this like we saw with Procter and Gamble and other stuff, but that's not what they're talking about.
+BEAR16|This is just the away from home demand that changed significantly because all those venues shut down.
+NEUT17|But interesting that they are an interesting.
+NEUT18|They're saying quite directly that they are optimistic about the second half.
+NEUT19|Hard to understand how they can necessarily say that one way or the other, 'cause I'm not sure that any of us know what the second half of it looks like in terms of going to stadiums live events out of home.
+NEUT20|"All of that."""

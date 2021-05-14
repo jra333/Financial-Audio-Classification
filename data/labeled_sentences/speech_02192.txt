@@ -1,0 +1,34 @@
+BEAR0|"""Major League Baseball, Delta Airlines and Microsoft are just some of the big name companies speaking out against Georgia's new voting law, and it's very clear Delta does not agree with the voter law that was passed in Georgia."
+NEUT1|The bill is not just suppression.
+NEUT2|Bill is silly.
+NEUT3|Payback bill.
+NEUT4|This isn't just about one game, this is about many, many years.
+NEUT5|This was about voting rights.
+NEUT6|This is about the foundation of democracy after Georgia swung to Democrats in the Presidential and Senate elections.
+NEUT7|The Republican controlled state legislature crafted a bill to change voting laws.
+BEAR8|Critics of the bill say that it is a form of voter suppression.
+BULL9|Proponents of the bill say that it makes elections more secure and fixes problems that were found during the last election cycle.
+NEUT10|There were.
+BEAR11|Problems we had a 351% increase in the number of ballots by Mail, absentee that we had in our state that created great problems for our County officials doing an arbitrary signature match.
+BEAR12|72 black executives including former American Express Chairman and CEO Ken Chennault, and Merck CEO Ken Frazier, signed an open letter speaking out against the bill.
+NEUT13|So we are starting to hear from some corporate executives following this call from Ken Chennault and Ken Frazier.
+NEUT14|That corporate America needs to fight back against any voter laws that make it more restrictive for people to cast their ballots.
+NEUT15|And certainly Georgia is front and center.
+BEAR16|Republicans in Georgia are threatening those companies that have spoken out against the bill with revoking tax breaks and other punitive measures.
+BEAR17|Coca Cola is lobbying behind the scenes in Congress against a slave labor bill for China's religious minorities or Delta partners with a Chinese Communist Party owned airline early.
+NEUT18|As the height of moral hypocrisy.
+NEUT19|Let me be crystal clear and unequivocal.
+BEAR20|This legislation is unacceptable.
+NEUT21|It is a step backwards and it does not promote principles.
+NEUT22|We have stood for.
+NEUT23|In Georgia.
+NEUT24|Georgia isn't alone in proposing new voting legislation.
+BULL25|Republican lawmakers in 40 states have pushed for new voting laws after Donald Trump's election loss.
+NEUT26|CEO's need to exercise their influence in times of great stress.
+NEUT27|And this is one of those times where clearly a cohort of the community.
+BEAR28|We discriminate against Senate Minority Leader Mitch McConnell and several other high profile Republican politicians have voiced opposition to the corporate outcry.
+BEAR29|Meanwhile, Democratic lawmakers are continuing to push for HR one the for the People Act, which would likely curtail the Georgia legislation.
+BULL30|But to pass HR, one would have to overcome the 60 votes needed to bypass the filibuster.
+BEAR31|The fight between Republicans and Democrats over voting rights in Georgia could set the stage for the midterm elections in control of Congress in 2022.
+NEUT32|CEOs who have the power who have capital have large employee bases who pay taxes.
+NEUT33|"Need to stand up and make their voice heard."""

@@ -1,0 +1,16 @@
+NEUT0|"""Until recently, hedge funds were reserved for the rich."
+BEAR1|They've been criticised for being secretive for the money they make and how they make it.
+NEUT2|Here's how they differ from normal mutual funds.
+NEUT3|First, they can use borrowed money.
+NEUT4|If you've got a surefire 1% gain, it's no big deal.
+NEUT5|But if you can borrow 50 times the capital you started with, then it becomes a 50% gain.
+BEAR6|But of course you also stand to suffer magnified losses if your investment in fact goes down.
+NEUT7|Second, they can profit from falls in prices by selling short borrow a stock at $10 and sell it, and then buy it back when it falls to $8.00, and you make $2.00 profit.
+BEAR8|But again, you risk infinite losses if the price goes up.
+NEUT9|Third, hedge funds don't have to payout money when their investors ask for it.
+NEUT10|They can lock it up and require many months notice before repaying and finally, hedge funds don't have to be transparent and reveal their Holdings.
+NEUT11|These are all huge advantages, but they all carry bigger risks, which is why only the wealthy have been allowed to invest.
+NEUT12|Now, many pension funds invest in hedge funds, and financial engineers are trained to offer hedge fund strategies to retail investors and make them more liquid.
+NEUT13|But remember, hedge funds, most important numbers 2 and 20.
+NEUT14|Traditionally they charge 2% of funds as a management fee, plus 20% of profits.
+BEAR15|"Even with all their potential for higher returns, it's hard to deliver for clients when you take so much for yourself."""

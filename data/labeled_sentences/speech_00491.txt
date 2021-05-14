@@ -1,0 +1,39 @@
+NEUT0|"""The intrinsic value of Amgen is ranged between $39.51 per share."
+NEUT1|Anna $166.86 per share, so don't come up with those values.
+NEUT2|Paying $39.51 per share represents the company's cash for every share issued and outstanding.
+NEUT3|Amgen has $39.51 in cash and cash equivalents.
+NEUT4|Paying $166.86 per share represents the company's price per share, based on its earnings.
+NEUT5|A price of 166 and some change represents the fractional payment you'd have to pay for the next 20 years of the company's median historical earnings.
+NEUT6|Now this is a conservative way to value basically the future of Amgen, and it's slightly different as compared to the PE ratio.
+NEUT7|So the big question is what are they trading at now?
+NEUT8|And maybe a smaller question, it's rather large for me.
+NEUT9|What is Amgen do?
+NEUT10|Is one of the beauty of one of the beauties of being a value investor, in my opinion is actually getting a chance to look at the fundamentals of the company.
+NEUT11|So they're trading at $220.29 per share.
+NEUT12|And what do they do?
+NEUT13|Well, it says according to Wikipedia that they are a biotechnology company and it looks like they are headquartered in Thousand Oaks, CA.
+NEUT14|So.
+NEUT15|Thousand Oaks CA sounds like a beautiful place, but this price here is not so beautiful because it's larger than this price here so we would want to strike a purchase.
+NEUT16|Or rather we would rather do further investigation and a deeper fundamental analysis of Amgen.
+NEUT17|Once this price becomes favorable.
+NEUT18|Now I use earnings times 20 divided by shares outstanding, but you know, whatever calculation you guys use for the high end, I would just wait until Amgen drops below that price.
+NEUT19|In the meantime, what do you do?
+NEUT20|'cause you don't want to see you cash it around in the bank.
+NEUT21|Letting the bank trade stocks for you.
+NEUT22|You want to actually get out there and make a return yourself.
+NEUT23|So the reasonable next step would be to find an investment vehicle which can gain a similar return with similar risk, all while maintaining safety of principle with an ample margin of safety.
+NEUT24|Now, if you're a defensive value investor like myself, an I think we all should have a little defensive investor in US.
+NEUT25|I mean, one of the first rules of Benjamin Graham's value investing framework is that you don't lose what you want to do is put that money into Vanguard 500 index fund.
+NEUT26|Now, I'm not going to pay to say this, I'm simply using this as an example.
+NEUT27|I think any reasonable.
+NEUT28|Or any US index fund should suffice for this for our purpose of putting our money in an alternative until Amgen gets becomes more attractive.
+NEUT29|But Warren Buffett uses as well to beat out the hedge fund guys.
+BULL30|Now they have a similar return.
+NEUT31|Similar risk.
+BULL32|I mean, look at this increase here.
+BEAR33|I think it's trailing.
+BULL34|10 year performance is 12%.
+BULL35|So 12% return is seems sufficient to me.
+NEUT36|Of course, it's really all up to you and what your goals are, but what I would do is I would invest my money in Vanguard 500 index fund until this price drops below this price.
+NEUT37|In the meantime guys subscribe to my channel so you can continue to gain insight on how to analyze business performance or that your investment performance is optimized.
+NEUT38|"Remember when your investment performance is optimized so as you, well, production value investors, stick around for the next video."""

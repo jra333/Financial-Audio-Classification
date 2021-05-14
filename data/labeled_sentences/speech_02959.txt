@@ -1,0 +1,10 @@
+BEAR0|"""Following Facebook's opening debut at NASDAQ on Friday, the shares in Facebook fell by 11% at the start of trading on Monday, dropping from 34 point, $3 or 21.46 pounds from its initial flotation price of $38.00."
+BEAR1|This was followed by 1/2 hour delay to trading due to technical problems at the exchange.
+BEAR2|This saw the share price drop and Mark Zuckerberg's personal fortune dropped by.
+BEAR3|$2.2 billion to just $18.5 billion, while 11 billion was wiped off Facebook's overall valuation.
+BEAR4|Questions will now be raised as to why the social Network decided to up the range of its initial public offering from between $28.00 and $35 to between $34 and $38.00 just days before it floated on the NASDAQ, NASDAQ chief executive Robert Greifeld said over the weekend that it was a humbling.
+BEAR5|Embarrassing day for the exchange, which calls traders to not know at what level they had bought or sold until many hours later.
+BEAR6|Sources also claimed that some of Facebook's under writers were forced to buy shares in order to keep the value above $38.00 for its first day.
+NEUT7|I am Ann Salter.
+NEUT8|Thanks for watching for the latest business in eurozone news.
+NEUT9|"Go to ourwebsite@ibtimes.co.uk."""

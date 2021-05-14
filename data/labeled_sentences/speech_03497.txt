@@ -1,0 +1,11 @@
+NEUT0|"""Welcome to the FT market minute."
+NEUT1|Here's what we're watching in London on Wednesday morning.
+BEAR2|Well, one measure of global stocks, the Footsie all World Index is back at record highs, despite many investors taking Fed Chair Janet Yellen's latest comments as more hawkish than expected.
+BULL3|Now, Wall Street makes up more than 50% of your world, so it struggled to record levels is a big driver of the rally, but European and Asian markets with multi month peaks two and even emerging markets have had a good run of light.
+BULL4|Now of course, equity bulls have been able to shrug off the prospect of higher borrowing costs.
+BULL5|Because they are seen as coming in response to quicker growth.
+BULL6|That's how the all world mining and materials sectors, which have risen by around 20% since the US election in November.
+NEUT7|Another course of the bull run, our hopes for less US regulation, especially in the financial sector.
+BULL8|And banks should also benefit from those rising rates.
+BULL9|No surprise, then, that the All World Banking Index is up 16% since Mr. Trump's victory monetary policy could still deliver risk, however, or if the Fed is considered behind the curve and struggling to catch up.
+NEUT10|"So watch out for the US inflation and retail sales data due on Wednesday."""

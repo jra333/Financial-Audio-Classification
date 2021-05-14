@@ -1,0 +1,14 @@
+BULL0|"""Coca Cola released higher than expected results for its second quarter, driven by strong organic sales across the board."
+BULL1|The beverage giant reported net revenue of $10 billion above the $9.99 billion expected and the adjusted EPS non GAPPS were up the predicted 0.61 dollars.
+BULL2|Its North America segment grew by 3% year over year, encouraging numbers as well in Asia Pacific plus 5% and in Latin America 9%.
+BULL3|Concerning its main brands Cola 0 Sugar grew by double digits and so did its water and sports drinks.
+BULL4|Owing to the strong demand in Mexico and India.
+BULL5|The American behemoth projects full year organic revenue up 5% and adjusted EPS to range from 1% below to 1% above the 2.08 dollars in 2018.
+BULL6|Even though they could be offset by currency fluctuations.
+NEUT7|Coca Cola stock closed at 54.33 U.S. dollars on Tuesday.
+BULL8|Over the last 12 months, it soared 20.04%.
+NEUT9|Morningstar rates its fair value estimate for the company at 49 U.S. dollars and considers the stock currently overvalued.
+NEUT10|FactSet Records a 12 month target price between 47 and 56 U.S. dollars, according to FactSet.
+NEUT11|10 analysts have a buy rating while one is overweight.
+NEUT12|11 Consider the stalker hold.
+NEUT13|"While one is underweight."""

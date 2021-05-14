@@ -1,0 +1,15 @@
+NEUT0|"""This is The Motley Fool Battle Royale where 8 popular stocks clash to determine the best investment for you over the next 12 months, let's go to the arena."
+BULL1|This second round match up pairs tether pharmaceutical battling against Goodyear Tire and rubber.
+BULL2|Now this is a compelling match up.
+NEUT3|There's some really interesting parallels between these seemingly different companies, each of them, for example, has been around for more than 100 years.
+BULL4|In this age of fast moving markets and dynamic technologies being built to last says some really good things.
+BULL5|And both of these companies are certainly built to last.
+NEUT6|However, there's no doubt in my mind which of these two I would pick.
+NEUT7|To beat the market over the next 12 months, it's really this simple.
+NEUT8|Both of these companies have been around for about 100 years.
+NEUT9|Goodyear Tire and Rubber today worth about $3 billion tab of pharmaceutical today worth about $50 billion.
+NEUT10|So what you have here is you're watching two different businesses and business models play out over a century.
+NEUT11|One of them ends up 16 times more valuable than the other.
+NEUT12|Turns out Pharmaceuticals are an easier business to run.
+NEUT13|Not an easy business to run Button.
+BULL14|"Easier business to run and profit from then rubber and tires, so forced to pick between these two stocks to advance one to the finals of this battle Royale I Select Tab a pharmaceutical."""

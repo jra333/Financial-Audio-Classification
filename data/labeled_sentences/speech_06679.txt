@@ -1,0 +1,15 @@
+NEUT0|"""Hello, welcome to today's technical analysis for October 26, 2015."
+NEUT1|I'm Celina, Nicholas technical analyst, edxm.com.
+NEUT2|Today we will look at the British pound versus U.S. dollar on the daily chart.
+BEAR3|Gbpusd intraday bias remains on the downside.
+BEAR4|We can see the market is cut by the 200 day moving average.
+BEAR5|The pair made several attempts to rise above the daily Chamaca cloud last week, but it failed and fell back below the cloud on October 22nd.
+BEAR6|Are size below 50 in bearish territory.
+BULL7|If resistance holds at the 200 day moving average around one point 5328, there is scope for prices to test immediate support.
+NEUT8|At one point 50.
+NEUT9|246, which is the 50% fib annachi retracement of the up leg from one point.
+NEUT10|4564 to one point 5929.
+BEAR11|Below current levels further fall would lead towards a September 30 low of 1.51 zero six.
+BEAR12|If we look at the bigger picture you can see Gbpusd has been making lower highs and lower lows since the peak of one point 5929.
+NEUT13|On June 18th, Price Action remains in a consolidation pattern which is a correction of the downtrend from one point 7192 one point 4564.
+BULL14|"Thank you for watching and have a great day."""

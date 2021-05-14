@@ -1,0 +1,35 @@
+NEUT0|"""Everyone."
+NEUT1|It's Natalie here and today we're taking it back to the basics.
+NEUT2|For those of you who are not familiar with the stock market.
+NEUT3|So what exactly is the stock market?
+NEUT4|The stock market is the market place where investors can buy and sell stocks.
+NEUT5|Stocks are a share of ownership of a company.
+NEUT6|So when I say that I own Tesla style grapple sake means that I own a sliver of a pie, a sliver of or a piece of Tesla or Apple.
+NEUT7|Many brokerage accounts such as thinkorswim, TD Ameritrade TASTYWORKS, and most known in the millennial world, Robin Hood.
+BULL8|A lot of experience.
+NEUT9|Traders do not really.
+NEUT10|Recommend Robin Hood.
+BEAR11|Because of the outages or the lack of customer service you've probably heard of the S&P 500, Dow Jones, and NASDAQ.
+NEUT12|With these indices are are basically a summary of the market because they are comprised of top companies.
+NEUT13|So Dow Jones is one of the oldest indices and that is comprised of 30 large companies such as McDonald's, Coca Cola, Johnson and Johnson.
+NEUT14|S&P 500 is comprised of 500 companies an.
+NEUT15|The NASDAQ is your tech, your tech index.
+NEUT16|These three indexes run the market like you will hear on the news that the S&P 500 is up or it is down an all you need to know is that when they say that the stocks that make up these indices are gaining value or losing value.
+NEUT17|And investors are counting on those movements between the stock prices in order to make a profit.
+NEUT18|That being said, investing in the stock market does come with risks, and there are plenty of different trading strategies.
+NEUT19|Most commonly, there are three.
+NEUT20|There's long term investing and this is a promising way to build wealth over time, and you're holding stocks longer than a year.
+NEUT21|Day trading, you're buying and selling stocks within the same day, oftentimes within the same minutes or within minutes, and you're basically trying to, you know, gain profit base of price movements and volatility within that minute time frame.
+NEUT22|This is the most risky option, and definitely has the most learning curve will probably require more technical analysis, and will need risk management, and then their spring training where you are buying and selling a stock within months or within.
+NEUT23|A week it's not as quick as day trading, but not as long as long term investing and for all these different types of strategies, they all have different tax implications.
+NEUT24|So long term investing.
+NEUT25|If you're holding stocks for more than a year, you are going to have less capital gain tax or less tax on your capital gains then you are with short term trading such as day trading and swing trading.
+NEUT26|So I hope today I was able to give you 1000 level foot view of what the stock market is and the action item for you today is.
+NEUT27|If you don't already have a brokerage account, definitely do your own due diligence and research what platform might be best for you.
+NEUT28|And also think about your objective and goal in investing.
+NEUT29|Like do you want to just invest for the long term to build wealth overtime or do you want to?
+BULL30|Become good enough to be able to replace your income with trading.
+BULL31|That's some of the stuff you'll need to think about when first starting out, and I hope that this information helped you.
+BULL32|I hope to be posting more content to share the knowledge that I've learned over the years, so thanks for watching.
+BULL33|Stay tuned for more an I hope you have a very good day.
+NEUT34|"Bye."""

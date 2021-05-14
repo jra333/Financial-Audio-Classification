@@ -1,0 +1,29 @@
+NEUT0|"""But we begin today with the testimony from Fed Chair Jay Powell and Treasury Secretary Steven Mnuchin, testifying before the Senate Banking Committee."
+BEAR1|It is the first appearance between these two since that big disagreement after Treasury Secretary Steven Mnuchin announced he would be ending some of these emergency lending programs from the Fed.
+NEUT2|Let's bring in Brian Chung, who is tracking the very latest here, an Brian.
+NEUT3|Not a whole lot of headlines coming out.
+NEUT4|We did hear the Fed chair say yet again, that it is the fiscal side that needs to step up, saying the CARES Act.
+NEUT5|Do the lion share of aid for the economy so far?
+NEUT6|Yeah, well that's fed Chairman saying that it was really the cares act that was passed back in March.
+BULL7|That is supported the economic recovery so far.
+NEUT8|But he said quote, there's a long way to go and he said that we can both acknowledge the progress and the progress on just how far, but also acknowledge how far they have to go.
+NEUT9|He said that the lion's share of the credit so far in this recovery does go to the fiscal policy side of things, not at the policy done by the Constitution.
+NEUT10|AB at the Federal Reserve.
+NEUT11|Now of course, as you mentioned, this is the first public appearance between.
+NEUT12|The Treasury Secretary.
+NEUT13|In addition to the Fed chairman since that fall out about two weeks ago, concerning the expertise of nine of the Federal Reserve's 13 liquidy facilities, a number of them addressing things like loans to small and medium sized businesses.
+NEUT14|In addition to aid to state and local governments, those are all now set to expire December 31st at the Order of Treasury Secretary Steven Mnuchin Mnuchin.
+NEUT15|Pushing back on some of the criticism of that decision, saying that there was no mind in that decision to politics, here's what he said about an hour ago.
+NEUT16|My decision not to extend these facilities was not an economic decision.
+NEUT17|I'm surprised to hear Senator Brown used words like sabotage.
+NEUT18|Senator Brown again, the ranking member of the Senate Banking Committee, where the two public officials are testifying right now.
+NEUT19|Now, of course, the sabotage he's referring to is the Democratic kind of argument that the facilities were closed for political reasons that maybe they were closed because of the incoming by an administration which would take office in January of next year.
+NEUT20|Again, this concerns about $429 billion of money that the Federal Reserve did return to the Treasury's general Fund.
+NEUT21|Now the Treasury is saying they want to take that money and put it back into some new.
+NEUT22|Fiscal deal, which we've heard over the last hour, could be underway in the Senate.
+NEUT23|A small under $1 trillion deal.
+NEUT24|But of course, the Congressional Budget Office has said that that money that was originally allocated to the Fed had no deficit scoring because it was predicated on it being paid back to the government.
+NEUT25|So a lot of drawing and kind of argument going on in that congressional testimony, which is still ongoing and has entered its second hour just a few minutes ago.
+NEUT26|Zach kiko.
+NEUT27|OK, and Brian, I know you'll be watching for any additional headlines that come out of that hearing.
+BULL28|"Thanks so much for that."""

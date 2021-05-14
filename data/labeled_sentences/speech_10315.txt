@@ -1,0 +1,41 @@
+NEUT0|"""Alright, now I'm just going to take him to Intel Gym, which is the drag on the Dow on this report that Apple is developing even more chips that would try to outperform even the highest Intel chips."
+NEUT1|Yeah look.
+NEUT2|I mean this is arm Apple affiliated with ARM Arm trying to be bought by by NVIDIA Intel.
+BEAR3|I think it's become somewhat of a pinata.
+NEUT4|David yeah I mean every day comes up.
+NEUT5|Remember AMD is head of Intel and now we've got you know our Matt is.
+NEUT6|David, what happened until what happened?
+NEUT7|Well, they missed.
+NEUT8|They missed a cycle, right?
+NEUT9|Yeah, seven nanometer.
+NEUT10|It's hard to get to so you can't even to the atomic level on these chips.
+NEUT11|Well, wasn't that then?
+NEUT12|You've got the rise of Samsung.
+NEUT13|You've got the rise of Taiwan semi and their ability to do this now.
+NEUT14|Obviously Intel is an integrated device manufacturer, not just but they are now thinking about how they want to approach manufacturing for their 2023 line of chips.
+NEUT15|And we talked to Bob Swan, the company CEO, about this last week.
+NEUT16|Because it's a very important decision for the company tossed into it.
+NEUT17|How much I am going to toss to it.
+NEUT18|Yeah, how much do you go with?
+NEUT19|You know what might be a sure way to get your supply or how much do you continue to invest in terms of your own foundries?
+NEUT20|Which has been the way for the most part that Intel is gone only 20% or so of their chips are made outside of their own production areas.
+NEUT21|This is what he had to say.
+BULL22|We have a very strong product lineup for 2000, 2020, 122 for both our clients in our server market.
+NEUT23|The magnitude of the decision about what's in or what's out.
+BULL24|I think we're going to make that determination over over time, but I would expect that an IDM and filling fabs primarily for us here in the US is going to be important consideration important for us to continue to extend the capabilities of an IDM model here in the US.
+NEUT25|Yeah Jim, I know you're not a believer.
+NEUT26|No, not at all.
+NEUT27|Not one bit.
+BEAR28|I think the company is lost its edge.
+NEUT29|I think that Lisa Su correctly predicted this five years ago.
+NEUT30|She leapfrog.
+BULL31|I remember when Intel cracked Apple and was willing to do anything for Apple.
+NEUT32|Now Apple is abandoning as if why not work with them to come up with something faster.
+NEUT33|No 'cause they like the ARM chip.
+NEUT34|Why do you think that Jensen Wong is trying to buy arm?
+BULL35|Because it's a better chip.
+NEUT36|Now I look.
+BULL37|I sure wish that Intel was able to call to deliver because it's a Great American company.
+BULL38|But the fact is ARM, which is a great British company, is doing a better job.
+NEUT39|Shepard Smith here.
+NEUT40|"Thanks for watching CNBC on YouTube."""

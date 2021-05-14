@@ -1,0 +1,23 @@
+BEAR0|"""The stock markets bumping along near all time highs, the housing markets rebounding in many places and unemployment is down to its lowest level in years."
+NEUT1|So how come everybody feels so poor?
+NEUT2|I'm Thomas from MarketWatch, with a look at five things that probably make you feel like prosperity is passing you by #5 your child.
+BEAR3|Care costs are surging.
+BULL4|Assuming the job markets recovered enough for you to find work, you'll have to spend more for someone to look after your kids.
+BULL5|Childcare payments rose 50% from 2002 to 2011, according to the Census Bureau.
+BULL6|But family income after taxes rose just 0.6% over the same.
+BEAR7|#4 you're spending too much on rent.
+BULL8|Personal finance experts say you shouldn't pay more than 30% of your income for rent, but more than half of Americans do just that, and the trend is up.
+NEUT9|Plus, if you're shelling out all your income to your landlord, you can't save anything for a down payment on a house.
+BULL10|#3 the cost of college is soaring.
+NEUT11|Tuition and fees at public.
+BULL12|Four year schools rose 27% from 2008 to 2013, according to the College Board.
+NEUT13|Who knows what all those college administrators spend the money on.
+NEUT14|But more than 70% of graduates in 2012 were carrying debt.
+NEUT15|The average debt was nearly $30,000 and not surprisingly, 11.5% of student loans are more than 90 days delinquent.
+NEUT16|#2, even if you have money in the bank.
+NEUT17|You're not earning any interest on it.
+BEAR18|This is particularly bad news for older Americans living on fixed incomes and with the Fed unlikely to even begin raising rates until later in 2015, it's not going to get better anytime soon.
+NEUT19|Number one, you're not making any more money than you did 1020 or even 30 years ago.
+BEAR20|The median US worker saw wage growth of just 5% between 1979 and 2012, according to a study by the Economic Policy Institute.
+BEAR21|And the Census Bureau has found similar wage stagnation.
+BULL22|"Meanwhile, prices for gasoline are up from $2.50 a gallon to around $4 and food prices hurt by the drought in California are showing more worrisome trends."""

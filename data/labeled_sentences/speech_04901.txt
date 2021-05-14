@@ -1,0 +1,12 @@
+NEUT0|"""To stay up to date with latest videos and trending news stories, make sure to subscribe the channel by clicking the button below this video."
+BEAR1|A large reptile reportedly entered a convenience store in Thailand in search of food.
+BEAR2|The animal apparently sent workers and customers into hiding.
+NEUT3|As it cost items off the shelves, the six foot long monitor lizard entered the store.
+BULL4|After emerging from a nearby canal in Nakhon Palm on April 6th.
+NEUT5|Southwest News service SWN S reports.
+BEAR6|The animal reportedly climbed onto shelves and tossed several cartoons of milk onto the ground.
+BEAR7|Customers and workers reportedly hid behind the stores counter during the incident.
+BEAR8|Fortunately, reptile handlers quickly arrived on the scene and were able to snare the animal.
+BEAR9|It was reportedly released back into some nearby undergrowth.
+NEUT10|The animal apparently didn't actually make off with any food from the store.
+NEUT11|"Monitor lizards typically feed on fish, snakes, and frogs, although they will also eat food left behind by humans if it's available."""

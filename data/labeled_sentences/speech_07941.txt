@@ -1,0 +1,13 @@
+NEUT0|"""The Dow Jones Industrial Average is one of the most watched indexes in the world."
+NEUT1|It claims to represent the entire stock market with just 30 stocks, which span different sectors.
+NEUT2|Big names like Apple, Boeing, Microsoft, Coca Cola and Exxon.
+NEUT3|Not to be confused with Dow Jones and Company, which is a huge financial news company that actually started the Dja Index and various other indices.
+NEUT4|The Dja was created in.
+NEUT5|1896 by Charles Dow and his partner Edward Jones.
+NEUT6|The performance of the Dow Jones is a way to take the temperature of the US economy as a whole.
+NEUT7|It is the most widely used index in the US, ranking above the S&P and the NASDAQ in importance when traders ask how New York is performing, they tend to be referring to the Dow Jones Index.
+NEUT8|This index is a price weighted index, which means that the stocks with higher prices inside.
+BEAR9|Carry more weight if one of the firms that has a lot of weight inside the index were to declare bankruptcy, this would send the index plummeting.
+NEUT10|So what moves the US 30 based on the Dow Jones 30 factors include stock performance of the companies that make up the index and economic factors such as interest rate changes, monetary policy and economic data releases.
+NEUT11|Remember, you can trade the US 30 which is based on the Dow Jones 30 either when it is rising.
+NEUT12|"Or falling with CFD's here at our betrayed you can use the empty for the empty 5 webtrader or Arbitrade Go app."""

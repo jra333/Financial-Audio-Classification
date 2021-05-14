@@ -1,0 +1,13 @@
+NEUT0|"""There's one stock that Jeff Sica has always liked and that is Netflix, yes."
+NEUT1|So as a matter of fact on your show 2012, when Netflix everybody hated Netflix, I came out and said that Apple should buy them.
+BULL2|It would be a brilliant move and I bet Apple is looking back and thinking they should have bought Netflix when they had a shot.
+BULL3|Netflix is a brilliant company.
+NEUT4|This new streaming technology they use with Roma where they are bypassing the box office.
+NEUT5|This is groundbreaking.
+NEUT6|I talked to an Academy Award winning producer.
+NEUT7|Who said that Netflix just changed the game completely and and is allowing Hollywood to deliver quality products for less money?
+BULL8|OK, which is great.
+NEUT9|$330 A share?
+NEUT10|Where's it going?
+BEAR11|I think it's going to break $400 a share this year.
+NEUT12|"OK, I do as well for 2420."""

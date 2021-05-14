@@ -1,0 +1,7 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 on the weekly time frame, and as you can see 3200 is being tested on Friday."
+BEAR1|And now I mean there isn't a whole lot to keep the market from going to the all time highs.
+NEUT2|Now I think we are a bit.
+NEUT3|Overbought so a pullback would make some sense.
+NEUT4|That pullback should be thought of as a value really.
+BULL5|3000 is an area that I think will offer a bit of a floor.
+BEAR6|"I can give you so many reasons why this shouldn't happen, but it looks like we are just simply going to see massive amounts of volatility, so be cautious."""

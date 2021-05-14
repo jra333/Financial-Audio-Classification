@@ -1,0 +1,11 @@
+BULL0|"""Thanks for coming."
+NEUT1|Family.
+NEUT2|Also, more billionaires in India than ever before.
+NEUT3|A lot of what's been going on in the in the software industry in India has created several new billionaires there.
+NEUT4|And a couple new billionaires in Saudi Arabia.
+BULL5|And surprisingly, given that Japan's economy is in the dumps all together.
+NEUT6|14 new billionaires in Japan and not just in the tech sector.
+NEUT7|But you know people.
+NEUT8|Billionaires in Japan selling medical beds or having chains of eyeglasses?
+NEUT9|I mean, all kinds of stuff you would never think would perhaps create billion dollar fortunes.
+NEUT10|"3003 thousand for $10,000."""

@@ -1,0 +1,34 @@
+BULL0|"""Thanks for joining everyone today."
+BEAR1|We're talking about a potential breakout on ticker symbol in AKD.
+NEUT2|The platform I'm using is Weibel.
+NEUT3|I'll leave a link in the description below.
+NEUT4|Sign up, get a couple of free stocks.
+NEUT5|OK, let's get right into it.
+NEUT6|I'm currently viewing that Red line on a four hour chart.
+NEUT7|Moving average lines are set at 50 and 1:20.
+BEAR8|Analyzing this chart, we can see there has been downtrending most of the year.
+NEUT9|Until the beginning of November and AKD found the bottom at six cents.
+BULL10|At that point, we were able to confirm a reversal.
+NEUT11|As we zoom in.
+BEAR12|We can see support levels at six cents with a nice spike to $0.33, then trending back down to support levels at $0.14.
+NEUT13|Today we're currently trading at.
+BULL14|$0.20 as we work our way closer to $0.33.
+NEUT15|This will be the challenge.
+NEUT16|As it is resistance.
+NEUT17|This is where the breakout happens.
+BULL18|If we gain enough momentum and break $0.33 the resistance level we can run above and beyond $0.50 based on analyzing the chart.
+BEAR19|If you're a trader, then you'll want to sell as volume starts to slow on the breakout above $0.33.
+NEUT20|If you're an investor, you want to hold this until May 2021.
+NEUT21|This is because in AKD received 180 day extension from NASDAQ, which means this cannot have a reverse split until May 2021.
+BULL22|Allowing them to gain compliance trading above a dollar for ten consecutive trading days.
+NEUT23|Analyzing this chart, I see multiple breakouts happening from now until May.
+BULL24|We could see significant gains.
+NEUT25|We could see this move into the three to $5 range by May.
+NEUT26|I always tell my students to look at stocks that are currently trading between 5:00 and $10 right now, as most of them you will see.
+BEAR27|They were trading well below a dollar 6 to 12 months ago.
+NEUT28|I love to teach patience.
+NEUT29|I can't say it enough.
+NEUT30|Patience is everything when it comes to profiting large on stocks.
+BULL31|I hope this helps understand the analyst point of view on ticker symbol NAKDI.
+NEUT32|Hope you enjoy today's video.
+NEUT33|"Feel free to like subscribe and I'll see you in the next video."""

@@ -1,0 +1,13 @@
+BULL0|"""Looks like MVS is actually making a little bit of a comeback as well."
+NEUT1|They're up to $16.12.
+NEUT2|As of today.
+BULL3|They did increase to $16.37, but.
+BEAR4|You know people were upset with this large move that they had.
+BEAR5|You know I was going to say yesterday, but Thursday you seen this large move down from $17.00.
+BULL6|It was actually up higher to $19.00 I believe.
+BEAR7|But now it's making that move down an today in the pre market you could see a gap up and making that move up so hopefully we see that continue.
+NEUT8|But I do believe in MBS as something that could be a easy $20 stock.
+NEUT9|$25 stock and make it move on the way up.
+NEUT10|It's more long term than short term but you can get a really good swing trade out of it.
+NEUT11|It's been known to actually have those pretty good swings, so if you're looking for a swing look into this.
+BULL12|"If you're looking for a long term investment, I would definitely say NBS is good as well."""

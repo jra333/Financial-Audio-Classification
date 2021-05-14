@@ -1,0 +1,31 @@
+NEUT0|"""Can you answer the trickiest question about the 2021 stock market?"
+NEUT1|It's so tricky that three out of five professional investors I asked didn't get it right here it is.
+NEUT2|Which stocks have done best in 2021 so far?
+NEUT3|A growth stocks such as Tesla, TSL, a Shopify shop, or the trade desk TTD be defensive stocks such as Coca Cola, Cocoa or Procter and Gamble PG, PG.
+NEUT4|See cyclical recovery stocks such as Boeing BA.
+NEUT5|BA or Chevron CV XCV XD stocks with the lowest price tge work from home stocks like Zoom, ZM or Slack F top stocks from Reddit such as Tesla or Apple AAPL.
+NEUT6|The correct answer is D. So far the stock market in 2021 comes down to this primitive formula.
+BULL7|The cheaper the share price, the better it does thanks in part to day traders piling into microcap stocks after Uncle Sam doled out $600 checks.
+NEUT8|JP Morgan JPM.
+NEUT9|Strategists called it the repeat of 2020 spring boom.
+NEUT10|The answer is liquid ITI, which appears to be reverberating once again in an intense manner via retail investors in a repeat to Q2 of last year, they said in a recent note now that Biden is dangling $1400 checks for approximately 150 million Americans, investors are bracing for another wave of stimulus check trading.
+NEUT11|And as I'll show, these traders have more muscle to move the market than you might think.
+NEUT12|A lot of stimulus checks make their way into stocks.
+NEUT13|There's this theory, Bloomberg columnist Matt Levine, calls it the board and markets hypothesis.
+NEUT14|In short, it suggests people don't always invest specifically to make money.
+NEUT15|Some simply view the stock market as a fun casino and trade for pure entertainment.
+NEUT16|The theory is particularly relevant now.
+NEUT17|Hold up.
+BEAR18|People have hoarded a record pile of cash.
+NEUT19|Then along comes this windfall from Uncle Sam.
+NEUT20|With nowhere to spend it so it makes sense that people choose to dish out some of that money gambling.
+NEUT21|Ahem, trading stocks for fun.
+NEUT22|Just look up the surveys and data on trading activity after check distribution dates.
+NEUT23|People are indeed plowing a big chunk of their stimulus money into stocks, an from record new brokerage accounts.
+NEUT24|It seems a lot of them are just now dipping their toes in investing.
+BEAR25|The result is that stimulus checks are working backward.
+NEUT26|In theory, the checks are meant to encourage people to spend money on stuff.
+BULL27|That should boost companies earnings and eventually their stock prices, but it's the other way around.
+NEUT28|A lot of that money goes straight back into stocks which artificially propped up their prices without shoring up the underlying business.
+NEUT29|And the hotter the stock, the more its price becomes divorced from its intrinsic value.
+BULL30|"Now that Biden is stepping into the office with his $1.9 trillion American rescue plan, investors are buckling up for another wave of speculation."""

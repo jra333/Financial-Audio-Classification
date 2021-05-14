@@ -1,0 +1,24 @@
+BULL0|"""So stock markets may have escaped relatively unscathed."
+BEAR1|Donald Trump's shock election victory this week just may have lit the fuse of a long ticking bomb buried deep in bond markets.
+NEUT2|Duration is a measure of how long it takes for investors to get their money back on a bond.
+NEUT3|And betting on duration has been one of the biggest sources of fixed income return in recent years.
+NEUT4|You have Treasury bonds maturing in 10 years or more.
+BULL5|For example, have returned 46% since 2014 compared to the broader markets 14% gain over that.
+NEUT6|But duration is a classic double edged sword.
+NEUT7|The greater the duration, the more sensitive a bond is.
+NEUT8|The interest rate movements.
+BEAR9|Long duration bonds have already been hit since the summer, but the post election Trump tantrum in bond markets caused by fears that the president elect will go on inflation, fueling borrowing spree.
+BULL10|Sent yields rocketing even higher.
+BEAR11|Now as a result, U.S. Treasury bonds maturing in 10 years or more suffered their worst sell off since at least 1991 on Wednesday, losing 3.6%.
+NEUT12|To put that in context that is worse in any day, during the 2013 taper tantrum or in 1994, the bond carnage that was caused when the Federal Reserve unexpectedly jacked up interest rates.
+BEAR13|Thursday was another painful day, so the final toll is going to be bad.
+BULL14|Duration is getting globally.
+NEUT15|However you'll solved investors everywhere have crowded into long dated debt with Austria's recent 70 year bond sale at prime example of that.
+BEAR16|That Austrian bond is lost six and a half percent of its value just this week, and for a supposedly safe asset, that's pretty painful.
+BEAR17|The duration Sting will be widely felt.
+BULL18|The average duration of the Bloomberg Barkleys Multiverse Index on the broadest global bond gauges climbed with all time record of 6.75 years this autumn.
+NEUT19|The big question is now whether this is merely an overdue repricing or duration triggered by the election of Mr. Trump.
+BULL20|After a phenomenal rally.
+NEUT21|Or is it perhaps the beginning of an entirely new market regime that throws post crisis cliches like low for longer than you normal out the window?
+NEUT22|Going by the recent market movements, investors appear to be leaning towards the latter.
+NEUT23|"So ***** ** that last helmet."""

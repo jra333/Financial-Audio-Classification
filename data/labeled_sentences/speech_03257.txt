@@ -1,0 +1,43 @@
+NEUT0|"""Let me right now is Moody's Analytics Chief economist Mark Zandi Mark."
+BULL1|Great to see this morning.
+BULL2|Thanks very much for joining us.
+NEUT3|What's your take on what the fourth quarter looks like in terms of economic growth and 2021 in the face of all of this?
+BEAR4|Well, Q4 should be 3-4 percent GDP, but that kind of a Lisa Maria slowing in growth.
+BEAR5|You can see that in the jobs data in November, job job number was small increase in given the intensification of the virus here, I suspect we might see some job loss.
+NEUT6|So Q1 will be very soft.
+BULL7|May even be a negative number, but hopefully Secretary is our is has got it right and we get that vaccine out there quickly.
+NEUT8|And it sounds like if everything sticks to his script.
+BULL9|They would be in a much better place by the summer and the second half of 21 should be a lot better.
+BULL10|So now you know it's going to be a tough 3-4 months I think for the economy, but by this time next year we should be in a much better place.
+NEUT11|If everything kind of hangs together.
+BULL12|Mark, you just said 3/3 to 4% growth in the fourth quarter.
+NEUT13|What do you make of the Atlanta Federal Reserve with a growth expectation for the fourth quarter of 11.1%?
+NEUT14|Yeah, that's a forecast based on data that you know goes through mostly the month of October.
+BEAR15|The data we've been getting so far in November is a lot softer than that.
+BEAR16|You know you saw the jobs number you saw.
+BEAR17|Yesterday's unemployment insurance claims car sales fell in November.
+BULL18|Consumer sentiment is rolled over a lot softer, so you know we came into the quarter strong.
+BEAR19|We're going to leave the quarter very weak, and I suspect if we don't get any more support from lawmakers in Washington, it's going to be a very difficult start to the year.
+NEUT20|There's a lot of programs that are expiring at year end.
+BEAR21|You know there's going to be rental evictions, unemployment insurance, expires tax credits for businesses to retain workers all goes away.
+BULL22|You're going to see student loan borrowers having to repay again very quickly, so you know the early part of next year is going to be tough, so Q4 is OK, you know, came in good leaving week.
+NEUT23|Q1 is what I'm worried about.
+BEAR24|Yeah, I mean, you know, Mitch McConnell is urging lawmakers to drop the aid for state and local governments.
+NEUT25|And also if they don't want to agree to the liability protection, then just do a smaller, smaller aid package as we see coronavirus cases rising across the globe.
+BEAR26|Yesterday we heard from the European Bank, the European Central Bank Christine Lagarde, warning of a major contraction from a second wave in the fourth quarter.
+BEAR27|The EU also warned that no trade deal is likely to come out of a recent.
+NEUT28|The recent trade talks mark work into your expectations.
+NEUT29|What's going on across the world.
+BEAR30|Europe is clearly in a in a slow spot and you just said a moment ago.
+BEAR31|We are going to have a tough couple of months.
+BEAR32|Is that the cause of what you're expecting to be more lockdowns on this economy?
+NEUT33|Yeah, that's happening already, Maria.
+BEAR34|I think the surge in the virus in the hospitalization is causing local officials to pull back.
+BEAR35|People are nervous and they're pulling back just on their own.
+NEUT36|So many lawmakers to step up.
+NEUT37|I, I wish we could get that $900 billion package.
+BEAR38|I mean, I think that's the minimum we need to avoid getting negative numbers early next year, and even potentially going back into recession.
+NEUT39|So hopefully we get that.
+BULL40|Alright Mark, great to see this morning.
+NEUT41|Will talk soon.
+NEUT42|"Mark Zandi joining us there."""

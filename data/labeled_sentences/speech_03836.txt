@@ -1,0 +1,48 @@
+NEUT0|"""Hello, do come in welcome to Investors Anonymous."
+NEUT1|I've got some of your details here so let's discuss your investment problems this year.
+NEUT2|Old strictly confidential of course.
+NEUT3|So you began the year assuming the Federal Reserve was going to raise interest rates and other times, not unreasonably so.
+NEUT4|You went long on the dollar.
+NEUT5|Quite a big way.
+NEUT6|I see Piti piti up the dollars.
+NEUT7|Had a funny old year hasn't it?
+NEUT8|It's done you no favors.
+BEAR9|I see all that uncertainty over plunging oil prices and China growth.
+NEUT10|Never mind, never mind.
+NEUT11|So how did you set about recovering your losses?
+NEUT12|Did you invest in those lovely emerging market assets in South Africa or Brazil or Russia?
+NEUT13|You didn't write, write you reason that these were risky assets and the last place to invest political hot potatoes, of course, and emerging markets, just not your sort of thing.
+NEUT14|Mind you, look at them.
+BULL15|Now, three of the five best performing currencies fair enough.
+NEUT16|Who could have foreseen the swift demise of Brazil's President Dilma Rousseff?
+BULL17|All those factors that made the Rand comeback kid over effects, and that some recovery in oil to prop up the ruble.
+NEUT18|OK, so where did you invest instead?
+NEUT19|The pound.
+NEUT20|The British pound you went for a rise in the British pound but but the UK referendum was always a pretty close race, wasn't it?
+NEUT21|You listen to too many pundits and pollsters and bookies did you?
+NEUT22|I went with my gut instinct and honestly believe the British people would vote to remain so you bought a lot of Sterling.
+NEUT23|I agree, lots of people did in the pound and they did get up to $1.50.
+NEUT24|Will seems like a long time ago.
+NEUT25|Rumbold business this.
+NEUT26|Political risk stuff not easy to trade.
+BEAR27|Very sorry about Brexit.
+BULL28|You in Sterling after taking a pounding and Oh dear, you also missed out on the giant Footsie rally.
+NEUT29|But of course you hedge didn't you did hedge.
+NEUT30|You did.
+BULL31|A lot of people did, I mean, the cost of insuring against swings in the pound in the futures market was soaring, right?
+NEUT32|It was just too expensive.
+NEUT33|You OK?
+NEUT34|Well, what could you do now?
+NEUT35|US election now Mrs. Clinton looks like she's going to win so you could go back to buying dollars, right?
+NEUT36|Looked at the Trump effect on things like the Mexican peso and like a lot of investors.
+NEUT37|You nervous about calling the election so.
+NEUT38|What you want to do just sit tight boys move.
+NEUT39|You probably haven't got any money left to invest.
+NEUT40|I mean, I bet you wish you'd subtitle.
+NEUT41|Yeah, I mean all this politics stuff, it just gets in the way of making money look, I'm sure you'll have better luck next year.
+NEUT42|They'll be on UUS.
+NEUT43|President might be a difficult one to trade and oh, French elections and the German elections of course just go easy when it comes to Brexit and that is tricky.
+NEUT44|Negotiations, like all those, are just the known unknowns.
+BULL45|Anyway, thank you very much for coming in.
+NEUT46|Good luck trading next year.
+NEUT47|"And would you mind leaving your Fiat reception?"""

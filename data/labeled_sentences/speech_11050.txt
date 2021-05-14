@@ -1,0 +1,22 @@
+NEUT0|"""Neo stock analysis and predictions, February 18th."
+NEUT1|In today's NEO stock analysis and predictions, what to expect from NIO tomorrow?
+NEUT2|Alright, let's get started an IO as well as other stock.
+BEAR3|We're down to Thursdays selling pressure to Wall Street with major market benchmarks giving up ground but finishing well off their worst levels of the day.
+BEAR4|The Dow Jones Industrial average joined the S&P 500 and NASDAQ Composite with declines.
+BEAR5|Shares of NIO are down 5% on Thursday due to the market's volatility.
+NEUT6|But where does that leave Nio with all the volatility in the market surrounding it?
+NEUT7|The answer is to look at the market and how it is trading overall market analysis.
+BEAR8|The stock market rally is in a modestly weak trend, showing elements of a broad based pull back as well as a sector rotation out of growth.
+BEAR9|The NASDAQ, S&P and Dow Jones fell intraday Thursday to just above its 21 day exponential moving average, where it began paring losses.
+BULL10|The 21 day line was a key area of support for the NASDAQ during the April to November stock market rally as well as the current.
+BEAR11|Uptrend analysts suspect that the NASDAQ will quickly rebound to record highs or trade sideways in its current range for a time after this week.
+BEAR12|For now, the markets are breaking through their 21 day lines, what to expect from NIO, according to analysts, we suspected NIO will not go below its support level of $54.00 and $53 tomorrow.
+BULL13|The market is currently very volatile at this time and as a result long should see protection at the $54.00 and $53 next week.
+BULL14|We should see a recovery of the market's 50 day moving average line.
+BEAR15|Thus causing an IO and others in its section to bounce back.
+NEUT16|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT17|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT18|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL19|We'd really appreciate it.
+NEUT20|Are you still watching and want more?
+NEUT21|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

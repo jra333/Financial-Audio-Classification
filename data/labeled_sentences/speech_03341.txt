@@ -1,0 +1,75 @@
+NEUT0|"""Welcome back Forbes magazine."
+NEUT1|Ranking the most powerful public companies in its annual Global 2000 list.
+NEUT2|Coming in first place this year, get this the industrial and Commercial Bank of China, followed by China Construction Bank, then Berkshire Hathaway.
+NEUT3|Then JP Morgan Chase and Wells Fargo want to bring in the deputy editor of Investing in Forbes Media.
+BULL4|Hollett Toryal a hella good to see it.
+BULL5|Thanks so much for joining us of course thanks.
+NEUT6|So go through the system.
+NEUT7|How do you rank these companies?
+NEUT8|Absolutely so we take a large group of companies.
+NEUT9|We look at them.
+NEUT10|For metrics we've got sales look at profits, look at assets and will get market value.
+NEUT11|We assign the score to each one and then we take a composite and rank those composites so you end up with our 2000.
+NEUT12|It's incredible that Chinese companies are the first two.
+NEUT13|Absolutely.
+BULL14|It's been pretty consistent in China.
+NEUT15|In the US, dominate the top ten and overall just a list.
+NEUT16|I think it's pretty reflective of what is going on in the economy.
+NEUT17|To them contribute something like 30% of the world's GDP, so it's pretty natural that they'll end up dominating the list.
+NEUT18|That makes sense.
+NEUT19|Are there any forward looking metrics taken into consideration?
+NEUT20|Or is this all backward?
+NEUT21|One, is it?
+NEUT22|As of the end of right?
+NEUT23|So we look at trailing 12 months.
+NEUT24|The end beginning of April.
+NEUT25|OK, the last 12 months.
+BULL26|OK, 'cause it's interesting to see all those banks on the list when they had a great run since the election last year, but this year they haven't done so well.
+NEUT27|So right.
+BEAR28|You also see that on oil and gas, oil and gas companies on this year's list sell Exxon fell out of the top ten, and I think you might see an increase maybe next year, depending what happens with oil production.
+NEUT29|You know how?
+NEUT30|How much change, I'm just dynamism.
+NEUT31|Is there to the list?
+NEUT32|Because, you know, if we look historically, for instance, I believe at one point just on public market valuation.
+NEUT33|Japan had, I think, nine of the ten largest companies in the world in the 1980s, which I don't think is 1 even near the top of the list now.
+NEUT34|So how much churn is there?
+NEUT35|How much dynamism to the IT depends year to year?
+NEUT36|So, for instance, is here.
+BEAR37|You'll see a lot of retail fall off.
+NEUT38|I mean, Ralph Lauren's no longer on the list.
+BEAR39|Chipotle's gone for obvious reasons.
+NEUT40|So there's also mergers and acquisitions that take place.
+NEUT41|It's a B. Miller is no longer because of the ABN Bev acquisition.
+NEUT42|You also have Starwood, which was a big one, has been acquired by Marriott, and now Marriott sort of ranked up.
+NEUT43|So in terms of just changes, it really depends.
+NEUT44|One of two things, either acquisitions or this kind of fallen off.
+NEUT45|Based on our metrics, what about big changes?
+NEUT46|Companies that made huge leaps on the list?
+NEUT47|Amazon?
+NEUT48|I mean, that is a big one, right?
+BULL49|For obvious reasons, sure mean profits have soared, market value has soared, they've gone into the top 100 very easily.
+BEAR50|And on the flip side, a lot of other retailers have either fallen off Nordstrom and Target have just kind of ended up in the bottom half of the list.
+NEUT51|But Amazon is a big reason you can see them moving up.
+NEUT52|What about tech?
+NEUT53|So Amazon is kind of a hybrid of tech and retail apples on the top ten list.
+NEUT54|But what about Netflix?
+NEUT55|What about Google?
+NEUT56|And then there's?
+NEUT57|Snaps and now back to American companies SNAP.
+NEUT58|I mean how does snap get on this list when you're talking about profitability?
+NEUT59|You're talking about market share revenue growth, right?
+BEAR60|I think a lot of problems with our market value aspect of it.
+NEUT61|They actually just made the cut.
+BULL62|We ended our list in early April and the IPO did March, so 1.3 billion in IPO help kind of put them in mean it's it's a respectable debut.
+NEUT63|There's something around 1600 or so, so it'll be interesting.
+NEUT64|What happens to snap going forward at the top?
+NEUT65|I mean the dominant companies you have are obviously Apple.
+NEUT66|Most of the tech top companies are dominated by U.S. companies.
+NEUT67|You have Samsung in there at #2 from South Korea, but for the most part you have apples.
+NEUT68|Do you have Google which is now Alphabet?
+BULL69|So it's a good round up.
+NEUT70|You have a breakdown of tech financials etc in terms of sectors, yes absolutely.
+NEUT71|On our site we kind of breaks them down and financials for for USI mean the top 10 is primarily financials.
+NEUT72|You have Chinese banks, you have the large U.S. banks like JP Morgan and Wells Fargo and in terms of tax, you can definitely check those out on our site.
+NEUT73|Alright, we'll do that.
+BULL74|"However, thanks so much Artoria late joining us there from 4."""

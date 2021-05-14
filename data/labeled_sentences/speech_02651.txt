@@ -1,0 +1,30 @@
+BULL0|"""Equity event risk is coming."
+BEAR1|Another U.S. government shutdown.
+NEUT2|AUS China trade deal may be a delay or no deal in more tariffs, a Brexit crash out with no deal, or maybe an extension event risk occurs when one has a known date in two very different possible outcomes before the event.
+NEUT3|Market participants price the probability weighted average of the two divergent scenarios.
+NEUT4|Once the event outcome is known, which includes the possibility of a delay, market participants typically an instantly move prices to a new scenario.
+NEUT5|This means event risk requires special risk management attention, because once the outcome is known as market prices shift instantly to the new scenario, there may be a large and meaningful price gap.
+NEUT6|Price gaps are inherently more difficult to manage than a straightforward shift in volatility, either up or down, and often a multi legged options and futures strategy is required depending on one's exposures and risk tolerances.
+NEUT7|So ***** ** your seatbelts.
+NEUT8|Here's our take on the three big event risk.
+NEUT9|That are on the near term horizon.
+BEAR10|February 15th is the new government shutdown deadline for a deal on immigration and the US Mexican border wall to date.
+NEUT11|Based on our analysis, no real progress appears to have made been made.
+BEAR12|If there is no deal and the President decides to shut down the US government again, this could result in weaker equity prices as well as a lower U.S. dollar because the US brand is weakened and US risks rise in the eyes of foreign exchange market participants.
+BULL13|If there is a deal, then there's the possibility of a relief rally on Wall Street with equities rising.
+BEAR14|March 1st, that's the US imposed deadline for a trade deal with China, or the US has promised to impose another round of hefty penalty tariffs on more Chinese exports to the US.
+NEUT15|The next round of tariffs would involve US discretionary and consumer goods.
+NEUT16|These are often sold in big box retail stores or over the Internet.
+BEAR17|The tariffs, if imposed, would hit the Chinese economy hard, but they would also deal a big blow to the US consumer and the consumer sector of the stock market.
+BULL18|If there's a deal, Wall Street would cheer with an equity rally as it takes considerable risk off the table.
+NEUT19|March 29 is the deadline for a deal on Brexit between the UK and the European Union.
+BEAR20|There were not nearly enough votes in the UK Parliament to pass the deal.
+BEAR21|Prime Minister may cut.
+NEUT22|The parliament also gave the Prime Minister a vote of confidence and new instructions to go back to Brussels.
+BULL23|The EU though seems to be digging in.
+BEAR24|There are many in the EU that would like to see the UK crash out of the EU without a deal.
+NEUT25|So they're not negotiating.
+BEAR26|The pound is in the headlights, a deal or even a delay rallies the British pound and a hard Brexit or no deal might send the pound sharply lower.
+NEUT27|Beware of event risk.
+NEUT28|It's not the same as volatility.
+NEUT29|"Blue Putnam chief economist, CME Group."""

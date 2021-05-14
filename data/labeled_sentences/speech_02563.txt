@@ -1,0 +1,13 @@
+NEUT0|"""SMF St traders."
+NEUT1|Big correction on the Dow all of a sudden they come out with Bank of America making some big announcement.
+BEAR2|We were down over 200 points.
+NEUT3|We got a big haircut here of this is how market tops get put in.
+NEUT4|We had that 71 year move on the Dow that never would have ever happened and this is the kind of correction that comes.
+BULL5|We are in earning season.
+NEUT6|This is a big haircut.
+NEUT7|There is no more Dow 11,000, NASDAQ 100 all indexes.
+NEUT8|I am getting a weekly RSI that was overbought to start with it was 90 now it's 8796.
+NEUT9|This is how topson corrections start.
+NEUT10|No one says it's going to save it but we will be looking at shorting that S&P 500, buying put options and everything we can get our little greedy Amazon if they want to take these markets down then we'll make a fortune as we did on the way up and we get paid on the way down.
+BEAR11|Right now we were just down 202 points and some change.
+NEUT12|"That's the weekly Dow haircut at the 200 week moving average, and that is your weekly Dow."""

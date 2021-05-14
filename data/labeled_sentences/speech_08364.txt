@@ -1,0 +1,26 @@
+BEAR0|"""Wall Street Journal reporting that Facebook uncovered emails that appear to show that Mark Zuckerberg his connection appeared to show that he was aware of potentially problematic privacy practices at the company that we reached out to Facebook for comment."
+NEUT1|We have not heard back yet.
+BEAR2|You do see Facebook shares now trading down over 2 1/2%, but this this report, which is rather lengthy, lengthy indicates that the company has unearthed these emails in the process of responding to.
+BEAR3|This federal privacy investigation and that they have raised concerns about whether these emails would be harmful to Facebook, at least from a PR standpoint.
+NEUT4|If these emails were to become public, so this is of course, in the midst of a number of investigations into Facebook by the FTC, both for their potential violations of their consent decree with the FTC, and also the potential for the FTC to also be investigating Facebook from an antitrust perspective.
+NEUT5|But this really is right now centering on the Cambridge Analytica scandal and how that sparked a broader set of concerns about Facebook's privacy practices.
+BEAR6|But as we stand right now, Facebook is in the process of negotiating with the FTC and is expected to settle for between 3 billion and $5 billion and this Wall Street Journal investigation points to the concerns that these emails would indicate that Zuckerberg was not as oblivious to what was going on as he may have indicated before.
+NEUT7|Back over to you.
+NEUT8|Alright, Julia, thank you very much are Julia Borsten.
+NEUT9|With that report out of Dow Jones, we got Morgan, Brennan, Mike Santoli back at the NYSE.
+NEUT10|Mike, I just want to touch this one to you really quickly because we know this settlement and the pursuit of it has been fraught with the FTC and Facebook and lot of Gesick have come on the show and said what's going to matter is evidence for lack of a better word that shows up versus, I mean in leaks or discovery.
+NEUT11|This is a piece of that.
+NEUT12|It is absolutely a piece of that.
+BULL13|Carl and I do think it shows to some degree how fragile the conviction is that Facebook is past these issues, or at least has them kind of walled off because the stock is not really been able to perform and sort of embrace this idea that they have a handle on these things, and so the ongoing this of these issues and the fact that this gives you know, perfectly good clearance for I guess the pressure to remain on pressing for tougher settlements or practices down the road.
+NEUT14|And of course who knows pressure on Mark Zuckerberg himself in the job, and I think that's all.
+NEUT15|Kind of feeding into what's already.
+NEUT16|I think a very apprehensive Wall Street when it comes to these business models.
+NEUT17|We're going to actually.
+NEUT18|Well as well Julia more yeah, I'm working this right now.
+NEUT19|We have reached out to Facebook for comment but it is worth noting Facebook's response to the Wall Street Journal that is quoted in this story.
+NEUT20|Facebook saying that Facebook and its executives, including market all time, strive to comply with all applicable law and at no point did mark or any other Facebook employee knowingly violate the company's obligations under the FTC consent order.
+BULL21|They also say they have fully cooperated with the FTC's investigation provided 10s of thousands of documents emails.
+NEUT22|And find saying they're continuing to work with them, and to bring this matter to an appropriate resolution.
+NEUT23|Of course, it has been expected that the fine and the settlement of between 3:00 and $5 billion would have already been reached, so a lot of questions about why that hasn't yet happened.
+NEUT24|But Zuckerberg himself has said that he wished he had focused on user privacy and made that his primary focus earlier.
+NEUT25|"But the question now is whether some of these internal emails show more of a Gray area back over to you."""

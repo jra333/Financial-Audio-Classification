@@ -1,0 +1,6 @@
+NEUT0|"""Alright, let's take by the Apple stock we can see here."
+NEUT1|Apple make a job here with the red candles seat.
+NEUT2|At the year my line, so as long as we keep.
+NEUT3|At this trading range, there's no dangerous for Apple butter is Lake.
+NEUT4|Trending moment, so for now there's no direction change.
+BULL5|"Thank you."""

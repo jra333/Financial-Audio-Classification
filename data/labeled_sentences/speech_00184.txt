@@ -1,0 +1,20 @@
+BULL0|"""The pandemic has thrust this conversation about working from home more flexibility into the spotlight."
+NEUT1|You're at home.
+NEUT2|I'm at home.
+NEUT3|How is this changing?
+NEUT4|How you think about your office footprint?
+NEUT5|Knowing that if a vaccine becomes available, we're still looking at at least the middle of next year at the earliest.
+NEUT6|I think that's right from our perspective.
+NEUT7|You're probably looking at the end of the summer into the fall before the vaccine can really take enough.
+NEUT8|Impact if enough people actually do take up the vaccine, which we're hopeful about, but I don't think we're ever going back to what was I think, will go into a new normal and that new normal based on what we're seeing.
+NEUT9|And as we think about the future of work, is probably going to be some hybrid of people continuing to work from home and coming into the office.
+NEUT10|Maybe working from home two to three days a week and in the office you know, two to three days a week.
+NEUT11|Some people will forever be at home and others will be more in the office, but the vast majority will be some kind of 3/2 hybrid I think.
+NEUT12|Now all eligible PayPal account holders can now buy, sell and hold cryptocurrency which with a purchase limit of $20,000.
+NEUT13|What kind of demand so far have you seen?
+NEUT14|Yeah, well, we knew we were going to get high demand 'cause we do market research on this before we introduce any product of service and we tried to work hand in hand with regulators to sure that anything that we put into the market around cryptocurrencies was safe and secure and easily understandable by our consumers.
+BULL15|But you know the demand has been overwhelming for it.
+NEUT16|We had somewhere between two and three times what we expected on our waiting list, and I think the really interesting thing that that we talked about is not just being able to buy, hold, or sell cryptocurrencies, but early next year we're going to allow those cryptocurrencies to be used as a funding instrument, just like a credit card or a debit card or cash.
+BULL17|In your account, to be able to purchase at any of our 28 million merchants around the world, and I think that will fundamentally bolster the utility of cryptocurrency, really moving it from.
+NEUT18|Kind of an asset class today too.
+NEUT19|"More of an ability to use it in everyday transactions."""

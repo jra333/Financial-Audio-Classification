@@ -1,0 +1,41 @@
+BEAR0|"""But something that is trading in the red is Bitcoin 16,600 per coin right now off about 2% in today's session."
+NEUT1|Now yesterday we saw Bitcoin was a couple $1000 of value just in a few hours.
+NEUT2|Dan Roberts.
+NEUT3|This is really nothing new for Bitcoin.
+NEUT4|This kind of volatility.
+NEUT5|Everyone got very excited earlier this week that we finally see BTC 20 K. What do you make of this action?
+NEUT6|And I guess what do you make of the contention we heard from Mike Novogratz and others that this is nothing like 2017?
+NEUT7|This is a totally different event for crypto.
+NEUT8|Well, they all hope so right.
+NEUT9|Everyone always hopes that this time will be different.
+NEUT10|Now.
+BULL11|I will admit, given the momentum and sort of the leg higher we were seeing day after day last week, I did expect to get very close to the all time high and we got very close.
+NEUT12|We didn't hit it.
+BEAR13|We got to 19390 on the Yahoo Finance chart and then we saw it go back down.
+BULL14|I certainly thought that once it passed 19,000 we would get to 20,000.
+NEUT15|Now by the way, we should mention different exchanges have a different number for that all time high is.
+NEUT16|But most of them have logs.
+NEUT17|It is under 20,000.
+NEUT18|A couple had about 20,000 I think of, you know, for his 20,000 that's a new all time high.
+NEUT19|We didn't get there, but it's interesting in Bitcoin the way it always trades.
+NEUT20|You hear people talk about resistance levels and in the run up that we've seen in 2020, which by the way started mid March.
+BULL21|I mean, it's been up up up since mid March after initially crashing 25% in the first two weeks of March at the start of the pandemic, but originally in in the early kind of days of that run people were seeing the.
+NEUT22|15,000 level or so, or 16,000 as a resistance level.
+NEUT23|Once we got above that, it looks like we're off to the races, but I think you could look back now at last few days and see around 19 K as another resistance band and once you hit that you had a lot of people start to sell an Bitcoin.
+NEUT24|I think even more so than with stocks.
+NEUT25|It tends to be a situation where buying begets more.
+NEUT26|Buying and selling begets more selling, and maybe that's you know obvious and intuitive, but you know when people start to sell it and then you start to panic.
+NEUT27|Oh no, we're heading down, it starts to get dramatic as our that's how they were going to.
+BEAR28|Back up again or not to say we're not going to back up again because all the factors that fueled bitcoins rise in the last few weeks are still in place, but quite a drop in the last couple days.
+NEUT29|And it's just by exactly three years after that big run.
+NEUT30|Remember Thanksgiving 2017 with everyone talking around their Thanksgiving table about whether Grandma should buy crypto.
+NEUT31|That's right, that was Bitcoin at 10,000 and Jamie have about 30 seconds left.
+NEUT32|I sort of saw the indicator of everyone talking about ether, as may be a sign that things were getting back to the crazy days ripples.
+NEUT33|Price got mentioned a couple of times as well.
+NEUT34|Right?
+NEUT35|Yeah ether is that a very nice friend indeed, although I actually would argue that in the last year so Bitcoin is kind of the end all be all, and obviously it's the largest cryptocurrency by market cap.
+NEUT36|It's the OG.
+NEUT37|I think the conversation is even steered more Tord that Bitcoin maximalism.
+NEUT38|You know you got people in there pumping ether pumping XRP or Ripple as you called it Litecoin.
+NEUT39|All those, and a lot of those have risen.
+NEUT40|"But there's kind of Bitcoin and there's everything else."""

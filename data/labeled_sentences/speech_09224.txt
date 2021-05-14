@@ -1,0 +1,13 @@
+BEAR0|"""A Bloomberg article claims that Americans are forgoing the safety of the dollar for more speculative assets like stocks gold and Bitcoin BTC, because of the COVID-19 lockdown, the personal savings rate in the US is at a historic high."
+BEAR1|The yield offered by the financial institutions on savings accounts, however, is close to zero.
+BULL2|At the same time, assets as Bitcoin equities and gold all have made double digit gains since March.
+BULL3|This is making them an attractive option for investors.
+NEUT4|Source Bloomberg, the article mentions a 28 year old Californian who told the Reporter that he is going to convert his $15,000 savings held in a high yield savings account at Ally Bank into Bitcoin.
+NEUT5|He says that he is doing so because he expects long term economic stagnation.
+BEAR6|The reality is even worse than what the Bloomberg article posits.
+BEAR7|It is no secret that the dollar is rapidly depreciate ING against other leading Fiat currencies.
+BEAR8|In fact, according to the Financial Times July, as the dollars worst month in a decade, Bitcoin and U.S. dollar index dxy July 2020 source trading economics with another round of stimulus checks around the corner and most of the nation's still affected by COVID-19 restrictions, it is possible that this problem will only get worse.
+BEAR9|Americans may likely have more depreciate ING Fiat on their hands in the short term.
+NEUT10|And could seek to convert their Holdings into higher yielding assets.
+NEUT11|However, there is no such thing as a free lunch in the investment world.
+NEUT12|"High return comes with high risk."""

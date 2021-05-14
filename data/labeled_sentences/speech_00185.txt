@@ -1,0 +1,10 @@
+NEUT0|"""I would say that this is a process and also this prevents the problem solved."
+NEUT1|It will go back to the track too.
+NEUT2|Continual consideration according to law.
+NEUT3|However, valuation estimates from Bloomberg intelligence show the damage may already have been done for more, we're going to bring in Asia and investing editor Lu Lu Chen Liu followed this company so closely.
+NEUT4|What was your interpretation then of the comments that we heard from PBOC Governor Egun, the governor, and the implications for an?
+NEUT5|Well, I think what he has said and if you take it into combination with the recent news, the softening of the tone from regulators that we've seen last week, it does mean that Aunt is probably avoided.
+BEAR6|Its worst fate, which is completely shuttering its most lucrative businesses, including the consumer loan business.
+NEUT7|However, that said it does still face a lot of uncertainty.
+NEUT8|For example, in the consumer loan businesses healthcare crowdfunding business.
+BEAR9|"And also even payments, all these draft rules that are being rolled out could still severely curb the growth at these these operations."""

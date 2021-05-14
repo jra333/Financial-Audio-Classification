@@ -1,0 +1,7 @@
+NEUT0|"""Hello everyone, let's take out the Apple stock."
+NEUT1|Today's pattern is very interesting that it shows a hammer pattern.
+NEUT2|A hammer at the bottom of the downtrend sometimes wins.
+BEAR3|The downtrend has been stopped here so it's very likely for.
+BEAR4|Apple stock to make a reverse here because we can see we have stopped at the.
+BULL5|120 year May is a very crucial supporting line and especially we got this long lower shadow with the buyers already stepped in.
+BULL6|"Thank you."""

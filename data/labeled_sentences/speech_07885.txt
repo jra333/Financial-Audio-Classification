@@ -1,0 +1,36 @@
+NEUT0|"""What are binary options presented by wallstreetsurvivor.com and Nadex?"
+NEUT1|Binary options are a form of options trading based on a single question.
+NEUT2|Did a stock index, commodity or forex pair end up over certain price or not by a defined time period?
+NEUT3|The expiration here is how it works.
+NEUT4|Here's Ben, Ben's been watching the price of gold for over a month and even though its current price is $1200, Ben believes the price will rally.
+NEUT5|And be over 12150 by the end of the week with plain vanilla investing.
+NEUT6|Ben would have had to purchase gold or gold alternative like an ETF or futures contract.
+NEUT7|However, with binary options, Ben can simply make a prediction on whether or not gold will be trading higher than 12150 by weeks end without having to acquire the asset.
+NEUT8|With binary options.
+NEUT9|There are only two possible outcomes at expiration, either the price of an underlying asset gold finishes above the specified price at the specified date and time.
+NEUT10|Or it doesn't have expiration.
+NEUT11|The value of the binary contract is $100.
+NEUT12|Refer to as an all or nothing Hilo scenario back to Ben.
+BULL13|So Ben believes the price of gold will be above 12150 by the end of the week.
+NEUT14|So he decides to buy some 12150 gold binary options.
+NEUT15|Contrera Lee.
+NEUT16|If he thought the price of gold would reach 1200 and $50, he would do the opposite and sell 1200 and $50 gold.
+NEUT17|Binary options.
+NEUT18|The trade price of a binary option.
+NEUT19|Ranges from $0.00 to $100 based on the likelihood that asset expires in the money or above the strike price.
+NEUT20|$12150.
+NEUT21|In this case, the likelihood of gold reaching $12150 is 60%, so the option sells for about $26.
+NEUT22|That likelihood is made up of a few variables, like how much the price fluctuates volatility, the time until expiration, and the general market sentiment.
+NEUT23|Ben decides to buy five contracts at $60.00.
+NEUT24|So his initial cost would be $300.
+NEUT25|The maximum trade risk to possibly make $200 profit, Fast forward to the end of the week.
+NEUT26|Bench Premonition came true and gold reaches $1300 in that case, then strayed finishes in the money.
+BEAR27|Then we'll make $40 per contract for a total of $200 as the expiration value will be $500 -- 300 dollar initial cost had the price of gold not clear, 1250 Ben would have lost his entire $300.00 on the trade.
+BULL28|The benefit of binary options is that they can be cheaper and potentially more lucrative than the alternative.
+BULL29|For example, to buy a single ounce of gold, Ben would have had to pay $1200 and Ben's return with binary options was a 67% return, even though the price of gold only rose by 8.3%.
+NEUT30|In this example, the binary is more lucrative, but it also has risk had bed instead bought an ounce of gold and the price did not reach 1250.
+NEUT31|By weeks end he is still left with the shiny ounce of gold.
+BEAR32|With the binary option, Ben would have been left with nothing but a $300 loss.
+NEUT33|For more on binary options, check out the binary options coursepack on wallstreetsurvivor.com brought to you by Nadex.
+NEUT34|Note the examples in this video do not include exchange rating or expiration fees.
+NEUT35|"Futures options and swaps trading involves risk and may not be appropriate for all investors."""

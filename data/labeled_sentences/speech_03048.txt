@@ -1,0 +1,44 @@
+NEUT0|"""Alright, well let's move on to Facebook."
+NEUT1|It's another big story that we are tracking today in Facebook and other big tech Giants are front and center on Capitol Hill.
+NEUT2|Now with the House Judiciary Committee launching its investigation into their market dominance.
+BULL3|But despite the uncertainty about future regulations, Moffett Nathanson upgraded the stock, saying that regulatory risk is already priced in.
+NEUT4|But growth, however, is not.
+NEUT5|Dan Howley is on the story and did mean Moffett.
+NEUT6|Nathanson at least isn't worried about regulations.
+NEUT7|There's been lots of talk out there about how big of an impact these supposed regulations.
+NEUT8|Will have on these big tech Giants.
+NEUT9|What do you think?
+NEUT10|I think you know it's all fine and dandy to say you're not worried about regulation Now, but it remains to be seen whether or not will see it.
+NEUT11|And one of the ways that we could see it is breaking up Facebook entirely and having it split into its three components.
+NEUT12|That would be Facebook, the app itself, WhatsApp and Instagram, and if that happens then you know obviously the stock price would naturally take a hit.
+NEUT13|I just don't see how you can say that.
+NEUT14|The regulatory potential regulatory.
+NEUT15|Action is priced in when we haven't even really seen what could happen going forward.
+NEUT16|And you know, there is some talk of.
+NEUT17|Maybe there's an overreaction or or maybe we won't see a full breakdown of the company and that you know.
+BEAR18|I mean, I don't necessarily think that that will happen, but it's still a possibility and I think that saying that it's already priced in is kind of simplifying it too much.
+NEUT19|Dana Mother, Nathan, said in that note said that antitrust actions on Facebook seem unlikely.
+NEUT20|Do you agree with that?
+NEUT21|I don't think it seems unlike.
+NEUT22|Well, I it's.
+NEUT23|It's unlikely in the sense that you know the companies themselves will break up well.
+NEUT24|We'll probably still see a singular Facebook, but what we will see.
+NEUT25|Besides that though, is the potential for regulation that would deal with privacy that could deal with some kind of free speech matter.
+NEUT26|I know that's something that a lot of the conservative people in Congress are bringing up, so you know, we will see something going forward.
+NEUT27|There are too much of a political football right now.
+NEUT28|To have no action taken, I think them and Google will face something, but Facebook really is the one that's kind of lined up to get hit with some kind of reform regulation going forward day in the second part of this call, they were saying that future growth opportunities are not yet priced in.
+NEUT29|What do you think are Facebook's long term growth opportunities at this point?
+NEUT30|I really think it's still at this point.
+NEUT31|Instagram.
+BULL32|Facebook can still expand across the world.
+BULL33|Instagram as well can expand across the world Facebook.
+NEUT34|Has 2 billion plus monthly active users.
+NEUT35|Instagram isn't there yet.
+BULL36|If they can expand that, continue to grow it.
+BULL37|Right now, they're working on adding a easier shopping experience on Instagram that could add more to Facebook's value and then WhatsApp if they can get more people specifically in the US to use WhatsApp.
+NEUT38|Not many, use Whatsapp's as they do internationally.
+NEUT39|So if they can grow it here at home rather than having them lean on iMessage or apples messages, apps or Facebook messages, then they could see.
+NEUT40|More growth, but it really is at this moment.
+NEUT41|Instagram all right.
+NEUT42|Dan hally.
+BULL43|"Thanks so much for breaking that down for us."""

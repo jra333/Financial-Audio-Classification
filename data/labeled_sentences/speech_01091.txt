@@ -1,0 +1,33 @@
+NEUT0|"""Let's just start with first principles, Jed."
+NEUT1|Good morning on Tesla.
+NEUT2|Is it an auto company or a technology company or something different?
+NEUT3|So good morning, I think if you asked Elon, they'd say that they're an energy company.
+NEUT4|I think you know if you look at the signs and how this company is developing, its developing to look a bit more like an auto.
+NEUT5|So going forward, is it basically coming into this earnings period with a bar that is just so high that there is no way that could meet expectations today?
+BULL6|Well, I think just from a level set perspective, we've already got the delivery numbers.
+NEUT7|And Speaking of a bar set high, so you're likely to see Elon Stick to sort of that 500,000 delivery number.
+BEAR8|We think that's a virtual impossibility for Q4, 'cause that would imply 100 and 85,000.
+NEUT9|Which would be a level that not only is historically a peak, but it's about 50,000 over what they've ever been able to deliver.
+NEUT10|So if you kind of take that out of the equation and say, well, you know, maybe they strive to that, but we're likely to get sort of that 180 type number, which is still a great result.
+NEUT11|Then I think the conversation is likely going to pivot to that of cost structure.
+NEUT12|Zooming out it, Tesla is not a story of a balance sheet.
+NEUT13|Is it is a story of faith?
+NEUT14|It is a story of the believers, the naysayers and it has been continually, is there a broader story in Tesla?
+BEAR15|Indication of froth in markets in the eagerness for some sort of new winner in the United States?
+NEUT16|Or is this really worth what it's being said?
+NEUT17|It's worth in the market, San, really.
+NEUT18|It is still more of a balance sheet story than the Faith story that many people think it is.
+NEUT19|Well.
+NEUT20|I mean couple points there.
+NEUT21|That's probably a fair argument.
+NEUT22|For many stocks you know in 2020 now that being said, I would say four 2020 Tesla is a bit of a balance sheet.
+BULL23|I mean they have successfully raised decent amount of money to shore up what was their their obvious?
+NEUT24|Weak spot, however, the point that I think you're going tordsson raising is one of which I was mentioned in terms of cost structures.
+NEUT25|So is it an energy company?
+NEUT26|Is it a technology company or is it an auto company was in it?
+NEUT27|How you open that?
+NEUT28|And I think there it's really going to depend on what the margin profile looks like and that is where I think all eyes are going to be today as well as next quarter too.
+NEUT29|Can they deliver these unit?
+NEUT30|Volume numbers and actually make money and or are we going to see competition that's coming into the market and a need to try and drive down cost structure faster than they might be able to do?
+NEUT31|And does that result in margin compression?
+NEUT32|"And I think that is going to become the bull bear if you will as we go into 2021."""

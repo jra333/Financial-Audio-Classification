@@ -1,0 +1,21 @@
+NEUT0|"""On Wednesday, Goldman Sachs will unveil its new list of partners, an accolade that has near mythical status on Wall Street."
+NEUT1|If you're going to work in financial services and not put any net worth on the line, there is no greater opportunity than working at Goldman and being one of those 400 or so partners.
+BEAR2|Now this year we're expecting about 100 new people to be called into the partnership, which is slightly less than previous years for the MD's, who don't make it.
+NEUT3|Typically, they're taken aside and given a quiet word, but for those who receive good news, it tends to come in the form of a call from Goldman Sachs Chief Executive.
+NEUT4|One partner said he received such a call from Lloyd in 1998, while Lloyd told him don't tell my wife this.
+NEUT5|But being named partner was the greatest day of my life.
+BULL6|Aside from the status, there's obviously huge economic benefits because the partners get to divvy up the bank's profits and take a shower in them.
+NEUT7|In 2011, Partners took home between 3,000,000 and six and a half million.
+BULL8|But in previous years this has been substantially higher.
+NEUT9|So in 2007, for example, Lloyd Blankfein took home $70 million.
+BEAR10|This year we're expecting paid to be down a bit, given the pressure that banks are facing from tough markets and regulators.
+NEUT11|There are three main things that Goldman look for when they're deciding on who to make partner.
+NEUT12|These are commercial effectiveness, your entrepreneurial skills, and your culture and values.
+NEUT13|Now these three things are weighted equally, but we're told that unofficially, commercial effectiveness is the most important, because it helps you stand out.
+NEUT14|The partner we spoke to said that when he was going through a family crisis, he could no longer juggle this with working at Goldman Sachs.
+NEUT15|So he left to join a rival.
+NEUT16|He said that working at this rival was like working at Summer Camp, having been part of the Special Forces for those that don't make it, it's not all bad news.
+NEUT17|As a managing director, you're probably better off in the difficult years because the partners take the first financial hit.
+BEAR18|For instance, in 2008, their pay was down about 80%.
+NEUT19|Ultimately, this list is important because these new partners are the future leaders.
+NEUT20|"So on Wednesday will get a glimpse into how Goldman Sachs views its future."""

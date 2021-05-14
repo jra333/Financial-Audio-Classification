@@ -1,0 +1,11 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the instant P 500 and you can see that."
+NEUT1|Nothing.
+NEUT2|Absolutely nothing is going on on Monday.
+BULL3|We're up 1/10 of a percent.
+NEUT4|Quite frankly, shouldn't be a huge surprise.
+NEUT5|We're going to be focused on the holiday is more than anything else.
+NEUT6|This time of year.
+NEUT7|So I look at pullbacks as potential buying opportunities.
+NEUT8|But quite frankly don't be surprised at all if that's more of a January story.
+BULL9|I anticipate that 3100 will be supportive now that the 50 day MA is there, and if we do break higher than 33, will be the next target, but.
+NEUT10|"Barring some type of news event that seems to be very unlikely, at least in the next few days."""

@@ -1,0 +1,11 @@
+NEUT0|"""We bring you the answers to all your questions, be better than others."
+NEUT1|Enjoy the benefits of knowledge except the answers from us.
+NEUT2|Disney stock is not a buy right now, but could be one worth watching.
+NEUT3|Keep it on your watch list and be on the lookout for a new buy point.
+NEUT4|Don't forget to watch the market to the current bear market.
+BEAR5|Makes any stock purchases highly risky.
+NEUT6|Our mission is to provide accurate answers.
+NEUT7|We think without knowledge it is impossible to live a balanced life.
+NEUT8|Be competent, be skillful.
+NEUT9|Thank you for watching.
+NEUT10|"Don't forget to subscribe and hit the Bell notification."""

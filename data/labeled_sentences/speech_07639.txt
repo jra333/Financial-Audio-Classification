@@ -1,0 +1,35 @@
+NEUT0|"""OK, so in five."
+NEUT1|Yeah, my name is Jimmy.
+BEAR2|Sorry Rademacher from Omaha.
+NEUT3|Is there any point at which your stock would rise to the point where you might split the stock?
+NEUT4|Surprise, surprise.
+NEUT5|I think I'll let Charlie answer that this year.
+NEUT6|He's so popular with the shareholders that I can afford to take the tough questions.
+NEUT7|I think the answer is no.
+NEUT8|I think the idea of carving ownership, sannon enterprise and a little tiny $20 pieces is almost insane.
+NEUT9|It's quite inefficient to serve as a $20 account and.
+NEUT10|And.
+NEUT11|I don't see why there shouldn't be a minimum.
+NEUT12|As a condition of joining some enterprise, certainly we'd all feel that way if we were organizing a private enterprise.
+NEUT13|Yeah, we would not carve it up in $20 units.
+NEUT14|We find it very.
+NEUT15|It's interesting because.
+NEUT16|Every every company finds a way to fill up its its common shareholder list.
+NEUT17|And you can.
+NEUT18|You can start with the Asian work through disease and you know every company in their Stock Exchange one way or another has attracted some constituency of shareholders.
+NEUT19|Anne, frankly, we can't imagine imagine a better constituency than is in this room.
+NEUT20|I mean, we we have.
+BULL21|We don't think we can improve on this group and we followed certain policies that we think.
+NEUT22|Attracted certain certain types of shareholders an actually pushed away others and and that is part of.
+NEUT23|Part of our eugenics program here at Berkshire.
+NEUT24|Yeah, just look around this room and as you mingle with one another, this is a very outstanding group of people.
+NEUT25|And.
+NEUT26|Why would anybody want a different kind of a group?
+NEUT27|Yeah, if we 'cause if we if we follow some policies that cause a whole bunch of people.
+NEUT28|To buy Berkshire for the wrong reason, the only way they buy it is to replace somebody in this room or in this larger metaphorical room of shareholders that we have.
+NEUT29|So someone in there, someone at one of these seats gets up and somebody else walks in.
+NEUT30|Question is, do we have a better audience?
+NEUT31|I don't think so.
+NEUT32|So I think that.
+NEUT33|Like Charlie's.
+NEUT34|"Charlie said it very well."""

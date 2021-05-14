@@ -1,0 +1,36 @@
+BULL0|"""You know, I do think we're potentially do for software reading on jobs."
+BEAR1|Given that last month was so strong we had 263 thousand jobs created last month.
+NEUT2|So some mean reversion makes sense and we want to look at a moving average in that respect.
+NEUT3|But I think we're really all worried about is a confident shock.
+NEUT4|So how quickly is uncertain?
+BEAR5|T going to pick up in the economy given the trade escalation.
+NEUT6|And then how does that feed into the broader economy?
+BEAR7|Will you see companies delay hiring and adding to their workforce because they don't know what the future is around trade?
+BEAR8|And we've definitely Andres had that shock that manufacturing survey showed it.
+NEUT9|Although the services number OK?
+NEUT10|Today was OK. What do you?
+NEUT11|I mean listen?
+NEUT12|I think companies just don't know what to do in this environment, right?
+NEUT13|So it's an open question.
+BEAR14|So every incoming data point about a slowdown look at the reaction in the in the two year yield this morning.
+BULL15|That thing was above 2.1% on Sunday.
+BEAR16|It's below 1.8% now.
+NEUT17|Do you think a rate cut in June is on the table?
+NEUT18|Well, I think the issue with the Fed now basically saying well trade is going to dictate a lot of what we do is that if they actually cut, you know, let's play this movie forward and they actually do cut.
+NEUT19|That's going to send potentially a message to the market of saying what we're really big trouble if the feds actually cutting rates, so we might actually know the market loves they love these, right?
+NEUT20|Yeah, they do until they don't until they actually say, wow, we must.
+BEAR21|We must be going into a recession here.
+NEUT22|If the fate has to cut, so I worry of this idea of getting the Fed now trying to, you know.
+NEUT23|Basically forecasts what next week is going to come out to the side where they do it, what interest rates.
+NEUT24|But I do agree that a lot of it is going to be a little bit of will we get scared of their own shadow basically, which feels a little bit like it's happening now, Jason.
+NEUT25|Little too early to tell, isn't it?
+NEUT26|Is it too early for us to even be having this discussion about a rate cut in June?
+NEUT27|Or if Friday's jobs report comes out and disappoints, and even then?
+BULL28|I mean we started the year adding 312 K in the last two months.
+NEUT29|We've added 225, you know, it doesn't really.
+NEUT30|It doesn't really point to us falling out of the Sky here.
+NEUT31|Exactly, I think you can point to the volatility of these month by month numbers.
+NEUT32|Michelle knows that as well as anybody.
+BEAR33|The reality is the jobs picture in the United States remains really, really strong.
+NEUT34|Maybe one of the brightest points in the global economy.
+BEAR35|"Yeah, I think what we're seeing here is a quote, unquote data dependent fed that data dependence he has become so extreme it's actually adding volatility in the marketplace, and I think that's the real problem for both the market and for college."""

@@ -1,0 +1,32 @@
+NEUT0|"""We're going to analyze Apple as an investment, and we're going to do it all in 90 seconds."
+NEUT1|You want to keep up with stocks, but you don't have the time to read a lengthy report on every company that interests you.
+BEAR2|You're busy.
+NEUT3|I get it.
+NEUT4|I respect that.
+NEUT5|So I took the most important considerations from my research and packed it into 90 seconds.
+NEUT6|Use this to decide if it's worth your time to research further to keep up with stocks you already own or to just check in with some of the largest companies in the world.
+BULL7|Fair warning, I'm obviously going to go fast.
+NEUT8|Let's put up a Clock.
+NEUT9|And let's do this.
+NEUT10|Apple designs, manufacturers and markets mobile communication, immediate devices, personal computers, and other related goods and services.
+NEUT11|It currently holds the title of the largest company in the world.
+NEUT12|As of this taping has a market capitalization of around $927 billion.
+NEUT13|It has a share price of around $190.00.
+NEUT14|Here a couple reasons you might want to consider owning Apple.
+BULL15|Apple has consistently proven itself efficient with their resources.
+NEUT16|For example, there are.
+BULL17|We last year was 42% versus the industries 10% an apples next year is expected to be 65%.
+NEUT18|There are away last year was 14% versus the industry is 5% and the return on capital is 25% because of it's over $250 billion in cash reserves.
+NEUT19|Apple has a lot of options going forward.
+BULL20|Most recently they announced a $100 billion stock buyback program and a 16% dividend increase, which now sits around 1.5%.
+NEUT21|Both of these actions were designed to show shareholders that the company is acting in their best interest, and although they've increased their debt from $0.00 in 2013 to more than $120 billion today, in part to fund some of those shareholder focused actions, the debt is well covered by operating cash flows, and Apple still earns more interest than it pays, so coverage of interest payments is not a concern.
+NEUT22|But here are a couple reasons to not own Apple based on its price to book value, Apple appears overvalued with ratio of seven compared to the industry and markets too.
+BEAR23|Apple's earnings growth is expected to be relatively low at 4% compared to the tech industries 8%, and the market's 12%.
+BEAR24|A lot of investors point Apple's PE ratio of 18 to prove that the stock is undervalued relative to other large tech companies like Google or Facebook for example.
+BEAR25|And then there are others who argued that the discount is justified as Apple does not have quite as big a Moat or barriers to entry as Google and Facebook do.
+NEUT26|What do you say, bye or no?
+BULL27|Do you think Apple deserves evaluation on par with its large tech peers?
+NEUT28|I look forward to continuing this discussion in the comments and if you found this helpful and would like to see more, be sure and let me know by leaving a like.
+NEUT29|And don't forget to subscribe and click the Bell so that you can keep up with all the companies we cover as we continue to help you build your rapidly growing, highly diversified net worth.
+NEUT30|I'll see you in the next one.
+NEUT31|"Take care."""

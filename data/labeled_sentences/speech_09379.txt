@@ -1,0 +1,29 @@
+BULL0|"""Play in this new environment where we've had interest rates held low for a decade by aggressive monetary policy."
+NEUT1|I would say this, but I think the inverted yield curve certainly has a very high batting average for being predictor of a recession.
+NEUT2|Unfortunately, it's not just a predictor, it's causal, and the reason for that is financial institutions.
+BEAR3|Banks stop the lending process if they can't borrow short and lend long and make a profit, that just it slows down economic activity.
+NEUT4|But I will tell you this because they yield curve is flattening, it doesn't need to invert, and there's three things I think that can happen.
+NEUT5|And any one of them could help.
+NEUT6|I think the composition of the balance sheet that Feds got a $4 trillion balance sheet if in fact the roll off starts to focus more on the on the front end of the curve then the back end of the curve then you could see some spreading there.
+NEUT7|If the Treasury new issuance focused less on the front end and more on the back of the curve, you could certainly see some spreading out there and then the third thing is we may not be the only central bank that's raising rates at some point in time, either by the end of this year at the start of next year.
+NEUT8|And that's what's really kept the long end of the curve down where the only central bank that's.
+NEUT9|Take away accommodation.
+NEUT10|So are two years matching our monetary policy.
+NEUT11|Whereas our 10 year is really anchored to what's going on and global interest rates.
+BULL12|If you saw any uptick, the ECB starts to take some accommodation away in the fourth quarter, the first quarter you might see a lift there and that could broaden out.
+NEUT13|So just because we're flattening doesn't mean we need to invert.
+BEAR14|But in version would be bad in the feds playing very close attention to that.
+NEUT15|So it seems like you kind of agree with the San Francisco Fed yesterday, so this is what they said in one of their papers.
+NEUT16|They said there's no clear evidence in this data that this time is different, or that forecasters should ignore part of the current yield curve flattening because of the presumed.
+NEUT17|Macro financial effects of QE.
+NEUT18|They basically tried to strip that out and just look at expectations and they said look, it doesn't matter why the long end is down, it just matters.
+NEUT19|If you invert and that either way you're looking at a recession risk.
+NEUT20|What part of the curve?
+NEUT21|So I don't know if you guys can understand this.
+NEUT22|Also, I'll kind of go over it, but basically if the yields continue to go up, it's very very likely that crypto prices will go up, but it's just not crypto.
+BEAR23|I do feel like the entire U.S. economy and global economy will go into a recession and it will make commodities like crypto much much more attractive.
+NEUT24|The problem is this is all controlled by central bankers and no one can really predict what they're going to do, so it's important to pay attention to the news and see what happens.
+BEAR25|They are forecasting that there will be hikes and small hikes, but at the end of the day it's once again something you cannot predict, and definitely if the cost of debt continues to go up, we are the most leverage we've been since the financial crisis, if not more, and we will definitely see an economic correction, so it doesn't make sense that the central banks will allow this.
+NEUT26|But at the same time, they don't want to deal with inflation, so it's kind of like a double edged sword.
+NEUT27|But let me know what you guys think about this.
+NEUT28|"And I will talk to you soon."""

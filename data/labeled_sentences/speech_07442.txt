@@ -1,0 +1,9 @@
+NEUT0|"""August 30th is in the books."
+BEAR1|This is the New York Minute Wall Street slip for the 4th day.
+BEAR2|In the past five with a modest decline in the S&P 500, driven by cell, often rate sensitive utilities, all eyes are on U.S. economic data, particularly unemployment report due on Friday, and what that means for the Federal Reserve report on Tuesday showed a jump in consumer confidence in the US to its highest level in nearly a year, and economists are now looking for Friday's report to show 180,000 jobs were created last month.
+BULL3|Expectations of a rate rise in September of stabilized at about 1:00 and three up from one in five at the start of the month.
+BULL4|That's lifted financials for the fourth consecutive day with the S&P 500 financial index up another zero point, 8% reaching the highest level since last December.
+BULL5|Increased interest rates in the US are expected to be a boon in the industry, which depend on higher margins on loans.
+BEAR6|By contrast, gold slid 1% to $1311.00 an ounce as the precious metal came under broad selling pressure.
+BEAR7|It settled at its lowest price since the Brexit vote.
+BEAR8|"Meanwhile, in Treasury markets, the old curve steepened, while commodity investors watched crude slide 1.5% or racing gains from earlier in the trading day, and that is the New York Minute."""

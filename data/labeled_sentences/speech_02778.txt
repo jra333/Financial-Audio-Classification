@@ -1,0 +1,18 @@
+NEUT0|"""Hello everybody, let's take a look at today's top winners and losers and the most implied volatility stocks here."
+NEUT1|We got 300 stocks.
+BULL2|They're all doing some incredible stuff here.
+NEUT3|They either drop in, they're going down, or they're they're shooting up like a rocket like this number one today at you TME.
+NEUT4|2000 and above IPO.
+NEUT5|It's only two days old, it's a.
+NEUT6|Mobile phone company.
+NEUT7|So anyway, they produce mobile phones anyway.
+NEUT8|Here's a good look at everything, so please take a look and see what's going on today, April.
+NEUT9|7th, we got less than an hour of market time left.
+BEAR10|Everything's kind of slowed down.
+BEAR11|The day hasn't been so great for the stocks.
+NEUT12|About 4000 up in 2000 down today, so are 2000 up and $4000.
+BEAR13|It's not a great day for the stock market.
+NEUT14|But please feel free.
+NEUT15|To use this information.
+BULL16|And good luck to you guys.
+BULL17|"Hope you're all winners and take care."""

@@ -1,0 +1,17 @@
+BULL0|"""Morgan, there were 600,000 millionaires created just in the last year in the US as the stock market and rising interest asset prices more than made up for the losses during the pandemic, the number of American households with 1,000,000 or more in investable assets hitting a new all time high of 11.6 million."
+NEUT1|That's according to a new report from the Spectrum Group.
+BULL2|There was strong growth up and down the wealth ladder households worth over $100,000.
+NEUT3|We call those the mass affluent.
+NEUT4|They grew by half a million and the population of Ultra wealthy.
+BULL5|Those are with 25 million up, they grew by 18,000.
+NEUT6|There are now over 200,000 households worth 25 million or more over the long term.
+BULL7|The number of American millionaires has more than doubled since 2000.
+NEUT8|An 8 now US households as a whole and did 2020 with a record 130 trillion in total wealth with equity markets alone adding $5 trillion in wealth to American households just in the fourth quarter.
+BULL9|And guys, we've seen that continue.
+NEUT10|This year, I mean, when you see that it is hard to argue with the thought process, at least behind a wealth tax.
+NEUT11|Even if the wealth tax isn't the best way to execute it, and there's other ways they discuss the the gap is just growing and is enormous.
+NEUT12|Yeah it is, although with the stimulus checks going out this weekend and that vast new $1.9 trillion, most of which will go to the bottom half.
+NEUT13|It does balance it out.
+BEAR14|But you're right, this is just going to generate more discussion about those at the top gaining even more.
+NEUT15|Shepard Smith here.
+NEUT16|"Thanks for watching CNBC on YouTube."""

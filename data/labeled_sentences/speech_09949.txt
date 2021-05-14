@@ -1,0 +1,22 @@
+NEUT0|"""Right there we're going to go to Jerrod Blicker."
+NEUT1|He's got earnings for us from HPE Jerrod.
+BULL2|Yeah, nice boosting their full year for forecast here and we'll get to those numbers in a second first.
+NEUT3|I want to go over there first quarter results.
+BULL4|Net revenue coming in, and it's nice beat 6.83 billion down slightly year over year, but it is higher than what Wall Street estimated.
+NEUT5|6.74 billion.
+NEUT6|And in that computing revenue that was 2.9 billion.
+NEUT7|Estimate was for lower at 2.85 billion.
+BULL8|So beat their storage revenue.
+BULL9|It looks like that's in line.
+NEUT10|Intelligent edge coming in with a beat up 806 million.
+BULL11|Financial services revenue also beating 860,000,000 and then on the adjusted EPS side their bottom line estimate was $0.41, but they beat that came in at $0.52.
+BULL12|Also, operating margin quite a bit higher than expected.
+NEUT13|11.3% estimate was for 9.3%.
+BULL14|Finally, cash flow from operations about 1 billion and that is up 1 billion from the prior year period.
+BULL15|Now for their full year forecast, they're seeing adjusted EPS at $1.72 a Dollar 88.
+NEUT16|And the low end of that range is actually with the streets estimate.
+BULL17|So nice deep their free cash flow.
+BULL18|Another crucial key metric there that's coming in at one point 1 billion to 1.4 billion for the full year.
+NEUT19|That's what they're seeing previously.
+BEAR20|They only saw 900,000,000, and the estimate by the street was at the low end of the companies range 1.1 billion.
+BULL21|"So really all all around pretty good report here, and we're seeing the stock now up about 2% in after hours trade."""

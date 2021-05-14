@@ -1,0 +1,16 @@
+BULL0|"""Earlier this week we saw the first signs of cooperation between OPEC and non OPEC oil producers since the start of the oil price crash more than 18 months ago."
+BEAR1|Saudi Arabia has agreed alongside Russia, who's the biggest oil producer outside of OPEC and Qatar and Venezuela to freeze production at January levels.
+BULL2|If they are joined by other oil producers that could be geared towards trying to get the price back up after it fell by more than 70% over the last 18 months.
+NEUT3|Now the deal at this stage is provisional.
+BULL4|They've said that to actually go ahead with the production freeze they expect to see the agreement of other large producers.
+NEUT5|Now that primarily means Iraq and Iran, two of the largest producers in OPEC, besides Saudi Arabia.
+NEUT6|So far, what we've seen is that neither Iran or Iraq have agreed to.
+NEUT7|This deal.
+NEUT8|Will.
+NEUT9|Also, they have not ruled it out entirely.
+BULL10|Most of the noise is coming out of Tehran and Baghdad about should be relatively positive towards this agreement, leading many to believe that this could be laying the groundwork for future cooperation.
+BEAR11|The market is largely been split.
+BULL12|It did come at a time when the market wasn't really looking for an agreement to come from Russia and Saudi Arabia, partly because both sides are so split over the Civil war in Syria right now.
+BEAR13|So many people see this is just window dressing by two of the biggest players, perhaps looking to raise up the price and still a little bit of confidence back into the market which has been hammered by this collapsing prices.
+BEAR14|However, others see this is significant shift from Saudi Arabia, which prior to this moment have been adamant that there would be no change to its production levels.
+NEUT15|"Unless it had the agreement of all other large producers."""

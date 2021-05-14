@@ -1,0 +1,20 @@
+NEUT0|"""Pepper food service could look back 2017."
+BULL1|With some pride it shares a 924% higher than they were on January, the first.
+BULL2|It now has a market value over a billion dollars and is on course to end the year as the best performing stock in Japan's Topix index.
+NEUT3|Not bad for a chain of steak and burger restaurants that makes a virtue of denying its customers chairs for investors with a taste for hidden gems, pepper share price chart is appetite.
+NEUT4|Whetting, a parable of what can happen to the right Smallcap Japanese stock.
+NEUT5|When it explodes from obscurity hits the right note with customers and perhaps most important, rises from the Tokyo Stock Exchange second section to the big leagues of the first section.
+NEUT6|The sense of treasure hunting upside is all the more delicious becaused in common with so much of listed Japan pepper is not covered by a single sell side analyst even now promoted to sit among the 2029 stocks that constitute the topics it is in good, an analyst free company.
+NEUT7|Some 42% of companies in Japan's flagship stock index have no coverage at all.
+NEUT8|The contrast with the S&P 1500 composite in the US could not be more stark.
+NEUT9|Just five point.
+NEUT10|7% of the S&P 1500 have two analysts or fewer and over 20% of 21 analysts or more.
+NEUT11|2/3 of the companies in the topics, Meanwhile, are covered by two analysts or fewer, and only 1% are covered by 21 or more feed into the mix.
+NEUT12|The performance of the Jazz Dacan TSE two indices this year.
+BULL13|Both would reputations as prime hunting grounds for small cap gems and up 39% and 32% respectively, and you have what appears a compelling case for a fishing expedition in the uncharted depths of Japan.
+BEAR14|Small cap universe, but that may be a big mistake.
+BULL15|Worn CLS, says Nicholas Smith, prodding at the stability of the current euphoria.
+NEUT16|Yes, there may be undiscovered gems aplenty.
+BULL17|The small caps of mostly outperformed since 2000, and relative valuations are close to all time highs.
+BEAR18|But the boom has been fueled by a generation of investors that do not remember the last liquidity crunch and how spectacular volatile Japanese Smallcap liquidity can be in a pinch.
+NEUT19|"As with the nation's favorite steak restaurant, what looked juicy on the menu can suddenly turn out to be very, very dry."""

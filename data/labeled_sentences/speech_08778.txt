@@ -1,0 +1,39 @@
+NEUT0|"""Let's bring in Ken Vanleeuwen."
+NEUT1|He's managing director and founder of Vanleeuwen, an company Ken.
+NEUT2|There's a number of dynamics at play here.
+NEUT3|On the one hand, you've got the hope of this vaccine being rolled out as early as Monday or Tuesday.
+NEUT4|You've also got the stimulus talks, which don't seem to be making a whole lot of headway.
+NEUT5|What's catching your eye?
+NEUT6|As you look to the market action right now?
+NEUT7|Well, I think one of the things we're seeing in Chico is that we're seeing a frankly a rotation from stay at home out of state home stocks, frankly into story stocks.
+BEAR8|You know, we're seeing definitely profit taking in the in the names like Lululemon, Nike, Microsoft and a cheat code.
+BEAR9|Just for example, today Disney with its wonderful news, is frankly accounting for 135 Dow points, so the Dow would be down a whole lot more if it wasn't.
+NEUT10|For the Disney news today.
+NEUT11|Yeah, I mean we're talking about this.
+NEUT12|Can you?
+NEUT13|Earlier today we were kind of trying to factor in what the expectations of the vaccine rollout.
+NEUT14|Actually our new Deutsche Bank Investor Survey was looking at how that's labeled the number one risk here.
+NEUT15|2 global financial markets.
+BEAR16|According to their survey, virus concerns on the top, not just the vaccine, not necessarily being effective, but also that it could mutate and Dodge the vaccine efforts here.
+NEUT17|Considering those are the highest risks if things do go well, once your expectations for maybe moves to the upside next year.
+BULL18|An you know we're looking for probably a GDP of between 4 to 5% next year.
+NEUT19|So we're actually very enthusiastic about what the prospects for next year could be.
+NEUT20|You know.
+NEUT21|Again, we're kind of seeing that will not necessarily today, but earlier this week last week, in terms of the swing into reopening stocks, clearly, I mean some of the rails.
+NEUT22|Some of the.
+NEUT23|Of course, the airlines, the cruise lines, so we some see some really good things happening for the economy.
+NEUT24|Right now, of course we're being held back.
+NEUT25|The day-to-day news, of course, is stimulus that we're not seeing anything of that sort.
+BULL26|So I think that's weighing on a little bit investors mind, and I also think while you know that we're going towards the Holidays and markets tend to quiet down anyway, so I think we're seeing that a little bit as well too.
+BULL27|Can you mention the airlines and certainly not a good day today, at least when you look at names like JetBlue as well as well as American Airlines, it feels like they've kind of hit this bump yet again at a time when they were starting to see travel return, especially because now we're seeing real concerns in terms of the rate at which this virus is spreading and the rate at which people are being hospitalised.
+NEUT28|Is this still a good time to get in or you think investors see should wait until a few more weeks here with more downside to come?
+NEUT29|You know, we generally believe we should wait a little bit before we really commit to the airlines.
+NEUT30|Chico.
+BULL31|I think that you know they've had a really good run.
+BULL32|Some of these companies and maybe today is a little bit of profit taking, you know, but I think that the news longer to them longer term for them or next year should be very good.
+BULL33|I mean, I think there's a lot of pent up demand for travel again, but it looks like a lot of the governors here in the Northeast.
+NEUT34|Are basically shutting down the economy and you know for indoor dining through the Holidays.
+BEAR35|So again a little bit of pessimism out there.
+NEUT36|And I think investors are sensing that.
+NEUT37|Alright, can Vanleeuwen managing director and founder of Vanleeuwen Company Appreciate you coming on to chat that today?
+BULL38|"Be well, have a great weekend for the opportunity."""

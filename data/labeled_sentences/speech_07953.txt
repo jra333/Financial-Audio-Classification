@@ -1,0 +1,17 @@
+NEUT0|"""Well, net income is the bottom line, the so-called bottom line, that you hear all the time uses an analogy to talk about."
+NEUT1|You know what really counts or give me the bottom line.
+NEUT2|Give me the summarize the story.
+NEUT3|For me.
+NEUT4|That's straight from accounting and the bottom line in investing is net income.
+NEUT5|What is net income?
+NEUT6|It's simply the Prophet left.
+NEUT7|If there's any after you deduct all of the costs out of those sales, so the top line is sales, the amount of money your lemonade stand took in this month.
+NEUT8|And now you have to pay for the lemonade you have to pay for the stand.
+BEAR9|The repair, because Uncle Edgar actually backed into it with his truck as he was trying to pay you.
+NEUT10|$0.10 for lemonade.
+NEUT11|By the way, you underpriced attend sense.
+NEUT12|You have to get all those costs, the money you borrowed from an Edna in order to even start this business or hire your friend, Ralphie, who drinks half the lemonade himself.
+NEUT13|Anyway, these are all costs that you end up having to pay out before you actually get to net income.
+BULL14|Now, if you did get to the net income, the bottom line, that's a glorious achievement.
+NEUT15|Many businesses fail to do it a lot of small business startups we here.
+BEAR16|"80% of them typically fail often because they never end up generating net income."""

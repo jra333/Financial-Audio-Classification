@@ -1,0 +1,23 @@
+NEUT0|"""Tell us why analysts are raising price targets for LG Chem?"
+NEUT1|And what are the expectations for second quarter earnings?
+NEUT2|Sure, these says they concur.
+BULL3|Earnings will be the market estimates basically an it's because LG will generate the highest quarterly profit for the second quarter, mainly because of its easy Berry business.
+NEUT4|I mean electric vehicle, battery, business and its market share.
+BULL5|As you said in EV battery industry rose to almost 25% in the world, which is the highest among the peers.
+NEUT6|And Delta says it has a lot of customers in Europe as well and it's.
+BULL7|Not just the supply for as you said for Tesla, but it has.
+NEUT8|It has a bunch of customers in Europe and and there you know our countries there are expending a lot of you know subsidies for the customers for Ed and then so we have a lot of reasons why.
+NEUT9|You know investors are focusing on this target and one of them is.
+BULL10|It is even increasing its capacity.
+BULL11|It aims to expand its capacity to 120 giga Watt hours next year and that's why it is now holding.
+NEUT12|More than $120 billion of orders for ECB Berry.
+NEUT13|He didn't add some though.
+BEAR14|Some investors worry that competition is getting tough amongst these battery makers.
+NEUT15|Also questioning the growth of the electric vehicle industry itself, aren't they?
+NEUT16|Yes, that's correct.
+NEUT17|I just said competition is pretty tough.
+NEUT18|We have more than 10 EV battery makers in the world and another worry is a Tesla, you know, may announce a new battery supplier at this event in assembly in September, which is called Barry Day and then another concern is, as you said, the global EV industry is still so tiny.
+NEUT19|It accounts for like the total revenue in the EV industry in the world.
+NEUT20|Accounts for only 3% in the global auto industry so but so.
+NEUT21|But that's ironically if you see the potential that means it has.
+BULL22|"The EV industry has significant growth potential."""

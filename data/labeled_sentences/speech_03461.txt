@@ -1,0 +1,32 @@
+BULL0|"""I think both commercial vehicles and personally owned vehicles are going to be very important over the next couple of years."
+BULL1|If there's more, as there's more vehicles out, which as you know we plan to have 30 electric vehicles out by 2025, that's going to give customers a lot of choice.
+NEUT2|And then of course, from a moving goods, I think there's a huge opportunity to disrupt the way packages moved today with electric vehicles.
+NEUT3|You've got the Cadillac lyric coming out later this year and then at the end of the year you've got the GMC Hummer and while you were putting $27 billion into electric and autonomous vehicles over the next couple of years, alot of people look at this and they were saying, well, you probably should have moved a little bit faster.
+NEUT4|Did you wait too long to have this slew of vehicles coming out?
+NEUT5|Well, I think people have to recognize we have the Chevrolet Bolt EV out right now.
+NEUT6|This year will also be launching the Chevrolet Bolt, EUV and the work that we did to create the Altium platform, which is the foundation for the GMC Hummer EV and the Cadillac Lyriq.
+NEUT7|An all of the vehicles coming forward that work started several years ago 'cause as we looked at the opportunity we wanted to make sure we had a platform and they all TM platform allows us to very efficiently put a number of vehicles on the road that are EVs.
+NEUT8|So would I love to have more now, sure but.
+NEUT9|This work started several years ago.
+NEUT10|Mary, what happened with the Nicola deal?
+NEUT11|Because when you guys announced that just a few months ago before you ultimately called it off, it seemed like it was just kind of thrown together, and it ultimately blew up in everybody's face and a lot of people are sitting there saying, does this make General Motors hesitant to do that?
+NEUT12|Kind of an agreement in the future with a basically a startup?
+NEUT13|Well, we've done other arrangements with startups so it doesn't make us hesitant at all.
+NEUT14|I mean, of course we wish that situation would have turned out differently, but one very important part is it validated our hydrogen fuel cell technology and we think that's going to be part of the solution.
+NEUT15|Getting to a zero emissions world as well.
+BULL16|So we're going to look for opportunities because we have great technology.
+NEUT17|We have the hydrogen fuel cell technology, we have the Altium platform.
+BULL18|There's so much that we think we can do to really efficiently.
+NEUT19|Help the industry and people transform to using electric vehicles.
+NEUT20|So that's a great answer, Mary, to get us to the next question, which is given the outsized attention on the Nicola deal.
+NEUT21|Investors wonder how much is possible organically?
+NEUT22|Does this.
+NEUT23|The next chapter need to be ushered in by some massive MNA deal?
+NEUT24|How would you advise investors to think about that?
+BULL25|Well, we are always looking for opportunities that are going to create value for our shareholders.
+NEUT26|So we are open to discussing all types of aspects.
+NEUT27|But what I do want to make sure everybody understands is General Motors has tremendous assets, our technical capability, our manufacturing capability, our design capability, that we understand customers around the globe.
+BULL28|So taking all of our assets with our technology with the Altium platform, I think we're well positioned and we already have work going on with very significant automakers like Honda.
+BULL29|So there's I think a very strong proof points that I've gone through here that say an incumbent accompany with General Motors with our history and our capability that we've built over that time to be very successful in lead in electric vehicles and lead in the transformation and providing EV's for everyone.
+NEUT30|Shepard Smith here.
+NEUT31|"Thanks for watching CNBC on YouTube."""

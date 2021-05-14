@@ -1,0 +1,17 @@
+BEAR0|"""Will tech stocks are expected to take a hit, but when the markets open tomorrow morning after Facebook saw its biggest plunge in after hours trading of major blow for CEO Mark Zuckerberg, he lost nearly $17 billion night beats."
+NEUT1|Maria Medina has more on the Facebook fallout.
+BEAR2|We're investing so much in security that it will significantly impact our profitability.
+NEUT3|We're starting to see that this quarter that was Facebook CEO Mark Zuckerberg.
+BEAR4|Today, during the earnings call with investors even before the call ended, the company stock taint nearly 25% in after hours trading.
+BEAR5|Well, the number one reason for the stock drop is that it's showing incredibly lower growth.
+NEUT6|The company that once seemed untouchable is seeing its recent scandals and controversy catching up to it, including how it handled fake news.
+NEUT7|The election interference.
+BEAR8|An privacy in retrospect, I think we clearly view it as a mistake that we didn't inform people, and we did that based on false information that we thought that the case was closed and that the data had been deleted.
+BEAR9|This type of stuff is causing people around the world and especially in Europe and in the US, to question the value proposition of Facebook.
+BEAR10|The drop in shares happened when Facebook announced slow user growth.
+BEAR11|But it tanked when the company predicted slow revenue growth in the coming months.
+NEUT12|We will continue to invest heavily in security and privacy because we have a responsibility to keep people safe.
+BEAR13|If today's losses hold up, it could mean a loss of more than $120 billion in value in markets open tomorrow.
+BEAR14|The biggest in Facebook history and analysts say this would just be the beginning if for some reason Facebook is significantly involved an has an impact on the 2018 elections, I think the next couple of years for them is going to be really difficult.
+BEAR15|Also notable Facebook last several million users in Europe after the country passed stricter data privacy laws and also many didn't buy Zuckerberg's apology following the Cambridge Analytica scandal on the night be time.
+NEUT16|"Maria Medina."""

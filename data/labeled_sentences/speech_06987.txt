@@ -1,0 +1,30 @@
+BULL0|"""Hey, how you doing so today?"
+NEUT1|I want to discuss why Berkshire Hathaway stock?
+BEAR2|It has really done, hasn't been doing well compared to the S&P 500 last number of years and it used to crush those returns.
+NEUT3|An there is really one main reason and that's that you know Warren Buffett.
+NEUT4|He used to be isolated.
+NEUT5|Out in Omaha and the guys on Wall Street, they were paying any attention to him and what was going on.
+NEUT6|An so he wasn't sharing his ideas.
+NEUT7|And what's happened overtime?
+NEUT8|Is you know people have learned you know what he's doing?
+NEUT9|What stocks is buying?
+NEUT10|What is strategy?
+NEUT11|Is he really doesn't hide this very much.
+NEUT12|An you know one of the probably the biggest mistake that hedge fund managers make is these guys spend hours on the phone every day with other hedge fund managers yapping away about you know what stocks are buying.
+NEUT13|Anne, if you're going to do that.
+NEUT14|And then you have a great idea.
+NEUT15|You know everything comes rushing into the idea and it gets watered down and people figure out what you're doing.
+NEUT16|So you know you really gotta keep.
+NEUT17|You know if you come up with a good idea, you don't want to advertise it, because then you can keep doing the idea and you can do it.
+NEUT18|Maybe you know for many years.
+NEUT19|If not, you know forever.
+NEUT20|You know, sometimes you know good ideas.
+NEUT21|They go away and they don't work anymore and you gotta find you know different ideas, you know.
+NEUT22|But you you look at this chart.
+NEUT23|I mean starting, and maybe I don't know about 2006.
+NEUT24|I mean he's not even beating the S&P 500 on average.
+NEUT25|I mean.
+NEUT26|No, that's nothing to really brag about.
+NEUT27|But you know, but he used to crush it, so I think this is really a lesson.
+BULL28|And you know, good luck to you.
+NEUT29|"Happy investing."""

@@ -1,0 +1,17 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Monday, May 15th.
+NEUT2|I'm Celina, Nicholas technical analysts at xm.com.
+NEUT3|Today will look at the Australian dollar versus U.S. dollar on the daily chart.
+BEAR4|We can see a UDUST is in a downtrend when looking at the medium term picture after hitting a high of point 7748 on March 21st, prices fell in a downward channel and turned bearish.
+BEAR5|After breaking below the 200 day moving average and then falling below the key 0.74 level in the near term, the bias turned bullish after prices rebounded from the zero point three 300 area to break above .74 again.
+NEUT6|But clearer signals are needed in order to see if this move is just a short term correction or if prices will resume their downtrend.
+NEUT7|The May 4th high.
+NEUT8|Off point 7430 will act as immediate resistance, and this level needs to be broken soon in order to target .75 immediate support lies at point 7330.
+BEAR9|That was the low that was hit earlier last week, and then below this prices would reach a key level psychological level of point 7300 and then a drop below.
+NEUT10|This would open the way for the market to target.
+BULL11|Point 7160, and we can see back in December that this held as a support level and was tested a few times before the market turned higher.
+BEAR12|So the medium term outlook remains bearish based on the technical structure.
+BEAR13|As we can see, the market is below the 200 day moving average that gives a bearish picture and prices are falling in a downward sloping channel.
+BEAR14|Are size below 50 Mets bearish territory and they maqdis below 0 and and sloping down.
+BEAR15|So that's also giving a bearish bias.
+BULL16|"Thanks so much for watching and have a great day."""

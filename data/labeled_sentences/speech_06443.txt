@@ -1,0 +1,27 @@
+BEAR0|"""I for a long time have been critical of traders and investors."
+NEUT1|In looking at these trade talks in isolation from the overall tensions in a relationship that has become much more about strategic competition than engagement.
+BEAR2|And so I think we're in a position where Trump was betting that the Chinese leader would have to make compromises because his economy is so fragile.
+NEUT3|The Chinese leader was betting that Trump would blink first because he needs a deal by 2020.
+NEUT4|And what we found out is these trade talks are about a lot more than trade, and so I think we really have to look at the underlying geopolitics between the two countries, which is getting more tense on the technology front front, more intense in the South China Sea with freedom of navigation maneuvers.
+NEUT5|And so I think market analysts have to start becoming a little bit more experts at geopolitical risk.
+NEUT6|Christine, how do you describe the state of US, China trade talks at the moment?
+NEUT7|Yeah, I take Fred's point.
+NEUT8|It's it's true.
+NEUT9|There is a lot going on.
+NEUT10|Trade is a small part of the bigger picture.
+NEUT11|And also remember you know these days with the 24/7 news business news cycle and and a president who tweets very frequently about how he views things are going.
+NEUT12|It's all really out there in the open for us to see, blow by blow.
+NEUT13|And you know, years ago this was all done behind closed doors.
+NEUT14|So and behind those closed doors, it wasn't uncommon for things to go up and down, up and down, you know?
+NEUT15|One step forward, 2 steps back, but we just didn't hear about it until it was all done.
+NEUT16|Nowadays you hear every single thing, and so we're just getting a lot more noise.
+NEUT17|Christine, how much damage to the US economy will these extra tariffs have an effect of?
+NEUT18|And can the US economy take it?
+NEUT19|I do not know I so far the US economy has been now weathering it pretty well.
+BEAR20|I mean, unemployment 3.6% and we haven't seen this since the late 60s.
+BULL21|Consumer confidence, very high outlook, very strong.
+BEAR22|So so far it's it has not been a big problem and even if we go up to 25% on a broad range of consumer goods, it doesn't look like it's going to derail the US economy.
+NEUT23|I saw some numbers recently, 7-8 hundred sixteen, $100 per family of four.
+NEUT24|Tops that is, you know sixty, $70.00 a month.
+BEAR25|It's going to hit the lower income households more, but it does.
+BEAR26|"It doesn't seem like something that will derail the US economy at this point."""

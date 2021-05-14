@@ -1,0 +1,42 @@
+NEUT0|"""Mania breaking news in the world of specs."
+NEUT1|Brian Sullivan joins us now with the details.
+NEUT2|What's going on, Brian?
+BULL3|Alright hey, good morning guys.
+NEUT4|Good Morning Joe.
+NEUT5|Got a little breaking news on my friend Tillman Fertitta.
+NEUT6|The billion dollar buyer.
+NEUT7|He is going public merging with a SPAC aspac called the Fast acquisition Company, tickers FST.
+NEUT8|So Tillman Fertitta after a decade going back to the public market.
+NEUT9|Remember it took the entire company private back in 2010.
+NEUT10|This will be Fertitta Entertainment really getting merged with the Fast acquisition SPAC overall guys.
+NEUT11|The deals, valued about $2 billion.
+NEUT12|Of course you've got this pack and then immediately on closing.
+NEUT13|You're going to have institutional shareholders coming in with $1.2 billion, valued at 100 bucks a share as via a pipe.
+NEUT14|Public investment in private equity, right at the close of the deal, Tillman is going to be the CEO, president and chairman of the new public company.
+NEUT15|He will have about a 60% interest in that overall.
+NEUT16|It also involves guys about half the ownership of another spec, the Golden Nugget, Online gaming gene of Remember that's his online gaming property, so we're seeing really not 2 specs merge.
+NEUT17|But Golden Nugget Online being a part of this deal.
+NEUT18|So Tillman returning to the public market for the first time in 10 years and listen, I, you know guys, I've been talking to Tillman a lot over the last couple of years.
+BULL19|I know he's always the consummate dealmaker.
+NEUT20|He bought Del Frisco's.
+NEUT21|He's always wants to do a deal, and the reason for this is that, you know, after 10 years of being private, what he said to me is that basically we need to have capital to do deals.
+NEUT22|'cause here's the reality is, we know guys.
+BEAR23|No industry has been hit harder than hospitality.
+NEUT24|Restaurants, hotels, travel etc.
+NEUT25|And a lot of these businesses may not come back, but a lot of them that are hanging on as things start to open back up.
+BULL26|There may be opportunities for new capital investments.
+BULL27|So with a newly public company, Tillman the billion dollar buyer himself might be able to do more deals.
+NEUT28|So a spec fast acquisition, Landry's coming out big $2 billion deal.
+NEUT29|Going back to the public markets, the Rockets, by the way, not a part of this transaction.
+NEUT30|No, that's that's that's it.
+NEUT31|Yeah, it was one that's interesting, Brian.
+BULL32|Yeah, you're right.
+NEUT33|I was trying to come up with another industry that's been hit as hard and it's I think it's just painfully obvious.
+NEUT34|But all the things that you just said.
+NEUT35|I mean, you gotta leave your house to do any of that stuff, right?
+NEUT36|So it makes it makes it very difficult, except maybe some online gaming that's about.
+NEUT37|That's about it.
+NEUT38|For for a lot of travel and hospitality.
+NEUT39|At least, Vegas was.
+NEUT40|Shepard Smith here.
+NEUT41|"Thanks for watching CNBC on YouTube."""

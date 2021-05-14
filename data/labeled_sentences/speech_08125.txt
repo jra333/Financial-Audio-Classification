@@ -1,0 +1,29 @@
+BULL0|"""If you look at the stock market charts for 2013 on the one hand, you've got stodgy developed countries like Japan, the West, UK and Germany all offering so far this year, impressive gains."
+NEUT1|On the other hand, many of the darlings of investors in recent years, emerging economies like Mexico, India, China and Brazil aren't doing so hot.
+NEUT2|What's behind the reversal of fortunes?
+NEUT3|Rates of growth for the first time since 2007?
+BULL4|Japan VUS and other developed markets contributed more to global growth.
+BULL5|In China, India and Brazil this year, there is expected to be $2.4 trillion in additional economic activity worldwide, according to one hedge fund, which estimates developed markets are contributing 60% of that growth.
+BEAR6|3 shore emerging economies are still on top in terms of growth, but in recent months their lead has been narrowing.
+NEUT7|What about China?
+BULL8|China is expected to Clock seven and a half percent growth for the second quarter of this year, far surpassing the US is projected 2%.
+NEUT9|But China is headed toward.
+BEAR10|Its slowest annual growth since 1990.
+NEUT11|What would happen this year to China's exports growth since last year?
+BEAR12|Approaching 0I now finds itself in negative territory, but then over in Japan, it's a stunningly different story.
+BULL13|After many flat years, its exports are finally growing Japan.
+BULL14|After over a decade of stagnation, the world's third largest economy is experiencing a resurgence.
+BULL15|It grew around a 3.6% last quarter after a rapid policy shift.
+NEUT16|His weekend.
+NEUT17|The end.
+NEUT18|What about Brazil?
+BEAR19|With Chinese demand slowing?
+BEAR20|So is Latin America's that continent's largest economy grew around 1% last year on a closely watched index of manufacturing output, the last few months Brazil's been declining, whereas up in the US, manufacturing has lately been on the upswing.
+BULL21|Traveling now across the pond manufacturing in the UK's pointing upward.
+BEAR22|Same with Germany modestly while back in Asia, manufacturing has been down this year so far for both China.
+NEUT23|And India, so is this the end of an era?
+NEUT24|Well, not so fast.
+BULL25|This is an early trend, one that could easily reverse.
+BULL26|Should emerging markets bounce back even a little?
+NEUT27|And at this point these economies with their young populations, vast resources and booming manufacturing are unlikely to fade.
+NEUT28|"That's the short answer."""

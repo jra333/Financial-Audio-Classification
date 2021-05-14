@@ -1,0 +1,26 @@
+NEUT0|"""Zoom."
+NEUT1|Bull say Zoom offers a disruptive technology that is designed from the ground up as a video first collaboration platform.
+BULL2|Customer satisfaction is well above video conferencing peers.
+BULL3|Both the zoom user based on the company's revenue have grown rapidly and are expected to continue to do so over the next.
+NEUT4|Several years.
+BULL5|Zooms, low touch, low friction model should eventually drive strong margins.
+BULL6|The company has already produced a full year of positive gap profitability, which is well ahead of other high growth software appears.
+NEUT7|Berset, Cisco and Microsoft dominate the video conferencing market and can bundle a broad array of solutions in response to a competitive threat from zoom.
+NEUT8|The biggest risk facing zoom is executing across so many different aspects of growth simultaneously.
+NEUT9|For example, Zoom Phone is a more complex sale.
+NEUT10|The company is moving from smaller to larger customers, and there is a new head of sales Zoom completed its IPO in April 2019, so it has a limited operating history as a public company to scrutinize.
+NEUT11|Analyst ratings by 32% hold 55% sell, 14% market cap.
+NEUT12|29.54 Billion's average volume 10.01 millions.
+NEUT13|Facebook.
+NEUT14|Both say with more users and usage time than any other social network.
+NEUT15|Facebook provides the largest audience and the most valuable data for social network online advertising.
+BULL16|Facebook's ad revenue per user is growing, demonstrating the value that advertisers see and working with the firm.
+BULL17|The application of AI technology to Facebook's various offerings along with the launch of the our product such as the Oculus Rift, will increase user engagement, driving further growth in advertising revenue.
+BEAR18|There say Facebook is currently A1 trick Pony and will be affected severely in online advertising no longer grows or if more advertising dollars shift to others like Google or Snapchat.
+NEUT19|Despite rapid user growth, many of Facebook's customers may also belong to other social networks such as Snapchat.
+NEUT20|So the firm will continually have to fight to capture a user's time and engagement with Facebook's properties.
+BEAR21|Regulations could emerge that limit the application and collection of user and usage data which could minimize the value of Facebook's aggregated data.
+NEUT22|Analyst ratings by 84% hold 12% sell, 4% market cap 562.17 billion's average volume 18.06 millions.
+NEUT23|As always, be sure to let me know your thoughts down in the comments.
+NEUT24|Be sure to smash that like button.
+BULL25|"Thank you so much for tuning in and I will catch you in the next video."""

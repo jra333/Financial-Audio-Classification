@@ -1,0 +1,19 @@
+BULL0|"""Our heritage is strong for more than 125 years, we've been trusted for our integrity, authority, accuracy and independence."
+BULL1|More recently, we've been widely recognized for innovation.
+NEUT2|Our mission is simple.
+BULL3|Be the gold standard in global journalism, and build a strong, sustainable business model to support our editorial mission.
+NEUT4|Our strategy is mapped, or journalism is world class unique and high-quality.
+NEUT5|We capture the global conversation.
+BULL6|And attract a community of global leaders and influencers.
+NEUT7|We embrace new technology, enabling our readers to access the FT the way they want.
+BULL8|Our success is clear.
+BULL9|We have a direct and increasingly engaging relationship with our customers.
+NEUT10|We regularly launch new premium digital subscription based products.
+NEUT11|Our newsroom is digital.
+NEUT12|First FT journalism is text plus a combination of words, graphics, video and audio tailored for readers to.
+BULL13|Comment, recommend and share our World class editorial team provides a powerful global perspective relentlessly pursuing original value, added news and analysis FT advertisers reach an engaged, high profile and measurable audience or advertising is supported by smart data and a pioneering approach.
+BULL14|Mobile video and rich media advertising is growing at strong double digits.
+BULL15|Our global commercial team continues to take share.
+NEUT16|In all major markets, so what's next transformed the FT for a new generation of readers, develop new products and services, build, reach community and engagement on and off site.
+BULL17|Leverage our strong brands and convening power.
+BULL18|"Invest in our people and continue providing premium news and analysis to a growing audience of global decision makers."""

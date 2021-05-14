@@ -1,0 +1,24 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|February 3rd.
+BULL2|In today's NEO stock analysis and predictions more gains for NIO expected soon.
+NEUT3|Alright, let's get started.
+BULL4|Anio NYSE Nio were trading higher on Wednesday following a sales report that demonstrated continued strong demand for nio's upscale electric SUV's.
+NEUT5|As of 1:30 PM Eastern Standard Time.
+BULL6|Nio's American depositary shares were up about 4.6% from Tuesday's closing price.
+NEUT7|NIO reported its January deliveries on Monday.
+BULL8|And they were strong, despite new competition from Tesla's NASDAQ TSL, a made in China model, why?
+BULL9|Nio said that it delivered 7225 of its sleek electric SUV's in January, monthly record for the company that follows efforts to boost production amid strong demand.
+BULL10|At least one group of analysts following the company expects the demand to continue at least into China's lunar New Year holiday week in.
+BULL11|And you note on Tuesday, analysts at Chinese investment banks Eicc said that Nio's production appears to be at full capacity, and that the companies.
+BULL12|Excellent user experience and word of mouth marketing should ensure continued strong demand ahead of the holiday.
+NEUT13|The companies batteries as a service program which lowers the initial price of its vehicles is also contributing to the growing demand for nio's vehicles to support their service, NIO said last week that it had built 7 new battery swap stations and that it plans to open 12 more before February 8th, which will bring its total to 191 by the start of the holiday week.
+BULL14|Analyst expect more gains for NIO soon as a result of Nio's partnership with a large furniture giant to build more bus stations around the country and its possible expansion plans for EU.
+NEUT15|Yes, for auto investors following NIO.
+NEUT16|The next major event will probably be the company's report of its fourth quarter and full year 2020 earnings.
+NEUT17|Nio hasn't yet announced a date for that report, but I expect that it will shortly, and the report will likely be scheduled sometime in the second half of February.
+NEUT18|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT19|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT20|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL21|We'd really appreciate it.
+NEUT22|Are you still watching and want more?
+NEUT23|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

@@ -1,0 +1,17 @@
+NEUT0|"""Are you looking for a no money down Chapter 7 in Richmond, VA?"
+NEUT1|Nathan Fisher, Michael Sandler and Sharon Stewart have more than 60 years of experience helping people file bankruptcy in Richmond, VA. We've helped thousands of people filed Chapter 7 bankruptcy to eliminate their debts in Richmond, VA.
+BEAR2|There are many more people who need to file, but haven't because of the cost.
+NEUT3|No money down.
+BEAR4|Chapter 7 in Richmond, VA. We charge less to help more people, but there are those who can't get access to the system because they can't.
+NEUT5|Afford to pay $1000, two $1000 or even $3000 to file.
+NEUT6|And that's usually the people who need it the most.
+NEUT7|So Fisher Sandler is going to file your Chapter 7 bankruptcy case for just the $335 filing fee and no attorney fees down.
+NEUT8|That's right, nothing.
+BEAR9|0 down bankruptcy.
+NEUT10|0 down Chapter 7 bankruptcy instead of coming up with a bunch of money before filing, you can now spread the payments out over a full year and they'll cost you a little over $100 a month.
+NEUT11|We can stop wage.
+NEUT12|Garnishments, lawsuits, foreclosures, car repossessions and stop creditor harassment.
+NEUT13|Now you don't have any excuses, so pick up the phone and call us today at 804-664-3643 or schedule your free consultation on our website at www.fishersandlerlaw.com.
+NEUT14|We offer consultations by phone in office and virtual your choice.
+NEUT15|Fisher Sandler, home of the Zero down bankruptcy.
+NEUT16|"In Richmond, no money down Chapter 7 in Richmond, VA called today 804-664-3643 free consultation."""

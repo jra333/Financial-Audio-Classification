@@ -1,0 +1,22 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|December 3rd.
+BEAR2|In today's NEO stock analysis and predictions why NIO stock is down today?
+BEAR3|Alright, let's get started an IO is trading lower on Thursday after a Wall Street analyst cut his bank's rating on X pink following its recent rally.
+BEAR4|As of 11:10 AM Eastern Standard Time nio's American depositary shares were down about 3.6% from Wednesday's closing price.
+BEAR5|In a note released after the US markets closed on Wednesday, hubs analyst Paul Gone Cut his bank's rating on explain to neutral from buy.
+BULL6|While raising its price target to $59 from $25, Gong wrote that while he believes X Ping is good but not sure if they are sustainable into the future.
+BULL7|Gong noted that NIO has more room to grow and be the group's leader on the EV front gong has been a skeptic on NIO, but now has had a sudden change of heart raising his rating to neutral from cell after an iOS sales recovered and it's gross margin improved in the second quarter.
+BEAR8|In summary, gongs note on X Pang is what is causing an iota drop.
+BEAR9|In addition, NIO stock is down due to the factor Bill was passed in Congress that would delist Chinese companies if they do not comply with US auditing.
+BEAR10|As a result, panic sellers are selling off their NIO stock.
+NEUT11|However, today NIO has announced, through its companies representatives, an official statement on the delisting bill, an iOS corporate governance and internal controls, ensure the company's compliance with relevant regulations and standards.
+BULL12|Another spokesman for NIO has said NIO is in compliance with the new law.
+BULL13|We were aware of the situation and became compliant over the past few months.
+NEUT14|There is nothing to fear, as our company's standard are on the up and up.
+BEAR15|Those that have sold today will more than likely regret it when stock bounces back to its normal settings.
+NEUT16|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT17|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT18|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL19|We'd really appreciate it.
+NEUT20|Are you still watching and want more?
+NEUT21|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

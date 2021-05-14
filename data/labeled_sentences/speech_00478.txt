@@ -1,0 +1,40 @@
+BEAR0|"""You put this viewpoint out there that, despite perhaps Republicans, feeling that minimum wages can be in some way detrimental to business to the economy doesn't seem to be proving out the point."
+NEUT1|Particularly California and the like.
+NEUT2|So we look at the data at Bloomberg, which is what we're meant to do, and we go back ten years.
+BULL3|Last time, the federal minimum wage went up to 725 an hour.
+NEUT4|And the 29 states that have raised on their own the minimum wage and 21 states that have resisted doing anything of the kind.
+NEUT5|The 29 states that we looked at from one economy to the next have.
+NEUT6|On every level, basically personal income, job creation and consumer activity.
+BEAR7|Outperformed the 21 states that resisted any increase in minimum wage, so it does belie the assumption that one raising the minimum wage is a job killer, which is the perennial argument not to do it.
+NEUT8|But it's a.
+NEUT9|It's a lot more meaningful when you look at things like consumer activity, the states that have the highest minimum wages have the most robust consumer economies, so that is a very telling indicator that says.
+BEAR10|If nothing else, $15 is not in any way a hindrance to a booming economy.
+NEUT11|When you say a more robust, robust consumer economy, what does that mean?
+NEUT12|What does robust mean?
+NEUT13|OK, so if we look at the traditional elements of what makes an economy go, one is job creation.
+NEUT14|One is the GDP.
+NEUT15|The equivalent GDP of the companies that are in those states.
+NEUT16|One is personal income because that's a good measure of how we're doing.
+BULL17|California, for example, leads the country by far over the past five years with personal income growth.
+BULL18|It's the fastest growing personal income state in the country, but it also is leading you know, or close to leading and things like.
+NEUT19|Food and beverage retailing businesses.
+NEUT20|You know, one of the arguments against the minimum wage was the restaurant industry would say, you know you do this and it's going to drive business away from Seattle or from San Francisco or whatever, and to name two cities in particular.
+BULL21|And in fact, those businesses have been booming the past five years, more so than elsewhere.
+NEUT22|So that's a good indication of.
+NEUT23|A robust economy is we look at the data.
+NEUT24|Is there a cause and effect that you can really put out there as to is it the fact that lower higher minimum wage means there's more money in the pockets of those that go out?
+BEAR25|They go and feed the local restaurants, the retailers that companies might think that would be hurt by it.
+NEUT26|And so the perpetuation of the economy is going.
+NEUT27|Or is it too hard to actually draw that?
+NEUT28|Well, that is an argument that a lot of people think makes sense, which is if you put more money in the pockets of workers.
+BULL29|They'll spend the money that they get as a result, and it's a virtuous circle and it will help the economy.
+NEUT30|Traditionally, economists have said.
+NEUT31|An unfunded mandate, like the minimum wage will.
+NEUT32|Eliminate jobs, especially for marginalized workers.
+NEUT33|We don't see any evidence of that so far in the past five years.
+NEUT34|Example New Jersey.
+BEAR35|Record low unemployment California record.
+NEUT36|Low unemployment.
+NEUT37|New York State is almost close to that so.
+NEUT38|That's a pretty good indication that whatever you think about the $15.00 an hour minimum wage, it's not.
+BEAR39|"Hurting anyone right now."""

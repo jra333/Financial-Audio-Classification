@@ -1,0 +1,22 @@
+NEUT0|"""Matthew is that ego American narrow here."
+NEUT1|Where's the underlying business investment?
+NEUT2|The 1st and 2nd derivatives that have to do with getting to earnings after revenues?
+NEUT3|Where does that dynamic stand right now?
+BEAR4|I think the second derivative of growth is definitely negative.
+NEUT5|You know we're coming from?
+BULL6|As mentioned, we're coming from where the economy is growing 3% a large part of that in the first half of last year was cap ex, which was stronger than expected.
+NEUT7|So absolutely, you should be expecting a deceleration.
+NEUT8|I think what you have seen though, is what was priced into probably equity markets.
+BEAR9|What has been priced into the bond market is much worse than we're likely to get, so you have.
+NEUT10|You've had these inversion of the yield curve, which we're now in pricing.
+BEAR11|Some of that equities I think have have come back closer to in line with where we're seeing the ** and the PMI, and so you had too much pessimism built into markets.
+BULL12|We're now, I think, more fairly priced for the economic outlook.
+NEUT13|Matthew, should investors stay short of volatility in the United States and Europe?
+NEUT14|What will it take to get volatility rising?
+BEAR15|Yeah, I think not only in equities, but the move index bond volatility has been incredibly low.
+NEUT16|I think a key fundamental driver for that is what we're seeing from central banks and the dovish pivot from central banks across the board.
+NEUT17|And in particular then moving to calendar based type guidance.
+NEUT18|You know, the ECB certainly has that the Fed with their patients story has that as well and we don't have the Fed raising rates for over the next three years.
+NEUT19|We have them on hold.
+NEUT20|So unless central banks are going to be a source of volatility, you're unlikely to see volatility.
+BULL21|"Higher and I think you need inflation to pick up to see that, and so far we don't see that yet."""

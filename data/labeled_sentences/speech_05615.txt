@@ -1,0 +1,11 @@
+NEUT0|"""Today, looks, well, let's do some buying."
+NEUT1|I just want to mention that you should never use all your cash on the first step.
+NEUT2|As the reserves and at every dip isabi I used to have to look at the price action to see if it's a good entry.
+NEUT3|I always always look at the price action.
+NEUT4|I don't randomly buy anything that does.
+NEUT5|So when I mention the entry price, that means I did most the work for you already.
+NEUT6|Anyways, that's my advice.
+NEUT7|I'm still looking at the five dimension yesterday.
+NEUT8|Sam Netflix by duo in the trade desk.
+NEUT9|And I let the West play out.
+NEUT10|"Look at the one day chart Angilletta bottom out before buying."""

@@ -1,0 +1,21 @@
+NEUT0|"""Sticking with the Georgia voting law though?"
+NEUT1|Well, let's get over to see Modi.
+BULL2|She's on the ground for us in Atlanta and she has more SEMA.
+BEAR3|Hey Morgan, a boycott that was set to go into effect today targeting some of the major brands here in Atlanta.
+NEUT4|Coca Cola Home Depot Delta has now been postponed.
+NEUT5|A prominent religious leader, Bishop Jackson here in Georgia, who's been really spearheading a number of the talks, says the chairman of Coca Cola.
+BULL6|James Quincy has reached out and is now putting together a meeting with other corporate leaders, including those of Home Depot and Delta, among others.
+NEUT7|That closed door meeting now set for Tuesday, April 13th.
+BEAR8|This as Republican opposition of companies speaking out against Georgia's controversial voting law.
+BULL9|Continues to grow.
+NEUT10|You had Governor Camp of Atlanta of Georgia speaking out today and yesterday.
+NEUT11|Senate Minority Leader Mitch McConnell saying companies should not intervene in politics.
+NEUT12|Now we've been speaking to a number of Georgians here on the ground today.
+BEAR13|An yesterday in favor and rejecting the voting law that was passed last week, but none of them say that a boycott is the answer.
+BEAR14|Coca Cola is too massive of a company for any temporary boycott to actually hurts.
+BEAR15|I don't agree with the boycott.
+NEUT16|Of course, people have the freedom and the right to boycott whatever they want to, but it feels like the Commerce that these businesses are doing has nothing to do with voter voter rights.
+NEUT17|From companies to sporting events, one week after the MLB pulled out of Atlanta to Denver, now growing calls for the PGA and the Masters to do the same.
+NEUT18|But right now the Masters set to go live tomorrow.
+NEUT19|Shepard Smith here.
+NEUT20|"Thanks for watching CNBC on YouTube."""

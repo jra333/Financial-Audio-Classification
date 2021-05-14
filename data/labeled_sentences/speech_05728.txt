@@ -1,0 +1,27 @@
+NEUT0|"""Turning back to the markets now, how did the stock market returns for companies in swing states impact the election?"
+NEUT1|Right now we've got Jack Ablin.
+NEUT2|He's a chief investment officer at Harris Private Bank in Chicago.
+NEUT3|He's with us.
+NEUT4|Hey, Jack.
+NEUT5|Thanks, hi, hi, let's talk about this.
+NEUT6|You have thought a lot about this about the performance of companies that were in these swing States and how that might have impacted last night's election.
+NEUT7|Give us your theories.
+BULL8|Well, you know, not only did the blue states outperform the red states over the last four years under President Obama's first term, but the swing states all handily outperformed the S&P 500, with Nevada far outpacing the SNP running something like 68% per year over the last four years, compared to something like 11 1/2% for the SNP.
+NEUT9|And how much do you think that actually impacted the results last night?
+NEUT10|I mean, do you think voters are aware of that?
+NEUT11|Is it something that sort of in the subconscious that they feel?
+BULL12|Better in their states when they go to vote.
+NEUT13|Or do you think it's just coincidence?
+NEUT14|Well, I think some coincidence, but I also think there's a fair amount of confidence that the fact is, if you know you're in Nevada and you work for a casino and chances are you own some of the stock, either in your own account or in your retirement plan.
+BULL15|So I think that certainly could provide you a little bit of a boost.
+NEUT16|There are a lot of gold miners in in Nevada as well, so you know it's hard to point to any particular area, but I will say you know when you're when you're in these swing states an you know this election is hanging in the balance.
+BULL17|Certainly having a higher degree of confidence helps the incumbents and Jack we look at some of the other swing states besides Nevada, looking at Ohio, Florida, Virginia.
+NEUT18|What were some of the sectors that were put in particular doing well in those states prior to last night's election?
+NEUT19|Sure, Florida, you know certainly was a rebound of housing and builders.
+BULL20|I think that helped Virginia.
+NEUT21|We had media companies.
+BULL22|You know, gave them a little boost.
+NEUT23|I don't recall all of the other other other sector groups, but I think that you know generally these are either businesses that are headquartered in those states or do quite a bit of business in those states alright.
+NEUT24|Jack ablin.
+BULL25|Thanks so much for being with us.
+BULL26|"Appreciate your analysis this morning."""

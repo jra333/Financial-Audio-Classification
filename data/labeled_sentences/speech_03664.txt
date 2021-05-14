@@ -1,0 +1,22 @@
+NEUT0|"""Highfalls, so one thing that we don't normally talk about much when we look at oil and gas companies is their hedging strategy."
+NEUT1|Not only can hedging tell you something about the company in general, but can also give you some perspective into the future of the oil and gas companies and the market in general.
+NEUT2|But first let's just have a quick refresher on hedging strategy, oil and gas companies use futures contracts and commodity swap positions to protects against commodity prices.
+NEUT3|This allows companies to plan and budget for capital expenditures and growth.
+BULL4|A little bit more stable, even with volatile commodity prices.
+NEUT5|Now different oil and gas companies will use different hedging strategies and one example of that is Linn Energy.
+NEUT6|100% of their production is hedged out almost three years.
+NEUT7|What it means that it is it is a conservative hedging strategy because it is more willing to forego higher oil prices, to protect against those lower oil prices, which is essential for a company like Linn Energy, because it is a master limited partnership which means.
+NEUT8|That it needs to know the cash that it's going to be taking in to cover the distributions that it has, and they are quite sizable for an MLP.
+BEAR9|Also Breitburn Energy Partners and Vanguard Natural Resources are two companies that also employ conservative hedging strategies to protect against this drop in prices, and it's no coincidence they're also master limited partnerships now more aggressive companies will leave their production open, meaning that they'll sell more of their oil and gas to the smart spot market.
+NEUT10|Excuse me.
+BEAR11|Then through these futures contracts, now big oil companies like ExxonMobil, Chevron have a tendency to leave their production open.
+NEUT12|So now that we know that how we can evaluate all the gas companies, what can a hedging strategy actually tell us about oil prices and potentially the future?
+NEUT13|I think an example of that right now is Ultra Petroleum.
+NEUT14|The past couple of quarters the company is kind of discussed its hedging strategy rather open what they've been doing is looking to lock up oil production from its new acquisition in the Uinta Basin with these future contracts.
+NEUT15|But at the same time, it's leaving its natural gas production open to the market.
+BULL16|So based on this Ultra is predicting that the price for natural gas will be better than what it can write a contract for today, while at the same time it's seeing that oil prices could potentially drop, and that's why that they are employing this current hedging strategy.
+NEUT17|Now, as investors, we normally look at hedging strategy is something that can either boost or kind of bite into quarterly earnings because of the volatility of commodity prices.
+NEUT18|But watching how a company employs their hedging strategy and how it changes over time can give us some.
+NEUT19|Insight not only into the company but into the market as well.
+BULL20|So I want to thank you very much for your time.
+NEUT21|"Tune into full.com for more insight and analysis."""

@@ -1,0 +1,16 @@
+BEAR0|"""Frenzy bullish bets are swirling around the biggest US tech names."
+BULL1|It's breaking records and sending waves through the options markets here, with the analysis, Bloomberg, Danny Berger.
+BEAR2|Another frenzy is almost an understatement.
+BEAR3|We've really seen option volumes skyrocket this from Goldman Sachs since the start of the year.
+BULL4|We've seen volume surge 77% and that was coming from a record already here.
+NEUT5|This is showing that basically just as many options trade as the underlying stock itself, and it's the highest on record dominating this.
+NEUT6|By far is call options as bullish options and most of it is driven in the high flying tech names and Tesla.
+BEAR7|Of course now Tesla sell the biggest increase, but besides them the next biggest increase in options comes from Microsoft and the call options in White has absolutely exploded.
+NEUT8|We saw some of the biggest amounts of bowl options and we're seeing that there costing more than puts for the first time in quite a few years and a lot of this is likely FOMO.
+BEAR9|Investors are wary about the high valuations.
+BEAR10|They really do not want to miss the rally.
+NEUT11|I wanna point out there also seems to be a large retail component to this.
+NEUT12|Just as an example, here are the mentions of Microsoft sticker on a popular subreddit that's dedicated to markets and you can see went from barely any options to just within a few days.
+NEUT13|Hundreds of mentions, a lot of them I should say revolve around trading options themselves.
+NEUT14|Now, Goldman says that these gains can't last for much longer.
+NEUT15|"So rather than buying call options, they recommend you should be selling them that Anna."""

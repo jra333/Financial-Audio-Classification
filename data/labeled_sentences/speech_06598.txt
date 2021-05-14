@@ -1,0 +1,27 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Friday, March 17th.
+NEUT2|I'm Celina necklace technical analyst exam.com and today will look at U.S. dollar versus Japanese yen on the daily chart.
+BEAR3|So USD JPY posted a two week low during yesterday's trading it reach 112.90 today.
+BEAR4|Prices have stabilized slightly.
+BEAR5|If we look at the RSI, it is bearish.
+NEUT6|It's below 50 so it's inverse territory in the stochastics as well giving a very short term picture.
+NEUT7|If we look at the moving average, the 50 day moving average currently at 113.70 comes into view as an immediate barriers to upside moves.
+BEAR8|A break above this would shift focus to another resistance level.
+NEUT9|It's actually a Fitbit Nachi level.
+NEUT10|So 38.2 Fibbonaci retracement of the December 2 February down leg.
+BEAR11|That level is now at 114 point 28 and then above this we have an important psychological level 115 which has been capping the USD JPY pair below it in recent weeks.
+BULL12|It's potentially going to be very strong resistance level.
+BULL13|It's also around the 50% fiber Nachi level, so quite an important resistance level there.
+BULL14|If somehow prices can move above it then we could I 117 level, but to the downside we have support at 113.25 now.
+NEUT15|This is actually.
+NEUT16|Fitbit Nachi level as well.
+NEUT17|It's immediate support for today and then below this.
+NEUT18|Yesterday's love.
+NEUT19|One 112.90 would act as the next support level.
+NEUT20|But if we look at the outlook, the bias has been neutral in the last couple of months there has been trading within a range between 115 and one 111.50.
+NEUT21|So the short term picture remains neutral.
+BULL22|Although if we look at the bigger picture we could see that the market structure is still bullish.
+BULL23|We saw big rally from the lows of 100 back in September all the way up to 118 point 66 and then we saw some consolidation.
+NEUT24|So the pair has been more or less in a holding pattern since then.
+BULL25|Thank you so much for watching.
+BULL26|"Have a great day."""

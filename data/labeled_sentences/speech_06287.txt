@@ -1,0 +1,10 @@
+NEUT0|"""Hi, this is Mike Riedmiller in Austin, TX at a financial conference recently wrote an article as the Forbes brand Voice contributor stock market volatility."
+BULL1|Time to diversify.
+NEUT2|Talking about some ways that some smart and some savvy investors might diversify, especially in times of stock market volatility.
+NEUT3|Now in this article I wrote about savings and CDs, savings bonds, annuities, life insurance, real estate and.
+NEUT4|Reed switch are real estate investment trusts, precious metals, cryptocurrencies which are in the news a lot such as Bitcoin.
+NEUT5|You might be surprised what I wrote about that also collectables such as art, automobiles and wine, and you know one thing.
+BULL6|If those things do not increase in value, at least you have that tangible asset to enjoy.
+NEUT7|So that's something that again enjoyed writing as a Forbes brand voice contributor in these volatile times where we're seeing some stock market declines, some days of 500 points, or even.
+NEUT8|1000 points or beyond.
+NEUT9|"It can be important to have that financial plan in place."""

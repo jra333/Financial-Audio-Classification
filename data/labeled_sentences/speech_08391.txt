@@ -1,0 +1,27 @@
+NEUT0|"""Goldman, an Apple teaming up for a credit card."
+NEUT1|Hey, what do you do?
+NEUT2|You can't sell as many iPhones here.
+NEUT3|60% of your revenue or iPhones you go into the services business you go in and take a cut of everybody's credit card transaction.
+NEUT4|I think that's very smart, although in the long run I personally think Apple's greatest contribution will still be in health care.
+NEUT5|But they've got to figure out a way to grow that services business.
+NEUT6|Here's a potential way to go out and to do that.
+NEUT7|So what else have they been in?
+NEUT8|Let me look at mobile payments during streaming music.
+NEUT9|Know that there is.
+NEUT10|This is a logical there, moving much more aggressively into content overall going to be spending their.
+NEUT11|I think it's a more interesting story though.
+NEUT12|Besides the symbiotic nature of this axe is moving into credit cards.
+NEUT13|We've got Mark authority out.
+BULL14|They need some additional revenues, is quite the.
+NEUT15|So what does this tell you?
+BEAR16|Their masses, both Giants are struggling for new ways to get revenues.
+NEUT17|That's what that's what it does in two different fields.
+BEAR18|Both Giants are struggling for new ways to revenue and that tells you even the people at the top.
+BEAR19|Are getting squeezed a little bit.
+BULL20|They need revenue growth.
+NEUT21|That's what it's telling, and they're smart.
+BULL22|Partner with two of the best people out there together that makes a lot of sense to me.
+NEUT23|Although it's unclear for the lelian ate some of the others that use Apple and used and the credit card companies are that are partnered with it on the Apple Wallet.
+NEUT24|But yeah, Apple Pay is a wonderful product.
+NEUT25|It works, they take a little slice of every little transaction.
+NEUT26|"It's a little bit of magical ways your phone and you get in."""

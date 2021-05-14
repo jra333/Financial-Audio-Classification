@@ -1,0 +1,32 @@
+NEUT0|"""Finally, it's one more reason why I'm betting the bottom."
+NEUT1|It may have been reached, and that's the charts.
+BULL2|Larry Williams, the most renowned technician of our time, points out that we've already rallied 50% from the lows.
+NEUT3|And when you look at the last 9 bear markets going all the way back to 1962, we simply don't retest these lows.
+BULL4|After rally more than 50% from the bottom.
+NEUT5|In fact, get this going back to the 30s.
+BEAR6|Larry Camps 20 Bear Market declines, followed by 50% plus rallies, and in none of those cases did we revisit the lows after that.
+NEUT7|50% move, let's let me show you some charts.
+NEUT8|Here's the Dow Jones Industrial average and 62 OK, we pull back hard.
+BULL9|Alright, then there's a snapback rally and it's smooth sailing, taking us to new highs a few months later.
+NEUT10|Alright, why don't we take a look at 1970?
+NEUT11|We pull back, alright?
+BULL12|We rally.
+BULL13|We rally very hard from the lows.
+BULL14|Then we stabilized at a higher level.
+NEUT15|How about the toughest one?
+NEUT16|2008?
+BEAR17|OK, we all knew that this is a bad one.
+BULL18|There we go, pull back rally more than 50% same story.
+NEUT19|I could go on and on 7487 ninety eight 2003 if Williams is right in history, says he is then the worst may be over for the stock market.
+NEUT20|Look we know or any season starts tomorrow.
+NEUT21|We know we have to worry.
+BULL22|We know earnings are going to stink but the bottom line when you look at the facts, I think there's reason to be more hopeful.
+NEUT23|Then we have been.
+BEAR24|We're still under lockdown.
+BEAR25|Thousands of people still dying every day.
+BEAR26|The economy is still getting hit really hard, but the worst case scenarios been taken off the table.
+BULL27|And if Apple and Google can do contact tracing that we all embrace, I know I will while we continue to roll out more testing, the economy could reopen a lot sooner than we thought, even, say, three weeks ago.
+NEUT28|Don't miss a second of mad money.
+NEUT29|Follow at Jim Cramer on Twitter.
+NEUT30|Have a question?
+NEUT31|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

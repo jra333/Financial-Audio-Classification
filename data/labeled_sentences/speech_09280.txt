@@ -1,0 +1,35 @@
+NEUT0|"""BNGO stock analysis and predictions, January 30th."
+NEUT1|In today's be NGO stock analysis and predictions B NGO suffer does detect cancer cells.
+NEUT2|Alright let's get started.
+NEUT3|Bionano Genomics Inc. NASDAQ be, NGO announced a presentation by the director of the Clinical Cyto Genomics Laboratory of Children's Hospital, Los Angeles.
+NEUT4|Doctor Gordana Racha, in which she reported on the performance of Optical Genome Mapping OG M for the clinical analysis of pediatric acute leukemias.
+BULL5|She demonstrated how ogm with Saphir detected clinically important structural variants.
+NEUT6|SVS that can alter.
+NEUT7|Patient care and treatment decisions.
+NEUT8|These SVS were not detected when the samples were evaluated with a combination of next generation sequencing NGS and three cytogenetic methods that are the standard of care in leukemia testing.
+BULL9|Today she concluded that Ogm would be advantageous in clinical testing because it detects all types of SVS, but with better precision, higher resolution and better sensitivity than traditional methods, including next generation sequencing.
+NEUT10|NGS leukemia accounts for more than 1/4 of cancer cases in children and remains the second leading cause of cancer death.
+NEUT11|Karyotyping and fluorescent.
+NEUT12|In situ hybridization fish do not efficiently detect genetic subtypes, so Children's Hospital Los Angeles.
+NEUT13|C HLA currently combines four different methods to characterize their patients.
+NEUT14|Leukemia genomes karyotyping extensive fish panels, chromosomal microarray, CMA, and a custom design NGS gene panel for pediatric cancers.
+BEAR15|Called Onco kids still 15% of pediatric acute lymphoblastic leukemia.
+NEUT16|All cases showed no main genetic driver after those four tests.
+NEUT17|The study analyzed one acute myeloid leukemia AML case and ate all cases, which had normal karyotypes and tested.
+NEUT18|Need for commonly known genetic drivers by the standard of care in leukemia testing among Doctor Rackers findings was that suffer detected gene fusions that aided in patient stratification and prognosis, including one gene Fusion that can be treated with drugs such as Gleevec.
+BEAR19|The gene fusions were missed by the traditional techniques because they either had not been reported in pediatric cancer before and were therefore not part of the Ancher Kids NGS panel or because they were simply undetectable by standard methods.
+NEUT20|In seven out of eight cases, Ogm detected SVS that see Hlas for separate analysis.
+NEUT21|Methods missed.
+NEUT22|Oh, GM was also able to identify the exact copy number, location and orientation of a repeat in the PX 5 gene that defines a novel or subtype.
+NEUT23|Which other methods were unable to do.
+NEUT24|Eric Homeland, PhD, CEO of Bio Nano Genomics commented.
+BULL25|CHLA is one of the top five pediatric cancer hospitals in the nation and a pioneer in the use of novel diagnostic and therapeutic tools.
+NEUT26|Doctor Rackers results with Safa demonstrate the importance of comprehensive genome wide detection of structural variation in pediatric cancers, something no gene panels or current cytogenetic methods can currently provide.
+BEAR27|Which can leave many children without an accurate diagnosis and without optimal clinical care.
+BULL28|We believe that as pediatric centers around the world adopt, suffer for research, and developer says for clinical use, suffer will continue to transform cyto genomic testing with a single assay that can provide more actionable results faster.
+NEUT29|That's what's been happening this week in the world of the NGO stock analysis and predictions.
+NEUT30|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of the NGO stock analysis and predictions.
+NEUT31|If you enjoyed this edition of the NGO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL32|We'd really appreciate it.
+NEUT33|Are you still watching and want more?
+NEUT34|"Check out last week's BN Geo stock analysis and predictions by checking out our BN Geo stock analysis playlist."""

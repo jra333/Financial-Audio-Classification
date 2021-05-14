@@ -1,0 +1,14 @@
+NEUT0|"""Welcome to the FT market minute."
+NEUT1|Here's what we're watching in London on Friday.
+BEAR2|Well, the quarter is ending in a sour mood.
+BEAR3|Financial sector stocks are under pressure as investors worry about the capital position of Deutsche Bank.
+BEAR4|This is infecting sentiment more broadly as some traders mutter that news of hedge funds pulling business from Germany's.
+NEUT5|Uber Lender is horribly reminiscent events during the financial crisis roughly a decade ago.
+BEAR6|Now it should be noted that even though Deutsche is systemically important and has a humongous derivatives book, pretty much all analysts are stressing that this is no.
+BULL7|Lehman moment deteriorating assets are not the issue, and Berlin and Frankfurt have learned their lessons.
+BEAR8|They argued.
+BEAR9|Still, it's the end of the quarter, so doubtless some fund managers will be wary ahead of the often choppy October month.
+BEAR10|And adding to the cautious tone are signs that the OPEC induced rally in oil prices may be fading.
+BULL11|The big gains enjoyed by energy companies in the last few sessions are being pared back.
+NEUT12|But don't worry, all bulls.
+BULL13|"I'm sure it won't be long before a big producer talks the market up again."""

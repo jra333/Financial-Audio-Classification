@@ -1,0 +1,21 @@
+BEAR0|"""Could Bitcoin price break above $10,500?"
+BEAR1|A technical resistance it has repeatedly failed to breach since September 2019.
+NEUT2|Bloomberg analyst Mike Mcglone thinks so.
+BULL3|The senior commodity strategist said Friday that he sees Bitcoin hitting $13,000 in the coming sessions.
+NEUT4|He gave two reasons to justify its bullish call for the crypto currency.
+BEAR5|The first mentioned the assets declining volatility while the other highlighted 1 technical pattern that promised an upside breakout.
+BULL6|Bitcoin is caged bull set for a breakout eyeing $13,000 resistance.
+NEUT7|Mr. Mcglone headline does.
+BEAR8|He added that a plummeting Bitcoin volatility reflects its maturation toward a digital version of gold.
+BEAR9|As for the technical pattern, the analyst noted that Bitcoin is trending in a symmetrical wedge that appears like a triangle at the same time, the cryptocurrencies 30 day volatility breached below its 200 day simple moving average.
+NEUT10|The chart shows two similar fractals from the past.
+BULL11|We're in the Bitcoin price rose exponentially after the 30 day volatility tested the 200 DMA.
+BEAR12|Meanwhile the symmetrical wedge, which followed a 150% price rally further hinted an uptrend continuation.
+BEAR13|Mr Mcglone's bullish outlook for Bitcoin came on the day when the crypto currency was extending its downside correction.
+BEAR14|The BTC USD exchange rate on Friday fell to its lowest circa $9076.00 down 7.30% from its week to date high.
+BEAR15|The plunge appeared ahead of the expiry of over $1 billion worth of Bitcoin options contracts across several derivative exchanges.
+BEAR16|Observers were anticipating turbulent price moves as options traders attempt to move spot Bitcoin rates in the direction of their options strike price.
+BEAR17|Nevertheless, data on skew showed that a majority of call options targeted $10,000 and $11,000 as their strike price, while those with put options expected spot price to fall as low as $8000.
+BEAR18|If the scenario plays out, Bitcoin will continue trending sideways after the record options expiry today.
+NEUT19|It will also stay in the range of Wedge highlighted by Mr.
+NEUT20|"Mcglone."""

@@ -1,0 +1,11 @@
+NEUT0|"""It should handle Keene CEO and President of alphashark.com."
+NEUT1|This is your stock swing trade of the day.
+NEUT2|It's going to happen in Kate WEB, so institutional order flow option market.
+NEUT3|They bought no 45 'cause I think it's good idea to buy stock so we could buy stock and they call it the signal at 4320, which is where stock is trading.
+NEUT4|Stop loss would be $3, risking three target.
+NEUT5|One would be about 15.
+NEUT6|Target two would be $3.
+NEUT7|So if you like a web, here is very very weak.
+BULL8|But I think you can hold this 41 level and then I think we'll bounce from here.
+NEUT9|So by Ky will caught at 43 stop loss would be 40 target 144 fifty target should be 46.
+BULL10|"I think whoever was higher thanks will run back tomorrow."""

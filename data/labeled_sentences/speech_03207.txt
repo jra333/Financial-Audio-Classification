@@ -1,0 +1,27 @@
+NEUT0|"""Steph, thanks why don't you give us a final trade while you're at it?"
+NEUT1|So Coca Cola?
+BEAR2|This is actually a reopen stock and they have great product innovation and it's down 4%.
+BULL3|Pepsi is up 4% in the year, so you get a 3% dividend yield while you wait.
+BULL4|Great balance sheet.
+BULL5|OK, you have a nice Thanksgiving stuff.
+NEUT6|I'll see you on the other side, you to farmer Jim, thanks.
+NEUT7|Yeah, you know I talk about Viacom CBS every now and then and it's really.
+BEAR8|It's rallied very hard off of the bottom.
+NEUT9|I think it's got more to go as we reopen.
+NEUT10|Hey Scott, I gotta give it.
+NEUT11|Give a hat tip to G research.
+NEUT12|This is gabelli's research arm.
+BULL13|They've really been on this and they've been helpful on me with this.
+NEUT14|Yeah for a long time for a long time.
+BULL15|Jim, thanks for that.
+NEUT16|You have a good holiday as well.
+NEUT17|Doc, what do you got for me?
+BEAR18|Freeport FCX Scott upside calls at the 24th strike bought.
+NEUT19|I bought him during the show.
+NEUT20|OK, same holiday to you.
+NEUT21|Good one Josh Brown where you got need a name Sir.
+BULL22|Stay stay stay in long Uber up 44% last six months and counting.
+BULL23|I think it goes higher.
+NEUT24|OK, just covering my bases.
+NEUT25|I don't know who I'm going to see tomorrow so thanks everybody.
+BULL26|"Exchanges now thank you."""

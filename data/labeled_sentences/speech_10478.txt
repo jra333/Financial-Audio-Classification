@@ -1,0 +1,39 @@
+BEAR0|"""Meanwhile guys, the ongoing story of corporate restructuring and layoffs continues today."
+BEAR1|3M files an 8K looking at 2900 job cuts around the world.
+NEUT2|That's in addition, Jim to should we do the list?
+NEUT3|I mean Exxon, Conoco Wells, Nike, Boeing, Ford, Raytheon, Goldman.
+NEUT4|I mean, it's it's typical of year end, but it's adding up I. I don't mean to be a dollar sign represented by man, but every one of those stocks is worth buying because of the tough actions they're taking.
+NEUT5|Because the top line is not that bad.
+BEAR6|I mean all those companies I I've been recommending for de Goldman, I'm trying to get my arms around 3 M I3 envases Del has been dealt a bad hand in a lot of different places, but I think they're coming back and I don't want to see which David it's very tough.
+BEAR7|Yeah, you have to distinguish stocks from people and it is painful to look at the deaths and then look at the layoffs and then look at the profits without a doubt.
+NEUT8|And as Carl said, 2900 positions globally for 3M.
+NEUT9|And the numbers there, you know what they wanted to tell us.
+NEUT10|Total pretax charge 250 to 300,000,000 and various other charges, with the hopes that that annual pretax savings of between 200 and 250,000,000 from these actions, the actions themselves, those sound like things that businesses just do.
+BULL11|I mean, right, really, they're going to eliminate redundancies and better use analytics to drive additional efficiencies.
+NEUT12|OK, why wouldn't you be doing that all the time in marketing?
+BULL13|They're going to build on their success and utilizing data insights.
+BULL14|Accelerating global marketing programs and activating digital engagements with customers.
+NEUT15|Again, that sounds like normal course business, doesn't it?
+NEUT16|If you're actually trying.
+NEUT17|Yeah, well, you know if you look at I have snowflake one tonight and I know you could argue that there are companies that in two days make what these guys are making a quarter and they've got a much lower valuation.
+NEUT18|But when you bring Snowflake in, that's what you can do.
+NEUT19|Every one of those restructurings makes sense 'cause you just don't need nearly as many people when you have the snowflake dashboard, they're just.
+NEUT20|It's a remarkable company, just very hard to value.
+BULL21|But yeah, I mean, I think that they're doing exactly what they have to do with 3M, and my Chrome is doing a terrific job.
+NEUT22|But again, you have companies like Snowflake that make it so that perhaps you just don't need as many people and you can do a lot better.
+NEUT23|What's that worth?
+NEUT24|Called these are we have some amazing companies that are reporting and they're doing things that make it so that you can.
+BEAR25|I don't want to get away with firing people, but you just don't need to hire nearly as many people that then you currently have, and it's going to cause a ripple throughout the economy.
+NEUT26|Yeah, Aaron Levie had a great tweet talking about how the cloud gym which we talked about so much change the way software was built.
+NEUT27|Now it's actually changing the way people work totally.
+BULL28|That's a great point.
+NEUT29|What I like about sleeping by the way CEO of stuff like.
+NEUT30|It's not a sass model.
+NEUT31|I mean it's a model where you use it, you pay.
+NEUT32|It is just like a real business.
+NEUT33|He actually has numbers that cannot be fudge does a lot of the companies that we see can end?
+NEUT34|Yes, Aaron might just will Aaron Levie.
+NEUT35|Who really is one of the few philosophers of tech is correct this next revolution that's occurring makes it so that there's whole swaths of in your in your central office.
+NEUT36|Or now, I guess at home who are just unneeded and can't do the job that Snowflake can do.
+NEUT37|Shepard Smith here.
+NEUT38|"Thanks for watching CNBC on YouTube."""

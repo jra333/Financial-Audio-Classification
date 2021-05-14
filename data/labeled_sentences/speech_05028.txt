@@ -1,0 +1,12 @@
+BEAR0|"""I also got into a conversation with Hastings about Tick Tock, which of course has been in the news and its implications with China."
+BULL1|Tik T.O.K is done a phenomenal job on short form entertainment, so it shows there's always room for innovation and I would never count anybody out.
+NEUT2|It's a wide open market and lots of new surprises coming.
+NEUT3|Given that you just mentioned Tick Tock.
+NEUT4|There is a real question about the future of Tick Tock, but more importantly the future of the relationship between the United States and China Imarket that you've long talked about trying to get in, and I'm curious what you think the implications of what's happening with Tick Tock may or may not be on.
+NEUT5|Your ability Netflix is ability to enter that market in the future.
+BEAR6|Well, we got turned down by the Chinese government several years ago and we have not been spending anytime on China in the last couple of years.
+BULL7|There's so much opportunity for us in Asia.
+NEUT8|The rest of Asia, India, in particular, Korea, Japan, Indonesia, and then all through Europe and Latin America.
+NEUT9|So we're very focused on that.
+BEAR10|It's a pity from a long term perspective of the US and Chinese disengagement.
+NEUT11|"Well, there's nothing we can do about that, and instead we're focusing on entertaining everybody else."""

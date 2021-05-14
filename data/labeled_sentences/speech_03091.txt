@@ -1,0 +1,10 @@
+NEUT0|"""Hey, I'm Stephen Bruner and here are three things entrepreneurs you know."
+BEAR1|Today, July 26, 2018 Facebook warned its shareholders that its growth had slowed after numerous scandals rocked the company, despite its efforts to fix its image, Facebook stock price dropped by more than 20% on Wednesday.
+NEUT2|Tim Sweeney has joined the billionaire club.
+NEUT3|Now you may not know him by name, but you definitely heard of his company and its product at Big Games.
+NEUT4|Makers of video game phenomenon Fortnite.
+NEUT5|The game is on track to make $2 billion just this year.
+NEUT6|Segway, maker of everyone's favorite, stand up Scooter, will soon release its version of roller skates.
+NEUT7|There's no price and release date for the Segway drift W 1 E gates, but they look much cooler than its signature product.
+NEUT8|That's it for today.
+BULL9|"Have a great day."""

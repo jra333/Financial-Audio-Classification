@@ -1,0 +1,6 @@
+NEUT0|"""Lots of people search for information about investing in the stock market, but there's so much information out there."
+NEUT1|Introducing the new Google finance.
+NEUT2|It can help you find the information you need to make more informed investment decisions with real time market info.
+NEUT3|Organized in a way that just makes sense.
+NEUT4|Take a look at what's trending and find related news right where you need it.
+NEUT5|"Discover new stocks and investments based on the things you care about and organize them in your own customized watchlists see how they perform and how much you can learn with Google Finance."""

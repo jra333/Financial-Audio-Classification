@@ -1,0 +1,8 @@
+BEAR0|"""In September's Crypto Outlook newsletter, Bloomberg's analyst Mike Mcglone observed that the price of Bitcoin BTC could either be heading to the $500,000 mark, or it could fail."
+BULL1|Mcglone has continued to reiterate that, in his view, Bitcoin is set to become digital gold.
+BULL2|He emphasized once again how Bitcoins, limited supply and increasing demand were key adoption indicators, and drew comparisons to the 2017 Bull Run.
+NEUT3|The estimates that the analyst refers to are likely based on assumptions that bitcoin's market capitalization will eventually reach parity with golds 9 tree.
+NEUT4|Ian dollars dividing that number by the maximum supply of Bitcoin of 21 million produces 420 eight $1571.00.
+BULL5|A similar sentiment was recently voiced by the Morgan Creek Digital co-founder Anthony Pompliano.
+NEUT6|Zero to 500,000 provide a pretty good margin of error.
+BULL7|"Unlikely Bloomberg will be proven wrong anytime soon."""

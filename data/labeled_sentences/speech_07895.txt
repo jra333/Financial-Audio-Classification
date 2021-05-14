@@ -1,0 +1,18 @@
+NEUT0|"""I'm Jon Najarian from Market Rebellion and I've got Peter Lynch, Anne Netflix."
+NEUT1|How do these two cross?
+NEUT2|I'll tell you about it.
+NEUT3|I thought we'd talk a little bit about the Peter Lynch theory now.
+NEUT4|If you don't know him, he's of course the legendary money manager for Fidelity, and Peter Lynch always said invest in what you know.
+NEUT5|In other words, if it was a mom and she was going to the supermarket and she was buying a lot of General Mills products, maybe she wanted to buy some General Mills stock.
+NEUT6|The same applies during this COVID-19 shutter in place order that we are all living through right now.
+NEUT7|What are we all doing?
+NEUT8|We're spending a lot more time on line and we're spending a lot more time watching streaming media.
+BULL9|The big winner here has been Netflix NFLX wise that well number one.
+NEUT10|They already had a huge base.
+NEUT11|100,000,000 people already had Netflix before this got started and they are growing at 100% in just a two week.
+NEUT12|Can you imagine that if you go from 100,000,000 to 200,000,000?
+NEUT13|Unique users hitting your site.
+NEUT14|That's what Netflix did folks.
+BULL15|That's why the stock jumped from $350.00 to $450 in four trading days.
+NEUT16|So Peter Lynch theory if you're watching a lot of Netflix, maybe you want to own some of that stock.
+NEUT17|"And I am John Najarian from marketrebellion.com."""

@@ -1,0 +1,46 @@
+BULL0|"""Hello and welcome back to stocks with Superman dude."
+NEUT1|Oh yeah, welcome back to the 100 top 100 series.
+NEUT2|We are taking the top 100 most popular stocks, breaking him down, giving him a grade from zero to 10 based on nine key factors and it is time in alphabetical order for number 45 Coca Cola.
+NEUT3|What do they do?
+NEUT4|They make Coca Cola.
+NEUT5|We like that we like that, but we don't need to look it up 'cause we know what Coca Cola does, right?
+NEUT6|So let's take a look at their earnings Coke.
+BEAR7|Coca Cola's been around a long time current quarter, down 2% next quarter, expected 31% positive current year, nine point, 7% positive next year 8.4% positive.
+BULL8|Those are pretty decent looking numbers.
+NEUT9|Keep in mind back end of the coronavirus.
+NEUT10|Pretty good, let's look at the price target here.
+NEUT11|Current price 5164 with a price target of 57.
+NEUT12|Not too shabby, about 1011% from here.
+NEUT13|That's not too bad.
+NEUT14|Next year, let's take a look at the PE ratio.
+NEUT15|If there is one.
+NEUT16|Yes, 28.85 is not bad really.
+NEUT17|We try to say under 15 is a nice price, but with the way stocks are right now in today's day and age, 28 is pretty darn good.
+NEUT18|Then we'll be looking at the beta.
+NEUT19|0.62 Anything under a one is considered low risk, so that's pretty darn good actually.
+BULL20|And let's take a look at the short interest here and Coca Cola increased by 2%.
+NEUT21|That's pretty nominal.
+NEUT22|Not really very.
+NEUT23|It's not really anything.
+NEUT24|Taking a look at the chart now looking at little long term here.
+NEUT25|Let's take a look at seven years.
+NEUT26|Let's take it back about 7-8 years.
+BULL27|Nice upward trend going on.
+BEAR28|It was very overextended.
+BEAR29|When Covid hit an covid, took it down from a $60.00 high all the way down to a $36 low.
+BULL30|Now we've seen some pretty good recovery since then.
+NEUT31|Let's take a look a little closer.
+NEUT32|Just a little bit closer here, an we're kind of at the high end of our trading range with the low end and priority being at about 4860 a share 4860 shares about right all these points right here.
+NEUT33|Along that line.
+NEUT34|Let me just extend this just a little further and also.
+NEUT35|But that's fine actually.
+BULL36|There's a ton of a point around here that creates support and it just climbed up and kind of flirted with this resistance at 5230 and came back down.
+BULL37|Overall, the chart looks good.
+BULL38|I like it so the great I'm going to give on Coca-Cola given the fundamentals and everything else I'm going to give it an 8 out of 10.
+NEUT39|I'm going to give it an 8 out of 10.
+NEUT40|I like what I'm seeing.
+NEUT41|I don't see a ton of growth.
+NEUT42|Expanse potential, but I like to see that they're always coming up with new and interesting ways to sell their product, so Coca Cola let me know you're great in the comments.
+BULL43|Thanks for watching.
+NEUT44|Don't forget to leave a like and subscribe and we'll see you on the next one for Luvr #40.
+NEUT45|"Six in alphabetical order, will see you there."""

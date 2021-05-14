@@ -1,0 +1,16 @@
+BULL0|"""Hey chef, how you doing?"
+NEUT1|Well, you know the Clevelander hotel, a staple on ocean Dr.
+BEAR2|Announced today that it is going to temporarily shut down its food service due to safety concerns for its customers employees.
+BEAR3|The decision comes after a fight broke out last night at a restaurant here on the beach, ending in multiple arrests as the police fired pepper balls to disperse the large crowd.
+BULL4|Miami Beach Mayor Dan Gelber acknowledged that South Beach reputation.
+NEUT5|As an anything goes, district needs to change.
+BEAR6|Listen, I hate what I'm seeing as the mayor and as a resident and someone who loves the city and we're doing everything we can with the volume of policing we have right now.
+BEAR7|We're arresting dozens and dozens and dozens of people every single night to try to create a sense of order.
+BEAR8|Since the spring break season began in February, Miami Beach Police tell us that more than 900 arrests have been made.
+BEAR9|Nearly a third were for felony offenses of those arrested, more than half came from outside Florida, and on top of all of that, police say more than 80 firearms have been confiscated.
+BEAR10|These large crowds come as local health officials continue to warn about the risk of covid.
+NEUT11|Miami Dade has been the center of this state's coronavirus spread and.
+NEUT12|Has been responsible for one quarter of all the new cases in just the last week Shep.
+NEUT13|Kerry Sanders live on Miami Beach.
+NEUT14|Shepard Smith here.
+NEUT15|"Thanks for watching CNBC on YouTube."""

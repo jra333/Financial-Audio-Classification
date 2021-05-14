@@ -1,0 +1,44 @@
+NEUT0|"""I think there is a lot of momentum around what's going to happen."
+NEUT1|It's been several years since the bailouts in the bankruptcies of the General Motors and Chrysler.
+NEUT2|They had talked about a tie up in 2008 before the financial crisis really were in the teeth of the financial crisis.
+NEUT3|Didn't workout, but this isn't a new idea necessarily.
+NEUT4|To consolidate two of the Big Three, Rick Wagner, former CEO of GM, had approached different parties.
+NEUT5|There was talk about this when they were stronger, the decades changed a little bit.
+NEUT6|You know, a lot of talk about the technology investments that are needed in that you're going to need partnerships.
+NEUT7|You're going to need a lot more capital, and you're going to need to spend less money on developing the things that are are kind of today's industry in the future.
+BULL8|And boy, it sure would help if you had a really, really strong lock on that pickup truck in SV market in the US, which isn't really going anywhere anytime soon.
+NEUT9|So who would you?
+NEUT10|Who would emerge as the two players?
+NEUT11|So I'm going to channel my inner Sergio Marchione here.
+NEUT12|Surge of course, died last year.
+NEUT13|I had a lot of conversations with him over the time that he was running Chrysler, his.
+NEUT14|Dream target.
+NEUT15|He talked everybody right?
+NEUT16|And he was very hot on consolidation.
+NEUT17|He wants it.
+NEUT18|He wanted a partner and and clearly the successors at Fiat Chrysler wanted partner.
+NEUT19|General Motors is the company that he would like would have liked to have partnered with and I still think as much as I can think that this is an ideal partner.
+BULL20|They would have a very sweet position in the pickup truck market.
+NEUT21|There's a lot of synergies there.
+BULL22|Obviously GM pulled out of Europe and could use a bit more balance in the global lineup and Fiat Chrysler.
+NEUT23|Believe it or not, makes money there.
+NEUT24|Well, he brings China to Fiat Chrysler, but they don't have an autonomous GM is making a lot of moves there and Fiat Chrysler needs a partner in that area.
+NEUT25|So what would it take for a deal like this to actually go through?
+NEUT26|And you know, keeping in mind there's been a lot of other merger.
+NEUT27|Talk with Fiat especially, but is there?
+NEUT28|Do you think resistance from US regulators?
+NEUT29|Is there resistance from the US buying public?
+NEUT30|Or is it simply resistance from say, General Motors?
+NEUT31|I don't think I think it's resistance from General Motors.
+NEUT32|I don't think anybody in the buying public really thinks about who.
+NEUT33|Makes the Jeep who makes the Silverado.
+NEUT34|If it's General Motors or Fiat, Chrysler or both, their brand loyalty is big.
+NEUT35|You know, we've answered all the questions about what consumers care about when both of those companies went bankrupt and they're still selling a lot of automobiles in America and elsewhere.
+BEAR36|Whether or not federal regulators would have a problem with this, I think is an old school issue because these two companies combined today have less market share than than General Motors had.
+NEUT37|When I started covering them out 20 years ago, so.
+NEUT38|They aren't.
+NEUT39|They aren't huge players.
+NEUT40|Maybe there would have to be some.
+NEUT41|Moves made in the pickup truck line up to get rid of one of the brands like GMC.
+NEUT42|To assuage regulators.
+BULL43|"But really there isn't as much overlap as you would think in the two product lines and they would still have a very formidable competitor in Ford Motor Company right now, which does dominate the pickup truck market in Toyota and Nissan and others are coming in with products that are competitive."""

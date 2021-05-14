@@ -1,0 +1,40 @@
+NEUT0|"""It's time now for Barones Buzz, where we take a sneak peek at the new issue of Barron's Magazine, joining me now senior editor Jack How?"
+NEUT1|How are you Jack?
+NEUT2|That's me that is you alright?
+NEUT3|What are your big three stories give us?
+NEUT4|The first one, well, our cover story.
+BEAR5|We've got to look at this.com downturn that hit the stock market.
+BEAR6|We we kind of sounded a cautionary note late last year about someofthese.com shares.
+BEAR7|They've come down.
+NEUT8|The group still looks.
+NEUT9|Expensive, you know?
+NEUT10|Andrew Berry takes look here.
+BEAR11|One of the issues with these.com companies is that many of them pay their employees using stock and that makes the earnings that the earnings figures that Wall Street sites overstated in many cases.
+NEUT12|When you look relative to their true earnings, they still trade at significant premiums to the market.
+BULL13|However, there are some other pockets of the market also sold off, notably Biotech, where some of the valuations there have come down back in line with the market and you can get some better deals.
+BULL14|In general, large companies look like better deals than small companies right now.
+NEUT15|But most of the stock market seems reasonably priced at these levels, it's just the.com port.
+BEAR16|It still looks frothy all right.
+NEUT17|What is the next story search for income?
+NEUT18|Income from your investment Evergreen topic.
+NEUT19|Not just not just arrays or some extra cash in a set.
+BULL20|Now income from your best with interest rates are rising.
+NEUT21|That of course is good deals for good deal for anyone shopping for new bonds, we have to be careful about prices falling in your existing bonds.
+NEUT22|We look at all manner of ways to protect your portfolio from us.
+NEUT23|We talked to Bill Gross on bonds we talked to others on stocks and we have basically every Ave under the sun for taking advantage of these rising rates.
+NEUT24|And then what do you have to tell me about drones?
+NEUT25|Where that's our gadget of the week?
+NEUT26|Backyard drones there's you know, we're looking at this model called I don't know there's a mini an there's a micro and there's something that fits in a backpack that can hover over your over your roof and take and make sure there's no leaves stopping up your ring thing and and take video.
+NEUT27|Basically you can carry around your own.
+NEUT28|How long is it until I can carry one of my pocket?
+NEUT29|Just release it and take pieces of technology that is absolutely reached?
+NEUT30|Sort of a very simple consumer level.
+NEUT31|Yeah, that's crazy.
+NEUT32|Absolutely, you probably will need some.
+NEUT33|New rules out there at some point, but we've got to look at the gadgets right now.
+NEUT34|If you want to fly something around the neighborhood and take pictures all right.
+NEUT35|I know you do.
+NEUT36|I do, of course, I do.
+BULL37|Jack, thank you very much.
+BULL38|Excellent stuff.
+NEUT39|"You can check out Barron's Online and on the newsstand."""

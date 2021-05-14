@@ -1,0 +1,18 @@
+NEUT0|"""BNGO stock analysis and predictions."
+NEUT1|February 22nd.
+NEUT2|In today's BN Geo stock analysis and predictions, B NGO can identify variance.
+NEUT3|Alright, let's get started.
+NEUT4|Bionano Genomics Inc. NASDAQ be, NGO announced the publication of a study by its linear gin team that describes the first genome wide model to assess and score nearly all protein coding genes based on their likelihood to cause central nervous system CNS disease.
+BULL5|The resulting list of high scoring jeans enhances linear Jens clinical interpretation capabilities allowing their genetic counselors to better interpret variants of unknown significance VUS.
+BULL6|Which can improve diagnostic abilities and provide for more precise counseling to patients and families.
+NEUT7|That gene scoring model can also be integrated into bionano's analysis software for Safa data allowing scientists and clinicians to quickly identify and filter structural variants based on their increased risk of causing CNS diseases.
+NEUT8|The model, called the neurogenic systematic correlation of omics related evidence or neuro score, combines data from five public and proprietary genomics databases containing evidence on whether genes are highly expressed in the adult or developing human brain.
+NEUT9|Have high rates of new genetic variation in people with CNS diseases and have few variants in individuals without neurological disorders.
+BULL10|Armed with neuro score, scientists could discover novel genes not previously associated with CNS diseases, potentially enabling clinicians to more accurately diagnose patients with previously uncharacterized neurodevelopmental disease.
+NEUT11|These advances may make it possible to better study the complex molecular mechanisms for conditions such as autism spectrum disorder and other disorders of childhood development, which are often caused by a combination of genetic variants affecting multiple genes and pathways.
+NEUT12|That's what's been happening this week in the world of BN Geo stock analysis and predictions.
+NEUT13|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of the NGO stock analysis and predictions.
+NEUT14|If you enjoyed this edition of the NGO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL15|We'd really appreciate it.
+NEUT16|Are you still watching and want more?
+NEUT17|"Check out last week's BN Geo stock analysis and predictions by checking out our BN Geo stock analysis playlist."""

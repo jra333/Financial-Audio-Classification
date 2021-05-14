@@ -1,0 +1,28 @@
+BEAR0|"""We're off by 4.4%, which is a weird market reaction, considering that actually the numbers are pretty good in terms of daily active users."
+BULL1|I mean, have we just moved to high ahead of SNAP?
+BULL2|Yeah, you're right.
+BULL3|The expectations are pretty high going into the quarter.
+BULL4|Actually, I think they delivered this quarter was the guidance that came a little weak, but if you look at the core metrics over here in terms of user numbers, you know they're ahead.
+NEUT5|This quarter they're projecting, they'll be ahead next quarter as well, which means that you know some of the changes that they're doing, specially with the Android app, and you know the filters and things like that.
+NEUT6|It's continuing to pay dividends and it's showing results, so that metric is very actually important to think about longevity.
+NEUT7|For this story, because every other metric it's in their control, the user number.
+BEAR8|It's harder and they're nailing that one, so we see this target slipping 6% after hours.
+NEUT9|Is this just a matter of investors?
+NEUT10|Knew that this company is a turn around story?
+BULL11|It has some momentum they were looking for a little more.
+NEUT12|Yes, that's exactly it.
+NEUT13|So I think if the guidance was also stronger of you would have seen a different reaction.
+BULL14|Look if you look at the expectations for this company, you know next three years they are expected to more than double their revenue.
+NEUT15|It's just that like the bear scenario over here or the Bears don't really buy that.
+BEAR16|So that longevity reserve remains a concern and overhang.
+BULL17|It's quarters like these where they come out, deliver on the core metrics consistently is what could instill that confidence in the valuation will follow.
+NEUT18|But if you look at these numbers, you know we think we think they're fine.
+NEUT19|It's just the gap between expectations and the guidance which might reflect some conservatism there.
+NEUT20|Just under a real quickly here, one of the big criticisms of Snapper with regards to the longevity is this idea that anything they do Facebook and knock it off pretty much overnight and then it's lights out for SNAP.
+NEUT21|How to snap?
+NEUT22|Defend against that.
+BEAR23|Well, they have been against that for the last two years really.
+BULL24|And then, uh, at least the user engagement numbers have shown their resilient to that.
+NEUT25|So I think as far as they can keep that core audience engaged, an increase more on the original content and and the innovation side of things with filters and focus on the ARPU for driving revenues, they can hit those expectations, but if they're going to go straight out after Facebook, you know try to double their user count.
+BEAR26|That'll be a very, very hard thing to do for them so.
+BULL27|"Being a content communication platform, keeping the core engagement steadily growing and growing, the ARPU against that is the best bet to come ahead out of the street expectations."""

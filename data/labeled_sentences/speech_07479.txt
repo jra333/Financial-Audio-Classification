@@ -1,0 +1,17 @@
+NEUT0|"""Eric bought a good laptop awhile ago at the regular retail price, whereas John chose to wait and bought the same product at a 40% Black Friday discount."
+NEUT1|Both now own a good laptop.
+NEUT2|It's just that John bought it when it was, let's say, undervalued.
+NEUT3|The same principle is valid when buying stocks as a value investor developed by Benjamin Graham and David Dodd in 1934 and popularized through Graham's famous book, The Intelligent Investor, that to this day.
+NEUT4|Is even recommended by billionaires such as Warren Buffett.
+NEUT5|Value investing simply revolves around trying to buy stocks that are trading below their quote, unquote intrinsic value.
+NEUT6|In other words, value investors don't believe markets are efficient enough to include all available information in the current price in a rational manner.
+NEUT7|Instead, just like contrarian investors in this respect, they go against the proverbial heard by identifying undervalued stocks based on metrics such as one, the PE or price to earnings ratio.
+NEUT8|To identify profitable companies.
+NEUT9|To the PB or Price to book ratio to identify asset rich companies, three free cash flow to identify companies with solid liquidity and so on.
+NEUT10|It's important to understand that determining this intrinsic value is a subjective endeavor, which is why you might want a margin of safety.
+NEUT11|For example, Graham recommends that you buy shares trading at 2/3 of the intrinsic value you've determined or less value investing can be adapted to other asset classes as well.
+NEUT12|But before making decisions.
+NEUT13|Please understand that perfect strategies don't exist.
+NEUT14|Still, value investing can be a more than decent choice for patient investors who don't insist on picking hot assets or going with the flow.
+NEUT15|Instead, they diligently research and wait for buying opportunities.
+BULL16|"Common sense 101."""

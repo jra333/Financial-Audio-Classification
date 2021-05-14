@@ -1,0 +1,17 @@
+BULL0|"""As Covid cases continue to rise, Washington continues to debate the need for a new round of stimulus elimu."
+NEUT1|He joins us.
+BULL2|She's got the latest on that front wheel and good morning.
+NEUT3|Good morning Becky.
+BULL4|Well, a group of 125 economists are calling for another round of direct checks to American household, arguing they would provide an immediate and much needed injection of stimulus into the economy.
+NEUT5|Now some of the people who were signing on to this new open letter include Jason Furman, a frequent guest on the show, and President Obama's former economic adviser, as well as Alan Blinder, the former vice chairman of the Federal Reserve.
+NEUT6|Now, this letter does call on policy makers to use all the tools that their disposal.
+BULL7|But it singles out direct cash payments as one of the quickest, most equitable and most effective ways to get families and the economy back on track.
+BULL8|The letter cites work from the Urban Institute that shows that another round of $1200 checks that goes out to both adults and the kids would keep 8.3 million people from falling below the poverty line by the end of the year.
+BEAR9|And that is more than double the number of low income workers they say.
+NEUT10|Who would benefit in the same way from extending those enhanced unemployment benefits?
+BEAR11|So these checks are controversial within both parties.
+NEUT12|The bill that the Democrats had passed back in the spring started phasing out these cash payments for people who make $75,000 armor.
+NEUT13|And some economists say that that design means that it's a blunt instrument that could benefit many people who may not need it.
+NEUT14|Still, the fact that economists are setting out this letter shows that they are getting more worried about the strength of the economic recovery, and they're trying to ramp up the pressure on Washington to do something about it.
+NEUT15|Shepard Smith here.
+NEUT16|"Thanks for watching CNBC on YouTube."""

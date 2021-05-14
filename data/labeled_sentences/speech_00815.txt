@@ -1,0 +1,47 @@
+NEUT0|"""Two weeks ago you had written about how things were not as they seem."
+BEAR1|There's cognitive dissonance all around you called for a pullback.
+NEUT2|Investors suddenly woke up this week.
+NEUT3|It seemed like in the US to the reality of the coronavirus an pretty much we got a straight line to.
+NEUT4|A correction is a bear market inevitable at this point an how quickly do we get there?
+NEUT5|Well, it's a great question Scarlet.
+NEUT6|I don't think it's inevitable necessarily.
+NEUT7|You know, I've had the opinion that we should stop out with the S&P somewhere between 3031 hundred, which is what we did today.
+NEUT8|We need to take a breather here.
+NEUT9|Get some perspective, but you know, ask the data keeps coming in.
+NEUT10|You know, as I've said to some people, an epidemic is when your neighbor has the illness.
+NEUT11|A pandemic is when you have the illness and so the illness is really not come to the United States yet.
+BEAR12|But if this really turns into an epidemic in the United States, then I think we have a lot more downside.
+NEUT13|King about market risk.
+NEUT14|There seems to be two things that make this particularly different than anything we've seen lately.
+NEUT15|One of them is just the sort of extreme levels of uncertainty is really hard to model something like this, especially when so much human behaviors involved.
+NEUT16|And second of all, we've had other periods of volatility.
+NEUT17|They can usually be addressed via rate cut or something like that.
+NEUT18|I mean, you know, trying to devalue the currency, 2% at the end of 2015?
+NEUT19|Let's do a little stimulus and sort of re balance things.
+BULL20|A rate cut made theory help.
+NEUT21|But this is not really a monetary phenomenon.
+NEUT22|Not at all.
+BEAR23|I mean, I think the Fed is fairly impotent in this environment.
+NEUT24|You know when you look at, you know people keep talking about this demand shock and you know, will we have a demand shock or?
+NEUT25|I'm sorry that there is no demand shock.
+BEAR26|It's a supply shock.
+NEUT27|Well, come on hotels in New York are empty airlines.
+NEUT28|You know people are not traveling.
+BEAR29|It's a demand shock also.
+NEUT30|So and lowering interest rates isn't going to encourage somebody taking a risk of getting the.
+NEUT31|Virus, but you know one thing, Joe.
+NEUT32|I'll tell you that I've not said to anybody else in public.
+BEAR33|This is possibly the worst thing I've ever seen in my career.
+BULL34|And you know, I've been through a lot.
+BEAR35|I've been through the stock market crash in 87.
+NEUT36|I went through the financial crisis.
+BEAR37|This has the potential to real into something extremely serious.
+NEUT38|At what point did you have that realization this morning?
+NEUT39|Why this morning?
+NEUT40|What happened overnight?
+NEUT41|What happened this morning?
+NEUT42|When you start looking at the data that came in today?
+BULL43|Not yesterday's data, but we picked up overnight for increases in cases in Korea.
+BULL44|Increases for cases in Italy and and now Spain is becoming big.
+NEUT45|It's just, you know, it's very hard to imagine a scenario where you can actually contain this thing.
+NEUT46|"And so you know that's the thing that is, to me, very frightening."""

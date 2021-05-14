@@ -1,0 +1,31 @@
+NEUT0|"""Hey guys, here's a quick but in depth update about Nano dimension."
+NEUT1|All the information I'm about to tell you I found on websites like stock news and Seeking Alpha.
+NEUT2|I have chosen only the key point of the articles for you.
+NEUT3|Let's begin Nano Dimension ticker symbol.
+BULL4|An NDM is gaining in trading today after reporting Q4 and full year earnings for 2020 Nano Dimension Stock was up more than 17% on the day.
+BULL5|Nano Dimension Beat out revenue estimates by 97%.
+BEAR6|But missed on earnings per share with losses of $0.20 significantly higher than expected losses per share of four cents.
+NEUT7|Nano Dimension occupies a specialized niche within the 3D printing industry and each based on its propriety ability to create 3D printed circuit boards and similar devices.
+BULL8|According to Statista, the 3D printing industry is poised for explosive growth.
+BULL9|The market size in 2022 is expected to be 59% greater than 2020, or an average of nearly 30% per year.
+BULL10|2024's market is expected to be 155% greater than 2020.
+BULL11|Or nearly 39% per year.
+BULL12|One of the companies that could profit from that growth is Nano Dimension Limited.
+BULL13|It is financially strong with no debt and has raised about a billion dollars in the past year.
+NEUT14|Much of that coming from institutional investors.
+NEUT15|They now own nearly 10% CFO.
+BEAR16|Yale Sanders said revenues were lower than last year due to the effect of the COVID-19 pandemic, but better than the company had expected he went on to say the company is focusing our efforts on fulfilling our growth plan.
+NEUT17|Both internal through product development and R&D efforts, as well as through external M and activities.
+BULL18|Notably, the company's research and development expenditures more than doubled year over year.
+BULL19|That increase was primarily from an increase in payroll and related expenses and an increase in materials expenses due to increased R&D efforts.
+BULL20|Last week a RK Investment Management CEO, Cathy Wood, said she was impressed with company management and like the growth the company had shown in broadening its technology focus would specifically cited the company's contracts with defence agencies.
+BULL21|As a strong vote of confidence.
+NEUT22|Also today, the company announced its CEO's and president would be transitioning to chairman of the Board of Directors.
+NEUT23|No replacement has yet been announced.
+BULL24|An NDM stock has seen above average trading volume today of more than 42.5 million trades.
+BEAR25|Compared to an average daily volume of just under 34 million trades, Nano claims we are disrupting leading and defining how electronics are made.
+NEUT26|Its flagship product is the Dragonfly 3D printing system, which it said is the first and only precision system that produces professional multilayer PCBS, RF antennas, sensors, conductive geometry's and molded connected devices for rapid prototyping through custom additive manufacturing PCB.
+NEUT27|Refers to printed circuit boards in RF.
+NEUT28|Refers to radio frequency competition according to the 20 F, Nano has differentiated itself from other 3D printing services by specializing in the niche market.
+NEUT29|Have in-house PCB printing with a combination of nano conductive and dielectric inks.
+NEUT30|"Most other companies in the industry focus on printing prototypes using resin polymers or other plastics like and subscribe for more videos about NDM or other stocks."""

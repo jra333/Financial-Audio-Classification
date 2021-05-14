@@ -1,0 +1,43 @@
+NEUT0|"""We can talk about the data that we got from from Uber as well as their marketing campaign behind it."
+NEUT1|These full page ads in the Journal at least talking about not just the numbers, but the efforts that they're doing to remedy it.
+NEUT2|Joanna, how impressive is it?
+NEUT3|I think it's impressive when you look at the entire gig economy and all of the tech companies across the board which have just had issues controlling their platforms, right?
+NEUT4|The problem is not necessarily been the technology of these companies.
+BEAR5|It's been the people, the bad actors that have come on to their their platforms and started to abuse it.
+BULL6|And so I think this is a huge step in the right direction for all of the tech companies because luebbers being transparent about it.
+BULL7|Farhad, I'm impressed and I will give Uber a hard time when I believe they deserve it.
+NEUT8|But this is an 84 page report if you count the appendix and then the cover page goes into a lot of depth on this and I would argue gives a lot of context and be sure they don't have other peoples data but they have the overall data on ****** assaults on homicides.
+NEUT9|Things like that and they put into context the degree to which they've made progress that the small number of incidents those still concerning.
+NEUT10|That occur on these rides and what their policies are, what they've been doing to try to address this?
+NEUT11|I mean, it does set the bar for a lot of other companies, I would argue.
+BULL12|Yeah, I think you're right.
+NEUT13|I mean if you think about it, what Uber does is sort of when it started.
+BEAR14|It was a crazy idea.
+NEUT15|You'd have strangers giving other people a ride and they have struggled for a long time.
+NEUT16|To, you know, convince lawmakers the public and others that this is kind of a fundamentally safe idea.
+NEUT17|And I think this report does it.
+BEAR18|I mean, the only thing I would fault them for is is doing it.
+NEUT19|You know, many years too late I would have done this several years ago, but I think that you know and the numbers are the headline numbers seem.
+NEUT20|Bad, I mean the sort of number of bad incidents.
+NEUT21|But if you compare it to the scale of you know of the platform, billions of rides, it's a very very tiny number and you know they are committed to improving it.
+NEUT22|I think that doing this also sets them apart from the competition.
+NEUT23|I am eager to see lifts numbers now you know and ride hailing platforms around around the world.
+NEUT24|And I'm not sure if you know if those companies will be better.
+BEAR25|They may be worse than that would be bad for them and would be.
+NEUT26|You know it be assigned that Uber is you know a more mature platform.
+NEUT27|In doing something doing something you know positive an effective to maintain safety on its platform.
+NEUT28|It is an interesting calculus, Joanna whether or not.
+NEUT29|This kind of disclosure will make users feel safer or not.
+BEAR30|I mean, the data on its face, is disturbing.
+NEUT31|But the fact that they're willing to admit it is not yeah.
+NEUT32|I mean, I think it makes users feel safer when this comes from the company itself, then versus the press and that they were trying to cover this up for many years.
+NEUT33|So that's where I think exactly what John was saying before.
+BULL34|This should set precedent for other companies.
+NEUT35|I would love to see this kind of report come from Amazon about how many unsafe products they know they've sold this year.
+NEUT36|Certainly Amazon would know better than many of the other investigations that have been happening about it.
+NEUT37|Air BNB.
+NEUT38|Tons of companies could could use this as an example and say we're going to go forward.
+NEUT39|We don't know yet quite what we're going to do next after this, but at least we're going to be honest with you and say we know this is a problem and we're looking at it.
+NEUT40|We're going to.
+NEUT41|It's going to.
+NEUT42|"We'll see what let follows up if in fact they do."""

@@ -1,0 +1,31 @@
+BEAR0|"""Michael, you are putting up some numbers that are just unbelievable."
+NEUT1|We're talking about numbers for the Client Solutions Group.
+NEUT2|Outstanding demand for notebooks, but I have to tell you, I think that this Michael Dell is a service is what I want to talk about because to me that's real value added.
+NEUT3|So talk about some of the new things you're doing in order to make it so that people holistically want to choose Dell technologies.
+BULL4|Sure, so you know we're embracing as a service and look if you look at our balance sheet, you'll see $28.7 billion in deferred revenue, up 11% and a lot of that is software licensing maintenance as a service.
+NEUT5|And look we brought together the leaders and infrastructure, hardware, and software.
+BULL6|It's resonated very well.
+BULL7|As you said, our client business, you know, customers have certainly pivoted too.
+NEUT8|All of the everything from home, right?
+BULL9|It's work from home work from home we're seeing double digit growth in education, government and consumer.
+BULL10|And you know, the online direct businesses are very strong.
+BULL11|And look, I think I think the the your head will be another very strong one for Deltek this last quarter cash flow from operations was three billion on top of the strong profits and apink was up 35%.
+NEUT12|So you gotta love that.
+NEUT13|You know one of the things that I thought was really impressive is you've got this thing.
+NEUT14|I'm initially I was 'cause I'm not in the enterprise business Power store.
+NEUT15|I think Oh my God, it check to see what kind of power story has.
+NEUT16|Maybe it's got no.
+BULL17|This business and old EMC nameplate business has got amazing traction in a very short period of time.
+BULL18|It's it's the fastest growing new or storage platform we've ever had is ramping nicely.
+BULL19|We did have double digit growth in our high end power Max and continue to have double digit growth in VX Rail.
+NEUT20|Yeah, and look where we're going to have another very big quarter in Power Store in in the fourth quarter and look.
+NEUT21|I think customers are spending more on the client side than they are in the data center right now.
+BULL22|But that data center spending is going to come back.
+BULL23|And we're super well positioned for that.
+NEUT24|Don't miss a second of mad money.
+NEUT25|Follow at Jim Cramer on Twitter.
+NEUT26|Have a question?
+NEUT27|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT28|Miss something head to madmoney.cnbc.com.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

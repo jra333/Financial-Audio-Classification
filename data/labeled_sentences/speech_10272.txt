@@ -1,0 +1,38 @@
+BULL0|"""Welcome back everybody."
+NEUT1|Some breaking news.
+BEAR2|This hour it looks like the Department of Justice will be filing a suit against Google today against Alphabet that alleges that they have some anti competitive problems that they've been using to keep their monopolies in place.
+NEUT3|It's something we've been talking about through the morning, but let's get over to Jim Cramer right now and get his take on what this might mean for the stock.
+BEAR4|Jim, the stock not down much this morning on that.
+NEUT5|You think that's because this is baked in or because the market doesn't take this seriously?
+NEUT6|Want is baked into.
+BULL7|It's not their first rodeo they've been able to defend this over and over and over again.
+NEUT8|There's huge number of documents.
+NEUT9|That are in favor of Google.
+NEUT10|I don't know what has happened lately.
+NEUT11|I was listening to Senator Cruz talking bout the tie in that's nice rhetoric which has no bearing even though I know he's a great legal mind.
+NEUT12|In the end when it comes to stocks that he's not the man go to.
+NEUT13|If they broke the company up as he said, there's $100 billion, what would you get?
+NEUT14|You get you get Waymo, you get health care, you get, you get fantastic YouTube and you would get search.
+NEUT15|What are they going to tell?
+NEUT16|Certain break search up into what?
+NEUT17|Like a through M goes to Facebook.
+NEUT18|I mean there's really like.
+BULL19|You know it's kind of a monopoly that is not not easily attacked by the government because they're up against Bing, and we're going to bring some more money.
+BEAR20|I just think it's another loser case by the government.
+NEUT21|And by the way, those some of the parts is worth far more than 1500.
+NEUT22|I've been saying over and over again that they want to break this company up to bring out value.
+NEUT23|It's the DOJ taking it from buy to strong buy.
+NEUT24|You know, in terms of the competitors out there, you bring it up the right questions with being in some of the other search engines that are out there.
+NEUT25|I mean, I was actually surprised to hear that they only have 80% of the search would in terms of controlling that, because as a consumer it's first place I go all the time 'cause I think it's the best search engine.
+NEUT26|Yeah, I mean look, I think that is it possible to argue that they're really good and a lot of people use them, so we want to make them bad and hobble them like in the movie misery.
+NEUT27|I mean I don't get it, but they always try.
+NEUT28|I mean, it's just.
+NEUT29|It's a time honored thing to go.
+NEUT30|After Google and Google's got really good lawyers know argue against it and ultimately Google if they break it up, then you own the stock and if they don't break it up then you know in the stock it's a pretty good situation.
+NEUT31|I'm not making fun of the deal that should be able to see.
+BEAR32|I'm not gonna be able to get away vision out of my head.
+NEUT33|I love the teenager.
+BEAR34|Being hobbled from the film.
+NEUT35|Oh my gosh, it's cheap constantly will never get out of my hand.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

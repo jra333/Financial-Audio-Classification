@@ -1,0 +1,14 @@
+BULL0|"""An interest rate cut from the People's Bank of China was just what markets had asked for."
+BEAR1|But today stocks fell flat in China.
+NEUT2|That's after the People's Bank of China announced the fifth rate cut of the last year, while also allowing banks to hold a lower level of money in reserve.
+NEUT3|But wasn't that exactly what investors were hoping for?
+NEUT4|The surprise move came in the middle of the week.
+BEAR5|Unlike recent rate, cuts were taking place at the weekend that smacked of some of desperation at the start of the morning session in China, investors were giving the move thumbs down a rally in Chinese stocks sputtered out after six minutes and eventually ended down 1.3%.
+BEAR6|It was a volatile day across Asia Pacific, two with most other benchmarks shrugging off the losses in China to close the day higher.
+NEUT7|For some investors, there were plenty of bargains on offer in China, Global Investors plowed 29.3 billion yuan into Chinese stocks through stock connect.
+NEUT8|Trading link between Shanghai and Hong Kong over the past three days.
+BULL9|That's the biggest sustained inflows from within six months.
+BEAR10|Some brokers are saying that at least the losses today were as bad as recent sell offs, and they have a point.
+BEAR11|However, it is still the fifth consecutive day of losses for the Shanghai Composite, and it raises another question.
+BULL12|F investors got everything that they asked for in the form of a rate cut and the market still sold off.
+NEUT13|"What more can authorities do to stop the selling?"""

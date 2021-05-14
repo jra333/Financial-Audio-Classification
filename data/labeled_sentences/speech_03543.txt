@@ -1,0 +1,33 @@
+NEUT0|"""We haven't made any changes."
+BULL1|We would still be looking for an increase in the rate on the last 200 billion that was announced originally at 10%, scheduled to go to 25.
+NEUT2|And then we still think there is a probability that you get tariffs.
+NEUT3|Beyond that on China we're not as we're not assuming tariffs on autos in our baseline, but there's a risk of that as well.
+NEUT4|So to us it looks like this so pretty high probability that we'll see some.
+NEUT5|Further steps, but obviously a lot of uncertainty right then what have you made of the recent tone that there is some kind of thought?
+NEUT6|If you believe the rhetoric from the likes of Kudlow at least.
+NEUT7|Well, I think it's been going back and forth as you have reported.
+BEAR8|So clearly there are some mixed signals and you know we're going to have to see.
+NEUT9|We haven't changed our baseline case, but of course, that baseline case could be wrong and we could be seeing a deal at and at an earlier stage.
+NEUT10|We will have to wait, wait.
+BEAR11|So we saw the jobs market numbers this morning.
+NEUT12|I mean that wage number above 3%.
+NEUT13|First time we've seen that in about a decade, does that totally vindicate chair Powell?
+NEUT14|In this feud, public feud that President Trump has called?
+NEUT15|Between the two, well, I think it's it's.
+NEUT16|It's more about what it tells us about the labor market, healing, and the labor market.
+BULL17|Healing has continued.
+BEAR18|We've been seeing it in the employment numbers.
+BEAR19|We've been seeing it in the unemployment numbers we've been seeing in various surveys, and I think the wage numbers was probably the biggest laggard in all of that.
+NEUT20|And that's much less true now.
+NEUT21|It's also not just the average hourly earnings numbers, but also the employment cost index, which came out a couple of days ago, which also showed an acceleration to the fastest pace.
+NEUT22|So right now, I think we are at.
+NEUT23|About 3% year on year and saying is doesn't justify the pace of interest rate increases we've seen from this Fed and continue to and will continue to do.
+BULL24|Yeah, I think I think so.
+NEUT25|I think it makes it makes sense to be normalizing monetary policy when the economy is at or probably actually a little bit beyond full employment.
+BEAR26|Inflation is at the target and now wages are also probably roughly in line with what you'd expect over the longer term.
+NEUT27|In that environment.
+NEUT28|I think it makes sense to take out some insurance against the much bigger.
+BEAR29|Bigger overheating of the labor market, which would then increase the risk of recession.
+NEUT30|I think that's what the Fed is trying to do.
+BEAR31|They're trying to stabilize the unemployment rate at very low levels in order to reduce the chest.
+BEAR32|"The risk of a subsequent recession."""

@@ -1,0 +1,3 @@
+NEUT0|"""Guys I read this article of CNBC helicy 80% of stock market is now on autopilot, which means that trading is now being done on algorithms and AI."
+NEUT1|Do you think human trading will cease to exist at one point in time if you agree or disagree?
+NEUT2|"Comment below."""

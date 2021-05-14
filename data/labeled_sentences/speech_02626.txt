@@ -1,0 +1,17 @@
+NEUT0|"""And you've talked about the two different stories told by the bond market and the stock market."
+NEUT1|Yes, what does it mean that they're not on the same page?
+NEUT2|In which story do you believe well?
+NEUT3|So both markets saw a Trump rally.
+BEAR4|If you will, where there was all these expectations of stimulus fiscal stimulus and deregulation, and both markets started pricing and a lot more in the way of growth and inflation, then as this year has unfolded and we've seen a lot of disarray and chaos on the policy making front.
+BEAR5|You know expectations in the bond market have started to sort of leak out, so there's that.
+BEAR6|The yield curve has flattened bond yields have come down a little bit.
+NEUT7|It's a much more subdued, cautious view.
+NEUT8|Meanwhile, the equity market just keeps charging to the Moon and not reacting to these developments, so I tend to think that the bond market is.
+NEUT9|Dare I say it smarter?
+NEUT10|That there are a lot more macro focus.
+NEUT11|Let's put it that way.
+NEUT12|Anan that a lot of automatic forces like passive investing like index funds.
+NEUT13|May be driving the equity market to a greater extent than the bond market, so I don't think that we're going to get a lot in the way of fiscal stimulus.
+NEUT14|I think inflation.
+NEUT15|Is going to be low for long and so that view is really been expressed more by the bond market.
+NEUT16|"Mountain."""

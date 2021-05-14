@@ -1,0 +1,34 @@
+NEUT0|"""Look, I guess you know."
+NEUT1|What do we make the about the pricing here?
+NEUT2|Because yesterday we were talking about whether in fact this hybrid auction model didn't necessarily work.
+NEUT3|It feels like there's a lot of money left on the table if this indication holds.
+NEUT4|Given that the IPO was priced at $68 a share an I guess I would add to the conversation here.
+NEUT5|Moving forward, you know what is this stock going to be defined as?
+NEUT6|Is it tenazas point?
+NEUT7|Is it kind of a travel stock?
+NEUT8|Is it a stay at home stock?
+NEUT9|I mean, what do you think investors should be looking at?
+NEUT10|I mean, I guess we were discussing that earlier.
+NEUT11|It could be seen as both, but I mean a lot of the questions is what does it really even matter if we're going to vaccine coming up here next year when all travel returns to being a travel and there is no such thing as a stay at home Travel Company anymore.
+NEUT12|But it is kind of interesting to see where this valuation is coming.
+NEUT13|'cause it brings back a lot of what we were discussing yesterday with door.
+NEUT14|Dash is IPO when we think about how crazy these valuations are getting relative to where we see the price in the IPO and look day one pops are always somewhat expected when we're seeing companies go public but seeing.
+NEUT15|A doubling is not necessarily the norm there, and just to kind of put in perspective, I guess you know what we're seeing.
+NEUT16|Comparing Airbnbs valuation of North of 100 billion, which is what we're expecting here based off these indications, I mean, as an asset that's bigger than booking, holding a booking Holdings an that company when you go back and look at what they've been able to do, revenue of $15.1 billion versus Airbnb's you know what we saw in that deep down, you know.
+BEAR17|And obviously we're in a pandemic here, but.
+NEUT18|4.8 billion, much smaller.
+NEUT19|I don't know.
+NEUT20|I mean, I guess you know the biggest thing is always valuations here an I think we are starting to approach an area where a lot of people just are not comfortable with what they're seeing in these step UPS.
+NEUT21|Yeah, I mean if you look at the IPO market as a whole, $140 billion dollars race so far this year, that is certainly a record.
+NEUT22|The last record set in 99 something we talked about yesterday, which is LED a lot of investors to say, are we sort of in this frothy space.
+NEUT23|Now.
+BEAR24|Yesterday we talked about Door Dash closing 86% higher than whether price their IPO that start coming down a bit today in the second day of trade.
+NEUT25|But some this is a discussion that's going to be continue, you know, well beyond.
+NEUT26|Air BNB's listing here because it's not just about that C3 dot AI.
+NEUT27|Tom siebel.
+BULL28|We talked to the Founder yesterday that stock also up in a big way.
+NEUT29|We'll see if this is all about just exuberance in the market.
+NEUT30|If things are getting a bit frothy or in fact a company like Airbnb just given so many different avenues for the platform, whether the valuation is justified.
+NEUT31|Again, if you are just joining us now, we are still waiting the trade.
+NEUT32|The first trade of shares of Airbnb here $156.
+NEUT33|"Is the indication and Zach were going to leave it there."""

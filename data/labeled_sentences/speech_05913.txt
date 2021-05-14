@@ -1,0 +1,8 @@
+NEUT0|"""Good morning, I'm very excited about the 6th edition of Security Analysis."
+NEUT1|Obviously it was a great honor to be involved to be asked to pull together a team and to edit what came came out of that team.
+BULL2|And I think we've put together a tremendous 6 addition the modern day practitioners that we've chosen our leaders in the field.
+NEUT3|Value investors in equity investing in distressed debt, investing in corporate debt, investing in international investing.
+NEUT4|We have a number of great perspectives, including a fabulous piece by Jim Grant showing Gramma Dot in the historical perspective, as well as acclaimed author Roger Lowenstine.
+NEUT5|So I think that there's going to be huge interest in this book.
+NEUT6|This also comes at a really important moment when the markets are in turmoil and where value investing has always been an important anchor.
+BULL7|"During times of difficulty, I think that like the money Masters, the part of this book that's been added to the legendary Graham and Dodd original contribution will capture people's imagination and will be a great addition to every investing library."""

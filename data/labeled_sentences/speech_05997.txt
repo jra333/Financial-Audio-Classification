@@ -1,0 +1,38 @@
+BULL0|"""Thank you for joining me."
+NEUT1|I'm alexan.
+NEUT2|I'd like to talk to you about Pepsi today.
+NEUT3|Pepsi has been known to do many things.
+NEUT4|They own Tropicana Frito-lay, which owns Doritos Fritos, all lays all those kinds.
+NEUT5|They basically have two aisles in the grocery store just for themselves, just.
+NEUT6|Basically paying rent so they also make beverages.
+BULL7|I think so the price right now $137, which is a PE of about 15, which means that the P is fairly high, but definitely in a good range.
+BULL8|Dividend yield is 2.8% with a payload ratio of only 41%, which is pretty decent.
+NEUT9|Lot of room for growth there and you can basically expect them to pay a dividend at least what they pay now.
+BULL10|Probably raising the dividend for every year from here on out.
+BULL11|Revenue $64 billion, which went up 2%, obviously with the company that big doing basically just the same products every year, like basically a commodity business.
+NEUT12|Can't really expect too much growth there.
+BULL13|Year over year 2% is not great, but you know any growth is good earnings 150% which I would credit the.
+NEUT14|Tax breaks for.
+NEUT15|So the earnings went from about 5 billion to 12 and a half billion.
+BULL16|Definitely don't expect that kind of growth in future years.
+NEUT17|Total assets 77 billion.
+BEAR18|Total liabilities 63 billion which comes down to net tangible assets of negative 16 billion, which is down from over 17 billion or down from over 17 billion negative.
+NEUT19|So balance sheet obviously does not look great and is kind of concerning, but.
+BULL20|I think they're going in the right direction.
+NEUT21|An obviously a company that big is not really in any danger of just going bankrupt, so pretty safe company, especially with a portfolio of, you know, the biggest chip maker out there.
+NEUT22|One of the biggest juice makers and a few other companies that I haven't mentioned.
+BEAR23|Dividend yield 2.8% is definitely nothing bad, and so for the payout ratio.
+BULL24|Basically very safe dividend.
+NEUT25|So if you're a dividend investor, I think that this is a pretty good stock to look into.
+BULL26|I think that if you're diversifying from tech stocks and even non food retail stocks, I think this is a good candidate as well.
+NEUT27|Obviously for a growth investor, this is not the stock for you, but for a value investor, I think the PE is good.
+BULL28|The dividend yield is good, the balance sheet isn't great, but it's definitely not terrible so.
+BULL29|If you're looking to diversify, and if you don't think there's anything better out there, I think this is definitely a good stock to buy.
+NEUT30|So for dividend or a value investor, I think this is a good stock.
+NEUT31|Definitely do your research, look into it and growth investor.
+NEUT32|Yeah, you're going to have to look elsewhere.
+NEUT33|That's it for me.
+NEUT34|For today.
+NEUT35|If you like this video if you haven't already, make sure to subscribe.
+NEUT36|I'm coming out with more videos every day before market open.
+BULL37|"I hope you have a successful day."""

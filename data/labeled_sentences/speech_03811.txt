@@ -1,0 +1,34 @@
+NEUT0|"""I'm John B wells."
+NEUT1|When you're watching the next news network.
+BEAR2|Well, after Facebook stock crash Mark Zuckerberg, plotting a $9 billion scheme to save the company, Reuters reports that Facebook will be buying back an additional $9 billion of its shares as it looks to pacify investors following a slump in its stock.
+BULL3|The social media Giants shares, which have tumbled more than 22% this year, rose nearly 1% in extended trading.
+NEUT4|The new program is in addition to a share buyback plan.
+BEAR5|Of up to $15 billion announced by the company last year, Brent Thill, a senior tech analyst at Jefferies, said there's nothing but bad news about Facebook causing the stock to tank.
+NEUT6|Take a look.
+BEAR7|I mean, the net news just keeps getting worse, and I think that ultimately most of our clients are still waiting till mid next year to buy the stock because they don't believe that the news flow on the negative side is going to end.
+NEUT8|And you're not going to see an inflection in.
+NEUT9|Financials until 2020.
+BULL10|They've highlighted 2019 another transition year, so I think short term, you know there's still some short term pain, but I think ultimately the stock is getting a lot more attractive here.
+BEAR11|Given given this pullback were down 40% from the peak, there's nothing but bad news and every day you wake up, there's there's.
+BEAR12|There's there's pretty negative headlines on the story, so we think a lot of that's embedded in the stock, but most of our clients are still waiting on the sidelines before they get back in.
+NEUT13|Die Facebook die.
+BEAR14|I hope that the death of Facebook is slow and painful after what Facebook has done to Conservatives wiping out full business models, conservative websites pages completely shut down.
+NEUT15|Because they want to control the algorithm they want to control what you see in your newsfeed.
+NEUT16|And they basically want to control what you, what you see and what you think.
+BEAR17|Facebook is being investigated by lawmakers in Britain after a consultancy Cambridge Analytica, which worked on Donald Trump's U.S. presidential campaign, obtained personal data for 87 million Facebook users from a researcher concerns over the social media Giants practices, the role of political advertising and possible foreign interference.
+NEUT18|In the 2016 Brexit vote and US elections are among the topics being investigated by British and European regulators.
+NEUT19|So.
+NEUT20|I will enjoy watching the slow and painful death of Facebook.
+NEUT21|Will you comment below?
+NEUT22|We'll see you at the next report for the next news network.
+NEUT23|I'm Gary Franchi before you go.
+NEUT24|If you're worried about your browser history or your family's browser history getting tracked, you need to take advantage of Black Friday month specials from Virtual Shield at hide with gary.com.
+NEUT25|Right now, they're offering 40% off all plans and premium add-ons.
+BEAR26|Even VIP performance plans for as low as $3 a month.
+NEUT27|You can add another layer of protection with their identity safe program that gives you the ability to block off computer, microphone and camera access from any unwanted spies and hackers.
+NEUT28|Act now the link is below.
+NEUT29|Hide with gary.com.
+NEUT30|Thank you for watching that report.
+NEUT31|If you want more subscribers channel by clicking on the next news network logo right here.
+NEUT32|You can also watch our latest news reports by clicking here, or you can get the latest breaking news by clicking here or the most viral news in the channel.
+NEUT33|"The news of Hillary and Obama hate right here."""

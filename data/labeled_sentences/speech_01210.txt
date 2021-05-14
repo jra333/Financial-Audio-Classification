@@ -1,0 +1,22 @@
+NEUT0|"""Welcome to the Ashok Leyland limited stock analysis video."
+NEUT1|In this video, we would look at fundamentals of Ashok Leyland Limited and important financial ratio.
+BEAR2|Ashok Leyland Limited current price is 93.85 exchange minus 0.42% lower than previous close its 52 week highs 111.4 M 52 week low is 74.7 companies earning per share is 3 and it's priced equity ratio is 24.4.
+NEUT3|Stock S book to price ratio is 5 Ashok Leyland Limited return on equity is that 22.3%.
+BEAR4|Company had 4440.9 floor revenue in Q316 as compared to 4622 point 4,00,00,000 in Q216.
+BEAR5|Company seems to be facing challenging growing revenue in last few quarters, which is big negative.
+BEAR6|Revenue has gone down quarter on quarter with minus four point.
+BULL7|1% in current quarter and 8.5% in previous quarters.
+BEAR8|Raffet has declined in last few quarters, which is not positive for the company.
+BEAR9|Current quarter profit is 185.9 as compared to 294 point 4,00,00,000 in previous quarter.
+BEAR10|Profit growth rate has been negative in last few quarters.
+BEAR11|It has grown minus 36.86% in last quarter compared to 1.25% in previous quarter, which is a concern.
+BEAR12|Profit margin is the ratio of net profits revenues profit margin in Q316 is 4.2 as compared to 6.37 in Q 216.
+BEAR13|Operating profit for the company in Q316 is 454.28 Rd as compared to 546.49, roaring through 216.
+BEAR14|Air built in Q316 is 263.68 or as compared to 414.64 roller in Q 216.
+BEAR15|Operating profit margin for the company in Q316 is 10.25% as compared to 11.61% in Q216.
+BEAR16|Edit margin in Q316 is 5.95% as compared to 8.97% in Q 216.
+BEAR17|Company has 2659 floor dead.
+NEUT18|It has interest liability of 159.1 roller companies in crystal coverage ration is 9.31.
+NEUT19|Finally, here is a summary of few positives and negatives based on these analysis points we have calculated the rating for Ashok Leyland Limited.
+NEUT20|Heroes rating on a scale of 10 for Ashok Leyland Limited.
+BULL21|"Thanks for watching this video."""

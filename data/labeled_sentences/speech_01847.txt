@@ -1,0 +1,37 @@
+BEAR0|"""Julian, do you believe that China has now weaponized its currency?"
+NEUT1|Well, I think it knew what the reaction would be in doing this in terms of the headlines in terms of the way it's going to antagonize the Trump administration.
+NEUT2|And yet it's done it anyway, and it's even explicitly linked the move to the recent escalation in trade tensions and an additional U.S. tax.
+NEUT3|So I think it is effectively weaponizing their own be, even if it isn't directly intervening to push the currency down.
+NEUT4|But by explicitly linking it to the trade tensions.
+NEUT5|And timing the move so soon after the tariff threats.
+NEUT6|I do think we are moving in that direction.
+NEUT7|Do you believe that the Chinese government has expressly allowed that offshore currency to go below 7 to one to the US dollar?
+NEUT8|Because in years past they had kind of defended that level, Julian.
+NEUT9|Well, I think it's clearly intentional.
+BEAR10|I mean we haven't seen any efforts since this morning to to push the exchange rate back down below 7.
+NEUT11|We know they have the ability to do so, either directly through deploying their effects reserves or through the state banks.
+BEAR12|So the fact that we haven't seen any drop back and actually it's just remained at that level just above 7 suggests that this was an intentional step upwards.
+NEUT13|Where does it go?
+NEUT14|How low does the Chinese currency fall?
+NEUT15|So I think the goal here is clearly to offset some of the drag from from US tariffs, otherwise they wouldn't take the the risk of breaching 7 in terms of capital flight in terms of what it means for the trade negotiations.
+NEUT16|So they're going to want to see it.
+BULL17|We can further, in my view, in order to get more of that offset, we now think it could end this year at around 7.3 against the dollar and maybe 7.5 by the end of next year.
+NEUT18|Wow, and do you believe?
+NEUT19|I mean we look at the other side of this.
+NEUT20|Obviously is two sides right to the currency story number one is it's going to make their imports into the United States and the rest of the world less expensive to your point may be semi mitigating those tariffs, but it also has the effect of making imports into China, maybe from the US or other locations more expensive.
+NEUT21|How does this play out Julian?
+BULL22|Well, I think it's still positive for China.
+NEUT23|I mean, trying obviously has a current account.
+NEUT24|Surplus imports less than it exports.
+BULL25|So even once you adjust for for the higher cost of imports, I think it will be a positive because even if exporters don't adjust their their U.S. dollar export prices, their export revenues in Remedy will still benefit so.
+BULL26|So we think a 10% devaluation could actually boost China's GDP by about 0.2%, which would be enough to offset a 10% tariff on 300 quickly.
+NEUT27|Will this set off?
+BEAR28|A global currency war.
+NEUT29|Will Vietnam have to devalue?
+BEAR30|Will the euro have to go down then?
+NEUT31|Will the United States have to act?
+NEUT32|Well, I think at this stage it's not clear.
+NEUT33|I mean at the moment what we've seen is actually in the big scheme of things are fairly small, move, and I think that we will in the coming days and weeks see PBOC intervention in order to prevent the currency from weakening too quickly.
+NEUT34|So I don't think we'll see a very major devaluation.
+BEAR35|I mean, we are predicting a sort of 510% decline over the coming quarters.
+BEAR36|"I think that wouldn't cause significant problems for other countries, but if things do go beyond that, then then it could descend into a broader currency conflict."""

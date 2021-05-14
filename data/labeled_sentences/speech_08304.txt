@@ -1,0 +1,38 @@
+NEUT0|"""You know, we also earlier in the day spoke to doctor or a deeper."
+NEUT1|And indeed the India economist and vice President of Nomura who says that wait and watch mode is well, more or less inevitable for the RBI.
+BULL2|At this juncture you also stress that policy reversal rate hike regime is still a few quarters away.
+NEUT3|Here is an except.
+NEUT4|Beat in Watch Mode is kind of inevitable in this policy.
+NEUT5|RBI has bit of a dilemma in terms of you know how do you leave a house party without offending the hosts?
+NEUT6|So you want to normalize, right?
+BULL7|Becauses indeed growth is picking up.
+NEUT8|Indeed, you've got pretty strong inflationary pressures.
+BULL9|Their food inflation is is quite elevated.
+NEUT10|You have cost push pressures that are slowly translating into more generalized pressures.
+NEUT11|You got services and.
+NEUT12|For goods inflation, kind of those pressures inherent in this.
+NEUT13|System so the so the key question.
+NEUT14|The way to think about this is will the 2nd wave materially impact RBI's growth outlook and while it would increase uncertainty, the answer is probably not.
+NEUT15|RBI has a very conservative growth estimate for FY22 at roughly 10 and a half percent.
+NEUT16|We don't see that being impacted much by by the 2nd wave that comes in.
+NEUT17|So at this point I think.
+NEUT18|Wait and watch is is is sort of the best alternative for the RBI, both on rates.
+NEUT19|Bouton stands but what's going to be really important for the April policy is what revision they do to the forward guidance for so long.
+NEUT20|They are essentially said that we're going to stay accommodative till the next financial year.
+NEUT21|Well, you know that condition kind of gets satisfied in April, so the question is what next?
+NEUT22|So they may want to give a time based guidance.
+NEUT23|So essentially saying that OK, I'm going to keep accommodative stance.
+NEUT24|But for the next couple of quarters, while that gives a very clear indication to markets, it also binds the RBI in some form of corner.
+NEUT25|Or they could give which we think is more likely as kind of state based guidance that says there alright as long as growth achieve certain target and as long as you know we're looking at inflation, we will keep policy accommodative and then we will consider a change in track.
+NEUT26|So as of now I think for this.
+NEUT27|Want to see the RBA governor is he's going to reiterate that look?
+BULL28|We're going to keep ample liquidity.
+NEUT29|Yes, there is uncertainty on growth.
+NEUT30|Yes, inflationary pressures are high, but for now, let's not rock the boat.
+NEUT31|Sure, what's your own assumption at namura though, on how long interest rates are going to remain low?
+BULL32|Look, I think the the the policy normalization is going to be inevitable.
+NEUT33|It's going to come so essentially we're pretty much.
+BULL34|Unchanged in terms of our broader view, which is that in in the second half you're going to see policy normalization.
+NEUT35|Within that you know we will possibly see the.
+NEUT36|Stance change to neutral by Q3 of the calendar year by the fourth quarter, we should expect a 25 basis points reverse repo hike and then in H1 of the next year and these all calendar years.
+BULL37|"We expect the report rate hikes we've we've built in around 50 basis points or so."""

@@ -1,0 +1,11 @@
+NEUT0|"""I also asked Gates where he lands on the topic."
+NEUT1|We talk about virtually every day on this program, Bitcoin and how he thinks about the crypto currency in the context of climate change.
+NEUT2|Seeing as how Bitcoin takes enormous amounts of energy to digitally mine.
+NEUT3|I don't own Bitcoin, I'm not short Bitcoin, you know, so I've taken a neutral view.
+NEUT4|I do think you know moving money into a more digital form and getting transaction costs down.
+NEUT5|That's something our the Gates Foundation does in developing countries, but there we do it so that you can reverse the transaction so you have total visibility of who's doing what.
+NEUT6|So it's not about tax avoidance or illegal activity.
+NEUT7|But you know, Bitcoin can go up and down, you know, just based on the mania or whatever the views are.
+NEUT8|And I you know, I don't have a way of predicting how that will progress.
+NEUT9|Shepard Smith here.
+NEUT10|"Thanks for watching CNBC on YouTube."""

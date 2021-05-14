@@ -1,0 +1,48 @@
+NEUT0|"""Now you wrote a piece was basically talking about this route of people who were bankers and for their clients, or not necessarily for their clients."
+NEUT1|They left Wall Street and they go take a real job as a CFO somewhere.
+NEUT2|Well, that's right, the investor.
+BEAR3|The last few years have not been kind to investment banking and the bonuses structures have changed dramatically in regulation is bearing down and at the same time companies are under increasing pressure from shareholders to do these complex financing transactions or split.
+NEUT4|UPS or acquisitions to deliver this value to them that they so desperately want.
+NEUT5|So that's a nice confluence that makes it sort of a ripe time for investment bankers to make the jump right.
+NEUT6|I would know 'cause I read the piece and it's very, very interesting.
+NEUT7|And if he if you're not a subscriber to CFO Journal, then maybe you should the.
+NEUT8|Different things that a CFO does and some of the things people on Wall Street know how to do.
+NEUT9|So when it comes to financings or M&A activity.
+NEUT10|But then a lot of the nuts and bolts accounting a lot of the stuff that would be in the control functions or even the Treasury function are not things that most people have.
+NEUT11|Wall Street are going to be used to, so it's pretty important that they have people already on board to know what they're doing.
+NEUT12|That's absolutely right.
+NEUT13|All the investment bank for investment bankers that we talked to said they were comfortable with the accounting, but it was very important to them when they came in that they had very strong controller functions.
+NEUT14|Internal controls, especially these things that take years to really master and have a lot of subtle nuances that are just different than the everyday PNL yeah we did see a problem but I'm I'm not.
+NEUT15|I don't want to imply it all that he had anything to do it but the fellow was the CFO at MF Global was, I think, an ex Wall Street guy who went over to MF Global to work with Corzine.
+NEUT16|Relatively young guy.
+NEUT17|Like I said, I don't know him but but you know that company ran into all these sorts of problems and it just goes to show you that.
+NEUT18|When it comes to certainly finance companies, things like controls, the Treasury function, allocation of money, all that stuff gets kind of hairy kind of quickly.
+NEUT19|That's right.
+NEUT20|Well, you know there was an announcement that was just made yesterday afternoon of a small company on the Amex.
+BULL21|It's trying to balloon into a billion dollar company with the help of Brad Jacobs, the founder of United Rentals.
+NEUT22|And they're having a very huge M and a strategy, so they poached an investment banker from Stifel and that's their goal.
+NEUT23|But on the flip side, Computer Sciences reported today.
+BEAR24|That CFO is leaving and ultimately an accounting issues like they have with the SEC.
+NEUT25|Computer science is the Buck does stop with the CFO in good times of mergers and acquisitions and special financing.
+NEUT26|Raising the capital markets.
+NEUT27|I'm sure that they're going to be, well, beloved, but anytime that these accounting issues come up, people might second guess and say, well, that's what happens when you don't have a core of accounting.
+NEUT28|Yeah, I do have.
+NEUT29|I had a handful of my ex colleagues from Goldman are now CFO's of companies.
+NEUT30|Couple of very large companies in fact and I think for people.
+NEUT31|It does make sense of career, but you know it's not.
+NEUT32|As you know, a lot of what is in the traditional save all functions not as **** as Wall Street.
+NEUT33|In many respects it's it's not.
+NEUT34|And also you have to deal with your compensation.
+NEUT35|Everybody knows every penny of it once a year, whereas an investment banker you might get a $10 million bonus.
+NEUT36|You might get $100 million bonus and that's yours to keep and tell whoever you want to.
+NEUT37|Right now.
+NEUT38|Your public scrutiny.
+NEUT39|Now you're under public scrutiny, but I guess the playing field is level.
+NEUT40|This one CEO told us, you know, they just used to cost too damn much money to poach.
+BEAR41|So now the playing fields of leveled and the salary and bonus structures are rough rough.
+NEUT42|Comprable and especially a lot of investment bankers were finding among these six.
+NEUT43|At least.
+NEUT44|They always sort of harbor that desire to actually pull the trigger on the deal.
+NEUT45|The idea that there is an ocean.
+NEUT46|If you're it's like you know like I could do that like you know, like if you about myself, you know.
+BULL47|"You probably could do that Max."""

@@ -1,0 +1,21 @@
+NEUT0|"""Section 14 A of the Securities and Exchange Act of 1934, otherwise known as the Exchange Act, prohibits using false or misleading statements to solicit proxies."
+NEUT1|To prevail on a claim under Section 14 a, a plaintiff must prove three things.
+NEUT2|First, that the proxy solicitation contained a material misrepresentation or omission.
+NEUT3|2nd that the misrepresentation caused the plaintiff's injury, and 3rd, that the proxy solicitation itself was an essential link.
+NEUT4|In accomplishing the proposed corporate action.
+NEUT5|In the 1976 case, TSC Industries versus Northway, the United States Supreme Court considered the definition of a material misrepresentation or omission.
+NEUT6|TSC Industries, also known as Tractor Supply Company, is a publicly traded rural lifestyle retail store that was established in Chicago in 1938 by Charles Schmidt.
+NEUT7|Nearly 30 years later, in February of 1969, National Industries acquired 34% of TSS voting stock from Schmidt and his family.
+NEUT8|At the time, owning 34% or more of voting stock represented a controlling interest in TSC.
+BEAR9|Following the acquisition, Schmidt and his son resigned from TSC's board of directors and five new national nominees were placed on the board.
+NEUT10|In October of 1969, TSS board, except for the five national nominees who abstained, voted to approve a proposed sale of all TSS assets to national.
+NEUT11|In addition, the proposed sale provided that all TSC stock would be exchanged for national stock.
+NEUT12|One month later, TSC and National issued a joint proxy statement to shareholders recommending approval of the proposed sale.
+BULL13|Ultimately, the proxy solicitation worked.
+NEUT14|As shareholders approved, the sale, TSC was placed in liquidation and dissolved, and TSE stock was exchanged for national stock.
+BEAR15|Subsequently, Northway a TSC shareholder sued TSC in Federal District Court under Section 14 A of the Exchange Act.
+BEAR16|In the action, Northway argued that TSS Ain Nationals joint proxy statement was incomplete and materially misleading.
+NEUT17|Specifically, Northway argued that TSC and national failed to include that the transfer of Schmidt's interests gave national a controlling interest in TSC.
+NEUT18|Northway then moved for summary judgment.
+BEAR19|On the issue of liability, which the court denied, Northway appealed to the 7th Circuit, which reversed, holding that the emissions were material.
+NEUT20|"As a matter of law, the United States Supreme Court granted Sert."""

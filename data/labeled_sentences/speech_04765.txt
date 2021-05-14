@@ -1,0 +1,8 @@
+NEUT0|"""Here's what we're watching at the FT in London's trading gets underway on Wednesday."
+BEAR1|We're seeing modest gains for eurozone equities and firmer U.S. equity futures after shares dipped in Asia.
+BULL2|Oil is holding up loitering, just shy of $40 a barrel, while sovereign bond yields are higher.
+BEAR3|Notably the big drop in Japanese government bond yields we saw on Tuesday has largely reversed now after a pronounced recovery in risk assets of late markets do stand at a crucial juncture.
+BEAR4|Sentiment has been bruised this week after China's stunning drop in exports, while a warning from the IMF that the world faces what it calls.
+BULL5|A growing risk of economic derailment have rung loudly in the ears of investors, offsetting that and judging by the firmer eurozone equity performance this morning, we are seeing the prospect of further stimulus from the ECB floating the market, no matter the message and action from the central bank.
+NEUT6|Two things bear watching very closely in the coming days.
+BULL7|"The performance of financials and the price of oil these sectors have led the recovery over the past month and they will very likely dictate whether markets can gain further traction."""

@@ -1,0 +1,38 @@
+NEUT0|"""What is short selling presented by wallstreetsurvivor.com?"
+BEAR1|Short selling is a risky way to profit from declining stock prices.
+NEUT2|Basically it is a bet against a stock or company.
+NEUT3|When you buy a stock, you expect the price to go up.
+BEAR4|On the other hand, when you short a stock, you expect the price to go down.
+NEUT5|Shorting a stock is the inverse of buying a stock, which is often referred to as going long.
+NEUT6|Here's Jack.
+BEAR7|Jack is heard that Goliath National Bank is in financial trouble and expects their stock price to go down.
+NEUT8|In order to profit from his prediction, Jack will short GMB.
+NEUT9|But how does this work?
+NEUT10|Jack causes broker and tells him that he wants to short one share of G&B to do this, the broker needs to find one share to lend to Jack.
+NEUT11|The broker can look at a few different places, including his stock inventory and his clients portfolios.
+NEUT12|If he still can't find the stock, he can ask other brokers.
+NEUT13|Jacks Broker finds the share in one of his clients portfolios and borrows it.
+NEUT14|The broker will then sell the share on the market for Jack.
+NEUT15|Jim B stock was trading at $100, which will be credited to Jack's brokerage account.
+BEAR16|Jack was right after a week, Gene Beast Financial struggles are made public and the stock price drops to $70.00 because the stock price dropped and Jack made a bet against the stock, Jack stands to make a profit by buying back or covering GNB.
+NEUT17|Jack calls his broker and tells him to cover his position in GMB.
+NEUT18|The broker uses the money from jacks brokerage account to buy one share of the stock from the market at the current price of $70.00 and returns the stock to his clients portfolio.
+NEUT19|Jack sold GNB stock for $100 and bought it back for $70.00.
+NEUT20|Awesome Jack made a profit of $30.
+NEUT21|Jack also has to pay a small fee to the broker for the right to borrow the stock.
+NEUT22|Short selling is for advanced traders because it can be extremely risky, unlike buying a stock or going long where your losses are limited.
+NEUT23|Your losses are unlimited when you short.
+NEUT24|To explain how your losses are unlimited.
+NEUT25|Consider this graph of price versus profit.
+NEUT26|Let's say you buy a stock for $100.
+NEUT27|The most you can possibly lose is the amount that you paid for it.
+NEUT28|In this case, $100.
+BULL29|As the stock price goes up, your profits will continue to go up as well.
+NEUT30|Theoretically there is no limit to how high the price can go.
+NEUT31|Now consider that you have shorted the same stock at $100.
+NEUT32|In this case you profit when the price decreases.
+NEUT33|The most you could stand to make is the price that you shorted that.
+NEUT34|In this case $100.
+NEUT35|However, as the price goes up, your losses go up and since there is no limit to how high the stock price can go up, theoretically there is no limit to how much you can lose.
+NEUT36|While shorting is an effective way to make money when stock prices go down.
+NEUT37|"Make use of stop orders to minimize your risk to practice short selling risk free sign up at wallstreetsurvivor.com."""

@@ -1,0 +1,15 @@
+BEAR0|"""Over the past 12 months, the coronavirus pandemic has curtailed countless business activities with a worrying exception."
+NEUT1|Money laundering.
+BEAR2|According to the Financial Action Task Force, the Inter governmental watchdog for financial crime lockdown measures have presented criminals with even greater opportunities to commit offences and launder billions of dollars of proceeds money laundering.
+NEUT3|Channeling of ill gotten gains through banks and companies to make it appear legitimate typically takes 3 forms physical cache clearing, bank transactions and export trade and use of those last two methods appears to be on the increase in January this year.
+BEAR4|The FA TF warned that as Covid has forced banks to move their customer interactions online, criminals have exploited difficulties in.
+NEUT5|Verifying customer identity's during the crisis it found more than 60 million new accounts were opened online, but not every digital ID was reliable.
+BEAR6|At the same time, the pandemic left many businesses in financial need, making it easier for criminals to use.
+NEUT7|Reputable but failing enterprises as a front for illegal activity.
+NEUT8|F ATF report cited one network using trade based money laundering to move $400 million over several years.
+NEUT9|No precise totals can be calculated, but a United Nations study has estimated annual criminal proceeds as 3.6% of global GDP, with two point 7% or $1.6 trillion being laundered.
+BULL10|And it's rising in the UK alone.
+BULL11|A national risk assessment found a 20% increase in suspicious activity reports over 2019 and 2020.
+NEUT12|But countries all taking action in the USA.
+BULL13|New anti Money Laundering Act gives authorities more powers to demand documents from foreign banks and increases cooperation with overseas governments and in the EU a central anti money laundering supervisor has been created to increase enforcement.
+BEAR14|"They need to set up the fight with the Director General of the UK's National Economic Crime Center has admitted the hit rate of people charged is still only 3%."""

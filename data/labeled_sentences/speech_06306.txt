@@ -1,0 +1,25 @@
+BULL0|"""Hello everyone, good morning and welcome to the new IQ."
+NEUT1|My name is Shivam.
+NEUT2|So continuing our video series stock of the day.
+NEUT3|Let's get started with our today's prediction.
+NEUT4|So for that, let me open my app first.
+NEUT5|So I will go for long option today.
+NEUT6|In that I will go for two weeks option.
+NEUT7|And there are 10 stocks prediction today so I will go with that.
+NEUT8|Sort of all these ten stocks for today's prediction analysis.
+NEUT9|I have selected LM funding America.
+NEUT10|So let's try to go into the details.
+NEUT11|Pricing prediction date is 1.28 dollars.
+NEUT12|An expected price is 1.32 dollar.
+NEUT13|So you we can expect a return of 2.94% within a time of 10 days.
+NEUT14|That is 2 weeks.
+NEUT15|Probability of happening.
+NEUT16|This is 94.89%.
+NEUT17|So why I selected this particular stock?
+NEUT18|It's due to its quantum analysis.
+NEUT19|So this chart shows us how effective was algorithm Jesse and explaining the moment of LM funding America.
+NEUT20|So as you can see in 2020 it got prediction for three times and the performance was 99.67% and when it comes to 2021 the total prediction count is 5 and the performance was 99.8%.
+BULL21|So overall the performance was really great and we can expect a good return as well as a good success rate of this particular prediction when it comes to the prediction given by this particular algorithm for this particular stock.
+NEUT22|So that's all for today's video.
+NEUT23|And like the video, if you like our content and let us know your feedback in the comment box.
+BULL24|"Thank you and have a great day."""

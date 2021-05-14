@@ -1,0 +1,14 @@
+NEUT0|"""Hi, I'm senior technology analyst Eric Bleeker and this is part of our ask a full series where we're answering your questions."
+NEUT1|So let's get right to the next question.
+BEAR2|This one comes from Allison with all of the global economic concern and fear that the US is headed for another recession or worse.
+NEUT3|What do you suggest doing with IR A's that are current stock heavy?
+NEUT4|Some say convert to cash in weight.
+NEUT5|Or convert to a stable currency like Swiss francs.
+NEUT6|I did nothing in 0809 and lost half of my retirement.
+BULL7|Thanks for that Allison.
+NEUT8|And I actually checked with our personal finance guru Dan Caplinger, on this and kind of the thought is if you have a long time horizon before you plan to retire and having a stock heavy allocation can make sense even when the market has risen sharply.
+NEUT9|If it's been awhile since you re balance your portfolio though, take a look.
+NEUT10|You might need to make some minor changes to get your risk.
+NEUT11|Level back to where you want it to be.
+NEUT12|Radical ideas like cashing out and playing with the currency markets are really a huge gamble.
+BEAR13|"Remember, you may have lost a lot during 0809 in that bear market, but if you stayed in the market, you probably gained all or nearly all of those losses back full on."""

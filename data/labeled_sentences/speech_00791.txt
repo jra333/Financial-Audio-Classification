@@ -1,0 +1,31 @@
+NEUT0|"""Hello everyone I am Arun Yadav Internet the Sparc foundation."
+NEUT1|This is my tasks created Decision tree classifier and visualize a graphical performance task.
+NEUT2|First we have to import required library Surface panda number matplotlib.
+NEUT3|Then maybe read the data set for this time we are using it is.
+NEUT4|It'll said this is most payment data set for in machine learning machine learning.
+NEUT5|Then here to check the shape of the data.
+NEUT6|Describe the data.
+NEUT7|Then we check it.
+NEUT8|Formation of the data we check.
+NEUT9|There is no value are present in not.
+NEUT10|We use malware.
+NEUT11|Null well function.
+NEUT12|Then we declare feature vector and target variable.
+NEUT13|Then we split the data.
+NEUT14|Unique value are present in data.
+NEUT15|Then we dissect this isn't a classifier with winning index.
+NEUT16|We initialize the decision tree model that we predict the value with Jimmy index.
+BEAR17|The model increases score, which quickly critics and gain index that is worse.
+NEUT18|Then we take a crisis core training set.
+NEUT19|Accuracy is food that is 0.9524.
+NEUT20|Then we check the train.
+NEUT21|Train and test at receipt.
+NEUT22|Then we utilize the tree graphically.
+NEUT23|This is a tree that visual traffic early, then we.
+NEUT24|Check compare the train set and taste accuracy.
+NEUT25|Then we paint the score in training test.
+NEUT26|Then we plot 3.
+NEUT27|This is it really?
+NEUT28|This isn't a driver present in visualization, then we.
+NEUT29|K conclusion metric in classification it so an exact value of the data set in which is result and conclusion.
+NEUT30|"So before you waste a crazy using this data set, thank you."""

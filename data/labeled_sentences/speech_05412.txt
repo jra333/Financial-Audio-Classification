@@ -1,0 +1,42 @@
+NEUT0|"""What's up YouTube?"
+NEUT1|This is beside investing.
+NEUT2|This is our daily update for auction price prediction.
+NEUT3|Before we get started, Please note this is not financial advice.
+NEUT4|Please invest safely.
+NEUT5|Please feel free to like and subscribe.
+NEUT6|I'm trying to do this daily.
+NEUT7|We will see how the price action goes today.
+NEUT8|And actually.
+BEAR9|Yesterday I said that oxygen will hit a low of 890.
+NEUT10|I said in the 8 high high 8th I didn't give a specific number.
+NEUT11|Obviously is that no one can predict that.
+NEUT12|But I said it will go down to a high aids.
+NEUT13|Maybe 888 ninth and then.
+BULL14|Will see a Green Day.
+NEUT15|And would you look at that a Green Day?
+NEUT16|Up to almost twelve.
+NEUT17|1343 and.
+NEUT18|Ended up with 1099 at close.
+BULL19|Up 7%.
+NEUT20|What the hell so?
+NEUT21|I can't believe I was actually.
+NEUT22|Right spot on that.
+NEUT23|I didn't give out specific predictions.
+NEUT24|I gave out a weig prediction, but.
+NEUT25|Nonetheless, I was right.
+NEUT26|I don't want to be on a high horse here, but I could have been wrong, so.
+NEUT27|Please factor that in.
+BEAR28|So OK today looking at eight 983 -- 10% it's been fluctuating as I've been looking at this price chart since 8:40 AM Now.
+BEAR29|Today is pull back, obviously from the run up to 13.
+NEUT30|Now.
+NEUT31|I also be seeing a lot of sell off after hours, so.
+NEUT32|That might be.
+NEUT33|That's interesting, so now today what I'm going to predict is a red day.
+BULL34|We might see it come close to breaking even but.
+BEAR35|We might continue to see a Red Day because of the sell off, so we might.
+NEUT36|See that I feel like I'm going to be wrong 'cause we might see a Green Day, but.
+NEUT37|Please invest safely and maybe I'll do this next week as well.
+BULL38|Who knows, I'm kind of enjoying this and you guys are also coming back to see this, so this is kind of nice.
+NEUT39|Anyways, please post free to like and subscribe.
+NEUT40|This is a relatively new channel.
+BULL41|"Really enjoying doing this and hope you guys keep coming back for more."""

@@ -1,0 +1,16 @@
+BEAR0|"""The last time markets tumbled enough to trigger a trading halt was in December of 2008 at the depths of the financial crisis."
+NEUT1|They made a fake talking to a local expert today about what's causing this massive sell off.
+BEAR2|Things got ugly on Wall Street and it started right at the opening Bell.
+BEAR3|The Dow Jones industrial average plummeted more than 1800 points within the first minute, and the S&P 500 dropped more than 7%, triggering a trading halt for 15 minutes.
+NEUT4|These are new rules put in place to kind of give a pause to the market.
+NEUT5|I think those are good rules to kind of.
+NEUT6|Just put a pause on trading to let everyone settle down and see where we want to be at, and this could happen again few more times going into the future.
+BEAR7|The chair of the Economics Department at the University of Toledo says concern over the coronavirus has been impacting the markets the past couple weeks.
+BEAR8|Now adding a dispute between oil producing nations, sparking a price war good for consumers but not U.S. oil producers.
+BEAR9|Markets really don't like uncertainty and we have a massive amount of uncertainty right now.
+NEUT10|So what can we expect?
+BEAR11|Eagan says a recession is likely mainly because combatting the coronavirus means Americans will.
+NEUT12|Be spending money to tell people to stay home.
+NEUT13|It would be hugely impacting airline travel tourism destinations just spending in general spending is just average consumption spending is 70% of our economy as far as your investments Eagan says.
+NEUT14|Think long term but if you want to take advantage of low prices, now might be the time to buy the dip.
+NEUT15|"Although he says it's not clear yet when will hit the bottom for WTO 11 I'm Amanda Faye."""

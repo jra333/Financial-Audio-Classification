@@ -1,0 +1,25 @@
+BULL0|"""Thank you for joining me."
+NEUT1|I'm Alex and I want to talk about Unity software and mainly want to talk about it because someone at work mentioned it and I'm a sucker for interesting companies despite their financials.
+NEUT2|So what they do is they make game engines and obviously related stuff.
+NEUT3|Obviously, with the revenue they have, things are quite well known and widely used, so current price $151.98, which gives the market cap of $41 billion dividend is zero.
+NEUT4|I wouldn't expect that to change, especially considering the current earnings revenue, $542 million earnings negative $163 million.
+BEAR5|And that gives them a PE of negative 252.
+BEAR6|So obviously as you can see, their market cap is about 100 times their revenue and the earnings are not great.
+NEUT7|Total assets $763 million.
+NEUT8|Total liabilities $369 million, which gives them a total stockholders equity of $394 million.
+NEUT9|So as far as balance sheets go, this one is pretty nice.
+NEUT10|Obviously, stockholders equity being again about 1% of their market cap, is not great, so that doesn't have a great relation, but the assets to liabilities ratio is pretty nice, so I.
+NEUT11|Really like this?
+NEUT12|Risk factors, I mean, obviously there's a pretty decent chance that they run out of money, but.
+BULL13|With as big and well known as they are, I would expect them to be able to find people to finance them regardless of the current earnings.
+NEUT14|So overall.
+BEAR15|Obviously there's nothing here for dividend investor, and obviously there's nothing here for a value investor 'cause the earnings, even if they had that in the positive, would not reach .4% off their market cap.
+NEUT16|So nothing here for a value investor obviously.
+NEUT17|So for growth investor.
+BULL18|I think the growth of 50 ish percent is nice, but considering the market cap is still 80 ish times the revenue they would have to double their earnings for about a decade before the.
+NEUT19|PE would approach a decent value or before the P could approach a decent value.
+NEUT20|So overall I don't think that even a value investor would find a decent valuation here, and so I guess the bottom line is don't buy the stock.
+NEUT21|That's it for me.
+NEUT22|For today.
+NEUT23|If you like this video, make sure to subscribe on camera more videos every day before market open.
+BULL24|"I hope you have a successful day."""

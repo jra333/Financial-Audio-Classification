@@ -1,0 +1,20 @@
+BULL0|"""Coca Cola earnings for 33% but company sees improving demand as locked on ease."
+BEAR1|Coca Cola CEO James Quincy said the company believes that the second quarter will likely be the most challenging of the year.
+BEAR2|Global unit case volume fell 16% in the quarter, but the company reported signs of sequential improvement and demand as lockdown eases.
+NEUT3|Cokey nounced in late June that it would be pausing all social media advertising for 30 days.
+BEAR4|Coca Cola on Tuesday reported its largest decline in quarterly revenue in at least 25 years, but the company sees demand improving as global lock down ease.
+BEAR5|CEO James Quincy said the company believes the second quarter will likely be the most challenging of the year.
+BULL6|Shares of the company's rose 2% in premarket trading.
+NEUT7|Here's what the company reported compared with what Wall Street was expecting based on a survey of analyst by Raffi native.
+BEAR8|Earnings per share for two cents adjusted versus $0.40 expected revenue $7.2 billion versus 7.2 billion's expected.
+BEAR9|Coke reported fiscal second quarter net income of 1.78 billion U.S. dollars, or $0.41 per share, down from 2.61 billion, or $0.61 per share a year earlier.
+BULL10|Excluding items, the beverages joint earned $0.42 per share, topping the $0.40 expected by analysts surveyed by definitive.
+BEAR11|Net sales dropped 28% to 7.2 billion U.S. dollars.
+BULL12|Meeting expectations.
+NEUT13|Organic revenue, which strips out the impact of currency acquisitions and.
+BEAR14|Divestitures fell 2726% in quarter.
+BEAR15|Global unit case volume shrank by 16%.
+BEAR16|Although volume trends have shown signs of sequential improvement as global lock down ease after plunging 25% in April, unit case volume fell by just 10% in June so far.
+BEAR17|In July, volume has fallen fallen by the mid single digit.
+BULL18|The company attributed the change to improvements in its away from home sale, which typically make up about half of its.
+BULL19|"Revenue and sustain higher scale four at 4 at home drinks."""

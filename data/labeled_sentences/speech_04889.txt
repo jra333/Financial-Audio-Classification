@@ -1,0 +1,27 @@
+NEUT0|"""We do have some breaking news from Amazon, and Bertha Coombs has that story."
+NEUT1|Bertha good morning.
+BULL2|Good morning, Becky.
+NEUT3|We know Amazon has been eyeing healthcare for a long time now.
+BULL4|They're launching a full online pharmacy as of today, building on its $1 billion acquisition of Pillpack two years ago.
+NEUT5|The new pharmacy is in network with major insurers and Medicare, and patients can pay for their prescription copays with funds from their health, savings accounts or flexible spending accounts, just like they would at any pharmacy, and they can confer with pharmacists online or over the phone about their prescriptions.
+NEUT6|Prime members get free two day shipping.
+NEUT7|Patients who need meds right away can get a card to go to a physical pharmacy.
+NEUT8|They also get a prime prescription savings comparison at checkout showing discounts if they don't use their insurance.
+NEUT9|Similar true, what you get from Good RX when it comes to your personal health data.
+NEUT10|TJ Parker, the founder of Pillpack, now the vice president of Pharmacy at Amazon, tells CNBC that the experience inside the pharmacy is separate and distinct from Amazon.com and that data will be stored in compliance with health privacy rules.
+NEUT11|And not used for marketing, although they are released, says without clear permission.
+NEUT12|So I guess you could opt into that if you wanted to.
+NEUT13|1st Amazon came for the drug store change front of store.
+NEUT14|Now it's taking direct aim at the back of the store at their pharmacies Becky.
+NEUT15|Yeah, well, I mean this is something that probably doesn't come as a huge surprise.
+BEAR16|We've seen them kind of gearing up and ramping up for something like this, but when you hear the news that it's actually happened, that still has to come as a bit of a shock and you see the moves of down 1 1/2 to 3% for the major competitors their birthday.
+NEUT17|This has been something that these competitors have been preparing for for a long time.
+NEUT18|To how do they fight back?
+BULL19|Well, they they have been building up their in store services.
+NEUT20|That is what they think is going to be the key.
+NEUT21|And certainly we have seen that right now during the pandemic.
+NEUT22|You know they've been offering testing and they're going to be a critical point when it comes to the distribution of the vaccine, but they really been ramping up and making sure that their pharmacists aren't just there to dispense pills, but also to offer advice and also adding other services like clinics and also dieticians and basically to make it your front door for health so they still have those physical pharmacies.
+NEUT23|And at this point, as far as we know, Amazon is not ready to do that just yet.
+NEUT24|But stay tuned.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,11 @@
+NEUT0|"""Here's what we're following across markets as a big trading week gets underway."
+BEAR1|Equities are in retreat as oil prices drop and the value of the yen appreciates.
+NEUT2|Yes, it's a risk off opening to the week.
+NEUT3|That's hardly a shock.
+BULL4|Global equities and commodities have enjoyed a solid run lately with investor positioning heavily in favor of further gains.
+NEUT5|Much relies on soothing noises coming from central bankers led by the Fed reserve and the Bank of Japan.
+BULL6|Stronger yen and weaker topics today suggests that DOJ faces a tough task, go big or go home is a message we're hearing from Mr Market.
+NEUT7|A slightly more upbeat Fed statement could also found some jitters at a delicate time.
+NEUT8|For the equity market, sentiment will turn on some big earning reports this week, such as Apple, Facebook, Amazon, Boeing and forward.
+BEAR9|Notably the SMP technology sectors been a laggard over the past week, hurt by disappointing results from Microsoft, and Alphabet for equity bulls.
+BULL10|"They need to see some upside surprises from big Tech this week to help kickstart the sectors Mojo."""

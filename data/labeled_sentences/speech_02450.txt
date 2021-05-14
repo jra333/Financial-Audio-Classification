@@ -1,0 +1,25 @@
+NEUT0|"""Screw company I chose was Disney."
+NEUT1|And the ticker symbol for this is DIS.
+NEUT2|And it's so.
+NEUT3|On the New York Stock Exchange, also known as NYSE.
+NEUT4|The.
+NEUT5|52 week I love.
+NEUT6|Is $86.25.
+BULL7|The high $122.08.
+NEUT8|Uhm?
+NEUT9|The dividend is .71 and Avengers 1.46%.
+NEUT10|The current price, it seems that is.
+NEUT11|$97.00 on the dot.
+NEUT12|The reason why it's company is 'cause.
+NEUT13|Elvis, Pixar responsible for my Toy Story cars after saying you know all those movies.
+NEUT14|And it also owns Lucasfilm.
+NEUT15|Battlefield Star Wars.
+BULL16|That's very Piper, so that's a big money making opportunity for Disney.
+NEUT17|And their own Marvel Iron Man Spiderman movies.
+NEUT18|They own the ABC television group.
+NEUT19|Do you do you channel in any network?
+NEUT20|And 80% of ESPN.
+NEUT21|And of course they had three resorts.
+NEUT22|They have locations in Florida, California, Hawaii, Paris, Shanghai, Hong Kong, Tokyo, so Disney is known pretty much all around the world and they have Disney Cruises.
+NEUT23|And they have a channel with their own Disney Channel.
+BULL24|"So Disney is very popular company and very successful one and will continue to grow so investment."""

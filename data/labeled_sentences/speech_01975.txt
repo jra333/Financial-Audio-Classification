@@ -1,0 +1,44 @@
+NEUT0|"""Hello, I'm Steve Forbes and this is what's ahead when we give you straight talk on what's out there and what you need to know about this turbulent world."
+NEUT1|Well, with internal turmoil with the US economy barely recovering from the COVID-19 crisis with China's economy now beginning to expand again, people are wondering can the USB competitive with China anymore?
+NEUT2|After all their universities are turning out?
+NEUT3|10 times as many students in the so called stem areas that a science, technology, engineering and math.
+NEUT4|They're making more money available for research and development and what they don't have, they seem to steal.
+NEUT5|However, we should not despair.
+BULL6|We've had periods of trouble before, and we recovered and moved ahead.
+NEUT7|Go back to the 1970s and malaise decade.
+BEAR8|High inflation.
+NEUT9|Not only did we have few years of before put a man on the moon beating out the Russians, we also made changes in the early 1980s.
+BULL10|And became the dominant technology power in the world.
+NEUT11|How did we do it?
+NEUT12|We cut taxes.
+NEUT13|We cut regulations.
+NEUT14|We rebuilt our military, our decrepit military.
+NEUT15|We took other measures.
+NEUT16|So what should we be doing today to get off the mat and make this country truly what it should be to restart the economy when we get over this internal turmoil, which eventually we will?
+NEUT17|Well, there are several things we should do.
+NEUT18|Cut taxes.
+NEUT19|Start with the payroll tax suspended for a year.
+NEUT20|Make another round of stimulus checks.
+NEUT21|And then simplify the tax code just as we did in the 1980s.
+NEUT22|Another thing we must do continue to cut regulations, especially for small businesses.
+NEUT23|Just give you one example.
+NEUT24|In upstate New York, there's an Orchard.
+NEUT25|It's subject to 5000.
+NEUT26|Different regulations from 17 different programs.
+NEUT27|How they supposed to compete in that kind of environment.
+NEUT28|Make life simple.
+NEUT29|Make basic principles.
+NEUT30|If you don't adhere to them, you get in trouble, but if you do, you get left alone instead of filling out form after form after form.
+BULL31|Another thing we should be doing, which we did back in the 1980s, is make the dollar strong again.
+NEUT32|So people have confidence to invest in the future.
+NEUT33|And finally one thing we should not do and that is restrict visas for people with high technological skills.
+NEUT34|We need those people we shouldn't be restricting their entry.
+BULL35|We should be welcoming more of them.
+NEUT36|We need their brains and their drive.
+NEUT37|We do these things on taxes, regulation, making the dollar good again and also bringing in people who want to contribute to the American economy in our future.
+NEUT38|Let's go for it.
+BULL39|Do that and once again, as we've done in the past or overcome these time of troubles.
+NEUT40|I'm Steve Forbes.
+BULL41|Thanks for listening.
+NEUT42|Please send in your suggestions and comments, specially about future topics.
+NEUT43|"See you next time."""

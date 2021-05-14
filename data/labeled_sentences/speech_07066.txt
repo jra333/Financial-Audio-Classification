@@ -1,0 +1,5 @@
+NEUT0|"""As it is said, Theta is the next Bitcoin."
+NEUT1|Yes, theater has very good potential and one can easily see the price of theater go around.
+NEUT2|300 to $500 in 2021 but before, before investing into cryptocurrency, do your own research.
+NEUT3|This is not at all an investment advice.
+BULL4|"Thank you."""

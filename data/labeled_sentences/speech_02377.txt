@@ -1,0 +1,6 @@
+BEAR0|"""Hey well Disney CFO Christine McCarthy, weighing in on the backlash over Mulan's end credits, thinking parts of the Chinese government that have been accused of human rights violations at the Bank of America Conference just now."
+NEUT1|When asked if she believes the Mulan controversy will impact the box office in China, McCarthy, noting that the film was shot almost entirely in New Zealand and in an effort to accurately depict the landscape in China, they filmed scenery in 20 Chinese locations, and she said that in order to film in those places, you need to be granted permission.
+NEUT2|Defending those kinds of thanks and acknowledgements in the credits as commonplace for movies in general, she did acknowledge that it has generated a lot of publicity, though didn't indicate what impact she believes that will have when the film opens in China tomorrow.
+BULL3|McCarthy also noting that Mulan's release via Disney Plus here in the US has had some positive impact on subscriber signups.
+NEUT4|Will it'll be really interesting to see what happens in the box office in China over the weekend.
+NEUT5|"Back over today."""

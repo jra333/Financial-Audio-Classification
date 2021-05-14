@@ -1,0 +1,24 @@
+NEUT0|"""How's it going you to bring you a very short but useful video?"
+NEUT1|Today I posted a video a while back on how to create a Java program to read a stock quote from the Internet, and that was a very long program to do a very simple task, and it's much easier to do on R, so I thought I'd make a video on the short, simple way to do it in R&R is incredibly simple.
+NEUT2|All you have to do is first install Quant MoD.
+NEUT3|Specify the libraries quant MoD.
+NEUT4|An after that, we're just going to use this get symbols function, which I was so happy when I found this function is so much easier than trying to find some other work around, but all you do is specify.
+NEUT5|The ticker symbol, the Fromdate, the two dates, so I'm just getting a years worth of data here and then.
+NEUT6|This auto sign parameter.
+NEUT7|Well, all this does is say if this is true then it's going to name the data PG.
+NEUT8|If this is false then you can just go ahead and do your own assignment into whatever variable name you want to do.
+NEUT9|But so let's go ahead and run this and I'll show you what we end up getting here and this is going to go out and pull from Yahoo Finance.
+BULL10|So very good.
+NEUT11|Here's our Procter and Gamble look at that gives you the open, gives you the high low close an really what we're concerned about with is the clothes.
+NEUT12|So then we can even go ahead and just extract the clothes, put it as its own variable.
+NEUT13|Let's just.
+NEUT14|Fun, let's just find the mean.
+NEUT15|There's mean 88.25.
+NEUT16|We need to plot it quick, do a quick time series plot of the clothes, make sure it looks correct.
+NEUT17|Here's our plots and looks good, right years worth of data should be out 252 points for business days.
+BULL18|And yeah, everything looks good.
+NEUT19|Looks like prices are appropriate, so.
+NEUT20|I think it's very useful, especially if you have a small portfolio you want to analyze of a couple of stocks.
+NEUT21|Great way to import him into R, then go ahead and analyze whatever you need to.
+BULL22|So hope this helps.
+BULL23|"Thanks for watching."""

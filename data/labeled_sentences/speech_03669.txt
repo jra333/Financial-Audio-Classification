@@ -1,0 +1,45 @@
+NEUT0|"""So Netflix is 2.2 million global net paid subscribers for Q3."
+NEUT1|That was about half of your estimate.
+NEUT2|Where's the disconnect?
+BEAR3|I mean the quarterly subscribers are extremely volatile.
+NEUT4|You really have to look at Netflix moron on an annual basis in terms of Subs.
+BEAR5|And they did only miss their guidance by 300,000 subscribers.
+NEUT6|I mean the challenge that Netflix has at the moment is that they did almost a full year in the first half.
+BEAR7|The company added 26 million subscribers in the first half relative to 28 in the prior two years, and so they're dealing with the consequences.
+NEUT8|I think of the after effects of the benefits of covid, but but you know, going forward.
+NEUT9|This company is still on a run rate that trying to do 25 to 30 million subscriber additions a year in the future.
+NEUT10|After this this little bumpy.
+NEUT11|They're going through right now, right?
+NEUT12|So to your point, do you think that the the numbers for Q3 is largely a result of this?
+NEUT13|Pull forward that they saw in the first half of the year?
+NEUT14|Or is it emblematic of a slowdown and the fact that they've just had this?
+NEUT15|They have this user base that's largely penetrated at this point.
+NEUT16|It's it's a.
+NEUT17|It's a little both.
+NEUT18|I mean I you have the fact that it's a very large company.
+NEUT19|Now the company is going to exceed 200,000,000 global subscribers at the end of this year, and so it's not the Netflix of old.
+NEUT20|The 50 bagger.
+BULL21|Over the past, you know decade post the Quickster dibacco, but it's a very large company and it's in Blue Chip Company now it's transitioning to steady top line growth 2025% depending on price increases with expanding operating margins and free cash flow generation.
+NEUT22|That's a different narrative than.
+BULL23|Flicks of old, but it's still a quite positive one.
+NEUT24|And you know we have a hold rating on the stock.
+BULL25|We're pretty constructive on it.
+NEUT26|Overall yeah, but I wonder, is that a narrative that then argues for a lower multiple overtime?
+NEUT27|Scott, I mean again, nobody is arguing incredible success.
+NEUT28|We almost describe it as TV now, but it doesn't necessarily mean it's entering a period of slower growth that people aren't going to be willing to pay less for it.
+NEUT29|I agree, I mean, I think it becomes more predictable from here.
+NEUT30|There's not any noticeable kind of optionality on the platform that one could conclude at the moment relative to other peers that are similar points in their lifecycle.
+NEUT31|Say like an alphabet, but you know, but you have to be more valuation sensitive.
+NEUT32|I think the dream in terms of the upside to subscriber numbers, that that's something that played out over the past ten years.
+NEUT33|You know, the next 10 years is going to be this steady growth expanding margins story.
+NEUT34|Which is going to lead to some multiple compression which is already begun, but you're paying about 55 times forward earnings for 20 to 25% grower.
+BULL35|The expanding operating margins not ridiculously valued, you know, but I wouldn't argue it's cheap yet either.
+BEAR36|Hey Scott, you know social media remains under a lot of pressure regarding content, moderation and perceptions of political bias.
+NEUT37|Evans been pretty vocal about at least the president and the Unsnap no longer promotes his snaps.
+NEUT38|But how have they managed to fly under the radar on that front?
+NEUT39|And how long can that last?
+NEUT40|Well, John Egbert, on our team, formerly covers a social media stocks, but I could comment at a high level, which is that SNAP is a closed community relative to some of the other social networks, so is much less prominent in these discussions.
+NEUT41|I think that when you're talking about some of the issues that social media faces, it's more really a Facebook and Twitter issue.
+NEUT42|Snap isn't really part of that debate.
+NEUT43|Shepard Smith here.
+NEUT44|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,30 @@
+NEUT0|"""Do you hear anything in what the Fed has said that changes your view of on inflation or the growth of the economy?"
+NEUT1|The trajectory of the economy or unemployment?
+NEUT2|Or is it pretty much what you expected?
+BULL3|It's very much in line with expectations.
+NEUT4|What we hear is the committee really highlighting the ongoing weakness in the domestic economy, particularly when it comes to the labor market and on the part of the consumer justifying not only their current very accommodative stance, but offering assurance to the market and investors that they intend to remain in this very accommodative stance for the foreseeable future.
+BULL5|Until the economy emerges back towards pre pandemic levels of full employment and stable inflation near 2%.
+NEUT6|Which, in the Fed's opinion, could be several years from now.
+BULL7|There's a lot of optimism in the marketplace, but the Fed says that to get to this sustainable organic pre pandemic level, it could be quite some time.
+NEUT8|So the minutes really highlighting the emphasis of the Fed has has voiced to the marketplace through several commentaries, through several testimonies that they do intend to keep rates low until well into next year, if not beyond.
+NEUT9|Let's turn the corner Larry and talk a little bit about the impact on equities as I've been taught.
+NEUT10|Over the years, a little bit of inflation is pretty good for stock prices, low interest rates, pretty damn good for stock prices and a growing economy.
+BULL11|Very good for stock prices.
+NEUT12|All of those things are in place.
+NEUT13|No, absolutely, and I think you know you just outlined a couple.
+NEUT14|We put out six factors in our recent note of why this equity market should continue to go higher.
+NEUT15|And you know one where in the first year of a bull market.
+NEUT16|Historically it last six years, two, as you mentioned.
+BULL17|As long as interest rates remain below 2%, that tends to be a good market for equities.
+NEUT18|Three.
+NEUT19|As Lindsey said, we think the Fed stays on hold for three years.
+BULL20|That should be positive for growth.
+BULL21|Is likely to grow 4% or more this year.
+BULL22|That should help the earnings environment 5.
+NEUT23|If you look at the fiscal stimulus.
+NEUT24|If the rescue package gets passed, you're talking about $5 trillion being pumped into this economy.
+NEUT25|That's more than 25% of GDP.
+BULL26|Since this pandemic has begun, and then six, I think that we start to see a more normal activity in this economy because within six months, I think that this vaccination process will be well underway.
+BULL27|Most of us will be vaccinated, will be returning back to normal.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

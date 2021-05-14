@@ -1,0 +1,41 @@
+NEUT0|"""Well, Bloomberg Reporter spills major news about Trump's future political plans."
+NEUT1|My name is Elijah Schaffer of the show slightly offensive here on YouTube.
+NEUT2|I'm filling in for the next news network.
+NEUT3|Please tap that red button below to subscribe and turn on the Bell.
+BULL4|It helps us out a lot.
+NEUT5|Our story comes from Kyle Becker from Trending politics reports days after Donald Trump appeared at a Presidents Day weekend rally in Florida.
+BEAR6|There was word that the former president is about to go on the political offensive.
+NEUT7|Bloomberg is reporting that Donald Trump may play a role in a potential California runoff election quote based upon my reporting.
+NEUT8|I've spoken with two sources close to former President Donald Trump, who tell me that he is carefully eyeing and weighing whether or not to inject some of the Trump political machine into a potential California governor runoff election.
+NEUT9|Bloomberg then reported take a look based upon my reporting.
+NEUT10|I've spoken with two sources close to former President Donald Trump, who tell me that he is carefully eyeing and weighing whether or not to inject some of the Trump political machine into a potential California governor runoff election.
+NEUT11|You'll note that.
+BEAR12|There are a couple of weeks left for the signatures to be gathered for the tally of a potential California governor recall election Governor Gavin Newsom, a Democrat, has faced incredible incredible criticism not just from Democrats but obviously from Republicans as well.
+NEUT13|If you're looking at California, that signature threshold will have to be reached by mid March and then following that in about 60 to 80 days is when that recall election would come from a policy prescription menu standpoint.
+NEUT14|Silicon Valley big tech energy policy in the auto sector.
+BEAR15|This is really potentially Ground Zero for a bellwether state of sorts for Republicans and Democrats as they head into the midterm elections.
+NEUT16|Well, as reported earlier, California is pushing for strict signature and matching for the recall election.
+NEUT17|Petition signatures.
+NEUT18|Now, Donald Trump appears ready to fight both the Democratic Party and the Republican Party from the outside.
+BEAR19|One day after blasting Mitch McConnell in a brutal 600 word statement that we previously reported on.
+NEUT20|Now it comes to no surprise, however, that they are requesting signature matches on the recall election of the current Governor of California.
+NEUT21|But they didn't need them for the election of the President of the United States.
+NEUT22|The hypocrisy in a compromise that we've come to understand and believe.
+NEUT23|That is now a part of our new borrowed elections and fun things that we all do.
+BULL24|It's a great time to hang out and stay alive anyway.
+BULL25|Have a great rest of the week, and May God bless the United States of America I'm signing out.
+NEUT26|Thank you for watching that report.
+BEAR27|Now more on those 76,000 citizens in the Bay Area who found themselves without power last month because of high winds from a previous night storm.
+BEAR28|Yes, power outages are becoming an increasingly common problem in the nation.
+NEUT29|Growing numbers of large storms, forest fires and general natural disasters are a few key reasons.
+BEAR30|Why we're seeing more outages?
+NEUT31|And that is why I recommend this guy.
+NEUT32|It's the light bug.
+NEUT33|It is a solar powered, ultra bright portable light and with it you will never have to worry about a power loss again.
+NEUT34|So what I want you to do is get the light bug and I want you to take advantage of 20% off during this Valentine month special by going to lightbug.com that's LYTEBU, g.com or just visit the link below.
+NEUT35|We'll see you at the next report for the next news network.
+NEUT36|I'm Gary Franchi.
+NEUT37|You possess the power to impact the global narrative.
+NEUT38|Please share this report and to get more videos like this, become the next news.
+NEUT39|Subscribe by clicking the link below.
+NEUT40|"Thank you for watching the next news network."""

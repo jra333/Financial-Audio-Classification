@@ -1,0 +1,27 @@
+NEUT0|"""Davids Best Buy now."
+NEUT1|Activision Blizzard.
+NEUT2|David most recently made Activision Blizzard a Best Buy now in October of last year.
+BULL3|Back then he called out Activision as a company that had probably found increased popularity during the pandemic.
+NEUT4|Within person entertainment outside the home difficult if not impossible to pursue.
+NEUT5|People were spending more time playing video games.
+BULL6|We were impressed with the more than 400,000,000 active monthly users.
+BULL7|The company reported in the third quarter of last year, and we're looking forward to seeing how it would continue to grow its business as the world emerged from lockdown.
+BULL8|Well, Activision has bold plans for a post pandemic world.
+BULL9|Management has a long-term goal of 1 billion monthly active users, as it reiterated in the Q4 2020 earnings report.
+BULL10|That would be a 150% increase from the current number.
+BULL11|For context, there are about 8 billion or so people on the planet right now, so hitting that Mark would represent some serious market penetration for Activision.
+NEUT12|We love to see ambitious goals from our companies.
+BULL13|Activision ended 2020 on a great financial note, beating management's own expectations.
+BULL14|The company generated $2.41 billion in revenue and $3.05 billion in net bookings in the fourth quarter versus the expected $2 billion and $2.73 billion forecast, respectively.
+BULL15|We expect this solid performance to continue in 2021 and beyond.
+BULL16|Three of Activision's franchises generated more than $1 billion in net bookings in 2020, and management expects at least two more to approach that scale in the next few years.
+BULL17|In the near term, Overwatch two and Diablo four are set to launch soon, which should provide a nice boost to those two popular franchises.
+BULL18|Activision Blizzard has done well for investors this past year, but it's not too late to jump in now.
+BULL19|We believe even better things are yet to come.
+NEUT20|Even if you already own shares, don't be afraid to add a little bit to this clear, proven winner.
+NEUT21|I am going to place orders of 2% of My Portfolio an add a little at a time.
+NEUT22|I will use my TD Ameritrade demo account, but before I do it, let's have a look on how well the previous recommended stocks are performing.
+BEAR23|I bought this stocks back in February and overall I am 2.5% down.
+NEUT24|Last week I added 50 more stock of Crowdstrike at the price of $209.66.
+NEUT25|Every Thursday I will share with you all the latest stock recommendation from Motley Fool Stock Advisor.
+NEUT26|"Don't forget to subscribe to my channel and turn on notification."""

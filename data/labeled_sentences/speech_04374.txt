@@ -1,0 +1,9 @@
+BULL0|"""Singapore shares in Japan were set to rise at the Monday Open as many major Asia Pacific markets are closed for Holidays."
+BULL1|Futures pointed to a higher open for Japanese stocks.
+NEUT2|The Nikkei futures contract in Chicago was at 30,025 while its counterpart in Osaka was at 29,980.
+BEAR3|That compared against the Nikkei 225's last close at 29,854 markets in Australia, mainland China and Hong Kong are closed on Monday for Holidays.
+BULL4|In economic developments, the US Labor Department reported Friday that nonfarm payrolls rose by 916 thousand in March, well above the 675 thousand increase expected by economists surveyed by Dow Jones.
+BEAR5|The unemployment rate also declined to 6% in line with the expectations of the economists surveyed by Dow Jones.
+BEAR6|the US Dollar Index, which tracks the greenback against a basket of its peers, was at 93.013 off levels above 93.3.
+BEAR7|Seen late last month, the Japanese Yen traded at 110.71 per dollar weaker than levels around 110.5 against the greenback.
+BEAR8|"Seen last week, the Australian dollar changed hands at 0.7609 dollars above levels below 0.756 dollars, seen last week."""

@@ -1,0 +1,24 @@
+BEAR0|"""The Fed is close to ending its balance sheet shrinkage program."
+BEAR1|One issue for the Fed is that its uncontrollable liabilities, mainly currency and non bank deposits are growing fast and that constrains asset shrinkage.
+BULL2|Currency is growing at 7% per annum.
+NEUT3|Even in this era of electronic payments.
+NEUT4|Currency is a liability of the Fed an A source of funding.
+NEUT5|So when currency outstanding grows, the Fed uses the money to buy Treasury securities.
+NEUT6|By the way, most of the currency growth leaves the United States and it's denominated in $100 bills.
+BEAR7|The Fed does control the supply of bank reserves and these have shrunk by a trillion dollars.
+NEUT8|It's just that the liabilities that are demand determined.
+NEUT9|That's the currency and non bank deposits.
+BEAR10|They are rising much faster than expected since assets must equal liabilities, liability growth is emerging as a constraint on shrinking the balance sheet.
+NEUT11|Now, market impact matters to.
+NEUT12|the Fed has argued that its unwinding of QE AKA cutey or quantitative tightening has not impacted markets and has been like watching paint dry.
+NEUT13|We disagree.
+BULL14|The main impact of the QE operations while the economy was growing, say 2010 to 2015, was to support equity prices and dampen equity market volatility.
+NEUT15|Based on actual economic data, QE had no measurable impact on inflation or economic growth.
+NEUT16|The impact seems solely to be related to asset prices.
+BEAR17|Since the shrinkage began, we have seen considerably more volatility in equities.
+NEUT18|Now, there have been specific causes, such as the trade war, but our point is that any surprise in the cute era is likely to have more volatility than in the Que era.
+NEUT19|And this should surprise no one, since Cutie is the unwinding of QE.
+NEUT20|It makes a lot of sense that the unwinding has some of the opposite effects of the original program.
+BULL21|In any case, the equity market turmoil in Q4 2018 seems to have convinced the Fed to worry about the economy in 2019.
+NEUT22|So the Fed is ending cutie earlier than planned or another diet plan bites the dust.
+NEUT23|"I'm Blue Putnam, chief economist, CME Group."""

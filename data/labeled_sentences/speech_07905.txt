@@ -1,0 +1,26 @@
+NEUT0|"""What do you think is the most likely covid scenario going forward besides vaccines work and it goes away within the year as everybody gets vaccines."
+NEUT1|In other words, where's the risk and how do we spot it?
+NEUT2|Uhm?
+NEUT3|I actually.
+NEUT4|Felt and I it was hard to separate out.
+BULL5|My assessment from my hope, but it really felt.
+NEUT6|Even before the vaccines are being rolled out that we were going to end up with this thing becoming endemic in the population, an losing very lenzen becoming one of these corner viruses that circulate some kids get exposed to an like they do for colds and that it would become less and less of a deal.
+NEUT7|I still hope that's a possibility.
+NEUT8|I don't know where to put the probabilities that well.
+NEUT9|I would say the details of that scenario matter a lot and there's one way in which I think that's a horrifying scenario and that the you know, effectively adding another influenza to the same influence.
+NEUT10|I said called, well, I know, but within that it becoming endemic.
+BEAR11|An US being regularly infected by it could potentially be a disaster, or it could.
+BEAR12|You know, descend into a level of violence where it would be a nuisance.
+BEAR13|Still a huge set back, but nonetheless it could be a tolerable one.
+NEUT14|I think there is a possibility that the vaccine as ill advised as launching into a massive vaccine vaccination campaign that is not evolutionarily well thought out, is it's actually possible that this could work and that the escapees will have.
+NEUT15|Downsides associated with them evolutionarily that will kind of escapees were talking about virus escapees, virus virus escaping susceptibility.
+NEUT16|But I think it's actually very likely that what happens is that the arms race produces the natural counterpart on our side, which is that you know we will be generating vaccines rapidly.
+NEUT17|It will be a scaping and we will be chasing the virus and we will learn a lot about the.
+NEUT18|Consequences of repeated vaccination?
+NEUT19|So anyway, there are a lot of scenarios and I would say many possibilities are open here, including presumably ones we haven't thought of.
+NEUT20|Yep, but.
+NEUT21|You know, cross your fingers that this vaccination campaign and there are ways in which.
+NEUT22|If it makes any sense, it hasn't been explained to us how it does vaccinating people who've had covid still doesn't make any sense to me, right?
+NEUT23|And it's a lot of people.
+NEUT24|So why are we exposing them to the hazard of a vaccine?
+NEUT25|"We know nothing about the long term implications of that seems indefensible, but I guess we'll see."""

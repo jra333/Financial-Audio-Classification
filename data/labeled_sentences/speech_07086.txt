@@ -1,0 +1,37 @@
+NEUT0|"""Well, I'm not so sure that it has everything to do with the trade situation."
+BEAR1|I mean the decline today in durables was so broadly based, there's no question that you know the China U.S. trade War is having an impact on sentiment.
+NEUT2|But you know what you're seeing in the in the corporate sector is one of the reasons why you know credit spreads, haven't you know widened dramatically even with the economy slowing down here into the second quarters because corporations are starting finally to deliver and focus on balance sheet quality, which is great news, except it comes at the expense of capital spending.
+NEUT3|So my call all along was that this was not going to be a consumer recession.
+NEUT4|That was the last cycle.
+BEAR5|This is going to be a capital spending recession because of the necessity of corporations to get their balance sheets in shape.
+BEAR6|Pay down debt comes at the expense of aggregate demand growth, but it staves off the possibility of seeing a lot of downgrades from Triple B into the junk bond market.
+NEUT7|So I think that's not destroying the story.
+NEUT8|We focus on trade all the time, but there is a deleveraging story.
+BEAR9|Going on right now in the corporate sector, that's undermining capital spending.
+NEUT10|And that was a story in today's durables report.
+NEUT11|David, what about the softer than expected data out of Germany and Japan earlier in the week?
+NEUT12|Is that directly linked to China and trade or or not?
+NEUT13|And will it impact the US?
+NEUT14|Well, there's no question that you know Germany and Japan.
+NEUT15|You know, being so trade oriented that the situation in China and actually not just the trade frictions but the Chinese economy which everybody thought was going to be re accelerating for quarters to come because of the monetary and fiscal stimulus measures and that lasted for a couple of months.
+BEAR16|And now in China thinks there or decelerating.
+NEUT17|And that of course is having an impact on all those other export oriented regions in Europe and in Asia.
+NEUT18|Does that have a significant knock on effect on the US economy?
+BEAR19|You know there's some marginal impact of trade.
+NEUT20|I mean the US is a large closed economy.
+NEUT21|I would say to you that there's two other things I've been focused on all along the lagged impact of the Fed tightening the Fed did raise rates 9 times this cycle.
+NEUT22|There's a price to be paid with the lag from that we will see that ongoingly for at least the next year and on top of that the overriding theme I had this year was not about trade.
+NEUT23|I know that's what everybody talks about, but I'm talking about what people aren't talking about and you're seeing it actually in the deleveraging numbers, you're seeing it in the Fed.
+BEAR24|Credit survey data you're seeing in the fact that bond issuance by US corporations this year is the lowest it's been in seven years.
+NEUT25|There's something happening here in the corporate sector in terms of deleveraging.
+NEUT26|That's having an impact on capital spending that has nothing to do with anything else on the trade side.
+NEUT27|It's really a homegrown development.
+NEUT28|Barb, I mean, how do you think about the growth outlook for the rest of the year?
+NEUT29|Whether it's trade influenced or some of these things that David's talking about?
+NEUT30|Well, I think the growth outlook is going to be subdued, but I think that was the outlook from the beginning of the year.
+BEAR31|We only had such a strong market because it was so oversold in December, and I think you're looking at second quarter earnings will be coming in lower than the first quarter, which was around 1% in GDP.
+BULL32|Will probably be just over 1% by some estimates so, but I think we're going to be basically will limp along.
+NEUT33|Growth will be fine, 'cause as long as you have low interest rates.
+BEAR34|Inflation looks still under control and you've got such low unemployment.
+BEAR35|Those are the key underlying fundamentals, so it's not going to be robust.
+BULL36|"It's not going to explode away, but I think we'll be fine."""

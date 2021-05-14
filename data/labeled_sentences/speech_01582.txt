@@ -1,0 +1,34 @@
+NEUT0|"""Jeff Bezos, Elon Musk, Bill Gates."
+NEUT1|You know all these names right there.
+BULL2|Rich people, and amid covid, the rich have continued to get richer.
+NEUT3|But by how much?
+NEUT4|And also where?
+NEUT5|Let's chat with Adriana Belmonte.
+NEUT6|She's a Reporter with Yahoo Finance has been digging a little bit deeper into this again.
+BULL7|Kobid, Interestingly, bringing a very nuanced wrinkle to the wealthy, getting wealthier in 2020.
+NEUT8|But where, exactly are they?
+NEUT9|And who are they?
+NEUT10|Tell us a little bit more.
+BULL11|So we decided to use data from Bloomberg Billionaire Index, Forbes, and a little bit of use to USA TODAY info to kind of put together our own calculations and we found that since March 2020, the combined billionaire wealth in the US rose by more than 44.6%, which is more than $1.3 trillion.
+NEUT12|And during that time, 43 people became billionaires.
+NEUT13|For the first time.
+NEUT14|So Adriana I guess I want to follow up on exactly where this is happening.
+NEUT15|You know, give us a profile in New York, California.
+NEUT16|Those states that are pretty obviously concentrated in terms of those cities who the richest people are in those areas.
+NEUT17|So the richest person in the state of Washington this the United States in the world at whole is none other than Amazon CEO Jeff Bezos.
+NEUT18|His net worth as of March 30th was $180 billion, which, according to Bloomberg, is equivalent to more than .83% of US GDP, which is just wild.
+NEUT19|Also California, which is usually a back and forth between Elon Musk and Mark Zuckerberg, is now just Mark Zuckerberg.
+NEUT20|Because Elon Musk relocated to Texas, and now he takes the top spot there.
+NEUT21|Interestingly, Elon Musk in a 2019 court testimony tried to say that his net worth was only at $20 billion, but it's actually 165 billion.
+NEUT22|So I'm not exactly sure where he got that number from.
+NEUT23|Well, just another example though of one person from California relocating to Texas.
+NEUT24|So very interesting there.
+NEUT25|I'm Adrian I guess I just want to ask you while we still got you just in terms of expectations in the future.
+NEUT26|Obviously this is a change of administration.
+NEUT27|With Biden coming in maybe wanting to raise some corporate taxes, but are the leads between those richest people in each state wide enough where we shouldn't expect any changes?
+NEUT28|Yeah, pretty much honestly I can't.
+NEUT29|I couldn't see any of my data, any of them being closed.
+NEUT30|I mean, maybe some of the smaller states where there's not actually billionaires.
+NEUT31|There's just ultra high millionaires that could maybe be become a story as the time goes on, but otherwise I don't see anything changing anytime soon, but I did want to know that among all the billionaires in this map that we have here of Warren Buffett is the only one who is part of the giving Pledge.
+NEUT32|He is.
+NEUT33|"Pledge to give away 99% of his fortune by the you know Spain of his lifetime and maybe others have done that."""

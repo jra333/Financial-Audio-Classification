@@ -1,0 +1,22 @@
+BEAR0|"""Oil is back in a bear market since peaking in early June at $52 per barrel."
+BEAR1|Brent, the international oil marker, has fallen by more than 20%, which is the definition of a bear market.
+BEAR2|The picture is the same on the other side of the Atlantic, where West Texas Intermediate has also fallen 20% and is now trading at around $40 a barrel.
+BULL3|Between January and June, oil prices almost doubled as investors bought into the idea that the market was finally rebalancing after two year price rout production cutbacks and a string of supply disruptions in places like Canada and Nigeria offered further support.
+BEAR4|But as the price moved, higher speculators piled in building huge bullish positions in Brent and WTI that left the market looking vulnerable to a pullback.
+NEUT5|However, there needed to be a catalyst.
+BEAR6|In fact, there have been several first supply disruptions have started to ease.
+BEAR7|For example, most of the Canadian production that was forced to close because of wildfires has returned.
+BEAR8|Second, the number of oil rigs drilling in the US has started to creep higher, raising concerns that production might not fall as quickly as the market has been expecting.
+BULL9|3rd stocks of oil and refined products such as gasoline remain exceptionally high for this time of year.
+BEAR10|Gasoline stocks usually fall in the summer as demand peaks in the Northern Hemisphere, but this year the decline has been relatively muted in the US, which is the world's most important gasoline market.
+BULL11|Inventories have continued to rise and this week they hit 240,000,000 barrels.
+BEAR12|This, in turn is raising concerns that the crude glut is being transformed into a product glut.
+BEAR13|Now against that bearish backdrop, hedge funds and speculators have turned increasingly bearish as well.
+NEUT14|The combined net long position in Brent and WTI.
+NEUT15|That's the difference between bets on rising and falling.
+BEAR16|Prices has fallen to 453 million barrels of oil down more than 200 since the peak in April.
+NEUT17|Another factor and one which is often overlooked is Mexico's annual oil hedging program.
+NEUT18|This is the biggest of its kind.
+NEUT19|Anywhere in the world and it guards the country against the collapse in prices.
+NEUT20|Now none of this is to say that the long awaited rebalancing of the oil market is not happening.
+BULL21|"In fact the country is true, but the process of moving back to a market where supply and demand are in balance was never going to be a smooth process and that's being proved this summer."""

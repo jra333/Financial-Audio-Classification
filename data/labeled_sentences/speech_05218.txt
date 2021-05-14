@@ -1,0 +1,6 @@
+BEAR0|"""I'm sorry Josh Morris for smart trend News, Blockbuster announced that shareholder proposals."
+BEAR1|It previously said had passed at its annual meeting actually weren't approved, according to the Wall Street Journal.
+NEUT2|The proposals included a reverse stock split and combine its Class A stock and Class B stock into one.
+BEAR3|I'm sorry Josh Morris for SmarTrend news.
+NEUT4|For more news and market analysis throughout the day visitor website, tradethetrend.com or subscribe to our YouTube channel.
+NEUT5|"Trade the trend."""

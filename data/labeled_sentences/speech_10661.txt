@@ -1,0 +1,41 @@
+BEAR0|"""He has no idea Kramer I have talked to the heads of almost every single one of these firms in the last 72 hours and he has no idea what it's like out there."
+NEUT1|None and build.
+NEUT2|Pool has no idea what it's like out there.
+BEAR3|My people been in this game for 25 years and they're losing their jobs and these firms are going to go out of business and he's been nuts.
+NEUT4|They're nuts, they know nothing.
+NEUT5|Jim Cramer.
+NEUT6|You're such a calm, cool, collected my own kind of guy most days so.
+NEUT7|I want you to explain what happened nine years ago when your voice got a little loud.
+NEUT8|Yeah, I look, I make no secret about it.
+NEUT9|I've been in on Wall Street, but we've been by this building.
+NEUT10|This building for 35 years and just accumulated a lot of friends on Wall Street and they are my sources in a lot of ways and a lot of them in 2007 realized that their world was coming to an end and somehow they came to me and wanted to tell me that.
+NEUT11|They should tell people it was coming and there were just a series of people.
+NEUT12|That day is very fun because like somehow I was reviled for telling people to buy a particular effect.
+NEUT13|Programming mentions it was just I'm telling people I'm screaming to sell it an my my cell.
+BEAR14|All these as I said, they're all going under an.
+BEAR15|It was poorly received at the time.
+BEAR16|Very poorly received.
+BEAR17|I as a madman ranting at poorly received by the media, poorly received by my colleagues, poorly received by the Fed, which when the Minutes came out.
+BEAR18|I'm sorry that when the actual draft came out, showed you that they made fun of me.
+NEUT19|But then Tim Geithner, my regard is one of my heroes.
+NEUT20|That.
+BULL21|He did great work came out, said listen, I was wanting to do that.
+BULL22|Got it right so I would felt vindicated.
+NEUT23|But you know, I've often look back at it and said to myself.
+NEUT24|It maybe I showed my daughter the other day.
+NEUT25|She's in Italy, so please look at this and she was very proud of me and big short people were proud of me and make sure people came to me for video, but it wasn't worth it if I got some people out.
+NEUT26|Yes careerwise know.
+NEUT27|Well, maybe not.
+NEUT28|I mean here you are terribly years later.
+NEUT29|Well, but here's what happened.
+BEAR30|If your life is made miserable, annual ridicule, you have a family and your family doesn't want to see you ridicule now.
+BEAR31|Retrospect history vindicates, but at the moment the ridicule was so harsh and you have family and you know they go to school and they see people.
+NEUT32|And when your father's made fun of it's it's.
+NEUT33|It's not very gratifying.
+NEUT34|So as a personal basis it was not a great thing on a business basis, but they have to balance.
+NEUT35|I mean.
+NEUT36|My age I think about balance of business and personal.
+BEAR37|I embarrassed my kids.
+NEUT38|You never want to do that.
+BULL39|Well, you've made up for it over and over and over since then.
+BULL40|"Jim, thanks."""

@@ -1,0 +1,12 @@
+NEUT0|"""Hello everybody it is May 23rd, 2012."
+NEUT1|And that easy.
+NEUT2|Wednesday at 12:13 PM Eastern Standard Time.
+NEUT3|And what we have here is the Disney Stock Part 2.
+NEUT4|And it was calculated up in this year that this stock was going to compress, and it did so at 4389.
+BULL5|And I did mention it was going to go lower and it did.
+BULL6|And this concludes that Disney stock continued to enjoy my videos and spread the kind word of my financial discovery.
+NEUT7|Which is my primary goal.
+NEUT8|And thank you very much and again, this is the Disney stock.
+BEAR9|This concludes part one and it was indicated that the stock with this instrument was going to compress.
+NEUT10|And you can see us across the 4349 level.
+BULL11|"Thank you very much."""

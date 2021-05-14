@@ -1,0 +1,7 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instrument is the Amazon stock.
+NEUT3|If you look at the Amazon for our chart, we can see that after a strong upward movement, the price is currently correct.
+BULL4|Into the downside, we're expecting the price to reach approximately 1750.00 price level, where we can find a 50% Fibonacci retracement level and insight support point as well as the hundred moving average.
+NEUT5|Thank you for watching AAA trades intraday technical analysis from all of us here.
+BULL6|"Wish you successful and responsible trading."""

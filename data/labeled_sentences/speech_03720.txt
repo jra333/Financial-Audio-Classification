@@ -1,0 +1,31 @@
+BEAR0|"""Well, the high end market is currently a slower market and no doubt the limitation on salt is having an impact on the higher end market and consequently the northeastern states of New York, Connecticut, New Jersey, softer, California."
+BULL1|I would say is more affordability issues, but right now we are seeing a revival or buyer interest.
+NEUT2|One looks at the closing date, a huge sharp increase in the latest model, and Furthermore we track some of these softer data such as.
+NEUT3|Opening up the lock boxes, we have a century lock company that measures how many times the lock boxes are being open to show clients deal home and that is rising so the buyers are clearly taking advantage of the lower interest rates.
+NEUT4|That might be my new favorite economic indicator, Lawrence.
+NEUT5|I didn't know you could track the lock box activity out there in the housing market.
+NEUT6|Diana.
+NEUT7|Same question to you.
+NEUT8|Where are we seeing regional variability here?
+NEUT9|Or is it the kind of same message no matter where you look?
+NEUT10|Look, all housing is local.
+NEUT11|We say that right from the start, so in pricier market is it markets.
+NEUT12|It is going to be more difficult, it's just a question of supply.
+BULL13|At this point we're seeing big markets with great economies.
+NEUT14|You know, in Dallas in Austin, parts of Texas, or you know in Charlotte, NC or in Virginia where you talk about the Amazon effect, you're seeing great demand.
+NEUT15|There is a lot of buyer traffic coming through these homes.
+NEUT16|The question is, will that traffic translate into closed sales?
+BULL17|If mortgage rates stay low, you will probably see a more robust spring, but it was interesting today with the housing starts data as well as the pricing data.
+NEUT18|That everyone was kind of on the fence.
+BULL19|I talked to a lot of analysts who come out saying, you know, we think there's a lot of demand here.
+BEAR20|There should be all this pent up demand, but we're still worried about that.
+NEUT21|Affordability on the bright side, I did talk to one builder analyst who said that big builders are starting to really focus on that entry level product.
+BULL22|They've seen the demand there rising.
+NEUT23|It's not so much of a risk anymore, and especially for the big production builders who can build a lot of smaller homes more cheaply in a production line, right?
+BULL24|They're really finally going to be moving in there, and that is some good news, Lawrence.
+NEUT25|You mentioned the highest end of the market is week.
+NEUT26|Do you see the lower end holding up?
+NEUT27|Low end is very hot.
+NEUT28|In fact, anything that shows up he's been grabbed by the buyer.
+NEUT29|Sometimes multiple bidding still hanging around in many markets, so the key is there is a dim and specially among the millennial generation who wants to buy that starter home is just the matter of inventory choices and the consumers are saying they want to see ten homes and not few homes, and right now we just need increased supply on the lower end.
+NEUT30|"Yeah, I think we opened 30 lock boxes before we found one we like."""

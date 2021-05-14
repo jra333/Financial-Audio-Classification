@@ -1,0 +1,37 @@
+NEUT0|"""So here's your big number on Coca Cola."
+NEUT1|25%.
+BEAR2|That's how much global volumes dropped since the beginning of April, which shows that even Coke, a consumer staple that's usually recession proof or considered among those stocks, is not immune to what is happening as a result of COVID-19.
+BULL3|The year began strongly at Coke volumes were up 3% through February, excluding China, and then they fell off a Cliff.
+NEUT4|So I did just speak to James Quincy, the CEO of Coca Cola, got some color on exactly what was happening.
+BULL5|Throughout March and April, and as far as the scrapping of guidance, as you said, he said there's still tons of unknowns ahead and that the beverage business will grow when things return.
+NEUT6|He said we were hitting it out of the park before this happened.
+NEUT7|So what happened?
+NEUT8|Well, they are still providing Coca Cola and Diet Coke.
+BULL9|Traditional brands, he said, which are doing well.
+NEUT10|Global factories and distribution or operational, but at least half of Coke's business is the away from home.
+NEUT11|It's social.
+NEUT12|Drinking bars, restaurants, stadiums.
+BEAR13|Travel, that is what is getting absolutely hurt as a result of all of these.
+NEUT14|Stay at home orders.
+BEAR15|He said that at home business where they saw people strong stock up on their pantries, especially strong in the US in the few weeks in March, he called it absurdly strong.
+BEAR16|It's not enough to make up for what they're losing from the away from home business.
+BEAR17|As I mentioned, you know, with all the businesses closed, he said, we saw that big number for pantry loading in March, but then it kind of dropped off in the last few weeks.
+BEAR18|As Quincy said, people started to realize that the economic situation and the outlook is not so great, so they're already seeing that sort of recession kind of mindset impact the spending people in the US, especially As for China, which they do have a big presence.
+BEAR19|Obviously, Quincy said that it's doing much better after a very deep drop that the drop in China was actually worse than the global volume drop that they are seeing right now.
+BULL20|But that slowly slowly it is coming back on line.
+NEUT21|It's not the level where it was before COVID-19 impacted.
+NEUT22|But it does offer somewhat optimistic view, which I heard also from Procter and Gamble, L'Oreal, and some of the other consumer named Starbucks.
+NEUT23|As far as the business coming back in China, I'd say the overall theme from James Quincy guys is that strong brands, he said, have been through this before.
+BEAR24|They've been through crises.
+NEUT25|They have a playbook.
+BEAR26|They're going to emerge stronger, but at the mean time, there's absolutely no visibility because there's no telling when the economy is going to open up and Coca Cola is being very much impacted by this.
+NEUT27|You'll see the analysts revised down there.
+BULL28|Forecast Coca Cola's been an out performer in the market because it is a staple and it has benefited to a certain extent from people loading up on the basics that they need those beverages but not enough to make up for people not leaving their homes.
+NEUT29|Yeah, I'm sure they're glad they got into bottled water, that's for sure, because I don't know we haven't stocked up on any soda but seltzer, though right there aren't a lot of lot of flavored seltzers that's more of an Andrew thing.
+NEUT30|I'm more bottled water, but you know what was interesting for my conversation, he said.
+NEUT31|Some things that were in secular decline not coming back.
+NEUT32|For instance, eating breakfast at home that was just something that wasn't happening.
+NEUT33|And so now people are buying orange juice.
+NEUT34|They have simply orange, you know, and that's something that's different and it's a change in behavior.
+NEUT35|And those are the kind of questions that they are wondering are going to be lasting or just temporary as a result of this strange upside down world.
+NEUT36|"We're all living in."""

@@ -1,0 +1,8 @@
+NEUT0|"""Hello, my name is Tim Smith from FX Empire."
+NEUT1|Today we're looking at the chart of entertainment and media joint Walt Disney.
+BULL2|OK, taking a closer look at price action we can see the stock rallied around 70% between mid March and early September.
+BULL3|More recently, we've had a nice pull back down to support from this horizontal trendline, and also the 200 day moving average.
+BULL4|We also need to point out that we got a cross of the MACD indicator above its trigger line yesterday, which generated a buy signal and also we got across the 50 day moving average back up above its 200 day moving average, which typically indicates the start of a new uptrend.
+BULL5|So what we're looking for today is an open around $130 after the company announced its reorganizing its entertainment and media business, focusing on more streaming options in terms of content.
+BULL6|So what we're looking for is further upside continuation to this crucial overhead resistance area up around 100 and 4650, marked by this green horizontal line here on the chart.
+BEAR7|"And in terms of stop loss management, I'd be looking to place a stop beneath this months low at $120.61."""

@@ -1,0 +1,19 @@
+NEUT0|"""It was a wonderful man and he was my professor at Columbia."
+NEUT1|I read his book.
+NEUT2|When I was 19 at the University, Nebraska.
+NEUT3|I'd started investing when I was eleven.
+NEUT4|I started reading about it when I was like 7, so I've gone through all.
+NEUT5|I read every book in the most Public Library that was on by the time I was 12 on investing in stock market and I had a lot of fun, but I never really found out.
+NEUT6|I never got grounded in anything and it was it was entertaining, but it wasn't going to be profitable.
+NEUT7|And then I read grams book.
+NEUT8|The intelligent investor when I was at University Nebraska and pulled over the whole thing up to me.
+NEUT9|Yeah, and I named my my oldest son is named Howard after my dad, Graham Buffet and.
+BULL10|He was a marvelous man, never expected anything from me in return.
+NEUT11|He just did all these things for younger people.
+NEUT12|He got me thinking not as a stock or something with a ticker symbol that wiggles around and that you know that you look at charts on everything.
+NEUT13|He taught me to think about it as part of a business and and that was vital any any.
+NEUT14|Any he taught me not to really pay any attention to the stock market fluctuations except when they were working in my favor, so that not to get related because something had gone up or depressed 'cause it went down.
+NEUT15|So if I knew the facts on something and it went down, I bought more of it.
+NEUT16|You know, and because I looked at it as a business and then and then he then he.
+NEUT17|Then he taught that famous lesson about a margin of safety that you don't drive a truck that weighs 9900 pounds across the bridge that says limit £10,000 because you can't be that sure about it.
+NEUT18|"If you see something like that you get out a little further down the road and you find one that says limit £20,000 and that's the one you drive across."""

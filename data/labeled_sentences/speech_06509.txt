@@ -1,0 +1,13 @@
+NEUT0|"""Hello, welcome to today's technical analysis for July 6, 2016."
+NEUT1|I'm referred by John currencyanalystericsson.com.
+NEUT2|Today we will look at the euro versus the US dollar on the daily chart.
+BEAR3|Euro dollar loss to one point 11.
+BULL4|Handle again as prices reversed sharply yesterday, bringing to hold a partial rebound.
+BULL5|From after the June 24 slump, the negative bias is supported by today's bearish cross of the percentage K and the lines of the stochastic oscillator.
+BEAR6|Before the sell off started yesterday, prices had met resistance at around one point 1180, which is the 38.2% Fibonacci level of the May 3 to June 24 down leg from one point 1615 to 1.09.
+BEAR7|Ten there was further resistance today at D 23.6% to a national level at around one point 1075 and these levels will likely continue to cap prices.
+BULL8|Should Euro USD move higher in the near term.
+BEAR9|To the downside, the nearest support towards one point, 1020, a previous support and resistance level.
+BEAR10|The drop below this level would threaten to June 24 low of 1.09 ten.
+NEUT11|However, in the bigger picture, prices remain within their longer term neutral range that's been in place since the spring of 2015.
+BULL12|"Thank you for watching and have a great day."""

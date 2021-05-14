@@ -1,0 +1,11 @@
+NEUT0|"""What has surprised us?"
+BULL1|We expected institutional interest to pick up this year, and it certainly has.
+BULL2|But the way in which it's picked up has surprised us.
+NEUT3|I don't think we ever thought there would be broad based substitution of Bitcoin for cash on corporate balance sheets, so we find that very interesting.
+NEUT4|If all corporations in the United States were to put, I think it's yes 10% of their cash.
+BULL5|Into Bitcoin, that alone would add $200,000 to the Bitcoin price.
+NEUT6|Now we obviously do not believe this is going to happen very quickly.
+NEUT7|We were talking about maybe the equivalent of $900 billion market cap equivalent.
+NEUT8|Or for Bitcoin that's that's less than half the price of, you know the apples and amazons of the world.
+NEUT9|So you know this has to mature a little bit before broad based adoption.
+BULL10|"Can take place, but we're very reassured that companies like Square and Tesla have chosen to allocate."""

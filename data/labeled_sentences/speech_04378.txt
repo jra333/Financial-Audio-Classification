@@ -1,0 +1,8 @@
+NEUT0|"""First of all, Jason, how much of this this big move yesterday was administration related or Janet Yellen related."
+NEUT1|But you know, there's been a lot of concern about what might happen with the new administration coming in.
+NEUT2|Yeah, I mean it's it's certainly hard to attribute those short term market movements to anyone particular thing, but I think it's safe to say that the certainty there with the outcome of the election of bringing Miss Yellen into the fold there.
+NEUT3|With Treasury, there's a consistency there.
+NEUT4|There's a track record there with with her cheering the Fed from.
+NEUT5|I think 2014 to 18.
+NEUT6|She is very much in favor of a low interest rate environment, which is what we're feeling right now.
+BULL7|"And so it's reasonable to assume that's going to probably continue on into the near future at least."""

@@ -1,0 +1,22 @@
+NEUT0|"""Palantir stock analysis and price prediction, December 27th in today's Palantir stock analysis and price prediction."
+NEUT1|Palantir partnership worth $114 million.
+NEUT2|Alright, let's get started.
+BULL3|Palantir Technologies, Inc. NYSE PLT are announced today that the US Army's program Executive Office for Enterprise Information Systems PEO Eyes opted to execute the second year of its partnership with plenty on the Army Vantage program for a total price of $113.8 million for the year.
+BULL4|In December 2019, the US Army selected Palantir for a $458 million production agreement to Power Army Vantage, a comprehensive data analytics platform to facilitate data driven decision making.
+NEUT5|The contract was for a base year and three option years, and Palantir was awarded $110 million at the time for the base year.
+BULL6|The Army selected Pallanti under a competitive prototype process and worked with Palantir to implement Army Vantage and quickly bring it to production.
+BULL7|Vantage is powered by Palantir Software, which provides a central operating system that enhances readiness and offers near real time visibility and access to desperate Army data sources on an integrated data platform.
+BULL8|The Palantir platform enables organisations to make better use of the data they have by breaking down silos and offering a single operating picture over the last year alone.
+BULL9|Army Vantage has helped army leaders make data driven decisions in the fight against COVID-19 and allowed billions of taxpayer dollars to be.
+BULL10|Freed up for high priority projects in November, Army Vantage received a public sector Government Innovation Award for making data analysis accessible across the army.
+BULL11|This renewal highlights the partnership between Palantir and the army, said Doug Filippone, global defense lead at Palantir.
+BULL12|Vantage continues to fulfill its mission of helping the US Army make the best possible use of its data.
+NEUT13|That's what's been happening this week in the world of Palantir.
+NEUT14|Stock analysis and price prediction.
+NEUT15|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of Palantir.
+NEUT16|Stock analysis and price prediction.
+NEUT17|If you enjoyed this edition of Palantir stock analysis and price prediction, leave a comment.
+NEUT18|And please hit the like or share button.
+BULL19|Really appreciate it.
+NEUT20|Are you still watching and want more?
+NEUT21|"Check out last week's Palantir Stock analysis and price prediction by checking out our Palantir playlist."""

@@ -1,0 +1,20 @@
+BULL0|"""Well, another big move in sales and traffic data for the week ended March 28th."
+BULL1|As we continue to lap those pandemic Lowe's comp sales up 169% comp traffic up 144%.
+BEAR2|Both were down over 60% this week last year according to Black Box Intelligence.
+BEAR3|Now year on year, the regions of the country that are bouncing back where some of the hardest hit in 2020 New England, New York and New Jersey and Idaho, Oregon, Arizona, Nevada, Washington, Hawaii and Alaska.
+BEAR4|Segments that are outperforming include quick service and fast casual.
+NEUT5|It's something that tropical Smoothie Cafe is seeing first-hand at.
+NEUT6|It's almost 1000 locations across the country.
+NEUT7|I talked to the CEO Watson Charles Watson.
+NEUT8|Rather we're supposed to have a sound bite there.
+NEUT9|He pointed out vaccines, stimulus and of course pent up demand.
+BEAR10|One headwind, though he did note here, was labor.
+BEAR11|Having a hard time hiring Tyler, which is an interesting point that starting to crop up a lot more.
+BEAR12|So they're saying that they're having trouble finding people to fill jobs.
+BULL13|Yes, but what he did mention, which was really interesting is that they're starting to surpass some of the sales levels by about 30% that they had in 2019.
+BEAR14|So the business is doing really well, but they're having trouble, you know, kind of finding people to come in, and they are concerned a bit about customer service not having enough people.
+BEAR15|Of course, in stores would impact that.
+NEUT16|Another company that's hiring in the restaurant space, Taco Bell announced today it's going to have these hiring parties across the country will do it covid style out in parking lots and cars, but they're trying to hire about 5000 people.
+BULL17|For summer jobs, which you know tends to tick up every year, but that's a positive sign if they can find the people to fill those positions.
+NEUT18|Shepard Smith here.
+NEUT19|"Thanks for watching CNBC on YouTube."""

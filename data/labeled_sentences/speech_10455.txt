@@ -1,0 +1,6 @@
+BEAR0|"""Hello everyone, let's take the Apple stock we can see here today Apple has dropped to 30 on my line below the two yard line."
+NEUT1|So it's the first time in the past month there's never before.
+BEAR2|So he already got a dash cross negative in the yard may and the volume here is a little bit stronger than normal.
+NEUT3|So here somebody is selling.
+BEAR4|And the for now we can see the consolidation has been failed.
+BEAR5|"And also this kind of confirmed the meter weakness, so should be very careful for Apple stock."""

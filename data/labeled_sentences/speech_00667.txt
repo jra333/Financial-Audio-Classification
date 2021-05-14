@@ -1,0 +1,8 @@
+NEUT0|"""John Norman, let me ask you the money question this morning that I'm sure you're going to get from clients worldwide at JP Morgan."
+NEUT1|What's the left tail look like right now?
+NEUT2|I mean, what are the instabilities coming off?
+NEUT3|All this trade news?
+BEAR4|So in terms of the macro economy, I think the left tail risk is that we start to see recession like levels on some of the big indicators that are affected by tariffs.
+NEUT5|These are things like global manufacturing, PMI indices, cap ex, and eventually corporate profits.
+BEAR6|The left tail risk on markets temyiz equities down at least another 10% because even though there's someone off their highs, it's low single digits is 3 to 4% off the highs and this was from a starting point of markets that were slightly rich, so it doesn't seem to me that equities are pricing in any kind of risk premium for.
+BEAR7|"The macro data looking a lot worse the longer this trade war persists or even in the other extreme scenario, which is that terrorists put on all Chinese goods."""

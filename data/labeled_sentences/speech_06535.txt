@@ -1,0 +1,13 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xbox.com."
+NEUT1|Today we're looking at USD JPY, the daily chart, so zoom in and we can see that the yen is tackling the Mid Bollinger Band at 104.51 as a sideways move confines appear between the 103.65 level which happens to be the 76.4% people, not retracement of the upper leg from 101.17 to 111.71 and the 104.75 highs.
+BEAR2|Nonetheless, the simple moving averages continue to exhibit the broader negative bias.
+BULL3|The short term oscillators are reflecting slight improvements in positive momentum.
+BULL4|Buyers could face congested obstacles, pushing above the Mid Bollinger band at 104.31, starting with the resistance from the 50 day Smad currently attached to the 104.75 barrier.
+BEAR5|Next, the Upper Bollinger Band at 104.89 may impede the price from testing the restrictive trendline pulled from the 111.71 peak.
+BEAR6|Breaking above this, the nearby 100 day Smad residing at the 61.8% people of 105.19 May try to terminate the climb towards the 105.67 to 105.74 resistance section.
+BEAR7|If sellers resurface and steer the price down, support may originate from the neighboring lows at the 103.65 level.
+NEUT8|There corresponds with the 76.4% of people.
+BEAR9|Largely beneath this level, the Lower Bollinger Band at 103.58 may hinder the pair from reaching the critical support base of 103.09 to 103.17.
+BEAR10|However, should the best persevere and cause steeper declines, the price may sink towards the 100 and two round Number coinciding with the low of March 10th before their focus aims for the 41 month low of 101.17 summarizing USD JPY in the short term appears to be trapped amongst the 103.09 and 105.74 boundaries currently under the dissenting line, a move below 103.65 or above 104.89 could indicate the next price.
+NEUT11|Course, that's it for me.
+BULL12|"Have a great trading day."""

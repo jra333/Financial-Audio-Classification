@@ -1,0 +1,19 @@
+NEUT0|"""Warren Buffett is famous for writing his annual letters."
+NEUT1|Well, not that letter.
+NEUT2|We're talking about the letters to shareholders.
+NEUT3|Throughout his letters he often writes about the four rules he has before investing in any stock rule 123 and four are all individual topics that I feel like should be broken up into their own video and made here on YouTube.
+NEUT4|With these rules, all four conditions must be met, so you need all 123 and four before he even considers the idea of purchasing it to begin with.
+NEUT5|Therefore, even if the first three conditions are extremely strong candidates, but the 4th one just doesn't add up, it's not a worthwhile purchase.
+NEUT6|The first of his four rules is a business.
+NEUT7|You can understand that involves quite a bit more than just knowing the company's ticker symbol, which I'll explain in the upcoming video for warn.
+NEUT8|He had a lot of knowledge with insurance banks and traditional stores like candy and furniture.
+NEUT9|The second involves long term prospects for the company.
+NEUT10|With this rule, Warren Buffett likes to imagine what it would be like to hold the company for 100 years off, and he would say if you're not comfortable holding it for 10 years, you shouldn't hold it for 10 minutes.
+NEUT11|3rd is having honest, incompetent management when purchasing a stock, you're trusting your returns with the abilities of the people running the company.
+NEUT12|It should come as no surprise that management strength is one of the four core rules that he has.
+NEUT13|Lastly, is purchasing the stock at an attractive price?
+NEUT14|Warren Buffett study under Benjamin Graham.
+NEUT15|Somebody who had covered previously on the channel and one of Benjamin Graham's concepts is Mr. Market who can offer these incredible buying opportunities.
+NEUT16|If you're new here, subscribe and hit the Bell for notifications to see updates on this series.
+NEUT17|Another series that will be doing in the future, and if you enjoyed the video, hit the like button so that others can see it as well.
+BULL18|"Thank you so much for watching and I hope to see you in the next episode."""

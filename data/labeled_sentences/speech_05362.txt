@@ -1,0 +1,54 @@
+NEUT0|"""Honestly, this number is 1 number."
+NEUT1|It's a quarterly number.
+NEUT2|I think you're going to take all four quarters.
+NEUT3|You're going to add him up.
+NEUT4|You're going to divide by 4 and you're looking at a high to solo 3 number.
+NEUT5|It's kind of it's kind of OK, you know you.
+NEUT6|Sit there and look at it and what didn't surprise me?
+NEUT7|What happened with consumption?
+NEUT8|Quite frankly, what concerns me is what's going to happen in 19 and 20 in the economy.
+BEAR9|I think the expectations are going to come in lower than where GDP forecasts are, and I think that's what's reflected in the yield curve.
+NEUT10|Quite frankly, when the economy has that full employment and consumption is the main driver of GDP.
+BEAR11|It's really hard to grow that consumption function when you're already at full employment.
+NEUT12|Combine that with a more aggressive fed with the short end of the yield curve high.
+NEUT13|We just see GDP growth into 19 into 20.
+NEUT14|It's sort of in that high, 1% low, 2% range.
+BEAR15|We certainly don't see a recession, but we see it very difficult to invest in assets.
+NEUT16|Kind of at all time.
+NEUT17|Highs at those kind of multiples when you're seeing GDP growth, that's more of a 2% number, not a three and a half 4% number.
+BULL18|Well, you said three in the say that's OK if we could do 3 this year next year or the year after year after that, that would be a heck of a lot more than OK. Maybe we can.
+BULL19|That's that's more than 50% higher than what we got used to being in being told was the new normal.
+NEUT20|Well, that's right.
+BULL21|But what we're saying is, I believe in by the time we get out to 2019 in 2020, you know we're going to average under 2% growth.
+BULL22|I certainly again don't see a recession, but we can see growth stocks getting run up to big numbers.
+NEUT23|We're not going to have multiple expansion.
+NEUT24|You gotta focus on companies.
+NEUT25|You gotta focus on sectors and assets that can grow into why the only way that you're going to get appreciation is defined stocks in sectors where you can grow fundamentals.
+NEUT26|You can grow the income and that's what's going to create equity valuation.
+NEUT27|So you know, listen, we prefer we've preferred hard assets.
+NEUT28|We prefer value over growth, and we think that's where the opportunity lies because we don't see again at 3% number, we see that number moving back to 2% handle again, not a recession.
+BULL29|Again, not terrible, but not the kind of growth that you would expect to see the stock market continue to run.
+NEUT30|At the double doors, are we going back to two?
+NEUT31|If we can do 2% with an administration that's not very business friendly, that has so much regulation layer after layer of new regulation that raise taxes that didn't cut corporate taxes and we can do 2%, why would we do all that other stuff?
+NEUT32|Are we immediately going back to 2% in your view?
+NEUT33|Why is that just a given for you because of product, the same old two things, productivity and population growth?
+NEUT34|Or, well, you know it's not.
+NEUT35|It's sort of not the same old thing, it's just that the economy is been running hot for a long time.
+NEUT36|And again, a consumer makes up about 70% of the economy's been running for a long time.
+BEAR37|It's been below 3% for eight.
+BEAR38|It's been below 2% for eight years been growing.
+BULL39|It's been growing since the recession for a long time.
+NEUT40|It's one of the longest recoveries.
+NEUT41|One of the neighborhoods labor.
+NEUT42|That's right, and that's what we predicted.
+NEUT43|In fact, going back a long term, because what was going on the labor market, we actually kinda missed, like Shapewear V or a U organelle.
+NEUT44|We actually came up with the idea that it was going to look like the end of a gravy spot.
+BULL45|It was going to be a long recovery, but a slow recovery.
+NEUT46|That's largely what we see.
+BULL47|We saw one quarter with a 4% sort of number in it that jumped it up 3% this year.
+NEUT48|That's good, it's kind of backward looking.
+BULL49|We got all the benefits of the tax reform.
+NEUT50|If we do a year of 3%, or were you arguing we wouldn't do it?
+BULL51|Even this you know we thought we'd have a strong number.
+NEUT52|We thought we'd be somewhere sort of right exactly where the numbers are going to come in.
+NEUT53|"Kind of at the 2.8 to 3.2% number, and that's largely where we're going to be by the time we get to the year end."""

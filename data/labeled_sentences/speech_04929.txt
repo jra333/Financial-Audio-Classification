@@ -1,0 +1,17 @@
+NEUT0|"""Consulting firm The Motley Fool has announced plans to invest dollars 5,000,000 in Bitcoin."
+BULL1|The firm expects that cryptocurrency will grow to dollar 500,000 such a long term forecast, together with the announcement, was published on the official Twitter account of The Motley Fool.
+NEUT2|We've got big news.
+NEUT3|We're buying dollar 5,000,000 in Bitcoin on our own balance sheet.
+NEUT4|That's right, dollar 5,000,000.
+NEUT5|The Motley Fool at the mid late full February 17th, 2021, the company said it was not going to be Bitcoin effort to raise price and plans to buy Bitcoin directly.
+NEUT6|The Motley Fool is the 5th largest investing site in the world with 87 million monthly visits.
+NEUT7|The company cited three main reasons for the purchase.
+BULL8|Bitcoin is a better store of value than gold.
+BULL9|It is an effective hedge against inflation, and it has the potential to be a payable asset.
+NEUT10|The company included Bitcoin in its tenfold portfolio 10X.
+BULL11|This portfolio contains 40 assets that can grow tenfold in the next 15 years, providing 1000% income.
+BULL12|The Motley Fool has also started recommending Bitcoin investing to its clients due to the long term plans for Bitcoin, the company is not very worried about its volatility, although Bitcoin may continue to be volatile in the short term, we believe it has 10X potential over today's level in the long term as part of a diversified portfolio, we plan to hold on to our Bitcoin investment for many years.
+BULL13|If the company's forecast is correct, then over the next 15 years the price of Bitcoin will exceed dollar 500,000.
+NEUT14|So far, The Motley Fool has named 10 of 40 portfolio items.
+NEUT15|10X is Bitcoin cloud computing company, Appian Corporation, Swiss biotech firm, Crisper Therapeutics cyber security firm, Crowd Strike e-commerce platform, Etsy genetic testing platform, fulgent insurer, Lemon Date social media platform Pinterest.
+NEUT16|"Mobile gaming platforms, kilts, an video communications firm Zoom."""

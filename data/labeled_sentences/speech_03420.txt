@@ -1,0 +1,10 @@
+BULL0|"""Hey guys Tony here just updating you guys."
+BEAR1|Futures are slightly down.
+BEAR2|This kind of furthers a sentiment that tomorrow might be a little bearish and those of you asking for PLT are present here.
+BEAR3|Whatever you might, we might see that drop down to 23 bucks.
+BULL4|I'm not saying that it will because US tech is obviously up, but you know the small cap.
+NEUT5|2000 the US 500 which is kind of the equivalent to the spine in the US 30.
+BEAR6|Those are all down very slightly but they are down so sentiment tomorrow.
+NEUT7|Like I said might be.
+NEUT8|Parrish futures aren't always 100% correct, but be careful tomorrow because there might be.
+BEAR9|"It might be a pretty volatile market market, but yeah, as of right now futures are down."""

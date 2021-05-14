@@ -1,0 +1,49 @@
+NEUT0|"""Bob, and now there's a new form of cyber matchmaking."
+NEUT1|College networking websites.
+NEUT2|Is this perhaps the next big thing in Hartford?
+NEUT3|Dan Stillman Co.
+NEUT4|Creator of Leslie and Universities West match.com and then in Watertown, MA, Mark Zuckerberg, creative creator of Harvard's thefacebook.com and I guess we'll start with you, Dan, what compelled you to do this?
+NEUT5|Well, sophomore year was sitting around contemplating romantic dry spell and I realized that.
+NEUT6|With my friend Matt and he realized that it would be easier to find a girlfriend if I could just search in a database for what I wanted.
+NEUT7|Did it work?
+NEUT8|One to still perfecting it?
+NEUT9|That's what West matches, right?
+NEUT10|This is something where people enter all of their information on questionnaires that they kind of fill out for you.
+NEUT11|It's just a little bit about what West matches.
+NEUT12|Sure, people, students at our school and now several other schools lay log into the site.
+NEUT13|And the answer in depth and humorous questionnaire about what they're looking for and others, and they describe themselves.
+NEUT14|And they say what's important.
+NEUT15|And then our site comes back and tells them they are most compatible people in the entire school.
+BULL16|And now I've since we've started expanding to other schools.
+NEUT17|They can now test the compatibility and do other things with students across the nation.
+NEUT18|OK, Mark, we want to get you in here second, but real quickly we do want to talk about what Dan's talking about.
+NEUT19|Some of those questionnaires that you ask people about.
+NEUT20|Let's just take a look real quickly at some of them.
+NEUT21|First of all, one of the potential questions.
+NEUT22|Awareness of current events.
+NEUT23|You could check off one of these George Bush was that guy that did that thing.
+NEUT24|With that in turn.
+NEUT25|Well, like I read the news on occasion an I read the news every day, so there's some of the sort of contemporary evaluation of what's going to mark if somebody was to put the question to you about the magnitude of what you think you've launched.
+NEUT26|How big do you think your product or your service is?
+NEUT27|Well, it's impossible to tell.
+NEUT28|When we first launched, we were hoping for, you know, maybe 405 hundred people.
+NEUT29|Harvard didn't have a Facebook, so that's the gap that we were trying to fill.
+NEUT30|And now we're at 100,000 people, so who knows where we're going next?
+BULL31|We're hoping to have many more universities by the fall, hopefully over 100 or 200, and from there we're going to launch a bunch of sad applications, which should keep people coming back to the site.
+NEUT32|And maybe we can make something cool.
+NEUT33|What is the Facebook exactly?
+NEUT34|It's an online directory that connects people through universities and colleges through their social networks.
+NEUT35|There you sign on, you make a profile about yourself by answering some questions and doing some information such as your concentration or major at school contact information about phone numbers, instant messaging, screen names, anything you want to tell, interests, what books you like, movies, and most importantly, who your friends are, and then you can browse around and see.
+NEUT36|People's friends are an.
+NEUT37|Just check out peoples online identities and see how people portray themselves and just find some interesting information about people.
+NEUT38|Dan, do you make any money?
+NEUT39|We do we license the site to other schools and we run the site and provide it for them for this semester for all of their students.
+NEUT40|We actually create a customized site for their school so it feels like personal personal customized site.
+NEUT41|That is not some sketchy dating site that people might not use but really feels like something everyone in the community can do and we have between 70 and 90% of all the schools were on on the site.
+NEUT42|Dan Stillman, Mark Zuckerberg with us talking about the online social networking business.
+NEUT43|Do stay with us.
+NEUT44|Bullseye continues on CNBC right after this.
+NEUT45|Hey there, thanks for checking out CNBC on YouTube.
+NEUT46|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT47|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL48|"Thanks for watching."""

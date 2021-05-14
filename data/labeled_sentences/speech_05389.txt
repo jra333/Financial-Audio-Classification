@@ -1,0 +1,14 @@
+BEAR0|"""Hey, what's going on guys?"
+NEUT1|My name is Doctor Boyce Watkins.
+NEUT2|I'm a finance professor and I want to give you a quick doctor Boyce breakdown on what's going on with Amazon.
+BEAR3|Amazon might be in big trouble.
+BEAR4|Amazon might be an investment risk along with Google actually, largely because there are significant charges of antitrust violations against all these companies.
+NEUT5|There are lots of people who believe these companies are operating as monopolies, and I do believe that if there's a blue sweep in this next election, it could come back to haunt them in some meaningful way.
+NEUT6|Now the one thing that could be working in their favor is that it's going to be necessary for some sort of bipartisan result for these companies to really be taken down or broken apart.
+NEUT7|I can't see them going to Amazon or any other company and turn him into pieces, or ending some of their major acquisitions.
+BEAR8|But what I could see is the stunting of the growth of these companies, where, for example, Amazon has given away market share.
+NEUT9|Just to not give the impression that they're dominating their competitors, Google probably can't make any major acquisitions because that's going to be heavily scrutinized, so be very careful if you have these stocks.
+NEUT10|Amazon and Google in your portfolio because there could be some problems.
+NEUT11|I'll see you guys later.
+NEUT12|Take care.
+NEUT13|"Bye bye."""

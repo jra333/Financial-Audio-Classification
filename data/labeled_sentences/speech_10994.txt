@@ -1,0 +1,18 @@
+BULL0|"""On March 24th, 2021, with the completion of an ES6 battery swap at the Battery swap station at its sues hold Delivery Center, the company said Wednesday Neo has provided the service to customers more than two million times."
+NEUT1|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to growing wealth and hit the Bell icon so you can get our videos in very first moments.
+BULL2|Even your little help will really work for us to grow.
+NEUT3|That means an average of 1 neo vehicle leaves the battery swap station with a fully charged battery every 10 seconds.
+BULL4|Neo said it has provided nearly 100,000,000 kilowatts of electricity to customers to date, for a total of more than 396,000,000 miles driven.
+BULL5|Neo said this has reduced carbon emissions by 26,065.5 tons equivalent to the carbon dioxide absorbed by 235 thousand for trees over 30 years.
+NEUT6|Neal also revealed that a single user has used the service of a battery swap station up to 67 times.
+NEUT7|The user who has enjoyed the most battery swap has made 654 battery swaps.
+NEUT8|The TLP 5 cities for the number of battery swap per capita are Harbin Beijing, Chengdu, Haiku and Shenzhen.
+NEUT9|Neal also said that the first second generation battery swap station has completed mass production and will be on line in mid April.
+BULL10|We will accelerate the pace of battery swap station deployment to provide users with a more convenient way to replenish their energy.
+NEUT11|By the reports on March 3rd, Neo's first second generation battery swap station will officially open on April 15th and that it is located in the subsidiary of Beijing's Tongzhou District.
+NEUT12|According to the report, NEO suppliers estimate the mass production price of a single battery swap station to be around RMB 1.5 million.
+NEUT13|Many customers have NEO staff have already worked together on the experience and the entire process of making a battery swap pool takes 2-3 minutes.
+BULL14|At the end of last month, Autohome reported that Neo second Generation Battery swap station has completed validation work and started critical testing before deployment, which will begin in April.
+BULL15|William Lee, founder, Chairman and CEO of Chinese EV maker Neil Kinley, Hung president of Neo and other leaders, have arrived to test the battery swap station first hand proving the importance the company attaches to the next generation battery swap station.
+NEUT16|If you enjoyed this video, leave a comment below and please hit the like or share button.
+BULL17|"We'd really appreciate it."""

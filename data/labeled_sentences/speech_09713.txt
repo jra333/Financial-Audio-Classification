@@ -1,0 +1,20 @@
+NEUT0|"""Now we start in the US."
+BEAR1|The Federal Reserve has sharply raises growth projection for the US economy for this year.
+NEUT2|The announcement came Wednesday at a conclusion of a two day long Federal Open Market Committee policy meeting.
+NEUT3|the Fed also indicated it would maintain interest rates near 0 for the next two years.
+NEUT4|Our business correspondent Helen Young starts off.
+BULL5|The Federal Open Market Committee has sharply raised its growth projection for the US economy for this year to six and a half percent.
+BULL6|The figure is 2.3 percentage points higher from its December meeting.
+BULL7|the Fed also upgraded as 2022 real GDP forecast, 2 three point, 3% from 3.2%.
+NEUT8|The figure corresponds to the OSD.
+NEUT9|This prediction in the organization's latest outlook released earlier this month.
+BULL10|In the report, it noted that the significant fiscal stimulus plan faster vaccination along with growing demand for Miss key trading partners would push up US GDP growth.
+NEUT11|The FOMC also signals that interest rates should remain unchanged for the next two years.
+BULL12|Today, the FOMC kept interest rates near 0 will ensure that monetary policy will continue to deliver powerful support to the economy until the recovery is complete.
+NEUT13|The interest rate forecast, known as a dot plot, has shown that most FOMC members were expecting to maintain a race near 0 through 2023.
+BULL14|Four of 18 members anticipate a rate hike in 2022 and seven members see a rise in interest rates for 2023.
+NEUT15|In the December meeting.
+NEUT16|When you want member predicted the rate increase in 2022 and five members projected a hike in 2023, the forecaster presented anonymously by each of the FOMC members.
+NEUT17|The organization announced this DOT plot forecast four times per year in March, June, September and December.
+NEUT18|In terms of inflation, the central bank expects the figure to be 2.4% this year.
+NEUT19|"Of all these previous prediction of 1.8% sunken added on news."""

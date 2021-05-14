@@ -1,0 +1,56 @@
+NEUT0|"""Stuff are you getting out of Intel?"
+NEUT1|Not at all.
+NEUT2|The only thing I regret here is not buying it today.
+NEUT3|And when we bought it in the spring, if I could buy it today and initiate a new position, I'd be happy to the way I'm looking at this is that there's so much short term ISM on the numbers today.
+NEUT4|When I think back to some of the best investments we've made, they've been at points like this.
+NEUT5|So we bought target, for example.
+NEUT6|Today, Amazon announced Whole Foods and there wasn't a positive report to be had.
+NEUT7|We bought Qualcomm the day after Brexit.
+NEUT8|There wasn't a positive report to be had and those are very very long term.
+NEUT9|Focused investments where the same with Intel right now, so be it.
+NEUT10|If there is a rough Patch in our whole holding period which from here on will probably be three years.
+BULL11|Plus I'm quite certain will make money and I'm quite certain that we'll look back on this and see it as a rough Patch that they emerge from quite profitably.
+NEUT12|They make a ton of money and they'll figure out a way back to growth.
+NEUT13|Yeah, but they think.
+BEAR14|I mean, you know there are some are going to make the case that the key parts of the business maybe in fundamental decline and that's why they are unlike the Qualcomm's which you mentioned, which are still players in 5G in other areas.
+NEUT15|And then Target, which is hard to make a comparison.
+NEUT16|It seems apples and oranges, but you know what?
+NEUT17|Yeah, sorry back then those were the same arguments that are being made for Qualcomm and for target and with this.
+BEAR18|So maybe their manufacturing is in decline an if they do decide that it is at least on the call.
+NEUT19|We heard there being flexible and maybe they do say hey you know what?
+NEUT20|We don't have an edge here anymore.
+NEUT21|We're going to transfer the manufacturing to Taiwan Semiconductor.
+BULL22|That would be a hugely bullish thing for for Intel and we think there will be a lot of upside that came out of that.
+NEUT23|Yeah, but then.
+BEAR24|The data center the data center, though it was bad.
+NEUT25|This is Stacy Rasgon.
+NEUT26|He's the number one rated analyst in the space who covers it.
+NEUT27|Don't think that it can't get worse, he says.
+BEAR28|Gross margins missed hugely.
+BEAR29|Data Center ASP's and margins collapsed while we thought last quarter school was bad.
+BEAR30|Last night's was potentially even worse as fundamentals are now deteriorating at an alarming pace.
+BULL31|Reiterate underperform, you know, I have a great amount of respect for you, Jenny.
+NEUT32|And and all that you do, and how successful you've been.
+NEUT33|But how can you justify saying some of the positive things that you did when the evidence would suggest otherwise?
+NEUT34|Well, let's take a look at Goldman's report for example.
+NEUT35|So Goldman still has their cell and and I don't know if Stacy's numbers went up too, but Goldman's report still has a cell.
+NEUT36|But if you read through that whole report, they actually revise their 2022 numbers up in that, so I think we just need to see it play out.
+NEUT37|And yeah, short term, it's ugly long term.
+BULL38|This is a really powerful company and I I'm betting on the management being able to get things back on track in a positive way.
+NEUT39|That's the other part of it too.
+NEUT40|Is that you know.
+NEUT41|I'm not sure what kind of timeframes were talking about.
+BULL42|You know, it's hard to argue that somebody has short term ISM if they've been in the name for five years, for example, that stock Intel's up 38% over that.
+BULL43|That's half the SNP AMD over that period of time is up 3500% alright.
+BEAR44|If you want to short term ISM and go three years in, tells down 7% /, 3 years SNPs up 35.
+BULL45|AMD's up 470.
+NEUT46|I would say your starting point needs to start now though, and and I think you've got AMD.
+NEUT47|That's trading at what like 100 times earnings you've got.
+NEUT48|Intel is trading at 10 times earnings.
+NEUT49|I don't think AMD will be able to sustain the magnitude of growth that they've had until there's just, you know, I know this is my repetitive argument.
+NEUT50|There's just nothing in the expectations.
+NEUT51|I said this three days ago.
+NEUT52|I was wrong.
+NEUT53|I thought expectations were low enough that they'd be easy to beat.
+NEUT54|They're not give me another quarter or two, but right now my spirit.
+BULL55|"Isn't broken on the expectation that they're going to get this right and find a way to grow and succeed."""

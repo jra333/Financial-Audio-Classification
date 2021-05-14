@@ -1,0 +1,23 @@
+NEUT0|"""Why are you buying puts in EV stocks John?"
+NEUT1|In particular, Scott, we saw some unusual activity in Neo puts and that was yesterday with the stock at 50.
+NEUT2|Now the stocks 44.
+BEAR3|We're also seeing it in Lee Ally, and I think the chip shortage is what Neo cited Scott as, to the reason why they needed to give an update on where they stood and when they did that immediately, it was met with selling pressure.
+NEUT4|Same thing over in Lee.
+NEUT5|XPEV all of those.
+BEAR6|Now we know that Elon had to shut down a production facility in Fremont for I think 5 days because they didn't have enough chips.
+BEAR7|This is a problem for those guys.
+BEAR8|The heavier they are in tech, the more demand for those chips and until they can start getting satisfied and getting those, I think that's going to be troublesome for them.
+NEUT9|That's why I bought the puts you sold.
+NEUT10|Q Calls calls into QS is that?
+BEAR11|Is that because the rip yesterday?
+NEUT12|Yep, Thursday last week with you I talked about buying those March three 10s.
+NEUT13|Then on Friday I talked and said that we were buying the three 20s.
+NEUT14|Both of those have screamed to the upside through yesterday and that's why we said OK, these were options that expire this coming Friday.
+NEUT15|Scott.
+NEUT16|So when you've got, you know the nothing focuses the mind like the gallows, right?
+NEUT17|So when you know you've only got five more trading days.
+NEUT18|As of last Friday and as of yesterday now you've got three more full trading days.
+NEUT19|We took profits, got to the sideline.
+NEUT20|I'd love to jump back in those, but now we're not seeing put buying.
+BEAR21|We're just seeing people liquidating calls.
+BULL22|"And we've followed that wave."""

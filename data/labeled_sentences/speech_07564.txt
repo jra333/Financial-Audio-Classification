@@ -1,0 +1,15 @@
+BEAR0|"""It was a wild day on Wall Street with the Dow, the S&P 500 and the NASDAQ falling amid a global sell off."
+BEAR1|The Dow plunged more than 550 points near midday before bouncing back to close down about 250 points.
+BEAR2|The NASDAQ, which also sank, mounted an afternoon rally led by biotechs to end the day relatively flat, driving the volatile trading day was oil, with US futures settling down 6.7% at $26.55 a barrel, the lowest level since May 2003.
+BEAR3|Oil prices have dropped more than 25% this year, renewing fears of greater economic gloom around the world.
+BEAR4|Just as Iran appears ready to flood the market with more oil in the coming months, which would add to the world's oversupply, investors are increasingly concerned about weakening demand, particularly in China, which currently consumes about 12% of the world's crude all sectors in the S&P 500.
+BEAR5|Spent much of the day in the red with energy among the hardest hit.
+BEAR6|Chevron fell more than 3%.
+BEAR7|Exxon plunged more than 4%, and Devon Energy was crushed down more than 8% at the close.
+BEAR8|Also down financials and consumer staples.
+NEUT9|But one bright spot was technology, Apple, Microsoft and Twitter all ended the day in the green.
+BULL10|Still, the sell off sparked a flight to safety as investors piled into Golden Treasurys.
+BEAR11|The 10 year fell about 2%.
+BEAR12|And remember bond yields fall as their prices rise.
+NEUT13|Many investors believe the market is trying to find a bottom.
+BEAR14|"And that stocks will remain volatile until oil prices find a floor."""

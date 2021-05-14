@@ -1,0 +1,9 @@
+NEUT0|"""Formula One cars are the fastest racing machines on the planet, but while the straights are all about going flat out, it's in the corners that F1 drivers really have to show their skill."
+NEUT1|Introducing corner analysis and U F1 insight powered by a WS.
+NEUT2|It uses live data beam from all of the cars to analyze how each driver is tackling a corner and show you on a brand new TV graphic.
+NEUT3|Traffic looks at the performance of two drivers, shows how their speeds changed as they went through the corner and highlights the cars top speed and Apex PD 2 bars below delve into what the driver is doing in the cockpit and show a distance bar for each phase of the corner breaking from where they hit the brake pedal to where they left off it.
+NEUT4|Again entry where they turned towards the apex of the corner exit where they straighten the car and start to get back on the gas and full throttle.
+BULL5|Weather back to maximum acceleration.
+NEUT6|Finally, it compares how quickly each car made it through the whole corner and shows the gap between them in seconds.
+NEUT7|Using this new insight will be able to see who's the latest of the late Breakers, which cars carry the most.
+BULL8|"St Well balanced on the edge, who's quickest back in the loud pedal and where the vital thousands of a second again and last F1 insights powered by a WS."""

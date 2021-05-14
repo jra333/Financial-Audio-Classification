@@ -1,0 +1,38 @@
+NEUT0|"""There was a shareholder question."
+BEAR1|A lot of shareholder questions about Berkshire's performance versus the S&P 500.
+BEAR2|Berkshire has underperformed the broader market for the year to date.
+NEUT3|For the last five years, and for the last 10 years.
+NEUT4|Again, that was a question brought by several shareholders, and here's his response.
+NEUT5|I got a number of variations on this next question, some more polite than others.
+NEUT6|This ones right down the middle, but this is from Mark Blakely who writes in from Tulsa OK and he says like many, I'm a proud Berkshire Hathaway shareholder.
+BEAR7|However, in comparing the performance of Berkshire with the S&P 500 over the last 510 or 15 years, I've been disappointed in Berkshires underperformance, even year to date, Berkshires trailing the S&P 500 by 8% to what would you attribute Berkshires underperformance?
+NEUT8|While I can't imagine ever selling my Berkshire stock, at some point, money is money.
+NEUT9|I I agree with everything that I forgot his name but just said I mean, the truth is that that's I recommend the S&P 500.
+NEUT10|The people an I happen to.
+NEUT11|Believe that for sure.
+NEUT12|Is this about of sound as any single investment can be?
+NEUT13|And in terms of.
+NEUT14|Earning reasonable returns overtime, but I would not want to bet my life on whether we think the S&P 500 over the next 10 years.
+NEUT15|I think there's a. Yeah, obviously there's a reasonable chance of doing it, but.
+NEUT16|And we've had periods I don't know how many.
+NEUT17|Out of the 5055 years.
+NEUT18|We've been doing it or at.
+NEUT19|I don't know how many we've beaten or not.
+NEUT20|I mentioned earlier that 1954 was my best year, but but I was working with absolutely with peanuts.
+NEUT21|Unfortunately and and I think if you work with small sums of money, I think there is some chance is some chance of a few.
+NEUT22|People that really do bring something to the game, but I think it's very, very hard for anybody to identify a man.
+BULL23|I think then when they work with large funds it gets tougher and it's certainly gotten tougher with for us with larger funds and I would make no promise to anybody that we will do better than the S&P 500.
+NEUT24|But I would.
+NEUT25|I will promise him is that I've got 99% of.
+NEUT26|My money in Berkshire, an most members of my family, are they not be quite that extreme, but they're close to it and.
+NEUT27|I do care.
+NEUT28|About what happens to Berkshire.
+NEUT29|Over the long period, about as much as anybody could care about it.
+NEUT30|But you know, caring doesn't guarantee results.
+NEUT31|It does guarantee attention.
+NEUT32|You know it's harder and harder for a big pile of money to outperform like that, and that's the point he's made frequently.
+BEAR33|I think a lot of people have questions because really they've invested in Berkshire because they think it will outperform in downtimes.
+NEUT34|Now that has not been the case here to date.
+NEUT35|I guess I wonder what happens over the next year.
+NEUT36|Two years, three years.
+BEAR37|"And that's going to play out, but there were some shareholders who are definitely pushing back about that."""

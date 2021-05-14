@@ -1,0 +1,29 @@
+BULL0|"""Investors take note, gold was shine again."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to better navigate this turbulent world.
+BEAR2|The price of gold has been lackluster recently.
+BULL3|After zooming from $1200 an ounce in 2018 to $2000 last summer.
+BEAR4|Since then, gold has been hovering around $18150, but this RESP.
+NEUT5|ITE won't last long.
+BULL6|The yellow metal will likely be rising big time next year.
+NEUT7|The reason all that money the Federal Reserve printed to finance those stimulus bills will be circulating as the economy fully opens up in coming months.
+NEUT8|With the new COVID-19 vaccines.
+BULL9|The national debt since the pandemic hit us has gone up $4 trillion.
+NEUT10|Most of the bonds used to finance this red ink or bought by the Federal Reserve by creating money out of thin air.
+NEUT11|Here's how that neat trick works.
+NEUT12|Let's say the Fed calls up a dealer and orders $1,000,000 of U.S. Treasury bonds.
+NEUT13|the Fed then tells the dealers bank to credit the dealers account $1,000,000 while off.
+NEUT14|the Fed has the bonds and the dealer has $1,000,000 that didn't exist before.
+NEUT15|It's that simple.
+NEUT16|An ominous.
+NEUT17|The speed with which this huge increase in debt took place exceeds the rapidity of the surge of debt.
+NEUT18|During World War Two.
+BEAR19|Excess money printing by the Federal Reserve during the late 1960s and throughout the 1970s led to the great inflation that saw three ever more severe recessions.
+BEAR20|Rapidly rising prices, high unemployment, and horrific interest rates.
+NEUT21|Since March, the Fed is conjured up more money than it did in the 1970s.
+BEAR22|When the dollar is weak and like this gold will go up, the greenback has already been wobbling.
+BEAR23|How bad will the inflation get?
+NEUT24|That depends on how quickly and effectively the Fed reacts.
+BEAR25|The worry is that our central bank won't respond quickly enough, and the economy will stagnate even though we will not have fully recovered from the shutdowns.
+NEUT26|Of course, if the new Biden administration doesn't give in to the left of the Democratic Party for economy strangling regulations and the Fed pursues a stable dollar policy, then the economy will blossom, but the prospects of that aren't looking good right now, so gold will be shining, but for the wrong reasons.
+NEUT27|I'm Steve Forbes.
+BULL28|"Thanks for listening to sending your comments and suggestions and I look forward to being with you soon again."""

@@ -1,0 +1,35 @@
+NEUT0|"""We're going to analyze Facebook as an investment, and we're going to do it all in 90 seconds."
+NEUT1|So you want to keep up with stocks, but you don't have the time to read a lengthy report on every company that interests you.
+BEAR2|You're busy.
+NEUT3|I get it.
+NEUT4|I respect that.
+NEUT5|So I took the most important considerations from my research and packed it into 90 seconds uses to decide if it's worth your time to research further to keep up with stocks you already own or to just check in on some of the largest companies in the world.
+NEUT6|Fair warning, I'm obviously going to fast, so let's put up a Clock.
+NEUT7|And let's do this.
+NEUT8|Facebook operates several of the largest social platforms in the world.
+NEUT9|As of this taping, they currently have a market capitalization of around $520 billion, with the price per share trading around $180.00 to own or not to own.
+NEUT10|That is the question here.
+NEUT11|A couple reasons you might want to consider owning Facebook.
+BULL12|It's future is extremely promising, within almost 19% expected annual earnings growth, which for such a large company is impressive and it outpaces the industry average, which is already way ahead of the market.
+NEUT13|Facebook, which owns four of the six most popular social app, still hasn't for the most part, monetized two of them and they've been very successful every time they monetize their assets in the past.
+BULL14|The company has consistently performed well every year.
+BULL15|Realizing returns on equity assets and capital well over the industry average and whether you think this is good or bad.
+BULL16|Despite these significant data privacy concerns, Facebook has proven its resiliency by yet again increasing its daily active users to 1.4 billion in the most recent report.
+BULL17|Finally, the company is extremely healthy.
+NEUT18|It has no debt, but here are a couple of reasons to not own Facebook.
+NEUT19|Facebook doesn't pay any dividends, which is common for the industry, but you should always keep that in mind.
+NEUT20|The company has a pretty high value right now.
+BULL21|It's definitely not undervalued.
+BULL22|Its PE ratio is on par with the rest of the Internet industry, which during bull markets.
+NEUT23|Is always high.
+BULL24|It's PB ratio is more than 50% higher than the industry and more than 150% higher than the market.
+BULL25|So the market is pricing in some growth, which is fine, but it's also not factoring in any sort of bear market or recession, and that's going to be the biggest concern with any company with this high evaluation.
+BEAR26|If and when the market comes down, companies with higher valuation multiples like this often come down Moran faster than everything else.
+NEUT27|So what do you say?
+NEUT28|Bye or no?
+NEUT29|Do you think they can get those platforms monetized in a significant way before any sort of major market correction?
+NEUT30|I look forward to continuing this conversation in the comments.
+NEUT31|If you found this helpful, you should let me know by leaving a like and I'll do some more of them.
+BULL32|Definitely subscribe and click the Bell so that you can keep up with all the companies we cover as we continue to help you build out your rapidly growing, highly diversified network.
+NEUT33|I'll see you in the next one.
+NEUT34|"Take care."""

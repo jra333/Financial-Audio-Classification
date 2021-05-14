@@ -1,0 +1,31 @@
+NEUT0|"""Is it still a wild card, or are all bets off?"
+BULL1|I mean we know this year we're getting this economic recovery.
+BULL2|We know we're getting the stimulus and the effects of that in the market as well.
+NEUT3|Next year, potentially tax Heights, maybe more regulation.
+NEUT4|What does that do to the market?
+NEUT5|Well, so I think that is the $1,000,000 question more than anything else.
+NEUT6|I think this year is.
+NEUT7|There's just no way for growth to slow down, and rates probably go up an what the Fed and the market start to worry about is how things will play out in.
+NEUT8|Perhaps in 2022, and more importantly, in the second half of 2022, once the stimulus passes and all these contractionary policy's come into the market, 2022 is going to be very, very different than 2021.
+NEUT9|All of these defects that are tailwinds today will basically become headwinds in 2022 and to some extent I think the bond market will probably see through it, so I think that's sort of in a way caps.
+NEUT10|How much the long rates can both.
+NEUT11|Especially with the front end anchor.
+NEUT12|That is, how much deep or how steep can the yield curve B.
+NEUT13|And I think that is going to be a limiting factor in terms of tenure rates.
+NEUT14|The bottom line is 2021 is going to be superlative, 2022 is going to be a very different ball game, and I think that's what the equity investors, and that's what the Fed are to be focused on, not 2021 that much Gabriela.
+BULL15|We're hearing increasingly more about this idea of a synchronized global recovery.
+NEUT16|I mean, certainly the US seems to be.
+NEUT17|Spearheading the economic growth, or that's the expectation this year as we roll out vaccines so quickly and get shots into people's arms so quickly.
+NEUT18|Are there still opportunities to be had in the US, or should an investor start to look abroad for maybe some more meaningful plays from at least through the end of this year?
+NEUT19|We really believe that investing internationally is actually a really important piece of dialing up the cyclicality in portfolios international market, specially your of Japan.
+NEUT20|There a lot more cyclical than U.S. markets over 55%.
+NEUT21|In cyclical sectors and we really believe that the global synchronized recovery is delayed, not derailed.
+NEUT22|I mean Europe is.
+NEUT23|Let's call it 3-4 months behind the US and vaccinations and reopenings, but it's coming.
+NEUT24|And if you're a long term investor, it's worth making the positioning change now for what's to come in the quarters ahead.
+BULL25|So we would be overweight international versus the US, specially Europe, Japan and with a bit more selectivity within emerging markets.
+BEAR26|And what we find is actually clients are absolutely not positioned for that there.
+BULL27|So they need to double the international exposure.
+BULL28|Given the US outperformance over the past decade.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

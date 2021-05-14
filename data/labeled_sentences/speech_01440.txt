@@ -1,0 +1,22 @@
+NEUT0|"""Zetor X token is currently sitting at 1.3 U.S. dollars."
+BULL1|It blasted through the resistance level at 0.75 just about four weeks ago and gained around 170% in price in just about a week.
+BULL2|Recently it was retracing along with the rest of the market, but it's already recovering.
+NEUT3|We're going to be setting a price target a bit later on guys, but first will you be opening an expensive bottle of champagne by the end of this year?
+NEUT4|If you invest in ZRX in this video, we're going to be looking at the fundamentals and will be setting a price target.
+NEUT5|0X has a market cap of 1 billion at 24 hour volume of 250,000,000.
+NEUT6|A circulating supply of 750,000,000, and the maximum supply of 1 billion zero X is a decentralized liquidity aggregator, and it works through a series of open source publicly auditable smart contracts and something interesting about the zero X exchange is that it uses a smart order routing mechanism to split up your transactions across several different exchanges so that your order is filled with the lowest slippage possible.
+NEUT7|And what's really cool about 0X.
+NEUT8|Is that it supports both fungible and non fungible tokens, and so is it.
+NEUT9|RX allows users to trade a wide range of different assets.
+NEUT10|Permissionless Lee, which is in keeping with our principle of decentralization.
+BULL11|OK guys, I hope you're enjoying the video so far.
+NEUT12|If you are drop a like and comment down below.
+NEUT13|If you hold 0X in your wallet or if you're about to buy some and over here we see the main goals of the 0X team they want to create the infrastructure for permissionless flow of value and their core values are do the right thing.
+BULL14|Ship consistently and focus on the long term impact and what's really good is that zero X is connected to all the top decks protocols and they've got some good statistics.
+NEUT15|With only two percent revert rate at 1.5 seconds response time and the 99.9% uptime.
+NEUT16|OK guys, we're going to get to our price target in a moment, so make sure to continue watching over here.
+BULL17|We see that the trade volume on 0X has been increasing consistently.
+NEUT18|Adding to the White paper, we see that zero X wants to facilitate low friction, peer to peer exchange of ER C20 tokens and their goal is to be integrated with other protocols in order to form increasingly complex decentralized apps.
+BULL19|Getting back to the chart, I believe the entire space for decentralized liquidity aggregators has a lot of room for growth and I can see.
+BULL20|Zero X growing significantly given its current market cap, I would say that a projected market cap of 6 billion U.S. dollars is achievable during the peak of this altcoin cycle and that would give us a 6X and price and the price target of eight U.S.
+NEUT21|"dollars."""

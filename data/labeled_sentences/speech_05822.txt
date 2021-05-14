@@ -1,0 +1,13 @@
+BEAR0|"""Attention leading up to those demonstrations today, but both Instacart, an Amazon, say that those actions have barely affected their operations."
+NEUT1|Have a look at this video from Amazon Staten Island Fulfillment Center today you'll see a small group of workers outside.
+NEUT2|Amazon says that there was only 15 and they made up less than half a percent of it's more than 5000 associates at this site.
+BEAR3|Instacart, Meanwhile, telling us that today's action had quote absolutely no impact to operations.
+BULL4|Adding that today they actually saw 40%.
+NEUT5|More shoppers on the platform.
+NEUT6|Week over week.
+NEUT7|Now shoppers and customers alike.
+BEAR8|Though guys, they say that there are signs that the platform is stretched.
+BULL9|Amazon and Instacart keep in mind that they are trying to hire hundreds of thousands of workers during this critical time when they're trying to get groceries and goods to more and more Americans.
+BEAR10|So even if today was more noise than it was numbers, this tension is likely to continue, and we're likely to see more of these demonstrations.
+NEUT11|Question is, will they get more participation from workers?
+NEUT12|"Back to you."""

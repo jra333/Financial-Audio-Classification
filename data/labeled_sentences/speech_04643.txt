@@ -1,0 +1,19 @@
+NEUT0|"""Hi, I'm new to Nyack."
+NEUT1|I'm currently associated with the business product team in Iifl Securities.
+NEUT2|Here I'm working as a deputy manager in the product team and I had joined the Eiffel Securities in 2017 and it's been 3 1/2 years that I'm working here.
+BULL3|It has been a great journey in IFL.
+NEUT4|I would say initially when I had joined I joined as an assistant manager.
+NEUT5|You're an now.
+BULL6|Post three years have been promoted as a deputy manager, so I have evolved urine in three years and it's a great experience that I'm happy I feel securities has a very good work culture.
+BULL7|People around are very helpful.
+NEUT8|My colleagues are, you know, whenever I am stuck anywhere.
+BULL9|My colleagues always there to help me.
+BULL10|Leaders are very supportive.
+NEUT11|They help us grow in our career.
+NEUT12|It they also help us in our personal as well as professional development.
+BULL13|So the overall work culture in Iifl securities is very lively and great.
+NEUT14|It's a great place to work.
+BULL15|I would say being associated with Eiffel Securities has helped me maintain my work life balance.
+NEUT16|I get time for myself for hobbies like listening to music.
+NEUT17|Spending time with my family, going for outdoor activities.
+NEUT18|"So ultimately I fellas help me maintain my personal as well as my professional life."""

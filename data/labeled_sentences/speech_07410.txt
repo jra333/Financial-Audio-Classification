@@ -1,0 +1,5 @@
+BEAR0|"""May 1st is in the books on Wall Street, with equity markets having edged higher and Treasury's retreating."
+BULL1|Bipartisan agreement over a budget plan to keep the lights on in Washington until September.
+BEAR2|Boyd stock markets early on before weak manufacturing data caused a midmorning wobble, but sentiment held firm and volatility subsided into the afternoon with the CBO is VIX index hitting a decade low in the mid afternoon, the Mexican peso strengthened against the dollar on news of a budget deal, which included provision for border security.
+BULL3|So long as it was not put toward plans for a border wall with the country in Treasury markets, the 30 year sold off rapidly following comments from Steven Mnuchin, the Treasury Secretary that the issuance of a new ultra long bond with a maturity exceeding the current 30 year threshold would absolutely make sense for the US government to fund itself.
+BEAR4|"Oil prices fell and gold also weakened, and that's the New York Minute."""

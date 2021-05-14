@@ -1,0 +1,23 @@
+NEUT0|"""This is just the global paid editions."
+NEUT1|This is a sub story.
+NEUT2|You know.
+BEAR3|It's probably going to be a sub story until it's not which, but at that point we think the stocks probably going to be closer to $150 a share by the time cash flow and other things matter, we saw that US paid Subs declined for the first time in a long time.
+NEUT4|It was down sequentially.
+BEAR5|International sub growth absolutely hit a wall.
+NEUT6|I mean they were talking.
+BEAR7|Fewer ads than they did in two Q782Q18, which was very surprising to actually let me say this is very surprising actually.
+NEUT8|See it happened.
+NEUT9|It wasn't surprising if you actually just looked at the date in the process, but at the same time, when everyone so wildly bullish and you know that's why we have the process right, look at the data trust in the data and just try to rationalize it when we look at the content sub flywheel.
+NEUT10|Three months ago, we flag that looks like the flywheels about the break when we launched the short deck.
+NEUT11|We basically said Arbet.
+NEUT12|Here's at this content Sub Flywheel is going to crack.
+NEUT13|And that's exactly what we're starting to see.
+NEUT14|We saw it last quarter.
+BEAR15|Now it's starting to impact Subs.
+BEAR16|We see the rolling 12 month Global paid some number declining, which is we think that direction is going to continue to go down to the right.
+BULL17|Meanwhile, their cash content spend per net remember which is affectively customer acquisition cost is rising, hitting all new time highs and we think that number is going to continue to rise as their liabilities are fixed.
+NEUT18|Their content obligations are relatively fixed over multiple years.
+NEUT19|They don't have an ability to turn on and off the spicket.
+NEUT20|It's like some of some other peers.
+NEUT21|This is not the Netflix of 2011 as I've said a bunch of times is not a Ferrari going down the highway.
+BEAR22|"This is more like a Mac truck at this point, and so if the sub numbers decline, there's little they can do at least in the very short term to really curb their content, spend to adjust the costs for the Rising acquisition."""

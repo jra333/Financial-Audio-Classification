@@ -1,0 +1,15 @@
+NEUT0|"""Liquidity of markets is as critical to the functioning of an economy as oil is to an automobile."
+NEUT1|When friction is reduced, everything works more smoothly.
+NEUT2|When risk management can be accomplished efficiently, businesses can accept the risks they want to take, manage the risks they want to avoid, and in the process conduct their businesses with less capital.
+BULL3|Adding to the overall growth of the economy.
+NEUT4|One of the unintended consequences of quantitative easing or QE.
+NEUT5|This is the massive asset purchases done by central banks.
+BEAR6|The unintended consequences was that it had a negative impact on the liquidity of government bond markets in Europe.
+NEUT7|In Japan.
+BEAR8|The government bond purchases by the Central Bank since 2015 have gotten so large as to dramatically reduce the liquidity in those markets.
+BULL9|The bid ask spreads are higher.
+BEAR10|They damaged the risk management efficiency.
+BULL11|And it's led to more sluggish growth, especially in Europe.
+BEAR12|Our take is that QE in Europe and Japan has reached the point where it is a significant negative for their economies due to its impact on risk management and economic efficiency.
+BEAR13|Pushing further into QE may well damage the financial sector even more, and Lily to less lending and less economic activity.
+NEUT14|"I'm Blue Putnam chief economist, CME Group."""

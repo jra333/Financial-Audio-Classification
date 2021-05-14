@@ -1,0 +1,19 @@
+NEUT0|"""Hi everyone, I'm Martin from Rob list."
+NEUT1|You're listening to stocks decoded.
+NEUT2|Coca-Cola just reported second quarter earnings.
+NEUT3|Traditional Coke brand strength cushions.
+BEAR4|Sharp declines in restaurant and travel business.
+NEUT5|In the first weeks of covered.
+NEUT6|Let's see now what really happens during the full swing of the crisis.
+BEAR7|Net sales fell 28.5% hit by severe declines in Amir and the companies bottling investment segments.
+BEAR8|Europe was hit by the decline in restaurant travel businesses.
+BEAR9|Bottling investments around the world suffered 36% decline in volume.
+BEAR10|Each of those processes reveals a negative for Coca Cola.
+BEAR11|Unfortunately for the company, the staple trademark Coke could not compensate for consumer weakness and volume, so sparkling soft drinks dropped 12% worldwide.
+BEAR12|This reveals a serious risk for the future of the company's growth.
+NEUT13|And it was the driver behind the strategic initiatives to provide beverages at the price people can afford.
+BEAR14|It's alarming to notice that Coca Cola's cash flows are falling, since Q three 2019.
+BEAR15|Our negative processes combined together mean that the company's business model needs structural changes.
+NEUT16|This material is based on findings from the robust platform.
+NEUT17|To check the full analysis, visit www.roblist.com.
+BULL18|"Thank you for listening."""

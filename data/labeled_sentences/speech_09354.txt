@@ -1,0 +1,21 @@
+NEUT0|"""Kathy, another surprise for me in your portfolio Attribution is that almost none of your performance, just 20 points out of 600 points is from Apple, Microsoft, Amazon and Facebook."
+NEUT1|The four biggest contributors to the S&P 500 over the same.
+NEUT2|What about them doesn't make the grade for Kathy Wooden for Ark?
+NEUT3|Well, we're not saying they'll be bad stocks at all.
+BULL4|In fact, they've been very good stocks.
+NEUT5|And they were a part of our portfolios in the early days, but as they were scaling into the trillion dollar category, we believed that our that our research would be focused better on the next set of fangs.
+NEUT6|And I don't mean fangs meaning in the Internet age, we actually think the next fangs are in the genomic age and if you'll notice our flagship portfolio, the largest exposure is health care for that reason.
+NEUT7|What would make you reconsider?
+NEUT8|Investing in those stocks, what wouldn't encourage us to move back into that ilk of stock is is, you know, a continuation of what we're seeing now so that some of our valuations become stretched beyond our minimum hurdle rate of return.
+NEUT9|So our minimum hurdle rate of return for any stock entering our portfolio is 15% at a compound annual rate over the next five years, so that's the doubling.
+NEUT10|Over five years.
+NEUT11|We're not there yet.
+NEUT12|But if we were in the low 20s, which is much more than a doubling over five years.
+BEAR13|But if we started seeing more and more of our stocks lose that return expectation and drop below 15%, we would move back towards some of the fangs and Microsoft because we would be treating them essentially as cash like instruments for for our strategy.
+NEUT14|So what we do is as a bull market extends, we do move into.
+NEUT15|More cash like equities you know they would be the less volatile stocks and certainly the things and Microsoft fit that and we would do that increasingly so we still think there's a lot of room or runway ahead because what we think is not well understood is exponential growth.
+NEUT16|I think if we step back and look at Amazon in the early 2000s.
+NEUT17|I remember buying that stock and many people derided that decision because the thought process back then is in the tech and telecom bust which is, you know, the Internet is a figment of Wall Street's imagination.
+NEUT18|What makes you think Amazon's ever going to make any money and if if if you did at that time assume that Amazon's revenue growth, which compound at a 20 to 30% rate for the next 20 years?
+NEUT19|And you would have.
+NEUT20|"You would have bought that stock all day long, even if you were using a dividend discount model, right?"""

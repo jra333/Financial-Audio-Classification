@@ -1,0 +1,31 @@
+NEUT0|"""At the big board it's Ed Tech Acquisition Corp, doing the honors at the NASDAQ."
+NEUT1|It's a firm celebrating its IPO.
+NEUT2|We're going to talk to Max Levchin on Squawk Alley later on this morning.
+NEUT3|Jim pricing at 40 nine $12 billion valuation.
+NEUT4|Peter Thiel, Vinod Khosla among the investors.
+NEUT5|Market loves companies that are our Fintech now.
+NEUT6|Fintechs been taking a backseat of late because people want to own some big big cap stocks, but that will end.
+NEUT7|Here's what happens.
+NEUT8|These are companies that people know our crunch numbers and are viewed as not having any real risk to them.
+NEUT9|David, you know that when you make one of these fintech companies come true, it suddenly starts looking like visa.
+NEUT10|Although Visa didn't get Plaid and I thought that you would have commented on that.
+NEUT11|Well, the Department of Justice as you know, was opposed to the deal.
+NEUT12|It was seen as really anticompetitive kind of capturing a potential rival in some way.
+NEUT13|Jim, they were funny thinking they can get away with that.
+NEUT14|Yeah I mean listen, it was a private.
+NEUT15|People at large acquisition for them, but again, they do abandon that visa as you point out, that Plat acquisition with that with that opposition from the Department of Justice.
+NEUT16|But you know, Max is said he'll come on.
+NEUT17|It'll be people like it.
+NEUT18|The stock will go up and I don't know.
+NEUT19|I wish there was more soul to it, but that's life on Wall Street.
+NEUT20|I don't mean to denigrate.
+NEUT21|Mikes is great, but you know, people get people don't care if its fintech, by if he comes out on the showing says you know what we're looking at, taking a hard look at Bitcoin.
+NEUT22|Then the stock takes another jump.
+NEUT23|If he says he's going to look at all sort of crypto then it takes another one.
+NEUT24|And if he's going after Quinn boys Coinbase, it doubles there.
+NEUT25|That's the world right now that we're in and everyone likes it.
+NEUT26|Yeah.
+NEUT27|Why not makes a lot of money?
+NEUT28|Sceptical, didn't know we're also in this pack world still never want to forget that.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

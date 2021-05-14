@@ -1,0 +1,33 @@
+NEUT0|"""On a Honda Wells Fargo Securities Equity strategist joins us on a what are you buying?"
+NEUT1|Well, right now we're buying consumer services, but that's part of a broader call we've had into cyclicality into value and interpret.
+NEUT2|The covid beta sectors of the market.
+NEUT3|In terms of what you're selling, are you convinced you want to be selling tech?
+BULL4|Right now I the curve steepened up.
+NEUT5|Obviously selling tech seems logical at this stage.
+BEAR6|Anna, do you think that that move may have gone too far?
+NEUT7|Is there an opportunity here?
+BULL8|There is probably opportunity in tech, but I would broaden that out a little bit there.
+NEUT9|I would say generally the high momentum trade is really what we were looking to take profits out of because like you said, it's burned really hot.
+BULL10|The valuations were extended and we're not saying that it can't go higher, but we're staying at a relative basis that other parts of the market that look more attractive and we think we'll see outsize returns.
+NEUT11|So what do you do when you have stocks and bonds moving together with the kind of ferocity that we've seen the last few days?
+NEUT12|Well, I think what specifically frightened the markets, but in the last few days was that like you said, moving together an idea becomes who wears a safe haven.
+NEUT13|Where do we go for protection?
+NEUT14|And right now what's been interesting is with the risk on trade that risk seeking we've seen from investors.
+NEUT15|You're seeing the more defensive industries grow more attractive as they re price lower and lower.
+NEUT16|So your traditional defenses such as Redes, arbron, proxies like utilities you know these areas are attractive and they can provide a little more low volatility protection for portfolio.
+BULL17|And you saw yesterday and today the low volatility index outperformed the market.
+NEUT18|Let's talk about kind of what happens in the relationship between yields and equities were getting to the point where where the dividend yields and the 10 year yield is starting to look pretty similar.
+NEUT19|If yields continue to climb, there has been this situation where you basically had only one choice and that's two and equities.
+NEUT20|Do you think you're going to have some options going forward, and if so, how does that change the allocation story?
+NEUT21|Well, when you do have more attractive yields in the market versus you know in the fixed income products it is going to shift flows one way or the other.
+NEUT22|So as you saying as you get a more attractive deal on Treasurys then it's possible you see that.
+NEUT23|But right now I think it might be a bit too soon to think that we still believe that opportunity isn't equities though in particular parts of that market and the reason being, and you've heard this 1000 times before, the reason why Treasury yields are going higher is better growth prospects.
+NEUT24|And you know what?
+BEAR25|Really spook the market or will cause the immediate pullback was more than velocity.
+NEUT26|The velocity that you're seeing these yields move, but in absolute terms we still see it as a good, healthy fun of the economy.
+NEUT27|So for us longer term, we think that recovery is going to continue and the sectors more sensitive to that economic recovery are going to be where you still want to put your money.
+BULL28|Anna, thanks for the time today greatly appreciated.
+BULL29|Anna Hahn of wealth Wells Fargo Securities joining us coming up DoorDash out with its first results as a public company.
+BEAR30|DoorDash warning the delivery fee caps will weigh though on the current quarter.
+NEUT31|Our conversation with the DoorDash CEO of next.
+NEUT32|"This is Bloomberg."""

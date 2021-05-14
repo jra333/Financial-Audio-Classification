@@ -1,0 +1,39 @@
+NEUT0|"""Bringing in our next guest Bradley, A Tusk of Tusk Ventures."
+NEUT1|Bradley.
+BULL2|Thanks so much for joining us.
+BEAR3|I was going through your notes and you have a number of different areas to focus on and I just want to kick it off with section 230, especially after the news we got this afternoon from President Trump vetoing the $740 billion defense bill, basically citing complaints over Section 230 here that it did not include changes to section 2:30.
+NEUT4|So can we start there?
+NEUT5|And what your expectations are for that?
+NEUT6|And then we'll dig into different areas.
+NEUT7|Yeah, so look like a lot of things with President Trump.
+NEUT8|He might have sort of the right idea in a way, but goes about it in the wrong way.
+NEUT9|But Section 230 is, I think, some most of the viewers may know there's a law that says that if you are an Internet platform like Facebook or Google or whoever, you're not liable for the content that your users post.
+NEUT10|So someone writes a really nasty tweet about someone else, Twitter, campy suit for that.
+NEUT11|Both parties have said that they want to repeal Section 230.
+NEUT12|But for different reasons.
+NEUT13|So Republicans, because they believe that Facebook and Twitter and other platforms have an anti conservative bias and Democrats because they feel like one.
+NEUT14|The platforms aren't necessarily fair and two Facebook is probably the greatest organizing tool that Republicans have ever had, so they'd like to minimize that advantage.
+NEUT15|So both Biden and Trump have called for getting rid of it.
+NEUT16|It is possible to maybe do it through the FCC and FTC, but Trump is probably right that you're going to Congress, but again.
+NEUT17|Is a very, very big piece of legislation.
+NEUT18|It's very, very serious, doesn't get thrown at the last second into a defense authorization bill.
+NEUT19|What about startups and established tech companies heading, for instance, Texas Austin is picking up Speed San Francisco New York City.
+BEAR20|Are we going to lose a fight over tax policy and tech?
+BULL21|Yeah, I think so.
+NEUT22|I mean, you're seeing it so.
+NEUT23|Tesla, Oracle, HP all went from the Bay Area to Texas on the financial side you saw Goldman Sachs icon Elliott all going from New York to Florida and so yeah, in both states there hits a point where you've got a combination of really high taxes, alot of regulations and then also just a lot of hostility right when the political leadership in both New York City and San Francisco and the New York State in California.
+NEUT24|Are so openly anti tax, anti business anti finance at a certain point you understand why CEO's say you know what I'll go somewhere where I'm wanted.
+NEUT25|You know you have a number of different things on this list, and that being one of them.
+NEUT26|But let's also talk about the kind of remote world where operating in, especially as relates to Ed Tech.
+NEUT27|What are your expectations in that area?
+BULL28|Yeah, look, this is probably the biggest opportunity for attack in well over a decade.
+BEAR29|It had been a sector that, in my view, had kind of stagnated.
+NEUT30|I think in part because the scale and scope of education is so big that it's really hard for tech startups to understand how they can really disrupt it.
+NEUT31|But what we've seen, obviously are 10s of millions of students now.
+NEUT32|Being educated remotely, usually not that well.
+NEUT33|My kids certainly don't like it, so here is really a moment where someone come up with a way to do remote schooling.
+NEUT34|Is more engaging and easier on the eyes, and it's just a better process.
+NEUT35|There are a lot of people who are interested in that.
+NEUT36|Bradley Tusk of Tusk Ventures.
+NEUT37|I would recommend that folks check out your 10 predictions for how these tech policy fights might play out in 2021.
+BULL38|"Thank you so much for your time, yeah?"""

@@ -1,0 +1,15 @@
+NEUT0|"""Hello, ladies and gentlemen, my name is Debbie Jose, MSC Accounting and Finance student at Angus King University."
+NEUT1|As part of the university's the Big pitch competition, I would like to share my business idea with you.
+NEUT2|My business idea is about building a penny stock trading platform.
+NEUT3|Before that let me explain what easy way is to penny stocks.
+NEUT4|Are those folks that are typically traded under fight or or share.
+NEUT5|Though they are high wall tie they have become the popular choices among the investors.
+NEUT6|As the name suggests itself.
+NEUT7|It starts from the small.
+NEUT8|Subsequently they have the capacity to make it big.
+NEUT9|There are many advantages for this business model.
+NEUT10|From that I would like to point out two major advantages.
+NEUT11|The first one is that this will help the people to encourage them to step into the stock trading market and the second one is that the increase in the demand of a penny stock can increase the price of a share price.
+BULL12|This can help the business to grow.
+NEUT13|Please don't hesitate to click the link in the video description.
+BULL14|"Thank you."""

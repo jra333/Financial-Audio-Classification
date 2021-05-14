@@ -1,0 +1,65 @@
+BULL0|"""We are on track for a third week higher on the SNP."
+NEUT1|Let's get to botosani this morning.
+NEUT2|Morning Bob.
+BULL3|Good morning Carla.
+NEUT4|Happy Friday everybody.
+BULL5|Yeah, we're up about 1% for the week.
+BULL6|Very good start the earnings season.
+BULL7|It's nice to see the banks holding up relatively well.
+BEAR8|They tend to dip going into earnings season this week.
+NEUT9|Not so this week.
+BULL10|That's a good sign abit of a reversal today for the trend this week which has been towards value here so early on.
+BEAR11|Tech has been a relative outperformer energy is underperforming and banks are under performing a little bit.
+BEAR12|As I said, that's a little bit of a reversal of the trend for this week.
+BEAR13|There's been this value rotation.
+NEUT14|We talk about tech cooling off industrials, energy, doing better, look at the.
+BULL15|Numbers for this week transports classic value of had a great week.
+BULL16|Overall it's up about 5% US.
+BULL17|Small caps are up about 3% and you see industrials energy and technology lagging, so this is, in a nutshell.
+NEUT18|You're value play your value when hard to believe though the value rotation is going to last.
+NEUT19|I'm sorry I know everybody's been waiting for 10 years for value to outperform, but the simple fact is the numbers, the weightings of the SNP are so big now all towards tech and so many now own passive.
+NEUT20|Index funds that these kinds of breakdowns become very important.
+NEUT21|Tech is 28% of the SNP.
+NEUT22|The top two sectors are almost not quite, but almost 50% of the SNP.
+NEUT23|The bottom 5 sectors look that energy and materials look how small those numbers are.
+NEUT24|Allergy materials, real estate utilities.
+NEUT25|There are 17 or 18% of the S&P top 250% almost bottom 518.
+NEUT26|You know that becomes very important when you have a passive index kind of person.
+NEUT27|Like a lot of people are the heart of earnings.
+NEUT28|Season is next week so.
+NEUT29|Now we'll start getting.
+NEUT30|Well, most of the Fang names reported the week after next, but we'll get IBM, Microsoft, Intel, Twitter next week.
+NEUT31|And of course, those momentum names merely really mean a lot.
+NEUT32|At this point.
+NEUT33|They Speaking of the rise of passive indexing and passive indexing and investing.
+NEUT34|Nothing illustrates that whole theme better than Black Rock.
+BULL35|They had terrific numbers, they had significant inflows.
+BULL36|They had increases in asset under management, even in the pandemic, money still keeps going in.
+NEUT37|Here they are the largest ETF provider that is out there.
+NEUT38|They have the strongest brand, which is I shares.
+NEUT39|They are very diverse there, impassive, which is the big area.
+NEUT40|But they're also an active and they are the leader in ESG.
+BULL41|They hold the largest funds in the ESG ETF space here, and that's been growing leaps and bounds this year.
+NEUT42|And here's something important that burried in their numbers.
+NEUT43|What I pay attention to the base fee rate is 17 basis points.
+NEUT44|What's that mean?
+NEUT45|It's kind of blended average of what they're charging, but think about the 17 basis points is $17.00.
+NEUT46|If you invest $10,000, so you put $10,000 in a fun they charge $17.00.
+NEUT47|A year 15 years ago.
+NEUT48|10 years ago.
+NEUT49|Typical funds were 100 basis points, one percent 150 basis points.
+BEAR50|So Larry and BlackRock have taken a piece out of the Vanguard playbook and kept fees really low, and that has attracted assets under manage.
+NEUT51|That's one of the really big keys.
+NEUT52|Look at Ivy.
+NEUT53|This is what their one of their biggest ETF.
+NEUT54|You're basically buying the S&P 503 basis points.
+NEUT55|You can get this for $10,000 investments, $3 a year is what they charge you.
+NEUT56|You can only SP.
+NEUT57|For $10,000 or $3 a year, think about what that means and what a revolution that has been in the last 15 years.
+NEUT58|So Black Rock is opening today.
+NEUT59|Where is it 580?
+NEUT60|I think it opened at here.
+BULL61|The historic high for Black Rock was 590.
+NEUT62|That's back in February of March of 2018, car likely or maybe in January.
+BULL63|But we're just $10 away from a new high and with very good reason.
+BULL64|"Big leader in that whole ETF area."""

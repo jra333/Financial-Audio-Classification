@@ -1,0 +1,6 @@
+NEUT0|"""Automotive demand is the single largest demand segment for platinum."
+NEUT1|It's comprised of three main applications, auto catalysts, sensors in spark plugs.
+BULL2|If you look at the price of platinum, we continue to see month over month gains on the commodity prices as used.
+BULL3|Vehicle prices increase as well.
+NEUT4|When you see used vehicle prices continue to rise, people will have to make the decision whether or not to purchase.
+BULL5|"A new vehicle or a used vehicle when they go the route of a new vehicle, you'll start to see the demand for platinum and Palladium continue to increase, pushing prices higher."""

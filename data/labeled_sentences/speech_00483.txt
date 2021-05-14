@@ -1,0 +1,29 @@
+BULL0|"""So Katrina, this was the highest success rate ever in in fiscal first 221 you use the term success rate."
+NEUT1|It's not what other people say.
+NEUT2|Explain it to us so people know why Stitch Fix stock went up so much.
+NEUT3|Yeah, so when we talk about success rate we're talking about when we ship items infixes, we're we're sending close, largely sight unseen.
+NEUT4|You don't know what's coming in your fix, and so it really requires a lot on our part to know what's going to work for you.
+NEUT5|To know what's going to be the right personalization combination for you, and so with success rate.
+NEUT6|What we mean by that is what is the percentage of items that you're keeping in those fixes, and that was at our highest level ever in the history of the company.
+BULL7|It's been on a steady increase, which is really a testament to the combination of data science in our stylists, and really just.
+NEUT8|You know 10 years of scale and getting better and better at this business.
+NEUT9|Well, it was surprising.
+NEUT10|Katrina.
+NEUT11|I saw that there was 37% short position and I was thinking well who would want to go to the store during a pandemic when I can get great clothes at very inexpensive prices that are meant to look good on me for a very reasonable price from stitchfix.
+NEUT12|What didn't people see?
+NEUT13|Yeah, I mean it's, you know, we've been public now for three years, and it's definitely been an education process.
+NEUT14|When you're in a business that is really disruptive, are you know we now have many ways that you can shop with our recommendations, but our core fixed model the notion of like we're going to spend close to your home sight unseen and you're going to try them on and expect they're going to work.
+NEUT15|That's a really radical, different way to shop and even direct by which we've launched, which allows you to shop directly from our recommendations in our app or on our website.
+NEUT16|Even that is a radically different way to shop.
+NEUT17|We're not showing you millions of things on a website and expecting you to filter and sort through those things.
+NEUT18|We're showing you a really small subset of things that we believe are going to be highly.
+NEUT19|We're highly confident are going to be right for you that are right for your occasion, for your price point.
+NEUT20|For your size, it's almost this promise of if you could walk into a store and the whole store was relevant for you and exactly what you wanted, and it was going to fit you great.
+NEUT21|That's kind of the promise of what we're delivering digitally in Stitch Fix, and I think you know that's a very radical new way of doing things, and so it's definitely, you know, it has taken time.
+NEUT22|I think to bring people along in that story.
+NEUT23|Don't miss a second of mad money.
+NEUT24|Follow at Jim Cramer on Twitter.
+NEUT25|Have a question?
+NEUT26|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

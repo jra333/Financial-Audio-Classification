@@ -1,0 +1,3 @@
+BULL0|"""SmarTrend identified an uptrend for comsys IT partners NASDAQ symbol CITP on October 12th, 2009 at $7.26 in approximately 4 months."
+BULL1|Comsys IT partners has returned 141% as of today's recent price of $17.50.
+NEUT2|"Trade your way to success with SmarTrend for more news and market analysis like this, click below."""

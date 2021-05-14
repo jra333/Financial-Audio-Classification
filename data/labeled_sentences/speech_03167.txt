@@ -1,0 +1,13 @@
+BEAR0|"""Hey, what's going on guys?"
+NEUT1|My name is Doctor Boyce Watkins and welcome to the Black Financial Channel.
+BEAR2|I don't know if you guys heard that Disney just laid off a ton of people, 28,000 people.
+NEUT3|The parks are having a hard time opening because of this whole thing with the virus so I'm going to just let you know right now that I'm increasing my Holdings of Disney and the reason I'm going to buy more Disney is because as a long term investor I love Disney.
+NEUT4|I love their management.
+NEUT5|I love their assets.
+BULL6|I love the growth in their streaming services.
+BULL7|I think that this sense of emergency is going to cause them to push harder on the digital front, which makes them more relevant in that low cost sort of space where they can actually build a customer base without having to go spend billions of dollars on new theme parts.
+NEUT8|So I'm a big fan of Disney on my love.
+NEUT9|It is a long term play and I'm going to add it to My Portfolio so have a good day.
+NEUT10|Make sure you subscribe.
+NEUT11|I'll see you guys soon.
+NEUT12|"Take care bye bye."""

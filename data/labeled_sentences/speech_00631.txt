@@ -1,0 +1,21 @@
+BULL0|"""A wild session on Wall Street today is all three majors reverse some of their losses that dousing the biggest gains now in the afternoon session up more than 230 points."
+NEUT1|Let's bring in Jerrod Blicker E for the very latest Jarrett.
+BULL2|It feels like we were up this morning on a strong jobs report.
+BULL3|Then we were down and now we're swinging right back up as we try to round out the week.
+NEUT4|That's right, and I'll show you what's happening on the Wi-Fi interactive.
+BULL5|The NASDAQ has swung positive and really seen some bullish price action over the last hour or so, but it's still lunch and we could see another resumption of the downtrend in the afternoon.
+NEUT6|That would be perfectly normal in these situations, but let's just check out what's happened for the week now.
+BEAR7|We can see after that pop we got on Monday pretty steady decline here.
+BEAR8|Have we broken out to the upside?
+NEUT9|Is it all clear?
+BEAR10|I think it's too early to say so far, but down 3%.
+BEAR11|So looking inside the NASDAQ, it's a mixed picture for the big Mega caps.
+BEAR12|We have alphabet up over 2% Facebook over 1 Microsoft over 2, but Apple and Amazon, the tech and discretionary plays those are down about half a percent.
+BEAR13|Notably, Tesla taking another 5% tumble's stock is down 18% over the last four days.
+NEUT14|Let's check out the week.
+BEAR15|Yeah, down 12 1/2 percent roughly and software really is still not doing that well.
+NEUT16|We do see some green here on the screen.
+NEUT17|We've talked about Microsoft, we got.
+BEAR18|Oracle, notably to a record high, but some of the big software names have had a pretty disastrous week here and finally going to wrap up with crude oil, because that is at a one year high guise of eight percent, 8.77% this week alone.
+BULL19|A Wild Friday indeed.
+BULL20|"Thanks so much for that."""

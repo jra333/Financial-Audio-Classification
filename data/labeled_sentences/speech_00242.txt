@@ -1,0 +1,22 @@
+BULL0|"""Donald Trump will be better for the stock market then former Vice President Joe Biden, 45% of Americans say the stock market will go up in a year if President Trump is elected just 32% say so for Biden."
+BEAR1|25% think it will go down as Trump selective.
+BULL2|38% think so for Biden more Biden supporters think the markets going to go up under Trump then Trump supporters.
+NEUT3|They go up under by looking at the overall investment numbers that we've been chronicling for years.
+NEUT4|Here we're kind of average 41% think it's a good time to invest 35%.
+BULL5|Say not, it's right around the normal split, maybe a little bit pessimistic relative to to the 16 in 2017, but you can see we've recovered a bunch.
+NEUT6|If you look on the right side of your screen of that pessimism that came along with the onset of the pandemic when it came to the stock market.
+NEUT7|And certainly the stock market performance is borne that out.
+NEUT8|But one concern of the public, very much like the concern of the stock market, is what will happen with stimulus looking at the right side of your screen.
+BEAR9|There 49% think the biggest, their biggest say, their biggest worry is that the government spent too little.
+BEAR10|On release, 39% say too much, and that's a reverse.
+NEUT11|You can see of the 2009 crisis when there was more concerned about the government spending too much or concerned about deficits in the public.
+BULL12|So a lot of support for the stimulus.
+NEUT13|And finally our top line results, which we've been reporting.
+BULL14|Former Vice President Joe Biden, leading President Trump by 11 points in our overall serve, 800 Americans with a margin of error 3 1/2%, and that lead has grown from five points to 9 points, and now it's 11 points.
+NEUT15|David, a lot of ways for them.
+BULL16|Rates are still tighten up, but it's a commanding lead for the former vice president nationally.
+NEUT17|As we know, of course, given our Electoral College system, it's those battleground states that really matters.
+BULL18|Steve, but thank you.
+NEUT19|That's why we have our states of play survey.
+NEUT20|Shepard Smith here.
+NEUT21|"Thanks for watching CNBC on YouTube."""

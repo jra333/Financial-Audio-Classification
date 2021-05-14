@@ -1,0 +1,49 @@
+NEUT0|"""Let's talk about the crypto markets."
+NEUT1|In this time.
+NEUT2|It's not Bitcoin that we're focusing on.
+NEUT3|We're going to talk about Doge coin and Ethereum, but first let's start with DOHC, waiting 'cause that has been a huge story.
+NEUT4|This week.
+NEUT5|We want to bring in Dan Roberts for a little bit more on this and and we saw this massive surge, some of this being attributed to a few tweets by Elon Musk, but help me understand what exactly is going on here, because from my understanding it's a cryptocurrency that was started as a joke.
+NEUT6|That's right, Sean.
+NEUT7|I was started as a joke and nothing is really changed.
+NEUT8|I mean, people call it a meme crypto.
+NEUT9|Of course, at this point, if you've used the Internet at all, you know what Doges is.
+BULL10|That Shiba Inu meme saying things like much wow and it is up 700% in 2021 so far you mentioned the Elon Musk tweets.
+NEUT11|He has done it quite a few times and that certainly has added fuel to the fire, but already doge coin has really been kind of a buzz on social media.
+NEUT12|That's what's driven the price higher.
+NEUT13|And actually amid that GameStop and AMC Madness last week.
+NEUT14|When Robin Hood, I had to temporarily halt instant buying of cryptocurrencies.
+NEUT15|It turned off that feature for Bitcoin and Doge coins.
+NEUT16|That gives you a sense you know, amid kind of all the cryptocurrencies there are.
+NEUT17|Those were the two that were rising so suddenly and frantically that Robin Hood decided, wait a minute, we gotta turn off this feature that allows customers instant access to bank transfers.
+NEUT18|But it is a mean cryptocurrency.
+NEUT19|There's not a company or a real practical application behind it, but you can buy it in, trade it on a number of big mainstream exchanges.
+NEUT20|Not Coinbase and people are making real money off this.
+NEUT21|It's funny you know.
+NEUT22|I did an explainer.
+NEUT23|Just reminding people the origins.
+BEAR24|It was created as a joke in 2013 and I was blown up over the last 24 hours on Twitter by people saying how dare you?
+NEUT25|You know it's not a joke.
+NEUT26|The money I've made isn't a joke and it's like OK, it was started as a joke.
+NEUT27|That's just a fact, but again people have bought it in the last few weeks and already sold it and made real money here.
+NEUT28|But Elon Musk knows what he's doing.
+BEAR29|He is cautioned that the tweets about doge coin are a joke, but that doesn't stop the price from going up when he.
+NEUT30|It's about it.
+NEUT31|Certainly doesn't people get excited.
+NEUT32|It seems like any about anything that Elon Musk has tweeted.
+NEUT33|We seen it with several names here over the last couple of weeks.
+NEUT34|Damn, what about Ethereum?
+NEUT35|I talked about that in the intro.
+BULL36|It's up a little bit today.
+BULL37|What up just around 4 1/2% but this week, it's been another huge gainer.
+NEUT38|Yeah, that's right.
+BULL39|And Shawna earlier today Ether had a new all time high around 1741.
+NEUT40|You know it's the token of Ethereum and the way I always explain it to people is if you understand even the basics of Bitcoin and you understand that there's something called the Bitcoin blockchain.
+NEUT41|Ethereum is a separate blockchain that was specifically designed really to be a better Bitcoin.
+NEUT42|Blockchain is specifically made for decentralized apps or gaps to be built on the Ethereum chain, and the reason the price has gone up so much recently as there have been a ton of new use cases.
+NEUT43|And companies that aim to make use of defy decentralized finance which is really just the latest buzzy way to say what it's always been for, which is financial applications that cut out the middleman.
+NEUT44|They are decentralized and all of these exciting new projects are being built on Ethereum, not on the Bitcoin blockchain.
+NEUT45|Also, the real price action today is probably tide to what's happening on Monday.
+NEUT46|This coming Monday you're going to see me launch ether futures and actually back in 2017 when CME launched Bitcoin futures, you saw the same kind of price hike app into Bitcoin in the days.
+NEUT47|Leading up to the launch, so we'll see what happens with Ether on Monday, and we'll see if big institutions dump their ethereum after CME launches.
+BEAR48|"The features you hope not, or you will see big movement with the price."""

@@ -1,0 +1,27 @@
+BEAR0|"""Bank of America analyst Francisco Blanch has slammed Bitcoin as exceptionally volatile, impractical and an environmentally disastrous asset that's useless as a store of wealth or an inflation hedge for good measure."
+BEAR1|Blanche also asserted the cryptocurrency as an impractical method of payment, as it can only handle 1400 transactions per hour compared to the 236 million transactions processed by visa.
+NEUT2|The report, which echoes the hardline stance taken against crypto by traditional financial institutions in years.
+BULL3|Past is in stark contrast to other major banks such as Goldman Sachs and JP Morgan which have since embraced Bitcoin as an asset, contradicting the notion that bitcoins fixed supply of 21 million will inevitably drive price growth.
+NEUT4|Overtime, Blanche argues, BTC's Price is driven by supply and demand, asserting that because the supply is fixed, fluctuating demand is the only thing driving the price.
+BEAR5|Blanche also dismissed the idea that Bitcoin as a safe haven asset.
+NEUT6|Bitcoin has also become correlated to risk assets.
+NEUT7|It is not tide to inflation and remains exceptionally volatile, making it impractical as a store of wealth or payments mechanism.
+NEUT8|The Bank of America researcher stated, given many investors are mainly concerned with returns bitcoins track record of appreciation as the best performing asset over the past ten years may see them dismiss such criticisms.
+BEAR9|However, perceptions about bitcoins negative environmental impact may pose a threat to increasing corporate and institutional adoption as it conflicts with the triple bottom line.
+BULL10|Accounting that climate conscious shareholders are increasingly focused on boa states that Bitcoin has a higher carbon footprint than any other human activity in terms of dollar for dollar inflows, with the report estimating that bitcoins energy usage has grown more than 200% in the past two years and is now comparable to the Netherlands, Greece and the Czech Republic.
+NEUT11|While bit Coiners often cite figures suggesting that between 39% and 76% of Bitcoin mining uses renewable energy, Boas report asserts that in fact, 3/4 of BTC mining occurs in China.
+NEUT12|Where more than half of electricity is produced by coal.
+NEUT13|Further, it states half of all Chinese mining occurs in Xinjiang province, where 80% of power comes from coal.
+NEUT14|This ignores the seasonal migration of minors to Sichuan to take advantage of cheap hydroelectric power during the rainy season.
+NEUT15|Coin shares estimates that it's actually miners in the Sichuan province.
+NEUT16|That account for 50% to 66% of global hashrate.
+BEAR17|Boa states that rising prices drive up mining difficulty, which inexorably adds to Bitcoin mining.
+NEUT18|Carbon output.
+BULL19|Boa calculated that a $1 billion investment in Bitcoin produces the same carbon emissions as 1.2 million petrol powered cars over the course of a year, which means Tesla's $1.5 billion investment as equivalent to adding 1.8 million petrol powered cars onto the roads each year, undermining the electric carmaker's environmental credentials, leaving no criticism alone.
+BEAR20|Blanche also noted 181 companies faced risks linked to Bitcoin around money laundering corruption.
+BEAR21|Bribery, fraud and breaches of data privacy, and that central bank digital currencies also pose tremendous long term threats to Bitcoin.
+NEUT22|It's worth noting the Boa report is the view of a single analyst and opinions vary within large organizations, even at the overall pro Bitcoin.
+NEUT23|Goldman Sachs.
+BEAR24|Some divisions have made similar criticisms of Bitcoin, while other divisions talk up Bitcoin as the future, its clients may also disagree with the analysis.
+BEAR25|Bank of America's January Fund manager survey found that going.
+BEAR26|"Long Bitcoin was the most crowded trade of the month."""

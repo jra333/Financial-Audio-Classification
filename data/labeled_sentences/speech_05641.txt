@@ -1,0 +1,18 @@
+BULL0|"""Hey there, I'm Jason Moser, a analyst with Motley Fool one, and thanks again for joining us for ask a fool."
+NEUT1|This weeks question is submitted to us from Gary Porter on Facebook, and Gary asks why are some stocks called a buy when their target price is lower than its current price, and I think that's a fair question, Gary.
+NEUT2|It's a good question.
+NEUT3|It's one that I think you have to sort of.
+NEUT4|Look at it from what perspective you're investing and whether you're a long term investor.
+NEUT5|Or an investor focused more on the short term.
+NEUT6|You know, Benjamin Graham, famed value investor, coined the phrase then in the short run, the market is a voting machine in the long run, however, it's a weighing machine, and that's something that we here at Fool HQ take very seriously.
+BEAR7|Truthfully, I think the valuation issue can be one of the primary downfalls for many investors, and I think it's why you'll see in our flagship service with stock advisor.
+NEUT8|We don't even offer those short run based valuations as there are more or less useless to us.
+NEUT9|We're really focused more on the business and its prospects.
+NEUT10|For many years to come, and so valuation, it definitely plays a role in our understanding what the stock may be worth today and whether a particular opportunity is better than another.
+NEUT11|But it's not what we hang our hat on because it's inherently based on short term thinking, and that's just not what we do.
+NEUT12|We're looking for companies with prospects to grow their businesses over time, and when they can do this overtime, the stock price tends to follow accordingly.
+NEUT13|Now it's important to note that if you're a value investor or a Special Situations investor, the valuation will definitely play a more critical role.
+NEUT14|It's not to say that one way is right, the other is wrong.
+NEUT15|They're just different approaches, and so you have to find what you're most comfortable with and then stick with it.
+BULL16|We feel like over at stock advisor that the best approach is to focus more on the quality of the business and so far those numbers are working out pretty well in our favor.
+NEUT17|"Again, thanks for the question and for more on this and everything, investing head on over the full COM."""

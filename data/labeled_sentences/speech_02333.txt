@@ -1,0 +1,43 @@
+BEAR0|"""So tell me a lot of people are concerned about the launch of the new iPhone this fall, thinking there might be some delays."
+NEUT1|Might take having watched Apple for a long time, they tend to launch things on time, maybe not in the volumes that some people might have hoped, but I don't even know what demand is going to look like.
+NEUT2|If people are going to be going out to stores this fall anyway, how does it look to you?
+NEUT3|Yeah, sure, so it's possible to.
+BEAR4|The product could be delayed.
+BEAR5|I think that's definitely well understood by the investor community in the last three cycles there have been twice that the product has been delayed a month to two months.
+NEUT6|The iPhone 10, the iPhone 10R.
+NEUT7|So it's not unprecedented that the product could be delayed.
+BEAR8|An one of the risk that we did highlight in our note is that people may be less willing to go to stores to buy the phone.
+BEAR9|They may have smaller pockets due to unemployment.
+NEUT10|And the present situation given given lower lower spending and so it's definitely a risk that we were worried about is, you know, it gets out into November and December.
+NEUT11|But tell me now about the price target hikes though.
+NEUT12|'cause I correct me if I'm wrong here, but on June 9th year at 3:50 on the 22nd, you are at 380.
+NEUT13|Now you're at 400.
+NEUT14|It looks like you're chasing it and it makes me wonder when is too high?
+NEUT15|You're at 400 now.
+NEUT16|I mean, is 450 at the end of the month.
+NEUT17|Going on, yeah, it's a good question and so I think what's interesting about about the present Southside Southside Bias for price targets is that most of the outperformance by ratings are actually have a price target slightly below where Apple is right now.
+NEUT18|And despite raising to $400, there's only one or two analysts have a higher price target than I do as a present.
+NEUT19|I think 400 makes sense, and here's why you know the stock is at my price.
+NEUT20|Targets based on 25 * 16 dollars in 2021 earnings.
+NEUT21|I'm at this point in time.
+NEUT22|I think that's fair.
+NEUT23|We compared to peers I consider peers largely Fang and Microsoft, and you know where the multiple compares appears.
+BEAR24|I think is fair at this point in time, but but if it pushes beyond much beyond where it presently trades, I think that's increasingly going to cause investors to become anxious.
+NEUT25|I wonder when it causes you to become anxious?
+NEUT26|I mean, the comparisons to peers is what I wonder about, because yeah, when they're on the way up, the comparison to Pierce says that while this one should.
+NEUT27|Should go higher, but then eventually.
+BEAR28|If they've gotten too high, it an all the peers end up falling.
+NEUT29|So where do you peg it?
+NEUT30|When do you kind of fundamentally say, alright?
+BULL31|The peers might be continuing to go higher.
+NEUT32|This stock might be better than that one, but it's all too crazy.
+BULL33|I've topped out.
+NEUT34|Yeah, so ultimately Apple Apple is attractive for many reasons.
+NEUT35|I think increasingly investors are beginning to understand that the core customer base is very entrenched, especially if you add on music and TV.
+NEUT36|Plus Apple Arcade, the list kind of goes on an iPhone user presently is very likely in 457 ten years to buy more iPhones going forward.
+NEUT37|That sounds to me like it's I'm basically describing what is more nose in annuity stream.
+NEUT38|I think that's.
+BULL39|Increasingly being valued correctly, at some point, you know, I do think that the valuation will could expand to a point where.
+BULL40|It outstrips that.
+NEUT41|The value of that annuity stream in terms of profits, and I think that's the point where we need to be more cautious.
+BULL42|"I don't believe we've reached that point yet."""

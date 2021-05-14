@@ -1,0 +1,20 @@
+NEUT0|"""We just watched Elon Musk take corporate Treasury money effectively and invested in Bitcoin and given Jack Dorsey's interest in Bitcoin."
+NEUT1|I'm curious what your reaction to that was and how you think about that, potentially for Twitter itself.
+NEUT2|So we watch closely what other companies do to see what we can learn from them and when we think about our balance sheet, we think about matching how it's invested and the currencies in which is invested relative to how we might pay people, whether it's.
+NEUT3|Paying somebody who's providing a service to us or paying employees.
+NEUT4|So we've done a lot of the upfront thinking to consider how we might pay employees should they ask to be paid in Bitcoin how we might pay a vendor if they actually pay in Bitcoin, and whether we need to have Bitcoin on our balance sheet should that happen.
+NEUT5|It's something we continue to study and look at.
+NEUT6|We want to be thoughtful about overtime, but we haven't made any changes yet.
+NEUT7|What would be the tipping point for you though?
+NEUT8|I mean what?
+NEUT9|What is it?
+NEUT10|You think you're looking for waiting for that would actually put that.
+NEUT11|Put that over the top for you to make that decision.
+NEUT12|Well.
+NEUT13|One of the key things we look at would be if people are asking to transact with us in Bitcoin, because then we might consider whether we would be transferring dollars to Bitcoin at the time of the transaction, or if we wanted Bitcoin on our balance sheet ready to complete that transaction.
+NEUT14|When we hedge currencies.
+NEUT15|When we do business in another country.
+NEUT16|When we think about all the different exposures that we have are really trying to match our assets and our liabilities and we take the same approach to Bitcoin that we do.
+NEUT17|To all the other types of risks that we have.
+NEUT18|Shepard Smith here.
+NEUT19|"Thanks for watching CNBC on YouTube."""

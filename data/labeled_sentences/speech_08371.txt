@@ -1,0 +1,37 @@
+NEUT0|"""From Wework standpoint, how might it think through these two potential offers?"
+NEUT1|So I mean, I think it really just comes down to get the deal done 1st and if the rest of the shareholders are OK with SoftBank taking on majority control.
+NEUT2|So basically we were really needs cash quickly and the IPO was supposed to provide an enormous chunk of that nine billion.
+NEUT3|When all was said and done and they really need it before the end of the year because they are rapidly running out.
+NEUT4|Do we have details on what this soft bank financing package might be?
+NEUT5|We don't have things like valuation.
+BEAR6|I mean we know it would be a lot lower than the 47 billion that SoftBank last invested at back in January.
+NEUT7|But basically, SoftBank already is a really big owner.
+NEUT8|They own 33% of the company or so, and so it doesn't take that much more to get up to 51% when you're, you know, at a lot lower numbers and you know they're talking about billions of dollars here.
+NEUT9|So that's about as specific as we have Elliot.
+NEUT10|If they are going through 2 1/2 billion dollars worth of cash or whatever in just a few months time.
+BEAR11|With all of this pressure on them.
+NEUT12|Are we to speculate that it's being put into expansion?
+NEUT13|We you know, we've talked about how they've been open, opening some new offices in Southeast Asia recently, and if it is being put into expansion, why keep up the break?
+NEUT14|Net breakneck pace and not slow down now?
+BEAR15|Yeah, well, so they're certainly trying to do that, and they're preparing to layoff thousands of workers very soon, but that itself costs money because of severance, but real estate is sort of a.
+NEUT16|There's a delay between when you commit to things and when you spend money.
+NEUT17|So six months ago they were still growing at three months ago, they were growing at breakneck pace and trying to keep doubling every year, and then they signed all these leases where they have to spend all this money to build out all these spaces, which is really expensive.
+NEUT18|So there they were trying to grow much faster than they are now.
+NEUT19|And now the.
+BEAR20|New CEO's want to slow things down a lot, but they basically have all these leases they've already committed to, which are really expensive.
+NEUT21|Ellie when you write that the SoftBank package may further sideline Newman, what exactly do you mean?
+NEUT22|So it's simply that SoftBank would take control an Atom who has three votes per share.
+NEUT23|So you know, a huge amount of control, and he himself controls about 33% of the company as well.
+NEUT24|Suddenly it would be soft bank in the driver seat and he would not have a role.
+NEUT25|So you know there's a lot going on there, but he's already obviously out of the CEO seat, but he's still on the board and has a lot of votes.
+BEAR26|Elliott, whatever, tell us as well that the cash burn situation is is that rapid and potentially that precarious mean this was a company that was hoping to do an IPO.
+NEUT27|I mean a month ago now, how much further out in the future are those plans looking?
+NEUT28|Yeah, so it's it's probably going to be awhile.
+NEUT29|I mean SoftBank would if this deal goes forward they put in.
+NEUT30|Multiple billion dollars of equity and debt.
+NEUT31|An at least want to get it out a year as we understand.
+NEUT32|I believe an you know.
+NEUT33|It's sort of hard to say like they've really got to reshape the company before under Adam.
+NEUT34|It was sort of this real estate office space of the future tech community.
+NEUT35|Everything play and they kept buying all these companies with sort of random pattern to them and now the new CEO's are sort of rapidly trying to scale that back and just make it a office space provider for large companies.
+NEUT36|"And that you know itself is a big change."""

@@ -1,0 +1,4 @@
+NEUT0|"""Coke is delivering a new product for fans of its brand, an also called coffee lovers."
+NEUT1|So it's combining the two Coke with coffee is now available in stores nationwide.
+NEUT2|The pop is infused with Brazilian coffee and was first piloted in Japan in 2018 to celebrate the US launch.
+BULL3|"Coca Cola teamed up with Walmart and a drone service to deliver the new beverages via drone to Coffee County, Georgia."""

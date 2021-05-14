@@ -1,0 +1,17 @@
+BEAR0|"""If a corporation's board of directors breached their fiduciary duties owed to shareholders, a majority of informed, uncoerced and disinterested shareholders may ratify the Board's decision."
+NEUT1|When this occurs, the Board's decision is reviewed under the Business Judgment Rule, which Shields directeurs from liability.
+NEUT2|Absent proof of unconscionability, fraud, impermissible self dealing or waste.
+NEUT3|In the 2015 case, Espinoza versus Zuckerberg, the Delaware Court of Chancery considered whether a disinterested controlling shareholder could ratify an interested board's decision without adhering to the corporate formalities for taking action.
+NEUT4|Mark Zuckerberg is the founder of Facebook, a publicly traded Delaware Corporation headquartered in California.
+NEUT5|In addition, Zuckerberg controlled roughly 61.6% of the total voting power of Facebook.
+NEUT6|Ernesto Espinoza was a shareholder of Facebook stock beginning in 2008, Facebook started granting restricted stock units or RSU's to new members of its board of directors who weren't Facebook investors or employees.
+NEUT7|New non employee director's often received 20,000 RSU's upon joining the board and an annual retainer of $50,000.
+NEUT8|The Audit Committee chair also received an extra $20,000 for an annual retainer.
+BEAR9|In 2013, a compensation committee consisting of two interested board members met to discuss the compensation of Facebook's non management directors.
+NEUT10|Facebook's board then had a regular board meeting and unanimously approved a proposal to provide non management directors with RSU grants valued at $300,000 per year, subject to the board's approval.
+BULL11|Further, the board unanimously approved a proposal to increase the annual retainer from $50,000 to $70,000 and from $70,000 to $100,000 for the Audit Committee.
+NEUT12|Chair Zuckerberg was present at the meeting.
+NEUT13|The board then formally approved the plan and implemented the proposal by written consent.
+BEAR14|Subsequently, Espinoza brought a shareholder derivative action on behalf of Facebook against eight members of its board, including Zuckerberg, over approval of the 2013 compensation plan.
+BEAR15|Specifically, Espinoza argued that the Directores breached their fiduciary duties by giving out excessive compensation at the expense of the company.
+NEUT16|"In response, the director's mood for a summary judgment."""

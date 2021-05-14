@@ -1,0 +1,13 @@
+BULL0|"""Hey guys how's it going?"
+NEUT1|So you know we're doing here we are.
+NEUT2|Well, do you want another video?
+NEUT3|So I'm going to go ahead and get this role in for us.
+NEUT4|Hand.
+BULL5|Full screen alright.
+BULL6|Looking good alright?
+NEUT7|So today we're just doing a little rundown of what's going on in the pre market.
+NEUT8|Really.
+NEUT9|Just.
+NEUT10|I'll look at it a few things, be quite honest.
+NEUT11|And using a different software.
+NEUT12|"So I just wanted to do a little test and let's see if it worked out so."""

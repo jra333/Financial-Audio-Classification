@@ -1,0 +1,10 @@
+NEUT0|"""Keeping on shares of Netflix and Thursday's trading session, the stock may be on the move following its earnings release."
+NEUT1|Here's how the numbers played out in its latest quarter of the video streaming company posted a profit of $0.06 a share.
+BULL2|That's a couple of pennies above estimates, based on its seven for one stock split revenue, came in pretty much in line at $1.6 billion.
+BULL3|When you dig into the report, subscriber additions came in stronger than expected, with a net addition of 3.3 million.
+NEUT4|About 2/3 of that came from international subscribers.
+NEUT5|Netflix now has a total subscriber count of 65.5 million.
+BULL6|The company also issued upbeat third quarter guidance.
+NEUT7|Here is the five day chart the Sox finish the regular session in the red at $98.13 but at last check the stock is up moving to the upside by about 10% in.
+NEUT8|After hours trading for the street.
+NEUT9|"I'm creamy Fukushima in New York."""

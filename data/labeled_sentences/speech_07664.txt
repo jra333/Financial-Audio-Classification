@@ -1,0 +1,10 @@
+NEUT0|"""In 2021, he is worth 85."
+NEUT1|Warren Edward Buffett is an American investor, business tycoon, philanthropist and the Chairman and CEO of Berkshire Hathaway.
+NEUT2|He is also the largest share owner of Coca-Cola.
+NEUT3|Warren Buffett bought his first stocks in 1942 when he was just 11 years old.
+NEUT4|By the age of 14, he achieved the net worth of $5000 age nineteen, $10,000 age 26140 thousand dollar age 30, two $1,000,000 age 36, eight million Dollar age 3925 million.
+NEUT5|Dollar Age 4419 million Dollar Age 52376.
+NEUT6|Million dollar Age 56 one billion dollar age 70 two $36 billion age 8572 billion dollar age ninety $85 billion then 2021.
+NEUT7|He is worth $85 billion.
+NEUT8|Hit that like button.
+NEUT9|"If you enjoyed the video and subscribe for more videos."""

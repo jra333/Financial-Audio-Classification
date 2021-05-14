@@ -1,0 +1,11 @@
+BEAR0|"""The Dow and S&P 500 each suffered their first weekly declines in three weeks, and the NASDAQ was down for the first week in four as stalled stimulus talks overshadowed a banner week for IPO's."
+BEAR1|Blue Chips managed to squeeze out a game Friday thanks to Disney, but the S&P 500 and NASDAQ ended the session.
+BEAR2|Lower investors are waiting and hoping for another stimulus package out of Washington, but are worried in the meantime.
+NEUT3|About the pace of the health crisis, says Riverfront Investment Group's Kevin Nicholson.
+BULL4|Vaccine is being great and has been priced into the market.
+NEUT5|But what the market is looking at today is the fact that.
+NEUT6|We are not that the number of cases keeps getting going up and that and that seems to be the problem because it doesn't feel like we're going to get this under wraps very quickly.
+BULL7|It was all zippity Doo dah zippity yay over at Walt Disney, Investors pushed the stock to a record high after the entertainment conglomerate predicted it will have up to 260 million customers for its Disney Plus streaming video service by 2024.
+BULL8|Shares of Disney surged 13.6% in the biggest one day gain in a dozen years shows on Netflix, which is still by far the streaming service to beat finished higher despite the competitive threat.
+BEAR9|Not so for AMC, the world's largest theater chain, warned Friday it will run out of money to cover expenses as early as January, like all movie theater operators, AMC is struggling with delayed Hollywood releases and theater closures, including in two of its biggest markets, Los Angeles.
+BEAR10|"And New York City, the stock lossed ground on the news."""

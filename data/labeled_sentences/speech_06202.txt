@@ -1,0 +1,43 @@
+BULL0|"""Good afternoon everyone."
+NEUT1|This is Christian with perfect stock alert, 100% free service for smart investors and traders.
+NEUT2|All we ask in return please refer friend.
+NEUT3|Today we look at the definition of a dividend.
+NEUT4|A dividend is a distribution of a portion of a company's earnings, which is decided by the company's board of directors to a class of its shareholders.
+NEUT5|Preferred, common, etc.
+NEUT6|Dividends can be paid out monthly, quarterly, annually, or in any other way.
+NEUT7|The board records sees fit Diffinis may also be paid in cash, stock, or property.
+NEUT8|The dividend is most often quoted in terms of the dollar amount each share receives, referred to as dividend per share.
+NEUT9|It can also be quoted in terms of percent of the current market price, referred to as a dividend yield.
+NEUT10|Typically, growth companies will not offer dividends because all of their profits are reinvested to help sustain the high growth rate.
+NEUT11|For this reason, the larger more established companies with low growth tend to pay higher dividends to try and make up for the lack of growth potential.
+BEAR12|A dividends go in and out of favor back before the Great Depression hit, and we had a great big sell off back then.
+NEUT13|Investors kind of out of favor with dental care about it, then all of a sudden the Great Depression hit and people started caring about a lot more.
+NEUT14|And that's just something to kind of cycles in and out of the market.
+NEUT15|In essence, would manage it pays out a dividend shareholders they are in effect telling Cheryl they cannot generate an above average rate of return on the portion of the earnings that they're giving back.
+NEUT16|If the company is paying out 100% earnings to shareholders in the form of a dividend, shareholders should recognize the company sees the market as we had saturated, and they do not see any growth prospects for the company.
+NEUT17|The near term.
+NEUT18|This should cause investors to question why they even own the company stock to begin with.
+BEAR19|Really dividends can be suspended by management anytime shareholders own or share her own preferred shares are the first to receive dividends and the last to have their dividends cut.
+BEAR20|In most cases, cutting the dividend on a preferred shares creates a debt for the company.
+NEUT21|And the company will have to pay back all outstanding dividends to preferred shareholders before paying any dividends to shareholders of common stock.
+NEUT22|Now let's look at a couple of different examples of growth companies versus non growth.
+NEUT23|OK, here we are now on Yahoo Finance page and look at Center Point Energy ticker symbol C&P.
+NEUT24|This is utility in it is not a high growth company.
+NEUT25|Typically very stable widow and orphan kind of stock and you can see that it's paying a dividend of four point 3%.
+NEUT26|That's pretty substantial and that's like we were talking about earlier, which is just kind of making up for the fact that it's not a big growth company.
+NEUT27|Here we have the page on Google Incorporated ticker symbols jyoji.
+NEUT28|You can see, yeah, you probably know that Google is in fact a high growth company and their dividend yield is zilch, zero, nada.
+NEUT29|They're taking all of their earnings per share and reinvesting back into the company to continue that that monster growth.
+BEAR30|Now at some point Google will peak or at least management will think that they have peaked and they will begin at that point to start paying out a dividend.
+NEUT31|We've seen that happen with several different companies, but Microsoft is a good example.
+NEUT32|Let's look at that record.
+NEUT33|For a long time, Microsoft did not pay a dividend as they were pursuing their growth opportunities, but now you can see that they are about painted in 2.6% OK.
+NEUT34|If you've not been to our free website at perfectstockalert.com, it's right there, it's 100% free and all we ask in return.
+NEUT35|Please refer friend.
+NEUT36|God bless, take care and I'll see you in the next video.
+NEUT37|Please take a moment to review our disclaimer.
+NEUT38|The information provided herein is our opinion only.
+NEUT39|Under no circumstances do any statements here represent a recommendation to buy or sell securities or make any kind of an investment.
+NEUT40|You are responsible for your own due diligence.
+NEUT41|To summarize, we do not provide investment advice in order to make any claim or promises that any information here will lead to a profit, loss or any other result.
+NEUT42|"These videos are for educational purposes only."""

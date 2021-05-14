@@ -1,0 +1,40 @@
+NEUT0|"""Can you match or outdo the kind of numbers you saw in the first half, do you think?"
+BEAR1|Yeah, I think the first half clearly is impacted by the pandemic, especially the month of February and March.
+BEAR2|Given that China is shut down and everything, so I think I know the second half will be lost stronger than the first half in China.
+NEUT3|And also we're heading to what we call the Golden season of auto sales in the month of September, October and November.
+BULL4|So I think we have a strong momentum.
+NEUT5|Expect for the business, OK?
+NEUT6|And what are you prioritizing in the next 12 months in terms of the business strategy?
+BULL7|Post IPO well I think we will continue our investment into our R&D efforts.
+NEUT8|You know the we expect to launch our expired 3.0 in a few months, so that's something I think we're excited to watch.
+NEUT9|We also are investing into areas of Brandon Sales channel development as well as building our supercharging network.
+BULL10|Those are things that I think we're very exciting development to watch as well, and it was a successful IPO.
+NEUT11|How much runway does that give you?
+BULL12|Well, I think that we have, you know, abundant capital for our current business plan.
+BULL13|So I think you know with Bond funding we actually can be a little bit more forward leaning in our R&D efforts.
+NEUT14|Always explorations of new technology and products or accelerating some of the product schedules that we have.
+BULL15|So I think give us a lot of flexibility in our business plan.
+BEAR16|The company posted a loss of about $110 million in the first half.
+NEUT17|Do you expect to see those narrow again in the next six months to 12 months?
+NEUT18|What is the timeframe for profitability?
+NEUT19|No, I think for the net loss, I think.
+NEUT20|Obviously you're driven by how much we investing in the business, so it's hard for me to provide, you know, sort of forecasts at this moment to you.
+BULL21|But I think you know what we're focused on is our continued growth in our delivery numbers as well as improved gross margin of our product.
+BULL22|As long as those two are growing according to our business plan, I think the glasses will be narrowing naturally.
+NEUT23|Would you look at some point to bringing battery production in house?
+NEUT24|Not something that we're focused on this moment because it's a very different business.
+NEUT25|It's also very capital intensive.
+BULL26|We have very good supplier partners, so we don't expect to do ourselves.
+NEUT27|So the competition between exponent essler in the Chinese market.
+NEUT28|Elon Musk says he wants to be producing potentially a million vehicles here in the Chinese market at some point.
+NEUT29|How would you characterize the competition now between?
+NEUT30|Exponent says that in the Chinese market?
+NEUT31|Well, I always said that you know we are actually focused on really.
+NEUT32|Catalyzes the conversion of the auto market from ises to EV's.
+BULL33|In that effort, I think we're partners with Tesla.
+NEUT34|We all doing the same work.
+NEUT35|Try to make sure more and more consumers are attracted by smart electric vehicles, and that's what we're offering.
+NEUT36|And that's what Tesla is offering as well, so I would focus is much bigger pile we only less than 5% of the market.
+NEUT37|There are 95% market to be grabbed to farm the gas engine vehicles, so I think the development of Tesla in China Development Bank.
+BULL38|Expand As well as other smart electric vehicle players.
+BULL39|"Together we are accelerating that change in conversion."""

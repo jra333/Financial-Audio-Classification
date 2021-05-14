@@ -1,0 +1,12 @@
+BULL0|"""It was a very strong day on Wall Street on Monday and what happened here relates back to what happened here on Friday."
+BEAR1|The markets were closed for the Good Friday holiday, but the jobs report for the month of March.
+BULL2|The single biggest piece of economic data that is published anywhere in the world on a monthly basis came out and it showed very strong job growth in the US economy in March 916, seventeen thousand jobs.
+NEUT3|Something like that.
+NEUT4|Now the battle is on once again between growth and recovery and inflation down the road.
+NEUT5|But on Monday nobody cared about that.
+NEUT6|The markets just closed in record territory or two of them did.
+BULL7|The Dow was up 1.1 percent, 373 points, a closing record above 33,000 lifted up by companies like Home Depot, Boeing, Microsoft and Walmart.
+BULL8|The NASDAQ was not a closing record on Monday, but still up 1.6%.
+BULL9|The record close at the S&P 500 saw it well above 4000.
+BULL10|Yet again, again of 1.4% or 58 points.
+NEUT11|"John Terrence CGT N. Outside the New York Stock exchange."""

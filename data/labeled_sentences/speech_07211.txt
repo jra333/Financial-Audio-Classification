@@ -1,0 +1,17 @@
+NEUT0|"""I'm Christy Duffy."
+NEUT1|For smart try news.
+BULL2|UBS issued a note to clients raising its estimates and target price for shares of Coca Cola following new guidance from management UBS analyst Camille Garcia.
+NEUT3|Wallace said, quote using pro forma financials for new CCE fiscal year 2009.
+BULL4|We estimated 2010 and 2011 EPS by one applying projected growth rates from existing species Euro segment.
+NEUT5|You crediting margin expansion through concentrated your focus 3.
+NEUT6|Assuming cost of debt at a blended rate of three point 3% and four, assuming a 29% tax rate together with the planned share repurchases of $1 billion over the next 15 months ahead of guidance, we have estimated 2010 and 2011 EPS to be $1.64 and $1.92.
+NEUT7|Gotcha well went on to say quote.
+NEUT8|We expect the transaction to close in the first three weeks of October heading into the final weeks of the third quarter.
+BEAR9|The Ko CC transaction away.
+NEUT10|It's only the following milestones US in Canada antitrust clearance and the CCE shareholder vote scheduled for October 1st, 2010.
+BULL11|We expect government approval by quarters and an CCE shareholders to accept the proposed transaction.
+BULL12|Smart trend is bullish on shares of TCe and our subscribers were alerted to buy in February 25th when the stock was at a price of $25.45 per share.
+BULL13|It's risen your 17% since that alert was issued on Christy Duffy for SmarTrend News.
+NEUT14|For more news and market analysis, make sure subscribe to our YouTube channel.
+NEUT15|That's trade the trend.
+NEUT16|"Also visit our website tradethetrend.com for more headlines."""

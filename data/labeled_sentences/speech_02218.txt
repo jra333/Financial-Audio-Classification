@@ -1,0 +1,21 @@
+NEUT0|"""Do we get a glimpse this morning with the jobs data?"
+NEUT1|How important more stimulus is?
+NEUT2|And if we don't get it and we don't get it soon because of perhaps opposition in the Senate?
+NEUT3|Would a double dip recession be possible?
+NEUT4|Well, sure, anything's possible, but I think it's going to be very important.
+NEUT5|Is that that these physical supports?
+NEUT6|If they, if there are more, definitely support people who have had interruptions in employment, and also in incomes and what's also going to be very important is clearly the rollout of vaccines, because indeed people are not able to work because businesses are closed because governments are placing restrictions on mobility and business openings.
+NEUT7|And also, I would add, the weather has a strong factor in terms of whether or not.
+BULL8|Certainly restaurants can remain open, and so all these things combined would be very important for bolstering the labor market and also the broader economy in the US.
+NEUT9|Seth, we had the number trillions come out President elect Biden's mouth there.
+BULL10|I mean how big a boost could that deliver to the economy if it did get delivered and got delivered?
+NEUT11|Let's say maybe not quite Q1 but H1.
+NEUT12|Yeah, I mean a trillion dollars is clearly a huge number and I think some of everything that Dana said I agree with.
+BEAR13|And if we think about in the context of today's jobs report the two places where the losses were most concentrated with the hospitality and leisure sector, and then the state and local government employment as well.
+BULL14|And so if we saw a package that was able to rule out the vaccine quickly and get people back to spending on services in hospitality and leisure, that sector could could bounce back rather quickly.
+NEUT15|And the Democrats have been calling.
+NEUT16|Or more transfers to state and local governments.
+BEAR17|And the reason we've seen those sectors shedding jobs because of their budget crunches?
+NEUT18|And so I think a package is big as a trillion dollars really would be pretty stimulative to the economy.
+NEUT19|Shepard Smith here.
+NEUT20|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,35 @@
+NEUT0|"""Let's talk about the market."
+NEUT1|So whether the market is overvalued, undervalued is a big issue.
+BEAR2|Otreys fair value, well more culprits is that historically the market actually is kind of undervalued.
+BULL3|That is a good sign Mr. Hulbert joins us this morning from Chapel Hill.
+NEUT4|How are you mark OK?
+BULL5|How are you doing alright?
+BEAR6|So the market is is undervalued right now?
+NEUT7|Is that what you're telling me?
+NEUT8|Yeah, the column I have on the site today looks at it from a new new angle.
+NEUT9|Of course lots of people have been trying to answer this question about whether the markets under overvalued and almost everyone looks at the same data looks at PE ratios or maybe looks at it adjusted PE ratio.
+NEUT10|What was unique about what I was able to do in the column today was look at a data set that is a completely different approach.
+NEUT11|It looks at dividend yield and looks at some of the highest quality stocks of how many of them are over or undervalued according to dividend yield.
+NEUT12|And that is the data set that allows me to conclude that the markets closer to undervalue, not all the way at that extreme, but clearly closer to the undervalued and then to the overvalued end of the spectrum.
+BEAR13|But it seems that we showed that the Dow's only all things that doubts about 14% away from its all time highs back in 2007.
+BEAR14|I mean we've had a correction here the last few months.
+NEUT15|It took us a little further in that, but it still seems like just looking at the numbers of the indexes that stocks are much closer to their highs than any kind of Lowe's.
+NEUT16|Well, that's right.
+BULL17|But what we have to remember is that high that we're what 14% away from right now that was hit in October of 2007 is now nearly five years ago, and the balance sheets of American corporations have improved markedly over the last five years.
+BULL18|In the particular data set, I focused on the column today has to do with dividend yield, and there's been a lot of dividend increases over the over those five years.
+NEUT19|So the fact is that even if the market is not, it's not even if the market were at the same level today as in October of 2007.
+BULL20|The underlying balance sheets, profitability, soundness and so forth of the corporate corporate America is in far better shape.
+BULL21|Yeah, and we just pulled a 10 year chart up with the data.
+NEUT22|You can see that a second ago.
+NEUT23|Do I take this information?
+NEUT24|Do I take the Dow where it is right now?
+NEUT25|The SMP where it is right now, take your column and where do I plug in what's going on in the economy?
+NEUT26|In Europe, in China and all that macro stuff?
+NEUT27|How does all that affect what you're saying in the column today?
+NEUT28|Well, I guess the thing to stress is that.
+NEUT29|Any valuation measure, and I'd be the first to stress this about what I talk about in the column today is a long term indicator.
+NEUT30|Basically, valuation measures exert a very weak gravitational pull on the market over any given month or quarter or even six month period of time.
+NEUT31|In fact, in the statistical tests I applied to, the data set which goes back 50 years, the greatest explanatory power comes out in the 234, even five year time frame.
+NEUT32|And So what the?
+NEUT33|What if you were to take at face value what the data are suggesting?
+BULL34|"Is that one can feel some degree of comfort that stocks bought today will provide, especially these high dividend paying stocks will provide a positive return over the next five years."""

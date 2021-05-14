@@ -1,0 +1,23 @@
+NEUT0|"""Meg, the president says that he does not want any confusion about getting a vaccine, but really, there's still some questions about the shot itself."
+BEAR1|Well, she certainly some folks still have questions, although hesitancy about getting a covid vaccine appears to be declining slightly over time.
+BEAR2|The number of people saying they're going to wait and see before getting a covid shot is down from almost 40% in December to 17% in March, according to a Kaiser Family Foundation poll.
+BEAR3|Still, those set against it are mainly still feeling the same way.
+BULL4|Now, Doctor Fouchy today emphasized they're working hard to overcome people's hesitancy.
+NEUT5|To be absolutely certain our way out of this is going to be by proper implementation of vaccines.
+NEUT6|And he addressed some of the main concerns, noting worries range from the long term effects of the vaccines.
+BEAR7|Side effects from the shot.
+NEUT8|Or they could get covid from the vaccine.
+NEUT9|And on that last one, doctor Fouchy and others say that's not possible.
+NEUT10|You can't get Covid from the covid vaccine.
+NEUT11|The reactions after the shots, though, can be strong, particularly for the second dose, although typically only last a day or so.
+NEUT12|And though the question does keep coming up, do we really need both shots?
+NEUT13|Health officials say yes, unless you're getting the J&J vaccine, you need two shots of Pfizer or Moderna's shot to be fully vaccinated.
+NEUT14|All of the CDC's guidelines about what it's safer vaccinated people to do only apply to those who are fully vaccinated, and you get the second Pfizer shot three weeks after the first modernas, though is 4 weeks, so we've been hearing Walgreens wasn't sticking to that plan.
+BEAR15|Yeah, a number of people have said they've struggled to make an appointment at Walgreens for the second Pfizer dose the prescribed three weeks later.
+NEUT16|Now the New York Times was focusing on this yesterday in Walgreens.
+NEUT17|Now saying this week it will allow people to do that in a statement, Walgreens spokesman notes the CDC indicates a window of up to six weeks for both the Pfizer and Moderna vaccines, but no shorter than three and four weeks, respectively.
+NEUT18|So it was automatically scheduling.
+NEUT19|Second dose is a minimum of.
+NEUT20|Four weeks later, to ensure nobody got their second shot too early Shep.
+NEUT21|Shepard Smith here.
+NEUT22|"Thanks for watching CNBC on YouTube."""

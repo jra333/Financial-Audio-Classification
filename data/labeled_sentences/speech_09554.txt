@@ -1,0 +1,27 @@
+BEAR0|"""Delta reporting a slightly wider than expected loss of 253 a share."
+BEAR1|You see the operating and the adjusted revenue lines cash burn at $12 million a day in the fourth quarter, Ed thank you for joining us this morning.
+NEUT2|Give me some perspective on how bad it is right now in terms of the revenue, environment and overall getting people back in the air right now.
+BULL3|Well thanks, feel good to talk to you this morning.
+NEUT4|We are thrilled to close the books on 2020 and put this year behind us.
+BEAR5|It's been by far the most difficult year in our industry's history.
+NEUT6|Our company's history, really proud of our people though.
+BEAR7|They fought hard taking great care of customers and each other through the pandemic and putting us in what I consider to be in a really good position to help lead the industry into recovery as the world acts to contain the virus over the coming year, demand is slow.
+BULL8|As soon as you guys were talking about it's it's very, very slow, but steady is steadily improving.
+BEAR9|If you think about the year, second quarter was the peak of the of the bottom of the of the revenue decline.
+BEAR10|We were only at 10% of prior year revenues in the second quarter, the third quarter we are 20%, the fourth quarter in the fourth quarter, which is reported where at 30%, and we expect the first quarter quarter accordingly in to be about 40% so slow, steady decline.
+NEUT11|But we're improvements, but we really, really need.
+BULL12|The vaccine development to move at a much faster pace for us to hit the recovery targets.
+NEUT13|We all want to see.
+NEUT14|At you're expecting to burn between 10:00 and $15 million a day in the first quarter, and then potentially get to break even by the springtime end of the second quarter.
+BULL15|Are you still optimistic that can happen, that you can turn a profit starting in the second half of this year?
+NEUT16|I am Phil when you think about where we've come on cash burn in the fourth quarter or cash burn was $12 million day.
+NEUT17|Still a lot of money, but it was half of what it was just in the third quarter, which was 24 million and only 10% of what it was at the beginning of the pandemic, which was $100 million a day.
+BULL18|So we still have room to grow in terms of reducing costs and improving revenue, but I think by the time the spring comes, more of the world is going to have confidence in getting back out not just to travel, but in.
+NEUT19|Public life in general, but it's totally dependent on the deployment of the vaccines and confidence being restored in the public.
+NEUT20|Back half of the year as we continue to look for herd immunity.
+NEUT21|And I know Mr Frank is anticipating that by the summer.
+BULL22|We are hoping for that.
+NEUT23|That same outcome.
+BULL24|We can be profitable absolutely.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

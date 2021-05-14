@@ -1,0 +1,10 @@
+BULL0|"""Hey guys, welcome to another engine investing tutorial."
+NEUT1|This is Baird and today we're going to technical analysis of ticker symbol Jane ugh let's jump right into it.
+NEUT2|Before I start, if you find any of this information to be useful, be sure to like the video and leave a comment of what you think about Jane, ugh.
+BEAR3|OK guys, today we saw Jay knock down around 9% in the red closing the day at $6.30 and now in after hours trading about $6.29.
+BEAR4|We saw $6.30 tested several times today.
+BEAR5|The bullish pattern we have established over the past couple of weeks is still here, though even with this nasty closed the day down around 9% looking to the next week, I think it's probable we stay within this range of $6.30 and $7.00.
+BEAR6|Although a close below the $6.30 level will open the door to the 50% retracement at about $5.70.
+BULL7|We have established some footing though around the $6.30 level where if we can start making higher lows going into the next week we could see a couple of consecutive bounces around the $6.30 level.
+BULL8|The $6.40 level and the $6.50 level to then see a retest of the previous highs at $7.00.
+BULL9|"Thank you guys so much for watching and I'll see in the next video."""

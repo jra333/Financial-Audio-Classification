@@ -1,0 +1,17 @@
+NEUT0|"""Hello and welcome to today's technical analysis for October 16th, 2014."
+NEUT1|I'm Celina, Nicholas, technical analysts, that xm.com.
+NEUT2|Today we will look at Dollar Yen on the daily chart.
+BEAR3|USD JPY has dropped to as low as 105.19 yesterday.
+BEAR4|The short term bias remains on the downside as RSI's bearish and still falling.
+BEAR5|The stochastic is close to oversold levels, although it is.
+BEAR6|Exiting these extreme levels could suggest that the sell off has weakened a bit.
+BULL7|For now, we could see a bit of a bounce towards a 38.2% Fibonacci retracement level.
+NEUT8|This comes in at 106.53 and this would be a retracement from the 100.81 to the 110.08 up leg.
+NEUT9|Now in the near term, as long as the bearish bias remains.
+BEAR10|In the short term, the correction of the recent of this recent up leg could extend even lower down to the 61.8 fibbonaci retracement level.
+NEUT11|This comes in at 104.34.
+BEAR12|Anything below this would actually weaken the long term bullish market structure.
+BEAR13|Alternatively, we could we could actually see the market bottom around this level and see a rebound back to resume the bullish trend.
+BEAR14|In fact, the longer term is actually bullish, so a break above yesterday's high of 107.48 would indicate a weakening of this recent downside and a break of the key level at 108.
+BULL15|This important psychological level would actually accelerate upside momentum towards the October 1st high at 110.08 and this would reaffirm the long term bullish trend.
+BULL16|"Thank you for watching and have a great day."""

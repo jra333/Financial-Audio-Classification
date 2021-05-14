@@ -1,0 +1,27 @@
+BULL0|"""Stocks and commodities turning around today and showing some gains."
+NEUT1|Deborah cast and has the latest and the details from the New York Stock Exchange.
+BULL2|Deborah thanks, love him and you know it was a wild day in the markets.
+BEAR3|We started out lower after Cisco's earnings and of course commodity started out the day lower.
+NEUT4|But we saw the stock market turning around at one point.
+BEAR5|The Dow is down 92 points, so a nice move higher and the market turning around as commodities like gold and oil were bound.
+NEUT6|It also the dollar reversing and moving lower and the one thing when you look at this market over the past week traders say.
+NEUT7|That we're kind of seeing this unwinding of the commodity trade, because when you look at the moves in silver and say oil recently, we've seen some major moves that we typically never even see, and we see them in just a few days.
+BEAR8|And traders say that really just kind of proves that there's a lot of turning and people getting out of their positions.
+NEUT9|And definitely what we are seeing is a more commodity.
+NEUT10|The commodity sensitive stocks really driving the stock market right here.
+NEUT11|Pen alright.
+NEUT12|Deborah, so you're talking about all this churning and commodities where we seeing the most buying interest in plain old ordinary stocks, well?
+NEUT13|You know Pym?
+NEUT14|It looks like traders seem to be buying a lot of the consumer staples and the defensive type names.
+NEUT15|If you take a look at Procter and Gamble, Craft, Johnson and Johnson all hitting 52 week highs in today's session.
+BULL16|Also Colgate hitting a 52 week high even after saying that they really aren't seeing consumer resistance on higher prices.
+BULL17|Other consumer names hitting 52 week highs today, Polo Ralph Lauren Kellogg, General Mills and Amazon.
+BULL18|And if you also take a look at the retailers, looks like we're seeing some buying in the retailers as well and that is also a good sign that maybe.
+BULL19|People think that the economy is getting better.
+BULL20|The SP retail index also think it's 52 week high.
+BULL21|Stocks like Walgreen, TJ Maxx, Costco and $0.99 stores all hitting 52 week highs now.
+BULL22|Kohl's was higher, the stock not at a 52 week high, but they did release earnings and they raised their full year EPS.
+NEUT23|So some good news there for Kohl's, that's it from here of him.
+NEUT24|Now back to you.
+BULL25|Thank you very much.
+NEUT26|"Deborah cost reporting from the New York Stock Exchange."""

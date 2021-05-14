@@ -1,0 +1,31 @@
+BEAR0|"""2018 was a pretty rotten year for stock market investors."
+BEAR1|It's been a fairly long bull market in America, really since March 2009.
+BULL2|What I mean by bull Market is share prices have risen pretty steadily without a very big set back.
+BEAR3|So share prices in America have raced away from pretty much everywhere else from Europe from Japan from emerging markets.
+NEUT4|America's really been the place where stock market investors have wanted to be.
+NEUT5|The question is, is that going to be true in 2019?
+NEUT6|In a market that's coming pretty mature now, going into its 10th year, is there really very much upside from U.S. stocks anymore?
+NEUT7|You might want to start looking somewhere else looking at Europe, looking at emerging markets which haven't been rising quite as quickly and therefore a cheaper and better value.
+NEUT8|The other way of looking at things to say if things are getting risky after a pretty awful year like 2018, I might just want to double down on the things that have done well for me so far.
+NEUT9|Stick with America.
+NEUT10|Stick with technology stocks so called Fang.
+NEUT11|That's Facebook, Apple, Amazon, Netflix, and Google.
+NEUT12|These are the companies that investors think are going to do well, not just for the next few years, but for the next few decades.
+BULL13|The problem with that view is it does rely on the US economy continuing to do better than economies elsewhere.
+BEAR14|Most people think next year will be a slower year for U.S. economic growth.
+BEAR15|China's economy is actually being slowing down.
+NEUT16|And that's not just cause of Donald Trump's trade war.
+BEAR17|There's also been an underlying slowdown in consumer spending in the Chinese economy, and that hasn't just affected China that's affected.
+BEAR18|All the local emerging markets in Asia, and it's also affected Europe about a third of the profits that European listed companies make come either from China or from other emerging markets that are tide into China.
+NEUT19|So when China slows, Europe slows as well.
+BEAR20|The Chinese government is worried about the degree to which the economy has been slowing.
+BULL21|So it's been trying to Gee up the economy a little bit by cutting taxes by relaxing monetary policy, and by spending more on infrastructure.
+BULL22|If that starts to percolate through into the Chinese economy next year, you could also see growth picking up in economies that rely heavily on Chinese demand in Asia, but also in Europe.
+NEUT23|Half investors think it's best to stick with the US market and half of investors think it would be better to look elsewhere for growth.
+NEUT24|We're looking forward here and we don't really know what's going to happen.
+NEUT25|In 2019, investors always have to deal with uncertainty.
+NEUT26|What's the best way to deal with that?
+NEUT27|Well, in general it makes sense to try and spread your bets widely, not to put all your eggs in one basket as investors have been doing with the American market.
+NEUT28|Buy a basket of stocks that gives you exposure to a wide range of emerging markets and also a basket of stocks that gives you exposure to a lot of rich economies outside America.
+NEUT29|That's Europe and Japan and Australia spread.
+NEUT30|"Your bets is probably the best strategy for 2019."""

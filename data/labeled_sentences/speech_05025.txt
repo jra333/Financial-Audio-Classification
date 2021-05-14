@@ -1,0 +1,9 @@
+NEUT0|"""I had to ask of course about the mega deal with Meghan Markle and Prince Harry and how it came about."
+NEUT1|Gonna be epic entertainment.
+BULL2|So excited about that deal.
+NEUT3|Well look you know they're smart.
+BULL4|They were shopping it around across, you know all of the major companies and I think we really put together the best complete package and you know we're going to do a wide range of entertainment with them.
+NEUT5|I can't tell you any more than that about it this point, but I think it will be some of the most exciting most viewed content next year.
+NEUT6|And will Meghan Markle be acting in any of these productions?
+NEUT7|You know the real focus for them is on being producers and on building that production capacity.
+BULL8|"So that's the key thing is, you know they've developed a great eye for story and will be working with them on that basis."""

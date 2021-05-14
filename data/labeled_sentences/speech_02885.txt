@@ -1,0 +1,32 @@
+NEUT0|"""What does this mean for the stock of Tesla?"
+NEUT1|An for its sort of competitive positioning in future?
+NEUT2|Well, you know, expectations might have been going to the moon or to Mars in recent weeks, and this could just be Elon trying to kind of set some more realistic expectations.
+NEUT3|I'm expecting an event more like a chemistry class rather than something **** like the Roadster doing Donuts in front of a Hollywood crowd of glitterati excited over the next new product and that could be the rub for a retail investors.
+NEUT4|We're going to be talking about battery chemistry, potentially battery cost.
+NEUT5|These things are important for Tesla.
+NEUT6|And they are important for the automotive industry, but there are, you know, not as cool as a sports car as I understand it here.
+NEUT7|What is being discussed is a sort of a next generation battery that presumably has greater life, more power, whatever.
+NEUT8|The physics of it are, and that that that that what Musk is done is said.
+NEUT9|Wait a minute, hold your horses.
+NEUT10|We meant may not get this thing into production or full production until 2022.
+NEUT11|What will this new battery do when it does come fully online?
+NEUT12|And will it extend Tesla's lead?
+NEUT13|In this area.
+BULL14|Yeah, the expectations here and really what people are going to be looking for is it is he able to reduce cost further in those battery cells.
+NEUT15|That's been the name of the game for Tesla from the Get Go you remember the company was founded on the idea that it could bring electric cars in the market because it was going to use essentially laptop batteries off the shelf, an overtime.
+BULL16|They've improved those batteries beyond just that they've made some form changes, but the expectation for today is that we're going to see a bigger a bigger cell.
+BULL17|Potentially that would be easier to make, potentially have more energy in it, and that could be very key to the idea of bringing down battery costs in the future.
+NEUT18|Tesla doesn't just make its own batteries, does it?
+NEUT19|I mean, in other words, it goes to other suppliers for batteries as well.
+NEUT20|Right, you had on a good point there that was part of the key thing they were going to buy batteries from Panasonic, and that's what they've actually ended up doing.
+NEUT21|They buy from Panasonic, LG Chinese company as well, and what we're expecting today is to hear potentially that Tesla is going to start making its own cells.
+NEUT22|And that's really what Elon was.
+NEUT23|Actually kind of warning about last night is that he's still going to be buying cells from those suppliers.
+NEUT24|But the problem is.
+BEAR25|The demand for cells in the globe for other automakers an for Tesla is so large, he says he can't get the cells he needs for that future growth that he's anticipating.
+NEUT26|You have to remember, every automaker in the world is now essentially trying to catch up with Tesla in the world of electric cars, in part because of his success.
+NEUT27|But in part because of regulatory issues around the world, and so they're trying to gobble up those cells as fast as possible.
+NEUT28|And a key thing for Tesla in the past has been trying to own that supply chain.
+NEUT29|Elon Musk has wanted to boot.
+NEUT30|Want to do in in house?
+NEUT31|"Sell making the past and it could be that he's ready for that."""

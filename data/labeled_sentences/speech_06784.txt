@@ -1,0 +1,32 @@
+NEUT0|"""You can take a look at shares of Tesla."
+BULL1|They're up more than 7% premarket after the company on Friday while the market was closed, reported much better than expected deliveries for the first quarter.
+BULL2|So as you take a look at their full year deliveries over the last five years, keep in mind that we still haven't gotten a full guidance from the company in terms of what to expect this year, but for the first quarter of the company, reported 100 and 84,800 vehicles delivered far better than the expectation of 100 and 72,000.
+NEUT3|Now almost all of those were Model 3 and model wise.
+NEUT4|I know you're going to be talking with Dan.
+NEUT5|I've shortly.
+BULL6|He put out a note over the weekend saying the trajectory based on the first quarter deliveries now puts Muskan company to exceed 850,000 vehicles delivered for the year, which is well ahead of Whisper expectations.
+NEUT7|By the way, those whisper expectations close to 8 thirty 825.
+NEUT8|It moves around quite a bit, but that's where most of the street or expecting it right now.
+NEUT9|And by the way, as I said earlier, as you take a look at shares of Tesla, the delivery guidance for this company this year has been vague.
+NEUT10|All they said is that they expect a 50%.
+BULL11|Increase in deliveries annually, give or take.
+NEUT12|Some years will be a little more, some years a little less so.
+NEUT13|We haven't had a definitive number from Tesla so far.
+NEUT14|Did you see this over the weekend?
+NEUT15|I want to shift gears and talk about General Motors and the new GMC Hummer SUV V. Yes, you might be saying to yourself.
+NEUT16|Wait a second, didn't they already show us this?
+NEUT17|Well, what they showed us with the electric sut because it was a truck.
+NEUT18|It is a truck and it has a flap in the back.
+NEUT19|This is an SUV.
+NEUT20|It will come out in 2023.
+NEUT21|The first editions will start at $110,000 in the head of GMC believes the market is just starting to heat up for EV's.
+BULL22|You can just see really all the big manufacturers and obviously a lot of the new startups as well are really racing forward, and I think that's going to mean the adoption rates for EV vehicles amongst the general buying public will probably pick up speed and progress quicker than maybe people were thinking just one or two years ago.
+NEUT23|As I mentioned, these Hummer SUV's they will roll out in 2023.
+NEUT24|Look at this chart for General Motors over the last six months.
+BULL25|A nice move higher.
+NEUT26|This is the beginning of this cadence of vehicles.
+NEUT27|Guys that we've talked about that General Motors will be rolling out starting later this year with the Cadillac Lyric and then progressing.
+NEUT28|Including these Hummer Sut S&SUV's as well as other electric vehicles, really the start of GM rolling out more SUV's in and trying to make a true play.
+NEUT29|When it comes to electric vehicles over the next couple of years.
+NEUT30|Shepard Smith here.
+NEUT31|"Thanks for watching CNBC on YouTube."""

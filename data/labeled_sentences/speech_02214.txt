@@ -1,0 +1,19 @@
+BULL0|"""Leading the country in new coronavirus cases."
+BEAR1|For the past several weeks and in the last 24 hours, the state has reported more than 11,000 new covid cases.
+BULL2|That is the highest single day record since this pandemic began.
+NEUT3|More than a year ago, and doctors here at Sparrow Health tell me that the majority of patients that are filling their hospital beds right now are not those older patients that we saw early on in the pandemic.
+NEUT4|But they are people under the age of 50.
+NEUT5|Those who have not yet had an opportunity to be vaccinated yet.
+NEUT6|Now the good news is Michigan.
+BULL7|This week has expanded their vaccine eligibility to include anyone over the age of 16 and doctors and elected officials are hopeful this could help to curb some of those numbers.
+BEAR8|But many folks tell us it will get worse here before it gets better.
+NEUT9|Take a listen to what one doctor shared with us.
+BULL10|If our predictions continue to hold, we will significantly exceed the peak we had before.
+NEUT11|So part of us.
+NEUT12|In our leadership role is to remind people of the reality of how pandemics and viruses work, which is to remind them that until we have a place where everyone has been immunized or the vast majority of us have that we will always be vulnerable for this and shop.
+NEUT13|Of course, with increased access to the vaccine comes the question of whether or not supply will be able to meet the demands.
+NEUT14|We know that the White House is sending an additional 60,000.
+BULL15|Doses of the vaccine 2 Michigan this week, but the state still has a long way to go, and getting everyone here fully vaccinated.
+BULL16|Chef Priscilla thanks.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

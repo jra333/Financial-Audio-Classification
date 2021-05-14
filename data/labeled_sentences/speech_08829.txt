@@ -1,0 +1,24 @@
+BEAR0|"""What indication do you know of yet despite how early it is on the coronavirus impact on some of these e-commerce companies in China, well, I mean, we're seeing a mixed bag of results."
+BULL1|There are some parts of e-commerce that are benefiting, and there's obviously lots of parts that are that are hurting from the coronavirus, and I think it's it's also very clear that the coronavirus is going to affect China and global GDP for this year, and I think it would be meaningful, but we'll see how I think.
+NEUT2|We'll have to see what Alibaba has to say tomorrow about how it's affecting their core business.
+NEUT3|Is on the surface.
+BULL4|Kevin Online shopping would appear to be virus proof to a degree, but as there is significant supply chain exposure risk here for Alibaba.
+NEUT5|There's no doubt there's a significant supply chain risk, and there's also a significant demand risk.
+BEAR6|I mean, if you're quarantined at home and you're worried about being that way and unable to work for any period of time, the odds are your expenditures on non necessary items is going to go down, so I think.
+BEAR7|My guess is it's going to have a net negative effect on on Alibaba and on the industry, but remember this is a sector that's growing at 30% top line so you know even a material impact that it will still be the fastest growing sector in the world I believe and I want to talk about that growth rate because at least here in the US you're starting to see big tech companies really stall out.
+NEUT8|You're not getting that 30% growth rates anymore.
+NEUT9|Is that different over in the emerging markets?
+NEUT10|With companies like Alibaba, you're still getting the cloud growth and that e-commerce growth at high double digits.
+NEUT11|It's decidedly different.
+NEUT12|I mean, 85% of the world's people live in emerging markets, and while we've had computers and access to the Internet for 25 years, most of the world Western China, India, Africa, they're getting their first ever computer.
+NEUT13|It's a $50 Android based smartphone and their first ever Internet access, and so they're becoming consumers as digital natives and leapfrogging.
+NEUT14|So the one sort of sub.
+NEUT15|Part of the story that is really quite big right now and showing up is fintech.
+NEUT16|Mobile payments and Alibaba and Tencent really own that part of the market in China, so I think that I think it is different for these companies.
+NEUT17|Yeah Kevin, these parts of the business are on the smaller side for Alibaba.
+NEUT18|It's away from the core, but what is the outlook for cloud and for Fintech, how important is it going to be coming in the future?
+NEUT19|Well, the cloud obviously is a big deal everywhere, and Alibaba's cloud business is, I think you know, likely to grow at over 50% again in the quarter there bout to report an and it has a long way to go, and an fintech, Alibaba's fintech businesses, Alipay and it's I think last valuation was at $150 billion.
+NEUT20|And I think also they just sort of streamlined or clarified their equity position in that business, which I believe is about a third so.
+NEUT21|It's a big deal and we just we don't see it.
+NEUT22|How big of a deal it is to the rest of the world because our consumption, infrastructure, our bank account.
+NEUT23|"So everybody's got a card in their pocket and so I think it's it's big and getting bigger quite rapidly."""

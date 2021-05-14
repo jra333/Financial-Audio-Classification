@@ -1,0 +1,35 @@
+NEUT0|"""Very low and very long."
+BEAR1|One of the problems for pension funds is the lack of income available on long dated bonds.
+NEUT2|But are they in fact part of the problem due to the way regulators make them behave?
+NEUT3|To think about that question, we're joined by Mark Dowding of Blue Bay Asset Management, where he is Co head of investment grade debt.
+BULL4|Thanks for joining us much.
+BULL5|Well thank you Dan.
+NEUT6|So what is the problem here?
+BEAR7|Is that pension from buying of long dated bonds is pushing down yields exactly pension funds are being obliged to match their liabilities with similar data.
+BEAR8|Assets, consequently, with yields going lower and lower, with pension funds moving into deficit, we're seeing a situation that as yields go down, this is actually exacerbating further demand for these long dated securities.
+BULL9|Driving up the level of prices when they have never been higher.
+NEUT10|So so if you're a pension, funds with, say, 40 years of promises to retirees, the regulator is basically saying, well, you should buy 40 year bonds to match them, or 50 year.
+NEUT11|Exactly.
+NEUT12|That's exactly the concept.
+BEAR13|And we've got a chart here which shows the effect that this has been having in the market, and what you can see on the graphic here is the level of 50 year borrowing rates has actually fallen to an unprecedented low level of nought.
+NEUT14|.9% as we stand today.
+NEUT15|And this is this is the swap spread.
+NEUT16|So this is, I agree to give you whatever this rate is for 50 years and you give me back.
+NEUT17|The floating rate is that exactly?
+NEUT18|But don't over complicate this.
+NEUT19|Just think of this as the 50 year borrowing costs that investors face.
+NEUT20|Or in other words, savers saving for 50 years.
+NEUT21|This is the level of returns that affectively are being locked in by transacting at these low levels of yield.
+NEUT22|So less than 1% for 50 years.
+NEUT23|Well, what does that mean?
+NEUT24|Well, this means almost in the next 50 years interest rates are never going up ever again.
+BEAR25|If you think about yields where they stand today, these are far below the expected level of inflation.
+NEUT26|As per the Bank of England inflation target so.
+BEAR27|Aww, infer that effectively what we are seeing as a result of QE as a result of pension fund regulation is a situation in the market where you end up with excessive demand, driving yields to levels which are unrealistically low, and I think this is to the detriment both of savers, but also to underlying businesses as well.
+NEUT28|So what's the solution here?
+NEUT29|Do you?
+NEUT30|Do you stop forcing pension funds to buy this sort of debt essentially?
+NEUT31|I would infer that if you capped or set of floor rather for the minimum level at which you were going to discount those liabilities, actually you would actually reverse some of these problems.
+NEUT32|For example, I would say that it would make sense to have a floor on the rate of which you are discounting liabilities at a level which is similar to the Bank of England inflation target at 2%.
+BULL33|Well, hopefully something will be done.
+BULL34|"Thanks a lot for that."""

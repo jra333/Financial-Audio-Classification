@@ -1,0 +1,23 @@
+NEUT0|"""Or can you accidentally go dancing?"
+NEUT1|You're teaching your maximizer.
+BULL2|Shen Long is a fund manager who has profited greatly from playing the market in this Chinese boom town, across the border from Hong Kong.
+BULL3|Shenzen has gone from a small fishing village just three decades ago to teaming city of 10 million and emerging tech hub home to some of China's most prominent companies, like Wild Way Technologies and China's most active Stock Exchange.
+BULL4|Now the 3.2 trillion exchange is about to open its doors wider to foreign investors.
+BULL5|This year, China will open a stock trading link allowing global investors greater access to the Shenzen market via Hong Kong.
+NEUT6|The Shenzhen, Hong Kong Stock connect.
+BULL7|The generated excitement because it's access to China's new economy.
+NEUT8|Companies, mainly private firms seen, is driving China's future growth.
+NEUT9|About 1800.
+NEUT10|Companies are listed on this engine Stock Exchange nearly a fifth of them are tech stocks, many founded by individual entrepreneurs.
+NEUT11|By comparison, the Shanghai Stock Exchange is dominated by state owned industrial firms, but the Shenzhen Exchange has a reputation for moving to a different rhythm than what many US investors are familiar with.
+NEUT12|While professional funds dominate U.S. markets, more than half of the Shenzen markets investors are individuals who trade frequently, leading to more volatility.
+NEUT13|Professional traders in Shenzen said they must be in tune with capricious investor trends in order to profit.
+NEUT14|Shenlong founded his fund management company Uni Huger, in Shenzen in the early 2000s, beginning with money raised from friends and businessmen.
+NEUT15|Today he is multiplied these assets to around $600 million.
+NEUT16|A Tai Chi practitioner, Mr. Shen, says the key to trading in China is keeping a clear mind.
+NEUT17|To do that, he relies on the philosophy of the Chinese martial art and looks for inspiration poems, one emptiness and another on fullness.
+NEUT18|Hang on his walls.
+BULL19|He credits these methods with helping him avoid a 50% market crash.
+NEUT20|Last year, woman bunk with people evil.
+NEUT21|Teen year tradition.
+NEUT22|"How you Duncan is she in China?"""

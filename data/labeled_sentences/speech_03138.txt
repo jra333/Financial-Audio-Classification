@@ -1,0 +1,35 @@
+NEUT0|"""That's part of it."
+NEUT1|That's certainly argument that Charlie Evans, who Steve Noses spoke with, has argued John Williams as well.
+BEAR2|The economy looks good at the moment, but a lot of the survey data looks a lot softer.
+BEAR3|We had some information this week from Cass, the freight company that showed a significant fall off in activity and with inflation undershooting.
+NEUT4|And the trend Melissa probably being lower, the Fed is being prudent I think, and is trying to be forward looking.
+NEUT5|And that's why I will cut.
+NEUT6|We've seen that also in some of the earnings that mean whether it be CSX, which is.
+BEAR7|Down a lot today we heard it from Fastenal which is able to pass through some price increases, but also saw not just the impact of the terrorists but also cost inflation and that they are limited in terms of how much more they can pass on.
+NEUT8|What's your take from this and how do you translate it into what we're seeing in earning season so far?
+BEAR9|Well, I think it's clear that this report sort of supports what the market's been saying for quite some time now, which is growth is slowing inflation is undershooting, persistently undershooting, and the risks are to the downside we've seen again this uncertainty impact capital spending we've seen.
+BEAR10|Slow down and trade related activity.
+NEUT11|You reference CSX and some of the other indicators, earnings and macro indicators that we've seen that's already priced into the market.
+BEAR12|Melissa, so I think expectations for earnings are already very reasonably low, so as these reports come out, we see some misses and some minor market adjustments as a result, but I don't think anyone's expecting anything heroic from earnings this season.
+NEUT13|Steve, you want to jump in here?
+NEUT14|Yeah, I just want to point out if Joe is right and I'm not saying he's wrong.
+NEUT15|I will point out Joe is a.
+BEAR16|Participant in our CNBC rapid update, which is running the media, is running 1/8 for the second quarter and Joe is down at one, so he's on the pessimistic side.
+NEUT17|If Joe is right though Joe, it would be the most exquisite bit of timing where the Federal Reserve is cutting interest rates right at the absolute peak of the job market.
+BEAR18|I've not seen a Beige Book go at length about the tightness of the job market.
+NEUT19|I think almost ever if you read each individual entry from each of the districts, which I did so you don't have to Joe, even though I know you will.
+BEAR20|But the things that the employers are doing, training programs, extended parental leave all over the country here, it seems like you have this worker shortage and so the Fed would be cutting rates would seem to be at the peak of employment here.
+NEUT21|Yeah, I mean, those are fair comments.
+NEUT22|Janet Yellen.
+BULL23|I was like what Janet said when she said that the tight labor market be the best job training that we that we could get.
+NEUT24|And maybe that's what's happening.
+NEUT25|Perhaps in the Minneapolis district as you were reporting the one thing we've sort of forgetting again is the yield curve.
+NEUT26|And that yield curve is extraordinarily flat.
+BEAR27|It's inverted in most pockets, and that to me is a telltale sign of where the direction of GDP is going.
+BEAR28|And the fact that the Fed has not been able to generate more cyclicality, and we've got weakness in housing, which people aren't really talking about.
+BEAR29|It's always about the trade, but the housing numbers today were really soft.
+BULL30|That's a function of mortgage rates having risen a lot last year.
+NEUT31|This economy I don't think is as robust as people believe, and therefore need some help.
+NEUT32|So you say, cut the rates 50 half point.
+NEUT33|I'd like him to go.
+NEUT34|"50 absolutely."""

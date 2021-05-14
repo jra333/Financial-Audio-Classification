@@ -1,0 +1,15 @@
+BULL0|"""Vechain price shows signs of continuing its stellar momentum as it approaches the end of a 220% bull rally."
+BULL1|Vechain Price aims higher.
+BULL2|Vechain Price has appreciated over 40% in the last week as it hovers around $0.08.
+BEAR3|Interestingly, this zone coincides with a 100% fibo Nachi retracement level and breaching it could trigger the final 28% ascent.
+BULL4|From late December 2020 to date, Vechain Price has been on a constant bull rally with higher highs and higher lows, creating an ascending parallel channel.
+NEUT5|The recent tap at the lower trend line of this setup was seen on February 28th.
+BULL6|Since this bounce, vet bulls have pushed the price up by 145% to 0.080 dollars.
+BULL7|Hence vets market value needs to appreciate by another 28% to hit its intended target at 11 cents.
+NEUT8|Coinciding with the 127.2% Fibo Nachi retracement level.
+BEAR9|Nonetheless, the MRI's breakout line at $0.10 could be a double edged sword that could affect the rally.
+BULL10|If Bulls conquer it, Vechain has a high likelihood of continuing its ascent.
+BULL11|Else the altcoin could tumble, therefore a spike in buying pressure, leading to a decisive daily candle stick close above this barrier is crucial.
+BEAR12|However, investors need to note that the MRI indicator has flashed not one but two cycle top signals, and suggests that the rally is overextended.
+BEAR13|So if it drops below 78.6% fever Nachi retracement level at 0.069 dollars, it could invalidate the bullish outlook.
+BEAR14|"In such a scenario, Vechain price could continue its descent to 61.8% Fibo Nachi retracement level at 0.059 dollars."""

@@ -1,0 +1,44 @@
+NEUT0|"""This is interesting."
+NEUT1|Michael Bloomberg's campaign manager admitting the obvious about 2020.
+NEUT2|We've got the details before I dive into them.
+NEUT3|Please check to make sure you are still subscribe to our channel notifications turned on.
+NEUT4|If this is your first time watching tap that red button down below to subscribe for real news and opinion everyday, Colin Rug for Trending politics reports that happened on Monday during an interview with Bill Hemmer.
+BEAR5|Well, Fox News 2020 Democrat presidential candidate Michael Bloomberg's campaign manager made a shocking admission when you claim if the 2020 election were held today, President Trump would win.
+NEUT6|Yeah, watch.
+NEUT7|With some people have quoted him on the truth is he is said I want to run a campaign to get my message out to make a difference in this country and I'll spend whatever it takes.
+NEUT8|You just heard from the Trump team a moment ago.
+NEUT9|I'm sure you're watching Brad Parscale said he's not worried about Michael Bloomberg.
+BULL10|Well I think listen, I think Brad's running a great campaign.
+NEUT11|I think what you didn't ask him, you should ask him next time as Brad is not running a national campaign.
+NEUT12|Brad is running a campaign in six States and he's doing that exceptionally well and right now with the election was held.
+NEUT13|I think President Trump probably is reelected, and that's one of the reasons Mike Bloomberg got into this campaign.
+NEUT14|The only states that really matter.
+NEUT15|Wisconsin, Michigan, Pennsylvania, North Carolina, Florida.
+BEAR16|In Arizona, in a general election, we as Democrats have made a terrible mistake in focusing two years in the state of Iowa.
+NEUT17|Right now, if the election were held, I think President Trump probably is reelected.
+NEUT18|Bloomberg's campaign manager said it right there.
+BEAR19|Now, President Trump has been very critical of Bloomberg in recent weeks.
+NEUT20|After the former New York City mayor have been spending money on misleading ads, President Trump tweeting this mini.
+NEUT21|Mike Bloomberg ads are purposefully, purposely wrong.
+NEUT22|Avanti project for him to get into the game.
+NEUT23|Nobody in many years has done for the USA.
+NEUT24|What I've done for the USA, including greatest economy in history.
+BULL25|Rebuilding our military biggest ever tax and regulation cuts and 2nd Amendment.
+NEUT26|God bless President Trump will see you at the next report for the next news network.
+NEUT27|I'm Gary Franchi.
+NEUT28|Now that report is over.
+NEUT29|I want you to tap that link down below to be recognized during our live broadcast at one of the most important events of the 2020 election season.
+BULL30|I'm talking about the conservative political action conference and as the first conservative news YouTube channel to break 1 billion views, we have secured a high tech media broadcast booth at CPAC alongside Fox News and Judicial Watch.
+NEUT31|To reach disaffected conservative voters who only get their news from You Tube, your sponsorship of our CPAC attendance is critical to reaching those voters now 10 years ago we went to CPAC and we got the video footage of then real estate billionaire Donald Trump.
+BULL32|We interviewed Andrew Bright part and others now with your help we will return stronger than ever together.
+BULL33|You and I will ensure a Trump 2020 victory by teaching.
+BULL34|In reaching new viewers to support the America First agenda, your donation will help secure critical broadcast equipment, airfare, accommodations and pay for our on site production crew.
+NEUT35|We've got a big number to raise friends an every single dollar counts, so hit the link below to chip in whatever you can to help reach the American people who have cut ties with cable news.
+NEUT36|So tap the link below, leave your mark and learn how you can have a personal recognition during this.
+NEUT37|Historic upcoming live broadcast hit the link below and we'll see you in the next report for the next news network.
+NEUT38|I'm Gary Franchi.
+NEUT39|Thank you for watching that report if you want more subscribers.
+NEUT40|The channel by clicking on the next news network logo right here.
+NEUT41|You can also watch our latest news reports by clicking here.
+NEUT42|Or you can get the latest breaking news by clicking here or the most viral news in the channel.
+NEUT43|"The news of Hillary and Obama hate right here."""

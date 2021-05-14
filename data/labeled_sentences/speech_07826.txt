@@ -1,0 +1,24 @@
+NEUT0|"""I'm going to get into stocks now."
+NEUT1|Derek, what would you be looking at at the moment?
+NEUT2|I guess at this evening I'm going with an offshore company called Intel.
+BULL3|It's a very well named worldwide.
+BEAR4|It's obviously been in the tech industry for many many years, and the company kind of suffered for quite some time as we saw this big sort of tick up and taken as they're kind of adapted to the environment that we exposed to and that we know too.
+BULL5|Today there is a little bit of a rejig going on in the company at the moment where there's a new CEO coming in, and I certainly think he's going to bring about a little bit of flair to the company that's going to give it.
+BULL6|A different trajectory looking forward, so I'm excited about that.
+NEUT7|I'm kind of positioning for it.
+NEUT8|It is not a demanding valuation when you just look at the earnings and the cash flow that it does generate, so I'm kind of taking a small sort of value pick within the tech space on it and my stock pick tonight is Intel.
+NEUT9|Yeah, value picking tech stocks, not necessarily to the words that you would put together at this stage.
+NEUT10|Nick, how about you?
+NEUT11|Well, I'm joining Derek and in the scenes of my stock pickers offshore and I'm probably joining with an idea of going into a company that I think is, you know, taking a bit of a beating through the pandemic.
+NEUT12|And certainly you know 20% off where it was trading before the pandemic started and that is a pharmaceutical large pharmaceutical company called Merck listed in the US.
+NEUT13|You know recently gave out a set of results, probably through the course of the pandemic loss around 5% of its top line due to the pandemic, but I think.
+NEUT14|As we watched more and more of these sort of accent vaccines happen, especially in the developed world and the world returning to normal, I think this is certainly a stock that compare play a lot of catch up moving forward.
+BULL15|So pretty excited behind it again, not trading on a rich multiple at all, even though its earnings or somewhat depressed in the cycle.
+NEUT16|It's at a bit of a discovery, its history and relative to its peers.
+BULL17|So I think looking very attractive with these levels.
+BULL18|OK, James, thank you very much.
+NEUT19|I will leave it there.
+BULL20|Lovely to see you both this evening.
+NEUT21|Nick Rail is over experts and investments directly answer phone rings, book from anchor.
+NEUT22|Alicia will be back tomorrow evening to take more of your questions.
+NEUT23|"Have a good night."""

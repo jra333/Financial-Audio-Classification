@@ -1,0 +1,34 @@
+BULL0|"""The area is red hot real estate market is showing no signs of slowing down."
+BULL1|Some homes are getting dozens of offers.
+NEUT2|And one way that buyers are making themselves stand out is by waiving contingencies.
+NEUT3|Tonight in our original series project Home KPIX 5 Susie Steimle breaks down the risk that real estate agents say could lead to lawsuits.
+NEUT4|On an album of Emotion, Kaguya first started looking at homes in November, they've placed seven offers an been outbid every single time.
+BEAR5|In some cases, actually have decided not to offer because we know we're going to lose out.
+NEUT6|So they're looking at every possible way to sweeten the deal.
+NEUT7|Were 49ers season ticket holders.
+NEUT8|So we included 49ers season, not game one game of your choice for 2021 regular season.
+NEUT9|We just did that this morning on top of tickets they're planning to offer over listing whenever possible, plus something they've never considered before.
+NEUT10|Dropping all contingencies does that worry you?
+NEUT11|Welcome back to that.
+NEUT12|But first, the most common types of home buying contingencies are financing, meaning the sale only goes through once the buyer has been approved for a loan inspection where buyers can back out if an inspection reveals a problem that they weren't aware of, or they can demand that the seller make repairs appraisal, the home must appraise for equal or higher value than the offer and home sale.
+NEUT13|The buyer can stipulate that the deal won't go through until they sell their current home.
+NEUT14|It's now common practice.
+NEUT15|To waive all of these well, our agents are basically asking the first question is just how uncomfortable do you want to get Earl?
+NEUT16|Roslyn is the VP of Experience at Serena Real estate.
+NEUT17|His main concern is the amount of money buyers stand to lose with these non contingent offers should they need to back out.
+NEUT18|Their deposit is very likely to go to the seller and 3% of $1,000,000 is $30,000.
+NEUT19|That walks out of your bank account.
+NEUT20|Whatever you decide you don't like about the property, there is no out so you have to walk away from the deposit.
+NEUT21|You have to walk away from an essence $50,000.
+NEUT22|Michael Delahanty is a real estate agent out of Walnut Creek.
+NEUT23|He says this market is unlike anything he's seen in his career.
+BEAR24|He hates the idea of dropping contingencies.
+NEUT25|It puts your client at risk.
+NEUT26|You know my job is to protect my clients interests.
+NEUT27|Getting the house they want.
+NEUT28|I think agents are going to find themselves in court as some point.
+NEUT29|I don't know when, but I think it's going to happen.
+NEUT30|And As for whether Robin of emotions are comfortable with this risk, we've just gotten over it a little bit more, just like whatever it takes to get the home that we want to get.
+NEUT31|It's just the way the market is, according to the National Association of Realtors, 76% of home sales in 2020 had contingencies attached, but 9% of those home sales did fall through.
+NEUT32|Largely because those buyers in 2020 last work during the pandemic pre pandemic terminations looked more like 2%.
+NEUT33|"Susie Steimle KPIX 5."""

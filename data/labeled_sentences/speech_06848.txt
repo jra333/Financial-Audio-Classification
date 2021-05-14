@@ -1,0 +1,62 @@
+NEUT0|"""Are you saying buy gold bullion or buy?"
+NEUT1|A gold ETF is the conditional correlation between the time you really want your gold and the time the banks are closed.
+BEAR2|So that's the worst place to put it.
+NEUT3|People always want to put words in your mouth to God.
+NEUT4|Jim records sell everything and buy gold.
+NEUT5|I never said that.
+BEAR6|I think it's a really bad idea with some bad stuff on the horizon.
+NEUT7|We don't know how it's going to sort out, but this is just not sustainable, correct?
+NEUT8|And there's no realistic way out of this.
+BEAR9|There's certainly no leadership to get us across the finish line, that's for sure.
+NEUT10|So you know you talk about some options.
+NEUT11|I'm not going to give away.
+NEUT12|You gotta get the book, but I had a couple of questions for you about your options.
+NEUT13|When you talk about gold, are you saying buy gold bullion or buy?
+NEUT14|A gold ETF?
+NEUT15|Or is that pointless?
+NEUT16|You know, an ETF that tracks gold?
+NEUT17|Because when the crash is here, you're not gonna be able to get it out anyway.
+NEUT18|Are you saying try and buy actual gold bullion?
+NEUT19|I recommend investors buy physical gold.
+NEUT20|Bullion could be coins, bars you need a safe place to put it.
+NEUT21|Don't put it in the bank's.
+NEUT22|There's a.
+NEUT23|There's a conditional correlation between the time you really want your gold and the time the banks are closed.
+BEAR24|So that's the worst place to put it.
+NEUT25|But yeah, you need a custodian or some some arrangement that's safe to put your gold.
+NEUT26|Now look if you're a trader or a hedge fund, or you just want price exposure and for sure period of time.
+NEUT27|Find nearby and ETF by a gold Futures contract or whatever.
+NEUT28|But if you want to preserve wealth and participate positively, and what could be some very bad outcomes, you want the physical volume, but just to be clear, I recommend 10%.
+NEUT29|You know, people want to put words in your mouth ago, Jim Rickards sell everything and buy gold.
+NEUT30|I never said that.
+BEAR31|I think it's a really bad idea.
+NEUT32|My advice is my recommendation will be by up to 10%.
+NEUT33|That's enough.
+NEUT34|So if I'm right, and obviously I think I am right, it wouldn't be saying this.
+NEUT35|But if I'm right about gold going to.
+NEUT36|10 or $15,000 announced in the next several years, you're going to make so much money even on a 10% allocation.
+NEUT37|That's basically going to insulate the rest of your portfolio if I'm wrong, which I don't think I am.
+BULL38|But you're not going to get hurt too badly with the 10% allocation, so that's the right amount in this room for equities.
+NEUT39|But I also recommend a big slug of cash because people cash has no yield.
+NEUT40|I was like, well, OK, but we could be in for deflation, not inflation, and in deflation.
+BULL41|Cash can actually be your best performing asset because the real value is going up.
+BULL42|Your purchasing power is going up, so it makes it a winner and also reduces portfolio volatility and finally, cash has embedded optionality.
+NEUT43|If you're the person with cash, visibility is not great right now I do forecasting all day long, but I would say that there's a very high degree of uncertainty that'll become more clear with the passage of time.
+NEUT44|So if you're the person with cash as you get visibility, you can pivot.
+NEUT45|Maybe you want to buy more gold.
+NEUT46|Maybe you say, hey, it's all good.
+NEUT47|Let's buy some stocks.
+NEUT48|Maybe it's time to buy private equity.
+NEUT49|You have those choices, but if you if you put all your bets down now, it can be very difficult to get out of them if you change your mind.
+NEUT50|You know Henry Kravis runs a good private equity fund, but don't try getting your money back early from from Henry Kravis, but not before seven years.
+NEUT51|So cash gives you that optionality that that lets you be the shopper be the buyer when everyone else is selling, for example, and Treasury notes will do well because interest rates are going to go lower.
+NEUT52|So the slice of equities.
+NEUT53|A slice of Treasury notes.
+BULL54|Big slice of cash.
+BULL55|10% gold yeah, in this room for some residential real estate.
+BULL56|Not commercial real estate that has not hit bottom but residential real estate and certain cities should do well.
+NEUT57|Hi, this is Allison Winner take all.
+BULL58|Thanks for joining us.
+NEUT59|Hope you enjoy the content.
+NEUT60|Feel free to leave a comment.
+NEUT61|"Ask us questions and definitely make sure to join us on our next live stream."""

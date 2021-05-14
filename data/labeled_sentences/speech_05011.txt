@@ -1,0 +1,17 @@
+NEUT0|"""Well, just getting them now and it looks like a miss on the bottom line, but a small beat on the top line."
+BEAR1|Earnings per share coming in at $5.22 versus $5.57, which was expected.
+BULL2|Revenue coming in at $63.4 billion, representing growth of just under 20%.
+BULL3|And that is higher than the 62.48 billion expected now.
+NEUT4|This shouldn't come as a huge surprise in the after hours.
+BEAR5|You see Amazon down about 1% the street was expecting profits to come down a little bit here as they go into spending mode.
+NEUT6|Will continue to dig through these numbers and bring you.
+NEUT7|More on Amazon Web Services.
+NEUT8|Advertising on line sales.
+NEUT9|All of **** **** them down get back to you guys.
+BEAR10|Alright Deidre, thank you very much Mike 20% revenue growth amiss though on the bottom line has shares down a little bit after our modest move.
+BULL11|At this point I think you'd have to say is up by 4% this month stocking so doesn't change the overall picture without looking too far below the surface.
+BULL12|20% is better than expected.
+BULL13|Top line growth and I do think that that's going to be the anchor number here.
+NEUT14|You know the earnings we always talk about.
+NEUT15|It's almost the residual.
+NEUT16|"For Amazon, it's not like they target, you know, making the number, but here we are a little short."""

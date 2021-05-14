@@ -1,0 +1,30 @@
+NEUT0|"""Welcome back to Yahoo Finance live here."
+BULL1|Want to spotlight Tesla shares hitting an all time high today.
+NEUT2|Up hitting was 525 just a moment ago.
+BULL3|Sacher still up by about 6%.
+BULL4|It hit that all time high on the back of Wedbush is Dan Ives boosting his price target on the EV automaker.
+BULL5|I was upped his price target in a base case to $560.00 a share from $500 a share in his bull case target by 25% to $1000 a share.
+BULL6|Up from $800 a share there in that case in the KIKO, I mean when we talk about Tesla, it's interesting 'cause people said the rally was out of juice when they did that stock split earlier this year.
+BEAR7|That was wrong.
+BEAR8|They said it was out of juice when it got that S&P 500 inclusion.
+BEAR9|That was wrong.
+NEUT10|But I've said case here is call comes down to China still being a large growth opportunity for Tesla, but there's a lot of competition there.
+NEUT11|So the question is, will that one be wrong?
+NEUT12|Yeah, and let's just point out even with those Tesla naysayers.
+NEUT13|Dan Ives has always been a Tesla bull and he's basically saying that look is in his most bullish case.
+NEUT14|This stock could go to 1000 share you point to that China story that he is quite bullish on looking ahead to 2022.
+NEUT15|He says 40% of its EV deliveries for Tesla could be out of trying to force.
+BULL16|We have seen Tesla really expanding its footprint in China, building out that factory in Shanghai.
+NEUT17|And, you know, I was thinking about this ring.
+NEUT18|This note today that.
+NEUT19|In many ways, a lot of these EV players of the stars of kind of lined up over the last several weeks we know, and as Fraser highlighting that in her market hits talking about the Neo is talking about the Expunction, the Byd's of the world, how they have seen strong come through as well.
+NEUT20|So you know, maybe then I've sort of looking at that as well, seeing the strength for Tesla in the region.
+NEUT21|And of course China being the largest TV market.
+NEUT22|If you can really capture that market, the upside is really significant.
+NEUT23|I should point out though.
+NEUT24|Even with that $1000 shot share in in his most bullish case, we still have Tasha Keaney or Overmark investment as she comes on frequently on our show.
+NEUT25|She's got a $7000 price target in her most bullish case, so there's still those who are way more bullish than Dan Ives.
+NEUT26|But certainly China seems to be the biggest upside that he sees for the company right now.
+BULL27|Yeah, important to put that in perspective as high the $1000 a share sounds, not the highest we've heard, but also still hinges, or rather largely on that China opportunity.
+NEUT28|We shouldn't overlook also the fact that he highlights the cyber truck amount of why could potentially also drive that, not just the Model 3 there in China in terms of future growth prospects there for Tesla to achieve its million delivery unit goal by 2023, they say 2022 is not out of the question, at least if you if you take Dan Ives word there will see what happens.
+BULL29|"Of course, Tesla still at all time highs, so if you want to be against it, you're going up against that."""

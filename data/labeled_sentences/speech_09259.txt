@@ -1,0 +1,33 @@
+NEUT0|"""Today on Finn shoot, we're going to learn how to use FX forecasts on Bloomberg to find forecasts for foreign exchange."
+NEUT1|Simply simply type simply type FX.
+NEUT2|Forecast.
+NEUT3|And you'll see it brings up FXFC.
+NEUT4|I'm going to click on FXFC and straight away it brings me to an overall view.
+NEUT5|Of forecasts, you'll see that each currency has a series of numbers that go from current period out too along date forecast.
+NEUT6|Contributor is by bank or organization and then you can obviously select by G10 or region.
+NEUT7|In this case, let's keep it at G10 and we might have a look at.
+NEUT8|The Australian dollar.
+NEUT9|If we click on the Australian dollar, what we can see is it will bring up the banks that forecast.
+NEUT10|For us and what they produce, we can also see their forecast in the median mean high low and where the current forward market is relative to where the forecasts are.
+NEUT11|We all can also see the organisations that are contributing to the forecast panel and where what they're saying.
+NEUT12|On the same page we can click on chart.
+BULL13|And this will give us a median compared against the forward.
+NEUT14|But then we can also add, for example, a enzed, another bank and their forecasts up the top.
+NEUT15|We can change this from quarterly to yearly.
+NEUT16|We can also change from yearly to forecast history by.
+NEUT17|Which is rather handy when looking to see the previous accuracy.
+NEUT18|If we go back to the forecast menu.
+NEUT19|All the way back you'll see that there's also a second tab which contains ranking, clicking on ranking.
+NEUT20|Now we've chosen Euro U.S. dollar.
+NEUT21|We choose the top ten banks as ranked by Bloomberg.
+NEUT22|This is handy when looking for forecast because Bloomberg ranks the forecasters by accuracy as a function of time.
+NEUT23|Therefore, the more recent your forecasts, the less weight it carries relative to the current period.
+NEUT24|If you forecast today for one year.
+NEUT25|And in one years time your forecast is accurate.
+NEUT26|You receive more waiting than if in 11 months time you change your forecast and that was accurate, which is very very handy.
+NEUT27|You can choose by region in terms of who the most accurate for that region our annual see.
+NEUT28|In this case it's RBS or Royal Bank of Scotland and all we can once again go back and click history.
+NEUT29|The purpose of looking at this is to start to get a feel for those forecasts as you want to follow and those you'd leave alone.
+NEUT30|This should improve your own analytic but also give you some guidance as to whose research to use an who's not to use.
+NEUT31|That's the end of.
+NEUT32|"This short video on using FXFC or forecasting on Finn Shoot."""

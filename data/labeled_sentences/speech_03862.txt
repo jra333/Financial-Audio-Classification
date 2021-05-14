@@ -1,0 +1,29 @@
+NEUT0|"""Austin Russell, founder and CEO of the Laser sensor company, Luminar is officially the world's youngest self made billionaire."
+NEUT1|After the company he founded at 17 went public in early December.
+NEUT2|I don't know if I've ever met anybody quite like Austin because you have different types of entrepreneurs that you meet.
+NEUT3|You meet those that are technically brilliant that are inventors or they come up with things.
+NEUT4|It's rare that those folks are also great executives and really know how to build and run a company.
+NEUT5|He is unusually interested.
+NEUT6|Ann wants to know about everything a 2012 teal fellow in 2018, thirty under 30 alumni.
+NEUT7|Russell isn't looking to take on self-driving tech Giants like Alphabet's Waymo.
+NEUT8|Instead, the young billionaire is focused on perfecting the sensor technology that allows the cars to see called light detection and ranging or LIDAR for short in the self driving car world.
+NEUT9|These sensors are critical, so you have the software that works is kind of the brain.
+NEUT10|But Lidar and cameras and radar are really the vision and the additional senses.
+NEUT11|They're sending all the information to the software in the computer that drives the car.
+NEUT12|Austin began looking into this when he was a teenager, which I don't know what you were doing at 16 or 17, but I sure wasn't, you know, innovating in the world of advanced optics.
+NEUT13|The traditional model is a spinning Dome shaped thing that looks like a light on top of a police car or something.
+NEUT14|And the lasers go around in a circle.
+NEUT15|And their constantly like just mapping everything Austins shoots a continuous beam, one laser that gets this nice spread and it's lower energy.
+NEUT16|It's lower cost, some of the more sophisticated ones that other companies make.
+NEUT17|Use dozens and dozens of tiny little laser beams, and his use is 1 liter was an early fixation for Russell as he believes it has the potential to save lives both as part of self driving cars and as a component of advanced driver assistance systems that Volvo and.
+NEUT18|Other car makers are bringing to market over the next two to three years.
+NEUT19|There is a business opportunity of commercial opportunity for a company like Luminar.
+NEUT20|That's fairly near term.
+NEUT21|Within the next couple of years and so two years is a short time in the auto industry.
+BULL22|Luminaries competing in that space with Velodyne.
+NEUT23|The early leader in Lidar for autonomous vehicles, and newcomer Eva Luminar will likely post sales of just $15 million this year, but could generate at least $1.3 billion by 2026.
+BULL24|Based on estimates in SEC filing the company recently secured production orders from Volvo Cars, Daimler and Intel's Mobileye that may ensure revenue growth for several years.
+NEUT25|The interesting thing is, aside from patents and his ability to work in an optics lab and invent stuff, he's very serious and thoughtful, it seems, and how he set up his company, Peter Thiel, who gave him $100,000 of Teal Fellowship to leave Stanford and start his company.
+NEUT26|TL was saying, you know, he was surprised that Austin was able to retain as big a stake in the company as he has an ownership stake, as in Silicon Valley.
+NEUT27|It's very unusual for someone young to be able to retain a big chunk of their own company.
+BULL28|"You know he's held onto about a third ownership stake, which is, which is pretty remarkable."""

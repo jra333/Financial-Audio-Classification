@@ -1,0 +1,7 @@
+BULL0|"""Bitcoin futures continue to impress investors around the globe as that flight to currency alternatives with all the debt and monetization of debt that's occurring globally."
+NEUT1|People are looking for different alternative assets that are still considered to be undervalued.
+BULL2|That's why we've seen quite a big flight.
+BULL3|New gold, silver, other safe havens like currencies like the Swiss franc recently.
+NEUT4|But people want to buy into a currency.
+NEUT5|And they look at Bitcoin as one that has a controlled or fixed amount available, and that's what's driving up the demand.
+BULL6|"We're also seeing major companies out there like Square put a large portion of their cash position to work in Bitcoin, looking out to the future for an appreciating currency without the government interference."""

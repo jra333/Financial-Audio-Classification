@@ -1,0 +1,40 @@
+NEUT0|"""You're not somebody who's ever bought Apple shares, correct?"
+NEUT1|No, I've never bought Apple.
+NEUT2|I wish I had.
+NEUT3|I don't know that much about Apple.
+NEUT4|I mean all I know is Apple is an absolutely phenomenal company.
+NEUT5|I mean it to think of where they were 10 or 15 years ago and where they are now.
+NEUT6|And that's been done by innovation, I mean, and I think Steve Jobs had a whole lot to do with that.
+NEUT7|So I saw him just a few times over time, but he called me, called me a couple of years ago when it was an interesting conversation because I had talked for a long time and he he said we've got all this cash.
+NEUT8|And he said, what?
+NEUT9|What should we do with it?
+NEUT10|I would use it for acquisitions if I thought my stock was undervalued.
+NEUT11|I mean for I would use it for repurchases.
+BEAR12|I thought my stock was undervalued and I said, how do you feel about that?
+NEUT13|Stock was around 200 and something is.
+BEAR14|I think our stocks really undervalued.
+NEUT15|The chances of being way wrong.
+NEUT16|In IBM or probably less at least for us than being way wrong with Google or Apple.
+NEUT17|But that doesn't mean that those the latter two companies aren't going to do say, far better than I am.
+NEUT18|We wouldn't have predicted what would happen with Apple Ten years ago, and I do not have not get to the level of conviction that would cause me to buy them.
+NEUT19|What?
+NEUT20|I sure as hell wouldn't short him either.
+NEUT21|I don't know any apples.
+NEUT22|Not gonna happen.
+NEUT23|We bought a lot more Apple after year in there.
+NEUT24|One of the fellows in the office has about 10 million shares and I have for Berkshire's account about 123 million.
+NEUT25|So we got about 133 million.
+NEUT26|I was wrong on at least I thought I was wrong on IBM.
+NEUT27|Now maybe I'm wrong when I sold it to, but I certainly was wrong when I bought it.
+NEUT28|And I.
+BULL29|Felt that Apple has an extraordinary consumer franchise.
+NEUT30|I didn't go into Apple because it was a tech stock in the least.
+NEUT31|I mean that I wanted.
+NEUT32|Apple because I make certain into certain versions about.
+NEUT33|About both, the intelligence was with the capital of the employee, but more important about the value of an ecosystem that didn't.
+NEUT34|I don't think that required me to.
+NEUT35|Take apart an iPhone or something and figure out what all the components were.
+NEUT36|Hey there, thanks for checking out CNBC on YouTube.
+NEUT37|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT38|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL39|"Thanks for watching."""

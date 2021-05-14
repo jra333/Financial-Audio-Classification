@@ -1,0 +1,40 @@
+NEUT0|"""Where do I start?"
+NEUT1|It's been a very active day on world markets and if a lot of things don't appear to make sense, perhaps it's best not to try to make sense of them.
+NEUT2|Let's start with commodities.
+BEAR3|The sell off in oil has now broadened into a very aggressive sell off of industrial commodities such as copper, and that today turns into a very aggressive sell off also for mining.
+NEUT4|Stocks can illustrate that view with this chart.
+BEAR5|Here you can see the SPG sei broad commodity Index is selling off.
+BULL6|Fast we comparing that view with Glencore, one of the largest mining companies in the world, which went public in 2011 and we can see it's timed that IPO to perfection.
+BEAR7|It was right at the top of the commodities market, Glencore is now worth less than half what it was worth.
+BULL8|Floatation, great timing there.
+BULL9|Plainly, while oil is falling, that makes sense that metals would join in partly because cheaper oil reduces the production costs for metals and also because if there is concern about demand about a global slowdown that would.
+NEUT10|Naturally affect metals as well as oil.
+NEUT11|Ask for oil.
+BEAR12|The positive spin is that Brent crude at one point was at 9% on its low for Tuesday.
+BEAR13|Today the negative spin is that still only brought it back to roughly where it was on Friday afternoon remains a very volatile picture for oil.
+NEUT14|One really only for day traders when we move on to the apps.
+NEUT15|Most important news of the day that came from Europe where the ECJ decided that it didn't have any legal problems with.
+NEUT16|The European Central Bank buying government bonds, which is what the market wants to see it do that led to another round of buying European government bonds.
+BEAR17|We can illustrate that for you here brought yields down to ever greater, more impressive historic lows.
+BULL18|Ask that made the yields on US Treasurys look that much more appealing.
+BEAR19|You also saw yields on Treasury's come down quite dramatically in the case, perhaps of the 10 year you might remember.
+BEAR20|The flash crash in the bond market back in October.
+BEAR21|Well then the 10 year yield is now below its point.
+NEUT22|It reached on that day.
+BEAR23|As for macro data, retail sales here in the US were very disappointing.
+BEAR24|Even if you excluded oil products, they were actually down for the month of December.
+BEAR25|Possibly a fluke, but certainly didn't do anything good for sentiment.
+BULL26|As for earnings, JP Morgan announced results in line with expectations.
+BEAR27|They got punished for that by the market was off some 6% at one point to be here from.
+NEUT28|Bank of America and City on Thursday.
+NEUT29|Traditionally, the more the problem child in the banking sector will be interesting to see how their received.
+NEUT30|Ask for the rest of the week.
+NEUT31|What really matters now is any evidence we get on deflation.
+BEAR32|We are in the grips of deflation scare and that is affecting all asset classes.
+NEUT33|On Friday we will hear about consumer sentiment in the US and most importantly inflation itself for Germany in the US.
+NEUT34|Obviously very important moment.
+NEUT35|Perhaps most critically, we just need to keep watching what happens to.
+NEUT36|Oil and industrial commodities.
+BEAR37|Will they continue to fall whether or not the deflation scare is justified?
+NEUT38|It's real and it's having effects across all other markets.
+NEUT39|"Nothing else at the moment is more important."""

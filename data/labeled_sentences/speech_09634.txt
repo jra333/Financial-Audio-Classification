@@ -1,0 +1,37 @@
+NEUT0|"""So what does this deal enable microvest to do now?"
+BULL1|So Michael Vasquez founded in 2006, and through that time built a strong IP library and then turn those into very strong product portfolio that is primarily been focused on China and Asia.
+BULL2|And then we took that product portfolio in the last 1824 months and we focused on the Western countries and that product portfolio has been very well received, received to the extent where hey we needed capital to be able to expand.
+BULL3|Our product capability on our manufacturing capability with these product lines so that we could respond to a customer demand.
+NEUT4|Yeah, I mean EV.
+NEUT5|Battery space has certainly been the buzzword as of late.
+BULL6|We're seeing increasing competition.
+NEUT7|I realized that you tend to be more focused on commercial and commercial vehicles, but when we see so many startups that are also going public via via specs and just in that landscape, you see GM as well with some of the news that that company has announced in recent weeks.
+NEUT8|How would you assess the competitive landscape?
+NEUT9|How does micro fast differ from some of these other names?
+NEUT10|Great question Morgan.
+NEUT11|Well, first of all we have products that exist today that we're shipping in volume.
+NEUT12|We actually have customers and we're producing revenue, so sometimes that is proved differentiating in our in our roadshow when we're asked questions by investors.
+NEUT13|The other thing is our technology.
+NEUT14|We're vertically integrated company, which in and of itself is not necessarily differentiating.
+NEUT15|But we make our own.
+NEUT16|Anode cathode, electrolyte and separator and those battery components are world class in and of themselves, so we've even initiated strategic plans to launch selling some of those battery components directly to our customers.
+BULL17|But when we integrate all those together, we can make some high performance cells that are excellent for a commercial vehicle market where it's an expensive asset it has frequently operates in a well defined area.
+BULL18|And you need it to operate continuously to maximize its return on investments and our batteries that we make.
+NEUT19|Offer that long life fast charging so it can continuously be on the road in a very safe application.
+NEUT20|You know, I wonder, two things, Sir.
+NEUT21|One is what it's like to be a battery maker in Houston.
+NEUT22|That's sort of the center of the Petro chemical business.
+NEUT23|It's kind of like being a craft beer maker in the hometown of Anheuser-Busch.
+NEUT24|That's number one, but number two with the change of administrations, are you expecting?
+NEUT25|A more favorable subsidy situation to come your way and put a little little window under your sales.
+NEUT26|I don't focus on the subsidy portion of that, just because if the battery performance is compelling from a total cost of ownership, then the return on investment will speak for itself, and subsidies don't need to be necessarily be in play, but it does help when it's announced that 645 thousand federal vehicles need to be electrified.
+NEUT27|Those are the kind of movements that would help United States.
+BULL28|Perhaps electrify at a faster rate?
+NEUT29|Europe has it, and we're seeing that in their customers in the.
+BULL30|Growth in Europe.
+NEUT31|It's such a rapid pace.
+NEUT32|Of course China does, by being such being the largest market of today.
+NEUT33|The fact that we're in Houston, it's a great place to for headquarters, and so, but being being a global company that's just speaks, it's just a good highlight of something that's ironic being in the.
+NEUT34|Will Smith.
+NEUT35|Shepard Smith here.
+NEUT36|"Thanks for watching CNBC on YouTube."""

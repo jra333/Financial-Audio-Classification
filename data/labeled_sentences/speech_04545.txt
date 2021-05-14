@@ -1,0 +1,23 @@
+NEUT0|"""I think you look for that."
+BULL1|Pull back to previous all time high which is 2025.
+NEUT2|I still think you have a conference call.
+NEUT3|You gotta get ahead of and again, you know they talked about a spend.
+NEUT4|Will see if that comes out again.
+BEAR5|I think that could still scare some people.
+NEUT6|I think it's important for investors to also understand how have the street tends to value this stock, which which includes some multiple.
+NEUT7|It's a blended multiple and it's it's.
+NEUT8|It's essentially some multiple of a WS.
+NEUT9|And then the core and the core, which obviously astronomical in terms of top line.
+NEUT10|But you usually give about a 10 times revenue number on a WS, so the numbers are really pretty easy to crunch this math right now.
+NEUT11|That makes it a trillion dollar company.
+NEUT12|If you go 10 times, which is where the street largely goes.
+NEUT13|In fact, Deutsche Bank just took him up to 11 times revenues.
+NEUT14|That leaves another 30% in your valuation to put this at a trillion three a trillion four, which leaves you about 30% upside if you want to listen to those values, how about we offer these results now?
+NEUT15|I hate to get negative on it, but off of these results, how quickly we're going to hear the spin on the political side about breaking up this company?
+NEUT16|Because when you look at these type of results and you see them dominating every area that they're in.
+BEAR17|In video in the consumers homes in a WS, it makes me think that it's going to be politicized in the next couple of weeks.
+NEUT18|We are a market that trades off the headlines.
+NEUT19|You could see Algo sell this thing really quickly.
+NEUT20|I think we're going to start to see analysts kind of jumping all over each other to try to have the high on the street, which I think right now is maybe 2500.
+BEAR21|Although it is almost universally either an outperform or by there's not really anybody who's negative on it, so it's not like there will be a giant turn.
+BULL22|"But I do think we'll start to see targets much higher."""

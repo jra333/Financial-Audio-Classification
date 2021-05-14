@@ -1,0 +1,13 @@
+NEUT0|"""We have a takeover deal just announced in the energy sector."
+NEUT1|ConocoPhillips will buy rival Concho Resources in an all stock transaction valued at $9.7 billion Concho.
+NEUT2|Shareholders relieve will receive 1.46 ConocoPhillips shares for each share that they own.
+NEUT3|Semi sees David Faber had reported last week that the two sides were in late stage talks.
+NEUT4|Looks like it was true and Konikow's CEO will join Squawk on the street.
+NEUT5|At nine forty 9:45 eastern this morning, Becky.
+BULL6|You know, it's kind of interesting watching the stock reaction to that today, because Concho shares after David had reported that last week had already risen.
+NEUT7|That company is a nine and a half billion dollar company.
+NEUT8|This is a $9.7 billion deal.
+BULL9|But you see the move this morning up another 11%.
+BULL10|I'm not sure what that signaling Concho Resources shares up another $5.40.
+NEUT11|Shepard Smith here.
+NEUT12|"Thanks for watching CNBC on YouTube."""

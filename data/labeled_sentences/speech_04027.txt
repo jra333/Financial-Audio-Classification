@@ -1,0 +1,14 @@
+NEUT0|"""OK, when I look at the president's program last night, a lot of people thought it was going to be out."
+NEUT1|I'm really about roads I heard as being that EV EV truck, EV bus, evicore.
+NEUT2|Did you think that the president's focus could mean good things for hydrogen?
+NEUT3|So obviously, hydrogen trucks, electric trucks, layer, fuel cell electric trucks, so I know that EV is often a term that is coined for battery only electric vehicles.
+NEUT4|But in many cases in some way many use cases where payload is important, where range is important and where vehicles are expected to be driven by multiple driver shifts in a 24 hour period.
+BULL5|These applications are really far better suited to hydrogen battery only electric, so we see great potential.
+NEUT6|For those kind of back to base operations with with high utilization to move towards hydrogen, and we think that the kind of catch all of EV, it really does include fuel cell electric and will increasingly be recognized to include fuel cell electric, because today it's probably not so recognized.
+NEUT7|Don't miss a second of mad money.
+NEUT8|Follow at Jim Cramer on Twitter.
+NEUT9|Have a question?
+NEUT10|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT11|Miss something head to madmoney.cnbc.com.
+NEUT12|Shepard Smith here.
+NEUT13|"Thanks for watching CNBC on YouTube."""

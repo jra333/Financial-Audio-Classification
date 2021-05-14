@@ -1,0 +1,32 @@
+NEUT0|"""Hi, I'm Jason Moser analyst with The Motley Fool Anna question."
+NEUT1|We deal with all the time it seems with investors is they're wondering one is a market correction coming?
+NEUT2|Should we expect a market correction?
+NEUT3|And I think the easiest answer that question is yes, you should expect the market correction.
+NEUT4|But I think the question is really more relevant to the timing part of it as to when should we expect the market correction?
+NEUT5|That's a little bit more difficult.
+NEUT6|Not really sure.
+NEUT7|We're not market timers here at The Motley Fool, for example, but just.
+BEAR8|Let's define a correction first and foremost, and that's a pullback in the market of at least 10% and we see those from time to time, especially if the market gets a little bit ahead of itself.
+NEUT9|Looks a little bit expensive, so definitely corrections happen.
+NEUT10|It's not something that you should really concern yourself with.
+NEUT11|It's really difficult to predict when they may happen, but you know, we look at today's environment, for example, with interest rates very low.
+NEUT12|The stock market has been the place to be.
+NEUT13|This is where the returns are easily the lot of money going into the market think a lot of people are chasing yields, looking for those dividend stocks, because fixed income investments.
+NEUT14|Aren't necessarily as rewarding.
+NEUT15|We're seeing record inflows into U.S. stocks and this demand pushes those prices up, but you know, I look at something that Warren Buffett has said time and time again and even today when he looks at the market is relatively fairly valued.
+NEUT16|He's always, he's always of the mindset that net buyers of stocks need to be looking for those corrections and times when when stocks pulled back, and I think that's important to know because it gives us an opportunity to pick up stocks on sale more or less at better prices.
+NEUT17|But if you have money to invest today, for example, take $5000.
+NEUT18|Yes, get that invested in the market, but don't feel like you have to get everything going in there at once invested slowly.
+NEUT19|Make sure you keep your transaction costs to no more than 2% of your investment.
+NEUT20|And let's look at an example there.
+NEUT21|If your Commission cost to buy a stock is $7.00, then make sure you buy at least $350.00 worth of stock in order to meet this threshold.
+NEUT22|That keeps those Commission costs low.
+BEAR23|They can tend to eat into your returns if you let this Commission calls get out of hand.
+NEUT24|But when we look at something like this, do you have a watch list?
+NEUT25|If you don't, make sure you start building a watch list when you have some money to invest so that you have these names are ready to go when you feel like the prices become attractive and you want to add to those positions.
+NEUT26|But the bottom line really is that for us, foolish investing means constant investing is not trying to time the market.
+NEUT27|We're not trying to look for market corrections, were simply trying to invest in the good times and the bad in quality businesses.
+NEUT28|And again always refer back to to Warren Buffett's idea there with net buyers of stocks.
+NEUT29|Buyers of stocks should love market corrections because that means we get to buy our favorite stocks on sale.
+BULL30|I totally agree with this.
+NEUT31|"For thousands of how to end advice videos on any topic visitmonkeysee.com."""

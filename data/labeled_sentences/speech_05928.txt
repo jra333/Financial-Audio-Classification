@@ -1,0 +1,25 @@
+NEUT0|"""My project is about sentiment analysis of three stocks, Facebook, Amazon and Microsoft."
+NEUT1|For doing the sentiment analysis, I picked a thin lexecon from from GitHub on the Internet.
+NEUT2|If he lexicon has all the words with scores with sentiment scores ranging from minus five for the most negative sentiment, and classify for the most positive.
+NEUT3|I created a sentiment dictionary based on that even lexecon.
+NEUT4|And then I created.
+NEUT5|I wrote a function to to calculate the sentiment scores of all the words.
+NEUT6|In the transcripts I got the earnings call transcripts from the respective website.
+NEUT7|I downloaded that from Microsoft, Facebook and Amazon's website.
+NEUT8|And then I.
+NEUT9|Exported the output in the CS CSV and then made a dataframe to calculate all that scores.
+NEUT10|I then created a point plot.
+NEUT11|As you can see, in the case of Microsoft.
+BEAR12|And the earnings sentiment has been going up and down.
+BEAR13|But there has been a significant drop in the sentiment in the current quarter, which is the first quarter of 2020.
+NEUT14|This is the average sentiment score.
+NEUT15|I did the same analysis on Facebook.
+NEUT16|Got their transcript from their downloaded the transcripts from the website and build a data frame and created a plot.
+BEAR17|Facebook also we can see there has been a significant drop in the earning.
+NEUT18|In the overall average sentiment.
+NEUT19|And then I did the same analysis on Amazon.
+BEAR20|Amazon also shows a significant drop in the average sentiment scores.
+NEUT21|I then must all the dataframe to plot all of them all, the three together in one.
+BEAR22|Figure and we can see that the sentiment the average sentiment has been going up and down.
+BEAR23|But all the three stocks they show a significant drop in the average sentiment scores.
+BULL24|"Thank you."""

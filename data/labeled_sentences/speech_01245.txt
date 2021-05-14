@@ -1,0 +1,40 @@
+BULL0|"""Zynga higher by more than six and a half percent this morning after posting its best ever revenue quarter."
+NEUT1|Also saying it's building a war chest for potential Ma.
+NEUT2|Zynga CEO Frank Bo joins us now, another first on CNBC interview.
+BULL3|Frank, welcome back.
+NEUT4|I really want to talk about consolidation happening in the gaming space.
+NEUT5|I mean, we just saw EA buying Glu mobile weeks ago Microsoft buying Zenimax.
+NEUT6|We've done at the same time Google shutting down the stadia.
+BEAR7|Gaming Studio and Amazon's having trouble with its studio efforts.
+NEUT8|What's all this action around gaming studios and where is it heading?
+BULL9|Well like 2020 was a transformational year for the industry.
+NEUT10|The entertainment that you get from playing games reached new Heights of participation, engagement and also commercially that the industry's never been bigger.
+BULL11|And there's a lot of different new technologies coming online that are going to lock in growth in this industry for the next 10 years.
+BULL12|So you see a tremendous inflow of capital and a lot of deal making underway right now.
+NEUT13|In 2020 there were over 200 merger and acquisition deals on record, and it looks like 20 ones already starting.
+BULL14|Off to an even faster pace we participated in now we bought two companies in 2020, peak and Rollick, which have been a huge contributors to our success this year and think will help drive the company going forward.
+BEAR15|But what's really interesting about the industry chess board right now is a lot of the incumbents are seeing a lot of pressure from new entries.
+NEUT16|You've seen a lot of new IPOs on the on the way with playtika with Roblox of others are announced.
+NEUT17|There's a lot of spec activities that are bringing companies into the public markets.
+NEUT18|So there's a really interesting change over from the new companies coming in that aren't really traditional gaming companies.
+NEUT19|Sometimes their ad networks that have game units, sometimes their platform.
+BULL20|Sometimes there are unique focus on on mobile that are putting pressure on some of these more traditional companies and it's really causing a lot of shifts and I think it's an exciting time for investors to be looking at interactive Entertainment because there's so much new choice and the growth is really profound and it looks like it's going to sustain.
+NEUT21|So Frank is is, should we think about this kind of like the Netflix effect?
+NEUT22|On TV, because video games have been around for a long time, one might look at this and say well, why?
+NEUT23|Why is making game so hard?
+NEUT24|I mean we should know how to do this by now, but you got studios failing.
+NEUT25|You got studios getting bought out because they're so good.
+NEUT26|Has the mobile gaming has the advent of the cloud changed?
+NEUT27|What's possible to such an extent that there's a new skill set or a new type of creative that's more successful in this environment?
+NEUT28|I think it's actually the fact that the audiences are so vast now.
+NEUT29|You have over 2 1/2 billion people playing mobile games every day.
+NEUT30|You have a proliferation of of hardware out there that you can play games on phones, PC's, consoles.
+NEUT31|You can play it in your chat clients so you can play games pretty much anywhere at anytime.
+NEUT32|And it's not just young men that are playing games anymore, it's men, women, it's people 8 to 80 all over the world.
+NEUT33|Now the difference is, is that the talented people that actually make these games.
+NEUT34|There aren't that many of them, it's a.
+NEUT35|It's a finite base of talent out there in the industry.
+NEUT36|So you see a lot of people chasing highly talented people that know how to make great games that reach these huge audiences.
+BEAR37|And that's part of the pressure is there's not a high enough supply for great developers and engineers and designers and a lot of the companies are fighting over who has the best talent and has the right culture for that talent to really prosper.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

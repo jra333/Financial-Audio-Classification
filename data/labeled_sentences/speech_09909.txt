@@ -1,0 +1,25 @@
+NEUT0|"""Their killer to track down police."
+BEAR1|Tell us at about four hours ago, a 30 year old man was shot and killed inside a City Park.
+BEAR2|Now this comes after a rash of shootings over the weekend.
+BEAR3|22 incidents in total and right now detectives here at the 70th Precinct have one suspect in custody.
+BEAR4|There's a heavy police presence now around the Medgar Evers apartments in bed Stuy, right, where a stray bullet from a wild gang shootout struck.
+BEAR5|11 year old Teilani Mazyck in the neck.
+BULL6|She survived, but will need a miracle to walk again.
+BEAR7|Her neighbors tell me they're glad police caught the alleged gunman, but are sick over all the gun violence.
+NEUT8|I live in April and I'm looking down this block and I'm worried about, you know if I'm going to be OK, so it's just I'm just scared.
+NEUT9|You know, sometimes you get scared.
+BEAR10|In Prospect Lefferts Gardens, family members of 30 year old Joseph Belmar walked into their home without saying a word after seeing for themselves where he died.
+BEAR11|Sources tell me he was shot four times while working out in Wingate Park around 6:00 PM.
+NEUT12|The crime scene unit processed the scene earlier.
+NEUT13|Community leaders tried to process what's going on.
+BEAR14|It is a very very outrageous thing that is happening to our young people who are being caught in the crossfire.
+BEAR15|Kids being shot down.
+NEUT16|Day in and day out on Lenox Rd.
+NEUT17|In that same neighborhood.
+BEAR18|Over the weekend, a gunman opened fire shooting and wounding three men in broad daylight.
+BEAR19|Police say he fired at officers when they arrived at the scene.
+NEUT20|Mayor Bloomberg is trying to put the gun violence in perspective.
+BEAR21|We all know that when the temperatures get up there people's temper get shorter and the crime rate does seem to go up.
+NEUT22|Now sources tell me that all night long here at the 70th Precinct, detectives have been conducting lineups hoping that witnesses will be able to identify the gunman in that triple shooting.
+NEUT23|Now, police are asking you if you have any information to call Crime Stoppers at one 805 seven 7 tips were live in Flatbush.
+NEUT24|"I'm Lisa, ever."""

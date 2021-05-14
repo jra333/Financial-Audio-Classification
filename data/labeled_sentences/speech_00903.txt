@@ -1,0 +1,30 @@
+NEUT0|"""What do you?"
+NEUT1|What's the rumbles or the murmurs when you talk to him about what's happening with GameStop?
+BULL2|Last week this week, the volatility is back level force.
+NEUT3|Do they want to get in?
+NEUT4|Do you want people in this speculation?
+NEUT5|No, that's that's a great question.
+NEUT6|So, and this gets back to, I think, a classic thing for managing portfolios and looking forward, right?
+NEUT7|You have to be humble coming into this year.
+NEUT8|I don't think there was an investor on the planet.
+NEUT9|That said, the biggest risk that's going to show up in the third week of January is going to be these meteoric.
+NEUT10|You know Reddit driven short short squeezes, right?
+NEUT11|That everyone knew that retail had become more dominant.
+NEUT12|You know, everyone should know to avoid crowded shorts, but it was still it's it's.
+NEUT13|It was a small left tail risk, and so what's basically happened.
+BEAR14|And you guys are aware is those that were too heavy in the short, got very aggressive covering it in the short interest is dropped dramatically in GameStop in particular, but more I think important for investors.
+NEUT15|Understand is, you know, the industry as a whole is really done.
+NEUT16|A triple check on, you know what their short exposure looks like.
+NEUT17|So since then, clearly there's been more focus on how crowded a particular short is, yet you know you want to avoid that when he can.
+NEUT18|Two is to move up in market cap, you know three is to become more diversified for is, you know if you really about hedging systematic risk, which is something that people are getting more and more concerned with given the high levels of equity multiples.
+NEUT19|And as you guys alluded to, you're starting to see the steam come out of, you know, growth names the past seven.
+NEUT20|A trading days, you know there's nothing wrong with using SP futures or ETF's if that's what you're really concerned about.
+NEUT21|So you wanna go forward basis?
+NEUT22|We'd expect short squeeze risks to be lower an as we speak today, most of our Contacts are even those that had tiny positions in GameStop or other.
+BEAR23|These meme stocks on the short side of close those out, and there's been no PNL damage on the short side the past day and A and a half now.
+NEUT24|Interesting enough, I know everyone likes to focus on.
+NEUT25|Who's getting squeezed?
+NEUT26|And who's losing money?
+NEUT27|But you know there were some hedge funds on the long side of that.
+NEUT28|Whether it was AMC or leg and was another one that got kind of got juice by the Reddit crowd.
+BEAR29|"And so depending upon what side you are on, it was either highly profitable but for the industry as a whole was certainly a negative PNL driver in January."""

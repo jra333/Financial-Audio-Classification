@@ -1,0 +1,13 @@
+NEUT0|"""Here we go."
+NEUT1|Netplex reports earnings after the closing Bell.
+BEAR2|Doing is, we're burnin really hard to the downside.
+NEUT3|Going into that report, it's going to be controversy what I'm going to do is I'm going to place 500 shares.
+BEAR4|The current high of the day was one 8759 MMT's Unbidden, 5 deltas below the line.
+NEUT5|Then and that's going to put my bid at 160.89, that's a day.
+NEUT6|Plus the thing about it is is you just want to make sure that you have the order out there at the one 6089, and then we'll deal with this.
+NEUT7|The market closes now.
+NEUT8|22 minutes to the closing pal.
+NEUT9|And here we go.
+NEUT10|There we have a live limit order for that 160.89 on Netflix and will be updating people we did a day plus at 160 point, 89.5 deltas below the market.
+NEUT11|There's gonna be a lot of fireworks going off an after hours.
+BEAR12|"Today we're dead dead right in the middle of these earnings right now."""

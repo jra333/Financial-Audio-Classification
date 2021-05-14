@@ -1,0 +1,20 @@
+NEUT0|"""BNGO stock analysis and predictions."
+NEUT1|February 3rd.
+NEUT2|In today's BN Geo stock analysis and predictions.
+NEUT3|What's next for B NGO?
+NEUT4|Alright, let's get started in a report released yesterday.
+BULL5|Jason McCarthy from Maxim Group assigned a buy rating to Bionano Genomics.
+NEUT6|Be NGO with a price target of $14.00.
+BEAR7|The company shares closed last Wednesday at $11.85 close to its 52 week high of $13.85, according to analysts.
+NEUT8|McCarthy is a top 25 analyst with an average return of 64.3%.
+BULL9|In a 65.9% success rate, McCarthy covers the health care sector focusing on stocks such as Appili Therapeutics in Class A brainstorm cell therapeutics and SELLAS Life Sciences group.
+BULL10|Currently, the analyst consensus on Bionano Genomics is a strong buy with an average price target of $7.56, which is a -- 36.5% downside from current levels.
+NEUT11|In a report issued on January 26th, Ladenburg, Thalmann and Co also maintained a buy rating on the stock with a $14.00 price target.
+BEAR12|The company has a one year high of $13.85 and a one year low of $0.25.
+NEUT13|Currently, Bionano Genomics has an average volume of 76.65 M. That's what's been happening this week in the world of BN Geo stock analysis and predictions.
+NEUT14|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of the NGO stock analysis and predictions.
+NEUT15|If you enjoyed this edition of BN Geo stock analysis and predictions.
+NEUT16|Leave a comment and please hit the like or share button.
+BULL17|We'd really appreciate it.
+NEUT18|Are you still watching and want more?
+NEUT19|"Check out last week's BN Geo stock analysis and predictions by checking out our BN Geo stock analysis playlist."""

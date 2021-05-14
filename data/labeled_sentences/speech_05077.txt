@@ -1,0 +1,22 @@
+BULL0|"""Netflix announcing its increasing the cost of its standard plan by a dollar."
+BULL1|You see, Netflix shares popping 4 1/2 percent higher on this news now.
+NEUT2|The standard Netflix plan will be $14.00 a month.
+BULL3|That's up from $13.00 a month, and they're increasing the premium tier plan from $16.00 a month to $18.00 a month and a new subscribers will have to pay this new fee.
+BULL4|While current subscribers will see their monthly fees increased over the next few weeks with customer billing cycles, now Netflix last increased subscription fees here in the US.
+NEUT5|Back in January 2019.
+BULL6|This also comes after they've increased the cost of some plans in Canada and elsewhere.
+NEUT7|They were sort of testing this out.
+BULL8|It seems elsewhere, and it's interesting also to note that Disney shares also moving higher on this news, perhaps on the perception of pricing power for Disney.
+BULL9|Plus, Disney shares up nearly 3%.
+BEAR10|Sarah sorry.
+NEUT11|Quick question Julie.
+BULL12|I mean interesting to see Netflix jump so much by increasing prices off the back of that.
+NEUT13|Well, what's the difference between premium and standard?
+NEUT14|But what does that actually?
+NEUT15|$4 G. So premium is standard is what most people have in the United States.
+NEUT16|Well, the premium plan is if you want to be able to watch in 4D.
+NEUT17|If you want to have additional family streams.
+NEUT18|So the basic is good video quality.
+NEUT19|It's not the absolute best video quality, so the vast majority of people will see their prices go up by a dollar a month.
+NEUT20|Shepard Smith here.
+NEUT21|"Thanks for watching CNBC on YouTube."""

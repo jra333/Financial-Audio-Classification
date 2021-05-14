@@ -1,0 +1,27 @@
+NEUT0|"""This tutorial will now introduce the life quotes tool and its various features to complement your trading experience."
+NEUT1|The monitor icon at the top left displays the order feed connection status.
+NEUT2|The monitor icon on the right displays the price feed connection status, an exclamation mark, or a Red Cross.
+BEAR3|On either of these icons signifies a connection error.
+NEUT4|The buy and sell buttons are located here.
+NEUT5|To check your orders, click on order status.
+NEUT6|This tab displays real time feeds of market prices.
+NEUT7|The main section of life quotes displays a watch list of livestock prices.
+NEUT8|You can group the watch list by top gainers.
+NEUT9|Top losers or sort by sector an index.
+NEUT10|To change the layout of the live quote screen, click on this button.
+NEUT11|There are more than 20 layouts to choose from.
+NEUT12|Simply select a layout, click OK. And your screen will update immediately.
+NEUT13|To change fonts, click here.
+NEUT14|The customize columns feature allows you to choose columns of data to display on the live quote screen.
+NEUT15|Here is where you find columns of data to choose from.
+NEUT16|To add a column, simply select one from the left and click add.
+NEUT17|To remove a column, select one from the right and click delete.
+NEUT18|To change the order of the selected columns, simply click move up or move down.
+NEUT19|Once you're satisfied with your selection, click OK. You will now have the option to choose which watch list apply that particular column setting.
+NEUT20|Column changes are affected real time as shown here.
+NEUT21|There are six preset layouts that you can toggle here.
+NEUT22|To move to the next page of stocks, toggle between pages here.
+NEUT23|To perform a quick search, just key in the stock name or stock code here.
+NEUT24|And click search.
+NEUT25|If you wish to resize your lifeboat screen, simply click on the enlarge or reduce button.
+NEUT26|"You may also change the color themes here."""

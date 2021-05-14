@@ -1,0 +1,10 @@
+NEUT0|"""What appears we have, investors are going to be looking at Facebook today."
+BEAR1|Facebook is down a little over 2% or five and a half bucks.
+BEAR2|Here we're seeing a little bit of movement going down here.
+BULL3|Pretty sharp red candle in the daily side and has broken past the purple parabolic sarc drops on the daily side.
+BULL4|We're looking for initial short term support, which we've seen it bounce off a couple times before in this range of Fibonacci number at two 6726 we start breaking.
+BEAR5|Below that we could be potentially coming down to the 144.
+NEUT6|He may line, which is around the 258 price target, but anything can happen in the market.
+BEAR7|We're having a lot of chop this whole week due to the quad witching expirations again, then hopefully happens four times years, hence the quad and now looking for this.
+BEAR8|Potentially if this does get any kind of bounce, you're going to be looking for some movement to try to break back above the $274.00 level.
+BULL9|"Alright guys, hope that was educational, if not dislike if you did up thumbs up please."""

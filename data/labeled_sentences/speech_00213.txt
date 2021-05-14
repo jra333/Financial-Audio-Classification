@@ -1,0 +1,43 @@
+NEUT0|"""Let's begin with the economy."
+NEUT1|You had a rather nice economic outlook quite recently and earlier in June, where the long climb and you quoted the Richmond Fed President Thomas Barkin where the economy rode the elevator down but will have to climb the stairs back up.
+NEUT2|Is that the way you look at the recovery at the moment that is going to take longer.
+NEUT3|And not be as rapid as some people hope.
+NEUT4|It's correct, and I think I think there's a lot of things we know, and there's a lot of things we don't know.
+BULL5|But we expect real GDP to come back to the 2019 level by the end of 2021.
+BULL6|And so there is going to be a lot of repair to be done in the system.
+NEUT7|There are sectors where the degree of predictability is very high in terms of what may happen.
+NEUT8|There are other sectors, retail oil and gas leisure gaming where.
+NEUT9|There's a lot of things we don't know.
+NEUT10|As much as I would like to tell you that we can predict consumer behavior and how people are going to use anything from airlines to movie theater, we just don't know.
+BEAR11|And so when I think of the next four months, the error rate has to be much higher.
+NEUT12|In terms of prediction.
+NEUT13|Just just quickly coming back on that you said there were some areas where you did feel fairly confident.
+NEUT14|What would be the areas where you think you can predict you?
+NEUT15|You sort of think you know what's going to happen.
+NEUT16|Oh, I think the tech sector tells you everything you need to know about.
+BULL17|What has been predictable and if I think back in the situation where on March 15 and 16, if you had told us that the NASDAQ is nearly up 10% on the year, I would have been shocked and so the recovery of the stock market has been nothing short of extraordinary.
+BULL18|An tech company has done remarkably well and seems to be for the most part totally unaffected by recent events.
+NEUT19|Do you think those valuations are justified?
+NEUT20|I mean, surely you just use the word surprising.
+NEUT21|That would sound as if you don't think the text got texts stock should be quite that high again.
+NEUT22|But I'm hardly an expert on tech stock, but let's talk about credit for for one second.
+BULL23|I think that we've seen an enormous amount of issuance in the credit space from the end of March today.
+BULL24|And we have bridged the liquidity gap.
+NEUT25|Then there is going to be a long cycle.
+NEUT26|Where from will need to think about solvency?
+NEUT27|And their own businesses.
+NEUT28|And what they can achieve?
+NEUT29|And if we know anything from history, we know it's a long cycle.
+NEUT30|It's a cycle where there will be repair to be done.
+NEUT31|And why some sectors?
+NEUT32|Are going to be profoundly affected.
+NEUT33|And we need a restructuring.
+NEUT34|Just think of the airline sector.
+NEUT35|When are we going to see each other in the flesh?
+NEUT36|John and I don't know that.
+NEUT37|I don't know whether it's two weeks away or within six months away.
+NEUT38|Part of it is also.
+NEUT39|The virus, of course where.
+NEUT40|Irrespective of how much work we've done in terms of understanding the risk and keeping our people safe, there is also things we don't know.
+BULL41|And as you see, cases sticking up in 26 of the States in America.
+NEUT42|"Is it just a lot of unknown in terms of people's behavior and what people are willing to do or not?"""

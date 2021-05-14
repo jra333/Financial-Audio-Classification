@@ -1,0 +1,25 @@
+BEAR0|"""Economic inequality is a hot button issue right now."
+NEUT1|Let's talk about what the underlying causes might be.
+NEUT2|Before we get into this chart, I want to differentiate between income inequality was, which is what you will hear.
+NEUT3|People refer to most often, and wealth inequality income refers to what you take it in a year.
+NEUT4|Your cash flow, your salary usually versus wealth, which refers to what you own, what your assets are now three economists, Kuhn Schuler Kanstein's recently studied these two things.
+NEUT5|Income inequality and wealth inequality.
+NEUT6|What they found is that income inequality began to diverge back in the 1970s, versus wealth only began to diverge more recently in the in the 2000s.
+NEUT7|So why that might be has to do with this chart.
+NEUT8|The Orange Line represents percentage of your portfolio allocated to real estate.
+NEUT9|The green line represents percentage of your portfolio allocated to financial investments, so this can be equity like the stock markets.
+NEUT10|It could be bonds.
+NEUT11|It could be any financial investment.
+NEUT12|So why do we have two of each line?
+NEUT13|Well, the answer is that we have both the top 10% as well as the bottom percent represented here.
+NEUT14|As you can see from the lines I just drew the top 10% of folks have a much larger percentage of their portfolio allocated to financial investments and a smaller allocation to real estate investments.
+BEAR15|The bottom 50%, on the other hand, has have a much higher percentage of their wealth dedicated to real estate and a much lower percentage dedicated to financial investments.
+NEUT16|Now this is usually because people own home.
+NEUT17|That's usually their biggest asset.
+NEUT18|Well, what happened after the financial crisis is really the key to why wealth began to diverge.
+NEUT19|This isn't an exact replica, but basically what happened is that housing markets after collapsing during the financial crisis took a lot longer to catch up than that of financial markets.
+BEAR20|When housing takes longer to catch up and a bigger percentage of your portfolio is allocated to housing, that means your wealth is going to grow at a slower pace than that of someone that has a higher percentage dedicated to financial investments.
+NEUT21|When those markets took off much faster.
+NEUT22|The reason we're talking about this right now is that.
+NEUT23|In the upcoming election, you're likely to hear candidates talk about income inequality.
+NEUT24|"So just keep this in mind the next time you're at the ballot box."""

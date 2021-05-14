@@ -1,0 +1,22 @@
+NEUT0|"""We've been making market since before the invention of agriculture, and so markets are a little bit like languages."
+NEUT1|They're part of what people do and their languages.
+NEUT2|There are a lot of different kinds of markets, so I want to tell you a little bit about that today.
+NEUT3|So when you think about the stock market, you think about a market that's anonymous and in which price does all the work when you buy.
+NEUT4|100 shares of AT&T on the New York Stock Exchange.
+NEUT5|You don't care who you're buying from, they don't carry their selling to, and the job of the Stock Exchange is price discovery.
+NEUT6|It should find the price at which supply equals demand at each moment in the trading day, but not all markets look like that.
+NEUT7|I teach at Stanford University and so we are part of the big annual market of college admissions, and Stanford doesn't raise its tuition until just enough students remain to fill it seats.
+NEUT8|Stanford is expensive to go to, but but we don't set the price so that supply equals demand.
+NEUT9|Lots of people would like to come to Stanford, and there's an application and admissions process, so you can't just choose to go to Stanford.
+NEUT10|You have to be admitted.
+NEUT11|Labor markets are like that too.
+NEUT12|You can't just choose to work for Google, you have to be hired and Google doesn't hire its engineers by lowering the wage until just enough people want to work for Google, Google, Google is a great job.
+NEUT13|You have to be.
+NEUT14|You have to be hired.
+NEUT15|And of course Google can't just choose its engineers either.
+NEUT16|They have to compete with Facebook.
+NEUT17|So these are matching markets, their markets in which you can't just choose what you want.
+NEUT18|Even if you can afford it.
+NEUT19|You also have to be chosen so it's a lot like marriage.
+NEUT20|You can't just choose.
+NEUT21|"Your spouse."""

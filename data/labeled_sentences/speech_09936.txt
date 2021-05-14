@@ -1,0 +1,22 @@
+NEUT0|"""Like Mike, Bloomberg has yet to unveil a tax plan, but Robert Frank has some ideas about where the presidential candidate would look to raise revenue."
+BULL1|Roberto good morning Andrew.
+NEUT2|Well, only one thing is certain, under Mayor Mike's upcoming tax plan, and that's that the rich will pay more campaign sources telling me that Bloomberg will make the progressive tax system even more progressive and focus on what he calls the three pillars of the tax code.
+NEUT3|That is the top income tax rate the capital gains rate and the estate tax.
+NEUT4|The rates and details will be released in the coming months.
+BULL5|Now to help those at the bottom he plans to increase the earned Income Tax Credit, an increase the child tax credit one tax he's not going to consider.
+NEUT6|That's a wealth tax at a campaign event.
+NEUT7|Last month, Bloomberg told people that supporting a tax cut wealth tax for people like me.
+NEUT8|Those proposed by Bernie Sanders and Elizabeth Warren just doesn't make sense.
+NEUT9|Now a year ago, in New Hampshire, he said wealth tax may not be constitutional.
+NEUT10|And that those who want to attack capitalism should quote.
+NEUT11|Take a look at Venezuela now.
+NEUT12|I apologize for that.
+NEUT13|Those comments.
+NEUT14|Yeah, no kidding, kidding.
+NEUT15|That was stopping for it.
+NEUT16|Sorry it's 4th contacting the wealthy, correct correct with coming but but he's not supporting a wealth tax.
+NEUT17|That's the important thing now on the corporate tax side, Bloomberg was supportive of the Trump tax cut on businesses, but said the company tax reduction is on the wealthy were a mistake.
+NEUT18|Now when it comes to tax policy, Bloomberg likes to point to his success with raising taxes.
+NEUT19|On the wealthy in New York City.
+NEUT20|That's where he raised property taxes.
+BULL21|"In 2002, raise the top income tax rates a year later, and then raise sales taxes, which of course helped turn a multibillion dollar deficit into a surplus."""

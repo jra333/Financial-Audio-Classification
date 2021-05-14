@@ -1,0 +1,33 @@
+BEAR0|"""Protect failure affecting three major US organizations on Wednesday was not a coordinated cyberattack."
+NEUT1|That is what officials and security experts say.
+BEAR2|This morning after a string of problems affecting millions of people, technical glitches grounded, dozens of United Airlines flights shut down the New York Stock Exchange and crash the crash.
+BEAR3|Rather, the Wall Street Journal's website Jeff Glor is at the Stock Exchange where investors hope the Dow will bounce back from a 261 point loss.
+NEUT4|Jeff good morning venita.
+BEAR5|Good morning to you Wednesday was already shaping up to be a rough day here.
+BEAR6|With the debt crisis in Greece and a market mess in China.
+BEAR7|But then this glitch happened and trading ground to a halt.
+BEAR8|Officials suspended all trading at 11:32 AM and for nearly four hours the normally raucous floor of the New York Stock Exchange was quiet.
+BEAR9|Some 700,000 orders in the system had to be canceled as they work to fix a technical issue.
+NEUT10|They decided the best thing to do to protect people is to shut the market down.
+NEUT11|President Obama was briefed by members of his national security team.
+NEUT12|At this point, there is no indication that malicious actors are involved in these technology issues.
+BEAR13|The troubles of the Stock Exchange surface just hours after United Airlines experienced what they called a network connectivity issue.
+BEAR14|We have a major situation with United Airlines at 8:00 AM, the airline had grounded all of its flights after a faulty router knocked out many of its computer systems.
+NEUT15|The Washington Post reports.
+BEAR16|The outage lasted nearly two hours, affected 4900 aircraft and about 400,000 frustrated passengers.
+BEAR17|They send us over here and now this is Telescope back to the computer check in so we're just running around here in circles, then around noon, the Wall Street Journal's homepage crashed.
+NEUT18|Visitors were redirected to a temporary page until the.
+NEUT19|Normal website was restored, so we had three so-called coincidences.
+NEUT20|Today, I don't believe in coincidence.
+NEUT21|I weave a coincidence is an event that we don't have an explanation for.
+BEAR22|We do not see any indication of a cyber breach or cyberattack.
+NEUT23|Actually, think the Wall Street Journal piece is connected to people flooding their website in response to the New York Stock Exchange.
+BEAR24|Most people on Wall Street took the disruptions in stride.
+NEUT25|Few gave credence to the conspiracy theories that hackers were behind the mess.
+BEAR26|It's an embarrassment for the institution.
+BULL27|Which is a shame, but things break and they fixed it and things will break again.
+BEAR28|Another computer, snafu grounded.
+NEUT29|United flights last month as well.
+BEAR30|While this floor was closed down, trading did continue on other exchanges.
+BULL31|Both companies say they are not the victim of a cyber attack and Nora right now we're looking at a slightly higher opening this morning.
+BULL32|"All right, Jeff, thank you so much."""

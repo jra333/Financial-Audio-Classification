@@ -1,0 +1,19 @@
+NEUT0|"""Abigail was just running us through how volume has been so elevated."
+NEUT1|Do you expect that continue?
+NEUT2|And how are you seeing it show up across asset classes, not just equities?
+BULL3|Yeah, thank you very much for having me and I love seeing that chart because, you know, that's what the market maker thrives on is volume and volatility, and we've certainly, you know, I thought 2020 it would calm down in 2021 and we've actually seen the opposite as you just showed on that chart where we've seen significant participation from retail investors in the United States and it's really been brought across the world.
+NEUT4|And we've seen a lot of volume and volatility.
+BULL5|The in our Asian business in Japan and we've seen $40 billion days across Europe, which is nice to see.
+NEUT6|So you know, it's just there's a lot of cash or washing the system and investors need to invest it somewhere so you're seeing a lot of rebalancing, a lot of new participants in the marketplace, particularly here in the United States.
+NEUT7|Well, Speaking of new participants dog, how much of this volume is actually coming from the retail investor over last year?
+NEUT8|Citadel Securities John McCain over there had told us it could be as much as 25%.
+NEUT9|The busiest moments.
+NEUT10|What are we seeing this year?
+NEUT11|Yeah, I mean Jojo's spot on his smart guy, obviously.
+NEUT12|And these are all public numbers.
+BULL13|And so the retail participation is anywhere from like 22 to 25% per day, which is about an 8-9 sometimes 10% increase from what we saw from 2019.
+NEUT14|I think a lot of it has to do with some of the structural changes in the marketplace.
+NEUT15|Zero commissions, right?
+NEUT16|So there's a lot less friction in the marketplace, and obviously the pandemic and people working from home and maybe having a little more free time to trade in to invest.
+BEAR17|But certainly we've seen this systemic shift in the US equities marketplace.
+NEUT18|"I think it's here to stay."""

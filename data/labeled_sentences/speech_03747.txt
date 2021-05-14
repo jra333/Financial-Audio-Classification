@@ -1,0 +1,11 @@
+NEUT0|"""As House members are demanding that Jeff Bezos testify, let's get to Eamon Javers on this payment."
+NEUT1|Yeah, Carl, that's right.
+NEUT2|It's the House Judiciary Committee that just sent a letter to Amazon requesting that Jeff Bezos testify up on Capitol Hill.
+NEUT3|Now.
+NEUT4|This follows up on a Wall Street Journal investigation that found that some Amazon employees were apparently looking at sales data from third party sellers on Amazon's website to look for trends that Amazon might capitalize on itself to make competing products against its own third party sellers on the site now and Amazon official last year testifying on Capitol Hill, had said that the company simply doesn't.
+BEAR5|Do that and there's some concern now on the part of members of Congress that Amazon lied to the committee.
+NEUT6|Here's what they say in their letter to Jeff Bezos.
+BEAR7|They say, if the reporting in the Wall Street Journal article is accurate, then statements Amazon made to the committee about the company's business practices appear to be misleading and possibly criminally false or perjurious.
+NEUT8|Now they're saying here in this letter to Jeff Bezos that this is a request for voluntary testimony from Bezos on Capitol Hill.
+NEUT9|But they say the committee reserves the right.
+NEUT10|"To resort to compulsory process if necessary that is there threatening a subpoena here."""

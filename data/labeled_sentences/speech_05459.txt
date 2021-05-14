@@ -1,0 +1,14 @@
+NEUT0|"""Doctor J we're going to do unusual activity, but I'm doing this first because it plays into it."
+BULL1|Perhaps Netflix shares are rising on a report today out of Japan from the Nikkei Netflix to raise prices by as much as 13%.
+NEUT2|According to that publication, I'll have any more details for you on that.
+NEUT3|But John, you could talk that what you see and then do unusual for us please.
+NEUT4|Yeah Scott upside call buying big time about 35 minutes ago that started bang as soon as that release came out there also.
+BULL5|I guess raising prices in the UK, Scott so Japan and the UK both seeing price increases.
+NEUT6|They'd bring it here.
+NEUT7|I think that goes right to the bottom line and Netflix got as far as unusual activity.
+NEUT8|I've got two of them, both highfliers JetBlue.
+BEAR9|They were buying the March 18 calls, but the stocks 15 1/2.
+NEUT10|So I bought the 15 sold the 17th.
+NEUT11|Second one, also a high flyer.
+NEUT12|This is a Gen that's oncologix they're buying the March 6 calls and this is about a $5 stock Scott.
+BULL13|"So I bought the at the money 5 calls and I look to sell higher strikes if it rallies."""

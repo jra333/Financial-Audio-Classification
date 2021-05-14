@@ -1,0 +1,13 @@
+NEUT0|"""Hello, welcome to today's technical analysis for June 29th, 2016."
+NEUT1|I'm rapid by John currency analyst at xm.com.
+NEUT2|Today we will look at USD versus JPY on the daily chart.
+BEAR3|USD JPY has been stuck in its recent three day trading range and is being capped by the 10 consent line since bouncing off Fridays 2 1/2 year low of 98.96 last week, slide has significantly increased the downside bias for the pair with the Mac D Chart we can see here as falling deeper into negative territory.
+BEAR4|There is little upside momentum for near term gains as RSI.
+BEAR5|Remains well below 50 and is near oversold level.
+BEAR6|The tank Hansen Line is providing immediate resistance at around 102.85 and prices will likely struggle to rise above this level without a reversal or the downside bias.
+BEAR7|Further losses could see prices testing Monday's intraday low 101.39 while a sharper focus, sharper fall would bring the 101 and 100 levels in focus.
+NEUT8|As the nearest support levels.
+NEUT9|In a bigger picture.
+BEAR10|We can see that USD JPY has been on longer term down thread downtrend since December 2015.
+BEAR11|The bearish outlook is unlikely to change while prices continue to trade below the moving averages and ichimoku cloud.
+BULL12|"Thank you for watching and have a great day."""

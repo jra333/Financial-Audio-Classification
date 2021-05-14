@@ -1,0 +1,37 @@
+NEUT0|"""OK, so I'm going to be valuing Facebook stock as of today."
+NEUT1|Facebook is trading at $260.00 per share.
+NEUT2|As you can see, I've already ran my model, but I'm going to go ahead and run it again with you.
+NEUT3|So we are valuing Facebook stock and we're going to value it.
+NEUT4|Three different scenarios you have watched my videos in the past.
+NEUT5|The most important metric for discounted cash flow model is the free cash flow per share were going to take the 2020 free cash flow per share were going to go back five years in order to get our compound annual growth rate.
+NEUT6|We're going to project the future growth rate and then we're going to come up with their intrinsic value.
+NEUT7|These numbers stay the same, so I'm going to enter them now.
+NEUT8|2020 Facebook had 6.66 free cash flow per share.
+NEUT9|2015 Facebook had 1.76 free cash flow per share.
+BULL10|Over the past five years, Facebook has been growing free cash flow per share at 30% per year.
+BULL11|So if we assume that Facebook is going to continue to grow at 30% per year.
+NEUT12|We're going to use a 10% discount rate.
+NEUT13|3% GDP.
+NEUT14|The stock is currently trading at $260.33.
+BULL15|This gives an upside of .26%.
+NEUT16|That's not very much, however, if you are bullish on Facebook, which I am, I think that they're going to be a big player in virtual reality, augmented reality, Oculus.
+BULL17|I think that they're going to continue to grow their free cash flow per share at a higher rate than they have in the past, so I'm going to be slightly more aggressive at 32% future growth rate.
+NEUT18|Keep the same substance, 10% discount rate, 3% GDP.
+NEUT19|The stock is currently trading at 260.33.
+BULL20|So that is going to give 7.85% immediate upside now.
+BULL21|In the last scenario, we're going to be even more aggressive and assume that Facebook growth free cash flow per share 34% future growth rate.
+NEUT22|We continue to keep the same assumption with 10% discount rate.
+NEUT23|GDP is going to be 3% for GDP growth.
+NEUT24|Currently trading at 260.33.
+NEUT25|This gives the stock and intrinsic value of $301.00 per share.
+NEUT26|That is 15.91%.
+NEUT27|Upside under these scenarios, Facebook is a buy.
+NEUT28|Now, taking a look here at Facebook's chart, I have it under the past year.
+NEUT29|The Purple Line is the 50 day moving average.
+NEUT30|Yellow line is the 200 day moving average in the steel line is the 100 day moving average.
+BEAR31|The 50 day moving average just dropped below the 100 day moving average, which is something interesting to note, something that would be much more concerning is if the 50 day moving average drops below the 200 day moving average.
+NEUT32|That's what's known as the Death Cross.
+NEUT33|Facebook was trading around $300 per share in September.
+NEUT34|It is now trading at 260.
+BEAR35|So that is about 1315% drop from its high.
+NEUT36|"That is a decent area to enter if you want to buy Facebook stock."""

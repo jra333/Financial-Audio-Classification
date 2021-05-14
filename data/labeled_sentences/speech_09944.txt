@@ -1,0 +1,13 @@
+BEAR0|"""Apple, the world's most valuable company with a market capitalization of $657 billion, is losing its luster."
+BEAR1|The stock price has fallen more than 12% since mid July.
+NEUT2|The maker of iPhones, iPads, and Macintosh computers has been a stock market darling during the current bull run and it dominates investment portfolios.
+BULL3|Apple climbed to a closing peak of $133 back in February, only to consolidate in a range until mid July.
+BEAR4|Since then, it has crashed down through the important 200 day moving average momentum measure, not breached.
+BEAR5|Since September 2013, reinforcing just how bearish the price action in the stock has become.
+BEAR6|Although Apple more than doubled China sales during the recent quarter, investors were rattled as iPhone sales fell short of expectations.
+NEUT7|Then this week, a research firm poured petrol on the flames.
+BULL8|When it said Apple had ceded first place in the Chinese smartphone market to an upstart during the second quarter.
+BULL9|Apple has dominated the bull market that began in March 2009 and has easily eclipsed the gains we've seen for the broader S&P 500 and NASDAQ.
+NEUT10|But this aging bull market looks vulnerable and many highlight how this year alone leadership has resided in just a handful of stocks.
+BULL11|Seven account on their own for the 1.2% rise we've seen in the SMP so far this year, and this includes Amazon, Walt Disney, Google.
+BULL12|"Gilead Sciences, Facebook, Netflix and Yes, also Apple, so we may well be seeing one of the cornerstones of this bull market, sending investors a very important message."""

@@ -1,0 +1,20 @@
+NEUT0|"""If finances all Greek to you, you're not alone."
+NEUT1|Financial theory revolves around two Greek letters.
+NEUT2|Beta is the return you get from the market.
+NEUT3|Alpha is that extra turn you generate from a particular investment.
+NEUT4|By definition, everybody's alphas add up to zero or the same as beta.
+NEUT5|The market return generating Alpha is difficult, but tracking beta is cheap and easy.
+NEUT6|You buy an index fund, so now fund managers are creating smart beta.
+BULL7|Cheap tracker funds that have a chance to beat the market.
+NEUT8|How can they do that?
+NEUT9|Traditional indexes give most weight to stocks with the highest market value.
+NEUT10|That means they buy more hot stocks whose prices rising and don't fill up on bargains when they're cheap than you.
+NEUT11|Trick is to wait indices differently.
+NEUT12|According to companies book value or their dividends, or their sales.
+NEUT13|That way they should avoid over exposing to expensive stocks.
+NEUT14|They also follow indices that chase factors that.
+NEUT15|Academics have found beat the market in the long run size.
+NEUT16|Small companies beat big ones value cheap stocks beat expensive ones, and momentum stocks that are winning keep winning.
+NEUT17|In theory, you pay a little more than for a normal index fund and still get to beat the market.
+NEUT18|The Snag Smart Beta can't last forever if everyone does this.
+NEUT19|"Cheap companies catch up and smart beta no longer beats the index."""

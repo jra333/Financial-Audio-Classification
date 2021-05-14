@@ -1,0 +1,6 @@
+BEAR0|"""Yes, I do think that this could be the beginning of an uptrend in the stock price."
+BEAR1|It has been flat for the last six months.
+BEAR2|Investors have been weighing up the downside from a vaccine and what that might mean for Chernin subscriber numbers.
+BULL3|Against the upside from the pricing that I heard you guys talking about just before it looks as though the pricing is sticking without too much damage to the subscriber base.
+BULL4|So yes, in near term I see some catch up in the share price.
+BEAR5|"Let's not forget it had underperformed relative to the rest of the Big Fang stocks."""

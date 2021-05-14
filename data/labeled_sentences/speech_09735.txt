@@ -1,0 +1,33 @@
+NEUT0|"""Coming up on 8:25 this Wednesday morning, it was one year ago this week when the market crash Pete, the Planner is here to talk about what's happened since that dreadful week."
+BULL1|Pete good morning to you.
+NEUT2|Good morning.
+BEAR3|It is been a long year.
+NEUT4|I have to say Daniel at the beginning of this thing one year ago today I looked much different.
+NEUT5|I was as handsome as Jimmy O'Brien and this is what I look like now.
+BEAR6|So it's been a long year.
+NEUT7|We had a little more hair.
+NEUT8|I would probably be better predict that.
+NEUT9|How has the market changed since then?
+NEUT10|Alright, so last year at this time we were doing daily, you know, discussions on the air about what was happening and it was a disaster.
+BULL11|But Daniel, it is the ultimate lesson and investing while the economy has continued to struggle, we've had some rebound.
+BULL12|We're still trying to find our footing.
+NEUT13|The market took off really from March 23rd, right from March 23rd on the market was on fire, the S&P 500.
+BULL14|Which is the most common index that people used to talk about the market was up 66% from we're at one year ago today to today.
+NEUT15|That's what it is.
+NEUT16|Well, how about this one?
+BULL17|The NASDAQ, which is more tech driven investing is up 95% in the last 365 days.
+NEUT18|And of course the technology we're using to talk to each other today.
+BULL19|Something like a zoom went up 210% unbelievable.
+NEUT20|Yeah, so Daniel.
+NEUT21|The lesson here is.
+NEUT22|When the market is crashing or correcting or going into a bear market, if people keep their head, take a breath and don't sell, they generally do OK. That makes a lot of sense and very quickly you think that will happen again in 2021.
+NEUT23|Do I think there will be another level of returns?
+NEUT24|Another crash, oh, another crash.
+NEUT25|No, not necessarily.
+BULL26|I do think the consumer economy is going to have a robust return here in 2021.
+NEUT27|I think 2022 later early 2023.
+NEUT28|Could be interesting as as we find our equilibrium of spending as consumers.
+NEUT29|But I think people can relax from a market standpoint this year and just enjoy the returns they got from last year.
+BULL30|OK Pete, the planner always good to talk with you this morning.
+BULL31|Happy Saint Patrick's Day to you Sir.
+BULL32|"You too Daniel."""

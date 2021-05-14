@@ -1,0 +1,34 @@
+NEUT0|"""What is the price point cut?"
+NEUT1|Is it compared to what else is out there on the market of come parable type type of vehicles?
+NEUT2|Well, I'm not sure what else is out there that is comparable right now.
+NEUT3|I'm sure we're going to see the cyber truck at some point, but we don't know exactly what the pricing will be there an the high end of the market.
+NEUT4|If there is a part of the auto market that has supported electric vehicles, it is the high end.
+NEUT5|Now let's point out that 100 and 12,000.
+NEUT6|That's for the limited edition.
+NEUT7|First run of models that will be coming out at the end of next year.
+NEUT8|Subsequent to that, or following that, you will see the price come down to basically 100,000 ninety thousand.
+NEUT9|And then 80,000 by 2024.
+NEUT10|And I know a lot of people at home are going to say 80,000.
+NEUT11|Still a lot of money for a car.
+NEUT12|I'm not sure how many people are going to be out there looking for that, but when you look at the features that are involved in what they've thrown into the Hummer, I think there is going to be a market there for this, and I think that they're going to find buyers.
+NEUT13|The question obviously becomes how much volume and we don't know what that will be until we see how it's received over the next couple of years.
+NEUT14|Tim, what do you make of the price point?
+NEUT15|Yeah, I think you know.
+NEUT16|Almost a decade ago, when the Model S Tesla is all electric sedan came out and it was selling for about $100,000.
+BEAR17|That really caught people at GM off guard.
+NEUT18|The idea that there was a customer base out there willing to spend 100 grand for an electric vehicle.
+NEUT19|Previously GM strategy had really been this idea that if you want an electric car was probably because you were cheap because you wanted to save money on gas and so Tesla change the mindset.
+NEUT20|This was no longer just about fuel efficiency or economy.
+NEUT21|This was about having that hot new car.
+NEUT22|And the strategy here from GM seems to be kind of leaning into that going for the high end, going for luxury, going for cutting edge.
+NEUT23|But Tim, it also assumes that the number of people were looking at the market share for electric vehicles.
+NEUT24|One point 3% estimated for this year an and assuming that there is demand for 100 and $12,000 electric vehicle in addition to the demand for Tesla.
+BULL25|I mean, it's assuming that that audience base is growing.
+NEUT26|Is it growing by that much?
+NEUT27|Well, at the $100,000 level, probably not.
+NEUT28|And that's where this could be a potentially harmful or a little bit of a risk for Tesla in the auto industry we've talked for years about automakers coming out with the next Tesla killer, the vehicle with it would rise up and be the product that would not Tesla on its rear, and it hasn't happened.
+NEUT29|I think of this more.
+NEUT30|Is the Tesla Nibbler, it's a vehicle that could come to market, it could find an audience and nibble away at that market share, nibble away at one of the profit centers that Tesla has.
+NEUT31|Have as it tries to come out with all these other vehicles so as essentially GM is coming and coming after you know something that Tesla took for granted that $100,000 market.
+NEUT32|Shepard Smith here.
+NEUT33|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,13 @@
+BEAR0|"""Hey, what is going on guys?"
+NEUT1|Welcome back to another video.
+NEUT2|So earlier today in the semiconductors CEO Donald Mcclymont was interviewed by Jim Cramer on Mad Money discussing the future growth within the company.
+NEUT3|I'll provide a link to that video in the description below for those who aren't familiar, indie semiconductor is a company that makes next generation chips and software for the automobile industry.
+NEUT4|Is in a process of merging with Thunder Bridge acquisition.
+NEUT5|We're currently trades under the symbol T HBR, although it will become India under the new symbol I ndy.
+NEUT6|Once the deal closes in the next several weeks.
+BULL7|Currently they have exposure in autonomous driving connectivity, user face technology, and electrification with the current shortage in the auto industry for some ice chips, this could give chip makers, like indie, some serious business.
+NEUT8|Some of the customers include Tesla, Audie Ford, Mercedes-Benz, Volvo, GM, Porsche, Jaguar, and Chevrolet.
+NEUT9|In addition, the company is projecting to do $500 million in sales by 2025.
+BEAR10|If we take a look at a chart very briefly, we can see a clear downtrend from the highs of $15 back all the way down to $10.50 withdraws.
+NEUT11|The question is the stock heading for a reversal anytime soon we will continue to monitor this company and this latest PR to see any developing stories the company is planning to do.
+NEUT12|"Leaving your thoughts in the comments below and until next time this is William Kim signing out."""

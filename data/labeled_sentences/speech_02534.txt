@@ -1,0 +1,24 @@
+NEUT0|"""I want to talk about what a stock market indexes or an index is often referred to."
+NEUT1|So I'm talking about, for example the S&P 500 and the Dow Jones industrial average.
+NEUT2|Now, what do these numbers actually represent?
+BULL3|Because they're often on TV and they are focused on the newspapers, up 1% up, 50 points, up 100 points.
+NEUT4|Well, basically, instead of looking at the price of one company by a share price and looking at, you know, one company is the market value of 1 company's equity.
+NEUT5|Through its share price.
+BULL6|So for example, the market value of a company is going up by 5% in share price is going to be 5%.
+NEUT7|We can look at the market, the performance of an overall stock market or a portion of the stock market and the way this is done this be an index.
+NEUT8|And so for example, for example the S&P 500 captures the the market value of the equity of the 500 most widely held companies in the US and the way this is done is by one of two methods for indices.
+NEUT9|In general, index is typically calculated.
+NEUT10|Either by on the basis of market capitalization on the basis of price, and what that means is in the first instance on the market before market capitalization index, which is more common, one is basically all the market values of the equities of all of the companies in that index are added up.
+NEUT11|So that's saying that case the S&P 500, the market value, the equities of all of those 500 companies are added up and then to get it down to a manageable number.
+NEUT12|It's divided by a constant number and at every point in time using computers.
+NEUT13|All those market values of the equity as they change of the companies in that index as they change.
+NEUT14|Then again divided by that constant number to get it down to a manageable number.
+NEUT15|Because these market values of equity would be in the billions, clearly.
+NEUT16|How to get down to a manageable number is divided by a constant and and that is monitored so we can see how aggregate the market value of these companies in this index is going up or down on that particular day or that particular incident time.
+NEUT17|Now the S&P 500 was started at a base level of 10 in the period 1941, nineteen 43 so and So what we're seeing when we see the market that index go up or down as we're seeing how those 500 companies as per the definition of that index.
+NEUT18|How the market value of their equity is changing now the 2nd way that indices are calculated based on price.
+NEUT19|This is used less commonly and you could argue that because the share price doesn't really tell you that much about the value of the company, because it's really the share price multiplied by the number of shares that gives you the market value of the equity of that company.
+NEUT20|You could say that the using the price is a somewhat different measure because the price can be a little bit arbitrary and that you know a company could have a share price of $50.00, But then they could decide to double the number of shares of existence, so all of a sudden the share price is $25.00, But the company actually does not become any more or less valuable because it's really the value of the overall equity that defines the value of that company.
+NEUT21|So, but in the case of a price weighted index, such as the case in the Dow Jones industrial average.
+NEUT22|The prices of all of the stocks, in this case 30, are added up and then divide it again by a constant to get it down to an easy, easy to follow number and then basically monitoring the price movements in aggregate of the companies that invest index.
+NEUT23|"So those who would stock market indices are there ways of following groups of stocks using a certain methodology, their market capitalization or price instead of following individual stocks at points in time."""

@@ -1,0 +1,17 @@
+NEUT0|"""Here the analysis is that the UK, while an important economy, is a pretty small one in terms of the rankings of export partners for export markets for the US, and therefore it shouldn't have a dramatic impact on US growth."
+BEAR1|However, if there were a contagious loss of confidence across the European Union and a slowdown in the euro area, then it certainly is possible that that could.
+NEUT2|Trigger a more important impact on US growth.
+NEUT3|I think the financial links are important.
+NEUT4|Clearly financial market reaction could also play back into the US scene.
+BEAR5|For example, we have seen a flight to safer assets by investors as a result of the Brexit vote.
+BULL6|This is driven down yields on government debt, and that's clearly good news for the US economy in terms of helping borrowers with their love by lowering our borrowing costs.
+NEUT7|On the other hand, it also reflects.
+BEAR8|And a very bearish view of the growth outlook, and that in itself could be a worrying signal ahead.
+BEAR9|Dollar strength has been a harbinger of financial instability earlier this year.
+NEUT10|It has a double effect.
+BEAR11|It can lead to financial instability or or certainly market tremors in emerging markets, in particular, in part because emerging emerging market corporates have borrowed a lot of money in dollars.
+BEAR12|It also can lead obviously to a drag on US exports.
+NEUT13|Really, The upshot of all this.
+BEAR14|Turbulence surrounding the Brexit vote is likely to be a very cautious Federal Reserve.
+BEAR15|It was already cautious going in to the referendum.
+BEAR16|"Vote is likely to be even more cautious now, given all the uncertainty about the market outlook and about the outlook for exports and US growth in general."""

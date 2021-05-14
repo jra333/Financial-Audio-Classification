@@ -1,0 +1,20 @@
+NEUT0|"""Let's go overseas to see how markets in Europe and Asia are trading our funds."
+NEUT1|Tom Belcher joins us now for the latest on this time.
+BULL2|Hi Myles, yeah we seen yesterday's rebound in Europe continuing today after a steep sell off here on Friday, the continent wide Stoxx 600 index actually had its best day in four months.
+BEAR3|Yesterday yields actually dropped sharply on European bonds so far today.
+BULL4|The stocks that acts at the cat and the Footsie, all about half a percent higher.
+BULL5|Swedish carmaker Volvo is one of the firms leading gains in the constant.
+NEUT6|It said it will go all electric by 2030.
+BULL7|Big announcement there and then in Europe, in in Britain even house price growth.
+BULL8|Today we got new figures showing it came in faster than expected prices that and you record high in Britain's booming property market and the leading housebuilder Taylor Wimpey's also just announced it's the orbicom even the 26th Footsie 100 company to reintroduce dividends in the wake of the pandemic and recovery.
+NEUT9|It's also the government budget day here tomorrow, so all eyes really on that property.
+BULL10|Tax cuts that have fueled.
+BULL11|The market so far expected to be extended, and I drove housebuilders higher yesterday.
+BEAR12|The government is also expected to extend crisis support and stimulus measures, but it's worth saying European stocks did actually open much lower this morning.
+BEAR13|But topsy turvy like US futures on Asian markets, mostly fell over developments in China.
+BEAR14|Firstly, slower Chinese factory growth knocked oil prices and energy stocks in Europe.
+BEAR15|They still seem to be lagging at slightly, but OPEC secretary general in the last couple of hours.
+BULL16|He said he's encouraged by Chinese demand and oil does actually seem to reverse course in the day so far.
+NEUT17|Secondly, as Jared said earlier at Chinese regulators, voice concern over an asset bubble in Europe and the US, and a potential spillover there, so a lot to chew on back to you.
+BULL18|Alright, yeah, I'm fine this time.
+NEUT19|"Belgium with the latest on everything happening in overseas markets."""

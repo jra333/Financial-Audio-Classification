@@ -1,0 +1,8 @@
+BEAR0|"""The stock market long, a barometer of the health of the economy, now appears completely detached from the reality of a struggling economy."
+BULL1|If however, getting back to a state of normalcy is now on the horizon, the rotation out of tech long, the leader in the market, run to new highs, may continue in the short term.
+BEAR2|This sector has led the pandemic Laden economy.
+BULL3|But now that there is possibly a light at the end of the tunnel due to vaccines, what does this mean for the sector stocks that are tide to eventual recovery and growth in the economy have started perking up.
+NEUT4|Sectors like transportation, travel and leisure in cyclical stocks, however, don't count out big tech just yet.
+NEUT5|If anything we've learned over the last nine months that there may be a new way of doing business in Big Tech will be involved more than ever.
+NEUT6|And of course, don't forget about the Fed.
+BULL7|"Even without a new stimulus package, which mainstream America needs so desperately, the amount of stimulus being pumped into the economy is not likely to stop anytime soon."""

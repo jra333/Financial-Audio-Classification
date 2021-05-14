@@ -1,0 +1,10 @@
+NEUT0|"""Welcome to the FT market minute."
+BEAR1|He's watching in London on Friday morning after a quiet week for top draw economic data, the quarter is ending with a flurry of reports including UK GDP, U.S. consumer confidence and eurozone inflation, and as they wait for these numbers trailers in a cautious mood, global stocks had a good quarter, but U.S. equity futures are ending March, lower dragging down European stocks after mostly losses in Asia.
+BEAR2|Notable casualties are South African assets.
+BEAR3|For President Jacob Zuma sacked his finance minister there and is down 8% on the week.
+BEAR4|The last time we had a full like this was the last time a finance minister was sacked.
+NEUT5|Who knew equities with significant exposure.
+BEAR6|South Africa are also under the cosh with four stocks like Old Mutual hitting the foot seen in other currency news.
+BULL7|The dollar index remains above 100 as it continues to be supported by recent evidence that fed and ECB policy divergences very much alive.
+BEAR8|This is halted goals recent rally leaving the bullying around 1240 announce and all prices are a bit softer.
+BEAR9|"Both Brent and West Texas Intermediate are back above $50 a barrel."""

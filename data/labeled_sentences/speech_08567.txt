@@ -1,0 +1,41 @@
+NEUT0|"""I just made $5 million five million."
+BEAR1|That's $5 million the past month.
+NEUT2|Investing, as you can see, I have more than $100 million.
+NEUT3|Subscribe to my channel so I can teach you how to make millions.
+NEUT4|Let me tell you about my day so far.
+NEUT5|Coffee in Paris sort them, all deems it took a little nap of Mount Kilimanjaro, know yeah?
+NEUT6|And then I jumped back for the final quarter of the NBA Finals course out of course, and all that was before lunch.
+NEUT7|I could go on belong sayings.
+NEUT8|I'm standing on top of the world.
+NEUT9|Amazon is a low volatile company.
+NEUT10|And.
+NEUT11|That's because Jeff Bezos.
+BULL12|He does a very good.
+NEUT13|Deal with.
+NEUT14|Handling the company of Amazon.
+NEUT15|What is Amazon?
+NEUT16|Some people don't even know the basics of Amazon.
+NEUT17|It's a very popular Internet site where people can buy and sell.
+NEUT18|Dude from companies in each other.
+NEUT19|Amazon Inc engages in the provision of online retail shopping services.
+NEUT20|It operates through the following business segments.
+NEUT21|North America International, an Amazon Web Services the North America segment includes retail sales of consumer products and subscriptions through North America focused websites such as Amazon.com an.
+NEUT22|The International segment offers retail sales of consumer products and subscriptions through internationally focused websites.
+NEUT23|The Amazon Web Services segment involved in the global sales of compute storage database and AWS service offerings for startups, enterprises, government agencies and academic institutions.
+NEUT24|The company was founded by Jeff Basals in July 1994.
+NEUT25|And is headquartered in Seattle, WA.
+NEUT26|The listen name for it.
+NEUT27|AMZN is Amazon.
+NEUT28|So is Amazon a buy or sell?
+NEUT29|That's the question.
+NEUT30|Is it a buy or sell?
+NEUT31|Make sure you guys subscribe to my channel and stay tuned for my next videos on Amazon.
+BULL32|Thank you guys for watching.
+NEUT33|Warren Buffett.
+NEUT34|The billionaire investor once said, be fearful when others are greedy.
+NEUT35|Anne be greedy when others are fearful by billionaire Warren Buffett.
+NEUT36|And essentially what this means is.
+NEUT37|When everybody when?
+NEUT38|When traders are greedy, they'll keep on buying and buying and buying and driving the price up.
+NEUT39|Anne.
+BULL40|"Thinking that it's going to keep on going up and up and up."""

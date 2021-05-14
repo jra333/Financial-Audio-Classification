@@ -1,0 +1,13 @@
+NEUT0|"""Here's what we're following across."
+NEUT1|Markets were trading underway in London.
+NEUT2|Oil dominates the market attention once more.
+BULL3|Big question is, can the price of Brent crude finally rise above $50 a barrel?
+BULL4|We have not been above that threshold since November of last year.
+BULL5|Some would say we should be higher thanks to a number of production outages around the world.
+BULL6|Oil has risen from its low of around $43 a barrel earlier this month.
+BEAR7|For now, $50 crude looks like being the ceiling given the choppy price action we're seeing in the market today.
+BEAR8|A key source of support for oil and other commodities is a retreating dollar.
+BULL9|The Aussie Dollar Sterling and the Japanese Yen are winning the currency stakes this morning in London.
+BULL10|Emerging market currencies led by the ruble, South African Rand and the Korean War and are also looking perky.
+BULL11|So with the dollar under the cosh base, metals are also firmer.
+BULL12|"Extending this week's rally for minors, materials and Energy LED Wall Street High yesterday in the baton has been picked up in Asia and Europe, sustaining a bright start for the week for global Equities."""

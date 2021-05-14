@@ -1,0 +1,22 @@
+NEUT0|"""If you're looking to track down your old data, if you haven't used the listing software or the listing spreadsheet in the past, Fortunately Amazon hangs on to all that information for you."
+NEUT1|What you're going to do is you're going to download the active listings report, which can be found under the inventory tab in Seller Central.
+NEUT2|Come down to inventory report to.
+NEUT3|This screen will pop up.
+NEUT4|From there, you're going to go down.
+NEUT5|Grab the second option which is active listings report.
+NEUT6|Now don't be confused.
+NEUT7|It says active listings.
+NEUT8|This will actually pull everything, even if you've already sold it.
+NEUT9|Unless you've gone back and deleted.
+NEUT10|Old listings, so this won't just be current active inventory that's for sale.
+NEUT11|It's anything you've ever listed into your account.
+NEUT12|Again, if you haven't deleted it, you can go ahead and click request report.
+NEUT13|This may take a few minutes to download.
+NEUT14|You can refresh the page to pull in and see where it's at.
+NEUT15|It'll say submitted, then it'll say in process or in progress.
+NEUT16|I just did one a couple of minutes ago.
+NEUT17|Bout bout 40 minutes ago or so and it's already done.
+NEUT18|So I'm going to download that if you're using Chrome, it'll show up down here in the bottom and it may take a little bit of time depending on how many.
+NEUT19|Items you've listed in the past.
+NEUT20|Once that's done, you can open it up.
+NEUT21|"It'll be a text file and will show you how to convert that file to paste into the tracking spreadsheet in the next video."""

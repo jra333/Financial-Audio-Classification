@@ -1,0 +1,13 @@
+NEUT0|"""Lulu, what is the significance of this departure?"
+BEAR1|Well, it deals another blow to the same tech giant that's been embroiled by regulatory crackdown.
+NEUT2|We're still trying to find out the back story for why Simon, who?
+NEUT3|You see?
+BEAR4|The CEO resigned, but the most obvious explanation is that he was tasked to take the company to go public, and now with all the uncertainties surrounding the IPO timeline of the company, it seems that the value or the amount of work that timing can continue to do at the company is very limited.
+NEUT5|Can you talk about the politics a little bit?
+NEUT6|Lulu behind the scenes?
+NEUT7|The idea here of and having a huge source of information about the population of China and the Chinese government getting concerned about their power.
+NEUT8|What is sort of the dominant narrative that will be driving this forward?
+BEAR9|I do think that right now a key element of contention is the data that all these tech companies hold and and like you said, having data over a billion people via Alipay app is a source of concern for the government.
+NEUT10|Not only because it has so much knowledge about or what's happening to the country and its people, but also the fact that tech companies are expanding into so many areas that can have systemic risks for the company.
+NEUT11|Finance, Digital Life Services cloud, you name it.
+NEUT12|"These are all areas of sensitivity for the government."""

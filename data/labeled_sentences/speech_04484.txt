@@ -1,0 +1,48 @@
+BULL0|"""Netflix is up big in the pre market after reporting sub numbers exceeded 200,000,000 for the first time as 2020 ended."
+BEAR1|That news overshadowed a quarterly earnings miss on last night's call.
+BULL2|Reed Hastings said Netflix has a lot more viewers.
+NEUT3|They hope to get.
+NEUT4|You take the US being our most penetrated market.
+BEAR5|We're still under 10% of television viewing time as Netflix.
+BULL6|So again, there, you know, we've got a lot of subscribers here in the US, but we still have a lot more viewing time that we would like to earn with an incredible service and incredible content.
+BULL7|Nice round of upgrades this morning.
+NEUT8|Jim, including Wells, which goes to 700 look.
+NEUT9|This was a remarkable quarter because when you hear the kinds of things they're talking about, the free cash flow you have to go back and think this wasn't this company supposed to be overspending?
+NEUT10|Wasn't this company supposed to have no ability to go long term?
+NEUT11|Was this company really able to make individual content that was going to be good?
+NEUT12|Every bit of that is true when you go over this console why I think you think about is if you give the people the best product.
+NEUT13|George Clooney, starring directing in the midnight Sky, I guess I'm going to watch that because.
+NEUT14|He already told us read that 72 million households are going to choose to watch it when you give him product like Lupin, David and inner drilling filled French language high series.
+NEUT15|Yeah, then that's the love that that's what I say drives.
+BULL16|Cash flow is 10 tribes, even well in cash flows.
+NEUT17|The key, I think in a way that perhaps Netflix is being looked at in a way that it hasn't been previously, or at least delivering on the promise that many people doubted five years ago, which is that this would become a free cash flow story.
+NEUT18|So let's not forget they're talking about getting the free cash flow break even, and they're even at least discussing the possibility of buying back stock or returning capital to shareholders.
+NEUT19|Yes, they need to have a certain amount of debt because they need a certain amount of cash available at all times in order to continue to produce at the rate that they are.
+NEUT20|But you know to those who wants question whether this could be viewed in some ways as a cable company, as in producing a lot of free cash flow and levered up to a certain to a fairly high degree.
+BULL21|Well, I think they're proving it right and in part Jim they're doing so because churn is solo.
+NEUT22|You've had HBO Max, you Wonder Woman's been out?
+NEUT23|There hasn't hurt them.
+BULL24|Disney, Plus growing enormously hasn't hurt them, and so they are proving that they're not going to grow as fast as they had, but they're not going to lose Subs.
+NEUT25|It's an international company.
+NEUT26|This call is about how well they're doing in Europe.
+BULL27|How well they're doing in Asia, how Latin America is still good.
+NEUT28|They had done something that I never thought could happen.
+NEUT29|We watch subtitles.
+NEUT30|We watch all sorts of stuff that we never would watch.
+NEUT31|They understand how to do programming.
+NEUT32|They can do international programming.
+NEUT33|I just find that that's very different from HBO.
+NEUT34|It's very different from anybody when they talk about Disney to say like hey, welcome aboard, hey you guys have done a good job.
+NEUT35|I mean, it's almost I've never seen anything as.
+BULL36|As congenial as, I mean, it's like hey glad to have you welcome into our world.
+NEUT37|It's a remarkable I wish everyone would listen.
+NEUT38|I mean, you know this is putting on a clinic of how I mean, it's online is very Andy Reid like OK Everybody loves Andy Andy saying, hey listen, I hope everybody's doing well.
+NEUT39|It would be terrific.
+NEUT40|I hope that they're not yawning as I talk because I see, oh I did it.
+NEUT41|David, if I put you to sleep, I don't know.
+NEUT42|I can give you some.
+NEUT43|You're not putting me to sleep, leave me alone.
+NEUT44|I'm fine leave you alone.
+NEUT45|I watched that midnight Sky's alright.
+NEUT46|Shepard Smith here.
+NEUT47|"Thanks for watching CNBC on YouTube."""

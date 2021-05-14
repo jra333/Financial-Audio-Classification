@@ -1,0 +1,17 @@
+NEUT0|"""Welcome to the official YouTube Night News channel."
+BULL1|JPMorgan Avengers end game shows core strength of Disney stock.
+NEUT2|Disney blockbuster Avengers endgame.
+BULL3|Past the $1 billion box office mark in the opening weekend, an JP Morgan sees the strength of the company's core studio business as indicative of a strong year ahead.
+BULL4|Dot in a note titled No In Game Insight for Disney's success, JPMorgan increased its price target on the company to $150 a share from $137.
+BULL5|The new target represents a 7% increase in the shares from Disney's Friday close.
+BULL6|The stock, which has gained more than 27% this year, was up 1.5% ahead of Monday's opening Bell.
+BULL7|The underlying business continues to perform very well, with several notable catalysts ahead that we believe may continue to drive outperformance.
+NEUT8|JP Morgan analyst Alexia Quadrini said in a note to investors on Monday.
+BULL9|These catalysts could include upside to the studio segment as well as Marvel's reveal of a longer term slate expected by Midsummer upside to attendance at parks following the largest expansion in the company's history and better revenue growth at Media Networks.
+NEUT10|Quad Ronnie said.
+BULL11|JP Morgan was also raising its estimates for Disney's third quarter earnings to $1.80 a share from $1.73 a shares, specifically citing a better than anticipated performance of Avengers Endgame.
+BULL12|We continue to see upside to shares even after an impressive 20% increase since the Investor Day on April 8th.
+BULL13|Given notable catalysts ahead could, Ronnie said Callan, which also has an outperform rating on Disney's shares, said in a note on Monday that the company has a very positive content catalyst.
+NEUT14|For the next year.
+NEUT15|Disney closed at $139.92 a share on Friday.
+BULL16|"Thank you for watching."""

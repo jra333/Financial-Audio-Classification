@@ -1,0 +1,35 @@
+BULL0|"""OK, so rich."
+NEUT1|I've gotta tell you I'm a revenue guy when it comes to Domino's when I see these revenues.
+NEUT2|I just say I don't know how much it costs him.
+NEUT3|But in a year of covid they are making a move and it will not be repealed even after the pandemic's over.
+NEUT4|If you tell me.
+NEUT5|On the other hand that look no Jim, I misjudged the cost.
+BULL6|The costs are going to be up.
+NEUT7|This is the new normal for us.
+NEUT8|Then I will restrain my bullishness.
+NEUT9|Which is it?
+BULL10|Well Jim, it was a terrific quarter for us on the top line.
+BULL11|As you noted, with 17 1/2 percent same store sales growth in the US and a great quarter in the international business as well.
+NEUT12|And you know the reality is it's just more expensive to operate.
+NEUT13|You know, in in in the coronavirus world that we're living in now, you know, as a restaurant owner, you know as well the costs around protective equipment around cleaning supplies.
+BULL14|And also you know, Jim, we're really leaning in, you know, to support our frontline team members with.
+BULL15|Hey, an enhanced sick pay policy's as well.
+BULL16|Combine that with a, you know, a cheese price increase over the course of the summer, and we saw some cost pressures.
+NEUT17|You know, in the short term, but over the long term, you know we're we're continuing to focus on driving that top line.
+BULL18|You know, some of these covid related costs will certainly abate over the long term, and that's what we're really focused on is taking the opportunity to serve our customers, take care of our team members, and position the business for that long term growth.
+NEUT19|Will be, yeah, these are the kinds of things.
+NEUT20|For instance, if you had asked me well what to think, I would have said OK. How's America doing to some of those European markets?
+NEUT21|Whatever, I never thought I'd come here and say, China, Japan, Germany.
+NEUT22|I mean if these are leading then I know that your total addressable market was.
+NEUT23|He is even bigger than I thought.
+NEUT24|Yeah, so what's happened?
+BULL25|You know Jim is the markets that were able to stay open and operating through the pandemic in the US is certainly one of them.
+NEUT26|So are China, Japan and Germany now.
+BULL27|We've seen a nice tailwind for pizza delivery in all of those markets and our teams here at home and abroad have done a great job of ramping up to serve that demand.
+NEUT28|Don't miss a second of mad money.
+NEUT29|Follow at Jim Cramer on Twitter.
+NEUT30|Have a question?
+NEUT31|Tweet grammar?
+NEUT32|Hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC miss something Ed to madmoney.cnbc.com.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

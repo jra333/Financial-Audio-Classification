@@ -1,0 +1,33 @@
+NEUT0|"""Hey guys, it's Vivian."
+NEUT1|You hot stock girl today I'm going to discuss Coca Cola.
+NEUT2|The ticker symbol is KO is Coca Cola entering the marijuana business?
+NEUT3|Could be there have been reports that Coca Cola has been in talks with Aurora Cannabis to develop cannabis infused drinks?
+NEUT4|Sounds crazy right?
+NEUT5|Coca Cola is the largest beverage company in the world.
+NEUT6|Everyone knows these Cola and Sprite, but they also sell the sunny water Minute Maid orange juice.
+BULL7|As well as energy drinks, teas and coffee, Coca-Cola is so big it has been a challenge for the company to grow its sales.
+NEUT8|So is it time to buy Coca Cola stock?
+NEUT9|Let's look at the valuation.
+BULL10|Coke is currently trading at 20 times eBay Doll and hasn't grown its revenue in years.
+NEUT11|Investors are paying a growth stock multiple for a company that is basically a dividend stock.
+NEUT12|The current dividend yield of three point 4% is decent for a large, well established multinational Corporation for the past five years Coca Cola stock has traded between 40 and $45 per share.
+NEUT13|It is pretty stable and dividend investors like it this way.
+NEUT14|Right now is a long term investment.
+NEUT15|I wouldn't touch the stock.
+BEAR16|The dividend may be nice, but if the stock drops back to $40 you would lose five years worth of dividend gains.
+NEUT17|Now, if Coca Cola buys Aurora cannabis, that would change everything, at least for the short term.
+BULL18|The stock will probably treat higher because investors may anticipate in marijuana infused sodas being a new billion dollar industry, but soon after reality will set in.
+NEUT19|First off, nobody knows if people will actually buy cannabis infused soda.
+BEAR20|There would probably be a big backlash from parents worried about their kids drinking this stuff.
+NEUT21|There is also the issue that cannabis sales are not legal in most States and it is illegal on the federal level.
+NEUT22|That means Coke wouldn't be able to transport cannabis infused soda across state lines.
+NEUT23|There is no way they would open manufacturing facilities in each state where cannabis is legalized, it's just too expensive to do so.
+NEUT24|And don't get me started on how stupid it would be to market cannabis soda.
+NEUT25|It would be the opposite of Red Bull.
+NEUT26|Coke has avoided selling alcohol all these years and I really think cannabis infused soda will not become a popular drink.
+NEUT27|I would avoid Coke stock, but on the outside chance that they would buy Aurora cannabis it could become a stock a day trader stock.
+NEUT28|So there you have it.
+NEUT29|My thoughts Uncle Cola and cannabis.
+NEUT30|I'm Vivian.
+NEUT31|Your hot stock grow and please be sure to subscribe below.
+NEUT32|"And check out my other videos from our great investment ideas."""

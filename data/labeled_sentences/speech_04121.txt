@@ -1,0 +1,14 @@
+BULL0|"""Well, tech is doing well today."
+BULL1|Apples up a percent.
+BULL2|Apple reportedly working on a new series of Mac chips that could outperform Intel's fastest chips.
+NEUT3|Josh Lipton with the details Josh.
+NEUT4|Sarah, that's right.
+NEUT5|So new chips for the Mac are on the way, coming as soon as next year.
+NEUT6|That's according to a new report from Bloomberg, which says these would be successors to that new M1 ship that Apple remember just unveiled last month.
+BULL7|Reportedly, these new chips could outpace the performance of Intel's best Apple does expect to complete its transition away from Intel and to its own silicone.
+NEUT8|In 2022, Apple share of the PC market less than 10% right now, but these new chips.
+BULL9|Really do outperform rivals at the high end.
+NEUT10|Then Tim Cook and perhaps take, share and give another boost to the Mac back to you all.
+NEUT11|Josh Lipton Josh thanks.
+NEUT12|Shepard Smith here.
+NEUT13|"Thanks for watching CNBC on YouTube."""

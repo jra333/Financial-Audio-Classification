@@ -1,0 +1,8 @@
+NEUT0|"""However, let's take like the Apple stock."
+BEAR1|We can see Apple has shown very weak in the past several weeks, especially after the top it has made on the end of December and then from then there's no new high, their secondary high.
+BEAR2|And now we gotta lower lower high compared to the height made.
+NEUT3|The 29th of December.
+BEAR4|So it's clearly downtrend for the Apple stock, so should be very careful if you still hold the stock.
+NEUT5|You should consider sell.
+NEUT6|If it break down from here if you don't hold the stock.
+NEUT7|"Don't buy it now so that there's no clearly uptrend channel."""

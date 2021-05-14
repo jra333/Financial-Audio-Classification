@@ -1,0 +1,7 @@
+NEUT0|"""All right now to the latest on the coronavirus."
+BEAR1|The Who says that the number of cases have surpassed 93,000 globally and the death toll is now above 3100 people in the United States, 2 deaths in Washington state bring the total death toll here to 9.
+BEAR2|Meantime, Amazon says one of its employees has tested positive for coronavirus.
+BEAR3|The company says that the employee worked at its South Lake Union office in Seattle.
+BEAR4|Amazon says the worker has now been quarantined and it has notified employees at that location.
+BULL5|In the meantime, our nation's Capitol lawmakers are reportedly finalizing a seven and a half billion dollar emergency bill to fund the government's response to the outbreak.
+BULL6|"A bipartisan deal is expected as early as today, with hopes of pushing the measure through Congress by the end of this week."""

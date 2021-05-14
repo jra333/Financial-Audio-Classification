@@ -1,0 +1,51 @@
+BEAR0|"""Similar to some of the issues that are plaguing the smartphone market right now, PC's seem to be suffering from slower upgrade cycles, right?"
+NEUT1|That is like being a victim of your own success in a lot of ways.
+NEUT2|Creating products that you want to continue to use that aren't breaking every four years and are just lasting longer.
+NEUT3|So that's one of the struggles I mean.
+NEUT4|Do you have a personal computer actually use the work computer?
+NEUT5|And then my wife and I share a computer at home and that things.
+NEUT6|I've replaced the hard drive like it's old.
+NEUT7|Yeah yeah, but it works.
+NEUT8|I'm like I don't care whatever exactly.
+NEUT9|I mean I had I got a MacBook Air 2 summers ago and so I mean like that.
+NEUT10|That's well within kind of what the PC industry wants in terms of an upgrade cycle.
+NEUT11|Yeah, great year and a half or so.
+NEUT12|But before that I think I had to Dell that I own for like 5 years.
+NEUT13|Alittle indicative of this I got.
+NEUT14|I literally just found this out the other day.
+BEAR15|About Microsoft this blew my mind.
+NEUT16|This is kind of indicative Microsoft basically every PC.
+NEUT17|So anyway, in the year ended June 30th 2000, Microsoft's revenues were just under $23 billion.
+NEUT18|Guess what their net income was after paying taxes and everything on that.
+NEUT19|23 billion I don't know.
+NEUT20|Maybe like four $9.4 billion net income.
+BULL21|OK, that's actually pretty margin.
+NEUT22|That is insane, yeah?
+NEUT23|Guess what it is today?
+NEUT24|On similar revenue, there know their revenues for the 12 months ended September 30th, 2015.
+NEUT25|So last 12 months, not the year ended June 3rd.
+NEUT26|Actually, it's just the year.
+NEUT27|OK, that's fair.
+NEUT28|Yeah, year ended June 30th, 2015.
+BULL29|$94 billion in revenue so growing just under 4 fold on revenue.
+NEUT30|I'm going there is a one year charge there, but guess what their net income was that year, so I'm going to stick with the same margin profile I guess before, so that was what 4,000,000 four billion on 23 billion roughly sets again 6th.
+NEUT31|So 1/6 of 90 something like 1520, two, 22 billion.
+BEAR32|So better than I thought, but that's a huge contraction.
+BEAR33|That is a huge margin contraction Microsoft is having to work way harder to make money and I.
+BULL34|Did not know that until like a couple of days ago and my jaw hit the floor 'cause I assumed Microsoft will be because their stock finally recovered in the last couple of years to where it was in 2000.
+NEUT35|You remember?
+NEUT36|So anyway, that's just indicative what's happened to PCs over the last 15 years.
+BEAR37|Microsoft having to work harder and harder and harder to make.
+NEUT38|I don't know double and like you know, anyway, one of the interesting things that I read in IDC's coverage of their shipment data.
+NEUT39|You know, they usually have some nice little research notes for you to kind of parse out the data and try to read between the lines a little bit.
+NEUT40|One of our analysts talked a little bit about how Microsoft giving away Windows 10 as a freebie that upgrade all.
+NEUT41|Seymour also might have made, I say more.
+BEAR42|Also might have been a detriment to the PC upgrade cycle.
+NEUT43|Just think in 2000 were they getting perb addition of went like two $300?
+NEUT44|I mean yeah.
+NEUT45|And you know, so that the thought with that analysts note is that the new operating system kind of refresh the computer and gave people the sense of a new computer, even if right, it was the same hardware, right?
+BEAR46|So they weren't as willing.
+NEUT47|They feel good, yeah, so?
+NEUT48|That's another reason for kind of explaining what's going on.
+NEUT49|I think also, you know, some people will always fall back on the strong dollar, right?
+BEAR50|"Hurting some of these tech companies, which is valid, but that I always feel like that's a bit of a cop out, just 'cause it's something that affects any multinational, right?"""

@@ -1,0 +1,17 @@
+BEAR0|"""GameStop GME was at the center of an unprecedented week on Wall Street in late January as a meme fueled short squeeze turned redditors into millionaires and wreaked havoc at hedge funds such as Melvin Capital Management."
+BULL1|Now, after two months of watching and waiting the video game retailer is at last trying to cash in on the craze, GameStop announced plans Monday to raise as much as $1 billion by selling as many as 3.5 million shares of its common stock, capitalizing on a share price that has remained at surprisingly lofty levels after the height of the January craze.
+BULL2|GameStop said it could use proceeds from the stock sale to fund its ongoing digital first transformation to add new products and to pay down debt.
+BEAR3|Investors expressed initial skepticism as GameStop shares were down some 16% in premarket trading, but more bullish sentiment quickly returned.
+BEAR4|GameStop stock was back up above $190.00 per share by late morning marking a decline of less than 1% from last Friday's close.
+BEAR5|That's a far cry from the $483 per share peak GameStop reached on January 28th.
+BULL6|But overall, the company's shares are still up well over 800% since the start of 2021.
+BULL7|The upshot of the offering is that GameStop can now convert some of its red hot stock into cash that will be easier to deploy in the company's ongoing bid to transform itself from a brick and mortar relic of a bygone era into an E Commerce power.
+BEAR8|Such a move was already on Gamestop's radar before it turned into a Reddit sensation in December.
+NEUT9|The company filed a prospectus indicating plans to raise up to $100 million in a stock offering.
+BEAR10|But the calculus shifted once GameStop shares went bananas in the immediate aftermath of Gamestop's initial surge, a sale of shares might have been seen by outside investors as a lack of confidence in the stock, which could have caused the price to plunge.
+BEAR11|On the other hand, if GameStop share price continued to soar, the company could have ended up leaving major money on the table, but initially at least gamestops patience seems to be paying off at their current price.
+BULL12|A sale of 3.5 million shares would raise some $665 million in capital.
+BEAR13|While announcing the move, though, GameStop made sure to highlight that participating in the offering could still be a highly risky move for investors.
+BEAR14|Our common stock has recently experienced extreme volatility in price and trading volume, the prospectus notes.
+BEAR15|Investors that purchase shares of our common stock in this offering may lose a significant portion of their investments if the price of our common stock subsequently declines, probably the largest reason.
+BEAR16|"Day traders have flocked to Gamestop's banner in recent months, as the huge short position built up in the company by several hedge funds and other Wall Street investors, creating the possibility for a highly profitable squeeze."""

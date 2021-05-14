@@ -1,0 +1,34 @@
+BEAR0|"""And it's been a big mix."
+NEUT1|Small banks mid sized.
+NEUT2|What do you think is behind the recent strength?
+NEUT3|Well, at the end of the day, the vaccine is behind the recent strength.
+NEUT4|All the stimulus is behind the recent strength.
+BEAR5|Clearly, you know, smiling lately, grimacing in the first half of last year in a big way.
+BEAR6|As everybody expected, the banking industry to collapse.
+BULL7|And you know, effective programs like Triple P have done an amazing job in propping up businesses.
+BULL8|The stimulus programs have propped up individuals.
+NEUT9|Banks.
+BULL10|Credit quality has been much better than expected.
+BEAR11|I think the underwriting has been.
+NEUT12|Terrific and and this time around, the banks have actually part of the solution and distributing funds to businesses and people that need it.
+BULL13|You know, rather than part of the problem, and I think that they're really well set up for a very strong GDP going forward.
+NEUT14|And there is there is a weird side of the story.
+NEUT15|Until we all know it no matter who our viewer are.
+BEAR16|Wherever you are in the United States, there's probably beloved local business or local restaurant that has gone under.
+BEAR17|And now the building is empty, and that's awful for those families.
+NEUT18|But there probably will be somebody coming in to try to build a new business in that space.
+BULL19|Could that all and that's that vaccine optimism you talked about ultimately provide a surge in new?
+NEUT20|I hate to say it that way, but you know what I'm getting at?
+NEUT21|Yeah, no.
+NEUT22|I mean, you know business startups have been really at records as people are trying to go look, there's an opportunity here or people who have gone out of business of trying to figure out how to remake themselves and look for the opportunities and.
+NEUT23|And, you know, the consumer has actually very deep pockets.
+NEUT24|They've saved a lot of this money and the one benefit that really economists have not talked about a lot is the fact that almost everybody can refinance their mortgage and many have, and that's saved them.
+NEUT25|You know, many thousands of dollars in that ability to.
+NEUT26|To spend in the future, is there the pent up demand is enormous, so the sooner we can get people reopened and out and comfortable, and we turn this this table, the more the economy is going to Rep. Yeah, and let's hope that it doesn't.
+BEAR27|Unfortunately a lot of businesses are struggling now, but the banks may benefit as they try to outfit new businesses.
+NEUT28|Anton, we got to leave it there.
+NEUT29|We had a packed show.
+NEUT30|Will get you back on soon, get some of the smaller bank names that you like.
+BULL31|Anton Schutz mended Capital Advisors.
+NEUT32|Shepard Smith here.
+NEUT33|"Thanks for watching CNBC on YouTube."""

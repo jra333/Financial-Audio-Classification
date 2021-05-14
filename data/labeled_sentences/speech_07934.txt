@@ -1,0 +1,19 @@
+NEUT0|"""I'm Paul Vigna and I've been covering Bitcoin for the Wall Street Journal since 2013."
+NEUT1|So what is Bitcoin?
+BULL2|Bitcoin has been on a wild ride lately.
+BULL3|Seemingly every day is bringing new highs.
+NEUT4|Bitcoin is a digital network that allows two people to exchange value directly between each other without any middleman.
+NEUT5|That sounds confusing.
+NEUT6|Just think of it as on line cash for most of its nine years, Bitcoin has been outside the mainstream, really both culturally and financially, that has started to change this year.
+NEUT7|The longer Bitcoin stays around, more comfortable people get with the idea of digital money that has LED some people to believe that Bitcoin is going to start becoming more a part of the mainstream.
+BULL8|That notion this year has sparked this buying frenzy that you have seen drive the price of Bitcoin up 1500%.
+NEUT9|So far in 2017, this is a highly speculative asset.
+NEUT10|Right now this is a big bet on a new technology and that becomes very alluring to people that brings in a lot of true believer types.
+NEUT11|That brings in a lot of pure trader types and the rising price.
+NEUT12|Well that becomes its own marketing.
+NEUT13|There's one Bitcoin fund that trades over the counter in the US.
+NEUT14|There's another one that trades over the counter.
+NEUT15|In Europe there is a Bitcoin futures market that is just getting started too, but if you really want to invest in Bitcoin at this point.
+NEUT16|You basically have to buy it directly.
+NEUT17|To do that you need to go online, get yourself a Bitcoin wallet, find a Bitcoin exchange and put in a buy order.
+NEUT18|"But keep in mind this is a small volatile, largely unregulated and still very highly speculative market."""

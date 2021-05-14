@@ -1,0 +1,23 @@
+NEUT0|"""Hello, welcome to today's technical analysis for Wednesday, November 22nd."
+NEUT1|I'm referred by John, currency analyst Alex m.com.
+NEUT2|And today we're going to be looking at the euro versus the yen on the daily chart.
+BEAR3|European heated two months lower 131.16 on Monday.
+BEAR4|It has retreated significantly from that two year high of 134.49 back in October.
+BEAR5|The short term bias is looking bearish at the moment.
+BEAR6|Uh, but that downside momentum has eased in the past couple of days.
+BULL7|We are seeing immediate resistance coming from 78.6% Fibonacci retracement level of the uplink from 131 point 38233.87.
+BULL8|If we do see further downside, the next key support area could come, from the 161.8% bonacci at around 129.85.
+NEUT9|With the next key support area.
+BULL10|Likely to come around 127.36 dash that 161.8% Fibo Nachi in the medium term.
+BEAR11|The teams looking fairly neutral at the moment and also the longer term uptrend that started from back in April.
+NEUT12|That's also looking at risk, especially if we do get a triple top.
+NEUT13|It is looking a bit of a triple top.
+NEUT14|At the moment, with a possible neckline.
+BEAR15|Good around 131.50 so we could at the moment to be in the middle of a trend reversal from an uptrend to a downtrend.
+BULL16|Though the medium term outlook for the moment is neutral, at least for now.
+BULL17|If we do see upside, momentum resistance will likely come from the 50% Fibonacci.
+NEUT18|That's also where the 50 day moving average has.
+BEAR19|Converging at the moment that's around 132.65 level break above that would shift the short term bias to a bullish one and we could see prices targeting the previous top of 133.87 and then break above 134.49.
+BEAR20|That could signal the resumption of the longer term uptrend.
+NEUT21|That's it for me.
+BULL22|"Thank you very much for watching and have a great day."""

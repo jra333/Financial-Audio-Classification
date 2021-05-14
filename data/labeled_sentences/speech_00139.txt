@@ -1,0 +1,23 @@
+BULL0|"""A large cap stocks better than small cap stocks."
+NEUT1|Let's like saying is a sausage pizza better than a pepperoni pizza.
+NEUT2|Bottom line is both of those things are designed to do one thing.
+NEUT3|Quench your appetite, right?
+NEUT4|Feed your hunger now.
+NEUT5|When it comes to the make up an identity of those companies.
+NEUT6|Yes, small cap stocks tend to be more volatile.
+BEAR7|They've got a lower price point, smaller market capitalization.
+NEUT8|The large blue chip stocks like you find on the Dow Jones industrial average.
+NEUT9|Yeah, those are the really big behemoth companies.
+BULL10|Is 1 better than the other?
+NEUT11|I'm going to say no.
+NEUT12|I think what we have to do if we're looking at it from an investment perspective is say what are the risks that I faced by maybe buying this specific small cap stock or this large cap stock and we analyze these things were looking for entry stop loss and price targets.
+NEUT13|That's the main criteria for making these trades anyway, so it shouldn't really matter what they are.
+NEUT14|For me personally I have issues with specific types of socks, not large cap or small cap, but like for example biotechs I have in my trading plan.
+NEUT15|I am not allowed to trade Pharmaceuticals or drug stocks because they're extremely volatile.
+NEUT16|Doesn't matter there.
+NEUT17|Blue chips.
+NEUT18|Does it matter their small caps?
+NEUT19|No, it doesn't.
+NEUT20|So we kind of love to learn what we trade.
+NEUT21|Well, whether it's large cap, small cap, biotechs pharmaceutical technology, who cares?
+NEUT22|"It's what works best for you, but make sure you understand what you're trading."""

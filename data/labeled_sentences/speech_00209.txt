@@ -1,0 +1,27 @@
+NEUT0|"""Can you bring us some clarity on the situation with the US government where you know Doctor Gottlieb told us who's on your board that Pfizer had offered its second quarter allotment of doses to the US government a number of times before then."
+NEUT1|Of course, other governments wanted to buy those doses.
+NEUT2|What is your relationship like with the Trump administration?
+NEUT3|You know the president accused Pfizer of waiting until after the election to present your data, and you of course told us on November 9th there was no politics involved there.
+BEAR4|But has that strained your relationship with the US government?
+NEUT5|I hope not that we are not in the business of taking political sides.
+NEUT6|We are advocating for policies that they're probation.
+NEUT7|They're they're throwing ovation, but you're not taking political sides.
+NEUT8|So we're working with this administration and will work equally with the next administration and during the transition we are working with with both.
+BULL9|I think right now the US government has asked us for additional 100,000,000 doses and we are in a position to provide them.
+NEUT10|But we are working the the time frame.
+BULL11|We can provide a lot of that in the third quarter they use government, wants it in the second quarter we are working very collaboratively to try to find a solution and be able to allocate those 100 millions in the second quarter if possible or a lot of them now.
+NEUT12|But we haven't signed an agreement.
+BULL13|We're working very collaboratively, but not an agreement yet.
+NEUT14|We need to wait.
+NEUT15|They would, you know if we've heard that Operation, Warp Speed has offered to help Pfizer to try to increase the manufacturing capacity or speed your ability to deliver those doses to the US1 way that's been suggested that that could be done would be to use the Defense Production Act not to force Pfizer to do anything but to obtain supplies, raw materials, things like that.
+NEUT16|How do you interpret the OR how would that effect Pfizer if the Defense Production Act were used to help you?
+BULL17|I think it would be very positive and I think that they will allow us to maximize what we can do.
+NEUT18|We are asking them right now.
+NEUT19|Few things we haven't.
+NEUT20|They haven't done it yet, but we are asking him and I hope that they will do it very soon be cause particularly in some components we're running it critical supply limitations, but I think they will do it, so that would be no problem.
+NEUT21|And if the US government does use the Defense Production Act to help you, does that give them more control over the doses or anything that Pfizer does?
+BULL22|I think that the right now we don't need the excessive measures, but at least to get some rated orders in some of the suppliers, because if not they will put into Joe Party.
+NEUT23|In general the supply chain, but I don't think it is a competitive relation right now that if you're going to take over our manufacturing capacity or not, I think it's a collaborative and everybody understands that the US is a major priority, but the remaining of the world also have.
+NEUT24|Human lives that needs to be saved.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

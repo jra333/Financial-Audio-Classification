@@ -1,0 +1,41 @@
+NEUT0|"""For more on this, I'm now joined by Alex Booth, head of Market analysis at Kepler."
+NEUT1|Alex.
+BULL2|Hello, thanks for joining us.
+NEUT3|I wanted to start by asking about the price movement today.
+NEUT4|They seem to be very sensitive week on week to those weekly stockpile figures out of the United States.
+NEUT5|So why is that moving the market?
+NEUT6|And yeah, I could be on today it's.
+NEUT7|I think it's a fairly muted move at the moment.
+BEAR8|We've seen some kind of very large volatility in Brent prices, WTI prices through the course of the last week following on from the Suez Mortgage crisis.
+NEUT9|The yes, there's been a draw, but in the scheme of things and looking at the kind of the US picture rented to the global picture, it's not that large.
+BEAR10|We've seen production increase and refinery run.
+BULL11|Runs increase at the same time, so it's generally in kind of heading in a more constructive direction, but I think there's just a lot happening in the macro market.
+NEUT12|Basically at the same time as the the.
+NEUT13|The reason released this week, so it's not always a direct correlation, so it's fairly muted this week.
+NEUT14|The general expectation seems to be the OPEC.
+NEUT15|Plus ministers will agree to no change in output tomorrow.
+NEUT16|Do you share that view?
+NEUT17|And then what would need to happen in order for them to change policy?
+NEUT18|Yeah, I think it's the kind of defensible path for the time being.
+BEAR19|The data out there is still quite mixed.
+NEUT20|Yes, we're taking off.
+BULL21|I lost the water at the moment so March we saw imports higher than exports across the month of the whole on a global basis, but at the same time we saw crude inventories onshore increase.
+NEUT22|So you're getting kind of a slightly more constructive picture from the water bull market, but we still being building inventories we haven't really drawn inventories at all through the last quarter on a global basis, so I think OPEC, plus the Minister is going to be looking at that date and saying, well?
+NEUT23|Yes, we're cutting.
+BEAR24|We've seen an additional cut through March versus what we saw in February for the group, so there was more disciplined there.
+BEAR25|But Despite that fact, then just not seeing those significant draws in onshore inventories.
+NEUT26|And I think that's what they really need to see to gain confidence.
+BULL27|To say, OK, we can kind of start to open up the taps again, start producing again the price of Brent crude is up about 25% overall in the first quarter, which ends today.
+NEUT28|Where do you think they're heading?
+NEUT29|And it it turn a little question of what's going on with prices.
+BULL30|I think we're likely to see a bit of softening here for the, for the reasons I was giving earlier around.
+NEUT31|It's not a particularly clear picture in terms of what's happening.
+BULL32|You're referencing the good data coming out of China.
+BULL33|Good employment data in the US, for example.
+BEAR34|But we're seeing a worsening picture across continental Europe.
+BULL35|And until we can see, I feel that until we can see European demand improving.
+NEUT36|This concerns in India concerns in Latin America, just the US and China kind of broader Asian region as a whole.
+NEUT37|I don't think can really support things, can support the Brent price going forward.
+BULL38|We need to see positive demand across the rest of the world to really see any kind of strength.
+BULL39|From this point I feel thanks so much.
+NEUT40|"That was Alex Booth, head of market analysis and Kappa."""

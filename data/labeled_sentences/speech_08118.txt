@@ -1,0 +1,18 @@
+NEUT0|"""Alright 32132."
+NEUT1|No one ever talks about debt in the economy.
+NEUT2|This is a word that economists don't like to use.
+NEUT3|Great chart that just shows debt to GDP in the economy.
+NEUT4|It's even after some of the deleveraging from 2009 it's still at a level that is modeling the private debt.
+BEAR5|That's the problem, so private companies have tons of debt there.
+NEUT6|Student loan debt.
+NEUT7|Credit card debt.
+NEUT8|Mortgage debt?
+NEUT9|Is there an end game here?
+NEUT10|I mean, why is it that jet millennials don't accumulate assets?
+NEUT11|They're in debt up to their eyeballs until they're still paying off student debt in their 30s.
+NEUT12|They don't own homes.
+NEUT13|None of these things right?
+NEUT14|Two generations ago, you were buying a house for 80 grand right, right?
+NEUT15|But we've inflated the cost of assets, right?
+NEUT16|We've pumped so much dignity economy that you actually have to borrow to the gills in order to accumulate assets these days.
+BULL17|"Thanks for joining us on this week in Armageddon."""

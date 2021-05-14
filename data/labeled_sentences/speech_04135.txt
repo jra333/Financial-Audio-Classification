@@ -1,0 +1,12 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instrument is the Google stock as we can observe on the Google stock for our chart, we can clearly observe that the stock has been trapped in a trading range trading at the upper boundary at the 1000.
+NEUT3|177 area and the bottom boundary at the 992 area.
+BULL4|It has recently reacted after testing for a third time the area and found resistance for the third time also at the 1177.
+NEUT5|Since then it has also formed between the trading range an uptrend trendline.
+NEUT6|It is currently correct into the down side where we believe it will continue its direction until it reaches the 1058 area.
+NEUT7|This area will act as a great support as it also consists of the 61.8 as well as the trendline.
+BULL8|We believe we will observe a bounce to the upside, probably back to retest the 1177 area once it touches or approaches.
+NEUT9|Our support area.
+BULL10|Thank you for watching our intraday technical analysis from all of us here at AAA trade.
+BULL11|"We wish you successful and responsible trading."""

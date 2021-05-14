@@ -1,0 +1,30 @@
+NEUT0|"""218-2021 Hey guys, today we will be doing a Disney stock analysis should we buy it or should we not?"
+NEUT1|I don't think this stock will do so let's continue and see what the analysis will show us.
+NEUT2|Here are the key stats for Disney.
+NEUT3|It's open was $184.79.
+BEAR4|Its day high was $186.40 but it stayed low was $182.84.
+BEAR5|It previously closed on $186.44.
+NEUT6|Its 52 week high also is $193.85 which was on February 12 2021.
+BEAR7|It's 52 week low on the other hand was on 3.
+NEUT8|18, 2020, which was $79.07.
+NEUT9|Its market cap is 332 point 193 billion.
+NEUT10|The shares that are out or one point 815 billion.
+NEUT11|It's 10 day average volume is 12.78 billion.
+NEUT12|It doesn't have a dividend and a dividend videos coming up soon.
+NEUT13|It's beta is 1.21 and it's one year change is $31.52.
+NEUT14|As you can see, its next earnings date is 503-2021.
+NEUT15|I'm not sure if this is good or bad for the stock, but let's see what happens next.
+BEAR16|As you can see, Disney ended on $183, down $3.44.
+BULL17|Its five year is up 95.13% ever since one of Disney's Parks closed down in California.
+NEUT18|I think they have invested all that money into their streaming services in the future.
+BULL19|This could be very good for them because they won't have anymore cable boxes and everything will be digital so this could help them go up even more if you hold onto this for long term like three to six months.
+NEUT20|You could probably get a good return off of it, not like Facebook or Apple, but even better, I think this stock can go very far, and if you have the patience then I think you can go very far as well, especially with a good return even if you have some spare change you might want to invest all that into this company, even if you have just a little bit.
+BEAR21|Once here could affect your whole entire portfolio.
+NEUT22|Now it's up to you if you want to buy it or not, and I probably would buy it.
+NEUT23|If I were you.
+NEUT24|On this note, let's end this video.
+NEUT25|I'm very happy that you've reached till this part, and if you have, say, stranks are stonks, remember with the end, not the sea.
+NEUT26|I'm probably going to upload three times a week, two times or one time on the weekday, and same thing on the weekend.
+NEUT27|It's up to you guys.
+NEUT28|Please drop your thoughts below.
+NEUT29|"Thank you bye."""

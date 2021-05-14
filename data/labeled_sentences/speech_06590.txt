@@ -1,0 +1,11 @@
+NEUT0|"""Hello, welcome to today's technical analysis for July 16th, 2015."
+NEUT1|Ansley Nicklaus technical analysts at exam.com.
+NEUT2|Today, we will look at the euro versus the dollar on the daily chart.
+BEAR3|EUR USD remains below the key one point 10 level and the fall below the lower it to Mocha Cloud yesterday has strengthened the downside momentum.
+BEAR4|The Cross of the tank concern below the Kijun Sen line that happened on July 3rd supports the bearish bias.
+BEAR5|Other indicators are also bearish such as the RSI, which is below 50.
+BEAR6|The market also is below the 200 day moving average.
+BULL7|However, the recent sideways consolidation pattern remains in place.
+NEUT8|And we would need to see a break below 1.0818 for move out of this range, and this would open the path towards the 12 year low of 1.04, sixty one to the upside of break above one point.
+BEAR9|1500 would shift the bearish bias and the bigger picture, though we could see that Euro USD has been in a downtrend since the sharp decline from the May 2014 high of one point 3992.
+BULL10|"Thank you for watching and have a great day."""

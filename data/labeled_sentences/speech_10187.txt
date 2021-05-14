@@ -1,0 +1,33 @@
+BEAR0|"""Twitter popped in the after hours today on Tuesday after the reported their fourth quarter earnings, even though they missed some key numbers."
+NEUT1|Let's take a look at the report and if it belongs in your portfolio, Twitter beat on their earnings per share at $0.38 versus the estimated $0.31 they beat on their revenue at 1.29 billion versus the estimated 1.19 billion and the one key metric that they did happen to miss was the MDA use, which came in at 192,000,000 versus the expected 193.5 million.
+NEUT2|EPS stands for earnings per share, and MDA use stands for monetizable daily active users.
+NEUT3|The more you know looking ahead also, this is Twitter's second billion dollar quarter.
+NEUT4|Now, to put that into perspective, Apple just announced their earnings a couple of weeks ago and they came out with $100 billion quarter now.
+NEUT5|Yes, I'm well aware that these are completely different businesses with completely different business models, but I just wanted to give you some reference.
+BULL6|Looking ahead, Twitter has said that they are expecting its revenue to grow faster than the expenses they have in 2021.
+BULL7|Assuming the pandemic continues to improve.
+BULL8|However, Twitter warned that it expects headcount growth of over 20% this year, with overall expenses increasing more than 25%.
+NEUT9|Twitter's guidance moving forward is expecting revenue between 940,000,000 and 1.04 billion in the first quarter.
+NEUT10|Analysts were expecting an average guidance of around 965 million, so Twitter is pretty much in that ballpark.
+BULL11|Twitters total MDA use grew by a total of 5,000,000 from the third quarter up to what is now 192,000,000.
+BULL12|However, compared to a year ago, this user base is up 26.3%.
+BULL13|Twitter's ad revenue grew 31% to one point.
+BULL14|5 billion with total ad engagement growing 35% over the same.
+BEAR15|While the quarter is historically strong for ad publishers, one analyst is concerned about Twitter's long term prospects because it doesn't seem to have a specific vision or purpose.
+NEUT16|If the company could articulate whether it wants to be a news feed or an open forum or something else entirely, then it could couch its myriad of moves underneath that explicit Northstar and contextualize its many policy changes.
+NEUT17|Acquisitions experiments, new features, functionality, rollout.
+NEUT18|Honestly, that was just a very wordy quote from an analyst that basically is just saying to Twitter.
+NEUT19|Hey Twitter, let us know what you are and what you want to be moving forward.
+NEUT20|Looking at the analysts ratings from three months ago on Twitter, only nine of them had buy ratings, 25 had hold ratings and four of them had sell ratings, with the overall consensus being hold.
+NEUT21|Now if you look at the current ratings today, 12 of them are by 21 or hold and for ourselves.
+NEUT22|However, the consensus is still a hold overall and if we want to take a look at the price targets set by the analysts, the average price target for Twitter is $50.96.
+BEAR23|And while the current stock price is around $59 at the time of this video, that makes it slightly higher than where analysts probably want it to be.
+NEUT24|The highest price target for Twitter is $67, while its lowest price target is $19.00.
+BULL25|And if we look at the six month chart real quick, you can see that it is up 59%, But then if we look at the 12 month chart, it's only up 66% at the end of the day.
+NEUT26|It's always nice to have a billion dollar quarter, especially when it's your second one.
+NEUT27|What are your thoughts on Twitter?
+NEUT28|Do you care that they didn't hit the estimated?
+NEUT29|Monetize daily average users or do you just think that analysts are garbage and their estimates don't mean anything?
+NEUT30|Because I think that sometimes to let me know in the comments below are you holding Twitter?
+NEUT31|Are you thinking about buying Twitter?
+NEUT32|"As always, feel free to like and subscribe and thank you so much for watching and I'll see you in the next video."""

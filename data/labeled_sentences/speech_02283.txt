@@ -1,0 +1,41 @@
+NEUT0|"""Now the only problem with the data animating at this pace is it might be grabbing your attention and that you can see it's moving, but we tend to follow it like a moth to a light right?"
+NEUT1|Like you, you find it difficult to remember where you were because you're looking at where you are now.
+NEUT2|So one of the things that we can do to help.
+NEUT3|That is, we can kind of introduce some memory lines to this animation, and what that means is as we hit key points, we can denote them by just drawing in little lines about what happened to the yield curve.
+NEUT4|There we go three months before recession in 79.
+NEUT5|Eight months before recession in 1980.
+NEUT6|And so these memory lines help us to keep track of what the yield curve was doing at key points in its history.
+NEUT7|So at this point, I think we've got to a fairly interesting view of how the yield curve is moving and what it does right, and I think it does a little bit more than the spread chart of doing that now at the FT.
+NEUT8|I showed this to people and said here we go.
+NEUT9|There's a product.
+NEUT10|There's an animated yield curve, and our video producer said, well, you know what?
+NEUT11|It's a bit quiet, right?
+NEUT12|If I'm going to make a video of this, 'cause it takes a it's about 3 minutes.
+NEUT13|This 40 year animation.
+NEUT14|If I'm going to make a video of this, we need to think about a soundtrack, and at that point they developed a fairly cunning plan I thought.
+NEUT15|Would it be possible for us to connect this animation, actually to break that data outside of the web browser and connect it to a music synthesizer to see if we could signify the data at the same time that it's animating?
+NEUT16|Right, So what I'm going to do?
+NEUT17|I'm going to turn this animation back.
+NEUT18|22 seconds per day.
+NEUT19|And.
+NEUT20|What I'm going to do is switch on.
+NEUT21|I've got a music synthesizer connected to this and what I'm going to do we're used to in the world of visualization.
+NEUT22|We're used to mapping data to pixels, right?
+NEUT23|So the data from the Fed is being converted into a position on that Y axis.
+NEUT24|OK, and now instead what I want you to imagine is instead of going data pixels, what we're going to do is we're going to map data.
+NEUT25|To pitch by quantizing the data to a whole tone musical scale.
+NEUT26|And then we're going to plug that in and see what happens.
+NEUT27|So for every day of the yield curve that we're animating.
+NEUT28|It's playing the bonds.
+NEUT29|Oh, there was a change right now.
+NEUT30|If you close your eyes.
+BULL31|You can kind of tell that that data is going up right.
+NEUT32|It's it's a musician, would call like a an upward arpeggio, right?
+NEUT33|Like it's it's it's moving up.
+NEUT34|I wonder what it like sounds like when it's inverted.
+NEUT35|See kinda hear that that's tripling down right like it's.
+NEUT36|It's clearly a different type of pitching to the regular shape, and then you kind of play with it and think, well, I wonder what it did sound like.
+NEUT37|When we were coming into the financial crisis.
+NEUT38|Well, that sounds ominous, right?
+NEUT39|Like if I was presented with that sound when I logged on in the morning, I'll be making some phone calls, right?
+NEUT40|"Cell cell."""

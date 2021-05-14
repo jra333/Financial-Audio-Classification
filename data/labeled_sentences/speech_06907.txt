@@ -1,0 +1,60 @@
+BULL0|"""A good day in the market just got better."
+NEUT1|Investor beat starts now.
+BULL2|Thanks for watching.
+NEUT3|I'm Chris Hill joined in studio by Matt Argus Singer.
+BULL4|It was a pretty good day in the market, right?
+NEUT5|Things were just kind of humming along and then the Fed minutes get released late in the day from the last Fed meeting and bottom line.
+NEUT6|They're really taking an open-ended approach to the rates, even to the point where short term rates they're going to stay low even if we get employment and inflation levels back to where we all want them.
+NEUT7|It's good news for the market is for invest, that's it.
+NEUT8|That's that's the news.
+NEUT9|I mean, it's really investors.
+NEUT10|Got a little worried that, OK, we got this new regime in the yelling regime and when are they going to start ratcheting up the rates?
+BEAR11|You know, there was a few months back, there was at 6.5% unemployment level.
+BULL12|We got below that.
+NEUT13|The idea was we start raising rates.
+NEUT14|Well now it's like.
+BEAR15|Well, if inflation is under control, if unemployment employment picture gets better, we still not might not raise rates because the economy is still weak in certain areas.
+NEUT16|So it is very common if that's what investors like to see.
+NEUT17|All right, let's get to a couple of the movers and shakers in the market today.
+BEAR18|Intuitive Surgical, falling.
+BEAR19|Company warned first quarter revenue is going to be down about 24%.
+NEUT20|That seems like a big number.
+NEUT21|How bad is this?
+NEUT22|It's it's sort of bad in the short term, but you know, really?
+BULL23|I mean, if you look into the surgical last week they were up a lot because they came out with their new X1 surgical platform.
+BEAR24|FDA gave it clearance, so in the mean time a lot of the older Davinci systems are not selling well.
+NEUT25|Part of it's part of his bit hospitals have waited for the new platform, which is going to allow Intracervical potentially do more complex surgery, so that's a good thing.
+NEUT26|At the same time though, you have to look at hospitals and say, well, there's a lot of budget out there, so if they own.
+NEUT27|The older Davinci Systems, are they going to be as excited about buying the new systems, at least in the short term, there's probably going to be a little bit of volatility into cervicals numbers.
+NEUT28|I think longer term though, with the new with the new surgical platform, things could look pretty good, so it's more of a if you're investing in certain social today, 2014 might be rough, 2000, 2015 and beyond might be pretty good.
+NEUT29|Alright.
+BEAR30|Toyota Motors issuing a recall of 6.4 million vehicles worldwide shares down a little bit on the news.
+BEAR31|Kind of a victim of bad timing here.
+NEUT32|When you consider just last week, we're talking about GM being up on Capitol Hill with their recall.
+BULL33|Right, it's I kind of feel like Toyota is getting ahead of any potential news here.
+NEUT34|I mean, it's a huge recall effects, a lot of vehicles at the same time.
+BEAR35|There are no, you know, there are no accidents or fatalities they can link to any of the recall, so it's just a matter of Toyota saying, hey, we know there's some potential problems out there.
+NEUT36|We're just getting ahead of it.
+NEUT37|We're going to solve them.
+NEUT38|It kind of it is a little bit of brand to be about quality and safety.
+NEUT39|They've taken a few hits themselves in the past.
+NEUT40|I like the fact that they're being open in front of front about this, especially in the wake of the GM news so.
+BULL41|It's a good movie.
+BULL42|I understand that the stocks down a little bit today, but over time I think that this is going to mitigate any destruction of the stock.
+NEUT43|Alright, that's going to do it for Wednesday's action.
+NEUT44|Let's look ahead to the rest of the week.
+NEUT45|He is talking to my watch list.
+NEUT46|You know, I'm looking.
+NEUT47|I'm looking at Markel, which is a insurance company.
+NEUT48|We all love it here at the fool.
+NEUT49|I've owned it for a long time.
+BULL50|It broke $600 for the first time last week and it continues to hit new all time highs.
+NEUT51|I look at it as OK. Maybe this is the market saying, you know, there's some parts of the market that are undervalued, cheap, unloved, Markel insurance.
+NEUT52|Companies have been one of them.
+BEAR53|There's money rotating the Markel and companies like that right now away from some of the higher Flyers that we've seen.
+BULL54|Do well in the past so I I like it.
+BULL55|I think it continue to go higher.
+NEUT56|It's still trading for less than 1.3 times book which is which is fairly cheap.
+NEUT57|Alright for Matt Argersinger I'm Chris Sale.
+BULL58|Thanks for watching.
+NEUT59|"We'll see you tomorrow."""

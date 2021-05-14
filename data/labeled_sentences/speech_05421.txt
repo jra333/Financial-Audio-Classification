@@ -1,0 +1,14 @@
+BEAR0|"""On Monday, the price of Brent crude oil dropped to its lowest level in more than a decade, surpassing even the lows reached during the depths of the financial crisis."
+BEAR1|It's currently trading at $36 a barrel, down more than 70% in the past 18 months.
+BEAR2|Well, the answer to that question is a seemingly relentless surge in production from OPEC and non OPEC producers.
+BEAR3|Goldman Sachs, possibly the most influential banking commodity markets reckon supply, outstripped demand by 1.5 million barrels a day in the fourth quarter of this year.
+BEAR4|Well, ominously, Goldman believes the market will remain significantly oversupplied in 2016, as output production remains high and demand growth softens as the impact of lower prices at the petrol pump.
+NEUT5|For example, wane.
+BULL6|The market may also have to contend with the possibility of increased production from Iran if sanctions linked to its nuclear program are lifted.
+BULL7|This could add more than 500,000 barrels a day to the market, and perhaps even more.
+BEAR8|Sit against that leading forecasters, such as the International Energy Agency, do expect a decline in non OPEC production next year.
+BEAR9|It reckons supply could fall by as much as 600,000 barrels a day as the impact of lower prices starts to impact activity, particularly in the US shale industry.
+BEAR10|It's possible, then that prices could pick up in the second half of next year from their current depressed levels, but much will depend on production levels, and no one should expect OPEC to cut supply at its last meeting.
+BEAR11|Earlier this month, the cartel resisted all calls for production restraint and vowed to keep on pumping, intensifying a battle for market share.
+BEAR12|So as we look to 2016, the adjustment in the oil market is going to have to come from outside of OPEC and that might require even lower prices to force producers who are currently hanging on by their fingernails out of the market.
+BEAR13|"Goldman reckons prices could have to go as low as $20 a barrel, a scenario few people are now discounting."""

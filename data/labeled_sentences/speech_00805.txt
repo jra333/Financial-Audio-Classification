@@ -1,0 +1,26 @@
+BULL0|"""It was a phenomenal quarter of phenomenal company."
+BULL1|But for the stock to only be up 3% after that quarter tells you that there's a lot already baked into Apple.
+NEUT2|I mean, I think the time to buy Apple is not when everything is going right, it's when things are not going as well as can be expected, as well as people want.
+NEUT3|So you have to pick your spots.
+NEUT4|I mean, and you know, I think a lot of people also have the problem.
+NEUT5|I have our average cost of Apple is about a third or less than where it is now.
+NEUT6|You just can't sell the stock.
+NEUT7|So for tax purposes.
+NEUT8|Unless you want to, you know I don't know.
+NEUT9|Take some trim a little bit.
+NEUT10|Yeah, we do that periodically as it grows as a percentage of the portfolio you have to do that.
+NEUT11|That's your peril though.
+NEUT12|I don't, you know, I don't know.
+BULL13|You tell me you know all of you are the ones who actually stock, had multiple expansion over the last 12 months, and now we find out that it's warranted and the wearable business to me is fantastic.
+BULL14|Yes, the iPhone sales specifically related to China were exceptional, reversing some negative quarters, which they experienced over the last year, but the wearables?
+BULL15|In the fact that air pods are now rising as a revenue production, it will be the third largest business for Apple.
+NEUT16|I thought was also incredibly compelling, and they Pete mentioned the watch sales.
+NEUT17|But you see this statistic that the majority of those that bought a watch are not existing.
+NEUT18|Apple Couple Company 5% think about 75% of new.
+NEUT19|That is unbelievable thing and think about we all know Apple has customer retention rates of nearly 90%.
+NEUT20|Think about the capture.
+NEUT21|And all the new customers.
+NEUT22|The other thing I think is important.
+NEUT23|And again, I'm going to go back to because I know you talked about this in prior quarters.
+NEUT24|India online sales begin in India in Q3.
+BULL25|"That is going to be beneficial."""

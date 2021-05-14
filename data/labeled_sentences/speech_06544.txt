@@ -1,0 +1,36 @@
+NEUT0|"""Obviously I mean Amazon's been investing forever for the long term."
+NEUT1|All the secular trends are in their favor.
+NEUT2|Now we have this economic crisis that really does play to the company strengths.
+NEUT3|Where does the delivery piece fit into the overall Amazon investment case and are they even able to kind of fully take advantage of that, given that everyone is getting everything delivered right now?
+BULL4|Great well thanks for having me on.
+BULL5|I really appreciate it.
+BEAR6|Yeah, Amazon had a difficult holiday in 2013 and has put $60 billion of CapEx into its retail business over the last six years.
+BULL7|That's built a real interesting delivery infrastructure that they should be able to leverage in this.
+NEUT8|And certainly going forward there now.
+BULL9|The 4th largest delivery company in the United States behind it, FedEx UPS and UPS and they've quietly built quite an infrastructure here and abroad.
+BULL10|And I think that infrastructure will create some really interesting opportunities, both for their internal packages which they're delivering 50% by themselves now, and also potentially a third party service down the road.
+NEUT11|Now these advantages that, including the logistics and delivery side of things pretty well recognized, it would seem by the market.
+NEUT12|I wonder how you view the stock at this point.
+NEUT13|I mean, Amazon is now something like more than 40% of the market cap of the consumer discretionary industry.
+NEUT14|It's kind of Amazon against the world, and people are giving.
+NEUT15|The odds to Amazon so valuation wise in terms of how you think that the cadence of investments are going to right now on the company's front, how would you characterize the opportunity?
+NEUT16|Sure, two things.
+BULL17|First, that 40% e-commerce market share.
+NEUT18|So obviously the world is moving towards e-commerce.
+BULL19|15% online think that can grow to 30% overtime.
+BEAR20|Secondly, if you think about the at home beneficiaries right now in this market, with the stores closed, you're clearly seeing a real increase in e-commerce volumes, so they're taking advantage of that.
+BULL21|We did raise numbers for revenues recently, think they will have a strong top line cost.
+NEUT22|Could be could be an issue, but really think they'll have.
+BULL23|A strong benefit here and I think the big advantage of them going forward is really pushing their grocery business, which has been a struggle frankly for the last 10 years.
+BULL24|They rolled it out to Prime members this year as part of the prime membership free delivery, and I think that the timing is really right for them to take take traction in grocery that can continue in future years when the surge is over.
+NEUT25|Hey Justin, it's Carl.
+NEUT26|How much do we think that they are actively trying to discourage discretionary goods from being bought on the site, taking their foot off the pedal, on advertising on promotions, and is that enough to ease up on the supply constraints they currently have?
+BEAR27|Sure, I. I think orders are definitely overloaded.
+BEAR28|They've taken off the laugh the day off of the app.
+BEAR29|I'm sure they've turned down advertising and they've been a lot less promotional.
+BEAR30|They're just trying to keep up with volumes right now publicly.
+NEUT31|We you know they've added 100 and 75,000 people to payroll and they're trying to add that many.
+NEUT32|That's as much as a holiday search, so just trying to keep up with demand, deliver consumables to people.
+NEUT33|Help with them, help with the problems right now.
+NEUT34|And you know, as you as you order things, the deliveries are delayed and I think they're managing the best they can, which.
+BULL35|"Is is why we're a little concerned on costs for the quarter, but of course the revenue should just see big upside."""

@@ -1,0 +1,12 @@
+NEUT0|"""April 3rd is in the books, the first day of the new quarter."
+NEUT1|This is a New York minute.
+BEAR2|the US stock market started new quarter on the back foot with the S&P 500 falling by as much as zero point 8% by midday in New York, car companies were the biggest drags after poor sales, dented sentiment, but the market regained its footing in the afternoon as more buyers emerged.
+BEAR3|Pairing Mondays loss to just zero point 2%.
+BULL4|The recovery was married in the VIX Index Wall Street's fair gauge.
+BULL5|By midday, the VIX jumped as high since last Monday when investors initially reacted badly to the collapse of the US health care overhaul.
+BEAR6|But the volatility gauge eventually settled down on the day reflecting the buy.
+BEAR7|The dip mentality that rains on Wall Street these days.
+BEAR8|Signs of a fading optimism of the Trump trade was more apparent in the US Treasury market.
+BEAR9|With the benchmark 10 year U.S. government bond yield fell 7 basis points to its lowest level since February 24th.
+NEUT10|The difference between short and long term Treasury yields a good measure of whether investors really think economic growth is about to take off.
+BEAR11|"Also fell to its lowest level since the US election."""

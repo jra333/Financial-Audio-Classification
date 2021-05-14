@@ -1,0 +1,9 @@
+NEUT0|"""Best free stock trading websites for beginners."
+NEUT1|Finance.yahoo.com you live stock price charts by candlepower or line?
+NEUT2|Investopedia.com learn everything about trading stocks.
+BULL3|Excellent education on reviews.
+NEUT4|Google.com, all the latest stock news from all websites.
+NEUT5|Just enter the stock name and hit the news tab.
+NEUT6|Etoro.com Commission free stock trading is the largest copy trading platform in the world.
+BULL7|Beautifully designed and easy to use for beginners.
+NEUT8|"Link in bio to get a free 100,000 virtual money to learn trading follow me for more videos."""

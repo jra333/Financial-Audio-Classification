@@ -1,0 +1,40 @@
+BEAR0|"""Cryptocurrencies running into headwinds, not just in the US but also in China."
+BEAR1|You know, with this talk about the Chinese government cutting off the power supply to Bitcoin miners.
+NEUT2|I mean, how serious do you think that is?
+NEUT3|You know, I think this is really the kind of final strike of the Chinese government's desire to reset the entire story of blockchain.
+NEUT4|I think what they want to do is clear the decks and they've done it with exchanges.
+NEUT5|They've done it with Ico's and now they're doing with mining.
+NEUT6|I think ultimately they understand the value and the potential and the utility.
+NEUT7|For society, for the Economy, for industry, to build anew, and I think that's what they're doing.
+NEUT8|I don't think this is the end of exchanges.
+NEUT9|I don't think it's the end of Ico's.
+NEUT10|This is merely the Chinese government resetting and taking control of what they actually believe will be a truly transformational technology.
+BEAR11|Meantime, other cryptocurrency is getting dragged down today.
+NEUT12|Corey, you spoke with the CEO of Ripple, Brad Garlinghouse.
+NEUT13|Take a listen to what he had to say.
+BULL14|There's no doubt 2017 has been, you know, amongst other things, the year of crypto and within the year of Crypto, XRP has outperformed every other digital asset out there.
+BEAR15|So year to date as your as that chart show drop about 20,000%.
+BEAR16|That's from December 27th Cory, but you know Ripple going down with some of the others today.
+NEUT17|What do you make of it?
+NEUT18|Yeah, I think the volatility in these countries is not something obvious.
+BEAR19|It's obviously been volatile with these stock with these currencies or these trades and and I, but I think that what our traditional lens of looking at the volatility in equities for example say wow, it's down a lot since acted in December 27th or journalist in the last hour.
+NEUT20|I took last week off, so I looked at my Bloomberg Terminal, show you my Bloomberg Terminal and look at what happened to Ripple Trading.
+BEAR21|Over the last day, yeah, sure enough, it's down 11%, but if I change his charts, let's say last 14 days, so is the Internet chart for 14 days.
+NEUT22|Which number is a gift?
+NEUT23|18?
+BULL24|Well look, it's up.
+BULL25|It's up a lot.
+NEUT26|It's about you know 100% hundred 8038% in the last 14 days.
+NEUT27|So I think that one of the interesting things is the volatility that we've seen tends to take the headlines, but the long term rise that we've seen over the course long term of long terms a year.
+NEUT28|Really tells more of the story, and I think more to the point.
+NEUT29|Again, when you look into the details and you see the great differences between Ripple and Bitcoin between the XRP ANAN and the like minded blockchain technology.
+NEUT30|But the very different ways that they work, the different ways that they trade and the different problems are trying to solve you find a much more interesting story and again that long term lens, even if one year is long term, is not the lens that we're used to apply when it comes to moves in equities, but maybe the appropriate one to apply even though, and even though Interestingly.
+BULL31|The futures contracts have not reduced the volatility in the trade in Bitcoin, so Jehan you told us that Bitcoin would hit $50,000 by the end of the year.
+NEUT32|You said that last month, do you believe that will still happen?
+NEUT33|Absolutely absolutely.
+NEUT34|I think what we're seeing right now in the volatility is the market is inhaling and exhale Ng.
+NEUT35|And you know, as Corey was saying, what we're really seeing in the long term is the body of blockchain of the application side is continuing to develop and I really think in 2018 not only will we see you know $50,000 price levels for Bitcoin.
+NEUT36|But I think we're going to be seeing is cryptocurrency and blockchain technology emerging from its adolescence.
+NEUT37|It's awkward, ugly adolescents, and really coming into its own as an empowered and self confident, self aware technology.
+NEUT38|And we're not going to be talking about how blockchain is impacting the markets.
+NEUT39|"We're going to be talking about how blockchain is impacting the world."""

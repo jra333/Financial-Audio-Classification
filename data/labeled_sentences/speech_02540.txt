@@ -1,0 +1,20 @@
+NEUT0|"""Yes, we do have breaking news."
+BEAR1|The Justice Department is alleging that Walmart violated the Controlled Substances Law.
+BEAR2|They have filed a lawsuit against Walmart, the Justice Department's suit claims that Walmart sought to boost its profits by understaffing its pharmacy and pressuring employees to fill prescriptions quickly that made it difficult for pharmacists who reject invalid prescriptions and the Justice Department alleges that enabled widespread drug abuse nationwide.
+NEUT3|So they are saying that Walmart is complicit in the opioid crisis.
+NEUT4|Walmart anticipated this.
+NEUT5|It's the country's largest retailer by revenue.
+BEAR6|It says it has been expecting the complaint.
+BEAR7|It's it sued the federal government in October to fight the allegations preemptively.
+NEUT8|Basically, there are a couple of headlines here.
+BEAR9|They violated the Controlled substances law.
+BEAR10|They ignored warnings from their own frontline pharmacists, according to the Justice Department and they understaffed there pharmacies and pressured them to move pills.
+NEUT11|That is, the allegations in the suit.
+BEAR12|As we said, Walmart pre sued against the Justice Department in October.
+NEUT13|You're up-to-date tie.
+NEUT14|You can see Walmart there on our chart.
+NEUT15|I'll send it back to you and that would be 2 Titans.
+BULL16|Going head-to-head in the ring solutely.
+NEUT17|So thank you.
+NEUT18|Shepard Smith here.
+NEUT19|"Thanks for watching CNBC on YouTube."""

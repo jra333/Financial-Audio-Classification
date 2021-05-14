@@ -1,0 +1,32 @@
+NEUT0|"""Which do you believe the polls or stocks?"
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to help navigate this turbulent world.
+BEAR2|Polls show the Democrats ahead, but the stock market is signaling that Republicans will win.
+NEUT3|Which is it?
+NEUT4|Stocks try to anticipate the future, even if things are going well at the moment.
+BEAR5|Equity prices will go down if there are storm clouds on the horizon.
+BULL6|The market has been strong just weeks before the election.
+BEAR7|Sure, high tech companies are below their peaks of a few weeks back, but other sectors are up.
+BEAR8|Investors are happy, yet polls show the Democrats could run the table next month and gain control of the presidency and both houses of Congress, their promised policies, if enacted, would severely damage the economy.
+BEAR9|The capital gains Levy would go to levels not seen since the 1970s, a miserable decade for growth and stocks 100,000,000 people with 401K's, and I raise.
+BEAR10|Would see their portfolios pounded, raising the business tax by 33% would damage productive investment and reverse the trend of capital coming into the country instead of fleeing it, hitting high income earners with more taxes would hurt the creation of savings and capital necessary for growth.
+NEUT11|Producing investment.
+BULL12|The Democrats radical Green New Deal plans which sharply raised the cost and availability of energy for American consumers and businesses.
+NEUT13|Look what happened with similar programs in California.
+BEAR14|The state now chronically plagued with blackouts because the unreliability of electricity sources.
+NEUT15|Cheap natural gas would be a thing of the past, while a Biden Harris regime might not overtly ban fracking, it would try to kill it with suffocating rules and regulations.
+BULL16|Democrats think spending even more money than the government is doing now will stimulate growth, forgetting that government doesn't create resources.
+NEUT17|The private sector does.
+BULL18|Massive government spending has never created a sustainable boom.
+NEUT19|Quite the opposite.
+NEUT20|Innovation killing regulations, the kind that so we can manufacturing during the Biden Obama years would come back with a vengeance.
+NEUT21|The Democrats idea to gut the Supreme Court's independence by expanding the number of sitting justices packing the court.
+BEAR22|It's called which severely damaged the integrity of the Constitution and our basic system of checks and balances.
+BEAR23|In the face of the possibility of all of this, why aren't markets weakening because investors apparently believe either the Democrats won't implement their promises, or that the GOP will actually do better at the polls than surveys indicate.
+NEUT24|The Democrats powerful, far left, wouldn't let the party have been in their radical agenda if their victorious in four weeks.
+NEUT25|The bottom line is clear.
+BEAR26|The markets believe that polls will even be more wrong than they were four years ago.
+NEUT27|I'm Steve Forbes.
+NEUT28|This is what's ahead.
+NEUT29|Thank you for listening.
+NEUT30|Do send in your comments and suggestions.
+BULL31|"I look forward to seeing you soon again."""

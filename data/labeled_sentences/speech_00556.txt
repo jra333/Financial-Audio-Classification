@@ -1,0 +1,41 @@
+BULL0|"""Hello everyone."
+NEUT1|In this video I eventually will like to discuss the content of block and how we are exactly populating it.
+NEUT2|We have a blog which provides some free tips for doing intraday trading in Indian stock market.
+NEUT3|No, I'm not a very much expert of the stock market data as such, but we're trying here to use some.
+NEUT4|Patterns.
+NEUT5|In big Data, and to provide these tips, we use two analysis.
+NEUT6|Posters to buy based on overall good outcome of the stocks.
+BULL7|Second, we use stocks that are doing good for last two trading days and we hope that this will continue on the third day also.
+NEUT8|And these are the list like accordingly.
+NEUT9|No, let's see what is the content of the blog.
+NEUT10|First we give a title and through actually why this video?
+NEUT11|First of all, because now we're going to generate this blog content dynamically.
+NEUT12|I mean, you're not every day going to write the blog answers.
+NEUT13|We have creating a template which will fill the data based on the algorithm that we have.
+NEUT14|So we're actually minimizing the.
+NEUT15|Manual intervention.
+NEUT16|So first is the title where we provide the some free tips for a given for a stock trading day that is fifth year, in this case 5th November.
+NEUT17|Then we start by putting analysis 1 result.
+BULL18|Which is based on their overall good outcome.
+NEUT19|It means we are here actually in looking in lot of data of the stock performance.
+NEUT20|Maybe over a year, maybe more than that.
+NEUT21|Or maybe six months, some kind of data which is historical in nature.
+NEUT22|It's not like the data for two days only.
+NEUT23|So based on that data we have the stocks that do that can do good.
+NEUT24|And maybe this.
+NEUT25|These are like more stable stocks and they can be purchased for a longer period of time, maybe seven days or maybe a month.
+NEUT26|It depends.
+NEUT27|But we are predicting for Internet only here.
+NEUT28|Our second guess is on 2nd pattern is on.
+NEUT29|Outcome of life market life share market.
+NEUT30|So basically last two days today market data.
+NEUT31|We analyzed the data that the trade is happening for today and yesterday to predict for tomorrow.
+BULL32|So we are hoping for like the stock that did good today and it good yesterday.
+NEUT33|Will do good even tomorrow, so that's why we get the dual stocks here in this.
+NEUT34|And as I said earlier that we have now making it a without less minimal manual intervention.
+NEUT35|So I just put that in the starting block.
+NEUT36|So.
+NEUT37|Less less a complete.
+NEUT38|This video with the hint that this is like what did the content of the blog is going to be more or less.
+NEUT39|I will talk in another video about how we're actually achieving it.
+BULL40|"Thank you."""

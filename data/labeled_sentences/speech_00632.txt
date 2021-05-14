@@ -1,0 +1,40 @@
+NEUT0|"""Let's stick with the markets now and bring in Amy Wu Silverman."
+NEUT1|She is head of derivative strategy at RBC Capital Markets.
+BULL2|Good to see you Amy.
+NEUT3|I just would like to get your thoughts on this big bounce back.
+NEUT4|We're seeing in tech right now.
+BEAR5|Is this the beginning of another rebuild in that sector or do you think we're going to take another big leg down?
+NEUT6|Yeah, you know, that's definitely the question of the day.
+BEAR7|Honestly, I think it's a little too early to say one way or the other yet I can tell you the option sentiment hasn't really turned at all, so even though we're getting this breather today, options sentiment remains pretty bearish.
+BEAR8|It stayed in bearish territory these last few weeks.
+NEUT9|I was very curious if that would change it all this week, but no investors continue to focus more on owning downside rather than taking this opportunity to.
+NEUT10|Load up on more calls, which is a pretty big flip from even the beginning of this year when there was a lot of call buying, so you know to me it just indicates that sentiment hasn't quite shifted yet, and I think this is continuing to be a broader part of the style rotation that we're seeing.
+BEAR11|And part of that style rotation is you say you are seeing a big reduction in retail or the appetite I guess for retail, even though we are seeing things like GameStop and some of those other meme stocks that tend to be in the REIT.
+NEUT12|That happened to be in the retail sector this time around moving higher.
+NEUT13|Why is that?
+NEUT14|Do you think?
+BEAR15|Yeah, it's a great question and it's funny because when I when I talk about the fact that retail call buying has actually declined precipitously, people immediately say.
+NEUT16|But what about GameStop?
+NEUT17|What about rocket?
+NEUT18|You know, there's all these names right now, where clearly the retail footprint is evident and, well, that's true.
+NEUT19|I'd say, you know, those are really kind of in their own unique bucket.
+NEUT20|If you take the overall options footprint, so the total volume and call option contracts that are under, you know 10,00,000, something that we consider retail.
+BEAR21|That volume number has dropped precipitously.
+NEUT22|You know from the highs that we reached in August of 2020.
+BULL23|The highs that we reached in January this year.
+BEAR24|They've really dropped like a stone, so the overall retail call buying has shifted.
+NEUT25|Even though you know there continues to be traffic in particular and maybe a GameStop, you know one point I'd like to kind of highlight, though, is that there has been a lot of correlation between getting a stimulus check, Anna return of call, buying, and obviously we know that the stimulus.
+NEUT26|Packet just heading its way to the house, so we'll see if that's a positive catalyst.
+NEUT27|What about other stocks that are better bouncing back today that had high valuations before we saw this rotation out of growth and into value?
+NEUT28|I'm talking about names like Tesla, NVIDIA, PayPal.
+BULL29|Also much higher today.
+NEUT30|Do you think that this is just a temporary euphoria in that space before you know investors, take another deep breath and say you know what the the valuations here?
+NEUT31|Just too rich for me.
+NEUT32|Yeah, you know one thing we've seen in those names where I'll just broadly lumped them as kind of your mega cap tech.
+NEUT33|Plus, Tesla, you know gets to be part of that too, but the last few days they've really been a source of funds for investors.
+NEUT34|You know, the reason investors were selling them more was so that they could go out and buy more vaccine recovery type names in the energy slash financial slash consumer discretionary space.
+NEUT35|We've seen a breath taken on that right now, but I think.
+BULL36|Overall, there continues to be that style rotation, and while we'll get days like this, the overall trend is still going to be towards those sectors that had lagged for so so long, and you know, are finally getting their day in the sun as the vaccine reality becomes more and more real.
+NEUT37|All right, we're going to leave it there Amy.
+NEUT38|With Silverman at RBC Capital Markets.
+BULL39|"Thanks so much."""

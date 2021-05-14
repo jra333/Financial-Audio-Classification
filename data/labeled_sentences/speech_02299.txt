@@ -1,0 +1,24 @@
+BULL0|"""Stock market bulls have been quick to proclaim the death of Osama bin Laden as a new reason for shares to rally killing of the leader of al Qaeda certainly prompted jubilation in the US."
+BULL1|Some are now arguing it will provide a permanent boost to the global perception of American power that it will reduce the risk of terrorism and even little help attract investors to equities fall in the oil price.
+NEUT2|Does suggest that investors accept part of this argument, perhaps reading implications for Libya.
+NEUT3|Into the US, ability to assassinate bin Laden deep in Pakistan.
+BEAR4|Parallel dropping gold could be the result of a perception that geopolitical risk is fallen.
+BEAR5|Yeah, you are shares gave back Monday's initial euphoria before even the end of the day.
+BULL6|And they've joined European and most Asian shares in their retreat today.
+BEAR7|The dollar usually weakens when investors are feeling more confident, instead strengthened daily moves might be just noise as investors struggle to understand the implications.
+NEUT8|But it's just as plausible that equities may be paying little attention to the news part.
+NEUT9|From the brief excitement on Monday morning, this chart shows some of the major events.
+NEUT10|So far this year, Japanese earthquake and subsequent nuclear disaster revolutions in Tunisia and Egypt and Civil War in Libya followed by the Western assault in the US.
+BEAR11|Standard and Poors is shift to a negative outlook which threatens the country's top credit rating and on top of that, the economic growth, which disappointed in the first quarter.
+BULL12|Meanwhile, in Europe, German mentions of the possibility of a Greek default have grabbed investor attention.
+BULL13|And while the Middle East unrest and the Japanese crisis did briefly make their impact felt, equity markets managed to shrug off both events in a matter of weeks.
+BEAR14|Talk of Greek default is trashed, the bonds, the weakest European countries, but he's had little effect on shares either in core Europe or elsewhere in the world.
+BEAR15|Even the risk that America might lose its top credit rating was pretty quickly forgotten on Monday.
+BULL16|The S&P 500 Index hit 1370 here its highest since the middle of June.
+NEUT17|Back in 2008.
+BULL18|World shares were performing similarly.
+NEUT19|If equities can ignore all this bad news plausable, they can also ignore the good news of bin Laden's death.
+NEUT20|There may be effects.
+NEUT21|Barack Obama as his presidential credentials burnished and he may be more effective as a result, but it's pretty hard to trade on this before there's any evidence at all that he's actually convinced Republicans to accept, say, his budget plans.
+BEAR22|Instead, shares are being driven by easy money and by unsustainable government deficits.
+NEUT23|"Really, one less aging international terrorist makes very little difference."""

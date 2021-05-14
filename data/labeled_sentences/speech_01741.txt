@@ -1,0 +1,32 @@
+NEUT0|"""Well, let me start with the bull for sale."
+NEUT1|Could either bull?
+NEUT2|Let's look at this bull here on this bull attacks.
+NEUT3|How does it attack it?
+NEUT4|Attacks with horns like this.
+NEUT5|Up note that bull markets are when the stock market goes up.
+NEUT6|Ask yourself how does this animal attack it?
+NEUT7|Attacks like that could have a bear please.
+NEUT8|Thank you.
+NEUT9|How does a bear attack?
+NEUT10|Yeah, yeah right, it strikes with its claws.
+NEUT11|It sounded a lot like like the bull.
+NEUT12|Actually.
+NEUT13|If you go back and hear the audio you'll you'll know the shocking similarity of how bears and bulls sound to my ear.
+NEUT14|But that's the simple mnemonic that we use here at The Motley Fool.
+NEUT15|I think it's a canard.
+NEUT16|I don't think there's any meaningful history behind this etymology, but it's a great way to remember.
+BEAR17|Bears attack down.
+BEAR18|Bull markets go down.
+NEUT19|Bulls attack up.
+NEUT20|Bull markets go up and over the long term it's been a bull market over the long term.
+BEAR21|It's been a bull market.
+BULL22|In fact, two years out of every three over the last 100 years, the stock market has gone up.
+BEAR23|It has been a bull market most of the time.
+BEAR24|With that said, one year in every three the stock market goes down.
+NEUT25|Sometimes those years happen next to each other and create a longer bear market.
+BEAR26|Some people say we're in a secular bear market.
+NEUT27|In the 2000s here at the turn of the Millennium, those are debates for people who wanted to decide what their time frame is.
+NEUT28|Do bull markets play out over decades or just years?
+BEAR29|Do you want to say that was a bad bear market month?
+NEUT30|It's all up to how you want to use the terms.
+NEUT31|"My goal here in the video was just to remind you that bears attack down Bulls attack."""

@@ -1,0 +1,47 @@
+NEUT0|"""I'm going to Patrick Ewing."
+NEUT1|That's a little joke there for I don't get any fans.
+BEAR2|Netflix stock falls after the company projects.
+NEUT3|It won't be through growth expectations in Q2.
+NEUT4|I think this is a little bit of Netflix.
+BULL5|Expectations have just gotten so ratcheted up the incredible success that they've been having.
+BEAR6|The stock was probably due for some sort of come down.
+NEUT7|It's still an incredible juggernaut, I think probably the biggest news.
+NEUT8|Well, the earnings and the expectations.
+NEUT9|Obviously huge news.
+NEUT10|But last week I think it was.
+NEUT11|There was a survey out that people like Netflix original programming.
+NEUT12|More than they like HBO's.
+NEUT13|That's the first time Netflix has been above HBO, but they're spending a ton of money on that programming, and it's a question of can they keep the growth going enough to justify it?
+NEUT14|At this moment, people are questioning that, but I, I think it's hard to question the strategy long term that Netflix has put in place, right?
+NEUT15|But they're worried.
+BEAR16|Does this mean that growth has permanently slow Dan?
+BEAR17|Is this a sign of a permanent slowdown?
+NEUT18|Yeah, I think that's really interesting.
+NEUT19|I think I think it's hard to see that you know, so they just expanded into 130 countries.
+NEUT20|They thought that they were going to maybe 4,000,000 new subscribers.
+NEUT21|They got 2,000,000.
+NEUT22|It doesn't seem to really be an indictment of the company strategy, just as you know, maybe there wasn't quite as much growth as they want.
+NEUT23|I think Karen's point though, if you could pass me the ball and I'll make my final point, I think that you know this is a company with a market cap is now bigger than HBO.
+NEUT24|CBS and Viacom combined, so the expectations and the hyper just huge and you remember quickstar when Netflix came out with everybody about the combo is done?
+BEAR25|Terrible mistake.
+NEUT26|Stock is up about things change right?
+NEUT27|This is our last question so I'm hoping it's a good one.
+BULL28|CDs will partner with start up curbside to launch a pickup service at retail stores.
+NEUT29|This is CBS kind of getting into like.
+NEUT30|I guess the Uber ization of everything.
+NEUT31|I don't know Aaron.
+NEUT32|What do you think?
+NEUT33|Yeah, is Uber azatian of everything?
+NEUT34|I guess this is the way the world is going on and I feel like the old man get off my lawn like I don't want bots delivering stuff to my house.
+NEUT35|I want to be able to go to the store, pick it by myself, but this is what the millennials want.
+NEUT36|This is what the kids want.
+NEUT37|Yeah, this is the way the world is going, at least in the big cities.
+NEUT38|And I think for CVS it's something that they probably have to experiment with it.
+NEUT39|Still a question of though is it going to pay off for them in terms of how much investment they're putting into this and what kind of return that's right, and it's not prescription drugs.
+NEUT40|Apparently it's just everything else right in there.
+BULL41|Yeah, I think so.
+NEUT42|I think it's interesting.
+NEUT43|I feel like if I'm going to order groceries online, I'm going to get them from Amazon and this is sort of a, you know, an answer to Amazon, but it doesn't seem to really go all the way.
+NEUT44|And the other thing is, a lot of CVS as you go through the story, you pick up things.
+NEUT45|Maybe you didn't realize you wanted lipstick, you pick it up and now they have a smell that I'm right, I don't really want to lipstick.
+NEUT46|"And yet exactly all that stuff at the front of the register."""

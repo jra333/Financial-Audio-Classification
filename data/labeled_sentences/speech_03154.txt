@@ -1,0 +1,35 @@
+NEUT0|"""For more, let's welcome in William Lee."
+NEUT1|He's chief economist at the Milken Institute.
+BULL2|It's good to see you again.
+NEUT3|So what do you mean by by pushing their tools further or doing more here?
+BEAR4|Well, Kelly, the coded 19 is really blasted.
+BEAR5|Some pretty significant holes into our economy.
+BEAR6|The short circuit, the ability of the Fed to really push the economy because huge segments of leisure, hospitality, transportation, retail, and even business services, people facing business services have been pretty much suppressed by the public health policies of shutting down the economy.
+NEUT7|And So what?
+NEUT8|the Fed has to do.
+NEUT9|Is to make sure that when it pushes on its instruments of quantitative easing and trying to push funding into the markets, it goes to the right places.
+BEAR10|The last thing we need is to overheat the already overheating markets like housing and auto sales.
+BEAR11|So So what I'm suggesting is that we need a targeted measure whereby the Fed can purchase and provide funding to smaller businesses which are really suffering and we saw that the banks have really been unable to do this under the SBA administration because the banks just way too slow.
+NEUT12|By the on the other hand, financial markets a lot of IPO IPO's and a lot of specs and a lot of the venture capitalists are specialists in getting money out to the people who need the funding.
+NEUT13|Especially people who are going to be innovative and shift their business models to be more adaptively.
+NEUT14|Post Covid world right so I think that's the direction that we have to go.
+NEUT15|Yeah I know you think that you're seeing the small businesses should be able to kind of go directly to the markets supported by the Fed.
+NEUT16|Maybe borrow that way and keep their businesses going but so.
+NEUT17|The tools that you're describing by the Fed aren't necessarily balance sheet tools, and you talked about the fact that quantitative easing needs to go to the right places.
+NEUT18|Are you worried that that's not happening right now, or we just in the early innings of this liquidity making its way through the economy?
+BEAR19|Well, it scares me that the size of the Fed's balance sheet is no large effect smaller than it was in June.
+BEAR20|It scares me even more that its Main Street lending program really hasn't taken off, so the Fed clearly is not his position to be able to do this itself.
+BULL21|It needs the help of specialist to be able to push money into the right places.
+NEUT22|And now the Fed has done the right thing, it says.
+BULL23|We're going to go out there and support the capital markets, so we will buy corporate debt.
+NEUT24|We will buy these special instruments that are designed to get money to the right places so all we need are some regulatory changes that allows the Fed to essentially buy these special instruments and allow the specialists to package them in the way to sell it to the public.
+NEUT25|Don't forget, there's a lot of people waiting for investments that have some high yield through it or some chances for profit.
+NEUT26|So it's not like these things go unsold.
+NEUT27|So the key is to be able to.
+NEUT28|Shift and Target the regulations in a way and that's the role of fiscal policy.
+NEUT29|Yeah, no, it's true and it kind of reminds us that the Fed is trying to do a lot.
+NEUT30|Kind of you be all things to all people right now.
+NEUT31|We'll hear more from them directly in just a couple of minutes.
+NEUT32|Bill for now.
+BULL33|Thanks very much for joining us.
+BULL34|"Appreciate."""

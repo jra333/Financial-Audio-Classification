@@ -1,0 +1,37 @@
+NEUT0|"""Jim, you mentioned Boeing and we'll talk about this a little bit more as the morning goes on."
+BEAR1|But of course that engine failure over that Denver suburb.
+BEAR2|The FAA of course ordering some inspections United grounding some of these planes.
+NEUT3|Do you think this is a Boeing issue or a Raytheon issue?
+NEUT4|No, it's Raytheon.
+NEUT5|I believe this 59 active planes.
+NEUT6|It's a Pratt and Whitney is is doing which is a rake and doing the work here to try to figure out what's going on.
+NEUT7|Crack blade.
+NEUT8|Remember we have to just say this plane is redundant plane.
+NEUT9|It was able to fly on one engine.
+NEUT10|We can't forget that.
+NEUT11|The private property inspects these, but obviously it's going to be done by the government, and I do think that the plane what is designed to handle one engine.
+NEUT12|We can't forget that at the same time the engine is not made by Boeing, but it's Boeing's responsibility.
+NEUT13|So Boeing is not shying away from this possibility.
+NEUT14|It matters tremendously about what ultimately happened and how many planes have to be grounded, but it's not as many as I thought, and the one thing I would point out is, is that this is the quote the Contra current too.
+NEUT15|A company that would be up stock would be a big if it weren't for the fact that this because the the the number of upgrades were getting for airlines and the belief that a company like Southwest is taking advantage of this, taking advantage.
+BULL16|Moving into Chicago a very competitive route.
+NEUT17|There are a lot of companies airlines that are going to be left behind and some forward thinking airlines.
+NEUT18|We should get Gary Kelly on.
+NEUT19|He is the man who is expanding Southwest right now as others retreat.
+BULL20|Yeah, we mentioned JetBlue adding some service last week.
+NEUT21|Of course, the O'Hare move is a typical Southwest Jim typical Gary Kelly being offensive when others are a little vulnerable.
+NEUT22|You mentioned the upgrade out of Deutsche today.
+BEAR23|Their general point, Jim, is that coming out of the pandemic, the consumer is going to have lower credit card debt 100 or 1 1/2 trillion in excess savings.
+BULL24|Higher home values.
+BULL25|Obviously any exposure to stocks is a net gain, and their general point is airlines are going to be at least a partial beneficiary.
+NEUT26|I agree with it now we don't have the zoom factor.
+NEUT27|We don't know how much of business travel is going to drop out, but when it comes to actual travel.
+BEAR28|I've never seen the balance sheet of Americans be this great, and again, we know there are many people who do not have jobs, but people who do have jobs, particularly in say they make less than they make.
+NEUT29|They might get the stimulus checks, the stimulus checks for younger people are going, and I'm sure David can talk about this.
+NEUT30|They're going to the stock market in a surprising degree.
+NEUT31|But but David, the one thing is that in good morning the one thing that's absolutely certain is the balance sheet, the credit, the amount of money that Americans have, including the well from stock market, makes people feel like you know what.
+NEUT32|Where can I go?
+NEUT33|Some states, some countries.
+NEUT34|You can't go, but where you can go, wow?
+NEUT35|Shepard Smith here.
+NEUT36|"Thanks for watching CNBC on YouTube."""

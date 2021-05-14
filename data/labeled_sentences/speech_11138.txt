@@ -1,0 +1,21 @@
+NEUT0|"""Neo stock analysis and predictions, November 30th."
+BEAR1|In today's NEO stock analysis and predictions, why NIO stock is lower today?
+NEUT2|Alright, let's get started.
+BULL3|Even though NIO has been somewhat immune to the pandemic.
+BEAR4|Shares today slide 3.48 percent, 956 Eastern Standard Time on Monday, following Friday's upward trend.
+BEAR5|But why today the stock market is experiencing a huge pull back after last week's gains, investors are giving back some of last week's gains, which sent the S&P 500 and NASDAQ and Tech stock like NIO to fresh record highs in the Dow above 30,000 for.
+BEAR6|First time ever last week investors saw an IO resist huge pullbacks that its competitors faced due to pending Chinese regulations on electric vehicles.
+BULL7|Anio managed to cap off November with major monthly gains of 8%.
+BULL8|Based on Friday's closing price is an iOS monthly gains have been set to 12.9% which is its best month yet.
+BULL9|Anio still benefited the economic reopening that a vaccine might confer.
+BULL10|As a result, Nio far outpaced the broader markets estimates by two point 3% when compared to a year over year time frame.
+BULL11|NIO is still expected to reach a sales growth of 136.6% for the ongoing quarter and 262.1% for the next.
+NEUT12|The company's growth estimates for the ongoing quarter and the next is 74.4% and 47.8% respectively, so from investors there is no need to panic.
+BEAR13|NIO is lower today because the market is down.
+BULL14|An IO is still expected to reach a high of $70.00 by the end of the year due to its strong fundamentals and car deliveries.
+NEUT15|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT16|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT17|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL18|We'd really appreciate it.
+NEUT19|Are you still watching and want more?
+NEUT20|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

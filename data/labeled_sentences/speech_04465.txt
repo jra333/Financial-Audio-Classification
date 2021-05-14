@@ -1,0 +1,22 @@
+BULL0|"""A legal victory for Amazon."
+BEAR1|A federal judge ruling that she will not order the AWS unit to reinstate parlor.
+BEAR2|She writes quote that event was a tragic reminder that inflammatory rhetoric can more swiftly and easy easily than many of us would have hoped.
+NEUT3|Turn a lawful protest into a violent insurrection.
+NEUT4|The court rejects any suggestion that the public interest favors requiring a WS to host the incendiary speech that the record shows some of parlors users have engaged in gym.
+BEAR5|Amazon's argument was that this was not necessarily a new thing, it was the result of a series of warnings, an apparent inability or unwillingness to rein in that content.
+NEUT6|Yeah, I don't really get why there isn't more of an uproar against the people who are doing the insurrection, push kind of cheerleading, or suggesting how to do it.
+NEUT7|I mean, it's not.
+NEUT8|It's not the fault of the carrier, forever say while playing the carrier.
+NEUT9|I mean, if you're doing something that I regard as being genocidal or racist or taking over a country or attempting to defeat the Constitution.
+NEUT10|Those are the guys who are full.
+NEUT11|I'm not David.
+NEUT12|I don't want free speech for racism free speech for insurrection.
+NEUT13|That's not what the country is built on now, and the Amazon decision was an interesting one, as a course was Twitter's decision to not just suspend former President Trump but to ban him?
+NEUT14|Right platform interesting to note, Carl.
+BEAR15|I'm sure as you saw, the Ayatollah has now been suspended.
+NEUT16|Did wonder well how you could suspend and or ban the press.
+NEUT17|Former president and not the Ayatollah.
+NEUT18|Yeah, a lot of critics argue guys that Twitter's suspension policy is is a work in progress.
+NEUT19|Yeah, few moments ago.
+NEUT20|Shepard Smith here.
+NEUT21|"Thanks for watching CNBC on YouTube."""

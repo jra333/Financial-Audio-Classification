@@ -1,0 +1,22 @@
+NEUT0|"""Michael, what are we learning so far about how quickly things normalize when you slowly start to reopen again?"
+BULL1|Well, I think we've we've learned that the drop off was steeper.
+NEUT2|I think that's one thing I'll just note.
+BEAR3|In addition, the April decline was was steeper.
+BULL4|I would say the May data as it's now starting to come in we think is more or less in line with what we've been thinking that the continuing claims data last week was certainly very important and sending a signal that the rate of a hiring is probably picking up in in the economy.
+BEAR5|So I think it's going to be slow going.
+BEAR6|Maze likely to be choppy in terms of the data the states were reopening at different points in time and it's not clear that.
+NEUT7|You just signal reopening and people go back to normal behavior.
+NEUT8|So I would say, well, we're likely to get mixed data flow in in May.
+BULL9|Some good data points and bad data points and in June will likely be more clear, but we're taking our strongest signal from the jobless claims data and the almost 4,000,000 decline and continuing claims last week is a fairly positive sign.
+BULL10|And we hope that continues and continues at that pace as well, and we recover quickly Michael.
+NEUT11|We caught up with the New York Fed President John Williams on this program last week and he talked about looking to get this economy back to where it was pre COVID-19 pre the COVID-19 shock.
+NEUT12|Michael, I understand this is a guesstimate because we have very little information especially on the science side.
+NEUT13|To understand what the trajectory of this recovery would look like.
+NEUT14|But if you had to take a guess, how long will it take to get back just to where we were at the start of this year?
+NEUT15|Well, at least in terms of the economists would measure that in terms of the level of GDP.
+NEUT16|When do we get GDP back to where it was in Q4 2019?
+NEUT17|You're right, there's a lot of uncertainty around that.
+NEUT18|I think the quickest you can get back there might be about you know 12 to 18 months.
+BULL19|Our baseline would say more like 3 years that we could get an initial snap back here in the in the third quarter and perhaps into the fourth quarter.
+NEUT20|But from there on we think it will take a few years to fully get the economy back to where it was.
+NEUT21|"Or from a pre covid standpoint."""

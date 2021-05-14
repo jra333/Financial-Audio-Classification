@@ -1,0 +1,31 @@
+BEAR0|"""Slack is taking company communications by storm, but a lot of people still don't really understand what it is or why investors are so interested in the business."
+NEUT1|In this video we break down Slack and explain why some think it's the future of enterprise software.
+NEUT2|Slack's namesake platform is a cloud based collaboration tool.
+NEUT3|Most people would describe it as a messaging service, but it does so much more with Slack.
+NEUT4|Users can share files, create project based channels, and easily communicate with teammates around the globe.
+NEUT5|Instead of the siloed approach, that email offers, Slack allows new teammates to access information that was added before they joined on Slack's name.
+NEUT6|Really says it all.
+NEUT7|It's an acronym and stands for searchable log of all conversation and knowledge.
+NEUT8|The software was born out of frustration.
+BULL9|The staff at the company that would eventually become Slack couldn't find an enterprise communication tool that fit the needs of their business, so they decided to build their own and to date the service has been wildly successful.
+NEUT10|Slack is using the classic software as a service.
+NEUT11|Approach of a land and expand with its freemium model.
+NEUT12|It's free with limited functionality for small organizations.
+NEUT13|As the companies grow and their needs grow too, they can move to pay tiers ranging from $6.67 to $15 per month per user right now, over 600,000 organizations use Slack, including 88,000 paying customers.
+NEUT14|The average user spends 90 minutes per day on Slack, and the services used to send 1 billion messages a week.
+NEUT15|All those metrics point to the fact that users like Slack and the more they use a service, the stickier or harder to leave it becomes.
+BEAR16|All of that employee communication turns Slack into a knowledge repository for business, which means companies can't switch to a competitor without losing the accumulated easily accessible knowledge.
+BULL17|Slack has been able to turn all of this into the beginnings of a solid software as a service business, Slack collected $400 million in revenue in fiscal 2019 of 82% year over year, and management thinks they're just getting started.
+NEUT18|The company is looking to take a sizable bite out of the market for workplace communication and collaboration, software and industry.
+NEUT19|They estimate could be worth $28 billion in 2020.
+NEUT20|Slacks, fast growth and sizable addressable market are two big reasons why investors have been eyeing the company.
+NEUT21|Like a lot of early tech companies, Slack is losing money right now, but the hope is that at a larger scale the business can ratchet down at sales and marketing spend and get into the black looking at the financials, the story seems to make sense.
+NEUT22|Software is generally high margin and Slack is no exception.
+BULL23|The company posted 87% gross margins in the last fiscal year, assigned that down the road, the business could print cash for investors.
+NEUT24|Of course all this potential also has market expectations.
+BULL25|In slacks valuation high.
+BULL26|And the business will be going up against some big names in enterprise software segment, namely Microsoft.
+BULL27|So far the company has thrived by creating its own category of communication.
+NEUT28|But as it gets bigger, the competitive heat might turn up and now that shares are publicly traded via the company's direct listing will get a lens into exactly how that fight plays out.
+NEUT29|Thanks for watching this video.
+NEUT30|"If you have a company, would like to see us breakdown, mention it in the comments section below and be sure to like the video and subscribe to get more videos like this from The Motley Fool."""

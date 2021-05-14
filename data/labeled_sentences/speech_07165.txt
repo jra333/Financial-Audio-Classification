@@ -1,0 +1,17 @@
+NEUT0|"""#5 on my list is Pfizer."
+NEUT1|Pfizer is traded around $30 for years and offers a 4.35% dividend.
+BULL2|They're a well known and popular pharmaceutical company with a revenue of $47 billion per year.
+NEUT3|#4 on my list is BP.
+NEUT4|BP is an oil and gas company which is transitioning to a 0 carbon company which is devastated their stock price.
+BULL5|They offer a 4.83% dividend and the cheap stock price allows for future growth in the stock.
+NEUT6|While collecting a beautiful dividend.
+NEUT7|#3 on my list is Coca-Cola.
+NEUT8|They've traded for around $50.00 for years and they offer a variety of beverages and more than 200 countries, and offers a 3.28% dividend.
+NEUT9|#2 on my list is Realty Income Realty Income is a real estate company that is commercial properties in the US, Puerto Rico and United Kingdom.
+NEUT10|Since this is a real estate investment trust, they have a 4.40% dividend and they pay their dividends monthly instead of quarterly.
+NEUT11|Number one on my list is 18 T 18 T trades at around $30 and provides a 6.94% dividend.
+NEUT12|Why put ATT number one on my list is because the new CEO is turning around 18 T by reducing debt.
+BULL13|Focusing on HBO Max, which will be a huge player in the streaming world and allow us to grow our stock price in the future.
+BULL14|An sustain this amazing dividend.
+NEUT15|Theo is not financial advice, any statements made or my views and is for entertainment purposes only and should not be taken as financial advice.
+NEUT16|"Do your own research before making any financial investments."""

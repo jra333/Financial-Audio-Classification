@@ -1,0 +1,12 @@
+BULL0|"""U.S. stocks that are rising this Wednesday morning on the back of Corona virus vaccine hopes and strong earnings from Disney."
+BEAR1|Now Disney earning $0.08 per share, while analysts expected a loss of $0.64 per share, way better than expected, while Disney also said it now has 100,000,000 paid subscribers across the streaming services, which include Disney plus Hulu and ESPN Plus, Disney shares soaring nearly 11% this morning.
+BEAR2|Meanwhile, in the forex market, the euro dollars, we begin that sees the bias remain bullish.
+BULL3|And that's in focus as the pair stands above the overlap at one 1795 and supported by its rising 20 and 50.
+NEUT4|Moving averages.
+NEUT5|Long positions above 117 ninety five are favored with targets at one 1860 and one 1885.
+BULL6|In extension, the British pound U.S. dollar pair that sees the upside prevail while the US dollar Japanese yen pair intraday that trades under pressure.
+NEUT7|Taking a look now at cryptocurrencies, the Bitcoin dollar that continues to see the Next up target standing at 11,575, the pivot point 11,103.
+BULL8|While gold sees further advances, gold is strongly bullish above the support at 2012, supported by its Rising 20 and 50.
+NEUT9|Moving averages.
+BULL10|Long positions above 2012 are favored with targets at 2042 and 2057.
+BULL11|"Extension this, while silver that sees further advance."""

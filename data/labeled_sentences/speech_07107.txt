@@ -1,0 +1,20 @@
+NEUT0|"""This is Alan Farley from FX empire."
+NEUT1|Let's talk about 3 stocks reporting earnings this week.
+NEUT2|First up is Twitter.
+BEAR3|Twitter is now trading at about a six year high, right up around the $60.00 level is trying to give out 15 to 17 points below the all time high posted in 2014, right after the 2013 IPO.
+BEAR4|This is a very good position for the stock, except it's kind of pass.
+NEUT5|This one big barrier here at the 786 retracement before the doors open to finally testing this big price configuration right up here in the 70s.
+NEUT6|So I would think we're getting pretty close to that.
+NEUT7|Price is trading about 57, so as soon as Twitter crosses that $60.00 level, I think you have to be a little bit more cautious and perhaps tighten up your stops.
+NEUT8|Second up on Wednesday we have General Motors reporting earnings in this stock is just on a roll.
+BULL9|It finally mounted this rising highs trend line right here in the low 50s in January.
+NEUT10|Breaking out is consolidating at new support, which means the stock could be in the 60s or the 70s incoming a quarters.
+NEUT11|Now a lot of it's.
+BULL12|Growth is really expected in EV production in coming years, so it might be kind of a speculative bit, especially with the recovery still not hit firing on all cylinders during this winter.
+BULL13|With the second pandemic wave, but investors are taking note of the EV manufacturers there revaluing them for much, much higher prices, so GM has a very, very bullish future ahead of it.
+NEUT14|Finally, we have Disney now.
+BEAR15|Disney does not look like a stock that's going to post a loss in in the first quarter.
+NEUT16|It's just me in the fourth quarter, but disease expected post date.
+BEAR17|Pretty big loss Becauses cruise ships aren't running movie theaters or empty and its theme parks are socially distance not happen.
+NEUT18|And I'm not able to handle very big crowds except that all of Disney's energies are being put into the Disney streaming service which has something like 80 or 90 million subscribers.
+NEUT19|"Now everybody will be looking at that growth rate more than looking at movie production to see where the Disney stocks headed and if it reports a another quarter of historic growth stock and start to push towards $200."""

@@ -1,0 +1,13 @@
+BEAR0|"""The biggest mistake that young people make when it comes to investing is not pregaming the party they show up without having prepared their personal finances at all, which leaves them very open to risk and also susceptible to tax losses."
+NEUT1|What's up, rich people, it's me.
+NEUT2|Haley AKA Mrs Dow Jones an I'm a financial pop star.
+NEUT3|I use humor and pop culture to explain money to millennials and Gen Z.
+BEAR4|If you invest without having an emergency fund and you end up needing money, you might have to cash in on your investments.
+BEAR5|And who knows, maybe the market will be in a downward spiral and you will have to lock your losses.
+NEUT6|But if you have an emergency fund you wanted to do that.
+NEUT7|It's also really important to pay off your high interest rate that I think a lot of young investors think that they're sort of gaming the system by investing their money and then trying to use those gains to pay off the debt, but the APR on high interest rate debt is really high, much higher than the annual rate of return of the stock market.
+NEUT8|Also, not maxing out their retirement fund contributions, 401K is an IRES.
+NEUT9|Have all of these tax advantages that are really worthwhile, but when you just open a brokerage on your own and start putting your money in the market Willy nilly, you're missing out on these opportunities and you're going to ultimately have to pay a lot of money to make trades.
+NEUT10|And you're going to have to pay capital gains taxes on whatever money that you make.
+NEUT11|Invest in you ready set.
+NEUT12|"Grow CNBC and acorns."""

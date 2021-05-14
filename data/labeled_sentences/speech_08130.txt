@@ -1,0 +1,25 @@
+NEUT0|"""Back in January 2016, Mohammed bin Salman, the Crown Prince of Saudi Arabia, revealed a plan to list the shares of State Oil company Saudi Ramco."
+BULL1|This was big news given the country controls the second largest crude oil reserves in the world.
+NEUT2|The idea was to raise money by selling 5% of this company to investors in order to bolster the country's finances.
+NEUT3|Now back then, the oil price traded at half today's $62.00 per barrel price.
+BULL4|No surprise that Saudi Arabia wanted as high evaluation as possible.
+BEAR5|Unfortunately, the kingdom's valuation expectations for Saudi Ramco were just too high.
+NEUT6|The Crown Prince, known as MBS, thought 2 trillion was the right amount.
+NEUT7|Well before any banking advisors had been hired.
+NEUT8|Lex, after doing some financial modeling back in 2017, now thinks the valuation should be closer to 1.2 trillion.
+NEUT9|Most other analysts.
+BEAR10|Also, believe the Saudi valuation to be pricey, including their own global advisors for the IPO that did not stop bankers from organizing roadshows to promote Saudi ramco.
+NEUT11|These meetings do not appear to have gone very well.
+BEAR12|While recent bond offerings for Saudi Ramco have gone well, issuing shares turned out to be much trickier.
+BEAR13|International Equity fund managers clearly did not like what they heard, and banks insisted they listen.
+NEUT14|But the listing would only be on the Saudi Stock Exchange, one for which not many foreign investors have any experience.
+NEUT15|A ramco would be far and away the largest company on that exchange.
+BEAR16|Portfolio managers also worried about the security of the company's oil facilities in Saudi Ramco, suffered an attack in September of this year.
+BULL17|Later, the company offered a substantial dividend, which could grow overtime.
+BEAR18|But pestering fund managers who take up an IPL only puts them off as they will fear no one else wants to buy.
+NEUT19|And that is what happened in the end.
+BEAR20|The final price was lower and the sale portion less than MBS had originally desired.
+BULL21|Still, nothing enticed international investors outside the Gulf, at least to put in big orders.
+NEUT22|For now, most of the share sale at a high valuation closer to 1.7 trillion will go to investors in Saudi Arabia and the Gulf.
+NEUT23|Not at all.
+NEUT24|"What was originally intended."""

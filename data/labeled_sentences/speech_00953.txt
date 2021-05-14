@@ -1,0 +1,46 @@
+NEUT0|"""What's up guys?"
+NEUT1|Jonathan Rhodes, owner Masters.
+BEAR2|In trading we're seeing some really big unusual options activity in Juniper Networks.
+NEUT3|When I was a market maker for five years on the floor of the Chicago Board Options Exchange, we used one tool to value options and it was unusual options activity in Juniper.
+NEUT4|We're seeing a ton of that.
+NEUT5|I'm going to go over it, but before I do tomorrow, Tuesday, January 28th, I'm holding a live presentation.
+NEUT6|It's an unusual options activity.
+NEUT7|I won't waste a moment of your time.
+NEUT8|You can click the link in the video description and join us.
+NEUT9|So Juniper, here's what I shared to the coaching clients.
+NEUT10|Short term options expiring this week.
+NEUT11|Consider buying the 23 half puts.
+NEUT12|You could also do the Feb, so I said Feb as well because if we Scroll down Feb we also have some unusual up and activity.
+NEUT13|But the trade?
+NEUT14|It's more of a binary bet right now because Juniper has earnings after today's close, so by the time you're watching this, they probably, or they may have had earnings.
+BEAR15|We may have lost 100% of the principle that we bet or invested, or we may have made about five times.
+NEUT16|So for instance, if you buy ten of these for $0.33, that's $330 of risk.
+BULL17|After earnings, let's say Juniper gets hit 20%, which it was.
+NEUT18|That's a big move, right?
+BULL19|A 20% move after earnings.
+NEUT20|Somebody obviously believes that there's a good probability you can go down.
+NEUT21|Let's say hypothetically, it does 20%.
+BEAR22|20% would take us down to about $20.
+NEUT23|So at $20.
+NEUT24|R 23 half would be worth $3.50, so if we put a 10 lock for $330.
+BEAR25|And then junipers down 20%.
+NEUT26|That 350 has turned into 3500.
+NEUT27|12:50 return.
+NEUT28|Now.
+BEAR29|Probably going to lose.
+NEUT30|How do we know what problem?
+NEUT31|I don't know if we're probably going to lose, but the odds are it's not getting 20, right?
+NEUT32|That seems a little much, but if it gets down to 22 and these are worth $1.50 minimum, that's still a really good trade, right?
+NEUT33|We risk 350.
+NEUT34|To make 1500.
+NEUT35|It's a binary bet.
+NEUT36|This is not how you want to make a living.
+NEUT37|But when you find little things like this and you come across them and you don't mind, hey, I'm going to risk $350.00.
+NEUT38|I know I'm probably going to lose it, but if I'm right.
+NEUT39|3500 Bucks 1500.
+NEUT40|If we get a little move, follow unusual options.
+NEUT41|Activity tomorrow I'm going to do a presentation.
+NEUT42|I'll have you all leaving their understanding the power of following unusual options activity with the institutions are doing.
+NEUT43|It's what the hedge funds do.
+NEUT44|My name is Jonathan Rosen.
+NEUT45|"Only owner of Masters and trading."""

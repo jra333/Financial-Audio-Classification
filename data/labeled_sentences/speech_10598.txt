@@ -1,0 +1,29 @@
+NEUT0|"""About the Oxford data that we are expecting in The Lancet on Monday, you always talk about under promising over delivering yet how much is on the line."
+NEUT1|I don't know.
+NEUT2|They've got the dip guide, both T cell.
+NEUT3|They have T cell antibodies to the word on that on that vaccine is very very positive.
+NEUT4|So I think that Astra Zeneca's got something.
+NEUT5|It's really Oxford produces school and I do think that as Doctor Fouchy said, there's gonna be multiple multiple vaccines.
+NEUT6|I thought J&J if you go over their conference call yesterday which are very good conference call.
+NEUT7|They talked about being ready to produce.
+NEUT8|You know, they're they're ready person couple billion vials and what it's going to come down to is who can produce the most because I think that you're not going to be able to beat this thing until everybody gets a vaccine.
+BULL9|And I I was very hopeful from J&J, and I hope to be have some good news.
+BULL10|AstraZeneca David.
+BULL11|The number of companies in the firepower throwing this thing does make me feel like that there is going to be good news by the by the beginning of the year.
+NEUT12|Which would be great a gym?
+NEUT13|Do you think we end up in some sort of a situation where if in fact things do continue to progress in a in a positive manner that there are more than one vaccine?
+NEUT14|There's numerous vaccines available somehow?
+NEUT15|Does that work?
+NEUT16|Or how does that work?
+NEUT17|Yes, 'cause for general have something AstraZeneca love something?
+NEUT18|Pfizer will have something maternal, if something J&J Lo have something.
+NEUT19|All the docs I talked you say you're going to have to take at least three shots to beat this thing.
+NEUT20|One of them will be a booster shot just because.
+NEUT21|It's not going to be enough.
+NEUT22|The skeptics say that they've never beaten anything this fast.
+NEUT23|Well, I've never seen you know this.
+BEAR24|This is D day and these companies are approaching and they're falling.
+NEUT25|Endless amount of money.
+NEUT26|There's no limit to what's being spent now.
+NEUT27|There are a lot of smaller companies that people are very enamored of, but I say stick with the majors.
+NEUT28|"That's who's going to be able to develop something 'cause they've developed it before."""

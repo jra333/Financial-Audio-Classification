@@ -1,0 +1,29 @@
+NEUT0|"""Support the channel links in the description."
+NEUT1|Stocks, Warren Buffett and Berkshire Hathaway bought and sold in second quarter of 2020.
+NEUT2|Liberty SiriusXM Series added 40.05%.
+BULL3|Store Capital added 31.11%.
+NEUT4|Suncor Energy added 28.45%.
+NEUT5|Kroger added 15.84%.
+NEUT6|Barrick Gold bought 21 million shares.
+BEAR7|US Bancorp reduced 0.38%.
+BEAR8|Charter Communications reduce 3.93%.
+BEAR9|Visa reduced 5.44%.
+BEAR10|MasterCard reduced 7.5%.
+BEAR11|Bank of New York Mellon reduced 9.29%.
+BEAR12|M&T Bank reduced 15.72%.
+BEAR13|Wells Fargo reduced 26.49%.
+BEAR14|PNC Financial Services reduced 41.83%.
+BEAR15|JP Morgan Chase reduced 61.52%.
+BEAR16|Sirius XM reduced 62.24%.
+NEUT17|Get free stocks links in the description.
+NEUT18|Delta Airlines sold 100%.
+NEUT19|Southwest Airlines sold 100%.
+NEUT20|United Airlines sold 100%.
+NEUT21|American Airlines Group sold 100%.
+NEUT22|Restaurant Brands International sold 100%.
+NEUT23|Goldman Sachs Group sold 100%.
+NEUT24|Occidental Petroleum sold 100%.
+NEUT25|Check out our store link in the description.
+NEUT26|As always, be sure to let me know your thoughts down in the comments.
+NEUT27|Be sure to smash that like button.
+BULL28|"Thank you so much for tuning in and I will catch you in the next video."""

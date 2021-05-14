@@ -1,0 +1,32 @@
+NEUT0|"""Listen to me telling you why you should invest in Facebook."
+NEUT1|Facebook is a social media app.
+NEUT2|Useful posting content.
+NEUT3|You can make friends and like hard or dislike their posts.
+NEUT4|You can connect with your friends and family this way.
+NEUT5|Recent should buy Facebook.
+BEAR6|Our current viruses left so many people stranded at home isolated to prevent it.
+NEUT7|The conversance burning and the only way for people to connect is through device.
+BULL8|Facebook is enough to help you connect with friends and family, so a lot more people will be using it, meaning its value increases.
+BULL9|Reason two is Facebook is growing at a remarkable rate.
+BULL10|It's good traction, faster than any other social media site, and has been steadily trending upwards for five years now.
+NEUT11|Facebook has a lot of potential.
+NEUT12|82% of people buy this stock.
+BULL13|Facebook is currently valued at $241.50 and it has been going up words even though crash during stock market crash.
+NEUT14|It really just rebuilt entire than ever before were five years.
+NEUT15|Same amount of trend.
+NEUT16|My crash really badly around 2018, but it also rebuilt itself.
+BULL17|As it did with the stock market crash over a month, it's been pretty solid looking over three months.
+BULL18|It's also been solid looking.
+NEUT19|A weeks and days are kind of relative that could just be a blemish in the overall thing like a week would be about.
+NEUT20|This much of a month and like this much of three months.
+NEUT21|It's part of the 100 most popular.
+NEUT22|And so that means a lot of people must like it.
+BEAR23|82% people by just like I said in the slide, 14% of people hold and only 4% still.
+NEUT24|People will also buy other software stocks to go along with this, meaning it must have some pretty good ties and.
+NEUT25|It's a pretty good stuff over all, and two 35646 people on this on Robin Hood, so it's popular.
+BULL26|Thank you so much for listening to this video.
+BULL27|I hope you have a good day.
+BULL28|Thank you so much.
+NEUT29|Please be.
+NEUT30|Please be sure to like, subscribe and comment down below if you have any stocks that you like me to review.
+BULL31|"Thank you so much, bye."""

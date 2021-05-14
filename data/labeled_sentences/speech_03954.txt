@@ -1,0 +1,25 @@
+NEUT0|"""Is it possible to throw a Super Bowl party without going super broke?"
+NEUT1|Will show you how to host the successful Game Day gala without dropping the ball on your budget.
+NEUT2|Even if your team isn't on the field last autumn.
+NEUT3|Invite on social media and ask your attendees to RSVP so you know what kind of crowd to expect.
+NEUT4|BYO B is your friend.
+NEUT5|Let partygoers know you'll be serving a signature cocktail.
+NEUT6|But they should bring their own libations to supplement the spread.
+NEUT7|Select your signature cocktail.
+NEUT8|Will be you can snag quality boxed wine for under $12.00 or mixed one palatable yet inexpensive liquor with a juice.
+NEUT9|Think Rum, Punch origin bucket.
+NEUT10|Or you can jettison the juice by pouring vodka straight into a watermelon.
+NEUT11|With rebate apps like Ibotta and Ebates, any party host can become a coupon Queen, buy in bulk and don't purchase Prepared Foods which are priced at a premium.
+NEUT12|If you remember or know a Member who could shop with you, head over to your local Costco or Sam's Club before Super Bowl weekend.
+NEUT13|That means right now, grab $5 of fresh veggies for your guests to snack on.
+NEUT14|Don't go crazy with decoration.
+NEUT15|It doesn't take a creative genius to make these Pinterest inspired footballs using Brown tissue paper and white printer paper.
+NEUT16|Serve snacks and drinks that kickoff but wait till halftime to roll out the main food event.
+NEUT17|An easy snack is popcorn on the stove, not microwave, which is pricier with Eminem's reflecting your preferred teams colors.
+NEUT18|Invite your guests to partake in a Nacho bar during halftime.
+NEUT19|You can buy all the supplies you need for under $25.00.
+NEUT20|It looks like there's way more food than there is.
+NEUT21|And your guests can pick what toppings they like.
+NEUT22|Use your regular dishes so you don't have to buy and waste paper and list some close friends to help with clean up afterwards.
+NEUT23|And what if you don't have cable or football?
+NEUT24|"Isn't your thing stream the Puppy bowl online and invite your friends to bring along any furry friends of their own?"""

@@ -1,0 +1,35 @@
+NEUT0|"""Is Jay Powell or Janet Yellen really in charge of this market like they used to be in financial crisis?"
+NEUT1|I've argued this is not a financial crisis.
+BULL2|70% of the US economy according to Goldman Sachs, is humming along and Americans are doing just fine.
+BEAR3|This is a health crisis that caused a financial crisis in certain parts of the industry.
+NEUT4|Is this something the Federal Reserve and or the Treasury can really move the needle on?
+NEUT5|I think the Federal Reserve and the Treasury are willfully taking themselves out of the markets right now.
+BULL6|I think they'd see their job is being done having gotten the economy to the point that it is.
+BULL7|We've obviously seen massive amounts of monetary stimulus that has raised asset prices and brought liquidity to the markets when it was needed.
+NEUT8|And I think Jay Powell is basically saying, you know, for the most part, barring any major issues, it's up to other areas of the economy.
+NEUT9|Now.
+NEUT10|It's going to be up to fiscal stimulus if the Biden administration is looking to pass a major infrastructure bill, and it's up to, you know.
+BULL11|The private sector to continue to generate growth opportunities going forward, but I think it's a very intentional choice to take a step back for the Fed right now.
+NEUT12|OK, so where do you think those private sector opportunities are going to be J.
+NEUT13|Well, I think the major opportunities right now are related to reflation.
+NEUT14|We just saw you know 1.9 trillion passed in fiscal stimulus and another three trillion is now on deck with infrastructure.
+BULL15|This is really probably going to stimulate more economic activity but also increase inflation areas that have historically done very well in this type of environment are metals like copper tend to be very leveraged to inflation.
+NEUT16|Energy stocks in particular, midstream like the oil and natural gas complex that moves those energy supplies around the country.
+BULL17|And some other areas related to financials like preferred stocks could do very well as well as rising interest rates could increase profitability among banks in the United States as well.
+NEUT18|You know, I just talked to Bertha, we talked about the need for energy not just oil and gas, but energy of all kinds.
+NEUT19|Who got the president talking about a $3 trillion sort of infrastructure energy, social type spending program as well.
+NEUT20|All of that seems to bring you back to your MLP ETF.
+NEUT21|Now this is more than I think the pipeline side, but you believe there are also tax advantages, dividend advantages.
+NEUT22|In an industry that while it gets its knocks.
+NEUT23|Is not going away anytime soon.
+BULL24|The United States has been one one of the most powerful oil producers in the world.
+NEUT25|You know it up there with Russia and Saudi Arabia in production that we will natural gas has to get moved around the country.
+NEUT26|It has to go from West TX to Corpus Christi.
+NEUT27|They'd be exported.
+NEUT28|It has to go from Pennsylvania and shale drilling regions out to the northeast where a lot of it is consumed that requires a massive amount of energy complex to be built around.
+NEUT29|That pipelines and storage facilities.
+NEUT30|Master limited partnerships are those companies that are doing that.
+NEUT31|But historically traded at extremely low valuations in the last five years or so, but are essentially very critical parts of the US's energy strategy.
+BULL32|So we believe in this reflationary environment where we're seeing oil prices recover pretty significantly, and we're seeing this bit of a rotation from growth to value that these very cheap energy related stocks and master limited partnerships are very well positioned in this environment.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

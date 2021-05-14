@@ -1,0 +1,29 @@
+NEUT0|"""Should we abolish the Electoral College?"
+NEUT1|The answer is no.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to help navigate this turbulent world.
+BEAR3|With the presidential election season now in full swing, we can expect to hear more calls for getting rid of the Electoral College Democrats especially dislike this institution because both in 2000 and 2016, their presidential candidates won the popular vote but lost the election because they came up short of the electoral votes needed to win.
+NEUT4|The cry of those who want to dump the Electoral College is every vote is equal.
+NEUT5|These reformers want a straight national vote.
+NEUT6|They say the current system as candidates focusing on just a handful of swing States and ignoring the rest.
+BEAR7|The critics missed several crucial points.
+NEUT8|The Electoral College honors America's extraordinary diversity in terms of background, religion, race, culture, Commerce, values, priority of interests, and much else under the college, a presidential candidate cannot win the White House without putting together a National Coalition.
+NEUT9|A diverse peoples and groups and interests and aspirin can't go the distance with a now geographic or ideological appeal.
+NEUT10|This need to appeal to voters who may share some goals but have different priorities.
+NEUT11|Puts a premium on muting some differences rather than inflaming them of trying to get diverse peoples working together for a common cause.
+BEAR12|Hillary Clinton's failure to appeal to certain traditional Democrats in the Midwest cost her the election.
+BULL13|This need to build a coalition makes candidates more attentive to local interests.
+NEUT14|A straight national vote would have parties focusing on voter turn out among their basis, rather than working on trying to win voters who may done initially be on their side.
+NEUT15|A national vote would be numerous candidates running.
+NEUT16|You could have an extremist when the most votes, even though it would be a small percentage of the overall electorate.
+BEAR17|This possibility would necessitate a run off of the top two, but again for so many candidates to extremists could get into the runoff.
+NEUT18|As for the charge of the Electoral College leads to the major party candidates ignoring all but a handful of states, the fact is that in almost any election and office seekers, going to focus thardus as Election Day approaches.
+NEUT19|Not on his base of supporters or on the committed voters of his opponent or her opponent, but rather voters who haven't firmly made up their minds.
+NEUT20|Thus, Joe Biden isn't going to spend considerable time and resources and say Maryland, or most voters go for the Democrat Party, but rather up for grab voters in a swing state like Florida.
+NEUT21|Similarly, Donald Trump isn't going to emphasize a state like Alabama where the overwhelming majority voters are in his camp, but in swing voters in a state that could go either way.
+NEUT22|Such as North Carolina.
+NEUT23|As for 2000 and 2016, when the popular vote was divergent from the Electoral College, which rarely happens in American history.
+NEUT24|The campaigns the two parties ran would have been very different if those elections were straight.
+NEUT25|Popular vote.
+NEUT26|It's easy to criticize the Electoral College, but it's an institution that serves well the unique characteristics of the United States of America.
+NEUT27|I'm Steve Forbes.
+BULL28|"Thank you for listening to send in your comments and suggestions, and I look forward to seeing you soon again."""

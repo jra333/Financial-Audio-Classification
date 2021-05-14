@@ -1,0 +1,13 @@
+NEUT0|"""Hey guys, welcome to trade a stock.com."
+NEUT1|Today I bought 1000 shares of VI.
+NEUT2|PS I like what the chart was doing.
+NEUT3|As you can see the last couple of months there was a lot of resistance Ms with this yellow line is here so there's resistance here here, here here it finally broke resistance came back down and now that resistance is acting on support right there.
+NEUT4|So start railing up.
+BULL5|Basically moved up really good here on high volume.
+NEUT6|And for the last couple days, 2 weeks.
+NEUT7|So basically just drilling here so it's coming out of overbought.
+BULL8|I'm expecting another pop pretty soon so I know earnings come out.
+NEUT9|I think in 10 days from now, so either that pops going to happen then or is going to happen before that but.
+BULL10|Hopefully goes up.
+NEUT11|You know I have.
+BULL12|"I think 3000 shares of VIP S right now, so let's hope it makes, uh makes us some money."""

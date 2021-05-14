@@ -1,0 +1,12 @@
+NEUT0|"""Are you making the same dashboard every week containing company stats from the previous week doing this the old fashioned way required you to generate a new infographic every seven days using your new data, printing it out, or distributing it for your weekly meetings."
+NEUT1|If your chart stay the same and the only thing changing are the numbers, you can create one infographic in link to cloud data.
+NEUT2|Then you only have to update your cloud data and never work on the infographic again.
+NEUT3|Even the link to the dashboard will stay the same.
+NEUT4|You'll save a ton of time.
+NEUT5|Here's how it's done.
+NEUT6|Let's create a Google spreadsheet with some performance stats.
+NEUT7|Then go to your chart and upload from this source.
+NEUT8|Create a private link by pressing share, enter presentation mode and you have a beautiful interactive dashboard to show off at your meeting next week.
+NEUT9|All you need to do is update your spreadsheet and the dashboard will contain the new data.
+NEUT10|Even if you choose not to link to cloud data, you can still save time by going to your library and clicking duplicate.
+NEUT11|"Update the numbers in your new dashboard, create a private link and you're ready to present at the next weekly meeting."""

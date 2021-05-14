@@ -1,0 +1,10 @@
+NEUT0|"""I get just digging through the slides here."
+BEAR1|Facebook pointing out that is operating margins have been under pressure.
+BULL2|The company reporting operating margins of 42% in the fourth quarter.
+BEAR3|Now, while this pretty much aligned with the consensus analysts expectations, it is down from 46% operating margins in the fourth quarter in 2018 and also down from 57% operating margins in the fourth quarter of 2017.
+NEUT4|That, of course reflecting those on going expenses that are growing on going expense growth.
+BEAR5|You see, shares now down.
+BULL6|Over 6% in after hours trading.
+NEUT7|It'll be really interesting to see in the call which is starting at the top of the hour.
+NEUT8|What CFO David Wehner says specifically about his outlook for those expenses and how much they're going to grow in 2020.
+NEUT9|"Carl back over to you."""

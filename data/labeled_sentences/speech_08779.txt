@@ -1,0 +1,35 @@
+NEUT0|"""Jose Rasco he is head of investment strategy of the Americas at HSBC Private Bank."
+NEUT1|Good to have you here and one of the questions I think a lot of investors have right now is this market getting ahead of itself.
+BEAR2|We still don't have approval in the United States of a COVID-19 vaccine, but a lot of people seem to think that stocks are gonna go up up and away because of all the pent up demand.
+NEUT3|What do you think?
+NEUT4|No, we're in agreement with that, and I think if you look at where we are, you know.
+BULL5|Clearly we've seen the market move alot.
+BULL6|Alot of gyrations in the market in the last couple of weeks and and a lot of change in leadership from defensives to cyclicals to going back to the kovit economy and support.
+BULL7|We're firm believers that at some point in the next two to three months we're going to see something not just on the vaccine side, but as well antimicrobials and therapeutics.
+NEUT8|And I think it's that trifecta.
+NEUT9|That's really going to have an effect.
+NEUT10|And whether we gotta plan a stimulus plan now before the end of the year.
+NEUT11|Or we get it in the first quarter, or both.
+BULL12|We think there's going to be an injection of capital into the economy, and as a result we think that's that's positive for what we call the reopening of America.
+BULL13|So we're pretty positive on it.
+NEUT14|Is that when you think about leadership in the market and how you've changed your investment strategy from what we were doing 6 to 8 months ago?
+NEUT15|Where are you seeing opportunity now?
+NEUT16|Well, we were more defensive back then.
+NEUT17|We were focused also on Asia, a little more back then.
+NEUT18|Now we broaden that out to include the US as one of our main overweights and we have become a lot more focused on the covid economy.
+NEUT19|And now we're more focused on this reopening.
+NEUT20|We're going to focus on more cyclical names were becoming more pro cyclical as we hit 2021.
+BULL21|Don't forget as we hit the first quarter, you'll also see temperatures begin to rise as we head towards spring.
+BULL22|So we think that combination is going to be pretty positive.
+NEUT23|And keep in mind you still have the Fed in play.
+NEUT24|With low interest rates and their policy, the QE policy of trying to keep the yield curve low and flat and providing liquidity and we don't think we'll see that that those tax hikes anytime soon because the Biden administration, I think is pretty much aware that we need to get the economy back to functioning at full capacity or close to it before you can begin to raise the specter of higher taxes either on the corporate or personal side.
+NEUT25|Jose help us understand when you say overweight in the United States, we've had other guests who talk about you're going to get a better yield if you look at for instance Europe or even emerging markets, can you put that in layman's terms for someone like us like me?
+NEUT26|Sure, I think.
+NEUT27|Well, there's two ways to look at this, right?
+BULL28|We have investors who are incoming oriented investors, and so next year is going to be a very good year where cash flows are going to expand.
+NEUT29|The economy is going to be open reopen, not just in the US.
+BULL30|We're hopeful that we'll see a lot of activity in Europe or a pickup in activity variables as well in Europe.
+NEUT31|And therefore, if you're an income investor, you could see a lot of companies raise or reinstate reinstitute given policy's, which means that dividend yield that total return will go up so income investors can look in that area.
+BEAR32|If you're a growth investor, which a lot of our clients are, then you want to focus on that reopening and the reopening we've seen in Asia, it's worked very well where the reopening has been very strong, and we're seeing that in the US it's happening in fits and starts, and clearly we have the unemployment rate is still higher than it should be, but we think it's going to continue to drift lower as we head towards spring in.
+BULL33|Particular keep in mind we just did our national Ur Navigator survey where we talked to corporate clients and 74% of companies feel that they will be expanding next year in terms of revenues and 70% of them think the profits will be at or above where they were pre covid.
+BULL34|"So there is some optimism as well in the corporate landscape which is good."""

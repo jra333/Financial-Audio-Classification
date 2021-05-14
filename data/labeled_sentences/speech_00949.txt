@@ -1,0 +1,34 @@
+NEUT0|"""Yeah, absolutely."
+NEUT1|I think the equity market story is closely linked to what's happening in the bond markets.
+NEUT2|Every at the end of the day.
+NEUT3|If investors think that the liquidity in the system and there's really been a liquidity driven rally of the last year.
+BEAR4|Plus at this point if that liquidity is going to dry up because of higher inflation and higher rates, then you are going to see a pullback in the equity market.
+NEUT5|So I think any answer to how do you play equities comes down to?
+NEUT6|Do you believe that the liquidity remains awash in the system, so that's the first thing.
+BEAR7|But one thing that we've all said here is there is risk now to the downside, given inflation expectations, especially in the US and potentially elsewhere as well with the recovery.
+BEAR8|So my bets are really on diversification, away from some of these markets where the relative valuation might be better, so some of the leading tech companies in Asia undervalued compared to their tech peers in the US on a valuation basis or in Europe.
+NEUT9|For that matter, you can access those either directly through the local exchanges or through the ADR market on the New York Stock Exchange.
+NEUT10|It gives you important diversification, both in terms of geographic risk, pandemic risk, but also you can take away the country currency risk by buying these things on the New York Stock Exchange.
+NEUT11|That would be one strategy.
+NEUT12|I'd suggest investors today as they think about relative value.
+NEUT13|You have to look at downside protection and you have to do that via diversification out of some of these overheated markets.
+NEUT14|Selena and let's say that things are going good morning to you.
+BULL15|Brother was a lovely time speaking to you.
+NEUT16|Let's say that the economy does motor in the second half of the year and that we haven't gone too far and our expectations as well.
+NEUT17|Can the market handle given what you just said about liquidity driven as well?
+BULL18|Can the market handler returned to North of 1.75% US 10 year paper?
+NEUT19|And what else that brings along the curve?
+NEUT20|While the market today is signaling very strongly that what that looks like, a likely outcome with six 7% growth in the US, which is really high growth rate for an economy as large as the US, we know that that is going to eat away into fixed payments into that right?
+BEAR21|That's just the trade off that you get when you have higher inflation, and that rattled markets over the last couple of weeks.
+NEUT22|That's why we saw the the pullback that we did.
+NEUT23|So the liquid ITI is really going to depend on whether markets believe that the Fed.
+NEUT24|And it should be, and others can continue to do some yield curve control to make sure that the yield curve remains low enough so the liquidity in the system keeps chasing yield keeps chasing risky assets.
+NEUT25|It really is a bet on whether you think central banks can be effective and yield curve control.
+NEUT26|And we saw the messaging shift just overnight with the Fed saying yes they will be rate increases just in a way to escape get In Sync with what the bond curves are doing.
+NEUT27|But also trying to say that listen to recovery is not assured yet.
+NEUT28|Is there a third wave is there not?
+NEUT29|Will have states like Michigan in the US where the curve the.
+BEAR30|Pandemic of the Covid covers is starting to trend back the other way.
+BEAR31|The wrong way cases are up again, so I think that there is still weakness, specially in the labor markets and they think their strategy is can we play this balancing act?
+NEUT32|There is enough liquidity so that yielded chasing behavior.
+BULL33|"Keeps pushing assets up, but if we do that then perhaps there's more employment creator then we can ease the pressures in the labor market before we actually have to raise rates."""

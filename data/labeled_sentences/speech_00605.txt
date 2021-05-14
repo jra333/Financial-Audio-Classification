@@ -1,0 +1,43 @@
+NEUT0|"""Well, bonds, bonds, bonds there's a lot of weird action happening this week that have spilled over into stocks and here to break it down is Yahoo Finance's Jared Blicker E alongside Brian Shannon, the founder of alphatrends.net Jerry Brian what's going on?"
+NEUT1|Alright Brian, I'm going to bring you in a second.
+BULL2|I just want to say here this has been an incredible week.
+BULL3|We've seen some huge moves in the bond market.
+BEAR4|Kind of disrupting the risk on flows that we've seen since the beginning of the year.
+NEUT5|But, you know, I think as traders.
+NEUT6|We don't have to understand everything that's going on.
+NEUT7|'cause we got charts.
+NEUT8|And so we've got a chart of spy here.
+NEUT9|We're going to bonds in a second.
+NEUT10|I want you to break down the S&P 500 ETF here for us.
+BEAR11|Yeah, Jerrod, I mean we're still in a primary uptrend.
+NEUT12|I mean he, you know people forget that there's risk in the market sometimes and it can happen rather rapidly.
+NEUT13|Whatever the reasons may be, dislocations in other markets, whatever it is, when it spills over to what we're trading, we take it a lot more personally.
+BEAR14|But again, the market still in a primary uptrend.
+BULL15|We've been bouncing around the year to date, volume weighted average price in this by this week, and that tells us that there are still buyers here at that average price defending the market.
+BEAR16|Now today we undercut it slightly.
+NEUT17|And undercut the 50 day moving average, but now we're getting a bounce and it appears to me as though the worst of this little bout of selling is over, and it's probably an opportunity for people to say, hey, you know, if I wasn't comfortable holding what I had this week with this volatility, maybe take the opportunity on the next bounce to lighten up some of that and try to understand better where your risk lies in an overall portfolio.
+NEUT18|Well, let's take a second to breakdown risk management because it's not only for new traders, it was only a month ago that Melvin Capital had to be.
+NEUT19|Recapitalized to the tune of billions of dollars.
+BULL20|These are experienced pros.
+NEUT21|So how does a little guy manage risk here?
+NEUT22|Well, I like to say risk management is always job number one and a lot of people get overwhelmed with the correlations that they hear about that.
+BEAR23|While gold is down.
+NEUT24|So the dollar should be doing this and that should translate to Bitcoin or whatever.
+NEUT25|When I think what you really have to do is look at your individual Holdings and understand where are they relative to your cost.
+NEUT26|What was your original risk going in and manage each position based on its own risk parameters?
+NEUT27|Don't make overall portfolio decisions because of what the Fed is doing.
+NEUT28|Leave that to the macro managers but instead say hey, I own, you know shares of Microsoft.
+NEUT29|I'm going to trade Microsoft based on what Microsoft tells me and only what Microsoft tells me.
+NEUT30|Otherwise it just gets too confusing and there's too many variables.
+NEUT31|Investing in trading is hard enough without.
+NEUT32|Trying to make it so smart that we just don't understand it at the end.
+NEUT33|Alright, so we only got about 30 seconds left, but we have a chart here of TLT.
+NEUT34|What are you seeing in there?
+BEAR35|Well, the bonds have been in this really good downtrend since August of last year.
+BEAR36|They broke below that 50 day moving average and that's really capped all the rallies since then this week we saw massive volume to the downside and it tells me that you know volume typically peaks at turning points.
+NEUT37|I don't think that it's you know a buy and it's, you know, bonds or in a new bull market.
+NEUT38|But it's a time to look at and say.
+BEAR39|It's probably making a near term low and we're gonna see some bounces in here, but then at the end it's probably going to settle down for a while and re find its footing the old phrase if they don't scare you out, they'll wear you out, meaning that it's likely again to take some time to settle down before it can really sustain another uptrend.
+NEUT40|Again, they don't scary out there where you I love that almost as good as price, only price phase.
+NEUT41|I'm gonna toss it back to Akiko here.
+BULL42|"Alright, thanks so much for that guy."""

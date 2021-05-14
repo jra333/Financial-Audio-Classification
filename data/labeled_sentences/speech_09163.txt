@@ -1,0 +1,25 @@
+BULL0|"""Bitcoin has been having a field day reaching a record 28,600, and there's only one more full day of trading left in 2020."
+NEUT1|Yahoo Finance's Jared Blicker Y joins us brings us into his crypto corner, Jerrod take it away.
+NEUT2|Well, I tell you what, three years ago we had the crypto corner under the stairwell at our old office and now I'm in a corner and with the help of Wi-Fi interactive, yes indeed, I am in the crypto corner.
+BULL3|Let's check out Bitcoin up another 3 1/2 percent, nearly touching 29,000.
+NEUT4|It was only two weeks ago that it first passed 20,000.
+NEUT5|It took the Dow over two years to complete the same movement.
+NEUT6|I'm waiting to see if it can hit 30,000 by close of business tomorrow.
+NEUT7|That would be a record for the year, but you know what?
+NEUT8|There is some.
+BEAR9|Other news that we're following here, XRP has had a terrible run.
+BEAR10|It's down another 4% today.
+BEAR11|You look over the trailing month down 68%, and now Coinbase has been sued by a group of investors.
+BEAR12|Should be a class action suit over the alleged illegal SRP sales.
+NEUT13|So what this involves is the SEC sued Ripple, which distributed and created SRP tokens.
+NEUT14|That was last week and now this week we're seeing this continue into the private space.
+NEUT15|And the investors are alleging that Coinbase should have known that these XRP tokens were actually securities.
+NEUT16|Big question for me is, does the SEC step in and also kind of second guessed Coinbase?
+NEUT17|Here we'll have to wait and see.
+NEUT18|We also got some other news.
+BEAR19|The USANA company called Bitgo are settling over sanctions violations, and this this comes from OFAC and this has to do with the company that offers non custodial secured digital wallet management services and they've agreed to remit about $100,000 to.
+BEAR20|Service civil penalty is because they allowed users customers in regions around the world where OFAC has sanctions against some regions like Crimea of Ukraine, Cuba, Iran, Sudan, Syria.
+NEUT21|So all of this put together.
+NEUT22|I think it just shows that the space is maturing.
+NEUT23|There's going to be some legal ramifications.
+NEUT24|"The XRP Ripple News kind of came out of left space, but it's really not interrupting the flow of money into Bitcoin as we head in to the end of the year here, Seville."""

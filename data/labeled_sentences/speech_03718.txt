@@ -1,0 +1,30 @@
+NEUT0|"""We heard from Charlie Munger yesterday."
+NEUT1|He was speaking at the Daily Journal Journal Annual Meeting and he had some pretty harsh comments for a lot of corners of Wall Street, but especially when it came to things like Robin Hood and promising free trades and what that means to take in retail investors.
+NEUT2|He thinks it's gambling that's sucking them into this.
+NEUT3|What do you think about those thoughts?
+NEUT4|Charlie Munger is a brilliant investor and as you know he's willing as you've covered him for many years to say what is on his mind.
+NEUT5|He doesn't hold back and I think he has some.
+BULL6|Are really good points.
+NEUT7|There's no doubt there's some speculation in some areas of the market, and there's no doubt that some people are trading stocks they really don't know what they're doing, and some people are basically using an excessive margin, I think, but I think on the whole the stock market is not our biggest problem.
+BEAR8|The biggest problem we have right now is the economy is still weighed down by covid an until we get out of that and we get back to a situation where we have more closer to full employment.
+NEUT9|Economy is not really going to be fair to everybody, so I think the biggest problem we should worry about is not completely speculating.
+BEAR10|Young people might be speculating buying some stocks that maybe they shouldn't be by really big problem is all the people that are out of work and we have a real risk that we're going to have a country of two cities really.
+BEAR11|A tale of two cities where people are going to be a permanent underclass and they're never going to catch up and get back to where they should be, so that's the biggest problem for the economy right now.
+NEUT12|Two things in terms of what would help that the first is this covid relief bill that we've been talking about, though the other is just what's happening with vaccinations that getting rolled out.
+NEUT13|Maybe Covid getting pushed back.
+BEAR14|We have seen the caseload decline incredibly rapidly, rapidly, even more rapidly than you might anticipate from the rollout of the vaccines and how much of that you think is kind of playing into this.
+NEUT15|How much do you bet on just that?
+NEUT16|Well, the president has said their two highest priorities right now are getting everybody vaccinated.
+BULL17|Everybody wants to be vaccinated, vaccinated, and getting this stimulus bill through a vaccination is improving at Jeff Sciences that are really good job of coordinating this.
+NEUT18|But again, we still have a small percentage of the population relatively speaking vaccinated and therefore it's going to take probably until the summer before almost everybody is vaccinated.
+NEUT19|Once the vaccinated, probably we're not going to have herd immunity until the end of the summer or maybe September or so.
+NEUT20|So we've got a long way to go.
+BULL21|Clearly it was a brilliant move to get the vaccines.
+NEUT22|Produced before they were actually approved by the FDA.
+NEUT23|We just didn't get enough of them manufactured and as a result we don't have enough vaccinations material to give everybody a vaccine.
+NEUT24|Who wants one?
+NEUT25|So we're still playing catch up there, and I think the what you've cited is true.
+BEAR26|It's a very good positive move, but we're still a few months away from where we need to be.
+NEUT27|And until we get there, I don't think the economy can really, truly recover.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,38 @@
+BULL0|"""The growth relative to the valuations pretty attractive, you know."
+NEUT1|I think the thing that sort of move the stock a little bit higher last night was Facebook for the last few quarters has been going through this process of saying look, we're a media company.
+BEAR2|We're recognizing that in our core areas the ad loads getting really high.
+NEUT3|It's starting to kind of turn users office the same thing that happened to radio and the radio industry never really dealt with properly.
+NEUT4|Facebook is trying to make sure that they deal with it properly and keep engagement high across their different.
+NEUT5|Portfolio of use cases and so they're moving usage away from the core newsfeed into things like video into things like Messenger and stories.
+BEAR6|And as they do that, they're moving time into less monetizing areas that's been going on for a couple of quarters, and I think that investors really understand that the thing that helped the stock you know ultimately sort of halfway through their earnings call was they came out and said that profitability outlook is going to bottom.
+BULL7|Next year in 2019, whereas coming out of Q2, they had said it might be 2020 or 2021 and so I think investors sort of look at this and say, OK, we can see, you know, sort of the bottom of the estimates ramp for Facebook and you know, it's set up a little better going forward.
+NEUT8|The old.
+BEAR9|I mean, if I look back at the way the company's grown earnings per share in recent years, it's a huge deceleration.
+NEUT10|But the multiple is not that high anymore anyway.
+NEUT11|It seems like it already reflects out what about the overhang from.
+NEUT12|All the things that can go wrong.
+NEUT13|Every you know we we never know what's going to happen next week they got compromised here this you know this happened.
+NEUT14|Is it worth more or less than 20 times already?
+NEUT15|I think it's worth more.
+BEAR16|You know all the stuff that could go wrong has been reflected in them taking operating margins from four.
+NEUT17|We have an election coming up.
+NEUT18|We got another one in 2020.
+BULL19|Sure everything that's gone wrong is already going well.
+NEUT20|I don't know if it's already going wrong, as I'm saying, is to combat that stuff.
+BEAR21|They took ten points off their operating margin from 45% to 35% spending on.
+NEUT22|Engineers and security and safety.
+NEUT23|And you know what Mark Zuckerberg said last night was we're never going to be perfect, but we're going to try to basically outrun the hackers.
+NEUT24|And some of these are state sponsored hackers that they really have to invest a lot in order to in order to beat, you know, Michael.
+BEAR25|The issue that I've been focused a little more on, I think, is just the idea that there are younger users who either have stopped using it, have removed the app, or don't use it nearly as frequently, and you just wonder, is there an.
+NEUT26|Age group where they just think it's not cool anymore and there's something else that comes along.
+NEUT27|I know Instagram has been drawing a lot and they own that too, but is there a concern at some point that you're not going to have the same addicted user base as as younger kids come along?
+NEUT28|They don't do it.
+NEUT29|Yeah, I do think that's a concern, you know, and especially in the United States where the where the revenue per user is many multiples of what it is in other countries in the world.
+NEUT30|One thing that Facebook is doing to sort of try to.
+NEUT31|You know, get around.
+NEUT32|That is they've come out with their stories, which is really, you know, taking SNAP in the crosshairs and trying to make sure they don't lose that younger so big they probably can't buy the next Facebook like they did with Instagram.
+NEUT33|Yeah, they need to make sure that across different use cases of communicating and media consumption that they're getting their fair share of the of that usage, and they've always sort of struggled a little bit with that younger demographic.
+NEUT34|And it's more of an adult, you know, kind of property, which in a way is good because it's cool to base it on.
+NEUT35|Cool.
+NEUT36|But also it's more lucrative.
+NEUT37|"Because adults and advertisers like adults."""

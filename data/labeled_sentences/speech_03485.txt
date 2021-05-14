@@ -1,0 +1,32 @@
+BULL0|"""Welcome back everybody."
+BEAR1|Amazon CEO Jeff Bezos says that he supports hiking the corporate tax rate, but global companies are also worried about something called guilty.
+NEUT2|It's a very ominous sounding prospect, and Robert Frank joins us right now to explain what it is.
+NEUT3|Good morning.
+NEUT4|How are you doing, Robert?
+BULL5|Good good Becky.
+NEUT6|Thank you.
+NEUT7|You look at these big tech companies like Facebook, Amazon, Apple as well as the Big Pharma and the media companies and they could have a lot more to lose from Biden's plan for overseas profits than they do that 28% rate and the reason, as you mentioned, is something known as guilty.
+NEUT8|That is the global intangible, low tax income or guilty.
+NEUT9|It's a minimum tax on overseas earnings that was created as part of the Trump tax plan to make companies both more competitive overseas.
+NEUT10|And to prevent them from loading all their profits into the Cayman Islands or other low tax jurisdictions.
+NEUT11|Right now the tax on guilty is 10.5%.
+BEAR12|Biden plans to double that to 21%, and because companies can only deduct a portion of the taxes that they pay to other governments, the effective rate would be 26% of critics say that would put U.S. companies at a big disadvantage and lead to more inversions.
+BEAR13|And foreign takeovers supporters say the current rate is way too low and doesn't generate enough revenue and the tax policy center estimating that Biden's guilty rate would cost U.S. companies an extra $650 billion / 10 years.
+NEUT14|That is more by the way than the revenue that would come from a 25% corporate tax hike.
+NEUT15|So guys, you guys were talking about Amazon and all the loopholes this is 1 area where especially for tech.
+BULL16|These overseas earnings are crucial and we're talking about not going from 21 to 28, but doubling from 10.5 to 21%.
+NEUT17|So you know the lobbyists are out fighting this.
+NEUT18|Yeah, that's really interesting and might explain a little bit more of why he hear Bezos saying OK. We'd be OK with a higher corporate tax rate.
+NEUT19|Maybe he's got his eye on things like this instead.
+NEUT20|How do other countries deal with corporate rates like this?
+NEUT21|Do they have a similar sort of tax?
+NEUT22|It's a complicated question.
+NEUT23|You know, how do you tax the companies overseas earnings?
+NEUT24|Most OECD countries basically use a territorial system, which means they only tax the earnings in the country in which those were earned, not when you bring those profit backs.
+NEUT25|We have a hybrid system where you do.
+NEUT26|These companies do pay, let's say if they are in Germany they pay the German government that tax and then this 10.5 is added on to that and so right now most countries are edited Vantage over U.S. companies.
+NEUT27|That becomes even greater if you double that tax, and that's why it's really important.
+NEUT28|Yellen has advocated for a global minimum tax, unless you have all the other countries playing by the same rule and increasing their taxes.
+BEAR29|Well, this doesn't work, and this would put U.S. companies at a huge disadvantage.
+NEUT30|Shepard Smith here.
+NEUT31|"Thanks for watching CNBC on YouTube."""

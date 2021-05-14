@@ -1,0 +1,10 @@
+NEUT0|"""So what goes up must come down."
+NEUT1|If I was plug, I would do an offering right over here after hours guys, it's at 70 bucks.
+BEAR2|That's way too high.
+NEUT3|We know what happens we saw with test as well.
+NEUT4|It will come back down to Earth and we will short it shorted out.
+NEUT5|But we're not going to force the trade right now.
+NEUT6|If the trade is not there, we're just going to wait and watch, wait and watch an when this gap gets filled.
+BULL7|We know this gap is going to get filled as well.
+NEUT8|There's no way this thing can ride from.
+NEUT9|"You know $22.00 to $66 without an offering on the way, so be very careful about that."""

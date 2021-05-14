@@ -1,0 +1,26 @@
+NEUT0|"""Good afternoon, I want to start with this deal with Dish."
+NEUT1|I find it very interesting and my question actually is whether it's as much of a game changer.
+NEUT2|If that had been something possible 10 or 15 years ago in the smartphone era, do you need to be able to place a bet on your TV when you could just be doing it on your phone at the same time?
+NEUT3|Well, it's really just about having convenience, and you actually, technically, the bet is placed through the phone.
+NEUT4|It's really just giving people the opportunity to pull up their bets on the screen where they're seeing the streaming and is also to be able to interact with that, and the bet.
+NEUT5|Actually it uses your phone, the TV communicate to the system communicates with your phone, and the bed is actually placed through your phone, so it's really just about having one screen.
+NEUT6|I know that second screen is a term a lot of people use and.
+NEUT7|Certainly with the phone, you're right.
+NEUT8|It's very convenient.
+NEUT9|I wouldn't say you need it, it's just another way that people who have certain preferences can interact and our goal is to try to just make it as easy as possible for people to do things the way they want to do it.
+NEUT10|Do you think this will lead to existing account holders betting more during a live game and or drive more people to open an account with you as opposed to somebody else?
+NEUT11|Well, the goal is really just to you know, really think about it from the customer's perspective, there will be some people that prefer to do it this way.
+NEUT12|Some people that prefer to see said just take their phone out and we want to make sure we're very customer centric company.
+NEUT13|We want to make sure that if we have customers that find this to be a more convenient way of doing it that we provide that service for them.
+NEUT14|What about the UFC deal Jason what's what's the potential there?
+NEUT15|What is betting like on UFC at this moment?
+BULL16|UFC's been extraordinary for us.
+NEUT17|First, they are very forward thinking League.
+NEUT18|They've been, you know, very much.
+NEUT19|Embracing the types of games, fantasy, and betting that draft Kings do and done a tremendous job integrating them into the viewing experience.
+BULL20|So it's been a very successful partnership relationship.
+BULL21|Excuse me, for us, it's been an incredible start to this new deal for us and really excited about what the next few years.
+NEUT22|That will bring.
+BULL23|They've been really a great team to work with.
+NEUT24|Shepard Smith here.
+NEUT25|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,29 @@
+BULL0|"""Amazon and some interesting numbers out today."
+BEAR1|A New York Times piece here pointing to just how quickly Amazon has scaled up as a result of the pandemic 400 and 27,300 employees hired since January of this year.
+BULL2|And that is a new record.
+NEUT3|Yeah, 414 hundred new workers a day when they worked out the math.
+NEUT4|The article says it's unrivaled in the history of corporate America and something that stood out to me is that look the pandemic was good for Amazon's business.
+BULL5|But it also made it easier for them to hire all of these people because people were looking for work and they were able to leverage that.
+NEUT6|Enter that point.
+NEUT7|You know.
+NEUT8|We've seen.
+BEAR9|Amazon, of course, come under a lot of criticism throughout the pandemic for their treatment of their employees.
+BULL10|We've got this news out from the company this week that full-time operation staff will in fact be receiving bonuses $300 in bonuses.
+NEUT11|Part time workers will get $150 bonus, so it looks like the company trying to get out in front of it.
+NEUT12|Now we pointed to that number that you talked about 420, seven, 1300.
+NEUT13|That doesn't include the delivery drivers, which by the way, are a contract is so they're not full time employees.
+NEUT14|That number alone is at 500,000.
+BEAR15|I mean that is just a staggering number when you think about the scale of this company, not just in the US, but globally.
+NEUT16|I mean, it really is staggering.
+BEAR17|There's also another 100,000 not counted in their seasonal workers.
+NEUT18|Do you want to know Walmart, which is still the nation's largest private employer, with about 2.2 million employees, added?
+NEUT19|180,000 Ann I think.
+NEUT20|But put in a couple of stickers here.
+NEUT21|This is done with all of those cloud HR management systems.
+NEUT22|Can you imagine trying to do this 20 years ago higher?
+NEUT23|This number of people you know you without your work days?
+BEAR24|It would be pretty hard.
+NEUT25|I mean, it really does speak to just how companies who had that digital footprint to match this acceleration we've seen throughout the pandemic were best positioned and I'm going to just leave you with this number.
+NEUT26|1.2 million people globally.
+NEUT27|That is a workforce for Amazon.
+BULL28|"That's up more than 50% from a year ago, so that gives you a sense of just how quickly this company has scaled."""

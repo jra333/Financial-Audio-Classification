@@ -1,0 +1,43 @@
+NEUT0|"""What's up guys?"
+NEUT1|Feeding information?
+NEUT2|Air formula analysis.
+NEUT3|I will be investing $50 just like General Mills in Amazon, so here for the value investor.
+BEAR4|Very ugly.
+NEUT5|89.2 price.
+BEAR6|Earnings forward of 59.6 so it is going down even though it's still high average in the 20s.
+BULL7|So overvalued from that standpoint.
+NEUT8|19.9 for the price to book ratio it needs to be under five.
+BEAR9|It's overvalued price to sales ratio.
+NEUT10|You have a 3.52 actually under the five so there you go.
+NEUT11|Debt over equity.
+NEUT12|You have .63 average under .5 so slightly higher than where you'd want it.
+BULL13|Revenue of 221 billion, thirty 7% year over year growth.
+NEUT14|That is insane.
+NEUT15|Market cap of 778.4 billion.
+NEUT16|Now for the quarter 3 earnings.
+NEUT17|Hold on, I want to space this out a little bit.
+NEUT18|There we go.
+NEUT19|So for their quarter 3 earnings they had a EPS of 5.77.
+NEUT20|They beat by 2.66.
+BEAR21|The analyst expectations of 3.11 blew it out.
+NEUT22|The water 56.57 billion in quarter revenue.
+BULL23|That was up 29.3%.
+BEAR24|So keep in mind that is down from their 37% annual average right now.
+BEAR25|They missed by 540,000,000 based on analysts expectations which actually equals out to a 1% miss.
+NEUT26|It's probably even less than that, but it's just hilarious.
+BULL27|Amazon Web Services was up 46% quarter over quarter.
+BEAR28|That's down from 49%.
+BULL29|But you know, it's still up 46%.
+BULL30|That's still really good.
+NEUT31|Further information you have third in AD revenue behind Google and Facebook.
+BULL32|That was something I've recently just found out, and that's awesome.
+NEUT33|First in cloud markets.
+NEUT34|So Amazon Web Services.
+NEUT35|They're generating so much revenue is growing so rapidly it's insane.
+NEUT36|That's actually it.
+NEUT37|I don't even think that was a four minute analysis.
+NEUT38|These typically aren't yet 2 minutes, but that was it.
+NEUT39|I ran through it really quick.
+NEUT40|Their next earnings is on January 31st, so I'll make sure to do a video once that happens.
+BULL41|But anyways, thank you so much for watching guys.
+NEUT42|"If you enjoyed this video throwing me like feed you information out."""

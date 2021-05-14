@@ -1,0 +1,62 @@
+NEUT0|"""Which presidential candidate is promising $2.00?"
+NEUT1|A gallon gasoline and why he might be wrong.
+NEUT2|We got Liam Denning here from the heard on the street team.
+NEUT3|So I gave a clue.
+NEUT4|It's a he, but that doesn't narrow it down 'cause they're all he's done.
+NEUT5|Yeah.
+NEUT6|And also this is becoming a bit on this new Gingrich, but this is becoming a bit of a standard thing for Republican candidates to write.
+NEUT7|Not promising $1.00.
+BULL8|As well, I mean one up from his five cents a gallon.
+NEUT9|You know you may remember.
+NEUT10|Michele Bachmann did this back in August.
+NEUT11|She was saying you didn't work for fires in charge exactly, and Newt today is talking about an yesterday while he was campaigning is talking about, you know, getting gasoline back to 250 back to 2 bucks.
+NEUT12|And you know there's some other characteristics there that he shares with Backman's call, which is blaming President Obama for hiring.
+NEUT13|Blaming Obama, blaming Obama for not allowing more drilling, talking about how gas was under 2 bucks a gallon when?
+BEAR14|Obama came into power now it was in the midst of a small economic justice.
+NEUT15|Believe.
+NEUT16|At that point you may remember it is it is true.
+BULL17|Now it's up around 360.
+NEUT18|I think that you know then probably going over for let's not be unreal about this.
+NEUT19|Well, the way oil prices went today.
+NEUT20|Yeah, probably yeah, but I think that you know the bigger issue here is, you know what Newt Gingrich is talking about.
+NEUT21|You know allowing more drilling?
+NEUT22|OK, that's that's fair enough.
+NEUT23|But that's not necessarily going to get you down too.
+NEUT24|$2.00 a gallon gas?
+NEUT25|So let's let's talk about some of the stuff in your column says that some U.S. oil in some crude in the US is changing hands at 70 bucks a barrel.
+BULL26|Yeah, that's a good price.
+NEUT27|Very isolated though.
+NEUT28|And it's because basically that you have these areas where production is surging, but they haven't yet built the pipelines to actually get it out of there.
+NEUT29|So you get this personality.
+NEUT30|That would be.
+NEUT31|That would be like 252 bucks a barrel right at current crack spreads.
+NEUT32|That would be what you'd get if you get to about 67 bucks a barrel.
+NEUT33|That's about 2 bucks a gallon.
+NEUT34|Yeah, so.
+NEUT35|That's close 70s clothes, so maybe she'll rush there with a cracking plant and crank it up to to Clearbrook Minnesota and then refine it yourself up there without actually taking anywhere.
+NEUT36|Then you on your stovetop with it.
+NEUT37|You should you probably want to start driving now though if you want to get there.
+NEUT38|So, So what about drilling more?
+NEUT39|More drilling?
+NEUT40|Would that would that help?
+NEUT41|It brings down the price to a certain degree because obviously you get more barrels onto the market, but I think what people miss is that oil is a global market.
+NEUT42|It's not a U.S. market.
+NEUT43|I mean, I think people look at the natural gas market where we see prices vary.
+BULL44|Very low in the US but high elsewhere.
+NEUT45|But the reason is that you conversation, yeah, you can't export natural gas.
+NEUT46|Oil gets transported, gets refined and exported.
+NEUT47|OK, so you're going to go all green on us now.
+NEUT48|That's the last bit of column where you say conservation, I've seen you ride a bicycle to work, so that's good.
+NEUT49|I'm sure way to go, although they won't allow in the building as well.
+NEUT50|Never mind, we'll get to that later.
+NEUT51|Tell us why this might actually be a good thing.
+NEUT52|Well conservation if you think about it, the way to actually get oil prices down is to encourage more supply, but also to use it more efficiently.
+NEUT53|And you know, famously, in the US we use so much oil per capita.
+NEUT54|We love driving.
+NEUT55|Until recently, we had a huge love affair with SVS and Big cars.
+NEUT56|And, you know, one relatively easy way to bring down our consumption.
+BULL57|And by the way, it has been coming down anyway because of recession is to boost the efficiency.
+NEUT58|Drive cars that use less oil and the fact is, those policies are already in place.
+NEUT59|The problem is, it's not a very easy issue to campaign on because essentially you're saying to voters listen, you're going to need to sacrifice a bit here.
+NEUT60|You're going to need to drive a smaller car.
+NEUT61|"Or drive an electric or hybrid car in order to get this done."""

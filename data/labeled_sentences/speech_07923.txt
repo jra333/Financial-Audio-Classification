@@ -1,0 +1,36 @@
+NEUT0|"""On the way to the office, it's all of a 5 minute drive."
+NEUT1|I've been doing it.
+NEUT2|1st 54 years.
+NEUT3|One of the good things about this five minute drive is that on the way there's a MacDonald, so I'll pick up something.
+BULL4|Good morning, thank you for choosing McDonald's.
+NEUT5|Go ahead and order whenever you're ready.
+NEUT6|With cheese anything else.
+NEUT7|Thank you.
+NEUT8|My wife, as I shave in the morning, I say either two 61295 or 317 and she puts that amount in little Cup by me here and that determines which of three breakfasts I get.
+NEUT9|OK 295.
+NEUT10|Great, you're on candid camera.
+NEUT11|When I'm not feeling quite so prosperous, I might go with the 261 which is 2 sausage patties and then I put it together and pour myself a cold.
+BULL12|Hi how are you?
+NEUT13|317 is a bacon egg and cheese biscuit, but the markets down this morning so I think I'll pass up to 317 and go to June 25.
+NEUT14|Grade school where somebody did something for the King and the King said, what can I do for you?
+NEUT15|And he said, well, let's take a chess board and put one kernel of weed on the first square and then doubled it on the 2nd and doubled it on the 3rd.
+BULL16|And the King readily agreed to it.
+NEUT17|And by the time he figured out what 2 to the 64th how to do, he was giving away the entire Kingdom.
+NEUT18|So it's a pretty simple concept.
+NEUT19|But overtime, that accomplishes extraordinary things.
+BULL20|Berkshire is an amazing company is 4th largest company in the Fortune 500.
+NEUT21|He is the only person who is ever from scratch, built a company that is in the top ten of the Fortune 500.
+NEUT22|Well, Berkshire is a holding company of sorts.
+NEUT23|It owns a large number of separate businesses that operate independently of each other and to a great extent from the parent company Berkshire Hathaway.
+BULL24|We're going to get more.
+NEUT25|We have maybe 70, maybe 80 businesses and we ask them to behave in a way that doesn't hurt our reputation at Berkshire Hathaway.
+NEUT26|But they run their own lives.
+NEUT27|Other people do most of the decorating of the office, so various things come in.
+NEUT28|Originally when I moved in in 1962.
+NEUT29|You can see this.
+NEUT30|I went down to the South Wall Mall Library and I think for a dollar.
+NEUT31|I got 7 copies of old New York Times from.
+NEUT32|From big times like the Panic of 1907, this is one 1929 obviously, but I wanted to put on the walls days of extreme panic in Wall Street, just as a reminder that anything had happened in this world.
+NEUT33|I mean it.
+NEUT34|It's instructive art.
+NEUT35|"Call it."""

@@ -1,0 +1,20 @@
+BEAR0|"""There's been very little correlation between China stock market in China's economic performance."
+BEAR1|We saw beginning in 2006 and 2007, soaring prices, which then collapsed just before the Olympics.
+NEUT2|And ever since then, the market's been almost flat until around the summer of last year and in the summer of last year.
+BULL3|For a number of reasons, and most importantly government signaling, the market began to rally and that rally very quickly turned into an astonishing rise of bubble, like proportions.
+BEAR4|At its peak, depending on which market you looked at, it had gone up by 100 and 32150% in about 12 months, and then in June, I think a market peak down and sort of declining, and in early July that decline turned into an outright panic and markets fell by something like 30% or more within the space of one or two weeks before it was finally halted.
+BULL5|By very strong government action, which caused markets to rise up again.
+NEUT6|And then they fell again.
+NEUT7|A lot of volatility.
+NEUT8|And that's going to keep on happening.
+NEUT9|The direct impact on the economy of any of the volatility in the stock market is really minimal.
+NEUT10|The float is very, very small.
+NEUT11|A small percentage of Chinese urban dwellers actually have positions in the market.
+BEAR12|The real worry about what's been happening in the stock market is the extent to which it erodes government credibility because the government is perceived as having both initiated and supported the rally and having prevented the collapse, so their credibility is very tide to stock market performance.
+BEAR13|If Beijing's credibility is undermined, we could see significant problems within the financial sector which would spread throughout the economy.
+NEUT14|There, so there's a lot of uncertainty about what's going to happen next, so the things that I will be watching very closely are basically two things.
+NEUT15|One is the GDP growth targeting.
+BEAR16|If they keep insisting on keeping growth levels at 7%, that suggests to me difficulty in implementing the reforms that were proposed in the Third Plenum of October 2013.
+NEUT17|If they stop talking about the target or talk about much lower numbers.
+BULL18|That suggests me that the president is sufficiently confident about his control over the process that he's able to allow growth to slow.
+BULL19|"The other thing that I'll be watching very closely is steps towards privatization, which is probably the easiest way economically to guarantee a successful adjustment, but politically very tough."""

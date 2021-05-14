@@ -1,0 +1,9 @@
+BULL0|"""Hello guys and welcome to a new review video."
+BULL1|I'm really excited as I just received this new product.
+NEUT2|So let's start the review video.
+NEUT3|Looking for a way to get started investing, or maybe you're a seasoned investor looking for new ideas at The Motley Fool.
+NEUT4|We've got something for every investor from stock picking services like stock advisor and rule Breakers, to model portfolio services like Supernova, an $1,000,000 portfolio.
+NEUT5|We seek out great companies to invest in for the long term and our services span a variety of investing strategies including high growth, dividends and options.
+NEUT6|Check us out at start.fool.com, The Motley Fool helping the world invest.
+BULL7|Better.
+NEUT8|"Thanks for watching and don't forget to click the link below in order to download my free report."""

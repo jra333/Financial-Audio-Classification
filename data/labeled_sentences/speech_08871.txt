@@ -1,0 +1,33 @@
+NEUT0|"""We need to get to some breaking news though."
+BEAR1|AMC is out with its earnings report.
+NEUT2|Jerrod Blicker E has the numbers for Stern.
+BULL3|That's right, this talk has been up 1 to 3% here and after hours trading, and I'll go through the numbers they had revenue for the fourth quarter of 162.5 million.
+BEAR4|That's greater than the estimate of 142.4 million, but slashed what they had from the year before.
+NEUT5|As you can imagine, they also took a non cash impairment charge of $466 million.
+BEAR6|Now again, the revenue was 162 and their impairment was 466,000,000.
+NEUT7|So huge there.
+NEUT8|They also have more than $1 billion of cash on hand.
+NEUT9|So the good news there is.
+BULL10|They've been able to raise capital, including issuing stock as their stock price has risen over the last six months and plus not to mention this is one of those red it trades here.
+NEUT11|One of the fan favorites by Wall Street bets, so they've also seen some volatility due to that, but I do have some comments here from Adam Aron.
+BULL12|He's a CEO and President saying this past year has presented AMC with the most challenging market conditions in the 100 year history of the company.
+BULL13|As unprecedented as these times have been.
+BULL14|So too is the unprecedented drive and commitment of the AMC team and just going through some of the numbers here as of October 1st, 2020, AMC had resumed operations at 467 of its domestic theaters.
+NEUT15|This represents approximately 78% of its domestic circuit and then internationally as of October 1st they had resumed operation in 321% of the international theaters that they lease or partnership with, and that represents 90% of the international circuit.
+NEUT16|This was as of October 1st who can remember.
+BULL17|You can imagine those numbers are probably up again, even though we did have that re closing over the winter.
+NEUT18|So back to the main point here.
+BULL19|Stock is up about 1.3% in after hours trading beats on both the top and bottom lines.
+NEUT20|Not sure if I gave the adjusted loss per share that was $3.15 better than the $3.53 that the street was expecting and we'll just take a longer term chart here up the longer term look here.
+NEUT21|This is over 5 days, yes.
+NEUT22|In the earnings report error, I know a lot of investors are going to want to know about the plans with the deck, 'cause they took on a lot of debt even as they start to emerge.
+NEUT23|I can't imagine they're addressing that issue on on paper, are they?
+NEUT24|Well, let's see.
+NEUT25|Here's a comment from the CEO.
+NEUT26|Again, our most important single point of focus.
+BULL27|After ensuring safe and clean environment for theater workforce has been to strengthen AMC's liquidity profile.
+NEUT28|So this address is exactly what you're talking about, Adam.
+BULL29|Since March of 2020, we have raised approximately $2.2 billion of gross gross cash proceeds from new debt and equity capital as securing more than $1 billion of concessions from creditors and land or Lords, and also raising more than.
+NEUT30|$80 million from asset sales and seeing 600,000,000 of convertible notes convert from debt to equity.
+BULL31|Bottom line, they've raised $2.2 billion, of which they still have a billion dollars going forward.
+BULL32|"So pretty good position to be in as we finally reopen here as vaccines take hold and we approach herd immunity."""

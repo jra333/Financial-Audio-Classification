@@ -1,0 +1,10 @@
+BULL0|"""Tesla stock soared on Monday, August 31st, after a stock split lifting Elon Musk's net worth to $102.9 billion."
+NEUT1|Forbes calculates it is now the 5th Senti billionaire in the world, as well as the 5th richest person in the world.
+BEAR2|Musk's net worth has quadrupled since mid March, when he ranked #31 on Forbes world's billionaires list.
+NEUT3|He's now just behind Facebook's Mark Zuckerberg, who is worth $108 billion.
+NEUT4|Musk owns 21% of Tesla, but has pledged more than half his stake as collateral for personal loans.
+NEUT5|Forbes applies a discount to his pledge shares to account for the loans.
+NEUT6|But all of this really doesn't matter to Musk.
+BEAR7|The 49 year old serial entrepreneur said he's indifferent to his standing on the Forbes list of billionaires in an email to Forbes regarding his net worth.
+NEUT8|In July, Musk says I really couldn't care less.
+NEUT9|"These numbers rise and fall, but what really matters is making great products that people love."""

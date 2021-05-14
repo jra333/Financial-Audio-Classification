@@ -1,0 +1,10 @@
+NEUT0|"""A stock is a means of being able to invest and partially own a company, so a lot of people out there have been exposed to different types of investments."
+NEUT1|More popularly, probably homes through real estate, but a lot of people recently have found that a great investment type is getting invested in things like stock.
+NEUT2|Now there's advantages of owning stock.
+NEUT3|When I was younger.
+NEUT4|There might be a company that I really liked, like I was a major Coca Cola drinker.
+NEUT5|So the first time I got the opportunity to buy Coke I went out there and I basically put my money into something that I knew I enjoyed.
+NEUT6|Other people choose companies because it fits their personal plan.
+NEUT7|Maybe your beliefs and so you're interested in wanting to be an owner of a company and based on the number of shares that you purchase it affects any dividends a company might pay out or any voting rights that you might have at an annual meeting.
+BULL8|So it's a great way to get involved at least starting off.
+BULL9|"You have some ownership and be able to invest in the open markets."""

@@ -1,0 +1,32 @@
+NEUT0|"""It could be that it is just a Bluff in the sense that it's he's just trying to draw attention from the other European leaders to try and get them to override Michel Barnier and the Commission and negotiate directly with the British government and he thinks you'll get a better deal."
+BEAR1|Second possibility is that he realises he's going to have to back down on some of his demands, particularly on fisheries and the so-called level playing field.
+NEUT2|And he wants to make as much noise as possible and I'm gonna as much support as he can as possible from the hard line.
+NEUT3|Brexiteers as a cover for actually then turning around and saying.
+NEUT4|Well now I'm packing.
+NEUT5|I'm not backing down now.
+BULL6|I've got a wonderful deal.
+NEUT7|It's not back down, it only happened as a result of the confrontation.
+NEUT8|Now the third reason is that he actually does want to break down in the negotiations.
+NEUT9|He wants a hard Brexit.
+NEUT10|He wants a no deal.
+NEUT11|He wants the freedom of the sovereignty.
+NEUT12|That he's been advocating as the main reason for Brexit, and he actually wants to provoke the EU into walking out rather than walking out himself.
+NEUT13|And the final possibility is that it's all a Bluff in the sense that he knows that he won't actually be able to get this law through Parliament through all its stages in both the comments and the Lords.
+NEUT14|By the end of the year.
+NEUT15|And therefore he's just making a lot of fuss over something that isn't going to happen.
+NEUT16|So I think that.
+BEAR17|You know, those are the four possibilities, but frankly, you know they're all pretty disconcerting and worrying for the British economy.
+NEUT18|And I think for the markets, and particularly for investors and Sterling assets, I want to get into the economic ramifications are because it is quite startling at this point.
+NEUT19|If we assume that hard Brexit is what to Boris Johnson is angling for, that is one of the options if you think about where the economy is out.
+BEAR20|We had data out today is showing us that the UK Labour market shared 700,000 jobs since the start of the coronavirus lockdown.
+BEAR21|5,000,000 workers temporarily away from work.
+NEUT22|This is just extraordinary.
+NEUT23|Think about where other policy makers are at globally.
+NEUT24|They're trying to avert a further downturn because the deeper you go, the more economic scars that you are left with, so it would be extraordinary at this stage wouldn't have no deal on top of the economic pain already witnessing.
+NEUT25|I think it would and and I think This is why I personally and we as a firm are very, very worried about the British economy next year.
+BEAR26|Already this year Britain has been the worst economy among the major economies in the world in terms of the fall of GDP, but also from a financial market standpoint.
+BEAR27|It's had the weakest currency and the worst stock market among all the major economies.
+BEAR28|And I'm afraid that our next year is going to be very even worse because of this combination.
+BEAR29|Of covered, which is still very much out of control, and this additional blow from actually almost anything that comes out of these Brexit negotiations.
+BEAR30|Obviously a total rupture would be the worst news, at least in the short term.
+BEAR31|"Whatever it does to the rich economy in the long run, a total rupture would be very, very bad news in the short term, but even the sort of as is sometimes described skinny, very thin deal that is now the best case scenario is going to cause serious additional disruptions on top of coronavirus."""

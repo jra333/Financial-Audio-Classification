@@ -1,0 +1,7 @@
+BEAR0|"""Five major levels finding above 12,013 thousand 14,000."
+NEUT1|2000 and now, right around above 15,000.
+NEUT2|Really pretty extraordinary that Bitcoin mania continues.
+NEUT3|And of course next week the futures for Bitcoin will start trading on the CME.
+BULL4|It'll be interesting to see whether that affects the price action, considering that will allow investors to short Bitcoin, but right now Bitcoin up in a huge way as much as 45% on the week, and you can believe it.
+NEUT5|Now.
+NEUT6|"Let's take a look at some of what's happening for the equity market."""

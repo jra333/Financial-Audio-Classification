@@ -1,0 +1,6 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis sessions to date.
+NEUT2|Instrument is Amazon Stock traded NASDAQ under the ticker AM sat and if you look at the Amazon's One hour chart we can see that after reaching its resistant level at around $3247, it currently traded at 3223.
+BEAR3|If today will fail to breakthrough its resistance then we could expect it.
+BEAR4|Price to fall to visit support level at around $3187.50.
+BULL5|"Thank you for watching AAA traits into their technical analysis from all of us here we should successful and responsible trading."""

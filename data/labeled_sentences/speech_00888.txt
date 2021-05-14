@@ -1,0 +1,30 @@
+NEUT0|"""What's going on?"
+NEUT1|Everybody today is Tuesday, March 23rd and today.
+NEUT2|We are betting on GE options.
+NEUT3|That's right.
+NEUT4|I don't know if this is crazy or not, but I have 115 contracts trying to make some money so far in the pre market.
+NEUT5|We're not looking that great.
+BULL6|I'm up 60 bucks.
+BULL7|I do believe that they can come back, considering there.
+NEUT8|I guess they're trying to re consolidate debt and show investors that they're going to be making a profit.
+BULL9|Not too long ago they were doing pretty good.
+BEAR10|It was up a bit and then it dropped off after all the information with the chips and EV things.
+BEAR11|We're all going crazy.
+BULL12|But I am betting that today will be a good day and hopefully I will make out big 115 contracts.
+BULL13|Can do really good.
+NEUT14|Last time I was betting with them I only had 50 contracts and ended up making like $3000 profit which was always good.
+NEUT15|But we're going to see what happens today with the market.
+BEAR16|Like I said right now pre market we're down but it looks like people are buying in.
+BULL17|It might end up doing really good if I can at least get to.
+NEUT18|I have two different sets of options here.
+NEUT19|I got some for 1325.
+NEUT20|I got 15 of those and then I have.
+NEUT21|100 contracts at 1359.
+NEUT22|So if we can make it up to 1359 or 60 if it's going to be a good good day, but let me know what you guys are doing today.
+NEUT23|You're going to be investing in this, so you're going to try it, or what are what?
+NEUT24|Are you investing in?
+NEUT25|But remember, as always say, never gamble with anything you can't afford to lose an I'm not a financial advisor.
+NEUT26|This is me having fun trying to make some money doing crazy options, so don't think options are the same as just normal trading stocks.
+BULL27|'cause it's not, but our guys hopefully today will be a good day.
+NEUT28|We're going to find out and about 12 minutes here when the market opens, so I'll talk to you guys tomorrow.
+NEUT29|"Peace out."""

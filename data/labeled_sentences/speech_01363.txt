@@ -1,0 +1,36 @@
+BULL0|"""Morning everybody and welcome to the new sub."
+NEUT1|I'm Simon constable.
+BULL2|We have some developing news from Wall Street.
+NEUT3|Remember those allegedly dodgy mortgages, mortgages from Countrywide?
+BEAR4|Well, they are likely going to cost the Bank of America up to $17 billion to resolve WJS.
+NEUT5|Andrew Grossman have the details and joins us from Washington.
+BULL6|Andrew, thank you for being there.
+NEUT7|Hey Simon, this is an awful lot of money.
+NEUT8|These are talking about the dodgy mortgages, the subprime loans that were bred maybe not as good quality as they were allegedly there.
+NEUT9|What is the news?
+NEUT10|Right, we're talking about here is largely the securities that those mortgages were packaged into insult to other investors.
+NEUT11|The news here is that DOJ, the Justice Department and Bank of America are near a deal that would have the bank pay close to 17 billion to settle.
+NEUT12|Some of these claims arising from that that pre crisis conduct about 9 billion or so of that would be in cash penalties to the federal government to state some other governmental entities, and then the rest of it would likely be in consumer relief.
+NEUT13|You know, right down South.
+NEUT14|Principle for struggling homeowners that sort of thing and our understanding is that the Bank of America stock is actually kind of like investors are somewhat relieved at this, even though this is an enormous amount of money.
+NEUT15|Right, I mean we think some of this was probably baked in the.
+NEUT16|Shareholders are looking to get this behind them.
+NEUT17|The bank CEO.
+NEUT18|Well it is a lot of money and they wanted to Payless this.
+NEUT19|The O'Brien went ahead and said, you know, this is the last of the big Pre Crisis era legal bills that have so far totaled up to 10s of billions of dollars for Bank of America.
+NEUT20|So that you know once they get this behind them, they shouldn't have to worry about this overhang is what they say it will see if that holds true.
+BEAR21|Natural deal has not been inked yet, so this theoretically anyway could actually fall apart.
+NEUT22|It could.
+NEUT23|There's a tentative agreement on sort of the top line numbers, the ones that just talked about.
+NEUT24|The lawyers for the bank and lower the Justice Department are still hashing out the details.
+NEUT25|Things like what exactly the will be in the statement of facts that the bank signs how?
+BEAR26|What sorts of things they get credit for in the consumer relief portion of the deal, those things are still being being hashed out, and if they're not hashed out to the banks liking order, the Justice Department disliking someone could still blow up the deal.
+NEUT27|Now, one of the other things is that their total out of pocket money could go to $23 billion.
+NEUT28|Explain explain the difference there.
+NEUT29|That includes some some payments to the FHA for some other mortgages that that are some other words backed securities that the bank sold.
+NEUT30|So that's you know that's just another settlement that's wrapped in here.
+NEUT31|Wow is a lot of money.
+NEUT32|Figure it is a lot of money.
+NEUT33|Yeah yeah lot of money flying around all on this and all because of something that happened a very long time ago.
+BULL34|Thank you very much.
+NEUT35|"Andrew Grossman of the Wall Street Journal."""

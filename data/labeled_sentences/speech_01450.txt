@@ -1,0 +1,33 @@
+BULL0|"""Welcome back to top Dollar."
+NEUT1|Today, we're going to be discussing Stellar Network will be going over the chart and we're going to be setting a price target as well.
+NEUT2|So Stellar Network is an open source and distributed network and its main use is to facilitate cross asset transfer of value, and it does this at a fraction of a penny.
+NEUT3|Steller's main goal is to give people of all income levels access to low cost financial services, and this includes people from developing countries heading to the child who said that the price is currently at 0.299.
+NEUT4|About two weeks ago, Stellar broke through the resistance at the 0.2 level.
+BEAR5|And is currently battling the resistance at 0.3 level.
+NEUT6|We're going to be setting a price target a bit later on guys, but first, let's head to the fundamental.
+NEUT7|Stellar has a market cap of 6.6 billion at 24 hour trading volume of 1.9 billion.
+NEUT8|A circulating supply of 22 billion, and the maximum supply of 50 billion.
+NEUT9|So what the stellar network does is it creates digital representations of all forms of money like dollars, pesos or bitcoins.
+NEUT10|And the key selling point is that anyone around the world can own the value of a dollar without actually owning.
+NEUT11|U.S. bank account.
+NEUT12|So this is a key thing for Stellar since it helps people from countries like Venezuela where they have hyperinflation of their pairs and these people are able to convert their pesos into U.S. dollars at a fraction of the cost and without the government stopping them from owning U.S. dollars through banking restrictions.
+NEUT13|Know some people compare stellar to the Ripple network since there both centralized organizations meant to handle cross platform transactions.
+NEUT14|However, a key difference between them is that stellar is a non profit organization.
+NEUT15|And their platform is open source and decentralized.
+NEUT16|Another interesting application for Stellar is its use in remittances.
+NEUT17|So each year there's the transfer of over $500 billion of value between countries and this goes from people working in developed nations to their family members who are still living in developing nations.
+NEUT18|And really sad thing is through current financial institutions, around 10% of the value of these remittances are taken away by all financial institutions.
+NEUT19|So stellar solves this problem by providing low cost transfer of value.
+NEUT20|So anyone who uses the stellar network needs to own a modest amount of stellar lumens in their account at all times.
+NEUT21|So the more people that use the stellar network, the higher demand there is for the stellar lumens token.
+BULL22|We see that many projects are being built on the stellar network, including a project by IBM called IBM World Wire, and it's great to see that traditional companies are recognizing the power of blockchain, and that decentralized platforms like Stellar can help improve a company's bottom line.
+NEUT23|So the algorithm that makes Stellar work that's called the stellar consensus protocol.
+NEUT24|And this is different from the proof of work of Bitcoin and the proof of stake of other networks, and we're going to be discussing the stellar consensus protocol a bit later on, so getting back to the chart, we see that Stella rose to the 0.45 resistance level, but then had a retrace back down to the 0.3 support level.
+BULL25|And I can see stellar consolidating for a while at the 0.3 level before re attempting to cross the 0.45 resistance and breaking through that resistance.
+BULL26|I can see stellar reaching a price of 0.7.
+NEUT27|By the end of February, so getting to the White paper, we see that the stellar consensus protocol offers four key properties, and these are decentralized control, low latency, flexible trust and asymptotics security.
+NEUT28|It goes on to discuss Byzantine agreement protocols, which allow consensus on the blockchain to be fast and efficient, and allows trust on the blockchain to be entirely decoupled from resource ownership, and so it prevents powerful organisations from abusing of the network.
+BULL29|OK guys, I hope you enjoyed the video.
+NEUT30|If you did drop a like.
+NEUT31|And if you want to stay up to date on the fast changing crypto markets, don't forget to subscribe.
+NEUT32|"See you next time."""

@@ -1,0 +1,12 @@
+BEAR0|"""You know the rule of real estate, location, location, location, but in the US, after years of housing market struggles, prices are ramping up and there are fewer and fewer locations where buyers can get bang for their Buck."
+NEUT1|Experts say don't call it a bubble because there are still deals to be found, but overvaluation is becoming an issue according to real estate analytics from Core Logic and overvalued, a home market is 1 in which home prices are 10% or more above what's considered affordable and that's defined by per capita.
+NEUT2|Income in the area and this overvaluation problem is really an issue of supply.
+NEUT3|Builders are not building enough homes for the lower and middle parts of the market, and they're really focusing on the upper end of the market where they're building a lot of homes, so there's good margins in that part.
+BULL4|The most overvalued market in the country.
+BULL5|Austin TX home prices have surged a staggering 42.3% over what is considered affordable want to live elsewhere.
+NEUT6|Deep in the heart of Texas?
+NEUT7|Well prepared to dig deep in the heart of your wallet home.
+BEAR8|Prices in Houston and San Antonio also make the list in Philadelphia.
+BULL9|Home prices have risen faster than almost any other city in the country since last year, and prices in the City of Brotherly love Clock in at 14.3% over affordable levels, the nation's capital's population has risen by about 800,000 over the past ten years, but Washington DC's housing inventory hasn't caught up and that's pushed housing prices to about 19% above the affordability level.
+NEUT10|And it's not just larger Metropolitan areas that make the list.
+BULL11|"In Tennessee, Knoxville home prices have soared over the past several years and in Nashville, potential home buyers are singing the Blues, facing a housing market that's 12% over what qualifies as affordable."""

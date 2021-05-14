@@ -1,0 +1,37 @@
+NEUT0|"""So."
+NEUT1|I gotta be honest with you.
+NEUT2|I see analyst notes come out all the time for stocks.
+NEUT3|Sometimes they move, sometimes they don't.
+NEUT4|Do you agree with the stuff?
+NEUT5|Like how serious is this?
+BEAR6|OK, yeah, I shouldn't.
+BEAR7|I think it's important to mention for the listeners too, so based off of that report being the main driver, stock traded down 6.7% yesterday, so the markets clearly taking this exactly and it's bringing its brought the stocks current year to date, declined to about 13.2%.
+NEUT8|Isn't the best year for the stock market so far, so we'll go.
+NEUT9|Yeah, you know, we're only 12 days in.
+NEUT10|I know it's early, but just to give you an idea.
+NEUT11|And another thing is this is part of it.
+BEAR12|You know, ongoing trend where shares have already fallen about 30% from their highs from September, October 2015.
+NEUT13|OK, so you know.
+NEUT14|Keep that in mind.
+NEUT15|And then in turn also working the more Stanley analyst drew from this port scan data.
+NEUT16|And where they have shown that obviously in a lot of that growth, that exceeded Mens apparel, you know it's flat and out.
+NEUT17|But also, you know the management itself.
+NEUT18|Are the CEO complaint is also mentioned that you know that is a really huge opportunity for us.
+NEUT19|He's mentioned how the company wants to change even their in store experience 'cause he had a quote from another investor call where he basically said our in store experience for women who are shopping is not where it should be right now.
+NEUT20|It's not that it's not right designed.
+NEUT21|You know, in a way to appeal to them as much as our male shoppers, and that's something that they are focused on.
+NEUT22|So when you have management, that's obviously spending money on marketing and spending money on the in store experience to cater more to women shoppers.
+BULL23|But the results come out, you know, with the growth basically nosediving that from previous levels.
+NEUT24|It's that I think that's a big part of the concern that drive that Barrett's trading.
+NEUT25|Yesterday I had a crazy thought.
+NEUT26|It almost seems like Under Armour should buy lululemon or something.
+NEUT27|It's an idea.
+NEUT28|Could be a cool man, you know.
+NEUT29|I don't know that you know they are often cited as an example, like a proxy of the opportunity that's there.
+NEUT30|Obviously they they appeal far more to, you know, they also cater more so to female shoppers or and.
+NEUT31|They've shown that that premium model can work, not that they haven't had their own challenges, right, but when they were trying to build up their men's business, have you been in a Lululemon store lately?
+NEUT32|Yes, it's like they're trying to sell me $80.00 shirts there, flecked exactly, so it's almost like they're opposite sides.
+NEUT33|Yeah, you know of that of that issue, but.
+NEUT34|Combining that with the footwear which you know right now, it's that falling average selling price I think had specifically with their running shoes.
+NEUT35|But if that spreads to, for example, there basketball sneakers where they've also again been spending tons of money, and some of these endorsement deals with big athletes, you know what impact is that going to have on that longer term?
+NEUT36|"Yeah, cool."""

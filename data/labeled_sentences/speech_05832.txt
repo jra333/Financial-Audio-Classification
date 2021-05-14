@@ -1,0 +1,17 @@
+BEAR0|"""The market is buzzing with talk that OPEC and Russia could strike a deal to pull barrels from a heavily oversupplied oil market comments this week from Russia's Energy Minister that he's ready to meet with OPEC countries to discuss a production cut have triggered a large move in oil prices, which have now risen more than 20% since last Wednesday."
+NEUT1|Well, Opec's kingpin and defacto leader Saudi Arabia has a very clear stance on this.
+BEAR2|It will cut production but only if it is joined by other members of the cartel.
+NEUT3|Another big producers such as Russia.
+NEUT4|Well, the most important figure in the country's oil industry is Igor Sechin, the chief executive of Rosneft and a close confidant of President Putin.
+BEAR5|In the past he shot down speculation of coordinated cuts, time and again.
+NEUT6|First, he says Russian energy companies have to answer to shareholders and cannot simply cut production just because they are ordered to by the Kremlin.
+BEAR7|Second, he says the harsh winters in Russia make it very difficult to shut in production.
+NEUT8|Now it's worth noting that Mr. Sechin was absent from all of this week.
+NEUT9|Meetings between Big Russian energy companies and the government.
+NEUT10|Now it could be that this week statements in the talks between the Russian oil companies and the government and nothing more than an attempt to jawbone the market and prevent another collapse in oil prices at a time when Iran is supposed to come back from sanctions and put more oil into the market.
+BEAR11|And there are many refineries closed for maintenance.
+BEAR12|The pain inflicted by lower prices.
+BEAR13|They've now fallen more than 70% since the middle of 2014 is extreme.
+BEAR14|In Russia, the ruble has slumped to a record low, and the government is scrambling to plug a huge hole in its budget deficit.
+BEAR15|Even Saudi Arabia is suffering, its currency is under pressure, and it too has a budget deficit that's blown out to a record 100 billion.
+BULL16|"So perhaps the pain of lower oil prices will be enough to focus minds and get a deal over the table."""

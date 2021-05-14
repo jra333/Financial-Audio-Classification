@@ -1,0 +1,34 @@
+BULL0|"""Good morning to you."
+BULL1|Thanks for your company.
+NEUT2|This Monday the 26th of October I'm Jessica, a market analyst with Bell Direct or even though there's just eight days until the US election.
+NEUT3|The focus this week is on economic news with economic growth.
+NEUT4|Data out for Australia and the US for the third quarter, so we'll see how much our economy is pulled back then.
+NEUT5|Elsewhere, the ECB and the Bank of Japan announced their monetary policy decisions, so all eyes will be on those economic announcements.
+BULL6|And in terms of earnings results, they continue to come out.
+BULL7|In the US with Alphabet, Apple, Amazon and Facebook, or reporting quarterly results in Australia, Corley earnings also continued to come out as well.
+NEUT8|TPG aims at Janice Henderson an res Med.
+NEUT9|Announcing there's this week among many AGM season continues as well.
+NEUT10|Locali Adairs Agro Investments hold their AGM's today with Bendigo and Adelaide Bank and Nick Scali tomorrow, among many others, this week.
+NEUT11|So investors have a lot to take in in terms of what's in store today for local trade the futures.
+BULL12|Are suggesting the market will start the week up .3 of a percent following all streets mostly positive.
+NEUT13|Close on Friday.
+NEUT14|What's important to note is we are seeing investors err on the side of caution of late ahead of the US election.
+NEUT15|Now this is something that has occurred over the past 100 years before US election, so you could expect this to continue until after an election result on Friday.
+BULL16|Nevertheless, we saw the Dow Jones 4.1 of a percent, the S&P 500 gained .3 and the NASDAQ rose point.
+BEAR17|Four on the commodity front, the oil prices pulled back by 2% exactly.
+BULL18|It's now at $39.85 US after ending two weeks of gains.
+BEAR19|While the safe haven gold has fallen under $1900 an ounce for the first time in some time and then bounced back to 1900 and $5 US an ounce.
+NEUT20|With investors now drip feeding money back into equity markets and bonds, what else to watch today?
+NEUT21|On the company news.
+NEUT22|Side some major announcements.
+BULL23|Coca-Cola received a takeover proposal worth $9.3 billion from the company that bottles Coca Cola products in Western Europe.
+NEUT24|Now, what is the offer worth to you if you're a shareholder?
+BEAR25|Will $12.75 per share and this takeover offer follows several other recent proposals made by Coca Cola, European Partners, and Westpac has just announced second half cash earnings will be reduced by $1.22 billion from noteworthy.
+BEAR26|Items or write downs which are expected to reduce the groups SETI compliance ratio by .2 of a percent.
+NEUT27|It's not ideal, but expect more details to be unveiled next week with their results coming out on November the 2nd.
+BULL28|As we're trading ideas that could be worth a look, Bellport upgraded mineral resource is MIN as a by increasing its target to 2850, implying 14% upside in a year, but also upgraded Insurance Australia Group IAG as a buyer with a 560 target, implying.
+BULL29|14.3% upside and UBS initiated or upgraded?
+NEUT30|Willie Parsons Azzabi with a $12.32 target and Lastly keep an eye on three stocks.
+BULL31|An RW Holdings NWH Child, a whole CHC JB Hi-fi JBH all showing bullish charting signals, according to trading Central Data I'm Jessica and he will direct.
+BULL32|Thanks for your company.
+NEUT33|"Stay safe."""

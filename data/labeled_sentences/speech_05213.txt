@@ -1,0 +1,43 @@
+BEAR0|"""It's big opening day in New York today, the New York Stock Exchange is partially back open after the trading floor closed March 23rd, when two people tested positive for the virus."
+NEUT1|Our Chief business and economics correspondent Rebecca Jarvis is outside at the New York Stock Exchange right now.
+NEUT2|And so Rebecca, what led to this decision to reopen today?
+NEUT3|Well, Amy, they've been following local health guidance and on the building of the New York Stock Exchange just behind me.
+BULL4|It says, together we're strong.
+BEAR5|They will be reopening at 25% capacity on the floor, meaning things might feel a little bit empty.
+NEUT6|If you were to walk around there.
+NEUT7|Everybody who is in the building must sign a waiver, have a temperature check there, only letting employees in for this time and everybody in the building will be wearing a mask at all times, and especially on that trading floor.
+NEUT8|Remember Amy?
+NEUT9|This is where.
+BULL10|911 hit September 11th was just a few blocks away from here at the Twin Towers and now they're feeling cautiously optimistic.
+NEUT11|There's no keeping us down as New Yorkers as Americans.
+NEUT12|More broadly, this pandemic is not over.
+NEUT13|We have to recognize we're not protecting against a single case.
+NEUT14|There is likely to be cases around, you know.
+NEUT15|People continue to see those, and we're not.
+BULL16|We're focused on protecting from an outbreak, and also we recognize the fact that there's going to be some flexibility as conditions change.
+NEUT17|Or are you saying that it's possible that you could ultimately close the floor again if there was another big outbreak here in New York?
+NEUT18|We are prepared to react to the conditions that we're living in at the time, so we will.
+NEUT19|We will adjust.
+NEUT20|We have a spectrum.
+BULL21|We've shown that we can trade fully electronically as needed, and we've also clearly shown that we trade with the full service level and that's the best result for investors.
+NEUT22|Anne Rebecca Speaking of investors, this reopening, does it mean anything for nest eggs?
+NEUT23|The stock market?
+NEUT24|Your savings account?
+NEUT25|Your investments?
+BULL26|Well, ultimately Amy, your investments have been performing.
+NEUT27|They've been trading this entire time, despite the fact that the New York Stock Exchange was closed.
+NEUT28|The markets open everyday at 9:30 and close every day at 4:00 PM, but ultimately this is a good reminder in this moment in time.
+NEUT29|If you had put $10,000 into the market at the beginning of this year and invested it, you now would have lost about $850 of that money.
+NEUT30|But if you had sold even a few weeks ago, you might have lost.
+NEUT31|Twice that much and the reminder here is to invest for the long term if you try to time it, you oftentimes lose.
+NEUT32|But Amy if you invest historically speaking for the long term, you make money over the long run.
+NEUT33|Amy, yeah, those are very important words of advice to remember.
+NEUT34|During these times.
+NEUT35|Rebecca Jarvis.
+BULL36|Thank you so much.
+NEUT37|Hi everyone.
+NEUT38|George Stephanopoulos here.
+NEUT39|Thanks for checking out the ABC News YouTube channel.
+NEUT40|If you'd like to get more videos, show highlights and watch live event coverage, click on the right over here.
+NEUT41|To subscribe to our channel and don't forget to download the ABC News app for breaking news alerts.
+BULL42|"Thanks for watching."""

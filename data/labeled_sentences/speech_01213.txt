@@ -1,0 +1,29 @@
+NEUT0|"""We heard from Fed Chair Jay Powell earlier this afternoon and for that we want to bring in our Fed Reporter Brian Chung and Brian."
+NEUT1|I think investors were looking for any clues or some guidance that we could say on rates, but Palla sensually, saying that now is not the time to be talking about it.
+NEUT2|Yeah, not at all.
+NEUT3|And we did hear from Jay Powell that they're not really any close to either raising interest rates or even tapering the $120 billion pace of asset purchases that it's been making per month.
+NEUT4|But of course, in focus is the Federal Reserve's assessment of where it sees inflation.
+NEUT5|Here's what J PAL said.
+BULL6|If inflation does begin to show signs of maybe heating up at some point.
+BULL7|If inflation were to move up in ways that are unwelcome, we have the tools for that and we'll use them.
+NEUT8|We will use them.
+NEUT9|No one should doubt that that's in a way lower low.
+NEUT10|Too low inflation is the much more difficult problem to solve.
+NEUT11|So too low inflation really.
+NEUT12|The more difficult issue that the Fed chairman was saying there again in this room in these remarks which he said at the Princeton University, of course, virtually earlier today he was also saying that, broadly speaking, with regards to easy monetary policy quote, be careful not to exit too early.
+NEUT13|And by the way, try not to talk about exit if you're sending that signal because markets are listing, that could be a little bit of a dig at earlier Fed officials who were speaking this week and last week saying that they could maybe see some sort of tapering its quantitative.
+NEUT14|Easing program as soon as this year 2021.
+NEUT15|I'm, of course referring to Atlanta, Fred Fed President Raphael Bostic for the Fed chairman's part.
+NEUT16|He says that they're not thinking about that right now, and he said that when that time does come, they will clearly communicate that some markets.
+NEUT17|Brian was I don't want to unprecedented, but it's almost like Chair Powell was airing their dirty laundry in public, saying all of you stand down.
+NEUT18|Yeah, in many ways that definitely is what he was doing here and this.
+NEUT19|Keep in mind this is the first set of remarks that we've heard from the Fed chairman since the Federal Reserve's December FOMC meeting, where they had said that they were going to commit to buying at least $120 billion until they felt that they had made substantial further progress towards a recovery.
+NEUT20|But we've heard a number of other Fed speakers since that point in time, up until Chairman Powell spoke today kind of offering their thoughts on whether or not they could see the bond purchase program changing.
+NEUT21|So you did hear from the likes of.
+NEUT22|Cleveland Fed President Loretta Mester, who said that they would have a high bar to we need to change that pace of asset purchases.
+NEUT23|You have the likes of Vice Chairman Richard Clarity, who said just yesterday afternoon that he doesn't see any sort of change to the program, at least in 2021.
+BULL24|But then again, you have Atlanta Fed president saying he could project some sort of faster than expected recovery this year.
+BEAR25|That would warrant some sort of tapering even this year.
+NEUT26|So you do have that kind of diverging viewpoint.
+BEAR27|This could remain an issue as the Federal Reserve does get deeper into 2021 house that vaccination does continue to get rolled out.
+BULL28|"My Brian Zhang thanks."""

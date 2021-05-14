@@ -1,0 +1,49 @@
+NEUT0|"""It's Brian pressed in the money guy."
+NEUT1|OK, next questions from Kyle and Emily.
+NEUT2|It's another house question.
+NEUT3|Curious to see what you say here.
+NEUT4|Saving to build a house.
+NEUT5|That's what they're doing.
+NEUT6|They say there about 10 to 15 years away from that.
+NEUT7|OK, we just starting that journey.
+NEUT8|They want to use a brokerage account to save the money for the future home since it's so far away, saving about $10,000 a year.
+NEUT9|Any other considerations with going this route?
+NEUT10|OK, wow, so there's a lot.
+NEUT11|There's a lot there, so a lot of times people say I'm saving some money.
+NEUT12|For a wedding or a wedding ring or a vacation or whatever in the next three to five years, and the answer will always give us if you are saving for a future expense that is three to five years away.
+NEUT13|Cash is King, Cash is your friend.
+NEUT14|You you should not put anything into the investment markets into the equity markets that you can't plan on walking away from for five years.
+NEUT15|That's kind of our like tried and true rule of thumb.
+BEAR16|So most folks are just a build up in cash.
+NEUT17|Well this is Colin Emily yeah, Colin Emily.
+BULL18|They said, hey, we're saving about $10,000 a year, but we've got a 10 to 15 year time horizon before we're going to do this, so the first thing I would say is awesome.
+NEUT19|We would quantify that as being long term in nature, so I think a great thing you can do rather than just parking that in a savings account where you're not going to earn a whole lot.
+NEUT20|'cause right now interest rates just are not that exciting.
+NEUT21|Rather than parking the same account, I think you can open up an after tax brokerage account where you're just putting that $10,000 in.
+NEUT22|Building on a monthly basis and you can buy perhaps like target Index retirement fund 15 years in the future so it doesn't have to be pegged to your retirement date.
+NEUT23|It can be pegged to your date when you think you might need this, or you could use just some low cost indices to do that, and I love the idea of dollar cost averaging as you're moving towards that goal.
+NEUT24|Now.
+NEUT25|Two things I would mention, right?
+NEUT26|Caveat now.
+NEUT27|Oh my gosh, caveats two things I would mention.
+NEUT28|One is that you want to make sure you're following the financial reparations.
+NEUT29|Yeah, meaning I wouldn't forego making sure that you have deductibles cover.
+NEUT30|I would not forgo making sure that you're doing your employer match.
+NEUT31|Getting that free employer money.
+NEUT32|It's the best thing out there not making sure that you're not not paying off high interest debt.
+NEUT33|So assuming you're doing these steps in the financial order of operations correctly, I think it's great to be building up that after tax account, one of the things that I would be.
+BULL34|Aware of as I'm building that over a 10 to 15 year time horizon, odds are the markets going to do pretty good.
+NEUT35|Just historically that's the way that it's been.
+NEUT36|Well, one of the things will be careful.
+NEUT37|Love is let's say you just buy a low cost S&P 500 index, which is great and you just buy the 10,000 every year on a monthly basis and you never look at it again.
+NEUT38|Well, 10 to 15 years from now, there's a chance there's going to be a lot of capital appreciation builds up in there, so when it's time for you to go use that money, go capitalize on it.
+NEUT39|You have to sell.
+BULL40|There's a chance it could be a very big embedded gain in there.
+NEUT41|That's not a bad thing.
+NEUT42|Remember, gains aren't bad things are just things we need to be aware of, so I would encourage you keep an eye on that account on a year by year basis and when you have opportunities like the covid downturn of 2020, like fourth quarter of 2018, do some loss harvesting.
+NEUT43|Do some things that you can use to offset that impending tax bill, because the better you manage it along the journey from a tax perspective, the easier it's going to be.
+NEUT44|Access those dollars when you actually need them.
+NEUT45|10 to 15 years from now.
+NEUT46|I think that's I love that they have such a long term view.
+BULL47|I think that's great and best of luck to you guys building up that house.
+BULL48|"Yeah, thanks for the question Kyle and Emily."""

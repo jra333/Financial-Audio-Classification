@@ -1,0 +1,21 @@
+BULL0|"""Netflix is due to report Q4 earnings on Tuesday after the market closed, while 2020 results have been extraordinary."
+NEUT1|The bulk of the growth happened in the first half amid the onset of the pandemic and lockdown outside of the resurgence of covid cases this quarter, or make these receipt readings particularly interesting.
+NEUT2|Subscriber growth is a key metric for Netflix, Inc.
+BULL3|The third quarter subscriber numbers increased by 2.2 million.
+NEUT4|That's the alarm.
+BEAR5|Slow down from the 2019 numbers of 6.8 million for the same quarter.
+NEUT6|But this is basically due to the huge growth that was seen in the first half of 2020.
+BULL7|Also worth noting that competition is heating up now.
+NEUT8|Disney Plus is already got half of Netflix subscriber numbers and it's only been around since November 2019.
+BULL9|So increasing investment in content could be needed.
+NEUT10|Investors will be keen to hear what management say about content.
+BULL11|Bend and in per share is expected to be $1.35 up 3.8% year on year whilst revenues are expected to increase 21% year on year to 6.62 billion.
+BULL12|Now just having a look at the chart we can see that Netflix had a strong rebound from its March lows.
+BEAR13|However, it has been hovering around this sort of 500 level for the past six months.
+NEUT14|We can see the lower bound here.
+NEUT15|It's capped by around the four.
+NEUT16|60 mark and just on the upside by around 560 so the price has been sort of oscillating between these two levels and the technical bias at the moment is neutrals with sat right really bang in the middle of the upper band and the lower bound?
+BEAR17|However, Tuesday's results could be the catalyst to push Netflix either out of the upper band on a better than expected results, or down below the lower band should the results come in.
+NEUT18|Western forecast.
+NEUT19|More trading videos.
+NEUT20|"Please subscribe to YouTube channel."""

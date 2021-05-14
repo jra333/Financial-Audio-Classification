@@ -1,0 +1,10 @@
+BEAR0|"""Shares of UPS and FedEx both are trading higher after Amazon announced it will suspend its competing delivery service called Amazon Shipping."
+NEUT1|Starting in June.
+BULL2|The decisions largely to help Amazon handle that large influx of orders as people are quarantined in shopping more online because of the COVID-19 outbreak.
+BEAR3|That influx has actually slowed Amazon signature prime servers from two days to in some cases many weeks, three or four for many non essential items.
+NEUT4|The company says its focus is to quote, prioritize stocking and delivering items that are a higher priority for our customers.
+BEAR5|This has resulted in some of our delivery promises being longer than usual.
+BULL6|The company also hiring over 100,000 new employees to help meet that demand.
+NEUT7|Amazon Shipping started in the US in 2018, taking shipments from third party sellers and delivering to consumers without those products being stored in Amazon warehouses.
+NEUT8|Amazon Shipping was just being tested in Los Angeles and a few select cities, and there's really a small part of Amazon's business, but certainly could be viewed as Amazons as part of Amazon's growing ambitions to not only be an ecommerce site but also a shipper, and the question now remains.
+NEUT9|"Will they ramp it up after the outbreak ends or discontinue it altogether?"""

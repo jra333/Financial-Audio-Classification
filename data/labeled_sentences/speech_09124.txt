@@ -1,0 +1,31 @@
+NEUT0|"""Hi, from New York I'm Bonnie Quinn and from London I'm glad Johnson this is Bloomberg Markets Leicester, where those markets let's go to Chicago."
+NEUT1|Time for futures in Focus, blue Line Futures, President Bruce joining us now from the CME.
+NEUT2|Everybody's trying to figure out whether or not we get a trade deal done by December the 15th and if not do we get new tariffs put on Bill?
+NEUT3|Walk me through what people are saying up there in Chicago.
+NEUT4|If we don't get a deal by then, what happens to risk assets?
+BULL5|The two sides, at least in the headlines, are exhibiting that they want to get something done.
+NEUT6|We did hear that headline earlier in the week that is not likely to happen this year.
+NEUT7|What really matters most is those tariffs on December 15th.
+NEUT8|If they get implemented, then you're going to sell off and equity markets through the end of the year.
+NEUT9|I would think at least 5% in the SNP, so keep that in mind.
+NEUT10|But again, both sides are really pushing things forward.
+BEAR11|If President Trump signs that Hong Kong bill, you could start to sour things.
+NEUT12|OK, let's talk about what happens with some of the safer assets into into the end of the year.
+NEUT13|Let's look at gold in particular.
+BEAR14|It did well earlier on in the year sort of summer into the into the full people were starting to freak out.
+NEUT15|At that point, gold got big.
+NEUT16|What about now?
+NEUT17|I love what we're seeing here in gold because it's giving us a buy opportunity now I don't like to have to be right right now.
+NEUT18|I like the position for a longer term.
+NEUT19|I think you look out to June of next year.
+NEUT20|There's ways to do ratio spreads of something we're looking at is 1475.
+NEUT21|Sorry 1575.
+NEUT22|Seventeen 80 ratio spread one by two.
+NEUT23|That gives us great exposure with a break even near the near the all time high as other way to look at doing it as as well as getting exposure in in January puts I'm selling put spreads in January because they expire December 26th.
+NEUT24|I would love to take futures long because a seasonal trade December 23rd, you get long gold, you know you hold that through January 20th.
+NEUT25|You made money 11 at the last 14 years.
+NEUT26|So I'm playing this number of ways that I don't have to be right today, but I'm gonna be right over the next three months.
+NEUT27|I'm thinking.
+BULL28|Yeah, good to have a slightly longer term horizon to your trades bill.
+NEUT29|Have a great weekend.
+BULL30|"Thanks very much indeed Millbrook joining us from Blue Line futures Vonnie."""

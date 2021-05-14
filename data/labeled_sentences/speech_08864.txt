@@ -1,0 +1,15 @@
+BULL0|"""EMC stock was up more than 15%."
+NEUT1|In today's video we will talk about what's the reason behind that.
+BEAR2|So let's begin going against a market that is largely dropping Tuesday.
+BULL3|Shares of theater operator AMC Entertainment jumped 15% at the market.
+BULL4|Open shares gave up most of those gains to remain up about 2% as of 10 AM estate after a very volatile month.
+BULL5|Influenced by Reddit, chat room retail traders, investors are beginning to be able to see the company in a post pandemic world.
+BULL6|Today's bit of light is the announcement that New York City movie theaters will be able to reopen on March 5th after almost a full year of closures after raising nearly $1 billion in capital.
+NEUT7|AMC President and CEO Adam Aron said in January.
+BEAR8|This means that any talk of an imminent bankruptcy for AMC is completely off the table.
+BULL9|The company subsequently announced a new equity offering raising another $305 million when shares rose with the red, it influenced market moves.
+NEUT10|At a news conference yesterday, New York Governor Andrew Cuomo announced New York City theaters can begin opening at 25% capacity on March 5th.
+NEUT11|Theaters will need to assign seating to maintain social distancing and a maximum of 50 people will be allowed per screening.
+BULL12|But with sufficient capital and another sign of a return toward normalcy, investors are once again paying attention to entertainment stocks like AMC.
+BULL13|Today's initial bounce wore off quickly, but as the business returns, investors will continue to be interested in these types of recovery names.
+NEUT14|"Don't forget to press that like button and make sure to click on that subscribe button if you want to see more videos about AMC stock."""

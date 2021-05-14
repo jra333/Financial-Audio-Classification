@@ -1,0 +1,10 @@
+NEUT0|"""Well, that's right."
+BEAR1|Disney responding to a letter from Senator Warren asking the company for information on its announced layoffs of 28,000 workers asking where there's prioritization of stock buybacks, dividend payments, an high executive pay may have exacerbated current financial problems.
+BEAR2|Disney issuing a statement saying quote Senator Warren's misinformed letter contains a number of inaccuracies.
+BULL3|We've unequivocally demonstrated our ability to operate responsibly with strict health and safety protocols in place at all of our theme parks worldwide.
+BEAR4|With the exception of Disneyland Resort in California, where the state has prevented us from from reopening even though we have reached agreements with unions representing the majority of our cast members that would get them back to work.
+NEUT5|So just want to point out here is Sarah and well, this is back to the battle between Disney and the State of California, about when and how they can reopen Disneyland.
+BEAR6|This is something Disney has been pushing for and they're using this to to justify those layoffs, whereas Warren is putting pressure on them for other things.
+NEUT7|Back over to you.
+NEUT8|Shepard Smith here.
+NEUT9|"Thanks for watching CNBC on YouTube."""

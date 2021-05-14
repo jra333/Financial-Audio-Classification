@@ -1,0 +1,47 @@
+NEUT0|"""Quippy seeks to differentiate itself by offering entertainment design for the mobile phone."
+NEUT1|These are short 10 minute episodes.
+NEUT2|Their reality shows or movies told in chapters and it harness is a new technology which could be has patented culture and style which takes advantage of the iPhone screen and displays the video both horizontally and vertically.
+NEUT3|Quickly was actually the brainchild of Jeffrey Katzenberg.
+NEUT4|Hollywood mogul Katzenberg was thinking of a service.
+NEUT5|That would fill the so called in between moments and he recruited Meg Whitman, who is well known in Silicon Valley for her prowess as a business executive.
+NEUT6|Jeffrey has been a good friend of mine for many years, literally picked up the phone calls.
+NEUT7|So what are you doing?
+NEUT8|And I said, you know, I don't know.
+NEUT9|I'm the incoming chairman of Chief for America.
+NEUT10|I probably will do stuff with my husband and travel and he goes.
+NEUT11|No.
+NEUT12|What are you doing tonight?
+NEUT13|I said, knowing you Jeffrey, I'm having dinner with you.
+NEUT14|He got on a plane and flew up to Palo Alto.
+NEUT15|Meg Whitman has spent his entire career working at.
+NEUT16|Consumer facing brands.
+NEUT17|She's worked earlier in her career at the Walt Disney Company.
+NEUT18|She worked for Procter and Gamble.
+NEUT19|She worked for Hasbro and she has a really refined sense of how to develop products with an awareness of the consumer.
+BEAR20|There are plenty of skeptics about quit be Rolling Stone has scathing review under the headline.
+NEUT21|Meek will be the short form streaming network.
+NEUT22|No one needs right now.
+NEUT23|There are others who say the world is filled with short form video.
+NEUT24|You know Jeffrey Katzenberg and CEO Meg Whitman acknowledged that this is a service that is faced with skeptics.
+NEUT25|Well, I think whenever you do something that's new, like eBay was, there's always skeptics whenever you do something that's really hard and HP was very hard.
+NEUT26|There's always skeptics so.
+NEUT27|I don't mind a challenge.
+NEUT28|I like a challenge and I don't mind skeptics.
+BULL29|Quippy has managed to attract some of the top talent in Hollywood, in part because it is so incredibly well financed.
+BULL30|It's raised $1.75 billion over the last couple of years.
+NEUT31|Basically, they have attracted everyone from Liam Neeson, Sophie Turner to Chance the Rapper Intercell, but it was also given the creators of these new shows the rights to their creative work.
+NEUT32|So after a period of exclusivity on mobile devices, they can take their television show are there.
+NEUT33|Movie and stitch it back together and sell it for another platform.
+NEUT34|Now.
+NEUT35|The service launched on Monday, April 6th, in a moment when decidedly the nation is not on the go.
+BEAR36|Everyone is in lockdown as we seek to try to curb the spread of the coronavirus.
+NEUT37|But Jeffrey Katzenberg has argued that this may well be an opportune moment for consumers who are thirsting for some form of entertainment to sort of take their mind off of this more grim national news.
+NEUT38|All of life as we know it is just been turned upside down and inside out and.
+NEUT39|Why did that moment in time here comes something that's new?
+NEUT40|It's unique, it's different.
+NEUT41|As you know, the entire goal of our enterprise is to inform and entertain and inspire.
+NEUT42|Service that Hollywood insiders sort of love to hate.
+NEUT43|Some of the early reviews of Quimby's shows have not been glowing much like Apple when it entered the world of entertainment with Apple TV plus last year.
+BEAR44|In the case of Quebe, there is a similar sort of blowback, despite some pretty acid reviews of the entertainment, I think could be actually has a chance.
+NEUT45|I found it actually refreshingly interesting, and it seems like there's something for everyone.
+NEUT46|"Will see whether these shows do connect with consumers, however."""

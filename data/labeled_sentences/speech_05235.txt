@@ -1,0 +1,32 @@
+NEUT0|"""Hello everyone I'm John with JP strategic investments and today I'm going to give my analysis on Netflix is Q4 earnings that we just got today."
+NEUT1|I'll go over the major numbers, future forecasts and what this means for the stock going forward.
+NEUT2|So let's dive right in.
+BULL3|So first of all if we look at the major numbers and metrics here, Netflix brought in 6.64 billion in revenue with an EPS of $1.19.
+BEAR4|This is compared to analyst expectations of 6.62 billion in revenue with an EPS of $1.39 zero coming in pretty much in line with guidance for revenue but missing an EPS.
+BULL5|That being said, though, they did crush expectations for subscriber growth.
+BULL6|With 8.5 million new subscribers as opposed to the analyst consensus estimate of 6.5 million, this one honestly surprised me too, and so I'm really impressed with this growth even as more and more competition enters the streaming space.
+BULL7|If we look at the chart here, we can see that in 2020, obviously early subscriber growth came in well ahead of expectations as subscriber growth surged as a result of global lockdowns.
+BEAR8|Then Q3 subscriber growth slowed significantly down to only 2.2 million subscribers.
+BULL9|In the quarter, so it's very impressive that they were able to reignite this growth and continue to gain a significant amount of new subscribers even after so much of that demand had been pulled forward into the first two quarters of 2020.
+BEAR10|While they do expect this growth to slightly slow in the first quarter of 2021, it's not by any significant margin getting into some of their content performance here.
+NEUT11|I think the most telling chart is this one here.
+NEUT12|This shows the most search TV shows in movies in 2020, and as you can see, Netflix is simply dominating the TV show results with their original shows, making up nine out of the top 10 results.
+NEUT13|When it comes to the movie search results, Netflix does have some work to do here, but two out of the top 10 isn't too bad.
+NEUT14|An interesting side note that they give here on their original miniseries, The Queen's Gambit, which I'm sure many of you have watched, is that it caused a startling surge in chess set sales and related items.
+BULL15|One company actually reported a 215% increase in chess set sales since the show was released.
+BULL16|Furthermore, vintage chess set sales have increased by 700% in chess set equipment are at 45 times their previous levels.
+NEUT17|On top of this, subscriptions to chess websites and.
+BULL18|Apps are also up as well as well as watch time from viewers watching chess on Twitch.
+NEUT19|When one of your original series causes this much of a buzz, you know you're doing something right, and I haven't seen any other service even come close to garnering this much attention for one of their shows or movies.
+NEUT20|The last part I want to go over here, I think, is one of the most exciting parts for investors and that is their cash flow and capital structure.
+BULL21|Netflix has announced here that they believe that they are very close to being sustainably free cashflow, positive for years.
+NEUT22|Now Netflix is production spending his.
+BEAR23|Outpaced the amount of net income that they bring in an.
+NEUT24|Now, they're saying that this could be coming to an end.
+NEUT25|They write in bold here that they believe that they will no longer have the need to raise external financing for day-to-day operations.
+BEAR26|This is really big for Netflix and could set their stock and company even further apart from their competitors who streaming.
+BEAR27|Services are far from reaching this point.
+BULL28|Overall, this was a great report from Netflix, and it looks like most investors agree as their stock is up over 13% after hours.
+NEUT29|As I'm recording this video.
+NEUT30|If you found the analysis in this video helpful.
+NEUT31|"Please consider liking and subscribing and leaving a comment below letting me know what you thought of these earnings and other than that have a great day."""

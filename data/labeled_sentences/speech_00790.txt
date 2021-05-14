@@ -1,0 +1,6 @@
+NEUT0|"""With 2021 just right around the corner, a lot of investors ask themselves is the Santa Claus rally a real thing, or is it just an anomaly?"
+NEUT1|Well, what is the Santa Claus rally?
+BEAR2|It's a typical seasonal tendency of the stock market in general to rally in the last five days of December into the first two days of January.
+BEAR3|There's a lot of explanations around this, and a lot of conflicting data.
+NEUT4|A lot of people think that it's due to tax advantages, or perhaps vacations with the people that are generally bearish.
+BULL5|"The optimism around a new year tends to have people structure their portfolios to try and get off to a good start, and that's why we generally see this massive surge in buying in the last week of December."""

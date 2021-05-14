@@ -1,0 +1,15 @@
+NEUT0|"""Where does the story go next?"
+NEUT1|And there's obvious questions that they still have not answered when it comes to the reporting on this.
+NEUT2|Well, that's right, Sandra.
+NEUT3|I think the first question answer is you just asked where does the story go next as we know much of the media has been trying to avoid reporting on this issue and this story, but I think the Tony Bobulinski emails make it clear this is at least news.
+NEUT4|We are in the news business and that it is becoming a little difficult for the rest of the press to avoid the reality that we have a story here.
+NEUT5|We had these emails at first appeared on the laptop in the Delaware computer Shop.
+NEUT6|And now Tony Bobulinski has these emails as well that would appear to be corroborating the fact that Hunter Biden was involved in a significant financial deal with a big Chinese company related to the Chinese government and where it goes from here, you know, we just had Joe Biden saying there was nothing to this.
+NEUT7|Well, the question is, what is this?
+NEUT8|Are we talking about?
+NEUT9|Whether the question is Joe Biden as the big guy?
+NEUT10|Or whether in fact, Hunter Biden's business deals are real.
+NEUT11|Is the Biden campaign and family literally denying that their son was not in the business deals described here with this Chinese entity?
+NEUT12|I doubt that, but I think we need more answers to those questions when it comes to our intelligence committee chiming in and adding to the details of this story or confirming elements of this story.
+NEUT13|We know it made big news a couple of days ago when the Director of National Intelligence Radcliff went on FB N talking to Maria Bartiromo and said this is not.
+BEAR14|"Russian disinformation there is no evidence of that."""

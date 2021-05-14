@@ -1,0 +1,32 @@
+NEUT0|"""Hi, I'm Carl Palmer, Filipino American living here in New York City on the resident caretaker of New York Buddhist Church, and I also run a food business on the side."
+NEUT1|The coolest thing about running this business is that I get to cook in front of customers and I can't do that right now with because of covid.
+NEUT2|So you going from 60 to 80 events a year at this peak at this complete high.
+BEAR3|From that to nothing nothing it got worse and worse.
+BEAR4|My wife was stuck in China and my parents were stuck in the Philippines when Covid hit your watching everybody dying.
+NEUT5|You know on these ventilators.
+NEUT6|I hear the sirens.
+NEUT7|I start hearing the gunshots, the protesting when you start hearing the rhetoric, this kung flu virus, this China virus.
+NEUT8|I knew that we were going to targeted.
+NEUT9|Maybe it started in China but you can't blame your fellow American for something that happened overseas.
+NEUT10|It wasn't making any money.
+NEUT11|More is about checking up on the people that I knew we didn't have a good health and see how I could help them.
+NEUT12|We started getting these free Bento boxes project Bento so I'm delivering to the retirement community.
+NEUT13|You know, these old folks are by themselves.
+BEAR14|They're so isolated.
+NEUT15|I hope they could see the smile.
+NEUT16|You know behind my mask.
+NEUT17|All this anti Asian crime started happening.
+BEAR18|One of my associates got robbed and then my staff member got spit on.
+BEAR19|The news is getting worse.
+NEUT20|I was thinking about the safety of the church.
+NEUT21|People come and visit us from different congregations from different temples.
+NEUT22|And then I wanted to make sure that those guys were safe.
+NEUT23|So I called up this company to order some stuff.
+NEUT24|This little unit flashlight and it has a pepper spray here and it has a Taser as well.
+NEUT25|I pray I pray I never have to use this damn thing.
+NEUT26|Now I'm delivering self defense weapons too.
+NEUT27|Those who don't feel safe if we get cut, we bleed bread the same color, and if only these people attacking our elders in our community realize that there's a little bit of you in that person and you.
+BEAR28|Creating that harm to that person, you're in reality, you're hurting yourself.
+BEAR29|You are hurting yourself.
+NEUT30|Carl says he hopes to promote Asian culture and healing by handing out those free Bento boxes showcasing Asian food.
+BULL31|"Wherever there's been a crime in New York City, and he hopes to expand those Bento boxes to include other cultures as well."""

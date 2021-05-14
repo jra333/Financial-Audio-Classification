@@ -1,0 +1,28 @@
+NEUT0|"""A certain example of a bearish engulfing bar, as you could see here, but let's define it step by step to see what does it mean or how does it look."
+NEUT1|So as you could see here in this example, the engulfing bar one engulfs other's bearish engulfing bar, which is the black one.
+BEAR2|Here first the closing prices below the opening price, which means the market is falling OK.
+NEUT3|This is a first point to notice, the second, the engulfing is always in golf at least one real body of a candle stick before it as you would see here, like this one at engulfed completely is that one here.
+NEUT4|OK, so it consists of two parts.
+NEUT5|The first is smaller.
+NEUT6|There's a second one.
+NEUT7|Another word II engulfs the previous one completely, so a bearish engulfing bar pattern look like on your chart.
+NEUT8|This candle give us a valuable information about balls and bears in the market.
+NEUT9|In the case of bearish engulfing bar.
+NEUT10|OK this Patten tell us that the seller in control of the market.
+NEUT11|So once the seller.
+BEAR12|They are selling their stock OK, which mean is the price is going to fall down.
+NEUT13|OK, this pattern always occur at the end of an uptrend.
+BEAR14|This indicates that the buyers are engulfed by sellers which signal a trend reversal.
+NEUT15|So as you would see here, when this pattern Bear is in conflict but happens so the seller are in charge of the market, which mean after this step, is there gonna be a decrease a change in the trend and increasing the stock price as you would see here?
+NEUT16|OK, when this price action patterns occur in an uptrend as you would see here, we can anticipate expect a trend reversal becauses buyers are not.
+BEAR17|Still in control and centers are trying to push the market to go down OK.
+NEUT18|This is not an enough information to make your decision, so you need more other technical tool in order to confirm your entry.
+NEUT19|But this is one of the point that you must look at in order to decide what to do next.
+NEUT20|K. Concerning the bullish engulfing bar patterns and consists of two kinda sick, one is small and one is big.
+NEUT21|You as you could see the clothing is above the opening, so the market is arising as you would see here, which means the buyers are now in control of the market and they try to push the prices up OK, which mean as well and from now on the trend is gonna show up as you would see here when you have bullish and after this occurring.
+BULL22|Now it is very noticeable that the market is going to go up as you would see here and there, so this is in the engulfing as well.
+NEUT23|This is engulfing as well, and you see is going up all the way up.
+NEUT24|So whenever you have this, you have to make an investment or to consider one of the points that will encourage you, but it's not enough.
+NEUT25|OK, so do not trade using this price setup alone.
+NEUT26|We need more information important in order to make our decision.
+NEUT27|"As tangible yes or no."""

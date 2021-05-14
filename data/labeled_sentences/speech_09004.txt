@@ -1,0 +1,46 @@
+NEUT0|"""Well, I'd love to look at AutoZone, AutoZone."
+NEUT1|First off, personally, I like AutoZone like I like going there.
+BULL2|They're very helpful.
+NEUT3|$27 billion company 60.
+BEAR4|Not bad profit margins 16.3% and wow.
+BULL5|OK, we're doing great here.
+NEUT6|Gross profit 53% profit margin.
+BULL7|Surprised you 16% as compared to this getting stuff and so yeah retail is great.
+BULL8|Yeah OK Pillar #3 is revenue growth over the past five years.
+NEUT9|10.610 point, 911 point 211.86, twelve point 60 again.
+NEUT10|Find out how many new stores have opened last five years.
+NEUT11|See how same store sales are doing, especially in this Internet age, with Internet sales increasing, we don't understand that a lot.
+NEUT12|Let's see the last 12 months revenue.
+BULL13|Wow, last 12 months revenue still up.
+BULL14|That's impressive.
+NEUT15|Pillar number for profit growth.
+NEUT16|Over the past five years, 1.241 point, 281.341 point 61.7.
+NEUT17|So the Internet freedom.
+NEUT18|Nobody told them.
+BULL19|That's pretty solid guys.
+NEUT20|Look at bus 10 years.
+NEUT21|Every single year they made more money in the previous year.
+BULL22|That's incredible.
+NEUT23|#5 is number of shares outstanding.
+BEAR24|Paul thirty million down to 23 and a half.
+NEUT25|Check mark there.
+BULL26|Pillar #6 current assets greater than current liabilities is got my blood flowing this Phoenix again with AutoZone lobby, Phoenix keep going pool 6.8 billion down to 6.28.
+NEUT27|So barely a check.
+BULL28|It is a check though, which is better than most retailers.
+NEUT29|Usually they have the negative there, so that's good now for my famous one.
+BULL30|Free cash flow growth.
+NEUT31|This is cash from operations minus capital expenditures.
+NEUT32|Paul Pillar number 71.151 billion 1.5 billion 1.6 billion.
+NEUT33|Two point 2 billion average is 1 1/2.
+NEUT34|I kind of like this times 20.
+BULL35|Even times 15 it's pretty close, so pretty decent stock guys.
+NEUT36|I mean, I think understanding the story here, understanding what they're doing.
+NEUT37|This is not bad.
+NEUT38|I don't even notice this 11160 bucks into $27 billion company.
+NEUT39|It doesn't matter what the company price is, that what matters is the market cap and everything is they have no dividend yet.
+NEUT40|So this is something that you checked future.
+NEUT41|I mean, I don't know.
+NEUT42|I kind of like this one is a good company guys.
+BULL43|This looks pretty solid.
+NEUT44|Phoenix I was kind of like this.
+BULL45|"Thank you very much for sharing this."""

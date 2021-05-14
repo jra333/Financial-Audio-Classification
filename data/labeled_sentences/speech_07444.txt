@@ -1,0 +1,4 @@
+NEUT0|"""As a field marketing leader, when we started the Wall Street Journal program Tech Mahindra, we were very excited."
+NEUT1|I was very excited because it gave it, gave us a platform to take the conversation to the next level and the way it helped us really was to make sure that we not only started that conversation, but translated that conversation into an.
+NEUT2|Auto I in terms of opportunities and taking that conversations that we have with the CEOs in the C-Suite from a target standpoint and converting that into real business of fact that now we are able to take that into the next level where we're talking about how is that?
+NEUT3|"How can that be translated into real Actionables is very exciting too."""

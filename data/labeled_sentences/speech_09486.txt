@@ -1,0 +1,25 @@
+NEUT0|"""We bring in Angele khemlani for the latest angele."
+NEUT1|Thanks Adam, Yep, today we got the data out of Pfizer in advance of the meeting on Thursday.
+NEUT2|That's going to really decide whether or not the FDA gives clearance and that emergency use authorization to the company, which is largely expected.
+NEUT3|We know that as it stands right now, health systems across the country are gearing up to deliver that to that first group of individuals, including hospital staff and nursing home residents.
+NEUT4|Some are already telling their teams to get ready.
+NEUT5|For a vaccine by December 15th, so we know that this is supposed to go along.
+BULL6|We know we got indications, especially once the UK had already approved it, that this was going to go forward.
+NEUT7|I'm really not too much expected in terms of a surprise on the note though of the US and the doses we saw the report yesterday.
+BEAR8|New York Times reporting that the US government did decline to purchase more than the 100,000,000 doses promised from Pfizer.
+NEUT9|And of course that is of concern because that means that without what is expected to be in approval for Moderna, you know there might not be too many more doses for the rest of the rollout of a vaccine.
+NEUT10|Now the White House an.
+NEUT11|Other government officials have said that, of course, at that time, which was in the summer when Pfizer was offering these additional doses, it was a matter of not knowing, really, the efficacy of the vaccine, and the idea was to be more prudent and not put all eggs in one basket.
+NEUT12|And that was something that officials at the time had repeatedly said that there needed to be, quote unquote, multiple shots on goal.
+NEUT13|So as it stands right now, we're still waiting for word on what that means and Moderna as we know is next week.
+NEUT14|For that FDA hearing as well.
+NEUT15|Until you mentioned what the New York Times article and I just want to do a little bit deeper into that because U.S. government giving up the option to buy more of the vaccine in advance.
+NEUT16|Is this being viewed by some as a mistake by the administration or is there any value to the argument that it does make sense to diversify?
+NEUT17|Guess the nation's vaccine Arsenal that we could potentially have.
+BEAR18|It's a mixed bag.
+NEUT19|In fact, we had former HHS Secretary Kathleen Sebelius on earlier and she said that hindsight is 2020 and I think that's the view that summer taking though you know, at the time, we really didn't know that Pfizer wasn't going to come out ahead.
+NEUT20|I believe if I recall correctly, at that time we didn't even know what the right efficacy data was.
+NEUT21|Doctor Anthony Fouchy had said in the summer that a 75% effective vaccine was going to be acceptable, so a lot has changed in that kind of highlights.
+NEUT22|You know what has been happening and how quickly things have been changing over time.
+NEUT23|Of course, we know that President Trump is supposedly going to be issuing some sort of order, which would prioritize the US, and that's expected at today's vaccine Summit.
+NEUT24|"But no word on that just yet."""

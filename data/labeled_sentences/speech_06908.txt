@@ -1,0 +1,22 @@
+BULL0|"""China's buying power in the commodity market is legendary."
+NEUT1|The country consumes much of the world's copper, cotton, and corn to name just a few.
+BEAR2|Soon we might add to the list natural gas, Beijing's long held concern about security of supply for its energy made the country dependent upon its coal and oil reserves.
+NEUT3|Today it is shifting away from highly polluting coal towards natural gas.
+BULL4|Although this year its coal consumption has bounced back, it's not clear that that can last a recent academic study revealed that for those living in the more coal dependent North.
+BULL5|Air pollution shortens the lives by three years as compared to those who live in the southern regions of China, while the country has plans to expand the amount of gas it imports via pipelines in the short term, China has chosen to step up its seaborne imports of liquid natural gas.
+BULL6|Up to October this year, LNG inflow had jumped 48% on average.
+BULL7|That follows a one quarter rise the year before transporting.
+NEUT8|This fuel requires specialized tankers and there are not enough of them as glut of LNG tankers book there couple of years ago has vanished between 2012 and 2014.
+BULL9|The number of orders placed more than doubled to 66.
+BEAR10|This year, that number has dropped to just eight now.
+NEUT11|These ships require around 30 months to build.
+BULL12|Spot daily rental rates have thus risen.
+BEAR13|Since April of last year, LNG tanker rates have roughly doubled and they are still historically low.
+BULL14|These prices could more than double again before touching the highs of five years ago.
+BULL15|Not only have China's imports picked up, but the US has begun to export its cheap gas, a notable price arbitrage of around $6 per million British thermal units exist between the US, an Asian trading hubs.
+NEUT16|Listed LNG tanker specialists have long waited for this day.
+NEUT17|Companies such as gas log and Golar LNG have operating companies as well as high yielding master limited partnerships listed in the US.
+NEUT18|Dina Gas also has an MLP listed there.
+NEUT19|Another Norways Flex LNG awaits delivery of its vessels.
+BULL20|While there is no shortage of LNG supply to come, that gas will require more vessels to transport it.
+BULL21|"LNG tanker operators are now in a sweet spot, able to fuel China's needs."""

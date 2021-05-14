@@ -1,0 +1,18 @@
+NEUT0|"""Some of these investment choices, and I think companies like Zillow we talk about Unity."
+NEUT1|These are all in that wheelhouse.
+NEUT2|Talking about competition.
+BEAR3|Tesla versus Lucid, which has sort of a lackluster debut via SPAC Churchill this week.
+BULL4|But Lusa did hire a number of Tesla employees, and while it may not have a product on the market yet, it certainly had a lot of optimistic commentary about getting there.
+NEUT5|I'm curious how you see this sort of battle sort of staking out between the two.
+NEUT6|Well, I think there's going to be a ballot.
+NEUT7|I take Tesla and this case just because of the pure volume that they're doing.
+NEUT8|I think scale is going to matter.
+NEUT9|I think when you Fast forward a decade from now, you're going to see traditional car companies have been around for 100 years.
+NEUT10|There's still brands are still going to be around, but they're going to fraction of the company that they are today and you're going to see companies like Tesla potentially Apple getting into car.
+NEUT11|We've talked about that in the past.
+NEUT12|I think that it's still not 100% clear what their direction is, but I to answer your question about Tesla versus lucid, I really think about this.
+BEAR13|Matching up as Apple versus Tesla long term, I think that's where all the Sparks are going to fly Tesla now Tesla, now negative on the year down 5% gene.
+BULL14|Thanks for joining us today.
+NEUT15|Gene Munster, thank you.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,29 @@
+BEAR0|"""Rising input costs in a variety of industries, tariffs being passed along food costs, rising 4 for restaurants and widespread labor shortages, which translates to me as companies going to pay more for workers."
+BEAR1|Are we looking at the beginning of a persistent rise in inflation in this country or not?
+NEUT2|Well, I think that's certainly what the Fed would like.
+NEUT3|I think Steve was right when he said this is more transitory, 'cause it's related in part to tariffs, and there's a lot of questions on whether or not those price increases will stick given the razor thin margins, particularly in retail, I thought it was interesting as well.
+BEAR4|The break between manufacturing, which is still feeling the full effects of the trade war.
+BULL5|Even though we've ratcheted things down a bit, the tariffs are still in place and the rest of the economy doing much better.
+BULL6|That's good news.
+BULL7|'cause it does mean we can absorb the shock of the trade wars as long as we keep this data.
+NEUT8|Going an you know we don't have any further escalation this year.
+BULL9|That's good news for the overall economy.
+BEAR10|It's not good used for manufacturers and the other important point you said, well, it means that they should be paying more for workers for his tightest labor markets were.
+NEUT11|What was the one thing that was in the Beige Book that wage gains were still not that strong even though there were widespread reports of Labor shortages.
+BEAR12|This has been one of the conundrums out there is how little wide broad based wage gains have been.
+BEAR13|They have been in the lowest income jobs in the lowest wage jobs, which is great.
+NEUT14|For those workers, but we've not seen them move upscale into middle income households or across the board, and I think that's something very different from the past.
+NEUT15|All right, Jim.
+NEUT16|Let's move from the economic picture to the market matters and and to my way of thinking, an economy that's growing at 2% or so.
+BULL17|As Steve suggests, inflation growing at 2%, moving at 2%.
+NEUT18|Or you know with it within a band of that and yields that are at 2% or below.
+BULL19|That feels like a pretty good recipe for equities.
+BEAR20|I agree to you, know the words that kept popping out to me in the beige report over and over again was modest and moderate.
+NEUT21|You know, to me, that's another way of saying Goldilocks.
+BULL22|Overall for investors, modest and moderate, and that what that means is it can persist a 3 1/2 percent unemployed employment rate economy can handle modest to moderate growth without having significant cost pressures and significant inflation, nor the need to significantly raise interest rates.
+NEUT23|That's it precisely, a recipe for financial assets to continue to advance.
+BEAR24|Overall, you know, we've been chronically disappointed in the last decade about the speed of this recovery.
+NEUT25|It's always been around that 2% stall speed of GDP growth.
+BULL26|And yet I am starting to.
+NEUT27|I'm starting to like disappointment if you will, because a slow growing economy means a very long recovery in a very long bull market.
+BULL28|"And there's it seems like we might get more of that to come with this report."""

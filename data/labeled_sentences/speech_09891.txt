@@ -1,0 +1,38 @@
+NEUT0|"""Well, it has been a big ol Wall Street forecast raising party going into 2021, and Goldman Sachs is I guess, joining that party or rejoining the party."
+NEUT1|'cause Brian Sozzi they came out with the forecast and then what?
+NEUT2|They're already revising it upward.
+NEUT3|Yeah Julie, this team is tripping over themselves to one up each other to raise their forecast.
+NEUT4|So this morning we had Goldman's chief economist Jan Hatzius come out raises 2021 GDP estimate to five point 3% growth to 5% growth really with some of the highest targets on the street already.
+NEUT5|But why not just go even more bullish with the stock market completely melting up now at the same time Goldman did come out this morning and also reiterate there S&P 543 hundred target miles.
+NEUT6|I know you'll love seeing these price targets.
+NEUT7|Really that is one of the most aggressive targets out on the street.
+NEUT8|But why hot teases upgrading his GDP estimates ultimately boils down to his view on savings.
+BULL9|He thinks most consumers have saved up a lot of money during the pandemic.
+BEAR10|They haven't gone out to eat.
+NEUT11|They definitely have gone to the movies.
+NEUT12|And he thinks once the once consumers get vaccinated, they will take that spending and work it down.
+NEUT13|Go on a vacation, maybe to go buy something.
+NEUT14|And I'm a dying Macy's.
+NEUT15|Who knows they might have the cash to go out there and spend an as we all know consumer spending powers the economy.
+NEUT16|Yeah, I mean you know what the the see part of the GDP equation, right?
+NEUT17|Consumption?
+NEUT18|I think it's 67% of all that growth and it doesn't take a genius to say that people haven't been able to spend as much money as they would like this year.
+BEAR19|And I think that's the important Part 2 we still have, you know, ten million people that are out of work relative to where we were in February.
+BULL20|Hopefully Congress continues to assist businesses in getting some of those folks back to work.
+NEUT21|But economist after economist and strategist after strategists comes on this show and tells us.
+NEUT22|The cushion of household savings that exists right now, and I think part of it is people in a defensive posture because of the recession, but the rules say you can't spend your money in certain places, and I know that spending has been made up for with, you know, it's been a goods over services type recovery, but look at what's happening in California right now.
+NEUT23|People want to go to establishments that are not allowed to serve them, either at all or in certain settings or after certain times.
+NEUT24|And all of those changes, you can see it here in New York City.
+NEUT25|Restaurants and bars closing at 10:00 PM.
+NEUT26|It's ridiculous like that's next year.
+NEUT27|If restaurants and bars are open regular times, that's like six additional hours that there can be service for consumers who have a high marginal propensity to consume.
+NEUT28|These are going to be, you know, the upwardly mobile kids who moved to New York, who you know, just got their first Rays and like this is clearly caught like this is how the economy's been oriented and we can talk about whether that's right or wrong.
+NEUT29|But that's the impulse for consumption and so.
+NEUT30|I think we're probably going to see some very big GDP numbers next year and then the conversation that the three of us are going to have when we sit here in July of 2021 is how sustainable is this, and the answer is going to be not that sustainable, but I think that impulse to spend is certainly coming.
+NEUT31|You know, once we start to see mass vaccinations.
+BULL32|I've got thirsty cash and I'm ready to spend it.
+NEUT33|Not me after 10:00 PM.
+BULL34|I'm in bed already wild side left.
+NEUT35|I am curious how sustainable the saving trend will be as well.
+NEUT36|If we'll see any sort of longer term propensity to save.
+NEUT37|"Also, as as things continue, we shall see."""

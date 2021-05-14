@@ -1,0 +1,27 @@
+BULL0|"""Everybody, I'm we're we're getting closer and closer to Facebook being a public stock for a month now."
+NEUT1|Alright, let's look at what they've done in the past month started here, I believe.
+NEUT2|Start out of like $38.00.
+BULL3|Got up to 41 for a moment.
+BEAR4|Now they're down to 27.
+BEAR5|They've been lower than that though.
+BULL6|The PE ratio is a respectable 87.28.
+NEUT7|That's a joke, by the way.
+NEUT8|Yeah, $27.27.
+NEUT9|Even now I wouldn't buy it.
+BEAR10|He's put down half.
+NEUT11|I wouldn't buy it.
+NEUT12|Take it down to like $9 a share maybe I buy that.
+NEUT13|That's the only time I buy it.
+NEUT14|That's my personal choice.
+NEUT15|But ah.
+BEAR16|Yeah, this is not looking good as far as like you know what have one of the investors been thinking.
+NEUT17|Mr is not plummeting terribly, but for example, let's look at LinkedIn.
+NEUT18|LinkedIn 9553.
+NEUT19|P ratio 590.
+NEUT20|The reason that I might have had any optimism for the Facebook stock is because LinkedIn want to look at.
+NEUT21|Well, I mean they have much more room to grow.
+NEUT22|Obviously in Facebook is more like maximum peak, but still.
+NEUT23|I mean this is who's buying this?
+NEUT24|I mean I can't buy that I would never buy that 590P.
+NEUT25|It's not me, but Facebook stock not looking that great so.
+NEUT26|"This is my Facebook stock update."""

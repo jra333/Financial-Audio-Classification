@@ -1,0 +1,36 @@
+NEUT0|"""CFR is tuna Moby."
+BULL1|Colin Sebastian of Baird joining us to break down the quarter on what it turns out guys is looking like the best day for the stock since December of 18.
+NEUT2|It's good to see you to know what you're thinking on Amazon right now.
+BULL3|Karl, thanks for having me.
+NEUT4|Yeah, you know, I think just when some investors are started to count them out, they come out with this blow away.
+NEUT5|You know quarter.
+BULL6|So I think the key here is to understand that the scale that they've built over the years in terms of their their leverage on infrastructure is just starting to pay off.
+BULL7|And this has been amplified by the shift to the one day delivery.
+NEUT8|You look at the AWS Division.
+BULL9|There is several positive takeaways there.
+NEUT10|I know so much has been made about the competition from you know Microsoft.
+NEUT11|But I think some of those concerns are overdone.
+NEUT12|So All in all, I think this is remains really intact as we look to the year you may hear a lot more chatter about the antitrust issues that could create some volatility.
+BULL13|But overall, I think that the earnings really had a lot of positive takeaways.
+NEUT14|Colin, is it safe to say that Amazon now, with the rollout of one day shipping?
+NEUT15|On on such a big level and all the money that's gone into those costs associated with it, that it's taking more market share from the traditional retailers who maybe before now had a leg up in terms of last minute purchases?
+BULL16|Well, there's no doubt that one day is resonating with consumers, and that's pulling in more merchants onto the Amazon platform.
+NEUT17|But but quite frankly, the strength in the quarter was the services side of Amazon's business.
+NEUT18|Those are the fees 30 that they earned from merchants to sell on Amazon.
+NEUT19|The fees they earned from prime membership, the fees from a WS.
+BULL20|Product sales were essentially in line.
+NEUT21|Certainly one day helped mitigate any other factors impacting retail or e-commerce, but that was the beauty of the business model that was on display yesterday.
+NEUT22|Yeah, two.
+NEUT23|Now when I was looking at the AWS performance it made me just reconsider what I was looking at across mega scale cloud.
+NEUT24|When I heard Amazon, Microsoft, Google all talking about hiring sales people, I thought maybe that's because the top line is slowing down and they need to invest to get more gas in the tank, but maybe not so?
+NEUT25|I mean, does this perhaps mean that they're just pedal to the metal continuing through 2020?
+NEUT26|And I know you don't cover chip names, but it makes me wonder.
+BULL27|If the investment in infrastructure is more likely to continue throughout the rest of the year because demand is so strong, John, I think the short answer is that those investments I think he could see really proof proof points that those investments are paying off.
+NEUT28|If you think about the global cloud market, I think there's still a case to be made that were still in the relatively, you know, not certainly.
+NEUT29|Not later trillions of that market, the addressable market is huge.
+NEUT30|That's why you see this top three providers, you know.
+NEUT31|Amazon Web Services.
+NEUT32|Microsoft and Google Cloud all trying to zero in there because the you know.
+BEAR33|Granted you're getting a lot of margin pressure from from these investments, but in case can be made if you look at Amazon Web Services for example, you know they're down almost 4 to 500 basis points from their peak margins over in about last year or so.
+NEUT34|But when you Fast forward and see the return that they generated from this investment, this scale and how they are able to apply.
+NEUT35|"You know the new learning concepts, whether it's AI or machine learning, you get a sense that this is a huge ecosystem that still have a lot of runway ahead."""

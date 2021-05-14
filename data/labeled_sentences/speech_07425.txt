@@ -1,0 +1,24 @@
+NEUT0|"""Now I will send it over to Emily McCormick was details on today's ADP numbers."
+BULL1|Thanks, Jess Ann.
+BEAR2|That's right, we did get a report this morning from ADP showing that US private employers added back more than half a million jobs in March for the best game since September.
+BULL3|Now specifically, private payrolls grew by 500 and 17,000 according to ADP.
+BEAR4|Now this was slightly below estimates, with consensus economists looking for private payrolls to rise by 550,000 for the month.
+BULL5|But we should note that this did still accelerate from the upwardly revised gain of 100 and 76,000.
+BEAR6|Private payrolls in February.
+BULL7|Now taking a look by sector for March, we did see that the services sector again handily led the way in recovering jobs.
+BULL8|With those payrolls climbed by more than 400,000.
+BULL9|Now some of the most badly beaten down industries saw the biggest gains last month.
+BULL10|And hiring we saw that leisure and hospitality payrolls rose by 169 thousand.
+NEUT11|So those easier restrictions around indoor dining likely playing a big role there.
+BULL12|And we also saw trade, transportation and utilities jobs rise by notable 92.
+BULL13|1000 I also want to highlight that the goods producing sector posted a net private payroll gain in March.
+BULL14|With these increasing by 80,000, as some of those weather related impacts we saw in February windling an allowing hiring to pick back up, we saw the construction and manufacturing jobs rose by 32,000 and 49,000 respectively.
+BEAR15|Although we did see a small decrease in at the number of payrolls in mining jobs.
+NEUT16|Now, as usual, this report comes two days before the Labor Department official monthly jobs report for March.
+NEUT17|That release is expected to show that nonfarm.
+BULL18|Payrolls grew by about 650,000.
+BULL19|That would be also the most in five months, and include more than 600,000 private payroll gains as well.
+BULL20|But as many economists have noted, we're likely to see even more job gains in the months ahead, as more vaccinations take place, restrictions continued rollback, and that stimulus continues to help support the recovery back to miles.
+NEUT21|It looks like March likely to be the final month that we see.
+BEAR22|You know, we don't see seven figures on that jobs number.
+BEAR23|"Most economists looking for millions of jobs added back per month as we get into the summer months here in the US."""

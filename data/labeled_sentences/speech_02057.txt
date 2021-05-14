@@ -1,0 +1,11 @@
+BEAR0|"""I'm sorry Josh Morris for smart run news Coca Cola Hellenic bottling was downgraded to underweight from equal weight at Barclays Capital."
+BEAR1|The stock closed yesterday at $23.46 on volume of 3500 shares below the average daily volume of 35,322 shares in the past 52 week shares of Coca Cola.
+BEAR2|Hellenic bottling have traded between a low of $19.75 an A high of $28.61.
+BEAR3|And are now at $23.46, which is 18.8% above that low price.
+BEAR4|Coca Cola Hellenic Bottling is currently above its 50 day moving average of $22.30 and should find resistance at its 200 day moving average of $24.38 in the last five trading sessions.
+BEAR5|The 50 day moving average has fallen .43%, while the 200 day moving average has also slid .25% Coca Cola Hellenic Bottling Company SA produces, sells and distributes soft drinks, fruit juices, and mineral water.
+NEUT6|The company produces all kinds of Coca Cola brand name products that just Coke.
+NEUT7|Diet Coke Sprite Diet Sprite an FTA Coca Cola Hellenic manufacturers and distributes in 26 countries worldwide.
+BEAR8|I'm sorry Josh Morris for SmarTrend news.
+NEUT9|For more on this story visit our website.
+NEUT10|"Tradethetrend.com or subscribe to our YouTube channel trade the trends."""

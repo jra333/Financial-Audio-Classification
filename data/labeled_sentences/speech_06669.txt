@@ -1,0 +1,13 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Thursday, May 25th.
+NEUT2|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT3|Today will look at U.S. dollar versus Canadian dollar on the daily chart so can see USD.
+BEAR4|CAD has turned bearish in the medium term, retracing more than half of the uptrend from the April 13 low one point 3222.
+BULL5|Up to the May 5th high One point 3792.
+BEAR6|The break below the key 1.35 level and also below the 50 day moving average this week accelerated a decline to the one point 34 area.
+BEAR7|So the top is now in place at the May 5th high of one point 3792 as the market reversed lower from here after reaching overbought levels and that was indicated by the RSI, which rose above 70 and this is early in May, the RSI is now dipped below 50 into bearish territory, an maqdis trending down so these momentum indicators are both reflecting a bearish momentum in the market.
+BEAR8|There is risk for USD CAD to extend even lower and to target support now at one point 33.
+NEUT9|Below this there is scope to retest the April low of one point 3222 and then below this we have one point 30.
+BULL10|But a move back above what is now resistance at one point 35 would bring back a more bullish bias but a rise above at least one point 37 is needed to resume that uptrend that happened recently.
+BULL11|Thanks so much for watching.
+BULL12|"Have a great day."""

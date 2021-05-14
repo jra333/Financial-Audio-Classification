@@ -1,0 +1,50 @@
+NEUT0|"""Warren Buffett's Berkshire Hathaway hosting its highly anticipated annual shareholders meeting tomorrow."
+NEUT1|It starts at 9:45 AM.
+NEUT2|Yahoo Finance is the exclusive online host for the event and joining us now from Omaha, NE is Julia LaRoche is there for the meeting with the latest Tell us a little bit about the scene there running up to the meeting.
+BULL3|Hey there Julia.
+NEUT4|That's right, I'm inside the exhibition Hall and as you can see I am at the Coca Cola exhibit and all around me are the various portfolio companies.
+NEUT5|This will open up at 12 noon local time to the shareholders to do a lot of shopping before the annual meeting, which as you mentioned kicks off tomorrow morning live on Yahoo Finance.
+BULL6|There's already a lot of buzz News coming out from here in Omaha, NE apiece.
+NEUT7|Of that news.
+NEUT8|Is Warren Buffett confirming to CNBC that Berkshire Hathaway has been buying shares of?
+NEUT9|Amazon now our very own Andy Serwer, sat down with Buffett recently and he asked him specifically.
+NEUT10|Hey, why haven't you invested in Amazon?
+NEUT11|You've been a longtime fan of Jeff Bezos.
+NEUT12|Let's take a listen to why he didn't until now.
+NEUT13|You mentioned Amazon as a game changer and I have to ask you, you haven't bought the stock here and admirer of Jeff Bezos.
+NEUT14|The listing of the richest people in America came out.
+NEUT15|He's number one.
+NEUT16|I think your friend Bill Gates is number 2, your number 3 so you can see what he's done in myriad ways.
+NEUT17|And of course, the question is how come you haven't bought Amazon?
+NEUT18|Is there still time to buy?
+NEUT19|Would you still buy it?
+NEUT20|I always admired Jeff.
+NEUT21|I mean, I met him 20 years ago or so and and.
+NEUT22|I thought it was something special, but I didn't realize you could go from books to it.
+NEUT23|What's happened there?
+NEUT24|I mean, he had a vision and executed in an incredible way, something that would not have, you know.
+NEUT25|But there's a lot of games I miss I would have missed.
+NEUT26|You know, I would have missed Microsoft even if I got to know Bill early or something.
+NEUT27|Those just aren't my games.
+NEUT28|I don't worry about the things that I miss that are outside my circle of competence of evaluating.
+NEUT29|I do.
+BEAR30|I have missed things who are within my circle.
+BEAR31|And that's a terrible mistake.
+BEAR32|Those are my biggest mistakes.
+NEUT33|You haven't seen him and but I don't.
+NEUT34|It's not a mistake 'cause I miss Netscape or something like that at all there.
+NEUT35|I would say that maybe 5% of the companies or 10% of the companies that most are within an area.
+NEUT36|My circle of competence.
+NEUT37|There's something I should be able to understand.
+NEUT38|Now, it's not necessarily Buffett making the investment on Amazon.
+NEUT39|Remember, he has two young investment deputies, so you have Ted Weschler and Todd Combs each managed 13 billion apiece, and they have total discretion over the stock investments in that massive $173 billion equity portfolio.
+NEUT40|So it's likely maybe both.
+NEUT41|Maybe one of them made the investment here when it comes to Amazon.
+NEUT42|I really like what Buffett said when he talks about mistakes he's going to do about 6 hours of Q&A tomorrow, and he often.
+NEUT43|Talks about the mistakes he's made in the past and when you think about Buffett, yes, he's the most legendary investor of our generation.
+NEUT44|But he likes to think of himself as a teacher.
+NEUT45|There are a lot of lessons to be learned here.
+NEUT46|Julie, yeah, six hours.
+NEUT47|That is quite a marathon, especially for an 88 year old man.
+NEUT48|Julia looking forward to our coverage of that.
+BULL49|"Thank you."""

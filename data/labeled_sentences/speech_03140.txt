@@ -1,0 +1,29 @@
+NEUT0|"""Inflation hey Scott, yeah power let me just turn the sound off here at a Wall Street Journal conference sounding very very dovish."
+NEUT1|But I want to give you some of the headlines that we have here, he said.
+BULL2|It's going to take some time to achieve substantial further progress.
+NEUT3|You remember, that's the language that they've used to signal when they might be reducing quantitative easing, but he's not in a hurry to do that.
+BULL4|The speed of the rate rise, he said, was quote notable.
+NEUT5|He said it caught my attention but didn't seem like a guy who's going to do anything about it real quickly.
+BULL6|Inflation, he says, is set to increase.
+BEAR7|But he says that's likely to be temporary.
+NEUT8|They'll be reopening affect some bottlenecks, but he thinks the economy and people who are looking at that will look through that and see it as temporary.
+BEAR9|He also notes the Fed has high standards for maximum employment, goes on to say that we are unlikely to hit maximum employment this year.
+BULL10|Economic Outlook has become more positive at the margin is a direct quote.
+NEUT11|If we see inflation, we will be patient and the Fed is a commitment not to raise interest rates just because the labor market is strong.
+NEUT12|I'll go back and listen again, Scott, but I hope you get in the tenor.
+NEUT13|There he is in no hurry to do almost anything with fed policy here.
+NEUT14|He's not all that worried about inflation, noted the rise in rates didn't seem like he was gonna do anything about it.
+NEUT15|I got the tenor.
+NEUT16|Clearly I'm watching the market react to so you know, it's the old, transitory thing, right?
+NEUT17|You didn't use that word, but that's basically what he thinks, right, temporary.
+NEUT18|Transitory for any sort of inflationary pressures that arise.
+NEUT19|Steve from this, you know, getting back to the rest of our lives you say so dovish which we believe.
+NEUT20|Why is the 10 year spiking?
+NEUT21|You know, I don't know if they were waiting for to for it to clear they had a trade they wanted to make.
+NEUT22|There's nothing about this that makes me think Powell is going to raise interest rates or reduce QE any sooner than I thought before this two quick things on the inflation thing, you talked about the feds view of inflation.
+NEUT23|You have the base effect.
+BEAR24|In other words, low inflation dropping out of the year over year comparison.
+NEUT25|That's one.
+NEUT26|And then second, you have a reopening increase in prices, but Powell keeps insisting that an inflationary process takes many years and he doesn't believe that the.
+BULL27|Anchored inflation expectations which have characterized the last several decades, are about to change because of the reopening.
+BULL28|"Yeah Steve, I appreciate it."""

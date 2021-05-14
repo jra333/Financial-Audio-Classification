@@ -1,0 +1,37 @@
+NEUT0|"""Imagine having the ability to know what the stock market is going to do before it does it."
+NEUT1|Using the power of Twitter.
+NEUT2|We are not joking.
+NEUT3|One guy has actually done just that.
+NEUT4|He and his research team published their findings in the Journal of Computational Science.
+NEUT5|Johann Bowling, a professor at Indiana University, joins us now.
+NEUT6|Johann I think first question has to be, what on Earth sparked this idea?
+NEUT7|Well, in general we're very interested in the notion of collective mood states, right as a society?
+NEUT8|Can we be cranking one day happy together?
+NEUT9|They really sad the other day, and we developed a methodology to measure those mood states from peoples tweets from how they formulate their particular tweets.
+NEUT10|Kind of words that they use etc.
+NEUT11|And then we were very interested in validating our results by looking at whether they matched with people found in other areas.
+NEUT12|And so we started correlating it to the Dow Jones industrial average and found this really interesting correlation.
+NEUT13|Well, what you found was that Twitter's collective mood predicted a market shift three days in advance of that shift, with about over 80% accuracy, right?
+NEUT14|That's exactly what we found.
+NEUT15|Yeah, So what we did is we took the fluctuations in the mood state and then we compare them to fluctuations in the Dow Jones industrial average closing values three or four days later, and we found a statistically significant correlation between the two.
+NEUT16|That's right.
+NEUT17|So in in as simple terms as you can explain the methodology to me, I know that you guys looked at 6 different mood states.
+NEUT18|That's right, So what are algorithms do so the computers rate these tweets?
+NEUT19|We don't do that manually, and the computers read through millions of tweets looking at grammatical patterns, particular terms that they use, combinations of terms, etc.
+NEUT20|And for that entire day, they build a picture of whether the public is either particularly happy or sad, particularly anxious versus columns along the six dimensions, and then the six dimensions can then be used to predict whether the market will move up or down three or four days later.
+NEUT21|I know that you're continuing to study this.
+NEUT22|What other outstanding questions do you have at this point in time that you want to look into that you plan to look into?
+NEUT23|That would make this even more foolproof.
+NEUT24|Well, I think the the most basic issue here is understanding why we're observing this correlation.
+NEUT25|That's really the $1,000,000 question and a lot of people have asked me about this, and I also think a lot of people in the financial industry are unwilling to use something that they fundamentally don't understand, and we don't fundamentally understand how it's possible that fluctuations in the Twitter mood state could correlate with fluctuations in the market.
+NEUT26|So to understand that kind of connection and to develop models that could explain why we're making these observations would be very important to us.
+NEUT27|The London based hedge fund did license this from you over the summer, so you said you have some other partners as well who is using this now.
+NEUT28|Well, I think you know, perhaps I shouldn't comment on that on that because we've got very strict, confidentially confidentiality agreements that we'd like to abide by.
+NEUT29|But there's quite a few parties interested in this data for obvious reasons, because it could give you significant edge to you know, against the market.
+NEUT30|OK, so final question, let's say that you are on to something here.
+NEUT31|How much longer are you going to be a University professor?
+NEUT32|I think for quite awhile I really like my job here and Indiana University.
+NEUT33|No matter how much you might be able to sell this for.
+NEUT34|No, I I think that you know the guy knows me.
+BULL35|Good raise.
+BULL36|"But other than that I think we're I think I'm going to stick around."""

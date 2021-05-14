@@ -1,0 +1,25 @@
+BEAR0|"""Lockdown in his Palo Alto, CA home last March."
+BULL1|As the coronavirus spread across the US, PayPal chief executive Dan Schulman knew that the pandemic was a once in a lifetime business opportunity.
+NEUT2|The pioneering electronic payments company he took over in 2014 had been working toward a world without cash for two decades.
+BULL3|But recently its growth had begun to slow over the decade after eBay acquired the startup in 2002, Paypal's revenue grew at an average annual rate of 38%.
+BULL4|But today the company, again independent is growing at half that rate.
+NEUT5|Now as people retreated to their homes on line, Commerce and digital payments had suddenly become necessities in everyday life for grocery shopping, banking and more.
+BULL6|Almost immediately Paypal's active accounts began increasing by more than 50 million to 361 million.
+NEUT7|By the end of 2020, its stock took off, along with other digital economy shares from $86 last March to a recent 200.
+NEUT8|$47.
+BULL9|In April, some $269 billion in stimulus payments needed to be distributed and PayPal stepped in to help get cash to the 7,000,000 American households without bank accounts.
+BULL10|As PayPal work to accommodate the unbanked, Schulman felt a sense of urgency.
+NEUT11|You were seeing the acceleration of trends that would have typically taken maybe three to five years, happening in three to five months, says Schulman, 63.
+NEUT12|I thought it was important that PayPal help shape what that future could look like and not react to it.
+BEAR13|Paypal's existing technology integrated with traditional banks was clunky and slow, taking as long as 10 days to complete a transaction.
+NEUT14|First it relied on a Georgia based startup called Ingo Money to upload and verify the images of stimulus checks and then a bank in Georgia to clear and settle them five to 10 days later, the cash showed up in an account at PayPal or its millennial friendly subsidiary Venmo.
+NEUT15|If the customer is willing to pay a 1% fee, the cash is credited in minutes, but behind the scenes the bank assumes the risk.
+NEUT16|If the check doesn't clear Schulman who is already familiar with blockchain, the technology underlying Bitcoin knew there was a better way.
+NEUT17|Blockchain technology could easilly and much more quickly distribute crypto currencies like Bitcoin directly into electronic wallets.
+NEUT18|Sure, the unbanked would need an Internet connection to spend it or turn it back into plain old greenbacks.
+NEUT19|But that was also true of Paypal's current solution.
+NEUT20|Schulman knew that the federal government, the supplier of stimulus payments, could soon become his competition.
+NEUT21|Digital currencies issued directly by central banks, so called CBD seas, were on the horizon.
+NEUT22|Their development would enable governments to send payments directly to citizens.
+NEUT23|According to the Bank for International Settlements, 70% of central banks were already exploring the new technology, and some, including China.
+NEUT24|"Sweden and Uruguay would soon launch their own digital currencies."""

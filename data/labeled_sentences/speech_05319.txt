@@ -1,0 +1,17 @@
+NEUT0|"""Neo stock analysis and predictions, April 6th."
+NEUT1|In today's NEO stock analysis and predictions, hedge funds still prefer NIO stock.
+NEUT2|Alright, let's get started.
+BEAR3|Prominent hedge fund investors are still taking a bullish view of NIO.
+BULL4|The number of long hedge fund positions were increased by 5% in recent months.
+NEUT5|Anio limited NYSE Nio was in 34 hedge funds portfolios at the end of the fourth quarter of 2020, the All time high for this statistic is 40 hour.
+BULL6|Calculations also showed that NIO is still among the 30 most popular stocks among hedge funds.
+NEUT7|Why do we pay any attention at all to hedge fund sentiment?
+BULL8|Our research has shown that a select group of hedge fund Holdings outperformed the S&P 500 ETF's by 124 percentage points since March 2017.
+NEUT9|We were also able to identify in advance a select group of hedge fund Holdings that significantly holds nio's are over perform market stock.
+NEUT10|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT11|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now.
+NEUT12|So that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT13|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL14|We'd really appreciate it.
+NEUT15|Are you still watching and want more?
+NEUT16|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

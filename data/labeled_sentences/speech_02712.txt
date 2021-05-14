@@ -1,0 +1,25 @@
+BULL0|"""Pair you two together because of a modest Hawk dove debates."
+BEAR1|Even you are the most hawkish economist that I've read on the street.
+NEUT2|You since paired that back, you were thinking that we could even have a balance sheet unwind as soon as today's meeting was at the data.
+NEUT3|Or was it the Fed that make you pair it?
+NEUT4|It was the data.
+NEUT5|I mean, I, I think the reason for moving on the balance sheet in July was if you wanted to keep the rate hike option open for September, and I think that was something that in my mind was still at least worth keeping open until the last set of inflation data which.
+NEUT6|Pretty much took that off the table, but then once your forecast then for next year 'cause the market just looking at one hike right now.
+BULL7|Well, I think inflation is going to get back on track.
+BULL8|I agree with Chair Yellen, others at the Fed that a good part of the slowdown that we've seen is transitory economy is fine.
+BULL9|The labor market is as strong as ever and I think we will eventually get back to a gradual upward trend in inflation.
+BULL10|So I think we're going to get back to the gradual pace of rate increases.
+NEUT11|I mean, I think it's very going to look very similar in 2017, probably 3, maybe even four rate hikes next year in an.
+NEUT12|You disagree because you made the point.
+NEUT13|A December is not necessarily in the cards.
+BEAR14|Be a new Fed chair in 2018, is going to hold back on rate swap meet.
+NEUT15|For your scenario, go ahead.
+NEUT16|Come on guys.
+NEUT17|No, I'm kidding.
+BEAR18|Well, I do think that the market is telling the Fed that they might be risking a policy mistake at this moment.
+NEUT19|And if the feds risking a policy mistake, we would expect to see the fives 30s curve, flatten a bit and that's what we've been seeing.
+NEUT20|The data isn't necessarily going to rebound immediately.
+NEUT21|An look constructive at the end of the year, we're going into an important period in DC where we have the budget debate, the debt ceiling in a potential government shutdown.
+BEAR22|If the government shuts down, there will be some data distortions that occur.
+NEUT23|And the Fed might effectively be flying blind into the December meeting with data that's difficult to interpret and that will make it harder for them to hike and then any incoming head of the Fed is going to want to give rollover taper a bit of time to take hold and to see how that's going to impact the real economy.
+NEUT24|"And I expect you'll see a more of a wait and see attitude at the beginning of the year, even if it is yelling the risk."""

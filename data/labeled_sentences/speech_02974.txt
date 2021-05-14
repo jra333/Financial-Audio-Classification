@@ -1,0 +1,4 @@
+BULL0|"""Everybody, as you can see, fit the Facebook stock on Friday rebounded 2.58% and .08% in the after hours."
+BULL1|Definitely jump on this stock guys 'cause the rebound.
+NEUT2|Well it's happening guys for some of these stocks.
+BULL3|"It's just going to keep going up so definitely take advantage of it."""

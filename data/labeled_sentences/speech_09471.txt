@@ -1,0 +1,28 @@
+NEUT0|"""Michael Saylor had a Twitter exchange with Elon Musk this past December where he urged Musk to make really this exact move."
+NEUT1|MicroStrategy owns about 71,000 Bitcoins now, worth about $3 billion.
+NEUT2|Joining us now to discuss is MicroStrategy CEO Michael Saylor, Michael.
+NEUT3|Great to have you back on an let's just get right to that news of the day.
+NEUT4|Did you actually talk with Elon Musk offline and share your playbook from as you put it, one rocket scientist to another?
+NEUT5|You know, there are business rules regarding how public company officers are allowed to communicate to the public.
+NEUT6|So I'm constrained in what I can say, but that's you know, you know what we said on Twitter and and you know what I've been saying all along.
+BULL7|Which is, it's a great idea.
+NEUT8|All right?
+NEUT9|That's not a no.
+NEUT10|It's not a yes either.
+BULL11|So between this move or I guess because of this move with Tesla today, I'd imagine you're feeling pretty vindicated in your strategy.
+NEUT12|And really, what I think the vote of confidence of Musk buying into Bitcoin kind of implies here.
+NEUT13|I wonder, though how you would respond to critics who would say that given the volatility of Bitcoin we just touched on that?
+NEUT14|The risks associated with with it with an as an asset class that you are not only putting the company at risk, but shareholders investments at risk, how would you respond?
+NEUT15|Well, first of all, they were very measured in this.
+NEUT16|They have plenty of excess liquidity in U.S. dollars and so I don't think there's any criticism of what they've done.
+NEUT17|Companies that are converting their dollars into Bitcoin or taking a non performing asset and they're turning it into the best performing asset.
+NEUT18|Bitcoins been appreciating it something like 230% year after year after year for a decade, and so this is a this is part of the digital transformation that taking an analog monetary asset and converting it into a digital asset and ultimately over the long that's going to be good for the business.
+NEUT19|Yeah, I mean I get.
+BULL20|I get that Bitcoin has appreciated pretty dramatically, especially in the last couple of months, but it has been extremely volatile as well.
+NEUT21|So how do you?
+NEUT22|How do you?
+NEUT23|Yourself.
+NEUT24|Think about that and how do you discuss that with other companies that are potentially looking to get involved and convert their cash to Bitcoin?
+NEUT25|Well, if you take the Longview over the decade, you're going to have either a stable loss of 75% of your shareholder value if you hold the money in cash, or you're going to have a volatile appreciation that may very well be doubling every six months, and so I'd rather have a volatile appreciation at 200% a year than a stable depreciation at the rate of 15 to 20% a year.
+NEUT26|Shepard Smith here.
+NEUT27|"Thanks for watching CNBC on YouTube."""

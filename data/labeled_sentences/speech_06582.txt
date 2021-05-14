@@ -1,0 +1,12 @@
+NEUT0|"""Hello and welcome to today's technical analysis for July 15th, 2015."
+NEUT1|I'm Celina necklace technical analyst at xm.com.
+NEUT2|Today we will look at the Australian dollar versus the US dollar on the daily chart.
+BEAR3|AUDUSD remains bearish and is hovering at 6 year lows.
+BEAR4|The bias to the downside is quite strong as the tank and send line is falling and it's below the Kijun Sen line.
+NEUT5|If we look at RSI.
+BEAR6|The momentum is still in bearish territory below 50, the falling 200 day moving average and also the falling at Shamokin Cloud also highlight the underlying bearish market bias.
+BEAR7|From current levels, support is seen at the six year low of Zero point 7371 and this was touched last week.
+NEUT8|A break below this level, what accelerator fall towards zero point?
+NEUT9|7250 to the upside resistance is that Sir Point 7555.
+BEAR10|Only decisive break above the peak of Zero Point 8162 would actually weaken the bearish trend and this bearish trend has been in place since September 2014 from the high of Zero Point 9400 and prices fell down to the six year low.
+BULL11|"Thank you for watching and have a great day."""

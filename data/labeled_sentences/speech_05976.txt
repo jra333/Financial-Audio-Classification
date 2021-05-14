@@ -1,0 +1,15 @@
+NEUT0|"""Hi fools, David Meyer here from the $1,000,000 portfolio."
+NEUT1|Welcome to the next installment of Ask a Fool.
+NEUT2|Today I'll be answering the question about Apple.
+NEUT3|Our question comes from Fiona Ingram and she asked should I sell since I bought my shares at 600 plus?
+NEUT4|The first thing I would say is selling is always a very individual decision.
+NEUT5|Everyone makes that decision differently based on different reasons.
+BEAR6|I would say here I would be more inclined to be buying shares as opposed to selling them, but I understand Fiona's concern the stock has been hit recently over the last year.
+BEAR7|It's down 18% and if we look at its high of 700 it's down even further.
+NEUT8|But we don't look at things just in one year.
+BULL9|If we look long term, this is a very very innovative company that has lots of new products coming out and we will see a continued.
+BEAR10|There's a huge tailwind behind this company.
+BULL11|The market expects 1.4 billion smartphones to hit the market by 2016 and the tablet market is expected to triple over that same time period.
+NEUT12|I think we want to be around when when those things happen.
+NEUT13|That's all for this.
+NEUT14|"Version of ask a fool if you want any additional information on Apple or any other stocks, please come to full com."""

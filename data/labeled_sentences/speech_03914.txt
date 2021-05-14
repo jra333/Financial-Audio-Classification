@@ -1,0 +1,27 @@
+BEAR0|"""Investing in cryptocurrencies can be a confusing experience."
+NEUT1|Where do I begin and what options do I have?
+NEUT2|Hi, I'm Nate Martin and we're going to cover how to invest in Bitcoin and cryptocurrencies in our two minute tutorial.
+NEUT3|Today will cover three options for investing in Bitcoin or any other cryptocurrency.
+NEUT4|The first is buying actual bitcoins, man storing them inside your personal Bitcoin wallet.
+NEUT5|This method is probably the most complex, but also our most recommended way to invest in Bitcoin.
+NEUT6|Of the three.
+NEUT7|With this option, you'll need to find a Bitcoin exchange, deposit money into it, and convert that money into Bitcoin.
+NEUT8|Once that's done, you'll need to get a Bitcoin wallet so you can move your coins.
+NEUT9|Off the exchange and into that wallet for safekeeping, the second option for investing in Bitcoin is derivatives trading.
+NEUT10|With derivatives you won't be buying the actual coins, instead you're buying a contract that mimics the coins behavior.
+BEAR11|If the coin goes up in price, you can sell the contract for a profit, but if the coins price drops, you're at a loss.
+NEUT12|With derivatives, there's no need for a Bitcoin wallet, since you don't actually own bitcoins.
+NEUT13|Just open an account, deposit money, and start trading derivatives.
+NEUT14|Also allow for leverage trading.
+NEUT15|Which means you can borrow money to increase the amount you want to trade.
+NEUT16|However, this option is considerably more risky and is suitable only for experienced traders.
+NEUT17|Finally, you can invest in a Bitcoin exchange traded fund or Bitcoin ETF for short investing in an ETF also means you're buying a contract and not an actual coin.
+NEUT18|ETF's are traded on regulated stock exchanges and try to mimic bitcoins price moves, although they might not reflect bitcoins price with complete accuracy.
+NEUT19|To date, there are still only a handful of Bitcoin ETF's available.
+NEUT20|ETF investing is geared toward the average investor who doesn't want to deal with opening accounts or downloading wallets.
+NEUT21|You can invest in an ETF the same way you invest in stocks through your bank, financial advisor or conventional trading platform.
+NEUT22|So there you have it.
+NEUT23|Our top three picks for the best ways you can invest in Bitcoin today.
+NEUT24|Once you decide which option is best for you, you can find our complete step-by-step guides by clicking the links in the description below this video and I'll see you in a bit.
+NEUT25|If you've enjoyed this video, leave us a thumbs up.
+NEUT26|"Be sure to subscribe and click the notification Bell so you don't miss a review, NEWS UPDATE, or the clearest information about Bitcoin and cryptocurrencies anywhere."""

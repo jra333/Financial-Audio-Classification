@@ -1,0 +1,16 @@
+BEAR0|"""Beijing waded in to prop up stock and currency markets on Tuesday after panic selling on Monday when equity trading was halted after prices fell by 7%."
+NEUT1|It's not clear what caused the panic.
+BEAR2|There were some bad manufacturing numbers.
+NEUT3|There was also the prospect of mass selling by big investors after the end of a locking.
+BEAR4|Imposed on them after last summer's route on the Shanghai Exchange.
+BULL5|Which is due to be lifted on Friday, the government said today the locking might be extended, and it also seems to have sent in state banks to buy shares.
+BEAR6|Even with those factors in place, some Chinese analysts are calling this week's panic irrational.
+NEUT7|Maybe it is part of a new, more volatile world opening up in 2016.
+NEUT8|Since the global financial crisis, central banks in developed markets have been deliberately squashing market volatility.
+BEAR9|Now the US Federal Reserve has reversed direction, unlike the European Central Bank and the Bank of England.
+NEUT10|Maybe what's happening in China this week marks our first move into what some analysts.
+NEUT11|We're calling uncharted waters.
+BULL12|As well as buying stocks, Beijing was buying the renminbi on Tuesday to try and bring some sense of stability, but few people doubt that the Chinese currency will continue to depreciate as it did last year.
+BEAR13|This only adds to global deflationary pressures, especially on other emerging markets.
+BEAR14|We knew 2016 was going to be a challenging year for emerging economies.
+NEUT15|"We didn't know it would get off to a start like this one."""

@@ -1,0 +1,32 @@
+NEUT0|"""Hello everyone and welcome to this video tutorial on how to quickly check games that you're watching and even a game that you may have just played with."
+NEUT1|Our new chess.com/analysis tool with livestock, fish engine updates.
+NEUT2|First, we're going to go into the play and enter our live server.
+NEUT3|You'll notice in this case it automatically switches to my favorite left side nap.
+NEUT4|Let's go ahead and follow a top game in progress by clicking on the Observer icon here.
+NEUT5|And check out a game currently in progress is a game that will be ending very shortly, but fun thing for us.
+NEUT6|In this video we don't actually have to wait for this game to end this button.
+NEUT7|You see right here is the share button.
+NEUT8|Clicking it will not only allow you instant sharing possibilities on a host of social networks, but the download looking icon is not just for actually downloading the Peach in, but you can actually grab any live position.
+NEUT9|This random list of numbers is known as a fenced ring for those who don't know what a fenced ring, every legal chess position.
+NEUT10|Has a fenced ring or I can grab the entire PGN, click copy, and now I'm going to head on over to chess.com/analysis or I'm going to find it here on the Learn tab, click analysis, and suddenly if I didn't believe that those guys were playing the best moves, I can load the PGN myself.
+NEUT11|An there he goes.
+NEUT12|Stockfish is calculating he's actually considering as the evaluation changes, and it allows me if I would like to to go through their game and see what Stockfish thought throughout the whole process.
+NEUT13|Of course I'm doing this as an observer right now, and so I continue to say going through their game, but there's no reason why you can't do it with your own game.
+NEUT14|To check on how you played, learn and even save analysis as the evaluation changes when we get closer to the live position.
+BULL15|Seems like Black was really much better and then maybe it's closer to equal.
+NEUT16|Now of course we don't even know how the game ended.
+NEUT17|It's not really useful for this video.
+NEUT18|The last thing that is useful for this video is that in the analysis tool, you not only have a list of Stockfish's top three options you could hold your mouse over, any one of those moves to see sort of a preview board.
+NEUT19|Of what might happen in that line, you can see the evaluation changing.
+NEUT20|Of course, if I hold my mouse over, it allows me to close it out if I'm not interested in what Stockfish thinks or get a little more information about what I'm looking at now.
+NEUT21|One of the things I really like is not just the stockfish running and the preview of the Board or my instant ability to copy all awesome things I've shown so far, but that I can actually right click on any of these moves and I have analysis features.
+NEUT22|I can add an evaluation I can actually add a comment before after.
+BULL23|Good job, good job.
+NEUT24|Chess.com, exclam and when I'm done with all of this, I'm not going to lose any of the information I have.
+NEUT25|I can actually click download again and once again the variations come up not only with the game I pasted, but do you recognize that?
+NEUT26|Good job, chess.com there, that's right, anything you do in our analysis editor editor allows you instant saving capabilities.
+NEUT27|You can save a PGN to a regular text document, or if you have tools such as chess base or other types of.
+NEUT28|Free open source software programs like Arena or Chessex.
+NEUT29|Save all your pigeons, analyze them with the top engine, and use our analysis features that are fun and easy, as well as really functionally connected to all the games you play on.
+NEUT30|Chess.com from observing life chess games as I just did your daily chess games, your own life, chess games, anything.
+NEUT31|"Thanks for watching this video on how to use chess.com/analysis and our analysis board editor and I will see you on chess.com."""

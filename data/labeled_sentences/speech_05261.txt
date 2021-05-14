@@ -1,0 +1,1 @@
+NEUT0|"""If Nifty goes above 14880, then if nifty glow goes below 14750, then if nifty goes near 14760214780, then if the bank nifty goes about 33200, then if bankruptcy goes below 32326 then."""

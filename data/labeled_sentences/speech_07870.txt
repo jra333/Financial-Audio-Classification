@@ -1,0 +1,29 @@
+NEUT0|"""Let's get some more reaction to this GDP data with Jay Bryson."
+NEUT1|He's acting chief economist at Wells Fargo J.
+BULL2|You were looking for, I guess, a little bit better growth for the fourth quarter.
+NEUT3|Where does this number leave you?
+NEUT4|And and your sense of what the consumers up to.
+NEUT5|Yeah, so we were looking for 2.3.
+NEUT6|Came in at 2.1.
+NEUT7|I mean you know very much very very very similar sort of thing.
+NEUT8|I mean, I guess what I would say in terms of you know the consumer right now.
+BULL9|I mean in general the consumer I think is in a pretty good place.
+NEUT10|You know?
+BEAR11|Yes, consumer spending only grew 1.8% in the fourth quarter, but these numbers could be choppy on a quarter by quarter basis.
+BEAR12|And so Rick reported the initial jobless claims for last week.
+BULL13|I mean they remained very low so the labor market remains in a very good place that creates income.
+BULL14|And then if you look at the financial health of the consumer sector as well, that's improved dramatically over the last decade or so.
+NEUT15|So I don't really worry too much about this consumer at this point, unless you were to get a bunch of big shocks that hit the economy.
+NEUT16|I don't know if coronavirus is that that kind of a shock, but we'll certainly keep an eye on that.
+NEUT17|Yeah, I mean, clearly, that was at least mentioned.
+NEUT18|Of course, you know the Fed.
+BEAR19|I guess in a very subtle way did downgrade its assessment of what the consumer is up to.
+NEUT20|What does this all mean in terms of the run rate?
+NEUT21|For this year's GDP, and even the first quarter for you?
+NEUT22|Well, so yeah, for so for the first quarter, and Steve was talking about this earlier.
+NEUT23|I mean, our our estimate here is about 1.2%.
+BEAR24|We know that there's going to be a big contraction in production.
+NEUT25|At Boeing.
+BULL26|We're going to get an inventory swing here in the first quarter.
+NEUT27|Going forward, we could look for twos going forward, but I think our overall annual GDP growth rate for this year is like kind of 1.8, and so it's going to be a subpar, we think, sort of year.
+BEAR28|"At this point, maybe things pick up later on in the second half, but just the momentum coming into this year is a little bit weak."""

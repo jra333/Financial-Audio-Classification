@@ -1,0 +1,8 @@
+BULL0|"""Welcome to the world in 60 seconds from first FT hopes for more central bank largesse, along with oil prices bouncing above $30 a barrel as sparking a worldwide stock market recovery."
+BULL1|Japan LED gains overnight with the Nikkei closing 6% higher.
+BULL2|The rally has resumed in Europe, where Mario Draghi the euro zone central banks president lifted stocks yesterday with hints of a boost to its economy.
+BEAR3|Saudi Arabia is described the collapse in oil prices as irrational and expects the market to recover in 2016, despite the country maintaining high production levels.
+BEAR4|The chairman of the State oil company, Saudi Ramco, said current low prices would not last with many smaller producers facing financial difficulties.
+BEAR5|Boeing's come a step closer to ending manufacturing of its best known plane.
+NEUT6|It's to have production of the 747 jumbo jet to just six a year from September.
+BEAR7|"Boeing's sold more than 1500 since 1969, but demand for the four engine aircraft has declined with airline shifting to twin engine jets with more stories for you at ft.com/firstFT."""

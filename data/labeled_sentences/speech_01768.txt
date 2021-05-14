@@ -1,0 +1,25 @@
+BULL0|"""Hey there fellow investors."
+NEUT1|This is Hollywood stock watchweekly.com and I'm here to fill you in on the latest market happenings.
+BEAR2|The trading week got off to a rough start after housing data showed existing home sales had fallen by nearly 5%.
+BEAR3|Oil prices have also continued to decline.
+BEAR4|The energy market has been unpredictable these past few months, and we expect volatility to continue into the near future.
+BULL5|Meanwhile, Greece and the European Union have come to terms on a four month extension for Greece's loans.
+BULL6|This should calm European markets and fears of a year zone breakup are easing, at least for now.
+BULL7|Expect tensions to rise once again.
+BULL8|However, as the loan extension starts to expire as far as stocks go, Apple continues to store and shares have now surpassed the $130 mark.
+NEUT9|There are rumors circulating that Apple could be trying to build a car in the Apple Watch will be released in the near future.
+NEUT10|As such, there are a lot of things for investors to be excited about, but we want to caution that Apple could be overheated.
+NEUT11|If you're looking for a tech stock, we suggest you give live dealer close.
+NEUT12|Look live deals the hot Mobile deal app that allows people to quickly and easily find great deals on food at nearby restaurants.
+BULL13|Live Deal recently reported its quarterly numbers and turned in strong revenue growth.
+BULL14|Another great tech stock option is dataram, which is up about 40% since the start of the year.
+BULL15|We believe Dataram has the potential to become the next great turn around stock.
+BULL16|This undervalued company has made some major management changes an looks set to enjoy a strong rebound in the months ahead.
+BEAR17|Google is also looking undervalued at the moment with shares selling for only $530.
+BULL18|Google is facing stiff challenges from Apple and other competitors, but we believe that the company will overcome these challenges.
+BULL19|Google remains one of the most innovative companies in the world.
+NEUT20|Any of these three companies would make a great investment right now.
+BULL21|Tech industry has been able to other some of the recent turbulence and even as other industries have struggled, the NASDAQ has continued to gain ground.
+NEUT22|So if you're looking to make some additions to your stock portfolio, make sure you consider live deal of dataram in Google.
+NEUT23|This is Hollywood stock watchweekly.com.
+BULL24|"Good luck in trading this week."""

@@ -1,0 +1,7 @@
+BEAR0|"""Amazon is set to add thousands of jobs, including a hiring spree in New York City."
+BULL1|Amazons announced plans to hire 3500 new workers in six major cities, including two thousand workers in New York.
+NEUT2|They'll be working in the historic 5th Ave building that once housed retailer Lord and Taylor, which Amazon has purchased from.
+NEUT3|We work for reported price of more than a billion dollars.
+BULL4|Amazon, Amazon's move comes even as other large companies increasingly embraced remote work and less reliance on office space.
+NEUT5|You know, they know a deal when they get one, though.
+NEUT6|"It's good price for when you can get it."""

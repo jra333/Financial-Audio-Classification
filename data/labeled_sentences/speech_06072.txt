@@ -1,0 +1,15 @@
+BEAR0|"""Special purpose acquisition companies or stocks as they are better known, have taken Wall Street by storm this year."
+NEUT1|The lives of hedge fund billionaire Bill Ackman.
+NEUT2|Basketball superstar Shaquille O'Neal and even former Speaker of the House Paul Ryan have gotten aboard this pack train in 2020.
+NEUT3|Sparks are shell companies that raise money by listing on the Stock Exchange.
+NEUT4|They have no business plan other than to acquire company that will eventually go public.
+NEUT5|As a result, these vehicles are sometimes referred to as blank check companies because investors are taking a chance on the executives behind this back.
+NEUT6|The money received from investors who typically buy in at $10 per share with an option to buy more stock later via warrants is put in escrow.
+NEUT7|While this pack executives or sponsors as they refer to in filings said about finding a company to buy.
+NEUT8|They typically have two years to strike a deal, failing which the vehicle is liquidated.
+NEUT9|So far Sparks have raised more than $55 billion this year and acquisitions have reached a combined value of almost $100 billion.
+NEUT10|The boom has largely been fueled by a number of success stories such as Virgin Galactic and Draft Kings, which went public via SPAC's last year.
+NEUT11|As long as investors are willing to put money in, sponsors are happy to keep it launching use packs.
+NEUT12|They pay a nominal sum of $25,000 for a 20% stake in the company, something called the promote that can eventually lead to a huge windfall.
+NEUT13|If the deal is successful.
+BULL14|"If history is anything to go by Sparks and not the best return on investment analysis by the Financial Times found that 2/3 of Sparks launched between 2015 and 2019 that had found targets were underperforming their IPO price of $10, it remains to be seen how this new class PAKSAN sponsors will perform."""

@@ -1,0 +1,8 @@
+NEUT0|"""How would you like to discover the ideal solution to your biggest problem?"
+NEUT1|You're just moments away from doing that, so keep watching.
+NEUT2|Looking for a way to get started investing, or maybe you're a seasoned investor looking for new ideas at The Motley Fool.
+NEUT3|We've got something for every investor from stock picking services like stock advisor and rule Breakers, to model portfolio services like Supernova, an $1,000,000 portfolio.
+NEUT4|We seek out great companies to invest in for the long term and our services span a variety of investing strategies including high growth, dividends and options.
+NEUT5|Check us out at start.fool.com, The Motley Fool helping the world invest.
+BULL6|Better.
+NEUT7|"Thanks for watching and don't forget to click the link below in order to find out more."""

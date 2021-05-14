@@ -1,0 +1,13 @@
+BULL0|"""So really quick."
+BULL1|We're up about 7% on AMC this morning in the pre market which is really good.
+BULL2|I'm happy to see that it is making a move up.
+NEUT3|Let's see if we did have any gaps.
+BEAR4|We did pretty much have a gap this morning.
+BULL5|We did jump up to 974 and we pretty much tested that again, so it's good to see some positive movement.
+BULL6|Hopefully we continue to see that positive movement today and we can finally have a positive day rather than a negative day this week.
+BULL7|So the pre market looks really good.
+BULL8|When you look at the chart and I think it's going to be a positive day for a lot of different positions, so it's good to see AMC making a move up.
+NEUT9|Just don't expect it to be all positive today.
+NEUT10|You might not see it all get gained back.
+BULL11|You know where we were at $14.00 we're not getting back there probably today we might end up getting back to $11.00 or so, but the positive is that we're looking good.
+BULL12|"We're moving on the way up in the pre market."""

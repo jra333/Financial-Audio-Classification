@@ -1,0 +1,16 @@
+NEUT0|"""Warren Buffett's interpretation of financial reports, number 56, the value of a DCA company."
+NEUT1|The greatest accumulation of private wealth in the history of the world.
+NEUT2|Not a cent.
+NEUT3|Paid in taxes.
+NEUT4|1987 Warren started buying Coca Cola shares at an average price, $6.50 against pre tax earnings of $0.70 a share.
+NEUT5|After tax earnings $0.46 a share by 2007.
+BULL6|Coca Cola pre tax earnings had grown at 9.35% or $3.96 a share.
+NEUT7|After tax $2.57 a share in 2007, the stock market valued Warren's equity bonds at $45.00 to $64.
+NEUT8|A share with the market value in Coca Cola equity bond at $64 a share.
+BULL9|Warren has been earning a tax deferred annual compounding rate of 12.11% on his original investment.
+BULL10|He got to reinvest all the interest payment into more bonds, paying 12.11%.
+NEUT11|He doesn't sell them and keeps earning 12.11% year after year tax free.
+NEUT12|Warren has approximately $64 billion in capital gains on his Berkshire stocks and paid not to send in taxes.
+NEUT13|The greatest accumulation of private wealth in the history of the world.
+NEUT14|Another business tip from learn accounting fast next.
+NEUT15|"The right time to buy a DCA business."""

@@ -1,0 +1,24 @@
+BULL0|"""Hello guys and welcome back to another New York Stock NEWS UPDATE."
+NEUT1|And of course, Neo today has announced the completion of the offering of 68 million American depositary shares.
+NEUT2|Each representing one Class A ordinary share of the company at a price of $39.00 per year.
+NEUT3|Adso.
+NEUT4|Of course, the company has granted the underwriters in the ADSO offering a 30 day option to purchase up to an additional 10 million and 200,000 Adss.
+NEUT5|And if you'll remember on December 16 at 2020, the company received the exercise notice from the under writers pursuant to which the underwriters will exercise their option to purchase the additional 10.2 million Adss in full.
+NEUT6|Now the closing of the sale of the additional Adss is scheduled on December 17, which is today.
+NEUT7|And of course, Morgan Stanley and China International Capital Corporation, Hong Kong Securities Limited that is the underwriter.
+NEUT8|Acting as representatives for the under writers for the Adss offering.
+NEUT9|Now the Adss have been offered under the companies that show for registration statement on Form F3, which was actually filed with the Securities and Exchange Commission, the SEC and it automatically became effective on June 9th, 2020.
+NEUT10|And by the ADSO offering has been made only by means of a prospectus supplement.
+NEUT11|And an accompanying prospectus included in the form F3.
+NEUT12|And as we all know, the form F3 and the prospectus supplement are available at the SEC website.
+NEUT13|You can go and check him out if you want to look at them.
+NEUT14|Of course, Neo plans to use the net proceeds from the ADSO offering, and the cell of the additional Adss, mainly for three main things.
+NEUT15|One of them they're aiming to use it for research and development of new products, and next generations of autonomous driving technologies.
+NEUT16|Second, they're planning to use the money for sales and service network expansion.
+NEUT17|And market penetration and Lastly, for general corporate purposes.
+NEUT18|So that is what is happening near have combined have confirmed at the completion of the offering of 68 million American depositary shares.
+NEUT19|On to the next one.
+NEUT20|They have the money, they are just waiting to use it.
+NEUT21|Hopefully they use it wisely.
+NEUT22|Thank you very much for watching this video.
+NEUT23|"If you reach this far, please do consider subscribing and until the next update."""

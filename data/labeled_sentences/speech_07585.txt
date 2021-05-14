@@ -1,0 +1,8 @@
+NEUT0|"""Hi, this is LED from Effects Empire."
+BEAR1|While Disney shares are under pressure after the release of the quarterly report, which exceeded analysts expectations.
+NEUT2|Most likely this is a classic case of cell phone use as traders take profits after a major rally which started back in early November.
+NEUT3|Then you all time high at 193.85, will likely serve as the first resistance level for the stock and a move above this level will allow it to continue.
+BULL4|The upside trend, RSI remains in the moderate territory, and there is plenty of room to gain additional upside momentum in case the right catalysts emerge on the support side, the annual support level is located at 186.
+BEAR5|If the stock declines below this level.
+NEUT6|It will head towards the next support at the 20 MA at 180.
+BULL7|"Have a nice day and good luck."""

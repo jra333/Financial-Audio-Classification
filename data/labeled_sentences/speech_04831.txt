@@ -1,0 +1,38 @@
+NEUT0|"""I remember one night I'm working late with these guys and we order pizza."
+NEUT1|I give him a 20 to pay the guy, the delivery guy and he calls back to me.
+NEUT2|How much tip do you want to leave?
+NEUT3|And I told him keep the change which for a person who grew up the way that I did you ever not count the change?
+NEUT4|We weren't in a movie time didn't stop.
+NEUT5|There was no like crescendo, it was just it was just like profoundly different inside of me that I was like oh ****.
+NEUT6|Which is ultimately why I moved home because I wanted to give more people that feeling.
+NEUT7|That feeling of like not having to count the change.
+NEUT8|Changes everything.
+NEUT9|The idea behind it was was just to use the technology industry to fix a city.
+NEUT10|That was where we began.
+NEUT11|That was seven years ago and we looked around and we studied other technology hubs and we said this is how they're doing it.
+NEUT12|And so those were those.
+NEUT13|Those things became the three pillars of our business.
+NEUT14|We teach people to code, mostly folks who are coming out of a story of poverty and then we create community around the technology industry by actually building as you see here.
+NEUT15|Building things that you don't typically see in a place like Fresno, so you actually plant a flag in the ground and you rehab buildings and stuff it full of technologists.
+NEUT16|And you say this is where you come if you want to be good at this.
+NEUT17|If you want to be in the technology industry, you come here.
+NEUT18|And then the third part of our businesses is proof it is building and shipping world class software from underdog cities using under represented populations.
+NEUT19|I love Fresno.
+NEUT20|It's my home.
+NEUT21|The place Fresno is super challenging.
+BEAR22|I mean one in four of our people live below the poverty line.
+NEUT23|We're talking about a place that was built on agriculture has always been built on agriculture.
+NEUT24|So to try to introduce something like technologies like.
+NEUT25|That is radical in a place like this.
+BEAR26|When you try to plant a technology industry in a place like Fresno, you are dealing with one of America's most broken cities.
+BULL27|And so you've got a lot to build in order to make that true in order to become a technology center of global importance.
+NEUT28|You got to sort of start at the very very beginning.
+BULL29|You've got a lift from all sides.
+NEUT30|I think that's what it comes down to it.
+NEUT31|You don't live from all sides, it's going to topple right over in One Direction or the other.
+NEUT32|What is one thing for sure?
+NEUT33|Oh, dead wrong.
+NEUT34|They think that talent looks very specific way right?
+NEUT35|Like there's no pipeline problem.
+NEUT36|The reason that we're not fixing the diversity problem in the technology industry is because we expect that talent to look like what we've always hired.
+NEUT37|"And if you disabuse yourself of that notion, suddenly the whole world becomes your talent pool."""

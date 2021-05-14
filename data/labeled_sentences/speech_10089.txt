@@ -1,0 +1,14 @@
+NEUT0|"""Well, let's take a look at the Apple stock."
+BULL1|We can see Apple has opened a high on the closed high.
+NEUT2|If we change chart in the daily chart, we can see.
+NEUT3|Finally we got a confirmation of the.
+NEUT4|Stop on the ceiling because yesterday we got a red candle with along lower tell.
+BULL5|It means alot of supporting underneath and today we got a confirmation that the price finally going up.
+BEAR6|But we're still stuck between the two year makes life.
+BEAR7|So if tomorrow we can go above the EML line then it shows the selling has completely off.
+BULL8|So tomorrow is virtual but today we got already a positive signal regarding the volume the volume is not too low but it's a normal volume so.
+NEUT9|Today's price should be considered construction constructive side.
+BULL10|It's very positive because after.
+NEUT11|The long long tail.
+NEUT12|It means the buying power already.
+NEUT13|"Going to the market, thank you."""

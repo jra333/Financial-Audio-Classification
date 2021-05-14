@@ -1,0 +1,23 @@
+NEUT0|"""I'm George Russell, senior economist with realtor.com."
+BULL1|We're in April, ready for blossoms, sunny days, and the renewal of spring, with the economy showing signs of growth.
+BULL2|Manufacturing companies saw faster gains in March with the Institute for Supply Management Index reaching a 38 year high.
+NEUT3|17 of the 18 industries track bias.
+BULL4|M advanced even as companies reported challenges with supply chains, new car sales data highlighted a resurgent economy with stronger consumer spending.
+BULL5|Sales reached the highest level since the pandemic, as more people sprang for new cars, trucks and SUV VS employment data offered another bright spot this week, showing a big wave of new hires in March across all sectors of the economy with noticeable gains in leisure, hospitality, education and construction.
+BEAR6|Unemployment rate declined during the month.
+BULL7|The good news is that the economy is on a clear path to recovery.
+BULL8|However, as this week's jump in jobless insurance claims shows, we still have a few challenges ahead.
+NEUT9|The number of Americans relying on benefits.
+BULL10|Remains elevated even with challenges were collectively seeing brighter signs ahead.
+BULL11|The Consumer Confidence Index also reached its highest point since the pandemic start last March, as the outlook for labor market conditions improved, similar to the variable weather.
+BEAR12|This week's real estate data offered a mixed picture.
+BEAR13|The Census Bureau reported that construction spending saw slight monthly decline during February, but posted higher values from a year ago.
+BEAR14|Meanwhile, contract signings for existing homes dropped in February for the fourth consecutive month.
+BEAR15|As activity declined in all regions of the country looking at more recent numbers, the realtor.com March housing data indicate a very competitive early spring season, with inventory evaporating an unseasonably hot pace.
+BULL16|Buying a home has become a win at all costs.
+BULL17|Process with multiple bids and price escalation clauses driving listing prices to an all time high with a growing share of young buyers.
+BEAR18|The markets are in clear need of a lot more homes for sale on the financing front mortgage rates jumped to the highest point since June of last year, adding another obstacle for today's.
+BEAR19|Embarrassed, overcome for a median priced home.
+BULL20|Buyers will spend an additional $93.00 per month, which adds up to more than $1100 per year.
+BEAR21|With rising rates, mortgage applications declined as both purchases and refinances took a step back stay well this week.
+NEUT22|"Enjoy the warm weather and look for next week's economic update."""

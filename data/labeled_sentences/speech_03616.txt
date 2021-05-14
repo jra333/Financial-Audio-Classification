@@ -1,0 +1,8 @@
+BULL0|"""Welcome to 1st FT here."
+NEUT1|Today's top stories.
+BEAR2|Greece is to hold it six general election in eight years, bringing further political uncertainty in the country.
+BEAR3|Alexis Tsipras, the Prime Minister, said he was resigning in a test of the new €86 billion bailout deal, which will require fresh austerity measures, an reform.
+BEAR4|the US stock market slid by the most since February 2014, on Thursday, wiping out all of this years gains the drop to a six month low follows emerging market turmoil triggered by the commodity slide and China's devaluation of its currency earlier this month.
+NEUT5|And it has been revealed that the author Cedric Belfrage, one of wartime Britain's most prominent personalities, was a Soviet secret agent.
+NEUT6|Newly released official documents identify a 6th man alongside the notorious Cambridge 5 spy Ring that infiltrated British intelligence for the Soviet Union.
+NEUT7|"For more of today's top stories, go to ft.com/firstFT."""

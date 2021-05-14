@@ -1,0 +1,38 @@
+NEUT0|"""Hey guys, welcome back to stock tricks with Nick today will be going over what the January effect is."
+NEUT1|And no, it doesn't have anything to do with the weather worsening.
+BULL2|In fact, this January effect is a good thing.
+BULL3|This refers to the historical stock price increases in January, especially for small cap stocks, according to Investopedia.
+BULL4|Since 1928, sixty 2% of Januaries have seen price increases in the S&P 500.
+NEUT5|So what causes this effect?
+NEUT6|There seems to be 3 main forces behind this phenomenon.
+NEUT7|The first is tax loss harvesting.
+NEUT8|The second is holiday bonuses along with financial, New Year's resolutions and 3rd window dressing.
+NEUT9|So let's break each of these data.
+NEUT10|Tax loss harvesting is when investors who have taxable investment accounts trade in a way that will limit the taxes that they owe.
+NEUT11|For stocks that have been profitable, they'll hold on till at least January before selling and by doing so, they avoid having to pay for taxes on those stocks until the following year.
+NEUT12|For stocks that have been performing poorly, they'll sell those in December so they can realize those capital losses, and then they'll owe less tax.
+NEUT13|Quick note here, if you've lost money investing, you can write off up to $3000.00 of losses against your income, so you owe less tax.
+NEUT14|So how does this affect the stock price?
+BULL15|Generally, those strong performing stocks will stay consistent or maybe even increase in value in December.
+BEAR16|Then as investors sell to lock in their gains, you might see a small dip come January for those stocks that didn't do so hot.
+BEAR17|You'll see their price continue to decrease in December as people sell them off to realize the capital loss.
+NEUT18|Then come January, investors can read by those same shares and the price will be driven higher.
+NEUT19|The next cause is pretty self explanatory.
+BULL20|A large number of companies will give end of year bonuses or salary increases which will boost the buying power of investors come January.
+BULL21|Adding some New Year's resolutions of being more financially sound and you'll have more people buying into the market.
+NEUT22|The last contributor is referred to as window shopping.
+NEUT23|Large investment institutions have to produce interview reports to show what stocks they hold to impress their clients.
+NEUT24|Companies will sell off their worst performing stocks, use that money, and invest in stocks that have done better.
+BULL25|This way, their portfolio looks better than it actually is.
+BULL26|So logically this will drive up the strong performers and push down the weaker ones in December.
+NEUT27|But come January, companies can revert to holding the stocks that they see the most value in.
+BULL28|And you'll see the impact from December trading reversed.
+BEAR29|The January effect is even more impactful for small cap stocks.
+BEAR30|This is due to illiquidity.
+NEUT31|Illiquidity is when stocks are traded less frequently.
+NEUT32|For example, take Apple where hundreds of stocks are traded each minute.
+NEUT33|In this case if we take $1,000,000 and invested in Apple, it might not move the price that much, but the same $1,000,000 were invested in illiquid stock would have a much larger impact on the price before you dump all of your money in small cap stocks that did poorly in 2019.
+NEUT34|Please note that this trend is not guaranteed and in fact it's become less impactful.
+NEUT35|As more people know about it and more people are using tax advantage retirement accounts, so as always, do your research before you invest.
+NEUT36|Thanks for taking the time to learn about this seasonal effect in the stock market.
+NEUT37|"If you enjoyed this video, please like and subscribe to my channel will be going over other personal finance topics and tracking my trades see next week."""

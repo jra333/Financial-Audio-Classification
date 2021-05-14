@@ -1,0 +1,30 @@
+NEUT0|"""Hey guys, it's Vivian."
+NEUT1|Your hot stock girl today I'm going to discuss Netflix.
+NEUT2|The ticker symbol is NFLX.
+NEUT3|Netflix is a service that offers TV shows and movies over the Internet.
+NEUT4|Netflix was founded in 1987 and went public in 2002.
+BULL5|Since the IPO, the stock is up over 30,000%.
+NEUT6|If you invested just $1000 back a dozen two you would have over $300,000 today.
+NEUT7|That's the kind of stock we all dream of owning.
+BEAR8|The stock hit a high of $423.00 back in July and backed off after reporting slower newer user growth and revenues than analysts had expected.
+NEUT9|So is it time to buy?
+NEUT10|Netflix has revenues of $14 billion and an enterprise value of $164 billion.
+NEUT11|Investors are paying over 11 times sales to own.
+NEUT12|The stock investors are not buying Netflix based on traditional fundamentals since it is trading at 113 times Deborah.
+BEAR13|That is an insane valuation an implies investors expect Netflix to have huge growth well into the future.
+NEUT14|I'm not crazy about their balance sheet either.
+NEUT15|Cash is $3.9 billion and debt is over $8.3 billion.
+BEAR16|To keep up its growth rate, Netflix will probably have to go further in debt.
+BULL17|Netflix has done really well, bringing new original TV shows like Orange is New Black and Stranger Things to the market.
+BULL18|But continuing to crunch out hit.
+NEUT19|Series will be very difficult.
+BEAR20|More importantly, the competition is heating up.
+BULL21|Amazon Prime Video is showing really strong growth and Disney is getting into streaming with its purchase of 21st Century Fox and Hulu Plus.
+NEUT22|Personally, I think Netflix is good for binge watching your favorite show but paying monthly fee after that doesn't make sense to me.
+NEUT23|I think younger people are turning to YouTube for its original content, which is one of the reasons I have a strong buy on Google, Amazon, Disney and Google have.
+NEUT24|A lot more money than Netflix to acquire and produce content for the streaming video services.
+NEUT25|Cable companies also have their on demand platforms that compete with Netflix.
+BEAR26|Netflix should continue to grow internationally, so I wouldn't short the stock, but as a long term investment, I think its current valuation is way too high.
+NEUT27|So there you have it.
+NEUT28|My thoughts on Netflix.
+NEUT29|"I'm giving you hot stock Rowan, please be sure to subscribe below and check out my other videos from our great investment ideas by."""

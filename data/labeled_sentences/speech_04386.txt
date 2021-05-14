@@ -1,0 +1,54 @@
+NEUT0|"""Bezos sold some Amazon shares just around 3 billion."
+NEUT1|That's three Billy's just the way you like to.
+NEUT2|The phrase you like to use for billions, 3 Billy's.
+NEUT3|Did you know since your name is well, you can also choose to be called Bill if you want it.
+NEUT4|Yeah, you know that, yeah.
+NEUT5|And since you like, since you like to talk about the Billy so much, you may you may have a certain at a later date.
+NEUT6|You may do that of a T shirt anyways.
+NEUT7|Yeah, he sold 3.1 billion.
+NEUT8|When you're a guy like him, you want to sell a few billion.
+NEUT9|It's a big deal.
+NEUT10|You need all kinds of approvals and insider trading, and you have to avoid.
+NEUT11|Yet there's a lot of regulations.
+NEUT12|Can't just move that kind of money around.
+BULL13|The sales this week bring his total cash out in 2020 to slightly more than 7.2 billion.
+NEUT14|He is converted.
+NEUT15|He loves Amazon.
+BULL16|Amazon is doing great right.
+NEUT17|He's the richest guy in the world, Amazon booming to the moon.
+NEUT18|And he keeps pulling money out and converting stock.
+NEUT19|OK, why does he think does he think it's overvalued at the people?
+NEUT20|Look into this.
+NEUT21|They read into this.
+NEUT22|I don't think it's that I think he wants some cash.
+NEUT23|OK to buy neighboring houses?
+BULL24|Definitely that.
+NEUT25|But believe it or not.
+NEUT26|7.2 billion is more than houses.
+NEUT27|So he has all these properties.
+NEUT28|He used some some some of his cash out to buy publication.
+NEUT29|Washington Post if you know if you recall that transaction and most importantly he has ventured into, well, he's got a couple of new ventures.
+NEUT30|Including his space program, what is that?
+NEUT31|What do you call that moon?
+NEUT32|Something or other?
+NEUT33|Blue, blue origin.
+NEUT34|You need to type it.
+NEUT35|Well, you see that I googled my mind.
+NEUT36|You like that at Google my mind.
+NEUT37|Yes, space origin.
+NEUT38|That stuff is expensive.
+NEUT39|What if he wants to?
+NEUT40|He's got so much money on his personal name he could start any company he wants.
+NEUT41|He could go if he gets mad enough at Elon, he could just go make some cars real quick.
+NEUT42|I mean he did invest in Rivian, right?
+NEUT43|Amazon invested in rivian.
+NEUT44|I don't know if he's personally an investor in Rivian, but you see how this goes.
+NEUT45|You can if when you can pull out billions in real cash.
+NEUT46|You can approach some pretty cool.
+NEUT47|Projects, so whether it's space or cars or some other types of vehicles or publications he wants to acquire.
+NEUT48|Media, there's so many ways in which he could extend his empire, but he can't.
+BEAR49|It's hard.
+NEUT50|Within Amazon there are certain restrictions as to how he may do that as a person, as a human, as Jeff Bezos with these billions sitting in the pocket, he can kind of do whatever he wants to a certain extent, and so that's probably the reason more than a lack of belief in what Amazon is working on.
+BULL51|Or Amazon's continued progression progression towards world, dominance and justice.
+NEUT52|To be clear, he pulls 7.2 billion.
+NEUT53|"His current shares are worth 170 billion, so let's just chill out for a minute, yeah?"""

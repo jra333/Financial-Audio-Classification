@@ -1,0 +1,27 @@
+NEUT0|"""It's time for a quick look at the markets now and help us."
+NEUT1|Christie brick of the Wall Street Journal.
+BULL2|Thank you for being here, Sir.
+NEUT3|So what are stocks doing on the back of this shutdown?
+NEUT4|Well, not a lot.
+NEUT5|Not a lot of panic on Wall Street this morning.
+BEAR6|A lot of muttering about a lack of leadership in Washington, but certainly not a lot of panic.
+BULL7|Actually, Dow Jones Industrial Average Futures are modestly higher.
+BULL8|They're following indices across the globe, the Nikkei when, which was operational when the shutdown when plays pare gains a little bit finished higher Europe's higher as well.
+BEAR9|The dollar is getting a sort of the most severe reaction, falling against most major currencies, but not.
+NEUT10|Kind of a kind of a non reaction actually.
+NEUT11|So far from well so far and we will stay tuned though and will have more on what is actually happening at 10:30 an hour into the day on the market type OK, three stocks you're watching today.
+BEAR12|Let's start with Mark Merck Global pharmaceutical company just announced another wave of layoffs are going to lay off 8500 people combined with previously announced layoffs.
+BULL13|That's going to be 20% of their global workforce that stocks higher looking at big gains today for Merck and other global pharmaceutical companies that are still sort of grappling with cost cutting.
+NEUT14|How to deal with the loss of excluded.
+NEUT15|But for some of their drugs, so that's when it goes generic.
+NEUT16|Basically I patented goes generic, you got less price for it, OK Walgreens and interesting symmetry here.
+BULL17|Walgreen is still grappling for direction a little bit, but that grocery store chain actually reported a lot higher earnings from a year earlier.
+BEAR18|Part of that is increased margins due to the selling of generic drugs, so that stock is a is sort of grappling for directions started hires a little bit lower, but profit after their quarterly earnings report and it.
+BEAR19|Diamond food has been a bit of a windstorm, shall we say diamond food is looking like it's going to have more trouble with its with its stock today.
+BEAR20|After reporting a loss in part because people are buying fewer nuts.
+NEUT21|But then, in part because of some of the accounting issues related to a Walnut related accounting scandal that you alluded to.
+BEAR22|So Diamond foods down down sharply again this morning.
+BULL23|OK, great stuff.
+NEUT24|Always a pleasure.
+BULL25|Thanks, Chris.
+NEUT26|"Dieterich off the Wall Street Journal."""

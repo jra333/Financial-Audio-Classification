@@ -1,0 +1,23 @@
+NEUT0|"""The chip shortage you you mention it so far."
+BEAR1|We did not have any factory stoppages.
+NEUT2|We cannot exclude of course that this might not happen in the in the next couple of weeks or months.
+BULL3|We cannot exclude that, but we have a very detailed, very balanced supplier management and until now knock on wood.
+NEUT4|We could.
+NEUT5|We didn't have any effects.
+BULL6|So you know, with this advantage, I wonder why the shares have underperformed almost all of your peers.
+NEUT7|I keep coming back to this because I was playing with the with the graph in my Bloomberg.
+NEUT8|Even if I look at the period since March 23rd, or if I look at the period since you stepped in August of 2019.
+NEUT9|If I look at a five year.
+BEAR10|BMW shares continue to underperform Volkswagen.
+BEAR11|Daimler General Motors still lantis.
+NEUT12|What can you do as the CEO to help boost that valuation?
+NEUT13|Well, first of all, look at today.
+BULL14|You know we would share increase in the European markets today by more than four percent, 4%.
+NEUT15|I think that is the first step towards more.
+BULL16|A more balanced valuation.
+NEUT17|And of course it always depends if you compare share browser when you start.
+NEUT18|What's the starting point in that comparison?
+BULL19|I think in the last year we increased our share price by more than 100% Meanwhile and I think we are on a very good way and the second thing.
+NEUT20|I think it was not so clear what the strategy is.
+NEUT21|After the I3 we started with the I3, the electrification of the I3 in 2013, and then we took some time until the markets were large enough to supply them with the right product.
+NEUT22|"The time is here and now, and we will have by 2023 twelve elect fully electric vehicles, and behind me you see the IX and the four will come also this year, so I think it becomes clearer now to our investors what what is our long term strategy?"""

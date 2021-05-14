@@ -1,0 +1,37 @@
+NEUT0|"""Bridgewater, the hedge fund and its founder, Ray Dalio."
+NEUT1|You may recall that earlier today he made a lot of headlines with the Wall Street Journal.
+BEAR2|Did publishing a story with the headline Bridgewater bets big on a market drop.
+NEUT3|Well now Scott Gang, Ray Dalio has used his LinkedIn post to respond to that Journal story and he says quote the Wall Street Journal wrote an article that said Bridgewater bets big on market drop.
+BEAR4|It's wrong.
+NEUT5|I want to make clear that we don't have any such net bet that the stock market will fall.
+NEUT6|We explain to Juliet Chung, the author of the article that to convey us having a bearish view of the stock market would be misleading, but it was done anyway.
+NEUT7|I believe that we are now living in a world in which sensationalistic headlines are what many writers want.
+NEUT8|Above all else, even if the facts don't square with the headlines, you can believe me.
+NEUT9|Or you can believe the Wall Street Journal writer.
+BULL10|I hope that you have come to know that you can believe me.
+BULL11|So a very powerful statement from Ray Dalio responding to that Journal story about the big bet that Bridgewater had reportedly placed.
+NEUT12|On the overall market, Scott, I'll send things back over to you.
+NEUT13|We should give a dollar amount of what the big bet Dom was reported to be, and that was a billion dollars.
+NEUT14|That's right, $1 billion in options and stocks, structured trades and everything else that would bet ultimately on decline, either in the S&P 500 or the euro stocks if you will.
+NEUT15|There's yeah, said to be by March, but this is part of the Facebook.
+NEUT16|This is part of the problem with Facebook is done with journalism.
+NEUT17|Frankly, they're incentivized clicks.
+NEUT18|It almost doesn't matter what the content is, as long as enough people hit it.
+NEUT19|Those are the metrics the advertisers want to say, so I'm with Ali on this, but it's a one and a half 1% position for him, which is meaningless.
+NEUT20|Hedge, it's exactly right Scott.
+NEUT21|We pulled up to clarify it and they still didn't.
+NEUT22|They want they want the headline.
+NEUT23|They don't even want the truth.
+NEUT24|We pulled up the data.
+NEUT25|Let's not go that as far as that.
+NEUT26|I mean, we're talking about the Wall Street Journal, Josh.
+NEUT27|I'm just saying in this specific case, not in every single case.
+BEAR28|It's a problem.
+BEAR29|It's a problem.
+NEUT30|June and July.
+NEUT31|S&P 500 puts averaged almost 16 million contracts today.
+BULL32|It jumped 40% in August.
+NEUT33|Obviously that's what the Reporter and many other people including us were looking at.
+NEUT34|When you see a big open interest pop and a big lot of contracts, it's not Ray Dalio, just like it's not.
+NEUT35|Carl Icahn.
+NEUT36|"It's the footsteps of those guys, and they're being played out by Goldman or Morgan or whoever did the hedge."""

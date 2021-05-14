@@ -1,0 +1,23 @@
+BEAR0|"""Chinese bank ICBC knocked U.S. oil giant Exxon Mobil from its perch as the world's biggest public company Wednesday, ranking number one for the first time on the Forbes Global 2000 list."
+NEUT1|The state owned bank was joined by another state owned Chinese bank in the Forbes News.
+BULL2|China Construction Bank leaped 11 spots from last year to the number two spot on the Forbes list of the world's largest public companies.
+NEUT3|Forbes said that I CBC, the industrial and Commercial Bank of China and CCB.
+BULL4|China Construction Bank where bumped higher in the ranks by double digit growth in both sales and profits.
+NEUT5|In 2012.
+BEAR6|Although annual profit growth for both banks was the slowest rate since they went public, I CBC brought in $37.8 billion in profits on 2.8 trillion in assets last year, while CCB earned 30.6 billion on 2.2 trillion in assets.
+NEUT7|The ranking of the Forbes Top 2000 are determined by an equal weighting of sales.
+NEUT8|Profits assets at market value.
+NEUT9|The Wall Street bank.
+BEAR10|JP Morgan Chase, the world's biggest company in 2011, slipped from #2 in 2012.
+BEAR11|The number 3 in 2013 as sales dipped US conglomerate General Electric move down a notch to the 4th spot.
+BEAR12|Exxon Mobil, the US oil and gas giant tumbled from its one year reign at the top spot last year to the number five spot.
+BEAR13|Despite being the world's most profitable company for the second year in a row with $44.9 billion in net income.
+BULL14|Apple, which has vied over the past year with Exxon for the title of the world's Most valuable Company by market capitalization, was tide at #15 with Walmart stores by country.
+NEUT15|the United States added 19.
+BULL16|Members continue to dominate the list with 543 members, its highest total since 2009.
+BEAR17|Japan lost seven members, but at 251 remained the second biggest country on the list for the first time since the list began in 2004.
+NEUT18|China did not increase the number of its companies on the list.
+NEUT19|China still had the third largest presence with 136 members.
+BULL20|Forbes highlighted three Asian countries that showed standout overall growth on the list.
+NEUT21|Singapore, Thailand, and Malaysia.
+NEUT22|"The global 2000 companies employ 87 million people had $38 trillion in revenues and assets of $159 trillion."""

@@ -1,0 +1,20 @@
+NEUT0|"""Examine Julia, we want to get to some breaking news."
+BEAR1|Bloomberg is out with a report saying that Robin Hood is filed confidentially to go public.
+BEAR2|Terribly great.
+NEUT3|What can you tell us?
+NEUT4|That's right, well, we don't have a lot of details yet, but Bloomberg is saying that they have in fact filed a confidential S1 registration statement.
+NEUT5|Or excuse me, a draft registration statement and the way this works still file that confidentially.
+NEUT6|Nobody will get to see it until the SEC actually improves their S one statement down the line.
+NEUT7|Now, supposedly in a few ways, this usually works in a few weeks we will get their first actual S1 filing may be amended several times, and then in a few months they can decide to go public.
+NEUT8|I think this is really interesting.
+NEUT9|This news just broke.
+NEUT10|While we were waiting for the GameStop earnings that were supposed to be within minutes of each other, that would have been pretty interesting as well.
+NEUT11|But you think about Robin Hood and all the controversy they're facing right now.
+BULL12|This is a pretty bold move there, facing investor lawsuits, a bunch of probes by the SEC.
+NEUT13|I believe the CFTC exceed probably not the CFTC, but some other watchdogs as well.
+NEUT14|So for them to be able to have the confidence to go in there and say OK, we're ready to put our legal disclosures in the document, ready to sell their shares to investors.
+NEUT15|They must, they must know something that I don't.
+NEUT16|I was surprised a few weeks ago when we were first hearing some rumblings of this guys.
+NEUT17|Alright drive liquor.
+BULL18|Thanks so much.
+NEUT19|"We want to take a quick break and of course, like Jerrod mentioned, we're still waiting for GameStop earnings."""

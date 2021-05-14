@@ -1,0 +1,22 @@
+NEUT0|"""Neo stock analysis and predictions, December 27th."
+NEUT1|In today's NEO stock analysis and predictions, what to expect Monday?
+NEUT2|Anios talk.
+NEUT3|Alright, let's get started.
+BULL4|An IO has gone through a wild ride as of lately, Anio began to rally on prospects of Nio, Dayan Nio's, new E7 sedan, Anio reached a high of $49.52 before experiencing a pullback.
+NEUT5|June use of an Alibaba investigation, specifically China's antitrust body.
+NEUT6|The State Administration of market regulation.
+BEAR7|It said it had opened an investigation into Alibaba for monopolistic behavior.
+BEAR8|They suspect Alibaba may have prevented its vendors from selling on other platforms.
+BEAR9|Analysts suspect that Nio may experience a slight pullback in early morning trading due to Alibaba's ongoing investigation analyst expect on Monday an iota have a median price target of $46.16 min.
+NEUT10|Price target of $42.72 and Max price target of $49.53.
+BULL11|Analysts also believe NIO will continue to rally on the possible news of a future collaboration between Apple and Nio.
+NEUT12|What investors should expect an IO investors should hold on to their positions.
+NEUT13|In nio.
+BEAR14|Anio has strong support at $46.08 and $46.82, but some resistance at the $52 level an IO is expected to go above the support level this week after a slight early morning trade pullback due to the Alibaba.
+NEUT15|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT16|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now.
+NEUT17|So that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT18|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL19|We'd really appreciate it.
+NEUT20|Are you still watching and want more?
+NEUT21|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

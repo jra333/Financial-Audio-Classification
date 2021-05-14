@@ -1,0 +1,16 @@
+BULL0|"""Thanks for joining us here at stock trade genius."
+BULL1|I'm trader Mark and I'm really excited to have you aboard.
+NEUT2|We've got a whole ton of stuff that we're going to offer you.
+NEUT3|I'm going to be taking you through a lot of the training and a lot of the market updates that you're going to be getting either on a daily basis or on a weekly basis.
+NEUT4|And you're going to find a lot of value in that.
+NEUT5|I've been trading stocks since I was 12 years old, and as you can probably see, that's been a few years, right?
+NEUT6|I've traded over $13 billion worth of securities.
+NEUT7|I trade stocks and options now, run my own hedge fund, and I'm going to be giving you some of the same tips and techniques, trading styles, and education.
+NEUT8|That I used to run my own hedge fund as well.
+NEUT9|The main thing is that 3/4 of all the performance of a stock comes from the direction of the market, so we think it's really important for subscribers like you to be getting market updates on a daily basis, and that's going to tell you what our analysis that's proven to be pretty accurate is going to tell you about the market, whether it's going up, whether it's going sideways, or whether it's going down.
+NEUT10|If it's going up, you want to be on that trend.
+NEUT11|If it's going down, you want to be on that trend or out in cash.
+NEUT12|If it's going sideways, it's a range bound market, so you can be.
+NEUT13|Day trading and trading short term in that markets were in office, some training and we can offer some live trading videos live in quotes because they're obviously recorded, but you get to see how we do the day trading and how that works out.
+BULL14|So anyway, thanks for joining us.
+BULL15|"We're glad you're here and welcome to stock trade genius."""

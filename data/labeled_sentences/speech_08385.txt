@@ -1,0 +1,14 @@
+NEUT0|"""Boston the Investor who helped direct the world's attention to GameStop, leading a horde of online followers in a bizarre market rally that made and lost fortunes from one day to the next, says he's just a normal guy."
+NEUT1|I didn't expect this, said Keith Gill, 34 years old, known as Deep F ING value by fans on Reddit's Wallstreetbets Forum and Da Da by his two year old daughter.
+NEUT2|He said he didn't set out to draw the attention of Congress.
+NEUT3|The Federal Reserve hedge funds.
+NEUT4|The media trading platforms and hundreds of thousands of investors.
+NEUT5|This story is so much bigger than me.
+NEUT6|Mr Gill told The Wall Street Journal in his first interview.
+BULL7|Since the unboxing this week of a volatile new stock market game, I support these retail investors.
+NEUT8|Their ability to make a statement to many of them.
+BULL9|Mr. Gill, who until recently worked in marketing for Massachusetts Mutual Life Insurance Co, is the force behind the triple digit gains in shares of the video game retailer GameStop.
+BEAR10|Up more than 900% this year through Thursday on Wednesday, the stock jumped 135% to $347.51 a record before plunging to $194.00 a share.
+BEAR11|Thursday's online brokerages clamped down.
+NEUT12|At the start of the year, GameStop shares went for around $18.00.
+BULL13|"Many online investors say his advocacy helped turn them into a force powerful enough to cause big losses for established hedge funds and for the moment turn the investing world upside down."""

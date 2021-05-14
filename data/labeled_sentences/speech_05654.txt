@@ -1,0 +1,5 @@
+NEUT0|Team match let's go.
+NEUT1|I need a weapon.
+NEUT2|I need a weapon.
+NEUT3|For the red team.
+NEUT4|Reloading.

@@ -1,0 +1,22 @@
+NEUT0|"""Support the channel by checking my Amazon affiliate link in the description."
+NEUT1|Thanks get your free stocks links in the descriptions.
+BULL2|Berkshire Hathaway Bulls say book value per share, which is a good proxy for measuring changes in Berkshires intrinsic value increased at an estimated 18.8% CHG are during 1965 2019, compared with a 10.1% return for the S&P 500 index.
+BULL3|Berkshire stock performance as solid as well increasing at an 8.5%, thirteen point, 1% C AGR during 2015, 2019, 2010 2019 compared with 11.7%.
+NEUT4|13.6% average annual return for the S&P 500 index at the end of December 2019, Berkshire had $129.4 billion in insurance float.
+BEAR5|The cost of the firm's float has been negative for much of the past decade.
+BULL6|Bear say given the size of its operations, Berkshires biggest long term hurdle will be its ability to consistently find deals that not only add value but are large enough to be meaningful.
+BEAR7|Another big issue facing the firm is the longevity of Chairman and CEO Warren Buffett, who turns 90 at the end of August 2020 and managing partner Charlie Munger, who turned 96 in January 2020.
+NEUT8|Berkshire's insurance business faces competitive and highly cyclical markets that occasionally produce large losses and several of its non insurance operations are economically sensitive and focused on U.S. markets.
+NEUT9|Facebook.
+NEUT10|Bull say with more users and usage time than any other social network, Facebook provides the largest audience and the most valuable data for social network online advertising.
+BULL11|Facebook's ad revenue per user is growing, demonstrating the value that advertisers see and working with the firm.
+BULL12|The application of AI technology to Facebook's various offerings along with the launch of the our products will increase user engagement, driving further growth in advertising revenue.
+BEAR13|There say Facebook is currently A1 trick Pony and will be affected severely if online advertising no longer grows or if more advertising dollars shift to others like Google or Snapchat.
+NEUT14|Despite rapid user growth, many of Facebook's customers may also belong to other social networks such as Snapchat or Tik T.O.K.
+NEUT15|So the firm will continually have to fight to capture a users time and engagement with Facebook's properties.
+NEUT16|Regulations could emerge that limit the application and collection of user and usage data or restrict acquisitions.
+NEUT17|Impacting data utilization and growth.
+NEUT18|Analyst ratings by 88% hold 8% sell, 4% market cap 534.55 billion average volume 25.5 million.
+NEUT19|As always, be sure to let me know your thoughts down in the comments.
+NEUT20|Be sure to smash that like button.
+BULL21|"Thank you so much for tuning in and I will catch you in the next video."""

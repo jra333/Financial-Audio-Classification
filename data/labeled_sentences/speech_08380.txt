@@ -1,0 +1,42 @@
+NEUT0|"""Freeze up, there's this giant search for metaphors, and I don't think anybody's found the right one, but the one I like to think of is the economy was like a patient on the operating table and the surgeons Bernanke and Paulson, Tim Geithner, who then at the New York Fed, are worrying about the various organs of the body, the kidney of Bear Stearns, the liver of Lehman Brothers."
+BULL1|Don't worry, I won't take this too far, I promise.
+BEAR2|And then all of a sudden they realized that the circulatory system is clogged and these collapsing banks are basically preventing credit from flowing in the economy.
+NEUT3|And when that happens, you can't save this one organ at a time.
+NEUT4|The entire system is at risk, and that's when I think you did.
+NEUT5|We discover just how much power the Federal Reserve has.
+NEUT6|The president of the United States where we attacked by missiles from North Korea or Iran or wherever, but push a button and fire back.
+NEUT7|The president of the United States does not in our system.
+BULL8|Have the ammunition he needs to fight a financial crisis.
+NEUT9|He can only spend the money that's been allocated by Congress and Congress is not good at rapid response.
+NEUT10|In case you haven't noticed.
+NEUT11|The only institution in our system that can come up with 10s or hundreds of $1,000,000 in an emergency is the Federal Reserve, and that's essentially what they did.
+NEUT12|And so when AIG comes along, they decide that if AIG went under, then Morgan Stanley and Goldman Sachs, or nests, and we really are coming something close to the Great Depression.
+NEUT13|And so the Fed swallows hard lends money to this insurance company, which had been running this casino on the side that nobody knew about and is stuck with this terrible thing about.
+NEUT14|Let me get this straight.
+NEUT15|You couldn't lend to Lehman 'cause you didn't have the legal power, but you could lend to AIG.
+NEUT16|And you basically, they're in a position where they had.
+BEAR17|They are stretching the law beyond recognition in order to make the system survive, and they're kind of stuck with this awkward argument.
+NEUT18|But the one institution we couldn't stretch it for his Lehman Brothers.
+NEUT19|So when we surveyed economists on Wall Street at the Wall Street Journal, about three dozen or four dozen economists, and we asked him, do you believe the Bernanke Geithner Paulson story that they didn't have the legal authority to save Lehman?
+NEUT20|Three to one.
+NEUT21|They said no.
+NEUT22|Basically a lot of people think if you had the will to save Lehman, there was the way.
+NEUT23|Now Bernanke insists that's not not the case.
+NEUT24|He has his story and he's sticking to it.
+NEUT25|We didn't have the power to do it, but that moment is when Bernanke decides he has to do whatever it takes.
+NEUT26|Whatever it takes to prevent us from sliding into another Great Depression.
+NEUT27|And I think the story of the past year in a very short.
+NEUT28|Synopsis is Bernanke doing whatever it takes to prevent a Great Depression.
+NEUT29|He goes with Paulson to Congress.
+NEUT30|They get the $700 million.
+BEAR31|They completely botched the marketing.
+NEUT32|They say they're going to do one thing.
+NEUT33|They do another, but they do lots of experimentation.
+NEUT34|It's very it's very upsetting in the middle of it, it's very confusing and you wouldn't want to do a diagram of, you know, they did step one Step 2 step three, but remember you know the New Deal was a little messy too.
+NEUT35|And Roosevelt tried about 150 things and about 125 were stupid and didn't work, and the other 25 saved us.
+NEUT36|And Bernanke sort of admires Roosevelt for this kind of being, willing to ignore the orthodoxy, and do what he thought was necessary.
+NEUT37|And that's basically what he practiced.
+NEUT38|And he did a lot of math.
+NEUT39|Lot of missteps, a lot of people got hurt, lot of decisions made that will have consequences for the future, but the bottom line is today we see economy that is growing ever so slightly, not one that's contracting.
+BEAR40|We see an unemployment rate of 10% and we can sort of see the light at the end of the tunnel on that maybe.
+BEAR41|"But we don't see an unemployment rate of 20 or 25%, OK?"""

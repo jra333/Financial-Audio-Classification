@@ -1,0 +1,26 @@
+NEUT0|"""Welcome to charts that count."
+NEUT1|It's one of the oldest debates in stock market investing.
+NEUT2|Is it better to own companies that are generating lots of cash now and to buy those companies cheaply?
+NEUT3|Or is it better to own companies with great growth potential that will generate lots of cash further into the future?
+NEUT4|This is the debate known as value versus growth.
+BULL5|If you look at this chart, you will see that the growth stocks have solidly outperformed value stocks over the last decade.
+BULL6|$100 invested in the Growth index a decade ago has returned over $350.00 as tech stocks like Amazon and Apple have outperformed.
+BEAR7|The same $100 invested in the value index, which features cyclical stocks in banking and energy, has returned less than $250.
+BEAR8|Why have growth stocks outperformed so spectacularly?
+BEAR9|Part of the reason is that over the last decade, interest rates have fallen, and when interest rates fall, the discount applied to future cashflows goes down.
+NEUT10|In other words, lower rates means money.
+BEAR11|Tomorrow is worth more, hence the outperformance of stocks with great future growth potential.
+BEAR12|Recently, however, the trend has reversed.
+NEUT13|This is the same chart we just looked at, but over a much shorter time span just a few months.
+BEAR14|And as you can see here, it's the value stocks that have outperformed.
+BULL15|Returning almost twice what the growth stocks have provided.
+NEUT16|Interestingly, there are two almost opposite interpretations of what this reversal may mean.
+NEUT17|The first interpretation is optimistic.
+BEAR18|The value stocks are outperforming because of optimism about the performance of cyclical stocks.
+NEUT19|Again, such as banks and energy companies.
+BULL20|If the economy is going to continue to be strong, then these cyclical stocks should do well.
+NEUT21|The second interpretation is much more pessimistic.
+BEAR22|On this view, the outperformance of value.
+BEAR23|Of companies that generate more cash now is a reflection of pessimism.
+BEAR24|In other words, investors frightened about the economic future are moving towards companies that have the cash today what we have, then, is a case where there's been a clear reversal of trend.
+NEUT25|"But the interpretation is anything but clear."""

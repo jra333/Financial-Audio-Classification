@@ -1,0 +1,15 @@
+BEAR0|"""Concerns are raised about Internet security following a recent string of outages."
+BEAR1|Technological problems at some of the United States.
+BEAR2|Biggest companies have raised concerns about the vulnerabilities of many of our Internet based systems.
+BEAR3|As the New York Stock Exchange tweeted yesterday, the issues were not the result of a cyber breach, but the problems have still ignited fears about cyber security in the US.
+BEAR4|A series of technical issues that cropped up on Wednesday grounded United Airlines flights for several hours down the Wall Street Journal's website and halted trade in the New York Stock Exchange.
+BEAR5|Many of the world systems are increasingly Internet relyant problems with the Internet are inevitable, and there's always a potential for broken codes.
+BEAR6|Human error and cyberattacks that disrupt with the system.
+BEAR7|However, the Los Angeles Times reports that many companies spend as little as 6% of their IT budget on security, leaving their systems vulnerable to issues.
+NEUT8|To better protect their system, a company could use two Internet providers rather than one with one serving as a backup.
+BULL9|The company could also increase their security budget in train employees on how to handle Internet failures quickly.
+NEUT10|Well, Wednesday's outages are not the result of cyber breaches.
+BEAR11|Some people have expressed their disbelief.
+NEUT12|In any case, the issue is highlighted.
+BEAR13|The large holes in a nation's technology infrastructure.
+BULL14|"Effect even insightful comment on tommotors.net and you could win up to $500 every month."""

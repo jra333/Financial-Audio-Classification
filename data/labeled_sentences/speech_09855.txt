@@ -1,0 +1,47 @@
+NEUT0|"""What's up guys?"
+NEUT1|Video information here.
+NEUT2|We have the form and analysis.
+NEUT3|I am invested and this is Apple stock.
+NEUT4|So here we go for the value investor.
+BEAR5|We have the price to earnings of 13.51, freakishly low forward PE of 10.97.
+NEUT6|In the average you want the 20s.
+NEUT7|We all know apples cheap.
+BULL8|So yes, it's very cheap from a price to earnings ratio standpoint.
+NEUT9|Price to book ratio 7.14 the average is under A5.
+BEAR10|Price the sales 2.87 average under A5 so price to book ratio overvalued.
+BEAR11|Price to sales undervalued because it's almost half debt over equity we have .87 the average is under a .5 so that is a little bit high but not crazy high.
+NEUT12|You know it's 50% higher than what you want it so not horrible but you know it's .13 from being worth as much as their overall equity.
+NEUT13|So you want that to start decreasing.
+BULL14|Revenue percentage growth market cap.
+BULL15|So for the growth investor you have revenue of 265.8 billion, 15.9% year over year revenue growth.
+BULL16|So for that much revenue that's some impressive percentage growth market cap.
+NEUT17|You have 788.1 billion.
+BEAR18|It is still the number one market cap company on the market with Amazon, Microsoft and all these other companies falling.
+NEUT19|It's still maintaining that spot even though it's not at all trillion anymore.
+NEUT20|Quarter 3 earnings.
+NEUT21|I don't know if it was actually the quarter three, so I apologize that might be the wrong quarter.
+NEUT22|Beats EPS 2.91 expectation of 2.78, so they beat by .13.
+NEUT23|62.9 billion in revenue.
+BULL24|Basically 63 billion, and they had 19.6% year over year growth, so that's actually higher than their current annual, which is nice to see.
+BULL25|Anet beat expectations by 1.44 billion, so about 2.33% beat.
+NEUT26|Product's iPhone, iPad and Mac.
+NEUT27|So for this I don't have too much.
+NEUT28|I just wrote how much revenue they brought in.
+NEUT29|That's how much they're pretty much going to start showing instead of how many are actually selling.
+BEAR30|I'm pretty sure they just feel like that number is kind of pointless because no matter what, analysts always will just over over expectation what they're going to get, and then people are going to sell because Oh well, they didn't meet the expectations.
+NEUT31|Anyways, products revenue was 48.66 billion.
+BULL32|So a very large portion, it actually came in at 77% of their total revenue for the quarter service revenue 27% year over year growth came to 10 billion.
+BEAR33|It had an expectation of 10.2 billion and it missed by basically 2%, so not much of a miss.
+BULL34|China revenue for the quarter was up 19% to 11.4 billion.
+NEUT35|I thought that was a nice thing to add in.
+NEUT36|And Lastly, we have further information.
+NEUT37|The 5G iPhone is coming guys in 2020.
+NEUT38|That's something to just keep buying this stock up as you're 5%, ten percent, 27% down and just wait for that 5G iPhone to come up.
+NEUT39|Google paying Apple to be home browser on Safari.
+NEUT40|So right now it's.
+NEUT41|Estimated that Google is paying Apple on a yearly basis, about $9 billion just to maintain.
+NEUT42|The home browser, when you click on the Safari on your iPhone, Google pops up because they're paying them for that, and that's just that's crazy to me.
+NEUT43|Like the dominance that is Apple for that reason.
+BULL44|But anyways, thank you so much for watching.
+NEUT45|That's pretty much it.
+NEUT46|"If you enjoyed this video, throw me a like, feed your information out."""

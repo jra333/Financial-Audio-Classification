@@ -1,0 +1,20 @@
+NEUT0|"""What exit are you from used to get off at exit 11?"
+BEAR1|But recent years commuting to Jersey City, it's exit 14.
+NEUT2|And what's the best thing that ever happened to you in the state of New Jersey?
+NEUT3|One being born to watching the birth of my children and all born in New Jersey, we have five daughters and lived here all my life and look forward to living in the afterlife in New Jersey.
+BULL4|That's a great answer.
+NEUT5|You're a gentleman, and you know, we've got young people out there and they're graduating high school and college and getting their MBA's.
+NEUT6|What advice do you give the young people who want to reach the pinnacle in their lives like you reached in yours?
+NEUT7|Word that my Gran father like to use stick to itiveness.
+NEUT8|When life knocks you down, get up.
+NEUT9|You got the tools.
+NEUT10|Move ahead of you.
+NEUT11|Have faith in yourself.
+NEUT12|People have faith in you.
+NEUT13|That's beautiful, makes perfect sense.
+NEUT14|And in a nonpartisan way.
+NEUT15|What advice do you have for the future CEO's and politicians to make New Jersey and this country a better place just in general?
+NEUT16|Make it business friendly, people friendly and you do that with taxes, regulations and the other things.
+NEUT17|Very basic.
+BULL18|Honestly, I'm a big fan and it's an honor to meet you and thank you for everything you you contributed to this, this country in the state.
+BULL19|"Thank you in this report."""

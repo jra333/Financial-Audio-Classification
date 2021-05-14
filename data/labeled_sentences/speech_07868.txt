@@ -1,0 +1,26 @@
+BULL0|"""Welcome to charts that count and welcome more importantly to the Everything Rally."
+NEUT1|The price of just about every financial asset is headed up and they are headed up in Unison.
+NEUT2|Let's take just a couple of examples.
+NEUT3|Start with U.S. stocks which are right back up against their all time highs or look at junk bonds which are enjoying a screaming rally.
+NEUT4|Finally, consider commodities, gold and iron ore are jamming.
+NEUT5|Even oil is rising and the world has too much of that stuff.
+NEUT6|What is the explanation for all of this synchronized exuberance?
+BULL7|The most popular theory has it that a powerful combination of activism by the Federal Reserve and other central banks and low growth expectations have driven real bond yields.
+BEAR8|That is, inflation adjusted bond yields down below 0.
+NEUT9|This means to simplify only slightly, that borrowing costs.
+NEUT10|Are negligible.
+NEUT11|Or to put it another way, that money.
+NEUT12|Is free.
+NEUT13|Under those conditions, no asset price can be too high.
+NEUT14|After all, you can always borrow more free money and pay a higher price.
+BEAR15|Furthermore, the market has concluded that real rates will be low or even negative.
+NEUT16|For a very long time.
+NEUT17|Now the market could be wrong about how long these super low rates will be with us.
+NEUT18|It could also be wrong about the relationship between super low rates and other asset prices, but what is especially worrisome right now?
+BEAR19|Is that in a downturn?
+NEUT20|It used to be investors.
+NEUT21|Best defense was diversification.
+NEUT22|Owning a mixed basket of different kind of assets meant that some asset you owned would always be outperforming at least relatively at any given time.
+NEUT23|But in the recent rally, everything has gone up together and the rally has been explained by a single simple fact.
+NEUT24|Low real rates.
+NEUT25|"If that theory is correct, when the downturn comes, there will be no place to hide."""

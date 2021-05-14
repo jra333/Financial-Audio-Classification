@@ -1,0 +1,23 @@
+NEUT0|"""How strong is the American economic recovery and how sustainable is it?"
+BULL1|We have had a number of pieces of excellent economic news in recent weeks.
+BEAR2|The most important of which is a sustained decline in unemployment with some 2,000,000 Americans returning to work in May and another 3,000,000 in June.
+NEUT3|This is fantastic, but there is.
+BEAR4|A disturbing undercurrent in the data.
+BEAR5|Almost all the jobs that were created in May and June were the result of the reversal of temporary layoffs in industries like restaurants and hospitality.
+BEAR6|The trend in permanent layoffs is pointing the opposite direction, with some 2,000,000 Americans losing their jobs permanently in those two months.
+NEUT7|So which is the more indicative?
+NEUT8|An important trend?
+BEAR9|The fall in temporary unemployment or the slow increase in permanent unemployment?
+BEAR10|The recent spike in COVID-19 cases around the country might suggest that the fall in temporary employment.
+BEAR11|Fluke driven by the premature reopenings of several states.
+NEUT12|The stock market, however, does not think so.
+BEAR13|It remains near its highs and has responded to the news of rising caseloads with a shrug, but once again in another corner of the market, there is a more negative counter narrative.
+NEUT14|Bond yields are flat on their backs, which is, at least traditionally, an indication of very low expectations for economic growth and real or inflation adjusted yields.
+BEAR15|Or even lower as inflation expectations have been picking up.
+NEUT16|You can see those expectations.
+BEAR17|And some investors underlying worries in the rising price of that old safe haven gold.
+NEUT18|So as with the unemployment numbers, you have a choice of trends.
+NEUT19|The cheerful stock market, or the gloomy bond market.
+NEUT20|One way to resolve this apparent contradiction is to lay it all at the feet of the Federal Reserve and argued that the only reason that yields are so low is because of the Fed's activism and that low yields.
+NEUT21|In turn, force investors to buy stocks, perhaps.
+NEUT22|"But the idea that the markets are simply dancing to the Fed's tune while they ignore economic fundamentals is not a very cheerful narrative either."""

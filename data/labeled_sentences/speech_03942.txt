@@ -1,0 +1,26 @@
+NEUT0|"""Stock tables are loaded with information that can help you be a savvy investor if you know how to interpret them."
+NEUT1|Every newspapers, financial tables are a little different, but they are updated daily and have all the basic information you need.
+NEUT2|Each item gives you some clues about the current state of affairs for that particular company.
+NEUT3|Here's a breakdown.
+NEUT4|The 52 week high gives you the highest price that particular stock has reached in the most recent 52 week.
+BEAR5|The 52 week low gives you the lowest price in the most recent 52 week.
+NEUT6|Keep in mind that the 52 week high an low just give you a range for that time period.
+NEUT7|It can show that a stock has problems or tell you the prices fallen enough to make it a bargain.
+NEUT8|Every company is listed by name, which is usually abbreviated and has a symbol that's been assigned.
+NEUT9|Remember, stock symbols are the language of investing and you need to use them in all communications from getting a stock quote at your broker's office to buying stocks over the Internet, so make sure and do your homework and learn your symbols.
+NEUT10|Dividends are basically payments to owners or stockholders.
+NEUT11|If a company pays a dividend, it's shown here that amount is the annual dividend quoted for one share of stock.
+NEUT12|Volume tells you how many shares of that particular stock were traded that day.
+NEUT13|If only 100 shares are traded in a day, then the trading volume is 100.
+NEUT14|Keep in mind that a low trading volume for one stock may be a high trading volume for another stock.
+NEUT15|You can't always compare them.
+NEUT16|Yield refers to what percentage that particular dividend is to the stock price.
+NEUT17|Income investors pay a lot of attention to yield.
+NEUT18|It's calculated by dividing the annual dividend by the current stock price and yield just like the stock price changes every day and is always reported as if you're buying the stock that day.
+NEUT19|In the PE column P stands for Price or the cost of a single share of stock.
+NEUT20|The East refers to the company's reported earnings per share as of the most recent four quarters.
+NEUT21|The PE ratio is the price divided by the earnings.
+NEUT22|PE ratios are important barometers of value in the world of stock investing and are used to determine if a stock is expensive or a good value.
+NEUT23|The day last column tells you how trading ended on the day listed.
+NEUT24|The net change column tells how the stock price ended today compared with its trading price at the end of the prior trading day.
+NEUT25|"With these basics, reading the stock chart in your favorite newspaper is easy."""

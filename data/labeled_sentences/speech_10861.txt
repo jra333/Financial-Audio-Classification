@@ -1,0 +1,19 @@
+BEAR0|"""Two, but in the case of Microsoft and Amazon, both have outperformed the NASDAQ this year, and both are taking a hit in trading after disappointing results after the Bell last night."
+NEUT1|Armonica Bertrand has been all over that story.
+NEUT2|She is the details and John it didn't take long for investors to punish the stocks of these two tech Giants.
+BEAR3|Shares of Microsoft and Amazon are falling after the two companies posted sales that missed estimates.
+BULL4|Now analysts had high expectations for Microsoft after Intel and IBM posted results that beat estimates.
+BEAR5|But the software Giants are revenue fallen all 5.
+BEAR6|Of its business units that contributed to Microsoft's first annual sales drop in its history, and Microsoft sales declined 17% last quarter to $13.1 billion, more than 1 billion short of the average estimate.
+NEUT7|Scott Richter from Fifth Third Bank says the theme this quarter is more about cost savings and then boosting sales companies are in lock down mode and the only way that people are generally making the numbers is through cost cutting.
+BULL8|And I think that's going to persist for a while until we can get some traction with these new products.
+NEUT9|And these guys have a heck of a lot of products that.
+NEUT10|Cannot possibly surprise to the upside over the next several quarters.
+BEAR11|As for Amazon, it reported 10% decline in second quarter profits.
+BEAR12|The company's revenue is lower than Alice.
+BEAR13|Anticipated shares of Amazon dropped close to 10% in after hours trading an you have Amazon.
+BULL14|It had been trying to really fend off competitors John with these deep discounts on new products like low cost laptops.
+NEUT15|Now one comment that I did see from Michael Kajino Pacific Heights Asset Management.
+BEAR16|He says you know earnings reports are giving mixed signals about a recovery.
+NEUT17|It's sort of consistent with an economy bouncing around the bottom back to you.
+BULL18|"OK, thanks, Monica."""

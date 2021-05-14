@@ -1,0 +1,33 @@
+NEUT0|"""Should everyone get a minimum income from the government?"
+NEUT1|Whether you work or not?
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where we bring you the insights you need to better navigate this ever more turbulent world.
+NEUT3|It's called the Universal Basic income, and the idea is gaining ground here and in Europe, especially with covid hitting economies so hard.
+NEUT4|The government would pay every adult a certain amount of money every month.
+NEUT5|Whether you work or not.
+BULL6|Democrat Party activists love the idea and so to some Republicans the Pope came out in favor of the notion a candidate for the Democratic presidential nomination.
+NEUT7|Andrew Yang advocated paying every adult $1000 a month.
+NEUT8|He didn't win, but his ideas gaining ground.
+NEUT9|Italy has a minimum income measure that tops up your income if it falls below a certain level.
+NEUT10|Spain is mulling something similar.
+NEUT11|While the proposal sounds enticing, who wouldn't want an extra $12,000 a year?
+BEAR12|It would do real harm.
+NEUT13|Let's make clear that we are not talking here about safety.
+NEUT14|Net programs such as food stamps, unemployment benefits, or Medicaid.
+BEAR15|A guaranteed income would be corrosive to the work ethic, especially as politicians raised the benefits when elections roll around, it would eat away at the crucial link between effort and reward.
+BEAR16|It would lower many people away from pursuing a more productive life.
+BEAR17|This is wrong, morally and economically.
+NEUT18|Work is critical to making our lives meaningful, gives us purpose, it provides structure and encourages discipline, helping us look beyond the immediate moment and think about the future.
+NEUT19|It encourages that can do spirit that is unique in our culture.
+NEUT20|Work produces the resources that we consume.
+BEAR21|Then there are other major practical problems such a program would be hideously expensive.
+NEUT22|Yang scheme would cost $3 trillion a year.
+NEUT23|He would impose a 10% national super sales tax on top of all the other taxes you pay, and realistically that Ray would have to be considerably higher.
+NEUT24|A $30,000 car now which set you back 35 or even $40,000.
+BEAR25|These new very heavy tax burdens would damage the economy, which would worsen opportunity and inequality.
+BULL26|A more constructive approach would be to reform and expand the Earned Income Tax Credit, which is an effect a rebate of the payroll tax.
+NEUT27|This would give lower income individuals higher, take home pay tax free.
+BULL28|And creating conditions for a booming economy such as tax cuts would be the most beneficial of all.
+BULL29|Remember before covid the pay for low income workers was rising at a faster pace than anyone else is.
+NEUT30|I'm Steve Forbes.
+BULL31|Thank you for joining us.
+BULL32|"Do send in your comments and suggestions and I look forward to being with you soon again."""

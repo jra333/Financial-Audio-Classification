@@ -1,0 +1,27 @@
+BEAR0|"""I think the volatility in the stock has always been there, so the stock dropping sharply over a few days is not scary on its own."
+BEAR1|The problem is that the growth narrative is really falling apart if you take a closer look and Wall Street expects, expectations are just way too high, so the growth narrative falling apart goes to the demand side.
+NEUT2|The one thing we've assumed all along is that people are clamoring to get their hands on the Tesla that just wait until the company comes out with the $35,000 Model 3 which it has.
+NEUT3|Finally and the stock is off to the races.
+NEUT4|Well, now we're finally at that point where there are out with a $35,000 Model 3, and instead the stock is.
+BEAR5|But I think it's underperformed in a five year basis now that's right.
+NEUT6|And This is why you've got to read the fine print and not just the headlines.
+NEUT7|Along with that announcement came news of a major store closure initiative.
+BEAR8|We don't know how deep sales are going to be online, only third round of layoffs since June 3rd.
+BEAR9|Price cut since January 1st.
+NEUT10|I mean, these are not things that a normal growth company with a legitimate growth story ahead does.
+NEUT11|It's just not, and you know this is going to be a problem as the year goes on because on July 1st there's going to be another reduction in the federal tax incentives for electric car buyers.
+NEUT12|For Tesla specifically.
+NEUT13|And that's just the way the program works.
+NEUT14|Unless they rewrite the law, there's going to be another demand issue, a new one coming ahead in three months, and the old one is, you know, is leaving a mark and and I would also add you know if you look at this 10K that just came out.
+NEUT15|You know the third week of February.
+BEAR16|There are repeated references to expanding the retail footprint in the company's business plans, and they've done a 180 on that in two or three weeks so that I'm, you know, the news itself was bad.
+BEAR17|The abrupt U turn should, frankly, scare people.
+NEUT18|And finally, Charlie quickly.
+NEUT19|Is it the best thing for this company right now?
+NEUT20|If someone other than Elon Musk is the day-to-day leader, the CEO, well, there's a double edged sword there.
+NEUT21|I mean, the company's operations might improve, but what happens to the valuation?
+NEUT22|I mean, there's there is one thing bulls and bears can agree on, and it's not much is.
+NEUT23|There's an Elon Musk premium.
+NEUT24|In the stock.
+NEUT25|So what happens if you remove him?
+NEUT26|"I don't know what the answer is, but I'm interested to find out if we ever do."""

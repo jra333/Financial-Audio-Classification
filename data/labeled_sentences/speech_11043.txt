@@ -1,0 +1,7 @@
+NEUT0|"""Hello everyone, let's take a look at the Apple stock here."
+NEUT1|I performed a red candle the.
+NEUT2|Good thing is that it's still above the year, May is not dropped down to the army.
+BEAR3|The on the other hand, compared to the volume, the volume is low, so it's still healthy for.
+BEAR4|Apple stock to go study or go higher because as you can see here, Apple has consolidated in this area for nearly one week, so it seems that Apple, already out of the wood.
+NEUT5|So if so, the whole market can go study and make new high.
+BULL6|"Thank you."""

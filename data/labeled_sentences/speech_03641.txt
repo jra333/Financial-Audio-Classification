@@ -1,0 +1,45 @@
+NEUT0|"""Let's bring in somebody who's been thinking an awful lot long term kind of gaming things out."
+NEUT1|That skin rogue as he is professor of public policy and economics at Harvard University.
+NEUT2|He also happens to be a fantastic chess player who knows how to think through problems and think through things out.
+NEUT3|And I assume he's been doing that for this two.
+BULL4|Again, thanks for being with us today I heard you saying something about how when we come out of this, it's going to.
+NEUT5|We're going to merge to a very different world, and I think you're probably one of the people who is thinking long term at this point.
+NEUT6|What do you see after this?
+NEUT7|Well, obviously we're in a war.
+NEUT8|This is like an alien invasion an the big question is, you know how we come out of it.
+NEUT9|You were just talking about would there be some antiviral drug that came in earlier?
+NEUT10|I mean, it's sort of I've not a virus ologist.
+NEUT11|It's hard to know, but I've certainly been talking extensively with my Co author Carmen Reinhart trying to reach for analogies to think of how to think about this, and it's really hard.
+NEUT12|I mean, you have to kind of reach back to the Spanish influenza.
+NEUT13|To think of something that was worldwide, you know, the 2008 global financial crisis wasn't really global.
+NEUT14|It was mostly the advanced countries.
+BULL15|The emerging markets snapped out of it, China, except for a brief pause, did really well.
+NEUT16|This is different in the sense this really is the whole world.
+NEUT17|If we look at examples in our book and there are many where a real shock.
+NEUT18|This is a natural catastrophe hits an economy, and then it morphs into a financial crisis.
+NEUT19|But this one's really worldwide an you know, the first instance is to protect people's health.
+NEUT20|But as you know, you're talking about one story after another at your show.
+NEUT21|The questions how to prevent this from morphing into something that lasts for a decade and not simply a year or two.
+NEUT22|Well, back up for a second, but we had an economist on on the on CNBC in the last hour who said something about oh this is going to be 2 weeks.
+BEAR23|I'm not even sure it's going to be a recession.
+NEUT24|You are now talking about hoping that it's not going to be 10 years and recognize you gotta be.
+NEUT25|You gotta be kidding that this is not going to be a recession.
+NEUT26|That's what I thought that's it.
+BEAR27|I mean, we are in a global recession.
+BEAR28|A US recession.
+NEUT29|At least.
+NEUT30|You know, in this sense of very deep downturn is, I think, a certainty.
+NEUT31|It seems to me likely that.
+BEAR32|At least that that the short term fall will be greater than anything we saw in the financial crisis.
+NEUT33|I think.
+NEUT34|As I said a few weeks ago, you know we pushed the pause button on the global economy.
+NEUT35|No one, you know.
+BEAR36|We have all these industries shut down.
+NEUT37|And I mean a lot of small business owners you must come into contact with them too.
+NEUT38|Or means I don't know how they're going to keep people.
+BEAR39|You know we can see millions and millions of people lose their jobs.
+BEAR40|We can see unemployment go above what it went in the in in 2008.
+NEUT41|It doesn't necessarily have to last as long, but this is very, very serious.
+BULL42|Again, a lot depends on how it works out with the drugs and treatment, but you know so far we're hopeful.
+NEUT43|But if we have to do this, shutting everything down, that's clearly maybe the best thing.
+BEAR44|"We're in a war, but it's the economic consequences are just profound."""

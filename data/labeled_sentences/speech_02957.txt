@@ -1,0 +1,12 @@
+BEAR0|"""Kardashian affect shares up more than a percent and a half, but dipping slightly after Kim Kardashian West said she would freeze her Facebook and Instagram account, Kardashian posting."
+NEUT1|I love that I can connect directly with you through Instagram and Facebook, but I can't sit by and stay silent while these platforms continue to allow the spreading of hate propaganda and misinformation created by groups to sow division and split America apart.
+NEUT2|Again, this the statement right here by Kim Kardashian.
+NEUT3|West Kardashian is a top ten personality on Instagram with 100.
+NEUT4|88 million followers.
+BEAR5|This decision may be a part of a 24 hour freeze being called for by a nonprofit called Stop Hate for Profit.
+NEUT6|Several other big celebrities also expected to take part again.
+BEAR7|Shares of Facebook up about a percent and a half, but falling slightly from the level they were before Kardashian West posted that back over to you.
+NEUT8|This calling, though Frank for a one day boycott?
+NEUT9|Yeah, very possible that we don't.
+NEUT10|We haven't seen Kim Kardashian herself says she's taking part in the 24 hour boycott, but there is a group saying that they're going to do a 24 hour boycott.
+NEUT11|"We believe she's part of that."""

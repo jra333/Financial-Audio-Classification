@@ -1,0 +1,23 @@
+BULL0|"""Well, this is the first set of leading indicators, so which means that this is a first signal of how much this disruptions have meant for the economic activities in China."
+NEUT1|I would expect to see not a very good number.
+BEAR2|I think most economists are looking to see that the extent of a disruption to supply chains production as well as any economic activity involving human interaction could be completely disrupted regardless of the lunar China New Year.
+NEUT3|For the whole of the month February.
+BEAR4|Probably the confidence around the likelihoods of continued disruptions would have remained so.
+NEUT5|This set of data is quite important, I think, given the market conditions.
+NEUT6|Maybe people are looking for this to be the real official data signal that the disruptions will mean that further policy action may be warranted.
+NEUT7|So we see a lot over the last 24 hours about how historic these market moves have been, but place this in context.
+NEUT8|This period of time since this virus first broke out in China.
+NEUT9|How does it compare to, say, the great financial crisis?
+BEAR10|What's different over the last five or six weeks compared to previous periods of unrest?
+NEUT11|Certainly people will be comparing this to source.
+BEAR12|Unfortunately, the data for PMI, for example, doesn't go back to SARS levels, but I would say the extent of a disruption may be beyond size because not only have we been seen already, a period of economic slowdown heading into the virus outbreak.
+BULL13|Also, the impact that China has for the rest of global economy is much much greater compared to 2002 2003, so I would.
+BEAR14|It really compared the market reaction to financial crisis, but the actual fundamental disruptions from an economic standpoint will be probably even greater, because this is not only a demand.
+NEUT15|Side shock is also a supply side shock.
+BEAR16|That disruption not only to China, but for the overall the economic growth globally will certainly be yet to see, and I think people have been underestimating the impact, mainly because people thought that this would be a China focus.
+NEUT17|Or perhaps maybe.
+NEUT18|Asia focus story.
+NEUT19|But as we've seen so far, this is likely to be a global story.
+NEUT20|Hi, I'm Joanna Versaci and thank you for watching.
+NEUT21|You can check out more of our videos by clicking on the boxes on the screen and don't forget to subscribe to our channel for more from CNBC International.
+BULL22|"Thank you for watching."""

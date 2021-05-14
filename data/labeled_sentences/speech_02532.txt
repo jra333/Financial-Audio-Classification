@@ -1,0 +1,15 @@
+NEUT0|"""Welcome to finance element."
+NEUT1|We discuss about cryptocurrency news, investment tips and price predictions.
+NEUT2|Stay tuned until the end of video for best advice and consider subscribing for further updates.
+NEUT3|NCN price prediction can NCN has potential to cross $97.00 NKN or new kind of network is an open source protocol for public blockchain based peer to peer networks to share network bandwidth and Internet connectivity.
+NEUT4|NCN's consensus algorithm is based on cellular automata, a new kind of science and icing model where a simple local majority rule can lead to system level convergence in a small number of iterations.
+NEUT5|The design goal is to scale to arbitrary numbers of equal consensus nodes.
+NEUT6|NKN uses a global addressing scheme based on public keys in order to enable direct peer to peer communication without centralized servers.
+NEUT7|The live NKN price today is 0.541165 dollars with a 24 hour trading volume of $498,610,115.
+BULL8|NCN is up 83.55% in the last 24 hours.
+NEUT9|The current Coinmarketcap ranking is number 174 with a live market cap of $315,860,027.00.
+NEUT10|It has a circulating supply of 583,666,666 NKN coins and a Max supply of 1 billion NCN coins.
+BULL11|As per experts advice, NKN price will increase according to our predicted data in future.
+NEUT12|NKN is profitable investment based on our forecasting NKN price will not be downward based on our estimated prediction.
+BULL13|The price is predicted to cross above $90.00 in the upcoming time, showing the perfect bullish growth in cryptocurrency coins.
+BULL14|"Such growth can help beginner investor to choose NKN for better investment option and expect to grow in future."""

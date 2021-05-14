@@ -1,0 +1,12 @@
+NEUT0|"""I think you can learn from anybody in the organization above you below you and I think you ought to."
+NEUT1|You don't have to be the boss to be a leader.
+NEUT2|I think that's important to understand 'cause you can be in a leadership role in any seat that you're sitting in.
+NEUT3|You don't have to be handed a title.
+NEUT4|You don't have to have people reporting to you to be a leader, and part of that is how can I help and how can we be stronger?
+NEUT5|How can we be better?
+NEUT6|And I really do think that's been one of the drivers of the success of my career.
+NEUT7|Is is not being as focused on what my next steps are?
+NEUT8|But what are the next steps for us as a team or a business or or an industry?
+NEUT9|How do we get different perspectives at the table?
+NEUT10|How do we make everyone feel comfortable sharing their views and their ideas and then come to the best conclusion we can as a team and all stand behind it.
+BULL11|"I'm one of those people that wants to go out and hire people who I think are better than I am because I feel like if you surround yourself with a really competent team, you're going to make each other stronger."""

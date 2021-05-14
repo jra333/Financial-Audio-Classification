@@ -1,0 +1,33 @@
+NEUT0|"""The next question comes from Michael."
+BEAR1|I've read some convincing arguments recently, including on full.com that have suggested that the flood of investors money going into passively managed funds has the potential to create an index bubble.
+BEAR2|This money is being unevenly distributed to the top performing large cap stocks.
+NEUT3|Oh hey, there Apple.
+BEAR4|If those few companies were to falter, it would cause a cascading effect downstream to smaller companies.
+NEUT5|Do you see any truth in this assessment?
+NEUT6|It's a really interesting question, and when you say the term index bubble that has different meanings for different people, some might think that what they're really what people are arguing is that indexing has done so well and become so popular that it won't do as well in the future in that in the future actively managed funds will have an easier time of it.
+NEUT7|I'm not sure if I agree with that or not.
+BEAR8|The long term history just shows it's very tough to beat an index fund.
+NEUT9|That said, what I think is more important, and it's kind of more related to.
+NEUT10|The previous question.
+NEUT11|Is the more your portfolio is allocated to like an S&P 500 index fund, the more you are concentrating your portfolio in a handful of stocks, and particularly at this time right now, the S&P 500 is more than 20% of it is in technology stocks, so the number one holding is Apple #2 is Microsoft.
+NEUT12|You look at things like Google is in the top ten.
+NEUT13|You have a pretty big concentration in one sector, so I think it makes more sense just to look at indexing as your Internet.
+NEUT14|Index funds as part of your whole portfolio, rather than just getting away from index funds just 'cause their index funds.
+NEUT15|But now I know Buck has an opinion about this too because we sit next to each other and we talk about index funds all the time.
+NEUT16|Partially because we're both on the 401K committee and ask that the total stock market Index fund is the biggest holding in our 401K.
+NEUT17|Yeah yeah, that's right and we used to have the S&P 500 we switched over to total stock market index just because that does have exposure to smaller and mid cap companies.
+NEUT18|So somebody at once?
+NEUT19|A diverse exposure to the stock market.
+NEUT20|They should get all ranges, so that's that's why we did that.
+NEUT21|But yeah, I think it's a great question and I would say in addition to the indexing, there's something that we talked quite a bit around here.
+NEUT22|But his closet indexing there are those professional money managers who are scared to deviate much from the performance of the index.
+NEUT23|So although they charge higher fees than what you get from an index fund, they tend to have a large overlap in the Holdings of those index funds.
+BULL24|I think there's probably even more support for some of that momentum around those stocks and.
+NEUT25|One of the things that we get a little worried about around here.
+NEUT26|I think sometimes is that there's you know, largely a handful of stocks that are driving the performance that index, and when you get too concentrated.
+NEUT27|This happened in the late 90s when you had companies like GE was one of those, and some of the large cap Home Depot I think was one of them.
+NEUT28|Lucent was a big driver, and some of these companies, when they in Cisco was over $500 billion company when they make up a big proportion of this whole index, you get a little worried if something happens and they're all in that same sector, so that gets back to your sector comment too, bro, so.
+BEAR29|We worry not just about the index, but some of those people, and there's a lot of am 'cause they've underperformed and they say you know.
+NEUT30|Finally, they give in and go.
+NEUT31|I can't underperform anymore, so I'm just going to add some of these stocks.
+BEAR32|"So there's a big follow on Ripple effect from that indexing that's been going on, yeah?"""

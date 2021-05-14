@@ -1,0 +1,23 @@
+NEUT0|"""Welcome to charts that count."
+NEUT1|While many of us are worried about the outcome of the US presidential election, whether it will be resolved on November 3rd or whether the fight over the results will drag on for months.
+BULL2|The stock market is increasingly pleased with the future it sees.
+BEAR3|The odds that former Vice President Joe Biden will win the election have increased sharply in recent weeks, according to both polls and betting markets.
+NEUT4|Polls are not destiny, but they don't mean nothing either.
+NEUT5|Conventional wisdom used to hold the tax and regulation hating Republicans were better for stock markets, but conventional wisdom is starting to change and quickly.
+NEUT6|Recently both investors and analysts have begin to talk about a blue wave reflation trade.
+BULL7|The idea that should the Democrats flip both the White House and the Senate, they will have free reign to push through a huge fiscal stimulus program.
+BEAR8|That in theory could push markets up.
+BULL9|And indeed, in the weeks since the first presidential debate, we have seen the S&P 500 ticking up nicely.
+BULL10|Interest rates are rising too, presumably in anticipation of all those government dollars, kickstarting a little bit of inflation.
+BEAR11|Other signs are pointing to reflation to cyclical stocks and commodities are up, the dollar is weakening.
+BULL12|In a more or less deflationary world, this looks pretty good.
+BULL13|And maybe things will be good.
+NEUT14|But it is a little bit eerie that as soon as Joe Biden's political fortunes started looking up, Wall Street's political narrative started shifting to the stock market is on a decade long Bull run.
+NEUT15|And prices are very high relative to earnings.
+NEUT16|One of the key features of asset Bubbles is their need for stories.
+NEUT17|Stories about why stocks should push ever higher.
+NEUT18|These narratives are custom made to turn most any turn of events into a reason to keep buying.
+NEUT19|So investors should be suspicious of how quickly the market.
+NEUT20|Became a Democrat.
+NEUT21|Because when everything is interpreted as good news for stocks.
+BEAR22|"That's bad news."""

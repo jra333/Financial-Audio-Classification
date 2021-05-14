@@ -1,0 +1,15 @@
+BEAR0|"""Oil is headed dramatically lower since the start of 2016, losing almost 20% in just seven sessions."
+BEAR1|That's been driven in part by continued concerns, leading all the way back to the middle of 2014 to currently about supply overtaking demand.
+BULL2|However, past demand has been relatively robust.
+NEUT3|Up until now.
+BEAR4|We are starting to see signs of slowing demand growth.
+NEUT5|In key countries, including the US and China.
+BEAR6|So China's relationship with the oil prices key China has driven global demand growth over the past decade, so any slowdown that we see in China's consumption of crude, even if it continues to rise, we just need to see that growth slow.
+BEAR7|That would provoke a real concern in the oil market.
+NEUT8|Or pick the oil producers.
+BULL9|Cartel is reliant on rising global demand growth in order to absorb this surplus and hopefully start to see the market stabilized at a higher level later this year.
+BEAR10|In the short run, the oil price can become unbounded if it falls below the $30 a barrel mark, we could see further selling and traders trying to target that $20 level, which some investment banks including Goldman Sachs, Citi and Morgan Stanley have all said.
+NEUT11|It's a possibility.
+BEAR12|In an extreme scenario whereby either storage tanks become too full or currency movements lead to greater pressure coming on the oil price as a result of the strength in the dollar hitting all dollar priced commodities.
+NEUT13|However, we may also start to see more.
+BULL14|"Projects shutting in around level, which could provide a degree of stability for the price."""

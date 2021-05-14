@@ -1,0 +1,32 @@
+NEUT0|"""If you're worried about the fact that major indexes are near all time highs, take a step back for investors who have been around the block a time or two."
+NEUT1|Stock market corrections are a fact of life.
+BULL2|The broader market mounts a pullback of between 10% and 20% every 16 months on average before ascending to new Heights.
+BEAR3|A bear market that results in a decline of 20% or more happens less frequently once every seven years or so on.
+NEUT4|This clip from Motley Fool Live recorded on February 12th.
+NEUT5|The rap host Jason Hull, an fool.com contributor Danny Veyna, discuss why investors with the proper time horizon shouldn't fear a downturn.
+NEUT6|Jason Hall.
+NEUT7|Danny veyna.
+NEUT8|I think this is a good one for you to talk about here.
+NEUT9|She cheese question is the never ending hot streak.
+NEUT10|Make anyone else nervous?
+NEUT11|The music always stops right?
+NEUT12|Danny Veyna I was actually looking at this question thinking maybe I should volunteer for this one.
+NEUT13|In fact that you brought it up, great minds think alike.
+NEUT14|I'll tell you that right now that it does not make me nervous.
+NEUT15|But the reason it doesn't make me nervous is because I have a long term investing time horizon.
+BEAR16|So stocks might be growing out of control.
+BULL17|We might be getting high valuations, we might be due for a correction sometime soon.
+BULL18|We might get a 10%.
+NEUT19|We might get a 20%, but the fact of the matter is that that is just a normal part of investing.
+NEUT20|It happens.
+BULL21|Those 10% corrections happen almost every year like clockwork, so it's not something that concerns me because eventually you're going to have reversion to the mean and the stocks that have run a little bit ahead of themselves are going to pull back a little, but over the long term, the stock market is going to grow more over the long term.
+NEUT22|I'll let Jason finish this thought with one of his favorite quotes, but let me just say that this is not a problem if you have money in the stock market that you need some time in the next couple or three years.
+NEUT23|Then it might be a problem, but as long as you have an emergency fund set aside, you're putting money in the market that you don't need in the next three to five years.
+NEUT24|Just write out these little dips when they happen, because over the long term you will be glad you did.
+BEAR25|Jason Hall as Peter Lynch has said more money has been lost by people waiting for the next downturn than all of the markets.
+BEAR26|Downturns in history have generated.
+NEUT27|As David Gardner says, the market goes up 2/3 of the time time in the market as are hedge as Danny said, manage your exposure to your financial needs.
+NEUT28|If short term volatility risks, your ability to meet your needs, pay your bills, then you have money in the market that shouldn't be in the market.
+NEUT29|Again, it's short term volatility.
+NEUT30|That short term volatility is what drives your long term gains.
+BULL31|"Danny, thank you, Sir, I appreciate that."""

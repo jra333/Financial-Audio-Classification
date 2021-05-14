@@ -1,0 +1,13 @@
+NEUT0|"""Or watching shares of Tesla this morning."
+NEUT1|And frankly, when are we not?
+BULL2|The stock is up 5% premarket right now that follows a 6 1/2 percent gain during yesterday's session.
+NEUT3|Based on this morning's jump, the company looks like we're top $500 billion in market value, so half a trillion dollars.
+NEUT4|As you know last week, S&P said it was going to be putting Tesla in the S&P 500 next month, perhaps in two stages, waiting to hear about the mechanics of that.
+NEUT5|Remember, it will go in the S&P at about 80% of its total market value is.
+NEUT6|Basically, SMP only counts the freely floated shares for any company, and Elon Musk owns around 20% of it still, so it's going to be close to the top ten of the SNP and more than 1% of the index at today's market value, but also take a look year to date of Tesla against Neo.
+BULL7|The Chinese Electric Vehicle Company, because right now Tesla shares are really just riding along and global EV wave tremendous strength in all of these stocks.
+BULL8|In fact, they've been some of the strongest names in the market, and there you see Neo up 1300%, and this is just.
+NEUT9|Last month, so basically makes Tesla's gain look almost insignificant and a lot of smaller names as well, so this is not just about abide administration policies on alternative energy or anything like that.
+NEUT10|This is kind of a global move in this area, Andrew.
+NEUT11|Shepard Smith here.
+NEUT12|"Thanks for watching CNBC on YouTube."""

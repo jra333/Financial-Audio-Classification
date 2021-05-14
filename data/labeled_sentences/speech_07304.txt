@@ -1,0 +1,30 @@
+NEUT0|"""Well, I I compare two factors."
+NEUT1|The politics in the virus trends in the US.
+NEUT2|We have the uncertainty of the election.
+BEAR3|We also have worsening virus strains compared to Europe.
+BULL4|Virus trends are improving.
+NEUT5|The politics is for European standards.
+BULL6|Fairly calm European markets haven't run quite as far ahead as the US on a regional basis.
+NEUT7|Probably we see a bit of value there in Europe, but the big question for me when it comes to markets is what is really driving the market.
+NEUT8|It seems to be a combination of.
+BULL9|Improving economic data and it is looking fairly good, at least over the last couple of months.
+BULL10|The continued help from central banks and governments with their aggressive policy measures and the fact that markets are basically working on the assumption that a second wave will not lead to major lockdowns in the US if we violate that assumption then markets will probably take a turn for the worse.
+NEUT11|But even though markets have run a long way, keep in mind markets are forward looking.
+NEUT12|They're basically telling us that the underlying economy is.
+NEUT13|Fine, and in the longer we probably get back to the pre pandemic trend.
+BULL14|I think that's a fairly sensible assessment as long as we avoid the 2nd wave.
+BEAR15|The Jobs report yesterday Callum 4.8 million jobs added back to the US economy.
+NEUT16|What does it tell us?
+BEAR17|Because we've also had this re closure of communities that we've been talking about.
+NEUT18|So you know, in restaurants that opened up then forced to shut down, do you think the jobs are going to come back quicker than many anticipate?
+NEUT19|Well, the US is a highly flexible economy is one of the most lightly regulated labor markets in the advanced world.
+BEAR20|So typically, if you find a snapback in spending, it usually shows up in the jobs numbers, so the economy is behaving as you would expect.
+BULL21|I keep in mind, in the US, the big driver of the recovery so far is the very very generous fiscal handout income for the household sector actually increasing in April in May.
+BEAR22|So households now have a little surplus.
+NEUT23|Income they were locked down for a while.
+NEUT24|They couldn't go to the shops and they couldn't spend, and now they're spending that money.
+NEUT25|Someone's got to produce those goods.
+NEUT26|Someone's going to sell those goods, and that's what we're seeing now in the labor market.
+BULL27|So the combination of the flexible economy, the aggressive policy is showing up now in the jobs numbers.
+NEUT28|We just have to hope that that data which came before the recent spike in the US doesn't take a turn for the worse.
+BULL29|"As this as the case numbers spike in the next few weeks and months."""

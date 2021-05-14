@@ -1,0 +1,21 @@
+NEUT0|"""What is the Dow Jones industrials average?"
+NEUT1|It's a 30 component index or grouping of stocks.
+NEUT2|That's kind of meant to be a gauge or indication of how the market is doing in this basket or grouping of stocks will cover stocks from all different industries, from telecom to industrials to tech and finance.
+NEUT3|And it's going to include some of the world's most influential and established companies.
+NEUT4|Companies like Bank of America, Procter and Gamble, Walmart and McDonald's all find home on the Dow, and this index was created by Dow Jones co-founder Charles Dow in the late 1800s.
+NEUT5|And it's changed a lot since its original formulation, and we've seen companies come and go from the Dow.
+NEUT6|Right now.
+NEUT7|General Electric is the Dow veteran.
+NEUT8|It's been in the longer than any other components, and the young guns are going to be Cisco and travelers, which were recently added after Citigroup in General Motors for booted from the Dow.
+NEUT9|And this sort of this regular readjustment kind of keeps the Dow relevant.
+NEUT10|It make sure it continues to be a benchmark or a pace or a good gauge for the overall market is doing and many investors will use it as just that as a benchmark because there's a lot of ways you can invest passively in the Dow and just buy.
+NEUT11|The index, so to speak, by purchasing an ETF which will just mimic the broad performance of the Dow.
+NEUT12|So a lot of investors will use that as their gauge to say well is My Portfolio beating the broad market and will use the Dow?
+NEUT13|Is that gauge?
+NEUT14|Because if it's not, it may be better to just buy one of those ETF.
+NEUT15|So as investors were always trying to be our given benchmark, I personally use a match of the S&P 500 with a little bit of bonds in there.
+NEUT16|But the Dow is certainly one of the most popular ones as well.
+NEUT17|Now the Dow is a price weighted index, which means that some of the components that are very expensive share prices are going to have a. Outsized waiting on the index, and by nature it also kind of excludes some companies that are very influential in the market as a whole, but whose share prices are simply too expensive.
+NEUT18|That if there were ever entered to the Dow, they make up too big a portion of it.
+NEUT19|So companies like Apple and Google at current share prices are basically omitted from the down.
+NEUT20|"That's one of my personal problems with it as a viable measure of market performance, but it's one of the most traditional classic measures of how the market is doing, and you'll see it referenced every day, and it still is a reasonable gauge for market performance on a day to day basis."""

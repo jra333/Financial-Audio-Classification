@@ -1,0 +1,40 @@
+NEUT0|"""If you've been listening to the talk in Washington about bank regulation, here's a word you've heard a lot capital."
+NEUT1|But what exactly is it and why does it matter?
+NEUT2|In short, capitalism funds a bank holds to support itself and protect against losses.
+NEUT3|Banks get it mostly in two ways by selling stock to investors, and by socking away some of the money they make every quarter.
+NEUT4|Think of a bank like a building with a deep, sturdy foundation of capital that it can use to make loans to homeowners and small businesses.
+NEUT5|But the role of capital has changed over the years.
+NEUT6|Back in the 1980s, banks were pretty boring.
+NEUT7|They raise money from investors, which they called capital.
+NEUT8|They borrowed a little bit more from Depositor's, and then they let it all out.
+NEUT9|Then things started to change.
+NEUT10|Financial innovations swept Wall Street.
+NEUT11|There were all these exotic newproducts debt products and derivatives.
+NEUT12|It was an age of easy money.
+NEUT13|Along the way banks figured something out.
+NEUT14|The more money they could borrow, the more profit they could make.
+NEUT15|It used to be the banks would take maybe $20.00 of their own capital.
+NEUT16|Borrow $80.00.
+NEUT17|And make $100 loan.
+NEUT18|But if they took that same $20 and borrowed $280, they could make a $300 loan and make a lot more money for themselves.
+NEUT19|But in the 2000s banks became skyscrapers they borrowed to keep building up.
+NEUT20|Remember Lehman Brothers, it had 31 floors up here for every floor foundation down here.
+NEUT21|Meryl Lynch, 40 to one.
+NEUT22|These floors are full of assets, some simple ones like Treasury bonds and some really complicated ones like interest rate swaps and the foundations weren't also meant.
+NEUT23|Sometimes they mixed in sand things that felt or looked like capital but really work like trust preferred securities, which are a sort of hybrid between equity and debt.
+BEAR24|When the crisis hit, Banks didn't have enough capital for what they had wasn't strong enough to absorb the losses.
+NEUT25|Lehman failed.
+NEUT26|Other banks got bailed out after the crisis.
+BULL27|The government ordered the banks to increase the amount and quality of the capital they hold, basically to reinforce their foundations.
+NEUT28|And once a year, it gives them a stress test to make sure they have enough.
+NEUT29|So almost 10 years after the crisis, the question is how much is enough?
+NEUT30|There are lots of ways to measure capital, but on one of the simplest measures.
+NEUT31|Banks today have to hold capital equal to 5% of their assets.
+NEUT32|In other words, they can build 20 floors up here for every floor of cement in the foundation.
+NEUT33|The definition of what counts is capital is also stricter than it used to be.
+NEUT34|There has to be more owners equity or think of it like concrete and less sand and other fillers.
+BEAR35|Bank executives think this has gone too far, though they say their foundations are too big and they argue that if Washington eases up, they'll be able to lend more, boosting the economy.
+BULL36|One planning Congress would raise the capital ratio to 10%.
+BULL37|So with free, any bank that met that from lots of additional regulation, others say that number should be even higher like 30% to make the system truly safe and prevent another meltdown that would require banks to raise more than a trillion dollars in new capital.
+NEUT38|That's a lot of cement, so it's a balance between safety and growth between those boring banks and the risky skyscrapers.
+NEUT39|"When you hear people talking about capital, that's what they mean."""

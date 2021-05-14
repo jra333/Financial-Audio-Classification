@@ -1,0 +1,10 @@
+NEUT0|"""Alright Shannon, final trade."
+NEUT1|What do you have for us?
+NEUT2|Adobe.
+NEUT3|Alright Adobe software alright farmer Jim.
+NEUT4|Cleveland Cliffs great Quarter reported last week.
+NEUT5|Alright Joey.
+NEUT6|GLD?
+NEUT7|John to Jerry and back to you.
+NEUT8|Run RUN at Sunrun.
+NEUT9|"I bought it during the show, Scott."""

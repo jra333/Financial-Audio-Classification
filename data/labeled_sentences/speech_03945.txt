@@ -1,0 +1,39 @@
+NEUT0|"""Does an the whole question is a couple of things."
+NEUT1|One, if this tariff war continues between the US and China, how much does that weigh on Tesla or continue to weigh on Tesla as they work towards opening up a facility?
+NEUT2|A final assembly plant in Shanghai?
+NEUT3|They say they'll have it ready by the end of this year, but look whenever you see these auto plants being put together, they rarely open up on time.
+NEUT4|So let's say it gets pushed out into next year.
+NEUT5|How much does that impact potential sales or deliveries in China and then separate from that?
+NEUT6|If this?
+NEUT7|Trade war heats up.
+BEAR8|Kelly is that going to further hurt demand within China for Tesla vehicles or does it lead the government to take actions that could hurt Tesla?
+NEUT9|Maybe heard other automakers as well who are selling vehicles over there just a lot of unknowns.
+BEAR10|Charlie, you say your column today says the Wall Street is losing faith in Tesla.
+NEUT11|Again, this is Adam Jonas Bear case scenario and from Morgan Stanley they give the Bear case.
+NEUT12|They give the bull case.
+NEUT13|They have their base case.
+NEUT14|It's just the way they lay things out.
+NEUT15|Still, you explained that look Tesla is still trading about 30 times earnings per share of about $6.50.
+NEUT16|So if they get a Toyota multiple, that's a $65.
+NEUT17|That's right.
+NEUT18|They get a GM multiple.
+NEUT19|That's a $39.00 stock and we were at 11 bucks a share to start the year for 2020 estimates.
+NEUT20|Now we're at 6:50.
+NEUT21|So I mean, I don't know how you can anchor this thing based on that.
+NEUT22|Additional problem for Tesla is that they just issued all this stock an in the past that has sparked a share price rally because the funding you know the dreams that are years away seems to be a little more concrete.
+BEAR23|Well this time people who just funded the latest round are sitting on a big loss.
+NEUT24|If Tesla needs to come back to the market, guess who they're going to be asking for money.
+NEUT25|Same people who just took a chance and loss.
+NEUT26|What about the retail investors?
+NEUT27|This is a stock that's often widely owned by a lot of people out there who just love Elon Musk and what he's doing.
+NEUT28|Love the cars.
+NEUT29|Frankly.
+NEUT30|I mean, we talked about that yesterday.
+NEUT31|They are fun to draw dogs.
+NEUT32|A big part of the appeal is that investor base still there or not.
+NEUT33|Well they are.
+NEUT34|But you know there's a limit to.
+NEUT35|There's a limit to how much patience you know mom and Pop can take.
+BULL36|I mean, I think the adulation for Elon Musk in certain corners is as strong as it's ever been.
+NEUT37|But you know, this is, I mean, the balance sheets of mom and pop are not the same as, you know, Bailey Gifford, T Rowe Price exactly.
+BEAR38|"T Rowe and Fidelity are scaling back significantly."""

@@ -1,0 +1,8 @@
+BEAR0|"""April 18th is in the books on Wall Street and it has been a day of declines across major stock indices as you, as Treasury yields, which move inversely to price, continue to benefit from the broad risk off sentiment among investors."
+BEAR1|The benchmark 10 year Treasury yield fell the most since the feds meeting in March, where despite raising interest rates, the central bank would seem to give a dovish signal to the market.
+NEUT2|With longer dated yields.
+BEAR3|Backing off shortly after the probability of a further rise in policy makers target interest rate when the feds meets in June has fallen to around 40%.
+BEAR4|Down from 50% yesterday in 60% last week, amid continued geopolitical tension and some disappointing earnings, stock markets fell defensive.
+BEAR5|Stocks continue to outperform with consumer staples, real estate and utility sectors of the S&P 500 all finishing the day with gains.
+BEAR6|With the index dragged down by health care, financials and energy stocks, oil prices continue to fall in line with yesterday's poor performance.
+BULL7|"Other haven assets, like gold, edged higher and that's a New York minute."""

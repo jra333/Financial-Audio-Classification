@@ -1,0 +1,20 @@
+NEUT0|"""Yale University Nobel."
+NEUT1|Lauriat Robert Shiller wanted Nobel Prize.
+NEUT2|He's a scholar at Yale University.
+NEUT3|He he does this thing.
+NEUT4|This is an article from today's Financial Times.
+NEUT5|Actually, it's from the 13th by John Authors.
+BEAR6|The title as fears grow over U.S. stock market bubble.
+NEUT7|And here's what he said.
+NEUT8|He the financial, he told the Nobel Economics laureate, told the Financial Times that his financial vial, his valuation, confidence indices.
+BULL9|I resisted an index of how confident people are about the market, showed greater fear that the market was overvalued, overvalued means that we're in a bubble, right that that stock prices are higher than they should be.
+NEUT10|Their prices don't reflect their actual value that the market was overvalued.
+NEUT11|There was more overvalued than at any time since the peak ofthe.com bubble in 2000.
+BEAR12|In other words, expect a big drop.
+NEUT13|Here's the actual quote from Hillary said it looks to me a bit like a bubble again, with essentially a tripling of stock prices since 2009.
+BEAR14|In just six years, and at the same time, people losing confidence in the valuation of the market.
+NEUT15|Right?
+NEUT16|Sian, I bring this up because all these things interact and then I want to the situation in Europe.
+BEAR17|Is getting even more and more bizarre and I think frankly we're looking at something very similar here in the United States with regard to the immigration issue and that is the rise of hard right parties in the United States.
+NEUT18|If Donald Trump would be the leader of that authoritarian movements.
+NEUT19|"And on the left is the rise of good old fashioned liberalism."""

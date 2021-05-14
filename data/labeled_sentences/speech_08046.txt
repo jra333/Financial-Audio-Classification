@@ -1,0 +1,32 @@
+BULL0|"""An IPO is a great step for any company."
+NEUT1|And sometimes I've been known to say that the best day of going public is the day you go public.
+NEUT2|And after that it's all downhill.
+BULL3|Now that's not really true, but in fact, if you look at what happened with Livongo, there's a great build up to us going public.
+NEUT4|And then we went public.
+BULL5|And that was really exciting in our stock man up.
+NEUT6|And then we found out that the market didn't really understand this new kind of company we had created.
+NEUT7|What is a SAS based?
+NEUT8|Healthcare company, what does that look like?
+NEUT9|No one had done that before and what is consumer digital health?
+NEUT10|What does that mean?
+NEUT11|And so we had tech investors and healthcare investors.
+NEUT12|No one really understood us.
+NEUT13|So the stock of a sudden now from being all of a sudden at this high number boom drop down and people start questioning wow, are you doing the right thing?
+NEUT14|Why is this?
+BEAR15|What a problem?
+NEUT16|This is an all we told our people is you are not your stock price.
+NEUT17|Keep building this company that we are building together running a public company means you have to run the day-to-day company.
+NEUT18|You also have to manage analysts and investors and you have to.
+NEUT19|Well and much more complicated environment where you know their stock reporting requirements in the like lot of companies make a mistake they go public and they think everything is going to be the same and in fact a lot changes you have now.
+NEUT20|A quarterly report card that you get.
+NEUT21|And if that's not up you're dealing with a lot of press and you're dealing with customers who might be concerned.
+NEUT22|So the management of the company gets more complicated and I wanted to make sure that.
+NEUT23|In order to keep growing the way we were growing innovating, the way we're innovating and managing the market that we had, the management bandwidth and we had the leadership in that tier of leaders include some of the people who been CEO's of their own company who've done IPOs before.
+NEUT24|I mean an incredible team and that in part is what fuels our growth.
+NEUT25|Why do we do the IPO?
+NEUT26|Well in today's world, an IPO is a branding event that's important.
+BULL27|It gave us the financial wherewithal to continue to grow the company and then our customers, who now represent more than 1/3 of the Fortune 500.
+NEUT28|In some of the largest companies in the world, they, like the transparency of being able to know each quarter were reporting how we're doing.
+NEUT29|Being able to look because they're making big bets on us.
+NEUT30|We're taking care of their population, and so they want to know that works financially.
+BULL31|"Sound company we knew would be tough, and it took, you know, the better part of a year to help the market and our investors understand what we were creating."""

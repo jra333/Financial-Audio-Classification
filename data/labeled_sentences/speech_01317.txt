@@ -1,0 +1,10 @@
+NEUT0|"""For the big news on the share market today, was that the European Coca Cola bottler he's been in $9.3 billion for the Australian 1 Coca Cola Amatil well as usual, it's not an actual bid but a non binding indicative proposal designed to get a peek under the bonnet."
+NEUT1|And the directors have said, yeah, that's fine.
+BEAR2|Peak away and the share price, Julie lurched 16% higher to less than the proposed bid price, which is $12.75.
+NEUT3|Because of course, there won't be an option since the Coca-Cola parent company in America owns a third of the Australian company.
+BEAR4|Apart from that, banks and retailers fell and the food delivery business Marley Spoon got mysteriously smashed down by a third after announcing a $56 million capital raising at $3.22 a share and 100% increase in revenue.
+BULL5|Goodness knows what's going on there, although it had gone up 15 fold since March.
+BULL6|The Australian dollar eased back to 71.1 US sense and in general.
+NEUT7|It's fair to say that the exchange rate has rolled over, having peaked above 72 a fortnight ago, and if you're wondering what the relevance of that is to the share market, here's a graph of the Australian dollar and the World Share Index.
+NEUT8|Global share prices don't follow the Aussie dollar and vice versa, but shares like the Aussie dollar are inversely correlated to the US dollar because of the way the US dollar acts as a safe haven when investors given attack of the jitters and sell shares.
+BEAR9|"Now the US market rose a bit on Friday while Asian markets fell today, and commodity prices all fell led by iron ore and that finance."""

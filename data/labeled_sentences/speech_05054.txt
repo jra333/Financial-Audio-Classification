@@ -1,0 +1,19 @@
+NEUT0|"""Hello and welcome to Friday's Daily Financial report."
+BULL1|The dollar yen pair has added point 3% in the last session.
+BEAR2|The AROSI has shifted sharply into the positive zone.
+BEAR3|The price of gold has lost one point 1% in the last session.
+BEAR4|The ultimate oscillator transition sharply into the negative zone.
+BULL5|Bitcoin has added 3.6% in the last three sessions.
+BEAR6|The RSI has receded into positive territory.
+BEAR7|The Aussie dollar pair has lost point 1% in the last session.
+BULL8|The ATR has moved into low volatility territory, coming up.
+NEUT9|Chief analyst choices for today.
+BEAR10|Netflix posted its weakest subscriber gains in four years as streaming competition increased, pandemic restrictions eased, and live sports return to television.
+BEAR11|The crypto market is still digesting Paypal's move to allow crypto on its platform.
+BEAR12|With more andmore stating that this constitutes the critical mass for mainstream crypto adoption, a dearth of action in fixed income markets is prompting bond investors to focus more on currencies to spot market trends.
+NEUT13|Those were today's major economic events and now moving on to world financial headlines, the UK retail sales will be released at 400 GMT.
+NEUT14|The German manufacturing PMI at 5:30 GMT, the German Ifo Business Climate Index had 600 GMT.
+NEUT15|The UK manufacturing PMI at 6:30 GMT.
+NEUT16|the US market composite PMI at 11:45 GMT and the US services PMI at 11:45 GMT.
+BULL17|We hope that you've enjoyed Friday's market outlook on behalf of all of us here.
+BULL18|"We wish you a productive trading day."""

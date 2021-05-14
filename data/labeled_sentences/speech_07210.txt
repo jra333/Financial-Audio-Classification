@@ -1,0 +1,24 @@
+BULL0|"""Good morning and thank you for joining our daily Outlook and today will cover the changes in the euro dollar pair."
+BULL1|Michael will be sharing insights from our trading desk, the euro dollar pair has gained point 3% in the last session.
+BULL2|The Williams indicator shifted sharply into positive territory.
+BEAR3|Facebook stock has fallen point 3% in the last session.
+BEAR4|The CCI plunged into the negative area.
+BEAR5|The Sterling dollar pair has fallen one point 1% in the last two sessions.
+BEAR6|The stochastic RSI is heating up and is now giving a negative signal.
+BEAR7|The Aussie dollar pair has lost point 8% in the last two sessions.
+BEAR8|The Williams indicator is sinking and is now entering the oversold area.
+BULL9|Thanks Michael.
+NEUT10|Moving on to the latest updates in World Financial News.
+BULL11|Paypal's crypto trading goes live in the US and its customers will be able to trade.
+NEUT12|Up to $20,000 a week.
+BULL13|The technology sector regained strength on Wall Street, with the NASDAQ surging over 2%, while the S&P 500 registered a smaller gain.
+BEAR14|Q3 UK growth sees unsurprising record rise, however, Q4 looks set to contract after renewed national lockdowns.
+NEUT15|Thank you now let's hear today's most important economic events.
+NEUT16|The Swiss PPI will be released at 5:30 GMT.
+NEUT17|The euro zone's GDP at 800 GMT.
+NEUT18|The euro zone's trade balance at 800 GMT.
+NEUT19|The eurozone's employment change at 800 GMT.
+NEUT20|the US PPI at 11:30 GMT and the US Michigan consumer sentiment at 1300 GMT.
+BULL21|We hope that you've enjoyed today's market outlook on behalf of all of us here.
+BULL22|We wish you a productive trading day.
+NEUT23|"Be sure to join our next review for the latest news and events from the financial markets."""

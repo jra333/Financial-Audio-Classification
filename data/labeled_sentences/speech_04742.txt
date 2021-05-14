@@ -1,0 +1,18 @@
+NEUT0|"""What's up everyone?"
+BULL1|Good morning happy Monday.
+NEUT2|Welcome to Merens Monday morning market update episode #4.
+NEUT3|For the week of March 28 through April 3rd.
+NEUT4|Alright, let's get into it.
+BEAR5|So this week in Marin County we had 64 properties that closed.
+NEUT6|53 of those were houses.
+NEUT7|Three of those were townhouses, 7 condos, Ann, one mobile home, the average listing price was 1.74 million.
+NEUT8|The average sales price was 1.8 million.
+NEUT9|So on average houses are going for about $65,000 over asking price.
+BEAR10|The cheapest house that sold with $70,000 and the most expensive house that sold was $4.95 million.
+NEUT11|The average time that the house was on the market for was 25 days, with 75% of the property selling within the first month and only three properties took over 120 days to sell.
+NEUT12|And there's a good amount of competition right now.
+NEUT13|If you're a buyer 'cause a handful of these properties had over 10 offers on him also right now in Marin County, there's 261 active listings with an average listing price of $2.7 million, ranging from 100 and $49,000 to $43 million.
+BULL14|Alright guys, thanks for joining me.
+NEUT15|That was episode #4.
+NEUT16|I'll see you here next week.
+NEUT17|"Have a good one."""

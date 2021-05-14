@@ -1,0 +1,37 @@
+BULL0|"""The stock under a little bit of pressure today after Elon Musk kind of dampened the outlook a bit in terms of what we should expect, but I'm curious to get your thoughts on this change in tune and also how significant you think this is going to be for Tesla going forward."
+NEUT1|My very first thought is be skeptical of whatever we here today because Tesla, like other companies, including other automakers, does have a habit of exaggerating and sometimes overstating what it's got in hand.
+NEUT2|Now, what analysts are looking for here?
+NEUT3|Or are there any meaningful breakthroughs that Tesla has to?
+NEUT4|Talk about in terms of all different elements of battery technology, whether energy density, whether the chemicals that make the battery work, whether that you know anything that would allow them to produce a cheaper and smaller battery would be important, and the bumper sticker here is a million mile battery.
+NEUT5|Now that that means a battery that can last 1,000,000 miles in a car, which is not really that important for a car buyer, because nobody wants to own a car for 1,000,000 miles or even drive 1,000,000 miles.
+NEUT6|But that battery in theory if you drive your car for 100,000 miles while the battery can be either continued to be used in the car or used for other purposes, so it so it would extend the life of these batteries and sort of improve the economics of the batteries.
+NEUT7|But what we're what everybody is looking for here, is there anything that is going to that is going to sort of move battery technology forward?
+NEUT8|Because that is the thing that is holding back adoption of electric vehicles.
+NEUT9|And one last thing I'll just throw into this.
+NEUT10|Long disquisition is Matt Morgan Stanley even suggests that it might be in Tesla's interest to open its do open source technology with its batteries, so that other automakers can adopt the batteries, and that might actually speed the evolution of electric vehicles.
+NEUT11|So, so that's the umbrella of things that people are looking for.
+NEUT12|We'll see how many of those things we actually hear about it later today.
+NEUT13|Hey Rick and what about Elon Musk's tweet?
+NEUT14|Sort of dampening the expectations or basically setting more realistic expectations.
+NEUT15|Talking about high volume production for 2022.
+NEUT16|Do you think the street is that concerned about when they get to scale these new batteries?
+NEUT17|So if this new battery is being unveiled today and and what the timeline is for scaling production, I have no idea what to make ever of any Elon Musk tweet or anything he says.
+NEUT18|Ahead of a big event like this.
+NEUT19|So on one hand, Tesla really hypes these events and they make it so you know everything Tesla talks about.
+NEUT20|They make it sound like it's breakthrough technology, where when in reality some of it is.
+NEUT21|But some of it isn't.
+NEUT22|Their self driving technology, for example, is not nearly as advanced as the company would have you believe.
+NEUT23|So you know Elon Musk.
+NEUT24|He did talk down what might come later today earlier this morning.
+BEAR25|And that is part of the reason the stock was off today.
+NEUT26|I think a little more than 5%.
+BULL27|Of course the very volatile stock it could easily gain that back and more.
+NEUT28|Tomorrow, if the market likes what it sees.
+NEUT29|It's hard to tell what technology breakthroughs Tesla has until these.
+NEUT30|This technology actually makes it into the cars and gets on the road.
+NEUT31|So there's a big difference from what Tesla or any automaker can say they have in a lab an what's actually going to make a difference on the road.
+NEUT32|Well, the battery vent and getting underway now.
+BULL33|Tesla shares already rebounding a little bit after today's sell off up, just around 1% here after hours.
+NEUT34|Hey investors, Zach Guzman here are you interested in learning more about the markets and getting the latest financial news?
+NEUT35|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT36|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

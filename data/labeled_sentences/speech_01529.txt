@@ -1,0 +1,22 @@
+NEUT0|"""Hello companies, with shares trading under $5 or most often small cap and Midcap stocks which tend to be newer businesses with less diversification in how they operate and where their revenue comes from."
+NEUT1|As a result, their disproportion.
+BEAR2|Sadly, unprofitable produce more volatile operating results and have more volatile share prices.
+NEUT3|Recent stock trading rule changes have created an alternative and many brokerage platforms now offer fractional shares which allow investors to easily purchase a portion of a share of stocks or exchange traded funds ETF with any level of funds, even less than $5.
+NEUT4|This has become a great option for diversification or a small purchases for investors who can sink a large amount of capital into the stock market.
+NEUT5|Still, stocks trading under $5 a share can be great for investors looking for under the radar opportunities or those who want to get in at the ground floor of a rapid growth story.
+NEUT6|Below are three of the more interesting ones on the stock market now.
+NEUT7|First stock OPKO health healthcare company.
+NEUT8|OPKO health NASDAQ.
+NEUT9|Hope he K operates a clinical testing segment and pharmaceutical business.
+NEUT10|It owns Bio Reference Laboratories, one of the largest diagnostic lab service providers in the US and 29 other countries.
+NEUT11|The labs provide testing for a number of diseases and health issues with an especially strong presence in oncology.
+NEUT12|SEC stock Antares pharma.
+NEUT13|Specialty pharmaceutical company.
+NEUT14|ANTARES Pharma NASDAQ atrs.
+NEUT15|Focuses on drug delivery.
+NEUT16|Product such as injection instruments, oral tablets and topical gels.
+BULL17|These delivery technologies are meant to enhance the safety and efficacy of pharmaceutical products developed by other companies, especially in the areas of rheumatology.
+NEUT18|Urology, endocrinology and neurology.
+NEUT19|3rd Stock Fluent Fluent Inc. NASDAQ FLNT provides digital marketing and customer acquisition services to clients in numerous industries in the US and abroad.
+BULL20|The company has notched impressive growth in recent years, averaging nearly 15% expansion in sales since 2016.
+BULL21|"Despite the challenges related to economic disruptions from COVID-19, Fluents third quarter sales rose 21% year over year with its media and entertainment segment providing an important catalyst for overall growth."""

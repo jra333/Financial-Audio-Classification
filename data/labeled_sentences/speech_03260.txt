@@ -1,0 +1,36 @@
+BULL0|"""There you can see the Dow Jones industrial average up only 68 points now was up more than 100 rebounding after yesterday's sell off, you might be worrying, like everyones always worrying right."
+NEUT1|Always ohmygod every time the market sells off.
+NEUT2|You think this is going to be the big one here it comes kind of been conditioned to it over the past 12 years really.
+NEUT3|But Jack, how from Barrens is here at 5 reasons why the sell off is not going to be big?
+NEUT4|Yeah, well who's to say?
+NEUT5|What's you know whether it's self care in a particular day is going to be big, but you know Paul, I've been worried about you.
+BEAR6|I've been worried that you would see stock prices reaching you.
+NEUT7|About me.
+NEUT8|Yeah, and then you'd say, hey, this is this is right back to the level we were in 2007 before the plunge in 2000 before and.
+NEUT9|So it's different than your different.
+NEUT10|It is different to five things, right?
+NEUT11|First of all, you get more economic value when you're buying stocks.
+BULL12|Earnings are up 18% since 2007 to get more earnings for your money and the book value of company assets is also higher.
+BULL13|Stocks are about 20% cheaper relative to book value than they were in 2007.
+NEUT14|So more economic value.
+NEUT15|You also get much more in dividends at those past peaks you were buying into dividend yields.
+BULL16|Of 1% in change now you're over 2% and more important, the trend is higher.
+BULL17|We have a record number of companies increasing dividends.
+NEUT18|Most companies are paying since 1999 and they're only paying a third of their earnings as dividends, so their historic averages over 50%.
+BULL19|So there's room for those payments to continue to rise, right?
+NEUT20|So companies are using less leverage.
+BEAR21|Leverage is about half what it was relative to core earnings, and that's not killed the bank right now versus 2000, so you could have a stumble in the economy, and it's not necessarily going to drive company profitability into the ground like it did in the past.
+NEUT22|The alternatives are worse, right?
+NEUT23|2007?
+NEUT24|You could buy a 10 year Treasury over 4% and in 2000 you get more than 6%.
+NEUT25|You're getting one point 7% now.
+NEUT26|So if you're running from the stock market I would question where are you running to?
+NEUT27|If you know something I don't please tell me because I'm on the gold.
+NEUT28|I'm on the hunt for decent yields and Lastly, just keep in mind inflation.
+BULL29|It's been muted the past several years, but consumer prices are up 11% since the last stock market peak in 2007, so you'd have to say.
+NEUT30|If the stock market is merely even now with what it was then in after inflation terms, we really haven't set a new high.
+NEUT31|So some things are different.
+NEUT32|I'm not saying you should be an extreme bull right now, but you don't want to run from this market.
+NEUT33|Look for the pockets of value that still remain in the market alright, Jack, how barons?
+NEUT34|Good stuff.
+BULL35|"Thank you very much."""

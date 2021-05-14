@@ -1,0 +1,33 @@
+NEUT0|"""How do you evaluate David?"
+NEUT1|You know some of these companies like Tesla?
+NEUT2|How do you value it?
+NEUT3|I don't know when it comes to Tesla.
+NEUT4|I don't know.
+NEUT5|Let's do a DCF valuation.
+BULL6|Assuming 15 million units in 2040 and therefore after that we have Tesla entering perpetuity growth of 2 1/2%.
+NEUT7|That's Goldman Sachs is estimate of how you analyze and.
+NEUT8|Try and assess the value of Tesla and that's how they get to that 780 price target from 450 feels pain.
+BEAR9|Yeah he downgraded the stock in June.
+NEUT10|By the way, you can't.
+BULL11|You can't blame anybody for down grading and when it comes to Tesla I don't think was but it's been up 192% since the downgrade versus the S&P up 22%.
+BULL12|Which by the way has been pretty darn good that since the middle of June when Goldman made the mistake of down grading tests only to upgrade it today.
+BULL13|On better long term sales, outlook and margin expansion gym their EV adoption case scenario keeps going up.
+NEUT14|They call for 26% global EV adoption rate by 2000.
+NEUT15|Thirty 40% in 2035.
+NEUT16|I know, I mean it's painful because then he had to stretch it to the TV.
+BULL17|More drops in the battery, the margins getting better.
+NEUT18|I mean also Thomas full autonomous yeah, but would it be better just say listen?
+NEUT19|I know he did say that I got it wrong.
+NEUT20|That was like man is a mea culpa piece.
+NEUT21|Yeah, but the same time I think that what the the people who read it make they make judgments about his credibility going forward.
+NEUT22|Because David, their finances including by Goldman.
+NEUT23|Maybe this is they needed the to bring back David the Chinese Wall.
+NEUT24|Remember the Chinese wall where the analysts listen to the to the corporate finance, and I mean that's what he needed to listen to.
+BEAR25|Corporate finance and they had to slip on the notes saying listen going higher.
+NEUT26|Now the Chinese Wall defeated this right.
+NEUT27|Your point being, if you talked to the guys on the corporate finance side you would have had a more bullish outlook.
+NEUT28|Yes, because they priced this deals in five minutes and everybody would line up to buy.
+NEUT29|Analyst was so pure, yeah?
+NEUT30|Not a shame.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

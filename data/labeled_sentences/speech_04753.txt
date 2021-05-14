@@ -1,0 +1,17 @@
+NEUT0|"""Understanding market cap presented by wallstreetsurvivor.com."
+NEUT1|Market capitalization or market cap is the total value of a company shares.
+NEUT2|Investors use market cap to determine a company size and value.
+NEUT3|To calculate market cap, multiply a company's outstanding shares by its current market price.
+NEUT4|This value will let us know how much a company shares are worth on the open market.
+NEUT5|Because market price is determined by investors, market cap is really the public perceived value of a particular company.
+NEUT6|Let's look at Lucy's Diner, a fictional company traded on a fictional Stock Exchange.
+NEUT7|Lucy's Diner is a publicly traded company, meaning investors combined sell shares of ownership.
+NEUT8|Lucy's Diner has 100,000 shares outstanding meaning there are 100,000 shares in the marketplace.
+NEUT9|Lucy's Diner is currently trading at $50 on the exchange, therefore its market cap is 100,000 * 50 for a total of 5,000,000.
+NEUT10|Since market cap represents value, we now know that Lucy's Diner has a value of $5 million.
+NEUT11|Companies are grouped together by market cap size companies with a value of less than $2 billion are considered small cap companies with a market cap between 2:00 and $10 billion are mid cap companies and companies with a market cap greater than 10 billion.
+NEUT12|Ferd two as large cap companies.
+NEUT13|Market cap is most useful when comparing stocks, whether qualitative or quantitative, technical or fundamental companies should always be compared against companies of a similar size.
+NEUT14|Exxon Mobil has held the title for Most valuable companies throughout most of the 2000s, although recently Apple has overtaken them.
+NEUT15|It's up to you to figure out which company will be the most valuable in the future.
+NEUT16|"Trade for free at wallstreetsurvivor.com today."""

@@ -1,0 +1,25 @@
+NEUT0|"""In 1602, the Dutch East India Company employed hundreds of ships across the world to trade goods like gold, spices and textiles."
+BEAR1|These voyages were expensive and any other money to fund their explorations.
+NEUT2|As such, they turned to private individuals to request funds for the voyage.
+NEUT3|In return, the individuals will get a cut of the profit.
+NEUT4|This was the creation of what we now know today as the stock market.
+NEUT5|So what is the stock market?
+NEUT6|Stock markets are where investors comprised of both corporations and the general public come together to buy and sell shares in public companies.
+NEUT7|The shares are basically tiny portions of a company and the goal of the stock market is for the share prices to rise, raising capital for both the investor and the company.
+NEUT8|Household names you've heard of that are listed on the stock market are Apple, Google, Amazon, Netflix, and thousands more.
+NEUT9|So what determines whether stock price goes up or down?
+NEUT10|It's simple, the stock market is based on the idea of supply and demand.
+NEUT11|When more investors buy and sell, the stock price goes up, and if more investors sell them, buy the stock price goes down.
+NEUT12|There are millions of reasons why investors would buy or sell shares of companies.
+NEUT13|That's why it's imperative to research an understand the risks when you're investing in a company.
+NEUT14|So how do you, the viewer, enter the stock market?
+NEUT15|Your best bet in the stock market is to invest in an index fund, which is a collection of companies that are merged together into one stock, and it's usually one of the safest ways to invest in the stock market.
+BULL16|Because when you're investing in an index fund, you're basically investing in the market as a whole, which averages an increase of 10% returns per year.
+NEUT17|An example of an index fund is the S&P 500, which is a collection of the top 500 companies from various industries.
+NEUT18|Some of these include Walmart, Microsoft, Facebook, Disney and much more.
+NEUT19|Now you also want to Start learning more about the market.
+NEUT20|To do that, you should read investment books and start reading the news to understand how the economy works.
+NEUT21|I recommend the book, The Motley Fool Investment Guide for Teens because it's simple and informative, I would also recommend reading articles from Investopedia because they provide general knowledge on all sectors of finance and investing, and they're basically an encyclopedia for investors.
+NEUT22|If you invest $100 a month in an index fund for 30 years by year 30.
+NEUT23|You can have upwards of $200,000 that shows the potential of the stock market and I encourage all of you to start investing after this video.
+NEUT24|"Thank you very much and be sure to like and subscribe."""

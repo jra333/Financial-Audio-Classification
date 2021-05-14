@@ -1,0 +1,16 @@
+BEAR0|"""Announcing a substantial cut in production at several of its plants here in North America."
+BEAR1|This is the list of the production cuts were not going to go through all of them, but these are substantial for two weeks.
+NEUT2|The Dearborn truck plant.
+NEUT3|That's where they build the F series pickup truck.
+NEUT4|The most popular truck here in the United States.
+BEAR5|The most popular vehicle in terms of sales are going down for two weeks the week of April 5th, the week of April 12th.
+BEAR6|They're also going to be cutting production at the Kansas City Assembly plant on the truck side, the Louisville Assembly plant.
+NEUT7|That's where they make SUVs.
+BEAR8|For a couple of weeks, the Oakville Assembly complex will be down the week of April 12th, 19th, and 26th.
+NEUT9|The question is, what is the bottom line in terms of this chip shortage and and the impact on production and ultimately the impact on the bottom line.
+NEUT10|Remember the previous guidance from Ford is that the chip shortage this year would have an impact of 1 to 2 1/2 billion dollars in terms of cutting into the profits of the company, Ford is not changing that guidance at this point, but they do make it a point in this release in saying.
+NEUT11|When they report Q1 earnings and financial results, April 28th, that's when they will update their guidance.
+NEUT12|So look for forward to update their guidance in terms of the chip shortage impact.
+NEUT13|At that time, guys back to you.
+NEUT14|Shepard Smith here.
+NEUT15|"Thanks for watching CNBC on YouTube."""

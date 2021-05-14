@@ -1,0 +1,27 @@
+BULL0|"""Jim, what did you think of the debate last night and just watching Bernie Sanders now kind of strengthen his lead?"
+NEUT1|Look, I I'm I'm not a political guy I watched it.
+BEAR2|I cringed when Mayor Bloomberg didn't have the tax returns like Clint cringed at his jokes.
+BEAR3|I cringed because obviously the audiences didn't like it.
+NEUT4|Was a lot of times you listed the audience you make up your own mind.
+BEAR5|It was painful if you're.
+NEUT6|If you know, Mayor Bloomberg is painful because you're, I think wealth was really under fire last night.
+NEUT7|And I came back like Joe and just how did this get to be that?
+NEUT8|If you're?
+BEAR9|If you're wealthy in your Democrat, it's just bad news.
+NEUT10|And I think that's a shame because you know, this is the party now of revolution, and the Republican is a party of preservation.
+NEUT11|Revolution distribution seems to be what people want in the Democratic Party.
+NEUT12|I don't recall this ever you ever quote like this, no, but it's crazy how much people enjoyed this debate him, and I'm trying to figure it out.
+NEUT13|I guess it's a commentary on our times, but remember previous debates where that you weren't allowed to applaud and I was thinking if that's so hard, it's so boring when you can.
+NEUT14|And last night, what made the whole thing, where the booze and and suddenly I felt like I was in the Colosseum?
+NEUT15|The Roman Colosseum and I'm like.
+BEAR16|And I felt bad.
+NEUT17|I felt like I was avoiding it.
+BULL18|Yeah, I was really enjoying it.
+NEUT19|Alright, we're in this.
+NEUT20|We're in the same boat.
+BEAR21|I mean, that's exactly what I said I said wow that was bad.
+BEAR22|Yeah, because the audience said it was bad and TurboTax.
+NEUT23|Well yeah, I mean these things are barred from now on June.
+NEUT24|I mean, I gotta hand it to MSNBC from now on, can we not tell him not to applaud that they have to be quiet?
+NEUT25|I mean that it's.
+NEUT26|"I mean, I think that be better."""

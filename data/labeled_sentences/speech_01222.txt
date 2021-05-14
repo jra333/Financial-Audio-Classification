@@ -1,0 +1,11 @@
+NEUT0|"""So long term we want to try to make about 20 million vehicles here."
+NEUT1|What does it mean?
+NEUT2|What does what does you talk about the people investing in this?
+NEUT3|There are a lot of people who have looked at your IPO who have told me you know what.
+NEUT4|I'm not sure that this is a smart investment.
+NEUT5|Our own Jim Cramer yesterday said, I'm not sure that Tesla has a business plan that's going to work.
+NEUT6|It's not a smart investment.
+NEUT7|What do you say to the skeptics who look at where Tesla is the money that you're raising and they say you know what?
+NEUT8|They've got a nice roadster, but they don't have a good business plan.
+NEUT9|Well, I think you know, Jim, I'd say, yeah sure.
+BULL10|"Jim, you know we're not best guns, but I think we're going to do OK, you know, Jim, I think recommended investors and Lehman and other things."""

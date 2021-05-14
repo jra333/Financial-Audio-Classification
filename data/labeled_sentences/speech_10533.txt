@@ -1,0 +1,9 @@
+NEUT0|"""Alright, let's take the Apple stock."
+NEUT1|We can see Apple has formed the red candle and.
+BEAR2|Today the down day, very huge.
+BULL3|The two point 7%, but we can see it still above the 1234 the 4th.
+NEUT4|Support line, which is the 120 days year.
+NEUT5|My life as long as we keep it above this line there still hope for the stock to trading higher but here is that cross.
+BEAR6|Another that course in short term is very bearish in mid term.
+NEUT7|We are still alive so we need to wait for the confirmation from the market.
+BULL8|"Thank you."""

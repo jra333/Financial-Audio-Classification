@@ -1,0 +1,17 @@
+NEUT0|"""Everyone has days where not having got out of bed feels like it would have been the smartest strategy Monday when emerging markets virtually fell out of bed would seem at first glance to be one of those."
+NEUT1|But hold those duvet daydreams.
+BEAR2|This sell off was overdue unless the Federal Reserve actually raises rates next week giving form to the fear behind the market.
+NEUT3|Move, a prolonged panic should not ensue.
+BULL4|Emerging market equities have just enjoyed their strongest and longest outperformance compared with developed world markets in six years to date in 2016, they've outperformed in total return terms by 12%.
+NEUT5|According to BNP Paribar investment partners.
+BULL6|The case for backing emerging markets is based on their better growth outlook compared with the developed world and the expectation that earnings will follow suit.
+NEUT7|It does also depend on the Fed not turning ultra hawkish.
+BEAR8|Markets, however, still only think there is a 30% chance of an interest rate rise this month and for all its talk, the Fed has shown little sign in recent years.
+NEUT9|Really wanting to shock markets.
+BULL10|Valuations on emerging markets have certainly run up prior to Monday.
+BULL11|Sell off equities had enjoyed ten straight weeks of inflows up to last Friday, according to Morgan Stanley.
+NEUT12|But their longest cumulative run in more than two years now that's considered a cell signal, or at least a take care.
+NEUT13|Well, there is another factor in emerging markets favor the lack of an alternative.
+BULL14|Developed markets are close to their most expensive levels in 200 plus years, according to Deutsche Bank's.
+NEUT15|Annual long term asset study, but this is the short view after all, since emerging markets swung back into favor following the post post Brexit turmoil, buying am has often felt more of a case of nothing else on the noriel conviction risk on trade, and so it remains.
+BEAR16|"That doesn't however, mean it's wrong, just that it is crowded, although at least now a better valuations than it was last week."""

@@ -1,0 +1,37 @@
+NEUT0|"""This chart shows the yield on the German government's 30 year bonds over the past few months."
+NEUT1|You'll notice something unusual happened in early August.
+BEAR2|The yield dropped below 0.
+NEUT3|A yield is the return investors receive on a bond.
+BEAR4|A negative yield is the opposite, meaning investors are receiving less money than they originally paid.
+BEAR5|Negative yields are relatively new feature in the world's bond markets, but they're appearing with increasing frequency.
+BEAR6|Globally, around $16 trillion worth of bonds currently carry a negative yield.
+NEUT7|Bonds are one of the safest investments on the market.
+NEUT8|There are staples of many investment portfolios, from pension funds to retirement accounts.
+NEUT9|Investors like them because of their reliable returns.
+NEUT10|So how did some bond yields go negative?
+NEUT11|And why would investors keep putting their money in assets with negative returns?
+NEUT12|To understand negative yields, you need to understand how bonds work.
+NEUT13|Bonds are a form of debt that governments and companies issue for various lengths of time.
+NEUT14|A bonds lifespan can range from a few weeks to a few decades.
+NEUT15|Bond issuers make regular interest payments to bondholders over the assets lifespan.
+NEUT16|This is known as the coupon rate, but bonds are often bought and sold on the secondary market.
+NEUT17|Their prices fluctuate, which affects what an investor can expect to earn.
+NEUT18|The yield is a calculation of how much an investor can expect to make from holding onto a bond bought at a particular price for a particular length of time.
+NEUT19|The yield of a bond is inversely related to its price.
+BEAR20|High demand in the bond market drives up prices and drives down yields.
+NEUT21|This is largely why yields are negative.
+BULL22|Right now the bond market is experiencing unusually high demand.
+NEUT23|There are a few reasons for this.
+NEUT24|The first is that investors have grown increasingly concerned about the lack of growth in the global economy amid low inflation, political uncertainty and trade disputes, investors are putting more money into safer assets.
+NEUT25|Like bonds the second is that several central banks around the world have set their interest rates below 0.
+NEUT26|Central banks are banks for commercial banks, so when they set negative interest rates, commercial banks must pay them for the privilege of holding their money.
+NEUT27|This incentivizes commercial banks to lower the interest rates they charge too.
+BEAR28|So far, commercial banks have been reluctant to pass that negative rate to average consumers, but some have passed on the cost to companies and large institutional investors.
+NEUT29|Negative rates give investors an incentive to buy bonds rather than park their money at a bank.
+NEUT30|This drives up demand.
+BEAR31|These factors have pushed bond prices higher and driven down yields so much so that they are now in negative territory an in some cases even below the negative rates set by central banks.
+NEUT32|So why would investors continue to buy bonds with negative yields?
+NEUT33|Well, if demand continues to rise, buying now means potentially selling bonds later at a higher price.
+BEAR34|This can help offset losses in the short term, but the long term implications of negative yields could mean lower returns on pensions and retirement accounts.
+BEAR35|Meaning workers might have to save more and work longer.
+BEAR36|"Negative bond yields and negative interest rates in general are viewed as a short term remedy to get economies moving, but with the footprint of negative rates getting deeper and wider, investors worry that they may be less of a temporary fix and more of a permanent fixture in the market."""

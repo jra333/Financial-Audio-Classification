@@ -1,0 +1,37 @@
+NEUT0|"""The mark is a pretty big deal."
+NEUT1|You're partnering with Universal, which is, of course CNBC's sister company, to have a potentially a short as a 17 day window between when films can be released in your theaters and when they could be available.
+NEUT2|Video on demand.
+NEUT3|I'm wondering what you see is the financial advantage for you?
+NEUT4|What kind of cut you're going to get from those premium video on demand sales during what used to be the theatrical window?
+NEUT5|Julie, thanks for the question.
+NEUT6|You know, I think it's important to realize and one of the reasons that we did this deal.
+NEUT7|One of the key reasons is that a selected franchise films have been carved out with a minimum of 31 days and I emphasize a minimum.
+NEUT8|So that's that's five weekends.
+NEUT9|And when you go back and you look at the big pictures over the last couple of years, you know at least 50% of the box office where we're coming from those big pictures.
+NEUT10|So in addition to those those selected franchise films, any movie that grosses over.
+NEUT11|$50 million again will have a minimum of 31 days, and it's clearly in Universal's interest to want to play movies as long as they continue to do and generate significant box office in the theater.
+BULL12|So so we're very happy with the deal and we're also very happy with the back end of the deal.
+NEUT13|There were some financial incentives that universal put forward with us.
+NEUT14|I'm not going to be specific about what those are.
+NEUT15|I feel like there was a confidential deal terms between US and universal, but there were significant.
+BULL16|We're very pleased with it.
+NEUT17|Yeah, it seems more like the key thing here is flexibility.
+NEUT18|The idea that studios can decide on a movie by movie basis how they're going to handle that distribution.
+NEUT19|But I have to ask, you know, you've made this deal with Universal Universal also made this deal with AMC.
+NEUT20|Do you expect to make similar deals with this flexible window windowing with other studios as well?
+NEUT21|Julie, we've kind of we kind of labeled it dynamic Windows an we have been talking to multiple studios for months actually some even pre covid about a dynamic dynamic windowing structure in which wouldn't be one size fits all, meaning that for a small or medium sized movie that might be a minimum of 17 which could become 2431.
+NEUT22|And for the big tentpole franchise films that 31 days is critical.
+NEUT23|And again that's a minimum.
+NEUT24|We would expect that some of these movies Universal's got some great franchise films coming would actually stay in the theaters beyond 31 days because it's in Universal's financial interest to do so.
+NEUT25|Mark good morning it's John Ford so I hear this and I'm trying to process it and my first thought on the critical side is maybe under this system small films are going to have less time to make a splash.
+NEUT26|A movie that takes a long time to catch on word of mouth might never really get the chance to have a decent run in theaters.
+NEUT27|Right?
+NEUT28|John, I don't.
+NEUT29|I don't think so.
+NEUT30|You know we have.
+BULL31|We have thousands of screens across the country and throughout Latin America as well, and we have plenty of we have plenty of room to accommodate those smaller independent films.
+NEUT32|And we're very dedicated to that.
+NEUT33|You know, we have a center arts program and specific theaters and specific screens within our theaters that are dedicated to those art and independent films.
+BULL34|So I don't think there's going to be a problem for Cinemark to be able to continue to service those movies.
+NEUT35|Shepard Smith here.
+NEUT36|"Thanks for watching CNBC on YouTube."""

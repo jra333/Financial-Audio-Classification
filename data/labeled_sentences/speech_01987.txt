@@ -1,0 +1,8 @@
+NEUT0|"""Welcome to 1st FT."
+NEUT1|Here are today's top headlines.
+BEAR2|China's stock market dropped sharply today amid continuing concerns over the country's growth.
+BULL3|Nearly $1 trillion has flowed out of emerging markets in the past 13 months, and a sign that there, relinquishing their role as global engines of growth net outflows in the 19 largest emerging economies, are double what they were during the financial crisis.
+BULL4|European countries are discussing ways to increase pressure on Russia as fears grow of an escalation in the conflict in eastern Ukraine.
+BEAR5|The concern stems from an understanding that the current stalemate is unacceptable to Russia.
+BULL6|Leadership imposing a costly drain on Moscow's resource is a new study by an agency of Britain's Department of Health found electronic cigarettes and 95% less harmful than tobacco Public Health England said the alternative should be promoted as a tool to help smokers quit.
+NEUT7|"We've got more pics for you at ft.com/firstFT."""

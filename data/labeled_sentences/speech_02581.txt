@@ -1,0 +1,33 @@
+NEUT0|"""Let's turn our attention to Jeff Bezos this morning, 'cause he is now in the firing line, across the pond."
+BEAR1|Shares of Amazon taking a little bit of a tumble this morning.
+NEUT2|Not a huge one.
+BEAR3|Little little over 2%.
+NEUT4|Here's what's happening.
+NEUT5|The Financial Times now reporting the European Commission is planning to announce formal antitrust charges against Amazon, and they're planning to do it today.
+NEUT6|The case focuses on the online retailers dual role, both as a marketplace for third party vendors and is a competitor that sells its own goods.
+NEUT7|Now, the FTC says.
+NEUT8|The EU is looking into how Amazon uses data that it gathers on merchants to compete against them, and this has been one of the themes and complaints that we've heard for such a long time about this idea of third party sellers using the platform Amazon leveraging the fact that it has all this data sees what products are selling and then in certain cases creates the equivalent of its own white label version and then arguably advantage is that at the same time I would say to you Joe, I don't know how you feel about it.
+BULL9|I think Amazon has done a spectacular job, just not only for itself, but in terms of creating this platform and helping frankly small businesses around the United States and around the globe.
+NEUT10|So I think it's going to be a bit of a food fight on this one, but we'll watch it.
+NEUT11|So many.
+NEUT12|Things to think about with a disruptive company like Amazon you think about everybody, that's everybody who's disrupted, but you think about that with Walmart or any of those during progress, sure.
+NEUT13|But and then you think that they don't pay any taxes.
+NEUT14|But there's a reason they don't pay any taxes because they're building out so quickly.
+NEUT15|Providing so many jobs so much a shareholder wealth.
+NEUT16|So there's so many.
+NEUT17|It's so there's so many pluses and minuses to all these.
+NEUT18|These companies look, you know, my view on the taxes.
+NEUT19|I think actually we should come up with a better, better way to deal with it, but to me the alternative for Amazon is to say, OK, we're not going to allow our platform to be used by third party merchants.
+NEUT20|Nobody else except Amazon.
+NEUT21|Amazon people can use it.
+NEUT22|OK. Well, then where are we then?
+NEUT23|What happens to all of those small businesses that have been developed on the back of Amazon?
+NEUT24|Actually?
+NEUT25|So this is like your Apple App.
+NEUT26|This is like your Apple App Store where the people that get huge distribution on after like complaining that they gotta pay something for it.
+NEUT27|You know it.
+NEUT28|But I try to be consistent.
+NEUT29|I know you can see both sides have.
+NEUT30|Both sides have some some merit, and I guess their argument I want.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

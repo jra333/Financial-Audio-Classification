@@ -1,0 +1,29 @@
+BEAR0|"""Earlier Macy's quarterly results are just out."
+NEUT1|Courtney Reagan joins us now with the numbers morning, Courtney.
+NEUT2|Hi, good Morning Joe.
+BULL3|Good to see you.
+BULL4|So Macy's putting up stronger than expected results here across the board.
+BULL5|Earnings of $0.80 adjusted that Beats analyst estimates for $0.12.
+BULL6|It also marks the first adjusted quarterly profit.
+BULL7|Macy's is put up in a year revenues of 6.78 billion.
+BULL8|Also better than the six and a half billion expected.
+BULL9|Comparable sales.
+BEAR10|The own plus license that fell.
+BEAR11|17.1% a lot, but consensus was for that number to be down.
+BULL12|21.3% is also sequential improvement from the previous to covid quarter, so that's something to Macy's.
+BULL13|Is calling 2021 or recovery and rebuilding year giving a pretty wide earnings guidance range.
+BEAR14|And most of that does fall below analysts consensus though the full year revenue range is narrower in that brackets.
+NEUT15|Wall Street's estimates.
+BULL16|Home beauty jewelry and watch categories those are called out as among the strongest for the holiday quarter.
+BULL17|Digital sales up 21%.
+NEUT18|That did make up 44% of total sales for the quarter and a quarter of those online sales were in fact fulfilled by stores.
+BULL19|CEO Jeff Gannett expects digital to be a $10 billion revenue generator in the next three years.
+NEUT20|It's actually the first time the retailer is put a dollar value on that part of the business.
+NEUT21|That online, part of the business.
+BEAR22|He also says it will be a more profitable contributor to the overall Macy's business delivery expense that did hurt gross margin for the quarter with some holiday surcharges partially to blame.
+BEAR23|Inventory down 27%.
+BULL24|Macy's noted that it aggressively addressed slow selling merchandise.
+BEAR25|Shares from Macy's have bounced a little bit here.
+BEAR26|They were lower another higher by about 2.7%.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

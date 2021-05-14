@@ -1,0 +1,23 @@
+NEUT0|"""Good afternoon, welcome to the Numbers guys review of our pick of the week."
+NEUT1|Bank of America to the long side real quickly.
+NEUT2|What we have here on the screen is the price trend price chart for the last six months going back to approximately February through August.
+BEAR3|At the bottom we have 3 lower indicators.
+NEUT4|The Mac D Force Index, an money flow index and you can see here in the price chart.
+NEUT5|We've drawn some trendlines dating back just towards the middle end of June.
+NEUT6|You can see the black lines.
+BEAR7|The price trending down the stock was making lower lows here through the beginning of this week and what you see in the Mac D is a divergences between the price as well as the Mac D histogram.
+NEUT8|You can see the histogram dating back from July 6 approximately through the beginning of this week, making higher lows, therefore forming a divergences between the indicator and the price.
+BULL9|This is a bullish signal.
+NEUT10|The same thing can be seen on the Force index.
+NEUT11|You can see the force index making.
+BULL12|Higher lows as well, again versus the lower lows on the price and the money flow.
+BEAR13|Slight divergences fairly flat when you compare it again to the price action that was down.
+BULL14|So the technical indicators definitely showing some bullish divergance.
+NEUT15|We're going to take a position to the long side for our entries and exits.
+NEUT16|This week we're going to look to enter around the 1320 range, at least not close at 1323.
+NEUT17|Our first price target, right around 1350, but we'd really like to see a closed or get around the 1380.
+BEAR18|The 1390 Range an our stop for the week is going to be at 1296, which is about 7 cents, six cents below the 1302 lower the week.
+NEUT19|So we're going to look at this and update it during the week.
+NEUT20|And we'll see how it goes.
+NEUT21|So good luck to everybody and we will talk to you soon.
+NEUT22|"Bye bye."""

@@ -1,0 +1,34 @@
+BULL0|"""You have a fascinating column out here."
+NEUT1|It's called GameStop.
+NEUT2|Maybe a game, but Nokia sure isn't.
+NEUT3|Why is it?
+NEUT4|Can it be looked at as sort of a national security threat?
+NEUT5|If you see this type of activity happening around Nokia stock for example?
+NEUT6|Why don't I overstated?
+NEUT7|Maybe explicitly saying it's a national security threat might be a little bit too much, but.
+NEUT8|We've seen that Nokia actually is the biggest gaining stock release it was before today in Europe, and that is almost exclusively becauses of the Redditors you know piling in and buying up Nokia shares.
+BULL9|By the same token, you know the size of that increase was about 30% at its peak.
+NEUT10|That's in percentage terms a lot less than you know, GameStop or AMC, but it was still sort of 6 seven €8 billion in market capitalization, pretty substantial sum.
+NEUT11|The differences, of course we knock you in those other two companies is that you know for all of the importance that it has for its employees and its own shareholders.
+NEUT12|And of course the hedge funds are short on it and the way it's affected them and not systemically important.
+NEUT13|Nokia is one of three dominant makers of telecoms equipment in the world alongside Ericsson.
+NEUT14|And while way and in countries like the US in the UK and France, you no longer really going to be allowed to use while we equipment.
+NEUT15|If you're a mobile operator, that means you're dependent on Nokia and Ericsson, if you're.
+BEAR16|There's a sudden instability in the in the stock at Nokia effects, their ability to get capital at predictable costs, and therefore you know perhaps a bit of fragility to their business, which, which is a risk.
+NEUT17|So I mean, look in your opinion, Alex.
+NEUT18|Do you think that given what we're seeing with Nokia and what we could see with other European companies if they start to get in, your words swept along the tide?
+NEUT19|What are the implications of that for not just executives, but perhaps regulators?
+NEUT20|So I mean the risky like if it's all on the upside.
+NEUT21|If people buy this stock and stick with it, and then the share price holds up, then as far if you're an executive or an investment in in the stock Kwidzyn you're you're happy.
+NEUT22|The risk, of course, is that at a certain point the rich, cold, harsh realities of the companies you know financial situation of its earnings.
+BEAR23|You know it's expecting revenue and profit to decline this year, with some recovery coming further down the line.
+NEUT24|If that prompts are sell off when we see in a 15% sell off.
+BEAR25|Today, that clearly there's a concern that the sell off might exceed where it was before the increase.
+BEAR26|The Reddit driven increase started, but the greater concern is the volatility that if you're unable to predict your cost of capital, and you say with some certainty what it's going to be over the next few months, that does affect your ability to do business and and to fund your projects, particularly company like Nokia, which is having to invest in 5G.
+BEAR27|It's lossed the race a little bit so far.
+BULL28|5G equipment it needs to invest to catch up with its competitors and for all that a an increase is good in the short term.
+NEUT29|It is only good if it if it holds and if it prompts volatility in the stock.
+BEAR30|It's a negative.
+NEUT31|The biggest story is the moment they happen from around the globe.
+NEUT32|Subscribe to Bloomberg.
+NEUT33|"Quicktake now for insight in an instant."""

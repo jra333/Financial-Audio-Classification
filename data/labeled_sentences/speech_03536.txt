@@ -1,0 +1,9 @@
+NEUT0|"""Hello, welcome to Capital Academy, the professional online Academy with exclusive and professional courses to master the trading on the global financial markets, gold prices, technical analysis forecast for today."
+NEUT1|April 18, 2014.
+BEAR2|Today we expect thin trading as the most.
+NEUT3|The global markets are closed to celebrate the Good Friday so there is no major economic news as we can see on the one hour chart.
+BEAR4|The gold declined and.
+BEAR5|Broke through the symmetrical triangle to the downside, which conforms the continuation of the general bearish trend toward the main targets stated in our daily newsletters.
+NEUT6|To follow the rest of the technical analysis and to know the next target of the gold, oil, silver and other currencies, please open a live account with our recommended broker nbcfx.com and start receiving buy and sell signals with entry and take profit prices.
+NEUT7|For more info please contact us at info@capital-academy.com.
+BULL8|"Thank you and have a nice day."""

@@ -1,0 +1,3 @@
+NEUT0|"""I'm never made it, but I know I think somebody made by a mix of emotions statement and I meaning so so I can understand it fully."
+NEUT1|And then go.
+NEUT2|"This."""

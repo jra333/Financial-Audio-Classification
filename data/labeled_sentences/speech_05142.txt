@@ -1,0 +1,15 @@
+NEUT0|"""Joining us now for some analysis here is Kevin Landis from first-hand Capital Management owns the stock."
+NEUT1|Bernie Mcternan from Rosenblatt Securities, an analyst for the stock Bernie.
+BEAR2|Down about 5-6 percent here after hours disappointment around the sub growth.
+NEUT3|Is that what you see?
+BEAR4|The three Q expectations are results came in below expectations also one bright spot is that the US and Canada had were actually roughly flat sequentially.
+BEAR5|We're expecting them to be down as well as the street and also just want to mention two.
+BULL6|On the positive side, the free cash flow story in the operating margin guide were good.
+BEAR7|They actually raised the operating margin guide for the year and looked for next year's free cash would be down a billion to break even, which is also better than what we were expecting.
+NEUT8|But it's subscribers.
+NEUT9|What matters with this stock?
+BULL10|Stocks trading the Year 5 year highs on EV to sales.
+BEAR11|Because of the pandemic and subscriber growth.
+NEUT12|So you know missing expectations is really crucial.
+NEUT13|Shepard Smith here.
+NEUT14|"Thanks for watching CNBC on YouTube."""

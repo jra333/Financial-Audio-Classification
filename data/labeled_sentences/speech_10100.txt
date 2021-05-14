@@ -1,0 +1,17 @@
+NEUT0|"""Very well, let's think about the Apple stock."
+BULL1|We can see Apple has started A at a very negative area and then managed to bounce back to.
+BEAR2|Neutral the day, but then dropped sharply down again and the closing of the market.
+BEAR3|But here we can see we got some supporting buying power to support it to go back up and also we notice here is not the lowest point of the day.
+NEUT4|So this means the stock has some stress.
+NEUT5|If we change charting the daily chart we can see here we got another like down with a doji pattern but distorted pattern.
+NEUT6|It's just happening at the downtrend.
+NEUT7|So at the downtrend will have distortion means that.
+BEAR8|Indecision pattern of the market.
+BEAR9|So in my opinion Hypo stock is very likely to form a shorter bottom in this area as we can see from the volume the volume is not too high, just normal volume.
+NEUT10|It means the indecision pattern is very clear, reflected the mode of the market.
+NEUT11|So here is could can be considered as the forming of the short term basis here, if if it's the case that Apple stock will form a.
+NEUT12|Standard State for we can see the is the first state, second, third stage is the 4th stage.
+NEUT13|So if go.
+NEUT14|Uh study price action here.
+BULL15|Then we still have the possibility to go higher in the future in meter.
+BULL16|"Thank you."""

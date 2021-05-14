@@ -1,0 +1,30 @@
+NEUT0|"""Diffusion Pharmaceuticals incorporated stock upgraded to hold accumulate updated on March 3rd, 2021 hold candidate since 2020."
+BEAR1|10303 the Diffusion Pharmaceuticals incorporated stock price fell by minus 3.77% on the last day Wednesday 3rd March 2021, from $1.06 to $1.00 in two cents and has now fallen four days in a row during the day.
+BEAR2|The stock fluctuated 6.50% from a day low at $1.00 two a day high of $1.07.
+BEAR3|The price has fallen in eight of the last 10 days and is down by minus 31.54% for this.
+BULL4|Volume has increased on the last day by 475 thousand shares, but on falling prices this may be an early warning and the risk will be increased slightly over the next couple of days.
+NEUT5|In total 6,000,000 shares were bought and sold for approximately $6.09 million.
+BULL6|Given the current short term trend, the stock is expected to rise 58.25% during the next three months and.
+NEUT7|With a 90% probability Holder price between $1.61 and $2.89 at the end of this three month period, dot signals in forecast here are few to no technical positive signals at the moment, the Diffusion Pharmaceuticals incorporated stock hold sell signals from both short and long term.
+BEAR8|Moving average is giving a more negative forecast for the stock.
+NEUT9|Also, there is a general cell signal from the relation between the two signals where the long term average is above the short term average.
+BULL10|On corrections up there will be some resistance from the lines at $1.09.
+BEAR11|An $1.22 a break up above any of these levels will issue by signals.
+BEAR12|A cell signal was issued from a pivot top point on Tuesday, February 16th, 2021, and so far it has fallen, minus 40.00%.
+BEAR13|Further fall is indicated until a new bottom pivot has been found.
+NEUT14|Furthermore, there is currently a cell signal from the three months moving.
+NEUT15|Average convergence.
+BEAR16|Divergent Macd D volume rose on falling prices yesterday.
+NEUT17|This may be an early warning and the stock should be followed more closely.
+NEUT18|Dot support.
+NEUT19|Risk and stop loss Diffusion Pharmaceuticals incorporated.
+BULL20|Find support from accumulated volume at 97 cents and this level may hold a buying opportunity as an upwards reaction can be expected when the support is being tested, dot the stock may move very much during a day volatility an with a very large prediction interval from the Bollinger Band.
+BEAR21|This stock is considered to be very high risk during the last day the stock moves 0.0650 dollars between high and low or 6.50% for the last week.
+BEAR22|The stock has had a daily average volatility of 10.19% DOT IOR recommended stop loss $0.97 -- 5.24%.
+NEUT23|This stock has very high daily movements and this gives very high risk.
+NEUT24|There is a cell signal from a pivot top found 11 days ago.
+NEUT25|Dot is Diffusion Pharmaceuticals incorporated, stock a buy.
+NEUT26|Diffusion Pharmaceuticals Incorporated holds several negative signals and this should be a sell candidate, but due to the general chance for a turn around situation it should be considered as a hold candidate Holder accumulate.
+BULL27|In this position, whilst awaiting further development, we have upgraded our analysis conclusion for this stock since the last evaluation from a sell candidate to ahold accumulate candidate current score minus 0.964 predicted opening price for Diffusion Pharmaceuticals Incorporated of Thursday, March 4th, 2021.
+NEUT28|The predicted opening prices based on yesterday's movements between high low and the closing price dot fair opening price March 4th, 2021.
+NEUT29|"Current PRIC $1.00 and three."""

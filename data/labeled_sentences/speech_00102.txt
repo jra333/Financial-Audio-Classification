@@ -1,0 +1,21 @@
+NEUT0|"""However, let's take a look at the Apple stock."
+NEUT1|We can see here today to form the red candle.
+BEAR2|This red candle has a low of 107.32 compared to yesterday.
+NEUT3|Yes, it's low is.
+BEAR4|107.72 So it's only a little bit drop from yesterday, so regarding the volume, the volume is smaller than yesterday.
+NEUT5|It's very obviously so.
+BEAR6|In my opinion, the selling pressure has been released and the short side has run out of steam.
+NEUT7|So if we check the whole picture we can see it has already approached the last.
+NEUT8|Hello formal here.
+BEAR9|So in my opinion is very unlikely for Apple to drop below this level because we can see last time when it approached this level the volume has jumped out and it means somebody already buying it.
+NEUT10|So if the price go below here, I do believe there's also somebody will buy in.
+NEUT11|So currently today is the 3rd of November Australian trading time, so if.
+NEUT12|There's any result from the election, I think the.
+NEUT13|All the uncertainty will be cleared for the stock, and it's very likely for it to go.
+NEUT14|Higher again because we can see it still above the EMS so the whole picture haven't been changed.
+NEUT15|There will be no.
+NEUT16|Influence from the election actually is from the fundamental.
+NEUT17|The fundamental is that Apple is still a company make the biggest earning on Earth.
+NEUT18|So in my opinion.
+BULL19|It will bounce back.
+BEAR20|"The downtrend will be over roughly here, thank you."""

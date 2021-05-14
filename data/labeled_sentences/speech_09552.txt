@@ -1,0 +1,14 @@
+BULL0|"""It's a good luck welcome."
+NEUT1|Deliveroo has priced his London IPO at 390 to 460 British pounds per share.
+BULL2|This would give the food delivery service a market cap of up to £8.8 billion.
+NEUT3|Food delivery services, backed by Amazon.
+NEUT4|Volkswagen begins his deliveries of the ID 4 cross as UV.
+NEUT5|It's the result of a joint venture with China's state owned first auto mobile works.
+BULL6|Chairs of the German automaker have soared over the past few weeks.
+BEAR7|Recently, there has been a fire at the Japanese chip manufacturer.
+BEAR8|Renna sass this might lead to higher shortage of tips for electric vehicles.
+BULL9|It will take at least one month to get production up and running again, and Coin Gecko CEO says Bitcoin could reach $100,000 of this year.
+BULL10|He says that's because institutions have now started investing in Bitcoin to you also believes that Bitcoin has successfully captured the digital goals narrative.
+NEUT11|Alright.
+NEUT12|Stay safe.
+NEUT13|"Bye bye."""

@@ -1,0 +1,20 @@
+BULL0|"""Good afternoon 515 2013 super powerhouse Google making an all time high."
+NEUT1|I will show you where this high was.
+NEUT2|It was $911.76.
+BULL3|They gapped it up 894.02, the intraday range from that was $17.74.
+BEAR4|We are $9.47 off of that inner day high and stocks are fading back going into.
+NEUT5|The last hour and 15 minutes of the marketplace.
+NEUT6|One of the things that we would like to show you here Google.
+NEUT7|Like I said, it had closed prior to 887.
+BEAR8|That gap was 894.
+NEUT9|What the total range is 1774 eight 9402 is low.
+BEAR10|That's the gap low.
+BEAR11|We have had a $10 pullback off of those monster highs that Google hit.
+NEUT12|At $911.00 we see a lot of the very same thing happening finally in the broader equity.
+NEUT13|My next update will be an Apple, but nonetheless the put options were $9.70.
+NEUT14|These were the $915 puts and there closed yesterday at $28.00.
+NEUT15|The high was $19.00 and there's the range on the.
+BEAR16|$915 puts as you can see here as we're going through this trade, we can see that everything is giving up all its gains right now.
+BULL17|That is a nice pullback from that all time.
+BULL18|High of 911 wow 911.
+NEUT19|".76"""

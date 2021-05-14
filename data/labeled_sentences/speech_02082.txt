@@ -1,0 +1,22 @@
+NEUT0|"""I mean, how do you plan for this sort of environment where we still don't have a vaccine?"
+NEUT1|Are you thinking we could get anything resembling normal levels of activity in bars and restaurants and movie theaters and stadiums everywhere that sells Coca Cola beverages?
+NEUT2|Until that point that we have a vaccine?
+BEAR3|I think it's going to be difficult to return to pre covered level of sales, particularly in outlets where where people need to be physically present.
+NEUT4|I mean ultimately we are social creatures.
+NEUT5|As humans we want to go out.
+NEUT6|We want to see people we want experiences, so there's a lot of pent up pressure and interest in being able to go back to that, but it's going to be difficult between the health restrictions or whether they be locked down or any other form of restriction.
+BEAR7|And that a certain segment of the population are more nervous than other segments.
+NEUT8|It's hard to imagine that we will go back to normal levels of business until there is a vaccine or some comprehensive solution to the virus.
+NEUT9|So half of your business is away from home, the other half is at home.
+NEUT10|What sort of trends are you seeing there after the initial stock UPS to the grocery store store that we saw in the onset of this pandemic?
+BEAR11|Yeah, clearly the day away from home business was heavily affected, but the we we pivoted and we focused in an as a business.
+BULL12|What we've said to ourselves is look if we focus in on on serving consumers and being super robust on the supply chain for those that customers that are open and aimed at winning share where the world is and where the market is open then we'll do well coming out of that.
+BULL13|And yes, we saw an initial large burst activity with stock soccer, but then a much more normalized.
+NEUT14|Level of business going forward.
+NEUT15|We saw change changes in the categories.
+NEUT16|We know everyones at a lot of people are more at home than they used to be.
+NEUT17|So we saw the kind of resurgence of breakfast along with with orange juice and some other other categories.
+NEUT18|But fundamentally the the at home channels, those those type of channels host the stock up the level of business in aggregate, essentially normalized.
+NEUT19|So we're looking for the recovery.
+NEUT20|To come in the away from home.
+NEUT21|"And that's where we'll focus on helping those businesses reopen so they can get back to serving their consumers."""

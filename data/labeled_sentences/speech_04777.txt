@@ -1,0 +1,19 @@
+BEAR0|"""Stock markets have been tumbling and President Trump is blaming the Federal Reserve."
+NEUT1|He says the Fed's gone crazy raising short term interest rates higher interest rates.
+BEAR2|Not only do they spook investors, but they also make it harder and more costly to finance a rising budget deficit.
+NEUT3|So why is the Fed doing this?
+NEUT4|Here's three reasons.
+BULL5|First of all, inflation has gotten back to the feds 2% target after running below it.
+BULL6|For most of this expansion, with inflation back at the feds target, it stands to reason that interest rates should also be getting back to normal.
+BULL7|the Fed kept them near 0 while inflation was running below target and now it's trying to get interest rates back towards around 3% on the short end.
+BULL8|They're getting closer to 5% for mortgage rates.
+NEUT9|The other reason is unemployment.
+BEAR10|The unemployment rate hit three point 7% in September.
+BEAR11|Low unemployment is a great thing for workers and for the economy, but we tend to see bad things happening when it gets too low.
+NEUT12|We've had outbreaks of inflation or sometimes financial bubbles when it gets too low and the Fed wants to make sure that the economy doesn't overheat.
+NEUT13|Raising interest rates do that, so that's another reason why they've been pushing them higher.
+BULL14|The third reason is that growth is picked up, growth was near 2% for most of this expansion.
+BULL15|It's now closer to 3% on a year on year basis.
+NEUT16|What does that mean?
+NEUT17|It means a stronger economy can bear higher interest rates, so the Fed thinks that what it's doing is justified by the economy and that it hasn't.
+NEUT18|"As the president said, gone loco."""

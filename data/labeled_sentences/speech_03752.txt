@@ -1,0 +1,27 @@
+BEAR0|"""At the beginning of the year, the housing market was very hot."
+BULL1|Rapid price growth.
+BEAR2|It wasn't uncommon for buyers to face bidding wars starting around July, the tide turned and we saw a much lower housing market prices were still growing, but not the same rate and sellers started coming down in their prices going into 2019.
+BULL3|We accept, we expect that trend to continue.
+BULL4|That could actually be a good thing for buyers will face less competition, have more time to tour homes.
+NEUT5|Sellers will have to adjust their expectations, but overall it will have a minimal effect on overall GDP.
+BEAR6|Fewer homes to be built.
+NEUT7|That's been a problem for awhile, but those that are built would be more starter homes which has also been a problem, right?
+BEAR8|Going into 2019, we expect builders to back off a bit.
+NEUT9|They won't see the same return on investment because price growth has stalled, but they'll turn to homes that they know will sell and are easy to sell, and those are typically starter homes.
+NEUT10|Entry homes are people able to get loans for those entry homes.
+NEUT11|That was an issue a couple of years ago.
+NEUT12|Right, so after the financial crisis, it was much harder to get loans.
+BULL13|Mortgage rates were lower, which is great.
+NEUT14|If you were approved for a loan, but the requirements to get along became stricter, we think moving into 2019 that will start to change a bit.
+NEUT15|They'll be more credit going to first time homebuyers and people with less than perfect credit scores.
+BEAR16|And that's because interest rates have gone up.
+NEUT17|An mortgage.
+BULL18|Lenders need to expand their customer base in order to get a profit.
+NEUT19|Darrell, what does one do is the senior behavioral economist at Amazon.
+NEUT20|Yeah, that was awhile ago so it was a bit so I worked on issues related to employee engagement.
+NEUT21|So making Amazon workers happier.
+NEUT22|OK, yeah, I think Amazon would know a lot about my behavior, but maybe that's a different story.
+NEUT23|Actually.
+NEUT24|Speaking of which final question for you, we've heard a lot about millennial household formation.
+NEUT25|How much is that going to be a factor in driving housing demand for the next couple of years?
+BULL26|"Well, millennials are starting to enter that prime home buying age, so that will be a boon to home to home homeownership."""

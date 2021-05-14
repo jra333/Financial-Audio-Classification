@@ -1,0 +1,26 @@
+NEUT0|"""Thank you Howard Winston from Cincinnati, OH and one question."
+BEAR1|Are you concerned about the rising valuations on the NASDAQ market where companies trade at multiples of revenues instead of multiples of earnings?
+BULL2|The rising value of?
+NEUT3|What did you say the NASDAQ market to where they traded 10 times?
+NEUT4|Revenues were more 30 times revenues instead of 10 times earnings.
+NEUT5|Yeah, well, we don't pay much attention to that because there are throughout.
+NEUT6|The careers Charlotte I've had in investing, they've always been.
+NEUT7|Hundreds of cases or thousands of cases of things that are ridiculously priced and phony, stock promotions and and the gullible being LED into to believe in things that just can't come true, so that's always gone on.
+NEUT8|It always will go on and it doesn't make any difference to us.
+NEUT9|I mean, we we're not trying to predict markets we never will try and predict.
+BEAR10|Markets were trying to find wonderful businesses and the fact that a part of the market is kind of screwy.
+NEUT11|You know that is, that's that's an important to us.
+NEUT12|We we tried a few times, shorting some of those things in our.
+NEUT13|In our innocence of youth and very tough to make money.
+NEUT14|Shorting even the obvious frauds, and there are some some obvious frauds, and it really is.
+NEUT15|It is not tough to it's not so tough to find the obvious frauds an it's not tough to be right over 10 years.
+NEUT16|But it's it's.
+BEAR17|It's very tough to make money being short them.
+NEUT18|Although we tried a few times way back.
+NEUT19|It's.
+NEUT20|We don't look at indicia from from stocks in general or from peas or price sales ratios, or what other things are doing.
+NEUT21|We really just focus on businesses we don't.
+NEUT22|We don't care if there's a stock market.
+NEUT23|I mean, would we want to own Coca Cola?
+NEUT24|The 8% we own a Coca Cola 11% Gillette if they if they said they were just going to list the stock and we're never going well open it again in 20 years it's fine with us, you know, and then if it goes down on the news will buy more of it.
+NEUT25|"We care about what the business does."""

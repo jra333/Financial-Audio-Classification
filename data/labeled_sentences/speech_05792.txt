@@ -1,0 +1,44 @@
+BEAR0|"""Emerging markets they're going out of fashion, with some investors abandoning the asset class entirely."
+NEUT1|But the time is a broad brush to try and paint in some finer detail for us to consider.
+NEUT2|We're joined by Arjun Divecha of GMO, a longstanding investor in emerging markets.
+BULL3|Arjun, thanks for joining us.
+NEUT4|Thank you.
+NEUT5|So I think to start off with here we've got a chart of the famous BRICS, Brazil, India, Russia and China which gives us some context for international investors.
+NEUT6|And when you look at sort of two of the main markets in dollar terms at least India and China.
+NEUT7|It's a long way to get right back where you started.
+NEUT8|Perhaps you could tell us what you think of the bricks is sort of the most interesting.
+BEAR9|At the moment we are starting to get quite bullish on India from an economic point of view.
+NEUT10|And we think that basically it has to do with the fact that the economy is in the right part of the cycle.
+NEUT11|That essentially you have a situation where from a fiscal point of view, the government has started to get the budget under control.
+BULL12|You have monetary policy which is also well under control and in fact with inflation having come down, there's a lot of scope for monetary easing.
+NEUT13|And finally with oil prices coming down, it gives the government a fair amount of money.
+NEUT14|That it would not have otherwise had to spend on infrastructure and therefore kickstart kind of the development process.
+NEUT15|So can India do what China did in fact spend its way to grow through just investing in enormous amounts of infrastructure?
+NEUT16|It could, but it won't.
+NEUT17|So where does that leave us?
+NEUT18|I mean, because we've heard talk of reform in India for quite a long time.
+NEUT19|Yes, so I don't see this as a big secular change.
+BEAR20|I think that what we have in India is a cyclical opportunity where things have been bad for awhile, and so there's pent up demand.
+NEUT21|So all the positive factors that I've talked about.
+NEUT22|In some sense, lead to a place where you get a cyclical bounce, but I don't think that you get you know, 30 years of 10% growth.
+BULL23|I think you go up from 4-5 percent growth today to 7 or 8%.
+NEUT24|But then eventually that will run out of steam and come back down.
+NEUT25|So I think it's a cyclical bounce, not a big secular shift.
+NEUT26|And of course we've got this comparison, which is natural here to China.
+NEUT27|So in terms of China, it's all about reform there as well.
+NEUT28|How do you see that?
+NEUT29|So the way that we see China is to think of China as being like a forest, where the government has allowed the undergrowth.
+NEUT30|To grow far too much and what they've needed to do is to burn off the undergrowth, but without setting the whole forest and fire.
+BEAR31|In short, a controlled burn, and in our opinion, they've actually done a fairly good job of that until about a year ago, where we saw some horrendous policy mistakes, both on the stock market and the way that they pumped it up in the way they tried to deal with the collapse of the stock market, and also on the currency side.
+NEUT32|And so we talked about not painting emerging markets with a broad brush.
+NEUT33|I mean, so where does that leave you then?
+NEUT34|In terms of sort of the markets which you favor as an investor?
+BULL35|So because India is getting better, we have been increasing our rates in India.
+BEAR36|We were quite sceptical about China, so we're quite underweight China.
+NEUT37|We have a lot less money in China than we would have otherwise, but there are other countries in the world like Taiwan which look kind of interesting to us.
+NEUT38|And even Russia.
+NEUT39|We like Russian oils and various care sectors in places like that, and even Brazil, which obviously has had had a horrendous time in the last few months and years.
+BULL40|You're starting to see some resolution of the political problems which we think will eventually be very good for the markets.
+NEUT41|So plenty for emerging market investors to do.
+BULL42|Thanks a lot.
+BULL43|"Thank you."""

@@ -1,0 +1,46 @@
+NEUT0|"""How will the pandemic crisis change the way we travel?"
+NEUT1|We all know big changes are coming, such as disinfecting our luggage, going through disinfectant tunnel temperature checks and other things, but there are, however two big things in the offing that could actually do something that is really revolutionary.
+NEUT2|Make air travel pleasant and fun.
+NEUT3|I'm Steve Forbes.
+NEUT4|This is what's ahead.
+NEUT5|We give you insights you need to stay on top of this ever changing turbulent world.
+NEUT6|We all know that are in the COVID-19 crisis.
+NEUT7|Air travel is going to undergo normous changes we all know we're going to have to wear mass.
+NEUT8|We're going to have to do social distancing on the plane.
+BEAR9|We're not going to be able to bring on as much luggage we did before.
+NEUT10|We're going to have to go through temperature checks.
+NEUT11|There may not be magazines on board.
+NEUT12|Not much food service, no booze in the like.
+NEUT13|We all know that's necessary in this environment.
+BULL14|Where the virus is still out there, but there are two positive changes for the first time in decades.
+BULL15|Traveling on an airplane could become pleasant, or at least more pleasant.
+NEUT16|One change involves the seating in economy class we all know right now, three seats, two people next to you, three people in front of you, three people in back of you.
+BEAR17|Not very pleasant.
+NEUT18|Even under the best of circumstances.
+NEUT19|Certainly not in the COVID-19 world, however.
+NEUT20|Aveo interiors and other designers have found ways to flip the seat that way would be surrounded by a plexiglass kind of material.
+NEUT21|You would have actually a little more room, more privacy, and greater safety.
+NEUT22|That's the most immediate thing.
+BULL23|However, there's something even better in our futures.
+NEUT24|That is a double Decker aircraft.
+NEUT25|Yes, the idea for the double Decker comes from Zephyr Aerospace.
+NEUT26|The idea is you would have people on the ground, nice seating, but also we want climb a ladder to seating above that impossible.
+NEUT27|Turns out it isn't and this way.
+NEUT28|You get a flat bed.
+NEUT29|You have more comfort.
+NEUT30|You have more privacy.
+NEUT31|This in economy class.
+NEUT32|Now what Zephyr is proposing would normally take several years to bring to full fruition.
+NEUT33|A lot of it involving bureaucratic regulations.
+NEUT34|While they once told us would take 10 years to create a vaccine and that normal circumstances would be the normal period.
+BULL35|However, we now know we can do it in a matter of months.
+NEUT36|Why don't we do the same thing on this kind of design?
+NEUT37|Do it in a matter of months or couple of years.
+NEUT38|That way, imagine going on a plane and looking forward to sitting down and having the kind of luxury that even in first class they often don't have.
+NEUT39|So let's move ahead.
+NEUT40|Certain things we have to do, but there are other things can actually make airplane travel for the first time in decades.
+NEUT41|Fun and a pleasure.
+NEUT42|I'm Steve Forbes.
+BULL43|Thanks for listening.
+NEUT44|Don't hesitate to send in your ideas on how to change aircraft to make travel more fun and pleasurable.
+BULL45|"Look forward to being with you next time."""

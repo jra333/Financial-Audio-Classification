@@ -1,0 +1,17 @@
+NEUT0|"""The intrinsic value of Netflix is range between $0.60 per share and $1.40 per share."
+NEUT1|How are those values calculated?
+NEUT2|Paying $0.60 per share represents the company's cash for every share issued and outstanding.
+NEUT3|Netflix has $0.60 in cash and cash equivalents.
+NEUT4|Paying $1.40 per share represents the company's price per share, based on its earnings, a price of $1.40 per share represents the fractional payment for the company's next 20 years of median historical earnings.
+NEUT5|A conservative way to value a company using future earnings, which only slightly differs from the results you get by calculating Netflix's price to earnings ratio.
+NEUT6|What are they trading at today?
+NEUT7|Netflix is currently trading at a price of $475.74, which is huge.
+NEUT8|Quite frankly, unjustified.
+NEUT9|Due to the fact that this price falls far beyond the upper bound of the company's intrinsic value, which is just $1.40, it would be reasonable to assume that the stock is currently overpriced, and I mean just take a look at this price to earnings ratio 76 is way above the conservative 20 that Benjamin Graham advocates.
+NEUT10|Your next step would be to find a better priced investment vehicle which can gain a similar return with similar risk, all while maintaining safety of principle with an ample margin of safety for the defensive investor or low cost index fund satisfies the Afor mention investment vehicle characteristics, specifically the Vanguard 500 Index fund is the same fund which Warren Buffett used in his famous 10 year bet against the hedge fund industry, which he started in 2008, and I believe he won it in 2018.
+NEUT11|Until we're able to find a stock which passes the scrutiny required of the analysis prescribed by Benjamin Graham and the value investing community as a whole, this investment vehicle should suffice.
+NEUT12|Specifically, the Vanguard 500 Index Fund serves as a prudent investment alternative to Netflix until their stock trades at something much more reasonable than 475 plus dollars per share.
+NEUT13|So guys join our value investor community here on YouTube.
+NEUT14|Subscribe to my channel so you can continue to gain insight on how to analyze business performance so that your investment performance is optimized.
+NEUT15|Remember when your investment performance is optimized?
+NEUT16|"So as you're well, production, I'll see you in the next video value investors."""

@@ -1,0 +1,19 @@
+NEUT0|"""Berkshire Hathaway held its 2020 annual shareholder meeting on May, the 2nd."
+BEAR1|In contrast to previous years, where it has hosted 10s of thousands of visitors.
+NEUT2|The annual meeting yesterday was exclusively live streamed online.
+NEUT3|The meeting was held by Chairman and CEO Warren Buffett, as well as Vice chairman of non insurance business operations.
+NEUT4|Greg Abel, Vice chairman Charlie Munger, age 96, didn't attend the meeting in person, although Buffett said that he's in good health.
+NEUT5|A massive takeaway for the meeting was Buffett's perspective and actions regarding the airline industry.
+NEUT6|Berkshire had notably owned large stakes in America's four largest airlines, namely Delta, Southwest, United Continental, and American Airlines.
+BEAR7|Reports a month ago was that Berkshire had allegedly at least trimmed positions in Delta and Southwest, of which it previously had exceeded 10% ownership for the companies.
+NEUT8|The level at which are required to publicly report movements in your position.
+NEUT9|However, to the surprise of many people, Buffett revealed in the meeting that Berkshire have sold full positions in all airline companies.
+NEUT10|He said that he thinks the airline business has changed significantly and that he doesn't know if in the next couple of years people will fly as many passengers as they did in 2019 and therefore the future for the industry is much less clear to him.
+NEUT11|The Oracle of Omaha stated that this is through no fault of the airlines themselves and that he wasn't disappointed at all in the management of these companies, but rather due to a low probability.
+BEAR12|Then out of their control, he stated that a big problem for airlines is that even if business comes back to 7080%, they'll still have large aircraft inventory and therefore still be left with relatively high fixed costs, which does make a lot of sense.
+NEUT13|So that's it for the video disclaimer.
+NEUT14|This video is not financial advice and it's for entertainment purposes only.
+BULL15|With that being said, thanks for watching.
+NEUT16|If you enjoyed the video smash the like button, don't forget to hit.
+NEUT17|Subscribe for more regular videos.
+NEUT18|"And remember, knowledge is wealth."""

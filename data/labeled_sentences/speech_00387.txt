@@ -1,0 +1,6 @@
+BEAR0|"""The US Securities and Exchange Commission is pushing ahead with a plan that threatens to kick Chinese companies off of U.S. stock exchanges."
+NEUT1|Sources tell Bloomberg that the SEC intends to propose new regulation by the end of the year.
+BEAR2|This sets up yet another clash between Washington and Beijing, though the rule would have to be finished by Biden's pick for FCC chair.
+NEUT3|The biggest story is the moment they happen from around the globe.
+NEUT4|Subscribe to Bloomberg.
+NEUT5|"Quicktake now for insight in an instant."""

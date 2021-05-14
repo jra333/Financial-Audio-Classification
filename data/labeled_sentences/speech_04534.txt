@@ -1,0 +1,7 @@
+NEUT0|"""I think the really important question that venture investors have to be asking now is what is all the news going on with the big guys going to mean for startups?"
+NEUT1|For example, IBM and Amazon have both announced that they're not going to be selling.
+NEUT2|Facial recognition software.
+NEUT3|The way they were for at least a year.
+NEUT4|In Amazon's cases for year, IBM's basically said they're no longer going to sell the standard package of facial recognition.
+NEUT5|If that is as I believe, it is a response to political pressure, and if you start to see changes going on relative to section 230 of the Communications Decency Act, which has been the Safe Harbor for Internet platforms, those are actually going to create opportunities for startups because they're going to.
+NEUT6|"Realign the rules of the game and if I were a venture vestar I'd just be paying attention to all that stuff because it's going to tell you where to go."""

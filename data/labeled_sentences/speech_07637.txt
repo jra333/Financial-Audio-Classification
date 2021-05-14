@@ -1,0 +1,7 @@
+NEUT0|"""The 19 year old legend Warren Buffett has issued his annual letter to Berkshire Hathaway shareholders."
+NEUT1|Buffett has been publishing these letters to Berkshire Hathaway, his company's shareholders, for over six decades.
+NEUT2|We've added a link to this letter at the description of the video, but in this letter as a whole, Warren Buffett urges investors to bet on breathtaking American economy and its prospects.
+NEUT3|What's more, the letter list, the top 15 common stock investments that Berkshire Hathaway has at the year end where they have the largest in terms of the market value.
+NEUT4|You notice on the list companies such as Abby, American Express, Apple Bank of America, the Bank of New York, BYD charger communication, Chevron, Coca Cola, General Motors, Itochu Corporation, Merck Moodys, US Bancorp, an Verizon.
+NEUT5|Whether your thoughts about Warren Buffett most recent letter to shareholders that so please be sure to subscribe to moment in general.
+NEUT6|"Here on momentum, we Post weekly various videos about the stock market, investing, finances and financial freedom."""

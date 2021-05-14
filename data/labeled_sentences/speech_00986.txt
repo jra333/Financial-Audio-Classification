@@ -1,0 +1,16 @@
+NEUT0|"""Welcome to trade a stock today I have purchased UPLB."
+NEUT1|I bought this today as you can see it's in an uptrend an it's liking this trend line right here along with his 50 day moving average.
+NEUT2|You could see back in January hit the tryline once twice, three times gapped up came back down to the trendline, four kept going up and up at the training 5 an it looks like again today.
+BULL3|It hit the trend line again.
+NEUT4|And.
+BULL5|It's finding support as of today, moving average.
+BULL6|The volume is not over overbought because he recently just went up.
+BULL7|On pretty good volume and it broke out of these prior highs.
+NEUT8|Broke out right here.
+BULL9|Up right here an came down hitting that run up so I'm hoping it'll test the 52 level again so we can make about 200 bucks on here and also on IBD 50.
+NEUT10|Or investor business daily.
+BULL11|The EPS rating is 98 and you could see that with the new high the Rs line made a new high as well which is very positive.
+NEUT12|So it's like it's going to bounce off here.
+BULL13|And hopefully get a few points off of this.
+NEUT14|So bought this today, hopefully want to hold it for a couple of days.
+NEUT15|"Make up her bucks off of it and let's make some money."""

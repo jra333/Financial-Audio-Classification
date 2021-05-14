@@ -1,0 +1,32 @@
+BEAR0|"""We've had some pretty depressing housing numbers coming out."
+NEUT1|Does this mean this recovery?
+BULL2|We've all been hoping for is squelched well coming into the year.
+NEUT3|I don't think anyone thought that 2012 was going to be the year that housing suddenly started going gangbusters again, and we got back to the peaks or anything like that.
+BEAR4|That being said, we have seen some soft data lately pending home sales.
+BEAR5|Yesterday's case, Shiller numbers, which are national home price measures, city by city, were disappointing and showed continued declines, which means we're still sort of bumping along the bottom here.
+BULL6|There were signs for optimism.
+BEAR7|Towards the end of last year we saw big run up in the market, particularly in housing focus names.
+BULL8|You know, at this point it's hard to think that we're going to have that big rally in housing this year, but a little contribution from housing compared to the negatives that we've seen for the past four or five years would really be a big step in the right direction.
+NEUT9|You mentioned the housing stocks and how they've appreciated, and they run in the market.
+NEUT10|So does this mean it's time to get out of housing?
+BULL11|Well, I think the market may have gotten a little ahead of itself.
+NEUT12|You saw numbers recently from KB Home, and Lynn are both were.
+NEUT13|Not great, not disasters, but you know a little bit disappointing.
+NEUT14|In some ways.
+BEAR15|KB Home at an hour or loss lenore's profit was down.
+NEUT16|What you're seeing now is the home builders who can bounce around in different markets and who can go where.
+NEUT17|There's a more of a housing, demand and construct homes there.
+BULL18|They're going to be in better shape, but not everybody can do that.
+NEUT19|It won't happen all at once.
+NEUT20|This is a slow slog of a recovery in housing, and it's not something that you know these stocks are going to happen unabated.
+NEUT21|Run higher, so after such a big charge.
+NEUT22|You saw the same in Home Depot and Lowe's of late.
+NEUT23|There's trading at much higher multiples than they were a few months ago, so it's going to be interesting to see whether this recovery in housing stocks has gotten too far ahead of itself.
+NEUT24|Earning season that we're starting to get into now may give us some clues into that, so it's not necessarily a run for an exit.
+NEUT25|Exits indicate indicator.
+NEUT26|I don't think it's that yet.
+BEAR27|You know if we start to get really awful reports.
+NEUT28|If you know you know, Home Depot's and the lows of the world.
+NEUT29|And these retailers say that they're not seeing the kind of home improvement spending that you would.
+NEUT30|Expect to see at this period of the cycle you know that may be an indicator, but I don't think we're there yet.
+BULL31|"Some kind of a pullback, most likely, but I don't know that we're in the bailout kind of mode yet for investors."""

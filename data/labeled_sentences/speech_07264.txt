@@ -1,0 +1,19 @@
+NEUT0|"""Like how big of a surprise was this that Stanley Fisher stepped down as a major surprise?"
+NEUT1|His term is up in June of next year, so everybody thought that he would stay on and because it was likely that Janet Yellen might not be reappointed, that he would be the bridge to the new Chairman to help the new chairman get integrated into the Open Market Committee in the feds business.
+NEUT2|Talk to me about Cohen because you said this earlier that you didn't expect Gary Cohn to be nominated as the next Fed Chief.
+NEUT3|And according to the Wall Street Journal here, they're saying Trump is not likely to nominate him.
+NEUT4|Yeah, I haven't read the details of the story, but.
+BEAR5|Apparently it's based on his interview with the Financial Times at which he complained about the president's behavior after Charlottesville, and that disappointed Donald Trump.
+NEUT6|Now we know that Trump is mercurial, and he could easily change his mind.
+BEAR7|What I was suggesting is that Cohn might not be the favorite that a lot of people think he is, because he is from Wall Street, which makes him somewhat toxic to some of the people in the Trump coalition, and certainly somewhat toxic to the left wingers on the Banking Committee like Elizabeth Warren, who would have to approve his nomination.
+NEUT8|He's also a Democrat, and if Republicans are out to get Janet Yellen because she's a Democrat, not necessarily because of the policy she's followed, but they want to put their own person in there, they might not be very receptive to another Democrat being nominated.
+NEUT9|This is the bipartisan error, isn't it, right?
+NEUT10|But I thought that everything changed today.
+NEUT11|Of course, I got their opposition to Janet Yellen was because of her stance on regulation.
+NEUT12|Well, that's part of it, and there's there was a lot of talk about.
+NEUT13|Maybe the speech she gave at the same time Gary Cohn was giving an interview to the Financial Times the speech he made on regulation.
+NEUT14|Might have pushed her to the background because she was basically telling Donald Trump I'm not going to support the idea of rolling back much of Dodd Frank Gary Cohn much more sympathetic to the idea of making regulatory changes, but if you would to look at it in terms of what's possible.
+NEUT15|I mean, if the Fed rulemaking capability isn't that strong given the legislative parameters of Dodd Frank, they can't do a whole lot.
+NEUT16|He's got Randy Quarles coming in Trump does, and there is.
+NEUT17|He's not expected to do a whole lot, not relieve some of the pressures that.
+BEAR18|"Banks are complaining about."""

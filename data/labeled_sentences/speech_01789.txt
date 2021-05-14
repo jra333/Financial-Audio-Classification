@@ -1,0 +1,36 @@
+BULL0|"""Yes, you can prosper an economically parlous time."
+NEUT1|I have 3 tips for making money and preserving it.
+NEUT2|My thesis is that even when we're going over a fiscal Cliff, even when Medicare is destined to go bankrupt, and even when tax rates are going up, there are good strategies in bad strategies.
+NEUT3|And here are my good strategies.
+NEUT4|I'm going to start with one aimed at young people and the advice to young savers is this is 401K savers buy stocks and hold him for 40 years.
+NEUT5|You can do well over 40 years.
+NEUT6|I don't have a lot of confidence.
+BULL7|You're going to make money over the next 10.
+BULL8|We really don't know what's going to happen, but I have a lot of confidence that you will make money over 40 years as you would have in the past 40.
+NEUT9|The second tip I have is aimed at families with children and there's just one important thing you have to know about saving.
+NEUT10|If you're hard pressed to fund both your own retirement and your kids 529 college savings plan, do your own stuff first.
+NEUT11|I take my advice from American Airlines.
+NEUT12|Put on your own oxygen mask before you help those around you.
+NEUT13|There's a reason for this.
+NEUT14|When the time comes for that kid or those kids to get into college, and they're applying for financial aid, your own retirement savings.
+NEUT15|Then when you've got in, your 401K will be assessed fairly lightly.
+NEUT16|But every penny that you put aside for junior in that college savings plan will be deemed fully available for a grab by the college bursar.
+NEUT17|So do your own saving first.
+NEUT18|Do the Kitty College savings plan.
+NEUT19|Second, now my third tip is aimed, particularly people or someone older and have money in the bank have money in their savings accounts.
+NEUT20|And my advice to them is structure your finances so that you are asset rich and income light, and the reason is that income, particularly the income as defined by adjusted gross income on your tax return, matters so much in determining how much you have to pay for a Medicare premium, whether you'd get property tax relief in a state like New York and various kinds of tax formulas where the more you have in that AGI that adjusted grow income.
+BEAR21|Gross income the more likely you are to be penalized or overtaxed.
+NEUT22|So what can you do to be making good money but having a low number on your AGI?
+NEUT23|There are a lot of strategies.
+NEUT24|I'll mention just a few of them.
+NEUT25|If you own a municipal bond instead of a taxable bond, your AGI will be lower.
+NEUT26|Even your at modified adjusted AGI, which is used in that Social Security or Medicare calculation.
+NEUT27|Another thing you could do is, at least in your taxable account.
+NEUT28|Make sure that you own.
+NEUT29|Low dividend stocks, not high dividend stocks.
+NEUT30|Put your high dividend stocks behind a tax wall in your taxable account.
+BULL31|Don't have alot of dividend income, it'll kick up your AGI.
+NEUT32|And the third thing you can do is look for investments that have a way of generating a good cash flow without having a lot of taxable income.
+NEUT33|For example, commercial real estate, a real estate partnership, a master limited partnership that owns oil and gas pipelines.
+NEUT34|These are things that provide dividends but don't kick up your AGI very much if you use these three strategies, you can make wealth when you're young, preserve it when you're old.
+NEUT35|"That's the name of the game."""

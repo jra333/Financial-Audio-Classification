@@ -1,0 +1,37 @@
+NEUT0|"""Hello everybody hello Ishum hello Australia."
+NEUT1|I want to show you my article where.
+NEUT2|I published.
+NEUT3|The prediction of weak price.
+NEUT4|In 2011 you see this is a local granian newspaper called Telegraph Telegraph.
+NEUT5|Yes, and this is this is.
+NEUT6|You see?
+NEUT7|The article about prediction to the two.
+NEUT8|1011 year this is me and this is.
+NEUT9|My name in Russian you see.
+NEUT10|Structure constitutes emails and this is the key phrase about the week price.
+NEUT11|I made a prediction and it came true.
+NEUT12|You see?
+NEUT13|Up these.
+BEAR14|Russian it means that Rick Price will fall.
+NEUT15|In the end of 2011.
+NEUT16|And this you see the same Russian phrase, and this is translation into English.
+NEUT17|You see the same phrase in the newspaper and translate it.
+NEUT18|Now.
+NEUT19|I wanna show you the chart.
+NEUT20|We price.
+NEUT21|See weed.
+NEUT22|Weekly.
+NEUT23|And here it is.
+NEUT24|We see the level of.
+NEUT25|Almost.
+NEUT26|900 Bucks.
+NEUT27|And these the beginning of 2011.
+NEUT28|It was on the level of.
+NEUT29|800 and in the end of the year you see is in December.
+BEAR30|The prices fall.
+BULL31|Fallen almost twice to 570.
+NEUT32|Bucks.
+NEUT33|So.
+NEUT34|What we've got?
+BULL35|We've gotten it.
+NEUT36|"Predictions came true."""

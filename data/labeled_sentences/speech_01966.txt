@@ -1,0 +1,10 @@
+BULL0|"""China share market rallied on Friday."
+BULL1|Buoyed by the news of massive support to the tune of $210 billion from the country's banks, that's how much money has been lent to China's margin finance agency in recent weeks so as to help stanch the bursting of the Shanghai and Shenzen stock market bubbles to some extent.
+BULL2|It has worked.
+BEAR3|Shanghai is recovered more than 10% from its closing low from July the 8th, but the scale of government intervention suggests they are the only ones buying and that the market is simply being delayed from finding a natural bottom.
+BEAR4|Beijing's efforts in propping up the market are also doing little to convince major institutional investors that the country will be fully integrated into the Global financial Index system anytime soon.
+BULL5|Just one month ago, foreign investors were focused on whether China's mainland, a share market, would gain entry into MSC's leading index of emerging stock markets, which are tracked by funds with about $1.7 trillion to invest, it now looks a fortuitous decision.
+BEAR6|By MCI to delay China's entry given Beijing.
+BEAR7|Reaction to sliding share prices.
+BEAR8|Indeed, China may face a rather long wait before it becomes a heavy hitter in the global indices.
+BEAR9|"As we've been starkly reminded just how much the country's asset prices are driven by policy and not by Mr Market."""

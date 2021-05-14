@@ -1,0 +1,31 @@
+BULL0|"""We are have come to work on the street."
+NEUT1|Excuse me and Rick is looking at Speaking of predictions and prospects of the prospect of Elizabeth Warren as a Treasury Secretary.
+NEUT2|If Joe Biden wins the presidency, I think she mean which should be a controversial choice.
+NEUT3|It seems like she probably wouldn't be right.
+NEUT4|Yep, should be very controversial because of all the possible people who could fill that post.
+NEUT5|Which isn't it.
+NEUT6|That's an important one.
+NEUT7|That's a Top Gear cabinet post, obviously.
+NEUT8|She probably would be most aggressive about regulating banks, or at least trying to.
+BEAR9|An Wall Street would probably dislike her the most.
+NEUT10|I mean she was the one who just pilloried banks after the 2008 financial crisis.
+NEUT11|She wrote the legislation that set up the new Consumer Financial Protection Board and she wishes it would go a lot further than it did.
+NEUT12|So you know, predicting the the candidates cabinet before the election is a classic Washington parlor game.
+NEUT13|And there are a lot of people who would be qualified to be the.
+NEUT14|Treasury Secretary.
+NEUT15|The question for Biden is how he's going to handle this battle between progressives on the left.
+NEUT16|Who wants somebody who would really confront the banking industry and somebody who would be a more conventional choice that could be labeled Brainerd of the Fed.
+NEUT17|Roger Ferguson, who was former vice chairman of the Fed or a bunch of other people who are on the list.
+NEUT18|But this is going to be typical.
+NEUT19|The pressure Biden is going to face when he has to figure out his appointees going to represent the progressive wing of the Democratic Party or the more institutional lender that.
+NEUT20|Democratic Party and Slick Rick laid out right there.
+NEUT21|It's important to note that the parlor game involves a number of other moving pieces such that if it is indeed the case that Elizabeth Warren were to become a Treasury Secretary under a perspective by an administration that could move Lael Brainard, the current Fed governor to a possible eligibility to become the new Fed chair under a Biden administration.
+NEUT22|If he chooses to replace Jay Powell at the end of his term in February of 2022, now, of course Biden could reappoint him based on his performance.
+NEUT23|During this covid crisis, but if he did not want to Mail Brainerd as I, you know, I've kind of been told in certain sorters conversations would be interested in becoming a Fed chair that she has in the past tried to make a case for herself to become Fed chair.
+NEUT24|Now again that is contingent on her not being picked for a Treasury Secretary position, but it seems like maybe that's going to be the first moving piece because there have been other reports that the likes of.
+NEUT25|In addition, Roger Ferguson, formerly of the Fed as well there could be the likes of Rhode Island Governor Gina Raimondo, who could.
+NEUT26|Not be part of that, uh, possible pool perspective.
+NEUT27|People as well.
+NEUT28|So a lot of moving parts there, but it could have ripple effects for other important things like who's going to have the central bank in 2022 as well.
+BEAR29|Just one last thing to mention, one factor working against Elizabeth Warren for any cabinet job is that if she left the Senate she would be replaced by an appointment made by the Republican governor of Massachusetts, Charlie Baker, and it's probably unlikely Democrats are going to have such a huge advantage in the Senate.
+NEUT30|"Under the best scenario that they can afford to lose one seed, so that is one reason Elizabeth Warren might stay in the Senate in those key jobs might go to somebody else."""

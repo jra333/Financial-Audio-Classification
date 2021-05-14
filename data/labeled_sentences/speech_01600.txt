@@ -1,0 +1,33 @@
+NEUT0|"""Hello Friends, welcome to episode 17 of Stock market technical analysis."
+NEUT1|I'm Aditya from mostly bearish as of now.
+NEUT2|In the playlist stock market technical analysis we have covered these topics, stock market technical analysis is a playlist which consists of different candles.
+NEUT3|Every episode is a specific candle where we look at the candle, how it looks, what it means.
+NEUT4|And also we try to search for these candles on charts as well so that we understand what is happening when these kind of candles are formed.
+NEUT5|This episode is the last episode about candle stick analysis.
+NEUT6|We're mostly covered the different types of candles.
+NEUT7|Today's episode is about 3 Black Rose.
+BEAR8|In the previous episode we spoke about 3 white soldiers, which is a bullish pattern.
+NEUT9|3 black crows is opposite of three white soldiers, an is a bearish pattern.
+NEUT10|Let's take a look at how this pattern looks.
+NEUT11|What it means and on charts as well.
+NEUT12|So what do you see on your screen right now is 3 black rose as I specified in the previous episode.
+NEUT13|Also, these candles may have some lower or upper Wicks.
+NEUT14|I just draw these candles so that our understanding becomes easier.
+NEUT15|So what this pattern means is consecutively 3 candles of whatever time frame that we're choosing ended in red, and each candle itself was a big move.
+BEAR16|The sellers from here started pushing the prices down.
+BEAR17|All three candles ended in red and the prices were driven downwards.
+BEAR18|This is a bearish pattern where bias could not push the prices up or end the candle in green.
+NEUT19|This shows that.
+NEUT20|The selling pressure at these levels is very high.
+NEUT21|Let's try to look at this on charge to understand more about this.
+BEAR22|The prices were pushed down and ended in red.
+BEAR23|The second and third also consecutively ended in red where there were lower weights also formed.
+NEUT24|What happened after that?
+NEUT25|The prices were driven downwards, so these are the clear levels where sellers are in complete control where BIOS are unable to push the prices upwards.
+NEUT26|So I hope you guys have understood what 3 black crows are.
+NEUT27|It is a bearish pattern where sellers are in complete control so as of today we have completed most of the candle stick pattern analysis and what they mean.
+NEUT28|The next video onwards we're going to be talking about indicators and oscillators, stock market technical analysis is a playlist that I've created where each video is about a precise candle as of now, if you've missed out on any of the candles or any of the episodes, make sure you watch them as well.
+NEUT29|Do subscribe to mostly virus so that you don't miss out on any videos from my side.
+BULL30|If you found this video helpful, do hit the thumbs up.
+NEUT31|I can also do commend your learnings and let me know if you found these patterns in your analysis and what happened after that.
+BULL32|"Thank you so much for watching my videos."""

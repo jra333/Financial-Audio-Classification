@@ -1,0 +1,28 @@
+NEUT0|"""What do you think of this deal?"
+BULL1|It's been talked about probably more than any other SPAC deal, and retail traders have been all over it yesterday.
+BEAR2|Apparently, C Civ shares fell 30% in the after hours trade after the news was confirmed.
+NEUT3|Well, it's it's good and it's bad.
+BULL4|It's good.
+NEUT5|Be 'cause what this means is and you know, and you look at the valuation of Tesla and many of the other automotive EV related stocks that have done this route is is that there is a ton of capital willing to invest in the electrification of the automotive sector.
+BULL6|And when you look at that from a sustainability perspective, that's great because it means that with more capital we can roll out the infrastructure that's needed to make EV take off sooner.
+BULL7|That's good.
+NEUT8|The bad side of this is is is that none of this none of the valuations being paid, but any remote resemblance to reality whatsoever.
+NEUT9|And this what you're really doing is that when the narrative drives up.
+NEUT10|Richard, you mentioned Tesla, which is valued at 750 billion.
+NEUT11|If if lucid can produce 300,000 cars a year, don't they deserve more than 24?
+NEUT12|Well, I would.
+NEUT13|I would actually take issue with that.
+NEUT14|Should you really value lucid against Tesla?
+NEUT15|Because is there anyone in their right mind who will actually say that Tesla is undervalued?
+NEUT16|Terrorism narrative story.
+NEUT17|It's being driven by a narrative and it bears no resemblance to fundamentals.
+NEUT18|I would ask the question like this.
+NEUT19|Lucid is a luxury brand driven vehicle maker.
+NEUT20|Should it be worth more than Ferrari which is currently valued at €28 billion.
+BULL21|Arguably one of the best known and most desirable luxury vehicle brands in the world.
+NEUT22|But they only produce 9000 cars a year, right?
+NEUT23|10,000 cars a year.
+NEUT24|Ferrari is not doing 300,000 units.
+NEUT25|Now I'm with you and I I would agree.
+BULL26|You know, if they can produce a vast number of units that would actually bring the revenue multiples and the profit multiples down to what we consider a good level, then yes, definitely worth more than $24 billion.
+NEUT27|"But should you pay $24 billion for a company that hasn't even shipped a vehicle yet, that would be my question."""

@@ -1,0 +1,5 @@
+BULL0|"""Hey everyone, if you happen to check the market today, you might have seen that Disney is up 15% today."
+NEUT1|So what gives?
+NEUT2|Well, yesterday it happened to be Disney's Investors Day where their CEO announced that in 13 months their streaming service Disney Plus has accrued 86.8 million subscribers already.
+NEUT3|If that wasn't enough for investors, Disney also announced 10 new Star Wars Series 10 new Marvel series and then 30 new features or series that are going to fall under Disney Animation and Pixar.
+BULL4|"With all that great information coming out of Disney yesterday, investors have been buying Disney shares all day."""

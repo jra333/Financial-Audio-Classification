@@ -1,0 +1,41 @@
+BULL0|"""Good morning, so big news you got."
+NEUT1|You got a credit card?
+NEUT2|You're buying a bank.
+NEUT3|You'll be able to take deposits, make loans based on those.
+NEUT4|If that charter goes through.
+NEUT5|This seems like part of this kind of new challenger bank, Neo Bank movement.
+NEUT6|Lot of focus on chime out there.
+NEUT7|What unique mechanics is so far going to be able to offer here?
+BULL8|Well, thank you for having me John, the National Bank Charter is an important element to allow us to really differentiate so five money, but also to lower our costs of loans which will allow us to make more loans to more people at lower interest rates.
+BULL9|In addition to that, we will be able to offer an interest rate and Sofi money that's incredibly competitive.
+NEUT10|We want to offer one of the highest interest rates in the marketplace and be able to do that across any type of account that you have your money in with no restrictions.
+NEUT11|As long as you do direct deposit with us, you'll get a high interest rate.
+NEUT12|No restrictions on the use of your money.
+NEUT13|Or do you want to pay by your phone?
+NEUT14|Pay with a debit card or do electronic bill pay in addition to being able to deposit cash?
+NEUT15|So our goal is to give you the best of checking and savings of one account, like so far money and getting a National Bank charter.
+BULL16|Allow us to do that by lowering our cost of loans and right using excess costs to increase the amount of interest we can provide in deposits.
+BULL17|We think we can provide a very differentiated product and service, not to mention service more people more broadly grow the company faster and allow it to be more profitable.
+NEUT18|So I mean the highest interest rate out there isn't what it used to be.
+NEUT19|I mean, I remember it seems like a long time ago, now two 3%.
+NEUT20|You know, you know people are like wow, that would be great.
+NEUT21|Now in the most competitive, you're getting like tiny fractions of that, and it seems like a lot of Fintech players are turning to Bitcoin or turning to stock trading as a way to attract the consumer audience.
+NEUT22|Is that an important component of this?
+NEUT23|Are high interest rates on savings accounts enough?
+NEUT24|I think there's a couple of different ways to serve our members well when we first want to find money, were able to launch with a high interest rate.
+NEUT25|We had a partnership that allowed us to offer 2.25% interest, but because we're not a bank, we have to rely on someone else to provide us a partnership that sets that interest rate for us.
+NEUT26|And so now our interest rate is very low because the federal funds rate has dropped to essentially zero when we have a bank charter will be able to determine what interest rate that we want to provide and not be dependent on anyone else.
+BULL27|We have the capital and the financial model 'cause we're digital company to provide a much more attractive interest rate on SO5 money then we're providing today.
+BULL28|So getting the National Bank Charter will make SO5 money a lot more appealing.
+NEUT29|It will have a high interest rate at how early availability of your paycheck it'll have overdraft protection in addition to doing everything you want to do on your phone.
+NEUT30|Pay a friend, pay bill, pay at retail, or pay with a debit card in addition to Sofi money.
+NEUT31|We also offer Sofi invest, which is another way to get your money right.
+BULL32|And so far investors.
+NEUT33|The only place that you can buy stocks without paying commissions, fractional shares, ETF's in effect five of Sofi branded ETF's, two of which have no load and then finally also Robo advisory funds that we've created, and so we're trying to give you the best of both worlds as relates to spending, saving and building your investment portfolio across both of those products.
+BULL34|And as you mentioned, we now have so far credit card which is a unique way for our members to get great rewards.
+BULL35|We double the rewards that you get with so far.
+NEUT36|Credit card when you redeem intesify money or you redeem into Sofi.
+NEUT37|Invest for fractional shares.
+NEUT38|What in addition to applying those rewards to an outstanding loan, if you have with us, and so we're really a one stop shop that's now showing the world how our products are better when you use them together.
+NEUT39|Shepard Smith here.
+NEUT40|"Thanks for watching CNBC on YouTube."""

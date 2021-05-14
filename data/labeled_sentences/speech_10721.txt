@@ -1,0 +1,29 @@
+NEUT0|"""Pattern recognition allows for fast and efficient market prediction using signals, indicators and strategies that guide profit making decisions in milliseconds."
+BULL1|Through extensive research and development we have created a brand new algorithm with record breaking performance that has the ability to scan thousands of stocks and other products almost instantly, alerting you to the most profitable trading setups on stocks, Forex, indexes and commodities.
+BEAR2|OK, it's Monday, June 24th and I am feeling the market pulling back tomorrow on the Tuesday.
+NEUT3|An I think Netflix is due for a pullback, but one thing I notice is look at this resistance of 375 so you can see here.
+NEUT4|Always looking for stuff like this.
+BULL5|Boom price came up.
+NEUT6|Hit that exact price and then pulls back.
+NEUT7|So I think this is due for a.
+NEUT8|A drop.
+NEUT9|So I'm going to look to sell this stock, meaning short this stock will see how it goes in the coming days.
+NEUT10|OK, it's several days later, I'm looking at Netflix stock, so here I talked about that resistance off of 375.
+NEUT11|Anytime you see a stock come up, hit a whole number like 375 or maybe just below it.
+NEUT12|Maybe it hits 374-9998 and then it comes down like this with the long upper Wick and we have this gap from the moving average.
+NEUT13|All this space in here.
+BULL14|It's almost a guarantee that this stock is going to pull back, so I was pretty sure that if I got in short that I'd make money.
+NEUT15|The next day on the 25th, and that's exactly what I did.
+BEAR16|I knew it was just going to be a one or two day hold back because I was overall bullish on the market.
+BEAR17|So I got in short on the 25th and I got out the very same day.
+NEUT18|Typically price is going to want to come back down to the moving average.
+NEUT19|It may touch it completely.
+NEUT20|It may go through it, or it may just get close to it.
+NEUT21|Here Price went right through it and then obviously you can see we turned around.
+BULL22|And it's more or less setting up bullish from here.
+NEUT23|That's how stocks move.
+NEUT24|That's how you learn this with simpletrades.net.
+NEUT25|Learn this pattern recognition scanning software.
+NEUT26|If you want to learn how to do it, go to simpletrades.net.
+NEUT27|Thank you for watching.
+NEUT28|"Please subscribe to the channel."""

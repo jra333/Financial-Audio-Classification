@@ -1,0 +1,27 @@
+NEUT0|"""Hey folks, my name is Isaac Pino and analysts."
+NEUT1|Here at The Motley Fool today, I wanted to shed a little light on what an operating margin meant for the everyday investor.
+NEUT2|As you start to evaluate companies, you start to realize that this can get to be a really complicated reporting environment.
+NEUT3|So if you have a little understanding on how the income statements broken down, it can really go a long way to helping you compare different investment opportunities.
+NEUT4|If you look at the income statement, the two things that are going to jump out, obviously the revenue and then then that income.
+NEUT5|But within those two measurements you have.
+NEUT6|Different ways of splicing the income statement so that you can better understand what contributes to the bottom line.
+NEUT7|Now the first thing is if you were out there manufacturing a widget for example, you would have the gross margin after all the goods manufactured all the widgets manufactured.
+NEUT8|Your gross margin would be all of the revenues, less the cost to make that good.
+NEUT9|The second step that you would jump to would be the operating margin.
+NEUT10|So you would have not only the cost of manufacturing the good, but then you'd have a second layer of costs, which would be the allocation of overhead.
+NEUT11|The allocation of the warehouse costs the electricity and energy costs that go into making that.
+NEUT12|Particular product that would arrive at the operating margin.
+NEUT13|So essentially the definition in layman's term is operating margin equals operating income divided by sales.
+NEUT14|It's one way to show how well management is running the business, so it excludes everything that does not directly tie to the product.
+NEUT15|So things like interest and taxes those are going to be outside of the operating margin, but it can show if you're looking into company.
+NEUT16|A good example might be a manufacturing firm like 3M.
+NEUT17|They manufacture all kinds of things from natural gas.
+NEUT18|Vehicle liners to LCD screen liners.
+NEUT19|All kinds of materials Scotch tape.
+NEUT20|Obviously you know very well, but these different things have different margins and so it's a way to evaluate the different businesses and see how they contribute without including the extraneous things like interest in taxes, something to look for.
+NEUT21|Look for there.
+NEUT22|You can calculate this based on a percentage measurement as opposed to an absolute dollar term.
+NEUT23|So if you have $200,000 of operating profits, then you divide that by your revenues, which perhaps could be $1,000,000 and you have a 20% operating margin.
+NEUT24|Then you can take that and you can compare it to other companies to get a better understanding of how well management is doing within their particular industry.
+BULL25|So I hope I've given you a little bit of insight on operating margin.
+BULL26|"Thanks for watching him full on."""

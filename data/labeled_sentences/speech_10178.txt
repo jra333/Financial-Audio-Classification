@@ -1,0 +1,7 @@
+BEAR0|"""Alright, let's look at the Apple Apple stock because the Apple has dropped sharply down and then managed to bounce back a little bit, but still dropped at the very low point of the day."
+NEUT1|So it's very, very exciting for Apple stock if we turn the chart into daily chart, we can see here we got a red candle.
+NEUT2|Definitely under the two year my lines and confirmed we have been done from the consolidation area before it, so it's very very site for Apple stock.
+NEUT3|Here is the top.
+BEAR4|Here is the second top now we got maybe another top here so it's a lower high than before here the high is lower than here and now we got another lower high.
+BEAR5|It's very bearish for Apple stock.
+BULL6|"Thank you."""

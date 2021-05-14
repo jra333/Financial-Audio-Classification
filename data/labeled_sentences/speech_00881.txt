@@ -1,0 +1,22 @@
+BULL0|"""Everyone who works in the Philippine stock brokerage industry knows that foreign investor participation is important for the stock market to sustain its strong performance."
+BEAR1|Unfortunately, foreign investors have been consistently selling Philippine stocks since May of 2019.
+NEUT2|So much so that if you accumulate all their buying and selling since the year 2000, their total exposure in Philippine stocks.
+BULL3|Has returned to 2011 levels.
+BEAR4|Aside from being consistent, net sellers foreign investors have become less active in the Philippine market.
+BEAR5|Historically, foreign investors accounted for close to 50% of the value turnover in the Philippine stock market this year, though their share has dropped to less than 30%, which is a level last seen in 2011.
+BEAR6|Possible reasons why foreign investor participation in the local market has diminished include the lack of IPO's in the Philippines.
+NEUT7|The past few years as of today, there are only 271 Philippine listed stocks in the Philippine Stock Exchange.
+NEUT8|This is despite the Philippines having one of the oldest stock markets in Asia.
+BULL9|In contrast, markets in Asia have grown significantly.
+NEUT10|For example, there are 932 listed companies in Malaysia, 691 in Indonesia, 716 in Singapore, 724 in Thailand.
+NEUT11|And 731 in Vietnam because of the small number of listed companies in the Philippines, foreign investors are allocating a smaller portion of their Asian portfolio to the Philippines.
+NEUT12|Another reason why foreign investors might not be as excited about the Philippine stock market is the lack of companies that are involved in industries that are more resilient to the pandemic and have a more attractive long term growth prospects even in other countries the stocks of companies that belong to more resilient an exciting growth sectors.
+BULL13|I performing better than the stock market in general.
+BEAR14|Finally, I think foreign investors continue to avoid the Philippine stock market because of the poor performance of the local economy.
+BEAR15|Last year Philippines GDP fell by 9.5% which is much faster than the declines registered by other Asian countries.
+BEAR16|The Philippines, weaker economic performance is due to our dependence on the domestic economy and the small share of exports to our total GDP.
+BEAR17|Strict mobility restrictions also remain in place, hampering economic growth.
+NEUT18|Nevertheless, there are reasons to be more hopeful and optimistic.
+BULL19|Just recently, the SEC has approved the PSC's amended listing rules, which have more relaxed requirements on profitability and track record.
+BULL20|This will hopefully encourage more companies to list in the stock market once economic numbers improve, there is room for foreign investors to increase their position in the Philippine market.
+BULL21|"Which in turn should help the Philippine stock market deliver a more sustainable recovery."""

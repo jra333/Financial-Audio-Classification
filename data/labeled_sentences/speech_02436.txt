@@ -1,0 +1,37 @@
+NEUT0|"""Get the latest on what's going on."
+NEUT1|This earnings season meets Beats and more in Zacks Earnings Scorecard.
+NEUT2|It's one company in particular that Eric Neutrum has been following.
+NEUT3|It is Disney Corporation.
+NEUT4|He's going to report on it now before they report earnings, right?
+NEUT5|Yeah, they actually report today, which is August 9th after the Bell.
+NEUT6|So not a whole lot of time for this one, but this company does have a Zacks rank.
+BULL7|Three does have a B for its VGM score, very rocky road for Disney as of late.
+BEAR8|Largely thanks to their ESPN problem.
+BEAR9|It's been bleeding subscribers for a couple years now thanks to cord cutting.
+NEUT10|Not to mention the alligator issue.
+BEAR11|Yeah, that's that's also a unfortunate situation for Disney.
+BULL12|Sort of balanced out by their their strength and their movie division, which you know continues to run at an impressive rate.
+BEAR13|But when you consider how profitable the ESPN Division has been for so long, it's really been a headwind for the company, and it could continue to be a headwind as well.
+NEUT14|If we looked at some of the charts here we can.
+BULL15|We can see this Disney Disney ESPN issues finally caught up to the company.
+BEAR16|We can see the company finally missed estimates in its most recent report breaking a streak that lasted for more than four years here for the company.
+NEUT17|Where had gone from about $30 a share up to this $100 range.
+BEAR18|As we can see, shares have really been stuck in this narrow range as of late.
+NEUT19|Really hasn't been much of a catalyst as the you know, the companies kind of balanced out by these these dual issues of the, you know, the ESPN dragging it down on one end and then the movie division lifting it up on the other so it's kind of a internal struggle at Disney these days.
+BEAR20|If we looked at some of the earnings estimate revisions to try and get a better, better feel of how Disney might do today, we can see that the estimates have been pretty flat here.
+BEAR21|Kind of kind of struggling a little bit, though moving it a tad down as of late.
+NEUT22|I really just don't think there's a whole lot to like about Disney in this upcoming report.
+BULL23|I'd like to see some positive numbers out of the ESPN Division, or at least a sign that the bleeding is finally stopped there before you know, really jumping in.
+NEUT24|But I do own it from my personal portfolio.
+BULL25|I do find it to be a great long term buy and it's hard to go against the company with you know some of their new divisions with movies and then the Disneyland Shanghai looks to be a very promising venture for them as well as their parks.
+BULL26|Division has typically held up pretty well.
+BULL27|I mean the parks parks is doing well.
+NEUT28|We're going to see if the whole Zika issue, really.
+NEUT29|Impacts Orlando and some of those other markets down there so that that could also be something to watch for in the conference call.
+NEUT30|But you know, Disney remains a strong long term stock, but short term there's not.
+NEUT31|Not really a whole lot lot to like.
+BEAR32|The magic might be gone for the short term.
+NEUT33|Well, keep your mosquito repellent handy in case you go down there anyway.
+NEUT34|Thanks for that and we've got more information on earnings and stocks in general on our website *******.
+NEUT35|So get on over and check it out if you're not there already.
+NEUT36|"With Eric I'm Terry Ruffalo."""

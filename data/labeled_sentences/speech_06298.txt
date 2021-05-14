@@ -1,0 +1,9 @@
+BULL0|"""Welcome to 1st FT here."
+NEUT1|Today's top stories.
+BULL2|Stock markets are rallying and the dollar has gained against several major currencies as markets continue to absorb the US Federal Reserve 25 basis point rate rise, the rally has not extended to industrial commodities where the firmer Buck is weighing on a sector already struggling with oversupply concerns oil is still close to its cheapest price since Christmas 2008.
+BULL3|The US and Russia will launch a joint effort at the UN Security Council later today to block ISIS and other terrorist groups from the International financial system.
+NEUT4|A rare meeting of Security Council finance ministers will debate a UN resolution calling for tougher measures to cut off funding to ISIS and Pandora.
+BULL5|Media shares jumped 20% following a favorable ruling on the royalty rates that US Internet radio services must pay to artists and record labels.
+BULL6|the US Copyright Royalty Board increased the rate by 15%.
+BEAR7|But this was well below the rise demanded by those collecting royalties on behalf of musicians.
+NEUT8|"For more of today's top stories, go to ft.com/firstFT."""

@@ -1,0 +1,18 @@
+NEUT0|"""Palantir stock analysis and price prediction, December 15th in today's Palantir stock analysis and price prediction Palantir $44 million FDA contract?"
+NEUT1|Alright, let's get started.
+BULL2|Shares of Palantir closed up more than 21% Monday after Bloomberg reported that the company won a three year contract with the US Food and Drug Administration.
+NEUT3|The deal is worth $44.4 million and will focus on powering drug reviews and inspections, according to the report Co.
+NEUT4|Founded in 2003 by tech investors Peter Phil and Joe Lonsdale.
+NEUT5|CEO Alex Karp and others Palantir provides data analytics software and services to government agencies and large companies.
+NEUT6|But it's government work makes up more than half of its revenue, bringing in $163 million in its latest quarter, the company said in November.
+BULL7|Recent contracts that received during the third quarter include a $91 million deal with the US Army, a $36 million contract with the National Institutes of Health, $36 million and a $300 million renewal within aerospace customer.
+BULL8|Palantir stock has surged nearly 200% since it went public, September 30th.
+NEUT9|That's what's been happening this week in the world of Palantir.
+NEUT10|Stock analysis and price prediction.
+NEUT11|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of Palantir.
+NEUT12|Stock analysis and price prediction.
+NEUT13|If you enjoyed this edition of Palantir, stock analysis and price prediction, leave a comment.
+NEUT14|And please hit the like or share button.
+BULL15|We'd really appreciate it.
+NEUT16|Are you still watching and want more?
+NEUT17|"Check out last week's Palantir Stock analysis and price prediction by checking out our Palantir playlist."""

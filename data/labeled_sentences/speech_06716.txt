@@ -1,0 +1,14 @@
+BEAR0|"""I'm sorry Russian words for SmarTrend news."
+BULL1|Berkshire Hathaway traded in a range yesterday that span from a low of $68.48 to a high of $70.87 yesterday.
+BEAR2|The shares fell .07%, which took the trading range below the three day low of $70.00 on volume of 8.4 million shares.
+BEAR3|Shares of Berkshire Hathaway are currently trading below their 50 day moving average of $78.85.
+BEAR4|And below their 200 day moving average of $71.45, look for these moving averages to provide resistance for a short term rebound in the shares.
+BEAR5|Smart trend is bearish on shares of Berkshire Hathaway.
+NEUT6|In our subscribers were alerted to sell on April 16th, 2010 at $77.88.
+BEAR7|The stock has fallen 9.2% since the alert was issued.
+BULL8|Smart trend has the shares in a downtrend an expects the share price to rebound tored the $70.73 resistance level.
+BEAR9|Afterwards, we expected to move downward with its peers in the smart trend.
+NEUT10|Multiline insurance industry.
+BEAR11|I'm sorry hush Mars for smart trend news.
+NEUT12|For more news and market analysis, visit our website tradethetrend.com or subscribe to our YouTube channel.
+NEUT13|"Trade the trend."""

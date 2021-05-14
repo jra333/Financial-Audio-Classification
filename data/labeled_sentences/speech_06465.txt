@@ -1,0 +1,10 @@
+NEUT0|"""Hello and welcome to today's technical analysis for December 1st, 2014."
+NEUT1|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at Aussie dollar in the daily chart.
+BEAR3|AUD USD open the new week with a gap lower at Zero Point, 8465 after closing on Friday, above the key Zero point 8500 level it had and you for your load today observe Point 8415, but the overall trend is bearish and technical indicators suggest the downside bias is still in progress.
+BEAR4|The Tenkan Sen Kijun Sen Lines and negatively aligned while the market is below the falling ichimoku cloud.
+BEAR5|Our size in bearish territory below 50 to the upside, the key zero point 8500 level has now become resistance into the downside.
+BEAR6|The Zero point 8400 levels seen as next support level Aussie dollar remains strongly bearish below the 50% Fibonacci retracement level and this is at Zero point 8546.
+NEUT7|An it is the 50% favor, not retracement level of the Lake from 0.600.
+NEUT8|821 point 1078.
+BULL9|"Thank you for watching and have a great day."""

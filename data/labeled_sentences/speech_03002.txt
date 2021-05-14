@@ -1,0 +1,47 @@
+NEUT0|"""Everybody."
+NEUT1|We are talking today about.
+NEUT2|Facebook stock?
+NEUT3|It's his work stuck, it's.
+BEAR4|It's down today in this state.
+NEUT5|It's.
+NEUT6|Price once 100.
+NEUT7|70 So we are talking is it?
+NEUT8|Is Facebook is a good buy?
+NEUT9|For this moment, or.
+NEUT10|It is not.
+NEUT11|We can see that it's true too.
+NEUT12|Not that good and it's it's making.
+NEUT13|Some.
+NEUT14|Negative.
+NEUT15|Move.
+NEUT16|So we can.
+NEUT17|We can do some expectation for Facebook stock.
+BEAR18|Now it's 170 in my opinion and I guess it's going still going down.
+NEUT19|For 100 20 it comes from.
+NEUT20|It's stop boiling.
+NEUT21|Doing the.
+NEUT22|222 I do know it's 170.
+NEUT23|The move.
+BEAR24|The Facebook stock doing negative move move and it can goes down still can goes down to this point 100.
+NEUT25|100 15 for short term.
+NEUT26|And when it comes to this point, we will.
+NEUT27|Wait and see what it can happen caused.
+NEUT28|If it comes to.
+NEUT29|This.
+NEUT30|Boring.
+BEAR31|It's it will be more negative for Facebook.
+NEUT32|Stock can go more.
+NEUT33|Down.
+NEUT34|Can you go more down for?
+NEUT35|Only with them if.
+NEUT36|Facebook stuck, didn't touch it, don't touch it, didn't change it, move and making opposite.
+NEUT37|Move for.
+NEUT38|Nick is.
+NEUT39|I guess the couple of months is may change.
+BEAR40|This all this negative.
+NEUT41|Move, but for this moment.
+BEAR42|Facebook stock is very negative and it can go.
+NEUT43|For 115 for.
+NEUT44|Short term then we can.
+NEUT45|See what we we'll see.
+BULL46|"And thank you for reaching goodbye and good luck."""

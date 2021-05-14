@@ -1,0 +1,19 @@
+BEAR0|"""Donald Trump's election victory has wrong footed."
+BEAR1|Many investors and triggered a convulsion across financial markets.
+NEUT2|And here are some charts that show how we have been upended by expectations that Mr. Trump will unleash a big economic stimulus.
+BULL3|Package of tax cuts and infrastructure spending.
+NEUT4|Our first chart is of the Dxy dollar index, which is powered higher on it.
+BULL5|Predictions of quick economic growth and subsequently higher interest rates, which will **** in foreign capital.
+BULL6|The second chart shows how bank shares of Bounce higher on expectations of a regulatory rollback and higher interest rates.
+BEAR7|On the other hand, utility stocks have sagged precipitously.
+NEUT8|Now, staying with the winners, this chart Maps out the performance of US small cap companies, many of which will be shielded from the dollar.
+NEUT9|Strength is most of their revenues.
+BEAR10|Are generated domestically but developed markets in general have been winners from the receding fears over deflation.
+BEAR11|On the other hand, emerging markets have sagged on strong dollar and trade war concerns.
+BEAR12|Now staying a little bit with developing world, here's a chart that shows emerging market currencies tumbling sharply since your selection, led by the Turkish lira, Mexican peso and the Brazilian real bonds have also lost ground, particularly long dated bonds, and this has pushed the yield of the 10 year U.S. Treasury bond.
+BEAR13|All most closely watched financial gauges on the planet to year high of over 2.3% and at the center of this particularly painful Venn diagram of long dated debts and emerging markets sends Mexico Century Bond.
+BEAR14|Its values tumbled by more than 13% since US election.
+NEUT15|Gold is perhaps the most unexpected victim of Trump.
+BEAR16|Tantrum is rising.
+NEUT17|Inflation expectations are normally good for the precious metal.
+NEUT18|"But all this could change in 2017, when the new president takes office."""

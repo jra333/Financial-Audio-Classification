@@ -1,0 +1,24 @@
+BEAR0|"""We got some breaking news for you L Brands."
+NEUT1|CEO Les Wexner is reportedly now in talks to step down from that position.
+NEUT2|Also said to be exploring strategic alternatives for Victoria Secrets brand.
+NEUT3|That's a euphemism for.
+NEUT4|Well, maybe putting the company up for sale effects with the Wall Street Journal saying the talks are ongoing.
+NEUT5|82 year old Wexner is the longest serving CEO of an S&P 500 company, built Abercrombie and Fitch.
+NEUT6|The limited an Victoria's Secret international chain.
+NEUT7|But last year Webster drew attention.
+BEAR8|Of course, for his Association with disgraced Financee or Jeff Epstein.
+NEUT9|Epstein, of course managed Webster's wealth for two decades.
+NEUT10|That Wexner had owned the home that was on 5th Ave. That was effectively given to Epstein.
+NEUT11|There were all sorts of questions that was that was the next many other transaction that he really was the next about for Epstein's all of his kind, all of it, he says.
+NEUT12|Of course, he gave him the money to rent, run first, so that's kind of where he is in a lot of connections.
+BEAR13|But he says that he was hoodwinked by Epstein.
+NEUT14|Obviously there's outstanding questions about that on, particularly in particular on this Victoria's Secret piece.
+NEUT15|Though there's a couple of things going on.
+NEUT16|The Pepsi, I think the Epstein piece is a cloud that overhangs all of this, but really, there's the larger issue of just the changing shift in retail.
+NEUT17|Changing shift in cultural troll, this sort of no more international show.
+NEUT18|There's around women so that they start they created back in the 1990s to kind of go up against Lee brands and all of the other big broadcasters family show here on CBS for so many years, right?
+NEUT19|And that was something that I think in this environment has died down.
+NEUT20|But look, it's this is also an indictment of Les Wexner strategy of really doubling down on the stores in the malls and getting rid of some of the catalog.
+NEUT21|Who sales and some of the other things that they've been doing his he said, I think in an interview with the Journal maybe two years ago, said that look he has history on his side and go back 5000 years and watch people going to these bazaars and going to these shops all the way back to Roman times.
+BEAR22|But really, what the change we've seen in the retail environment has been drastic.
+BEAR23|"It's the stores that are in the malls that have had the most trouble trying to learn traffic."""

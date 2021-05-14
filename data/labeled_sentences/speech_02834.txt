@@ -1,0 +1,5 @@
+NEUT0|"""Before the government gets hold of your tax return, maybe you should get hold of the Wall Street Journal."
+NEUT1|After all, it's your money.
+NEUT2|At least for the time being.
+NEUT3|Call 800-351-9000 for this great Journal subscription offer 13 weeks for just 2975 with a money back guarantee.
+NEUT4|"13 Weeks 2975 phone 800-351-9000 now for the Wall Street Journal."""

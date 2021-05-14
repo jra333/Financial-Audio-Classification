@@ -1,0 +1,42 @@
+NEUT0|"""Let's just go ahead and get rolling right here."
+NEUT1|As always, joining me today is certified Financial planner Matt Frankel Matt.
+BULL2|It was a good week for both of our squads on Saturday.
+NEUT3|Your Gamecocks tell me a little bit about that real quick, who they beat?
+BULL4|We beat Missouri and it was on a last second field goal, so it was a really exciting game to watch.
+NEUT5|Yeah, there were a few delays there.
+NEUT6|I think with the weather too huh?
+BULL7|Yeah, there we had a kind of Thunder stormy day, which was, you know, kind of welcome given all the heat we've been having.
+BULL8|Well, it was nice to see to that my Wofford Terriers stuck it to Chattanooga, so hey not to be a good week here for us.
+NEUT9|Let's go ahead and open this up.
+NEUT10|We're going to talk about the the market last week and it's kind of bleeding into this week.
+BEAR11|It looks like the S&P 500 last week posted its worst week in nearly a month gasp now.
+NEUT12|Now that really isn't the main story here, anyone?
+NEUT13|Who knows, us knows we don't invest based on what happened over the course of last month, but I think it leads to a more interesting discussion based on what we talked about here on the financial show.
+NEUT14|Because a lot of the blame was assigned to the rates forecast, right?
+BULL15|We were talking last week about short term interest rates versus long term interest rates, and it sounds like with these with these short term rates on the rise here, it also sounds like long term rates, or perhaps starting to catch up a little bit here.
+NEUT16|And I think this is throwing a little bit of concern.
+NEUT17|Perhaps into the stock market here, but but Matt, when you see news like this rates news as it pertains to the stock market in general, how do you invest in times like these?
+NEUT18|Perhaps it's a little bit more of an uncertain time, but I mean, I would argue it's still certain from the from the angle that rates really don't have anywhere to go, but up up.
+NEUT19|Does this change your investing philosophy at all?
+NEUT20|Well, not really over the long term, but in the short term this does tend to affect different stocks in different ways.
+NEUT21|Just to kind of name.
+NEUT22|A couple examples.
+NEUT23|We talk about banking.
+NEUT24|Obviously this is the financial show banks, as I mentioned last week, tend to do better when longer term interest rates start to rise.
+NEUT25|This affects the rates they get on.
+NEUT26|Things like saying mortgages and auto loans.
+NEUT27|So.
+NEUT28|The spread between what they're bringing in on these long term loans and paying out for deposits tends to get wider with long term rates spike like they are right now.
+NEUT29|If you can.
+BEAR30|If you can recall 3.2 on the 10 year spike, but banks tend to see their profits rise, so you might see bank stocks outperform.
+NEUT31|If this trend continues.
+BULL32|On the other hand, high dividend stocks.
+NEUT33|Like Reit's, defensive sectors like utilities.
+BEAR34|Tend to get hurt because their yields tend to look, you know, not as good in comparison to what investors can get from risk free products like the 10 year and 30 year Treasurys.
+BEAR35|So you'll see these stocks get kind of under pressure and under performing this short term just as kind of investors will get out of start selling them.
+NEUT36|Get out of those in favor of lower risk investments like long term bonds that are pet Now paying better.
+NEUT37|So you'll see banks kind of go up in price if they're trying to get 10 years.
+BEAR38|You'll see the higher yield stocks go down in price.
+BULL39|And that creates some great buying opportunities in my opinion.
+NEUT40|I have a lot of high dividend stocks on my own radar.
+BULL41|"But in the long run it doesn't affect things, but in the short term it could definitely create some good opportunities."""

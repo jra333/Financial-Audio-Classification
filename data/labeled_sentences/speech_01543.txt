@@ -1,0 +1,35 @@
+BULL0|"""And I'll say right up front, how you'll become more awesome with pattern recognition."
+NEUT1|That is, you'll just make quicker and more confident decisions.
+NEUT2|That's my experience.
+NEUT3|When you start recognizing patterns now we all do this all the time and there is some relationship between pattern recognition and systems thinking.
+NEUT4|To me, systems thinking is more complex, it requires deeper knowledge and you really have to get in and see all those cogwheels and understand which direction they're spinning and what's going to happen.
+NEUT5|But pattern recognition?
+NEUT6|Well, what's a good example of that?
+NEUT7|How about our stock pic of MercadoLibre?
+NEUT8|Where from the earliest write up, I think we were saying things like it's the Amazon and eBay of Latin America.
+NEUT9|Or sometimes you'll hear people say that he or she.
+NEUT10|He in this case is the Elvis of Mexico.
+NEUT11|Whenever you hear people, I think Americans do this more often to relate the rest of the world to America.
+NEUT12|We tend to say these things.
+NEUT13|The Elvis of Mexico or I just read an article this week on Twitter about the buffet of Canada, and apparently there's now three or four people that are regularly called the Buffett of Canada.
+NEUT14|So as investors may be, especially as those of us who are Americans, I know I have a I'm happy to say I have a lot of people outside of America who listen to rule breaker investing, but maybe it's a particularly American phenomenon that we tend to do that.
+NEUT15|But anyway, pattern recognition, right?
+NEUT16|You've seen it before.
+NEUT17|And you've seen enough times before that you now see again this thing happening, and it helps you be quicker and make better decisions.
+NEUT18|Let me give a quick additional example and we'll talk about it in another rule Breaker investing podcast.
+NEUT19|I haven't got to this one yet, so in future will talk about the hype cycle.
+NEUT20|I know many of you will probably know Gartner, the consulting firm, developed this framework to describe the five stages of hype.
+NEUT21|And usually these are around things like new technology.
+NEUT22|Or you could apply it to a stock or the stock market.
+NEUT23|Overall, you could anytime you see hype, there's a cycle there and.
+NEUT24|Once you've seen it enough times.
+NEUT25|You know which of the five stages if you agree with the framework?
+NEUT26|If you agree with the pattern being recognized, you can sort of see which of the five stages we find ourselves in, whether it's with 3D printing as a technology or with GoPro as a company, or a stock zero.
+NEUT27|It's pattern recognition, and this is something where.
+NEUT28|You have to let enough time play out that you've gained this recognition overtime.
+NEUT29|I'm not one of those people who thinks that we always get wiser as we get older.
+NEUT30|I think there's a lot of merit to say that a lot of the real geniuses show up before the age of 25, and they're often starting the companies that end up being worth billions of dollars later.
+NEUT31|I think there's a lot to be said for youth, but I do think that, especially with pattern recognition, this is something that probably comes better to us as time passes.
+NEUT32|As always, people on this program may have interest in the stocks they talk about, and The Motley Fool may have formal recommendations.
+NEUT33|For or against, so don't buy or sell stocks based solely on what you hear.
+NEUT34|"Learn more about rulebreaker investing at rbi.full.com."""

@@ -1,0 +1,28 @@
+BEAR0|"""One of the things that people wrote in a lot of people had questions about the banks about what's happening with the banks."
+NEUT1|But you've changed with some of your investments over time.
+NEUT2|Jason Goldberg writes in, he says, please ask more about his views on the bank stocks in general and on Wells Fargo in particular over the last two quarters.
+NEUT3|He sold almost a quarter of his longstanding Wells Fargo stake, also in the fourth quarter.
+BEAR4|He dumped a third of his Goldman stock, Goldman Sachs shares, although he still owns over $75 billion in bank equities.
+NEUT5|So what do you think about banks?
+NEUT6|Not necessarily the sell off today because you don't look at day by day.
+NEUT7|Well, banking is a good business if you don't do dumb things on the asset side.
+NEUT8|I mean basically.
+NEUT9|It's a business that.
+NEUT10|The banks we own earn between.
+NEUT11|The commercial banks earn between 12%.
+BULL12|And 16% or so.
+NEUT13|Tangent net tangible assets.
+NEUT14|That's a good business.
+BULL15|It's a fantastic business against the long term bond.
+NEUT16|You know, at 2% if you have a choice between a 2% instrument, the 12% instrument which was going to win over time.
+NEUT17|So so if you ask me whether I think.
+BEAR18|Banks are going to go down when they only earn 3 or 4% intangible assets.
+NEUT19|I don't think that will happen.
+NEUT20|Question is really whether they do something massively dumb.
+NEUT21|I mean, which periodically a number of banks have done and I feel very good about the banks we own, are there.
+BULL22|They're very attractive compared to most other securities.
+NEUT23|I see an ad.
+BULL24|Most of them are buying Bank of America is buying in a lot of stock every year, so our ownership of the Bank of America this year probably will go up 7 or 8% without spending a dime.
+BULL25|I'd like to win any business, any good business where my ownership fixes up 7 or 8% every year without me spending any money and on top of that I get to do it and so it they're very.
+BULL26|They're very attractive both against interest rates and against.
+NEUT27|"Or against bonds and against other stocks in my view."""

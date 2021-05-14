@@ -1,0 +1,27 @@
+BEAR0|"""Is executive pay out of control?"
+NEUT1|This is the question that has troubles, politicians, campaigners, an shareholders for years with a little has been done to rein in high bonuses.
+BEAR2|A big concern is that pay rises for CEOs appeared to have little correlation to company performance.
+NEUT3|Take a look at this chart.
+NEUT4|The green Line shows CEO compensation and the Red Line is a way of measuring company performance.
+BULL5|What this shows is that even when company performance hasn't been very good, CEO pay has continued to rise.
+BEAR6|Another concern is the widening Gulf between what CEOs earn.
+BULL7|And will average workers on in the US, CEO's of the largest 350 companies have seen their pay rise by nearly 1000% since 1978?
+BEAR8|In real terms, typical workers, by contrast, have only seen their pay rise by about 11%.
+NEUT9|The green line shows the S&P 500.
+BULL10|You can see that pay rises.
+BEAR11|For CEOs have far outstripped the performance of the stock market.
+NEUT12|Over that.
+BEAR13|Large shareholders are angry.
+BEAR14|Several influential investors have told me they think pay levels in the US are egregious, frightening and on a different planet.
+NEUT15|By 2014, American CEOs were earning on average, $16.3 million.
+BULL16|That's 300 times more than what the typical worker earned in 1970.
+NEUT17|That ratio was just 30 to 1 by 2015.
+NEUT18|The average UK CEO was earning £4.3 million.
+NEUT19|That's more than 150 times the average wage of £28,000.
+BEAR20|Investors and the government appear increasingly frustrated.
+BULL21|Theresa May pledged to curb excessive pay, and shareholders have promised to take tougher action against unjustified payouts.
+BEAR22|Last year saw the highest number of shareholder revolts where more than 50% of the company's shareholder base refused to support their pay proposals in the US and the UK since 2012.
+NEUT23|The big debates among shareholders sent us on a type of bonus payments called the long Term Incentive plan or L tip.
+NEUT24|These typically paid to executives as shares their widely thoughts of contributor to rapid pay inflation in the US and the UK.
+NEUT25|Take a look at the output shown here in red you can see that they now account for a much larger chunk of CEO compensation than they did in 2003.
+NEUT26|"The question is whether Outsets motivate CEOs to think about the long term prospects of their businesses, or whether they just want to make a fast Buck by selling those shares as quickly as possible."""

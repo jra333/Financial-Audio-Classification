@@ -1,0 +1,21 @@
+BULL0|"""The Trump administration is considering stimulus aid for oil and gas producers as oil prices plummet."
+BEAR1|Wisconsin's Republican leaders are suing over the Democratic governors lock down order.
+BEAR2|People stuck at home worldwide have been a boon for Netflix, adding nearly 16 million new subscribers.
+NEUT3|Hi, I'm Jason Bellini with the latest reporting on the Corona virus crisis from the Wall Street Journal.
+NEUT4|The energy business is very important to us.
+BEAR5|This as oil prices have collapsed, the Trump administration is weighing stimulus aid for oil and gas companies.
+NEUT6|People familiar with the matter tell the Journal the aid would come in exchange for government ownership, stakes in companies, or their crude reserves.
+NEUT7|This plan is one of several options on the table and faces long odds.
+BULL8|Given, Democrats will likely oppose using stimulus funds to help the oil industry separately.
+BULL9|The president also said he would support a $484 billion.
+NEUT10|Aid package for small businesses and hospitals.
+NEUT11|It's moving to the house after the Senate passed Tuesday night.
+BEAR12|Republican lawmakers in Wisconsin filed an injunction targeting Governor Tony Evers order for businesses to close and Wisconsin Ized to stay home through May 26.
+BEAR13|The latest in a growing debate around efforts to slow the spread of the virus while not constricting the economy, Republican leaders argue they weren't consulted about the decision and that restrictions should be eased in rural counties where there are few cases.
+BULL14|The governor's administration says the order has slowed the spread of the infection and prevented deaths.
+BULL15|Meanwhile, Attorney General William Barr said the Department of Justice would consider supporting those who allege their rights have been violated by these strict lockdown measures.
+BULL16|Netflix scored 16 million new subscribers in the first quarter of 2020.
+BULL17|That's more than double with the company had forecast, but the streaming giant said the breakneck pace of growth was unlikely to continue.
+BULL18|Its stock is up.
+BULL19|34% year to date, making the company one of the few to see shares appreciate during the coronavirus crisis as people stuck at home around the globe, returning to streaming services for entertainment, most of the growth is from outside of North America.
+BEAR20|"Netflix has a challenge ahead of it practically all of its content production has ground to a halt due to the pandemic."""

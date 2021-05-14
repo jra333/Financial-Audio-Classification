@@ -1,0 +1,10 @@
+NEUT0|"""Remind us what the valuation of this company is like, and I guess quite an impressive bit on the bottom line."
+NEUT1|In particular this quarter.
+NEUT2|Yeah, I mean, I think we're at about for Amazon at about 80 * 2021 earnings.
+NEUT3|I think the reason why the jazzy move is so important.
+NEUT4|An astute on the part of the company is that we gotta think about what comps are going to look like for next year.
+BULL5|I mean, a lot of demand and a lot of activity has been pulled forward due to the pandemic and you know the business has made tremendous, maybe two or three years worth of progress in just a year.
+NEUT6|And so I think they really.
+NEUT7|The really interesting part of this is that it focuses investors on the future on the business that's growing the fastest, and perhaps away from what are going to be really difficult comps for next year.
+NEUT8|Shepard Smith here.
+NEUT9|"Thanks for watching CNBC on YouTube."""

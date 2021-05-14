@@ -1,0 +1,37 @@
+NEUT0|"""In 2015, Martha Stewart's main brand names sold for just a fraction of its original worth."
+BEAR1|Many have attributed the devaluation to stewards, widely reported legal troubles concerning insider trading.
+BEAR2|In 2004, she was sent to prison for five months for related charges.
+NEUT3|So what did Martha Stewart do wrong?
+NEUT4|What exactly is insider trading?
+BEAR5|Well, in 2001, Stewart allegedly obtained nonpublic knowledge that a particular stock investment was about to lose money.
+BEAR6|And she dumped the stock early.
+NEUT7|This kind of knowledge is also known as insider information.
+NEUT8|It is only available to high level executives or major shareholders in a company known as corporate insiders.
+NEUT9|Well, corporate insiders are allowed to trade any stocks.
+BEAR10|They must register potentially conflicting trades with the Securities and Exchange Commission.
+NEUT11|It's illegal to use insider information to profit from potential stock changes.
+BEAR12|This disadvantages public stockholders and betrays investor Trust, which is vital to the health of the stock market.
+NEUT13|However, just because insider trading is legal.
+NEUT14|Doesn't mean people don't still do it.
+NEUT15|There are usually huge amounts of money on the line and the risk of getting caught is often very low.
+NEUT16|A study cited by the New York Times in 2014 claims that a quarter of all public company deals involve some kind of insider knowledge.
+NEUT17|The SEC has limited resources, so they only pursue the largest and the most legally viable cases.
+BEAR18|They can also be slow to respond to reports of illegal activity taking more than two years on average to announce litigation.
+BEAR19|Additionally, many criminal charges aren't legally viable because the divide between intentional insider trading.
+NEUT20|Pure coincidence is often murky.
+BEAR21|Many traders simply claim they got lucky to have sold off their stock before it devalued.
+NEUT22|This Gray area is one of the reasons that Martha Stewart was never actually convicted of insider trading itself.
+BEAR23|She went to prison because she was caught lying to federal investigators about her role in the scandal.
+NEUT24|SEC does its best to monitor suspicious trades.
+NEUT25|They act on tips or complaints and they have market surveillance tools that track when large purchases or sales of stock happen.
+BEAR26|If they do make a conviction, any insider tip givers or tip receivers can get 25 years in prison.
+NEUT27|Individuals may also be fined up to $5 million, and companies may be fined up to $25 million.
+BEAR28|The largest aggregate fine for insider trading in history happened in 2014, where multiple guilty parties working with a hedge fund group faced penalties totaling $1.8 billion.
+NEUT29|Insider trading is one of the most common white collar crimes, perhaps because it often seems to be victimless, but a prominent US attorney involved in many Wall Street executives.
+NEUT30|Prosecutions says nothing could be further from the truth, the market.
+BEAR31|Is a victim and the loss of trust in the public stock market will hurt the entire country's economy.
+NEUT32|Ever wondered what it would take to crash the stock market?
+NEUT33|We've got a video on some of the worst market crashes in history.
+BEAR34|A crash represents a steep, sudden decline in the value of market prices, and it can often lead to an economic depression.
+BULL35|Thanks to everyone for watching tested news.
+NEUT36|"Please subscribe to get new videos every day of the week."""

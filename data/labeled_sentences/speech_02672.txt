@@ -1,0 +1,12 @@
+NEUT0|"""There been some interesting patterns in U.S. equity indexes that mirrored the evolving narrative of the shutdown and the reopening."
+NEUT1|For example, when comparing the historical performance of the large capitalization S&P 500, with its many multinationals against the tech heavy NASDAQ and then looking at the domestically focused small company Russell 2000 Index, here is what we've noticed.
+BEAR2|While all the equity indexes were sharply down in the February March.
+BEAR3|With the virus spreading in the slowdown in the shutdown, starting the Russell 2000 fell the hardest.
+BEAR4|The bottom for the indicies was around March 23rd, 2020, when a combination of massive policy responses from the Federal Reserve in the US government started to lift all boats in the month since the equity markets hit bottom, the domestically focused small company Index, the Russell 2000.
+BULL5|Just come back a little stronger than its large cap brethren.
+NEUT6|These patterns reflect the shifting narrative.
+BEAR7|Shut down in the US disproportionately impacted small businesses.
+BULL8|So far, the reopening has gone relatively smoothly and so the Russell 2000 has been buoyed as confidence returns to the US economy.
+NEUT9|Now the future is very uncertain how the narrative evolves in terms of restaurants, personal services, small businesses.
+NEUT10|That's going to have a lot to say about how the pattern shift as we go forward.
+NEUT11|"I'm Blue Putnam chief economist CME Group."""

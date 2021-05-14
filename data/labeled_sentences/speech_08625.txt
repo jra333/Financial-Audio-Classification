@@ -1,0 +1,13 @@
+BULL0|"""Hello Alexander green here."
+NEUT1|Chief investment strategist with the auction club and I'm super excited to tell you about my newest trading service.
+NEUT2|You know every investor dreams of finding some small company that grows and grows and eventually becomes not just a medium sized company but a huge company and those.
+NEUT3|Those are the biggest winners in the stock market and you know the good part about this.
+NEUT4|There's very little competition to find these types of companies because all the big mutual funds, hedge funds, endowments and pension plans are all looking at the same.
+NEUT5|500 or so stocks.
+NEUT6|In fact, they call him the S&P 500, but there's a whole another class of stocks with even more upside potential and very little competition to find the most undervalued situations.
+NEUT7|And I'm going to be unveiling my number one.
+BULL8|Microcap stock and you'll be excited to know that it has faster sales growth than Amazon, Apple, Netflix and Google combined, and yet most investors have never even heard of it, so I'm so looking forward to talking about the strategy, how it works.
+NEUT9|The potential upside how to reduce your risk, and best of all, how to make a smaller fortune into a larger fortune.
+NEUT10|Using microcap stocks.
+NEUT11|So For more information, simply click.
+NEUT12|"On the link below."""

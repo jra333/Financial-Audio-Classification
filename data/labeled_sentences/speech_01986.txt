@@ -1,0 +1,29 @@
+BEAR0|"""The slowly accelerating decline of China stock markets turned into a car crash on Monday, with the two main industries getting close to their daily limits."
+BEAR1|Investors have been caught in the headlights of China's slowdown.
+BEAR2|Evidence that the economy is slamming on the brakes has been mounting over the past few weeks and intensified further over the weekend.
+BEAR3|These fares translated into a sharp fall on Monday with the Shanghai Composite Index down 8.5% at a similar fall in the tech Heavy Shenzen Composite.
+BEAR4|Other Asian markets have also seen sell offs, with commodity prices and currencies also falling.
+BEAR5|With China's markets in decline for most of August, the gains of the first half of the year have now completely unwound.
+NEUT6|Beijing has thrown everything it can to prop up the stock market from banning short selling to allowing pension funds to invest in equities.
+BEAR7|But all attempts to put a break on the decline have failed.
+BEAR8|Meanwhile, news from the broader economy has also been negative, with a widely watched index of sentiment showing the sharpest decline in manufacturing activity since 2009.
+BULL9|Wang Tao from UBS says the biggest of the moves, the devaluation of the renminbi by 2% two weeks ago was a welcome move.
+NEUT10|Well, I think the moving towards a more market oriented exchange rate regime has always been a target for the government and has been advocated by international organizations like the IMF and the logic, of course, is when the capital account is increasingly open and there's more and more capital flows then it's it's.
+NEUT11|It's important to keep the exchange rate more flexible, and I think this is about the right time to do that, but could that decision turn out to be the act that Sparks a new global financial crisis?
+BEAR12|What we're seeing in markets all across Asia really has the hallmarks of a gathering crisis.
+BEAR13|China's really been the trigger this time, and if you look domestically in the Chinese economy, the slowdown is worsening.
+BULL14|And there's an interventionist government in Beijing that is trying very hard simultaneously to prop up both the equity markets and its currency.
+NEUT15|And it's finding that more and more difficult.
+NEUT16|To what extent can China be blamed for the widespread volatility in global markets?
+NEUT17|Well, I think there is quite a bit of coincidence.
+NEUT18|In my view, China's I think the concerns about China's downturn is certainly one of the risk factors in the global equity markets.
+NEUT19|But in my view, the biggest factor probably is still the Fed's decision on normalizing interest rate.
+BULL20|And also, I think for some emerging markets, they also have expanded their credit quite.
+BEAR21|Massively over the last few years, and some of them, of course, faced downward pressure from, you know, commodity price, and so on.
+NEUT22|So it's all happening together.
+NEUT23|I don't think one can say just because they're happening together, it's all due to China.
+NEUT24|So I think people tend to.
+BEAR25|Probably exaggerate a bit the impact of China on the global equity market just a few years ago, China's markets could rise and fall without any effect outside its borders.
+NEUT26|But as the reaction to the current route shows, there is no market outside the US that has more influence on the world.
+NEUT27|Tom Griggs Financial Times.
+NEUT28|"Hong Kong."""

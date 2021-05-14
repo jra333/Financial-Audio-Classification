@@ -1,0 +1,15 @@
+NEUT0|"""Netflix is the King of media companies."
+NEUT1|Well, at least for a day.
+BULL2|On Thursday, the streaming services market cap soared over Disney's for the first time, making its stock more valuable than the entertainment juggernauts.
+BULL3|Netflix is value also rose above Comcast earlier this week.
+BULL4|That's pretty impressive given Disney's recent box office success with the Star Wars.
+NEUT5|An Marvels Avengers franchises, but it may be a sign Netflix is.
+BULL6|Investments are paying off.
+NEUT7|It pledged to spend up to.
+NEUT8|$8 billion on original content in 2018.
+BULL9|Hiking subscription prices hasn't appeared to slow down the company either, so Thursday was a good day for Netflix.
+NEUT10|But in the grand scheme of things, Disney is still the bigger moneymaker.
+BULL11|The streaming company brought in $11.6 billion in 2017, and during that same year, Disney brought in to $31.9 billion.
+NEUT12|And that's just from its network and studio entertainment divisions.
+NEUT13|At the very least, it shows 2018 has been kind of Netflix so far.
+BULL14|"It's added more US subscribers than expected this year and saw a bump in first quarter revenue."""

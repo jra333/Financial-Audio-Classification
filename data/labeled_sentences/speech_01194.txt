@@ -1,0 +1,12 @@
+BEAR0|"""Forced down more than 50%, trading was halted temporarily."
+NEUT1|It was resumed in.
+BEAR2|Those losses continued.
+BULL3|The company was vying for a contract to update the Post Office fleet.
+NEUT4|It was about a 10 year contract for just about $480 million.
+BULL5|A company called Osh Cosh defense received that contract.
+NEUT6|Lordstown Motors was also competing for it.
+BEAR7|There shares down double digits as well.
+BEAR8|Again, shares of Workforce they've resumed trading after being halted.
+BEAR9|This stock down just about 50% after losing a contract to update the Post Office fleet back over to you.
+NEUT10|Shepard Smith here.
+NEUT11|"Thanks for watching CNBC on YouTube."""

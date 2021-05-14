@@ -1,0 +1,34 @@
+NEUT0|"""I grew up on a farm."
+NEUT1|My mom is a smallholder farmer.
+NEUT2|When we were growing up, my mom used to have is only 5 to 10 bucks from our one acre piece of land.
+BULL3|But we knew that our mom could have doubled or tripled her production if she had the access to the basic tools for hard to be able to succeed.
+NEUT4|These are the same challenges.
+NEUT5|Every farmer not only in Kenya but even across Africa.
+NEUT6|They are facing, even if smallholder farmers are seen as poor, they are very rich in land.
+NEUT7|They present their business opportunities and This is why we started Apollo.
+BULL8|Our aim is to help farmers maximize their profits and be able to transition from subsistence farming to commercial farming.
+NEUT9|We do that by developing customized packages that has everything for the farmers.
+BULL10|It needs to be able to succeed all the way from the high quality seats for treasure so that they can increase their production training during the season.
+BULL11|Insurance there can be able to protect them from climate change and also financing so that they can be able to afford these tools during planting and at the end of harvesting they can be able to solve the produce get returns and be able to pay back.
+NEUT12|Over 2 billion people depend on smallholder farmers to produce food for them.
+NEUT13|Small scale farmers have very many challenges.
+NEUT14|They are very rural.
+NEUT15|They're very fragmented.
+BEAR16|They farm small farms that also makes it difficult for even small businesses or traditional banks to be able to serve them.
+NEUT17|This is where now Apollo Komsi.
+NEUT18|The farmer would be allocated to the Commission based field agent who be able to go to the farmer to walk around the boundaries of their farm to correct the GPS locations.
+NEUT19|Once the farmer is approved the loan, they will be sent a voucher which the go to the nearest Agro Dealer Partners and the Farmer will be able to gather input.
+NEUT20|There are two core pieces of our technology that are very, very important on machine learning.
+BULL21|It help us to be able to build credit profiles and to make the right lending decisions.
+NEUT22|2nd we able to use satellite to monitor crop growth over the season.
+NEUT23|My phone's airport look tonight better quiet.
+NEUT24|Now, phones are becoming a comma and I'm like opened up my endiama anything in Morocco?
+BULL25|1:00 o'clock so for us to be able to grow, we need more working capital.
+BULL26|Local foundation added support on working capital and has been very, very important for us at the stage and also the perceived risk of lending to smallholder farmers.
+BULL27|We couldn't have been able to achieve our goals without the support so far we have been able to partner with over 40,000 customers.
+NEUT28|Natalie Magna Carta, koonyum like anybody else.
+NEUT29|Dillion and the computer good near 25.
+NEUT30|Your person in my partys idea will end up at Tanga NI.
+NEUT31|Elaine Emek we access and doing it as lip and eye school fees are money.
+NEUT32|Nikkei lumber lumber.
+NEUT33|"Freedom Inc."""

@@ -1,0 +1,28 @@
+BULL0|"""Gold is at an all time high, and this must mean something and probably nothing good."
+NEUT1|Considering Gold's long held Association with fear, hoarding inflation and to exaggerate slightly the collapse of the modern monetary system.
+NEUT2|So why is the yellow metal so strong to begin with?
+BEAR3|Gold is priced in dollars and the dollar has recently hit a two year low, so the question becomes, why is the dollar weak and the standard explanation for this is low?
+NEUT4|Expected U.S. economic growth.
+BEAR5|This, in turn depresses interest rates and bond yields diminishing investors demand for dollars with which to buy US assets, and indeed, as we can see bond yields are stuck at a very low level.
+BEAR6|But it is worse than that.
+BEAR7|Not only are bond yields low, but at the same time, inflation expectations.
+NEUT8|Are rising as the Federal Reserve keen to protect the American economy, is printing dollars and cramming them into the US economy.
+NEUT9|This means that real yields, that is, yields after inflation are not just low.
+BEAR10|They are falling.
+NEUT11|And when real yields fall gold, which yields nothing at all, almost always rises.
+NEUT12|So all of these factors fit together gold.
+NEUT13|The dollar bond yields inflation expectations.
+BEAR14|Falling real yields.
+NEUT15|They all make a certain logical sense.
+NEUT16|Should we therefore be buying gold today?
+BEAR17|Well, in order for Gold's ascent to continue, real yields have to continue to fall.
+NEUT18|This requires that inflation expectations keep going up.
+NEUT19|At the same time as low growth expectations, keep nominal yields pinned right where they are.
+BEAR20|This is the dreaded stagflation back in 2011.
+BEAR21|In the last crisis like today, the Fed was intervening strongly in a sluggish economy and Washington was in turmoil.
+NEUT22|Investors then made the same bet on stagflation and gold.
+NEUT23|As it turns out, they were wrong.
+BEAR24|Price of gold got cut in half in the years that followed.
+BEAR25|In fact, all predictions of inflation since the last crisis have turned out to be similarly wrong, and all efforts by the Federal Reserve to get inflation up to its 2% target have failed.
+NEUT26|So a bet on stagflation and gold now is a bet against recent history that many investors are willing to take.
+NEUT27|"That wager shows just how frightened they really are."""

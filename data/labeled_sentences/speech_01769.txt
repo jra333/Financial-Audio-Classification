@@ -1,0 +1,42 @@
+NEUT0|"""We say hello now to Richard Southern, who joins us for our daily business chat and Richard."
+NEUT1|One retailer is planning a significant expansion across the country who doesn't like to go and hunt around the Dollar store.
+NEUT2|Am I right?
+NEUT3|Sometimes, yeah, like Richard, what are you doing?
+NEUT4|You gotta up your standards a little bit.
+NEUT5|Now you listen.
+NEUT6|They got everything these days, right?
+NEUT7|And you know you can find maybe a good price.
+BULL8|Of course there things cost more than a dollar anyways, it's been a big hit.
+NEUT9|Dollarama is right at the forefront of the Dollar store.
+NEUT10|Trend and dollarama.
+BULL11|Today Erica says it's going to open 70 more stores this year in Canada, despite the COVID-19 pandemic, which has crypted sales, dollar M actually reported earnings today for the past couple of months.
+NEUT12|They weren't as big as expected because of all the lockdowns, but analysts say this is a company well positioned because not only do people want to look for a deal, but they also now consumers increasingly want to do a lot of their shopping under one roof.
+NEUT13|That's certainly possible.
+BULL14|At Dollarama, the company also offering up more goodies for investors like a dividend hike.
+BULL15|The stock was up on the street today.
+NEUT16|Eric yeah that's somewhere where I get, you know, wipes and masks and things too.
+BEAR17|So all right, Canadian housing prices continue to climb, and that's leading to some serious concern about debt levels.
+NEUT18|Thank you, Canada, for the second time in as many months, ringing the alarm bells Eric about the scorching on housing market and then we talk all the time about how the prices of like literally never been higher than they are right now.
+NEUT19|And there are.
+BEAR20|The rising you know quickly Bank of Canada's governor Tiff Macklem came out today and said he's seeing what he calls worrying signs that Canadians are taking on way too much depth to try and chase these rising prices.
+BEAR21|He made a similar warning last month when he said he was concerned about the excess exuberance of the market.
+NEUT22|However, the Bank of Canada stopping short of putting in place any new regulations to curb the housing market.
+BEAR23|Now we've heard some alarms being run by the big economists at the bank.
+NEUT24|Big banks this week.
+NEUT25|Erica one said it's nearly impossible for young buyers.
+BEAR26|I mean, we got prices rising outside of the city.
+NEUT27|How do you even get into this market right now?
+NEUT28|So a lot of people concerned about it alright?
+NEUT29|And finally, it is an April Fools day just yet.
+NEUT30|But one company decided to get in on the ACT a little early, but we did this ever backfire?
+NEUT31|Automaker Volkswagen put out a press release earlier in the week saying it was changing its name to volts, volts wagon like the electric volts.
+NEUT32|And that was two.
+BULL33|It says stressed its commitment to electric vehicles.
+BULL34|The stock actually went up 5% on that news, but then the automaker said no, we were just joking.
+NEUT35|It was a it was an early April Fools Day joke.
+NEUT36|Well, US regulators might not be laughing.
+BULL37|Apparently the company could be in some hot water for that.
+NEUT38|I mean, public companies like this are not supposed to put out, you know, fake press releases at all.
+BEAR39|And of course this also comes as as as Volkswagen is trying to rehab its image.
+BEAR40|After that 2015 incident were cheated on government emission test.
+BEAR41|"So not good at all."""

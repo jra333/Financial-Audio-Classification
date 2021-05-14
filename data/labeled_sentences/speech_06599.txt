@@ -1,0 +1,47 @@
+BULL0|"""So we've got a CNBC exclusive, AMC entertainers President and CEO Adam Aron, a great CEO."
+NEUT1|I'm not just saying that 'cause at one point is the CEO, the Sixers.
+BULL2|He's done many many good things.
+NEUT3|So let's cut right to it.
+NEUT4|Adam, you got 5,000,000 dead.
+NEUT5|Good morning, good morning to you.
+NEUT6|Yeah, I gotta do the good morning.
+NEUT7|You have 5 billion in debt.
+NEUT8|Can you solve it?
+NEUT9|Can you solve it?
+BEAR10|That's a lot of debt.
+NEUT11|I would like to think so.
+BULL12|You know, AMC is proving quite adept over the past year at raising Capital One of the reasons that we have survived this horrible pandemic so far is we raised $2.8 billion of cash and got another billion dollars of concessions from lenders and theater landlords.
+BULL13|And that's put us in a position.
+BEAR14|To run our business going forward, some degree of confidence, you know five different times during the last year we were close to running out of cash because our theaters were all closed and we had no revenues.
+BULL15|But we raised money to survive and we're back operating as normal.
+NEUT16|Companies operate and let me just tell you, we talked about good morning, let me say what good morning means in America these days.
+NEUT17|The combination of vaccinations.
+NEUT18|A new movie releases Godzilla versus Kong opened last night.
+NEUT19|It's a movie about apes in the world of meme, stops apes a good thing.
+NEUT20|Maybe it's an omen.
+NEUT21|Our attendance last night was about 10 times.
+NEUT22|What it's been all the other Wednesdays so far in 2021.
+NEUT23|Jesus so we can look.
+NEUT24|We can look ahead, but at the same time, yeah, yeah stock.
+BULL25|It's up 380%, you know, I don't know, I don't.
+NEUT26|I mean this good opportunity to sell a couple 100,000,000 shares in.
+NEUT27|Well in look I want to be careful.
+NEUT28|Dude, this is wait.
+NEUT29|This is where you do it now.
+NEUT30|It's not the times it's here.
+NEUT31|Yeah, well dilution is something we care about, but I would also tell you that we are formally asking for approval from our shareholders to authorize another 500,000,000 shares that the company could issue if it wishes.
+BULL32|There are a lot of benefits to our shareholders of having more authorized shares out the market will be sensitive to dilution issues.
+BULL33|At the same time, though, there's an opportunity to bolster our cash reserves.
+NEUT34|There's an opportunity to buy back debt.
+BULL35|The discount there might be an opportunity to defray some of our deferred theater rents settling with stock instead of cash.
+BULL36|Maybe there's some merger and acquisition opportunity where we could buy other companies inexpensively.
+NEUT37|Using our stock is a currency.
+BULL38|There are a lot of good reasons for shoulders to give us the authority to have more shares in our toolkit.
+NEUT39|Can we buy back to six and three eights about eleven 1524?
+NEUT40|They're trading at 36.
+NEUT41|I mean, that's a great piece of paper right now if you're going to do.
+NEUT42|If you do 5.
+NEUT43|Million shares.
+BULL44|We are very well aware that we could buy back debt at a discount, and that in itself would be accretive and generate profitability for AMC and increase shareholder value for our shareholders.
+NEUT45|Shepard Smith here.
+NEUT46|"Thanks for watching CNBC on YouTube."""

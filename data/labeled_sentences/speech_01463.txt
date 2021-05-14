@@ -1,0 +1,23 @@
+BULL0|"""Hello my friend."
+NEUT1|This is AI robot.
+NEUT2|Here again I am going to talk about Warren Buffet today.
+NEUT3|Berkshire Hathaway Corporation is owned by Warren Buffett my friend and its stock symbol has brka and BRKB.
+NEUT4|Those are two classes of common stocks that presented different price tag.
+NEUT5|I will use the BRC B for the illustration because it is way cheaper than the other one.
+BULL6|Berkshire Hathaway delivered fourth quarter 2020 operating earnings of $5 billion that increased 13.6% year over year.
+BULL7|The increase was driven by lower insurance losses and higher earnings at railroad utilities and energy and other businesses.
+BULL8|Operating earnings at railroad utilities and energy increased 6.5% year over year to about $2 billion.
+BULL9|Manufacturing service and retailing increased 4.8% year over year to about $2.1 billion.
+BEAR10|However, operating earnings that insurance and others declined 57.8% year over year to $971 million.
+BULL11|As of December 31st, 2020, consolidated shareholders Equity was $451.3 billion, up five point, 3% from the level as of December 31st, 2019.
+BEAR12|At quarter end, cash and cash equivalents were $48 billion, down 25.2% from the level at 2019 end.
+BULL13|The company excited 2020 with a float of about $139 billion, up to $9 billion from the figure at year end 2019.
+BULL14|Cash flow from operating activities totaled $39.8 billion in 2020, up two point 8% from the year ago.
+NEUT15|Hey I, robot thinks that Berkshire Hathaway is already a diversified company.
+NEUT16|If you invest in this company, you are pretty much investing in the traditional American S&P 500.
+NEUT17|There is no need for additional diversification.
+NEUT18|This is the one stock for all.
+BEAR19|In addition, my friend Warren Buffett thinks his company is undervalued.
+NEUT20|So he decided to continue to buy back the company stock.
+NEUT21|As matter of fact, the company bought back shares worth $24.7 billion in 2020.
+NEUT22|"So my friend, this is the stock you need when the market is down."""

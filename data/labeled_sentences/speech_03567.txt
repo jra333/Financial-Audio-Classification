@@ -1,0 +1,33 @@
+BEAR0|"""A little bit about the decline in travel and the decline in the number of flights into out of an within China."
+NEUT1|It is really shocking what's the number?
+BEAR2|So out of the United States, we're expecting about 5% of total international capacity to be impacted, and on top of that, we do expect to see an impact on flights intended for the rest of Southeast Asia that we're connecting through China.
+BULL3|So really, wide impact here.
+BEAR4|So as we look at the number of flights going down.
+BULL5|You guys say that roundtrip prices to China are up 11%.
+BEAR6|If demand is down, why are prices going up?
+BEAR7|So we have a little bit of a selection problem here.
+BEAR8|There are still some flights going from both the US to China Anne within China, so part of the reason we're seeing prices spike that 11 percent is because many of the lower cost or connecting flights are no longer available, so we have fewer seats.
+BULL9|But still some demand.
+BEAR10|Which is why the price is hiked about 11%, but we expect to see that price to plateau in the next few days, so this is obviously a situation that may play out.
+NEUT11|Over a period of weeks, maybe even months.
+NEUT12|Who knows until officials get a handle on this virus.
+BEAR13|But one thing we know is that the number of flights are down.
+BEAR14|The other thing we know is that the number of inbound Chinese tourists is way down.
+BEAR15|They really can't come in.
+NEUT16|Where is that being felt most prevalent, Lee?
+BULL17|So we'll feel it most in the US and cities like Los Angeles, New York and San Francisco, who collectively in the next two months were expecting more than a million passengers from China.
+NEUT18|Chinese tourists typically spend a high volume of dollars in the United States when they visit, so those cities will definitely feel the impact first.
+NEUT19|Yeah, Haley, I thought that was really interesting, and given that they typically travel over the Lunar New year, and that's no longer an option, is that gone for good this year?
+BULL20|Obviously, do expect it to bounce back with a vengeance next year.
+NEUT21|Or do you think think things might permanently shift?
+BULL22|I would expect things to bounce back next year, as long as the virus is cleared up.
+BULL23|China and travel to the US from China and from China to the US is a growing segment, so without a disruption like this, we would expect that demand to continue to grow and those travelers to continue to visit us.
+NEUT24|Here in the US, an head from the US to China.
+NEUT25|As long as things are cleared up with the virus.
+NEUT26|I know that financial analysis is not necessarily what you came to do, but I have to think if.
+BEAR27|If United holds 18% of the inbound outbound US traffic to and from China, those tickets are extremely costly tickets.
+NEUT28|Generally, this is going to have an impact on United United stock price and its profitability, isn't it?
+BEAR29|We expect to see these airlines to, you know, have to deal with this loss of capacity and ability to fly.
+NEUT30|That said, though, it's 18% of United, United owns 18% share of that route.
+BULL31|United is diversified across the rest of Southeast Asia in the US, So what we expect to see is they'll continue to fly what capacity they can as soon as things are cleared up with the virus, they'll build back up.
+BULL32|"But you know, in terms of their financials, we expect that they'll do what they can to keep costs balanced."""

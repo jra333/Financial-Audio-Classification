@@ -1,0 +1,20 @@
+BULL0|"""Governor Andrew Cuomo signed a bill Wednesday to make New York the 15th state to legalize recreational marijuana, opening up a multibillion dollar market advocates say could address decades of racial injustices and drug policy."
+NEUT1|The legislation immediately repeals federal prohibition of marijuana for those 21 and over, allowing them to possess and consume up to 3 ounces of marijuana anywhere in the state where tobacco smoke is permitted.
+NEUT2|New Yorkers can also grow and sell marijuana.
+NEUT3|Under the new legislation, so they may have to wait up to a year and a half for a state committee to establish commercial regulations and issue licenses.
+NEUT4|The legislation automatically clears the records of those with past marijuana related convictions and sets aside millions in tax revenue for investments in minority communities as part of a broader effort to address a history of disproportionate drug arrests among black and Latino individuals in New York State, lawmakers passed the legislation mainly along party lines late Tuesday after Republicans in both the Senate and Assembly.
+NEUT5|Press Democrats over public health concerns.
+NEUT6|An hours long floor debates, New York will become one of the largest marijuana markets in EU with an estimated value of $4.6 billion in room for growth of over $1 billion over the next five years, sales of marijuana would face a 9% state tax, a 4% local tax, and an additional tax based on the concentration of the psychoactive ingredient.
+BULL7|THC full no, has said that would raise $350 million in annual tax revenue, a portion of which the state government would put toward public education.
+NEUT8|Drug prevention programs and other investments in the communities hit the hardest by marijuana laws.
+NEUT9|The legislation sets aside half of marijuana business licenses and low interest loans for minorities, women and disabled veterans who have been under represented in the industry.
+NEUT10|In other states that have legalized the drug before New Yorkers can grow marijuana at home or sell it commercially, they have to wait to apply for licenses from 2 new commissions that will regulate the industry.
+NEUT11|The Cannabis Control Board and the Office of Cannabis Management.
+NEUT12|Those already certified for medical marijuana in the state can grow it at home in six months.
+NEUT13|While recreational users would have to wait until 18 months after the first dispensary opens, dispensaries may be able to open as soon as next year.
+BEAR14|But cities and towns across New York can reject local retail sales of marijuana if they pass such legislation.
+NEUT15|By the end of the year.
+BEAR16|Republican lawmakers have argued marijuana legalization would open the door to drug abuse and lead to a higher number of impaired drivers on the road.
+BEAR17|State Senator Robert, the Republican leader in the upper chamber, criticize the legislation as partisan after its passage and repeated concerns about how marijuana legalization would affect public health.
+BEAR18|This deal, legalizing marijuana is the result of closed door discussions between leaders of 1 political party Anna Governor who is engulfed in scandal, he said, referring to ****** misconduct claims, 10 women have made against Cuomo in recent months.
+BEAR19|"The outcome of these partisan negotiations is a deeply flawed piece of legislation that will hurt the health and safety of New Yorkers."""

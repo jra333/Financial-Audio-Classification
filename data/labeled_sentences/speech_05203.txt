@@ -1,0 +1,35 @@
+BEAR0|"""A big bad tax may hit businesses and the stock market."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to help navigate this turbulent world.
+BEAR2|Republican control of the US Senate may block sizable tax increases coming out of Washington, but revenue hungry states are eyeing huge new levies to cover deficits resulting from the pandemic.
+BEAR3|And in many cases like New York from past spending binges and reckless unsustainable pension promises to their employees.
+NEUT4|So watch out taxpayers.
+NEUT5|These politicians are coming after you.
+NEUT6|One tax arising is called the gross receipts tax.
+NEUT7|It's a straight sales tax like Levy on business revenues without any deductions for expenses.
+NEUT8|Say a dry cleaner has revenues before expenses like rent, salaries, utilities, machinery and other items of $250,000.
+NEUT9|The gross receipts tax of, say 5% would hit this enterprise with a new cost of $12,500 even if the firm has little in the way of a profit or even a loss in this COVID-19 impacted economy, it would be liable for this new tax.
+BEAR10|Needless to say, many struggling enterprises will go broke.
+BEAR11|Not good for jobs in a weak economy.
+BEAR12|But it's even worse than this.
+NEUT13|The tax is a pyramid, like expense that hits all business to business transactions.
+NEUT14|A manufacturer, for instance, buys a lot of items to make a product.
+BEAR15|All of those materials would become more costly.
+NEUT16|The manufacturer have to raise prices to stay in business.
+BEAR17|Consumers would be hit with these higher prices.
+BEAR18|This kind of tax will also hurt startups, making it more difficult for them to succeed.
+BEAR19|Higher prices, more bankruptcies, fewer profits for remaining businesses with which to expand.
+NEUT20|Hardly a formula for creating prosperity or a vibrant stock market.
+BULL21|Yet short sighted politicians are ready to impose such a levy to grab more revenue.
+BEAR22|Obviously they won't collect nearly as much as they think they will, and they will have feebler economies.
+NEUT23|As a result.
+NEUT24|One example of the destructive.
+NEUT25|This kind of thinking is New Jersey, which is home to processing facilities for transactions on NASDAQ and other stock exchanges.
+NEUT26|New Jersey is mulling a gross receipts like tax on all of those transactions.
+NEUT27|The state thinks this will be a nifty way to raise a quick $10 billion, but guess what?
+NEUT28|Leaders of NASDAQ and other exchanges will soon be meeting with Texas Governor Greg Abbott about moving their facilities to the Lone Star State.
+NEUT29|Where they can do business unmolested by tax collectors.
+NEUT30|Other states are also inviting these exchanges to come to them.
+BULL31|Washington may soon give states some more money for direct costs of coping with the pandemic, but this will be a one time only shot of revenue.
+NEUT32|Politicians like every American household must learn to live within their means.
+NEUT33|I'm Steve Forbes.
+BULL34|"Thank you for listening to send in your comments and suggestions and look forward to being with you soon again."""

@@ -1,0 +1,36 @@
+BULL0|"""A new report from the Wall Street Journal says Goldman Sachs and Morgan Stanley received a helping hand from the Fed on this year stress test."
+BEAR1|Fed officials offered the banks the option of freezing their payouts at recent levels in order to keep from completely failing the test and continue paying its shareholders the first deal of its kind since the start of the annual tests.
+NEUT2|So is this a sign the regulators are easing up on the banks bill?
+NEUT3|I guess there's two ways to sort of you.
+NEUT4|This one is in fact that regulators are going a little bit easier or taking some other kind of mitigating factors into consideration or two.
+NEUT5|That Morgan Stanley and Goldman Sachs are a little closer to the line than we thought.
+NEUT6|Well, I always think about this from a household standpoint.
+NEUT7|How many people do you know have organized their finances around what it will be like in the next depression?
+NEUT8|I mean, it's one thing to be a good steward of your financial resources, but these folks stress tests are organized around the most horrendous unemployment in the most horrendous economic circumstances.
+BULL9|So the factor easing off a little bit is, like, OK, you've had your boot.
+NEUT10|On their throat for eight years will back off a little bit.
+NEUT11|Grandparents went through the depression and they lived for the rest of their lives as if they were worried about their depression.
+NEUT12|So, but Carrie, you know, I look at this.
+NEUT13|I look at this news and I think back to the financial crisis.
+NEUT14|I say, you know, we predicted these guys were going to be regulated like utilities.
+NEUT15|And here we are.
+NEUT16|Their regulated like utilities.
+NEUT17|They kind of act like utilities are not very interesting anymore.
+NEUT18|Well, it's it's amazing that we've had people predict across the sort of expertise front of cable news that the financials are going to be the big group of the year, and they certainly haven't been.
+BEAR19|They've been underperformers and both Goldman and Morgan Stanley or each down over 10% for the year, and I think it's to your point in part about regulations and they can't really make much money in a different kind of environment.
+NEUT20|But even if you were to remove some of those restrictions it's a tough environment for them.
+NEUT21|No one is really looking for a lot of investment banking help.
+BEAR22|We have seen you know very few IPO's this year and you know their their proprietary trading is sort of non-existent, but it's a tough market for them to make money in the old fashioned way even if they are able to do it.
+NEUT23|Even if they were able to be heavily into the IPO and secondary market could just isn't very much of it for them.
+NEUT24|So it's just a.
+BEAR25|An environment, not the interest rates are not going up the way people had expected, and so I I think that it's a disappointment and financial services across the board and the big banks and big investment banks are suffering because of it.
+NEUT26|Yeah, she's she's right about Maria.
+BEAR27|She's right that it got to be a crowded trade at the end of January.
+BULL28|I don't agree about the profitability profitability these organizations bank America is going to be in a position in the next five years to return virtually 100% of the profit they make each year.
+NEUT29|To their shareholders because of the overcapitalization of the bank, these these banks in many ways.
+NEUT30|There are over capitalized now in the scheme of a 10 year run, everybody goes through these corrections.
+NEUT31|The stocks were hotter to pistol last year through January, so they correct for a year, you know, and that just shows you the mentality of the stock market right now, almost everybody invests on three to six month timeframes, and the truth of it is wealth is created over 10 years.
+NEUT32|Hey there, thanks for checking out CNBC on YouTube.
+NEUT33|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT34|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL35|"Thanks for watching."""

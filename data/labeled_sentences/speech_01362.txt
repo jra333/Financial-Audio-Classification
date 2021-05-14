@@ -1,0 +1,29 @@
+BEAR0|"""Financial stocks that have been under pressure a lot of places haven't loved them."
+BEAR1|Warren Buffett is even sold.
+NEUT2|Many of his financial stakes, but while he was selling some companies like Wells Fargo, he was buying additional shares in Bank of America.
+NEUT3|He added, I think another 21.2 million shares of Bank America last we learned and now owns about 11.8% of the company shares outstanding, at least according to the most recent filings we've seen.
+NEUT4|Have you spoken with Mr Buffett about his purchases of Vevay?
+NEUT5|Well, I think Mr Buffett's been a great supporter of ours, and he continues to put his money where his mouth is.
+BULL6|This is the best banking franchise in the world.
+BULL7|The best company and he continues to invest heavily in it and we welcome that.
+BULL8|And by the way, we have a lot of capital buy back stock and as soon as the clarity comes that we can do that, we're going to be in the market too.
+BULL9|So our stock is a great buy and I'm glad to others.
+BULL10|Mr Buffett recognize that's been supporting and continuing at his position.
+NEUT11|When do you think you might get the approval to go ahead and buy back shares?
+NEUT12|We will see and we've got to go through the CCAR process and you know, look, it's it's a quarter.
+NEUT13|It was third quarter.
+NEUT14|Maybe we'll find out what happens in fourth quarter.
+NEUT15|We don't know anymore than you know.
+NEUT16|And when it happens, it happens.
+NEUT17|But I think people have to think about the long term here.
+NEUT18|Think about what happened in our industry.
+BEAR19|In our company, we went through the deepest, deepest down tracks in the early economic negative growth that's ever happened.
+NEUT20|We supply.
+BULL21|Fundstrat customers to grow.
+NEUT22|We received a lot of the funds from the stimulus programs and help distribute them.
+NEUT23|We lent to our customers.
+NEUT24|We gave customer assistance programs to help customers get to the other side of that River across the bridge.
+BULL25|As I talked about earlier, we have been there to help and through that process, we've doubled our reserves round numbers.
+BULL26|We've earned 8 or $9 billion after tax during that time frame in our capital, higher liquidity is higher, and by the way, that's pretty much true of the industry.
+BULL27|That means this industry is in good shape for whatever comes after us, and so we have.
+BULL28|"Capital ratios, which are far in excess of our minimums and when the time comes, we'll be able to do it, whether it's next quarter or not, it will find out when you find out."""

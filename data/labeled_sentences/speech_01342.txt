@@ -1,0 +1,27 @@
+BEAR0|"""Bank shares have had an awful week so far."
+BEAR1|Here a few of the worst performers.
+NEUT2|First up is Commerzbank.
+BEAR3|It shares his record low on Tuesday after it posted its interim results.
+NEUT4|They showed its core equity tier.
+BEAR5|One capital ratio was 11.5% at the end of June, higher than last year, but down from 12% in March.
+BEAR6|The bank also captured the broader issue of low interest rates, which are crippling European lenders.
+BEAR7|In its report, it warned of the interest rate environments and customer caution.
+NEUT8|In view of the geopolitical uncertainties.
+BEAR9|It expects net profit will be lower than for the previous year.
+BEAR10|Next up is UniCredit, Italy's only systemically important bank, which has had a punishing start to the week.
+BEAR11|It fell by more than 9% on Monday and it shares were suspended after losing a further 5% early on Tuesday morning.
+BEAR12|The falls come after details of a rescue plan for Monte Passkey, which emerged on Friday.
+BEAR13|The plan involves that bank taking a hit to the value of its non performing loans as part of their sale investors this week have considered the impact of similar hits on the MPLS of other banks, including UniCredit.
+NEUT14|Then we've got Barclays.
+BEAR15|It shares fell 2.9% on Tuesday.
+BEAR16|The bank, along with its UK peers, was particularly badly hit as a result of the Brexit votes.
+NEUT17|It's also like everyone else exposed to pressures from low interest rates.
+BEAR18|Today, the shares were further hit by news that the FCA has extended the PPI deadline for 2019.
+NEUT19|Finally, we have Credit Suisse.
+BEAR20|It shares fell 5.3% on Tuesday morning and they've lost half of their value so far this year.
+BEAR21|In a sign of the Times, Credit Suisse, along with Deutsche Bank, will next week be dropped from an index of Europe's top 50 companies.
+BEAR22|This week's losses come after stress test results on Friday, which actually showed a more resilient European banking sector.
+NEUT23|The key point here is to distinguish between profitability and solvency.
+BEAR24|European banks don't look profitable at all, so their share prices have collapsed.
+NEUT25|This doesn't necessarily imply that the solvency of the entire European sector is under threat as it was during previous crises that may be exposed in certain cases, such as Italy.
+BEAR26|"The question now is whether low profitability will eventually seep into the broader stability of the banking sector."""

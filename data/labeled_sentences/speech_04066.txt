@@ -1,0 +1,35 @@
+BEAR0|"""Foreign currency reserves in emerging markets are on the wane for the first time in 20 years."
+BEAR1|This could be a big concern for the West, which has enjoyed a boom over the past decade.
+NEUT2|From developing countries buying US and European debt with me to discuss the causes and implications of this is James King, the FT's emerging markets editor.
+BULL3|James, thanks for joining us.
+NEUT4|We've got a chart here that shows what's been going on.
+NEUT5|The annual change in reserves, and the build up over the past couple of decades.
+NEUT6|There have been dips before, but this, I think it's the first year on year.
+BEAR7|Annual reduction since this series began in emerging market foreign currency reserves.
+NEUT8|What does that mean for the West?
+BULL9|Well, the emerging markets have been a major buyer of debt in the West, particularly in the United States and in Europe at the moment.
+BEAR10|If the emerging markets are experiencing a reduction in their foreign currency reserves, which is really the stash of money that they used to buy Western debt, then it does suggest that their ability to buy that debt in the future will be constrained.
+BEAR11|Right now this will probably not have a major impact, cause monetary conditions around the world are very loose.
+BEAR12|But if monetary policy in the West starts to tighten and money becomes scarce are, then I think we could well see a major impact from the constrained ability of emerging markets to buy Western debt and therefore to keep financing Western fiscal deficits right and for the emerging markets themselves.
+NEUT13|One of the things that people have admired about emerging markets over the past decade and a half or so.
+BULL14|Is that they have built up solid foreign currency reserves as a cushion against market turmoil.
+NEUT15|Does this mean that that trend is reversed?
+NEUT16|Its reversing?
+NEUT17|You know it has to be said that several emerging markets such as China still have huge stashes of foreign currency reserves.
+NEUT18|In the case of China, 3.84 trillion U.S. dollars, so we're by no means in a crisis situation at the moment.
+BULL19|The key insight today is that the buildup of these foreign currency reserves in emerging markets over the last 10-15 years.
+NEUT20|He is now going into reverse and most of the economists that we've spoken to an FT poll of 10 emerging markets.
+NEUT21|Economists say that this is now probably the new normal when it comes to EM foreign currency reserves.
+NEUT22|And why is this happening?
+NEUT23|Because if money is moving out of emerging markets in this form, does that?
+BEAR24|Is that symptomatic of investors turning away from emerging markets?
+BEAR25|It is symptomatic of a number of things that have been plaguing emerging markets now for several months.
+BEAR26|The first is that we have reached the end of the commodity supercycle, in other words, because of China's slowdown, primarily, commodity prices around the world have been falling and remain low.
+NEUT27|In addition to that, the.
+BULL28|Oil price is low and the dollar is now strong.
+BEAR29|All of those factors together combined to create pressures on the ability of emerging markets to earn big current account surpluses.
+BEAR30|Big trade surpluses and that is beginning to scare investors to.
+BEAR31|Investors are now seeing the increasing signs of stress within emerging markets and taking their money out and investing it elsewhere typically.
+BULL32|They are investing more and more in the United States, which is looking stronger on a relative basis in its economy.
+BULL33|James, thanks very much.
+BULL34|"Thank you."""

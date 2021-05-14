@@ -1,0 +1,43 @@
+NEUT0|"""Disney is making a billion dollar bet on video streaming."
+NEUT1|The Mouse House announced the acquisition of a 33% stake in Bam Tech on Tuesday, but will viewers pay for sports service?
+NEUT2|That doesn't include ESPN will join us to discuss this move by the media giant is Dan Kosta, he's editor in chiefofpcmag.com Dan.
+BULL3|Great to speak with you today.
+BULL4|Thanks for having me.
+NEUT5|What do you think about this?
+NEUT6|Why does it make sense for Disney to pick up a stake in Bam Tech instead of just renting the services?
+NEUT7|So BAM, Tech is actually the it's amazing that it grew out of Major League Baseball, but it's one of the most.
+NEUT8|Sophisticated streaming services out there.
+NEUT9|They're used by HBO.
+NEUT10|They used by a variety of other services by the NHL and I think Disney doesn't want to be just a renter of these services.
+NEUT11|They want to be an innovator and they want to get in.
+NEUT12|They want to learn how the over over the top on demand world works, and this is a great way to do that.
+NEUT13|So I think it makes a lot of sense for them.
+NEUT14|Yeah, certainly spend a lot of debate about the price they're paying, and I guess the implied valuation of BAM Tech based on their stake that billion dollar stake.
+NEUT15|So Disney said that the service will not include any of the content that appears on ESPN's TV networks.
+NEUT16|Will viewers still pay for it?
+BULL17|Yes, PN is still a very successful streaming network.
+BEAR18|They've had a little bit of erosion in terms of their paid customers, so the markets looking at them and looking for Disney to innovate here.
+NEUT19|But lesbian is still a cash cow.
+BULL20|It's still very successful.
+NEUT21|They want to make sure they don't Rd their current user base on the traditional cable channels.
+NEUT22|However, if you look down the road, I can think you're going to see a lot of mingling of content, a lot of blending of content, the brands are going to work together and eventually you could see something like ESPN as a separate over the top service.
+NEUT23|They just don't want to signal that right now because they're just making too much money.
+BEAR24|Anne, if you look at shares of Disney on the heels of another really solid earnings quarter because of ESPN, we've seen shares trading lower following those earnings results after market on Tuesday.
+NEUT25|But do you think this is a good investment?
+NEUT26|Do you think other media Titans will follow in Disney's footsteps?
+NEUT27|Yeah, there's I mean, we're seeing a great comingling of the people that build the pipes and the people that actually make the content.
+NEUT28|You've looked at what Comcast is done over the years.
+NEUT29|A major player in the content space.
+NEUT30|Verizon is getting into this market and they're making a lot of content bets.
+NEUT31|There's just a ton of alignments here, and if you look at a company like Bam, you know they're they're probably the most advanced streaming providers out there right now.
+NEUT32|I think Disney is going to learn a ton by operating them, so really kind of the way to look at this is going to be a longer term.
+NEUT33|This part of their longer term strategy, and this is really about the tech and where it can go from here.
+NEUT34|Absolutely Dan Costa.
+BULL35|Thanks for joining us.
+NEUT36|Thank you for watching.
+NEUT37|I'm Morgan Brennan.
+NEUT38|Have a great day.
+BULL39|Hey CNBC fans, thanks for checking out our YouTube channel here.
+NEUT40|You're going to find videos packed with all of the information that you need to be smarter about your finances.
+NEUT41|You can subscribe by clicking right here and click on all the videos around me or the eye right here to watch the latest from CNBC.
+BULL42|"Thanks for watching."""

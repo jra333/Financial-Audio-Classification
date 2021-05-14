@@ -1,0 +1,23 @@
+NEUT0|"""Using an online stock trade."
+NEUT1|To begin, an online stock trade, a market order must be placed to buy or sell a stock at the current market price.
+NEUT2|It must be current.
+NEUT3|Which is the best bid or ask price that the seller or buyer will fill your online stock trading order at?
+NEUT4|In addition, your market order must be placed immediately, which can mean anytime for the next 7 minutes or so.
+NEUT5|Online trading works best if it is done before or just at market open.
+NEUT6|It is possible to buy stocks after the market opened, but this depends on the issue and the spread.
+NEUT7|For informational purposes, the spread is the difference between the bid and ask price.
+NEUT8|All online stock trading is different, and it depends primarily on the execution system you use.
+NEUT9|The broker you select also plays an important role when trading stock online.
+NEUT10|Your ultimate goal is to trade in the best possible manner and to make a profit by your actions.
+NEUT11|Online trading also involves limit orders, which are decidedly different than market orders.
+NEUT12|This is when you place a stock trade at a specified price.
+NEUT13|It means that you go ahead and place your order and it will be executed if the market reaches or betters the price.
+NEUT14|It is a way to avoid unexpected price changes.
+NEUT15|It is recommended to be used for stocks with larger spreads, 0.03 or so and also with extra volatile stocks.
+NEUT16|Trading stocks Online is a very convenient way to do business.
+NEUT17|There are many companies that have websites dedicated exclusively to providing efficient and easy to use online trading tools.
+NEUT18|Using these websites gives you an excellent opportunity to quickly learn about stock trading and also how to spot potential opportunities in the market.
+NEUT19|Most work with multiple market centers to give you the best trading options.
+NEUT20|Execution of trades of stocks, options, and mutual funds can take as little as 5 seconds and most are provided Commission free.
+BULL21|You will see profitability if you use online stock.
+NEUT22|"Trade wisely and select an online trading company that provides you with the tools and support that you need to be successful."""

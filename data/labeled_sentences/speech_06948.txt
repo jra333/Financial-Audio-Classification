@@ -1,0 +1,24 @@
+NEUT0|"""Fools 2013 has been a great year for stock market investors, but with the new year just about a ponus, there's one big investing move that you really don't want to miss out on."
+NEUT1|If you want to preserve those gains going forward, my name is Dan Caplinger.
+NEUT2|I'm the Motley Fool's director of investment planning today.
+NEUT3|I want to talk about the most important investing move you will make in 2014 and basically the key to preserving your gains is to re balance your portfolio now.
+NEUT4|Rebalancing your portfolio is an important thing to do under most circumstances.
+NEUT5|After all, the key to overall portfolio risk levels is making sure that your asset allocation is in line with your risk tolerance and your particular financial goals and so keeping a relatively stable percentage of your assets in different types of investments.
+NEUT6|Things like stocks, bonds and cash make sure that you don't end up overextended in the thing about this past year 2013.
+NEUT7|Has been, it's been very easy for portfolios to get out of whack, and that's pretty simple to understand.
+NEUT8|Why bonds have generally gone down, you have the I shares aggregate Bond ETF, a benchmark.
+NEUT9|A bond returns.
+BEAR10|It's actually down for 2013.
+NEUT11|On the other hand, you have the stock market way up.
+BULL12|You get the Vanguard total stock market ETF up 32% for the year, and when you take those two things into consideration, it's enough to move asset allocations way out of balance.
+NEUT13|A 5050 stock bond portfolio at the beginning of the year is now wait about 6040 to stocks.
+NEUT14|It's a lot riskier than most people would understand, and rebalancing basically allows you to sell high the assets that have gone up and buy low.
+NEUT15|The assets that have gone down now.
+NEUT16|A lot of people just figure that rebalancing is just for broad asset class allocation, but it's also useful for stocks inside particular sectors or across sectors for.
+BULL17|Instance over the past year, we've seen healthcare stocks do really well with biotechs like Gilead Sciences going through the roof on really strong performance.
+BULL18|You've also seen some managed care companies do really well with Obamacare starting to take effect.
+BEAR19|On the other hand, you've seen utility stocks do really badly.
+BEAR20|Companies like FirstEnergy having some debt problems and causing some really weak returns over the year.
+NEUT21|And so if you are overweight on your health care stocks and.
+NEUT22|Underweight on your utilities as a result of that, the same strategy applies, and so something to keep in mind regardless of your particular balance, whether you're looking to re balance over asset classes or within particular asset classes now for more on investing and making sure you get the best returns you possibly can, please stay tuned to fool.com.
+BULL23|"Thanks for watching and Foulon."""

@@ -1,0 +1,11 @@
+NEUT0|"""I wanna spotlight in our trending ticker here."
+BULL1|We got Bitcoin hitting a new all time high.
+NEUT2|It topped $50,000.
+NEUT3|A coin.
+BULL4|You're seeing a trade just below that now, but that brings Bitcoins yearly gains to nearly 400% up about 383% in the last year.
+BULL5|Of course, we've seen big boost from corporations adding Bitcoin to balance sheets.
+NEUT6|MicroStrategy, one of the companies that beat Tesla to doing that, just announced an offer to sell.
+BULL7|$600 million worth of aggregate principle in convertible senior notes due in 2027 to double down and load up on more Bitcoin.
+NEUT8|We're still waiting to see one of the one other companies might follow suit, but Kiko the gains keep coming for Bitcoin and the crypto fans out there.
+NEUT9|Yeah, and we've had guests on like Mike know, Gratz, who said 100,000 by the end of the year.
+NEUT10|"So I will continue to see if that prediction holds there."""

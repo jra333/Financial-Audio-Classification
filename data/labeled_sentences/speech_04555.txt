@@ -1,0 +1,55 @@
+NEUT0|"""Have you ever wondered why the price of petrol keeps changing or why the stock market is so important?"
+NEUT1|Or why if one country goes bankrupt that affects the entire world, well, it's all to do with economics, gathering information, making predictions, an advising others.
+NEUT2|If this sounds like something you might be into, then come with me as I have a chat with economist Alan Langford.
+NEUT3|To find out just what it is that he does.
+NEUT4|Economists are all about researching and analyzing things like how society uses scarce resources to produce goods and services to seeing the effects and then working out a plan to achieve the best outcome.
+NEUT5|Alan Harvey cahaya great what are you working on?
+NEUT6|I'll just checking out where the Australian dollars going at the moment.
+NEUT7|Well, that's actually why I'm here.
+NEUT8|I want to find out what it's like being economists.
+NEUT9|Can you help me out?
+NEUT10|Yeah, sure.
+NEUT11|I think the currency can wait for a few minutes.
+NEUT12|Let's go outside and have a chat.
+BULL13|Sounds good.
+NEUT14|OK Rebecca, what would you like to know?
+NEUT15|Tell me everything there is to know about being an economist, 'cause I have no idea.
+NEUT16|Well they analyze the economy finally enough.
+NEUT17|And because I work for a bank, I do a lot of financial market analysis.
+NEUT18|Where is an academic economist?
+NEUT19|Might do something very specialized like the labor market.
+NEUT20|So it's really horses for courses.
+NEUT21|But I'm very much a macro economist.
+NEUT22|That means the big picture.
+NEUT23|It could be any number of things that I'm looking at, particularly financial markets.
+NEUT24|'cause so much happens in financial markets these days.
+NEUT25|And what are you looking at for in those financial markets?
+NEUT26|Trends and turning points.
+NEUT27|Things like that.
+NEUT28|Whether interest rates are safe falling and about to rise, or where they're going to stay, where they are, and particularly with currencies, that's a very important part of financial market trends, for instance.
+NEUT29|And why did you decide that you wanted to work in a bank with your economist St?
+NEUT30|Oh well, I did start off with an industry body originally and then moved into the bank 26 years ago, and it's been very interesting.
+NEUT31|'cause I just like the analyzing financial markets, the dynamics of them, and how they work, and sometimes how they don't work.
+NEUT32|And what would you say the most challenging part of your job is difficult.
+NEUT33|Part is to strike the right balance between looking at it at an indicator that might be troublesome, and you want to point that out so that people are not blindsided by, but equally you don't want to scare them.
+NEUT34|That's always a challenge.
+NEUT35|And what would you say the best part is?
+NEUT36|What do you enjoy the most?
+NEUT37|Yeah, just the dynamism of the economy, and particularly financial markets is always changing and there's always something to analyze.
+NEUT38|And there's always something in the data.
+NEUT39|It's just a matter of finding it and and that's really challenging and exciting, yeah?
+NEUT40|OK, Al, and now it's time to give me the edge you ready, sure, alright?
+NEUT41|So what does somebody need to study if they were going to become an economist, well, you would have to study economics or perhaps finance or business degree at a tertiary level for sure.
+NEUT42|Perhaps two or three years experience then and then maybe do some post graduate or an honours degree from that if you want to take it further.
+NEUT43|As a professional economist, what characteristics are best suited to somebody in this line of work, where you certainly need an inquisitive mind because there's lots of data that you got analyzed?
+NEUT44|Communication skills are very important both.
+NEUT45|Written and oral and public speaking is really important.
+NEUT46|You know, if an economist couldn't speak in public or get nervous would be like the doctor couldn't stand the sight of blood.
+NEUT47|It's a key part of your job and for you personally, if you could do one thing differently but still end up where you are today, what would it be?
+NEUT48|Oh, look, I don't know that I changed all that much.
+BULL49|I think you're happy the way it panned out.
+NEUT50|The job change significantly as I've been doing it over the years and I really wouldn't change all that much to be honest, Rebecca.
+BULL51|Well, thank you so much for having a chat with me today Alan.
+NEUT52|It's been great getting an insight on what it's like to be an economist.
+BULL53|Thanks, Rebecca, you're very welcome.
+NEUT54|"Authorized by the Government of WA, Perth."""

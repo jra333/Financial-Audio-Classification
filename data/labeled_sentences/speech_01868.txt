@@ -1,0 +1,13 @@
+NEUT0|"""Hi, I'm Motley Fool analyst Rex Moore and this is my 1:20 on when not to short stocks now."
+NEUT1|Recently a reader asked us on our Twitter feed about shorting AT&T and I know exactly what he was thinking.
+BEAR2|This is a company that has a lot of problems, whether it's with the network, the dropped calls, the poor, public relations, it seems iPhone users would like to jump to Verizon as soon as that option becomes available, but that is the problem.
+NEUT3|The fact that everybody already knows about this and what you thought you were the first to think of this.
+BEAR4|A lot of people are already pessimistic and this is built into the stock price already an what's more, AT&T carries a rather juicy 6 1/2 percent dividend that you'd be responsible for if you were shorting shares.
+BULL5|Another example I can think of was forward about a year ago even after that company got past any bankruptcy concerns or showed its relative strength by refusing the TARP bailout money that GM and.
+BEAR6|Chrysler took, there was still a lot of pessimism around it, but it wasn't a good time to short the company.
+BULL7|In fact, our own David Gardner recommended it, and Motley Fool stock advisor, and it's been up nicely since then.
+NEUT8|So the bottom line here is if you're looking to short a company, look for sort of the opposite of that.
+NEUT9|You want to find things that are not quite as apparent to the greater public out there.
+NEUT10|Maybe you found a ***** in the competitive advantages that the company used to have, or something that's what you want to look for.
+NEUT11|Companies that don't have it priced in already.
+NEUT12|"I'm rexmore and that's my 1:20 on when not to short."""

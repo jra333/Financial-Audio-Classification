@@ -1,0 +1,25 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Wednesday, June 21st.
+NEUT2|I'm Celina, Nicholas technical analysts are xm.com.
+NEUT3|Today will look at U.S. oil that's WTI oil on the daily chart.
+BEAR4|We can see prices touched a seven month low 4291 on Tuesday and generally prices have been showing persistent signs of weakness since falling from the February 21st high.
+BEAR5|Of $55 a barrel, and I've retreated into bear market territory after more than 20% drop from this peak, so we're down more than 20%.
+BEAR6|Looking at the technical indicators, the short term 50 day moving average has crossed below the longer term 200 day moving average that took place on May 16th and this gave a bearish signal and the 50 day moving average is still falling.
+BEAR7|Momentum indicators are bearish an are showing increased risk to the downside are sides below 50 an maqdis below 0.
+BEAR8|After touching the low at 442.91 yesterday, prices paused their decline, making this level important support level.
+BEAR9|It's close to the N14 low.
+NEUT10|And also provided support in the past.
+BULL11|Meanwhile, this level is also a febra Nachi level, it's a 61.8 retracement of the leg from 35.24 to 55.40 so that was the rise from April to December 2016.
+BEAR12|And below this support level now.
+BEAR13|We're looking at another support at $40 that would be the low of August 3rd.
+NEUT14|And then from here, of course we will start heading towards the 35.24 April 5th low.
+NEUT15|If we look to the upside for resistance, of course major resistance is expected at 45.24.
+BULL16|It's this week's high and it's close to the 50% Fibonacci level.
+NEUT17|Prices would have to rise above this $50 level in order to weaken the short term bias this move it also.
+NEUT18|Take my prices above towards the 200 day.
+BULL19|Moving average and rising above $50.
+NEUT20|Would bring a more bullish bias.
+BEAR21|If we look at the medium term outlook, let's still bearish an it's highlighted by the fact that the market has been carving out lower peaks and lower lows since February, and if you look at the bigger picture, though, it's looking actually quite neutral.
+NEUT22|If as long as prices trade between 40 and $50 a barrel, that's it.
+BULL23|Thanks so much for watching.
+BULL24|"Have a great day."""

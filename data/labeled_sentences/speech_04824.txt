@@ -1,0 +1,16 @@
+BEAR0|"""Can I ask you about a Wall Street Journal editorial today that essentially was a very scathing critique of McCain."
+NEUT1|It said, quote Mr McCain is sounding like a candidate searching for political foil rather than a genuine solution.
+NEUT2|He'll never beat Mr. Obama by running as an angry populist like Al Gore circa 2000.
+NEUT3|Can you respond to that?
+NEUT4|McCain has been flailing about for a message that he was against a bailout for AIG, and then he supported it that this week he was for a 911 style Commission.
+NEUT5|And then you announced a different plan today.
+NEUT6|Are you guys still searching for the right way to deal with this crisis?
+NEUT7|This is 1 plan.
+NEUT8|The 9/11 Commission is intended to the fact finding necessary for a regulatory reform for the 21st century.
+NEUT9|The MFA Trust will get us from here to there.
+NEUT10|We can't just let wall sheet melt while we study the problem.
+NEUT11|They go hand in hand and the trust is temporary and then goes then goes away.
+NEUT12|Quite frankly, if the Wall Street Journal isn't upset by what's going on right now on Wall Street and the damage is doing to America if they're not troubled by the fact that people were put in mortgages that they've never could afford.
+NEUT13|And no one had any intention of living to the end of their financial lives.
+NEUT14|Then they're missing problems in America.
+NEUT15|"Douglas Holtz eakin."""

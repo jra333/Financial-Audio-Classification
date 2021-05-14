@@ -1,0 +1,19 @@
+BULL0|"""Hey guys, welcome to another MGI investing tutorial."
+NEUT1|This is Barrett and today we're doing a technical analysis of ticker symbol Jane.
+NEUT2|Ugh, let's jump right into it.
+BULL3|OK guys, today we saw Gina up around 10.2% in the green closing the day at $111.40 and now and after hours sitting about $111.47 here I have the one day time frame pulled up.
+BULL4|I've also placed some key levels of support we have seen.
+NEUT5|Jane's been relatively bearish up until today, so we'll keep that in mind when evaluating what the stock could do in the future.
+NEUT6|So let's jump into it.
+NEUT7|Should you buy or sell J-9.
+BULL8|While $94.00, a critical level of support.
+NEUT9|And we saw it tested from last Tuesday up until just yesterday.
+NEUT10|In this retest, was the indicator of what direction we should follow.
+BULL11|We have made a strong move off of that level and support, and now I like to see any pullbacks is buying opportunities.
+NEUT12|I'd like to trade off a confirmations, the first being a stock is making lower lows and this confirms a bearish pattern and I like to trade in this direction, the other being the stock is making higher highs and from last Tuesday we have done just that since we have yet to see a lower low.
+NEUT13|This leaves a possible reversal to happen.
+BEAR14|Looking to later this week, I think it's likely we see a slight pullback and then see some buyers come in.
+NEUT15|I'm not looking to short this market.
+NEUT16|This video is for educational advice only and before making any trade you should have a goal for entry and exit and to minimize potential losses.
+NEUT17|Possibly consider using a stop loss.
+BULL18|"Thank you guys so much for watching and I'll see you in the next video."""

@@ -1,0 +1,7 @@
+NEUT0|"""Hello Traders and market, the AAA trades, intraday technical analysis session."
+NEUT1|Today's instruments is the Disney stock which is traded in a New York Stock exchange under the ticker DISP.
+BULL2|Looking at the four hour chart, we can see that after a strong upward movement due to Pfizer's vaccine announcement on Monday, it is currently traded at $137.88.
+BULL3|Tonight, Disney is announcing its earnings after the markets close and if the market anticipates better than expected financials, then the stock can hold its price above its support level at around $135 and could be able to test its resistance level at around $140.00.
+BEAR4|If it cannot maintain its price above the support level, then we should see its price falling toward this next support level of around $130.
+NEUT5|Thank you for watching AAA trades intraday technical analysis from all of us.
+BULL6|"Here we wish you a successful and responsible trading."""

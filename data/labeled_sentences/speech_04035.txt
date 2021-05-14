@@ -1,0 +1,9 @@
+NEUT0|"""Along to Sam has come to call or supply."
+NEUT1|Side economics is simply another name for entrepreneurial capitalism.
+NEUT2|Free enterprise free markets which is allowing people the opportunity to create new businesses, discover their own talents, take risks, and have an environment in which they can do that.
+NEUT3|An environment in which you're not crushed by taxation crushed by regulation crushed by crazy rules that make it impossible for you to focus on the task at hand and.
+BULL4|Having contracts enforced sound money fordable capital.
+NEUT5|All those kinds of things, some of them very boring, but absolutely essential.
+NEUT6|If we're going to move forward and without risk taking, there is no innovation without innovation, there is no higher standard of living.
+NEUT7|Government cannot create wealth, it could take it.
+NEUT8|"It can re distribute it, but the entrepreneur, the innovator, is the one who creates it."""

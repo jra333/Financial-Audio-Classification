@@ -1,0 +1,27 @@
+NEUT0|"""Let's bring in Shepardson chief economist at Pantheon Macroeconomics in a very different economic backdrop, we're witnessing now."
+NEUT1|This is four years ago when Trump was being inaugurated.
+NEUT2|We've got an economy that's being reeling from the pandemic from the crisis with just faced big spending program that's been fleshed out.
+BULL3|But at the same time, our stock market that is much higher than four years ago, the Dow, about 11,000 points stronger.
+NEUT4|What do you make of the challenges from here for investors and what we're going to see on this big spending initiative?
+NEUT5|I think quite a lot of the spending stuff that was talked about yesterday and in President elect Biden's $1.9 trillion plan that he came out with a week ago.
+NEUT6|I think most of that will happen.
+BEAR7|The problem for him with Congress will be getting his biggest stuff through his infrastructure spending and his corporate tax increase that Yellen talked about that will come later and I think that will be a real struggle to get through the Senate.
+NEUT8|But I think what investors should expect more or less immediately is this attempt to get most of this 1.9 trillion through, which is a huge amount of spending.
+NEUT9|Just to give you context, it's kind of.
+NEUT10|It's roughly double the relief bill the the spending bill that was introduced after the crash in 2008.
+NEUT11|That was 787 billion.
+NEUT12|So as a share of GDP.
+NEUT13|This this new proposal from President Biden is twice as big and this comes on top of the 2.7 trillion CARES Act from last March, so the amount of stimulus spending is enormous.
+NEUT14|The Fed's finance quite a lot of it through printing money, and that's why the stock market has loved it.
+NEUT15|So much.
+NEUT16|Thing is that the market knows this is coming now.
+NEUT17|I don't think there's anyone who thinks that they'll be.
+NEUT18|They'll be no more spending.
+BULL19|I think most people have accepted that would be further Corona relief spending.
+NEUT20|So I think markets have or are at peace with that idea.
+NEUT21|What everyone is waiting for us to see what actually happens to the path of the virus, because I think a lot of investors now also recognize that the virus and and the economy are inseparable.
+BULL22|So it's great to have all this stimulus spending, but a lot of it will be saved until the virus is is out of the way.
+NEUT23|And that's really the big debate for investors.
+NEUT24|Now, how quickly does it go away?
+NEUT25|How quickly does the money get spent that's been saved?
+NEUT26|"And then of course, what does that do for inflation as we go forward into the summer and into next year?"""

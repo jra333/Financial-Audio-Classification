@@ -1,0 +1,25 @@
+NEUT0|"""What do you got, GE?"
+NEUT1|I notice gonna replace an important executive you know?
+NEUT2|David Joyce has been there for 40 years.
+NEUT3|David, I had no idea he'd been running Aviation Orb in aviation for that long.
+BULL4|That's incredible amount of service and done a great job by Sheriff GE, President, CEO of GE Aviation.
+NEUT5|John Slattery comes in now David.
+NEUT6|He started membrere.
+NEUT7|He's an outsider, alright.
+NEUT8|He also worked in the Lesser Division 5151 years old and I've gotta tell you, 15 years in aircraft financing could really help.
+NEUT9|This is a change someone from the outside and this division has been the Crown jewel.
+BULL10|Obviously because of all the problems with with Boeing it's been stalled, but I think this is an important change.
+BULL11|This is a sign once again, the Larry Culp stamping his brand on all of the different divisions.
+BEAR12|He did tell me this morning business remains challenging.
+NEUT13|That's the word he's been using.
+NEUT14|That's a consistent workout challenging an how could it not be?
+NEUT15|I do think that this.
+NEUT16|Going Tord Windan away from that guest, this occurring is very much going to help Larry, but obviously wins multiples, not the.
+NEUT17|They just don't make that much money on wind, but I think he's making his changes doing his thing.
+NEUT18|Not many people on Wall Street who want to get behind him right here, but I think that's because of problems at Boeing, not inside problems with him, right?
+NEUT19|Listen, well, like so many companies.
+NEUT20|Of course that came into this year with expectations that have differed dramatically.
+NEUT21|Gez amongst them, Jim, this was going to be a transition year, perhaps one in which you could start talking about growth.
+BEAR22|Again, obviously that's off the table for G. Yeah, now that's what I was doing to begin the year because I just under estimated the problems with the 737 Max.
+NEUT23|Well, by the way, I don't think anyone.
+NEUT24|"I saw the 737 Max just going to be on hold but also obviously covid and you know seeing kovit you had to be a pretty much of a visionary to see Covid."""

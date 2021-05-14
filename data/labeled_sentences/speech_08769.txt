@@ -1,0 +1,30 @@
+BULL0|"""Despite some fading hype 2015, a busy year for Bitcoin VC Investments topped $1 billion with NASDAQ American Express Visa."
+NEUT1|All investing in Bitcoin startups.
+NEUT2|So what's in store for the digital currency in 2016?
+NEUT3|Joining us to discuss in today's West Coast wake up is Bloomberg Tech editor read Stevenson from San Francisco.
+NEUT4|So what are you seeing as the number one factor in play in 2016 on 2016?
+NEUT5|We're actually looking at probably about three factors.
+NEUT6|There's a good chance we'll see the first billion dollar Bitcoin company at least valued a billion dollars on the private markets.
+BEAR7|Financial institutions are starting to embrace the technology underlying Bitcoin and what we're also going to see is probably a slowdown in the number of new bitcoins that are going to come to the market.
+NEUT8|That's a big one.
+NEUT9|Yeah, that is, it's actually part of the underlying software that controls how the currency works.
+NEUT10|The number of coins that can be mined and 10 minutes is going to have.
+BEAR11|This happens every four years, and that's going to slow down the number of bitcoins that come onto the market.
+BULL12|And potentially, you know help lift the price against real world real world currencies as well.
+BEAR13|OK, so limited supply or less supply and also a Unicorn in the Bitcoin world?
+NEUT14|What about this idea that VC's have not as much money to give to some of these startups?
+NEUT15|Are we looking at potential started?
+NEUT16|Plus related to Bitcoin, I think there will be some.
+NEUT17|You know it's a very risky endeavor to get into an.
+NEUT18|You know it's not.
+NEUT19|It's not a slam dunk for any company that wants to build a business around what is still a very kind of mysterious and complex technology that hasn't gone mainstream yet.
+NEUT20|So last question for you.
+NEUT21|Read how will Wall Street come into play.
+NEUT22|They've got to make some money off of this.
+NEUT23|Well the well, the one thing that Bitcoin has going for it is that the underlying technology actually helps verify transactions, and that is something that Wall Street is very interested in, because it can be used not as a currency, but to verify transactions of financial instruments.
+NEUT24|Anything from real estate stocks, bonds, and that is really what is attracting Wall Street to the virtual currencies.
+NEUT25|Technology that stuff.
+BULL26|Thank you so much.
+NEUT27|Bloomberg Tech editor read Stevenson.
+NEUT28|In San Francisco and Speaking of Wall Street, just ahead on Bloomberg markets, investment things could be facing lean years ahead.
+NEUT29|"Those details coming up Brad hands will be joining us."""

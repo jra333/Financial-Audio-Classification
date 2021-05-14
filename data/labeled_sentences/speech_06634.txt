@@ -1,0 +1,13 @@
+NEUT0|"""Hello and welcome to today's technical analysis for January 21st, 2015."
+NEUT1|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at pound dollar on the daily chart.
+BEAR3|Pound dollar has been consolidating just above the key psychological level of 1.50.
+BEAR4|The recent downside momentum has stalled in the past week and the pair's been trading between one point, 5033.
+NEUT5|And capped at one point 5268 that's waiting for Catalyst for further move.
+NEUT6|The one point 5033 level right now is acting as an immediate support level and a break below.
+NEUT7|This would expose the July 2013 low and this comes in at one point.
+BULL8|4811 Appan reaching this level GBP USD would have retraced the entire move up that was from one point 4811 to one point 7190.
+BULL9|The July 2014 high.
+BEAR10|The overall trend for cable right now is currently bearish as the market is biloli Itchy McLeod on the our size in bearish territory below 50.
+BEAR11|The pair has been making lower highs and lower lows since its peak of one point 7190 and this was in July 2014 and thank you for watching.
+BULL12|"Have a great day."""

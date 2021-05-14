@@ -1,0 +1,15 @@
+NEUT0|"""Alright, let's take a look at the Apple stock."
+BULL1|We can see after the opening of the markets are negative, but then it's bounced back to the positive.
+NEUT2|And so down to negative again.
+NEUT3|And if we change charge into daily chart we can see.
+NEUT4|Here we got a huge red candle with a long after.
+BEAR5|It means a lot of selling pressure upset and we have touched the 10 days year may and unfortunately we have been dropped back.
+NEUT6|To the point which we formed on the.
+NEUT7|Denies of 11.
+BEAR8|That's the formal point of the high, so if we cannot hold above this line as we see on this chart, then it means the option in China has been failed.
+NEUT9|So in my opinion, is very.
+BULL10|Important for us to hold above this level, we can see we're just hit here.
+NEUT11|If we connect the line we can see that clearly clearly.
+NEUT12|At this point, at this point, how the same level?
+NEUT13|So let's wait and see what will happen.
+BULL14|"Thank you."""

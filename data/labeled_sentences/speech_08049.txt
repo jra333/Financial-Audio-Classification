@@ -1,0 +1,40 @@
+NEUT0|"""I'm here with Simon smiles who is the Chief Investment Officer for Ultra High Net worth clients at UBS Wealth Management?"
+NEUT1|And we're here to talk about what those clients who have around $100 million or more in assets, what they're doing with their cash.
+NEUT2|So Simon, what are they doing with their money?
+NEUT3|Well, there's a lot of cash.
+BULL4|A clients continued to be overallocated versus what we'd recommend in cash.
+BULL5|Secondly, there continues to be a high degree of home buyers.
+NEUT6|Typically, clients still have more of their money allocated in the assets that they feel more comfortable with.
+NEUT7|If you will, would recommend the third area, which would definitely seeing is an increasing interest in longer term themes.
+NEUT8|Looking over a 510 year.
+NEUT9|Typically in private equity or director investment.
+BEAR10|Why is it that people are still sitting on these cash balances?
+BEAR11|I think it's probably still a reaction to the crisis we saw in 2008 and 2009.
+NEUT12|Liquidity was King then, and so even five years on from the crisis, a client still want a significant portion of their portfolios which are highly liquid.
+NEUT13|And for those who are investing, what parts of the world are they investing in?
+NEUT14|Are they interested like everyone else is in getting yields?
+NEUT15|And what kind of instruments are they buying to get it?
+NEUT16|Definitely interested in yield.
+NEUT17|Unfortunately, yield is very hard to find these days.
+BEAR18|With eight of the 18 countries in Europe now having negative interest rates for at least two years.
+NEUT19|So in that context, clients are looking increasingly to the US.
+NEUT20|They're looking to US equities.
+NEUT21|They're looking to US high yield, and indeed the US dollar to try and redeploy their investments.
+NEUT22|And you said that earlier this year people were more interested in Europe, but that's faded somewhat definitely.
+BULL23|I think we started the year with a clear preference, not just among our European clients, but also Asian clients and our US clients for European assets.
+NEUT24|Unfortunately that was predicated on a jewel hope.
+BULL25|I hope that economic growth would return to the region.
+BULL26|And I hope that corporate earnings would start to grow.
+BEAR27|I think six months, eight months now through the year, those both of those hopes haven't come to fruition, and people are increasingly giving up on the positions and in terms of geopolitical risk.
+NEUT28|What is top of the worry list for your clients?
+NEUT29|The conversations I'm having a generally about why geopolitical risk isn't having more of an impact on wider financial markets given us not just Ukraine and Russia.
+NEUT30|It's also the events in Syria and the North of Iraq.
+NEUT31|And what's going on in Gaza?
+NEUT32|The simple answer, that is, none of these events have actually had an impact on material impact on the oil price.
+BEAR33|With oil continuing to fall and being close to three year low, then that normal mechanism by which geopolitical risk derails wider risk assets and the story for equities, the oil price it is simply hasn't been affected, and other geopolitical risk factor in why people are sitting on so much cash?
+NEUT34|Or is that just a background story?
+NEUT35|I don't think it's the main factor in the cash levels that we've had.
+NEUT36|Income portfolios in aggregate haven't largely changed over the last five years.
+BEAR37|They definitely haven't become more elevated just over the last six months.
+BULL38|OK, Simon smiles.
+BULL39|"Thanks very much."""

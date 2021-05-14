@@ -1,0 +1,18 @@
+NEUT0|"""Hello and welcome to today's technical analysis."
+NEUT1|It's Thursday, September 14th Matters or you can see Alexander.
+BEAR2|Com today will be looking at the US dollar versus the Canadian dollar on the daily chart so we can see that USD car has been to a large extent been moving sideways in recent days.
+BEAR3|Over the last few days based on the HMO analysis, the overall bias remains.
+NEUT4|To the downside, would consider the tenkan Sen remains below the kitchen line.
+BEAR5|This is a negative alignment.
+NEUT6|Also notice that the 10 concern currently maintains a steep negative slope.
+BEAR7|In terms of momentum, in the very short term, as gauged by the RSI, we consider the indicator has been moving sideways over the last few days pointing to the absence of momentum, either to the upside or the downside should the price decline.
+BULL8|Support could come around.
+BEAR9|Last Friday's 28 month low of one point 2060 and further below in the range around 1.20 handle.
+BULL10|.20 being a potential psychological level on their way up, resistance could come around the current level of the cancer.
+BULL11|One point 2243 and further above an given strong get positive movement in their range around one point 2419.
+NEUT12|These being the current kingdoms in level, it could be argued that the area around these levels of significance, exactly we can see it over here and here as well.
+BEAR13|In terms of the medium term picture, it is clearly bearish given the considerable sideways movement over the last number of months.
+NEUT14|We consider the price below both their 50 and 200 day moving averages and consumer reach more cloud as it is in between the two moving averages.
+BEAR15|Also notice that both moving averages are at the moment and will sloping while the parents were quoted a bearish cross on July 12 when the 50 day moving average move below the 200 day one.
+NEUT16|That's it for today.
+BULL17|"Thank you for watching and have a great day."""

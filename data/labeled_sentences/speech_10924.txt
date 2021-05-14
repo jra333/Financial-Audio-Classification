@@ -1,0 +1,21 @@
+NEUT0|"""Alright, here's my short sell for NCT."
+BEAR1|There's the downtrend.
+NEUT2|And there's my entry point and my stop loss.
+NEUT3|Right away it goes down, so I'm good with my stop loss with it.
+NEUT4|Bounces around a little bit and then descends further.
+BULL5|Got some good profits going and boom, a gap up.
+BEAR6|This ****** me off and actually sold at a higher price than my stop loss, which is frustrating.
+NEUT7|When you're holding overnight, you always knows a chance of this happening.
+NEUT8|But when it does actually happen, it's a tough rectal Suppository to swallow.
+BEAR9|Alright, so I took a small loss.
+NEUT10|Let's go back and look at the gap.
+BEAR11|Even using stop losses you can get hurt holding overnight because.
+NEUT12|There's a chance can gap up like it did this time.
+NEUT13|You have everything under control.
+NEUT14|Everything is within your parameters and then the market takes your power away from you.
+NEUT15|Reminds me of being an elementary school coloring.
+NEUT16|Everything's going perfectly in between the lines.
+NEUT17|It's like a masterpiece.
+NEUT18|And your friend comes and shakes your desk.
+NEUT19|Then that sensation that rises up in you and makes you clench your fist happens.
+BEAR20|"It's more than just anger."""

@@ -1,0 +1,25 @@
+BEAR0|"""In today's video we will talk about why Neo shares were down more than 20% in the past couple of days."
+NEUT1|So let's begin shares of the Chinese electric vehicle maker.
+BEAR2|Neo was down on Tuesday morning.
+BEAR3|The company shares were caught in a wave of selling, triggered in part by signs that US interest rates may be on the rise.
+BEAR4|Spang and Lee Auto Stocks also were down when stocks across the sector or across the market are down sharply.
+NEUT5|It's sometimes hard to point to one single factor driving the sell off.
+NEUT6|I think there are a few contributing factors here.
+BEAR7|First, the $1.9 trillion COVID-19 relief package moving through the US Congress has some economists and investors worried about inflation.
+NEUT8|Simply because it's a lot of money to dump into the economy.
+NEUT9|That's almost certainly having an effect.
+BULL10|Second, and likely related, the rate on the benchmark 10 year U.S. Treasury bond has risen to 1.37%.
+BEAR11|That's still quite low by historical standards, but it hasn't been that high since early 2020.
+NEUT12|Generally speaking, investors tend to reduce risk exposure when interest rates are rising.
+BULL13|The fact that all three of these stocks have been bid up quite high in recent months by eager investors hoping to replicate the gains.
+NEUT14|Posted by Tesla.
+BULL15|Makes them prime sell candidates for investors aiming to reduce portfolio volatility.
+BEAR16|Now Tesla has fallen quite a bit over the last few days.
+BEAR17|It's the category leader, so it's not surprising to see other electric vehicle stocks falling as well.
+NEUT18|All that said, nothing about these external events changes the longer term fundamentals of any of these companies.
+NEUT19|If you believed in them a month ago and you plan to hold long term, there's no urgent reason to sell all three of these companies will provide updates to auto investors soon.
+NEUT20|When they report fourth quarter and full year 2020 earnings, Lee Auto will report this Thursday, Feb 25, before the US Markets Open and I will report next Monday.
+NEUT21|March 1st after the US markets close.
+NEUT22|And Spain will report on the following Monday.
+NEUT23|March 8th in the morning.
+NEUT24|"Don't forget to press that like button and make sure to click on that subscribe button if you want to see more videos about Neo stock."""

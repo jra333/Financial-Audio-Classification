@@ -1,0 +1,11 @@
+NEUT0|"""Its stock o'clock welcome there is and use back on the block TP GY."
+NEUT1|This pack will merge with the V bucks.
+NEUT2|A Dutch electric vehicle charging company.
+BULL3|The direct competitor of chargepoint seems popular shares premarket or up more than 175%.
+NEUT4|the FDA advisory committee recommends the authorization of Pfizer 's vaccine.
+NEUT5|17 people voted in favor or against the FDA doesn't have to go along with the recommendation, but probably will air B&B hits a valuation of 100 billion dollars on its IPO date.
+BULL6|Shares were offered for $68 each, but the price quickly rose to $160.00.
+NEUT7|Airbnb raised $3.4 billion with their IPO, and NEO proposes an offering of 60 million shares.
+BULL8|The company will use the money for our Indian network expansion.
+BEAR9|The stock is down 6% so far premarket.
+BULL10|"Alright, stay safe bye."""

@@ -1,0 +1,10 @@
+BEAR0|"""The.com bubble started around 1997, peaked in 2000 and ultimately burst by 2002."
+NEUT1|As the name suggests, the bubble revolves around speculative investments in Internet companies.
+NEUT2|Simply put, investors were so excited about the progress of the Internet that they invested in pretty much any tech company with a pulse.
+NEUT3|They stopped caring about whether or not a company was profitable, or at least could eventually become profitable.
+NEUT4|Common sense became a rarity from 1997 to March 2000.
+BULL5|Prices went up about five times, only to go down five times and return to their pre boom levels from 2000.
+BEAR6|To 2002, a drop, which was also exacerbated by the terrorist attacks of September 11, 2001.
+BEAR7|Only one out of two Internet companies survived with businesses such as pets.com going from a market capitalization of over $300 million to zero within just 268 days.
+BULL8|There are, however, also success stories such as Amazon which went from around $100 during the bubble peak all the way down to $7.00 after it burst, but then climbed back up to over $600 per share.
+NEUT9|"The conclusion is simple, like any other mania, the.com bubble is a fascinating human nature lesson."""

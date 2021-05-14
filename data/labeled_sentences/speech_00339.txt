@@ -1,0 +1,23 @@
+NEUT0|"""Daniels want to get to another big story that you're tracking today and that is Roku Roku reaching a deal with a T&T to carry HBO Max."
+BEAR1|We talked about the fact that these two companies have kind of been in a standoff here over the last several months, but finally reaching an agreement shares initially popping on this news.
+NEUT2|Why do you think investors are so excited about this?
+BULL3|Just because I guess it might be the potential reach that this deal could mean for the company.
+NEUT4|Well, standoff is the right term.
+NEUT5|Sean.
+BEAR6|And let's remember that there was also a standoff between Roku and Peacock.
+NEUT7|You know, when Peacock launched an HBO Max launch, neither one was on Roku and the reason is that Roku is become big enough and powerful enough that it can really set its own terms.
+NEUT8|I mean, 100,000,000 people have one.
+NEUT9|It is the number one device for a streaming connected TV apps, and so you know, reportedly, in these companies just share.
+NEUT10|We've come to a deal they don't share the financial terms, but I would bet the terms are better for Roku and that they represent in some way, shape or form a T&T and Warner Media.
+NEUT11|Giving something to Roku?
+NEUT12|I mean, the issue is that NBC, at least when it came to Peacock, wanted more of its own ad space.
+NEUT13|We're talking here about ad tech and AD dollars, and Roku really demands a lot, you know, within its Roku TV app and within the home page.
+NEUT14|And at this point you know for HBO Max, which is grown kind of slowly since it launched.
+BEAR15|You have to be on Roku and it took six months since launch, and I think after a while it became a real problem.
+NEUT16|In a real obstacle to HBO Max subscriber growth to not be on Roku devices.
+NEUT17|So at some point.
+NEUT18|You kind of have to give in and meet Roku, maybe more close to Roku than in the middle.
+BULL19|Certainly will help HBO Max I guess.
+NEUT20|Get a little bit more of an edge when it comes to some of its bigger competitors out there in the streaming space.
+NEUT21|Alright, Dan Roberts will talk to you soon.
+BULL22|"Thanks for joining us."""

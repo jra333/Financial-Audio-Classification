@@ -1,0 +1,36 @@
+NEUT0|"""Welcome to the stock Orcades dividend Safety Assessment series."
+NEUT1|In this video we will have a closer look at Coca-cola's dividend safety profile following their fourth quarter and full fiscal year 2020 earnings report.
+NEUT2|Does Coca Cola really require an introduction?
+NEUT3|According to Forbes 2020 list of Most Valuable Brands, the beverage giant ranks at #6 and is the first non technology company on the list.
+NEUT4|Coca-Cola sells its products in 200 countries through some of its more than 500 brands.
+NEUT5|Aside from Coca Cola drink its most famous brands include Sprite, Fanta, Schweppes, Dasani, Powerade, Minute Maid, Innocent Costa Coffee, which is a recent new entry in Coca Cola Swasth portfolio of brands and iced teas such as fuse and honest.
+NEUT6|Coca-Cola also owns approximately 19% of Monster Beverage outstanding shares as of December 21st, 2020.
+NEUT7|Coca Cola market capitalization is $219 billion.
+NEUT8|The dividend currently yields 3.3% and their shares are traded on the New York Stock Exchange under ticker KO.
+BEAR9|Net revenues for the fourth quarter 2020 declined by 5% to $8.6 billion, an EPS declined 29% to $0.34 compared to the same reporting period a year ago.
+BEAR10|For the full year, net revenues declined by 11% to $33 billion, while EPS declined by 13% to $1.79.
+NEUT11|But now let's have a deeper look at Coca Cola's dividend safety.
+NEUT12|The primary scores are.
+BULL13|Earnings payout ratio of 91.1% score 0.
+NEUT14|Free cash flow payout ratio of 83.8 score 0.
+NEUT15|Return on invested capital 12.7% Score 2.
+NEUT16|Net debt to EBIT are 2.5 score one.
+BULL17|Operating margin versus industry 12.9% Score 2. Dividend growth years.
+NEUT18|Coca-Cola is part of the dividend elite, also known as Dividend Kings.
+BULL19|It has now grown its dividend for the past 58 years.
+NEUT20|Score 2 the secondary scores are.
+BULL21|Five year average EPS growth.
+BULL22|1.4% score one.
+BULL23|Five year average sales growth.
+BEAR24|Coca Cola has a negative 5.7% score 0.
+BULL25|Average analysts estimated EPS growth next year, 8.4% score one.
+BULL26|Average dividend growth past five years 4.4% score 0. Dividend and market downturns Coca-Cola weathered many storms but was able to keep its dividend growing.
+BULL27|Score one SNP rating.
+NEUT28|A plus negative score one.
+NEUT29|The total score for Coca Cola is 11.
+BULL30|Which makes it a four out of five star dividend stock in our ranking.
+BEAR31|With closures of bars, restaurants, movie theaters and more, entertainment venues due to covid lockdowns.
+BEAR32|Coca-Cola has had a tough past year.
+BULL33|For the full year 2021, the company expects to deliver organic revenue percentage growth of high single digits as they mentioned in their earnings release.
+BULL34|From a dividend perspective, considering the now relatively high payout ratios, we expect only minimal dividend growth in the coming years.
+BULL35|"However, Coca-Cola remains a top notch company with a reliable dividend for the foreseeable future."""

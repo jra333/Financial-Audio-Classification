@@ -1,0 +1,65 @@
+NEUT0|"""The other thing that was that impressed me a lot with the second quarter earnings Facebook is their average revenue per user right there, just taking more dollars out of out of each user, at least in terms of the value of each one."
+NEUT1|Like $3.82 a user.
+NEUT2|What's interesting is that you know Facebook is an advertising business.
+BULL3|The amount of money they're getting out of that from the second quarter is better than what they did in the fourth quarter last year.
+NEUT4|Fourth quarters went, all the advertising happens.
+BULL5|That's when advertising heats up and the fact that they're able to do better in the second quarter is really interesting.
+NEUT6|I think so the bear question is, how much can they ring from?
+NEUT7|Each user, what is that ceiling?
+NEUT8|So they actually they actually talked about the earnings called it yesterday as well.
+NEUT9|They explained, you know, there's only so many ads we can dump into the newsfeed before people start getting upset.
+NEUT10|So we don't want to do that.
+NEUT11|And they, there's a ceiling.
+NEUT12|There's a limit to how many people that you know.
+NEUT13|How many ads are going to people.
+NEUT14|So next step is get more people and charge more for ads, right?
+NEUT15|That's the only way they're going to grow on that front.
+NEUT16|That's also why they keep making the argument for brand advertisers.
+NEUT17|You know they Sheryl Sandberg CEO, should one of our favorite lines is talk about.
+NEUT18|We have a. Super Bowl size audience every day, every night they're trying to get the TV ad dollars.
+NEUT19|You know, TV ad dollars or the brand ad dollars.
+NEUT20|Right now the ad dollars are getting are mostly direct response ads, which is, you know, install this app.
+NEUT21|You know they're great at that, but they want you know the big brands coming into.
+NEUT22|So I'm not a bear on Facebook at all.
+NEUT23|But I do wonder to the extent you think the Silicon Valley bubble is going to pop right?
+NEUT24|If you think it is how that impacts their ad business, the reason I say that is if you go through Instagram or oftentimes the ads on Twitter they are.
+NEUT25|Many times for new apps.
+NEUT26|Yep, right.
+NEUT27|It's a lot of new apps out there 'cause it's a click through it.
+NEUT28|It's a click through on mobile and so it makes sense to advertise there if you're.
+NEUT29|If you are a new app.
+NEUT30|But to the extent you believe that some if not many of these apps are going to disappear.
+NEUT31|Yep, what does that mean to the business?
+NEUT32|So you, you've lined it up exactly right.
+NEUT33|I think you know a lot of the newer ads coming or the money being spent or hate.
+NEUT34|Download this app.
+NEUT35|If these apps disappear.
+BEAR36|Meaning if startups you know start fading because the way the economy is going.
+NEUT37|The way VC's are investing.
+BEAR38|Yeah, that's going to hurt them.
+NEUT39|Same time, I think there's enough.
+NEUT40|You know, big big brand advertisers still want to come in there.
+NEUT41|So curious they still want to figure out the best way to use it.
+NEUT42|Facebook has a whole Department set up to talk to Madison Ave.
+NEUT43|Here's the best way to use these kinds of things, and they're doing it.
+NEUT44|They're making it happen.
+BEAR45|I think it'll affect Facebook less than others.
+NEUT46|Frankly, I think Twitter it will affect a lot more I guess.
+NEUT47|Are there enough Delta Airlines and Starwood Hotels to replace the Insert app here?
+NEUT48|Yeah, and I think even those guys want an insert app.
+NEUT49|Add 2 right?
+NEUT50|So I think there's a level of direct response dynamic as well as.
+NEUT51|Good brand advertising meaning look at us were nice and you know nice and you sense that had prices are going down or there's a chance that go back to again and we had Tim Armstrong on the show earlier this week after they did the transaction with Yahoo and he talked about how advertising programmatic advertising had commoditize so much of this and brought it down.
+BULL52|But that he expects actually a shift back up again.
+NEUT53|I think it depends on where you are right?
+NEUT54|I think for that business where you're doing programmatic ad placements, there's always going to be.
+BEAR55|I think pressure on ad rates.
+NEUT56|I think what we want to look at when Alphabet when Google comes out later, we want to look at their CPC.
+NEUT57|Their cost per click rates, right?
+BULL58|Because that's going to tell us, you know the direction, at least for online advertising where it's going, and I think it is flattening a bit.
+BEAR59|So I think you know right now there's still a lot of pressure.
+NEUT60|I don't know that that's going to go up anytime soon.
+NEUT61|I think the advantage of digital advertising is that you can have that pricing pressure, right?
+NEUT62|There's a lot more players.
+NEUT63|There's a lot more places I can put my ad, so I'm going to look for the best rates, and I think it commodity that process commoditize is advertising.
+BULL64|"Yeah, better people are."""

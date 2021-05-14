@@ -1,0 +1,36 @@
+NEUT0|"""Alan Ruskin yesterday quoted as 3.13 on the 10 years an important technical point."
+NEUT1|Right now you're not doing the Ruskin dance, but on a 10 year yield.
+NEUT2|When does this click in?
+BULL3|Where it affects the economy we think needs to get above 3 1/2 on the 10 year.
+BULL4|OK, and we expect to be there by the second half next year.
+BEAR5|And and at that point we think things will begin to slow.
+BEAR6|We think some of the pain in emerging markets.
+BEAR7|As I said, a bit of a bit of an equity market correction along the way.
+BEAR8|All this feeds in to begin to reduce, reduce growth a bit as we go into 2020.
+NEUT9|That's our view.
+BEAR10|So what happens in 2020 Peter if it's reducing growth, are we going to actually see a recession or is it just a reduction we spoke to Mr earlier?
+NEUT11|Rubini a couple of days ago and he says with 2020 is going to be crunch time, not only for the US, but worldwide.
+NEUT12|2020 we think is going to be slow down time.
+BULL13|We we see growth getting below 2%, which is potential enough to begin to move the unemployment rate up.
+NEUT14|But we don't think it has to go below 1%.
+BULL15|We think somewhere in the one one and a half percent range is fine.
+NEUT16|That's that's a narrow window, but as I said, what the Fed has going for it is the lack of an investment overhang.
+NEUT17|Normally you begin to tighten the slow things down.
+BULL18|This investment overhang kicks in.
+BEAR19|You see a sharp drop in cyclical spending.
+NEUT20|We don't have to see that this time.
+BULL21|The other thing I mean the feds, and we think the Fed reversing course, probably cutting cutting rates a couple of times in 2020 helps to cushion the blow.
+BEAR22|It's Friday Doom and gloom.
+NEUT23|Essays are going to come out.
+NEUT24|One of the great essays of the summer is one of your young Turks.
+NEUT25|Writing on yield curve, which basically said you know what the yield curves where it is, but don't give us this recession interpretation update us and why the yield curve is less problematic than many think.
+BEAR26|Well, the long end of the yield curve has been held down dramatically by a lot of central bank balance sheet expansion.
+NEUT27|The term premium normally somewhere at least 50 basis points, historically closer to 100 is at 0 or or even less, that is.
+BEAR28|Is going to normalize that is slowly going to come back, but right now it's at such depressed levels.
+BEAR29|A lot of this collapse of the yield curve that we've had that is normally a recession signal is due to something that's not related to recession.
+NEUT30|It's the term premium.
+NEUT31|The risk neutral portion of the yield curve and my colleague Matt Lizette.
+BULL32|He was brilliant in doing this decomposition.
+BEAR33|The risk neutral portion has come down a bit.
+BULL34|Yes, I think the markets looking forward to the likelihood that we're going to see some slowing OK.
+BEAR35|"But it's not that it's not at levels to say we're going to have a recession in the next 12 months."""

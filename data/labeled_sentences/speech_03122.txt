@@ -1,0 +1,27 @@
+NEUT0|"""Hi welcome we're about to take a closer look at Lloyd's ticker LLOY."
+BULL1|The share has actually more than doubled since June of last year, but that's been buried in by the news of the government announcing that it has sold 6% of its stake in the company for a deal valued at roughly £3.3 billion.
+NEUT2|So I have a few important questions for Nate here.
+NEUT3|First things first name, what does this news mean for the company?
+NEUT4|Well, I don't know that this news actually means all that much for Lloyds.
+NEUT5|It obviously would like to see the government get rid of its stake.
+NEUT6|Anytime you have a government owning a public company, there's always the concern that politicians will steer the company in a direction that isn't necessarily best for shareholders.
+NEUT7|So watching the government unwind its position is a good step forward.
+NEUT8|All right, so you mentioned shareholders.
+NEUT9|That's my next question.
+NEUT10|What does this news mean for either potential or current Lloyds shareholders?
+BULL11|Well, again, it's good news for Lloyds shareholders.
+BULL12|It's also a sign that the bank is moving in the right direction.
+BEAR13|Actually the share price rise we've seen over the past year has been a result of the bank demonstrating that they're cleaning up their bad loans.
+BULL14|They're making their balance sheet look better, and they're moving back towards a more normal banking life.
+NEUT15|And in the big thing that shareholders will really be looking for is the return of the dividend.
+NEUT16|So we're moving in that direction.
+NEUT17|OK so I won't put you on the spot as to whether you think the shares can double again in the next year, but where do you think or where do you see the company in the shares going from here?
+NEUT18|Well, at this point it becomes how well can the bank execute.
+NEUT19|Now put the worst behind them hopefully, and it becomes a question of how profitable can they be in a normal situation and how big can the dividend be.
+NEUT20|And that's really what's going to determine where the shares go from here.
+NEUT21|Whether the market likes what they see and how lucrative the dividend yield can be and how many shareholders that attracts.
+NEUT22|Alright, so there you have it.
+NEUT23|A few things, so watch for Lloyds from here as well as just taking a closer look at what it's been up to for the past year or so.
+NEUT24|So Nate.
+BULL25|Thank you for being here.
+BULL26|"Thank you guys for watching full on."""

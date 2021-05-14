@@ -1,0 +1,26 @@
+NEUT0|"""Alright, let's take a look at the Apple stock."
+BEAR1|We can see from this day chart the stock had dropped all the way during the trading time, especially near the closing of the market has the low of the day, so it's a very bearish sign for the stock.
+NEUT2|If we change the charge into.
+NEUT3|Daily chat.
+NEUT4|Then we can see the whole picture.
+NEUT5|Now I can see that it formed a red candle after the two candles before it, so it's still a barrier site and now we can confirm the downtrend for the Apple stock if we draw a line here, we can see.
+NEUT6|The dung channel is very clear.
+NEUT7|And now we can see full from the volume.
+BEAR8|The volume is smaller.
+BULL9|It's a good sign for the downtrend because it means the selling pressure is getting smaller.
+NEUT10|But as we can see from here, there's still no.
+NEUT11|I need.
+NEUT12|Sign out, bounce back from here and the most most concerns is that it's very possible for the stock to form.
+NEUT13|A double head because here is 1.
+NEUT14|Here is another hand.
+NEUT15|Let's see here.
+NEUT16|Draw a line.
+NEUT17|I can see actually this too.
+NEUT18|It's very possible to form a double top, so in history actually some.
+NEUT19|Famous leaders in the history.
+NEUT20|Also format double top before they.
+NEUT21|Going to the town China.
+BEAR22|So in my opinion, currently the Apple stock has the possibility of former double top, so if that's the case then it means the whole US share market could go down further because the leader.
+BEAR23|Has become weak and when the leader becomes weak, the whole stock market will become weak.
+NEUT24|So for now I think the market and the share price of the Apple.
+BULL25|"It's parish thank you very much."""

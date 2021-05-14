@@ -1,0 +1,35 @@
+NEUT0|"""Hey option traders for today's trading strategy, we're taking a look at a bull call spread in Microsoft."
+NEUT1|The stock is currently showing an implied volatility reading.
+BEAR2|That's the lowest it's been in 12 months.
+BULL3|Essentially that means options on Microsoft are cheap right now compared to recent months.
+NEUT4|When this occurs, it's better to be a buyer of options rather than a seller.
+BULL5|Technically Microsoft is showing decent strength as the stock moves above the 21.
+NEUT6|50 and 200 day moving averages.
+NEUT7|The stock is showing a composite rating of 76.
+NEUT8|An EPS rating of 95.
+NEUT9|An Rs rating of 43.
+NEUT10|Trader is wanting to add some bullish exposure to the portfolio in a risk defined way.
+NEUT11|Could look at a bull call spread a bull call spread is known as a vertical spread.
+NEUT12|An involves buying a call and then selling a further out of the money call.
+NEUT13|Selling the further out of the money.
+BULL14|Call reduces the cost of the trade and also limits the upside.
+NEUT15|Alright so here you can see we're on my thinkorswim dashboard and first thing you're going to want to do is type in the ticker symbol Microsoft, MSFT and.
+NEUT16|We're going to be looking at options contracts that expire the week of September 17th, 2021, so make sure you're in that selected week here and what's cool on thinkorswim as you can select the option trade type.
+NEUT17|So I'm going to select vertical here because that's the correct strategy for a bull call.
+NEUT18|Spread down here in the middle panel are strike prices, so we're going to be looking at this one here, which is 250 and 255 calls over here.
+NEUT19|It's over here, but down here I've just changed the.
+BEAR20|Short call to 260 from 255 and the maximum profit on the trade is currently around $672 per contract with a maximum risk of $328.00.
+NEUT21|Going out to the September expiration gives the trade plenty of time to work out, and it also minimizes the impact of time decay.
+NEUT22|So Long story short, time decay is simply a measure of the rate of the decline in the value of an option overtime, while some option trades have the risk of unlimited losses of bull cost, spread is a risk defined strategy and you always.
+NEUT23|No, the worst case scenario in advance.
+BEAR24|So if Microsoft closes below 250 on September 17th, the most the trade could lose is $328.00, which is the premium paid.
+NEUT25|Potential games are also capped above 260, so no matter how high the stock might go, the most of the trade profit is $672.
+BEAR26|In terms of trade management, if the spread dropped to $2.00, I would consider closing early for a loss.
+NEUT27|Otherwise I would hold it till expiration.
+NEUT28|So to recap, this option trade involves buying a September 17th.
+NEUT29|2:50 call and selling a September 17th 260.
+NEUT30|Call the total premium paid for the trade would be roughly $328.00 and the trade has a maximum profit of 672 and there you have it.
+BULL31|I hope this was helpful trading strategy.
+NEUT32|Remember, options are risky and investors can lose 100% or more of their investments, so make sure to practice with a virtual trading account before risking any real money, especially if this is new to you and check out investors.com/options for more option trading tips.
+BULL33|Hey everyone, thanks so much for watching investors business daily on YouTube.
+NEUT34|"If you want to watch more videos make sure you hit that subscribe button so you don't miss a thing."""

@@ -1,0 +1,39 @@
+BEAR0|"""It has been a dismal summer for the Chinese economy so earlier in the summer we had a big stock market crash."
+NEUT1|The market had boomed and then it really came off and the Chinese government spent all kinds of money and effort to save it.
+BEAR2|After that we had terrible economic data.
+BEAR3|Exports were bad, production was bad, it's just been a string of of weak data.
+BEAR4|And then just this week the Chinese government devalued its currency and that has caused all kinds of economic turmoil.
+NEUT5|And in China and around the world, why does it matter?
+NEUT6|China is the second biggest economy in the world.
+NEUT7|And the biggest importer of almost every big commodity in the world.
+BEAR8|The economic problems in China are rippling around the globe.
+BEAR9|US exporters are having trouble.
+BEAR10|European exporters are suffering anyone who exports commodities.
+NEUT11|Countries like Canada and Australia.
+BEAR12|They're all struggling too.
+NEUT13|So what's going to happen next?
+NEUT14|Well, we're in the third quarter and the third quarter.
+BEAR15|Everyone was pretty much expecting economic growth to be weaker than expected in China.
+NEUT16|And that's tough because the Chinese government cares a lot about economic growth.
+BULL17|They say they're going to do 7% every quarter this year.
+BEAR18|Most people don't think they can do 7% in the third quarter with all the turmoil we've seen.
+NEUT19|So what are we going to see for the Chinese currency?
+BULL20|Could keep falling and that could help exporters, and that could boost growth.
+BEAR21|But other countries could lower their currencies to which would create a currency war.
+BULL22|The stock market is still unstable and Chinese government could continue to try to boost the economy in a bunch of different ways in areas like real estate and infrastructure.
+BEAR23|So because the Chinese economy is so big, it's really going to affect the rest of the world.
+NEUT24|So one thing we could see.
+NEUT25|Is it could affect the way the US Fed decides about interest rates?
+NEUT26|Everyone knows the Fed is supposed to raise interest rates by the end of the year.
+BEAR27|Aweek Chinese economy could change that, but we Chinese economy could also hurt Europe, which has been struggling for years now.
+NEUT28|Germany for example, the biggest and strongest economy in Europe is a huge exporter to China.
+BEAR29|They could suffer and anyone who produces commodities is on the edge of their seat waiting to see if China's economy picks up and they start to buy more oil and iron ore and copper and now would boost those economies.
+NEUT30|So what to watch in China?
+NEUT31|Everyone is looking at the People's Bank of China that China Central Bank and near the ones who have their hands on all the important levers in the economy.
+NEUT32|They can lower interest rates, which they've done already a few times.
+NEUT33|They can devalue the currency further.
+NEUT34|They can do a lot of things.
+NEUT35|The next four or five weeks are crucial for China.
+NEUT36|You can get the end of the quarter and then we're going to see how weak the economic growth is for the quarter.
+NEUT37|And you're going to see the impact of all the actions that the government is taken to rescue the stock market to boost the economy.
+BEAR38|"If they don't work, you can expect a lot more from Beijing."""

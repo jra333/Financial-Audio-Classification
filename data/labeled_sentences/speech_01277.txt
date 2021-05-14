@@ -1,0 +1,18 @@
+BEAR0|"""Singapore Asia Pacific markets were set to trade on a cautious note."
+BEAR1|Wednesday's futures pointed to near flat opens in Australia and Japan.
+BEAR2|SPI futures traded at 6863, a touch lower than the Australian benchmark, a SX200's last close at 6885.90 Nikkei futures in Osaka in Chicago traded at 29,630 and 29,680, slightly below the main indexes Monday close at 29,696.6.
+BEAR3|Three Wednesday session follows overnight losses on Wall Street, where U.S. stocks fell from record levels.
+BEAR4|US equities softened while European indices outperformed after being closed on Monday.
+BEAR5|News that half the European population will be able to be vaccinated by June was a shot in the arm for the markets.
+NEUT6|Analysts at ANZ Research said in a morning note.
+NEUT7|The World Bank International Monetary Fund Spring meeting is underway.
+NEUT8|Virtually the IMF revised up its forecast for the world economy.
+BULL9|On Tuesday, the organization said it expects growth at 6% in 2021, up from a January prediction of 5.5% and chief economist Gita Gopinath said that despite lingering uncertainties around the pandemic, a way out of this health and economic crisis is increasingly visible.
+NEUT10|Analysts at the Commonwealth Bank of Australia said in a Wednesday note that they do not expect the World Bank IMF meeting to be a major driver of financial markets.
+NEUT11|Financial markets are much calmer than this time last year, so there is no impetus for finance ministers, Treasury secretaries to get together with the hard hitting communicate to support confidence in the economic recovery or financial system they wrote in the currency market.
+BULL12|the US dollar last traded at 92.335 against a basket of its peers.
+BEAR13|The dollar index slipped from levels near 93.200 reached in the previous week.
+BEAR14|The Japanese yen changed hands at 109.77 per dollar, while the Australian dollar traded around.
+BEAR15|0.7661 dollars oil prices slipped Wednesday during Asian trading hours.
+BEAR16|US crude was down 0.35% at $59.12 a barrel in the previous session.
+BULL17|"Strong economic data from the US and China helped lift energy prices higher by more than 1%."""

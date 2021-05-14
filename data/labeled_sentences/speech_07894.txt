@@ -1,0 +1,15 @@
+BEAR0|"""Oil prices near December 2008 lows this week as traders saw no sign of an end to a persistent oversupply around the world."
+BEAR1|Global benchmark Brent crude and the US Marker West Texas Intermediate have tumbled since the meeting of OPEC ministers at the start of the month and both are now hovering around $37 a barrel.
+BEAR2|Discord within the group about which members should cut production to shore up the oil price, has led to a continuation.
+BEAR3|Of Opec's existing policy to keep on pumping all the production both outside the cartel has slowed dramatically amid low oil prices.
+BULL4|OPEC producers have increased output.
+BEAR5|The scrapping of the group's official ceiling this month took away any pretense of production constraint adding to the bearish sentiment in the market.
+BULL6|All the cheaper oil is a boon for consumer countries from the US to the UK and China.
+BEAR7|A prolonged slide is detrimental to producing nations.
+BULL8|For example, Venezuela, Nigeria, and even financially stronger Gulf economies such as Saudi Arabia.
+BEAR9|At the same time, the oil price collapse has battered the balance sheets of the world's biggest energy companies that have been forced to slash hundreds of billions of dollars in future investment and cut thousands of jobs.
+BEAR10|Energy stocks have been hit hard too by the oil slump.
+BEAR11|Highly Indebted US shale drillers and the banks that lend to them are also suffering with much of the junk bond energy sector currently in distress.
+BEAR12|Bankers in the US say they are cutting the borrowing limits of exploration and production companies by as much as 20% as the value of their reserves have fallen sharply.
+BEAR13|There is a concern, a lengthy period of cheap crude could trigger widespread defaults.
+BEAR14|"With crude inventories set to rise even further over the next year, as storage facilities on land reach tank tops, oil analysts are finding it difficult to be optimistic about the price."""

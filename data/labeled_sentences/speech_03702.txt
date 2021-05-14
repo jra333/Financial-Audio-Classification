@@ -1,0 +1,16 @@
+BEAR0|"""Warren Buffett's Berkshire Hardware Inc reported lower quarterly operating results amid the Corona virus Pandemic, reported Reuters."
+BEAR1|Third quarter operating profit fell 32% to $5.48 billion from $8.07 billion a year earlier.
+BEAR2|Revenue totaled $63 billion as the economy struggled amid the pandemic.
+NEUT3|Buffett's company bought back $9 billion of its stocks.
+NEUT4|Berkshire's total buybacks now stand at $15.7 billion for 2020, despite the buybacks.
+BEAR5|Berkshire ended the quarter with one $45.7 billion of cash and equivalents companies wholly owned businesses include railroads, utilities, an insurance, COVID-19, hurricanes, and low interest rates have hurt.
+BEAR6|Profit off insurance businesses insurance profit fell 58% to $802 million at GEICO.
+BULL7|Berk shares major investments in Apple went up more than 82% on a year over year basis to $30.137 billion.
+BULL8|Apple stock rose 27% in the quarter.
+BULL9|An investment in the stock meant gains of $24.8 billion for Berkshire.
+BULL10|Even as book shed took no major third quarter writedowns to report suggests that the pandemic could force additional writedowns results improved in Berkshires energy business is the profit at its real estate brokerage more than doubled as low interest rates drove more people to buy homes.
+NEUT11|It is rare to get information that is tailor made for you in this era of clutter.
+NEUT12|Moneycontrol, India's number One Financial destination, has launched Moneycontrol Pro, an ad free premium service that offers you subscribers curated markets data exclusive trading recommendations.
+BULL13|An actionable investment ideas which help you stay on top of your game in less than a year, Moneycontrol show has become India's fastest growing subscription service with more than 1.2 lack active subscribers and growing by the minute we are grateful to all our loyal users for making Moneycontrol Pro and undisputed leader in its category with several copper giant subscribing in large numbers for their employees.
+NEUT14|Subscribe today for a seamless uninterrupted.
+NEUT15|"Access to a gamut of business and financial information be approved with Moneycontrol Pro."""

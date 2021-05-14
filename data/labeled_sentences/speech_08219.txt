@@ -1,0 +1,28 @@
+NEUT0|"""Why buy Tesla when you could wait and grab it?"
+BEAR1|An absolute bargain is still overpriced and I think it's got a long way yet to fall.
+BEAR2|A few weeks ago I made a video and I said this to Tesla clearly is overvalued and it's an incredibly risky investment and this week we saw Tesla stock fall from a high in January of over 900 to below 600 and on Friday even dropped as low as 550.
+NEUT3|So watch on to understand why this happened and why it might fall further.
+BEAR4|There's not only Tesla, the stock market at the moment is really overpriced.
+BEAR5|Particularly popular tech stocks which have been driven by so much by and say what emotion around them that their valuations have become so inflated and all it needs is this trigger to set them off in a downward projection.
+NEUT6|The market is like a souffle in the oven when it's hot, it rises and rises, but as soon as this light indication of a negative influence and in the Souffles case this is a cold draft of air coming into the oven, it caused it to sink and the more that it has risen on nothing but air, the further it has to sink.
+BEAR7|So is this negative influence that has caused the sudden drops so recently put, there's this new expectation that inflation will rise.
+BEAR8|This would then lead to interest rates rising, which in turn leads to lower earnings and less attractive stocks.
+BEAR9|So this rising inflation is expected.
+NEUT10|Firstly, because commodity prices are rising and if commodities go up, the stuff that they make becomes more expensive.
+NEUT11|Secondly, because of fiscal stimulus, so with nearly $2 trillion being pumped into the economy, there's just going to be more money to spend.
+NEUT12|And Lastly, there's this pent up demand.
+NEUT13|There's been quite a lot of nervousness and a lot of saving throughout lockdowns, and so there's this new expectation of the economy recovering, so there will be more spending which will lead to inflation, so this causes interest rates to rise because the central banks lights keep inflation around 2% if it gets too high, they need to make saving more attractive and spending less so, and so they raise interest rates to incentivize this saving of spending to keep that inflation steady.
+BEAR14|Lastly, this hike in interest rates would mean that most companies are in less money.
+NEUT15|You have to take away that interest from their profits to get their net profit, which then leads to lower valuations.
+BEAR16|This alone isn't going to cause stocks like Tesla to plumber.
+BEAR17|It's just going to set off this momentum of selling.
+BEAR18|And when you've got really pumped up valuations largely built on emotion when the selling starts, everyone panics and the price will drop.
+BEAR19|Now I don't think this is necessarily bad for all you Tesla fans out there.
+NEUT20|Bear in mind what Warren Buffett has to say about actually wanting a stock to go down in price anytime started out.
+NEUT21|As far as I'm concerned.
+NEUT22|I like it because I'm a net buyer of stocks.
+NEUT23|I've been buying stocks ever since I was 11 years old, so when stocks go down, it's good news.
+NEUT24|Just like when hamburgers get out.
+NEUT25|It's good news or Coca Cola was not as good news in terms of anything I buy.
+BULL26|Tesla is clearly fantastic company with some serious long term prospects.
+BEAR27|"So if you're like me, you'll be hoping for its price to drop so you can grab more stock at a low price."""

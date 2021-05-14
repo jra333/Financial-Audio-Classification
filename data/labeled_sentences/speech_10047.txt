@@ -1,0 +1,35 @@
+NEUT0|"""In order to make our job easier while analyzing a stock, I have created this stock analysis Excel sheet with the help of this Excel sheet."
+NEUT1|You can do complete fundamental analysis of a stock, for example with this two minute test.
+NEUT2|You can shortlist good stocks from bad stocks.
+NEUT3|You can do financial statement analysis as well like balance sheet analysis, income statement analysis and cash flow analysis.
+NEUT4|You can also value stocks with the help of this spreadsheet and decide whether to buy, sell or hold stocks.
+NEUT5|In this video, I'll explain off to use this Excel sheet in my later videos I'll explain.
+NEUT6|Each of these worksheets separately.
+NEUT7|You can download this Excel sheet for free.
+NEUT8|I've given the link in the description of below, so feel free to download now once you have downloaded this spreadsheet, go to instructions.
+NEUT9|You can use this spreadsheet by following these four simple steps.
+NEUT10|Now this spreadsheet only works on Screener Dot in.
+NEUT11|The first step is to create a free account.
+NEUT12|Click on this link into your email ID and password, then click on register.
+NEUT13|This is free Step 2.
+NEUT14|After creating your account while you are logged in Screener website you can see here.
+NEUT15|I'm logged in as investor diary Vishnu.
+NEUT16|So while you are logged in the website, visit this page.
+NEUT17|Now click on this link.
+NEUT18|Click on choose file.
+NEUT19|Choose the file that you have downloaded after choosing that file, click on upload step three.
+NEUT20|Now you can choose any company of your choice.
+NEUT21|Let's look at Asian paints.
+NEUT22|Scroll down and look at quarterly numbers.
+NEUT23|Check whether you are downloading standalone or consolidated numbers.
+NEUT24|Always make sure that you download consolidated figures.
+NEUT25|Step four.
+NEUT26|Scroll back to the top of the page and you will see a button export to Excel on the right side, click on the button and enter save.
+NEUT27|The company's financial data will be exported in an Excel file in the exact format as investor diary, stock analysis, Excel.
+NEUT28|The Excel you export for any company on Screener Dot in will be downloaded in this very format.
+NEUT29|This Excel sheet can be used to analyze any stock, but it won't work for banking and financial service companies.
+NEUT30|If you have any doubts regarding this Excel sheet, please let me know in the comments section.
+NEUT31|I'll be more than happy to help you or you can Mail me at investor diary Dot.
+NEUT32|National at the rategmail.com.
+NEUT33|Thank you for watching this video.
+NEUT34|"If you want to know how to do fundamental analysis of a stock then please subscribe my channel because in my later videos I'll explain how to do fundamental analysis of a stock using this Excel spreadsheet."""

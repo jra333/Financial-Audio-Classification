@@ -1,0 +1,23 @@
+NEUT0|"""It's coming to my terminal."
+NEUT1|Here it is time for our single best sharp that headline story of the day.
+NEUT2|I think, of course is global dovish banks.
+BEAR3|Falling yields.
+BEAR4|We had the German tenure of course crossing 0% all the way back down to the lows of 2016.
+NEUT5|Take a look here in white we have the Japan tenure as well following back down to the low since 2016 and then the 10 year on Jay Powell's comments dipping below at 2:50 an you know Greg talked to me about this because we were speaking to some of our interest rate strategists and they were saying.
+NEUT6|A 240 might not be far off.
+BEAR7|Do we see yields falling or rising from here?
+NEUT8|And how does that fold into your view on central banks?
+BEAR9|Well, I think there's a possibility in the near term to see some further drawdown in yields, especially in the US if we look globally.
+BEAR10|We're seeing weakness globally.
+BEAR11|We're seeing some slowdown in momentum.
+BEAR12|We're seeing the European economy showing some pretty weak data.
+BEAR13|The latest PMI data in Germany was quite weak.
+BEAR14|We're seeing just a general gradual slowdown in global economic momentum.
+NEUT15|Oxford economics sees.
+BULL16|Global growth around 2.6% this year.
+BEAR17|This is down from around 3% about two years ago, so we've seen that moderation in momentum.
+NEUT18|I think.
+BULL19|Still the potential is that we see some movement back up in the medium term in yields, but that will relatively independent on how inflation evolves globally and how growth evolves globally.
+BULL20|We are seeing some green shoots in Europe, which are interesting.
+BEAR21|But overall if you look at the longer term picture, we're seeing moderating momentum and inflation likely to miss most targets around the world.
+BULL22|"So that is not really a sign that yields will move back up in a sustainable manner."""

@@ -1,0 +1,36 @@
+NEUT0|"""This is the annual meeting of."
+NEUT1|Berkshire Hathaway at.
+NEUT2|It doesn't look like an annual meeting.
+NEUT3|It doesn't feel exactly like an annual meeting and.
+NEUT4|It particularly doesn't feel like an annual meeting because.
+NEUT5|My partner is 60 years.
+NEUT6|Charlie Munger is not sitting up here and I think most of the people who come to our meeting really come to.
+NEUT7|Listen to Charlie, but I want to assure you Charlie at 96.
+BULL8|Is in fine shape.
+NEUT9|He dies, his mind is who got his errors.
+NEUT10|Voice is as strong as ever, but it just didn't seem like a good idea to have him make the trip domhoff for this.
+NEUT11|Meeting CC is really taking to this new life, he's.
+NEUT12|He's added zoom to his repertoire so he has meetings everyday with various people and he's just skip right by me technologically but.
+NEUT13|That really isn't such a huge achievement.
+NEUT14|It's more like, you know, kind of like stepping over a peanut or something.
+BULL15|But nevertheless I want you to share it, and Charlie is in fine shape and he'll be back next year.
+NEUT16|And we'll we'll try to have everything in the show that we normally have next year.
+NEUT17|G Jane.
+NEUT18|Also, who is the vice Chairman in charge of insurance, is safely in New York an.
+NEUT19|Again, it just didn't not seem worthwhile for him to travel to Omaha for this meeting.
+NEUT20|But on my left we do have Greg Abel and Greg.
+NEUT21|Is the Vice Chairman in charge of all operations?
+NEUT22|Except insurance so Greg.
+NEUT23|Greg Manage is a business that.
+NEUT24|Has more than 150 billion in revenues and.
+NEUT25|Crosses across dozens of industries and has more than 300,000.
+NEUT26|Employees.
+NEUT27|And he's been at that job a couple of years, and frankly, I don't know what I'd be doing.
+NEUT28|Today, if I didn't have a geetan Greg.
+NEUT29|Handling the duties that.
+NEUT30|I was doing only about 1/4 as well a couple of years ago, so I owe a lot of thanks to Greg and you'll get exposed to him.
+NEUT31|More of this meeting goes along hey investors.
+NEUT32|Sack Guzman?
+NEUT33|Here are you interested in learning more about the markets and getting the latest financial news?
+NEUT34|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT35|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

@@ -1,0 +1,40 @@
+BEAR0|"""Last week, the US stock market was trading sideways."
+BULL1|Tech stocks moved higher, with the NASDAQ gaining point 7%, but the broader market index S&P 500 slipped into the red by .1% S and P500 futures showed almost a zero upside movement.
+BEAR2|The sluggish market activity after first quarter rally, as well as the latest data on unemployment in the US, indicate that the upward movement continues, but at a much slower pace.
+BEAR3|After a rapid rise in the previous week, Global oil benchmarks edged lower on Monday, thus brand declined by .4% while WTI last .5% oil is losing ground amid worries over a new coronavirus wave in Europe.
+BEAR4|This creates uncertainty in the market.
+NEUT5|Today.
+NEUT6|Brent crude is trading at $64.20 per barrel.
+BULL7|It is expected to stay in the range of 62 to 66 U.S. dollars.
+BULL8|WTI reached the level of $61.10 per barrel.
+NEUT9|And is likely to stay in the channel between 58 and 63 U.S. dollars.
+BEAR10|Falling oil prices put pressure on the Russian assets, including the ruble.
+BEAR11|What's more, rising tensions between Russia and the US make the situation even more difficult for the ruble.
+NEUT12|For instance, Russian Foreign Minister Sergey Lavrov said that Russia was planning to gradually move away from the US dollar and Western controlled international payment systems.
+BULL13|Such statements weigh on the ruble and supported the greenback.
+BEAR14|In the morning trade, the tolerable pair was trading at 74.70.
+NEUT15|The expected trading range for the pair is found at 73.50 and 75.50.
+BEAR16|Likewise, the ruble is weakening against the European currency.
+BULL17|The euro is strengthening following the rise in the US dollar.
+BULL18|Today, the euro ruble pair has reached the mark of 88.80.
+BULL19|The range of 88 to 89.90 will remain relevant in the near term global trading floors.
+BEAR20|Also show mixed dynamics in China.
+BULL21|The stock market is trading firmly higher with its major indices gaining point 7%.
+BEAR22|Meanwhile, in Japan, markets slipped by 1.8%.
+BEAR23|There is a lot of turbulence in Europe at this time.
+BEAR24|Region is on the verge of facing another wave of coronavirus.
+NEUT25|The pace of vaccination and the spread of new coronavirus strains will determine further development of the situation.
+BULL26|Recently France and Italy have been showing the highest infection rates in Europe with 20,000 new cases reported daily.
+NEUT27|The same is true about Turkey and Poland.
+NEUT28|Russia however is not in the list as it reports only 9000 cases per day.
+BEAR29|Meanwhile, the infection rate is declining in the UK, just like in the US, where over 30% of the population has already been vaccinated.
+BEAR30|However, the employment rate in the US.
+BEAR31|Has suddenly decreased in recent weeks, while the number of unemployed reached four point 1,000,000 people.
+BEAR32|This indicates that the effectiveness of stimulus measures introduced by the US government and the Fed is low, while the risks of inflation and asset bubbles are still rising.
+NEUT33|Last week, Fitch Rating Agency released our forecast according to which the Fed will have to raise interest rates as soon as the beginning of 2022.
+NEUT34|The market is anticipating important use that is due to be published this week.
+NEUT35|On Wednesday, the US will release the data on durable goods orders on Friday.
+NEUT36|The report and inflation and household income and spending is expected.
+BULL37|This may add optimism to the market and set the upside direction.
+NEUT38|That's all for now.
+BULL39|"Thank you for watching and stay tuned."""

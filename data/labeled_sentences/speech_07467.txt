@@ -1,0 +1,13 @@
+NEUT0|"""One of the top Holdings in our fund is Disney."
+BULL1|We've been adding to the position for a variety of reasons.
+BEAR2|We think it's sold off more than probably should have in response to cord cutting in the media sector.
+BULL3|We also like Disney because there are a number of positive catalysts that are coming up for the company in the next few months.
+NEUT4|So to add exposure to Disney, but take less risk in the position.
+BULL5|What we've done is we've added exposure by selling puts through to January of next year that will enable us to buy Disney if it falls below $95.00.
+NEUT6|So the strike price on that put.
+NEUT7|Is 95 so someone's paid us for the opportunity to buy that stock in 95?
+NEUT8|We then take that premium and use that premium to buy calls on Disney at 1:05, so will participate in the upside in Disney once it breaks through 105 and then to make this whole trade completely cost less.
+NEUT9|What we've done is sold calls at 1:15.
+BULL10|So we'll enjoy upside through to 1:15, so we like that way of adding exposure to Disney.
+BULL11|It allows us to participate in the upside that we believe Disney can provide while at the same time taking away some of the downside.
+BULL12|"So we're taking risk off the table and adding to our position in Disney."""

@@ -1,0 +1,15 @@
+BEAR0|"""Facebook has lost a whopping 42% of its value over the last few months."
+BEAR1|From those record highs in the summer criticisms over management, a loss in staff morale and a failure of the company to address what society at large are worried about.
+NEUT2|And that's how the social media channel has been used when dealing with children.
+BEAR3|Reports are now coming through that back in 2014 of Facebook engineer warned the company that users apparently based in Russia were taking large amounts of data from the site on a daily basis.
+BEAR4|Lawmakers from a number of countries are now wrangling over whether Facebook poses a threat to democracy.
+NEUT5|Let's take a look at the share price.
+NEUT6|It trades all sessions on the IG platform, means it trades from 9:00 AM in the morning, right the way through till one the next morning.
+NEUT7|What I've done here is, I've put the daily chart and I've overlaid a Bollinger band and you can see in the last few days it's come back in after having been outside the bottom of the Bollinger band.
+NEUT8|When it exits the Bollinger band quite often you see a trade that takes it back in the opposite direction and that's what's been happening in the last few days.
+BULL9|This has taken the momentum.
+BEAR10|Back up a little bit on from the lows, but you can see when you get a trend like this that the long term prospects really are not good.
+NEUT11|Looking back in terms of trade from where we are, we're currently trading one 3605 the recent lows at one 2724.
+NEUT12|You didn't go back all the way down to the support line that you got here back from the lows that we saw back in December 2016 of something like around about $114.00 a share so.
+BEAR13|There's still some way to go if you look at that as the line of support, but at the moment at least the stock is up on today's session, but you can see that the negative news continues to swirl around the company.
+NEUT14|"For more videos, join us on Twitter at IG TV and subscribe to our YouTube channel."""

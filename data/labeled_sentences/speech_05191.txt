@@ -1,0 +1,29 @@
+BULL0|"""Economists are forecasting a strong jobs report this Friday."
+BULL1|Real time data suggests it may be even stronger than they are anticipating.
+NEUT2|Steve Liesman joins us with the latest Rhodeback barometer and Steve.
+NEUT3|What are you hearing?
+NEUT4|Tell us a little bit of good news here.
+NEUT5|Well, yeah, how about that everyone on Wall Street always looking for seven figures?
+NEUT6|And that's true for some forecasters when it comes to the March Jobs report.
+BEAR7|Buoyed by surging high frequency data, some economists think this could be a million jobs.
+BULL8|March data from home based tracking employment at 60,000 businesses and a million hourly employees showed work worker hours worked, rising nearly 9% compared to January.
+BULL9|Number of employees on staff rising by nearly 7%.
+BULL10|Meanwhile, the number of business opened Rose by just about.
+BULL11|2% Raise sends the vice president data for Homebase tells me we're seeing job creation and economic activity significantly higher than you would expect during this time of year.
+BULL12|This is not a big hiring time of year now, while the high frequency data is done, a good job pointing the way to upside and downside.
+BEAR13|Surprise, it's been tougher.
+BEAR14|Here's to pinpoint an exact number, but it's a big part of the reason that several economists predict a million jobs are more in the Friday report compared to the average estimate of just 600 and 75,000 Jim O'Sullivan.
+NEUT15|The TV Securities told me yesterday.
+NEUT16|I wouldn't be surprised if it was above a million.
+BULL17|Either way, we're at the start of some incredibly strong jobs data.
+BULL18|We're seeing job growth in the places you would expect it if it was a reopening story.
+NEUT19|Restaurants and bars hospitality entertainment are leading the way home repair.
+BULL20|It's been a stalwart of the pandemic, but also seems to be picking up of late.
+NEUT21|Other data supporting the call, the Uwg measure of shift work.
+BULL22|They had its best month it at its best month since September, also noted strong manufacturing job growth.
+NEUT23|Becky tomorrow will get ADP.
+NEUT24|See if it confirms.
+BEAR25|Jobless claims on Friday, which is another supporting factor here and then.
+NEUT26|I think we're going to be in the Office on Good Friday, giving you the jobs number.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

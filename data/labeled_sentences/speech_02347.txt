@@ -1,0 +1,27 @@
+NEUT0|"""Is Walt Disney stock a buy?"
+NEUT1|Hello and welcome to stocks.
+NEUT2|To invest a journey to wealth by investing in high growth dividend stocks.
+BULL3|It's an honor to have you.
+NEUT4|In today's episode, I want to share with you why Disney Stock is a buy number one.
+NEUT5|The Walt Disney Company ticker DS Disney is an American multinational media and entertainment conglomerate headquartered in Burbank, CA.
+NEUT6|Disney was originally founded by brothers Walt and Roy Disney.
+BULL7|The company has created and acquired some of the world's most iconic franchises, propelling it to over 60 billion in annual revenue.
+BULL8|As of 2019, this success has allowed Disney to be selected as a component of the Dow Jones Industrial Average.
+BULL9|Since 1991, the company has seen consistent revenue growth.
+BULL10|Over the last five years, the revenue has increased from 48 billion to $69 billion, which gives it a 7% annual compound annual growth rate.
+BULL11|In the same time, the profit is grown from 22 to $27 billion.
+NEUT12|This makes the five year average compound annual growth rate of profits to be 4%.
+BEAR13|This is less than the growth rate of revenue, but that can be blamed by the large investment in Disney Plus, which is not yet been profitable.
+BULL14|In 2019, the Disney balance sheet shows 193 billion in total assets and 91 billion in liabilities, which is a healthy level, especially considering all the major acquisitions the company recently had.
+NEUT15|Disney's Dividend was paid on a semi annual basis.
+BEAR16|The dividend was temporarily suspended in 2020 to preserve cash due to the pandemic.
+BULL17|The company will begin paying and growing their dividend again in the near future.
+NEUT18|Currently, there is a 0.67% dividend yield and an 8.88% five year growth rate and a payout ratio that hovers around 30%.
+BULL19|The Disney dividend should grow aggressively for the decades to come.
+BULL20|If the company growth continues at the current rate, the fundamentals of Disney are strong, and if you can get the stock at a fair price, this will be a great addition to your long term buy and hold portfolio.
+NEUT21|I currently owned one share of Disney, but plan on adding a lot more.
+NEUT22|Currently Disney trades at around $128.00 per share.
+NEUT23|If you enjoyed this video, please consider subscribing and hitting the like button to support the channel.
+NEUT24|Thank you for watching.
+NEUT25|This is stocks to invest.
+NEUT26|"See you next time."""

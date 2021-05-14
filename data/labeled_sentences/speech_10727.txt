@@ -1,0 +1,19 @@
+BEAR0|"""Fears of Kodak are soaring and this session on news."
+BULL1|The company is making a big pivot to produce ingredients for generic drugs.
+NEUT2|Will Marcellus is here to walk us through those specific.
+BULL3|Certainly a big pop in the session.
+NEUT4|That's right, Kodak.
+BULL5|So known for helping us create that Kodak moment, that's picture Perfect, has made a dramatic shift.
+BULL6|They have now secured a $765 million loan, reportedly to make ingredients for generic drugs.
+NEUT7|Now this is part of a government loan as a part of the Defense Production Act.
+NEUT8|Now it's a first of its kind that Kodak is using this loan to make generic drugs.
+NEUT9|This act was first used in, forced to get some companies to produce ventilators.
+NEUT10|Because there was a big need for that, but Kodak is using that loan to make drugs.
+NEUT11|Now this is a remarkable shift for the company because the at one point were the Apple or the Google of our times.
+NEUT12|They had hundreds of thousands of employees around the world, but they did file for bankruptcy in 2012.
+NEUT13|So the company is trying to shift and change their trajectory now.
+BULL14|They're hoping that eventually they'll be able to use the firm revenue from the pharmaceutical ingredients they're making that will make up 30 to 40% of their business.
+NEUT15|Overtime.
+BULL16|A huge lot of huge boost from the government with the Defense Production Act.
+NEUT17|Interesting to see Kodak making that move.
+NEUT18|"We'll see if how it all turns out."""

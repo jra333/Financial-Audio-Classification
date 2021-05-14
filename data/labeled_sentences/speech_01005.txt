@@ -1,0 +1,19 @@
+BULL0|"""A reversal of market leadership."
+BULL1|Friday tech stocks like Facebook and Amazon and energy stocks drove the NASDAQ higher as Treasury yields took a break from their recent quick climb, but more Acadian asset management scan came in, says investors should avoid big tech stocks for now.
+NEUT2|Maybe stay away from the momentum textbox.
+NEUT3|All those tech stocks that were in the middle of you know we used to call them fangs and as more and more companies came in we changed the acronyms.
+BEAR4|I can't even keep up with them.
+NEUT5|I mean I, I think right now you want to be away from momentum investing 'cause the momentum is clearly been out of growth and into value.
+BEAR6|But on Friday, growth stocks outperform financials at other value stocks that are seen as benefiting more from the reopening of the economy.
+BEAR7|Investors took profit on banks after the Federal Reserve said it would not extend a temporary pandemic regulatory break that was due to expire this month.
+BULL8|The NASDAQ gained 3/4 percent, the S&P 500.
+BEAR9|Finished nearly flat, but the down lossed 7/10 percent for the week.
+BULL10|The three main indexes loss ground Facebook shares rose 4% on Friday.
+BULL11|CEO Mark Zuckerberg said the social network would be in what he called a stronger position due to Apple's imminent privacy policy.
+NEUT12|Changes on ad sales.
+BULL13|FedEx was the SNP's top Gainer, shooting up nearly 6%.
+BULL14|The delivery company's quarterly profit jumped more than expected.
+BULL15|It was able to charge higher prices amid surging volume for ecommerce deliveries during the holiday season.
+BEAR16|But Nike shares dropped 4%.
+BEAR17|The athletic apparel makers sales rose but missed Wall Street's targets due to shipping issues.
+BEAR18|"Anna sales slump at its stores."""

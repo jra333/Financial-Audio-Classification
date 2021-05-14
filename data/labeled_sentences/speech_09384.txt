@@ -1,0 +1,11 @@
+NEUT0|"""Jamal Polly Hoppity is next pack target is drumroll please."
+NEUT1|Healthcare startup Clover Health IPO C merging with Clover for total enterprise value of what they're saying is going to be $3.7 billion.
+NEUT2|Social Capital founder and CEO Chamath Poly Apatia is going to be joining us at 8:00 AM Eastern Time to discuss this news and so much more.
+BULL3|You're watching that stock up about 9% close to 10% this morning.
+NEUT4|Clover health.
+NEUT5|Of course.
+NEUT6|Healthcare company.
+NEUT7|That's spent a lot of time trying to go at the big big healthcare insurers, and we'll talk about what it means.
+BEAR8|And this frenzy around specs in the next hour.
+NEUT9|Shepard Smith here.
+NEUT10|"Thanks for watching CNBC on YouTube."""

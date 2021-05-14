@@ -1,0 +1,42 @@
+NEUT0|"""Hi, my name is Alexander Cabot and this is the stock table."
+BULL1|A mass media company that looks to have great growth potential is what I'm bullish for Disney.
+NEUT2|As you probably have heard Disney well under huge amount of 21st Century Fox before the end of 2018 most likely even before the end of quarter three of 2018.
+NEUT3|If everything goes well.
+NEUT4|These assets would include Fox Movie Studio along with the distribution rights for the First Star Wars movie, a New Hope.
+NEUT5|So notable other movie series will include Avatar, which has a sequel in Production, Dead Pool, Fantastic for Ice Age, Planet of The Apes in X-Men.
+NEUT6|Disney will also acquire hit television shows including This Is Us Modern Family, American Horror Story and Homeland.
+NEUT7|They will own National Geographic and FX channels as well.
+NEUT8|Now these next assets will be the game changers they will be taking.
+NEUT9|Fox is 30% of Hulu which will give Disney a majority controlling interest in the streaming company because they already own 30%.
+NEUT10|Along with that, they will include 22 regional sports networks in 39% of Sky Media Company.
+NEUT11|Fox is trying to buy up all of Sky, but if they don't end up getting that done before the acquisition goes through, Disney will still own a large interest.
+BULL12|They also have agreed to purchase star India as a part of this deal.
+NEUT13|This is a huge important part and the reason is all of these products can be put into a streaming service or two.
+NEUT14|Disney is already announced.
+NEUT15|They will be pulling their content from Netflix and will be starting a streaming service of their own.
+NEUT16|They also are going to be launching ESPN Plus sometime this year.
+NEUT17|Disney could launch multiple streaming services so you would not have to pay a fee to buy material that you don't want.
+NEUT18|For example, if you just want sports, it would be useless to pay extra for the movie service.
+NEUT19|However, it has been speculated that they will most likely have this setup so you can buy the entire package.
+NEUT20|There's not been any talk about this deal being blocked like AT&T, and Time Warner was.
+BULL21|I think with this deal goes through, Disney could rival Netflix, mainly because their streaming service will offer sports plus great content.
+NEUT22|I think streaming is the future Netflix at 8.4 million subscribers in quarter four of 2017, which tells us that streaming is still something that many people don't use.
+NEUT23|Which shows that there are a lot of money in that already huge area.
+NEUT24|Streaming is the future and Disney is paying 52 billion for a huge foothold in the industry.
+NEUT25|By Disney, the stock is currently in $104.00.
+NEUT26|You share with the price to earnings ratio of 18.43, which is almost perfect.
+BEAR27|Some analysts worry that this bet on streaming who caused their broadcasting to take a big hint.
+NEUT28|But I think the plan is to get into this industry now.
+NEUT29|So when broadcasting shows and sports on cable television ends, which it is already moving in that direction, business will already be ahead of the game.
+BULL30|They also have a dividend yield of 1.5%, which is pretty good.
+BULL31|They're known for increasing their dividend year after year by a higher margin than most.
+BEAR32|This stock dropped quite a significant bit between Friday and today.
+NEUT33|The stock price went from 110 on Thursday to 104 today.
+BEAR34|This is because the stock market is currently in a sell off.
+BEAR35|Because of the raising interest rates now, the Dow Jones industrial average and the S&P 500 have both lost almost 7% since last Thursday.
+NEUT36|Now don't get too worried.
+NEUT37|Be calm and be smart.
+BULL38|We are going to wait for this market to calm down a little bit because there could be a great buying opportunity to get stocks at an undervalued price.
+NEUT39|Make sure to pay attention to my Twitter and remember by now.
+NEUT40|Bye for the future.
+BULL41|"Have a great day."""

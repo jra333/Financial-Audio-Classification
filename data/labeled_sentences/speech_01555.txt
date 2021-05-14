@@ -1,0 +1,36 @@
+BULL0|"""Welcome back everybody."
+NEUT1|Is time for the executive edge.
+NEUT2|We're going to start with a piece in today's Wall Street Journal highlighting the flight of big earners to low tax states.
+NEUT3|It cites the $10,000 cap on state and local taxes and the new federal tax law.
+BEAR4|Just yesterday, New York Governor Andrew Cuomo blamed a $2.3 billion state shortfall on the departure of high earners from the state.
+BULL5|New census data showed that Florida had the highest mexus domestic influx in population last year and that New York and Illinois had the highest population outflow.
+NEUT6|It just goes to the unintended consequences of when you change.
+NEUT7|Tax structure.
+NEUT8|Not that this was unintended from the federal government, but you need to think through everything that happens on these issues and it does put a lot back on the plates.
+NEUT9|I think of the blue states that are really being affected.
+NEUT10|New York, Connecticut, New Jersey, Illinois of what they're going to do about their local taxes.
+NEUT11|Without a doubt.
+NEUT12|Yeah well.
+NEUT13|It obviously was also a prod for a certain group of people.
+NEUT14|That was saying, you know, it really did tip the scales in terms of risk reward of where to live right, right?
+NEUT15|OK, if you are a road warrior, even if you're just travel occasionally, you gotta listen up to this OK business Travelers Chicago's.
+NEUT16|O'Hare Airport has now officially unseated Atlanta.
+BULL17|The Super Bowl just happened as America's busiest airport Atlanta held that distinction for the last four years, O'Hara handled just over 900,000 flights last year, overtaking Atlanta thanks to route expansions by American and United.
+NEUT18|Rounding out the top five airports, Los Angeles, LAX, Dallas, Fort Worth and Denver.
+NEUT19|There are the big hubs.
+NEUT20|All the big hubs for the major airlines I've never been.
+NEUT21|Except for the one part of O'Hare in home alone.
+NEUT22|Which I have very fond memories of every time I go.
+NEUT23|I don't really love it here because it's snowing.
+NEUT24|It's delayed.
+NEUT25|It's LAX is not far from downtown.
+NEUT26|Clean.
+NEUT27|It's got giant.
+NEUT28|It's got that giant.
+NEUT29|Dinosaurs, yeah that's true.
+NEUT30|It's true, different things.
+NEUT31|At least it's like an airport.
+NEUT32|They put some money into some of the ones we use right here.
+NEUT33|Denver, I'm into Denver, but there's that long like the newest major airport in the country, you know, and you could take those like the escalator so far.
+NEUT34|Subways, right, would you call that?
+NEUT35|"We call the escalator that people move here?"""

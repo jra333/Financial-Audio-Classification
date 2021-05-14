@@ -1,0 +1,14 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xm.com."
+NEUT1|Today will be looking at USD JPY on the daily chart, so zooming in we can see that.
+BEAR2|Dollar Yen buyers seemed to have a challenging resistance region of 107.49 to 107.82 surpass ahead of the restrictive 108.42 level, which is the 50% Fibonacci retracement of the down leg from 112.39 to 104.45.
+BEAR3|Although the price action is skewed to the downside, it remains between the 50 and 100 day Smas The short term oscillators and the flat tenkan Sen suggest that directional momentum has evaporated.
+BEAR4|The Mac D in the RSI are currently flat around their neutral marks.
+BEAR5|If the resistance region of 107.49, two 107.80 holds a drop could be interrupted at the support area of 106.88 to 106.77, which includes the 50 day SMAD presently at the upper boundary of the McLeod.
+BEAR6|Through the cloud, the 23.6% febbo of 106.33 could apply some pressure breaching lower.
+BEAR7|The pair could rest at the 105.73 swing low before eyes turned to the multi year low of 104.45 to the upside.
+BULL8|If the Bulls managed to push above the 100 day smam, the price could rally to retest the 50% fib of 108.42.
+BULL9|Climbing higher the 109 handle, which is nearby the 200 day SMAD.
+BEAR10|Could challenge the buyers ahead of the swing peak around the 61.8% Fibo Nachi of 109.35.
+BEAR11|Overall, the short term bias is looking neutral to bearish a break above 108.42 would confirm a neutral bias while a drop under 106.33 could revive the bigger negative picture.
+NEUT12|That's it from me.
+BULL13|"Have a great trading day."""

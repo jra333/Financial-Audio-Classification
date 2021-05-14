@@ -1,0 +1,40 @@
+NEUT0|"""Welcome to Amazon."
+NEUT1|Welcome to my area.
+NEUT2|My name is Dennis and I'm pet area manager here and grab and MC 3 S Germany near Munich.
+NEUT3|Welcome to Amazon.
+NEUT4|I'm yonassan.
+NEUT5|I am an area manager for customer returns and vendor returns in Amazon's distribution center located in the South of Germany.
+NEUT6|Hi, welcome to Amazon.
+NEUT7|My name is Mark Bagley on the inbound area manager here at Peterborough.
+NEUT8|Hi, I'm Adam Wheeler and I'm an area manager, Amazon and basically Amazon site in Doncaster, South Yorkshire.
+NEUT9|Hi, my name is Angel.
+NEUT10|I'm an outbound area manager and or Lyon France.
+NEUT11|I'm responsible for the performance, productivity, quality and safety of my partner.
+NEUT12|While I enjoy Bomoseen is at customer obsession.
+NEUT13|My decisions have a real and direct impact on our customers might create the shift band based on customer demand.
+BULL14|And actually get to see the customer orders fulfilled.
+NEUT15|What's important, Amazon is being able to put yourself in the place of the customer, so whenever we have a decision to make here, all you have to do is ask yourself.
+NEUT16|Is this something I would want to receive if I were a customer?
+NEUT17|I've been working in Amazon now for just under a year and the best thing for me is the people.
+NEUT18|What I really like about my team is that it's an international team.
+BULL19|It's a really hands on team and it's just a pleasure for me as an area manager to work together with those people.
+NEUT20|Everybody brings something different to the table.
+NEUT21|I don't have one favorite thing like the people and the challenge we're always looking for better, more productive ways to work.
+BULL22|One of the success stories that I have about customer obsession is when we received an unexpected spike in orders.
+NEUT23|I made the decision to order extra vehicles to ensure that all our parcels got to our customers on time.
+NEUT24|No problem.
+NEUT25|Come back to me then.
+BULL26|I'm sure we can accommodate.
+BULL27|That's a great feeling and a great experience to enjoy.
+NEUT28|I've never been bored at Amazon.
+NEUT29|Never, ever.
+NEUT30|No two days are the same.
+BULL31|And every day feels like it's day one in the two years I've been at Amazon, growth is strong.
+NEUT32|Three sites have opened in the UK, and I myself started in a new site here in Doncaster.
+NEUT33|We've gone from being a sortable site, which is DVD's and books to a non sortable site which is TV's and microwaves and you will have to work hard, but you will have even more fun.
+NEUT34|And when I started working here we actually started theme days where you dress up according to a certain scene.
+NEUT35|You start seeing some pretty crazy people who like to take it to the limit.
+NEUT36|Amazon's motto is.
+NEUT37|Work hard, have fun, make history if you like working with great people and you love a challenge, what are you waiting for?
+NEUT38|Why don't you come and experience your own?
+NEUT39|"First, they want to Amazon."""

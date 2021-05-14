@@ -1,0 +1,9 @@
+NEUT0|"""No need to break a sweat."
+NEUT1|Stay seated.
+NEUT2|Here's today's trader tip.
+NEUT3|This is Ryan Gorman, market strategist with Blue line futures at the Chicago Board of Trade here with your trader tip of the day, one of the biggest issues I hear from different traders talking about their portfolios is the overall lack of diversity that they do have inside those portfolios.
+NEUT4|A lot of these portfolios are filled with the simple Amazon Apple, Netflix, the different big tech stocks that have been going up and up and up over the past year.
+NEUT5|Once the market does correct a little bit in, those markets tend to turn down a little bit.
+NEUT6|You're going to want to have a very diversified portfolio, whether that be the physical, whether you're trading in futures contracts, something to keep your portfolio a little bit balanced, futures contracts are great way to balance out your portfolio, as they sometimes tend to trend opposite of the stock market, and you can just get some overall diversification out of these markets.
+NEUT7|Again, this is Ryan Gorman, market strategist with Blue line futures at the Chicago Board of Trade here with your trader tip of the day birthday M. Check us out on social media.
+NEUT8|"We're on Facebook, YouTube and Twitter and go to businessbirthdayim.com for where to see our show on TV."""

@@ -1,0 +1,24 @@
+NEUT0|"""I've rules I'm Andy cross, chief investment Officer, here at The Motley Fool."
+NEUT1|As part of our ask of full question, Jeff posted to Facebook the lifelong question when to sell.
+NEUT2|I'm great at timing buying but waffle about when to take profits or cut losses.
+NEUT3|Jeff, we have a lot of questions about selling here at The Motley Fool from individual investors.
+BEAR4|They get scared about window sale.
+NEUT5|They focus more on buying the wind is selling well.
+NEUT6|Here's my advice to you on selling.
+BEAR7|I think individual investors focused too much on selling Warren Buffett, the chairman of Berkshire Hathaway.
+BULL8|The famed investor has said that his returns will be better had he never sold a stock and this is a gentleman who has compounded outstanding returns over time.
+NEUT9|That's because individual investors really focus too much on selling, especially as companies.
+BULL10|Something that I've done very well from their winners.
+BEAR11|They focus too much on selling a lot of their winners and studies show that individual investors cut those profits and those.
+NEUT12|Those gains far too early, so you really want to be careful about selling your stocks that have performed well, cutting those gains because a lot of those businesses can go on to outperform over time, and that's my main guidance about selling.
+NEUT13|If you have a business Anna stock that you think will not outperform the general market overtime over the next three to five years, that's really your key reason for selling whatever that reason.
+BEAR14|Maybe you just think that investment will underperform the market because you can go out and buy a very general.
+NEUT15|ETF or Market index fund that can you can invest in very cheaply that can perform very well if your investment can't beat that investment, that's your bogey.
+NEUT16|You really want to think about selling.
+NEUT17|So rethink.
+NEUT18|Maybe if you're selling, you're thinking about selling a winner.
+NEUT19|Make sure it's the right reasons.
+NEUT20|Don't cut your gains too early, and if you're finding an investment or a stock that you don't think will beat the market over time, that's a really good reason to think about investing as well As for different diversification.
+NEUT21|You want to make sure you have a very diversified portfolio, so.
+NEUT22|That's a little helpful advice about selling.
+NEUT23|"You can always find out a lot more information about selling out on full com I'm Andy Cross will see you later."""

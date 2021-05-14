@@ -1,0 +1,7 @@
+NEUT0|"""Coca Cola New York Stock exchange."
+NEUT1|Symbol Ko has been initiated as a buy at Kalyan.
+BEAR2|The stock close yesterday, December 8th at $57.68 on volume of nine million shares, slightly below its average daily volume of 10 million shares.
+BEAR3|Coca Cola is currently above its 50 day moving average of $55 as well as above its 200 day moving average of $48.00.
+BULL4|SmarTrend is bullish on shares of KO and our subscribers received an uptrend alert back on September 11th 2009 at a price of $50.87 as of yesterday's close at $57 in change.
+BULL5|This uptrend alert has returned 13.4% to date.
+NEUT6|"Trade your way to success today with Smart Trend click below to claim your free 14 day trial of smart trend today."""

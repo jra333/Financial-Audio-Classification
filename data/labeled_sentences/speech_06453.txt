@@ -1,0 +1,29 @@
+NEUT0|"""Taxpayers watch out."
+BEAR1|the US government is about to rip you off billions of dollars with no congressional approval.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead.
+BULL3|We get the insights you need to better navigate these turbulent times.
+NEUT4|the US Treasury Department is trying to cute maneuver that could ultimately cost American taxpayers nearly $200 billion without Congress passing the necessary legislation.
+NEUT5|Here's how it sounds Arcane, but the cost of taxpayers will be all too real.
+NEUT6|Back in the 1960s, the US and other countries created something called Special Drawing Rights, SDR's in short.
+BULL7|That would give nations money to back up their currencies.
+NEUT8|Most governments have reserves, primarily gold in U.S. dollars, but also a smattering of other Major League currencies.
+NEUT9|the US, for instance, has a huge pile of gold sitting primarily in Fort Knox and in the deep vaults of the Federal Reserve Bank of New York.
+NEUT10|When a currency is under attack, governments use the reserves to fend off the assaults.
+NEUT11|They're also used these reserves to help importers pay for their products from overseas.
+BEAR12|When sellers want real money instead of the questionable currencies of those countries in the 1960s, there were fears of a Golden dollar shortage based on a bogus theory that held sway at the time.
+BEAR13|The shortage would allegedly hamper international trade, and so governments created what was dubbed paper gold Special Drawing Rights.
+NEUT14|These SDR's were backed by nations giving the IMF a batch of their own currencies.
+NEUT15|the US thus forked over dollars in return for its allotment of SDR's, in effect, stripping away all the flim Flam governments with weak currencies could exchange their SDR's for U.S. dollars or other desirable currencies.
+NEUT16|SDR's may sound like a sort of funny money, but they are a real call on Washington for dollars.
+NEUT17|When we currencies turn in their SDR's today, the IMF wants to create another $1 trillion of SDR's.
+NEUT18|And the Treasury Department is trying to hand over $173 billion to the IMF as part of its allotment.
+NEUT19|What's so crazy here is that most of the new SDR's will go to large countries that have no need for them, especially when governments have been printing vast amounts of new money in recent years, and even more so thanks to unprecedented peacetime spending triggered by the pandemic lockdowns.
+NEUT20|The world is awash in liquidity, but Treasury says the large countries like the US will recycle these SDR's to needier nations that need the dough.
+NEUT21|In essence, the US would be giving dollars to countries that have a claim for them, or think they need them.
+NEUT22|No matter how Treasury tries to sugarcoat it, the US would be spending dollars and a lot of them.
+NEUT23|That's why Congress should force Treasury to seek its approval.
+NEUT24|Moreover, given today's realities, a thoroughgoing debate is needed about the necessity of more SDR's.
+NEUT25|Anyway, I'm Steve Forbes.
+BULL26|Thanks for listening.
+NEUT27|Do sending your comments and suggestions.
+BULL28|"I look forward to being with you soon again."""

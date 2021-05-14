@@ -1,0 +1,34 @@
+NEUT0|"""Hey option traders for today's trading strategy, we're going to take a look at a bear call spread in Tesla while the market is in a confirmed uptrend."
+BEAR1|At the moment, some leaders remain weak traders with a lot of bullish exposure may want to start hedging their bets by adding some bearish option trades.
+BULL2|And Tesla is a good candidate right now considering it's been unable to break back above its declining 21 day moving average.
+NEUT3|The stock currently has a composite rating of 89.
+NEUT4|An EPS rating of 74, an Rs rating of 96.
+NEUT5|So here we're looking to add some short term bearish exposure.
+NEUT6|As for trade management, you want to set a stop loss if Tesla closes back above its 21 day line.
+NEUT7|This is an easy trade for beginners to set up.
+NEUT8|The trade is known as a vertical spread and it involves selling an out of the money call an buying a further out of the money call.
+BULL9|The strategy can be profitable if the stock trades lower sideways and even if it trades slightly higher.
+NEUT10|As long as it stays below the short call at expiration.
+NEUT11|So here we're on my finger Swim dashboard and I'm going to show you how to set up this trade in your own account.
+NEUT12|So like always, you're going to type in the ticker symbol first.
+NEUT13|Wish for Teslas, TSLA, and we're looking at options.
+NEUT14|Contracts that expire the week of April 16th, 2021, down the middle.
+NEUT15|Here are all the strike price is to the left is calls and to the right is put an up in this box.
+NEUT16|Here is where you can select your strategy and for a bear call spread that would be a vertical.
+NEUT17|So down at the bottom I have all of the strike price is expirations.
+NEUT18|Set up for this trade were buying the.
+NEUT19|7:55 call and we're selling the 7:50 call.
+NEUT20|We're buying the 7:55 call, and we're selling to 7:50 call and the maximum profit on the trade would be around $145.00 and the Max loss is 355.
+NEUT21|The spread would achieve the Max profit if Tesla closes below 750 on April 16th, in which case the entire spread would expire worthless, allowing you to keep the full option premium.
+BEAR22|The Max loss would occur if the stock closes above 755 on April 16th.
+NEUT23|Which case you'd lose around $355 on the trade while some option trades have the risk of unlimited losses, a bear call spread is a risk defined strategy and you always know your worst case scenario in advance and one final note.
+NEUT24|Tesla earnings are scheduled for April 28th, so there is no earnings risk with this trade.
+NEUT25|So to recap, the option trade involved selling in April 16th, 7:50.
+NEUT26|Call in buying an April 16th 7:55.
+NEUT27|Call the total premium collected on the trade would be roughly $145.00.
+NEUT28|And the trade has a Max risk of $355 and there you have it.
+BULL29|I hope this was a helpful trading strategy.
+NEUT30|Remember that options are very risky and investors can lose 100% or more of their investments, so make sure you practice with the virtual trading account before risking any real money, especially if this is new to you.
+NEUT31|And check out investors.com/options for more option trading tips.
+BULL32|Hey everyone, thanks so much for watching investors business daily on YouTube.
+NEUT33|"If you want to watch more videos make sure you hit that subscribe button so you don't miss a thing."""

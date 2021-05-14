@@ -1,0 +1,17 @@
+BEAR0|"""Toshiba has made some management blunders in its time, but its latest shines brightest."
+BULL1|It may quite by accident have become a poster child for corporate governance excellence.
+NEUT2|The route to this happy catastrophe comes via the financing transaction the company announced late on Sunday, a colossal by Japanese market standard sale of 600 billion yen of knew shares representing more than half the current market value of Toshiba to a group of some 35 international hedge funds.
+NEUT3|That includes some very well known activists.
+NEUT4|Although it shares do not yet reflect it from one angle, Toshiba looks unexpectedly crafty when its crisis.
+BEAR5|The black hole in its finances arising from the sour US nuclear business came to light 11 months ago.
+NEUT6|The company looked low on leverage over anyone that mattered.
+NEUT7|In particular its bank lenders who were able to dictate terms and the Tokyo Stock Exchange, which wielded the threat of delisting.
+NEUT8|When in September, Toshiba signed the $18 billion deal that sold its memory business to Bain Capital.
+NEUT9|At others it called the banks and crucially made it somewhat less outrageous when a couple of weeks later, the TSE remove Toshiba from its security under supervision status.
+BULL10|Many suspected at the time that the TSC, which really does not like the idea of delisting one of Japan's most famous corporate names, had been itching for the excuse to do the upgrade, and so with its status upgraded Toshiba has suddenly got creative hurling together buyers for this epic share sale, and theoretically.
+NEUT11|Creating a situation where it doesn't actually need to sell its prized chip business at all, as its banks once insisted.
+BULL12|In fact, if the sale fell through altogether, Toshiba's profitability for the next few years would look better than the market currently expects.
+BEAR13|In another demonstration of restored Mojo, Toshiba will likely apply for a quick return to the TSE first section, whereupon passive Funds would automatically by about 15% of the float, but that may be the blunder.
+NEUT14|According to one analysis, once the share sale is done.
+NEUT15|Of the various passive money has done its thing, about 50% of Toshiba's voting shares will be in the hands of the kind of investors that have repeatedly demonstrated their demand for better governance and their taste for a fight.
+BULL16|"Toshiba management, which thought it was buying itself wiggle room with its banks, may in fact have just won the Shareholder Register of Japan Inc's worst nightmares."""

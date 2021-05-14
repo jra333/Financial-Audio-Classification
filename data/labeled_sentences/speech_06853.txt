@@ -1,0 +1,33 @@
+NEUT0|"""This week, the Bank of England's interest rate setting committee will meet to decide what needs to happen to support the UK economy."
+NEUT1|Following the vote to leave the EU with me to discuss this is John Wraith, head of UK rate strategy at UBS.
+BULL2|John thank you so much for joining us.
+NEUT3|So what is water markets expecting to happen this week?
+NEUT4|This fairly widespread expectations wide range of expectations.
+BULL5|I think a cut in the level of Bank rate.
+NEUT6|The official policy rate is looking fairly certain.
+NEUT7|The market certainly think it is and then beyond that a possible range of other measures we think.
+NEUT8|Quantitative easing more purchases of government bonds is the most likely outcome, but there are other measures relating to credit markets.
+NEUT9|The Bank of England could consider.
+NEUT10|And can we see anything in markets about showing what these expectations are there?
+NEUT11|Is there any way of indicating what's about to happen?
+NEUT12|Yeah, two degree.
+NEUT13|I mean this chart that shows the 10 year gilt yields so far this year.
+BEAR14|You can see what happened in the wake of the referendum of very sharp falling yields, which has continued at a slightly slower pace recently.
+BEAR15|I think that's partly because investors are worried about medium term growth.
+BULL16|In the UK, being weaker than it would otherwise have been, these are record low yields, so it it really does signal some fairly high levels of alarm, but this is also anticipation to a degree of large scale purchases of these instruments by the central bank.
+NEUT17|It's hard to quantify because there is so much uncertainty around at the moment and they are considering various measures, but we would say there's a fairly high likelihood priced in, so the 10 year is the benchmark rate.
+NEUT18|Are there any other guilty years that we should be looking at?
+NEUT19|If we're thinking about what might happen this week?
+NEUT20|Yeah, I mean, last time the Bank of England?
+NEUT21|Conducted this sort of policy, they bought everything beyond three years to maturity.
+NEUT22|So if you look anywhere on the yield curve really you can see some gauge of expectations as their developing when you look at the very front end, that's more connected to decisions about the short term policy related to.
+NEUT23|Yeah yeah, yes, exactly for example.
+BEAR24|So again here you see a big drop following the referendum prior to the referendum markets were expecting the next move in rates to be up at some point over the coming months.
+NEUT25|They're clearly very much expecting now.
+NEUT26|The next move to be down.
+NEUT27|The other interesting thing to note here is these yields are almost at 0 now.
+NEUT28|They can go negative.
+NEUT29|They have in core eurozone markets for example, but essentially these front end rates are fairly pinned to the floor here, so any moves further down the yield curve tend to change the shape of the curve as well.
+NEUT30|John Ray.
+BULL31|Thank you very much.
+BULL32|"So markets have priced in a 100% chance of rates being cut, but the thing to remember is in July they were wrong."""

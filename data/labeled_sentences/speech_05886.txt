@@ -1,0 +1,7 @@
+BULL0|"""South Korean tech giant Samsung Electronics has been ranked the world's 14th largest publicly publicly traded company, according to Forbes Global 2000 List."
+BULL1|That's up 1 notch from last year.
+NEUT2|The ranking is based on a company's sales, profits, assets and market value.
+NEUT3|Samsung came in at 11th place in terms of sales, 4th in profits, 114th in assets and 12 in market value.
+BULL4|The company was ranked 22nd back in 2014 and is gradually.
+BULL5|Been making its way up, Samsung is the only South Korean company to make it to the top 100 top of the list was industrial and commercial Bank of China, followed by China Construction Bank and JPMorgan Chase.
+NEUT6|"South Korea's Hendaye Motor ranked 147th while chipmaker SK Hynix came in at 200th."""

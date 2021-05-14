@@ -1,0 +1,37 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|February 19th.
+NEUT2|In today's NEO stock analysis and predictions, why NIO is not done yet?
+NEUT3|Alright.
+NEUT4|Let's get started.
+NEUT5|An IO has been an incredibly hot stock of late.
+NEUT6|One of the reasons Wall Street can't get enough of Nio is that it is in EV stock with a number of catalysts that are very attractive.
+BULL7|Additionally, this is a stock with the potential for dominating the China's EV market, getting ahead of peers such as Tesla.
+BULL8|Of course, investors bullish on EV growth, particularly in the world's second biggest economy, have bid up shares accordingly.
+NEUT9|This is one of the main investment theses underpinning this stock.
+NEUT10|Let's dive into what they do and why investors are so bullish on this stock right now.
+NEUT11|An IO stock seen as play battery as a service.
+NEUT12|An iOS battery as a service business model has enticed many investors to look closer at NIO stock.
+NEUT13|Essentially, NIO offers discounts on the upfront cost of purchasing its vehicles.
+NEUT14|A subscription for battery pack usage is required.
+BULL15|Purchases like the lower up front costs and this model appears to be a successful and profitable one.
+NEUT16|Car buyers get a deduction of RMB 70,000 off the purchase price in exchange for monthly battery subscription payments of RMB 980.
+BULL17|The company notes this model is inclusive of favorable government purchase incentives and tax incentives for EV's.
+BULL18|Anio gets up selling opportunities, offering purchases, flexibel battery upgrade options.
+NEUT19|Purchases like the assurance of battery performance that comes with such a business model.
+BULL20|This program appears to be a win win for the company and has created a significant amount of brand value in China.
+NEUT21|An IO supports this program via 143 battery swap locations in 64 cities across China.
+NEUT22|The model makes economic sense and is shifting the paradigm with respect to thinking about how automakers can make these EV options more affordable for the masses.
+BULL23|Enticed by heavy investment in autonomous vehicles, Nio's announced partnership with Mobileye in late 2019.
+BEAR24|Has investors bullish on the shares?
+NEUT25|The company's plan is to have a Level 4 autonomous vehicle ready to bring to market in 2022.
+BULL26|Like Tesla Nio has promised a self-driving ride hailing service, Anio appears to be making the investments needed to have a car ready for market for investors who believe level 4 autonomous vehicles are around the corner.
+BULL27|NIO stock appears to be a good choice.
+BULL28|Anio has also recently announced a partnership with NVIDIA to use NVIDIA Drive or in system on a chip in its next generation vehicles.
+BULL29|Understandably, this has further investor optimism in iOS capabilities to capture market share in the autonomous segment.
+BULL30|Overtime, the company's business model and heavy investment in autonomous driving presents an interesting opportunity for EV investors.
+NEUT31|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT32|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT33|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL34|We'd really appreciate it.
+NEUT35|Are you still watching and want more?
+NEUT36|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

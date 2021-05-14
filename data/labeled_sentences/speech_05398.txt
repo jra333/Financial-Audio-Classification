@@ -1,0 +1,7 @@
+NEUT0|"""President Stacy Cunningham, writing in a Wall Street Journal Op Ed that the trading floor will reopen to a subset of floor brokers on May 26."
+NEUT1|That is the day after Memorial Day.
+NEUT2|Remember, it has been closed for trading all electronic, so some indication there that she is looking at reopening.
+NEUT3|Giving a date May 26 for some floor traders will try to confirm that and try to get more information about how exactly that would look and how it would work well for it.
+BULL4|And we will be back joining the key.
+NEUT5|Of course I will be back.
+NEUT6|"Unclear about that."""

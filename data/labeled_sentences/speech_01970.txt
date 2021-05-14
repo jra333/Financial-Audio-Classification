@@ -1,0 +1,12 @@
+BEAR0|"""The plunge in China stocks has rocked markets around the globe and spurred fears over the second largest economy in the world."
+BEAR1|China's decision to devalue its currency sparked the most recent volatility in Asia's flagship indexes.
+NEUT2|That was two weeks ago.
+BEAR3|But investors in the US are concerned over China's continued growth and its impact on the global economy.
+NEUT4|China accounts for 15% of World Economic output.
+BEAR5|Recent measures such as allowing pension funds to invest in stocks for the first time, have failed to call market fluctuations.
+BEAR6|China could unveil a new stimulus plan, but that would create more lending and debt for a country already struggling to manage both.
+BEAR7|One of the biggest threats to Chinese economic health is vast local government debt and loans.
+NEUT8|Tide to real estate investment and granted through shadow banking.
+BULL9|The country's debt load rose from $7 trillion in 2007 to $28 trillion by mid 2014.
+BULL10|Despite these challenges, China has a powerful tool to prevent a crisis and maintain its ability to fuel the global economy.
+NEUT11|"Its trillions of dollars in reserves."""

@@ -1,0 +1,19 @@
+BULL0|"""OK. We bought some Apple."
+NEUT1|This morning I don't like down to 119 and change.
+NEUT2|We got Netflix.
+NEUT3|Msoft eBay.
+NEUT4|Apple, I know DraftKings Pfizer GE.
+NEUT5|So don't ear.
+BULL6|I bought more KGC, more gold.
+NEUT7|I didn't buy a pallet on pellet guns going down a little bit.
+NEUT8|But it always goes down and then it shoots up like 10 ******* dollars so.
+NEUT9|My by peloton too.
+NEUT10|Let me see, I don't wanna sell off I wanna try to keep what I got.
+NEUT11|This keeps you selling.
+NEUT12|No, I'm just buying keep when I have have good stocks right now.
+NEUT13|See what happens but.
+BULL14|The market looks like there is definitely opportunity after you just gotta find it.
+NEUT15|Tech big money.
+BEAR16|DraftKings Football was gone all weekend.
+NEUT17|College is back.
+NEUT18|"DraftKings big money dawg."""

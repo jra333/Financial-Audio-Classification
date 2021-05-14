@@ -1,0 +1,41 @@
+NEUT0|"""Warren, I'm Frank Martin from Elkhart, IN."
+NEUT1|You have written extensively on the subject of the immutable.
+BULL2|Sillitti return on equity for American industry as a whole.
+BEAR3|Being stuck in the 12 to 13% range.
+NEUT4|What forces do you see?
+BEAR5|Since we're above the main to 'cause that number to regress to the main overtime?
+NEUT6|Yeah, it it's true it has.
+BULL7|It has been higher in the last few years, although Fortune's got some interesting figures.
+NEUT8|In the current issue, on the 500 that shows decade by decade what the return has been on the Fortune 500 group, which is a shifting group of course, and it's it's tended to stick, although I would say it was more between 12 and 13 than 11 and 12, probably in that one.
+BULL9|The return to some extent in certain businesses gotten a big kick because they finally put.
+BEAR10|The health liabilities on the balance sheet and therefore reduced equity.
+NEUT11|So if you.
+NEUT12|Anything you do that tends to pull down equity if it doesn't change your ability to do the same sales volume, it's it's leveraged American business in effect by putting the health.
+BEAR13|I liabilities on the balance sheet I I may be wrong.
+NEUT14|It may be that business can earn.
+NEUT15|15% or so, but I think competitive factors tend to.
+NEUT16|Overtime keep pushing that number.
+BEAR17|Down somewhat and 12 or 13.
+NEUT18|When you think about it, it's not bad at all.
+NEUT19|I mean, it's it's.
+NEUT20|It's a level with 7% interest rates that allows stocks and equity to be worth much more when employed in equity than than than elsewhere in the world.
+NEUT21|But if I had to pick a figure for the next 10 years, I would pick some figure between 12 and 13, but that doesn't mean I'd be right on it.
+NEUT22|Charlie.
+NEUT23|Yeah, I think all of those published averages.
+NEUT24|Overstate what turned, anyway.
+NEUT25|There they're the biggest companies.
+NEUT26|They're the winners that they're the ones whose.
+NEUT27|Stock sells available so they can issue it to other people.
+NEUT28|For high earning assets and.
+BEAR29|Many of the lower turn people are constantly being dropped out of the.
+NEUT30|Figures now you can say that was true in the past too.
+NEUT31|But it would be remarkable to me if on average.
+NEUT32|American business are in 13% on capital after taxes.
+NEUT33|Those figures incident isn't a huge item, but it, but it, but it's not totally insignificant.
+NEUT34|They don't show us the cost.
+NEUT35|For example, the cost of stock options and the American shareholders paid that.
+BEAR36|So the American shareholder has not gotten the returns on equity.
+NEUT37|Sean bye bye bye.
+NEUT38|Those numbers, although it's not a huge factor but I wouldn't be surprised if it was.
+NEUT39|You know, two or 3/10 of a percent just for that one cost, that's omitted.
+BULL40|"If you let me admit my costs, I can show a very high return on equity."""

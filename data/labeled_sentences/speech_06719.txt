@@ -1,0 +1,30 @@
+NEUT0|"""Today on technical analysis were talking Disney."
+BULL1|The Dow stock is breaking out today on an analyst upgrade.
+NEUT2|When you're looking for stocks to buy.
+NEUT3|Seeing that stock in proper buy range is obviously key, but it's also important to get the big picture perspective of a stock by looking at the weekly and even the monthly chart in addition to the daily chart.
+NEUT4|So before we get into the details about disease breakout on the daily chart, let's put everything in perspective.
+BEAR5|With this monthly chart here, so Disney peaked back in 2015 and so did its relative strength line, and you can see that while the stock has moved essentially sideways with this 120 level being a ceiling for this stock, the relative strength line has actually been in a decline.
+BEAR6|And since the relative strength line measures are stocks, price performance versus the S&P 500, this is a sign of underperformance over the last four years or so.
+NEUT7|It's best to focus on stocks that are outperforming the market, which is why looking at this relative strength line is so helpful.
+NEUT8|Now let's move over to the daily chart.
+BULL9|Disney is breaking out of a Cup with handle base here and the buy point is at 1:15 ninety the sock is breaking out in above average volume, which is positive.
+BEAR10|But as we noted, with the monthly chart, the relative strength line here is in a decline.
+BEAR11|It's weak.
+BEAR12|It's well below its recent peak too, as you can see here.
+BEAR13|We also want to note that this base is messy, shares dropped sharply below this 200 day line here to form the bottom of the chart pattern.
+NEUT14|Now back to the breakout itself.
+NEUT15|See if Disney can close in the upper half of its trading range for the day.
+NEUT16|That's the kind of action that's ideal to see when a stock breaks out.
+BULL17|Now Cowan is bullish on Disney and upgraded the stock to outperform from market.
+NEUT18|Perform.
+BULL19|The price target was also raised to 131 from 102.
+NEUT20|Now between Disney's upcoming Star Wars and Frozen Films at Star Wars Park launch and its streaming service Disney Plus Cowan says Disney has a quote.
+BULL21|Very powerful pipeline.
+BULL22|But it's yet to be seen how this pipeline will impact the company's financials after a four quarter streak of strong earnings growth.
+BEAR23|The bottom line actually fell 3% last quarter.
+BEAR24|Analysts expect a decline of 4% in 2019 before picking back up again modestly to 2% in 2020.
+BULL25|Disney is breaking out amid positive analyst sentiment, which comes ahead of Disney's Investor Day on Thursday, where the company is expected to release more details about Disney Plus.
+NEUT26|But All in all, make sure you take a look at the monthly chart and the fundamentals before you buy for investors.
+NEUT27|Business daily I'm Alisa Corum.
+BULL28|Hey everyone, thanks so much for watching investors business daily on YouTube.
+NEUT29|"If you want to watch more videos make sure you hit that subscribe button so you don't miss a thing."""

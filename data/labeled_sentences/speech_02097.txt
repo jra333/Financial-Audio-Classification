@@ -1,0 +1,36 @@
+NEUT0|"""Coca Cola pausing advertising on all social media."
+NEUT1|The companies saying there is no place for racism on social media, so Coca Cola just the latest company in addition to her, she's in addition to Unilever earlier today announcing that they're going to halt advertising on social media.
+NEUT2|And, of course, this is a direct aim at Facebook, which has been under pressure because of this flow of advertisers.
+NEUT3|Deciding to support this boycott Tim.
+BULL4|That is extraordinary.
+BEAR5|Wow, the follow through here and again you know, give credit to the early stage advertisers, but when I hear this I think I know it's very difficult time for AD dollars in every media company is assessing that and going through potentially a painful time.
+NEUT6|Although if you listen to Facebook and their Q1 numbers, that was the extraordinary thing you really haven't seen in effect.
+NEUT7|But there are other options.
+NEUT8|There are other media companies that are hearing this news.
+BEAR9|Facebooks loss.
+NEUT10|Is there.
+NEUT11|Gain an again.
+NEUT12|Singling out social media as being a wild.
+NEUT13|Maybe an untethered environment of uncertainty in terms of the messaging appetizers.
+NEUT14|Want to control the messaging and the context in which their ads are placed?
+NEUT15|They may be able to do that in other places.
+NEUT16|I'm not well versed in the crisis management companies here in the etat so nice, but I would suggest that Facebook hire one this weekend and this and that's not in a vacuum.
+NEUT17|We talked about this earlier in the week and we've said that you know those companies on Tuesday with the 1st and won't be the last Coca Cola.
+NEUT18|That is a huge huge deal and the fact that you mentioned Procter and Gamble earlier.
+NEUT19|I mean it's no bueno.
+NEUT20|As they say.
+NEUT21|I mean you gotta.
+NEUT22|You gotta think that there are Fortune 500 companies S&P 500 companies this weekend that are going to be meeting an reevaluating their ads.
+NEUT23|Been and whether or not they're spending on social media.
+NEUT24|On Monday we started the show with when the levee breaks BK.
+NEUT25|I don't know about what Monday brings.
+BEAR26|Oh, I think the water is over the levee at this point.
+BEAR27|It's broken.
+NEUT28|I mean, you know, companies like Coca Cola and Hershey.
+NEUT29|This is it.
+NEUT30|You as a corporate board member as a CEO, cannot cannot continue on.
+NEUT31|You have to go along.
+BEAR32|Reminds me of when Apple closed their stores for Covid.
+NEUT33|Everybody followed behind.
+BEAR34|I think Monday morning you're going to see a lot more people pull out of this advertising on social media.
+NEUT35|"Facebook in particular."""

@@ -1,0 +1,18 @@
+NEUT0|"""Hello, welcome to today's technical analysis for Monday, May 21st time."
+NEUT1|I think about John currencyanalystericsson.com.
+NEUT2|Everyone looking at the pound dollar on the daily chart.
+BEAR3|Pound dollar had been trading sideways since late April.
+BULL4|early May it had steadied after the sharp sell off from mid April to early May.
+NEUT5|It was trading within range of one point 3610 to one point 3450.
+BEAR6|It has now, though broken below one point 3450 the bottom of the range, and we're seeing the short term bias shift from neutral to bearish.
+BEAR7|We can also see that in the stochastic oscillators with both moving averages moving towards the 20 oversold level, if Paris pound dollar continues to fall, further support will then likely come from around 1.33 handle earlier today, with prices briefly dropping below the one point 34.
+BEAR8|The handle below 1.33 we have the 50% Fibonacci retracement of the outlook from 1.21 away to one point 4376 that is around one point 3240 drop below the 50% Fibonacci retracement would signal shift in the longer term trend.
+BEAR9|Two more bearish.
+NEUT10|One.
+BULL11|If you do see though an upside reversal, immediate resistance is likely to come from around one point 3450.
+BULL12|Above that we have the 38.2% for module treatment at around one point 3510 and then will again likely to see resistance from the top of the recent range at one point 3610.
+BULL13|However, in order to see more convincing upside correction, we will really need to see the pair breaking above the 23.6% bonus.
+BULL14|Yet one point 3840 and then it would then be able to challenge the 50 day moving average which is currently.
+BEAR15|Just below the 1.39 level.
+NEUT16|That's it for me.
+BULL17|"Thank you very much for watching and have a great day."""

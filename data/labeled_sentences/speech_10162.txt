@@ -1,0 +1,33 @@
+NEUT0|"""Hey, we're talking about Bitcoin today and how it impacts your 401K."
+NEUT1|We have resident expert Chris Costello, CEO and co-founder of Bloom, so Bitcoin or cryptocurrency effectively is a new form of currency that's not backed by any central government or institution, and a lot of people think that this new form of cryptocurrency will potentially lead to a new medium of monetary exchange.
+BEAR2|Bitcoin is gone from about $800 to like $18,000 in 12 months.
+NEUT3|This reminds me a little bit about how someofthe.com stocks were working in the late 1990s.
+NEUT4|I remember when Yahoo stock in 1999 got up to like 400 and some odd dollars a share and you know everybody was talking about.
+NEUT5|Should be buying Yahoo to be buying AOL stock at the peak back then.
+NEUT6|An all these people are clamoring in some cases to buy this in no other part of our lives.
+NEUT7|Do we operate that way?
+NEUT8|You know, if your chat, if you're going to buy a new car and the day before you went to buy that new car.
+BULL9|The price went up by a factor of five X.
+NEUT10|Would you be more or less interested in that car, right?
+NEUT11|You be less interested, you know.
+NEUT12|As a consumer we know to look for value, but sometimes on these investments when they when they just run away for no particular reason.
+NEUT13|People get really excited and want to buy it at that point.
+NEUT14|And we've heard stories of people taking mortgages out on their house to buy Bitcoin.
+BEAR15|My gosh that is another sign that I feel like this is such a bubble.
+NEUT16|The crazy thing about bubbles though is sometimes bubbles get bigger before they pop.
+NEUT17|It scares me to death to think that some people might actually consider cashing out of their 401K to buy Bitcoin, 'cause that would involve obviously selling your investment investments, but but worse off, taking money out of your 401K, which triggers insanely high taxes.
+NEUT18|So you've got 10 grand.
+NEUT19|You take that out, pay taxes on it.
+NEUT20|You got six or seven grand leftover, then to go buy something incredibly speculative based solely on some type of a guess or prediction that the price is going to rise in value.
+NEUT21|There's no fundamental value.
+NEUT22|Underlying this currency.
+NEUT23|When you buy shares of stock when you buy a share of Apple stock, you're getting a fraction of the company Apple.
+NEUT24|You know there's something behind that money when you've invested in bonds, you're getting some stored wealth, and that that is not the case in cryptocurrency.
+NEUT25|But I would just say be very, very careful.
+NEUT26|It's something that could really could really devastate a retirement if you're if you're talking about cashing out of your 401K to go into something like this.
+BULL27|Yeah, thanks Chris for joining us.
+NEUT28|Give us more information on Bitcoin.
+BULL29|I thought it was helpful.
+NEUT30|You out there, clients you have access to a financial advisor here Bloom for independent advice.
+NEUT31|Anytime you have questions, comments, concerns, please just go to bloom.com, start up a chat and we'd be happy to help you with any questions you have.
+NEUT32|"Hey, if you found this video helpful please pass it on, share it with your friends, family, coworkers, grandmother's grandmother's dog, Walker, whoever."""

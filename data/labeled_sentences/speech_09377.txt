@@ -1,0 +1,27 @@
+BEAR0|"""Apple is upping the ante on movies the Journal this morning reports that the company is nabbed."
+NEUT1|Martin Scorsese's next film, killers of the Flower Moon starring Leo DiCaprio and Robert De Niro.
+NEUT2|Apple.
+NEUT3|Of course, beating out Netflix, which produced his last film, the Irishman Jim, or back to where back to intellectual property in the movie business, and some of these bidding wars.
+NEUT4|It's so funny.
+NEUT5|Apple likes to start slow.
+NEUT6|They want to be sure they get it right.
+NEUT7|That's not unusual for them and now we see them coming on with the Tom Hanks movie with this.
+NEUT8|There going to be a major force, they're going to be major in.
+NEUT9|Podcasts are going to be major in movies.
+NEUT10|They have more firepower than anybody.
+NEUT11|Obviously they're they're making this as part of that service revenue stream that they realize there's such great gross margins.
+NEUT12|This is very important and I'm glad we're talking about it, because this, this must have been a jump ball.
+NEUT13|Carl and jump all went to the guy with the most money.
+NEUT14|And that's a big big change because someone was playing with borrowed money.
+NEUT15|The other guys playing cash.
+NEUT16|That's a good point that reminds me.
+NEUT17|Yeah.
+NEUT18|Yeah, it reminds me Carl of my interview with John Malone last November.
+NEUT19|I guess we sat down for annual interview and he talked about.
+NEUT20|Remember, Jimmy talked about optionality when he talked about Apple and their efforts series.
+NEUT21|So you know they're not.
+NEUT22|They're sort of testing the waters.
+NEUT23|They're going to see they're going to be deliberate, but they are going to make moves based on what they see in terms of consumer response and clearly clearly they are starting to spend more money.
+NEUT24|We've seen that in terms of also filling out their library a bit bidding here.
+NEUT25|And then this will of course, once again raise that question that everybody loves to ask will they actually look to make an acquisition of some kind in this area?
+NEUT26|"Similar, say that likelihood seems seems small, but but it is interesting to know what Apple is doing here."""

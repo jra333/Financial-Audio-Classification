@@ -1,0 +1,22 @@
+NEUT0|"""What are your expectations on the dollar side of things?"
+NEUT1|Is a weakness likely to continue when you take a look at rate differentials?
+NEUT2|When you take a look at some of the volatility going to the election as well as the prospect of a pretty uneven recovery from the pandemic.
+BULL3|Right, I think you are still a lot of direction is one of the key driver for the Asian markets and we remain quite comfortable at this point of time.
+NEUT4|Now to take a step back we all know that Asia tends to do well when the US dollar is weak and right now we actually believe that U.S. dollar should remain on the router side for three reasons.
+BULL5|Number one, the US rates differential versus some of the other developed markets have come up this year.
+NEUT6|And should we make narrow?
+BEAR7|Second, the US growth is likely to recover slower than other regions, particularly when you compare with Asia and then finally, there is still uncertainty around the US election, so investors may not fly to the US dollar for safe haven assets, so they overall saying that the US dollar should remain on the weaker side and that should be good for Asian equities.
+NEUT8|Right, so you mentioned the US elections, which is really interesting because they were looking at in terms of VIX October contracts.
+BEAR9|With looking at this as potentially the most risky Eventbrite in VIX futures history in terms of the implications for EMS, we've heard from Bank of America saying that emerging market investors may not be pricing in a potential decline if we do get the risk of the US election pricing.
+BULL10|the US dollar higher, right?
+NEUT11|Is there a risk that?
+BEAR12|We kind of miss judging what the dollar could do post November.
+NEUT13|Right, I think the US election is certainly one of the key risk factors for Asian markets as a whole.
+NEUT14|I think for us we think that many things can happen before November, so it's very hard to predict the outcome.
+NEUT15|The election outcome clearly.
+NEUT16|Who is the next U.S. President will have a profound impact on our investment universe, particularly in China.
+NEUT17|But then we think that the broad policy direction to China will not change whether Trump will continue or.
+NEUT18|The Democrats tixover, however, the magnitude of the policy measures may differ.
+NEUT19|So for us we would like to focus on the predictable.
+NEUT20|Say for example, the big trends in China, and then as far as the US dollar is concerned, I think if you if you look at the US dollar fundamental like the real effective exchange rate and say the US dollar is should not be supported at this current level, mainly because of the twin deficits.
+BEAR21|"So combining these fundamental factors as well as the ongoing uncertainty, we think that the US dollar should remain on the weaker side."""

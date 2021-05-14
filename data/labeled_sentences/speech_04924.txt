@@ -1,0 +1,14 @@
+NEUT0|"""I am David Gardner, co-founder of The Motley Fool and Chief Rule Breaker."
+NEUT1|We're a couple weeks into our 11:00 o'clock stock series.
+BULL2|I hope you've been enjoying it as much as I have.
+NEUT3|I've watched each one of them.
+BULL4|We've challenged our analysts to find 50 winning stocks in 50 days.
+NEUT5|Now, that might sound like a lot of stocks, but the truth is we think there are a lot more than 50 great companies out there, so this isn't a hard series to put together.
+BULL6|And I'm excited to join in.
+NEUT7|Next week I'm going to be picking in stock and we have a lot more exciting stocks to come.
+NEUT8|So we've already taken him from National Bank of Greece, right through to Yum Brands.
+NEUT9|And in the coming weeks will take you beyond that.
+NEUT10|I'm very excited.
+BULL11|I hope you'll join us.
+NEUT12|11:00 o'clock.
+NEUT13|"Stock each morning next week."""

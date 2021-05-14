@@ -1,0 +1,14 @@
+NEUT0|"""Hi, this is Sara Khan with Uak diversified."
+NEUT1|I want to share a couple tips for what to do when the stock market is overheated as it is right now and when there are inflationary pressures were in the bond market might not give as much of a yield.
+NEUT2|First look for mid to small cap company investments.
+NEUT3|Typically they are overlooked and there's a lot of good value in small companies.
+NEUT4|Right now.
+NEUT5|Another place to look is international bonds.
+NEUT6|A lot of times those bonds don't have such low rates that we have in the US.
+NEUT7|You can find more details in our article about.
+NEUT8|On the specifics of what to look for for international bonds and why the rate might be better.
+NEUT9|And Lastly look for real estate.
+NEUT10|Real Estate is a great hedge when inflation is happening and can provide a very stable return.
+NEUT11|So take a look at the article and you can find a lot more detail and if you have any questions feel free to reach out.
+NEUT12|Thank you.
+BULL13|"Have a great week."""

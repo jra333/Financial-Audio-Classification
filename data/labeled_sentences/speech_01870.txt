@@ -1,0 +1,18 @@
+BEAR0|"""We do have some breaking news right now."
+NEUT1|Some headlines crossing that Carl Icahn is exiting his stake in Netflix.
+NEUT2|And of course, Netflix announcing a stock split yesterday 7 for one stock split.
+BEAR3|If you take a look at how Netflix shares are reacting in the intraday trade, you can see that big leg down following the announcement of that headline still up on the day up by 1.6%.
+BEAR4|Following that stock split, but definitely a tick lower following the headline that Carl Icahn is exiting his stake in the company and Scarlet.
+NEUT5|If you recall, if I remember, Icon wanted to actually get.
+NEUT6|Out of Netflix earlier, his son Brett convinced him to stay in Netflix.
+NEUT7|I believe this was the investment where Brett had convinced him to stay in.
+BULL8|And so I said, OK, you were right, this was a good bet.
+NEUT9|Netflix today, by the way, trading at a record as it does, announce that seven for one split.
+NEUT10|So it seems as though the sun was right.
+NEUT11|But maybe Carla saying, OK, we're at a record.
+BULL12|Maybe we've booked a good profit on this for long enough now.
+NEUT13|I'm now I'm going to do what I wanted to do all along.
+NEUT14|Actually has another comment as well, Julie, where he says Apple is currently.
+NEUT15|Representing the same opportunity as Netflix years ago, which is fascinating to say given the relative size of those and maturity of those two companies and the amount of money that each makes.
+NEUT16|I mean, Apple is a cash generator while Netflix is what got $10 billion in production expenses over the next couple of years, so this is certainly something we'll keep an eye on.
+BULL17|"But yeah, for now, Netflix shares, as you mentioned, trading at a record high, although paring its advance following this headline that Carl Icahn will finally exit his steak."""

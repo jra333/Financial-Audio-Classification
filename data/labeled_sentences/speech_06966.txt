@@ -1,0 +1,7 @@
+NEUT0|"""Why do we invest?"
+NEUT1|Is it for the fancy cars?
+NEUT2|Your dream home.
+NEUT3|Or to live like a Rockstar.
+NEUT4|Or is there something more important?
+NEUT5|We we invest for our families.
+BULL6|"'cause, let's face it, they will never make it on their own."""

@@ -1,0 +1,27 @@
+NEUT0|"""Last quarter the July quarter, when the stock was 40 something."
+BULL1|I thought it would continue to move higher.
+BULL2|I thought the quarter is going to be fine.
+BEAR3|Dead wrong when it traded down 30 bucks we said alright.
+NEUT4|Here's the stock that's going to retest the level we broke out from in March 306.
+NEUT5|That's pretty much what happened.
+BULL6|Now Netflix finds itself then appeared where it has to prove itself yet again, and that means it's gotta retake that 425 level.
+NEUT7|We last saw back in July or so.
+NEUT8|I'm not convinced it's going to happen.
+NEUT9|Listen, these analysts might be right.
+BULL10|I still think there's some room on the upside.
+BULL11|But now the stock which held on the downside has to prove itself on the upside, people been handsomely rewarded in Netflix to the tune of 80% this year.
+NEUT12|I just, you know, back to the stock, though, I just feel like it's the same story.
+NEUT13|We have a dynamic here and I heard this, you know, we heard this on the call.
+NEUT14|There was a statement, something along lines investors need to have the same kind of confidence in the investment we're making the huge investment we're making in content as they've had in the past.
+BULL15|In other words, they've been rewarded.
+NEUT16|So don't be surprised by this number.
+BEAR17|People are kind of hoping the 2018 was peak cash burn.
+NEUT18|I don't think it's even close.
+NEUT19|I think the content slate for the fourth quarter still very important, so.
+NEUT20|You know where I stand on the stock?
+NEUT21|This has to be huge for Fang in particular.
+NEUT22|So when you look at all those names Facebook is a is a thing unto itself.
+BEAR23|There could be the privacy issues there.
+NEUT24|That's an animals onto itself.
+BULL25|Amazon, though, should rally aggressively on this into their earnings, 'cause I cannot see them missing.
+BEAR26|"He's going to have a blow out quarter."""

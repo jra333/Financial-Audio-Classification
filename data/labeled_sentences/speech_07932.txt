@@ -1,0 +1,17 @@
+NEUT0|"""I'm Dustin Planel, the host of the Black Car Learn Video series are black colored video series is designed to provide a quick and easy to understand overview on some of the most popular coins, tokens and various digital assets available in today's crypto ecosystem."
+NEUT1|Thanks for watching and please share these videos if you find them helpful.
+NEUT2|What is Bitcoin gold?
+NEUT3|Bitcoin Gold was created from an experimental hard fork of Bitcoin in October 2017, with the goal of making mining more accessible.
+NEUT4|A hard fork as opposed to a soft fork, makes changes to the protocol so that it is not backward compatible with the growth of Bitcoin, the energy needs of the mining operations had grown from being able to run computations from a laptop to requiring a large operation with a high energy demand.
+NEUT5|In July of 2017, the founder of Bitcoin Gold, Jack Liao, announced that the project would undertake a change to the proof of work algorithm Equihash.
+BULL6|The project's initial purpose was to make it possible for individuals and businesses to once again participate in mining without the need for specialized equipment with large energy requirements.
+NEUT7|As with Bitcoin, and as the value in popularity, the project grew, mining became more and more competitive.
+NEUT8|The original algorithm eventually required miners to use application specific integrated circuits or ASICS specialized equipment that could perform calculations millions of times faster than common desktop computers.
+BEAR9|This made non specific hardware useless to individual miners.
+NEUT10|And the companies that produce ASICS and the operations that could afford them soon monopolize Bitcoin mining.
+NEUT11|Bitcoin Gold's new proof of work algorithm equihash requires miners to use hardware with graphics processors rather than ASICS, which are more common to a typical computer.
+NEUT12|The new algorithm is also resistant to the use of ASICS, meaning that Bitcoin gold mining could not be centralized with a few big players, but instead available to individuals, again restoring bitcoins.
+NEUT13|Original vision for a fully decentralized and independent cryptocurrency.
+NEUT14|Digital assets like this one are supported by black card and you can use them to fund your black card account and make purchases at over 50 million merchants worldwide.
+NEUT15|You can also use block our bank accounts to purchase popular assets like this one.
+NEUT16|"Register for free black card account and get blockcard.com."""

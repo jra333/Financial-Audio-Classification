@@ -1,0 +1,8 @@
+BULL0|"""Coca Cola is one of the most attractive dividend stocks in the beverage space."
+BULL1|With a yield above 3%, the company has increased its dividend for the last 55 years an its payout ratio has averaged above 60% over the last decade, indicating its commitment to returning cash to shareholders.
+BULL2|We expect its dividend will average high single digit growth over the next decade, which is compara bulto its historical rate.
+BULL3|We think Coca Cola's ability to return excess cash to shareholders partly reflects its wide economic Moat, which has helped it generate excess returns on invested capital despite a decade of volume declines in the domestic carbonated soft drink market, the firm possesses substantial brand intangible assets as its investments in product innovation and marketing have helped establish Coca Cola as one of the most recognizable brands in the world, allowing for entrenched retail relationships, an brand loyal customers.
+BULL4|We also believe the firm enjoys cost advantages.
+BULL5|Stemming from economies of scale and beverage production and its unparalleled global distribution network.
+BULL6|We expect Coca Cola's bottom line to strengthen further as it finishes refranchising its North American bottling operations and benefits from growth and higher margin packaging sizes, allowing for continued shareholder returns despite the attractive dividend yield.
+BULL7|"Shares currently trade in line with our valuation and we suggest investors await a larger margin of safety before building a position in the name."""

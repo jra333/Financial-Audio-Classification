@@ -1,0 +1,34 @@
+NEUT0|"""It's the moment investors around the world wait for the 9:30 opening of the US markets."
+NEUT1|Inside Citadels, Chicago headquarters.
+NEUT2|It's eerily quiet, even though this firm trades more stocks every day than the New York Stock Exchange.
+NEUT3|Now we have two minutes they open, so we're about to get going here.
+NEUT4|Is there any equivalent of a Bell that we're going to hear or see?
+NEUT5|I have a world Clock up there that's that's about it.
+NEUT6|We're just going to hear the air conditioning above us.
+NEUT7|The equivalent of the NYSE's opening Bell is just this.
+BEAR8|Millions of orders that have been waiting all night for the markets to open or rapidly filled by citadels computer programs.
+NEUT9|How do the books look guys?
+NEUT10|Pumping through a lot of volume right now you can see how quiet it is.
+NEUT11|The phones not even ringing clients are happy with if there was ever an issue obviously would spot it first in the phones.
+NEUT12|Would light up we have executed.
+NEUT13|21 million shares already wow and we are not even three minutes and meet the new Wall Street traders here.
+NEUT14|Computers like these do the heavy lifting citadels employees with PHD's in applied math, physics and engineering, build and refine the computer programs and the people who manage the trading floor.
+NEUT15|Here mostly look for computer glitches and talk to customers.
+NEUT16|They are not making trading decisions.
+NEUT17|Those are all made by the computers so they are not.
+NEUT18|Making any decisions with respect to whether an order should be filled, what price it should be filled.
+NEUT19|That's all done in an automated way.
+NEUT20|When you click send from your TD Ameritrade account, there's a good chance that citadels computers see it.
+NEUT21|Then they either fill your order or send it out to the Byzantine network of 13 exchanges and 20 plus dark pools to execute it.
+NEUT22|Dark Pool is is really.
+NEUT23|It's an unfortunate terminology that the industry created, and really a dark pool is nothing more than a crossing engine.
+NEUT24|Now it's called dark, 'cause the whole market doesn't know what you want to buy or sell.
+NEUT25|We've seen these market dislocations, is is there?
+NEUT26|Is it fair to think of it almost as a technological arms race?
+NEUT27|Yeah, you know.
+NEUT28|I think it's no different than any other industry.
+NEUT29|100 years ago there were literally hundreds of car companies across the US and there was a lot of smaller companies.
+NEUT30|Overtime manufacturing became very automated, you had factories and you had the costs of building a factory went up.
+BULL31|We are a technology leader.
+BULL32|We make a big investment in technology to stay cutting edge.
+BULL33|"And yes, we're constantly investing our systems to stay at the forefront of technology."""

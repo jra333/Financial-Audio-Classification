@@ -1,0 +1,25 @@
+NEUT0|"""Here to break it all down."
+NEUT1|Alex Webb, Bloomberg, Gadfly columnist, who's called the end of the Apple iPhone supercycle, it's written in Stone now.
+NEUT2|You've called it dead.
+NEUT3|Alex, why I mean, it depends that obviously is predicated on the idea that super cycle even started.
+NEUT4|Yes, and there was a certain amount of debt, doubt going into the Super cycle that it would be so great.
+BEAR5|Ultimately iPhone sales are flattening and smartphone sales are flattening if not declining at Apple though.
+BULL6|Is or so far has been able to keep revenue growing because it's able to offer sort of charge, higher prices and also generate more sales from services, so it doesn't necessarily mean that the end is that the end is near.
+BULL7|For Apple itself is not good news for the suppliers though if Apple improves its margins they don't get a piece of that.
+BULL8|Well, Apple is bringing more and more in-house.
+BEAR9|Alex at what point does it become very profitable for Apple to do that and margins expand again and OK, suppliers will lose out.
+NEUT10|But So what?
+NEUT11|For Apple, right?
+NEUT12|Yeah, exactly, that's the gamble that Apple is making that they might not be selling as many iPhones, but they will make more bucks for each iPhone they sell.
+NEUT13|Was interesting with today's news, it was really focused on Austrian company called AMS and they do not actually make the sort of chips that it's easy for Apple to spoof to copy.
+NEUT14|They're not based on Silicon, So what Apple does it designs these chips in house and gets a Taiwanese company called TSMC to manufacture it for them on their behalf.
+BEAR15|Did stuff that AMS does isn't copyable, but their sales are declining and so.
+NEUT16|That's really indicative of how, as you said in your piece, great piece.
+BEAR17|PMS is placing chunky bets on iPhone components, 3D sensors, sensors was at a bad bet.
+NEUT18|Or is that going to pay off for them?
+BULL19|I think ultimately it will pay off because it may just not be as lucrative as they might have hoped.
+NEUT20|At one stage.
+NEUT21|The odds are that other other phone makers and I think this may have been reported already are going to come into the 3D sensor space.
+NEUT22|So far you've got on one phone on the iPhone 10 and it's only sort of facing towards the user front facing.
+NEUT23|You're going to have a rear facing camera in future models.
+BULL24|"Which allows better augmented reality functions and not just in iPhones but in Android and Samsung's and all the others."""

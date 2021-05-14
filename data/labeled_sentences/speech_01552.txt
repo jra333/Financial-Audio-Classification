@@ -1,0 +1,45 @@
+NEUT0|"""Hello, I'm Steve Forbes and this is what's ahead when we give you insights and information you need for yourself and to learn more about the future in the country and in the world."
+NEUT1|Do you want your taxes to go up by thousands, perhaps 10s of thousands of dollars?
+BEAR2|Do you want your 401K to suffer the kind of hit it took in March and perhaps worse?
+NEUT3|If so, then you better ask the Democrats how are they going to pay for all the promises they're making?
+NEUT4|Free medical care free college?
+NEUT5|No student debt.
+BULL6|Massive bailouts for states that mismanaged their economies.
+NEUT7|Massive subsidies for this.
+NEUT8|That, and the other thing.
+NEUT9|Well, there are only two ways they can pay for it.
+BEAR10|Taxes and undermining the value of the dollar with inflation.
+NEUT11|Look at Europe.
+NEUT12|How do they pay for their free stuff?
+NEUT13|Look at the taxes they have.
+NEUT14|Take the payroll tax in this country.
+NEUT15|It's about 15%, which means if you make $50,000 a year, you and your employer pay about $7600, half you half the employer.
+BEAR16|In Europe, payroll taxes on that $50,000 can go as high as $25,000.
+NEUT17|What about the vieti?
+NEUT18|What they call the value added tax, which is a super sales tax in Europe?
+NEUT19|This super sales tax runs as high as 20 to 25%.
+NEUT20|You take a $300,000 house well with the vieti would go for 300 and $75,000 and income taxes their higher.
+NEUT21|But even with these European style taxes there still wouldn't be enough money to pay for all this stuff.
+NEUT22|And that's why the Democrats are talking about a new theory called.
+NEUT23|Modern monetary theory.
+NEUT24|The idea is as old as humankind just print a lot of money created out of thin air.
+NEUT25|They say this with a straight face.
+NEUT26|One of them said these economists.
+NEUT27|The government can't go broke, it just prints the money.
+NEUT28|Well, they've tried that in Venezuela.
+BEAR29|Look what happened there, Argentinas repeatedly destroyed its currency.
+NEUT30|Why would we want to do that?
+NEUT31|Look what happened in Germany after World War One when they destroyed their currency.
+NEUT32|That helped create the conditions.
+BEAR33|For the rise of Adolf Hitler, so trashing the value of the dollar, we did that a little bit in the 1970s and it was a highly unpleasant experience.
+NEUT34|Why would we want to do that again?
+BEAR35|And why pile on a bunch of taxes that will slow economic growth as happened in Europe?
+NEUT36|There's a better way.
+BULL37|Lower taxes, a stable dollar.
+NEUT38|And by golly, we then can get the best of all worlds.
+BULL39|More jobs, higher pay for everyone.
+NEUT40|Thank you for watching.
+NEUT41|I'm Steve Forbes.
+NEUT42|Look forward to being with you next time and in the meantime, don't hesitate to send in your questions and suggestions.
+BULL43|I really appreciate them.
+NEUT44|"Take care."""

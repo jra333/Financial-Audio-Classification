@@ -1,0 +1,16 @@
+NEUT0|"""Should you invest in Apple stock?"
+NEUT1|Hi guys, my name is Brendan Diaz and this video kicks off a series where I answer the simple question.
+NEUT2|Should you invest in a particular stock today?
+NEUT3|We're going over Apple according to their 10K, the company designs manufacturers and markets smartphones, personal computers, tablets, wearables and accessories.
+NEUT4|And they sell a variety of related services.
+NEUT5|Now I'm going to be using my quick reference guide from my ebook that I'll have in the description below, which goes over the main points that you need to review in order to make.
+NEUT6|Decision on whether or not to invest in a stock.
+NEUT7|So looking at Apple, so I'm going to be using Apple's 2019 annual report and from that report I was able to determine that their earnings per share was $11.97.
+NEUT8|Their price per share was $293.65, with the price to earnings ratio of $24.53.
+NEUT9|Now keep in mind that that was at the end of 2019.
+NEUT10|Currently they're running a price to earnings ratio of about $33.
+NEUT11|Anything above 20 is considered not favorable.
+NEUT12|Only because it's so expensive.
+NEUT13|So my final decision on whether you should purchase any stocks of Apple at this point just based off of the fundamental analysis.
+NEUT14|The decision is no.
+NEUT15|"I'll see you guys in the next video."""

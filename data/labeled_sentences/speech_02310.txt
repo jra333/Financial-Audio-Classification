@@ -1,0 +1,13 @@
+BULL0|"""It could be a wake up call for hopeful tech startups."
+BEAR1|Deliveroo is licking its wounds after a disastrous IPO, its shares slumped around 30% on their debut Wednesday and were still languishing at Lowe's a day later.
+BEAR2|Market watchers say it could be confirmation that investors are growing weary of buying shares in firms that have yet to turn a profit because the food delivery app is not the only one to struggle of late.
+BEAR3|Polish e-commerce logistics firm in Post debuted strongly in Amsterdam, but is now 10% below its listing price.
+BEAR4|Cloud platform digital Ocean sank 12% on its Wall Street debut last week.
+BEAR5|Chinese tech giant Baidu and video site Bilibili have both endured tepid listings.
+BEAR6|One analyst told Reuters the Wind has turned on all tech stocks saying investors are now keen on cheaper shares that should benefit from a global recovery.
+BULL7|Market debuts by more traditional firms with a history of profits have fared better.
+BULL8|UK Shoemaker Dr. Martens is up around 1/5 on its listing price.
+BULL9|German used car platform auto one is also well up.
+BULL10|Hopeful firms are still lining up to do offerings.
+BULL11|However Dutch tech firm we transfer and Swedish payments company, Klarna, are both poised for European listings, and analysts say investors are still sitting on plenty of cash keen to do deals.
+NEUT12|"Even so, some may feel it's time to pause and assess before committing their billions."""

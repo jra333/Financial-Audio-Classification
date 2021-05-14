@@ -1,0 +1,17 @@
+BULL0|"""We want to make the same determinations in uptrends, so in this case we have a very clear uptrend in price making higher highs and higher lows and momentum is also putting in higher highs now at a certain point prices made new highs."
+BEAR1|But momentum put in a lower high.
+BULL2|That is what we call a bearish divergance and is evidence that the uptrend is changing again, not necessarily reversing.
+NEUT3|In this case we're going from an uptrend to a sideways trend.
+BEAR4|Now notice that first you have the bearish divergance and then you're getting shares oversold in momentum.
+NEUT5|That is evidence of distribution.
+NEUT6|Those are characteristics of downtrends, not uptrends.
+BEAR7|So in this particular example you had the bearish divergent at the top oversold readings, well before the market collapsed.
+BEAR8|Multiple opportunities to either sell your stock and or initiate short positions before the fall, and then sure enough, once the prices were declining, momentum was failing to get overbought and consistently getting oversold.
+NEUT9|One of my favorite examples of a bearish momentum divergent was the US dollar index in March of 2009, one of the most important times that we've ever seen in the stock market.
+NEUT10|Here we're looking at the US dollar index in a beautiful uptrend momentum getting overbought, not getting oversold.
+NEUT11|And then on the new highs into March of 2009.
+NEUT12|You had a much lower high in momentum that bearish divergance was evidence that something was changing.
+BEAR13|Not only that, but on the initial sell off and the dollar momentum is getting oversold.
+NEUT14|So now you know you have a bearish momentum divergent's momentum in a bearish range.
+NEUT15|There is nothing bullish here about the United States dollar.
+NEUT16|"And this is where intermarket analysis comes into play."""

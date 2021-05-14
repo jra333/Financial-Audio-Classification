@@ -1,0 +1,11 @@
+NEUT0|"""Hello everyone, let's take a look at the Apple stock."
+BULL1|We can see the open the elective area but at the closing the market has managed to move into the positive area so it's a bullish sign for the stock.
+NEUT2|If we change the charge into daily chart we can see here with it still got a green candle here after yesterday's big.
+NEUT3|Jump so as I can see here the buying.
+BEAR4|Statue for the stock has been a little bit overbought in this data as we can see here.
+BEAR5|We got a small lower tail.
+NEUT6|That means there still buying power supporting, but in short term, is it still a little bit overboard in mid term?
+BULL7|We are still well above in the uptrend channel because we are well about this point.
+NEUT8|This is the mid term formal high and then we got another higher high here so we can see here is just like a standard.
+BEAR9|The first level, second level we are in the third level now, so it's still bullish for the stock emitter.
+BULL10|"Thank you very much."""

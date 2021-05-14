@@ -1,0 +1,30 @@
+NEUT0|"""It was the last trading day of the Financial year 2021."
+BULL1|An Indian equities finished on a high with most of the indices gaining or posting the best financial year performance in over a decade.
+NEUT2|That's FY 10 that I'm referring to.
+NEUT3|So you had the nifty.
+BULL4|The Sensex, along with the nifty bank, the small cap and Midcap index as well that posted the best fiscal year that we've had since FY 10, along with some of the sector indices like the NIFTY it.
+BULL5|And the nifty metals back also, which more than doubled for itself, and posted the best financial year since FY 10.
+NEUT6|Now if you have a look at the sectoral performance like I was telling you, there have been a lot of sectors that doubled for themselves.
+NEUT7|You had the nifty metal, the Autopac, and the IT Pack.
+BULL8|Also, which doubled for itself, notwithstanding that you know the Midcap and Smallcap also started participating and more than doubled for themselves in this financial year.
+NEUT9|Draw.
+NEUT10|On the flip side, what didn't do too well?
+NEUT11|One was.
+BEAR12|The volatility index that declined by as much as nearly 70%, and you know some of the sectors that underperformed the nifty were the PSC, the PSU bank space and the NIFTY FMCG also gaining just about 28%.
+NEUT13|Now, if you have a look at the, you know some of the nifty gainers and losers.
+NEUT14|What really stood out over here is the fact that more than 95% of the nifty stocks gained for themselves in there was only one stock that was coal India.
+BEAR15|That decline an you had the rally that was led by Tata Motors more than four times return in the last one year.
+NEUT16|Then you add Hindalco JSW Steel, an Grasim and Tata Steel, which also more than tripled for themselves.
+BEAR17|As far as the mid cap and small cap gainers, losers are concerned you had a lot of high flying names from the Adani group by Donny Total Gas A10 Bagger.
+NEUT18|For this one in the last one year or an enterprise is more than seven times return that it generated for itself and JSP along with steel Authority of India also more than tripled for itself.
+NEUT19|So you'll note that you know a lot of metal stocks are featuring in this list.
+NEUT20|What didn't do too well was of course a future retail yes bank.
+NEUT21|Rajesh exports Pfizer was the surprising one that you know, of course search just about 12% nevertheless.
+NEUT22|So you know, as far as the nifty Smallcap is concerned you had, once again, a lot of stocks that surged more than five times.
+NEUT23|Starting off with the lowest labs.
+NEUT24|Affle India, Dixon Technologies, and Alok Industries.
+BEAR25|What didn't do too well was omaxe Godfrey Phillips writes as well as midhani that declined about 1 to 3%.
+NEUT26|Each other, but overall, if you also have a look at, you know the money that came into Indian equities.
+BULL27|That was quite spectacular.
+NEUT28|The fires invested the highest ever fiscal amount that they've had in India at about 2.8 lacroze.
+BULL29|"While on the flip side you had the domestic institutions that sold about 1.4 Lac rose and this was the largest number that we have seen since FY 15."""

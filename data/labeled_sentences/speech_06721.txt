@@ -1,0 +1,7 @@
+BULL0|"""Etherium has confirmed its major breakout above the previous resistance of around $2000."
+NEUT1|Like I said yesterday.
+NEUT2|Since this breakout is now confirmed I have bought another big bag of etherium, a short term target that I have for the next couple weeks is around 2600.
+NEUT3|This is calculated with the double bottom pattern.
+NEUT4|We take the height of the previous dip and apply it according to the breakout and we get around 2600 and other useful chart to watch is the chart of Ethereum versus Bitcoin.
+BULL5|We're also seeing a similar double bottom pattern forming on the East BTC chart, and now that we have broken above the neckline of the double bottom pattern, we are looking to potentially test the previous diagonal resistance.
+BULL6|"This is a long term diagonal resistance trendline that dates back to September of 2019, and since this is the chart of East versus BTC, it means even if the price of Bitcoin doesn't move, we can still potentially see 40% gains in etherium."""

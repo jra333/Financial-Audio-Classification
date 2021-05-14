@@ -1,0 +1,23 @@
+NEUT0|"""Welcome to charts that count what's wrong with this picture."
+BEAR1|The Red Line is initial US jobless claims, of which there have been about 26 million in the past five weeks.
+BULL2|The blue line is the S&P 500, which is up almost 30% from its lows.
+NEUT3|In the latter part of March.
+BEAR4|Now, no one wants to pile a financial crisis on top of a public health crisis, but it is very fair to ask why the stock market is feeling so enthusiastic when millions of Americans are out of work and hundreds of thousands of businesses.
+BEAR5|Are still shuttered.
+NEUT6|There are two basic points to keep in mind about this.
+NEUT7|At the outset.
+NEUT8|The first is that the stock market is not the consumer economy.
+BULL9|The S&P 500 is about 25% tech stocks, another 15% is in healthcare and both of these sectors have done very well through the crisis, supporting the rest of the index.
+NEUT10|The second point is that monetary policy still matters and matters immensely.
+BEAR11|Central banks, easing of interest rates and their purchases of bonds have driven fixed income yields down to almost UN investable levels.
+NEUT12|This in turn forces investors who require real returns into the stock market.
+NEUT13|But is either one of these factors really enough to explain the strength we see in stocks?
+NEUT14|I don't think that they do.
+NEUT15|I think there is another assumption at play, the so-called V shaped recovery.
+BULL16|The idea that the economy once the virus crisis passes will rebound very quickly and hit its old levels of growth.
+NEUT17|There is also the assumption that this V shaped recovery will happen relatively soon.
+NEUT18|But are we really so confident in this?
+NEUT19|Last week, the US automaker Ford issued bonds at a yield of nearly 10%, showing just how much investors demand to be paid if they were going to put their money at risk.
+BEAR20|In a company that depends on the strength of the American consumer oil for future delivery recently fell to negative price.
+NEUT21|The market is not as strong as it seems.
+NEUT22|"Be careful out there."""

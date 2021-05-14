@@ -1,0 +1,49 @@
+NEUT0|"""So why not sell?"
+BULL1|Everything went well, a bunch of reasons.
+NEUT2|For starters, you're too late.
+NEUT3|What the heck do you think was happening all this week?
+BEAR4|More importantly, you're probably not nimble enough to get back in after you've gotten out and look at the high quality stocks selling off right now.
+NEUT5|You definitely want to get bit back in.
+BEAR6|Think Amazon and Facebook reported unbelievably good numbers and still got crushed.
+NEUT7|If you're looking at stocks the wrong way, you might believe these companies actually disappointed.
+NEUT8|I heard a lot of people come up they fomented.
+NEUT9|They ginned up reasons.
+BULL10|These were good companies with good numbers.
+NEUT11|Those people just didn't have anything else to do with their time.
+BEAR12|Their weakness today was all about the overall market, not what Facebook said or did.
+NEUT13|It can take down anything when it's in a bad mood, including copies.
+NEUT14|It sounded a little cautious about the future in the middle of a pandemic.
+NEUT15|There's no Xanax for a market.
+NEUT16|You know there's no Klonopin, OK there's no clause role, there's no.
+BULL17|Apple got hammered too, even though CEO Tim Cook made it clear to me that iPhone 12 sales are looking pretty good in the current quarter.
+NEUT18|I mean, I know some of some of you think they want a CEO tells you that sales look good.
+NEUT19|He's not to be trusted.
+NEUT20|Again.
+NEUT21|Absolutely wrong.
+NEUT22|You're getting the perfect buying opportunity, and Apple and Amazon and Facebook right now.
+NEUT23|Don't do it all at once.
+NEUT24|I reckon recommend picking up some here and then.
+NEUT25|You wait till after the election to buy more.
+NEUT26|Oh, and then other people who said I buried them in Apple.
+NEUT27|I got that I must be an Apple undertaker.
+NEUT28|I've been burying people in Apple since the stock was at $5.
+NEUT29|It closed at 108.
+NEUT30|I'm sorry I buried you.
+NEUT31|More importantly though, I don't think you're were actually clever enough to gain this.
+BULL32|OK, I suspect that the stock market will react best to a Trump victory, in part because Biden wants to rollback most of Trump's tax cuts.
+BULL33|On the other hand, if we get an overwhelming win by Biden, I think stocks will give you a dip and then move up in anticipation of a gigantic stimulus package.
+NEUT34|The real risk though is that will spend next week stuck in Purgatory where it's too close to call the whole thing ends up being fought in the courts and by then let's hope it's only fought in the courts.
+NEUT35|Now, winner of the outcome.
+NEUT36|So here's my voice.
+NEUT37|I think you by little on Monday when the market no doubt revisits today's lows.
+NEUT38|You take a break on Election Day and then you buy some more on Wednesday.
+BEAR39|If Biden wins, especially if it's close and Trump doesn't concede, that's gonna be ugly day.
+NEUT40|Then you wait until the unemployment number on Friday to buy a third transfer stock.
+NEUT41|Worst case, you buy some stocks on Monday, and there's no ball confusion.
+NEUT42|And will you at least have gotten a third of your money into the stock market?
+NEUT43|Don't miss a second of mad money.
+NEUT44|Follow at Jim Cramer on Twitter.
+NEUT45|Have a question?
+NEUT46|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT47|Shepard Smith here.
+NEUT48|"Thanks for watching CNBC on YouTube."""

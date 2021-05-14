@@ -1,0 +1,10 @@
+BULL0|"""Good morning and welcome to Morse money where we give you stock tips and under 2 minutes before we begin, I'd like to say thank you to at the time of this recording, the 39 views on the last video may not be a lot, but it means a lot to all of us."
+NEUT1|Here at Walmart, swilley.
+BEAR2|The stock I have for you today is 80 T. In the past, five days is dropped over 20% and we see this as a great buying opportunity.
+NEUT3|The company is known for its home security system and give the stock a couple more days of cooling off before I buy because I see some additional downside, analysts are considering ADT, A by an low estimates are pricing it around $9.
+NEUT4|The stock also pays a 1.84% dividend.
+BEAR5|They've been consistently paying the stiffening now for two years.
+NEUT6|The expiration for the dividend is March 17th.
+NEUT7|If for nothing else, I say buy a couple shares.
+NEUT8|You might make some money in the process and receive the dividend on top April 1st, and that's no joke.
+BULL9|"With that, I'd like to say thank you for watching and hope to see you in another Morris money video."""

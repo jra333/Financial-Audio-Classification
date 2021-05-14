@@ -1,0 +1,17 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xm.com."
+BEAR1|Today will be looking at WTI oil futures on the daily chart so zooming in we can see that WTI crude oil futures appears to be tilting negative again as it appears just below the February 1999 level of 19.25.
+NEUT2|By plotting anulo of 19.19, confirming the bearish sentiment or the short term oscillators.
+BEAR3|Furthermore, with the prevailing negative outlook painted by the diving simple moving averages and the still intact bearish mode of the Jamaica lines.
+BULL4|The odds are favoring more deterioration in the commodity.
+BULL5|That said, some caution of the flat and red tensions in line is warranted in case momentum picks up.
+BEAR6|If sellers continue on their path first, constrictions to the downside may come from the 19.25 and 19.19 fresh lows.
+BEAR7|A dropdown could rest at the 2002 year low of 18 before testing the 2001 year bottom of 17.50.
+BEAR8|We can infer the 1995 year low of 16.86 could change the Bears before concern.
+NEUT9|Traders start to turn their focus to the 15 an 14 marks.
+BEAR10|Otherwise, if buying interest picks up initial resistance could come from the 21.83 obstacle ahead of the 23.53 level and the nearby 10 kids in line at 24.12 moving up the 28.29 and 29.04 highs could prevent the price testing the lower surface of the McLeod and the inside swing low of 30.48.
+BEAR11|A jump higher could be challenged by the 34.25 resistance.
+NEUT12|And 50 day SMAP at 35.90 ahead of the 36.92 level.
+NEUT13|That being the 38.2% Fibonacci retracement of the download from 65 point 61219.19.
+BEAR14|Overall, the short term picture remains strongly bearish below the Smas and the 34.25 high, while the near term is neutral to bearish below 29.04.
+NEUT15|That's it from me.
+BULL16|"Have a great trading day."""

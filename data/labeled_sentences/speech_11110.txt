@@ -1,0 +1,12 @@
+NEUT0|"""Hello everyone, let's take a look at the Apple stock here today to form the hollow red candle."
+BEAR1|It means it has dropped but the job is from the beginning of the market when it closed market has go higher.
+BULL2|So it means the stock has bounced back from the low of the day it means.
+NEUT3|A very bullish sentiment in the market and we can see here from the volume.
+NEUT4|The volume is not high.
+NEUT5|It's comparably low, so it means not so much studying.
+BULL6|Actually, in my opinion, Apple can be steady here and make a new high from here.
+NEUT7|Because we can see it is still above the AMA 20 year May 50.
+BULL8|So it's a good sign for the whole market.
+NEUT9|So let's wait and see what will happen.
+BULL10|In my opinion it will go higher.
+BULL11|"Thank you."""

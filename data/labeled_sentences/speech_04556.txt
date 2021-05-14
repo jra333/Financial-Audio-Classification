@@ -1,0 +1,7 @@
+BULL0|"""Big beat here on the bottom line we're seeing EPS in the first quarter from Amazon of $7.00 and nine cents."
+BULL1|$4.72 was expected in terms of revenue right in line with what the street was expecting at $59.7 billion, which does represent Amazon slowest growth and some for years.
+BULL2|So you are seeing growth moderate somewhat, but you are seeing margins.
+NEUT3|Get ahold of a lot fatter and that is why you're seeing that big beat on the bottom line.
+BEAR4|Stock popped right at the beginning, but now it is down.
+NEUT5|Or just flat slightly will continue to dig through these numbers and bring you some really critical metrics like AWF switches, its cloud business, subscription services, physical stores.
+NEUT6|"All of that will be back as we get it guys."""

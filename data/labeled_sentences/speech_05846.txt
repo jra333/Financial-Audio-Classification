@@ -1,0 +1,5 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the instant P500."
+BEAR1|You can see that the futures market was open on Friday, but really the underlying cash course wasn't and therefore I think what we're going to see is probably a pullback and.
+BULL2|That is more than likely going to be a buying opportunity.
+NEUT3|I have no interest in shorting this market regardless.
+BEAR4|"Give enough time 4200 to my target 3800 though if that gets broken I'll buy a put, but that's about as bearish as I'm going to get."""

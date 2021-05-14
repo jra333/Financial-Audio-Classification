@@ -1,0 +1,22 @@
+NEUT0|"""Hi there, Jason Moser analyst with Motley Fool One thanks for joining us for another edition of Ask a fool today we're taking a question from Jarrett."
+NEUT1|Ian Jarrett asks, I would like to start buying individual companies and I'm not sure what the wise this next step is.
+NEUT2|In Jerry goes on to say that he's a newish investor and his concern is more related to transaction costs in the amount of money that he has to invest at.
+NEUT3|Anyone given time, should he be looking for lower Commission costs?
+NEUT4|What's really the best move for him?
+NEUT5|So, Jerrod, I understand that as it stands, you you are doing some ETF trading or investing with your current broker.
+NEUT6|Now I'm not sure what kind of holding period you currently have with your ETF's that you're investing in, but for for assumptions sake here, let's go ahead and assume that if you want to buy individual stocks then then you're intending on holding these stocks for longer periods of time.
+NEUT7|As you know, we tend to espouse here at The Motley Fool.
+NEUT8|Basically, the rule of thumb that will serve you well is to make sure that your transaction costs.
+NEUT9|Make up no more than 2% of your overall investment at that given time, so let's just look at some examples here.
+NEUT10|With the $10 transaction costs that you currently have today, you want to make sure that you're purchasing at least $500 worth of stock every time you make that purchase, because 2% of $500 is $10 now, there is no specific reason why you have to have everything consolidated in all of your accounts under one roof.
+NEUT11|I have accounts with Scott trade along with my retirement accounts and in other accounts.
+NEUT12|But for example, my my account with Scottrade they charged me a $7.00 Commission for every time I buy or sell a stock.
+NEUT13|Now that takes my threshold.
+NEUT14|My 2% threshold that takes me down about $350.00 which it's a little bit easier to kind of deal with that as opposed to $500 so you can see the difference there, but there are definitely brokerages out there that will offer you lower cost or even zero cost commissions.
+NEUT15|And there may be some stipulations there, like minimum balance is to be maintained.
+NEUT16|But the point I'm trying to make is that it's definitely worth your time to shop around.
+BULL17|It could certainly be worth your while as you as you start to grow as an investor.
+NEUT18|So the bottom line here is to remember the remember to follow that rule of thumb that transaction costs should make up no more than 2% of your overall investment.
+NEUT19|If you follow that right there, you'll definitely be on the right track.
+NEUT20|It's a great question.
+NEUT21|"I appreciate you asking it, and For more information make sure to check out full com."""

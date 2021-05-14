@@ -1,0 +1,30 @@
+NEUT0|"""Here's how cryptocurrencies can rescue the world."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+NEUT2|Will you get the insights you need to help navigate this turbulent world you would never know it from all the happy talk coming out of the Federal Reserve and other central banks.
+BEAR3|But inflation is a looming threat.
+NEUT4|Governments, including the US, are spending money on a scale not seen since World War Two, and most of it is being financed by printing massive amounts of money.
+NEUT5|The prime formula for firing up inflation, big time and boosting interest rates.
+NEUT6|What can be done?
+BULL7|Amazingly, the solution may come out of Latin America, which is chronically been a hotbed of debilitating inflation.
+NEUT8|A new kind of crypto currency may emerge that will eventually be used around the world.
+NEUT9|Take Argentina, the third largest economy there, and which is destroyed its currency.
+NEUT10|Countless times.
+BEAR11|The country today is in the grips of another terrible inflation, with prices rising at a rate of 50% a year.
+NEUT12|For a long time, astute observers in Argentina and elsewhere have advocated that Argentina ditch its habitually abused peso make the US dollar its official currency.
+BULL13|Several smaller Latin American nations, Ecuador, Panama, and El Salvador have dollarize their economies.
+NEUT14|The politicians hate it, but the voters love it.
+NEUT15|Argentinian politicians would never dollarize for nationalistic reasons.
+NEUT16|But the fact is that the dollar is the unofficial currency for transactions in Argentina as it is now an inflation battered Venezuela.
+NEUT17|Now here we get the opportunity for one of history's biggest monetary revolutions creating a cryptocurrency tide, in this case, to the dollar that can be easily used for everyday transactions and longer term contracts like mortgages, car payments, or bonds.
+BULL18|Unfortunately, most crypto creators think success is a currency that can rapidly rise in price Ala Bitcoin and others this past year.
+NEUT19|These crypto's are mostly speculative toys.
+NEUT20|Or a way to transfer money quickly while avoiding the prying eyes of government.
+NEUT21|But the crisis may well get crypto entrepreneurs in Argentina and elsewhere to manufacture a digital currency.
+NEUT22|To truly replace government made money.
+BEAR23|And if the US dollar itself seriously falters and inflation takes off, which could well happen.
+BULL24|The same entrepreneurial spirit may finally give people a usable alternative to the dollar, which would be anchored to, say, gold or the Swiss franc.
+BULL25|Washington will fiercely fight back.
+NEUT26|Including creating its own digital dollar, but given what passes for economic wisdom these days, this high tech version of the dollar by Uncle Sam will be no better than the paper kind.
+NEUT27|It looks like cryptocurrencies may indeed be kryptonite for government currencies.
+NEUT28|I'm Steve Forbes.
+BULL29|"Thanks for listening to sending your comments and suggestions and look forward to being with you soon again."""

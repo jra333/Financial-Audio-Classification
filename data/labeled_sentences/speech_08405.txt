@@ -1,0 +1,36 @@
+BULL0|"""It's kind of amazing we've been having so many conversations for the past."
+NEUT1|I don't even know year now, Henry, about things like political advertising on the social media sites.
+NEUT2|Certainly we've seen it streaming, coming, coming into play with Spotify saying that it was going to not take any political advertising back in December, but this has not been a topic of conversation yet.
+NEUT3|Why not?
+NEUT4|Well, it is starting to be.
+BULL5|Yeah, we're learning.
+NEUT6|Is that political campaigns will do absolutely everything.
+NEUT7|They are not explicitly prevented from doing.
+NEUT8|And the thing that's different here is you look at the different rules for the social folks for the streaming companies versus broadcast.
+NEUT9|There needs to be one set of rules here.
+NEUT10|Otherwise we will see exactly what we're seeing.
+NEUT11|Yeah, I think the worst thing we can do is conflate streaming with linear regular broadcast TV.
+NEUT12|They are completely different beasts when it comes to ad targeting, and I think what a lot of consumers don't understand is how much of what they watch is being targeted or being tracked, and so this is a completely different beast when looking at what can political campaigns gather about their viewers or the viewers and then target ads against that, join the hub out.
+NEUT13|This may be targeted, ads ought to be regulated.
+NEUT14|Not even just talking.
+NEUT15|Political ads 'cause I think about junk food or vape pens or housing and employment, even if it's not a direct solicitation for employment or for housing, there're discrimination issues there potentially.
+NEUT16|How's anybody going to know if targeted ads are creating issues?
+NEUT17|Unless somebody is at least looking at who's placing the ads, who they're targeting and then tracking with the results are I could not agree more.
+NEUT18|How about that?
+BULL19|I think the biggest thing that we're going to see here is transparency is key, and I actually believe Facebook is going to be a leader in this.
+BULL20|As much as flacas we've given Facebook over the last 1-2 years, three years, they've made a really big inroads in giving us some transparency about why we're seeing those ads.
+NEUT21|What info was gathered while we were seeing that particular thing in our news Feed in our Instagram feed.
+NEUT22|I don't know.
+NEUT23|Plastered to our head, that's important because the experience is the same for the consumer, right?
+NEUT24|You don't understand why you're seeing it.
+NEUT25|You're just seeing it the way you would watch something on TV.
+BULL26|Arguably the experience can be much better for the consumer.
+NEUT27|If it's well targeted and ads have always been targeted there, always demographic assumptions.
+NEUT28|Advertisers are always trying to figure out which ads are working, which aren't.
+NEUT29|You're watching television.
+NEUT30|80% of the ads don't have anything to do with anything you're going to buy in the next 10 years.
+NEUT31|You know that doesn't help anybody, so there should be some targeting, but I think to Joanna's point is question how far you go with it.
+NEUT32|Facebook got to the point where you could target 5 people with certain characteristics on a particular block.
+BEAR33|OK, maybe that's too much.
+NEUT34|We're going to have to figure out what.
+NEUT35|"Actually makes sense."""

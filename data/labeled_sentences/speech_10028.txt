@@ -1,0 +1,17 @@
+NEUT0|"""How do you trade a stock which has just got listed?"
+NEUT1|First of all, choose a stock which is oversubscribed when the IPO is oversubscribed, as a good chance, it goes up.
+NEUT2|Now.
+NEUT3|What happened here to Grocery is.
+BULL4|It opened at about 65% higher.
+BEAR5|Then it dropped within 15 minutes, but then started moving higher.
+NEUT6|Respecting the 9 and 15 emmas.
+NEUT7|So it there was a period of consolidation.
+NEUT8|Not all around 1:00 o'clock it started zooming up.
+NEUT9|The best way would be.
+NEUT10|To exit when you see the first red candle.
+NEUT11|Which happened at around 2:00 o'clock.
+NEUT12|Let us look at the one minute chart.
+NEUT13|If you can see at 803, a red candle formed.
+NEUT14|And after that it started dropping exit.
+NEUT15|At this point do not stay.
+NEUT16|"In the trade beyond this point."""

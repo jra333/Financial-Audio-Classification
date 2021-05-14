@@ -1,0 +1,45 @@
+NEUT0|"""Alright, this is a quick."
+NEUT1|A quick video prediction on stock CG hly.
+NEUT2|It's late, I'm kind of short on time, so I'm going to be as brief as possible.
+NEUT3|The stock is currently 7916 cents.
+NEUT4|I'm going to try to get a buy on it tomorrow just under 80.
+NEUT5|This stock will not be sold below 20% had beebout 96.
+NEUT6|That's a minimum 20%.
+NEUT7|Why is this important?
+NEUT8|Meryl Price with the T Rowe Price Meryl Lynch?
+NEUT9|These brokerages.
+NEUT10|What are they trying?
+NEUT11|What are they hoping to try to get you in a year?
+NEUT12|12 months trying to get you a 10 percent, 12%.
+BULL13|I think that's good.
+BULL14|That's a hope.
+NEUT15|There is no hope here.
+NEUT16|I'm telling you this stock is going to produce a minimum, right?
+NEUT17|That's a minimum.
+BULL18|OK, so it's certainly going much higher.
+NEUT19|You probably looking at 140 hundred $50 stock here before it's over with.
+BEAR20|So 20% is changed.
+NEUT21|But if you're not into that long term, buy and hold strategy in next few months.
+NEUT22|This stock is at $80.00 right now.
+NEUT23|It will not.
+NEUT24|Not give you at least 20%.
+NEUT25|That's all I'm looking for.
+NEUT26|$80.10 percent would be about $8.88, so 20% be double that that 16.
+NEUT27|96 is the minimum.
+NEUT28|OK, that $110 price is absolutely false.
+NEUT29|Don't believe it.
+NEUT30|That is not deleted for this stuck.
+NEUT31|I do not know who this company is.
+NEUT32|I've done no research.
+NEUT33|This is based strictly off of the chart and what it is doing.
+NEUT34|OK so $80.00 and will try to purchase this tomorrow.
+NEUT35|Would a guarantee of 20% in the near future?
+NEUT36|Certainly less than one year?
+NEUT37|OK, so here is the time.
+NEUT38|I mean the date.
+NEUT39|November 3rd Election Day 2020.
+NEUT40|Definitely before one year this stock is gonna produce.
+NEUT41|At least 20%.
+NEUT42|If you got money.
+NEUT43|This is where you need to ask some of it by tomorrow.
+BULL44|"Thank you."""

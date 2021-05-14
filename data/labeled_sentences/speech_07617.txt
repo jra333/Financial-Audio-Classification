@@ -1,0 +1,12 @@
+NEUT0|"""You said just a few minutes ago we asked you on worldwide exchange, right now, Berkshire Hathaway is a net buyer of stocks."
+NEUT1|You are in a net buying position in that buyer of stocks.
+NEUT2|Or I've actually been a personal net buyer of stocks ever since I was 11 every year.
+NEUT3|There's been.
+NEUT4|15 American presidents.
+NEUT5|In my lifetime, more than third, I've lived under a third of the life I didn't buy.
+BEAR6|Stock is under Hoover.
+NEUT7|I was only about six months old and but, but there's been seven Republicans after that.
+NEUT8|In seven Democrats, I bought stocks under every one of them.
+NEUT9|Now I'm what stocks every day they're going to.
+NEUT10|Few times I thought stocks were were really quite high.
+NEUT11|"I've even written an article once or twice, but that's very seldom but you wrapped up your partnership at one point wrapped up my partnership once because she thought it was too expensive."""

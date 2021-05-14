@@ -1,0 +1,24 @@
+NEUT0|"""Hello, my name is Michael Hernandez and I'm applying for the business Intelligence analyst role at The Motley Fool."
+NEUT1|I'm currently an entrepreneur in residence in this yoga Center for principled entrepreneurship at the Catholic University of America.
+NEUT2|My responsibilities in this role, or to bring students, small businesses, and our expert faculty together to solve problems for our small businesses that we work with.
+NEUT3|As a result of this, I teach the yearlong small business growth lab course when we bring our entrepreneurship, minor students or seniors.
+NEUT4|And the Capstone course to go do the work for the small businesses that we work with.
+NEUT5|The best way to think about it is it's a somewhat of a small small business consultancy.
+NEUT6|Emphasis on the word small there.
+NEUT7|We've completed over 60 projects ranging from finance and operations to sales and marketing.
+NEUT8|And we do a significant amount of strategy work.
+NEUT9|As well, the important thing about the strategy work is, as we're teaching the students all the relevant concepts that you're going to learn in traditional business education.
+NEUT10|We also recognized that we needed to teach the small businesses as well, so I'm a lecturer in our small business series where I teach the business Model Canvas and the Corn Explore Framework, which I believe these two pillars really encapsulate what strategy really needs to be for any small business, as can you lay out your business plan on one sheet of paper that takes you 15 minutes.
+BEAR11|And the core and explore framework, which done in 10 seconds or less means 85% of businesses fail because they underutilized their current assets.
+NEUT12|When I was looking at the business intelligence analyst role, a lot of that started to see a lot of that started to scream out to me.
+NEUT13|It's about optimization.
+NEUT14|It's about doing more with less.
+NEUT15|It's about using data to find out how customer retention can be better, how customer acquisition can be better, and that's what I love to do.
+NEUT16|Its part of my purpose statement, which is to make things better while doing more with less to increase the freedom of all.
+NEUT17|Well, there you go.
+NEUT18|Under 2 minutes you listen to a guy with the mustache because I didn't feel like writing a letter, and I know you didn't feel like reading one either.
+NEUT19|So here's my YouTube video during day 237 of Covid.
+NEUT20|OK, not that high, but still it feels like that on a sunny day.
+NEUT21|I'm going to go.
+NEUT22|I know you're going to go.
+NEUT23|"I hope to talk to you soon and peace."""

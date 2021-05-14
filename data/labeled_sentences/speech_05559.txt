@@ -1,0 +1,19 @@
+NEUT0|"""I think more people think I'm American in Australia, which is kind of funny and the older I get, the more I hear that, especially when I tell people like wow, you're from Australia."
+NEUT1|But that's my roots.
+NEUT2|You know.
+NEUT3|Some phones where I grew up.
+NEUT4|I'm Ben Simmons from the Philadelphia 76ers.
+NEUT5|I feel like everyone makes sacrifices.
+NEUT6|Say one of my sacrifices would be leaving my family at 16 to come to America.
+NEUT7|That was a sacrifice for me at a young age that I took to follow my passion as playing basketball.
+NEUT8|Shifted a lot, which was just a different system and just a different lifestyle.
+NEUT9|To me this country is.
+NEUT10|Is built off, you know all types of different nationalities.
+NEUT11|Everyone has different situations.
+NEUT12|People come from different backgrounds and cultures, but that's what's so special about, you know America and countries like Australia is.
+NEUT13|The diversity is incredible, and it's what makes the country.
+NEUT14|To me, the American dream is being able to follow your passion and living in freedom.
+NEUT15|I think you know, everybody finds you know what they really want to do with time.
+NEUT16|My passion changes as I evolved.
+NEUT17|So you know, new things, new opportunities come along the way.
+NEUT18|"But if I'm passionate about doing chasing."""

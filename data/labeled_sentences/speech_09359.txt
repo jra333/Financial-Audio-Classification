@@ -1,0 +1,20 @@
+NEUT0|"""In this video we will talk about when will lucid Motors deal with Churchill."
+NEUT1|Capital will be announced.
+NEUT2|And at the end of this video we will reveal what is the next price target for the stock.
+NEUT3|So let's begin one of the most talked about C deals in electric vehicles.
+NEUT4|Stories could also be the highlight of the coming trading week.
+NEUT5|With a deal announcement nearing the finish line, what happened?
+BULL6|Lucid Motors rumored to be landing a SPC deal with Churchill Capital Corporation since January, is close to a deal, according to Bloomberg.
+BULL7|The report says the valuation would be $15 billion for lucid Motors, up from $12 billion reported last week.
+NEUT8|Churchill Capital is said to be raising an additional $1 billion to $1.5 billion to finance the merger.
+NEUT9|The $15 billion valuation would be based on the original $10 offering price of Churchill Capital shares, according to Bloomberg.
+NEUT10|The deal could be announced on Tuesday.
+BEAR11|Shares of Churchill Capital have soared on the rumors.
+NEUT12|Several appearances by Lucid Motors.
+BEAR13|Executives on CNBC have led to spikes in the share price.
+NEUT14|The $15 billion valuation of Lucid Motors could make this one of the largest PC deals in history.
+BULL15|Potentially beating last year's UWM Holdings merger, valued at $16 billion.
+BEAR16|Shares of Churchill Capital were down 9% on Friday to close the week at $53.
+NEUT17|Despite that, it's very possible that the next price target for the stock could be at $100.
+NEUT18|Don't forget to press that like button.
+NEUT19|"And make sure to click on that subscribe button if you want to see more videos about Churchill Capital stock."""

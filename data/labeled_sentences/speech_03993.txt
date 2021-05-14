@@ -1,0 +1,27 @@
+BEAR0|"""Since Buffett sold all his airline stake, there has been a lot of critics on him."
+BEAR1|People called him an idiot.
+BEAR2|Even the US President Donald Trump said that Warren Buffett has been right his whole life but made a mistake selling airlines stating that the gains by the airline stocks in the following days.
+BULL3|American Airlines just rose 41% in the following days.
+BEAR4|David Scott Portnoy, who is an American Internet celebrity Blogger and founder of the satirical sports and pop culture blog, Barstool Sports, tweeted that Buffett is washed up.
+BEAR5|Ann has lost his fastball.
+NEUT6|He is not even an investor.
+BEAR7|Nora Trader Buffett also Lossed investment from Bill Hackman.
+NEUT8|Who is the founder and CEO of Pershing Square who later sold all his stake in Berkshire Hathaway.
+NEUT9|Despite all these critics, Buffett made $11 billion just in 2020.
+NEUT10|He didn't even invest in 2020, but his cash piling billions of dollars.
+NEUT11|So how did Buffett make $11 billion when numerous companies are filing for bankruptcy?
+NEUT12|One who knows or reads about Warren Buffett?
+NEUT13|Would know that Buffett's favorite stock is that of Apple.
+NEUT14|Berkshire Hathaway owned 5.5% of Apple stock by the end of March 2020.
+BULL15|Apple stock price hit a record high this week, boosting the company's valuation to almost $1.5 trillion and the value of buffets take rose to $83 billion.
+BULL16|Berkshires Apple Stake was worth about $72 billion at the end of December, meaning it is scored a gain of more than $11 billion on a single stock, which happens to make up more than 40% of the value of its stock portfolio in a matter of months.
+NEUT17|Similarly, Berkshire held about $993 million worth of Amazon stock at the end of December.
+BULL18|The Commerce Titans shares also climbed to a record high this week, lifting the value of Berkshire's stake to nearly $1.4 billion even after it cashed out 4000 shares or about zero point.
+NEUT19|7% of the position in the first quarter.
+BEAR20|True, several of Berkshire's largest Holdings, including Bank of America, Coca Cola, American Express and Wells Fargo, are still down this year, but it's Apple.
+BEAR21|An Amazon gains show the boss hasn't entirely lost his touch.
+NEUT22|Buffett did lose his money in airline stocks, but he made even more money from other stocks.
+BULL23|His words are truly inspirational.
+NEUT24|Do not put all eggs in one basket, meaning never invest all your money into single stock and company, no matter how good the company is.
+NEUT25|Please share this with one friend.
+NEUT26|"Make sure to like comment, share and subscribe."""

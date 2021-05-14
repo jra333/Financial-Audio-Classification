@@ -1,0 +1,30 @@
+NEUT0|"""Global investors haven't been paying too much attention to the UK in recent weeks, which might seem strange when you consider that Brexit is expected to be triggered within a month."
+NEUT1|Here to discuss why that might be is Lucio Carroll, chief economist at Aberdeen Asset Management, Lucy thank you so much for joining us.
+NEUT2|So sure, so global and global markets haven't paid too much attention to the UK.
+NEUT3|Things have been fairly neutral at the moment, why?
+NEUT4|Why do you think that is?
+NEUT5|It's interesting to see, isn't it?
+NEUT6|I mean, if you look at this chart of the 10 year gilt yield compared to the volatility we had around the time of the.
+NEUT7|Shock, referendum vote and Mark Carney coming out and supporting markets relatively little movement in the recent period of time, and I think that's just a reflection of the fact that markets are on the one hand waiting to see what happens once Article 50 is triggered and on the other hand, probably much more interested in global events.
+BEAR8|There has been movement in stock markets.
+NEUT9|There isn't that.
+BULL10|It's been fairly positive.
+BULL11|Yes, there has been movement in stock market stock markets in an upward direction.
+NEUT12|5100 is is an interesting one to watch, but that's really not about what's going on in the UK economy.
+NEUT13|That's a global story.
+NEUT14|That's a Sterling story.
+NEUT15|And this suggests that investors are looking past something quite dramatic that has been happening.
+BULL16|Yeah, it's interesting if you look at the rate of UK inflation that has gone up very sharply from Ground Zero in 2015 to REITs much more closely approaching the Bank of England's 2% target.
+NEUT17|But what is happening in markets is they are focused on global issues as you said, but also they're buying the Bank of England story that this rise in UK inflation is really about sucking in of imported inflation.
+NEUT18|The rise in the prices of goods that were.
+NEUT19|Year ago, relatively weak inflation terms and that consumers will switch from their income from purchasing out of Luxury's out of more cyclical products into spending more of their income on purchasing these necessities is not really a kind of wage price spiral type information.
+NEUT20|So for global investors is Brexit going to be the thing that they focus on in the next month, or is there something else that you know no, absolutely not.
+NEUT21|Global investors are going to be much more interested in what Janet Yellen has to say next week.
+NEUT22|Of course, almost everybody now is expecting the Fed to raise interest rates this month, but what she going to be signaling by way of the future path of US interest rates is there going to be any change in that signal of sort of gradualist tightening?
+NEUT23|Also, how is the Fed reacting to relatively little detail from Donald Trump on his policy proposals?
+NEUT24|And what do we get from him over the next few weeks and months in terms of those policy proposals?
+NEUT25|And how likely does market the market then judge it that he'll get those through relatively unscathed so?
+NEUT26|He's much bigger.
+NEUT27|Global questions are what markets are currently focused on.
+BULL28|Lucio Carol, thank you very much.
+BULL29|"Thank you."""

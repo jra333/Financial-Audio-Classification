@@ -1,0 +1,13 @@
+NEUT0|"""How everybody JP Morgan reported its second quarter earnings still hours ago."
+NEUT1|The biggest bank in America is closely watched as one of the bow waters of the economy, which makes the processes that drove JPM's results very important, not only for investors but also for businesses.
+BULL2|JPM's revenues rose 14%, driven by the banks principle, transactions, which soared 100 and 5%.
+NEUT3|As a reminder, principle transactions are the banks market making and trading activities in debt and equity markets.
+BULL4|Revenues were also boosted by $1.18 billion in markups on portfolios held at JPM's Investment and Commercial Banking Divisions.
+BEAR5|Both internal processes behind the strong revenues number are in fact negative.
+BEAR6|Not interesting coma fell 3.8% because of an almost 14% drop in the net interest income of JPM's consumer banking banking division.
+BEAR7|At the same time, the interest rate spread fell 27 basis points to 1.9 percentage points due to a significant drop in average loan rates.
+BULL8|In another notable development JPM's interest earning assets increased 20.6% because of a massive 78% rise in the volume of investment securities held by the bank, which now amounts to half a trillion dollars.
+BEAR9|Overall, JPM reported average results in the tough months of covette at the same time the banks markets related profits are hardly sustainable at those levels.
+NEUT10|There is a new way to learn about stocks, markets and trading and companies.
+NEUT11|You can access it at roblist.com.
+BULL12|"Thank you for listening."""

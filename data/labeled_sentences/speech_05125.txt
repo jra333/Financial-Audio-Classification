@@ -1,0 +1,22 @@
+BULL0|"""Netflix U fees for first time since 2015."
+BEAR1|Netflix Incorporated's U.S. business in FLX to announce the first rises in monthly fees in two years on Thursday, hiking costs for two of its three main subscription plans, as it spends heavily on its own original content.
+NEUT2|The company is mid range plan which allows streaming on two devices at the same time.
+BULL3|Was increased to $10.99 per month from $9.99.
+NEUT4|NFL X dot it web link.
+BULL5|The top tier plan, which allows streaming on four screens in high definition, was raised to $13.99 per month from $11.99.
+NEUT6|The basic plan fee remained at $7.99.
+BULL7|Shares in the global streaming pioneer Rose as much as 4.5% to a record high of $192.80.
+BEAR8|Most investors believe that Netflix is priced well below its value to consumers and want to see the management continue to increase monetization.
+NEUT9|Rob Sanderson, analyst at MKM Partners said.
+BULL10|In 2011, Netflix raised prices for some customers by as much as $6, causing more than 800,000 US subscribers to desert the service, React Dot Rs web link.
+BEAR11|A more gradual move in 2014 did not provoke the same outrage.
+NEUT12|Netflix is cheaper than many of its competitors, despite the current price hike HBO Now the standalone streaming service of HBO that offers access to shows such as Game of Thrones and Veep, is priced at $14.99 a month while Hulu prices its service without commercials at $11.99 per month.
+BULL13|This price increase will likely be a revenue growth catalyst for the company.
+NEUT14|RBC Capital Markets analyst Mark Mahaney wrote in a client note the content, not price is the leading turn turn back factor amongst Netflix Subs.
+NEUT15|The price hikes will only be in the United States and will start taking effect from mid November.
+NEUT16|Depending on users billing cycles.
+BULL17|The higher pricing comes as the video streaming service spends heavily on original content and expanding outside the US.
+BEAR18|Netflix had earlier said it would spend over $6 billion this year on original shows and expected to have negative free cash flow of $2 billion to $2.5 billion.
+BULL19|The average revenue per user ARPU you lift is a significant growth driver unimportant to the content budget, said Sanderson.
+NEUT20|Reporting by Samantha Mukherjee, Aishwarya vinegar, Opal, and Livery Chatterjee in Bengaluru.
+NEUT21|"Editing by Patrick Graham and Bernard Orr."""

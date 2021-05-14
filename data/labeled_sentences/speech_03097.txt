@@ -1,0 +1,21 @@
+BEAR0|"""China's main stock index has fallen more than 30% in the last three weeks."
+BEAR1|The big drop marks a dramatic reversal from the huge runup in Chinese stock prices that began late last year, more than doubling the index in a period of about seven months over the last week's losses piled up, Chinese authorities have taken a number of unprecedented moves to try to restore confidence at the end of June, the central bank cut interest rates for the fourth time since November, pairing the move with a cut in the required reserve ratio for banks.
+BULL2|Last weekend, the central bank said it would loan directly from its own balance sheet to support stock purchases, so having that liquidity window open means that the core intermediaries in the market will remain stable, so they'll be after access liquidity when they need it.
+NEUT3|So I think that's important.
+NEUT4|That's probably the biggest measure in terms of, you know, creating an orderly retreat or an orderly unwind of margin financing levels.
+NEUT5|A group of 21 mostly state owned securities brokerages.
+BULL6|Pledged to spend $19 billion of their own money to buy shares and promise not to sell them until the main index breaks above a key resistance level.
+BEAR7|Local media has also said that the Futures exchange is pressuring traders not to use stock index futures to short the market.
+NEUT8|So far the measures aren't having the impact the government hoped.
+NEUT9|Even ways that closed.
+NEUT10|Equity market or capital account it's very difficult for the policy makers to contain very rapid for in the equity market.
+NEUT11|So this suggests that perhaps going forward they could be more policy, coordination and China need to think about its capital account liberalization.
+NEUT12|If it pushes capital account liberalization too fast, then.
+NEUT13|It will make you know the current in the market downturn.
+NEUT14|More uncontainable.
+BEAR15|Nearly half of Chinese companies listed in Shanghai and Shenzhen have halted trading of their shares to prevent further losses, but that's at best a temporary fix.
+NEUT16|What I'm hoping for is Beijing will take this correction in the past three weeks as an officer and a window of opportunity to revisit its way of implementing reforms and handling.
+BULL17|Crisis like situation and from there hopefully they can improve on the way that they they implement, reforms it and do things now.
+BEAR18|But if Beijing miss this window of opportunities and what Beijing did in past weekend, probably going forward in saving the market will go down in history as bad thing.
+BEAR19|Analysts say that while direct spillover from the stock market to the real economy is limited, the failure of government measures to stanch the bleeding threatens to undermine the credibility of the Communist Party.
+NEUT20|"Gabriel will down Financial Times, Shanghai."""

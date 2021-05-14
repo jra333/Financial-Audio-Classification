@@ -1,0 +1,41 @@
+NEUT0|"""Hey there, Jason Moser analyst with Motley Fool one here."
+NEUT1|Thanks for joining us for another edition of Ask a fool.
+NEUT2|Today's question is submitted by Mark Creepy and Mark asks why would a winning stock that has had a good run and now makes up a bigger portion of your portfolio mean that there's a greater risk?
+BEAR3|I heard this argument the other day on market foolery and it doesn't make sense to me.
+NEUT4|Well, first and foremost, Mark, thank you for listening to market Foolery.
+BULL5|We're thrilled to have you as one of our dozens of listeners now.
+NEUT6|This is a good question.
+NEUT7|I think it's a bit subjective.
+NEUT8|It's going to be a little bit different.
+NEUT9|Answer For everyone so.
+NEUT10|I think really it just depends on what kind of risk you're comfortable with, but the risk here is in relation to the amount of exposure that one given company is going to take in your portfolio.
+NEUT11|So you just think about it this way is a position makes up a greater percentage of your portfolio.
+NEUT12|Your portfolio then becomes more dependent on that one individual company going forward, and I think that's important to remember.
+NEUT13|You look at this going forward.
+NEUT14|Don't pay attention necessarily.
+NEUT15|What's happened up to that point because we're looking to see how this stock is going to return for us in future years.
+BULL16|So I think a good example we could look at Apple now if you bought Apple stock back in September 2008, you would have seen it rise from somewhere in the neighborhood of $140.00 per share to over $700.00 per share.
+BULL17|We share phenomenal gains, obviously, and we believe strongly that Apple is one of the greatest companies out there, and we certainly think that it's long term.
+BULL18|Long term potential is is still tremendous.
+NEUT19|But assuming that you never re balance your portfolio and your portfolio would have been very levered to the performance of that one single company that one stock.
+BEAR20|And then consequently, you would have seen the pinch when Apple started following all the way back down below $400.
+NEUT21|So you would have felt that loss just as just as you felt those gains as well.
+NEUT22|It reminds me of the stock Advisor Way principle #3, which is diversified in that states that we need not own that many stocks, but a diversified portfolio protects us from the inevitable blips and allows us to sleep well at night, and I think that's important to be able to sleep well at night.
+NEUT23|You know, there's an interesting quote from Warren Buffett.
+NEUT24|He once said diversification is protection against.
+NEUT25|Ignorance.
+NEUT26|It makes little sense if you know what you're doing now I'm a big Buffett fan.
+NEUT27|I mean, I certainly appreciate and listen to what he has to say, but here I'm going to respectfully disagree just a little bit, at least because I do.
+NEUT28|I do think that you know stuff happens and there's no way we can see it coming.
+NEUT29|Oftentimes I don't believe diversity is protection against ignorance.
+NEUT30|I think it's more of a protection against the unknown.
+NEUT31|There are things that are going to happen.
+NEUT32|We cannot predict.
+NEUT33|And so I think that diversity sort of helps protect you from the unknown.
+NEUT34|And rebalancing helps keep you from being.
+NEUT35|Too terribly exposed or levered to one particular company, so the bottom line here is you need to understand where where you feel most comfortable as an investor and you pay attention to your portfolio allocations.
+NEUT36|Understanding what your portfolios levered to and then proceeding accordingly.
+NEUT37|If a position grows to the point where you start to worry about it or you even lose sleep at night then that's probably a good sign that you may want to take a look at rebalancing that portfolio in order to take some of that risk off the table and reallocate it to other, better ideas.
+NEUT38|But a good question.
+NEUT39|I think the answer is a little bit different for everyone.
+NEUT40|"I appreciate you submitting it and For more information make sure to check out full com."""

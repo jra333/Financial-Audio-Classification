@@ -1,0 +1,12 @@
+NEUT0|"""The chicken power Gauge rating provides three main ratings for stocks bullish, neutral and bearish."
+NEUT1|Let's talk about what a bullish rating means.
+NEUT2|Any stock with a bullish power gauge rating?
+BULL3|Means that its growth potential over the next one to six months is very strong.
+NEUT4|You'll find stocks that are rated either bullish or very bullish.
+NEUT5|These ratings are determined by the components of our power gauge rating, which you can access in the upper right hand corner of the page.
+NEUT6|In this case, at most energy has a very bullish power gauge rating, and if we look at the chicken power gauge reference, you can see that it has been primarily bullish since the middle of July.
+BULL7|At the same time, you can see how the stock has risen from about $54.00.
+NEUT8|Up to currently 72.
+BEAR9|A stock with a bearish rating is likely to depreciate in value over the next one to six month timeframe.
+BEAR10|In this case, notice how the stock Amazon, after having grown for a long time, started to lose value once its power gauge rating turned bearish.
+BEAR11|"Not only do we expect the stocks growth to stop, but we expect it to go down in value because the power gauge rating is bearish."""

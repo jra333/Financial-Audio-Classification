@@ -1,0 +1,29 @@
+NEUT0|"""Hi everyone, this is Brendan."
+NEUT1|On behalf of DT Dot Live and today we're having a look at two different stocks.
+NEUT2|The first being waste management incorporated ticker symbol WM and the second being Teledoc Health Incorporated ticker symbol TD OC.
+BEAR3|Looking at the monthly timeframe on waste management, we can see that prices been in a bullish trend.
+NEUT4|We had a break above this area of consolidation around mid 2013.
+BULL5|Price then came down, retested broke above retested this previous area of resistance and is since then continued well to the upside.
+BULL6|Trading just above the round #90.
+BULL7|At $90.36.
+NEUT8|Looking at the weekly time frame, we can see that prices trading above the 200 moving average as well as the 50 moving average and prices also trading above all of the weekly CAT 10 levels.
+BULL9|Now we did have very strong resistance around.
+BEAR10|January of this year where Price has since then went into consolidation and after earnings we have just now recently seen a break above this level and this level currently seems to be holding strong as support.
+BULL11|Looking at the daily time frame, we can see that prices trading above the 200 moving averages well, giving us a bullish bias on this pair and prices.
+BULL12|Also, trading above the 50 moving average giving us a bullish trend on this stock.
+BULL13|Now, as mentioned on the weekly time frame, we can see that price is holding strong as support around the round #90 the last candle wasn't indecision.
+BULL14|Candle followed by this bullish candle here and we also have increasing volume as well as bouncer trading below 3.
+NEUT15|So this looks to be a good potential setup for a pullback opportunity on this stock and Lastly will have a look at Teladoc Health Incorporated ticker symbol TDOC.
+NEUT16|Looking at the monthly timeframe we can see that this is a newer stock and.
+BULL17|Right out of the gate price found bears momentum to the downside or it found support around the $10 area and after breaking above the IPO we found support around the initial public offering and the round #30 before continuing well to the upside or prices currently trading at $86.35.
+NEUT18|Looking at the weekly timeframe.
+NEUT19|As mentioned on the monthly timeframe, this is a fairly newer stock, so we do not have enough data to support A200 moving average yet.
+NEUT20|But we do have price trading above the 50 moving average.
+NEUT21|Looking at the daily timeframe, we can see that price is trading above the 200 moving average, 50 moving average and 20 moving average.
+BULL22|Now Price found support around this previous area of resistance around $70.00 and.
+NEUT23|We had a break out on Thursday's bar.
+BULL24|Followed by another bullish Bar and we have had increasing volume over the last few days as well.
+BULL25|And this stock is looking good.
+BULL26|With the recent break above the round #80 followed by more bullish momentum.
+BULL27|But if you did not take the breakout off of this bar right here, I would recommend waiting for the next set up, whether that be a pullback or breakout opportunity, but nonetheless prices continuing to the upside and what we would like to see is for price to break above the round #90, and ideally move towards the major figure 100.
+BULL28|"Thank you for watching."""

@@ -1,0 +1,10 @@
+NEUT0|"""What I am is a big proponent of regulation."
+NEUT1|I actually want regulation and BSV.
+NEUT2|One of the reasons why I'm attracted to it is because it's actually been designed by Craig from scratch to be regulatory friendly.
+BULL3|So in addition to massively scaling and being a stable platform following the Internet model, so it's got stability enabling you to invest real application development on top of it.
+NEUT4|It also is designed to be regulatory friendly.
+NEUT5|If PSV is successful as establishing itself as the position, there only needs to be one.
+NEUT6|What happens to Bitcoin and all of the other variations that are splintered off?
+NEUT7|I think in the near term Bitcoin BTC can exist, but if BSV scales continues to follow its scaling road map, there's just no need for any of the rest.
+NEUT8|So I think they will be absorbed into BSV so they won't lose all their value.
+NEUT9|"I think people will cross across and I think everything will be absorbed into biosphere the dominant chain."""

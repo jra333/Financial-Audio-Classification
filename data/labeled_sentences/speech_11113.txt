@@ -1,0 +1,16 @@
+NEUT0|"""Neo stock analysis and Predictions, March 14th."
+NEUT1|In today's NEO stock analysis and predictions, Big Bank invest in NIO stock.
+NEUT2|Alright, let's get started.
+BULL3|The central Bank of Norway drastically increased investments in shares of electric vehicle company Anio in the fourth quarter.
+NEUT4|Norges Bank, which administers the world's largest sovereign wealth fund, bought large shares of NIO NIO represents represents on of the new Holdings for the bank, nor just disclosed the stock trades, among others, in a format filed with the Securities and Exchange Commission.
+NEUT5|It declined to comment on the investment changes.
+NEUT6|Its latest balance sheet covering January shows the bank had $1.36 trillion of assets, including the $1.27 trillion in assets of the government pension fund global as the country's sovereign wealth Fund is known.
+BULL7|Norges bought 120.2 million more NIO shares in the fourth quarter, lifting its investment to 167.6 million.
+NEUT8|The NIO investment was the bank's most valuable equity holding.
+NEUT9|As of the end of 2020, according to nor his annual report.
+NEUT10|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT11|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT12|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL13|We'd really appreciate it.
+NEUT14|Are you still watching and want more?
+NEUT15|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

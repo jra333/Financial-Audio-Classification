@@ -1,0 +1,21 @@
+BEAR0|"""All United airline flights were grounded Wednesday morning after a glitch knocked out the airline's computer system."
+BEAR1|United's computer issue, which was resolved within a few hours, appeared on the same day as computer bugs shut down major operations, including the New York Stock Exchange and the website of the Wall Street Journal.
+NEUT2|None of the outages have been pinned to malicious attacks.
+BEAR3|United issued a statement apologizing to customers after flights were delayed due to a network connectivity issue this morning.
+BEAR4|The glitch which impacted the company's operations.
+BEAR5|An reservation system grounded United flights worldwide for more than an hour.
+BEAR6|The airline reported that the bug affected about 4900 flights globally, and customers around the world scrambled to workout new travel arrangements and complained about the grounded flights on social media.
+BEAR7|The Federal Aviation Administration ordered United to ground the flights beginning at 8:26 AM.
+NEUT8|EST GMT1226 and flights did not take off until almost 10 AM.
+BEAR9|GMT1400 the outage Wednesday is the second time in two months that United had to ground flights because of a technical issue.
+BEAR10|On June 2nd the airline stopped takeoffs in the US because of a computer automation issue.
+BEAR11|While United was dealing with grounded flights, the New York Stock Exchange also shut down stock trading due to a technical issue.
+NEUT12|Than I see has been very vocal about the outage not being caused by hackers.
+NEUT13|The issue we are experiencing is an internal technical issue and is not the result of a cyber breach.
+NEUT14|The Stock Exchange posted on Twitter.
+NEUT15|White House spokesman Josh Earnest said there is no indication that malicious actors are involved in the technology issues at the Stock Exchange.
+NEUT16|Shortly before, markets resumed trading after more than three hours.
+NEUT17|He said President Barack Obama was briefed by security officials on the issue.
+BEAR18|Even though the Knicely denies any malicious activity behind the outage, hacking collective, Anonymous tweeted a cryptic message hours before the glitch took out the exchange.
+BEAR19|Wonder if tomorrow is going to be bad for Wall Street, a Twitter account linked to Anonymous posted late Tuesday night.
+NEUT20|"We can only hope."""

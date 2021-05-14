@@ -1,0 +1,22 @@
+NEUT0|"""Hello, welcome to today's technical analysis for August 19th, 2016."
+NEUT1|I'm Celina necklace technical analysts at except.com.
+NEUT2|Today will look at the US dollar versus Canadian dollar on the daily chart.
+BEAR3|Used, the card was on a sharp downward trajectory since early August, falling from above the 1.31 level down to a low one point 2762 that was hit yesterday on Thursday.
+BEAR4|There was a reversal this morning.
+BULL5|We can see prices are heading higher again.
+NEUT6|But there are no clear signals yet.
+BULL7|If this move up can be sustained, the overall picture is quite bearish.
+BEAR8|Market fell in a downward channel.
+BEAR9|Our size below 15 bearish territory and also the market is below the 200 day moving average, which is supporting the bearish view.
+BEAR10|We can see that the dollar CAD was on the rise from a June low one, point 2653 all the way up to a high of 1.30 to 3252 that was hit in July, but the uptrend stalled around this area and this is a major resistance level.
+NEUT11|Now at one point 3250.
+BEAR12|And prices reversed back down.
+NEUT13|We can see if the market is retraced 78.6% of that up leg.
+NEUT14|So this fibbonaci level, the 78.6 is found at one point, 2780.
+NEUT15|It's currently acting as support.
+BEAR16|But downside bias remains strong, and as prices have been falling for nine straight days, so such consistency could mean a strong trend for any moves lower, specially if support fails at the 78.6 Liberace.
+BULL17|And if we break below yesterday's low of one point, 2762, the next target would be the key psychological level of 1.20.
+NEUT18|Seven and then below this the June 8 low comes into view.
+NEUT19|The one point 2653 little could be retested.
+BULL20|So in order for this very few to be weakened, the market would need to see a seek significant recovery above the 200 day moving average at least an and clear the 1.30 level rise above this in order to see your shift in the bearish bias.
+BULL21|"Thank you very much for watching and have a great day."""

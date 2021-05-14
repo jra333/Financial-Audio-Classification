@@ -1,0 +1,7 @@
+BULL0|"""Year to date, Apple stock is nearly up to 57% and recently Apple announced their 4th 1 stock split during its quarterly results last month."
+NEUT1|While stock splits are meaningless in terms of fundamentals.
+NEUT2|And here comes William Shakespeare with the question to buy or not to buy.
+NEUT3|So let's review the bullish drivers embarassed drivers for Apple stock and hear some of the key factors helping to lift the stock in recent.
+NEUT4|Here's a chart that compares the performance of Apple stock and S&P 500 and the industry apples dashboard is looking great for momentum traders, while the value investors might be less excited.
+NEUT5|And do you think it has potential regardless of its upcoming stock split?
+NEUT6|"Let's discuss in the comments."""

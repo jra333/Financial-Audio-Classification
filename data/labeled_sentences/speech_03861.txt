@@ -1,0 +1,23 @@
+BEAR0|"""What on Earth is going on with oil prices?"
+BEAR1|Well, it's a question that seasoned commodities traders have been asking themselves to the past few days have brought unprecedented volatility way beyond the scale of anything already inflicted by the Corona virus outbreak, or by dysfunction in OPEC.
+BEAR2|Prices have been under pressure for sometime.
+BEAR3|The collapsing global economic activity means that the world simply doesn't need that much of it at the moment.
+BEAR4|But producers are still pumping too much oil and not enough demand means sliding prices for months.
+BEAR5|Market insiders have been warning that we're going to run out of storage and then then what?
+BEAR6|The situation snapped on Monday when the benchmark price for U.S. oil the West Texas Intermediate contract dropped off the charts.
+BEAR7|Prices started the day at around $10 a barrel and plunged to minus $40.
+BEAR8|The first negative reading ever.
+NEUT9|That means sellers were paying buyers to take the oil off their hands.
+NEUT10|This particular price refers to oil for delivery in May immediately before that contract expires and reflects intense pressure in that part of the world for storage.
+NEUT11|Nonetheless, it can't just be waved away as a market technicality.
+BEAR12|Types of oil from other parts of the world and for delivery later in the year have also come under pressure.
+NEUT13|This is the market's way of saying that the global economy is in deep distress.
+NEUT14|Companies and economies are just not going to need a lot of oil anytime soon.
+BEAR15|This is going to impose pain on oil producers, many of which are loaded up with debt that they're going to struggle to pay back.
+BEAR16|This is a poke in the eye for OPEC oil cartel Ann for Saudi Arabia and Russia, which had hoped to set a floor under prices.
+BEAR17|It's embarrassing for Donald Trump who praised their efforts to support oil.
+NEUT18|I think they both want to make a deal and.
+NEUT19|They're both smart.
+NEUT20|They love their countries.
+BULL21|They want to make a deal and it's a big reminder to anyone who's been helping to fire stock markets 26% higher since late March to check how much of that rally is really down to an improvement in the outlook for the virus and how much is just down to central bank support.
+BULL22|"This is a big warning shot."""

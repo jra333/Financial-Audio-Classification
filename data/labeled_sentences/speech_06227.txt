@@ -1,0 +1,38 @@
+BEAR0|"""Stock market indexes had been setting record highs at least two recently, but warning signals of a big fall are multiplying."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to better navigate these turbulent times.
+BEAR2|Here's one sign of the coming stock market storm.
+NEUT3|Every bull market before it ends is characterized by an astonishing eyepopping story or event that, in retrospect, beggars belief.
+NEUT4|In 2008 it was the housing bubble in the Terrible Bear market of the early 2000s.
+NEUT5|It was the high tech bubble in the Savage, but thankfully brief market crashed last spring.
+NEUT6|It was, of course, the onset of the COVID-19 pandemic.
+BULL7|Today it is the unprecedented battle between sophisticated multi billion dollar hedge funds.
+NEUT8|And literally hundreds of thousands if not millions of small individual day traders who are taking their cues from discussion boards at Reddit, Robin Hood and others.
+NEUT9|Each individual may not have much money for an acting together as a crowd.
+BEAR10|They're smashing the big guys.
+BULL11|These small investors are helping send certain stocks to astronomical levels.
+BEAR12|Hence the head spinning rise in prices of equities like GameStop, Bed Bath and Beyond.
+NEUT13|Palantir, Pitney Bowes.
+NEUT14|BlackBerry Plug Power and others.
+NEUT15|GameStop especially has been in the news.
+BULL16|It is a floundering brick and mortar game seller that hasn't had much success on line but nonetheless zoomed from a low last year of $2.57 to well over $300.
+NEUT17|As we speak.
+NEUT18|Who knows where it is?
+BEAR19|These absurd valuations attract institutional short sellers to make big money.
+NEUT20|These traders sell shares in a stock they don't own.
+NEUT21|They borrow the shares from brokers or others for a fee, and then hope to buy them back at a lower price.
+NEUT22|Let's say you borrow and then sell 1000 shares of XYZ widgets at $10 a share, you get $10,000.
+NEUT23|Say the stock goes down in your buyback.
+NEUT24|Those 1000 shares that, say $6 a share for a total of $6000.
+NEUT25|You have a profit of $4000.
+NEUT26|10,000 -- 6000 of course, if the stock goes up instead of down, you lose, and that's what is unfolding here.
+NEUT27|Short sellers eventually have to buy back and return the shares they borrowed, just as you return borrowed money.
+BEAR28|These small investors keep sending up the prices of stocks like GameStop and the so-called shorts have to buy shares which sends the price of the stock up even more.
+NEUT29|In market parlance, this phenomenon is called a short squeeze.
+NEUT30|But here we get another twist.
+NEUT31|The number of shares that have been shorted in a company is public information.
+BEAR32|So small investors are ganging up to create a short squeeze in.
+NEUT33|Companies that have been targeted in a big way by those short sellers.
+NEUT34|It's madness it won't end well, but when, as those battered short sellers can attest, no one knows.
+NEUT35|I'm Steve Forbes.
+BULL36|Thanks for listening to send in your comments and suggestions.
+BULL37|"They look forward to being with you soon again."""

@@ -1,0 +1,27 @@
+NEUT0|"""I was taking a look at Facebook stock on August 15, 2012."
+NEUT1|The market hasn't opened yet, but.
+NEUT2|Facebook's sitting at $20.38 a share.
+NEUT3|Earnings per share is $0.18.
+BULL4|P ratio is at a nice 113.77.
+BEAR5|It's still pretty disgusting.
+NEUT6|Still not interested in buying it myself, but I like to do a little bit of updates on the stock because you never know.
+BULL7|Maybe at some point it will come into a position where it is a.
+NEUT8|Start that, maybe somebody wants to buy.
+NEUT9|There's talking about streaming live TV episodes on.
+NEUT10|I don't know.
+NEUT11|It seems like there's just a company that is trying all these different ways to make money, but really, social media.
+NEUT12|The money they're already making this.
+BULL13|Fairly decent.
+NEUT14|It's just there's so many chairs out there.
+NEUT15|Shares 2.14 billion It's got a few shares.
+NEUT16|But I don't want to buy it.
+NEUT17|I guess there's a lot of people that do but look at look at $1.00.
+BEAR18|Dollar and $0.22 in the negative.
+NEUT19|Just yesterday, Aug 14.
+NEUT20|There's a lot of companies that are.
+BEAR21|Maybe some people are not liking it.
+NEUT22|Usually you can tell how well is like by looking at this.
+NEUT23|The Institutional ownership percentage of shares outstanding held by institutional investors such as pension plans.
+BULL24|I'm surprised numbers are high.
+NEUT25|I'm not trying to hit on the stock, I just I don't want to buy.
+BULL26|"Hi guys, thanks for watching."""

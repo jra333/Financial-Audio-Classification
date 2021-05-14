@@ -1,0 +1,40 @@
+NEUT0|"""Piece of analysis we've recently shared is that stem from looking at the chart of both Bitcoin and the Dow in a contemporary basis, meaning at the same time and notice that they almost fit, but not quite right."
+NEUT1|So playing around with the chart a little bit found that the price pattern in Bitcoin prices tends to lead the price pattern in the Dow by about 8 weeks.
+NEUT2|And the interesting thing is that this only started from the point when Bitcoin rose above 1000 bucks.
+NEUT3|Before that Bitcoins movements didn't seem to have that much of an effect on the Dow.
+NEUT4|But ever since then.
+NEUT5|The two have been marching to the same tune but with a lag, so the Dow is following in the same footsteps, and if that continues then that forecasts at top eight weeks after Bitcoins top in December, which would equate to about February 10th, which is a Saturday 'cause Bitcoin Train 7 trades seven days a week so the market won't stop on a Saturday but round mid February is what that forecast?
+NEUT6|That's if that the analog continues working in the correlation continues in effect right and of the analogs you put together.
+NEUT7|Tom, how would you characterize the correlation?
+NEUT8|Here, relative to others, is it strong, weak, somewhere in the middle?
+NEUT9|This is a pretty strong when you can even look at the small little wiggles, and for those who missed that chart on your air, there is a chart of it on our website at MC Oscillator Comm.
+NEUT10|They can look at it in more detail.
+NEUT11|It's pretty good, but analogs come and go all the time.
+NEUT12|They drift into correlation, they drift out of it.
+NEUT13|Every analog that I've ever studied eventually breaks up correlations, so that's something that you have to know if you're ever going to use a tool like this.
+NEUT14|Is that eventually it's going to break.
+NEUT15|And usually the point that it breaks is right at the moment that you count on it working the most, especially if you go on TV talking about it.
+NEUT16|Still, it is intriguing.
+NEUT17|Any thoughts on the on?
+NEUT18|The rising interest rates that we're seeing?
+BEAR19|You know, consensus is the reason we got two days of sell off is because people are getting worried that maybe rising interest rate starts to provide some competition to stocks.
+NEUT20|Have you looked at that at all?
+NEUT21|So yeah, Oh my gosh, you no longer get to pay the German government money to hold your money for five years.
+BEAR22|I think that the Treasury bond has gone down in price a little bit too far, and there's going to be a snapback that's going to be coming.
+NEUT23|I'm not seeing in my forecasting models.
+BEAR24|I'm not seeing the same degree of inflation this year that other people are seeing, and so I think that story has been overdone.
+NEUT25|What we're seeing right now in the stock market with this two day sell off is what we call a warning shot.
+NEUT26|We've had this long, long period without any kind of correction.
+BEAR27|And today, if we closed here with the numbers were showing right now, we have a McClellan oscillator reading down around minus 200 that we haven't seen for a long time.
+NEUT28|That usually tells you that the real kind of selling is due to come about four to 8 weeks later.
+BEAR29|After you get this warning shot oversold condition and you usually go back back up and exceed the prior highs.
+NEUT30|So I'm still looking for us to go up into late February or early March.
+NEUT31|I know I said Bitcoin says February 10th, but there's other things that say early March from March to August looking for a big sell off, which is normal in the second year presidential term, but usually when you have a new president in office he tries to get all the bad stuff out of the way in the first two years, so that then he can spend.
+BEAR32|Year three and four declaring victory and running for reelection, so I'm expecting some more bad stuff to come the markets way and for people to get a little bit more discouraged than they are right now and have that show up in the movements of stock prices.
+NEUT33|But that's not the mission right now.
+NEUT34|The mission right now is to see this oversold condition and enjoy it and climb on board for about another month.
+NEUT35|Run higher and then we can start worrying about getting out and avoiding the summer losses.
+NEUT36|Hey there, thanks for checking out CNBC on YouTube.
+NEUT37|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT38|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL39|"Thanks for watching."""

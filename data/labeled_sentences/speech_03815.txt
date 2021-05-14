@@ -1,0 +1,40 @@
+BULL0|"""Well, it's incredible opportunity."
+NEUT1|As you have seen in the conference, the last couple of days.
+NEUT2|There's so much change going on here.
+NEUT3|There's so much investment from the public side to public investment Fund clearly have had a joint venture with vision with a $50 billion investment.
+BULL4|So we see significant opportunity in the region.
+BULL5|So obviously online retailers are already getting in to Saudi Arabia, the UAE, the Gulf countries we've seen.
+NEUT6|Of course this Amazon by of soup.com.
+NEUT7|What's your strategy to take on Amazon internationally?
+NEUT8|So our strategy is really good?
+NEUT9|Looking for partners in the international market or slightly different from Amazon in that?
+NEUT10|We don't necessarily look for controlling the opportunities that we go go into into into a new region.
+BULL11|We look for partners and bring our expertise and technology are experiencing ecommerce and our expertise in fulfillment to bring that into the partnership.
+NEUT12|How far away are we then from seeing something similar to this?
+NEUT13|Amazon Supcom deal with the Public Investment Fund?
+NEUT14|Well, we'll see what we can do here in the region.
+NEUT15|There's a lot of partners reaching out to us on a global basis, both on the online basis funds as well as offline partners.
+NEUT16|So we look at different companies.
+NEUT17|Partner with.
+NEUT18|You know financial partners in Indonesia we partner with offline partners in Thailand, so we're very open to different type of partnerships in different regions.
+NEUT19|We've just seen the end of the party conference obviously in China.
+NEUT20|What's your outlook in terms of policy over the next 12 months for China?
+BEAR21|Yeah, well, I think I think there was a period of uncertainty as people look for the new leadership changes.
+BULL22|But as leadership changes have now been stabilized, I do believe that policy will be fairly consistent in terms of what President Xi has been moving forward.
+NEUT23|So that should.
+NEUT24|Give people a lot more confidence in terms of moving the business forward.
+NEUT25|There are a lot of conversations surrounding basically transparency and the security of data.
+BEAR26|When you look at Western companies today they've been hacked so many times elections have been hacked for a lot of worries surrounding whether or not Chinese companies are going to be able to keep that data secure.
+NEUT27|What's your message to Western companies?
+NEUT28|Well, I think for U.S. data is absolutely very important.
+NEUT29|We have 300,000,000 users on our platform with a lot of trusted financial data on our platform.
+NEUT30|So data security is very important for us.
+NEUT31|But it's not sensitive data that we have.
+NEUT32|We don't have, you know anything that's very, very controversial in terms of our platform, but clearly very, very important for us in terms of data collection and security in terms of partnership, I think for Western companies, partnering finding out partnering with the right Chinese partner is the most important companies.
+NEUT33|Uncomfortable, well, but I think for us it's really about security.
+NEUT34|Security is very important.
+NEUT35|How do you protect that data is the most important thing for Internet companies?
+NEUT36|Hey there, thanks for checking out CNBC on YouTube.
+NEUT37|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT38|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL39|"Thanks for watching."""

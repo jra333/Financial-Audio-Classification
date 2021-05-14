@@ -1,0 +1,31 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's November 16th, 2016.
+NEUT2|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT3|Today we'll look at oil.
+NEUT4|Prices were looking at WTI oil futures on the daily chart.
+BEAR5|Now we can see that bearish pressure seems to have eased on prices and if reason is RSI has moved out of moving off oversold levels 30 an it's heading towards 50 now.
+BULL6|Prices also have risen above the 200 day moving average, and this increases the potential for further upside moves.
+BEAR7|However, the market has fallen below the rising trend line.
+BEAR8|This is the uptrend line that started from January, so market broke below this trend line.
+BEAR9|It's still hovering below it although.
+BULL10|After yesterday's big move up.
+BULL11|There is potential for more upside moves, although it is now acting as immediate resistance to the upside this trendline.
+NEUT12|So there is a cluster of resistance levels.
+NEUT13|Now if we look closely starting around 46.17, that would be the trendline area and then next resistance would come in at the 50 day moving average at 47.30.
+NEUT14|So the market would have to clear these resistance levels.
+BULL15|In order for the short term bias to turn more bullish, also RSI would have to rise above 50.
+BEAR16|Alternatively, if prices fall, immediate support lies at the 200 day moving average around 44.20 and below.
+BULL17|This the key 43 dollar level would likely act as a strong support level.
+BULL18|It's been tested several times.
+NEUT19|As you can see in the past.
+BEAR20|So break below this $43 support level would bring the $40 level interview Max.
+NEUT21|The next support level for Downside moves.
+BEAR22|Also an important level, and it's the August low.
+NEUT23|It's also crossed by the trendline.
+NEUT24|So if if the market moves below $40, we could say that.
+NEUT25|The bias would be shifting to more bearish one for the medium term.
+NEUT26|If we look at the bigger pictures, we could say the pair is pretty much neutral.
+NEUT27|There's a neutral bias.
+BULL28|A move above 47.30 would move which shift this market structure to more bullish one.
+BULL29|Thank you very much for watching.
+BULL30|"Have a great day."""

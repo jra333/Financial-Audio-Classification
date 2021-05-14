@@ -1,0 +1,9 @@
+NEUT0|"""Facebook is killing it in mobile advertising, the company generated $3 billion in revenue this quarter, 66% of it was from mobile."
+BULL1|That's up from 50% just a year ago.
+NEUT2|Now that's a huge turn around for a company that once warned, it wasn't sure if it was going to be able to monetize on mobile.
+NEUT3|Not to mention the fact that car giant GM two years ago dropped Facebook altogether, saying it wasn't sure if.
+NEUT4|Advertising actually worked on the platform.
+BEAR5|Now Wall Street was less enthused about the quarter.
+NEUT6|For one, they're used to Facebook blowing it out of the water, and that really didn't happen this quarter.
+NEUT7|Also, investors analysis wanted to know more about how Facebook plans to generate some cash and profit off of its newer platforms like Instagram and WhatsApp Now?
+NEUT8|"That probably won't happen anytime soon, but if we learned anything from this quarter, it's don't count Facebook out just yet."""

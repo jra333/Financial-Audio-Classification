@@ -1,0 +1,35 @@
+NEUT0|"""New rules from the Basel Committee aimed at banks."
+NEUT1|That's got the world's vast futures and swaps industry bothered, so why should it matter to exchanges?
+NEUT2|With me to talk about it is not any sukima chief executive and the World Federation of Exchanges.
+NEUT3|Nandini welcome.
+NEUT4|So what's the big deal here?
+NEUT5|Why should the exchanges be worried about banking rules for the Basel Committee is a very significant and important global regulator.
+NEUT6|They supervise not just banking practices, but they're concerned with systemic stability and that's something every financials, every every stakeholder in the financial services in the financial market cares about exchanges clearing houses who we represent as well.
+NEUT7|The banks who use clearing houses, and indeed the end users.
+NEUT8|So let's talk about more specifically what you're concerned about.
+NEUT9|Let's look at the first chart here.
+NEUT10|Just talk us through here what we're looking at and why this is such a concern.
+NEUT11|Fee in the Basel tree in the current rules on Basel.
+NEUT12|Three there is something called the leverage ratio and people are looking at it now.
+NEUT13|Basel open the brief period for comment.
+NEUT14|We submitted our comment on the 6th of July and what the Basel leverage ratio does is it looks it looks at the leverage that capital is required for an look.
+NEUT15|We're looking at a chart now.
+NEUT16|In which we are looking at segregated margin, and if it's not recognized, segregated margin margin.
+NEUT17|Initial margin is that which the end user gives to the bank.
+NEUT18|The clearing member and it's not allowed neither the bank who are the clearing member or the CCP are allowed to use it for their own purposes.
+NEUT19|So the leverage ratio at the moment people feel doesn't probably probably recognize the segregated margin.
+NEUT20|The segregated nature of that margin, and the fact that it diminishes the risk so.
+NEUT21|Add Presence Basel is looking at the column on the right.
+NEUT22|This will be the impact if the rules were ever so slightly amended the Basel, so there's been a lot of industry kind of consensus and discussion around this in the Basel Committee have been prepared to engage or prepare to listen.
+BULL23|Anyway have shown that they are open to listening to these concerns.
+NEUT24|There's been a broad range of consensus end users.
+NEUT25|The banks exchanges in CPS, even other regulators, have mooted some concerns.
+BEAR26|We've seen an awful lot of futures brokers come out of the market because of costs.
+NEUT27|As we can see here.
+NEUT28|Will that trend continue?
+BEAR29|People are always concerned one of the one of the things that people are concerned about is that it will the new rules or the leverage ratio may squeeze people out of the market.
+NEUT30|Just make it less economically viable for them to offer these kind of services and that in turn has many knock on effects concentration risk.
+NEUT31|There are fewer people in the market whom to manage the risk.
+NEUT32|You know there are fewer access points into it, so if you're a farmer looking to head your commodity, commodity prices or risk, that's a problem.
+NEUT33|So there are multiple implications, both for the real economy and for the swaps and derivatives market Nandini.
+BULL34|"Thank you very much."""

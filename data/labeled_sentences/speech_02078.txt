@@ -1,0 +1,30 @@
+NEUT0|"""Every year has its share of stocks that make outsized moves."
+NEUT1|In 2014 will be no exception, but what if we could know what some of these stocks would be beforehand?
+NEUT2|My name is Brian Stoffel.
+NEUT3|I'm a contributor at The Motley Fool and I want to talk to you quickly about five stocks that I believe are pretty much certain to make big moves in 2014.
+NEUT4|The reason for that is because these stocks are all heavily shorted or have a lot of investors betting against their success.
+BEAR5|The first two have had a rough year with their shares down, both about 35%.
+NEUT6|First, being Arena Pharmaceuticals is a biopharmaceutical company whose key product is BELVIQ a weight loss drug.
+BULL7|BELVIQ is the safest prescription weight loss drug on the market.
+NEUT8|Right now, however, the flip side of that coin is that it is the least effective in helping its patients to lose weight.
+BULL9|In order for Arena to do well in 2014, it's going to have to increase its sales, hopefully with the help of insurance companies agreeing to pay for the cost of the medication.
+NEUT10|Second on the list is Cliffs Natural Resources.
+NEUT11|A mining company with operations in North America and Australia.
+NEUT12|Really what it all comes down to in 2014 for this company is the price of iron ore.
+BEAR13|The companies key product prices stay low, the company could suffer, but if demand or prices jump it could be a good year for the company.
+NEUT14|3rd on our list is soda stream.
+BULL15|The companies performed about on par with the market so far this year.
+BEAR16|This company makes at home carbonated beverage makers a lot of investors think that this is just a fad and something that will fizzle out overtime.
+BULL17|However, soda Stream has been around for longer than a lot of people think, and in its core markets of Europe it has been successful for decades.
+NEUT18|The key that investors should keep their eye on is how the company performs during this holiday season, as it will be.
+NEUT19|It will be important in determining how the stock does in 2014 and the final two companies have experienced huge jumps in their share prices this past year.
+NEUT20|The first is X1, a 3D printing company that is able to print things in both glass.
+NEUT21|And metal, among other materials.
+BEAR22|A lot of people are betting against 3D printing, not because the industry necessarily doesn't have a bright future, but because they think that stock prices for these companies have gotten a little bit ahead of themselves as it is, X one is increased sales, about 80% over the past year, but is still not profitable, which might help explain why so many people are betting against it, or at least betting for its stock price to go down in the near term.
+NEUT23|And finally, we have Tesla America's number one electric car maker.
+BEAR24|Its shares have quadrupled this year, which might help explain why so many investors think that shares must be going down sometime soon.
+NEUT25|CEO Elon Musk has a well publicized plan of going after high end cars 1st and then taking the money that the company gets from the sales of those cars and making more and more affordable cars as time goes on.
+NEUT26|In order for the company's valuation of $17 billion to be justified, Musk is going to have to continue to execute on his plan.
+NEUT27|So these are five stacks I see.
+NEUT28|As being very likely to make huge moves in 2014, I don't think anyone should buy or sell them based on this, but it's important to keep an eye on this.
+NEUT29|"If you already own shares to get all the latest news on these stocks, stay tuned to fool.com."""

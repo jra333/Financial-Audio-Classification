@@ -1,0 +1,28 @@
+NEUT0|"""The whole sha one stock that you're bearish on over the ideal asset management is Coca Cola's."
+BEAR1|A lot of worries about Coke and a stronger currency that also what scares you.
+NEUT2|Absolutely, Greg.
+BULL3|First of all, it's great to be here.
+BULL4|Thank you very much.
+NEUT5|Coca Cola is a classic example of a great company that's just not a great stock right now.
+NEUT6|One of the hallmarks of Coca Cola is that they've had this massive distribution system that has them in every country in the world, and what has previously been a great strength for them to actually turning into a big weakness as the strongest dollar erodes their foreign sales.
+BEAR7|And the sales in the US have been sluggish at best over the past several years, so there's a good chance you could see revenue growth decline year over year, and the stock is not cheap right now.
+NEUT8|The current level is it trades at 19 times forward earnings.
+BEAR9|And not only can you see multiple contraction, there's a good chance they may miss their earnings if the dollar continues to strengthen and you're also bearish on their largest competitor, Pepsi.
+NEUT10|So tell me about Pepsi and maybe Will Pepsi Snack business help it out.
+NEUT11|If people are drinking less of carbonated beverages.
+NEUT12|Absolutely.
+BULL13|Greg Pepsi is a good example of a stock that's done really well over the past few years.
+BEAR14|The stock traded in the $60.00 range a few years ago and now it trades in the mid 90s and the stock trades at a similar valuation to Coca Cola at over 19 times earnings and but they similarly to Coca Cola, they generate 49% of their revenues from overseas, so there are also at risk of seeing their revenue decline from the rising dollar.
+NEUT15|So I would avoid Pepsi as well.
+NEUT16|On the other hand, you are bullish on Macy's.
+BULL17|I guess people have more money because of lower gas prices and there's more jobs out there, right?
+NEUT18|Absolutely very true.
+BULL19|We are seeing continued strong job gains in the US economy and the lower gas prices should feed into consumer spending in the second half of the year.
+BULL20|And Macy's stock is very attractive on a valuation basis on 2016 numbers.
+NEUT21|It trades at 12 and a half times earnings.
+NEUT22|It has a 9% free cash flow yield and they're buying back 6% of their stock per year.
+NEUT23|And it has a 2% dividend yield.
+BEAR24|So we think the stock is poised to outperform going forward.
+NEUT25|Alright, thanks that rule.
+BULL26|Thanks a lot great.
+BULL27|"Thank you for watching the street."""

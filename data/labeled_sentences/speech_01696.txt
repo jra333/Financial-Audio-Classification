@@ -1,0 +1,5 @@
+BEAR0|"""Big breaking news from DC Senate Majority Leader Mitch McConnell, apparently saying the GOP does not have the votes to block witnesses from being called in the Senate impeachment trial."
+NEUT1|That is, according to breaking news from the Wall Street Journal right now.
+NEUT2|Remember, Democrats got 47 seated four Republicans effectively to come over.
+NEUT3|They can vote on motions that would allow them more witnesses and testimony.
+NEUT4|"The Democrats want John Bolton, Mick Mulvaney, two indeed testified that may happen now."""

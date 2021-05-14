@@ -1,0 +1,7 @@
+BULL0|"""He has gained 18% since last earnings report last quarter."
+BEAR1|Expected to lose money by 26%.
+NEUT2|214,000,000.
+NEUT3|Last night they were pretty zewski successively set 6.1.
+NEUT4|Whatever.
+BEAR5|Loss and today is like 71 cent prediction loss.
+NEUT6|"Corner before market close without some scrap."""

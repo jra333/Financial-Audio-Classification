@@ -1,0 +1,26 @@
+BEAR0|"""Good afternoon, the local sharemarket has today snapped its two day losing run and it's been a pretty solid finish to the month and also the quarter."
+BULL1|The SX 200 finishing the day up by around 52 points or .8 of 1% closing at 6790.
+BEAR2|We did see the market just falling away attached towards the clothes in the last 30 minutes or so.
+BULL3|At one stage the SX 200 up about 120 points or one point 8%.
+NEUT4|So certainly.
+NEUT5|Giving back some of those earlier improvements, you do tend to get a little bit of volatility when we come to the close of month and quarter.
+NEUT6|Lots of rebalancing going on, particularly amongst larger investors.
+BULL7|So still today we had the SX200A managing to closeout the month with a gain of around 1.8% is now six months in a row that we've seen improvements for the SX 200 at this quarter is well.
+BULL8|EA SIX 200 index lifting by around three point 1%.
+BULL9|So it has been still a pretty strong start to 2021 despite a fair bit of volatility today, though, gains widespread.
+NEUT10|We had all sectors improving industrials, staples and property.
+BEAR11|Some of the out performers.
+BEAR12|While we had telcos and also energy somewhat underperforming, with the smallest improvements.
+NEUT13|There's a fair bit of company news to come through.
+BULL14|Today is well and.
+BULL15|We heard this morning from a Suncorp the Queensland based Financial Services group up around 1 1/2 percent.
+BEAR16|It announced that it has received around 7600 claims from the recent storms and floods on the East Coast of Australia.
+NEUT17|The majority of them in New South Wales and Queensland.
+NEUT18|It has stated that it's expecting the net claims costs for this event to be about 230 to $250 million.
+NEUT19|Elsewhere Zip Co and JB Hifi today announced.
+NEUT20|A new partnership for ZIP Codes buy now pay later services to be made available at JB Hifi and the Good Guys stores in online but also in store to start from April.
+BULL21|Zip code up around .41% JB Hifi lifting by just a 10th of 1%.
+BEAR22|Harvey Norman though today falling by around 3.7%, one of the worst performers.
+BEAR23|It was trading ex dividend however hence the decline.
+BULL24|Still one of the best performers for the month and also quarter.
+BEAR25|"Another big decliner today airtasker falling by around 15% and Lt Dollar finishing off the month around 76 US sense."""

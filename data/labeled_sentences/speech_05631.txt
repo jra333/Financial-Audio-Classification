@@ -1,0 +1,28 @@
+BEAR0|"""Prepare economist warns of Perfect Storm Brewing that will obliterate the global economy."
+NEUT1|Hey folks, welcome to the next news network.
+NEUT2|I am link Austin.
+NEUT3|I am sitting in for Gary Franchi who is spending some time with his wife who has just had their third baby boy son.
+NEUT4|This report comes to us from Express UK written by Elena Clements.
+BEAR5|A perfect market storm is brewing and it's going to leave economic carnage in its wake, according to a finance expert.
+BEAR6|Investors should prepare for world stock markets to sink by a massive 12% amenta repeat of the turmoil that tore through the stock markets at the beginning of the year.
+NEUT7|According to David Rosenberg, who is chief economist and strategist at wealth management firm Gluskin Sheff.
+BEAR8|He believes markets are not ready for a US interest rate rise an when the US Federal Reserve does make changes to its policy, which could happen as early as next week.
+BEAR9|There's going to be a nasty shock, The Economist told CNBC.
+NEUT10|Quote, You have a perfect storm here.
+NEUT11|If you get something like a Fed rate hike into the next several months, he continued.
+NEUT12|The problem is that the market is not price for it.
+NEUT13|I wouldn't be surprised that we see some kind of repeat as we had towards the end of last year into January and February.
+BEAR14|Which was something close to a 12% correction.
+BEAR15|The uncertainty around the US elections is of course also weighing in on the sentiment, he continued.
+BEAR16|Now last Friday, the Dow Jones industrial average fell nearly 400 points and the NASDAQ composite and the standard poor 500 index both lost about 2 1/2% after the Boston Fed president named Eric Rosen grin made comments suggesting that a September rate hike might not be totally off the table, but since then.
+NEUT17|Leo Brainerd, a member of the Fed's Board of Governors, has come forward and said that the case for a rate hike at the end of this month is not.
+NEUT18|Compelling and then according to a USA TODAY article published this week, 85% of traders believe the private Federal Reserve will not hike rates in September.
+NEUT19|The private fed will meet on September 20th and 21st in Washington DC coming up very soon.
+BULL20|Folks, thanks again for joining us for this report.
+NEUT21|I am link Austin.
+NEUT22|I'm sitting in for Gary Franchi.
+NEUT23|If you're new, the next news network, we hope you'll consider subscribing hit that little button right below this video and remember to give this video a thumbs up comment.
+NEUT24|Tell us what you think below about this topic and be sure to share the report with your friends, family, and social media networks.
+NEUT25|Once again, I am link Austin for the next news network.
+NEUT26|Hillary for prison shirts now available.
+NEUT27|"Link in the description."""

@@ -1,0 +1,54 @@
+BEAR0|"""From a certain perspective, this move looks like it's being driven by totally contradictory theories about the future."
+NEUT1|Take the election today.
+BULL2|The market traded like both Trump and Biden are going to win.
+NEUT3|Seemingly impossible, but that's what the action seems to be saying.
+BULL4|I mean, let me give you both perspectives, though on the Republican side with the President now feeling better and said to leave the hospital, they're betting you'll get a big bounce in popularity, not unlike what happened to Boris Johnson in the UK after he got sick.
+NEUT5|Yes, Trump is expected to leave Walter Reed Medical at 6:30 PM that we, of course monitoring the situation and will keep you updated with the latest.
+BULL6|Trump emerges from this thing physically unscathed or even better than that, as he claims on Twitter.
+NEUT7|Maybe he could make a comeback and win the election.
+NEUT8|That's the argument he started making today that you shouldn't worry so much about kovid because we've got some great drugs that can beat this thing.
+BULL9|On the Democratic side, the Biden's been getting some strong polling numbers much better than Hillary's four years ago.
+BULL10|It's increasingly looking like a landslide victory.
+NEUT11|That's a real possibility.
+NEUT12|The Democrats want this election to be a referendum on kovit.
+BEAR13|Even with the president's find, the White House turning into a coronavirus hotspot, it's just called bad optics for the GOP.
+NEUT14|Even though Biden wants to raise corporate taxes and capital gains taxes, and that is just not great for the market.
+BULL15|There are a host of stocks that presumably do better under Democratic leadership.
+NEUT16|Those stocks the China stocks they warned today.
+BULL17|Jim, we some big gains in anything that benefits from more harmonious relationship with China.
+BULL18|For good or ill, a Biden administration should be won't be as tough from the Chinese government.
+BULL19|That's fantastic for the semiconductor stocks, it's a key leadership group.
+BULL20|Does a ton of business over there, and the semis were fired today.
+BEAR21|Lots of tech was on fire and that's China.
+NEUT22|Let don't forget Caterpillar.
+NEUT23|The usuals of course.
+NEUT24|Only one candidate can actually win the election genius, but maybe there's a way to square the circle.
+NEUT25|I think that we got today was the removal of uncertainty.
+NEUT26|President Trump is not going to pass away from Covid.
+NEUT27|Thank heavens.
+BEAR28|And we probably won't have a contested election because some people think Biden's polling so well.
+NEUT29|Now there's nothing the market hates more than uncertainty.
+NEUT30|Take it away.
+BULL31|Stocks go higher now.
+NEUT32|Don't get me wrong, I'm not calling election or that's a suckers game.
+NEUT33|If you're 2016, I'm just telling you what I see in the tape.
+NEUT34|The tape speaks to me.
+BULL35|I am translating a tape and telling you what it's saying now finding this is strong and that may turn into a strong hint for speaker Pelosi and her negotiations with the White House, which makes a stimulus built more likely.
+NEUT36|The market needs some stink, some kind of stimulus package was going to keep running.
+BULL37|Of course, the American people in this passage, if they're going to keep eating and the anticipation was powerful today.
+NEUT38|Talks continue.
+BULL39|Assuming we do get another bailout, that means the government will need to borrow a fortune.
+BULL40|So of course interest rates are soaring.
+BEAR41|While that's bad news for the housing, stock is pulled back from all time highs this morning.
+BULL42|It's great for the banks.
+NEUT43|Thank heavens which report next week.
+BULL44|If they can argue that business will get better with higher rates and show they're doing well with the market's newfound volatility in record stock issuance, a possibility, then some of the financials might suddenly become viable model.
+BEAR45|Then the second worst group in the market.
+BULL46|Well, it could turn positive, and that would be a big deal.
+NEUT47|Specially 'cause they report next week.
+NEUT48|Don't miss a second of mad money.
+NEUT49|Follow at Jim Cramer on Twitter.
+NEUT50|Have a question?
+NEUT51|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT52|Shepard Smith here.
+NEUT53|"Thanks for watching CNBC on YouTube."""

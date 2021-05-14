@@ -1,0 +1,8 @@
+NEUT0|"""Hello Traders and welcome to a new video on my day trading Analysis channel."
+NEUT1|My name is Radu Kooima forest crypto and stock market trader.
+NEUT2|Today I want to show you my analysis on Amazon stock.
+BULL3|According to Elliott Wave, in my opinion we are in the end of Wave four and I think the price will start to rise towards the end of five.
+NEUT4|If you like my video and you want to receive my analysis, please subscribe to my YouTube Channel Day trading analysis.
+BULL5|I would be very happy to join my community and exchange experience and see you in my next video.
+BULL6|Have a wonderful day and I hope you make a lot of money today.
+BULL7|"Good luck."""

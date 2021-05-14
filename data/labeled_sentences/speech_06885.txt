@@ -1,0 +1,30 @@
+NEUT0|"""Hi and welcome to the Motley Fool's Bottom line series."
+NEUT1|In this video, we're going to take a closer look at what the Dow Jones Industrial average is.
+NEUT2|Why people care about it so much, and what some of its limitations are.
+NEUT3|The Dow Jones Industrial average is often referred to as the Dow Jones, or simply as the Dow, and it's one of the most well known U.S. stock indices.
+NEUT4|It was created by Charles Dow in 1896 and is a price weighted average of the stocks of 30 large American publicly traded companies, and it's often used to gauge the market's performance from day to day.
+NEUT5|But what exactly is a price weighted index?
+NEUT6|In a nutshell, a price weighted index means that higher price stocks have more influence over the indexes performance than lower priced ones.
+BULL7|Consider a fictional index made up of just three stocks with share prices of $10 thirty dollars and $60.00 since the highest price stock makes up 60% of the total combined value of the three, a 10% gain net stocks price would raise the index by 6%.
+BULL8|In contrast, a 10% gain in the lowest price stock would only result in a 1%.
+BULL9|Rise in the index.
+NEUT10|In the case of the Dow, the prices of all 30 stocks in the index are added together and then divided by the Dow divisor, which changes overtime due to stock splits and other events.
+NEUT11|The divisor is much less than one, which is why the value of the index is greater than the sum of the stock prices.
+NEUT12|Here's the current list of the Dow stocks, also called the Dow 30.
+NEUT13|Many of these companies are household names, but investors should know that the companies in the Dow 30 changed frequently.
+NEUT14|The Dow is still used as a gauge for the market, in part because the index has been around for more than 130 years.
+NEUT15|This long performance history allows investors to evaluate how the market is performing now compared to how it's performed in past decades.
+NEUT16|Additionally, the companies in the Dow come from a variety of industries in the US which allows the index to provide a snapshot of how U.S. companies are performing.
+NEUT17|While the Dow has a long history of helping investors gauge the market's performance, the index does have its limitations.
+NEUT18|Most obviously, the Dow Jones only includes 30 stocks.
+BEAR19|There are more than 5300 common stocks that trade on the New York Stock Exchange and NASDAQ, so the Dow's performance may not be the best indicator of how the overall market is doing.
+NEUT20|Also, the price waiting means that some of the Dow components have much more influence on the index than others.
+NEUT21|For example, as of this writing, Apple stock trades for about $246 per share, while Coca Cola trades for just $53.
+BEAR22|Therefore, a move in Apple's share price would have more than four times the effect of a similar move, percentage wise in Coca Cola.
+NEUT23|For these reasons, the broader and market cap weighted S&P 500 is widely accepted as the better indicator of how stocks of large US corporations are performing.
+NEUT24|The bottom line is that the Dow Jones Industrial average is still a useful tool for investors who want to keep track of how some U.S. companies are performing, but it's probably not the best gauge to determine how the broader stock market is doing.
+NEUT25|Thanks for watching this video.
+NEUT26|Do you think the Dow Jones is still useful gauge for the overall market?
+NEUT27|Let us know in the comments below.
+NEUT28|And if you like this video, hit the thumbs up button and click subscribe.
+BULL29|"It helps us reach more people, which allows us to make more awesome content."""

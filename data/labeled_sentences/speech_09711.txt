@@ -1,0 +1,26 @@
+NEUT0|"""If we do see things falling apart, Plan B comes to the four."
+NEUT1|Is the Fed going to be there to rescue the markets?
+NEUT2|I we were we were talking about this yesterday.
+NEUT3|We're going to be talking about this tomorrow 5025 fifty 25 the feds to pour cold water on the 50 idea but the market is not completely buying that the Fed needs to push back and that's what you're seeing.
+NEUT4|You even see Bullard pushback 50s too much.
+NEUT5|And so the market is pushed and pushed and pushed.
+NEUT6|And I thought was really interesting last week.
+BULL7|After the Fed meeting the market price in an additional cut this year and so I think the Fed will work really hard.
+BULL8|The balance of this year to push back on the number of hikes.
+BEAR9|I think the direction is correct, but the number is too much and so I would.
+NEUT10|I think you need to disconnect those two an I think the Fed is trying to disconnect their policy to the unknown of trade.
+NEUT11|So at what point Greg does the bond market take instruction from the US Central Bank again?
+NEUT12|That's an excellent question, Vonnie.
+NEUT13|I'm not sure, but ultimately it has to be resolved though right?
+NEUT14|And so as the year progresses.
+NEUT15|You know three cuts being priced in once the market starts to realize that's not going to happen.
+BEAR16|The calendar is running out.
+NEUT17|The Clock is running out, then, then, then I think so.
+NEUT18|So I do believe it's just a matter of time, so the Fed will say what they have to say.
+NEUT19|The markets will continue to push, but at some point that resolution has to come to pass.
+NEUT20|So we had that big move in yields pretty much all of a piece, right, Greg?
+BEAR21|It was orderly, but you know, there was a continued dropping of yields to where we are now between 198 and 201 right now, 202.
+NEUT22|Do we get a rise in yields of the same magnitude?
+NEUT23|You know, the same kind of movement once the Fed makes its move?
+BULL24|Well, so what's happening is that was being priced in the front end is pushing everything else down across the curve, so it's sucking down 10 year yields, taking down 30 year yields, and so at some point though, if the markets start to believe that the Fed is not going to be as aggressive and the economy, the economy does show some stability, then I do think there is scope for yields to gently move higher, not dramatically, but gently, but at the end of the day, we still think we're in this environment globally.
+BULL25|"Of low yields for a very long time."""

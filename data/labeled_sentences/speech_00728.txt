@@ -1,0 +1,45 @@
+NEUT0|"""Well, our first ticker of the day is Tesla."
+BULL1|The stock is moving to the upside after the company announced plans to raise about $2 billion through stock offerings and convertible notes, and this includes CEO Elon Musk's intent to buy about $10 million worth of stock.
+NEUT2|Yahoo Finance's Emily McCormick is standing by and Emily.
+NEUT3|We can see the reaction in this stock.
+NEUT4|I mean, is the thought here that this is giving the bull case a little bit more breathing room?
+BULL5|Yeah, well it's definitely giving Tesla considerable cash cushion to build out some of its ambitions.
+NEUT6|Remember that Tesla sentence last air.
+NEUT7|Earnings report that it reiterated guidance to deliver up to 400,000 vehicles by the end of 2019 and a lot of these deliveries are going to Europe and China and just getting those vehicles overseas does take considerable capital.
+BULL8|We also have a significant debt repayment coming up in November.
+BEAR9|That's $566 million, so investors were concerned that Tesla wasn't going to actually be able to make that payment.
+NEUT10|Now again, that debt payment is actually for a convertible note, but the strike price for that is $759.36.
+NEUT11|Otherwise, the test will have to pay it in cash.
+BULL12|Considering that shares are trading just around 243 right now, it's not looking like they're going to be able to rally to that level in Emily.
+NEUT13|I'm just going through some of the streets reaction Dan Ives is out the note from Lobuche calling that calling it a smart near term and move, and I guess that's part of the reason why we're seeing this reaction in the stock price today.
+NEUT14|Just because maybe investors broadly do agree with him in terms of the problem at the essence of Tesla right now.
+NEUT15|Would you say it's more of a demand problem or of a supply problem?
+NEUT16|Because in the past we've always talked about this supply, the backlogs there for a lot of the vehicles.
+NEUT17|But it seems like the narrative, at least recently, has shifted to more of a demand issue.
+NEUT18|Yeah, well, that is the dominant narrative right now.
+BEAR19|On the street is that it is a demand problem, especially in Tesla's home market.
+BULL20|It's how are we going to be able to get that demand back to levels that are seen overseas 'cause we are seeing a little bit more of an outsize demand from Europe and China.
+BULL21|You know, as you mentioned and I said said, in a nutshell, this was a smart move by Tesla to rip the band aid off and go to the capital markets as the growing worries around capital was a black cloud over the stock on the heels of the company's troubled March results.
+NEUT22|And the copy path ahead.
+NEUT23|Remember those first quarter deliveries just came in at 63,000?
+BEAR24|That's a pretty strong proxy for the demand, and was a sequential decline in those deliveries.
+NEUT25|And again investors are always honing in on those since that's when revenues actually booked.
+NEUT26|For a company.
+NEUT27|Emily, another one of the big things that we've been talking about over the last several weeks or last week or so, I should say, has been Teslas shift.
+NEUT28|Or I should say, I guess when Elon Musk was talking about the ride hailing service made up of electric cars driven by robots, lots of talk there about that.
+NEUT29|He was trying to kind of.
+NEUT30|Move the narrative away from the disappointing earnings Tord something that was a little bit more shiny.
+NEUT31|Dangle it in front of shareholders in front of investors.
+NEUT32|In terms of the future.
+NEUT33|But do you think that this is too much of a pipe dream at this point that maybe some shareholders?
+BEAR34|Some investors are getting a little bit tired of Teslas.
+NEUT35|It almost seems like never ending promises.
+NEUT36|That's exactly how investors are viewing it.
+BEAR37|I mean, shares were down the day of the event, and we're really falling, as Elon Musk was talking about this automotive dreams that he has.
+NEUT38|So we are hoping to see something by 2020.
+NEUT39|That's the timeline that Elon Musk had provided, but again, he's not necessarily the best at holding to his predetermined timelines.
+BEAR40|But he also mentioned that he doesn't expect Tesla to be profitable in the second quarter and expects to see you know weakness in free cash flow just because of some of this investment.
+NEUT41|That's going to have to be going into this new project.
+NEUT42|So that is a concern for investors because originally, Tesla was focused on just getting electric vehicles to the mass market at an attractive price point.
+NEUT43|And now he's saying that there's this, you know, ambitions for a ride hailing service for automated vehicles, and that's kind of shifting the focus away from Tesla score narrative.
+BULL44|"Alright, Emily, thank you."""

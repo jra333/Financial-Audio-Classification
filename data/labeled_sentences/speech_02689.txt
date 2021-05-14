@@ -1,0 +1,46 @@
+NEUT0|"""Alright guys, the next word we're going to look at is 52 week high."
+BULL1|This word is going to give us a understanding about the health of the stock and it's going to get us to a point where we can actually make some judgment calls on it.
+NEUT2|So let's explore it.
+NEUT3|Basically the 52 week high is just that, isn't it?
+NEUT4|It's the highest point of the stock in the past, rolling 52 weeks.
+NEUT5|So what information do we get when we look at a 52 week high now?
+NEUT6|One piece of information that a 52 week high gives us.
+NEUT7|Is that its relative strength over the past 52 weeks?
+BULL8|So if a stock has hit a new 52 week high, say 3 days ago, you can logically assume that that stock has been receiving a lot of buying strength.
+BULL9|That stocks probably has good earnings that stocks probably liked by people on the street.
+BULL10|That stock is well received by investors because it just hit a high for the year.
+NEUT11|On the other hand, if that 52 week high had happened earlier in the year.
+NEUT12|Let's see it happen in February of this year.
+NEUT13|Well, if the stock price is much lower than that time, you make a logical conclusion.
+NEUT14|Again.
+BEAR15|You say you know what this thing is, not really doing too well and it's almost 20 weeks away from its 52 week high.
+BEAR16|So this stock is weak.
+BULL17|Now what I've done here is I've pulled up a 52 week high.
+NEUT18|You just put this into Google and say give me a list of stocks that have hit a 52 week high and this comes from investing.com.
+NEUT19|And here we look at it.
+NEUT20|These are basic alphabetical and it's giving you all these stocks that have hit a brand new 52 week.
+NEUT21|Why?
+BULL22|Because these are so many stocks that have hit a 52 week high.
+NEUT23|That also tells us something about the nature of the market, doesn't it?
+BULL24|It tells us that if so many stocks are continuing to hit their 52 week highs today, it implies that the market is in an upswing and things are looking very good.
+NEUT25|So let's look at this stock here.
+NEUT26|Parvana, this is it's data.
+NEUT27|So here we can see this guys hit a 52 week high it who under $50.21 fine let's check it out so.
+NEUT28|Here is a five year chart and of course the Max chart.
+NEUT29|And this thing came out in 2017.
+NEUT30|Now what if I pull up a one month chart boom?
+BULL31|If the 52 week high was today, obviously the mark will be up here and you can see that this thing kind of moved up even in this past month.
+NEUT32|So there you have it 52 week high.
+NEUT33|Now how would you use it in a sentence?
+NEUT34|I want us to end every segment by saying how do we use this in a sentence?
+NEUT35|This is how I would use it in a sentence.
+BULL36|You know what Carvana had a new 52 week high today.
+BULL37|I think the stocks doing well.
+NEUT38|You know what?
+BULL39|Tesla hit another 52 week high.
+BULL40|It hit one yesterday, it hit one again today.
+NEUT41|So then you and your friends could say hey is Tesla doing well?
+NEUT42|Why does it keep hitting new and new 52 week highs and it goes on and on?
+NEUT43|And if this is a 52 week high, what do you think the next video is?
+BEAR44|52 week low.
+NEUT45|"Let's get to it."""

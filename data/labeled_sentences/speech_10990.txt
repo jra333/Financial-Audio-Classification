@@ -1,0 +1,23 @@
+BULL0|"""Hey guys, recently JP Morgan has upgraded the target of NEO what JP Morgan's think about Neo."
+NEUT1|We will talk about that so let's get into it.
+BEAR2|According to JP Morgan, analyst Nick Lay near fourth quarter was strong because of that unrealized foreign exchange losses Neo lost twice as much as money.
+BEAR3|And if you will keep those losses aside, the fact that Neo led to more than 20,000 vehicles delivery in first quarter, it was more than 3% than the lie had expected.
+NEUT4|This makes.
+BEAR5|JP Morgan analyst bullish on Neo for the long term outlook and distinctive business model of Neo with autonomous driving as a service makes JP Morgan analyst even more bullish.
+BULL6|As like pointed out, news partners with GAC Motors is expanding production and production capacity to facilitate NEO growing sales, aiming to be able to produce one Lac 50,000 units per year in.
+NEUT7|Single shift or double that with two shifts per day working in new production.
+BULL8|ES6ES-8 and EC6 cars and also the new 87 electric sedan after see how quickly production increase in fourth quarter an new projection for the first quarter the analyst feel confident about predicting that new deliveries will be more than double this year to 90,500 units and.
+BEAR9|More lie noted that one bottleneck that could prevent knew from achieving its goal, and that is well publicized, shortfall in the supply of automotive semiconductor chips and the limited supply of electric batteries.
+BEAR10|The analyst sees that these will reduce production rates to perhaps 7500 units in the second quarter.
+NEUT11|So what type of production rate should investors look for?
+NEUT12|Let's say 20,000 units are produced in first quarter.
+BEAR13|And 22,000 in the second quarter, leaving 48,000 cars that Neo will need to build an ship in the half of the air to reach its annual target.
+NEUT14|And if Neil can make 7500 cars a month with supply chain problems, it seems reasonable to assume that it can make 8000 a month without them.
+BEAR15|In any case, like doesn't seem to be concerned about the possibility of losses of sales by lowering his target from 75 to 70, but he is still maintaining that Al performance rating on the stock lie explained that his only real concern is that dilution of shares has slightly lowered the value of shares of NEO.
+NEUT16|Profit and risk doesn't seem to bother him at all.
+NEUT17|Other analysts also share a similar opinion when it comes to new apps.
+NEUT18|Rank data shows that out of 10 analysts, seven are optimistic and three are neutral and consensus price target of 83.
+BULL19|They believe that the upside potential is around 54%.
+BEAR20|From here, I believe that numbers after Q1 2020 will shock everyone.
+BULL21|And we will see this upside.
+NEUT22|"We will see this 70 target very soon."""

@@ -1,0 +1,14 @@
+NEUT0|"""If 2020 is taught investors anything, it's to expect the unexpected."
+NEUT1|Looking ahead to the new Year, one Bank thinks its silver could be the metal with the next big surprise or earlier this month Saxo Bank released its much coveted annual prediction report for commodity markets.
+NEUT2|Silver made the list and a headline grabbing prediction, the bank sees silver prices.
+BULL3|Pushing past its all time high of $50, Saxo Bank's renewed focus on silver comes as prices continue to outperform gold heading into the new year and the futures.
+NEUT4|As of this interview were at $25.76.
+BEAR5|Silver has more than doubled since March of last year and it's still got a lot of room to go Ole Hanson, head of commodities and strategy at the Danish bank said that while he's bullish on silver in 2021, his forecasts and the banks outlook is an extreme take.
+BULL6|On the significant trend that will drive silver prices higher, not only will silvers monetary side will shine brain 2021, but the environment for the silver is great.
+BULL7|the US dollar is being driven lower by rising inflation, Ann Hanson said that he thinks the industrial demand and green energy resolutions by this new ministration will push it even farther.
+BULL8|And in terms of price relative to gold, he thinks that the demand is going to continue in all the industrial applications from anything from solar panels to energy efficient vehicles.
+NEUT9|So if you're interested, or if you're curious about learning more and diving in deeper about why silver such an undervalued asset, take a look at our investment guides.
+NEUT10|Or don't be afraid to give us a call and pick up the phone and talk to one of our representatives who can dive in.
+NEUT11|Even more, and spend some time with you discussing all the potential with silver.
+NEUT12|Are you excited by the growth of silver you want to learn more?
+NEUT13|"Click the link below and get our free gold and silver investment guide so you can get all the insider tips on how investors are investing into silver today."""

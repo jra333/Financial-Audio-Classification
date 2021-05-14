@@ -1,0 +1,43 @@
+BULL0|"""Greg, it's great to see you and look at the start of the show."
+NEUT1|We were having a debate about whether the markets too top heavy with the Fang names and once again it came back to this idea that as long as the feds willing to kind of backs up the market in the economy and cut again if need be, there's no reason to get out of names like that.
+NEUT2|You know, I think that's exactly the right.
+NEUT3|The right take on this, Kelly.
+BEAR4|I mean, the earnings numbers don't support the kind of strength of the rally we've seen.
+NEUT5|What we have seen is a fed operating on at least one front to keep money markets in shape by doing a lot of Treasury build buying.
+NEUT6|They insist it's not quantitative easing.
+NEUT7|But tell that to the market and then the second thing is that the tone of the remark that have fed officials in the last few months is that even though they like or monetary policy is right now, you detect a distinctive bias to ease based on both the fact that inflation continues to struggle to stay at 2% or higher, and this coronavirus impact.
+NEUT8|So I think in that sense, yes, probably the most important cushion for the market here.
+NEUT9|It's not the fundamentals of the earnings, it's a very friendly Federal Reserve.
+NEUT10|Greg.
+NEUT11|What do you think?
+NEUT12|What does that brain of yours think about the inverted yield curve?
+NEUT13|Again?
+NEUT14|I mean, we were here early last year.
+BEAR15|But three times we got out of it, the unemployment rate is still incredibly low.
+BULL16|The economy seems by many measures pretty strong.
+NEUT17|If we're inverted again, do they need to cut again?
+NEUT18|How would you kind of square all of these different messages out there?
+NEUT19|Kelly, I was not one.
+BEAR20|Whoever thought that the inversion of the flattening of the curve in the last few years was a recession signal and a strong sign, the Fed ought to cut.
+BULL21|And I still feel that way.
+NEUT22|Now we know there are things going on in the markets like the very high level of central bank bond buying that is artificially depressed along and it makes it much easier.
+NEUT23|For the curve to flatten, but that said, I also believe that the rate of change, the fact that it used to be steeper and is less steep now is probably forecasting something about the economy, and I think would be foolish to ignore the likely impact on the US economy of the coronavirus impact.
+BEAR24|We've seen the price of oil come off like about 10 bucks.
+NEUT25|Now that is going to be felt in the oil Patch was a major source of investment, and so on.
+BEAR26|We really haven't seen the manufacturing numbers turn around.
+BEAR27|I'm not in the camp of thinking that this means there's going to be a recession.
+NEUT28|I'm not even in the camp that things that means the Fed has to cut.
+BEAR29|I am in the camp of thinking that this definitely puts a downward bias to what the Fed does next.
+BEAR30|They're going to be watching the data very closely, and I think that they have a relatively low bar to easing if they see any sign that either inflation numbers are sinking again or the economy is starting to hit a soft Patch.
+NEUT31|So basically Greg, you would say that the most important thing to watch for in the Minutes and any rhetoric over the next several weeks and months is any pushback.
+NEUT32|Because look the markets more than 5050 price to rate cut this summer.
+NEUT33|So if they lean against that, that would be the change, right?
+NEUT34|Right?
+NEUT35|I don't think that necessarily that unhappy, but where that pricing is, I wouldn't be surprised if their own thinking, at least among the leadership, is that far off.
+NEUT36|But remember, we're dealing with unknowns here.
+NEUT37|You know, a few weeks ago when Powell testified, right, the coronavirus is still spreading, we didn't know the extent.
+BEAR38|Well, the virus, the epidemic is more serious now, but there are signs that it's the rate of infection is starting to slow and we have yet to see it at least affect U.S. economic data.
+NEUT39|So relative to where we were two or three months.
+BEAR40|Excuse me two or three weeks ago, I would say the case for easing is probably gotten a little bit weaker just because that economic follow through hasn't come.
+NEUT41|Everybody is kind of in the same position watching the data, watching the behavior, seeing if there are more.
+BEAR42|"Like warnings like Tyson Foods or from Apple that the corporate sector in the United States is really being hit by this and unless we do see that widespread stuff, my inclination is that they will tough it out."""

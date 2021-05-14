@@ -1,0 +1,25 @@
+BEAR0|"""The Twitter fight continues and what a lot of people are calling Amazon's confrontational Twitter offensive."
+BEAR1|This time the companies as VP of Policy and Press Jay Carney responding to a tweet from Senator Bernie Sanders Sanders tweet reads, Amazon workers in Alabama are sick and tired of being treated like robots.
+BULL2|They're standing up and fighting back, and I'm proud to support them, Carney tweeted.
+BEAR3|In response with all due respect, Senator Bernie Sanders, you're wrong on this.
+NEUT4|We treat our employees with dignity and respect.
+NEUT5|We offer a $15 minimum wage.
+NEUT6|Healthcare from day one.
+BULL7|A safe and inclusive workplace.
+NEUT8|Once again we invite you to take a tour so you can see for yourself.
+BEAR9|And again Jay Carney asks for Sanders to pass a federal minimum $15 wage.
+NEUT10|So guys, this really echoes some of the snarkiness.
+NEUT11|I guess you could call it that we saw last week from another Amazon executive Dave Clark, as well as the official Amazon Twitter handle.
+NEUT12|Of course, Senator Sanders visited that Bessemer AL warehouse.
+BEAR13|Last week he told workers that they know if you succeed here it will spread all over this country there.
+BEAR14|About 6000 workers at that one facility.
+NEUT15|But guys, the bigger story here is how this movement could spread among other Amazon workers around the country.
+NEUT16|And that vote counting got underway today in Alabama, and that's expected to last over the next few days.
+NEUT17|But we're tracking it very closely and will bring you any updates.
+BEAR18|And anymore Twitter battles.
+BULL19|Have we seen any major traction in other locations?
+NEUT20|There's a lot of talk.
+NEUT21|I mean, keep in mind that to get to this point, the actual union vote in Alabama took months, and some would argue years.
+NEUT22|That requires a lot of organization, a lot of steps to be taken before this, there's a lot of chatter, certainly, especially in Washington, Amazon's home state, but nothing in terms of concrete action like we're seeing in Alabama right now.
+NEUT23|Shepard Smith here.
+NEUT24|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,28 @@
+BULL0|"""Good morning everyone."
+NEUT1|Welcome to live trading.
+NEUT2|Actually in the money stocks today is March 4th, 2015.
+NEUT3|My name is Nick Santiago.
+BULL4|Thank you all for tuning in trade.
+NEUT5|I'm going to show you right now is trade we just took in the intraday stock chat room shortly after the opening Bell ticker symbol is BOBE this is Bob Evans Farms.
+NEUT6|You could see the big gap down today but before the market even opened right at 9:00 o'clock I post up a note to all the members in the trading room and I say hey we're going to buy Bob Evans at $46.74 and you could see.
+BULL7|Exactly where the stock went touched our level and then we got a big bounce stock traded up above the 48 level that happens all in less than 20 minutes.
+NEUT8|So again, if you're a stock trader and you want quick action and you want to be in and out of the market, we now have traders that are trading the first hour of the trading day.
+NEUT9|They hit their trades, and then they're done for the remainder of the day.
+NEUT10|It's becoming a one to two hour profession.
+NEUT11|Believe it or not.
+NEUT12|So if you want to come over trade this with us each and every day.
+NEUT13|Take a 7 day free trial to our Research Center.
+NEUT14|You'll see everything that I'm doing, everything.
+NEUT15|That we do each and every morning you see our desktops and we show you all of this trading action again.
+NEUT16|This trade was put out before the opening Bell for members to execute.
+NEUT17|Once it was hit.
+NEUT18|So again nice play there on Bob Evans.
+NEUT19|Also, you may want to take a 7 day free trial to our Research Center if you take a look at our Research Center track record and I'll pull that up for you.
+BULL20|Right now you're going to see that we're having a stellar year so far.
+NEUT21|Right now.
+BULL22|I think hedge funds are trading up about 1%.
+NEUT23|You do have mutual funds, probably flat, maybe a little bit higher than.
+NEUT24|1% and you could see what we're doing, so again, come on over.
+NEUT25|Take a 7 day free trial, give it a shot.
+NEUT26|You'll see what it's all about and you'll see all the action that we're taking each and every day.
+BULL27|"With that being said, everybody have a great trading day and we'll see you on the charts."""

@@ -1,0 +1,26 @@
+NEUT0|"""Hi fools, this Nikka poor analysts at fool.com and here at the Molly full we do all sorts of financial research."
+NEUT1|We get into the analysis.
+NEUT2|We love looking at the metrics we love, poring through all sorts of financial information, but the fact of the matter is with four simple steps you can probably get yourself 80 to 90% of the way there towards understanding the financial health of a company and understanding whether or not its position from a financial perspective for long term success.
+NEUT3|Those four key metrics are is a company healthy.
+NEUT4|You gotta look at the balance sheet.
+NEUT5|You gotta understand if it has enough cash, enough liquid iti and look at the debt and understand whether or not that company is healthy.
+NEUT6|The second thing you want to do is look at the income statement.
+NEUT7|See if the company is growing.
+NEUT8|Is that company accelerating in growth or is it decelerating growth?
+NEUT9|Either way, you want to understand where the company is appearing from a growth standpoint.
+NEUT10|Third, you want to understand if the company is affective.
+NEUT11|Look at returns on assets.
+NEUT12|Look at returns on equity.
+NEUT13|Look at returns on capital.
+NEUT14|Those the way to understand if a company is reinvesting its own money.
+NEUT15|At rates that make sense 4th, you want to look at the cash flow statement where you really want to understand is is the company bringing in a sufficient amount of real cash.
+NEUT16|When compared to the accounting figure of net income, those are four things that will get you 80 to 90% of the way towards understanding companies financial help and just one quick example of one company that is doing a great job in all four of those counts is priceline.com.
+NEUT17|I'm a recent owner of the company.
+BULL18|It looks great from it a health standpoint.
+NEUT19|Got lots of cash, very little debt.
+BULL20|It's growing pretty darn quickly in the double digit rates.
+NEUT21|Over the past three, five and one year periods.
+NEUT22|It's very effective from a returns on assets and returns on equity perspective.
+NEUT23|And finally it pulls in lots of that beautiful free cash flow that all investors look for, so those are the three points of doing a great amount of financial research.
+NEUT24|It will save you lots of time, lots of trouble, pay attention to those four.
+NEUT25|"That's all I have for you today, Foulon."""

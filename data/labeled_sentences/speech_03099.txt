@@ -1,0 +1,40 @@
+NEUT0|"""Matt, the common shares of Fannie Mae, which are trading over the counter right now."
+BULL1|They've been in the news a lot lately for some of the huge gains they've had over the last couple of days.
+NEUT2|Though it's been down what's going on out there?
+NEUT3|What's kind of the change in sentiment there?
+BEAR4|It's not just been down, it's been crushed over the past two days.
+BEAR5|So we're looking at about somewhere in the range of a 40% decline over 2 days.
+NEUT6|That's normal.
+NEUT7|That's yeah, exactly.
+NEUT8|So.
+NEUT9|I think part of this is driven by the fact that as I've gone over time and again on these Fannie Mae shares and again.
+NEUT10|We're talking about FMA.
+NEUT11|These are the over the counter common shares of Fannie Mae.
+NEUT12|It's a speculative investment.
+NEUT13|There are so many, there's so many different factors at play here that have to go right for investors.
+NEUT14|For this to work out in investors favor.
+NEUT15|And so when you have a speculative investment like this, that's sort of on a foundation of sand as opposed to a foundation of concrete or steel.
+BEAR16|When anything starts to spook investors at all, I think you'll see a mass exodus to run for the doors, and I think you're seeing a little bit of that over the last two days here.
+NEUT17|Could it bounce back?
+NEUT18|Could this eventually be a successful speculation?
+NEUT19|Sure, but successful speculation is still speculation.
+NEUT20|Now in more concrete news, we saw some reports today about Bob Corker and Mark Warner in Congress talking about potentially introducing a bill that would, indeed.
+NEUT21|Wind down, Fannie Mae and Freddie Mac and replace them with some new government entity that would take their place in the housing market.
+NEUT22|This has been the concern all along, so essentially under this conservatorships the idea is Fannie Mae and Freddie Mac are in conservatorship.
+NEUT23|Their responsibilities to the government and as far as the future goes, it all depends on what the government decides they want to do with these two entities and that decision making process could include getting rid of them altogether.
+NEUT24|And so this is the type of built it may not be.
+NEUT25|The bill that actually.
+NEUT26|Goes through this mean this probably not in fact at the end of the story, but it shows that there still is movement in that direction of getting rid of them altogether.
+NEUT27|Yeah, one of the things that I always come back to is when we look at what does Washington want to do with Fannie Mae and Freddie Mac.
+NEUT28|And I think everyone kind of agrees that there does need to be some changes or the government wants to make some changes.
+NEUT29|This isn't just a Democrat thing or Republican thing.
+NEUT30|Everyone is kind of looking to say, yeah, we probably shouldn't have our hand this much in the housing market.
+NEUT31|And let's try to figure out a way.
+NEUT32|So if I was to speculate, which I don't want to do, and I wouldn't encourage investors to do.
+NEUT33|It wouldn't be on something that both Democrats and Republicans agree that should be done.
+NEUT34|Imagine that finding something that Democrats and Republicans can agree on and this happens to be one of those things.
+NEUT35|And just as just as one other side note here, because in terms of Fannie Mae being in the news, I know a lot of investors have heard about hedge funds taking positions in Fannie Mae shares.
+NEUT36|It's important to remember that those are typically preferred shares that those hedge funds are going into, including Bruce Berkowitz.
+NEUT37|It was just announced that he took a big position in Fannie Mae preferred shares.
+BULL38|I still see that is pretty speculative, but it's another rung above where we're at in terms of the over the counter common shares.
+NEUT39|"Alright, moving on."""

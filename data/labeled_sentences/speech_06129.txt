@@ -1,0 +1,34 @@
+BULL0|"""I think he's pro economic growth."
+NEUT1|I think he realized that this economy doesn't grow.
+BEAR2|This presidency is finished, will be seen as a failure.
+NEUT3|He's got to do it in a way where people who brought a man who felt left behind in the 80s and 90s.
+BULL4|The Oh yes, this is beginning to work for them.
+NEUT5|That's why I think he's gotta move fast on the tax cuts.
+NEUT6|Get things moving.
+NEUT7|He's already gotten what you might say.
+NEUT8|The symbol capital going after Carrier, another showing I've not forgotten who brought me in here but now he's got to deliver the big stuff.
+NEUT9|Is that pro business, though?
+NEUT10|I mean, is this company don't move those jobs pro big business, some parts?
+NEUT11|Yes, some parts know the key thing is though, the economy is, you know is propelled by businesses.
+NEUT12|We probably haven't even heard of it become the big ones of tomorrow and that's what the environment you have to create that no names today become the big names tomorrow.
+NEUT13|Steve quick, nice question.
+NEUT14|Following the financial executive orders on Friday.
+NEUT15|What's your view on the CFP B and what should be done with that?
+BEAR16|I think it's unconstitutional.
+NEUT17|And I think eventually it's going to go.
+NEUT18|There is an interesting piece in the Journal today about how you can get rid of Chordae.
+BEAR19|The director by directing him to drop the appeal on that court if he disobeys the president has the right to fire him if he tries to hold out, then he's out so he will go.
+NEUT20|But the key thing is that agencies gotta be.
+NEUT21|It's gotta be accountable.
+NEUT22|Gotta be accountable.
+NEUT23|We gotta go real quick.
+NEUT24|Interest adaptability.
+NEUT25|Mike Moritz Akoya has a fascinating piece taking aim at Steve Schwarzman.
+NEUT26|In the private equity space about this.
+NEUT27|Well, if you want to do away with the deductibility then you shouldn't tax the interest.
+NEUT28|That's one nice thing about the flat tax, it's it's pure, so always laugh at the flat tax.
+NEUT29|Hey, come on, you gotta have the opportunity here, but it's gotta be a full circle if you're going to do it deductibility then you can't tax it.
+NEUT30|Hey there, thanks for checking out CNBC on YouTube.
+NEUT31|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT32|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL33|"Thanks for watching."""

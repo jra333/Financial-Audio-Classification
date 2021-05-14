@@ -1,0 +1,35 @@
+BEAR0|"""Yo, what's going on?"
+NEUT1|My guys, I've been here and today I'm going to teach you how to invest in the stock market.
+NEUT2|It would be easy steps.
+NEUT3|Are you ready?
+NEUT4|Let's do it.
+NEUT5|Investing in the stock market is actually easier than you think.
+NEUT6|All you need is your phone or your laptop.
+NEUT7|With that being said, let's go to step one.
+NEUT8|Make a trading account using your phone.
+NEUT9|Go to the App Store or Google Play.
+NEUT10|Look for Robin Hood and press download which might away you can use my link below to get a free stock.
+NEUT11|It's so easy to register once you download the app it's going to ask for some personal information.
+NEUT12|Then link your bank account and deposit any amount you want and you're all set.
+NEUT13|Pretty easy, right?
+NEUT14|Step 2 She was in a stock.
+NEUT15|Now there's a lot of ways for this, but I'm going to show you that users do this.
+NEUT16|Go to the search bar and just type in.
+NEUT17|Just talk to one.
+NEUT18|Now you're probably wondering, Ivan, how do I know which stock to choose?
+NEUT19|Well, it's easy if you don't know what stock to choose, just type in the search bar top 100 and you'll see that it will show the top 100 most popular stocks in the market, and from there you have a lot of choices.
+NEUT20|But remember, always do your research 1st and don't buy something I don't understand.
+NEUT21|Don't worry, I'll make another video for this topic.
+NEUT22|Step three and last but not least, buying a stock, let's say for example, you choose Apple, just press trade click by typing how many shares you want and you will see them out there going to pay.
+NEUT23|If everything looks good, just swipe up and you're all set.
+NEUT24|Just wait for confirmation and Wallah, you just did your first investment.
+NEUT25|Congratulations.
+BULL26|Now that you're ready to invest, let me remind you to be successful in the market.
+NEUT27|You need to have a lot of patients.
+NEUT28|Don't feel like you're missing out.
+NEUT29|It always do your research.
+NEUT30|How I wish I knew all of this before, and that's why I'm showing it to you guys.
+NEUT31|Obviously there's a lot more going on in this, but it did not show.
+NEUT32|Pretty much, that's it.
+NEUT33|Well, that's it for today my guy, so hope you learn something you.
+NEUT34|"If yes, hit that like button and share this year friends and I'll see you in my next video."""

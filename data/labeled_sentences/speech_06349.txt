@@ -1,0 +1,5 @@
+BULL0|"""Welcome to the world in 60 seconds with first FT, the Federal Reserve Chairwoman Janet Yellen has said share prices are quite high and there are potential dangers stocks have been falling around the world since their comments, but investors appear more immediate concern with the rebound in oil prices nearing $70.00 a barrel and also are out in bond markets, Israel's right wing Likud party clinched a coalition with the far right Jewish Home Party less than two hours before a midnight deadline last night."
+BULL1|This paves the way for Benjamin Netanyahu's fourth term as Prime Minister.
+BEAR2|However, have a slender majority with just 61 seats in the 120 seat Knesset and is the honeymoon over for Alibaba.
+BEAR3|The Chinese e-commerce giant floated on the New York Stock Exchange last September in a record breaking $25 billion listing, but share prices from $119 to below $80.00.
+NEUT4|"Since November, analysts will be watching his quarterly earnings announcement today for any evidence of sluggishness in revenue growth with more stories for you at fd.com/firstFT."""

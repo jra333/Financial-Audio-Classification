@@ -1,0 +1,14 @@
+NEUT0|"""Entertainer Keen, CEO and President of alphastrike.com."
+NEUT1|Today's stocks.
+NEUT2|Trade of the day is going to happen.
+NEUT3|Ask you, I'm so big in the usual objectivity.
+NEUT4|So we saw a big buyer of the November 25 calls a couple of weeks ago, so these didn't hit today, but they hit a while back and I think the stock is finally bottom here at 18 SAT 80.
+NEUT5|So I sent the signal at 1880 as we can see here.
+BULL6|It has rebounded now from 1873.
+NEUT7|It's up to about 1890 ninety eight, very similar.
+BEAR8|Like a lot of these charts are very, very weak and we.
+NEUT9|Maybe there is some short term bottoms here, so today's stock trading today is to buy SUM 1880.
+NEUT10|This is where I sent out the signal stop loss and give $2.00 to 1650.
+NEUT11|Target would be 1950 and target to be 2050 I think.
+NEUT12|Ask him can head higher.
+NEUT13|"This is 1 we've seen November 25 calls being bought so I am long this name and this just after that thanks will run it back tomorrow."""

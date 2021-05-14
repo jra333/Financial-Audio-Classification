@@ -1,0 +1,45 @@
+BULL0|"""Welcome to FT markets this week at 25 billion, it's official, Alibaba is the world's biggest IPO."
+NEUT1|So what now?
+NEUT2|For the rest of the market, there's a pipeline growing here in the US until the end of the year of companies looking to go public.
+NEUT3|So joining me now to discuss the outlook for the IPO market is Viviani Rodriguez Viviani.
+BULL4|Thanks for joining us.
+NEUT5|What's happening here with the IPO market post Alibaba?
+NEUT6|Well, it's Wall Street is geared in two camps here.
+NEUT7|A lot of people say that the market has been holding for.
+NEUT8|Get the IPO from Alibaba out 'cause it's 25 billion.
+NEUT9|No one wanted to compete with that big deal, so we could actually see a flux of companies coming to market.
+NEUT10|So if you have a lot of some at least three very big deals right on the pipeline, citizens which could come even like this week.
+NEUT11|We have Virgin.
+NEUT12|We have Lending Club so these are multi billion dollar deals.
+NEUT13|Then there's other groups of people who say that.
+NEUT14|Well, you know it depends a little bit on the performance of the stock market.
+BULL15|This has already been a banner year.
+NEUT16|When he comes from IPOs.
+BEAR17|So if the stock market really start, you know slowing down from here.
+NEUT18|Maybe some companies will say maybe let's wait a little bit and in fact, we've sort of seen the stock market start this week on a sort of defensive footing.
+BEAR19|Given what's coming out of China in terms of the growth outlook there, and in general the global economy, IMF last week downgraded the prospects of the global economy.
+NEUT20|There's a lot of uncertainty, and in fact we actually coming to the end of the third quarter, which ends next Tuesday.
+BEAR21|And then we sort of octobers sometimes, hasn't been a friendly month for equities.
+BEAR22|So do you think the IPO pipeline could be sort of go through a bit of a hiatus at some point?
+NEUT23|Yes?
+NEUT24|As you said, you know, October has a history of sometimes actually being a terrible month for equities, and if you are obviously a company coming to market, you have a one shot, right?
+NEUT25|You want your deal to succeed.
+NEUT26|I mean, there's no questions about the demand, the size of investors that how much they could have soared, how big these deals could be.
+NEUT27|The question is you want to price this to perfection, right?
+NEUT28|So if the market is not good in that moment, it's not good in that.
+NEUT29|Week, you know every dollar counts for a company in for a CFO, and that's when the bankers and the companies may make you know, push the brakes here and say, let's wait until better conditions.
+NEUT30|But you know, looking looking what we know right now is that there's a pipeline of roughly about 20 billion companies worth of deals that could still hit the market this year in terms of IPO's.
+BULL31|That that's pretty good.
+BULL32|That's pretty strong.
+NEUT33|We are, you know, it's the last leg.
+NEUT34|And obviously I Alibaba helped a lot, right?
+NEUT35|And I suppose.
+NEUT36|The other big event for next month.
+NEUT37|He is going to be the Fed ends QE and we sort of saw last week with the Fed meeting that the Fed is starting to sort of open the door towards tightening policy.
+NEUT38|Are you seeing any signs of nervousness here in other parts of Markham, say junk bonds, for example, that equity investors should be watching, and in particular companies looking to go public before the end of the year.
+BEAR39|Absolutely, there's a strong correlation between the equity markets and the junk bond market, and we've seen, you know, big Hiccup in junk bonds in July, market had stabilized a little bit, but performance is still very, I would say lackluster, to say the least.
+NEUT40|In terms of junk bonds.
+NEUT41|So if we could see these.
+BEAR42|If there's a big turn around in sentiment, probably the junk bond market will be the first that is going to be hit, and this can actually impact the stocks too, because they tend to operate in very similar ways.
+NEUT43|So yes, that's definitely 11 area of the market that investors should be paying a lot of attention to great.
+BULL44|"Well, thanks so much for the only obviously equity investors have a lot to watch in the coming weeks and months before the end of the year, and what has been a banner year for IPO's."""

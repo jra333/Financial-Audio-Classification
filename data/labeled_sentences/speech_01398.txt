@@ -1,0 +1,28 @@
+NEUT0|"""Is baseball doomed to go the way of the dinosaurs?"
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get insights you need to better navigate these turbulent times.
+NEUT2|The regular and truncated baseball season is over and the playoffs are underway, which will culminate in the World Series.
+NEUT3|But then the focus will shift again on how to revive interest in the game that has been losing ground among Americans, especially younger ones, for a long time.
+NEUT4|Once known as the National pastime, baseball faces intense competition for fans, not only with football, basketball, hockey, an increasingly soccer, but also now with video games before the Covid pandemic, video tournaments were gaining larger and larger audiences here and overseas.
+NEUT5|The leisurely pace of baseball contrast with the faster paced action of these other activities.
+BEAR6|Although football suffering from the seemingly interminable commercials between plays.
+NEUT7|Years ago, a Major League Baseball game lasted under 2 hours.
+NEUT8|Now they can go over 4 hours.
+NEUT9|Baseball owners and officials have initiated some reforms, such as limiting visits by coaches and managers to the pitching mound, but more needs to be done.
+BEAR10|The Big one is sharply limiting batters ability to leave the batting box to adjust their gloves or throw off the pictures, rhythm or whatever.
+NEUT11|Years ago the batter never called time out and left the box less hit by a pitch.
+NEUT12|Was walked or actually hit the ball today.
+NEUT13|Batter seemed to step out of the box after almost every pitch.
+NEUT14|The new rule should be hard and simple, no leaving the boxless hit her brush back by a pitch.
+NEUT15|Along with this, the time of picture must deliver a ball to the batter when he receives.
+NEUT16|It should be cut from the current 12 seconds to 8 and umpires should have a pitch Clock as they rarely enforce the current 12 second rule.
+NEUT17|Too many hurlers take their sweet time between pitches.
+NEUT18|It's not necessary.
+BEAR19|If a batter violates this new rule, he gets called a strike.
+NEUT20|If a pitcher violates the time role, he gets called a ball.
+NEUT21|The players union will how.
+NEUT22|But Major League Baseball on the owner should insist on it.
+NEUT23|People will tolerate baseballs unusual pace if it is not unreasonable, just as they did years ago.
+NEUT24|I'm Steve Forbes.
+NEUT25|This is what's ahead.
+NEUT26|Thank you for joining us to send in your comments and suggestions.
+BULL27|"I look forward to seeing you next time."""

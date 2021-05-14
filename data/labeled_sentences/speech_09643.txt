@@ -1,0 +1,7 @@
+BEAR0|"""And Elon Musk says that he's tested positive for the coronavirus, Tesla's billionaire CEO tweeted that he's experiencing symptoms of a quote."
+NEUT1|Typical cold, nothing unusual so far.
+BEAR2|Musk was sceptical of the testing process.
+BEAR3|He noted in those tweets that of the four tests using the same machine, two of them came back negative.
+NEUT4|The biggest story is the moment they happen from around the globe.
+NEUT5|Subscribe to Bloomberg.
+NEUT6|"Quicktake now for insight in an instant."""

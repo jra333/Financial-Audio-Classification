@@ -1,0 +1,12 @@
+BULL0|"""There has been a remarkable reaction from the markets to Donald Trump's victory."
+BEAR1|You'll recall if you were watching overnight, the results come in and as it slowly dawned on the markets, how various signs of concern were being expressed through the dollar index, which was down at one point 2.3%.
+BEAR2|The Mexican peso was off about 12% and S&P futures were down 5%.
+NEUT3|All this was showing the markets in a near state of panic, but after confirmation of Mr. Trump's victory.
+BEAR4|These positions seem to have reversed the dollar index is now up on the day the US equities market has opened up, and in fact the volatility index has fallen.
+NEUT5|All this suggests that the market has taken a very different approach to how it viewed the results in the early hours of the US day.
+NEUT6|What we have seen is that the acceptance speech by Mr. Trump, regarded by some as conciliatory that suggested to the market that there is perhaps more likely to be.
+NEUT7|A repeat of the Reaganomics program of 1980, the 40th President of the United States, Ronald Reagan introduced tax cuts, the big infrastructure program.
+BULL8|Exactly what Mr. Trump is planning, and we've also seen a steepening of the yield curve, which suggests that the market expects inflation to be climbing.
+BEAR9|All this points to what was thought to be going to be a very ugly day.
+NEUT10|Turning into a much more benign, even sanguine view from the market about Donald Trump's surprise.
+BULL11|"Election victory."""

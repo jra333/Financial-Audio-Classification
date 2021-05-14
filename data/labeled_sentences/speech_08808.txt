@@ -1,0 +1,9 @@
+NEUT0|"""This is a stock chart for a gco."
+NEUT1|As you could see.
+NEUT2|The chart has a trend line for a couple of months.
+NEUT3|Just look right there.
+NEUT4|You see a test at trial on here, here or there over there when the market crashed actually came down to trying on and and 50 day moving average.
+NEUT5|Filled in that gap.
+NEUT6|I like that aspect also.
+BULL7|When it went up, it gapped up on high volume after earnings, so I bought it right here at 71 this morning.
+NEUT8|"I'll probably hold it for a few points."""

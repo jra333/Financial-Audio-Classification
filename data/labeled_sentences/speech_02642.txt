@@ -1,0 +1,17 @@
+BEAR0|"""20 years ago at the turn of the century, the primary problem in metals markets was that there was far too much demand chasing, not enough supply."
+NEUT1|Basically, very, very few producers of steel, copper, iron ore, or aluminum anticipated the dramatic impact at the rise of China would have on the metals markets.
+NEUT2|So between 2000 and about 2011.
+BEAR3|We saw soaring prices in these markets as demand far outstrips supply.
+BEAR4|But in response to those soaring prices, the suppliers eventually ramped up their ability to produce all of these different commodities, and so during the 20 teens which are now of course, nearly over, the main problem in the metals markets has been far too much supply chasing inadequate demand.
+NEUT5|So if you look, for example, an iron ore, the world produces 3 1/2 times as much.
+NEUT6|Iron ore today, as it did during the 1990s.
+NEUT7|Three point 1 times as much aluminum, 2 1/2 times as much steel in two and a quarter times as much copper, and the real linchpin for these markets is China.
+NEUT8|For aluminum, copper, and steel, China is consuming between 40 and 50% of the metals produced each year, and for iron ore, that number is closer to 2/3.
+NEUT9|So what happens in China is a very very key importance, and the good news for these metals in the short term.
+BULL10|Is the China seems to have fairly successfully stimulated its economy to offset the negative impacts of the trade war.
+BULL11|The People's Bank of China reduced the reserve requirement ratio quite a lot over the past few years, and that has stimulated a great deal of credit creation and China's growth rate appears to be quite stable and we think this is pretty solid news for these models going into the beginning of 2020.
+NEUT12|The less good news though, is by stimulating credit creation, the flip side of that.
+NEUT13|Is a China is also created a great deal.
+BEAR14|More debt and a heavier debt burden may put downward pressure on Chinese economic growth.
+BEAR15|As we move deeper into the 2020 if that is the case, it could be that these metals markets remain very much oversupplied as we go into the middle of the twenty 20s and potentially under a great deal of downward pressure.
+NEUT16|"I'm Erik Norland, senior economist with the CME Group in London."""

@@ -1,0 +1,30 @@
+BEAR0|"""Shares of Alibaba fell nearly 8% in Hong Kong overnight."
+BEAR1|The stock was down about 8% in the previous session last Thursday as well after Chinese regulators announced a probe into monopolistic behavior.
+BEAR2|Other Chinese tech firms, including Tencent and SMI, See also fell sharply overnight plus.
+BEAR3|This is part of the reason why Baba shares fell Chinese regulators ordering Ant Group to comply with regulatory requirements and rectify its businesses.
+NEUT4|China Central Bank summoned Ant executives on Saturday and ordered them to bring their businesses into compliance with regulators and to switch their focus back to the payments business.
+NEUT5|In a statement, the central bank said Ant Group lacks sound governance, defied regulatory compliance requirements and engage in regulatory arbitrage.
+BEAR6|It also said Ant Group used its market position to exclude rivals and hurt the rights and interests of consumers.
+BEAR7|Chinese regulators halted dance IPO last month over regulatory issues and Mike.
+BEAR8|Of course, that's when we saw Baba shares really fall precipitously.
+NEUT9|It's worth reminding viewers out there that Baba owns about 33% in Ant, and so these stories are very intertwined and maybe no coincidence.
+BULL10|Also, that Alibaba announced an increase to their buyback program, hoping maybe to offset some of these concerns.
+BEAR11|And yet we did see the shares fall pretty precipitously over the past two sessions.
+BEAR12|Yeah, obviously their ambitions being curtailed.
+NEUT13|They have to answer to the to the government so.
+NEUT14|Make use of the free cash flow as you as you can and buy back.
+BEAR15|Shares will see how deep how deep that decline goes today the the they got on the wrong side of somebody and it's very Petit.
+NEUT16|You know whenever we many times in the past when we translate Chinese into English.
+NEUT17|Maybe it's not what you read that line that the regulators accused aunt of despising regulations.
+NEUT18|I just wonder if that is that the perfect word for what I can see, how they would say that.
+NEUT19|I don't know how would we say it here without using the word.
+NEUT20|Despise there's a lot of companies that don't like regulations that chafe under regulations, but it's just the way that I read.
+NEUT21|It's like oh wow, that's, but where's what's the behind the scenes story?
+NEUT22|Have Jack MA way back when the Ant Financial IPO was initially scrapped.
+NEUT23|It was traced back to comments that Jack MA made publicly about the central bank and about the Chinese government stifling regulation.
+NEUT24|Stifling innovation is not regulation stifling innovation with regulation and that really.
+BEAR25|Sort of raised the you know, the ire of the regulation of the regulators.
+NEUT26|And yeah, I mean people have also observed that an financial its business has the potential for just kind of circumventing or transcending, you know, banking regulations and government.
+NEUT27|Just if you look at the financial technology companies here, the payment systems you're going around, the regulated banks and and that's not necessarily well received in China at this point.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

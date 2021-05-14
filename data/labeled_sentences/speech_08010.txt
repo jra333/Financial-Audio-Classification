@@ -1,0 +1,10 @@
+NEUT0|"""We bring you the answers to all your questions, be better than others."
+NEUT1|Enjoy the benefits of knowledge except the answers from us.
+NEUT2|Its current stock prices hovering around $130 a share.
+NEUT3|And if you invested in the company 10 years ago, you would have made a profit.
+NEUT4|A $1000 investment on April 15th, 2009 would be worth more than $7600 as of April 15th, 2019, a total return over 660%, according to CNBC calculations.
+NEUT5|Our mission is to provide accurate answers.
+NEUT6|We think without knowledge it is impossible to live a balanced life.
+NEUT7|Be competent, be skillful.
+NEUT8|Thank you for watching.
+NEUT9|"Don't forget to subscribe and hit the Bell notification."""

@@ -1,0 +1,35 @@
+NEUT0|"""Crypto currencies have been around for awhile now, although first conceived in the early 80s."
+NEUT1|It would take until the introduction of Bitcoin before it would come to the forefront of just about everyone's mind.
+NEUT2|In this video, we'll be looking at how we think cryptocurrencies would do 2020, along with what Bill Gates, Elon Musk, John McAfee, Van Buffet and some others think about them, Bitcoin released by the mysterious Satoshi Nakamoto, would open the Pandora's box.
+NEUT3|Unleashing the magic of crypto currencies on the world with its SSJ 256 encryption and concepts of proof of work.
+NEUT4|It also led to the birth of other cryptocurrencies called Altcoins.
+NEUT5|Some examples of all coins alight, CNX Lithium and so on.
+NEUT6|Cryptocurrencies are an Internet based medium of exchange that uses cryptography to ensure your transactions are secure and that your assets are transferred securely.
+NEUT7|It also regulates the number of crypto currency units created.
+NEUT8|Former CEO of Google Eric Schmidt called them with remarkable cryptographic achievement, while Varun Buffet, the CEO of Berkshire Hathaway, asked people to stay away from it, calling it a Mirage.
+NEUT9|So it might seem like the popular opinion on cryptocurrencies might be a little mixed.
+NEUT10|However, let's have a look at what the other great minds of the world have to say about it.
+BULL11|Transforming the underlying economics of financial services through digital currency will help those who live in poverty directly.
+NEUT12|It will also support a host of other development activities, including health and agriculture.
+NEUT13|And for the first time, at least in my experience and my knowledge.
+NEUT14|Freedom true financial freedom.
+NEUT15|Is possible.
+NEUT16|With crypto currencies, if we have the common sense to use them appropriately.
+NEUT17|Paper money is going away, yes, and crypto is a far better way to transfer value than than pieces of paper.
+NEUT18|So back to the Internet, I believe that it will have a native currency.
+NEUT19|Really, it'll have a native currency and I don't know if it's Bitcoin, and I think it will because just given all the tests that's been through and the principles behind it, how it was created and you know it was something that was born on the Internet that was developed on the Internet that it was tested on the Internet.
+NEUT20|It is of the Internet.
+NEUT21|So what's in store for crypto currencies in the future?
+NEUT22|One of the most important issues that cryptocurrencies need to address is that of regulation.
+NEUT23|Crypto currencies are often the preferred currency for a bunch of illegal activities like money laundering, smuggling, narcotics and so on.
+NEUT24|Thanks to its decentralized nature and anonymity, regulatory and government agencies would aim to bring virtual currencies under regulation to ensure they are in misused crypto.
+NEUT25|Currencies will also gain widespread adoption among merchants, although currently they are being adopted.
+NEUT26|They still are in the minority.
+BULL27|They would see more acceptance among consumers.
+BEAR28|The biggest challenge that needs to be overcome is the reluctance users have towards cryptocurrency due to their relative complexity compared to the formal forms of conventional currency.
+NEUT29|Other problems that would be solved, or how a computer crash could virtually destroy all of a person's digital fortune, or how hackers could steal from a virtual world.
+NEUT30|These issues will be combated by technological advancements, although the nature of cryptocurrencies can be very volatile and near constantly changing.
+NEUT31|2020 really does look like.
+NEUT32|In crypto currencies to the general public and widespread adoption on that note, we've come to the end of this video.
+NEUT33|If you enjoyed this video, don't forget to like, share and subscribe to our channel.
+BULL34|"Thank you for watching and stay tuned for more from Simplilearn."""

@@ -1,0 +1,53 @@
+BEAR0|"""Has the economic outlook changed materially over the last few weeks?"
+NEUT1|Throughout all this market volatility and super low bond yields no, and it really hasn't.
+NEUT2|I mean, I think you know a lot of the same fears that people were talking about.
+NEUT3|You know, even several months ago are still being talked about today and again, we're sympathetic to that particular from a manufacturing perspective.
+BEAR4|You know we're obviously seeing some signs of stress there, and people keep on asking us.
+NEUT5|You know, we'll look if the next recession does come, what could it look like?
+NEUT6|And I think 01 is probably a fair way of thinking about the open recession.
+NEUT7|Course was business led.
+BULL8|The consumer came through that completely unscathed, and I think that's a really important idea.
+NEUT9|Now let me be clear, I'm not suggesting that we were going to have a recession anytime soon.
+NEUT10|We actually, it's not part of our base case, not not in the immediate term, but I think if you want to understand what the next recession could look like, I think that's probably a pretty good starting point.
+BULL11|Again, being cognizant of the idea that the consumer is in incredible shape right now.
+NEUT12|And so I think that's sort of the thing about lagging indicator is warmer, so the single best leading indicator.
+BEAR13|Is jobless claims?
+NEUT14|I mean I know jobless claims just so unheralded, right like people.
+NEUT15|Just they sort of their eyes gloss over when they hear this.
+NEUT16|That is the truth.
+BULL17|All it, it's better than anything.
+NEUT18|It does not work.
+NEUT19|I will be very, very clear on this.
+NEUT20|We've put hundreds of different variables into our model.
+NEUT21|Nothing works better than jobless claims in JavaScript telling that the odds are recession in the medium term or are actually quite low.
+NEUT22|Lindsay, what about the outlook for earnings?
+NEUT23|Has that changed materially?
+NEUT24|No, it hasn't.
+BULL25|If you look at the 2020 are still looking for 11% earnings per share growth for the S&P 500.
+NEUT26|Of course we think that that definitely has some risk in it, especially when you think about the tariffs that are going into place in the consumer.
+BULL27|Good items in September and later this year.
+NEUT28|That will definitely impact some of those sectors, but you also have to think about some of the more cyclical sectors like industrials and materials that have been dealing with some of these tariffs for over a year now.
+NEUT29|So now there's cycling that so you actually heard industrial companies.
+NEUT30|Not sound as dire as you would have expected during the second quarter earning season, so now that may all change when we get these new tariffs put in place.
+BULL31|But and the economic environment in China continues to slow, but that is something we'll definitely be watching Tom.
+NEUT32|You know, one of the things that maybe gets lost in a lot of the conversation.
+NEUT33|You say clients keep asking what kind of reception we might have is.
+NEUT34|There's a lot of room statistically between a recession.
+BULL35|Technically speaking, an like 3% growth that feels like we have great momentum.
+NEUT36|And then.
+NEUT37|Can we stay in that middle kind of disappointing soft zone for awhile?
+NEUT38|You know, it's a great question, don't you feel like?
+NEUT39|That's exactly what this entire recovery has been.
+BEAR40|I mean, you know this is the most hated economic recovery that I can remember.
+NEUT41|So yeah, I I do.
+NEUT42|I think it's easy to stand there.
+NEUT43|I mean, look again, I, I don't want to gloss over the risks.
+NEUT44|We get it.
+BEAR45|There are risks out there, but we've we've had a manufacturing recession, right?
+NEUT46|We had one in 2015.
+NEUT47|And I think we have to just be cognizant of you know what are the sort of the key drivers of economic activity in the key driver is almost always the consumer and look.
+NEUT48|Let me be clear, I've heard countless arguments for why the consumers about to come right, like how many times have I heard hours?
+NEUT49|Oh well, hours slowing is the thing.
+NEUT50|I mean really like, does anyone actually bothered to understand like hours giving nothing but head fakes over history?
+NEUT51|So again, we're cognizant of the risks.
+BULL52|"But yes, you can continue to grow to 2 1/2% pace."""

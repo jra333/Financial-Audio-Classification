@@ -1,0 +1,26 @@
+NEUT0|"""At the heart of the Derek Chauvin case, the whole trial."
+BEAR1|Did he use excessive force with his knee on George Floyd's neck or was it appropriate under the circumstances?
+NEUT2|That's the case.
+BEAR3|The Minneapolis police instructor, who trained Shovan on chokeholds and use of force, took the stand at the now fired officer's murder trial.
+NEUT4|Today, prosecutors showed an image of Derek Chauvin kneeling on George Floyd's neck and the use of force trainer testified that it was not an authorized technique.
+NEUT5|And that they do not teach it to officers.
+NEUT6|Would it be appropriate and within training to hold a subject in that prone restrained position with the knee on the neck and a knee on the back for an extended period of time after the subject have stopped offering any resistance, or has lost their pulse?
+NEUT7|No Sir, the prosecutors also fought in their first outside expert witness or brought him in a Sergeant with the Los Angeles Police Department who specializes in use of force.
+BEAR8|He said Chauvin's actions were excessive, especially considering George Floyd was accused of using a counterfeit $20 bill.
+NEUT9|NBC's Gabe Gutierrez live outside the courthouse for us tonight, Gabe.
+NEUT10|Hey there, chef from a rainy Minneapolis in your right prod.
+BEAR11|The prosecution had called officer after officer from the Minneapolis Police Department, but this time late today brought in an outside expert from the LAPD said with Derek Chauvin did was excessive.
+BEAR12|Mr. Floyd was accused of having a counterfeit $20 bill.
+NEUT13|How does the that particular offense or the severity of the offense, relate to the appropriateness of the force to be used against him, typically in a normal situation where you're dealing with someone, that's a counterfeiter or someone who is using a counterfeit bill.
+NEUT14|Typically you wouldn't even expect to use any type of force.
+BEAR15|They were showing the fencing that continued to insist that an angry crowd of bystanders distracted the officers and that Floyd died due to his drug use and underlying medical conditions.
+NEUT16|But today show bins attorney was more aggressive during cross examination and he brought up a picture, a training picture of an officer placing his knee on the neck and shoulders of a suspect.
+NEUT17|This is a specific kind of photograph that demonstrates the placement of a knee.
+NEUT18|As it applies to prone, handcuffing correct an ultimately if that person were to be handcuffed and circumstances dictated, the officer would be permitted to continue to hold his knee in that same position.
+NEUT19|Agreed, I would say yes.
+NEUT20|However, we've cautioned officers that be mindful of the neck area.
+BEAR21|Today's testimony was more technical than some of the emotional testimony we saw last week, according to a pool Reporter inside the courtroom.
+BEAR22|At least one of the jurors appeared to be sleeping at one point.
+BEAR23|Several others yawning chef.
+NEUT24|Shepard Smith here.
+NEUT25|"Thanks for watching CNBC on YouTube."""

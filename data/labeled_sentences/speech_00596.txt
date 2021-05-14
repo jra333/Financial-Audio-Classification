@@ -1,0 +1,18 @@
+BULL0|"""Easy trade has made trading on the goal even easier."
+NEUT1|You don't need a smart device or Internet access to trade with easy trade.
+NEUT2|You can trade directly on the Nigerian Stock Exchange through SMS.
+NEUT3|That's right through SMS.
+NEUT4|I know right sounds unbelievable, but it's true and easy.
+NEUT5|Before we go further, it's important to note that all SMS must be sent to 08140000214.
+NEUT6|Secondly, your customer number is the key to using this platform.
+NEUT7|This is the number allocated to you when you open an account with investment one.
+NEUT8|If you have forgotten your customer number, simply text my account to 08140000214.
+NEUT9|Now you can register by sending yes customer number 208140000214.
+NEUT10|When you receive a confirmation acknowledging your subscription request, you're all set to begin trading through SMS to place your treat text, buy or sell stock name stock quantity, for example by.
+NEUT11|Guarantee 1000 or sell guarantee.
+NEUT12|1000 to check your stock account balance.
+NEUT13|Text balance customer number to check your stock portfolio data text stock customer number.
+NEUT14|Remember to send all messages to the number of flashing on your screen.
+NEUT15|So what's your excuse?
+NEUT16|Start trading today.
+NEUT17|"All terms and conditions apply."""

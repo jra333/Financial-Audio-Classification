@@ -1,0 +1,20 @@
+BULL0|"""The Chili's price could be coming close to restarting its massive bull run as on chain metrics point to accumulation."
+BEAR1|On the 12 hour chart, the Chili's price has formed a series of lower highs that have bounced off a flat support barrier at $0.47.
+NEUT2|By drawing trend lines connecting the swing points and ascending triangle pattern seems to evolve.
+NEUT3|This technical formation forecasts are 42% move, which is the distance between the pivot high and low.
+NEUT4|The Chili's price target of $0.71 is obtained by adding this measure to the breakout point at $0.50.
+NEUT5|A secondary confirmation will arrive after the buyers push CHC above $0.61, which happens to be the state trend resistance set up by the momentum reversal indicator MRI.
+BULL6|Supporting the Chili's price is bullish potential as the accumulation that seems to be underway.
+BEAR7|The supply on exchanges as a percentage of total supply reduced from 31.8% at its all time high to 28.17%.
+NEUT8|As of this writing.
+BEAR9|This 11% decrease represents that investors have moved their HCC Holdings off exchanges and anticipate a further expansion in its market value.
+BEAR10|A similar decreasing trend can be seen in withdrawal transactions representing market participants moving their investments outside centralized entities.
+NEUT11|Moreover, such transactions were last seen during the start of the HCC's 1000% Bull Run.
+BULL12|The number of daily active addresses also saw a positive spike, suggesting an increased adoption of the Chili's network from investors interesting and HCC.
+NEUT13|At the current price levels.
+BEAR14|While the Unchained metrics suggest an accumulation for Chili's, investors should note that descending triangle pattern as a bearish pattern formed due to aggressive sellers.
+BEAR15|Hence a sudden spike in bearish momentum that pushes the HCC price below $0.47 will jeopardize the upswing.
+BEAR16|However, if the Chili's price slices through the MRI's breakout line at $0.42, it will invalidate the bullish outlook and trigger a bearish one.
+BEAR17|In such a scenario, HCE could slide 17% to the immediate support at $0.35.
+BEAR18|Another 16% drop to thirty cents seems likely.
+BEAR19|"If $0.35 fails to contain the Bears."""

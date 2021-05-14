@@ -1,0 +1,21 @@
+NEUT0|"""Well, the S&P 500 is an American institution."
+NEUT1|It's 500.
+NEUT2|The largest companies in America, and it's a list that was made by Standard and Poors which is a company did this many years ago and and the company did that in order to assess the overall American stock market.
+NEUT3|So when you take the stock performance of those 500 companies drawn from diverse industries as an aggregate, you say that's about how the American stock market did last year.
+BULL4|So if last year the market went up 10%.
+BULL5|I would say that on average, those companies all went up 10% and we use those companies as our benchmark.
+NEUT6|So at The Motley Fool we use the S&P 500 all the time as our measure.
+NEUT7|My measure your measure of whether you beat the market or not with your own investment portfolio.
+BULL8|So again, if the S&P 500 was up 10% last year, we think you should be up at least 10% last year to give yourself a Pat on the back as an investor.
+NEUT9|Why should investors care about the S&P 500?
+NEUT10|I think investors should care about the S&P 500 because it's the easiest, quickest way to measure the performance of the American stock market.
+NEUT11|You can use that measure to contrast with other stock markets.
+NEUT12|You could look at the Footsie in London to see how the British stocks have done.
+NEUT13|Or you could look at the hang sang in the Far East and see how those companies have done.
+NEUT14|You can take each market, look for that benchmark index and assess them all against each other.
+NEUT15|It is worth noting, by the way, there are a couple of other measures that people routinely use here in the US.
+NEUT16|The Dow Jones industrials still most nights on network news, that's what they used to assess how the American stock market did.
+NEUT17|I like the 500 more than just those 30.
+NEUT18|And then there's the Wilshire 5000.
+NEUT19|Some people take that list and they blow it out to 5000 companies, including many small companies, and they say that's a better assessment.
+NEUT20|"So no, by index."""

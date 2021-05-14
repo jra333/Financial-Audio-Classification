@@ -1,0 +1,19 @@
+NEUT0|"""Meantime, the fireworks between Google and Microsoft."
+NEUT1|They continue on the Hill this morning as Brad Smith testifies to the house.
+NEUT2|Some interesting citations and his testimony as well, and Ilan Mui has more on the seal on what are you hearing this morning?
+BEAR3|Well Deirdre two of Big Tech's biggest rivals have been testifying and resorting to verbal blows surrounding congressional hearing on antitrust, and the impact on the news media.
+NEUT4|Microsoft President Brad Smith has been testifying today before the House Judiciary Committee.
+BEAR5|In his written testimony, he slammed Google's all encompassing search and AD businesses as unprecedented and problematic.
+NEUT6|Here's what he said directly to lawmakers.
+NEUT7|I hope that the subcommittee will continue its work to think more broadly about the fundamental lack of competition, especially in search.
+NEUT8|In digital advertising that are at the heart of not just the decline in journalism, but the decline and challenge in many sectors of the economy, that too is worthy of consideration when it comes to potential new legislation.
+BEAR9|Google fired back even before the hearing officially began.
+BEAR10|It accused Microsoft of trying to divert attention from its own problems and security vulnerabilities.
+NEUT11|It said in a statement they are reverting to the familiar playbook of attacking rivals and lobbying for regulations that benefit their own interests.
+NEUT12|They are now making self serving claims in or even willing to break the way the open web works in an effort to undercut arrival.
+BULL13|Now, there had been bipartisan new legislation for publishers to band together to negotiate.
+BULL14|Over ad pricing in the context of access and distribution of journalism, Microsoft supports that bill.
+NEUT15|So this is not so much a partisan fight.
+NEUT16|Guys as an epic corporate battle and the gloves here are coming off and this is something that John Ford identified all the way back in 2008 as a potential problem, as as Google seeks to use the news media as a way to gain audience and establish dominance.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

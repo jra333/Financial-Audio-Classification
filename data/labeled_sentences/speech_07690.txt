@@ -1,0 +1,37 @@
+NEUT0|"""Keith Bryar from San Francisco have a question when you're valuing the company Zanu discount back the future earnings you talked about how many years out you generally go?"
+NEUT1|And if you don't go out at general number of years, how do you arrive at that time.
+NEUT2|Well, that's that's a very good question, and it's it's.
+NEUT3|I mean, it's the heart of investing or buying businesses which we regard as the same thing.
+NEUT4|But and it is the framework in which we operate.
+NEUT5|I mean, we're trying to look at businesses in terms of what kind of cash?
+NEUT6|Can they produce if we're buying all of them?
+NEUT7|Or will they produce if we're buying part of them and there's a difference?
+NEUT8|And then at what discount rate do we do?
+NEUT9|We bring it back and then I think your question was how far out do we look at all that?
+NEUT10|Despite the fact.
+NEUT11|That we can define that in.
+NEUT12|In a very kind of simple and direct.
+NEUT13|Equation, you know we aren't.
+NEUT14|We've never actually sat down and written out a set of numbers that relate that equation we do in our heads in a way.
+NEUT15|Obviously, I mean that's what it's all about, but there is no piece of paper.
+NEUT16|And and we never there never was a piece of paper that shows what our calculation on helzberg's or sees candy or the Buffalo News was in that respect.
+NEUT17|How it would be?
+NEUT18|Attaching a little more scientifique.
+NEUT19|Quality to our analysis than there really is.
+NEUT20|If I gave you some gobbledygook about while we do it for 18 years and stick a terminal value on and do all of this.
+NEUT21|We are setting.
+NEUT22|At the in the office.
+NEUT23|Thinking about that question with each business or its investment.
+NEUT24|And we we have discount rates in a general way in mind.
+NEUT25|But we really like the decision to be obvious enough to us.
+NEUT26|That it doesn't require making a detailed calculation, and it's the framework.
+NEUT27|But it's not applied in the sense that we actually fill in all the variables that a fairway stating in German.
+NEUT28|Yeah.
+NEUT29|Bercher is.
+NEUT30|Is is being run the way Thomas Hunt Morgan the Great Nobel laureate round the biology Department at Caltech?
+BEAR31|He banned the freedom Calculator.
+NEUT32|Which was the computer of that era and people said, how can you do this?
+NEUT33|Every place else in Caltech we have freedom calculators going everywhere and he said, well, we're picking up these great Nuggets of gold just by organized common sense and resources are short and we're not going to resort to any damn plasser mining as long as we could pick up these major aggregations of gold.
+NEUT34|That's the way Berkshire works, and I hope the plaster mining era will never come.
+NEUT35|Somebody wants a P need our staffing papers on some acquisition.
+NEUT36|"And of course, not only did we not have any staffing papers, we didn't have any staff."""

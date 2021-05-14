@@ -1,0 +1,16 @@
+NEUT0|"""This is a pretty interesting and relatively rare transaction in the hedge fund world."
+NEUT1|This involves a firm called Melvin Capital which is headed by Gabe Plotkin.
+BULL2|It's done very well in recent years, but like many long short funds in the hedge fund industry right now, it has found itself on the wrong side of many short bets, which have surged in recent weeks led by some of the you know, speculation that we've talked about a lot on our air as of recently, so as a result, the firm has actually obtained.
+NEUT3|Investments from both Citadel and Point 72 fellow firms.
+NEUT4|Steve Cohen's Point 72 actually seated Melvin back when it was founded about six years ago.
+NEUT5|And Citadel is also a prior investor, but basically they're coming in.
+BULL6|They're taking a noncontrolling revenue share of the firm of Melvin as a way to help them get through these difficult times, providing some liquidity to the firm as they have.
+BEAR7|Seen performance suffer about 30% for 2021 through last week, largely due to as I mentioned, that short book.
+NEUT8|So we have some statements from the two firms that are backing this new investment.
+BULL9|Ken Griffin of Citadel says Gabe Plotkin and team have delivered exceptional results over the history of Melvin.
+BULL10|We have great confidence in Gabe and his team and Steve Cohen, Chairman and CEO of course of .72.
+BULL11|I've known Gabe Plotkin since 2006 and he is an exceptional investor and leader.
+BULL12|We are pleased to have the opportunity to invest additional capital and taken on controlling revenue share in Melvin Capital so interesting turn of events here, especially as we watch some of the market dynamics of 2021 and how it's impacting the institutional investors on the other side Sarah.
+BEAR13|Yeah, and some painful ones, thanks.
+NEUT14|Shepard Smith here.
+NEUT15|"Thanks for watching CNBC on YouTube."""

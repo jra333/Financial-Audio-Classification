@@ -1,0 +1,36 @@
+BEAR0|"""So there's been a recent narrative that CNBC is biased against Tesla."
+NEUT1|However, some Tesla bears were saying you don't have any statistics to prove your points, which was true.
+NEUT2|So what I did was I tried to find some statistics.
+NEUT3|I searched up CNBC, Tessa on the Google News section, and I took the top 50 articles.
+NEUT4|I examined whether they are positive or negative, and I took a note on my Google sheet.
+NEUT5|All these articles had to be by CNBC in order to get the best results.
+BEAR6|The results were just like expected with 11 out of 15 of these articles negative, 3 positive and one neutral.
+NEUT7|But that part was not a surprise because CNBC was proven to be biased against Tesla.
+NEUT8|But what I found out was that Google is actually putting these negative CNBC articles on the top of the news section, but I actually have the statistics to back to some.
+NEUT9|What I did was I searched up CNBC Tesla.
+NEUT10|On being doctor Go and Yahoo search on the news section and I did the same process started with Google.
+NEUT11|The results I found there on the screen right now, but what you could see is that Yahoo search Bing and DuckDuckGo they both have very similar article placements.
+NEUT12|You could see that the first is positive.
+NEUT13|There are some negatives being has a neutral in the middle there, but they are all somewhat similar.
+NEUT14|But we had over to Google.
+BEAR15|They have nine negatives in the top after those negatives.
+NEUT16|It seems to get normal, like there's some positives and neutrals and negatives and you also have taken the part out searching the same thing.
+NEUT17|The same section along with the same timing.
+NEUT18|So the article should be around the same place, right?
+NEUT19|This bias against Tesla actually makes sense because Google owns Waymo.
+NEUT20|It's actually a huge part of the business.
+NEUT21|It's worth 20 thirty $40 billion of their business.
+NEUT22|People are estimated to be $45 billion and has a huge competitor in this sector.
+NEUT23|Which means that Google is trying to bring down Tessa do simple things like search engines.
+NEUT24|Most of us use Google, so it makes sense how we didn't find out that they're placing all these negative CNBC articles at the top.
+NEUT25|Along with that, there's even smaller number of people that use multiple search engine.
+NEUT26|Now.
+NEUT27|This video is probably going to get demonetised because I am posting this content on YouTube.
+NEUT28|So what I'm going to do is I'm going to put this image and description below.
+NEUT29|You guys can share it if you want, so we can spread awareness for statistics like these.
+NEUT30|Also be sure to start this video.
+BULL31|It really helps a lot if you guys enjoyed this video.
+NEUT32|Please subscribe like and comment.
+NEUT33|It really helps out.
+NEUT34|Let me know if you want me to go in depth on this topic.
+BULL35|"Thank you guys for watching."""

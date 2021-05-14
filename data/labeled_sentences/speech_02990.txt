@@ -1,0 +1,24 @@
+BEAR0|"""There are questions tonight about what happened behind the scenes during the giant sale of all that Facebook stock."
+BEAR1|Did insiders, the richest customers, get information from the big banks that nobody else got for the second day in a row, the stock has been sliding.
+BEAR2|Look at this on Monday down nearly 11% and today down again, 8 1/2%.
+NEUT3|Here is ABC's Dan Harris looking into all of this.
+NEUT4|So let's do this when thousands of individual investors raced to buy, Facebook stock was a key piece of information being withheld.
+NEUT5|Tonight the government's Top Stock market regulator is calling for a review of the fizzled IPO.
+NEUT6|There are just a little too look at specifically with respect to Facebook.
+BEAR7|One of those issues may be the news, first reported by Reuters that three of the banks behind the deal determined in the final hours that Facebook's earnings were likely to be lower than expected.
+NEUT8|Reportedly, the banks did not share that information with the public, only with insiders.
+NEUT9|If I'm a regular investor and I bought this stock and didn't know.
+NEUT10|What the insiders new?
+NEUT11|Should I be upset if people with more power and money to invest got a different set of facts and information analysis than the average retail investor?
+BEAR12|Then yeah, that's troubling.
+BEAR13|Troubling enough that Massachusetts has now issued a subpoena to one of those banks, Morgan Stanley.
+NEUT14|Tonight, the bank issued a statement saying it broke no rules as the stock tanks.
+BEAR15|Lots of little guys are getting whacked, including college senior Al Pereyda.
+BEAR16|Nalu, who bought 50 shares on Opening Day, ended up selling my shares at an 11% loss.
+NEUT17|Meanwhile, as Facebook faces increasing pressure to boost its earnings, the big question we're hearing tonight from World News viewers is, will Facebook now plaster our pages with ads, sell our personal information or charge us to use the site.
+NEUT18|I think that he's not going to go for the quick Buck, but I do think that he's going to keep pushing the bar as much as he can as Facebook stock swoons consider the case of Amazon, which tanked after it debuted in 1997.
+BULL19|But after it proved that online shopping could be profitable.
+BULL20|The stock is now up 1200%, so while the man in the hoodie is sucking wind tonight, do not count him out.
+NEUT21|Dan Harris, ABC News New York.
+BEAR22|As for the Titan in the hoodie, he is feeling the decline of Facebook stock yesterday, he lost $2.1 billion today.
+BEAR23|"He lost another 1.5 billion."""

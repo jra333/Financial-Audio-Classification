@@ -1,0 +1,43 @@
+BULL0|"""But if you can keep your cool, you could be in line to buy some bargains here, as institutional investors have bailed out of the market."
+NEUT1|Let's welcome and welcome in Jason Zweig, he's columnist at The Wall Street Journal.
+NEUT2|Back with me also is Peter Boockvar, chief investment officer at Bleakley Advisory group Jason.
+BULL3|It's great to have you here in a day like this.
+NEUT4|You had been tweeting about some comparisons between now and 2008.
+NEUT5|There might be some market comparisons.
+NEUT6|I think there are different economic events.
+NEUT7|Certainly.
+NEUT8|What's the intelligent investor to do right now?
+NEUT9|Well, I think we have to wait and let things settle out a little bit.
+NEUT10|Kelly, I mean, right now it's just kind of chaos out there and I think is a lot of your other guests have mentioned.
+NEUT11|By trying to come what some people are characterizing is panic.
+NEUT12|the Fed may have actually created one, and it's at times like these that I think individual investors in particular should sort of wait until the dust settles.
+NEUT13|What about Jason?
+NEUT14|The investors who had that those traditional bond you know, stock market portfolio allocations?
+NEUT15|I mean, does that stuff make sense in a world where the 10 years below 1%?
+NEUT16|That's a very good question, Kellyanne.
+NEUT17|I think the I think there's a long answer, but the short answer is yes.
+BEAR18|Treasurys still maintain a low correlation to equities and we can see that on a day like today when stocks are down huge and investors in Treasurys are doing very well in the long run.
+BULL19|Some of that diversification benefit is likely to be mitigated, but in the short run, which is when people really want to be diversified, it tends to work pretty well.
+NEUT20|OK, let me also bring in Mike Santoli Mike with your thoughts on the speed of this move lower in the 10 year that we've just seen.
+NEUT21|What do you think?
+NEUT22|Yeah, it's it's quite remarkable.
+NEUT23|Kelly.
+BEAR24|I mean obviously I would have said even last week that there was a bit of a buying panic in Treasurys and an arguably yesterday's equity rally was the market kind of sniping out that maybe it had finally reached a crescendo.
+BEAR25|Yields were trying to bottom and actually came back pretty dramatically by the end of the day.
+NEUT26|Obviously the message from the Fed, whatever it was intended in part, seems to have been look we're on a path.
+NEUT27|Maybe back Tord Zero and the short end of rates.
+NEUT28|And there's just so little yield left.
+NEUT29|In the world that effectively they took the Fed funds rate, which was one of the highest yields on the planet from 1 1/2 down to one, and it's almost as if it forced people into the longer and I don't know if I'm going to describe a lot of particular inferences about what this means for the economy, except that right now it is hide and wait and one place of Peter where it certainly has an effect is on mortgages and you were saying that people who own mortgage backed securities?
+NEUT30|Well, now you've got a ton of prepayments that that might have to be replaced with Treasury bonds that you think there could be a mechanical aspect of this downdraft in Treasurys, right?
+BEAR31|I think that's helping to exaggerate the higher prices and lower yields and Treasury.
+NEUT32|So if I own a mortgage backed security, I'm assuming that I'm going to be losing mortgages through refinancing, so in order to sustain my duration levels, I'm immediately going out and buying a longer term Treasurys to sustain that.
+BEAR33|So the higher prices go drives more buying and buying The Jets, buying and yields going lower it gets yields going lower from that technical.
+NEUT34|That's a great point about what might be happening, kind of behind the scenes here.
+NEUT35|Jason will give you the parting thought then what's your advice to investors?
+NEUT36|Well, I think people should pretty much stay the course.
+NEUT37|Kelly.
+NEUT38|I mean if if you have the ability to re balance, buy a little more of what's gone down.
+NEUT39|Maybe sell a little bit of what's gone up.
+NEUT40|That's probably prudent, but for most people just sticking with it is probably the appropriate course of action here.
+NEUT41|All right.
+NEUT42|"Saying that as we watch the 10 year note."""

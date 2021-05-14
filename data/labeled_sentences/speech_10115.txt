@@ -1,0 +1,17 @@
+NEUT0|"""Hello guys, today I'll be talking about International Isotopes Inc. Ticker, symbol INIS."
+NEUT1|Let's get right into the video.
+NEUT2|International Isotopes Inc. Manufacturers a wide range of calibration and reference standards for nuclear medication.
+BULL3|Their current vision is to build the reputation and become the leader in the industry while seeking ways to improve their customer care.
+NEUT4|Their mission is to provide high quality products and services as a profitable and environmental conscious business.
+NEUT5|They currently have a drug which is called sodium iodide 131.
+NEUT6|Iodine 131 is a radioactive therapeutic medication for the treatment of hyperhidrosis ISM an selected cases of carcinoma of the thyroid.
+BULL7|The medication recently received FDA approval, which there could be a huge potential for this talk.
+BULL8|On the upside, they recently be earnings by 23%, which made this stock urge for 100% today.
+NEUT9|Here is my technical analysis on this.
+NEUT10|Docker support level will be at 23 cents.
+NEUT11|Second support level will be at around 11 cents.
+NEUT12|Stop loss will be in nine cents.
+NEUT13|Position build will be around less than $0.16.
+BEAR14|Due to this stock going up because of earnings, this will be a day trade, meaning I'm going to get in and get out the same day.
+NEUT15|I will be leaving my discord in the description which we have reached over 500 members.
+NEUT16|"Now please like subscribe and turn on the Bell notification so you don't miss out on any upcoming videos."""

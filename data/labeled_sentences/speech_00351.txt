@@ -1,0 +1,12 @@
+NEUT0|"""Well, let's take a look at the Apple stock today."
+NEUT1|We got something new because we can see here after the consolidation of the past three days, we gotta break out.
+BEAR2|So this breakout has well above the EMS and also we can see here the volume comparably larger than yesterday and the day before yesterday.
+BULL3|But compared to normal volume is still a little bit shy.
+NEUT4|So I think this breakout maybe?
+NEUT5|Beginning stage of a new trend, but for now.
+NEUT6|From the volume.
+NEUT7|I don't think it will make higher than the formal high on here or even here.
+BULL8|We can see the high steel above us, so even though the volume here is a little bit larger than yesterday and the day before yesterday.
+BULL9|But the price action is constructive.
+NEUT10|The volume is not so constructive, so let's wait and see what will happen.
+BULL11|"Thank you."""

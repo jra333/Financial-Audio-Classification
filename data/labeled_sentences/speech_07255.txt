@@ -1,0 +1,16 @@
+NEUT0|"""This demo covers how to explore a company's fundamentals using the Analyze tab."
+NEUT1|To get started, go to the analyze tab and select fundamentals to pull up information on a security.
+NEUT2|Enter its symbol in the ticker symbol box, then select enter.
+NEUT3|An overview appears containing share prices.
+NEUT4|Analyst ratings.
+NEUT5|And the stock chart.
+NEUT6|To download the detailed analyst reports about the security select download to the right of the report.
+NEUT7|To set an alert that triggers when an analyst changes a rating or issues guidance, select the Bell icon to the right of download and enter the information detailing when and how you want to be notified.
+NEUT8|Scrolling provides additional information starting with the company profile.
+NEUT9|By the numbers, provides balance sheet information and other fundamental data toggle between annual and quarterly views.
+NEUT10|Company details provide summary takeaways on key metrics like market trends or key products and what drives the stock takes.
+NEUT11|A more numeric look at similar information.
+NEUT12|This bar shows the percentage of the stocks market cap driven by each division of its business.
+NEUT13|To see the same data expressed in dollar amount rather than percentage of market cap, select show percentage of market cap, then show estimated value.
+NEUT14|You can take a screenshot or print information you find helpful.
+NEUT15|"Select the list icon in any section and choose from the available actions."""

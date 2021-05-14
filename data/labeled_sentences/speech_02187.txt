@@ -1,0 +1,18 @@
+BULL0|"""The number of Americans seeking jobless benefits continued to surge at record levels, the Federal Reserve announced new programs to help states cities and midsize businesses."
+BEAR1|UK Prime Minister Boris Johnson is out of intensive care.
+BEAR2|He's now being monitored in a London hospital after contracting the new coronavirus.
+NEUT3|I'm Laurie arosa.
+NEUT4|Here's what's happening from the Wall Street Journal.
+BEAR5|We're seeing unemployment filings right now of the like that we've never seen before, but these numbers aren't the result of an underlying weakness to our economy.
+BULL6|Our economy has been vibrant, incredibly strong, just weeks ago.
+BULL7|If, as we've heard again today, if we are disciplined now and adhere carefully to the guidance being provided by health, authorities will get that economy back.
+BEAR8|Nearly 17 million people have applied for unemployment benefits since the coronavirus pandemic shut down parts of the US economy, the Labor Department reported that an all time high 7.5 million Americans were receiving unemployment benefits at the end of March.
+BULL9|That surpasses a record set in 2009 at the end of the financial crisis, the number is expected to grow as more people seek jobless benefits.
+BULL10|The Federal Reserve is going farther than ever to shore up the US economy.
+BEAR11|the Fed unveiled several programs to help local governments and midsize businesses that have seen revenues fall amid efforts to combat the new coronavirus.
+NEUT12|Many of the programs that we're undertaking to support the flow of credit rely on emergency lending powers that are available.
+BULL13|Only in very unusual circumstances, such as those we find ourselves in today and only with the consent of the Secretary of the Treasury, the Fed said the lending programs would provide up to $2.3 trillion in loans, and officials signaled they were prepared to expand those programs as needed to stem long lasting damage to the US economy.
+BEAR14|UK Prime Minister Boris Johnson left the intensive care unit.
+BEAR15|Johnson was admitted to the ICU at a London hospital on Monday after contracting the coronavirus.
+NEUT16|In a statement, his office said the Prime Minister will remain in the hospital to be closely monitored, a Downing St spokesman said.
+BULL17|"Johnson, who is 55 years old, was in good spirits."""

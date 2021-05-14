@@ -1,0 +1,19 @@
+NEUT0|"""Tug of war."
+BEAR1|the US bond market is conflicted from the buyers perspective.
+NEUT2|There's no inflationary pressure.
+BEAR3|the US is not going to have a recession, but the economy is decelerating.
+BEAR4|We've had weak December retail sales.
+BEAR5|It's a possible uptick coming in the unemployment rate.
+NEUT6|the Fed is on hold.
+BEAR7|The yield curve is already flat.
+NEUT8|That's one perspective from the sellers perspective.
+BEAR9|Well, market participants know all about the above reasons as to why Boneo should go lower and guess what yields already have gone lower from 3.24% on the 8th of November last year on the 10 year Treasury to now 26, six percent on Valentine's Day 2019.
+NEUT10|But are the buyers forgetting about supply and demand?
+BEAR11|the US budget deficit is a trillion dollars a year in climbing.
+NEUT12|U.S. Treasury is been issuing a lot of short term Treasury bills, but it will also issue more long term maturity notes and bonds to central banks are not buying as many US Treasurys as they once did, including China.
+NEUT13|The US Federal Reserve is letting its Treasury security portfolio shrink through runoffs, not sales, but it's not replacing either.
+NEUT14|So the feds, not a buyer.
+NEUT15|Any good news or positive surprises on the trade war?
+BULL16|Well, that has the ability to lift equities and possibly hit bonds.
+NEUT17|It's a tug of war.
+NEUT18|"I'm blue Puttnam, chief economist, CME Group."""

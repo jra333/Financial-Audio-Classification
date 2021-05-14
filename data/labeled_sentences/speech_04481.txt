@@ -1,0 +1,35 @@
+BEAR0|"""I found it completely discouraging to find a bunch of."
+BEAR1|Corporate CEOs getting in the middle of politics.
+NEUT2|My advice to the corporate CEOs of America is to stay out of politics.
+NEUT3|Don't pick sides in these big fights.
+NEUT4|That's a Senate Minority Leader.
+NEUT5|McConnell weighed in yesterday on these CEOs who have been outspoken about issues such as the new voting laws in Georgia, gym people, largely reflecting on the fact that McConnell has spent most of his career giving corporations more political voice, not less, but also this as the Washington Post this morning puts it an ongoing fraying between the GOP and corporate America.
+NEUT6|Yeah, look, I think that what's happened during this.
+NEUT7|Is to quote Marc Benioff.
+BULL8|Business has been the greatest.
+NEUT9|Force for social change.
+NEUT10|I mean, I think it's incredible how well business has done in trying to influence things.
+NEUT11|Now you could say, well, business is left wing.
+NEUT12|I come back and say business is trying so hard to become a force of good.
+NEUT13|Now again David a force of good may mean a force of bad to some people, but we've seen corporations get very involved in order to be able to be pro social change.
+NEUT14|And I think that.
+NEUT15|You could argue that if you're gay lesbian, you're happy and if you're anti gay lesbian, you're not.
+NEUT16|But I do think that anti gay lesbian is certainly not in the keeping of the Constitution.
+NEUT17|Now listen, it's so interesting, Jim.
+NEUT18|We've and let's not forget we've been following this long before the pandemic.
+NEUT19|Sort of overtook us.
+NEUT20|The growth of ESG investing, the pressure being brought on many corporations in terms of their carbon footprint in terms of their governance and the way they approach the world, social justice perhaps being a part of that as well, and the feeling on their part that it wasn't just about shareholders, but their other constituencies, including of course the consumers of their products and their employees that made them feel as though they needed to engage.
+NEUT21|But there's a danger there, and it's something that I've actually spent a good amount of time talking to.
+NEUT22|A number of CEOs.
+NEUT23|About four are involved series.
+NEUT24|It's online, including Chuck Robbins from Cisco.
+NEUT25|Take a listen what he had to say.
+NEUT26|When we decide to talk externally, what are we trying to achieve?
+NEUT27|What is it?
+NEUT28|And in some cases it's it's just a fundamental agreement that you know our country and.
+NEUT29|An others need to hear leaders you know, trying to.
+BULL30|Speak to issues to bring around, hopefully more unity than we see in the country.
+NEUT31|It really depends on the issue, but we we really spend a lot of time talking through and we don't do it lightly and some of them are super clear and some of them are not and some are more controversial than others, but it's it's just a complicated world that we live in.
+NEUT32|Mitch McConnell may not want to hear from CEO's, but the sense is, I think certainly when you listen to Mr. Robbins that you are going to continue to see many corporations engage.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

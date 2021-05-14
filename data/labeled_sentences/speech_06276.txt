@@ -1,0 +1,34 @@
+NEUT0|"""Testing 123 SMS St traders."
+NEUT1|Once again we're looking at a $500 call.
+NEUT2|I'm also going to put the $500 call chart in here as well.
+NEUT3|There it is, bingo, we're going to go over here.
+NEUT4|One of the things that we're going to point out is the pricing structure.
+NEUT5|$10 above the market and the pricing structure $10 below the market.
+NEUT6|Google closed at 490.15 and basically we're going to take a look at the imbalance pricing ratios.
+BULL7|Which are here, we've made a great run.
+NEUT8|On that call, contract up here to $11.00 on that 500 and you gotta remember that the low so it's already made a $7.00 move that way on the call side, which is right there now on the opposite side.
+NEUT9|Down here the put sides about the same price.
+NEUT10|So basically we can see clearly here that we were at $40 a contract four weeks ago on that 480 put, which is $10 below the marketplace.
+NEUT11|OK, that's that one right here.
+NEUT12|And basically they've got down here in the deflated zone at 1080 and I'll be giving a pricing out on these.
+NEUT13|I'll be giving a pricing out on a $500 call off with this video.
+NEUT14|SMS St traders.
+NEUT15|We're going to do the 490 put and the 490 call as we work through the strike price is there were finally going to come to the conclusion of what is the most inflated Andy plated relative to the weekly trend on Google.
+NEUT16|As we already understand those weekly charts.
+NEUT17|So basically what we're going to be taking a look at doing is looking at that 490 call.
+BEAR18|The 490 call broke off the lows over here from let's just call it $6 to 1570.
+NEUT19|It's made one good move and on the other side of that, everyone.
+NEUT20|That's the call right there.
+NEUT21|Here's the put side.
+NEUT22|Now the thing you gotta know here is is that this put contract.
+NEUT23|If you take a look at the pricing structure over here, the high was 4680 at one time.
+BEAR24|Now we're down here in this wholesale range of about 1490 on the lower.
+NEUT25|That means that it's going to require the pricing structure for the risk management trade at the 490 put, and I'll be doing that off of the video here now.
+NEUT26|SMF St trader.
+NEUT27|Here's a $520 call up and out of the money.
+NEUT28|You can tell that back over here it was at a wholesale bid and the low was 280 and the current high because it's way up and out of the money.
+NEUT29|The current high up here was $4 and 90 pennies.
+NEUT30|So it made a huge move.
+BULL31|Offer that bottom and we're going to set some price and alarms here because if the Google Weekly chart once again breaks out above that jointed week moving average, these can go a little bit higher, but the upside is limited, so let's just know that.
+NEUT32|Because the move already started at the wholesale bit over here, and this is the top end, we can go up a couple of notches, a couple dollars more.
+BULL33|"But sooner or later the trend will really have to be strong to hold that inflated value of the 5:20 call up and out of the money."""

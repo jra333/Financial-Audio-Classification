@@ -1,0 +1,50 @@
+NEUT0|"""Let's take a little deeper into FedEx numbers."
+NEUT1|Ken Hochster from Bank of America Merrill Lynch is joining us this morning and Ken trying to figure out what happened here.
+NEUT2|Fred Smith, saying it's three different things that are adding up.
+NEUT3|It's what they need to keep spending.
+BEAR4|It's the loss of Amazon.
+NEUT5|It's the trade talks and the tariffs that have been put on that.
+NEUT6|How do you break it down?
+NEUT7|Which is the most important of those three factors?
+NEUT8|Yeah, there's no doubt.
+BEAR9|Good morning, happy Holidays, and there's no doubt there's really three items for each ground and express the loss of the Amazon business really is huge at both ground and express.
+NEUT10|The addition of the 7th day that's high cost up front before you start getting the revenue from that, and then the shift to E Commerce.
+BEAR11|That is also hurting margins as you continue to roll out more to residences and less B to B as B to B growth really stalled with the manufacturing economy on express.
+NEUT12|Similarly you had.
+NEUT13|Also, the loss of Amazon last quarter you had the addition of TNT.
+BEAR14|Remember they bought TNT over in Europe and that integration continues years later there still paying for that with high costs and then again the trade overhang with China continued to slow the manufacturing economy.
+NEUT15|So you had two really different things at ground, an express and a lot of them were really FedEx related.
+NEUT16|When you think about the loss of the Amazon business and then we wonder what this means for UPS numbers.
+NEUT17|But also was this the right move for FedEx?
+NEUT18|That's what.
+BEAR19|The streets been trying to figure out to walk away from Amazon to say forget it.
+NEUT20|It's low margin business.
+NEUT21|It's not worth it.
+NEUT22|Was that the right call?
+NEUT23|Yeah, you know, we believe it's the right call for FedEx, which had 1 1/2%, so it was a constant question.
+NEUT24|They were getting as to the overhang for them, but and so it highlights that they were more focused on getting pricing.
+NEUT25|Here's what I don't get if it was only 1 1/2 percent, why is it having such a big impact on the last several quarters that we've heard I when they said it made perfect sense to me when they explained it?
+NEUT26|But if it's still popping up, that's why I'm trying to figure out how much of it is the FedEx walking away from Amazon.
+NEUT27|How much of it is other?
+NEUT28|The issues that are outside their control?
+NEUT29|Great question, and if you think about it, last quarter was the impact of losing Express.
+BEAR30|This quarter was all of the loss that ground FedEx Ground it started on this quarter.
+BEAR31|And when you think about it, you can blame Amazon as having high fixed costs coverage.
+NEUT32|So a low margin business when it's in your in your in your bailiwick.
+NEUT33|When you start losing that business something else becomes your fixed cost coverage and the and the business that walks away ends up being the highest margin business all profit and so the similar impact for UPS.
+NEUT34|Taking that on when you have other business covering your fixed costs.
+BULL35|This now becomes incremental and very profitable, so a great win for UPS.
+NEUT36|What what do you do right now in terms of FedEx shares, you buy it.
+BEAR37|So we downgraded a year ago to on FedEx.
+NEUT38|We we were early and very differentiated in making that call back then, but you think about the ongoing costs of TNT.
+NEUT39|You think about the management changes they've had, the inability to actually cut CapEx.
+BEAR40|We would love to see them cut CapEx and grow free cash flow, but these are moves they're not making and I think that continues to be an overhang on the stock.
+NEUT41|We remain neutral on the shares.
+NEUT42|Can would you buy shares of UPS here?
+NEUT43|We would actually.
+NEUT44|I think UPS gets the benefit of growing Amazon.
+NEUT45|They've been automating their network.
+NEUT46|They've been doing a network transformation that focuses on automating their local facilities.
+BULL47|We've actually seen them go from flat margins two quarters ago to increasing domestic margins last quarter.
+BEAR48|That was a surprise to the market.
+BULL49|"We think that continues, and as you work through peak season with these additional volumes, we think UPS actually handles this this peak season quite well."""

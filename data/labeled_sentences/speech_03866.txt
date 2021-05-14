@@ -1,0 +1,45 @@
+BULL0|"""Hello Internet."
+NEUT1|In this video, we'll make some educated guesses on the price of Bitcoin.
+NEUT2|But before we start, let me remind that this video is not investment advice.
+NEUT3|Please carry out your own research.
+NEUT4|Warren Buffett once said that in the business world, the rearview mirror is always clearer than the windshield.
+NEUT5|We all know the shape of Bitcoin price graph, and it doesn't say much about the future price.
+BULL6|Speaking of future price, some people claim that price of Bitcoin will go up to $1,000,000.
+NEUT7|We analyze this speculative allegation on our video.
+NEUT8|Check it out.
+NEUT9|Actually, long term investors don't attribute importance to manipulative information, so it would be rational to look into what is going on.
+NEUT10|The rearview mirror, which is the past day tour of Bitcoin, as we all know, Bitcoin is not a stock, not a currency printed by governments.
+NEUT11|So we have not too much data to investigate some cryptocurrency analysis to examines the Google trends search of Bitcoin.
+NEUT12|It is not a novel strategy and not a new aspect.
+NEUT13|However, in this video will show you some surprising correlation between price of Bitcoin and Google.
+NEUT14|Search of Bitcoin here.
+NEUT15|In Microsoft XL we have three columns.
+NEUT16|First one, there's date column, second one is popularity of Bitcoin, and third one is price of Bitcoin.
+NEUT17|Between 2012 to 2017, look at how correlated they are.
+NEUT18|Price of Bitcoin in search of Bitcoin or 80% correlated as a superintelligence?
+NEUT19|I will give you unknown analysis strategy through the history of Bitcoin.
+NEUT20|Price always follows the popularity of Bitcoin.
+NEUT21|Look at here in 2013.
+NEUT22|First popularity increased and then price followed.
+BULL23|It popularity rose up drastically whereas Price did not increase so much.
+NEUT24|Because this was the first time people even didn't know where to buy Bitcoin.
+NEUT25|Look at this between 2013 and 2014.
+NEUT26|First, popularity went to Moon, then price followed.
+NEUT27|As you can see, popularity is triggered before the price, but here is trick when popularity declines.
+NEUT28|Price does not follow immediately.
+NEUT29|Look at this section and this section.
+NEUT30|Finally, let's dive in 2017.
+NEUT31|Look at this harmony between price and popularity.
+BEAR32|Here is the drastic uptrend of popularity.
+BULL33|After that, three weeks later, price of Bitcoin reached Peak Point, which is about $3000 popularity.
+BEAR34|A continuously declining price will follow as usual, and it is a superb opportunity to invest in Bitcoin when it is cheaper.
+NEUT35|If you are a long term investor, do not worry.
+NEUT36|Buy Bitcoin when the people do not talk about it.
+NEUT37|Don't be stupid.
+NEUT38|Buy cheap.
+NEUT39|Please do not share this video.
+BULL40|It will increase the Bitcoin awareness and popularity.
+NEUT41|I will give an update for Bitcoin popularity from this channel and my Twitter account.
+NEUT42|If you like this video please subscribe to my channel.
+BULL43|I hope you will enjoy and learn something from this video.
+NEUT44|"See you soon."""

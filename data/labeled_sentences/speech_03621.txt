@@ -1,0 +1,50 @@
+BULL0|"""Groupon late last night we found out Groupon a little shake up with the board there."
+NEUT1|This company is companies had just issue.
+NEUT2|I've been in the news constantly and not for good reasons.
+NEUT3|What is this board shakeup?
+NEUT4|Meanwhile George stalls here to tell us all right?
+NEUT5|George Groupon, who's in who's out, start off with who's out, who's out?
+NEUT6|Is Starbucks CEO Howard Schultz.
+NEUT7|He's leaving as is Kevin Froozy, who is one of the original investors.
+NEUT8|He's a member of the VC firm Excel Partners.
+NEUT9|One was was somebody who is pivotal in getting Groupon where it is today.
+NEUT10|OK, and who's in who's in?
+NEUT11|Is the CEO CFO of American Express Daniel Henry an also an executive at Deloitte Robert Bass OK?
+NEUT12|Now tell us what it means with me.
+NEUT13|So it seems like two key guys are out.
+NEUT14|Two new guys.
+NEUT15|I mean right, it doesn't bring in two guys who have some accounting gravitas to their name.
+NEUT16|You know lead Sandwich, which is exactly what they need.
+BEAR17|And this is a company that has been found to have material weakness in its internal controls.
+BEAR18|It's a company whose stock and reputation has been hurt by the fact that it has had accounting issues since before it went public.
+NEUT19|When it was trying to get some controversial way of gauging its earnings.
+NEUT20|So so the hope is that by adding these these heavyweights on the accounting side that maybe they could address some of these issues and restore some of that reputation that that stuff came about the GBS way in which they were.
+NEUT21|They were counting some of their accounts and the churn and so forth.
+NEUT22|Was there a sense that the board was asleep at the wheel at that time?
+BULL23|Yeah, but I do think that this is an indication of the board is looking to be more proactive on these issues.
+NEUT24|I'm not saying that it's responsible for not contributing to to those types of methods, but.
+NEUT25|At least now it seems as if the board is trying to become more involved, to say the least.
+NEUT26|This has been a cookie company, yes, since they've come around.
+NEUT27|I mean, this is a very colorful company.
+NEUT28|Having these two gentlemen on the board now.
+NEUT29|Is this going to change the perception of Groupon?
+NEUT30|Can people start to believe that maybe this is a response that is very responsible?
+NEUT31|No, I don't think so, because there's still a lot of business threats that they face, right?
+NEUT32|You know, they they face a lot of competition.
+NEUT33|You know the Daily Deal area is gotten a lot more competitive, a lot of other companies are doing it.
+NEUT34|It's very tough to maintain that edge.
+NEUT35|You have to have a lot of people to solicit stuff from from local businesses and some of their their expansion plans.
+BEAR36|Having haven't worked well that mean that the mobile site that they've launched hasn't done well, and coming up soon as the expiration of their IPO lockup, which which could be another wait on the stock.
+NEUT37|Yeah, I died.
+NEUT38|Is this?
+NEUT39|Here's another question for you.
+NEUT40|Is this a sign that maybe social media is maturing?
+NEUT41|Maybe we can start to see signs of that 'cause they seem like pretty erratic companies, but I think this company.
+BULL42|I mean, I think there there are still some other companies that are doing well.
+NEUT43|I mean look at look at Facebook.
+BULL44|You know Facebook is still has a very solid business model to it.
+NEUT45|You know.
+NEUT46|I just think that maybe group on in this daily deals area where there is a lot of competition and a lot of it, and it's easier for a lot of comments.
+NEUT47|The barriers to entry are very low.
+NEUT48|Yeah, I think it's more a reflection of corpulent in this business then the whole social media.
+BULL49|"Alright, George Stahl, thank you very much Sir."""

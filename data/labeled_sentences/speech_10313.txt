@@ -1,0 +1,43 @@
+BEAR0|"""You know why so many bears keep getting this market wrong?"
+NEUT1|It's the Fed.
+NEUT2|They know nothing on a day where the Fed presented the results of its monthly meeting.
+BEAR3|Surprise, surprise, they kept rates low.
+NEUT4|We'd hear endless chatter about how the stock markets in a bubble of the feds making.
+NEUT5|After good day.
+BEAR6|Tailgating 160 points doesn't jump 1.24%.
+BEAR7|NASDAQ fell 1.35%.
+NEUT8|You need to know that I think this is totally nuts.
+NEUT9|Yeah right, the all powerful fed create an environment where equity is the only asset class worth owning.
+NEUT10|Bonds are for suckers.
+NEUT11|It's all our central bank.
+NEUT12|Possibly set assistance, let's say of what the Bavarian Illuminati?
+NEUT13|How about the Freemasons?
+BEAR14|You know what I am sick and tired of hearing that we're in a bubble that the feds over inflating the price of stocks by printing money to keep the economy moving.
+NEUT15|We've not this morning economy than just the Federal Reserve.
+NEUT16|And there's certainly more to the stock market.
+NEUT17|1st, I'm not saying that they don't matter.
+BEAR18|Of course it's important in theory they could raise short term rates to three or 4/5, and yeah, that would crush the stock market among other things.
+BULL19|I know that would make the Bears very happy.
+BULL20|I can practically hear them coming on air and praising the Fed for giving investors a reasonable alternative with higher short term rates.
+NEUT21|But you really think these critics believe a series of rate hikes would actually be good for any asset class.
+BULL22|Do you think higher rates would produce more jobs or better economy?
+NEUT23|Kind of important in it.
+NEUT24|Of course not.
+BEAR25|See they would put millions of people out of work and cause a wave bankruptcies and for what a better return from CDs.
+NEUT26|Well, there's something worth fighting for.
+NEUT27|Let me be crystal clear, the bearish money managers who want rate hikes don't care about any of this collateral damage.
+NEUT28|They are talking their book, people.
+NEUT29|Hey, I was a money manager.
+NEUT30|I've heard hear them.
+NEUT31|I know what they're doing.
+BEAR32|They missed out on the rally and they need stocks to go down.
+BEAR33|Or else their hedge funds will go out of business.
+NEUT34|It's about marketing people, end of story.
+NEUT35|There's no rational reason.
+NEUT36|Race interest rates with double digit unemployment.
+BEAR37|Paltry inflation.
+NEUT38|Don't miss a second of mad money.
+NEUT39|Follow at Jim Cramer on Twitter.
+NEUT40|Have a question?
+NEUT41|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT42|"Miss something head to madmoney.cnbc.com."""

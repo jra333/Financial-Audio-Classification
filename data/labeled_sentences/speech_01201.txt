@@ -1,0 +1,26 @@
+BULL0|"""Todd, you have something that's so exciting."
+NEUT1|I'm going to start with it at the end of February, you now's a partnership with UBS.
+NEUT2|That, to me, sounds like the template of what can happen with XL fleet.
+NEUT3|I want to give you the floor you'll be able to explain to everybody what it is, so they know how powerful and potent your company is.
+BULL4|Well, thank you very much Jim.
+BULL5|We recently announced 1000 unit charging station facility with UBS Arena.
+BULL6|It's an amazing opportunity.
+NEUT7|UBS Arena is located in New York about 7 miles from JFK Airport, so there's a tremendous amount of need for electrification solutions and charging in that area to move people to move cargo.
+NEUT8|And so this enables the arena to have charging stations for their for their fans when they come into games or when they're going to concerts.
+NEUT9|They can charge their Teslas.
+NEUT10|And then at night or when the facilities are in use, which is most of the time, those facilities aren't in use, we can use that charging infrastructure to support fleet vehicle education to rapidly reduce the cost of electric solutions in the market and to provide local businesses with a plug in hybrid and all electric vehicle solutions.
+NEUT11|I know it's hard to try to quantify exactly what this might mean to climate change in the air, but let's extrapolate.
+NEUT12|Let's say you do this.
+NEUT13|This is the template.
+NEUT14|What kind of reduction can we think about in terms of carbon emissions?
+BULL15|Well, transportation is now the largest source of emissions in the United States and we can reduce emissions with our hybrid system by about 20% are plug in.
+BULL16|Hybrid can get up to about 3033% even higher with next generation versions that are coming and all electric gets into 100%.
+BULL17|So with these products we can help really accelerate the reduction of emissions for commercial fleet applications in the US, which is about 25% of the fuel consumption, and this playbook that we developed.
+NEUT18|With UBS, Arena really is **** ** for others, and we have a number of other deals like that in the works.
+NEUT19|Don't miss a second of mad money.
+NEUT20|Follow at Jim Cramer on Twitter.
+NEUT21|Have a question?
+NEUT22|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT23|Miss something head to madmoney.cnbc.com.
+NEUT24|Shepard Smith here.
+NEUT25|"Thanks for watching CNBC on YouTube."""

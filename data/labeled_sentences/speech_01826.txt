@@ -1,0 +1,24 @@
+NEUT0|"""Take our lead, let's help you make your mark."
+NEUT1|Our goal is your satisfaction.
+NEUT2|Let us show you the way.
+BULL3|Powered by big growth in its social Commerce and digital ad businesses, Facebook stock could hit $1000 by the end of the decade based on a 20 times forward earnings multiple, which is the medium term average for technology stocks.
+NEUT4|That equates to a 2029 price target for FB stock of $1000.
+NEUT5|Make your mark take our lead.
+NEUT6|Value value as a measure of a stock's current worth FB has a current value of $8.23 per share.
+BEAR7|Therefore, it is overvalued compared to its price of $29.08 per share.
+NEUT8|Value is computed from forecasted earnings per share.
+NEUT9|Forecasted earnings, growth, profitability, interest and inflation rates.
+NEUT10|Let's help you make your mark.
+BULL11|And though Facebook is back in growth mode, revenue and net income grew a respective 22% in 29% year over year.
+BEAR12|In the third quarter of 2020, shares currently trade for 31 times, trailing 12 month earnings.
+BULL13|So the premium priced stock could still be a great long term value.
+NEUT14|Take our lead.
+NEUT15|Stock price forecasts.
+NEUT16|The 45 analysts offering 12 month price forecasts for Facebook Inc have a median target of 345.00 with a high estimate of 397.00 and a low estimate of 220.00.
+BULL17|The median estimate represents 8 + 34.43% increase from the last price of 256.63.
+NEUT18|Let's help you make your mark.
+NEUT19|Shares of Tesla, NASDAQ.
+BULL20|TSLA surged on Thursday, rising about 7.1% as of 2:30 PM Eastern Standard Time.
+BULL21|The growth stocks gain was likely driven by a number of factors, including a bullish day in the overall market, political news, and analysts optimism for the stock.
+NEUT22|Thank you for watching.
+NEUT23|"Please subscribe and hit the Bell notification."""

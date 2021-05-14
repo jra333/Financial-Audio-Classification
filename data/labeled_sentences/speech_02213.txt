@@ -1,0 +1,22 @@
+NEUT0|"""I want to start the conversation with asking you about how diverse storytelling has taken center stage in your work and have you talk about your motivation and your pursuit to shape the future of Hollywood."
+NEUT1|You know, I think the first thing is to always talk about telling universal stories so no matter what the skin color or hair texture of the characters involved, you really always telling a universal story with power.
+NEUT2|We were really telling a story about lost love, right?
+NEUT3|And you know?
+NEUT4|Can my just my past dictate my future?
+NEUT5|Can I actually change?
+NEUT6|You know what does it mean?
+NEUT7|If I can really change and those questions apply to everyone.
+NEUT8|So when we talk about kind of creating diverse storytelling or any of those things, what we're really talking about is trying to find the universal conversation and then landing the specifics of any story with the people and cultures that maybe don't have the opportunity to be explored all the time.
+NEUT9|But I don't think of it as telling a black story or a Brown story.
+NEUT10|Or an Asian story.
+NEUT11|I think about this long story and then pulling everyone in that way you know human beings.
+NEUT12|Love we fight, you know we cry like we do these things, but let's let's put it up there, you know and I, that's that's why.
+NEUT13|So Speaking of storytelling, you know there has been a really loud cry for greater representation both in front of the camera behind the camera.
+NEUT14|How do you say that women are uniquely positioned to really lead and drive lasting change, especially across the entertainment industry?
+NEUT15|So, I agree that 100% mean I feel first of all, that our ability to multi task is unrivaled, so our ability to kind of juggle a million things.
+NEUT16|You know, before this thing, we're talking about the fact that I have a young daughter, and I have my mom and many.
+NEUT17|Women find themselves in positions where they worked for a big career and they're still managing home.
+NEUT18|There's still managing family, and that's something that's come up even more right in during independent.
+NEUT19|I think that though specifically, women have a voice because we tend to promote community as opposed to hierarchy.
+NEUT20|And well, sometimes people think of that as a detriment.
+BULL21|"I don't, I think actually trying to find common ground in many situations is actually pushes things forward."""

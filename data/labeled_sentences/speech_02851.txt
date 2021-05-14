@@ -1,0 +1,10 @@
+NEUT0|"""Welcome to the FT market minute."
+NEUT1|He's watching in London on Friday morning.
+NEUT2|It's a soft end.
+BEAR3|The week for stock market since futures suggests another small dip for Wall Street, the S&P 500.
+BULL4|So it's less than 1% charvis record, however, so the latest polls in the bull run can still just be called consolidation, helping the mood is a steady oil market with Brent around $52 a barrel arguably have more interest.
+NEUT5|Is the performance of the US dollar index.
+BEAR6|Its inability to rally above January's 14 year high perhaps shows how investors are betting that the period of monetary policy divergent.
+BEAR7|Particularly with regard to the US Federal Reserve in European Central Bank may be drawing to a close the dollar and it is now at a five week low just above the 100 mark after the feds commentary this week was less hawkish than expected and a mid size that more ECB members are getting itchy about tightening policy.
+BULL8|The euro is heading towards 108 per Buck after Dutch election help reduce European political fears and the consequent reduce demand for havens is hitting the Bund, pushing yields back to 50 basis points.
+BULL9|"Still goldbugs like a soft Buck and the bullying is back above 1225 an ounce."""

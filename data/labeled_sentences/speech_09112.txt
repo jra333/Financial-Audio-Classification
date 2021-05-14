@@ -1,0 +1,31 @@
+NEUT0|"""The other night."
+BULL1|Trump said in one of his rallies we've turned the corner.
+NEUT2|And my Gran father would say.
+NEUT3|This guy's gone around the bend.
+NEUT4|If he thinks we turn the corner.
+NEUT5|Turn the corner.
+BEAR6|Things are getting worse.
+NEUT7|It continues the light.
+NEUT8|It was about the circumstances, experts say.
+BEAR9|We're likely losing many as 200,000 additional lives nationwide between now and the end of the year.
+NEUT10|All because this president cares more about his Park Ave perspective on the world.
+NEUT11|The stock market than he does about you.
+NEUT12|Guys refuses to follow the science.
+NEUT13|It's estimated that we just wore masks.
+NEUT14|We just wore mask we'd save between now and the end of the year.
+NEUT15|100,000 lives.
+NEUT16|His own.
+NEUT17|Head of the CDC said that you know what what's really sad about this?
+NEUT18|The president knew how dangerous his virus was all the way back in January.
+NEUT19|And he hid it from the country.
+NEUT20|He's on record.
+NEUT21|He told Bob Woodward in a taped interview.
+NEUT22|That the disease was deadly.
+BEAR23|Much worse than the flu.
+NEUT24|And here's what he did.
+NEUT25|According to the New York Times.
+NEUT26|3-4 days ago his administration gave Wall Street investors a head up heads up but he didn't tell us just as friends on Wall Street.
+NEUT27|That's why they made so much money by quote selling short.
+NEUT28|Who got so short y'all got sell short?
+NEUT29|You know it's coming.
+NEUT30|"But what happened to the rest of it?"""

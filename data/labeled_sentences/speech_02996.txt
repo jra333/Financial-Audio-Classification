@@ -1,0 +1,59 @@
+BEAR0|"""Facebook is certainly not making many friends because it's stock continues to tumble in May."
+NEUT1|The initial public offering was $38.00.
+BEAR2|It finished that day up slightly, but the next week it dropped to $27.00.
+BEAR3|Yesterday, it dipped below $20.00 for the first time.
+BEAR4|It closed at 1905 for the week it was down 13% since May, Facebook has lost 50% of its IPO price and David Kirkpatrick is a tech journalist and author of the Facebook Effect.
+NEUT5|He joins us now.
+BULL6|Great to have you with us.
+BULL7|Good to be here back.
+NEUT8|So people are looking now at the Boy Wonder in the hoodie Mark Zuckerberg.
+NEUT9|He's at the helm of this organization and some are now asking does he need to go?
+NEUT10|Well he doesn't need to go.
+NEUT11|I think that would be really a radical critique that I would not even come close to making.
+NEUT12|He created this whole thing and it's still growing like crazy.
+NEUT13|As a business.
+BEAR14|You know the stock performance is another issue entirely, but the fact that the stock is at literally exactly half the IPO, which was just a couple months ago, that's really bad news for them.
+BEAR15|Did anyone expect it to fall so far so fast?
+NEUT16|I mean, is this just beyond what anyone imagined for this stuff?
+NEUT17|There were some people that imagine it, but not very many.
+BEAR18|Even the most pessimistic Wall Street analysts had it.
+NEUT19|You know, maybe going down into the 20s, but there was this one guy thinking Azerbaijan who was a security analyst that you see, he predicted 20 and he's like the closest analysts that he was in the middle of Central Asia.
+NEUT20|I want the rest of the stuff, but he now says he now says it's a buy and I actually think it is a buy right now.
+NEUT21|And that's because there's a business here that you think people are overlooking.
+NEUT22|Oh my gosh, yes, it's a huge business.
+BULL23|This company has dominance in a massive new communications medium.
+NEUT24|It's kind of a monopoly.
+NEUT25|It's a global business.
+NEUT26|They have a billion users and you know, they haven't even begun really to explore all the ways that you can monetize, as they say, by selling advertising and other things.
+NEUT27|From a PR standpoint, does somebody have to take the fall for this ANAN?
+NEUT28|Be out of the company in order for investors to come back?
+NEUT29|I don't think so, but I do think what they have to do is really prove to investors that somehow they're taking this really seriously.
+NEUT30|And I don't think they have been.
+NEUT31|As public as they ought to be, I don't think Zuckerberg has spoken about it in public at all, saying we realize, you know, we owe a lot of a lot to our investors.
+BULL32|We're going to do everything we can to get values up and show that this company is going to be a good business.
+BEAR33|'cause people are obviously not convinced.
+NEUT34|I read that Zuckerberg the other day did give a little pep talk to his employees.
+NEUT35|And I wonder, is that a problem that he has now in terms of keeping and recruiting talent seriously?
+NEUT36|Specially keeping?
+NEUT37|I mean the people that are there.
+NEUT38|Many of them have arrived in the last year and a half.
+NEUT39|All of those people are underwater on their options meaning.
+NEUT40|Their options, they gotta read a strike price higher than the stock is currently trading it, so they don't really necessarily have any prospect of making money from this talk, recruiting is actually, I think easier now because he can say OK will give you options at 19 and that really is a good likelihood for someone to make money.
+NEUT41|I do think it's a I would buy it now if I wasn't a journalist covering the company.
+BULL42|I really do believe that stock Facebook stock is going to go a lot higher than 19.
+BEAR43|How soon I don't know and it could go lower.
+NEUT44|First.
+NEUT45|One last question, Apple.
+BULL46|Yesterday hit an all time high same day as Facebook hits its all time low.
+NEUT47|Does that say anything to you about the future of technology?
+NEUT48|An where we perceive technology in this country?
+NEUT49|It says a lot about what we're familiar with and what we're not familiar with.
+BULL50|We know Apple is an amazing, time tested company that we all love and rely on, and he's got incredible hardware based business that's proven.
+NEUT51|Facebook is not a proven quantity.
+NEUT52|That's really all that it says, and I think you know Facebook has the misfortune or they made a lot of money by their IPO.
+NEUT53|But they had some misfortune of coming out at a really high price.
+NEUT54|Which was assuming all kinds of positive things that they haven't been able to prove.
+NEUT55|David Kirkpatrick.
+BULL56|Great to see you.
+BULL57|Thank you having me.
+BULL58|"I really appreciate it."""

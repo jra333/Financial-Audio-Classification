@@ -1,0 +1,4 @@
+NEUT0|"""Trade penny stocks, then trade to win."
+NEUT1|William Bell with goldenpennystockmillionaires.com WNS.
+BULL2|Our last play CW RN made 115% returns last week.
+NEUT3|"The newsletter averages about 60% returns without a paid promoter or pump and dump schemes go to goldenpennystockmillionaires.com or you can click the link below."""

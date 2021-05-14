@@ -1,0 +1,14 @@
+NEUT0|"""One Andy way to figure out if a stock is on a roll is to look at its moving averages, which tracks the average closing share price over a period of time."
+NEUT1|When I look at the trend lines well for one thing, they cut through the noise of a daily chart and give you a clearer picture of what's happening.
+NEUT2|The 50 day moving average is the red line on this chart.
+BULL3|If it's climbing upward, that means the stock is trending higher, always a good sign.
+NEUT4|It's also a fine way to figure out where the big money is headed.
+NEUT5|Institutional investors often look to the 50 day line as a reference point, buying more shares when the stock pulls back to the moving average.
+NEUT6|When those shares then bounce higher off of the key level.
+BULL7|As a result, we call that finding support.
+NEUT8|Why is that important?
+NEUT9|Because those brief pullbacks can present buying opportunities for individual investors.
+NEUT10|On the flip side, when a stock crumbles below that key level in heavy volume, we call that breaking support, and when a stock has trouble getting back above that line, we call that hitting resistance, and that might mean that the big investors just aren't as interested in that stock as they used to be.
+NEUT11|Now, always remember to keep an eye on volume because that's how you know how the other major players like fund managers are moving into or out of stock for more from our how to invest series.
+NEUT12|Make sure you check out investors com slash.
+NEUT13|"How to invest?"""

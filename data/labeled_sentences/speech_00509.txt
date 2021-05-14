@@ -1,0 +1,39 @@
+NEUT0|"""The intrinsic value of regenerx on is range between $7.83 per share and $110.61 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $7.83 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $7.83 in cash and cash equivalents.
+NEUT4|Paying $110.61 per share represents the company's price per share based on its earnings.
+NEUT5|So price of 110 and some change represents the fractional payment that we all pay for the company's next 20 years of median historical earnings.
+NEUT6|Now this is a conservative way to value the company that is different from its price to earnings ratio.
+NEUT7|So we've calculated Regenerx On's intrinsic value range.
+NEUT8|I have two questions.
+NEUT9|What do they do and what are they currently trading at?
+BEAR10|So they're currently trading at a price of 57 or $567.55, which is massively overpriced.
+NEUT11|But what do they do?
+NEUT12|So there a biotechnology company headquartered in New York.
+NEUT13|They were founded in 1988.
+NEUT14|We really should stop there because this price is just incredibly large and I mean, what's the?
+NEUT15|It's the justification for this type of price.
+NEUT16|While the people who set the price in the visuals who bet in the markets and who will have purchased the stock to such a high price would probably be hard pressed to come up with an answer, I mean taking a look at its price to earnings ratio, it's it's .74 points above the acceptable upper threshold that Benjamin Graham suggests.
+NEUT17|But you know, we go a step further than just looking at the technicals.
+NEUT18|You know we calculated this high end on the basis of its prior 10 year.
+NEUT19|You know regular net profit performance.
+NEUT20|So let's take a look at it.
+BEAR21|I mean, it posted three years straight of negative profits before it finally posted a positive profit in 2012.
+BULL22|So concerning 'cause you want to see at least 10 years of clean positive profits for anyone company.
+NEUT23|If you're going to be putting your your eggs in one basket, they gotta pass a high threshold high bar.
+NEUT24|Regenerx on doesn't do it for me.
+NEUT25|So reasonable assumption is to assume that the company is overpriced.
+NEUT26|What's the next step?
+NEUT27|Well, we have to find a place to put our money that has.
+NEUT28|Similar risk, safety of principle, margin of safety are all engaged and the best way to do that is by putting your money in an index fund.
+NEUT29|So Vanguard 500 is the one I choose for you guys, 'cause I know Warren Buffett has chosen in the past to win a bet against the hedge fund industry, but you understand the general principle here.
+NEUT30|It's these funds they have.
+NEUT31|They hold stock in the top 500 highest performing companies.
+NEUT32|And mostly Americans, so this would be a great place to park your money.
+NEUT33|Look at this 10 year return, 12.98%.
+BULL34|So we're talking comfortable return, relatively low, an mitigated risk.
+NEUT35|This would be where you'd want to park your money until this 567 figure comes down to below 110 and some change.
+NEUT36|Guys, if you got any value out of this video, make sure to subscribe to my channel so we can grow our community here on YouTube and so you can continue to gain insight on how to analyze business performance.
+NEUT37|So that way your investment performance is optimized.
+NEUT38|"Remember when your investment performance is optimized so as you, well, production value investors, stick around for the next video."""

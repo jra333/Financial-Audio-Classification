@@ -1,0 +1,8 @@
+BEAR0|"""Little ones bored with nothing to do."
+NEUT1|Magical Frozen 2 playing cards at dischem to brighten your day.
+NEUT2|If you spend 150 random or at any disc install, you can get a pack of four playing cards.
+NEUT3|You can also download the free disk in Frozen 2 app to collect virtual cards, unlock games and more.
+NEUT4|Limited edition frozen collectors albums containing more exciting games to play.
+NEUT5|Available in store.
+NEUT6|You can collect all 54 cards and let the magic begin.
+NEUT7|"Exclusive to this game."""

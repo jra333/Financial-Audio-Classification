@@ -1,0 +1,13 @@
+NEUT0|"""It stuck o'clock."
+NEUT1|Welcome Elon Musk, interviewed Robin Hood, CEO Vladimir Tenev, late Sunday evening.
+NEUT2|Tennis said they didn't have any choice and they had to conform to requirements.
+NEUT3|He claims Citadel, another market makers, were not involved.
+BEAR4|Redditors are divided on the short squeeze of silver.
+NEUT5|People wonder if this movement is organized by hedge funds.
+BEAR6|Some even suspect that some Reddit accounts are actually fake.
+NEUT7|Alibaba will have reported earnings today before the opening Bell.
+NEUT8|Wall Street is expecting an earnings of $3.17 per share.
+BULL9|Chinese regulators have been cracking down on the company lately, and Morgan Stanley boost its price target for Tesla to $880.
+BULL10|Their forecast shows a 27% compound annual growth rate this decade that might even put Tesla at $3000 per share by 2030.
+BULL11|Alright, stay ultra Duper safe today.
+NEUT12|"Bye bye."""

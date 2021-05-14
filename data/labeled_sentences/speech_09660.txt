@@ -1,0 +1,24 @@
+BEAR0|"""We had a pretty big drop in the stock market today."
+BEAR1|The big indexes were off more than 2% in the case of the NASDAQ that's indexed.
+BEAR2|That has a lot of technology stocks those down more than 3%.
+BEAR3|That was the worst drop this year for the NASDAQ.
+BEAR4|The main reason for what's going on is we've got an escalation of the trade conflict between the US and China just this morning.
+BEAR5|Our time China announced new tariffs on US goods is an escalation of a battle has been going on for.
+BEAR6|Some time now the market was down all day.
+BEAR7|The worst sectors were companies like technology Giants like Apple.
+BEAR8|Apple was down almost 6% today.
+NEUT9|They do a lot of business in China.
+NEUT10|They make a lot of products in China.
+BEAR11|So if this conflict we have with trying to continues, Apple is going to be among the first to suffer that showed up in the stock price today.
+NEUT12|There's other companies that also rely on China a lot for their business dear, which makes Farman.
+NEUT13|Other big heavy equipment, Caterpillar Boeing sells a lot of planes to China.
+BEAR14|All these stocks had big losses today because investors are worried about what their business is going to be affected by.
+NEUT15|If China buys less of their of the things they make, it's not only the companies that sell products directly there, but if the tariffs stay in place, a lot of common goods.
+NEUT16|That means that China is going to buy fewer soybeans that affects farmers.
+BEAR17|Less cotton this affect people who grow cotton.
+BEAR18|Prices are going to continue to go up for a lot of things.
+NEUT19|Basic goods that we buy from China.
+BEAR20|That's going to affect inflation and consumer spending.
+BEAR21|So the issue is not just who sells to China, but could this conflict slow down the economy here and there?
+BEAR22|And we had not been building in that assumption to the markets yet and now, what you're seeing is this uncomfortable realisation among investors that, well, maybe we need to build in.
+NEUT23|"Some new assumptions about the economy globally taking a hit."""

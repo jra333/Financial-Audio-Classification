@@ -1,0 +1,34 @@
+BULL0|"""Let's start with Bojangles fourth quarter profits coming in higher than expected revenue higher than expected, and the stock up more than 17% on Friday."
+NEUT1|I know you like the chicken, Jason how you liking the stock.
+NEUT2|I just like seeing the jangler takes me back to my childhood.
+NEUT3|So I think the important thing here, investors want to focus on the fact that that Bojangles management is meeting the targets and expectations that they said, and so let's not worry Bout really what what?
+NEUT4|Wall Street expectations.
+NEUT5|Maybe Wall Street is setting for this business.
+NEUT6|Really want to focus on whether they are meeting their own benchmarks and they certainly are.
+BULL7|And I think that you look at the growth that's coming from new stores in the short run.
+BULL8|That's OK in the long run.
+BULL9|We really want to see their ability to grow beyond just opening new stores.
+NEUT10|And I think that remains the biggest question.
+NEUT11|If we look at.
+NEUT12|Their market opportunity.
+NEUT13|They see their market opportunity is around 1400 stores in the states where they have a presence today in around 3500.
+BEAR14|Stores total around the United States versus about 660 or so that they have today.
+NEUT15|In that always has been really the big question is does that market opportunity really extend that far?
+NEUT16|I'm still not sold on that.
+NEUT17|I do love the chicken.
+NEUT18|I love the ice tea.
+BULL19|And honestly, I think with the stock today it's trading around 20 times full year 2016 estimates, which is pretty reasonable if they are able to get close to that market opportunity that they see, then I think that today's stock level is actually a pretty pretty attractive opportunity.
+NEUT20|Are there any remotely near where we are right now?
+NEUT21|And I think that's the biggest problem I. I don't think they really are.
+NEUT22|I got today or some in this area, but but not really close by.
+NEUT23|It is very much a southeastern concept.
+NEUT24|I know that they went through and shut up.
+NEUT25|Punch down in Florida recently and so that's the biggest question.
+NEUT26|Does this reach across the country than Chick-fil-A?
+NEUT27|Where do you put nothing better than Chick-fil-A?
+NEUT28|That's yeah, mom.
+NEUT29|And I'm going to defer my answer until a later time.
+BEAR30|Jason, did you say they shut a bunch of stores?
+NEUT31|They did.
+BEAR32|They shut down a bunch of stores down in Florida, which I thought was a bit odd.
+BEAR33|"Given Florida is a southeastern state, what, well, they just weren't performing underperformers."""

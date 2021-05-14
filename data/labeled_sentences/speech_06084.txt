@@ -1,0 +1,9 @@
+BULL0|"""A subscriber asked so quick short today on Spirit Airlines, I believe that Spirit Airlines is projected to see revenues reached 2019 peaks by mid next year."
+BULL1|The current TSA traffic trends in vaccine support a traffic rebound.
+BULL2|The airline is poised to top $3 plus earnings per share in 2022, making the stock cheap.
+NEUT3|Here I question whether Spirit had enough liquid to make it till 2022.
+NEUT4|The answer is yes.
+BULL5|The company boosted its cash to $2.1 billion through debt and equity, offering with the cash, daily cash burn rate of 2.3 million.
+NEUT6|The company has enough room for the next one to two years.
+BEAR7|Given the travel situation, the key risk is a slow rollout of the vaccine, continued lockdowns, and a general hesitancy to travel.
+BULL8|"Remember that it took about six years for the airline industry to recover from 911 attacks like share subscribe for more."""

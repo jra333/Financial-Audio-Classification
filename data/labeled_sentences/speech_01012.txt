@@ -1,0 +1,29 @@
+BULL0|"""Elon Musk says the Tesla will start to offer insurance for its cars and can price it better than a typical insurance company because of the data it collects from all the vehicles on at the road."
+NEUT1|You've talked about the threat of autonomous vehicles on the insurance business, but what about the threat to GEICO of automobile companies themselves getting into the insurance business and on a very similar topic?
+BEAR2|Tesla recently announced that they are shifting to an online only sales model and several traditional auto dealerships are also reducing their property Holdings as car buyers increasingly used smartphones and the Internet to shop for cars.
+NEUT3|What does this portend for Berkshire Hathaway Automotive?
+NEUT4|Yeah, actually, General Motors had a company for a long time called Motors Insurance Company and various companies have tried it.
+NEUT5|I would say that.
+BULL6|The success of.
+NEUT7|Of the insurance company of the auto companies getting an insurance business are probably about as likely as this success of the insurance companies getting into the auto business.
+NEUT8|It.
+NEUT9|Ah, I worry much more about progressive.
+NEUT10|Then all of the.
+NEUT11|Auto company possibilities that I could see in terms of getting insurance business.
+NEUT12|It's not an easy business at all and.
+NEUT13|I would bet against any company in the auto business being any kind of a.
+BULL14|Unusual success.
+NEUT15|The idea of using telematics in terms of stunning people studying peoples drivers, avocets that's spreading quite.
+NEUT16|Quite the widely and it isn't important.
+NEUT17|It is important to have data.
+NEUT18|On how people drive, how hard they break, how much they swerve, all kinds of things.
+NEUT19|So I don't doubt the value of the data, but I don't think that the the auto companies will have any any advantage of that.
+NEUT20|I don't think they'll make money in the insurance business.
+NEUT21|The using the Internet to shop for cars is like, you know, using in order for shopping for everything.
+NEUT22|It's another competitor.
+NEUT23|And there's no question that people will look for better ways on the gross margin on news cars and new cars.
+NEUT24|Is about 6% or thereabouts, so there's there's not lots of room in the game but but that's that will be a method and that will solve some cars and.
+NEUT25|But there are, you know it's it's, it's another competitor, but I don't think that it destroys the auto dealer who takes good care of their customers and is there to service their customers.
+NEUT26|And no.
+NEUT27|It's not a sound overwhelming threat, but it's obviously something that's going to be around and will sell some cars, Charlie.
+BULL28|"Again, nothing OK?"""

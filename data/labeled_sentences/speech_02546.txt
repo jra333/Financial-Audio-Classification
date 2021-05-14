@@ -1,0 +1,10 @@
+NEUT0|"""Here's what we're following across markets as the trading day gets going, the dollar has momentum, as does Sterling."
+BEAR1|We're seeing further pressure on Dollar block and commodity currencies.
+BEAR2|The Kiwi Aussie dollars, Mexican peso, and South African Rand leading weakness in foreign exchange.
+BEAR3|Dollar strength is sapping demand for commodities.
+BEAR4|Brent crude is slipping below $48.00 a barrel while share prices in Europe began the day under pressure, but have turned positive for now.
+BEAR5|Volumes of thin markets are generally stuck in well developed ranges.
+NEUT6|Rumbling the background.
+NEUT7|Further indications from Federal Reserve officials.
+BEAR8|That June may well see a tightening of interest.
+BEAR9|"Rate policy, hawkish speeches from officials are certainly weighing on sentiment, but one sector remains less convinced the US bond market says it's low to push two year Treasury yields towards 1% less loan, fully priced in a policy tightening for June, bond traders are awaiting a speech by Fed Chair Janet Yellen on Friday and next month, another payroll report beckons the great standoff between bond traders and the Fed still has room to run, and this bears watching by all investors."""

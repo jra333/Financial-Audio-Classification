@@ -1,0 +1,26 @@
+NEUT0|"""Hey everybody, it's time for Morning Joe."
+NEUT1|Brian sozzi.
+BULL2|The focus still on Facebook shares getting hit again.
+NEUT3|Is this stock ever go up?
+NEUT4|One quick line.
+NEUT5|I mean the market is waiting to hear from Mark Zuckerberg is supposed to do a town Hall reportedly on Friday.
+NEUT6|Hopefully will step up and man up and get his name out there.
+NEUT7|Market wants to hear from him and on a separate note, Tesla shares are actually in bear market bear market.
+NEUT8|I mean, I think that it's a great headline, but people are missing the point of why it's in a bear market in stocks.
+NEUT9|So tell us why.
+BEAR10|I mean it can fall out 30%.
+NEUT11|Why?
+NEUT12|Because they're burning through cash.
+BEAR13|They're missing their sales estimates.
+NEUT14|Big problems the test.
+BEAR15|I think they were Mr Kors be terrible going anymore and shareholders are voting on a multibillion dollar pay package for Elon Musk.
+NEUT16|I don't know if we'll get it now.
+NEUT17|Ridiculous, alright?
+NEUT18|Also, Amazon, now worth more than Alphabet?
+BULL19|Yeah, I mean another great headline in today.
+NEUT20|I mean that doesn't mean Alphabet actually polling is not going to be innovative.
+NEUT21|Avnon is just capitalizing on major things that are happening.
+BEAR22|Toys R Us out of business retailers going out of business.
+BULL23|Amazon's winning alright.
+NEUT24|Quite a busy day and remember everybody.
+NEUT25|"You can sign up for morning Jolt at thestreet.com."""

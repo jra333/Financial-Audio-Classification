@@ -1,0 +1,8 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 and now it looks like the market is going to try to take off to the upside with a little bit of help here from the Federal Reserve looking likely to buy everything that that."
+NEUT1|Moves or that doesn't move for that matter.
+NEUT2|So right here we're testing 50 day Ma, 50% Fibonacci retracement level, 2800 mil.
+BULL3|So above 2800 opens up another 50 points.
+NEUT4|Until then, I'd be a bit suspicious of a pull bank.
+NEUT5|There's mixed thoughts on this whole buying everything.
+NEUT6|Is that good or is it a sign of real concern so?
+BEAR7|"I expect a lot of noise, but above 2800 that's obviously a very bullish sign."""

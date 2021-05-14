@@ -1,0 +1,42 @@
+NEUT0|"""Let's move on here and talk about Google."
+NEUT1|Is the Google era over.
+NEUT2|We ask when for Securities analyst?
+BEAR3|Lou Kerner initiated Google today with get this an underperform rating.
+NEUT4|He joins us now on the fast line.
+BULL5|Lou, it is great to have you with us.
+BULL6|Thanks Melissa.
+BULL7|Great to be here.
+NEUT8|Certainly an interesting call and the crux of the call is that Facebook is providing more competition to Google than anybody is thinking.
+NEUT9|How does it do that?
+NEUT10|Well, you know the fact of the matter is they have over 520,000,000 members.
+NEUT11|And about half of them log on every day and they are already as a result of the news feed that people have.
+NEUT12|You know, they're already driving massive amounts of traffic to websites all over the world.
+NEUT13|They're very meaningful, they know they drive more traffic to YouTube and Google does today, and social search is really in its embryonic stage.
+NEUT14|I think we're going to be entering a period where people put more and more information into their Facebook profile and that they're going to be all kinds of applications built on top of it that let people start with their friends are saying instead of what?
+NEUT15|Google is, in your estimation, is Facebook the biggest competitive threat to Google at this point compared to a Yahoo or Bing or any other company out there?
+BEAR16|Undoubtedly I think Facebook is the biggest threat to a lot of companies, not just Google.
+NEUT17|Such as what I mean.
+NEUT18|I'm just thinking.
+NEUT19|I mean, if we never thought or or many of us here never thought that Facebook was a real competitor group to Google, there must be some other shockers out there as well.
+NEUT20|Well, you know, I think it's you know it's Yahoo.
+NEUT21|It's AOL, because if they're spending time on Facebook, they're not spending time on those sites.
+NEUT22|It's it's eBay with PayPal to the degree that Facebook drives Facebook credits and it becomes the, you know, the the money walk.
+NEUT23|Most widely used on the Internet that's impactful for eBay.
+NEUT24|At the same time though, and this is the last question Lou, is it possible that people disintermediate Google entirely so you go into your Facebook page and you just skip the search engine of Google?
+NEUT25|I think that's what a lot of people are already doing to get to a lot of the content they're finding today.
+BULL26|Alright Lee, great to have you with us.
+BEAR27|Thanks so much Lou Kerner of Wedbush initiating Google with an underperform rating today.
+NEUT28|Steve Cortez.
+NEUT29|I don't know if you're on Facebook, I'm not, I'm not.
+NEUT30|I guess I'm one of about 10 people who will tell you, yeah, I'm #8 your number, not.
+NEUT31|But at the same time.
+NEUT32|And this is interesting to think of of this competitor out there that people don't normally think of as a competitor to Google.
+BULL33|Writing makes excellent points.
+NEUT34|I guess my only counter would be that the non search related businesses of Google seem to be very attractive, particularly YouTube, and that might be much more.
+NEUT35|Arrival in the market is presently pricing in OK. Joe, just quickly bought Google.
+BULL36|Yes, I think in the dirt in the near term Google's fine and made 15% growth in terms of paid clicks.
+NEUT37|It looks to me like the longer term story in Google they get it as well.
+NEUT38|You Tube look with the Android is doing in terms of mobile operating search.
+BEAR39|I kind of disagree with this one.
+NEUT40|I think Lou Lou might get this one roll.
+BULL41|"It is an interesting call though nonetheless."""

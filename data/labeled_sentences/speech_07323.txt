@@ -1,0 +1,33 @@
+NEUT0|"""Little bit of breaking news for you here."
+NEUT1|Late in the four o'clock hour, the Wall Street Journal, now reporting that Uber has priced its IPO at $45 per share.
+BEAR2|That is near the low end of the 44 to $50 per share range that Uber had set ahead of its roadshow.
+BULL3|That will give the company a valuation right around $80 billion, eighty $2 billion or so now, Uber had been seeking evaluation as high as 90 billion during this process, so it will come in a little bit below its latest.
+NEUT4|Private round valuation.
+NEUT5|See here on the screen that was set at $91 billion.
+NEUT6|Over certainly has gone a different route than its rival Lyft did during lifts own IPO process.
+BULL7|Lift getting a premium to its latest private market valuation as it went.
+NEUT8|Public Uber here looking at basically a flat round.
+NEUT9|So a lot of talk this week, Shawna about where Uber would land on its pricing, how the market might receive this deal you were saying earlier.
+NEUT10|Some folks even floated.
+NEUT11|Maybe the deal wouldn't happen at all.
+NEUT12|I think that was never really.
+BEAR13|On the table, but obviously the market conditions right now starts at a rough week and also knowing that lift us at a very tough time since it went public with, you know, kind of stabilizing its stock price.
+NEUT14|I think Uber being a little bit more conservative than a lot of folks had anticipated a couple of months ago as it went through its IPO process.
+NEUT15|Yeah, and just going back Denize was out of Wedbush Securities was out with a note yesterday.
+NEUT16|This of course was ahead of the news that we just got the fact that it priced at $45.00 a share.
+NEUT17|But he's basically saying that we continue to view list stock performance and lack of disclosures going forward.
+NEUT18|He's talking about bookings and take rates as the one two punch which, coupled with the choppy tech tape, caused Uber to take a more conservative approach to its price range.
+NEUT19|This is something that we have been talking about really all day and just really a more prudent strategy in our opinion coming out of the box.
+NEUT20|So I think the fact that Uber did price at $45.00 a share they're playing it a little bit safe.
+NEUT21|They could have gone more at the high range similar to what we saw lift do they?
+NEUT22|Didn't?
+NEUT23|They played it safer.
+BEAR24|Obviously it is a very volatile week for the markets.
+NEUT25|Not only.
+NEUT26|Is there a live in certainty when it comes to this IPO when you compare it to lift performance and very choppy performance at best Senses IPO.
+NEUT27|But also the fact that we could be getting news making headlines overnight in terms of US and China trade.
+NEUT28|That of course could dictate the broader markets move.
+BEAR29|If we see a huge down day tomorrow, it's going to be more challenging for Uber to come out and have a great first day of trading.
+NEUT30|So I think all that is playing into this pricing networks and very interested to see how that pricing process goes to get the stock actually trading because it has been a more conservative process.
+NEUT31|As Uber went through its roadshow, certainly we'll be covering all of that for you.
+NEUT32|"Live here on Yahoo Finance as it happens."""

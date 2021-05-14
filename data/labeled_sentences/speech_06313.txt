@@ -1,0 +1,41 @@
+NEUT0|"""Introduction to order types presented by wallstreetsurvivor.com."
+NEUT1|Here's Eric.
+NEUT2|Eric is a stock trader and it's his job to buy and sell stocks on a daily basis.
+NEUT3|When Eric needs to execute a trade, he uses order types.
+NEUT4|There are many different order types that Eric could choose from.
+NEUT5|Things like time horizon risk, tolerance, and overall portfolio management strategy impact.
+NEUT6|Which order type he will choose?
+NEUT7|Let's look at how Eric might trade Google stock using different order types.
+NEUT8|The simplest type of order Eric uses is the market order.
+NEUT9|A market order is a order to buy or sell a stock at the current bid.
+NEUT10|Ask price.
+NEUT11|Say Eric places a market order by Google and the current market price is $600.
+NEUT12|Eric will get filled at the Max bid ask price.
+NEUT13|While a market order is probably the simplest order type error could use, there are a few others which are better suited for other scenarios.
+NEUT14|Limit buy and sell orders are essentially target prices that allow you to buy low and sell high.
+NEUT15|Eric will use a limit buy order if he wants to set the maximum price.
+NEUT16|Use willing to pay for a stock.
+NEUT17|For example, say Google stock is at $600 but Eric wants to buy it at $550.
+NEUT18|He places a limit buy order at $550 and the order is only executed.
+NEUT19|If and when Google drops to that price, on the other hand, Eric uses a limit sell order to set the minimum price he is willing to sell his stock at.
+NEUT20|For example, Eric owns Google stock that is currently trading at $600.
+NEUT21|Eric has decided that he would sell his stock if it had reached $650, but not for a penny.
+NEUT22|Less to make this happen, Eric places a limit sell order at $650, which is executed when Google reaches that price.
+NEUT23|For experienced traders like Eric who want their orders filled at the specific price limits are used more often than not.
+NEUT24|Another more advanced order that Eric and uses the stop order.
+NEUT25|The most common of these is the stop sell order, which Eric will use to sell a stock.
+NEUT26|If the price drops.
+NEUT27|This allows Eric to either minimize his loss or lock in his profit.
+BEAR28|For example, Eric owns Google stock, which is currently at $600, but because of their latest earnings, he is worried that their stock is likely to drop.
+BEAR29|Therefore, Eric places they stop cell at $580, which will trigger the cell if the price drops to that target.
+NEUT30|The less common of the stop orders is the stop by, which is an order to buy stock at a price above the current market price.
+NEUT31|Eric's body, at technical analyst, advises him that if Google stock price climbs to $605.00, it is likely to continue upwards to get in on this momentum, Eric places a stop buy order at $605.00, think of stop sell as a former protection.
+NEUT32|And stop by as riding the wave.
+NEUT33|Eric can also use the trailing stop order, which is a more advanced version of the stop sell.
+NEUT34|Here Eric sets a moving stock price which follows the market price up by a percentage or dollar amount instead of a locked in price.
+BULL35|For example, say Eric owns Google stock, the prices gone up dramatically to $700.00 and Eric has achieved his target profit.
+BEAR36|He's ready to sell, but doesn't want to miss out on more profit if the stock continues upwards.
+BEAR37|He therefore places a $5 trading stop, which follows the stock price.
+BEAR38|Upwards, but triggers a cell of the stock ever drops by that amount.
+NEUT39|This is like riding the wave, but with protection.
+NEUT40|"Eric uses these order types to execute his trades to practice using these orders, sign up for free at wallstreetsurvivor.com."""

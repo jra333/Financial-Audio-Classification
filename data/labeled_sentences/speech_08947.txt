@@ -1,0 +1,42 @@
+BULL0|"""OK, shares of Apple rallying yet again this morning as the company's four for one."
+NEUT1|Stock split is set to go into effect after today's opening Bell.
+NEUT2|Yahoo Finance Tech editor Dan Hally is back here.
+NEUT3|Dan, what does this mean for Apple shareholders?
+NEUT4|It really just means that they're going to get you an additional 3 shares for every individual share they hold.
+NEUT5|To get that four to one split, I think going forward what we're going to see is a continuation of the stock going ever higher, right?
+NEUT6|That's been the pattern for this company.
+NEUT7|We're expecting them to launch their new phones coming out some point in September.
+NEUT8|There's been talk about them being delayed a few weeks, but we don't know exactly what that means for the launch event itself.
+NEUT9|But they said that you know, uh?
+NEUT10|A few weeks later than usual, but we're still going to get.
+NEUT11|Those phones are going to be 5G equipped.
+NEUT12|They're the ones that a lot of analysts are looking at to kind of push forward.
+NEUT13|This idea of a selling Super Cycle Ward will have you know, 300 something million smartphones available for upgrade or ready for upgrade.
+NEUT14|That's according to Wedbush analyst Dan Ives.
+NEUT15|What we're going to see is people wanting to go out and purchase these phones because of their 5G capability, but remember, it's not just the iPhone anymore.
+BULL16|We've seen the services business revenue double from their 2016 numbers I believe, and that's what Apple originally set out to do.
+NEUT17|Tim Cook famously, saying that and then delivering, and I think that's kind of the proof that it's just not about the iPhone anymore.
+NEUT18|And don't forget the accessories sign right?
+NEUT19|They have the air pods.
+NEUT20|They have the Apple Watch.
+NEUT21|This is a more.
+BULL22|A complete business than it originally was, I think when they were so heavily relying on the iPhone, China expected to do well this time around.
+NEUT23|That's what at least some analysts are looking at.
+NEUT24|So it seems as though this stock is going to continue going upwards.
+NEUT25|Mean what's been pushing it down nothing.
+NEUT26|Then yeah, we're actually talking to Dan's little later on the show.
+NEUT27|Looking forward to a chat with him, but you know, it's very important to note.
+NEUT28|I think that Apple stock is not like a Treasury bond.
+NEUT29|There are risks associated with this company.
+NEUT30|What are some of those risks, risks looking out over the next 12 months?
+NEUT31|Yeah, I mean, obviously if we don't get that super cycle right?
+NEUT32|If Apple doesn't see the kind of sales that a lot of people are expecting, I think you're going to see people kind of think.
+NEUT33|Well, is this really what we wanted to get out of Apple at that point?
+NEUT34|And then there's the idea that you know.
+NEUT35|Are there Apple TV plus?
+NEUT36|Not as competitive as something like Netflix as far as offerings or you know, free Peacock offering is out there now.
+BEAR37|Hulu, you know it doesn't have anything that really catches your eye so that you would want to subscribe long term, but also the price is very low and that's how I think Apple was kind of hedging its bets, but we still have to see if that does take off because that could really push the services business ever higher.
+NEUT38|But I think really, you know the idea that there could be potentially not as many sales of the iPhone.
+BEAR39|Maybe we don't, we see a falloff in something like the air pods sales.
+BEAR40|If we don't see a new version, but I think those are really the biggest risk that an anything out of China as far as negative headlines regarding sales there.
+BULL41|"Alright Dan Hally, thanks so much."""

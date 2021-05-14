@@ -1,0 +1,23 @@
+BULL0|"""2% real GDP growth."
+NEUT1|Maybe a touch more than 2% core inflation.
+NEUT2|Maybe a touch less dominated by twos.
+BEAR3|The 2020 U.S. economic Outlook remains just as boring as most of the last 10 years at least since the economic recovery from the Great Recession commenced in 2010.
+BEAR4|For the last few years, one set of analysts has been wringing their hands.
+BEAR5|That recession probabilities were rising.
+BEAR6|Fed policy higher tariffs, rising corporate debt, more automobile loan delinquencies all have been cited as possible catalyst for another economic downturn.
+BEAR7|These disciples of the dismal science often underestimate the resilience of the US economy.
+NEUT8|It takes a big shock to knock it down.
+BULL9|US has an innovative, flexible and adaptable economic system not so easily pushed into a recession.
+BEAR10|Then there are analysts who just cannot seem to understand why inflation pressures have not yet emerged.
+NEUT11|These inflation is fall into two camps.
+BEAR12|One camp sees the low unemployment rate as a signal that wage inflation is coming and will lead to inflation in goods and service prices.
+NEUT13|Statistically, the inflation labor relationship has been dead for 25 years and counting, but this narrative from the 1970s seems to have staying power despite the lack of evidence.
+BEAR14|Another group of inflation is simply cannot believe that years of very low rates plus the Fed expanding its balance sheet by trillions and trillions.
+BEAR15|Would not be enough to cause some inflation.
+NEUT16|The money, inflation statistical relationship actually died in the late 1980s, but again, old ideas can overstay their statistical relevance.
+NEUT17|The bottom line, beware economic narratives that have lived well past their usefulness, and accept that the economic outlook is full of not so terrible twos for the growth and inflation the longest lived U.S. economic expansion may well in one day, but probably not in 2020.
+NEUT18|And until the federal government accelerates spending dramatically, oh, by the way, note that transfer payments do not count.
+NEUT19|Tax cuts do not count.
+NEUT20|Deficits do not matter, just more spending on goods and services.
+BULL21|So until we see a lot more spending by the government, then inflation is likely to remain subdued.
+NEUT22|"I'm Blue Putnam, chief economist, CME Group."""

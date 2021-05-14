@@ -1,0 +1,31 @@
+NEUT0|"""The intrinsic value of booking.com is range between $97.73 and a whopping 900 and $770.45, so 970 with $0.45."
+NEUT1|How are these numbers calculated?
+NEUT2|Paying $97.73 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $97.73 in cash and cash equivalents, which is huge.
+NEUT4|And then as far as the high end paying $970.00 with $0.45 represents the company's price per share based on its earnings.
+NEUT5|A price of 970 with change per share represents the fractional payment that we would all pay for the company's next 20 years of median historical earnings.
+NEUT6|This is a conservative way to value the company's future using earnings, and this is different from the PE ratio.
+NEUT7|So what are they trading at today?
+NEUT8|Well, the trading at a price of $1653 with three cents.
+NEUT9|Which is above our upper bound for intrinsic value.
+NEUT10|However, I'd like to point out that this is one of the few companies that's actually able to produce or has been able to produce a high end that is somewhat close to this huge number here.
+NEUT11|So typically you see either newer companies or maybe companies that have a lot of hype around them.
+NEUT12|They'll have a very large share price figure, and then the intrinsic value when calculated according to Benjamin Graham's prescription.
+NEUT13|High End is very low, it's just totally not justified.
+NEUT14|I wouldn't say that this is the case for booking.com.
+NEUT15|I would say that the price is is almost in range, maybe a third if you do the math out of range on the high side of things, but the PE ratio is is once again, it's not that exaggeratedly large, it's just 7.9 points above where we would want to see it to warrant further investigation.
+NEUT16|Regardless, it is overpriced, So what is our next step?
+NEUT17|Well, if you're looking if the decision is binary Ann, you have a choice either investing in booking.com or invest in some alternative vehicle with similar risks and similar return, all while maintaining safety principle and an ample margin of safety.
+NEUT18|Your best bet is to drop your money in an index fund.
+NEUT19|A low cost index fund, specifically the Vanguard 500 Index Fund is the one I would choose if I were you.
+NEUT20|Now this is an investment advice, but.
+NEUT21|This is the same fund that Warren Buffett used to destroy the hedge fund guys in a bet that started in 2008 and in 2018.
+NEUT22|Now I keep mentioning this just because of how impressive the feet was that he was able to beat out professionals who supposedly taken stock pick and they can do it efficiently.
+NEUT23|But all he did was purchased this fund and he did nothing after that and he got a higher return than the other guys.
+NEUT24|So I mean that goes without saying.
+NEUT25|So guys, if you enjoyed this video.
+NEUT26|Video are getting value out of it.
+NEUT27|Subscribe to my community to my YouTube channel here so that you can continue to gain insight on how to analyze business performance.
+NEUT28|So that way your investment performance is optimized.
+NEUT29|Remember when your investment performance is optimized so as you well, production value investors, I'll see you in the next video.
+NEUT30|"Stick around."""

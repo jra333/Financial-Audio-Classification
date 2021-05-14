@@ -1,0 +1,60 @@
+BULL0|"""Wild ride for stocks this week."
+NEUT1|Rally in anticipation of the Fed decision, followed by a steep two day sell off, Forbes media chairman and author of the book, Reviving America.
+NEUT2|Steve Forbes is here with me now.
+NEUT3|What's your take on this?
+NEUT4|Off that we saw today and yesterday?
+BEAR5|Well, one is the realization that profits are under pressure and there's not very much good news coming into a next year.
+NEUT6|The Federal Reserve is mishandled.
+NEUT7|This raising of interest rates, not pointing out that this can get a real real return of a real credit market again.
+BEAR8|Making it sound like it was bad medicine and so the benefits of getting more cash back in the banks have been lossed.
+NEUT9|They've made no reference to deregulating some of the banks in terms of onerous burdens on making loans to small businesses, so it's all come together.
+NEUT10|What the Fed is done, both with quantitative easing, 0 interest rates and the like, and now the European Central Bank is doing is deflating, not inflating, making it hard for small and new businesses to get credit.
+NEUT11|But what change between today and Wednesday?
+NEUT12|Because I'm Wednesday, they made the announcement and you saw stocks bounce because it seemed like you know traders went in and they read the statement and you saw the dot pattern and it looked like they were only going to raise rates maybe four times this year and they went OK. Well, it's not going to be that bad.
+BULL13|Markets were OK and then something sunk in well.
+NEUT14|What sunk in is that the Fed doesn't know what it's doing, but they never have.
+NEUT15|I mean, nobody ever thought that we didn't think I'm Wednesday, they do with, you know, a couple of about a year and a half ago, the Federal Reserve.
+NEUT16|This is a little arcane.
+BULL17|Did what they call repurchase agreements with ended up putting more cash into banks and ended up a revving up the loan volume in the economy.
+BULL18|We had a couple of quarters of 4% growth.
+NEUT19|Then the Fed backed off went back to their bad old ways so he had less lendable cash in banks and the economy went back to its 2% rut so the hope was that this time the Fed was truly going to make changes.
+BEAR20|Rundown exploded portfolio so again you have more lendable cash in the banking system.
+NEUT21|They didn't do it so clearly.
+NEUT22|If you don't know if the pilot of the plane doesn't know what you're doing.
+NEUT23|You look for your parachute, yeah, and that's what we're seeing in markets right now.
+NEUT24|So what do you see going forward?
+NEUT25|I mean, this isn't about it, just being the end of the year and wanting to, you know, sell off part of your portfolio.
+NEUT26|Realize that none of that.
+NEUT27|You're not buying it.
+NEUT28|No.
+BULL29|I think the US economy will get 2% growth next year.
+NEUT30|But again, company average for the whole year has an average for the whole year, which for by our stems Europe would be pretty good.
+BEAR31|But by our standard, just pretty bad.
+NEUT32|But no one knows what they're doing.
+NEUT33|They don't know what they're doing in Japan, Europe.
+NEUT34|And here in the United States and President Obama's made it very clear there's going to be no change in the War on Terror.
+NEUT35|No change in economic policy.
+NEUT36|And so where the market if it's going to rise next year, is going to be looking to 2017?
+BULL37|Yeah, that's going to anticipate better times.
+NEUT38|And one little example of the better things that might come isn't that crazy Bill?
+NEUT39|They just passed in Congress of the budget bill.
+NEUT40|They removed the ban on oil exports.
+NEUT41|There are postponing certain taxes on Obamacare.
+NEUT42|I think that the markets, if they think they're going to get more of that next year.
+BULL43|I think they'll overlook a tough 2016 and anticipated better 2017, so I think there are a lot of people at home that listen to your assessment of what's going on and agree with you.
+NEUT44|What would you tell them to do?
+NEUT45|I mean, how do you position yourself in in light of everything that you just said?
+NEUT46|Don't panic.
+NEUT47|That's very hard to do.
+NEUT48|Remember, emotions are your enemy.
+NEUT49|As the market takes a tumble, you want to say I gotta get out.
+BEAR50|I don't want another 2008 2009, but that's why you get whipsawed and why individuals underperform the market.
+NEUT51|They get giddy when the markets going up.
+NEUT52|And they get out when the markets going down they get whipsawed stay in it, especially with your retirement money.
+NEUT53|Your other money.
+NEUT54|OK, you want to be a timer?
+NEUT55|Go ahead retirement money.
+NEUT56|Leave it alone.
+NEUT57|Yeah Steve Forbes.
+BULL58|Thank you so much.
+BULL59|"That's good advice you."""

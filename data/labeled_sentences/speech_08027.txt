@@ -1,0 +1,38 @@
+NEUT0|"""Hey fools, Brian Henman, here analyst with Motley Fool Pro in Motley Fool options."
+NEUT1|I'm here to take part in our ask a full series right now.
+NEUT2|Patrick is asking a question on Facebook.
+NEUT3|Patrick asks what is the easiest way to start investing with options?
+NEUT4|Some of the more advanced methods like that well, I'm happy to answer your question, Patrick.
+NEUT5|First of all, investing in stocks and investing in options.
+NEUT6|Are very similar.
+NEUT7|To make money investing in stocks, you buy a stock, right?
+BULL8|It increases in value.
+NEUT9|You make money.
+NEUT10|If you buy a call option and that underlying stock increases in price.
+BULL11|Your call option also increases in value.
+NEUT12|So less than one is that they're very similar.
+NEUT13|But there are some key differences between buying stocks and buying options.
+NEUT14|So let's walk through a few of those.
+NEUT15|First.
+NEUT16|Difference is that buying options is a heck of a lot cheaper than buying stocks.
+NEUT17|But why is that one option is just a contract reference to that underlying stock.
+NEUT18|It has it.
+NEUT19|Find life, it's just really a contract between two parties.
+NEUT20|But if you buy a stock, you're buying a piece of a business.
+NEUT21|You get to vote at the annual meeting.
+NEUT22|You get a small piece of the company's cash flows for the rest of its life.
+BEAR23|The second difference is that if you buy an option and your thesis doesn't work out for you, you could lose your entire investment.
+BEAR24|But if you buy a stock and it doesn't workout, chances are the stock just declines in value.
+NEUT25|You don't lose all the money you put in, so that's a pretty big difference.
+NEUT26|Let's look at a quick example.
+NEUT27|Say you wanted to buy either 100 shares of Apple stock, or buy one call option on Apple.
+NEUT28|Well, at $500 a share, buying 100 shares would cost you about $50,000.
+NEUT29|If you wanted to buy just one contract on Apple shares, it would cost you about $800.
+NEUT30|But remember, it's all about tradeoffs here.
+BEAR31|If Apple's stock doesn't increase in value over the next two years, you'll lose that entire $800.
+NEUT32|If, if you own the stock, however, and apples price doesn't increase in value, you'll still own the shares of very good business.
+NEUT33|So there are clear differences between buying stock and buying options, but they're also very similar.
+NEUT34|Great question, Patrick.
+NEUT35|Thank you for asking For more information like this, check us out on full com.
+NEUT36|People on the show may have interest in the stocks they talk about, and The Motley Fool may have formal recommendations for or against.
+NEUT37|"Don't buy or sell stocks based solely on what you hear."""

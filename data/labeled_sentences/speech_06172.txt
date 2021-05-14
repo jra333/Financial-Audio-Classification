@@ -1,0 +1,27 @@
+NEUT0|"""The intrinsic value of Charter Communications ranges between $0.15 per share and negative $15.09 per share."
+NEUT1|However, those values calculated paying $0.15 per share represents the company's cash for every share issued and outstanding.
+BEAR2|They have $0.15 in cash and cash equivalents pretty low.
+NEUT3|How about this value here?
+NEUT4|So as opposed to paying anything, the calculation is suggesting that in fact Charter Communications would have to pay us $15.09 per share in order to make the deal happen.
+NEUT5|Now the reason why this is happening is simply a function of the calculation itself.
+NEUT6|Remember that the calculation for high end for intrinsic value, according to Benjamin Graham and Securities Analysis is earnings times 20 divided by the outstanding shares.
+BEAR7|So the reason we're getting a negative value here is because the net profit.
+BEAR8|Over the last 10 years, the median net profit number that I use is negative, so it's negative $169 million.
+BULL9|Now, even though they've been in somewhat of a wonky uptrend, at least at the very least, their earnings have been positive in the last four years.
+BEAR10|The fact that they were negative in other years is, well, it's a red flag.
+NEUT11|So how much are they trading at now?
+NEUT12|Well, Charter Communications, AKA spectrum.
+NEUT13|Is trading at $593.68, which doesn't appear all that justified and take a look at the PE ratio down here.
+NEUT14|It's at 4698 which is huge.
+NEUT15|Benjamin Graham suggests anything above 20 is, well.
+NEUT16|You should look at for an alternative.
+NEUT17|An alternative investment vehicle.
+NEUT18|And that's what we'll do now, so we'll turn to an investment vehicle that offers a similar return to a stock common stock with similar risk while maintaining safety of principle and.
+NEUT19|And ample margin of safety so well, that fund is the Vanguard 500 index fund.
+NEUT20|So that's where we would place our money as opposed to Charter Communications.
+BULL21|And we would do that until they start posting some positive earnings.
+NEUT22|So they need at least a 10 year trend of positive and growing earnings, not this wonky stuff before we're willing to take a second glance and maybe start some deeper fundamental analysis so.
+NEUT23|Guys subscribe to my channel so you can continue to gain insight on how to analyze business performance.
+NEUT24|So that way your investment performance is optimized.
+NEUT25|Remember when your investment performance is optimized, so is your wealth production.
+NEUT26|"I've got a couple other videos on here guys so check it out and stick around for the next one."""

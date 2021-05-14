@@ -1,0 +1,28 @@
+BULL0|"""OK hey guys, welcome back to Top Dollar today."
+NEUT1|We're going to be discussing Avalanche.
+NEUT2|We're going to be looking at the chart, setting a price target and we're also going to be looking at why Vitalik believes that Avalanche has very interesting tech.
+BULL3|We see here that Vitalik has said that average has genuinely interesting tech and that it has similar levels of legitimacy to Bitcoin.
+NEUT4|So something which is amazing about Avalanche is that it's the first smart contract platform that confirms transactions in under one second diving into the chart we see here that the price is currently at 13.25 X.
+BULL5|Token has risen very significantly in price.
+NEUT6|For the past week, hooked up to two weeks ago, the price was at the 4.3 level and since then of Ox token has tripled in value.
+NEUT7|We're going to be discussing a price target a bit later on guys, but first, let's head to the fundamentals of rocks.
+NEUT8|Has a market cap of 1 billion at 24 hour trading volume of 166 million, circulating supply of 76.9 million and the maximum supply of 720,000,000.
+NEUT9|So over lunch is a smart contract protocol.
+NEUT10|Avalanche can perform many more transactions per second than other protocols like Ethereum or Bitcoin, and it can confirm these transactions.
+NEUT11|In less than 3 seconds it's also more secure than Bitcoin and aetherium, since it's resistant to 51% attacks, so the Avalanche architecture consists of a consensus engine, virtual machines, chains, and subnets over here, on staking rewards.com we see that currently 69.5% of our for lunch tokens are being steak and the adjusted reward per year is 2.8% and this value is adjusted for new limited tokens.
+NEUT12|So the other stroke and is the native token of the Avalanche platform and its main use is to secure the network through staking.
+NEUT13|And apart from this it can be used for transactions and to pay for fees to run smart contracts.
+NEUT14|We're going to be discussing our price target soon guys, but first let's head to the rest of the market.
+NEUT15|These are the top three gainers over the past 24 hours.
+BULL16|Neo is up 19.6%.
+BULL17|Ampleforth is up 16.8% and the graph is up 14.1%.
+BULL18|And the news we see that three big banks, Goldman, JP Morgan and City are looking to enter the crypto currency markets and looking at the rest of the market, we see that link has overtaken its previous all time high and it's currently sitting at 21 point.
+BULL19|5 unit seems to be doing very well as well, sitting at 9.11 and Bitcoin seems to be consolidating at the 35,800 level.
+BULL20|Getting back to the chart and our Fox price target, I could see the current price going to raise.
+NEUT21|The optimistic setting would be that we consolidated the 13.3 region and after that we drive to the 18 U.S. dollar level, after which we retraced to the $9 level.
+NEUT22|The other scenario would be that we retraced from the 13.2 level back to the $9 level.
+BULL23|However the current chart seems to be very hopeful for our folks and I think the first scenario is more likely to happen.
+NEUT24|I would say that within two weeks time efforts would have a price of 18 U.S. dollar or higher.
+NEUT25|Now with regards to our long term price target, if a vaccine which is a market cap of 30 billion during the peak of the outgoing cycle, which I see as very reasonable, then our price target would be 400 U.S. dollar at the peak of the old coin cycle.
+BULL26|OK guys, I hope you learn something new from this video.
+NEUT27|"If you did drop a like and if you want to learn more and stay up to date with the market, don't forget to subscribe."""

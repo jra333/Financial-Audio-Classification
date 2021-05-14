@@ -1,0 +1,12 @@
+NEUT0|"""Hi guys, the Coca Cola company abridged."
+NEUT1|Case solution and analysis.
+NEUT2|This isn't condensed version of the case scenario I MD 50741.
+NEUT3|In the year 2009, TCCC kept its market leadership of the worldwide sparkling soft drinks market in 2009.
+BEAR4|But continued to fight with a host of fragmented competitions across the other drink types, including energy drinks and bottled water.
+NEUT5|Some produced and bottling associates made their own company choices and distributed their own products of those of drink firms besides T CCC.
+NEUT6|TCCC relied on bottlers to take and distribute these in introducing new products.
+NEUT7|But what was the motivator for a bottler to consent to distribute these?
+NEUT8|In particular, if it had a rival brand?
+BULL9|In addition, it brought more powerful advertising support for still drinks like Dasani Water established in 1999.
+NEUT10|Thanks for watching this video.
+NEUT11|"Please like share and subscribe."""

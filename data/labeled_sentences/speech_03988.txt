@@ -1,0 +1,25 @@
+BEAR0|"""In a trade war between the US and China, nobody would win."
+NEUT1|Yet.
+BEAR2|Donald Trump has threatened to start one trade.
+NEUT3|Sanctions against China were a cornerstone of his presidential campaign.
+BEAR4|China is ripping us on trade.
+BEAR5|They're devaluing their currency and they're killing our companies.
+BEAR6|We have very unfair trade with China.
+BEAR7|Mr. Trump has threatened tariffs of 45% on all Chinese imports.
+BEAR8|Such a move would raise the price of pretty much everything on sale in Walmart.
+NEUT9|From sneakers to microwave ovens that would hit the pocketbooks of blue collar workers.
+NEUT10|The very people who voted for him.
+BEAR11|And there's not much evidence it would bring manufacturing jobs back to America.
+BEAR12|Their automation, rather than Chinese sweatshops, is now the biggest threat to factory workers.
+BEAR13|But Mr Trump's hard line advisers see trade as a weapon in a broader geopolitical contest.
+BULL14|They think that trading with China gives it the means to build an ever more powerful.
+NEUT15|Military machine, one of these advisors is the economist Peter Navarro, who's produced books and videos, warning of a trade threat from China, help defend America and protect your family.
+NEUT16|Don't buy made in China.
+BEAR17|The same advises urging Mr Trump to label China a currency manipulator for suppressing the value of the yuan to boost exports.
+BULL18|Even though Beijing is burning through its foreign exchange reserves to do exactly the opposite, prop up the yuan.
+NEUT19|On Monday, Mr Trump spoke by phone with President Xi Jinping.
+BULL20|His office said the two men had established a clear sense of mutual respect.
+BEAR21|Chinese state media cited Mr Xi's saying that cooperation is the sole correct choice if Mr Trump throws up trade barriers, China may well retaliate against U.S. companies in China like Boeing or Apple.
+NEUT22|One market research report estimates that US firms have invested at least 220.
+NEUT23|$8 billion in Chinese companies since 1990.
+BEAR24|"With stakes like these threats of a trade war would likely trigger panic in global financial markets and economic mayhem along the corridors of trade in East Asia."""

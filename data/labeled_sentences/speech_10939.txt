@@ -1,0 +1,32 @@
+NEUT0|"""Hey everybody here Tipranks, we just released a couple new features on our stock analysis tab and I want to share with you how to get there and use it."
+NEUT1|First thing you're going to want to do is go to the search bar on the home page and look up any stocks that you're interested in.
+NEUT2|Let's do neo.
+NEUT3|First, it will bring you to the stock forecast and price targets based on analysts ratings.
+NEUT4|But let's go to the stock analysis tab found on the top left and you'll first see the stocks smartscore.
+NEUT5|Does Smart Score is based off of eight different unique market factors that make up this score now in eight to 10 means that it's outperforming a four to 7 means that it's neutral in a one to three means that it's underperforming.
+NEUT6|Sort of these based off of you.
+NEUT7|Scroll down, you'll see all eight of these right here.
+BEAR8|Analysts ratings moderate by bloggers opinions.
+NEUT9|You see it's bullish and you see for Neo, it's 72% bullish in the sectors.
+NEUT10|Average is 70%.
+NEUT11|You see the hedge fund activity insider activity, what to bring.
+NEUT12|Investors are saying or doing about it.
+BULL13|New sentiment, 100% bullish in this case.
+NEUT14|Technicals and fundamentals.
+NEUT15|Now this is just nice, crucial information that you can get on a glance about any different stock now.
+NEUT16|What's new over here is if you Scroll down, we now added the company descriptions for all our stocks so you no longer have to go elsewhere to get this information.
+NEUT17|Why the night scroll a little bit further down and you'll see the stats and the chart for Neo from everything that you need to know from previous close and open to volume being traded.
+NEUT18|Average volume, market cap, beta PE ratio, EPS.
+NEUT19|The next earnings date, dividend yield and more.
+NEUT20|Now, what's interesting is we now added as well in advance chart.
+NEUT21|This is for anyone who wants to do a more advanced analysis.
+NEUT22|Anyone who wants to do a technical analysis, we now have all the tools needed to be able to do a more in depth chart analysis.
+NEUT23|Now if we go back where we also added over here, if you scroll further down is you'll see the revenue dates in history.
+NEUT24|You can toggle between revenues and earnings.
+NEUT25|You can see all the previous quarters.
+NEUT26|You can now see the PE ratio range and historical price to earnings ratios.
+NEUT27|And last but not least, we added all the relevant news so you no longer have to search the news elsewhere or go to a different page.
+NEUT28|You have everything in one place, so one stop shop for everything you need to know.
+NEUT29|About this talk.
+NEUT30|That's it.
+BULL31|"Hope you guys have a wonderful day."""

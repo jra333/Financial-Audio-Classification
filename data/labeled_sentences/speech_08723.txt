@@ -1,0 +1,8 @@
+NEUT0|"""Hey traders changer, Cancion president of alphashark.com, today's stock trade of the day is going to happen in a TUS and you can get in a little bit cheaper here."
+BULL1|But we saw unusual option activity October 18 calls so I think the stock heads higher here so the signal is to buy a Tus at 1860.
+NEUT2|Stop loss would be 1660 which would be all the way back here if those are my stop loss.
+NEUT3|So I always figure out my targets based on stop loss so I have two daughters stop loss target.
+NEUT4|One will be at 1960 and the target will be at 2060.
+NEUT5|I like ATS the long side.
+BULL6|I think the stock moves higher.
+NEUT7|"Between now and the next month, thanks will run it back tomorrow."""

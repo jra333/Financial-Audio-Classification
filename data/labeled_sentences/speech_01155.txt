@@ -1,0 +1,13 @@
+NEUT0|"""If the Industrial Revolution was like the world growing a muscular system and deploying physical capital was like sparking the systems motor skills, could the digital revolution as economist Brian Arthur has argued, be akin to the economic body developing a neurological or sensory system?"
+NEUT1|If it is the case, how can we be sure our human interests will be protected within this evolving neural net?
+NEUT2|How do we make sure that would be artificial?
+NEUT3|Intelligence doesn't work against us.
+NEUT4|Markets were once a place where people traded face to face first with actual goods in hand later, in exchange for promises on goods kept elsewhere today, the most important economic interactions occur in an abstracted digital marketplace.
+NEUT5|Instead of traders locking heads, its algorithms that barter on their behalf.
+NEUT6|For now, we trust these algorithms to operate in our interests because we're the ones that programmed them.
+NEUT7|But the more complex such computational programs get.
+NEUT8|And the more insatiable their appetite for data becomes, the more likely they will be to learn independently from their mistakes.
+NEUT9|Will that make them unpredictable?
+NEUT10|Or will algorithmic evolution take the course of human evolution to a point where they two discovered the benefits of coordination over competition?
+NEUT11|What is the nature of the second machine age, if and when it decides to improve on the sum of its parts, not just its individual components?
+NEUT12|"He rules the world when the algorithms rule themselves."""

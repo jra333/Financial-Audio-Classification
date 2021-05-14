@@ -1,0 +1,28 @@
+NEUT0|"""We all know that Mail in ballots are going to play a big role in the 2020 election."
+NEUT1|Voting by Mail is not perfect, but states have ways of ensuring that each voter gets a unique ballot and is able to track their ballot and make sure it arrives and is counted due to the sheer number of people opting to vote by Mail.
+NEUT2|This year, however, it's possible that it might take a few days, maybe even longer, after the November 3rd election to know who won the presidency.
+NEUT3|With regular old fashioned in person voting, you show up to your polling place on Election Day or early in states that allow it.
+NEUT4|You verify your registration and then you cast your vote.
+NEUT5|Disputes are rare.
+NEUT6|Ballots are usually ready to be counted and reported that same day.
+NEUT7|Now there are some differences between states on things like voter ID laws, paper ballots versus electronic voting machines, and the availability of polling places, but otherwise it's pretty straightforward, but differences in state law are going to play a huge role.
+NEUT8|And how long Mail in ballots take to be counted when a ballot is returned by Mail or through a drop box or elections office in counties that allow it, they first have to be validated.
+NEUT9|In many states, that's done through a signature match.
+NEUT10|Basically, an election official looks at the signature on the ballot and then cross references it with one that they have on file.
+NEUT11|This is a key part of actually making sure that cheating doesn't happen, and they also make sure that all of the required fields are filled incorrectly.
+NEUT12|In some states, if there is a dispute, the person who cast the ballot is supposed to be given a chance to fix the mistake.
+NEUT13|That process, which is known as curing, takes time.
+NEUT14|Luckily many states allow for that validation process to start prior to Election Day.
+NEUT15|12 states even allow for validation and tabulation to start as soon as ballots arrive.
+NEUT16|However, some states, including Michigan, Pennsylvania, and Wisconsin don't allow validation or tabulation to begin until Election Day.
+NEUT17|And that's where things get tricky, because those states may well end up deciding the election, and they have the most restrictive rules that could create the longest delays in counting Mail in votes.
+BEAR18|Election experts have warned for months of a nightmare scenario where because of these restrictive Mail ballot rules, Trump may have a lead in votes on election night.
+NEUT19|If most Republican voters cast ballots in person, while most Democratic voters cast ballots by Mail.
+NEUT20|If that happens, and polling suggests that it might.
+BEAR21|Trump could claim victory before Mail ballots have been fully counted and then accuse election officials of stealing the election.
+NEUT22|If Mail ballots give Joe Biden a lead.
+NEUT23|Now, there are efforts on the state level to change these laws.
+NEUT24|Ohio had similar rules to those other three States and in 2019 Ohio allowed clerks to start validating ballots early, but Republican controlled legislatures in Michigan, Wisconsin and Pennsylvania have yet to act on this issue, and time is running short even if neither candidate claims victory on the night of the election.
+BEAR25|A lengthy delay in reporting results could test this country's resolve.
+NEUT26|To stay united, the country's on edge already and the nation needs leadership that is steady, calm and unifying that starts with everyone of us being thoughtful, engaged citizens and includes fact based mature behavior from those seeking elected office.
+NEUT27|"We'll continue to do our part at Yahoo News to keep you informed in the days and weeks ahead."""

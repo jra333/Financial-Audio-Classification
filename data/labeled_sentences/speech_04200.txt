@@ -1,0 +1,11 @@
+NEUT0|"""The Forbes magazine has released its annual list of the world's richest persons."
+NEUT1|Amazon founder and CEO Jeff Bezos estimated to be worth $112 billion.
+NEUT2|Top for the first time and sitting Bill Gates with a fortune of $90 billion.
+NEUT3|Who came in second in the list released on Wednesday, Africa's richest man, Nigerian billionaire Aliko Dangote, whose fortune is estimated at $14.1 billion, rounded off the 100 most richest people in the world.
+NEUT4|He is followed by Nigerian oil and telecoms mogul Mike Adenuga, whose fortune is estimated at $5.3 billion.
+NEUT5|Another Nigerian distoma lady Folorunsho Alakija, is also on the list.
+NEUT6|Alocasia, who has various interests but mainly oil, also featured with a fortune estimated at $1.7 billion.
+BEAR7|Angola's Isabel dos Santos, who has stakes in telecommunications, oil and gas, and also banking, whose fortune is estimated at $2.6 billion, was not left out.
+BEAR8|She's the daughter of former Angolan President Jose, daughter Dossantos endless fired as chairperson of Angola State Oil Company by New President Joe Lorenzo on allegations of financial impropriety.
+NEUT9|Other Africans featuring on the list as Zimbabwean Telcom, state constrained massive ear with a fortune estimated at $1.39 billion.
+NEUT10|"And South African mining magnate Patrice Motsepe, whose fortune is estimated at $2.5 billion."""

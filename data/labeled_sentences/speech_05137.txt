@@ -1,0 +1,5 @@
+NEUT0|"""Someone called me and asked me was Netflix stocks more expensive than Disney stocks and the answer to that is yes."
+NEUT1|Disney stocks are trading at somewhere around $100 a share.
+NEUT2|An Netflix stocks are trading somewhere around $400 a share, but I guess that was in reference to one of my Last Post about if you invested $1000.10 years ago, how much that stock will be worth today if you invested $1000 in Disney 10 years ago?
+NEUT3|Your stock could be worth something about 2800 to $3000.
+NEUT4|"But if you invested $1000 in Netflix 10 years ago, it will be worth over 50,000."""

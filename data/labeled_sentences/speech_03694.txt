@@ -1,0 +1,27 @@
+NEUT0|"""Contrary to widespread belief, government spending does not stimulate the economy long term."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+BULL2|Will you get the insights you need to better navigate this turbulent world even though we don't have the final outcomes for a number of election contests, including the presidency itself, the White House and the Lame Duck Congress will soon be negotiating another stimulus bill.
+BULL3|This prospect has investors excited.
+BULL4|They think such a package will be great for the economy and stocks.
+NEUT5|They're wrong.
+NEUT6|The kind of bill being contemplated will have a lot of one time spending provisions, such as another round of checks for individuals.
+NEUT7|But these are one shots and they do not generate long term economic growth.
+NEUT8|It's important to understand the distinction between assistance in response to a disaster like COVID-19, and measures like reductions in tax rates.
+BULL9|That actually create conditions for vibrant and sustainable prosperity.
+NEUT10|The misnamed stimulus bills passed since the pandemic hit in March were crucial life lines, similar to relief efforts after a natural disaster, but on a vastly grander scale.
+NEUT11|Emergency outlays of a magnitude like that to fight a major war or absolutely necessary expect the new package to include new checks for most individuals.
+BULL12|More aid for small businesses.
+BULL13|Additional assistance for particular hard hit industries like the airlines and more money.
+NEUT14|Our local governments to help offset direct costs of the crisis and not bailout for mismanaging their finances.
+NEUT15|These are proper, but investors should understand that such a new measure, even if it is labeled a stimulus bill, will not spark long term growth.
+NEUT16|One of the great myths of modern times is that government spending Kindles the economy Democrats.
+NEUT17|Many Republicans and most economists subscribe to the idea that Uncle Sam cutting a check is like putting gasoline in an empty tank.
+NEUT18|But the government doesn't create resources it can take in resources and reallocate them, but it does not create them.
+BULL19|Government spending failed to pull us out of the Great Depression of the 1930s.
+BEAR20|President Obama's massive stimulus bill passed shortly after he took office failed to spark a sharp upturn.
+BEAR21|The recovery from the downturn of 2008, 2009, was one of the worst ever.
+BULL22|A good start for a real stimulus measure would be sweeping tax cuts, including a long holiday from payroll taxes, which will reduce the costs of businesses hiring and keeping people and enabling workers to keep more of their earnings.
+NEUT23|I'm Steve Forbes.
+NEUT24|Thank you for listening.
+NEUT25|Do send in your comments and suggestions.
+BULL26|"I look forward to seeing you soon again."""

@@ -1,0 +1,22 @@
+NEUT0|"""When it comes to investing, it can feel like all of the knowledge is locked behind a ball."
+NEUT1|Only insiders have access to what if we unlock that vault and open it up to everyone?
+NEUT2|Meet Qi?
+NEUT3|The company rewriting the rules for investing.
+NEUT4|Put it this way, AI in machine learning have been transforming.
+NEUT5|How top Wall Street hedge funds invest.
+NEUT6|Q AI is putting that same revolutionary technology into the hands of every single person.
+NEUT7|That's right, we're making it easier for everyone to get in on the action.
+NEUT8|This is how we're doing it.
+NEUT9|Start with the Advanced models investment pros currently used to predict market behavior at AI and machine learning to create smarter investment strategies and opportunities.
+NEUT10|Then feed it all with big data from around the world.
+NEUT11|The result, the same level of investing advice at the top hedge fund manager right at your fingertips.
+NEUT12|Qis advanced Technology doesn't just help you pick stocks.
+NEUT13|It builds and manages diverse thematic and multi asset portfolios to help your money turn into even more money.
+NEUT14|All you have to do is sit back and watch your portfolio grow as the app manages investments for you.
+NEUT15|Ever wondered whether or not you should invest in Bitcoin QA?
+NEUT16|Also answers many questions.
+NEUT17|Other platforms are unable to.
+NEUT18|This all changes the game for everyday investors.
+NEUT19|No more guestimate investing strategies or settling for mediocre growth are easy to use.
+NEUT20|Cutting edge tech puts real people in the driver seat by giving them all the info they need to invest.
+NEUT21|"Like the pros, that's investing reimagined."""

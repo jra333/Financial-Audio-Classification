@@ -1,0 +1,22 @@
+BULL0|"""Alright, Doctor, usual activity got 3 for me."
+NEUT1|I do Scott, I'll hit him quick, uh, the first one is Boeing 245 calls.
+NEUT2|The stock was roughly 242 this morning.
+NEUT3|They started buying the two Forties 245 two 50s that expire this week.
+NEUT4|I joined them.
+BULL5|These are the biggest numbers we've seen in Boeing in quite awhile.
+NEUT6|It's not retail buying its institutional with a time frame of this Friday Scott, so I'll probably be in these trades just two more days because obviously that's when they expire.
+NEUT7|Second trade.
+NEUT8|Take a look at Visa.
+NEUT9|The 2:15 calls out there in May.
+NEUT10|The stock was 2:10.
+NEUT11|This morning they're buying those two fifteens.
+NEUT12|We both know that stimulus checks is probably part of the story here.
+NEUT13|The other part is maybe people going back into restaurants and hopefully into bricks and mortar stores as well as online Scott.
+NEUT14|Lastly Applied Materials AM 80.
+NEUT15|They were buying the 1:25 calls.
+NEUT16|That's the at the money call in April.
+BEAR17|They were also buying calls all the way up to the 135 strike.
+NEUT18|A lot of volume in here it was eight to one calls to puts that I love to see that kind of volume, so I'll probably be in these calls right around three weeks.
+NEUT19|Got the weekly calls.
+NEUT20|Like I said, the Boeing's about two days and the others.
+NEUT21|"The make calls probably four to six weeks."""

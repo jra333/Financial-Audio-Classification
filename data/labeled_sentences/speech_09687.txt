@@ -1,0 +1,20 @@
+BULL0|"""Despite the current battle between Bitcoin bulls and bears around the $50,000 price mark and an 8.7% pullback over the past 24 hours, a raft of analysts and commentators have got out their crystal balls to tip a glittering future for Bitcoin prices on March 4th."
+BULL1|Senior commodity strategist for Bloomberg Intelligence, Mike Mcglone, pointed to historical data to suggest that Bitcoin is on the way to $100,000.
+BEAR2|Mcglone's logic revolves around the growing discount for shares in the Grayscale Bitcoin Trust, which is at the same level as last year's black Thursday collapse.
+NEUT3|The discount refers to when shares in the Grayscale Bitcoin trust trade for less than the value of the underlying Bitcoin.
+BEAR4|Normally they trade at a premium looking at historical data said that Twitter user Lee Hendrix wasn't convinced suggesting the catalyst for Grayscales discount could be the result of pressure from upcoming ETF's and other crypto funds.
+NEUT5|Although that's arguably bullish too.
+BULL6|The Bloomberg strategist isn't the only expert with high expectations for BTC with influencer and you tuber, Lark Davis stating on March 4th that we are just now passed the first major price wave with two more larger waves to come on March 2nd.
+BULL7|Technical analyst Coolio posted a chart predicting BTC will hit $100,000 near the start of April this year.
+NEUT8|It's a follow up on his Bitcoin halving reward era Price analysis chart two years ago predicting the price would reach 200.
+BULL9|Dollars around mid 2021 he tweeted two weeks ago that he still has faith in it.
+NEUT10|Another analyst who goes by the Twitter name Master Chang's told his 10,000 followers.
+BULL11|He believes Bitcoin will hit the $200,000 mark even earlier than mid 2021, potentially at the start of April the next rise, he said, is to $77,000 over the next two weeks.
+NEUT12|Other predictions are even bolder with crack and CEO Jesse Powell stating the crypto currency could reach $1,000,000 or even Infinity in a Bloomberg television interview on March 4th.
+NEUT13|Adding that it will eventually become the world's currency, we can only speculate.
+NEUT14|But when you measure it in terms of dollars, you have to think it's going to Infinity, he said.
+NEUT15|The true believers will tell you that it's going all the way to the moon to Mars and eventually will be the world's currency crack in head of Growth, Dan held echoed this prediction on March 5th, claiming on Twitter that even past Bitcoin skeptics are becoming crypto converts with investment firm Sanders Morris Harris, CEO George Ball, admitting to Yahoo Finance, and March 4th that he believes cryptocurrencies are now attractive as a small part of any portfolio with the crypto currencies.
+NEUT16|I think there is a fundamental Hydra headed shift that makes them attractive as a part.
+NEUT17|A small part of almost any portfolio ball said.
+BEAR18|Despite this wave of optimism, history also suggests March could be a bloody month with Bitcoins price falling across the month in six of the past nine years by an average of five point 8%, the most recent of these occurred last year on Black Thursday when the price plunged by 50%.
+BULL19|"That said, the second biggest monthly candle in BTC history happened in March 2013 when the price shot up 179%."""

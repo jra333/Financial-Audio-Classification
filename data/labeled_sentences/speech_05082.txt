@@ -1,0 +1,12 @@
+BULL0|"""Sarah, that's right."
+BEAR1|Now it's worth noting that Netflix shares are down fractionally today, but the stock is still up more than 36% so far this year.
+NEUT2|Rare stock in the green for the year now.
+BEAR3|Bank of America issuing a note maintaining its buy rating with new data showing that the rate of people dropping the service hit its lowest level in two years.
+BULL4|Bernstein with an outperform rating on the stock, saying that COVID-19 is a positive for Netflix is engagement, an subscriber, numbers and it sets it up for pricing increase potentially next year.
+NEUT5|Now with a look at just how popular Netflix's new Tiger King series is, there's a new Nielsen study out that reports that Tiger King reached 34 million viewers in its first 10 days.
+NEUT6|Guys back over to you, and we've got another episode coming out.
+NEUT7|Yeah, that's absolutely right.
+NEUT8|Watch phenomenal to see these these shows that just go viral, especially at a time like this when everyone is all at home.
+NEUT9|Just the per minute audience on this show is amazing.
+NEUT10|It has an average permanent audience of nearly 19 million people in that 10th day.
+NEUT11|"So people are watching it all around the world."""

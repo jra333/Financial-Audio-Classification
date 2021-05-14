@@ -1,0 +1,4 @@
+BEAR0|"""Everybody, what's up?"
+NEUT1|This is the Top Stock from yesterday.
+BULL2|The SEL stock and actually at its peak it went up about 87%.
+BULL3|"It's a penny stock and yeah, it was a great day for this stock."""

@@ -1,0 +1,43 @@
+BULL0|"""Hey guys, I've been busy looking for some good value stocks in this overheated market and I came across an interesting one."
+NEUT1|Kroger, a grocery store chain so in this video I'm going to talk about why I think Kroger is a great investment right now.
+NEUT2|If you're new to the channel my name is Dan.
+NEUT3|I'm a Business School professor focused on accounting and finance.
+NEUT4|The point of this channel is to help you guys build your wealth through saving and investing.
+NEUT5|So if you like to make more money, please hit that subscribe button.
+NEUT6|Alright, so let's jump right into it.
+NEUT7|Kroger looks like a great value play right now.
+NEUT8|They have a PE ratio of about 9.73 going forward.
+BULL9|That's an incredible value in any industry in the grocery industry.
+BULL10|That is a wonderful value.
+NEUT11|The sector median is 23.62.
+NEUT12|But it's not just a value play.
+NEUT13|Look at their growth metrics.
+BULL14|They've grown their revenue at 6% last year.
+BULL15|Their earnings grow.
+NEUT16|Look at their earnings per share forward.
+BULL17|Long term growth rate, they estimate to be 6.81%.
+BULL18|To top it off, Kroger pays a pretty nice dividend at close to 2% right now and they have a history of growing it.
+BULL19|As you can see from the chart here, they have 14 consecutive years of dividend growth.
+BULL20|At an average 10 year growth rate of 12.64%, Kroger's dividend also appears to be safe.
+NEUT21|I don't think they're going to have to cut it anytime soon.
+NEUT22|They're currently paying out about 23% of their profits as a dividend.
+BULL23|That's an amazing payout ratio, and it shows that the re investing quite a bit of a back in the business to feel their growth.
+BULL24|I should also mention they have a debt to assets ratio of about 80%, which is not bad for their industry.
+NEUT25|The other thing progress doing is giving back to the shareholders in the form of share buybacks.
+NEUT26|And actually, when you look at the annual dividend, they pay.
+BEAR27|It really pales in comparison to this share buybacks they've been doing lately.
+BULL28|Which shows you that as an investor, you're not only going to be getting that stream of dividends, you're going to be getting quite a few share buybacks as well, which is going to lead to stock price appreciation.
+BULL29|They've managed to do this all the while, reinvesting quite a bit back into the business which has helped fuel their growth.
+NEUT30|So I'm going to use a typical dividend discount model where we forecast the next five years assuming an abnormal growth rate, and then after that we assume some steady state perpetual growth rate.
+NEUT31|Now we already know Krogers next year's dividend they've declared it's going to be $0.72 a share.
+NEUT32|Next thing we need to do is get that growth rate the next five years.
+BULL33|I'm going to choose 12%, which is close to their previous 10 year growth rate of 12.64%.
+BULL34|It's also closed with a lot of analysts are forecasting for Kroger.
+NEUT35|Now for the discount rate, I'm going to choose 5% given the extremely low risk free rate being offered right now, and the low risk of a grocery store like Kroger, I'm in Low, Kroger has a beta of about .33, so this dog does not move much when the market moves up or down.
+NEUT36|So I think that's appropriate to use such a low discount rate in this situation.
+NEUT37|If I do that and I plug in all the values, I get a fair value of close, about $32 a share.
+NEUT38|Now it was Kroger currently trading at about $34 a share.
+NEUT39|It would seem that it's not such a great deal, but keep in mind the dividend discount model is like the absolute floor for the value of a stock, and when you look at the share buybacks they've been doing over the years, to me, it still seems like a bye.
+NEUT40|So I recommend buying Kroger at this point in time as part of a diversified.
+NEUT41|Portfolio anyhow, those are my thoughts, hope you guys like the video.
+NEUT42|"If you did hit that like button."""

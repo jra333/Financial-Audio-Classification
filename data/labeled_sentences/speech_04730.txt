@@ -1,0 +1,33 @@
+BULL0|"""This is the end of quite a remarkable week on Wall Street."
+NEUT1|Let me try to make sense of it.
+BEAR2|First of all, most important with action here in the bond market, you saw quite remarkable spikes downwards in yields twice, going below 2% on the 10 year.
+NEUT3|Even though that was possibly reversed, that really cannot be ignored.
+BEAR4|Something must be amiss if the bond market can behave like that.
+NEUT5|Next, take a look at the stock market.
+BEAR6|You can see that again, there was a big sell off in the S&P, particularly following that very dramatic downward spike in bond yields, but don't suggest the most important thing to point out is that that reaction is really remarkably muted by the end of the week.
+BEAR7|SNP was only down 1%.
+BEAR8|It was never a full 10% down from its peak, which is generally regarded as a correction given the remarkable goings on in the bond market that was.
+NEUT9|Really, quite remarkably calm.
+NEUT10|Finally, when it comes to oil, which in many ways triggered this.
+BEAR11|Oil prices are down again this week.
+BEAR12|Brent crude is down some 25% from its peak back in June.
+NEUT13|That is again quite a startling development now.
+NEUT14|What is likely going forward?
+NEUT15|First of all, plainly I think this should be regarded as a very important warning sign that something is coming up.
+BEAR16|We had volatility spikes like this ahead of credit crisis in 2007 and also ahead of the bursting ofthe.com bubble in the late 90s.
+NEUT17|Something like this.
+NEUT18|Happens for a reason.
+NEUT19|Secondly, the equity market has to be emphasized, has not meaningfully corrected.
+BULL20|There's been a remarkable absence of panic.
+BULL21|Selling has been a remarkable unanimity among strategists that it's time to buy on the dips.
+NEUT22|There is plenty of ways in which the stock market can carry on far after it should have done again, going back to 2007, subprime crisis broke very early that year.
+BULL23|The stock market went on to.
+NEUT24|Very big peak, only late that year in October.
+NEUT25|Finally, I'd like to suggest looking at this graph which compares the performance of the US stock market with other developed markets since the rally began in 2009.
+NEUT26|It shows are quite remarkable at performance by the US and I'd like to suggest we all think about what that really implies.
+NEUT27|It's just that the rest of the developed world is going to go completely into the doldrums.
+NEUT28|But the US is going to be fine.
+NEUT29|Is that really?
+NEUT30|Reasonable, and infer that if the US does pull through, isn't that really going to help the rest of the world more if the eurozone lapses into crisis, doesn't that really imply that the US is due quite a big full?
+NEUT31|I'd like to suggest that that dynamic where the US continues to outperform the rest of the world to a remarkable extent is something to keep an eye on.
+BEAR32|"And that's the note for quite awhile and very weak on Wall Street."""

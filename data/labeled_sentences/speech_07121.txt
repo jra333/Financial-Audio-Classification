@@ -1,0 +1,35 @@
+NEUT0|"""We have one last request here."
+NEUT1|Somebody wants to look at flow OK, so let's do that.
+NEUT2|Let's take a look at flow.
+NEUT3|Thank you.
+NEUT4|Learn whether Zell not sure.
+NEUT5|If I pronounce that right.
+NEUT6|OK, so Flo, let's take a look at flow here.
+NEUT7|OK, so we have the low frequency indicator.
+NEUT8|OK, so this is still bullish.
+NEUT9|What's going on over here and so still bullish on flow if you go to the high frequency.
+NEUT10|Strategy.
+NEUT11|So this is in the last six months.
+BEAR12|OK, so the high frequency one which does a lot more trading has turned bearish.
+NEUT13|So from both from 637 all the way until $25.00.
+NEUT14|So how should somebody interprets right?
+NEUT15|So as first mentioned?
+NEUT16|One thing to note, so because this doesn't have as much data, but this accuracy is 100%.
+NEUT17|But ideally you would want something that has been or has lots of price action for several years.
+NEUT18|That way you can see how it trades over a long term period because flow is a relatively new coin there too much price history and as mentioned this requires three months worth of price history.
+NEUT19|But looking at this.
+NEUT20|Treat this as a time to take profits if you're still bullish on this.
+NEUT21|Maybe don't sell everything, but if you're just trading this and you don't really care about the long term, story is probably a good time to take profits.
+NEUT22|An wait until it turns bullish because going back to the example here.
+NEUT23|Actually, I think it was.
+NEUT24|It was on.
+NEUT25|Right, so for example here, right?
+NEUT26|So with Ethereum, it was Bush turned bearish, meaning it took profits.
+NEUT27|Then it got Bush again, 'cause it looked like it was about a rally.
+NEUT28|Then in theory and corrected right, so sometimes it's not perfect, right?
+NEUT29|This is not the the replacement for everything however is a pretty good guide to help you become a better trader, an investor.
+NEUT30|So let us know what you think.
+BULL31|But this is a new feature coming soon coming this week to all our customer base.
+NEUT32|To key metrics is a cryptocurrency investment platform that helps users leverage machine learning to become better crypto investors.
+NEUT33|Our in-depth analysis helps eliminate the emotions of investing, find profitable investment opportunities, and filters out scams.
+NEUT34|"Learn more at tokenmetrics.com."""

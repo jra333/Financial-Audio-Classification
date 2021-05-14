@@ -1,0 +1,17 @@
+NEUT0|"""Hi everyone, I read an interesting article yesterday by The Motley Fool."
+NEUT1|In fact, if you haven't heard of them, check it out.
+NEUT2|It's a great resource for market information and business stories.
+NEUT3|One of the articles they posted was on how you can reposition your investments before an impending recession.
+BEAR4|So it seems that a recession may actually come into play since there have been concerns about weak manufacturing data, persistent war between the US.
+NEUT5|In China, of course the inverted yield curve.
+BULL6|So I thought it be interesting to share three investment strategies that could thrive during market downturn.
+NEUT7|Before I get into it, think it's important to note that patience, time and diligence are keys to succeed over the long run.
+NEUT8|And let's be honest, it's important to recognize that each and every correction in the stock market has been eventually raised by a bull market rally.
+NEUT9|So anyway, number one.
+NEUT10|The first consideration, The Motley Fool said for investors, is to buy businesses that provide a basic need, good or service that isn't impacted by the ups and downs of the US economy.
+NEUT11|They mentioned NextEra Energy might be worth a closer look as there's a healthy hedge during times of volatility, #2 is to consider low volatility, established brand name businesses.
+NEUT12|Now for many of my clients forgive me as you.
+NEUT13|Probably had me drunk on about these stocks, but it's so important to have exposure to business businesses that provide steady profits, pay a dividend, and offer low volatility as they can be especially profitable when the tide turns.
+NEUT14|I think the article mentioned that boring is beautiful, and it certainly would be the case in a recession.
+NEUT15|And finally, #3 Gold is a safe haven asset, which is why investors tend to have it as a store of value.
+NEUT16|"So the next time the stock market plunges, or if it does plunge, just keep in mind that there are alternatives that can allow investors to thrive."""

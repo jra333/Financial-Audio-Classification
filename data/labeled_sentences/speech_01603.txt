@@ -1,0 +1,34 @@
+NEUT0|"""Is Bitcoin the new gold?"
+NEUT1|Here's why.
+NEUT2|The answer is not yet.
+NEUT3|Hello, I'm Steve Forbes.
+NEUT4|This is what's ahead where you get the insights you need to better navigate this turbulent world.
+BULL5|Bitcoin has been on a tear this year, rising some 160% to a record level.
+NEUT6|One factor is that institutional investors are increasingly treating cryptocurrencies as an investment category, giving it a legitimacy they previously lacked.
+NEUT7|Also, adding Luster is the creation of central bank cryptocurrencies, most notably China's desire to have a digital yuan.
+NEUT8|Bitcoin has become the King of cryptocurrencies, overshadowing all others.
+NEUT9|Investors believe if you want to dip your toe in the cryptocurrency world, Bitcoin is the way to go.
+NEUT10|But the biggest booster of the Bitcoin boom is the fear that the Federal Reserve and other central banks are printing too much money.
+NEUT11|Bitcoin is seen by many as a hedge against inflation and governments misbehaving financially.
+BULL12|To them, Bitcoin is better than that age old inflation, hedge gold.
+BULL13|The price of the yellow metal has risen, but not nearly as much as Bitcoin.
+NEUT14|This notion is a mistake.
+NEUT15|What too many cryptocurrency enthusiasts missed is that for a variety of reasons, gold retains its intrinsic value better than anything else on earth, and it's done so for 4000 years.
+NEUT16|When you see the dollar price of gold fluctuate, what you're seeing is really the value of the dollar itself changing, not the value of gold.
+NEUT17|Gold is the constant that unique property is not true of Bitcoin.
+NEUT18|Yes, it supplies restricted at 21 million in 18 million have been mined electronically, but its value is been like a rollercoaster steak one day dog food, the next filet, the day after that.
+NEUT19|Money works best when it has a stable value, when it doesn't fluctuate as the dollar and other currencies do.
+NEUT20|Now we assume a foot has 12 inches an hour, 60 minutes.
+NEUT21|The physical volume of a gallon doesn't change each day it's fixed.
+NEUT22|Experience has repeatedly demonstrated for thousands of years that fixing a currency to gold is the best way to achieve monetary stability.
+BULL23|We did very well on the gold standard here in the US from the 1790s to the 1970s, achieving the highest rates of growth in human history.
+BEAR24|Our economy is not performed as well since we suffered the dollars linked to gold in the early 1970s.
+NEUT25|Bitcoin remains too volatile to be a long term store of value, like gold is traditionally done.
+BEAR26|Bitcoin's arbitrary supply limit will severely hinder its future usefulness.
+BULL27|By contrast, the supply of gold on average, increases about 2% a year.
+NEUT28|That keeps it rare, but not too rare.
+NEUT29|As Bitcoin evolves, it may well become the new gold, but that day is not yet here.
+NEUT30|For now, gold is the best insurance against inflation.
+NEUT31|I'm Steve Forbes.
+NEUT32|Thank you for listening.
+BULL33|"Do send in your comments and suggestions and I look forward to being with you soon again."""

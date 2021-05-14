@@ -1,0 +1,10 @@
+NEUT0|"""We want to tell you about Uber considering an IPO as early as the first half of 2019."
+NEUT1|That's according to Wall Street Journal report they've been talking about an IPO in 2019 for quite some time, but here's the news.
+BULL2|The company has now received proposals from Morgan Stanley and Goldman Sachs.
+BULL3|In an effort to get to be to work on that advise on that IPO, valuing it up to $120 billion.
+BULL4|That's nearly double ubers valuation after its latest fund raising rain rate.
+NEUT5|Just last two months ago.
+NEUT6|So this is a company, as you know, that still has not turned a profit with a valuation of $120 billion.
+NEUT7|If in fact, Goldman Sachs and Morgan Stanley are correct, of course.
+NEUT8|Historically, when you go to a company and propose that you're going to work on an IPO, you want to offer them, or at least suggest that you can get them the highest price we will see.
+NEUT9|"Whether that is fact can come true."""

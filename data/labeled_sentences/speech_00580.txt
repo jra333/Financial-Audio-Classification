@@ -1,0 +1,26 @@
+NEUT0|"""What is that last candle?"
+NEUT1|Yeah, that word maybe and possibly.
+BEAR2|Good good so you guys can see that there is some sort of rejection coming into the uptrend, but it didn't turn it around.
+NEUT3|Now, how does this candle look on a lower time frame?
+NEUT4|Just just imagine that if this was a daily chart and then I split this up into like a four hour chart.
+NEUT5|What does it look like?
+NEUT6|The opening price was where?
+NEUT7|Here, so here's the candle going upwards.
+NEUT8|OK then the candle goes up again.
+NEUT9|That high then the candle goes up again.
+NEUT10|Maybe like that gets rejected at this height?
+NEUT11|Then the candle comes down.
+NEUT12|And red, sorry I should make this in red.
+NEUT13|OK, and then he comes down again.
+BEAR14|Oh, sorry, that's too much.
+NEUT15|OK, and then you come down a little bit more and that's where he stops.
+NEUT16|Isn't that what it looks like?
+NEUT17|Here is the opening price.
+NEUT18|Here's the closing price, so this is the opening how it looks on a lower time frame.
+NEUT19|And here's the closing part.
+NEUT20|How it looks on a lower timeframe.
+NEUT21|Notice how it's not.
+NEUT22|It's not disrespecting something like an SNR or anything.
+NEUT23|It's just like this.
+NEUT24|It looks like that.
+NEUT25|"OK."""

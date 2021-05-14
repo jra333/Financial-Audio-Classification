@@ -1,0 +1,37 @@
+NEUT0|"""We're going to analyze Amazon as an investment, and we're going to do it all in 90 seconds."
+NEUT1|You want to keep up stocks, but you don't have time to read a lengthy report on every company that interests.
+NEUT2|You you're busy I get it.
+NEUT3|I respect that so I took the most important considerations from my research and packed it into 90 seconds uses to decide if it's worth your time to research further to keep up with stocks.
+NEUT4|You already own or to just check in on some of the largest companies in the world fair warning.
+NEUT5|I'm obviously going to go fast.
+NEUT6|Let's pull up a Clock and let's do this.
+BULL7|Amazon is the largest online retailer in the world that also currently has a market share in global cloud infrastructure.
+NEUT8|As of this taping this market capitalization is almost 780 billion dollars with.
+NEUT9|Expert rating over $1600 its own or not to own?
+NEUT10|That is the question here.
+NEUT11|A few reasons you may want to consider owning Amazon is growing like crazy.
+BULL12|Its five year average earnings growth is almost 40% per year.
+BULL13|Last year's growth was over 50% and you can compare that to the online retail industry average of less than 30%.
+BULL14|It's expected to grow by another 40% this year.
+NEUT15|It seems like there's nothing basels can't do from books online in the 90s all the way to launching rockets today.
+NEUT16|He clearly has a way of making these visions into reality, which makes it exciting to see how far that can take Amazon.
+NEUT17|But there are also a lot of analytical reasons to not own Amazon.
+NEUT18|They don't pay a dividend.
+BEAR19|Amazons ROA and ROI or lower than the industry average when you look at valuation metrics.
+BEAR20|Looks terrible, PE of 196 versus the industry is 40 in the markets 18 and as a PB of 25 versus the industries 4 in the markets too.
+NEUT21|In fact, this kind of cash flow model based on their projected future earnings would suggest the stock is more than 100% overvalued, but that's the thing about Amazon Bezos don't care.
+NEUT22|The focus has always been more in future growth and making shareholders happy.
+NEUT23|Today.
+BULL24|It's only relatively recently they began posting consistently positive earnings for the longest time.
+BEAR25|They were negative and all over the place.
+BEAR26|Even if you're confident than Amazon's future growth justifies its current multiples, investors should not be surprised by dramatic decline in share value.
+NEUT27|Way more than the industry.
+NEUT28|Should we enter a bear market?
+NEUT29|So what do you say?
+NEUT30|Bye or no?
+BULL31|Do you think Amazon deserves a valuation five times larger than its industry?
+NEUT32|Can it keep up this crazy growth?
+NEUT33|I look forward to continuing this discussion in the comments, and if you found this video helpful and would like to see more, don't forget to let me know by hitting that like button.
+BULL34|Definitely subscribe and click the Bell so that you can keep up with all the companies we cover as we continue to help you build your rapidly growing, highly diversified net worth.
+NEUT35|I'll see in the next one.
+NEUT36|"Take care."""

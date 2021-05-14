@@ -1,0 +1,18 @@
+NEUT0|"""In these times of global uncertainty and financial turmoil, how can you trust a currency that can be destroyed so easily?"
+NEUT1|Well now there's full coin.
+NEUT2|Full coin is better, full coin is different.
+NEUT3|Not only is full coring, a virtual currency which can't be destroyed for a limited time only, we're offering it to you as an actual commemorative coin, meticulously minted, richly layered, in dazzling, 100% pure gold.
+NEUT4|Looking foil this limited edition.
+NEUT5|Cool coin pays tribute to the historic release of the virtual full coin a day that will live on forever in our hearts and wallets, and it can be yours, but only if you act now during tough economic times.
+NEUT6|Bull Coin is the time tested currency that only goes up in value.
+NEUT7|Bull coin makes transactions profitable.
+BULL8|Watch as we enter a fine establishment and successfully exchange full coin for goods and services.
+BULL9|Total excellence and I would like to pay for this fantastic, good and service using full coin.
+BULL10|I am proud to say we are extremely happy to accept full coin in addition of major credit cards.
+NEUT11|Cash and check isn't it lovely and rich.
+NEUT12|It's covered in 100% gold plated oil.
+BULL13|It's lovely and I can see that you are a discerning customer of great refinement and taste.
+NEUT14|I don't think my store is good enough for you.
+NEUT15|You are too cool to shop at this store.
+NEUT16|Supplies are limited and you must act now to take advantage of this offer email.
+NEUT17|"Full coin at fool.com and tell us why you can be trusted with full coin."""

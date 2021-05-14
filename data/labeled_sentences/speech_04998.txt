@@ -1,0 +1,22 @@
+BEAR0|"""If you invested $1000 into Neo during the ICO in October 2016 and sold near the peak in January 2018, you would have walked away with more than $1.1 million in profit."
+NEUT1|NEO was established in 2014 by DA Whole Fay, who is also founder of on Chain, a blockchain research company backed by Chinese conglomerate Phocine.
+BULL2|Since then, under his leadership, Neo has gone on to become China's biggest success story in the crypto space.
+BULL3|Even in the record breaking Bull market, Neo's performance still stood out above the rest.
+BULL4|Can it continue this momentum or will it drown in the highly competitive smart contract space?
+NEUT5|There is a misconception that Neo has some form of endorsement from the Chinese government.
+NEUT6|While there is an open channel of communication between management and regulators, it is unlikely the Chinese government will ever get behind any single project or company.
+BULL7|That said, the government is supportive of blockchain technologies, but that doesn't rule out the possibility of tightening regulation for onshore speculative trading activity.
+BEAR8|Critics of Neo often raised the issue of over centralization with a relatively low number of nodes in the system, which is pretty alarming for a multi billion dollar blockchain project.
+NEUT9|Specifically, the Neo blockchain disappeared briefly in October 2017, for a few hours, so the general security and stability of the project is not a certainty.
+BEAR10|This supposed weakness in the overall structure of the Neo model could mean that it's more at risk from hacks and system failures.
+BEAR11|The next concern is Neo's patchy history of Ico's with a series of project launches on the network that have had technical issues or have been the victim of malicious attacks.
+NEUT12|Examples of unsuccessful Neo Ico's are red Pulse Trinity network credit.
+NEUT13|The key and bridge protocol.
+BULL14|The promise of a healthy and flourishing ecosystem of decentralized applications on Neo may not materialize as quickly as many have envisioned.
+BULL15|Being in the fiercely contested smart contract space, Neo is head to head with some of the most high profile projects in all of the crypto world such as Ethereum, Cardano, EOS, stellar Kutum, Lisk Icon and many more.
+NEUT16|There is always the risk that as time goes on, some new project enters the market with more advanced technology that Neo cannot compete with.
+BEAR17|This could potentially have devastating effects on the Neo price if investors migrate to newer projects.
+NEUT18|If Neo can be to the Chinese blockchain world, what Alibaba was to e-commerce, the potential upside is unlimited.
+NEUT19|That being said, it's easy for the market to overlook the potential pitfalls operating in an extremely competitive space.
+BEAR20|A continuation of for ICO performance and being at the mercy of a cautious Chinese government could all hinder Neos future price growth.
+NEUT21|"For more news and analysis, visit blockchain daily.com."""

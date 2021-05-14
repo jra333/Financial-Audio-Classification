@@ -1,0 +1,11 @@
+NEUT0|"""Transcribing audio can be complex, time-consuming, and expensive."
+BEAR1|You either need to hire someone to do it, manually, implement applications that are difficult to maintain, or use hard to integrate services that yield poor results.
+BULL2|Amazon transcribe takes a huge leap forward using deep learning technology to quickly and accurately convert live or recorded speech into text at a fraction of the cost.
+NEUT3|It's easy to use and requires no machine learning experience, and as a fully managed service, it's constantly improving to provide you with cutting edge speech recognition models, you can transcribe customer calls to discover insights and offer agent coaching or use it for media content to add subtitles to videos.
+NEUT4|And generate metadata to search your content and you can use transcribe medical for clinical documentation, helping health care providers work more effectively.
+NEUT5|It provides easy to read and review transcripts with robust features such as timestamps, punctuation, speaker labeling and automatic language identification.
+NEUT6|You can also add custom vocabulary or create custom language models to recognize phrases and words unique to your business.
+NEUT7|Transcribe offers user privacy by redacting personally identifiable information and ensures data security by implementing enterprise grade technical and physical controls to prevent unauthorized access to your content efficiently.
+NEUT8|Transcribes spoken data.
+NEUT9|Better analyze audio content and lower your costs with Amazon transcribe.
+NEUT10|"Get started today."""

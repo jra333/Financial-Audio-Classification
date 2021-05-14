@@ -1,0 +1,8 @@
+NEUT0|"""Sarah Amazon has added retired four Star General Keith Alexander to its board of directors."
+NEUT1|General Alexander also served as director of the NSA from 2005 to 2014.
+NEUT2|He currently serves as Co CEO of Iron Net that is a cyber security tech company that he founded in 2014.
+NEUT3|Now this is an interesting move guys.
+NEUT4|Adding someone to the Amazon board with close ties to the government.
+BEAR5|It comes in the wake of losing that important and lucrative Jedi cloud contract to Microsoft Account Track.
+BEAR6|That Amazon vows to continue to protest and called in a blog post, quote a politically corrupt contract award.
+NEUT7|"General Alexander is the 11th board member for Amazon and he will receive Amazon RSU's for serving as a director back over to you guys."""

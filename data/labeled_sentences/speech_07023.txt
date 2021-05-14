@@ -1,0 +1,5 @@
+BEAR0|"""Stocks took a drubbing on Thursday and that a lot had to do with investors selling off shares of some of the highest flying stocks that have really powered this rally from the lows of March."
+BEAR1|So in a lot of ways, investors had been expecting a correction in some of these prices for some time, which doesn't suggest any trouble, just that investors might be taking a little bit of money off the table.
+NEUT2|If we see that continue to go forward, that's going to suggest that investors are just moving money around and putting money on other potential winners.
+BULL3|They have the ability to potentially deliver good profits and perform.
+NEUT4|"During these challenging economic times."""

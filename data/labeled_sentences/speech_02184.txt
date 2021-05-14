@@ -1,0 +1,55 @@
+BEAR0|"""Dramatic declines halted stock trading on Wall Street yesterday for the second time this week, the Dow closed down 10%."
+BEAR1|That is the worst day on Wall Street since 1987 and over the past three weeks, the Dow went from a record high to a downward bear market in just 19 days.
+BEAR2|That is the fastest slide since 1931.
+NEUT3|Greg IP is chief economics commentator at the Wall Street Journal and he joins us now.
+NEUT4|Great good morning, certainly a lot of economics to comment on the matter is you.
+BEAR5|Are we in recession territory?
+NEUT6|It is very likely yes.
+BEAR7|I mean, the shutdowns and activity that you're seeing all across the economy are going to create a big hole in the economy in the month of March, possibly April.
+BEAR8|So economists now think that is probably a 50% probability we're going into recession, but given how fast things are moving, I think likely we will have a recession.
+NEUT9|I think the main question right now is how severe is it and how long does it last?
+NEUT10|And those are things that we're really not certain about, and they will depend a lot on how effective the government response will be.
+NEUT11|Is there anything more that the Federal Reserve can do at this point?
+BEAR12|The Federal Reserve has done all it can do, but frankly, interest rates are already quite.
+BEAR13|Lowe's Ramos at Zero and low interest rates really can't help combat the virus or encourage frightened people like to go to the theater.
+NEUT14|Most of the effort here has to come from other parts of government, mostly Congress in the White House.
+BEAR15|In terms of providing aid to those who are directly affected by the crisis and putting more cash into the hands of people who are still prepared to spend, the markets were clearly not calmed by the president's speech the other day.
+NEUT16|What do they want to hear from the White House?
+NEUT17|Well, I think that one of the.
+BEAR18|Issues we've been dealing with all along is that the policy response, including from the president and from other folks overseas, is often confused, and it's been misleading information.
+NEUT19|That's understandable because nobody really knows how far the epidemic is going to be, but I want to think markets really want to hear is.
+NEUT20|First of all, a coherent and coordinated strategy, rather than political bickering.
+NEUT21|They want to hear that the things that we know need to be done, like more sick pay, like enhanced unemployment insurance, are going to happen, and they would like to see, like the real firepower of this government really come to bear on it.
+NEUT22|Even though the Federal Reserve doesn't have much ammunition, this country can borrow a lot of money and do a lot of stimulus.
+NEUT23|Interest rates are below 1%.
+NEUT24|This is the kind of time the federal government needs to use.
+BULL25|Those low borrowing costs for the help of the economy.
+NEUT26|Well, let's talk about some of the firepower that Congress has.
+NEUT27|The president has called on Congress to pass a payroll holiday payroll tax holiday.
+NEUT28|What would that be and what effect it might have?
+NEUT29|So individuals and employees together contribute about 10 to 15% of their income as payroll tax.
+BULL30|So that could be lowered, and that would increase.
+NEUT31|Take home pay.
+NEUT32|There's a couple of problems with that.
+BEAR33|If you're unemployed, you're not going to benefit because you're not paying any payroll tax.
+NEUT34|I think the other problem is that it's sort of like is doled out over a full year as you get each paycheck.
+NEUT35|But we know that hit the economy is coming now, so there's a case to be made that the priority should be getting cash into people's hands now, and we know how to do that.
+NEUT36|President Bush did that in 2008 very quickly, and there are proposals out there right now that Congress could very quickly.
+NEUT37|For example, just say, let's send $1000 to every adult out there.
+NEUT38|Here's a here's a silver lining.
+NEUT39|Though the Treasury Secretary announced that he's going to extend.
+NEUT40|The tax deadline.
+NEUT41|So folks individual taxpayers, including small businesses.
+NEUT42|Hey, they get some more time.
+BEAR43|Does that help when they need it does help because one of the things that's happening right now is many businesses, especially small businesses, that are going through a cash flow crunch.
+BEAR44|Suddenly sales are not coming in the door right, but they still have payroll to meet.
+NEUT45|They still have taxes to pay.
+NEUT46|They still have suppliers, right?
+NEUT47|This is the time when banks and the IRS need to sort of like make accommodations and see if there are ways to help them get through this.
+BEAR48|Because we know as bad as things are right now.
+NEUT49|It's not going to last forever.
+NEUT50|You mentioned a moment ago, sending $1000 to every American the government could do that.
+NEUT51|It could sure house.
+NEUT52|As I said, the government did something very similar in 2008, alright?
+NEUT53|Standing by.
+BULL54|"Well thank you Greg Greg, thank you."""

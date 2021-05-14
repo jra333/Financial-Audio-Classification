@@ -1,0 +1,21 @@
+BEAR0|"""It's been a rollercoaster of a week for China's equity market after a volatile five days during which half of all this had companies on China's market were suspended, massive support from Beijing's help, the market record its best two day gain in seven years."
+BEAR1|So how long can the rebound last with more than 1400 stocks, roughly half of all listed companies still suspended from trading.
+BEAR2|The market remains very much a hostage to aggressive state support measures.
+BEAR3|In effect, China share market is turned into a zombie where prices can only rise as selling has largely been curtailed.
+BEAR4|In the short term, China may hold the market up, but as trading suspensions ease, there is a very strong chance that prices will resume falling given huge losses inflicted on investors.
+BEAR5|Debt fueled parties, particularly those built on the kind of opaque financial system in China, have historically ended badly with a pronounced hangover.
+BEAR6|At some point, the animal spirits of investors will overwhelm Beijing's best efforts.
+NEUT7|So what other measures can China implement that could offset market turmoil?
+BULL8|Well, China has been cutting borrowing rates and pumping up credit.
+NEUT9|Now these are actions that actually helped fuel the bull market over the past year, but we can expect more of that approach.
+BEAR10|Warningly the ban on large shareholders being able to sell their positions does cast doubt on China's efforts to open up markets to foreign investors.
+BEAR11|So basically facing a slowing economy and the likelihood of less offshore financing means China will have to maintain very easy monetary conditions for quite some time.
+NEUT12|And that's why some of them are calling for a dramatic rate cut.
+BULL13|Saying the order of 1% in order to bolster the economy.
+NEUT14|Now when do we really start to worry about China?
+BEAR15|The slide in share prices has shocked many investors who believed the stock market bubble of the past year was officially sanctioned.
+BEAR16|Facing a credibility challenge and the possibility that a financial crisis is brewing from its debt riddled system and could also weaken the economy.
+NEUT17|Further means China could decide to allow to let its currency float freely.
+BEAR18|That move, which will see the currency fall in value would bolster trade, but it would send a signal that China's economy and markets are in serious trouble.
+BEAR19|It would also spark a major escalation in the currency wars.
+BEAR20|"Royal commodity prices and export deflation this week Beijing sterd global markets, but that may just be the start."""

@@ -1,0 +1,52 @@
+BEAR0|"""Big day for stocks to close out the quarter where the S&P 500 hitting a fresh intraday high it closed just shy of that level."
+BULL1|The Dow closing in the red but still finishing key one in the green energy was the best sector, Q1 putting its best quarter ever up more than 29% while consumer staples lagged as the worst sector up just more than a percent.
+NEUT2|With Q1 coming to a close, it is time for CNBC quarterly report and we have asked some of the brightest minds on walls where they think the market is heading for this year.
+NEUT3|So of course we at fast money thought to be a perfect time to play a little game.
+NEUT4|We love games to see how our traders answers line up with the survey.
+NEUT5|They've got their whiteboards ready with dark markers, so let's dive into our first question.
+NEUT6|What is the most crowded trade in this market?
+NEUT7|Write your answers on your boards with your dark markers.
+NEUT8|There you go.
+BULL9|Good job guys.
+NEUT10|Alright.
+NEUT11|Some people are writing very long answers.
+NEUT12|Time is up, time is up.
+NEUT13|Let's see your answers.
+NEUT14|Hold up your boards Karen, put your pencils down, hold up your boards.
+BEAR15|Most crowded trade OK. Reopening short U.S. dollar fed Dan still writing.
+NEUT16|It's gotta be a short bonds.
+NEUT17|OK, it doesn't line up at all with what our survey said.
+NEUT18|According to our survey, 41% of voters, which is the majority here, say Bitcoin Bitcoin was the most crowded trade, followed by Big Tech Cyclicals and small caps.
+NEUT19|Alright, wipe your boards down please clear your boards.
+NEUT20|We're going to get to the next question over the next 12 months.
+NEUT21|This is a would you rather so they borrowed this from us?
+NEUT22|Would you rather buy?
+NEUT23|JP Morgan, Goldman Sachs, PayPal or square.
+NEUT24|Four choices JP Morgan, Goldman Sachs, PayPal or square.
+NEUT25|So right, right right people.
+NEUT26|I mean, how long is this going to take?
+NEUT27|It's like 4 letters at the most OK. Alright, times up times up.
+NEUT28|Markers down, hold up your whiteboards.
+NEUT29|2-3 JP Morgan's very interesting guy is the only one with Square.
+NEUT30|According to our survey, 48% say JP Morgan, so you nailed it.
+NEUT31|You know that guys 0% of square guy?
+NEUT32|You're alone out there.
+NEUT33|All right job guy.
+NEUT34|Generally speaking, that's right.
+NEUT35|You're allowed to board clear boards.
+NEUT36|Let's move on to a reopening play.
+NEUT37|OK, here's the question.
+NEUT38|Over the next 12 months, would you rather buy?
+NEUT39|Hilton Airbnb or Live Nation felt an air BNB or Live Nation.
+NEUT40|OK right, right right.
+NEUT41|OK.
+NEUT42|Hold up your boards.
+NEUT43|Please hold up your boards.
+BULL44|An we have well, obviously.
+NEUT45|Karen Karen says Live Nation live date.
+NEUT46|OK, so two live nations here.
+NEUT47|50% of our panelists survey says Hilton Hilton Head half the votes only Tim here said Hilton only 19% said Live Nation.
+NEUT48|Good job guys with your whiteboards and writing and all that.
+BULL49|Good job.
+NEUT50|Shepard Smith here.
+NEUT51|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,22 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's February 6, 2018.
+NEUT2|I'm Christina, Bethany, do investment analyst at exam.com and today we're going to look at the Australian dollar versus they use dollar on the daily chart.
+BULL3|So the dollar is looking fairly bearish.
+BEAR4|It fell sharply after it touched them more than it.
+BEAR5|We're high of Zero Point 8135 in the middle of the end of January and is currently extending losses for the second week in the short term, the risk is to the downside.
+BEAR6|Prices have broken below the 20 day moving average.
+BEAR7|Their side down here is located below 50 for the first time since mid December awhile.
+BEAR8|If we look at ichimoku indicators the red tent consent line is increasing negative momentum.
+BULL9|Nissan truck to meet the blue kinda send line.
+BULL10|Now looking forward support levels at the 50% fibo Nachi of the applicant from 0.75 two zero point 8135 could be met first.
+NEUT11|This is at Zero point 7817 and pretty close to the 50 day moving average of Zero point 7797.
+NEUT12|Then if prices bridge the 50 day moving average, the next target could come from the 61.8% Fibo Nachi at 0.77.
+BULL13|45 This is this seems to be a stronger support because the 200 day moving average is also located in this area and this level was also was well, actually it used to provide resistance in the past.
+NEUT14|Below from here the next target could come from Zero point 676 thirty two non case prices move up.
+BEAR15|The market could retest the 38.2% Fibonacci of Zero Point 7890 but from here the next Fibonacci at Zero Point 7985 could be a challenge to breakthrough given that the 20 day moving average and the tank at centerline.
+BEAR16|I also placed around this level, therefore any break above this area would extend bullish actions towards the previous top at Zero point 8135.
+BULL17|Now turning to the medium term picture, the outlook remains positive as long as prices remain above the 50 day moving average, which has recently crossed above the 200 day moving average, giving further positive signals.
+BEAR18|Maggie has also slowed down below signal line but still above.
+NEUT19|Zero, so that's all for me.
+NEUT20|Thank you for watching.
+BULL21|"I have a great day."""

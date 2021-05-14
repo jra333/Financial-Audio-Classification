@@ -1,0 +1,14 @@
+BULL0|"""The closer we've got to a Trump victory through the New York Night an the Asian Day."
+NEUT1|Of course, the more markets have reacted, his three we're watching.
+NEUT2|The peso has long been the punching bag.
+BEAR3|Every time the market fears a Trump victory throughout this campaign because of the uncertainty that this might bring, the prospect of victory today produced a record low pushing the peso beyond 20 to the dollar for the first time ever.
+BEAR4|But remember that it isn't heavily traded currency in Asia, so thin liquidity will probably have exacerbated the size of the move.
+BEAR5|Futures are indicating a 4.9% opening drop for the S&P 500 when New York gets going again.
+BULL6|That's more than many traders expected.
+BULL7|Even from a Trump win, and if we stay at these levels, will send a clear signal about the general direction of markets to Europe as traders there wake up.
+NEUT8|If Asia has affair gauge like U.S. markets have the VIX index than Dollar Yen.
+BEAR9|Is it the dollar fell for yen during the Tokyo morning all the way from just over 105 yen to 101 as a one month low and a huge move for any days action.
+BEAR10|But again trade as a warning that volumes are not particularly heavy and that spreads or the gaps between bids and offers are still wider than usual.
+NEUT11|So these are markets clearly scrambling to take risk off.
+NEUT12|But they're also waiting and watching to see how London and New York react.
+BULL13|"To this ever more likely Trump win."""

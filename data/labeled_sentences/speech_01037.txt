@@ -1,0 +1,31 @@
+BULL0|"""I have always felt that you are in 1 great business."
+NEUT1|Not a lot of competitors completely necessary.
+NEUT2|You have a tower you can keep adding other antennae right to it.
+NEUT3|Is it as good as I think?
+NEUT4|It's a great business.
+BULL5|One of the best business models I've ever seen, Wian.
+BULL6|We're so well positioned for where the world is going.
+NEUT7|You think about what happened over the last century.
+NEUT8|You had interstates and railroads that drove economic growth across the country.
+NEUT9|And now here we sit at the start of the 21st century and the deployment of 5G and our assets towers.
+BULL10|Vibrant small cells really provide the infrastructure that's going to enable that growth to come.
+NEUT11|All right.
+BEAR12|So a lot of people tell me you can't own Crown Castle right now because you've got T-Mobile merging with Sprint and they'll decommission the towers.
+NEUT13|There won't be any business for Crown Castle.
+BULL14|Well, Jim, we're super excited about what we're going to be able to do for T-Mobile there.
+BULL15|They're on the cusp of building out a 5G network here in the US, along with Verizon and AT&T.
+NEUT16|All three of those carriers have publicly talked about the significant investment that they're going to mean they're going to need in order to make 5G happen, and what that means for our business is as they invest in their network.
+NEUT17|They leased assets are assets from US and that drives our revenue and then our margins and obviously the returns on the capital that we invest now.
+NEUT18|David Faber, I often discuss.
+NEUT19|In the morning, what's dish really going to do?
+BULL20|They have committed to a big bill now writing this worthwhile.
+NEUT21|Given the spectrum they have.
+BULL22|Yeah, they have committed to a large nationwide build out, and that's going to be great for both of our assets.
+NEUT23|Both towers and and fiber.
+NEUT24|And we look look to see big things from them.
+NEUT25|Starting in 2021.
+BULL26|I think it gives us even an opportunity for additional and enhanced growth across all of our assets as they start to build out their network.
+NEUT27|Don't miss a second of mad money.
+NEUT28|Follow at Jim Cramer on Twitter.
+NEUT29|Have a question?
+NEUT30|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

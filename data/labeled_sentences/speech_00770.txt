@@ -1,0 +1,27 @@
+NEUT0|"""I'll talk some crypto."
+NEUT1|Do you know what the world's most widely used cryptocurrency is?
+NEUT2|Let me give you a hint.
+NEUT3|It's not Bitcoin.
+NEUT4|Data from coinmarketcap.com shows that a token with the highest trading volume is Tether.
+NEUT5|Yahoo Finance's, Oscar Williams Group joins us now from London.
+NEUT6|Oscar, I thought Tether was some kind of Federal Reserve program here, but it's actually a cryptocurrency.
+NEUT7|That's right, and a pretty widely used one.
+NEUT8|Brian, it's a stable coin, which essentially means it is pegged to the dollar, one for one, and that basically explains why it is so widely used.
+NEUT9|Tether is used by a lot of these exchanges around the world.
+NEUT10|The cryptocurrency exchanges to offer dollar like liquid ITI.
+NEUT11|Now remember most big banks don't want to deal with cryptocurrencies, so if you're a customer on one of these exchanges and you sell your Bitcoin, your ripple your ether.
+NEUT12|For a dollar, rather than getting an actual dollar, they will just give you a tether instead, which represents $1.00.
+NEUT13|That way they only have to deal with dollars when you are cashing out from the exchange.
+BULL14|Now Tether overtook Bitcoin in terms of volume in April, and in August of this year started doing it pretty consistently.
+BULL15|It averages about $21 billion worth of turnover each day, compared to just $17 billion for Bitcoin.
+NEUT16|Alright, so lay out for us the risks because I'm sure there are some when it comes to dealing with tether Oscar.
+BULL17|Definitely.
+NEUT18|I mean one of the primary risks is that this dollar peg is broken.
+BEAR19|There have been a lot of attempts by speculators to try and break the peg, which would mean you're left with a lot less cash than you think you have now.
+BEAR20|The reason the speculators have been targeting Tether is big 'cause there has been a lot of speculation that the company that issues Tether doesn't have the correct reserves.
+NEUT21|In fact, earlier this year it admitted it only covers for 74%.
+NEUT22|There is also.
+NEUT23|Dangers around the fact that it is one company that controls this unlike Bitcoin, which is of course decentralized.
+NEUT24|Hey investors, Zach Guzman, here, are you interested in learning more about the markets and getting the latest financial news?
+NEUT25|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT26|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

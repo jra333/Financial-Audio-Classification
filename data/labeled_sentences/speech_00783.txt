@@ -1,0 +1,26 @@
+NEUT0|"""Half of the year is going to be the product."
+BEAR1|The biggest challenge for the economy next year we have rising covid cases.
+NEUT2|If it's given us any indication on what we may see in the first quarter, we can look back at what happened after the 4th of July holiday.
+NEUT3|We can look back at what we've seen after Thanksgiving and what we're seeing right now is people are traveling.
+NEUT4|They're getting out and about, so the rise in covid cases is probably here to stay for some time.
+NEUT5|The economic data that we saw today, for example, let's also look at that that personal income and spending data that was from November.
+BEAR6|And in November we had very little clarity around fiscal stimulus, so there's it's really not surprising to me that you saw a dip in spending.
+NEUT7|We think it's going to be challenged as well.
+NEUT8|In the first quarter, as you get into the potential more regional lockdowns as well, right?
+NEUT9|So Rob, let's turn to you and get your reaction to what Megan, Megan just said a rough first half, but but maybe a restrained one of 2021.
+NEUT10|Do you see it that way?
+BULL11|We actually see that we're in a soft Patch right now, but we think that relieves.
+BULL12|There's some pressure relieved as we moved into the next two quarters, primarily because we expect to get stimulus, although there is some error term around that and we think about where we were in terms of growth over the last year early this year.
+BULL13|In the first two quarters, we have some pretty easy comps to overcome when it comes to economic growth, so we're actually a little more constructive in terms of the economy in the first half of the year.
+BULL14|And that leaves us still more constructive on markets as we enter 2021.
+NEUT15|So where Rob would you urge people to put their money?
+NEUT16|What would you overweight?
+NEUT17|What would you?
+NEUT18|What would you potentially underweight?
+NEUT19|Yeah, our emphasis right now is really on stocks over bonds and within stocks.
+NEUT20|We emphasize the USA little bit more than non US with a focus on mid caps because we think the rotation trade is happening.
+NEUT21|The vaccine is is here.
+BULL22|It's being distributed and we find that to be very constructive.
+NEUT23|There's obviously a risk if it doesn't get through fast enough and we we've got still a lot of time to get enough of the population vaccinated, but I think the markets really focused on that reopening as we get through the vaccinations.
+NEUT24|Shepard Smith here.
+NEUT25|"Thanks for watching CNBC on YouTube."""

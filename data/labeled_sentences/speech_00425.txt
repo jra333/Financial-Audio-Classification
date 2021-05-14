@@ -1,0 +1,7 @@
+NEUT0|"""Hi, this is LED from Effects Empire."
+BEAR1|Silver has recently imagine attempt to settle above the resistance at the 50 MA at 26.25 but faced resistance near 26.70 and pulled back into the previous range which is located between the support at 25 point.
+BEAR2|85 and the resistance at the 20 Ma.
+BEAR3|The support at 25.85 has already been tested many times and proved its strength, but the continuation of the upside trend in Treasury yields may put additional pressure on silver and this support level will be breached.
+NEUT4|In this case, Silver may quickly get to the test of the support at 25.55, which is followed by the next support level at 25.20.
+NEUT5|Have a nice day and.
+BULL6|"Good luck."""

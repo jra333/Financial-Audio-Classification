@@ -1,0 +1,10 @@
+BEAR0|"""China has been experiencing an unprecedented bout of capital outflows."
+NEUT1|Estimates of the size of these outflows vary, but some of the latest reckon that about 610 billion U.S. dollars flowed out of China in the year to the end of July.
+BULL2|August then saw a rapid acceleration, with around 150 billion U.S. dollars, leaving.
+NEUT3|In just one month, that's according to Jen Groshen at Mizuho Securities in Hong Kong.
+BEAR4|The outflows are worrying to China because they mean that companies and individuals are losing faith in Beijing's ability to generate fast-paced growth and a consequent Lee looking for higher returns elsewhere.
+NEUT5|Often this is in the US and in Europe, where Chinese property buyers have become key players in the high end real estate market.
+NEUT6|The other thing that the outflows suggest is that Chinese increasingly think.
+BEAR7|That the renminbi is set to fall against the US dollar and are thus buying U.S. dollars before this happens.
+BEAR8|The problem is prompted Beijing to tighten capital controls its ordered financial institutions to step up checks on people trying to smuggle money overseas, and in particular to crack down on the practice of over invoicing for exports.
+NEUT9|"This is a long standing rules that Chinese companies use to spirit funds overseas."""

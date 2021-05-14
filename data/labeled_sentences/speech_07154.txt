@@ -1,0 +1,38 @@
+NEUT0|"""Tom's Best Buy now lemonade."
+BULL1|Lemonade scores a spot on Motley Fool.
+NEUT2|Best Buy now list for the second month in a row and the third time in four months.
+BEAR3|Since February Best Buy now designation, the stock is down about 40%.
+BEAR4|That drop is not associated with any fundamental deterioration in the business that we can see.
+BULL5|So today could represent a compelling buying opportunity if you have yet to pick up any shares.
+NEUT6|It's not the recent stock performance and current valuation that have us excited about this upstart insurer, though.
+NEUT7|We are more interested in what the future holds for this business.
+NEUT8|Lemonade does not yet offer auto insurance.
+NEUT9|No umbrella insurance either.
+NEUT10|Currently it doesn't even offer policies for landlords looking to rent out their property.
+BULL11|We look at those holes in the product line and we see significant potential growth avenues ahead.
+NEUT12|That potential growth isn't a pipe dream either.
+BULL13|In the most recent quarter, revenue per customer was up, indicating that existing customers like their experience enough to purchase more insurance from lemonade when it is offered.
+NEUT14|This is a company that offered just one type of insurance in only 27 U.S. states at the time of its IPO last July.
+NEUT15|Now it offers three main types with at least one offering available in all 50 states.
+BULL16|Growth has been strong and fast since the IPO.
+BULL17|With an expanding customer base and the opportunity to sell more to those clients, we think lemonade is just getting started.
+NEUT18|Speaking of satisfied customers, I count myself among them.
+NEUT19|Last month I purchased Life insurance from lemonade.
+NEUT20|The process was simple and took just a few minutes.
+BULL21|This simplicity is a key advantage for the company.
+NEUT22|It's not as if it has come up with some new product.
+NEUT23|No one has ever heard of, but everyone suddenly thinks they need insurance has been around in some form for almost the entire T of human civilization.
+NEUT24|Lemonade's innovations lie in the user interface and the customer experience.
+NEUT25|Speaking as someone who has purchased insurance multiple times in my life from different providers, I'm of the opinion that that innovation has real value, especially for lemonades target customer.
+NEUT26|The customer experience matters.
+NEUT27|Ease of use matters.
+NEUT28|That's something lemonade understands and is using to great advantage.
+BULL29|With lemonade we have a company that is delighting customers and improving the traditional experience in its industry.
+BULL30|Even better for long term investors, the market looks to be offering us an opportunity to buy in at price points lower than we've seen this year.
+NEUT31|If you haven't yet added this company to your own portfolio, we suggest you consider doing so now.
+NEUT32|I am going to place orders of 2% of My Portfolio an add a little at a time.
+NEUT33|I will use my TD Ameritrade demo account, but before I do it, let's have a look on how well the previous recommended stocks are performing.
+NEUT34|I bought this stocks back in February.
+BEAR35|An overall I am 6.05% down.
+NEUT36|Every Thursday I will share with you all the latest stock recommendation from Motley Fool Stock Advisor.
+NEUT37|"Don't forget to subscribe to my channel and turn on notification."""

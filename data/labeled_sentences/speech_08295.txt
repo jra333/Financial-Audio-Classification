@@ -1,0 +1,30 @@
+BEAR0|"""The trading frenzy in GameStop and other so-called meme stocks has politicians calling for new tax and security transactions and also for the imposition of other taxes."
+NEUT1|When will investors wake up to these threats?
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to better navigate these turbulent times.
+BEAR3|The circus surrounding stocks like AMC in GameStop has stoked headline hunting politicians into issuing ill thought out calls for action.
+NEUT4|Their attitude seems to be we got to show the voters were upset and will do something about it even if we have an A real close to what is actually going on or why.
+BEAR5|Unfortunately, some proffered solutions, if enacted will do substantial harm to the economy.
+NEUT6|Stockholders had better start to factor this in when making investment decisions.
+NEUT7|Democrats who now control things in Washington are dusting off damaging tax ideas, one that seems ready made for the current mania is imposing a tax on every stock trade.
+NEUT8|After all, most investors pay no commissions anymore, and security transactions brokers these days make money in other ways.
+NEUT9|Transaction tax advocates claim this cost less trading fuel specular fevers that must be stopped, attacks on trading, they say, will slow down or prevent these manias Such a tax is really good for individual investors.
+BEAR10|All such attacks will do is drive trading overseas and damaged domestic financial institutions.
+NEUT11|The passion for new taxes doesn't stop here.
+BULL12|However, Senator Elizabeth Warren is raising again her cry for a wealth tax.
+BEAR13|Such a levy has failed in every country that has tried it.
+NEUT14|The tax is hideously hard to collect, as it involves valuing every year everything you own, talk about government, invasion of privacy.
+NEUT15|It also destroys capital.
+NEUT16|Most wealth isn't cash, or rather an assets like stocks and ownership of small businesses.
+BEAR17|Such attacks thereby hurts productive investment, without which we stagnate economically.
+NEUT18|We actually already have sort of a wealth tax.
+NEUT19|It's called the inheritance or death.
+BULL20|Tax studies have shown that in the real world, this tax ends up doing more harm than good given the resources and brainpower that are involved in coping with this tax nonetheless.
+NEUT21|The Biden administration wants to boost this tax by applying an extra capital gains levy on anything you might inherit from a relative or friend.
+BULL22|All new exactions would be in addition to the White House is desire to sharply boost taxes on businesses, capital gains, and incomes.
+BEAR23|The administration's incoming transportation Secretary refused to rule out a big boost in the federal gasoline tax.
+NEUT24|So much for the Biden promised not to pile more taxes on the middle class.
+BEAR25|All these moves were seriously stunt the economy and ultimately hurt the value of stocks.
+NEUT26|I'm Steve Forbes.
+NEUT27|This is what's ahead.
+BULL28|Thank you so much for listening.
+BULL29|"Do sending your comments and suggestions and I look forward to being with you soon again."""

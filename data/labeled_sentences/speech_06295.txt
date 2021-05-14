@@ -1,0 +1,26 @@
+BEAR0|"""Well, we've had a relatively quiet day in part because the US bond market is closed for veteran's day."
+BEAR1|The Japanese stock market is in you post crisis high thanks to speculation about us, a snap election there, while Brent crude has fallen to yet another knew low for the year.
+NEUT2|For now, I'd like to concentrate on one factor, which I find rather worrying about the US market.
+BULL3|Given that it's at all time highs.
+NEUT4|If we take a look at how large caps are performing compared to small caps.
+NEUT5|It's very strange indeed, given that if we are in a period of expansion, we are in a period of a bull market.
+BEAR6|Normally that is when Smallcaps would be outperforming plainly not the case.
+NEUT7|Similarly, if we take a look at how a cyclical sector such as consumer discretionary is doing, compared to a very defensive sectors such as utilities, which as far as investors are concerned as little more than payout dividends.
+NEUT8|Similarly all of the wrong things are happening for this supposed to point in the cycle.
+BULL9|Defensives are beating cyclicals.
+NEUT10|How can a bull explain this?
+NEUT11|Well, I put this question to Richard Bernstein as part of the interview we brought you yesterday, but that reflects a little bit.
+NEUT12|Is this contours of the profit cycle.
+BEAR13|Generally when profit cycles decelerate, you'll find defensives and larger caps tend to outperform profit cycle accelerates, you find smaller caps and more cyclicals outperform.
+NEUT14|And what you actually saw through a good chunk of this year was the profit cycle, although not not imploding by any means that growth rate was getting lower and lower.
+BEAR15|And what we saw was large cap outperformance in defense of outperformance with very interesting.
+BEAR16|Now is it almost looks in the data and so the profit cycle is beginning to trough.
+BULL17|Not that we're going to have a boom in corporate profits.
+NEUT18|Certainly not.
+NEUT19|But we didn't have a cascading of corporate profits before either.
+BULL20|If we're right and if the gradual increase in corporate profits takes hold, it would make sense for small caps to come back to life.
+NEUT21|Would make sense for cyclicals that come back to life.
+BULL22|But I think what was reflected in the first half of the year really made pretty good sense given the fact that corporate profits growth.
+BULL23|Although not negative, was slowing, so again you can see that much of the Bulls case rests on whether Corporate USA really can revitalize its profitability once more.
+NEUT24|I'm not sure that the third quarter earnings season really proved that case.
+BULL25|"That suggests that the fourth quarter earnings season could be a very important moment of truth, but good news for those of you who want to go with the flow is that that is still three months away."""

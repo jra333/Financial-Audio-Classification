@@ -1,0 +1,10 @@
+NEUT0|"""Hello again, it is May 14th, 2012."
+NEUT1|Here's your date and time stamp and it's 10:37 AM.
+NEUT2|And what we have here is the Coca-Cola stock on the New York Stock Exchange.
+NEUT3|7673 is the current price.
+BEAR4|And I have indicated that this talk is going to compress the 75.52.
+BEAR5|It will compress lower than that.
+NEUT6|Although I will re strict disclosure.
+NEUT7|So within the week two weeks.
+BEAR8|Coca Cola stock will compress to 7542.
+NEUT9|"Thank you, will see you on Part 2."""

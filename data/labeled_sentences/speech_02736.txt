@@ -1,0 +1,29 @@
+NEUT0|"""Elizabeth Warren calling for a specialized tax on the ultra rich."
+BEAR1|But some on the left aren't agreeing with her call.
+NEUT2|Robert Frank joins us now with more.
+BULL3|Hey Robert, good morning Scott.
+NEUT4|Well it all started when Larry Summers, the former Treasury Secretary, an Obama adviser, published an OP Ed in the Washington Post saying that the revenue estimates for Warren's wealth tax of about $200 billion a year were quote likely to disappoint.
+NEUT5|Now.
+NEUT6|He used the estate tax model as his model for the analysis, saying that the tax would only raise about 25 to $75 billion a year since the rich would find ways.
+NEUT7|Avoiding the tax and hiding a lot of their wealth.
+NEUT8|Now the two economists who helped create that proposal.
+BEAR9|Gabriel Zucman, an Emanuel says both of the University of California, Berkeley fired back at Summers, saying, quote, he is just assuming that the wealthy can't be taxed.
+BULL10|They said most wealth today is in stocks which are easily valued, easily proven an the IRS enforcement would be strengthened under Warren's tax and the fight.
+NEUT11|Then move to Twitter where it got a lot better.
+NEUT12|Summers advocated quote.
+NEUT13|Fixing corporate taxes, closing loopholes appropriately, taxing capital gains, and the audit and enforcement of tax compliance now rather than a wealth tax, which he said could be an unconstitutional and had been abandoned by most other countries.
+NEUT14|He favored those other issues.
+NEUT15|Now Zucman responded.
+NEUT16|Very cool to attack young academics for doing policy relevant research, and you offered Summers a bet if the wealth tax yielded 80% of his estimated revenue quote.
+NEUT17|I give you 10% of my wealth.
+NEUT18|Otherwise you give me 10% of yours Summers wealth.
+NEUT19|Obviously a lot more than these guys.
+NEUT20|That's what this debate, in terms of the numbers is on the wealth tax part of what's being proposed, not any kind of higher income tax, correct?
+NEUT21|It's just that Elizabeth Warren's tax of between 2 and 4% of any wealth over $50 million when you get to the billionaire level, it's up to 4%.
+NEUT22|And what's interesting is we all expected that the right would fight back at this and analyze it instead.
+NEUT23|It's left versus more left.
+NEUT24|And the best analysis has come from the economic Old Guards.
+NEUT25|A bit like the green New Deal or Medicare for all health care.
+NEUT26|For all, where it's sort of this split within the party over how extreme you want to get with targeting the, well, that's what happens when you have 37 presidential candidates, or 22, or 25, or whatever.
+BEAR27|The number is now, which may even be getting bigger today, which also agrees which all agree that that taxation is broken and that people at the upper end don't pay enough.
+NEUT28|"It's all the arguments over how to achieve something better."""

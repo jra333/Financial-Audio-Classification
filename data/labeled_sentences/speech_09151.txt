@@ -1,0 +1,33 @@
+NEUT0|"""What are you hearing out there, right?"
+BULL1|People are really excited for the future's market to open, so it was a good day for the store to come out because the CBO, he also said today that the futures market for them they have a week of exclusivity.
+NEUT2|The futures market will open on Sunday at 6:00 PM.
+NEUT3|So this is really an opportunity that's right around the corner.
+NEUT4|With that said, it's going to be really exciting to see how people approach this market because it's not a trade for the fainthearted.
+BULL5|Bitcoin has sold this year so.
+NEUT6|There is a worry that you know you know.
+NEUT7|Will there be a lot of people shorting to hedge their bets, yes?
+NEUT8|Well there be a big naked short.
+NEUT9|That's a lot, lot more risky, exactly.
+NEUT10|Any idea what kind of pricing we might see?
+NEUT11|Not sure about the pricing.
+NEUT12|It that is a really big question about you know how expensive is it going to be to really get into these trades?
+NEUT13|And I think that will be a big determinant on how people use them, what else?
+NEUT14|What about manipulation is there the possibility of any kind of market manipulation?
+NEUT15|Now if we see a little bit more liquidity in products related to Bitcoin?
+NEUT16|You know one of the scarier things I actually heard in our reporting, for example, was now that you have the opportunity to more easily short the currencies and there were opportunities before.
+NEUT17|Don't get me wrong, you know we've seen a lot of hacks, right?
+BEAR18|So what if you are a bad actor?
+NEUT19|This is manipulation times 2, right?
+NEUT20|If we were bad actor and you decide to hack one of these exchanges or what not, and you know that does significantly affect the price of the currency, can you also be trading it short so you know there really is an opportunity and a lot of questions here about how people are going to end up?
+NEUT21|Using this market more opportunities, does this also mean more potential regulations?
+NEUT22|It could?
+NEUT23|I mean, it certainly should, right?
+NEUT24|I mean, people are looking right now to see kind of what kind of regulation will be coming out around the cryptocurrency space more largely now, especially that there are very many more of them too.
+NEUT25|Is the exchange at any risk here?
+NEUT26|That's a good question.
+NEUT27|I mean, it's something certainly that a lot of people have been asking about.
+NEUT28|We don't really know.
+NEUT29|Kind of again, that they're not trading at right.
+BEAR30|We don't really know, and there's been some delays and questions about whether you know when.
+NEUT31|A lot of these exchanges will open, especially these more traditional exchanges, right?
+NEUT32|"So I mean, we'll see what kind of risks that they do pose."""

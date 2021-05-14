@@ -1,0 +1,21 @@
+NEUT0|"""Today's business covering in a Facebook stock?"
+BEAR1|We're down to 20 and change.
+BEAR2|We opened in 1990 as low as 1982.
+BULL3|Yesterday the 52 week range 45.
+NEUT4|I think the IPO is set at 38.
+BEAR5|It popped and then has fallen right off a Cliff.
+NEUT6|For those of you struggling with the math, yes Zuckerberg and friends have seen their wealth.
+BULL7|Just just about halved.
+BEAR8|So you can imagine that the stress to unload shares if we get into the teens will be there by plenty of those who.
+NEUT9|We're fortunate enough to be gifted a large number of stocks due to their affiliation with the company at its birth fee.
+NEUT10|The question that looms remains, can a social site generate strong?
+NEUT11|Revenue from advertising.
+BEAR12|And Facebook is having severe challenges doing so.
+NEUT13|They have changed up the game a bit recently.
+BEAR14|They are forcing ads and sponsored stories within the wall.
+NEUT15|The reason they're doing that is because much like commercials, run during your favorite sitcom, they're trying to break the experience.
+NEUT16|Get you to engage with the advertising.
+NEUT17|Will it be effective will.
+NEUT18|We turn off to Facebook.
+NEUT19|Will another company that's not publicly owned jump in the game get involved and create a an alternative space that isn't hunkered down by advertising?
+NEUT20|"We will see."""

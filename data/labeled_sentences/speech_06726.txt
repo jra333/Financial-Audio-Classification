@@ -1,0 +1,26 @@
+NEUT0|"""Hey everyone it's Alyssa quorum."
+NEUT1|He ran.
+NEUT2|Today's technical analysis focuses on Tesla, the electric car makers chart has a few great lessons about why it's so important to look at a stock chart before buying shares of a company that you like.
+NEUT3|Even though Tesla is at the forefront of the electric car movement, it's important to analyze the chart before buying into the story.
+NEUT4|So let's take a look at this weekly chart here for Tesla.
+NEUT5|Now the red line on the chart.
+NEUT6|Is the 10 week moving average and you can see how Tesla is hitting resistance at that level, meaning each time it attempts to climb above the line, it gets turned away.
+NEUT7|When we're looking at stocks to buy, we look for leading stocks that are in Uptrends and Tesla is in a clear downtrend here.
+BULL8|We also want to see stocks holding above that ten week line and finding support there rather than hitting resistance like Tesla is now.
+BULL9|Tesla's recent action comes after four failed breakouts in a row.
+NEUT10|You can see that.
+BEAR11|Each time Tesla tried to break out of a chart pattern since September 2017, the stock quickly turned tail.
+BEAR12|That's not a good sign, so each of these breakouts here outlining green on the marketsmith chart here resulted in failed breakouts and Tesla's relative strength line, which is the blue line on the chart.
+BEAR13|Here is also weak.
+NEUT14|The relative strength line measures price performance versus the S&P 500, and we use the relative strength line to help us determine market leadership and see which stocks are outperforming the market.
+BEAR15|The relative strength line for Tesla is essentially in a freefall here, meaning it's vastly underperforming the market.
+NEUT16|You don't want to put your capital to work in stocks that are underperforming the market, which are also known as laggards.
+NEUT17|You have a much better chance of scoring big gains by focusing on those leading stocks.
+NEUT18|OK, so now that we've talked about Tesla's technical action, let's briefly talk about the fundamentals.
+BEAR19|Tesla has a history of struggling with profitability and has logged many quarters of losses, but Tesla was able to turn a profit in the two most recent.
+BEAR20|Quarters still there are concerns about profitability moving forward with Tesla selling fewer than expected cars in the first quarter, and Tesla already said it would likely post a loss in Q1.
+NEUT21|So even if you believe in the long term story for a company, don't overlook what the chart is telling you.
+NEUT22|It's much better to put your money to work in a leading stock rather than a laggard for investors business daily.
+NEUT23|I'm Alisa corum.
+BULL24|Hey everyone, thanks so much for watching investors business daily on YouTube.
+NEUT25|"If you want to watch more videos make sure you hit that subscribe button so you don't miss a thing."""

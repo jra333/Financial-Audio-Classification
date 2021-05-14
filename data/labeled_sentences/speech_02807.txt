@@ -1,0 +1,40 @@
+BULL0|"""Hello everyone."
+NEUT1|Amazon's party from its PILANI and today I'm going to present the Stock Bridge report for Facebook.
+NEUT2|The values presented in this presentation are my own and have no bearing or responsibility.
+NEUT3|If they're wrong or misrepresent Facebook.
+NEUT4|The contents of this presentation are fundamental analysis, ratio analysis and valuation analysis using discounted cash flow techniques.
+NEUT5|Here are some quick facts about Facebook.
+NEUT6|It's ticker symbol is FB and it is listed in NASDAQ, its headquarters in Menlo Park, CA and its year of incorporation is 2004.
+NEUT7|Its IPO was released in 2012 and presently the number of shares outstanding as of 2016 is 2892 million and number of employees are 17,048.
+NEUT8|It mainly operates in the social media and social networking industry and CEO is Mark Zuckerberg, who also happens to be its founder.
+NEUT9|First, in the fundamental analysis of the company comes the past anlysis, which is the political, economic, social and technological analysis.
+NEUT10|This former business analysis examines the external environment of our business and can provide a quick and visual representation of the external pressures facing our business.
+NEUT11|Next comes the Porter's five forces model.
+NEUT12|The five forces are described.
+NEUT13|Reporters are bargaining power of suppliers, bargaining, power of buyers, threat of new entrants, threat of substitutes and arrive early among current competitors.
+NEUT14|First comes the bargaining power of buyers.
+NEUT15|In the case of Facebook, there is no single buyer who has a controlling interest and therefore there is not much bargaining power with the buyers bargaining power of suppliers.
+NEUT16|The main revenue Facebook is true ad placements.
+NEUT17|The suppliers have no bargaining power as Facebook is the biggest player in this market.
+NEUT18|Therefore, the bargaining power of suppliers is low threat from substitutes.
+NEUT19|There are no true substitutes in this day, with the dependence of social networking increasing day by day.
+NEUT20|Therefore, the new threat from substitutes as well.
+NEUT21|Third, of new interns, the barrier to entry in social networking market at high a new entrant, which were good prospect, is usually acquired by Facebook, so there is hardly any threat of new entrants rivalry among existing forms.
+NEUT22|The major competitors in this industry are Facebook, Twitter and LinkedIn.
+NEUT23|However, the operating difference because Facebook is in the general social networking spear well, whereas LinkedIn is majorly useful professional purposes and Twitter is used to expressing views.
+NEUT24|Thus there is not much rivalry because of operating in different spheres.
+NEUT25|Next couple SWOT analysis which is the strength, weakness, opportunity and threat analysis.
+NEUT26|We can see the different points in strength, weakness, opportunity and threat for Facebook.
+NEUT27|The strength and weakness represent the internal part.
+NEUT28|How and the opportunities and threats represent external part.
+NEUT29|Next coming to issue and this is a Facebook.
+NEUT30|The issues we have analyzed are a bit the margin which is the earnings before interest, tax, depreciation and amortization, net profit margin, return on assets, return on equity, current ratio, price, earnings ratio, asset turnover, issue price, sales ratio and that we could issue.
+NEUT31|We have compared them with Twitter and LinkedIn as well.
+NEUT32|Which are the major competitors of Facebook?
+NEUT33|Next is the valuation analysis.
+NEUT34|The beta for Facebook is .5 for growth rate is the growth rate is 3%.
+NEUT35|The market return is 9%, RF is 2.33% and return on equity is 5.93%.
+NEUT36|Thus we calculate the target price, which comes out to be 399.73 dollars.
+BEAR37|However, the current stock price of Facebook is 173.74 dollars, which means the stock is presently undervalued.
+NEUT38|Therefore, my call is by the stock.
+BULL39|"Thank you."""

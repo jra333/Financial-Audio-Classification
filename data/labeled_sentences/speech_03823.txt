@@ -1,0 +1,49 @@
+BEAR0|"""There was a big shock for markets this morning."
+NEUT1|Is Donald Trump was elected U.S. President.
+BEAR2|We saw a big risk of movement in the Asian markets overnight, but that's moderated somewhat as European markets opened Rebecca, what's going on?
+NEUT3|Or we're still in risk off mode, and this was not the outcome that markets are.
+NEUT4|Investors were expecting, even though the polls were very close, markets were still expecting Hillary Clinton to win this, so we have seen selling in risky assets and safe havens being bought.
+NEUT5|I think the central concern is around.
+NEUT6|Donald Trump's rhetoric over protectionism.
+NEUT7|You know, it's generally agreed that the more trade you do, the best you economy performs, and so on.
+NEUT8|The campaign trail when he's been talking about protectionism.
+BEAR9|It's really spooked.
+BEAR10|The markets, and I think that's one reason why we're seeing these declines to show lots of people talking about Brexit parallels here use the Brexit playbook.
+NEUT11|They say to to figure out what the markets are going to do in the near term.
+NEUT12|Is that wise?
+NEUT13|Well, I think there are parallels.
+BEAR14|The markets fell quite sharply after the Brexit vote.
+BULL15|It's falling today, but of course it rose.
+NEUT16|Within a few days within a few weeks it was back to those prevote levels, so people are seeing this as possibly a trading opportunity.
+NEUT17|Of course there were differences as well.
+BEAR18|I think over the long term Brexit presents more uncertainty because in the next four years Donald Trump will be out of the Oval Office.
+BULL19|We could be still negotiating trade agreements 10 years from now.
+NEUT20|Yeah, tell us what's happening.
+BEAR21|Currencies seem to move down in the dollar, and we've seen that expected big move in the Mexican peso.
+NEUT22|What's happening elsewhere?
+BEAR23|Yeah, so emerging markets currencies obviously selling off.
+NEUT24|This is all to do with the anti trade rhetoric, but there's concern in Europe generally as well.
+NEUT25|Because what does this mean for the globalization movement?
+NEUT26|We've already had a sort of Brexit revolution here in the UK, but we have presidential elections in Europe.
+NEUT27|Next year, German and French presidential elections.
+NEUT28|What does that mean for the established political parties there and for the populist movements?
+NEUT29|What's been happening in the bond markets and with gold this morning, you've really seen investors flocked to safe havens?
+BULL30|There's been a flight to quality, so government bonds in particular have done quite well gold as well.
+NEUT31|The Japanese yen.
+NEUT32|Swiss franc anything deemed to be safe.
+BEAR33|I think that also reflects the reduced expectations for Fed rate hike.
+BULL34|Next month we were expecting about an 80% chance of a hike.
+BEAR35|Now that's dropped to about 50%.
+NEUT36|So again, I think that's one reason why we're seeing this flight to safety into the government bonds.
+NEUT37|Now, crucially, what's going to happen when the US markets open 2:30 GMT today.
+NEUT38|It's where all eyes will be.
+NEUT39|What are we expecting?
+BEAR40|Well, we are expecting SNP futures to be down or SNP to be down, about 1 1/2%.
+BEAR41|That's bad, but not as bad as.
+BULL42|Some had fared.
+BEAR43|I think that reflects the fact that again, those expectations for Fed rate hike have come down.
+BULL44|But also, there's talk about fiscal stimulus.
+NEUT45|Donald Trump is mentioned.
+BEAR46|Tax cuts and government spending, as well as just a general feeling that perhaps a lot of Donald Trump's policies won't come to fruition because even though we have a Republican Congress, it's a Congress that's hostile to Donald Trump.
+NEUT47|Great, lots of food for thought.
+BULL48|"Thank you very much, Rebecca."""

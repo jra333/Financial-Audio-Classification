@@ -1,0 +1,20 @@
+NEUT0|"""Hillary Clinton or Donald Trump joining me now to discuss how the markets will digest this an React Roger Blitz, our currency correspondent, Roger."
+NEUT1|What is the top market barometer in your view?
+NEUT2|Well, it is currencies.
+BULL3|It obviously is what the dollar does and what the dollar has been doing is moving very, very strongly against the Mexican peso as Donald Trump's poll fortunes gain momentum as they go down, the dollar then weakens and the Mexican peso goes up.
+NEUT4|So that's.
+BULL5|Clearly going to be the main barometer and staying with currencies.
+NEUT6|Let's look at some of the havens.
+NEUT7|Swiss franc Japanese yen.
+BEAR8|These have been actually trading very strongly becauses in recent days, because they've been general poll jitters, particularly around the FBI reopening.
+NEUT9|The investigation into Hillary Clinton's emails, this now has actually come back this morning because the FBI's decided to close those probes.
+NEUT10|So that is actually going to be another key feature, depending on what the outcome is going to be.
+NEUT11|The other key player in all this in terms of market parameters, R S&P futures.
+NEUT12|It is going to be one of the key moves that we see overnight, and I think the other area which is clearly going to be very important.
+NEUT13|Going to be the bond market.
+NEUT14|We're going to see US Treasurys very importantly play well if Clinton wins, but I think fundamentally what we will see is that the dollar is going to be acting as the first port of call and other markets will then follow.
+NEUT15|What's the outlook here for volatility?
+BEAR16|In general this is going to be one of the most volatile weeks.
+BULL17|In the calendar of 2016 we are likely to see a great deal of action.
+NEUT18|So quick takeaway here is that watch the currency MarketWatch S&P futures.
+NEUT19|"Watch the 10 year Treasury yield and watch gold prices."""

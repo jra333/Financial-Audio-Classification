@@ -1,0 +1,28 @@
+BULL0|"""Hello Friends, welcome to the channel."
+NEUT1|Let's talk finance where we make learning financial markets easy for you.
+NEUT2|Hello friends, in this video which is part of our technical analysis series, we shall be looking at bullish and bearish engulfing candle stick patterns.
+NEUT3|A bullish engulfing pattern, as you can see in this explanatory chart, occurs when a small dark candle is followed by a large light candle the next day in a manner where the large light candle completely in girls or covers or overlaps the small dark candle.
+NEUT4|As you can see in this chart.
+NEUT5|That is a small barrish red candle which is followed by a large bullish green candle the next day.
+NEUT6|The chart looks such that the body of the green candle can completely cover and consume the body of the small red candle.
+NEUT7|If this is seen in two alternated trading sessions, you call this a bullish, engulfing chart pattern.
+NEUT8|This is a chart depicting bullish engulfing pattern.
+NEUT9|You can see that there is a downtrend like the two parallel lines within which you can see the candles coming down.
+BEAR10|There is a downtrend.
+NEUT11|Where it is pointed, you can see a bearish candle and in number 4 you can see the bullish candle.
+NEUT12|The manner in which is that the bullish candle will completely cover the previous day's small bearish candle.
+NEUT13|And this bullish engulfing pattern indicates that the downtrend has come to an end and immediately you have an uptrend that starts.
+NEUT14|Now let us look at something called as bearish, engulfing bearish engulfing is something that is completely opposite of the bullish engulfing in case of bearish engulfing.
+NEUT15|You can see a small bullish candle which is followed the next day by a large barrish red candle.
+NEUT16|As you can see in the chart.
+NEUT17|The manner is suspected dark candle completely angles and overlaps the small green candle appearing the previous day.
+NEUT18|From this chart you can see that the bearish engulfing pattern appears at the top where it point #2.
+NEUT19|You can see the smaller green candle and the next day you have a larger dark red candle that is point #3.
+NEUT20|The chart looks such that the red candle can completely consume and overlap with these smaller green candle appearing the earlier day.
+BEAR21|This appears at the top of an uptrend.
+NEUT22|And it indicates that the uptrend is coming to an end and you have start off a new downtrend pattern.
+NEUT23|But thank you for watching this video.
+NEUT24|We would be happy if you like and share the video with your friends.
+NEUT25|Also you can let us know any other topic that you want us to make a video on in the comments section.
+NEUT26|And don't forget to subscribe the channel.
+BULL27|"Thank you so much."""

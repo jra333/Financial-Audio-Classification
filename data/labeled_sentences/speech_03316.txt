@@ -1,0 +1,18 @@
+NEUT0|"""Hi, this is Mike Riedmiller best selling author and Forbes brand voice contributor."
+NEUT1|You might have read some of the articles that I've written as a Forbes brand voice contributor.
+NEUT2|Just today I received one of the articles from one of the partner companies I work with.
+NEUT3|This signed copy, talked about stock market volatility time to diversify.
+NEUT4|Also, perhaps you saw this article online on the Internet, but think about the stock market right now.
+NEUT5|Where is it going next?
+NEUT6|I shot a video when I was at an investment conference in Las Vegas in January.
+BULL7|The stock market was at an all time high and a lot of people thought, or at least some thought it was going to continue to increase.
+BEAR8|And then of course February, March and April we saw a lot of volatility.
+NEUT9|Now where is it headed next?
+NEUT10|Well, that's exactly what I wrote about in this article.
+NEUT11|Places that some people have chosen to diversify.
+NEUT12|So if you like a copy of this article, feel free to reach out to my office.
+NEUT13|Or you can check it out online on one of my websites right there, but my number one goal is to help you accomplish your financial goals and certainly with investing some money in the stock market based on a plan.
+NEUT14|But then there's other places.
+NEUT15|That's what I wrote about in this article.
+NEUT16|They let's chat soon.
+BULL17|"Be happy to answer questions or at least point you in the right direction."""

@@ -1,0 +1,6 @@
+NEUT0|"""How high can PSG coin go in 2021?"
+NEUT1|At present PSG is $25.
+BULL2|It will easily easily go $150.
+NEUT3|By the end of 2021.
+NEUT4|So again, this is not an investment advice.
+NEUT5|"Do your own research before trading into cryptocurrency, thank you."""

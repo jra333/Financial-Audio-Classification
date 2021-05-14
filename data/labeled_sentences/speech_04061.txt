@@ -1,0 +1,17 @@
+NEUT0|"""Good morning, here's a summary of this week's market headlines delivered by I Forex."
+NEUT1|US retail sales will be released on Wednesday at 12:30 GMT.
+NEUT2|the US Consumer price Index at 12:30 GMT.
+NEUT3|the Fed interest rate decision at 1800 GMT.
+NEUT4|New Zealand's gross domestic product at 2145 GMT.
+BEAR5|The Japanese foreign bond investment at 2350 GMT and the Australian employment change on Thursday at Zero Thirty GMT.
+NEUT6|President Donald Trump will meet with bankers on Thursday to learn about their difficulties in complying with financial regulations that acted after the 2007 2009 financial crisis.
+BEAR7|U.S. stocks dipped Thursday afternoon as another drop in oil prices weighed on energy shares, while financial shares pared some of their early gains.
+BULL8|The greenback is rising against the Canadian dollar for the 4th day in a row, and for the 8th time out of the last nine trading days.
+BEAR9|Netflix is under negative pressure with stochastic signaling cell and moving averages, giving a bearish signal.
+BEAR10|The Aussie dollar pair retested the previously broken level at Zero Point 7519 and bounced lower from there.
+BULL11|The SSI remains balanced.
+BULL12|The dollar yen pair achieved clearly breached the 113.97 level and settled above it to activate the positive scenario on the intra day and short term basis.
+BULL13|The price of crude oil resumed strongly.
+NEUT14|Negative trading to attack the 49.75 level and moves below it now, which requires being aware in the upcoming trading.
+BULL15|We hope you enjoyed this week's market review.
+NEUT16|"See you next time."""

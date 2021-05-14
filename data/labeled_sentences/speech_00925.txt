@@ -1,0 +1,25 @@
+NEUT0|"""Question from Tom George is the size of index funds becoming dangerous and he included a link to a commentary from the father of Index funds himself, John Bogle."
+NEUT1|Yeah, and Bogles article talks about not so much the returns to investors or any volatility, which is what index funds are sometimes spotted up as perhaps having a problem given the concentration of certain funds or certain stocks in index funds.
+NEUT2|But really on the voting power of shareholders and corporate governance, that is if.
+NEUT3|The trend is that there may soon be 50% of the market in index funds and index funds themselves are highly concentrated in the three largest players that being.
+NEUT4|Vanguard State Street and BlackRock.
+NEUT5|Then what you know who's going to be exercising actual voting control over over boards, and that's what his articles about.
+NEUT6|I understand the point that's being made, but I just gotta be honest.
+BEAR7|It takes something pretty extreme for me to say well, I'm just going to ditch the index fund that I have with Vanguard as a result of that, I mean just the vehicle itself.
+NEUT8|The low cost option in terms of.
+NEUT9|Corporate governance.
+NEUT10|I I'm not thinking about my index fund investment in that regard.
+NEUT11|I will think of my own individual stock investments in that regard, but I don't know it's it's not.
+NEUT12|If they're becoming dangerous, they're not becoming dangerous enough for me as an investor to say I want out no, and I don't think that the argument is that the index funds themselves will end up with lesser returns because of this, but more that the governance and who is?
+NEUT13|Exercising voting control over the decisions of companies.
+NEUT14|Where is that going?
+NEUT15|And you know to his credit, John Bogle is not saying oh don't worry about it.
+NEUT16|Vanguard has got 51% of the index market, and they're good people, and so we never need to worry about them doing the right thing.
+NEUT17|His outlook is this is a structural a potential structural problem and one that people should be aware of.
+NEUT18|And you know that when things change their costs, there's no.
+NEUT19|There's no such thing as a free lunch, right?
+BULL20|And as great as index funds have been for investors in the article itself.
+BULL21|Points out with approval, the description of the 500 Index Fund is the most consequential or the best thing that's happened to investors, and so he's definitely positive on what has been achieved and in fact the liquidity.
+NEUT22|The ability of investors to today get for either virtually nothing where actually nothing in the case of Fidelity's new index on products.
+NEUT23|A wide diversification for their investments at any moment.
+NEUT24|"Any time comes with a cost and that is that as they become more and more and more attractive, the voting rates aggregate into fewer and fewer hands."""

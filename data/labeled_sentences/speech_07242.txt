@@ -1,0 +1,33 @@
+BEAR0|"""Why do you think bookings are up so much over 2019?"
+NEUT1|If I've got that right, which was not a pandemic year.
+BULL2|You know we're seeing an incredible surge of demand across the Hopper app, an globally and that booking surge is coming from the pent up demand from last year.
+NEUT3|So it's not just people looking for a traditional summer or spring break trip.
+BULL4|There's a lot of built demand from last year and maybe a little bit more money in the wallet.
+NEUT5|For those who were able to save in the past past year.
+BULL6|Could could the fact that these bookings have risen so much in that two year.
+NEUT7|Be?
+BULL8|Attributed in part to the fact that your app has become more popular and better known, and so you might expect to see bookings go up.
+BULL9|Yes, we're certainly seeing a higher booking rate on the Hopper app because we, as an app are growing.
+BULL10|But if you take a step back and you look at global search demand for travel in United States anywhere we're seeing that search demand volume surpassed 2019 levels and get back on track with the year over year growth.
+NEUT11|We've been tracking since the late 1990s.
+NEUT12|A lot of the domestic locations seem to be leading the way here, and a lot of them are the ones you might expect.
+NEUT13|Orlando, Hawaii, the West Coast of Florida, Miami, and so forth.
+NEUT14|Is Europe a factor here at all or are people still staying away from Europe?
+BULL15|We're seeing really interesting trends when it comes to international travel.
+NEUT16|Typically this is the time of year where people are planning bucket list vacations to Europe, Paris, London, Berlin.
+NEUT17|But that demand is shifting more locally.
+BULL18|We're seeing international demand shift to the Caribbean and Mexico more so than international destinations.
+NEUT19|And this would be for summer travel to the Caribbean, which is really off season for them.
+NEUT20|Summer travel to those destinations as opposed to to Europe.
+BULL21|Mexico obviously doing very well.
+BULL22|There's tremendous amount of pent up demand.
+NEUT23|Are you seeing that manifest in other, maybe non traditional travel destinations as well?
+NEUT24|In other words, this business travel picking up is travel.
+NEUT25|Excuse me coming back to places that you might not think of.
+BULL26|As touristy.
+NEUT27|We're certainly seeing a change in the distribution of popular destinations, typically at this time of year.
+NEUT28|You know, Europe is extremely popular.
+BEAR29|Instead, demand is shifting back to the domestic US and too many unique destinations within the Continental U.S. National Parks in Montana has become a hotspot for domestic demand because of the national parks there.
+NEUT30|So the structure of where people are looking to go this spring and summer is certainly changing.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

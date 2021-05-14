@@ -1,0 +1,27 @@
+NEUT0|"""Here's the top 10 things every retail trader says when I first enter the market."
+BULL1|Nah man, this looks really good.
+NEUT2|Trust me, it's just the bottom manipulating brother trying to accumulate more key.
+NEUT3|Believe it like the Essex is meant to make this illegal.
+NEUT4|Was as sick man I gotta lock.
+NEUT5|Report this to the authorities say it's manipulation.
+NEUT6|Self wealth is the best for day trading 'cause I get the best break Ridge value for money.
+NEUT7|I'm adding on.
+NEUT8|I'm topping up like every time it dips.
+NEUT9|I'm topping up bro like it's so good.
+NEUT10|Well guys, I had to share this Motley Fool article on Facebook's.
+NEUT11|Got some good analysis or who are?
+BEAR12|Genomma holding from $0.14.
+BEAR13|Yeah, it has dropped to five, but like it's not a loss until you sell.
+NEUT14|Man like this is just common knowledge.
+NEUT15|Like no no yeah.
+BEAR16|My wife is sucking like three other guys ***** but until she signs the divorce paperwork like she's still my wife I haven't lost her.
+NEUT17|Cioms I'm still daytrader, I'm just like an investor for this one stock.
+NEUT18|Now that's all I do.
+NEUT19|My research on hotcopper the posters.
+NEUT20|There are definitely not there for their own self interest there there to help me make money as well.
+NEUT21|Yeah, this stuff can't get any lower.
+NEUT22|Got the best entry 0.001.
+NEUT23|Wait, what's consolidation?
+NEUT24|If you want to make easy money just short after pay.
+NEUT25|After this maybe profit.
+NEUT26|"By the way, what's equity and growth?"""

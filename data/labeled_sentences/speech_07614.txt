@@ -1,0 +1,44 @@
+BEAR0|"""Morning morning you spoke to another guy."
+NEUT1|Pretty big in the world of business, Warren Buffett.
+NEUT2|You traveled over to Omaha to speak to him.
+NEUT3|What did he have to say about the banking sector?
+NEUT4|Well, he had a lot to say because he's invested in this sector for quite some time.
+BULL5|Alexis and also he's gotten to be very close to Jamie Dimon.
+NEUT6|Interesting, his take on banking was that maybe it's not going to be a huge home run, but it's always a pretty good investment that's reliable.
+NEUT7|That beats the market over time.
+NEUT8|Take a listen.
+BEAR9|Seems like you've got a big waiting in financials.
+NEUT10|And of course you finally invested in Jamie Diamonds Company.
+NEUT11|Why banks?
+NEUT12|Right now?
+NEUT13|There are businesses I understand, and I like the price at which they're selling relative to their future prospects.
+NEUT14|I think 10 years from now that they'll be worth more money, and I feel that's a there's a very high probability I'm right.
+NEUT15|And I don't think they will turn out to be the best investments at all of the whole the whole panoply of things you could do, but I'm pretty sure that they won't disappoint me.
+NEUT16|You said you're surprised at interest.
+NEUT17|Rates have been this low this long, but isn't that because of accommodating central banks policy's around the world A and how deflationary technology is in society?
+NEUT18|Do you think that's has something to do with it?
+NEUT19|Those two can always look back and said Trump the reason.
+NEUT20|But in the end you know, does that nobody was telling me?
+NEUT21|If somebody told me 10 years ago it was going to happen next 10 years, we're going to be a lot of money in the bond market together, you know.
+NEUT22|But but there's always the reason.
+NEUT23|Afterwards.
+BEAR24|Tomorrow's paper will say stocks went down today because of, you know, but they didn't.
+NEUT25|They didn't write it.
+BEAR26|This morning's paper that stocks are going to go down today.
+NEUT27|You have to know what you don't know and you have to make sure that what you don't know isn't all important.
+NEUT28|I mean, if there's four boxes there you want to get to what is knowable.
+NEUT29|And an and an which is favorable and there's.
+NEUT30|Things that you miss out on because they belong and other three boxes, one of which will be favorable, another one that favorable, and the fact that you're missing out on 90% of the stuff doesn't really make any difference.
+NEUT31|Of the 10% you do is write.
+BULL32|An Buffett has gotten to be close with Jamie Dimon Alexis because they're working on this health care initiative together, along with Jeff Bezos.
+BULL33|So they have spent some quality time together.
+NEUT34|And, of course, you know.
+NEUT35|Understanding, banking and insurance.
+NEUT36|It's a pretty sophisticated game, and Buffett is certainly up to that.
+BULL37|Yeah, I'd say yeah, but certainly that has worked better in his favor.
+NEUT38|Having some shares in JP Morgan Chase versus another bank that he owns shares in.
+NEUT39|Yeah, I mean, you could argue that Warren Buffett is owned exactly the wrong bank for a number of years now because he's own wells and not JPMorgan.
+NEUT40|JPMorgan is more of a recent purchase where as well as he's had for a very long time.
+BULL41|And just for instance, over the past five years, JP Morgan is up about 90% the markets up about 50% wells is actually.
+NEUT42|Down over that time period so you know he would say that.
+BULL43|"Well, you know, overtime wells has been OK and that's true, but you know, JPM has been a better bet and he missed a lot of that upside."""

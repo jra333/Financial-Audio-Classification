@@ -1,0 +1,9 @@
+NEUT0|"""Welcome to HCM insight with myself."
+NEUT1|Charles Koch and the chief currency analyst here at Hy CM.
+NEUT2|The Coca Cola company is American multinational Beverage Corporation incorporated under Delaware's General Corporation law and Headquarters, Atlanta, GA.
+BULL3|The Coca Cola Company has interest in the manufacturing, retailing and marketing of non alcoholic beverages, concentrates and syrup over the last 25 years, the company has gained twenty times in the last 25 years.
+BULL4|The company usually has a strong time of year between the 1st of March and the 5th of June, gaining an average plus 6.32%.
+BEAR5|Last year the company lost value during this.
+BEAR6|But that was due to COVID-19 and juice selling the maximum game was over 24% profit in 2009 trade risks.
+BEAR7|The main risk to this trade is if we see a major correction in equity markets which will also weigh in Coca Cola stock.
+BEAR8|"A sharp rise in US 10 year yields could cause a U.S. stock sell off, so there are some ongoing risks in the market at the moment to be aware of."""

@@ -1,0 +1,46 @@
+BEAR0|"""Netflix shares are selling off on the company's biggest earnings miss ever."
+NEUT1|The streaming giant Miss Big on subscriber adds.
+BEAR2|It came up short of estimates there by more than a million users, as the lockdown boost tapers off.
+BULL3|Now Netflix did say it could have beaten subscriber forecasts if it just had a bit more time.
+BULL4|It's investor relations chief saying on last night school quote if the quarter was 48 hours longer, we would have come in slightly above our guidance forecast.
+BEAR5|Shares are down about 6:00, called 6 1/2% today.
+NEUT6|But there's still up about 50.
+NEUT7|50% on the year Dom I take his point, but that's that's just not how it works, right?
+NEUT8|I wish I had more hours in my day, more days in my week, more weeks in my month.
+NEUT9|I'm there's all different kinds of benchmarks you can go towards, but but the point being, if you have these types of situations where you're talking about the number of hours you have to meet certain targets, I don't know what it means about whether or not the trajectory of your business is what it used to be.
+NEUT10|Now.
+NEUT11|This is in fact a mature company.
+BULL12|It's been around for a long time, growing at Hyper hyper growth rates.
+NEUT13|Over the course of the past several years, the concern is now whether or not there's a slowdown.
+NEUT14|In effect, this is not about whether or not they're not going to add subscribers.
+NEUT15|They will continue that subscribers, but it just won't be like it was, say, 2345 years ago.
+NEUT16|And maybe that's when people started adjusting the premium that you pay for it, or the amount of valuation you put on a company like this.
+NEUT17|So yes, it's a big deal, but I'm not sure that Netflix is going to be derailed just because of this.
+NEUT18|Yeah, well in Deirdre we were talking about this the other day, but they did.
+BULL19|I mean they had monster growth in Asia Pacific and you know there's no one expects Netflix to keep up with the kind of bulge that it pulled forward during the pandemic.
+NEUT20|It's just a question of how big the hangover is going to be.
+NEUT21|Yeah, and that's why I think that perhaps there's too much focus on these subscriber numbers.
+NEUT22|You got to look at the long term growth picture for Netflix and what I found most interesting about those results is that the cash burn is being stemmed.
+BULL23|Netflix is getting closer to profitability, has some $8.4 billion in cash on its balance sheet at the end of the quarter.
+NEUT24|And Kelly, I have covered a lot and still do cover a lot of unprofitable companies, so this is something I look for, and I think that this leaves Netflix is.
+NEUT25|Long term trajectory or you know thesis in place the fact that it's going to get there and that it will be able to produce content again.
+NEUT26|Yes there are some pretty big competitors on the landscape.
+NEUT27|We talked about this last time.
+NEUT28|Kelly at Disney Plus in particular, which I think has you know longer lasting content but that profitability story I think is key here.
+BULL29|And free cash flow.
+NEUT30|They're trying to be positive this year.
+NEUT31|Julia quick last word on this.
+NEUT32|I knew you were focused on those content offerings and you know, the company was quick to say, you know, listen, we still have a full slate.
+NEUT33|Yeah, absolutely.
+BULL34|Netflix has said that they were not only among the very first to keep shooting, but they're not going to see any delay in their content because they've been able to get productions up and running around the world.
+BEAR35|But Kelly, another thing that Co CEOs, Reed Hastings and Ted Sarandos stressed is that they had warned that there was going to be a dramatic slowdown from 10 million subscriber additions in Q2.
+NEUT36|They expected 2.5 million in Q3.
+NEUT37|This was of course lower than that, but the drum they have been beating is the idea that there was a pull forward.
+NEUT38|They pulled forward all of the subscribers.
+NEUT39|They probably would have added in the second half of the year.
+BEAR40|Pulled him forward into the first half of the year, but I think Kelly we also have to remember that they warned that Q4 subscriber additions they expect those to be lower than what analysts had been looking for, and they also warned about some really tough comparisons in the first half of next year.
+NEUT41|Kelly.
+NEUT42|Yeah, suggesting this cloud could hang over the shares for some time, but it's one to watch the original member of Thing.
+NEUT43|There's a lot riding on this.
+NEUT44|Shepard Smith here.
+NEUT45|"Thanks for watching CNBC on YouTube."""

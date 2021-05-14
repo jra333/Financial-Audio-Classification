@@ -1,0 +1,42 @@
+NEUT0|"""I drink probably 512 ounce cokes a day."
+NEUT1|And that's about 700 calories.
+NEUT2|And I've been doing it more or less.
+NEUT3|All my life.
+NEUT4|I can't imagine anybody that feels better than I do.
+NEUT5|I mean, I'm happy I enjoy life.
+NEUT6|You know, I've always wondered if I'd had a twin.
+NEUT7|And he had to eat broccoli and asparagus and Brussels sprouts and done it every day.
+NEUT8|And I've been drinking my Coke and eating potato chips, and there are some cookies that also, you know, have 100 calories per oz.
+NEUT9|The you know which of us.
+BEAR10|I think the other guy would be gone.
+NEUT11|I mean, I think he probably would have committed suicide actually.
+NEUT12|And he certainly wouldn't feel as good about life inside.
+NEUT13|I feel good every day it is.
+NEUT14|It is a an example of what's called a cascade, where consensus becomes fact and we've had in the past that that red meat causes heart disease, which we now know probably isn't.
+NEUT15|It's not that simple Anan I've even talked to Andrew about this looking at sugars linked to diabetes or obesity.
+NEUT16|Even the best study that I've seen.
+NEUT17|There's all these caveats that it's impossible to do a controlled experiment where you get rid of.
+NEUT18|All the other external factors to actually pinpoint what's going on there because there's genetics, there's invite.
+NEUT19|There's all these different things, but it becomes, you know, consensus suddenly becomes fact an.
+BEAR20|It's just, you know, and it's hurting Coca-Cola right now.
+NEUT21|And as a shareholder.
+NEUT22|You know, I mean, there's also microaggression and safe zones, and I mean the world is a little bit crazy right now.
+NEUT23|Warren, in terms of political correctness, yeah?
+NEUT24|Well I I'll make two points that hey, I do think you live longer if you're if you're happy.
+NEUT25|On balance I I would.
+NEUT26|I would bet on the on the person who's extremely happy living longer than somebody that's sour every day of the year.
+NEUT27|But beyond that I mean it.
+NEUT28|If you wait 3500 calories and you burn up 2700, I don't care what it is you're going.
+NEUT29|You're going to get fat and it's just.
+NEUT30|It's a question of you know how much you put in and and and what your metabolism isn't at the annual meeting we had talked about Coke in the early part, and when I went to lunch I I bought 3 candy bars in each one of those candy bars had over 200 calories, whereas a 12 ounce can of Coke has a little under 150.
+NEUT31|So one of those candy bars.
+NEUT32|You're getting more calories and you're getting a lot of sugar and it.
+NEUT33|I just think it's a little.
+NEUT34|It's a little crazy.
+NEUT35|They've been selling Coke since 1886.
+NEUT36|You know they sold 1.9 billion, eight ounce servings a day that 693 billion servings a year of Coca Cola products, one kind or another, and I. I I don't know if you want to eat way to help more than you burn up, right?
+BULL37|You know you've got you're gonna have some help bro.
+NEUT38|You can throw GMO's and preservatives and kale and I even in my book even CO2.
+NEUT39|But they all these things at this point the cascade of where consensus becomes you know, unquestionable dogma and science.
+NEUT40|It's just we're living in a weird age.
+NEUT41|"Hey CNBC."""

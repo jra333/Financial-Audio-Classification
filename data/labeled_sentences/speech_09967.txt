@@ -1,0 +1,23 @@
+NEUT0|"""I'd like to withdraw my life savings please and hurry, Sir, this is a joint account."
+NEUT1|You'll need your wife's signature too.
+NEUT2|Oh yes, of course.
+NEUT3|Yeah, she's behind that plan.
+NEUT4|Hello Marge hiome Chinese please.
+NEUT5|You're the boss.
+NEUT6|Mary, ask the man for some candy.
+NEUT7|No no, no candy for you and at least get some candy for yourself.
+NEUT8|Kids.
+NEUT9|Here's your candy thumbsucker, Sir.
+NEUT10|Your life savings.
+BULL11|Yes, I see that it's in Bill form excellent.
+NEUT12|I'd like to buy 500 shares of an emotion incorporated.
+NEUT13|OK, now before I execute this order, Are you sure you understand the risks of stock ownership?
+NEUT14|Absolutely.
+NEUT15|You are the monkey.
+NEUT16|Make the trade.
+NEUT17|For automated stock prices, please state the company name, an emotion, an emotion up one in 1/2 Yahoo, Yahoo up six and a quarter.
+NEUT18|What is this crap?
+BEAR19|Fox Broadcasting down 8?
+NEUT20|Sleep tight, my beloved your my ticket out of this hellhole.
+NEUT21|Our ticket out of this hellhole.
+BEAR22|"Turning to the stock market, an emotion is up an eighth yes after plunging 75 points this morning, you plunging means up in 75 means 200, the firm declared super Duper bankruptcy, which is terrible news for the companies only stockholder Homer Simpson."""

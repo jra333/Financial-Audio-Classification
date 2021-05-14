@@ -1,0 +1,14 @@
+BULL0|"""Asian financial markets bounced back on Thursday as investors digested the news that Donald Trump will be the next president of the United States."
+BULL1|In stocks, Japan's Nikkei surged as much as 7%, gaining more than 1000 points to recover Wednesday.
+BULL2|Sharp losses Australian shares were up over 3% while in Hong Kong.
+BULL3|The Hang Seng Index gained more than 2% in the currency market.
+BULL4|The Mexican peso rose nought .4% after declining more than 12% in the previous session.
+BEAR5|Meanwhile, the Japanese yen and the Swiss franc were flat as safe Haven assets lost their luster in the debt market.
+BEAR6|Asia Pacific government bond prices tumbled, sending yields higher.
+BULL7|In particular, yields on 10 year government bonds in New Zealand, Australia and South Korea hit six month highs.
+NEUT8|Investors in China use the US election results as an excuse to trade on speculative stocks.
+BULL9|Why's Soft, a company listed on the Shenzhen Exchange and whose name in Chinese sounds like Trump wins with wisdom rose one point 3% also on the Shenzen Exchange, Yunnan.
+BEAR10|She industrial and auto part maker, whose name in Mandarin sounds like aren't Hillary fell 2.3%.
+NEUT11|Largely investors are adopting a wait and see approach.
+NEUT12|As Mr. Trump will not take office until late January.
+NEUT13|"Before then, the market is likely to refocus its attention on any action the US Federal Reserve might take on interest rates at its meeting next month."""

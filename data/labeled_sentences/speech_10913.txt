@@ -1,0 +1,27 @@
+NEUT0|"""10 When a 20 year old Naperville Man opened his stock trading app on his phone, it showed him close to $1,000,000 in the red and soon after Alexander Kearns committed suicide."
+NEUT1|WGN's Eric Wrong is live in well met tonight where he talked to the man's relative to understand exactly what happened Eric.
+BEAR2|Well, good evening, a very sad story all the way around.
+NEUT3|No matter how you look at it here.
+NEUT4|One way to kind of think about this is when you go to your banking app and you hit that app and you see all of your balances.
+NEUT5|You see your checking your savings.
+BULL6|Your credit card balances well.
+BEAR7|In this case the 20 year old opened his investment app and saw that he had close to $730,000 in a negative cash balance.
+BEAR8|It's actually a user interface issue, and when Alex opened his app, he saw that his cash balance was negative $730,000 and if you look at the screenshot that I shared with you all.
+NEUT9|He actually had 16,000 and some odd dollars in his account.
+NEUT10|That was his true savings.
+NEUT11|So relative William Brewster says he never actually lossed that money.
+NEUT12|He also says 20 year old Alex Kerns was home in Naperville back from college at the University of Nebraska when he became interested in investing.
+NEUT13|His family says he downloaded an investing app called Robin Hood and began making trades some very complicated investments that have different options to them.
+NEUT14|Thursday he logged on and saw this in his account.
+BEAR15|His family says he took a screen grab thinking it ruined his and his family's financial lives.
+NEUT16|He then wrote a suicide note.
+NEUT17|His body was found the next day.
+NEUT18|He had thrown himself in front of a train Brewster, who works in finance himself, wants Robinhood to make sure people understand what they're looking at when they see the cash balances on the app, he says Alex had actually covered all of his risk.
+NEUT19|The idea that you know that amateurs or novices are using your platform as an options trading platform, and the idea that you would put a negative $730,000 cash balance, not cash and margin cash is absurd and it needs to stop and it needs to be fixed and what I want and what my family wants is for that interface to be fixed and a real statement from that company that acknowledges the harm and potential for harm.
+NEUT20|That that can create because it's negligent at best.
+NEUT21|An I'd argue it's reckless and and The thing is that.
+NEUT22|Now Brewster shared with us the response the company had issued publicly.
+BEAR23|It says quote all of us at Robin Hood are deeply saddened to hear this terrible news and we reached out to share condolences with the family.
+NEUT24|We will not share, however, any details regarding the account to respect privacy and confidentiality.
+BULL25|Brewster called it a canned response from the company and he will continue to demand more answers from that company were alive and well met tonight.
+NEUT26|"Americrown WGN news."""

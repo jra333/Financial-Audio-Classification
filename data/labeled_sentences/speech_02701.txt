@@ -1,0 +1,43 @@
+NEUT0|"""Right now, what do you interpret of the bond move?"
+BEAR1|We've seen price up yield down, down, down.
+BEAR2|I don't really like the bond market rally.
+NEUT3|Wait, what do you mean?
+NEUT4|I know it's when a big rally gets going.
+BULL5|It's great and stuff.
+BEAR6|I feel that the short term outlook people traders are moving down yields and they're really depressing yields for you no longer term investors in bonds.
+NEUT7|I mean, don't forget a lot of your bond return over time.
+NEUT8|1020 years, 30 years.
+NEUT9|It's all based on reinvestment risk.
+NEUT10|What yield can you get?
+BEAR11|To reinvest the coupon interest an when they drive rates down here, it just makes me afraid that what happened to Europe and Japan is going to happen here, where yields go down close to zero across the curve.
+BEAR12|I don't like it.
+NEUT13|I feel you know a lot of the rating agencies we you know, we did work with them and you know a lot of the sovereign debt risk always among countries is if you have a higher interest rate in the country, that's good for the rating.
+NEUT14|Not too high, but you need some sort of interest rate.
+NEUT15|And I just feel rates here.
+NEUT16|2 1/4 percent, 10 year yield.
+NEUT17|It just feels too low to me.
+NEUT18|That's why I don't like the rally, right?
+NEUT19|But Chris, what happens?
+NEUT20|I mean, what would need to happen in your mind for you know yields to reach 2%?
+BEAR21|Not a whole lot, but it's been pretty odd.
+BEAR22|I don't know who's trading these markets, I mean the other day we came down to 2 1/4% but we didn't quite get to 2 1/4%.
+NEUT23|Then we broke it.
+BEAR24|We didn't quite go much lower than that.
+NEUT25|It doesn't feel like it's trading completely logically here.
+NEUT26|I don't know.
+BEAR27|It's, you know, we've heard that customer volumes are down.
+NEUT28|Something's not right in the in the way it's trading.
+NEUT29|What would it take?
+NEUT30|I don't know whenever we break a new level like 2 1/2% people immediately talk about the next level, but Chris when you say something's not right, could this be a Canary in the coal mine?
+NEUT31|Can it be you know something ugly?
+NEUT32|Or is it just market works?
+NEUT33|No, I think it's just mindless bond market rally.
+NEUT34|Once it gets going it gets going.
+NEUT35|Don't forget one of the hallmarks of these big bond market rallies.
+BEAR36|I mean it's not that far yields are down, but one of the hallmarks of a rally is that it rejects.
+NEUT37|News that's positive for the economy and goes with the negative news and embraces that.
+NEUT38|So we just completely forgot about the new high end consumer confidence the other days.
+NEUT39|Clearly, dimension recut it quickly.
+NEUT40|I don't, I don't think so.
+NEUT41|I don't think I think he's on the sidelines.
+BULL42|"It's in a good place right now."""

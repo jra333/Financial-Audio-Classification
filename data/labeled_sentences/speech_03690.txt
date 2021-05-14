@@ -1,0 +1,45 @@
+NEUT0|"""Tesla has so captured the imagination of investors that earnings may not even matter anymore."
+NEUT1|I'm Jack Carter, editor of barons, hear the band Levison, a senior editor at the magazine.
+NEUT2|You've been watching Tesla from the beginning, and you have an interesting thesis that upcoming earnings on August 3rd don't really matter for believers in Tesla.
+NEUT3|That's right.
+NEUT4|I mean, we see this every time that they release the number.
+NEUT5|In most stocks, you beat earnings or beat deliveries, or in this earnings you missed deliveries as kind of stuff.
+NEUT6|It's pretty easy to predict where the stock is going to go with Tesla, you really can never know, partially because these numbers to if you're betting on Tesla, you're betting on such a long term future for this company that from quarter to quarter it doesn't really matter what it's doing.
+NEUT7|Things like cash burn might matter.
+NEUT8|Things like you know whether they need to do another equity raise.
+BEAR9|Maybe that matters, but these things you can't value Tesla and look at in the same way that you do most other companies and even people who differ think that it's going to be a loss.
+NEUT10|It's just whether it be 51 cents a share.
+NEUT11|$0.70 share, whatever.
+BEAR12|Exactly, I mean it's still losing money right now.
+NEUT13|Now the thesis for Tesla used to just be how many electric cars could they sell?
+NEUT14|Now it's more complicated, right?
+NEUT15|It's not just an electric car company, it's an electricity company to battery company.
+NEUT16|It's a space company.
+NEUT17|That's right.
+NEUT18|I mean, it's you know, if this merger between Tesla and SolarCity both Elon Musk companies goes through, you have a company that's making cars making home power storage units, making solar panels, and it gets.
+NEUT19|Really, it's a complicated story.
+NEUT20|Before it was very simple, it's like Tesla makes.
+NEUT21|Awesome cars.
+BEAR22|They're going to take on the big Three automakers, and it's going to just disconnect.
+NEUT23|The wonderful thing is, the Apple of cars now it gets to be a harder story to tell its cars.
+NEUT24|But rather than make solar panels that are cool looking now or it's hard to know, and I think that makes the story the narrative a lot more difficult now there's another aspect for investors here, which is more technical in nature.
+NEUT25|The stock is so heavily shorted, there's so many skeptics that it's actually hard to short.
+NEUT26|Can you explain that?
+NEUT27|Yeah, I mean, the short a stock you just can't say I'm going to sell a share.
+NEUT28|You have to.
+BEAR29|Borrow a share and the cost of borrow Tesla shares has gotten very high to the point where if it doesn't go down a massive amount, you're going to lose money and that could actually, you know, perverse way push the stock higher right?
+NEUT30|There was called a short squeeze exactly.
+BEAR31|I mean, if there's you know, all these people are feeling this pain from the stock going up and they're paying these high costs to hold it.
+NEUT32|At some point they might just have to throw in the towel.
+NEUT33|You know exactly what how the shorts are influencing, what's going on.
+BEAR34|People got massively short when Tesla announced it was going to buy Solar City, and I think the stock actually after dropping some is probably right around the same place, maybe even know higher now.
+BEAR35|Behrens was burned awhile back for being skeptical on the stock when it was around 100.
+NEUT36|Now it's around 200 with humility.
+NEUT37|Realizing that our crystal ball is not crystal clear.
+NEUT38|What's your prediction?
+NEUT39|This is the hardest one to call because on the short term I have no idea.
+NEUT40|'cause it just moves on so many different sentiment kind of things.
+BEAR41|I do think that ultimately our thesis is going to be correct that there's just too many moving parts here now there's too much the companies just burning through too much cash that it's just not going to be a great long term investment for people.
+NEUT42|But that being said, if you're a fan of this company, go ahead and the car is pretty nice.
+NEUT43|Car is very nice.
+BULL44|"Thanks man."""

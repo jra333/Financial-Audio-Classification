@@ -1,0 +1,11 @@
+NEUT0|"""Three stocks that are better to buy than their products right now."
+NEUT1|If I spent as much on shares of Brown Forman as I do on Jack Daniels, I'd be collecting dividends instead of spots on my liver.
+NEUT2|No, you're stupid.
+NEUT3|Anonymous comment.
+NEUT4|We paid $2400 for a family season pass at Disney five years ago.
+NEUT5|Invest that money instead and we have over $4500.
+NEUT6|Is the House of Mouse really worth this?
+NEUT7|Much the average adult spends 38 minutes a day on Facebook.
+NEUT8|If your time was worth just 20 bucks an hour and you invested that in Facebook stock.
+BULL9|You'd have over $1946 in one year and the product better than its stock General Mills is up only 12% over the last year versus a 57% return on the market.
+NEUT10|"So enjoy those Lucky Charms."""

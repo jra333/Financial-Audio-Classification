@@ -1,0 +1,26 @@
+NEUT0|"""So today I'm going to show you how to sell your funds on Etrade fairly quickly, so we're here on a desktop to show you what the trade looks like and how to go through this process."
+NEUT1|So when you're here on E trade, you're going to see your main account right over here and then if you have multiple different funds that you're going to see them in this area here, we currently have just one fund in this account, so we're going to go ahead and click on the symbol, which you can kind of see it highlighted over here.
+NEUT2|So if we go ahead and click on here, it will take us into the broader version of this fund.
+NEUT3|And we can do a couple different things.
+NEUT4|We can either buy or sell.
+NEUT5|Of course, today we are going to go ahead and sell the stock, so if we click on cell here, it's going to take us to this new page here.
+NEUT6|Now this is of course for mutual fund orders, as you can see up top here.
+NEUT7|So the action is currently at sell and it's going to ask you which fund you want to sell.
+NEUT8|Which is the Vanguard Target Retirement Fund now has of course the option to do the entire position.
+NEUT9|We could do dollar, or we could do it.
+NEUT10|The number of shares.
+NEUT11|So if maybe you don't want to have the full amount pulled out, you can do it in a certain different amount.
+NEUT12|So if we wanted to do maybe a.
+NEUT13|$1000 out of this account we type in 1000.
+NEUT14|Now keep in mind here it does say estimated total cost.
+NEUT15|Sometimes there are different costs that come with having certain funds in your account, because maybe you didn't have him for the allotted amount of time.
+NEUT16|So if it shows that there are certain fees like over here, you can see days since invested free and then 90 days or less can cost you up to $50.00.
+NEUT17|So making sure you're within that threshold to be able to sell out without actually having to cost yourself a lot of money.
+NEUT18|Making sure you are good to go, then you can go ahead and click on this.
+NEUT19|Preview order right over here so you're not officially done yet in this section, so this is kind of just the overview and where to go.
+NEUT20|And if everything looks good then you can go ahead and hit your place order, which was a terrible arrow, so I'll go ahead and do that again, right over here it says place order and that will finalize everything that you'll get a confirmation number and then on the very next business day it will go ahead and process that all for you and have a money available for you in to your buying power.
+NEUT21|Now you can use that money to buy into other stocks or sell into other areas.
+NEUT22|But of course the choice is up to you and app.
+NEUT23|Now I want you to learn how to actually be able to withdraw that money from E trade if that's something you want to do.
+NEUT24|So I want you to check out my next video or right over here.
+NEUT25|"My name is Dennis and I'll see you in the next video."""

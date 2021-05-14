@@ -1,0 +1,32 @@
+BEAR0|"""What's going on guys?"
+NEUT1|I'm Angela tender in your watching stocks in seconds where we do extremely quick rundowns of businesses which have been suggested by you guys.
+NEUT2|So if you have a stock you want covered, make sure to let me know down in the comments below.
+NEUT3|So today we're taking a look into Nordstrom ticker symbol JWN.
+NEUT4|Let's get into the video.
+NEUT5|Alright, so let's start with a brief overview of Nordstrom.
+NEUT6|Then we'll look at some key metrics, value the business, and Lastly, I'll give my own personal opinions on the company.
+NEUT7|Nordstrom is a fashion retailer which sells clothing and apparel under both owned and private label brands.
+NEUT8|Their more higher end products are sold in their Nordstrom retail stores.
+NEUT9|While they're discounted brands are primarily sold via Nordstrom Rack.
+NEUT10|The Nordstrom Company currently operates about 380 stores amongst 40 different states.
+BEAR11|However, we're actually seeing some of these stores closed due to the damage caused to many retail chains by the pandemic.
+BULL12|Now, even though most retail apparel chains have been getting wrecked over the past several years due to a shift to E Commerce, Nordstrom has actually been able to navigate fairly well with seeing slow but steady revenue and earnings growth over the past several years and.
+BEAR13|They've actually been a cash flow beast by generating hundreds of 1,000,000 in free cash flow, but it is important to note that this free cash flow has actually been on a consistent downtrend for a few years now.
+BEAR14|Moving on to the balance sheet, Nordstrom seems to have an extremely ugly balance sheet with less than 1 billion in cash and a massive almost 6 billion in depth.
+NEUT15|However, it's also important to note that 2.1 billion of this debt is just leased liabilities.
+NEUT16|Which, if you're curious what this is, please feel free to check out my video, where I dive into drop boxes.
+NEUT17|That and we also mentioned at least liability.
+BEAR18|However, even with backing this $2.1 billion out, Nordstrom is still left with roughly 4 billion in debt versus that 1 billion in cash.
+NEUT19|Moving on to valuation at today's share price of roughly 23 and a half dollars per share, Nordstrom is valued at $3.35 billion valuation, or about an 8 billion enterprise value if we account for that depth.
+BEAR20|And even though their current price earnings ratio is less than six, analysts clearly expect the shift to ecommerce to continue taking a toll on Nordstrom as they are left with just a forward PE of just over 13 times, which I'd argue is probably a fair valuation.
+NEUT21|Now.
+NEUT22|As for myself, I'm not really too interested in picking up shares of Nordstrom just yet due to the threat of online retail as well as how ugly their balance she is.
+NEUT23|In addition, it's worth noting that Nordstrom typically pays a pretty fat dividend, which is something I'd actually argue.
+BEAR24|Is a terrible management decision because it's clear that the death of retail is staring them right in the face.
+NEUT25|And instead of focusing on paying down that massive debt that they have in transitioning their business model into e-commerce, they're actually just kicking along their debt and returning capital to shareholders.
+BEAR26|Which, like I said, I think, is a pathetic decision.
+BULL27|Now, of course, if you were able to pick up shares back at during the market crash that we saw earlier this year, then you could have seen some pretty nice gains.
+NEUT28|However, As for myself, I just don't see the appeal for this company, and I'm not interested in opening a position in the stock.
+NEUT29|But what do you think?
+NEUT30|Let me know down in the comments below that wraps up this video.
+BULL31|"Thanks for watching these guys."""

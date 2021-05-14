@@ -1,0 +1,48 @@
+NEUT0|"""Mizuho just initiating coverage on Tesla."
+NEUT1|Buy rating $775 price target.
+NEUT2|Calling it a 100 year Disruptor joining us now is the analyst behind the call Vijay Rakesh from Mizuho.
+NEUT3|Does your initiation?
+BEAR4|Does the timing here of your bullish call have anything to do with the fact that the stock had an unusual few weeks down?
+BEAR5|More than 20, four, 5% from the highs?
+NEUT6|Thanks for having me on Sarah and Wilfred.
+NEUT7|We obviously have been following the EV market and we like the space, but I I heard on that score in the Box Scotland St this morning was questioning my valuation on Tesla and I wanted to explain that a little bit how differentiated we are.
+NEUT8|I think we look at Tesla more as a technology company rather than automotive OEM.
+NEUT9|We think the keys to the EV market lies in the battery leadership.
+BULL10|That Tesla has the areas and hardware leadership that Tesla has and also the vertical integration.
+BULL11|And with that leadership we think they can get to 10% share of the automotive market by 2030.
+NEUT12|And that's not that's very achievable because if you look at look at the market today, Volkswagen Toyota all of them have.
+NEUT13|10% plush chair so very easy for us to get to that kind of share by 2030 and we get to a sum of parts for Tesla.
+NEUT14|Using that to about $845.00.
+NEUT15|But again we used 11 times price to sales which is very easy to get to for a technology disruptor because if you look at the semiconductor technology space, especially names like NVIDIA, even Intel, Texas Instruments, EMD or trade somewhere in the five 218 times price to sales.
+NEUT16|So we think you know.
+NEUT17|It's a.
+BULL18|It's a very effective valuation here.
+NEUT19|Definitely it has a long very strong road map ahead of it.
+BULL20|Very differentiated, very vertically integrated.
+NEUT21|They own the battery and the hardware which no OEM in the OR the world.
+NEUT22|Nobody globally owns their own battery or hardware, so there's a big different shader fully vertically integrated, almost like an Apple on wheels that can continuously innovate, costs down, drive down, cost, pass it to the consumer.
+NEUT23|So number of questions there based on your call.
+NEUT24|One of them is, it sounds like a lot of it is on.
+BEAR25|I'd share, but isn't Tesla losing market share?
+BULL26|Particularly in Europe, as competition ramps up?
+NEUT27|So if you look at Tesla, they have only less than one person share of the total LVP market.
+NEUT28|If you look longer term, we think they can.
+BULL29|They're growing at 5060% kegger on the top line.
+BULL30|They can easily grow to 10% share of the LDP market if you look out just ten years.
+NEUT31|And what can drive that is also their cost leadership because they have their own hardware, their own battery.
+BEAR32|What will basically hold back a lot of the other OEMs is battery supply.
+NEUT33|They have to depend on 3rd party battery suppliers.
+NEUT34|They had to depend on the technology with the third party.
+NEUT35|Battery suppliers in Tesla.
+NEUT36|They own the battery supply.
+NEUT37|They have their own technology is 50% cheaper than what you have out there.
+BULL38|So right there they can have a big cost leadership versus many of the competition.
+NEUT39|The legacy guys.
+NEUT40|And if you look at battery is 30% of the cost of the EV, so getting the cost they cost right getting the supply right is key to leadership.
+NEUT41|So in the near term might be called a quarter.
+BEAR42|You have this fluctuations but I would say focus in the long term this is a big disruptor.
+NEUT43|You're missing the forest for the trees.
+NEUT44|They have their own technology.
+NEUT45|They control the entire supply chain from hardware to software to battery to chassis, and they can really cost on well ahead of the competition.
+NEUT46|Shepard Smith here.
+NEUT47|"Thanks for watching CNBC on YouTube."""

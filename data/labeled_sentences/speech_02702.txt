@@ -1,0 +1,26 @@
+NEUT0|"""Inflation."
+NEUT1|You talk about the headline number and we have a great chart that we have titled Food for Thoughts which shows that in the food component is turning down.
+NEUT2|So food is getting cheaper, but we may not necessarily see that filter through to core inflation, will it?
+NEUT3|I mean, we're having something of a similar debate in the US right now when it comes to oil prices, they're meant to be transitory in the inflation data, but actually our inflation is stickily low.
+NEUT4|That's right, the UK has to contend with the fact that it's got really a big Sterling pass through coming through to inflation and the work that we've done on that suggests that it can actually take between one to two and even three years for that effect to fully wash out.
+BEAR5|So I think the US has sorry the UK has a lot of temporary inflation coming through that Channel.
+BULL6|It's right, I think in the US it's a little bit more perplexing and a little bit more worrying that even though it's fairly far advanced in its cycle, even though the labor market seems to be tight, we're not seeing that normal relationship, or at least as strong as we would expect.
+NEUT7|Between closing Slack and rising domestic inflation, and I think it really provides food for the thought at the Fed, and maybe that's what Yellen was signaling a little bit in the previous meeting.
+NEUT8|An interesting Lee James and Mark, I just want to point out that Loretta Mester, the Cleveland Fed president, has just given a speech in Cleveland in which she says that she now believes the natural rate of unemployment is 4 3/4% in the US, not five any longer.
+NEUT9|That's a sea change really, isn't it, James?
+BEAR10|It is, but it's it's one of the natural things that I think central bankers need to start asking themselves as they see unemployment fall 2 and even below where they thought the natural rate was.
+NEUT11|And they're not getting that inflationary impulse.
+NEUT12|There's two questions.
+NEUT13|One, it could be, it's just delayed and they can wait for it.
+NEUT14|Or one it could be.
+NEUT15|Actually, there's more spare capacity and that's either in the headline unemployment rate, but perhaps in other measures of unemployment.
+NEUT16|So under employment, people working perhaps less hours than they'd like to work, so maybe there is a bit more room in these labor markets than that in central banks of thought.
+NEUT17|Just coming back to the beer we James to what extent is there?
+NEUT18|Beer we, it's it's job easier and that it can lean on the FTC.
+NEUT19|The Financial Policy Committee who can be a bit more stringent on on lending and bank capital levels.
+NEUT20|Does that mean the BYOE can sort of step back and allow the macro Prudential side of regulation to to work its magic?
+NEUT21|I think that's right.
+NEUT22|I think it feels a little bit more comfortable now 'cause it almost has two hands with the one hand it can look after.
+NEUT23|The macro economy try and meet its inflation target on that longer term horizon, but it always has to be nervous that you can create financial imbalances, especially if policy is loose for a long time.
+BULL24|So perhaps it now feels a bit more emboldened to leave that policy looser for a little longer, because it has this FPC with it, with its additional tool kit, and the FTC can feel quite confident and has been quite confident in taking action that it feels should mitigate some of the systemic risks in the UK economy.
+NEUT25|"At the moment we're seeing them look very, very closely at Consumer Credit."""

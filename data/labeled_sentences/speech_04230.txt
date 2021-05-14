@@ -1,0 +1,31 @@
+NEUT0|"""Hello everyone, before moving onto the video we ask you to support us and subscribe to our channel please."
+BULL1|The iota price is defying gravity even as other crypto currencies are in the red, the token has jumped by more than 10% in the past 24 hours, making it the best performing digital currency.
+BEAR2|Other currencies like Bitcoin, Ethereum and Cardano have declined by more than 6%.
+NEUT3|What is iota?
+NEUT4|Iota is a blockchain company that focuses on the Internet of Things, which is a fast growing industry that helps machines communicate with the Internet.
+NEUT5|It uses the Tangle network that helps to record the exchange of data and value.
+NEUT6|The IOTA token is the native currency that is used in the platform.
+BULL7|In the past few months, the iota price has been in a strong upward trend.
+BULL8|It has risen by about 2200% from its lowest level last year.
+NEUT9|373% of these gains have happened this year.
+NEUT10|Why Iota is rising?
+BULL11|The price is rising after the company released the Smart Contracts protocol ahead of its core decide rollout in a statement yesterday, the Iota Foundation said that it was accelerating the updates to the Tangle Network that will make it easier for developers to build on the network, a spokesperson said.
+NEUT12|The vision of ISC P is to run in production on the fully decentralized IOTA protocol without a coordinator.
+BULL13|That is what we are building for with go shimmer, and we're very confident that we will be able to achieve that this year.
+BULL14|In the past we see the price of digital currencies rally before a major upgrade.
+NEUT15|This explains why the price is rallying today.
+BEAR16|The iota price has been in a narrow range recently.
+NEUT17|In fact, it was forming an ascending triangle pattern that is shown in red.
+BEAR18|It is also moved slightly above the 15.
+NEUT19|In 25.
+NEUT20|Moving averages.
+BEAR21|Also, the price is 16% below the all time highs of 1.5990 dollars.
+BULL22|Therefore, I suspect that the price will continue rising as Bulls target this price.
+BULL23|Still, Bulls will need to defend the important resistance at 1.500.
+BEAR24|First, however, a decline below 1.2700, which is the previous top of the triangle, will invalidate this trend.
+NEUT25|Don't forget to subscribe to our channel and open notifications to learn more about gold dollar, Euro commodities.
+NEUT26|Bitcoin altcoin crypto currencies and other investment tools.
+NEUT27|In this video, references and opinion is for information purposes only.
+NEUT28|It is not intended to be investment advice.
+NEUT29|Every investment and trading move involves risk.
+NEUT30|"You should do your own research while making a decision."""

@@ -1,0 +1,23 @@
+NEUT0|"""Winners and losers in sports are often decided by who makes the best adjustments during a game or event, but 2020 required pivots on the fly off the field like never before."
+NEUT1|The NBA and the NHL created bubbles to finish their seasons.
+BEAR2|ESPN and other networks rushed out documentaries like the Last Dance to fill programming holes and athletes trained at home prevented from sticking to their usual finely tuned routines.
+NEUT3|Sports fingerprints were all over the biggest storylines of 2020.
+BEAR4|The NBA's decision to halt its season in March awakened many Americans to the seriousness of the coronavirus pandemic, and athletes were high profile participants in racial injustice protests and use their social media accounts to amplify their message.
+NEUT5|Is the US presidential election triggered?
+NEUT6|LeBron James is more than a vote campaign and team owners opened their massive buildings to serve as socially distant voting outlets.
+NEUT7|Here are our selections for 2020's most intriguing people, companies and trends from the intersection of sports and money.
+NEUT8|When the coronavirus lockdown started in March, people often went one of two ways.
+NEUT9|They drank or worked out, says Forbes Awards, Judge Scott Tilton, CEO of Hook it, which tracks the influence of athletes, teams, leagues and brands on social media.
+BULL10|Fortunately for Palatine, enough chose workouts, the stock is up 9 fold since its March lows.
+BEAR11|That is a massive turn around, with Peloton having open 2020, reeling from a viral ad campaign labeled sexist and tone deaf by many.
+BEAR12|As well, a lawsuit over unpaid music royalties questions remained over the market for $2500.
+BULL13|Stationary bikes CEO John Foley is now targeting 100,000,000 subscribers willing to pay $39.00 a month to sync workouts to their peloton equipment, up from 1.4 million currently.
+NEUT14|The 12 year old Anglo Japanese skateboarder competes for Great Britain and was on track to qualify for the 2020 Summer Olympics.
+NEUT15|She posted a video to her 765 thousand.
+BEAR16|Instagram followers of a horrific fall that reportedly resulted in several skull fractures but is determined to be ready for the rescheduled Tokyo Olympics in 2021.
+NEUT17|Brown was featured in a Nike ad campaign with Serena Williams and Simone Biles.
+NEUT18|Last year it took a lot of guts for silver to shut everything down, Tilton says of the NBA Commissioner's decision to pull the plug on all games March 12th, the day after the first player, Rudy Gobert, tested positive other leagues quickly followed suit.
+NEUT19|The NBA finished its season in an Orlando bubble without a single COVID-19 case over three months, serving as a model for other sports, Nike put its unparalleled marketing might behind a pair of high profile ad campaigns.
+NEUT20|Play inside play for the world.
+BEAR21|And you can't stop us and public opinion shifted in its favor for its support of Colin Kaepernick and the Black Lives Matter movement.
+BULL22|"The pandemic also accelerated the company's high margin direct to consumer business."""

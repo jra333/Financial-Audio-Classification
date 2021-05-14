@@ -1,0 +1,18 @@
+BEAR0|"""U.S. stocks were flat in overnight trading on Tuesday following the regular session that snapped a six day winning streak on Wall Street."
+BULL1|Dow futures rose 25 points S&P 500 futures gained 0.12% and NASDAQ 100 futures rose Zero Point 1% better than expected earnings from Twitter lift, Cisco Systems.
+BULL2|Mattel and Yelp boosted sentiment on Wall Street lift reported signs of a recovery from the COVID-19 pandemic.
+BEAR3|On Tuesday, stocks snapped a six day winning streak with the S&P 500 dropping zero point 1%.
+BEAR4|The Dow Jones Industrial average lost about 10 points.
+BEAR5|The NASDAQ Composite was the relative outperformer gaining 0.15% as Facebook, Microsoft and Netflix all closed higher.
+BULL6|The small cap benchmark Russell 2000 gained zero point 4% to an all time high, bringing the indexes weekly gained to nearly 3%.
+BULL7|Investors are betting on small caps as a proxy for an economic recovery from the pandemic.
+NEUT8|Investors are also monitoring process on a COVID-19 stimulus package.
+BULL9|House Democrats on Monday unveiled the details of a relief proposal that included $1400 direct checks with faster phaseouts than previous bills.
+BEAR10|The virus is continuing to mutate.
+NEUT11|Vaccines are taking longer than expected to distribute and achieving herd immunity seems as if it will take a lot longer as a result.
+BULL12|On the bright side, massive fiscal stimulus in an extremely accommodative Federal Reserve should keep equities moving higher while we wait for those setbacks to be resolved, said Chris Zaccarelli, chief investment Officer for Independent Advisor Alliance.
+NEUT13|The Consumer Price Index report is scheduled to be released at 8:30 AM Eastern Time Wednesday.
+BULL14|Economists expect a consensus zero point, 3% increase in the index, a measure of inflation or a year over year, gain of 1.5%.
+BULL15|According to Dow Jones, excluding food and Energy, it is projected to rise by zero point.
+BULL16|1% earnings season continues on Wednesday with Coca Cola General Motors and Under Armour set to report before the opening Bell over Technologies and MGM Resorts report earnings after the Bell on Wednesday.
+NEUT17|"Subscribe to CNBC Pro for exclusive Insights and analysis and Live Business Day programming from around the world."""

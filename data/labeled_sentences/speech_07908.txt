@@ -1,0 +1,24 @@
+NEUT0|"""Investors often try to spot trends in the markets so that they can exploit them in order to get higher returns."
+NEUT1|But what happens when word gets out?
+NEUT2|Before I explain this chart, I want to go over one term which is Alpha.
+NEUT3|Now in the markets, Alpha refers to a stock that's done better than the market.
+NEUT4|So if this is the stock market, this would refer to a high Alpha stock and then this would refer to a low Alpha stock.
+NEUT5|So better worse over and above the market.
+NEUT6|It's often called excess returns.
+NEUT7|Now this chart shows 2A strategies, high Alpha and Low Alpha.
+NEUT8|Now you may have thought I just switched the labels.
+NEUT9|I actually didn't.
+BULL10|Below Alpha strategy has done better over the long term.
+NEUT11|Going back to the 1930s, then the High Alpha strategy and this is according to data from Alex Hornstein now.
+NEUT12|The reason for this is that right around here in the 1960s, something called the capital asset pricing model became really popular.
+NEUT13|Every investor wanted to do this, which was basically to just create a portfolio of high Alpha stocks.
+BEAR14|Now you can see that after that happened, the High Office stocks really didn't do that well compared to the low Alpha stocks.
+NEUT15|Now why is this?
+NEUT16|Well, when everyone wants in on something, it becomes expensive.
+BEAR17|And when a stock is more expensive, you actually get less returns from it, so these low Alpha stocks they were actually undervalued and they ended up overperforming.
+NEUT18|Now the reason that we're talking about this today is because as investors have become more sophisticated in their technology and their data analytics spotting these kinds of trends in markets has become a little bit easier to do.
+NEUT19|But if it's easier for you to do, it means it's also probably easier for your competitor to do it.
+NEUT20|And as these strategies and trends become.
+NEUT21|More known among investors, they kind of don't become effective anymore.
+NEUT22|So if you thought you wanted to be an Alpha, you may want to switch to being.
+NEUT23|"Abeyta"""

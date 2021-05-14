@@ -1,0 +1,9 @@
+NEUT0|"""May 5th is in the books and here's how Wall Street ended the week."
+BULL1|This and P500 managed to rally into the close to end the week at a fresh record and within a whisker or the intraday high touched at the start of March.
+BULL2|The rebounding energy process was the biggest contributor to the rally.
+BEAR3|Crude oil is taking a beating in recent weeks with West Texas Intermediate dying to six month low early on Friday.
+BULL4|Oil managed to state a recovery later in the day with WTI ending the day with a 2.2% gain, the most since March.
+BULL5|That Droid US energy stocks the S&P 500 sub index ended Friday, 1.6% higher.
+BULL6|It's sharp as one day gain since March 15.
+BEAR7|But markets largely shrugged off better than expected.
+NEUT8|"US unemployment data with the 10 year U.S. Treasury yield largely said it 2.34%."""

@@ -1,0 +1,25 @@
+NEUT0|"""So for Q4, does the attach of Netflix connected over the top hardware matter or does that matter more for Roku?"
+NEUT1|Because Netflix has such deep penetration into over the top hardware anyway?
+BULL2|Yeah, and only more and more like Roku is doing a terrific job, but there are plenty of other alternatives and we're seeing Netflix is is in.
+NEUT3|You would never be releasing a smart TV in this day and age if you didn't have Netflix, Netflix pre-installed would almost be worthless, even though you could install it afterwards.
+NEUT4|It's such an important part of the selling process, so certainly Roku remains very strong and very important in the ecosystem, but Netflix is more important.
+NEUT5|So I mean you mentioned sports.
+NEUT6|What's amazing to me is that we're awash in sports, everything's been all seasons have been commingled basketball, baseball, hockey, you name it football.
+NEUT7|And yet I mean, I would imagine your view is that viewership in Netflix is not been affected by what used to be the major draw on all visual media.
+BEAR8|Yeah, I think if you go and look at each of the individual sporting leagues, you'll see that their ratings are down year over year, so the there's no doubt that when you don't have the spectators in the stands, it takes away the event element.
+NEUT9|It takes away a degree of the excitement from the live sports and that's I think, been.
+NEUT10|Impacting on the audiences, and also you've seen with the NFL, you don't know necessarily if your teams playing or if they've been rescheduled or so it's it's a.
+NEUT11|It's a challenge season for all sports.
+NEUT12|I think the NFL managed very, very well and created a real event around their games with the way they manage the arena.
+BULL13|But it's certainly proving a lot more challenging with the NFL in the outdoor arenas.
+BEAR14|But Simon, when you look ahead to next year, Netflix itself warned that they were up against some very tough comparisons in the first half of the year.
+NEUT15|Then you have the fact that the movie industry is expected to come back, expected to do it's big theatrical releases with a real backlog of films that were supposed to be released this year.
+NEUT16|And if you expect sports to come back at a more regular cadence next year, could there be even more headwinds for Netflix beyond just those tough comparisons?
+NEUT17|I don't think so.
+BULL18|I think it was read that referenced in the earnings call that they'll return to a more normalized growth rate next year, so I think they're aware that the some of the tailwinds might go away, but there still seem very confident, and it has become the default.
+NEUT19|It is the as as readers always aspired to, it's it's the if they are winning the moment of truth when you sit down.
+NEUT20|Generally for most people when they're sitting down on the couch of an evening, Netflix is the initial go to point for their entertainment choices.
+NEUT21|So I think that they're going to continue to be that that default people aren't going to freedom where they aren't going to cable in the same way that they work.
+NEUT22|They'll go to Netflix 1st and see what is what is dropped this week.
+NEUT23|Shepard Smith here.
+NEUT24|"Thanks for watching CNBC on YouTube."""

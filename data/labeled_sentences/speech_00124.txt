@@ -1,0 +1,13 @@
+NEUT0|"""What also muddies the waters in the short term?"
+NEUT1|Potentially the longer term is the geopolitical risks we see building between Iran and the United States as well.
+NEUT2|The oil tankers that are being attacked.
+NEUT3|It would seem being accused to be a state sponsored event.
+NEUT4|So says the US official tree.
+NEUT5|What does this mean for oil prices?
+NEUT6|Do you see this concern on the supply side outweighing the demand issues that we see in terms of a slowing economy?
+NEUT7|Caroline, let's take the question up in two stages.
+NEUT8|See what happened in the very short.
+BEAR9|This today for example, and oil prices Brent crude went up 4 to 5% at opening and we are now down to about the 2% level.
+BEAR10|The market is not up as much as before because what the supply restrictions that may come from armed conflict in the Middle East has to deal with on the same side is a global economy slowing and the fact that the three major global oil importers, Japan, India and China.
+BEAR11|But all likely to have slower economic growth, so I think unless there is a real serious damage to production facilities, if we're just talking about the tanker attack, I think the oil price increase cannot be sustained.
+BEAR12|"And I think you will see those coming down over the next 12 to 18 months."""

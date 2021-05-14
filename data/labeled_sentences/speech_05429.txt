@@ -1,0 +1,11 @@
+NEUT0|"""Here's what we're watching at the FT London this morning as a new trading week begins in earnest."
+BEAR1|We're seeing a modest softening in eurozone equities after a mixed performance in Asia.
+BULL2|Oil continues its recent ascent with prices at a three month peak.
+BEAR3|The squeeze higher prices comes as bearish speculators throw in the towel.
+BULL4|Dollars a barrel for oil that should provide further relief for the energy sector.
+BULL5|Eurozone government bond yields are pushing higher.
+BEAR6|A firmer dollar has clipped gold as the precious metal hovers near its recent high for the year with China's forex reserves falling less than expected, markets appear set for a holding pattern until later this week when the European Central Bank meets investors.
+BULL7|Expect further easing and ECB needs to find a way of jumpstarting markets and not hurting banks via negative rates.
+BEAR8|It's a very tricky balancing act.
+BULL9|Euro remains well above its QE load of last March and As for share markets, well, the less said the better.
+BEAR10|"Unlike the US experience of QE, equity prices have slumped since the ECB fired up the printing press."""

@@ -1,0 +1,30 @@
+BEAR0|"""Shares of eBay or down a bit this after what, of course has been a very strong performance for the stock price, so there's concern about a deceleration in the growth rate at the company."
+NEUT1|Given how strong things have been joining us now in a CNBC exclusive, this Jamie, I know he is the President and CEO of eBay and Jamie, I want to start off on what was your first conference call.
+NEUT2|Of course, as CEO because you were very blunt.
+NEUT3|You said we're not satisfied with where we currently stand and the reality is that the past few years we have not executed to our full potential so.
+NEUT4|Briefly, if you can, what are you going to do and focus on to change that so that eBay does execute at its full potential?
+BULL5|Well, thanks David and thanks for having me on this morning.
+BULL6|Yeah, so you know since I've been back I think there's lots of areas of opportunity I'm not satisfied with where we are and I see enormous upside potential and really getting back and focused on the customer experience.
+NEUT7|I'm planning on leading what I'm calling the tech lead reimagination of eBay and that's using our technology and next Gen compelling experiences in three different areas.
+BULL8|First building compelling experiences in in key verticals that are really core to eBay and also getting back to our consumer selling.
+NEUT9|That's individual selling, which is really important to the platform.
+NEUT10|Second is being the seller platform of choice, especially around non new in season.
+NEUT11|We've got a $500 billion opportunity in the core of what eBay is great at in non new in season and being the seller platform of choice there is a huge opportunity and then third is building lifelong buyer of relationships, trusted buyer relationships.
+BULL12|We've got new buyers coming into the platform.
+NEUT13|All of that.
+NEUT14|I'm a ton this quarter but really turning them into enthusiasts.
+NEUT15|So through those three components, that's the plan to really drive.
+NEUT16|This tech.
+NEUT17|LED Reimagination of eBay.
+BULL18|Yeah, you know, investors obviously have benefited as the company has from the pandemic from so many people shopping at home, revisiting eBay perhaps, or using it for the first time, but in speaking to some investors this morning, a number of them say listen given what you're talking about in the second half of the year, they don't feel confident in the sustainability of your growth.
+NEUT19|How do you answer that?
+NEUT20|Well, look this quarter.
+BULL21|We've seen 8,000,000 new buyers come onto the platform.
+BULL22|That's more than the last six quarters combined.
+NEUT23|And what we've seen is that while growth moderates as mobility.
+BULL24|Opens up in countries.
+NEUT25|Obviously we're global country.
+NEUT26|We company.
+BULL27|We have lots of countries around the world, but it's sustaining at a higher level, so we feel really good about about the new buyers coming in.
+NEUT28|All the things that we're doing to keep them on the platform, getting them to download the app, etc.
+BULL29|"And what we're really focused on is building a long term sustainable, healthy business, delighting buyers and sellers in their experiences on the site."""

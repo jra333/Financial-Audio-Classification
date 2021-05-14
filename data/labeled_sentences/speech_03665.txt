@@ -1,0 +1,31 @@
+NEUT0|"""Hi, I'm Tom Gardner, co-founder of The Motley Fool."
+BULL1|Our mission as a company is to help the world invest better.
+NEUT2|One way to do that is to make sure the world is fair for investors and in the keyway.
+NEUT3|Right now it is not your elected officials.
+NEUT4|My elected officials right now can trade on inside information that they are Privy to because of their position in government.
+BEAR5|They're trading on inside information that would otherwise be illegal for all the rest of us and that is so wrong.
+NEUT6|We began writing about this with The Motley Fool a couple years ago.
+NEUT7|60 minutes just picked the story up in the last few months and now.
+NEUT8|There is a bill in front of the house in front of the Senate and we're talking to you today about passing the stock Act, making sure that our elected representatives cannot get inside information and trade on it for their personal advantage.
+BULL9|There's huge momentum behind this.
+NEUT10|There was already bipartisan supported this bill.
+BEAR11|There is a majority vote support of the bill, but our local congressman here in Virginia, Eric Cantor, the House Majority Leader, stalled the bill this week and at his historically had the effect of defeating bills like this, and we have to make sure that that's not going to happen.
+NEUT12|I don't know.
+NEUT13|I've not talked to anyone so far about this that isn't upset about the idea.
+NEUT14|That this is going on.
+BEAR15|Remember that when the banking system was falling apart in 2018, the mortgage crisis is hitting us.
+NEUT16|Remember that our elected officials were getting a lot of inside information on what was happening and they could go home and trade if they saw a bank in trouble, they could bet against it to make 10s or hundreds of thousands of dollars in their own portfolio that is flat out wrong is ethically wrong, and it should be illegal, and we can make it happen together just by getting out on Twitter Facebook on the telephone, or an email contacting Eric Cantor.
+NEUT17|This is not a partisan issue.
+NEUT18|We have no political size to take in this.
+NEUT19|At all, this is simply ethically right and obviously should be an issue of legality, should be made illegal.
+NEUT20|You can contact Eric Cantor at his Twitter account via Facebook via his phone in his office phone at 2022252815 or via email.
+NEUT21|If you go to Twitter, just add our hashtag, pass the stock act.
+NEUT22|Here we are with some high tech foolishness.
+NEUT23|It is time for this to stop.
+NEUT24|It is not a good thing to have a public stock market system that can be taken advantage of by insiders.
+NEUT25|Who are elected officials elected by the people?
+NEUT26|Let us unleash the foolish fury now by taking just a few minutes to contact Eric Cantor and let him know we need to get this bill in front of Congress and we need to get it passed.
+NEUT27|The Stock Act stands simply for this.
+NEUT28|Stop trading on congressional knowledge.
+NEUT29|It's something we can all agree on.
+NEUT30|"Let's get it done full on."""

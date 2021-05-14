@@ -1,0 +1,16 @@
+NEUT0|"""Hello and welcome back to the note which is going to be coming to you for the next two weeks from the FT's brand new offices in downtown Manhattan, and as you can see behind me, downtown Manhattan itself has a brand new Skyline dominated by the 1776 feet of the Freedom Tower."
+NEUT1|It's all a great symbol of recovery and renewal, but the big question I want to be asking for the next two weeks is whether the recovery in U.S. markets truly is sustainable.
+NEUT2|Let's start by taking a look at the earnings that have been made by U.S. companies.
+BEAR3|Now the earnings season, which is now winding down for the third quarter, is gone into the books as a positive one, and that's because companies have generally beaten the somewhat reduced expectations for them.
+NEUT4|Ask the third quarter ended.
+BEAR5|But as you can see, looking at in in a broader perspective, the earnings recovery that followed the great crash following the bankruptcy of Lehman's in late in 2008 has very much stalled earnings.
+BEAR6|Growth has been very slow for the last two years and not enough to justify the continued strong rise in stocks.
+BULL7|Also, when you see the kind of recovery that's being signaled by stock markets, normally you would expect to see some recovery in inflation, or at least in fears that activity was going to stimulate more inflation.
+BULL8|But if we now take a look at the bond market, implicit expectations for inflation over the next 10 years taken from the gap between the yields on fixed income bonds and on index linked bonds, you can see that expectations have been remarkably stable.
+NEUT9|There is no great fear of resurgent inflation, and there hasn't been at any point since Lehman went down.
+NEUT10|Now that's very surprising, because of course the Federal Reserve has been embarked for almost five years now on the policy of so-called quantitative easing, which is deliberately intended to spark extra inflation.
+BEAR11|Now it's plainly not sparked an increase in mainstream prices in the economy, but if we now take a look at where the S&P 500 stock index has reached compared to the expansion in the Fed's balance sheet, it does look as though it sparked inflation in stock prices.
+NEUT12|In fact, the similarity between those lines is so close, I find it very hard to believe that this great rally in stocks has been driven by anything other than the expansionary.
+NEUT13|Policies of the fate.
+NEUT14|It's very interesting that Wall Street is now producing ever more research to try to show that the rise we're seeing in equities isn't simply being driven by the Fed, that in fact there are many other reasons why stocks are going up and that we cannot put this all down to fed expansionism.
+NEUT15|"I as you can tell, I'm very dubious about this, but it's going to be my attempt over the next two weeks to try to try to get to the bottom of whether this recovery that we're seeing in the US markets really is for real."""

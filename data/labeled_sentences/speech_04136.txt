@@ -1,0 +1,8 @@
+NEUT0|"""Hello Traders and welcome to another intraday technical analysis session."
+NEUT1|Our second instrument for the day is Facebook.
+NEUT2|Facebook has been running since 2013.
+BEAR3|On the floor at time frame, we concurrently observe a wedge which has been broken in last week's trading session.
+NEUT4|On the one hour time frame we can also see a break and the 100 made 200 May.
+BULL5|Below the price, but at the moment the 100 May is below the 200 we're expecting across, and retracement in price we will which will give some support to the instrument and further upside movement to be observed.
+BULL6|Thank you for watching our intraday technical analysis from all of us here at AAA trade.
+BULL7|"We wish you successful and responsible trading."""

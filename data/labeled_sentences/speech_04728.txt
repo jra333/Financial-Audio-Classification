@@ -1,0 +1,21 @@
+BEAR0|"""For Disease Control and prevention, say smokers may get sicker from COVID-19 and with all the stress the pandemic has caused, it may be even harder for those wanting to quit."
+NEUT1|But now researchers are making a mark with a new smoking cessation therapy, and they're looking for people trying to kick the habit.
+BEAR2|There are estimated to be 9 million premature deaths every year worldwide due to smoking.
+BEAR3|Smoking has been linked to increased risks of developing cancer, lung disease and other illnesses.
+NEUT4|Now there are questions about its relation to COVID-19, just the cause of the heart and the pulmonary disease that we know are associated with smoking.
+NEUT5|The CDC has said that there is a probable link.
+NEUT6|Between smoking and severe cases of covid infections, Doctor William Smith is CEO of the Alliance for Multi Specialty Research.
+NEUT7|The company is studying a plant based drug known as cytosine, which could help people quit smoking.
+NEUT8|It stops your cravings to want to smoke but at the same time it blocks that little surge we get with smoking from the nicotine.
+BEAR9|Doctor Smith says some daily smokers have tried to stop but failed without support.
+NEUT10|The company is enrolling people in a clinical trial called Orca Two which offers treatment and counseling.
+NEUT11|They're going to be followed for how it's working.
+NEUT12|It's the drug in combination with a smoking cessation program.
+BULL13|Doctor Smith says the pandemic is motivating people to stop smoking and the trial could help them finally break the habit.
+NEUT14|We want to hit this.
+NEUT15|Problem from multiple different points when we're trying to help someone quit.
+NEUT16|The orca two clinical trial is happening in 15 cities across the country and that includes Norfolk.
+NEUT17|The program is for anyone who smokes daily and has already failed at quitting at least once.
+NEUT18|It is free to join.
+NEUT19|You will be compensated to enroll or learn more.
+NEUT20|"Call 757-627-7446 and if you know someone who is making a mark in the community, send me an email or get my attention on Facebook or Twitter."""

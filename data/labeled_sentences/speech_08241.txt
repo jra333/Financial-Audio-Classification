@@ -1,0 +1,44 @@
+BULL0|"""The trend that we're seeing has been."
+NEUT1|It's been ongoing.
+BEAR2|We've seen a downward trend.
+BEAR3|This is a record low as far as percentage, but this has been something we've been seeing since the early 90s.
+NEUT4|Kind of the rate of decline.
+BEAR5|Overall, tobacco usage is still there.
+BULL6|The companies have strong revenues, earnings are still stable and the dividends should still be there for us in the long term.
+NEUT7|One of the other arguments in the last decade of why these stocks were perhaps a little bit protected was growing usage in emerging markets.
+NEUT8|Well, what about with the emergence of the vaping trend?
+NEUT9|Does that mean in EM Young would be smokers are skipping cigarettes altogether and it's just going to miss a generation?
+NEUT10|I don't think so.
+NEUT11|When you're talking about vaping.
+NEUT12|In particular, vaping is a is really changed the way you've smoking has been happening in this country in particular.
+BEAR13|The reason why the FDA is cracking down is because of the trends there.
+NEUT14|If you look at 2011, teens were smoking at a rate about 15 point, 8%.
+BEAR15|That dropped about 7 1/2% over the last year from 2011 to 2017.
+BULL16|That's very positive from the FDA's perspective over that same.
+BULL17|Vaping went from 1 1/2% to 11 1/2%.
+NEUT18|So all the gains that they made on the cigarette side were lossed on the vaping side, so the action by the FDA is really an action against vaping.
+NEUT19|It's not.
+NEUT20|It's targeted towards companies like Jewel.
+BULL21|You know one of the I guess things that have helped out the industry and kind of kept people bullish on the stocks.
+BULL22|It's just the pricing power that these companies have been able to push through.
+BEAR23|Obviously, usage is down a lot, but revenues aren't really down all that much, just other limits to that.
+NEUT24|Are they testing the limits in terms of how much people will pay?
+NEUT25|Well, they haven't found them yet.
+BULL26|They've continued to raise prices.
+BULL27|The price of tobacco that they're paying for has been relatively stable.
+NEUT28|They're making the profit on their brands and they're passing along to consumers.
+BULL29|The taxes have been effective at reducing the overall number of smokers, but the companies themselves have been able to at least increase slightly increase or maintain revenues while improving their overall earnings outlook.
+NEUT30|Jordan, I have to get your thoughts more broadly on Vice and some of these vice stocks that are in your fund right now we're talking about tobacco, but you know, you also have cannabis there.
+NEUT31|The alcohol companies etc.
+NEUT32|Where I guess what's been the hottest right now?
+NEUT33|Where are you adding in terms of in terms of positions to the fund right now?
+BULL34|We've been adding to cannabis, where we've seen the opportunity.
+BULL35|The reason we're excited about that is basically we see a long term trend there that cannabis is moving towards legality.
+NEUT36|The last election that we just had on Tuesday.
+BEAR37|You had one of the biggest proponents of cannabis voted out of Office and Pete Sessions.
+BEAR38|You also had Jeff Sessions removed from office from his position as AG.
+BULL39|The overall environment looks like it's moving towards a spot where cannabis could be more acceptable.
+NEUT40|As far as making a deal between Republicans and Democrats.
+BULL41|So we see opportunity there on a bigger picture.
+BEAR42|Gamings been knocked down quite a bit.
+BULL43|"We see a good opportunity there just from a value perspective and we see continued opportunity and defense with spending increasing their."""

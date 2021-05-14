@@ -1,0 +1,14 @@
+NEUT0|"""November 21st is in the books here on Wall Street."
+NEUT1|Here's the New York minute.
+NEUT2|We have a Grand Slam.
+BULL3|The S&P 500 is an all time high and so the NASDAQ composite, the Dow Industrials and the Russell 2000 first time, all those four well known indices have made a high on the same day since 1999.
+BULL4|Now energy stocks have led the way today.
+NEUT5|That's because people are excited about what President Trump might do for the energy sector.
+NEUT6|More broadly, if we take a look at dividend aristocrats, high yield playing stocks, you can see that the rest of the market is really caught up with them.
+NEUT7|Now, great excitement for those companies that weren't paying out big dividends.
+NEUT8|Meanwhile, if you take a look at how value stocks are doing that look cheap compared to their fundamentals.
+BULL9|They've also had a huge rebound.
+BEAR10|Meanwhile looking longer term stocks are now actually very slightly beating bonds over the last 10 years, which is just a big reevaluation.
+BULL11|All the more impressive because if you believe the Fed funds futures market we are now have a 100% chance of a rate rise next month for stocks to be performing this well with the rate rise coming.
+NEUT12|Suggest that people really do believe there's growth in store.
+NEUT13|"And that's the New York minute."""

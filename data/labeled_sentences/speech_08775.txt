@@ -1,0 +1,48 @@
+NEUT0|"""Less than 10 minutes to the closing Bell."
+NEUT1|Here you're looking at markets under pressure, but let's talk about commodities in the rally that we've seen in some of the commodities here over the last several months, we have soybeans, corn, and wheat at their highest prices since 2014, and for that we want to bring in Sal Gilbertie.
+NEUT2|He's a president and CEO of Teucrium, trading in salary to have you on the program.
+BULL3|The massive rally that we've seen in some of these commodities.
+NEUT4|What's behind the surgeon?
+NEUT5|What do you?
+NEUT6|I guess, just attribute all of this too.
+NEUT7|Well, it's very simple.
+BEAR8|We see shrinking supplies of the grains and that's dude is really increasing demand and what's amazing is even during kovid, when you know demand for things dried up, including you know the grains went down and we it's a good story where where everybody thought that you're going to lose all this demand for wheat from cruise ships that are getting 20 tons at a time and always making fresh bread and rolls and casinos in these big big venues.
+BULL9|It turns out everybody went home and started baking and the demand for wheat actually went up.
+BULL10|The demand for wheat flour actually went up.
+NEUT11|Overall, due to home cooking and so we had these amazing things happen.
+NEUT12|And then of course grains you know you have to grow enough and while there there are plenty of grains.
+BEAR13|The world's balance sheet is shrinking, especially in soybeans.
+BEAR14|Soybean balance sheet is shrinking and that's just adding up to to make prices.
+BULL15|You know prices are going higher.
+NEUT16|Supply and demand.
+BULL17|Well, let's talk about that, because your ETF soy SOYB the fund is up 42% over the last six months, but the drawdown in stockpiles of soybeans put that into English that a non farming city boy can understand like me.
+NEUT18|OK, So what you do is you grow, you know crops grow during the year during this summer and in the winter you know you get a big pile on the ground.
+NEUT19|Just call it and you pull from that pile and you have to wait till the next year's harvest so you go through winter.
+NEUT20|You go through spring planting.
+NEUT21|You go through the growing season and then you get to the harvest to replenish that pile.
+NEUT22|And what's left of that pile after you take out, right before you do the next harvest?
+NEUT23|Those are the stock levels that we talk about the ending stocks, and that pile is getting smaller at the end of each year, right before we harvest again.
+BEAR24|And in fact, in soybeans it's it's down 23% or 24%.
+NEUT25|I'd have to look it up, but it's down a lot in just three years.
+NEUT26|And given that you know your excess supplies range in wheat from about six months to sometimes in in soybeans and corn, it's only 6 to 8 weeks of excess supply.
+NEUT27|If something were to happen next year.
+NEUT28|Crop, that's why prices go up.
+BEAR29|People will not stop eating.
+NEUT30|You don't stop using grains, even when there's a supply shortage.
+NEUT31|You have to eat, and that's why prices go up quite dramatically even when there's enough.
+NEUT32|But the pile is getting a little bit smaller.
+NEUT33|That's that's the English.
+NEUT34|He's only about a minute left, but I'm curious how you see because China obviously has a big part in all of this.
+NEUT35|How do you see Biden's policies on trade and really, his foreign policy relationships just in general, impacting commodity prices over the next four years?
+NEUT36|Well, I, I think trade he.
+NEUT37|He seems to be doing a hands off policy.
+NEUT38|China needs food.
+NEUT39|They have the US in Brazil, that's that.
+NEUT40|Are feeding them.
+NEUT41|And so that's really important.
+NEUT42|I think the more more important thing is whatever they do with the green initiative and the attack on Big Oil.
+BULL43|That's going to raise prices for farmers and for everyone in fact, and so you will see some energy related inflation coming in due to Biden policies.
+NEUT44|As far as trade agreements, I think we're going to define underbite.
+NEUT45|Alright, Sal Gilbertie President and CEO of two cream trading.
+NEUT46|We have to leave it there.
+BULL47|"Thanks so much for joining us."""

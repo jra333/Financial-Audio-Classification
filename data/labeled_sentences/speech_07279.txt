@@ -1,0 +1,5 @@
+BULL0|"""Our dear friends."
+NEUT1|Please subscribe my channel.
+NEUT2|After thousand subscriber, I will be explaining how to cleared what time your to purchase everything.
+NEUT3|Got this and I have some constraints.
+NEUT4|"But anyhow, you see the result will be."""

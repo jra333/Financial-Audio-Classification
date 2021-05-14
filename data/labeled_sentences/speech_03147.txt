@@ -1,0 +1,28 @@
+NEUT0|"""I think that the factual of it is is that monetary accommodation is not the obstacle to recovery at this moment that we're looking at."
+NEUT1|Probably a need for fiscal policy and the Fed is doing its job making sure that monetary conditions don't get in the way.
+NEUT2|Financial conditions remain accommodative, interest rates remain low, even though there not a little bit at the long end, as he was just mentioning, but generally speaking, the feds not going to get in the way of this recovery, and now the the real problem is to get the.
+NEUT3|The recovery actually going in that falls in the battle with fiscal policy.
+NEUT4|I do hope the Treasury is not going to label the central Bank a Treasury manipulate call.
+NEUT5|But that aside, what would you would be if the Federal Reserve wasn't buying these bonds because they can't help thinking people would want them in these kind of yields anyway, given the lack of inflation.
+NEUT6|Goodness gracious, you know that's a you know.
+BEAR7|Like you said, it's hard to prove the negative where we would be without the general consensus among economists is that we're getting about 100 to 150 basis points off of 10 year yields because of the Fed's asset purchases.
+NEUT8|That's just a guess, and really don't know.
+NEUT9|And frankly, it really doesn't matter.
+BULL10|All right, what we need to know all right is that interest rates are low, credit is available, and that we're seeing the financial system stable where we are right now, thanks to the Fed support.
+NEUT11|So let's just not worry about the counterfactual about how bad it could be.
+NEUT12|Let's just focus on where we are, Steve, which is that we're poised for recovery, but there are still a number of ingredients that have to fall into place to make that happen.
+BULL13|Yeah, let's just talk about that call, because it seems to me every investment bank or institution on the street has declared the markets are going up early into next year on this reflation, and on the success of the vaccine program.
+NEUT14|What's the Contra story here called?
+NEUT15|What is anybody missing in their economic analysis?
+BULL16|Yeah hi Jeff, good morning, you know.
+BULL17|You remember back to 2000 and seven, 2008 and the stock market climbed nearly through the first part of the event.
+NEUT18|It wasn't until lemons that it really turned the corner and went the other way so the stock market rally is nice.
+NEUT19|Investors have money.
+NEUT20|They're putting it into stocks.
+BEAR21|That's great, but the underlying economic fundamentals are still dicey as Fed Chair Powell pointed out yesterday, the next few months in particular are extremely dangerous with this resurgence of the disease.
+NEUT22|I mean, the disease is your leading economic indicator.
+BEAR23|Because the more the disease rages, the more the shutdowns and lockdowns that we're going to have, and the more that business is going to get interrupted and therefore the more people's incomes are going to get interrupted, you know?
+NEUT24|And then we have the second problem that I think the market is missing, which is that the economy is not just going to spring back to life once everybody has the vaccine and there are a lot of companies out there that are dead that were viable businesses a year ago, so we need to add an element of fiscal support.
+NEUT25|What I'm calling post covid reconstruction of the economy.
+NEUT26|Just as if we've been bombed, right?
+BEAR27|"We've lost a lot of companies that really should still be in business, and we need public policy, not just transfers of income to people who unemployed but transfers capital injections into companies that have failed to bring them back to life so the economy can get back to work again."""

@@ -1,0 +1,14 @@
+NEUT0|"""Sarah, it is official."
+BULL1|Salesforce signs definitive agreement to acquire Slack.
+BEAR2|We have the pricing slack.
+NEUT3|Shareholders will receive $26.79 in cash and 0.0776 shares of Salesforce common stock for each slack share that represents their own wealth and enterprise value of approximately $27.7 billion based on the closing price of Salesforce is common stock on November 30th, 2020.
+NEUT4|We do have some comments from Marc Benioff, Chairman, CEO of Salesforce, he says.
+BULL5|That Stewart that Stewart Butterfield, the CEO and founder of Slack, says Stewart and his team, have built one of the most beloved platforms in enterprise software history.
+NEUT6|With an incredible ecosystem around it, he says this is a match made in heaven, but as we show you these shares of CRM, perhaps investors need a little bit more convincing.
+NEUT7|Guys, I said this just minutes ago, but there is some thoughts among some investors that Salesforce, after a number of large acquisitions of the last few years, should be focusing on margins and operational efficiency.
+NEUT8|Whereas Slack of course is a very big purchase at an enterprise value of $27.7 billion.
+NEUT9|By far, Salesforce is largest acquisition to date.
+NEUT10|I will continue to look through this release.
+NEUT11|We also have earnings, by the way, which I will get back to you, and I'll bring you more as I see it back to you.
+NEUT12|Shepard Smith here.
+NEUT13|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,23 @@
+NEUT0|"""Give me your final trade if you could dock while I have you."
+NEUT1|JD bought that one today, Scott, at the money calls alright.
+NEUT2|Stephanie link.
+BEAR3|United Rentals the US rental market is on fire.
+BULL4|Better demand means better rates and time utilization.
+BULL5|I think you buy on this weakness today and I think you buy if the infrastructure package disappoints OK and Joe Terranova.
+NEUT6|Just like Jim and Stef, I like the semis.
+NEUT7|One name we don't talk often enough about is Texas Instruments, all time, high.
+BULL8|Today we call that buy high sell higher.
+NEUT9|Yeah, it's funny.
+NEUT10|We don't talk about texting that much so it's cheap too, and they've been buying back and it's really in the sweet spot when it comes to Internet of Things.
+BULL11|Yeah Jimmy, it's been a pleasure as always.
+NEUT12|So much.
+NEUT13|Just too much fun and it goes way too fast.
+NEUT14|You want to force leave us with the trade Salesforce.
+BEAR15|I've got to tell you it's down, for it acts terribly slack.
+BEAR16|Deal can't close.
+NEUT17|There's nothing to like about it.
+NEUT18|Buy it, yeah, alright.
+NEUT19|There you go again.
+BULL20|Thank you for being here.
+NEUT21|So much fun guys.
+BULL22|"Thanks for watching."""

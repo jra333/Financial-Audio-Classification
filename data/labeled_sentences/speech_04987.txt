@@ -1,0 +1,31 @@
+NEUT0|"""I just don't know how compelling it's going to be to have a bunch of people speaking from all over the place and trying to come up with some sort of unified narrative or theme."
+NEUT1|And I've been interviewing some political experts who have followed conventions for years and they really don't expect much of a convention pop that we've had in the past for either candidate.
+NEUT2|That's what has happened before is once the conventions are over, that candidate gets a boost in the polls, maybe two or three or 5%.
+NEUT3|But people experts on this just don't really think that's going to happen, partly because they're just.
+NEUT4|They're not very many undecided voters out there.
+NEUT5|Most people have made up their mind by now and now, of course we have this odd formatting.
+NEUT6|Given that nobody can be in the same arena together.
+NEUT7|So you know, maybe something consequential will come over the Convention this week.
+NEUT8|I'm not sure it's all going to matter that much.
+NEUT9|Rick, what do you make of the polling that we've gotten lately?
+NEUT10|We have the CNN poll that came out today that that pointed to the lead that Joe Biden had against President Trump narrowing.
+NEUT11|It's within the margin of error, but we also had the Wall Street Journal NBC News poll that pointed to a double digit lead.
+NEUT12|So are we somewhere in between?
+NEUT13|Yeah, so if you look at the RealClearPolitics aggregate of polls, they take all the polls and figure out where where they settle out.
+NEUT14|It's about a 7.7 percentage point lead for Biden, right?
+NEUT15|Not right now.
+BULL16|I mean, that's a good lead.
+BEAR17|It also happens to be fairly similar, pretty close to the lead Hillary Clinton had over Trump in 2016, so that makes Democrats nervous.
+NEUT18|So I think the situation here is this.
+NEUT19|Is Biden's race to lose?
+BEAR20|Everything is kind of going against Trump with the pandemic, which is not under control.
+BEAR21|The economy is probably not bouncing back strongly.
+NEUT22|It's recovering but slowly, and we probably are not going to have a vaccine by Election Day.
+NEUT23|Although I expect President Trump to say we do have a vaccine by Election Day.
+NEUT24|But you know, on the other hand, Biden seems to be playing defense, and I've been asking some people in the party.
+NEUT25|Do they think Biden is actually now, you know, once he's actually the nominee, is he going to get out and start going around the country and going to swing States and doing some actual campaigning?
+NEUT26|Even if it's not, you know, big rallies and they are sitting expectation that maybe he's not going to do that.
+NEUT27|So Biden might for the most part stay in Delaware and just try to appeal to voters remotely.
+NEUT28|That seems to me to be a very cautious way to go about the.
+NEUT29|Election, and perhaps a little too complacent so we could see the polls tightening for that reason for other reasons, Trump is a very wily politician, and smart people say never count him out.
+NEUT30|"Yeah, I think the 2016 election proves that to be extremely rare."""

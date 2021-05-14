@@ -1,0 +1,46 @@
+NEUT0|"""But it feels like a lot of retail."
+NEUT1|Right now they're just buy ETF.
+BEAR2|So not really individually picking stocks and some people have said that's going to bring a lot of leverage.
+BEAR3|That's going to end badly because you can have the whole market in ETF's if they're not actually airlines.
+NEUT4|What are your thoughts on that?
+NEUT5|Yeah, I think that the problem is that if you're talking about passive indexing, that is something that is really free riding on other people's work.
+NEUT6|So people say I'm not going to try to beat the market.
+NEUT7|The market is all knowing, but how in the world can the market be all knowing if nobody is trying to be well?
+NEUT8|Not as many people are trying to beat it, so that's that's a concern.
+NEUT9|Well, that's my question.
+NEUT10|That's that's what I have always wondered, which is.
+NEUT11|If everybody just put their money in ETF's and save.
+NEUT12|Everybody was a passive investor that how would you even know what the value of any company is relative to another like the whole thing would fall apart.
+NEUT13|So you would need at least one active investor to make some sort of benchmark and then everyone else could follow him.
+NEUT14|And you hope that he or she isn't schizophrenic, right, right?
+NEUT15|Yeah, that that's that's where I you know.
+NEUT16|I think that the strength of this country was built on people who watched individual companies.
+NEUT17|They had opinions about them all.
+NEUT18|This talk about indexes.
+NEUT19|Yeah, it's a little bit deluding of our intellects.
+NEUT20|You know it becomes more of a game.
+NEUT21|That's a good point that the strength of the country built on individual companies.
+NEUT22|People have opinions of those.
+NEUT23|'cause you're right, if you went back 100 years ago and you just said to everyone, don't even try, just put your money in index funds and don't worry about blue chips or small caps or value or growth.
+NEUT24|I don't know where we would be.
+NEUT25|I don't know where the last 50 or 100 years would have brought us, so it brings me to the question then what is the next 10 years look like?
+NEUT26|If this is the trend?
+NEUT27|I don't know.
+NEUT28|It's a chaotic system and I please don't blame me for not being able to forecast well, but you know, it's interesting point.
+NEUT29|You say, what would they do?
+NEUT30|100 years ago?
+NEUT31|100 years ago they never talked about indexes.
+NEUT32|Zero almost zero.
+NEUT33|I mean, it would have been very unusual if a newspaper article were describing in 1917 were describing a stock market movement.
+NEUT34|They would give examples of individual stocks.
+NEUT35|They wouldn't quote.
+NEUT36|The dollar was around, but they didn't quote it.
+NEUT37|So would you say that all these?
+NEUT38|Indexing the ETF.
+NEUT39|The passive investing approach.
+BEAR40|You think that's actually been a net bad thing for the markets.
+NEUT41|Yeah, I think it's it's kind of pseudoscience to think that these indexes are perfect, and that all I need is some kind of computer model to study them instead of thinking about business.
+NEUT42|Hey there, thanks for checking out CNBC on YouTube.
+NEUT43|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT44|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL45|"Thanks for watching."""

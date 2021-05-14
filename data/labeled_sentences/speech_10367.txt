@@ -1,0 +1,49 @@
+NEUT0|"""Finally, now that Wall Street is essentially given up on the possibility of a stimulus bill."
+NEUT1|Thanks for nothing, Washington.
+BEAR2|The entire restaurant industry is in big trouble unless that is, they have the cash to close the restaurants, an wait out the pandemic, in which case will come out of this well.
+NEUT3|Is last man standing right?
+BULL4|That's how Darden, Parent of Olive Garden, could cross 100 today.
+NEUT5|I got to tell you, you're going to want Italian food in this country.
+NEUT6|Thank you Congress.
+NEUT7|They've given you Olive Garden.
+NEUT8|I hope you like the bottomless salad.
+NEUT9|I hope you like the roles provided by the Senate in the House and Secretary Manoosh and I hope you enjoy all those great amenities like those things they put that you can order stuff in the middle of the table.
+NEUT10|Yeah, thank you Congress Alfredo.
+BEAR11|Anyway, they can shut down all the other restaurants.
+NEUT12|By the way, these places these places you know what's great about this place.
+NEUT13|They can put a really nice plexiglass so it looks like you're like going to bank.
+NEUT14|They can move a bunch of tables and they can still stay in business.
+NEUT15|Same goes for Chipotle.
+NEUT16|McDonald's, Wendy's Yum Brands, but not bar San Miguel eventually will get a vaccine.
+BULL17|Everything should go back to normal is going terrific.
+NEUT18|It would be fantastic, but unlike your neighborhood Bistro, well, these big players can afford to wait as long as it takes by failing to pass the stimulus bill.
+BEAR19|Congress is effectively doomed.
+NEUT20|Every mom and pop restaurant out there.
+NEUT21|Bad news, if you like really great fruit.
+NEUT22|Hey, but great news if you own the stocks of these companies, yeah.
+NEUT23|Right, you always cook at home.
+BEAR24|Of course, there's still some outliers.
+NEUT25|The video game stocks installed.
+NEUT26|I don't get any of that.
+NEUT27|Sony and Microsoft are about to launch brand new consoles.
+NEUT28|I recommend buying take two interactive.
+NEUT29|My favorite my Chapel trust owns.
+NEUT30|It's gonna have utility season.
+BULL31|I think the Fang stocks should be able to rally.
+BEAR32|They got hurt today.
+BEAR33|They were held back by European shakedown.
+NEUT34|Like I mentioned, the top of the show.
+NEUT35|I say don't worry bout it.
+NEUT36|France and the Netherlands aren't trying to regulate big tech is what some money.
+NEUT37|Put it all together though, and the stanhome story.
+NEUT38|It's not quitting every time we get hit with another wave of covid infections.
+NEUT39|It's his wave three.
+NEUT40|When wave four happens away, 5 happens.
+BULL41|These stocks will keep roaring.
+NEUT42|I bet you're going to keep working until we all have been vaccinated.
+NEUT43|Don't miss a second of mad money.
+NEUT44|Follow at Jim Cramer on Twitter.
+NEUT45|Have a question?
+NEUT46|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT47|Shepard Smith here.
+NEUT48|"Thanks for watching CNBC on YouTube."""

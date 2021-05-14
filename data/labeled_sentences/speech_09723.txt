@@ -1,0 +1,14 @@
+NEUT0|"""Alright, what a Showtime for the final trail, let's go around the horn."
+NEUT1|Brian Kelly.
+NEUT2|I think you look in the AG sector ATMs one I haven't talked about in a while, but I like that one to play AG inflation, James.
+NEUT3|BITW bitwise the smartest way.
+NEUT4|The safest way to participate in a potential bull market in the crypto space run by the smartest indexer I've ever met.
+NEUT5|Matt Hogan Bitw is my final trade, Steve Grasso.
+NEUT6|I like to give you stocks that could double.
+NEUT7|I think this what could triple same trade is the other night BFT.
+NEUT8|Have a nice weekend.
+NEUT9|Alright you two guys?
+BULL10|Thanks for watching faster ground options.
+NEUT11|Action is up next.
+NEUT12|Shepard Smith here.
+NEUT13|"Thanks for watching CNBC on YouTube."""

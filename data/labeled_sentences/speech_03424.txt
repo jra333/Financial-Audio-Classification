@@ -1,0 +1,8 @@
+NEUT0|"""Here's what we're following is the trading week, picks up steam, Italian banks, oil prices and the yen dominate market action."
+BULL1|A modestly softer yen has spurred a nice rally in Japanese shares with the topics up 1.5%.
+BULL2|Not to be outdone, Brent crude is rising above $43 a barrel afresh peak for 2016 as the market expects a production freeze looms at next week's Dohan meeting.
+NEUT3|Frankly, it looks like a classic by the rumor sell oil scenario beckons, but for some traders buying early in the hope of action.
+BULL4|Is looking good and Italian bank rescue fund with €5 billion of firepower has propelled an opening rise of 3% for the Footsie Italian Bank Index.
+BULL5|All up, the indexes jumped 12% in the past three trading days, but that only takes the index back to where it was at the start of the month.
+BEAR6|Additionally, the opening rally has already fizzled out and the index remains 31% lower for the year.
+BEAR7|"No wonder brought Italian share still hold the wooden spoon as Europe's worst performing market for 2016."""

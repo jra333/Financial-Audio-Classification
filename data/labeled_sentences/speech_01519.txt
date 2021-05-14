@@ -1,0 +1,25 @@
+NEUT0|"""Could I bring up one point and connect with others?"
+NEUT1|Because it gets back to a point that was made earlier about the laws getting on the books and never getting changed.
+BEAR2|If you go back to the 19 late 1920s, we had a bubble, then it was in stocks and it was partly caused by extreme margin by people that really didn't know what they were doing.
+NEUT3|10% margins and they had Commission hearings after that and they decided that this was a societal problem and Congress gave to the Federal Reserve the authority to regulate margins and they said this is important.
+NEUT4|The Federal Reserve still has that authority as I understand it.
+NEUT5|You know, 70 plus years later when we put in derivatives.
+NEUT6|In total return swaps you know at that point you can borrow 100% of what you own, and so we sit here with the system, and I brought this up a half a dozen times and sometimes with people in Congress, and I say what in the world are we doing when we say the Federal Reserve should have margin requirements, which I believe now or 50%, and you can go to get a total return swap and borrow 100%.
+NEUT7|Or you can buy S&P index futures with a tiny percentage down.
+NEUT8|I mean it is.
+NEUT9|It is something that should be addressed.
+NEUT10|I thought I thought you were maybe I misread this in the newspapers, but I thought.
+NEUT11|Your problem with some of the legislation that is going through had to do with the fact that you didn't want to put up the collateral, which substitutes well.
+BULL12|Intern margin in terms of in terms of contracts that were negotiated several years ago.
+NEUT13|That was one price for collateralized contracts in another price for UN collateralized.
+NEUT14|We simply an instantly Coca Cola Anheuser-Busch.
+NEUT15|Thousands of companies negotiated under that basis.
+NEUT16|We say if we are required to substitute a non collateralized contract and make it a collateralized contract.
+NEUT17|Before we send that money to Wall Street, we should get paid for the difference in those two types of contracts because they are two different contracts.
+NEUT18|Just like changing the price or changing the maturity.
+NEUT19|And there's a, there's a very significant difference in price, and not only we but hundreds of end users would be required to send money to Wall Street firms contrary to the contract they originally negotiated, and contrary to the price differential that existed between those two types of contracts.
+NEUT20|So you don't have any objection to doing it in the future.
+NEUT21|That's not when you know not not, not listen.
+NEUT22|I don't know.
+NEUT23|I just don't I object to selling one kind of contract and having change which changed into another kind of a contract without getting paid.
+BULL24|"OK, thank you."""

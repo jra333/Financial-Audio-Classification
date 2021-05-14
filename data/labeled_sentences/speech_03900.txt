@@ -1,0 +1,12 @@
+NEUT0|"""Tuesday Air BNB announced that it plans to sell $2.8 billion worth of its stock at 44 to $50 per share during their upcoming initial public offering."
+NEUT1|This would put the home retail companies value anywhere from $30.6 billion to $34.8 billion.
+BEAR2|Airbnb three billionaire founders Brian Chesky, Joe Gebbia and Nathan Bush are sick.
+NEUT3|Will each cell less than 1% of their current steaks at the offering, about 630,000 shares apiece.
+NEUT4|Worth roughly $28 million at the low end of the pricing range.
+NEUT5|That will leave Cheskey the CEO with around 11% of the company after the offering a stake worth at least $3.4 billion at the low end of the IPO pricing, which are sick, the chief Strategy Officer, an Gebbia, the chief Product Officer will each own just under 10% stakes worth at least $3.1 billion each.
+BULL6|Airbnb has not been immune to the effects of the Corona virus pandemic.
+BEAR7|The companies private valuation dropped from $31 billion to $18 billion this year, following a huge drop in business as travel halted due to the pandemic in the first nine months of 2020, the company posted $2.5 billion in revenues of 48% drop from last year.
+BULL8|But the company and investors seem to be betting on the company making a rebound when covid restrictions ease and people resume traveling.
+BULL9|The company reported net income of $219,000,000 in the third quarter, up from a net loss of $575.6 million.
+BULL10|In the second quarter, showing some signs of a rebound.
+BULL11|"Given how tech IPO's have performed so far in 2020, it would not be surprising if the shares exceeded the targeted IPO price on opening day."""

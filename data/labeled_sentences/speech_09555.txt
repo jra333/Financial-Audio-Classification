@@ -1,0 +1,4 @@
+NEUT0|What do analysts think of Apple stock?
+NEUT1|The 38 analysts offering 12 month price forecasts for Apple Inc have a median target of $155.00 with a high estimate of $175 and a low estimate of $83.
+BULL2|The median estimate represents a + 26% increase from the last price of $122.99.
+NEUT3|The current consensus among 43 polled investment analysts is to buy stock in Apple Inc.

@@ -1,0 +1,17 @@
+NEUT0|"""I'm joined by Troy guess Key of Skybridge Capital, he's just penned this piece."
+NEUT1|Why investors should allocate to hedge funds.
+NEUT2|There's a reason he's written it after a number of very disappointing years for the asset class, institutional investors, high net worth individuals.
+NEUT3|They're all reconsidering whether they're getting value for money.
+NEUT4|Troy, I'm going to put a minute on the Clock, give you 60 seconds to distill your argument.
+BEAR5|60 seconds to save the hedge fund industry go, well, a lot of disappointment.
+NEUT6|State is people referring specifically to US equities and US bonds.
+NEUT7|When we look across the world have been far other.
+NEUT8|Places that haven't done quite as well, you know.
+BULL9|Furthermore, if hedge funds can make 3 to 5% over the next several years, we think it will be competitive to asset classes, particularly with bond yields so low and equities having appreciated so much sense.
+NEUT10|The bottom the other service hedge funds can offer is protection in the next bear market, which is inevitable as the sun coming up in the East and setting in the West, there will be another bear market.
+NEUT11|When that comes, the ability to short will help protect capital.
+BEAR12|Equities tend to use lose 30 to 50% in a bear market in bonds won't have nearly as much upside.
+BEAR13|When they're starting at much lower yields as they are today.
+NEUT14|Cool, we come in with 15 seconds to spare.
+NEUT15|I wonder if our viewers will think that's a compelling enough argument for this asset class.
+NEUT16|"Troy, thanks very much time will tell Steven."""

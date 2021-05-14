@@ -1,0 +1,53 @@
+BEAR0|"""Let's go straight out to San Francisco, where Jessica Vascellaro is standing by and Jessica Apple shares got halted today, why it was a pre trading area error error."
+BEAR1|I'm sorry on bass exchange which is having its IPO today.
+BEAR2|So there was a glitch on the exchange, sent shares plummeting and they were halted because went down below 10%.
+NEUT3|Everything is back to normal now, but it was a pretty wild ride about an hour or so ago and how many shares were traded at those levels?
+NEUT4|What was the result?
+BEAR5|I think there was an error of about 100 shares it sent the stuff from.
+BEAR6|It was about 598 down to about 10%.
+BEAR7|So you know a pretty dramatic decline.
+BEAR8|Sort of clear right off the bat that something went wrong.
+NEUT9|Something might wanna?
+NEUT10|We can see that from the chart we're looking at now are just gathers a big V. Shape it's always like I chasm in a glaciar that West something happened.
+BEAR11|I guess those trades have now been cancelled because they were in fact bad trades.
+NEUT12|But Paul do we know how a bad trade happens?
+NEUT13|Well we don't know exactly how this bad trade happened.
+NEUT14|What we do know is that as Jessica said, this bad trade happened on bats is exchange and it's really unbelievable.
+NEUT15|This is the day that they just went IPO.
+NEUT16|They went public today.
+NEUT17|Not only were Apple shares, did they have the pantry, but that's his own stock.
+NEUT18|Went down and people noticed it first.
+NEUT19|Was Apple right?
+NEUT20|'cause Apple is so much attention to it is when people first started notice this, but that's his shares which went public today.
+NEUT21|A little under 1616 dollars.
+NEUT22|$16.00 here in about a minute.
+NEUT23|They're trading at four cents for backhaul tables to four cents.
+NEUT24|Wow, yeah, I mean, so obviously something went haywire.
+BEAR25|Something went wrong.
+NEUT26|What is unbelievably ironic about it is that batch is an electronic exchange.
+NEUT27|They have made their name.
+NEUT28|Building up this business of doing this high frequency fast-paced trading the exact kind of thing that went wrong in the flash crash two years ago.
+NEUT29|We're still trying to figure out exactly what happened in the Flash crash, which is why bats ended up on the front page of the Wall Street Journal takers.
+NEUT30|The SEC is probing it, not there's any wrongdoing there.
+NEUT31|But they're trying to figure out exactly what is the relationship between high frequency trading these electronic exchanges, whether it gives an unfair advantage of some people, whether it leaves the market at risk of a flash crash.
+NEUT32|So bats on the day they went public experience their own flash crash.
+NEUT33|And that was a flash crash with bats.
+NEUT34|Was it or was it?
+NEUT35|That was everywhere this morning?
+NEUT36|Yeah, it was literally in about a second.
+NEUT37|I mean straight down family you would grab them without any other companies that were affected that you all know.
+BEAR38|Well I don't know the name of any offhand specifically what Matt said was that it was a problem with all the stocks on their exchange from a two.
+NEUT39|I think you know BF.
+NEUT40|So any stock symbol within that Rite Aid to be basically had this problem too, but with Apple and Bats are the ones where everyone is focusing.
+NEUT41|Yeah, just to get back in.
+NEUT42|Jessica, any reaction from Apple a company?
+NEUT43|Or do they just just leave this to to for people like us to discuss?
+NEUT44|Yeah, they're they're leaving it to, you know they're not saying anything about it.
+BEAR45|Obviously you know the shares have been on such a ride, and with the dividends announced on Monday, you know that this was obviously something off, and I think they figured the less they say the better.
+NEUT46|OK, well, I'm sure.
+NEUT47|I'm sure they'll keep to that.
+NEUT48|They're very.
+NEUT49|They're very good at keeping quiet on.
+BULL50|They just get thank you very much Jessica.
+NEUT51|Solera with the Wall Street Journal in San Francisco.
+BULL52|"Thank you very much, Paul Vigna here."""

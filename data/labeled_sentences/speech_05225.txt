@@ -1,0 +1,12 @@
+BULL0|"""Unprecedented for smart run news."
+BULL1|Shares of Gymboree jumped 16% in early Friday trade.
+NEUT2|Following the release of a Wall Street Journal article reporting that the company may sell itself to private investors, the Gymboree Corporation designs manufacturers an retails apparel and accessories for children from birth to 7 years of age and offers parent, child, developmental play programs.
+NEUT3|The company operates stores in the United States, Canada, and Europe smartphones.
+BULL4|Bullish on shares of Gymboree.
+NEUT5|An our subscribers were alerted by September 16th when the stock was at a price of $41.00.
+BULL6|Stocks risen over 18% since that alert was issued.
+BULL7|Shares of the retailer continued to trade up almost 17% on Friday at a price of $48.54.
+NEUT8|I'm Christy Duffy for smart trend news.
+NEUT9|For more news and market analysis, make sure.
+NEUT10|Subscribe to our YouTube channel trade the trend.
+NEUT11|"Also, visit our website tradethetrend.com for more headlines."""

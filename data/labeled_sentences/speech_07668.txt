@@ -1,0 +1,8 @@
+NEUT0|"""1942 when I bought my first stock as an illustration, we've had World Wars."
+NEUT1|We had 911.
+NEUT2|We had the Cuban missile crisis.
+NEUT3|We have all kinds of things.
+NEUT4|The best single thing you could have done.
+NEUT5|On March 11th, 1942, when I bought my first stock, which just buy an index fund and never look at a headline.
+NEUT6|Never think about stocks anymore, just like it would do if you bought a farm, because if you would put $10,000 in an index fund and it would come to $51 million now, and the only thing it had to really believe in then.
+BULL7|"Is that America would win the war and that America would progress as it has ever since 1776."""

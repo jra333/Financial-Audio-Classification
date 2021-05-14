@@ -1,0 +1,12 @@
+NEUT0|"""Hello, welcome to today's technical analysis for August 25th, 2015."
+NEUT1|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at the US dollar versus the Japanese yen on the daily chart.
+BEAR3|USD JPY came under big selling pressure on Monday to breakthrough the key psychological level of 120 yen and it fell down to a seven month low of 116.19.
+BEAR4|The market is also below the daily Chymical cloud and this is giving it a bearish bias for now.
+BEAR5|The RSI and stochastic both fell into bearish territory.
+BEAR6|They are indicating oversold conditions right now so this is calling for a correction or some consolidation in the near term.
+BULL7|We saw bounce back in early Monday.
+BULL8|In early Tuesday trading, but the 120 level has proven to be a strong barrier.
+BULL9|It's acting as strong resistance level right now, but if this level is breached, prices would also have to clear the ichimoku cloud and rise above it in order to see a sustained upside momentum.
+BULL10|And in order to target the previous high of 125.27 that was hit on August 12.
+BULL11|"Thank you for watching and have a great day."""

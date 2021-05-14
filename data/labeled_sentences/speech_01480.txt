@@ -1,0 +1,7 @@
+BULL0|"""Good afternoon ladies and gentlemen."
+NEUT1|This is Indiana Ludwick checking in from Emporia, KS.
+NEUT2|The date is June 23rd, 2019.
+NEUT3|In the time is 10:48 PM and we're just going to take a quick second to run through Berkshire Hathaway.
+BULL4|An growth during this current business.
+NEUT5|Cycle Berkshire Hathaway's trading.
+BEAR6|"It went into the negative at negative $2.04 per share and if we break that into statistics, it's roughly negative .88%."""

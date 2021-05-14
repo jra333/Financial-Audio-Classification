@@ -1,0 +1,13 @@
+NEUT0|"""Hello, my name is Rob and today I would like to introduce you to the stock of the week."
+NEUT1|But first I would like to show you how you could make a 190% return with Apple Inc. Buy the stock when it is undervalued like here, here and here.
+NEUT2|You always get a great return as soon as the stock price returns to its fair value.
+NEUT3|Here you have 54%.
+NEUT4|Here 44% and here 196%.
+NEUT5|All predictable with top graphs.
+NEUT6|Now let's get to the stock of the week.
+NEUT7|This week I have chosen for you AbbVie Inc. As you can see AbbVie is a pharmaceutical company from the United States with a high average growth rate of 20% and a dividend of 5%.
+BULL8|The risk analysis shows us that AbbVie is a solidly growing company.
+BULL9|One savvy breaks through the 100 U.S. dollar mark.
+BULL10|You can expect the stock price increase of 60% to 90%.
+NEUT11|If you liked our stock analysis, please leave us a like and subscribe to our channel so you don't miss any of our future stock analysis.
+NEUT12|"And if you want to do your own stock analysis, try our software for free at topgraphs.com."""

@@ -1,0 +1,30 @@
+BEAR0|"""Markets are focused on something that has not been on their radar for a long while, and that's inflation."
+NEUT1|Senior economics Reporter Steve Liesman joins us now with a look at whether the inflation threat could be real.
+NEUT2|This time it's always on the radar, but it just depends on on whether you really think it's a threat.
+NEUT3|I think we always think about it, but for too long we thought about it in an you know, and it just hasn't happened.
+NEUT4|Maybe it's different now.
+BULL5|It's been a far off blip I think is the best way to continue the metaphor there Joe.
+NEUT6|And remember that we call them the inflation Easters.
+BEAR7|They're the ones who were calling for an inflation outbreak, and they've been wrong for a long time.
+NEUT8|This time, though, the concerns you have to say look more substantial, but you have.
+NEUT9|There's still a long way to go for actual inflation.
+NEUT10|Take hold now.
+BULL11|Try to explain that despite concerns over easy Fed policy after the financial crisis, the Fed's preferred inflation indicator never really recovered its 2% inflation target on a sustained basis now around 1 1/2%.
+NEUT12|But it is.
+NEUT13|Rising this time not only is the Fed wide open, it's forecasting to stay that way for years you got a $1.9 trillion stimulus bill set to follow a $900 billion bill that we just passed commodities.
+BEAR14|They've been on a tear, metals, agricultural goods and energy prices are all rising homes aren't being built because lumber is scarce and prices are high.
+NEUT15|But price increases, not yet inflation.
+NEUT16|They have to ingrain themselves in the psyche of consumers and workers and work into wage demands if that happens.
+NEUT17|Former IMF chief economist, Olivier Blanchard.
+BEAR18|He thinks the Fed would have to react strongly with rate hikes, and he wrote in a recent commentary the increase in interest rates might have to be very large, leading to problems in financial markets.
+NEUT19|I would rather not go there.
+BULL20|He's a guy who supported wide open policy of the financial crisis, but the Fed believes the inflation surge will be temporary as global trade technology Anna rebound and supply chains combined to keep inflation in check.
+NEUT21|JP Morgan, writing over the weekend.
+BULL22|They agree.
+BULL23|We think that the underlying trends will remain modest even as the economy grows rapidly.
+BEAR24|And the labor market tightened so serious global forces they've kept inflation in check over the past several years.
+BEAR25|This time, serious inflationary forces will push against them.
+NEUT26|That makes the inflation real, but not a foregone conclusion.
+BEAR27|the Fed, relying on the inflation East, is being wrong again.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

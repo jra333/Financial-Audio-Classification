@@ -1,0 +1,4 @@
+BEAR0|"""To alert you with the update we're hearing on General General Electric, the update to bring you there was just delivered from Larry Culp at a Barclays Industrial conference, saying that he expects negative cash flow in the first quarter of 2021 to come in."
+BEAR1|As expected, negative cash flow.
+NEUT2|Of course, the expectation there had been so far from analysts polled by Refin Ative on average they're expecting Jeter reported cash outflows 671.7 million in the quarter through March.
+BULL3|"Comp did stress that the first three months of the year tend to be GE softest quarter, but that's the update their shares here up by about .7%."""

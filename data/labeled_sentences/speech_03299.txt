@@ -1,0 +1,5 @@
+NEUT0|"""At Forbes Africa, we celebrate our birthday with the inside story in one of Africa's richest multi millionaires."
+NEUT1|Pascal Dozie, the man who went to college, with Mick Jagger and brought cell phones and modern banking to Nigeria the worst day that's or a luxury holiday turned into a sweaty, frustrating nightmare.
+NEUT2|Then we have the 100 most powerful women in the world and the world of selling African footballers.
+NEUT3|Huawei, the $10 million agent wants more.
+NEUT4|"All this and more in Forbes, Africa, the magazine that everyone is talking about."""

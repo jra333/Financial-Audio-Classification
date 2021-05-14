@@ -1,0 +1,11 @@
+BULL0|"""And Wall Street sizing up."
+NEUT1|We have to ask ourselves who doesn't want to be first?
+NEUT2|Who doesn't want to beat the crowds with the time sensitive material that we offer on this channel, we've now started an SMS text alert service.
+NEUT3|That's right, a text service that allows you to profit off the large hedge fund trades before the crowd rushes in.
+NEUT4|That's it.
+NEUT5|It's easy, easy enrollment, low maintenance, and direct to your phone.
+NEUT6|You can enroll at stock trade dot tips.
+NEUT7|Yes, it's an actual website.
+NEUT8|Stock trade dot TIPS.
+NEUT9|Please go enroll and join the community and come ride with us.
+NEUT10|"Cheers."""

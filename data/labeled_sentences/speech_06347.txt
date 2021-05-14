@@ -1,0 +1,6 @@
+NEUT0|"""May 11 is in the books and here is what Wall Street is done."
+BEAR1|The S&P 500 tumbled soon after opening and despite a valiant attempt at recovery, the benchmark ended the day down 0.2%.
+BEAR2|That extends a run of proving, unable to close above the 2400 point mark that it is flirted with for all of May.
+BULL3|Oil provided some cheer to commodity traders with West Texas Intermediate continuing its comeback to end the day up one point 1%.
+BEAR4|However, that wasn't enough to prop up energy stocks which foul 0.2% on Thursday.
+BEAR5|"And after a long run in weakening Treasury bonds found a firmer footing with the 10 year Treasury yield dipping back below 2.4% ahead of the release of pivotal inflation and retail sales numbers on Friday."""

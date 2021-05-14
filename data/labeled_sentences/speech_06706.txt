@@ -1,0 +1,19 @@
+NEUT0|"""Hello, welcome to today's technical analysis for August 30th, 2016."
+NEUT1|I'm Celina Nicholas, technical analysts at exam.com and today will look at Euro USD on the daily chart.
+BULL2|So Euro USD has retraced half of the up leg from 1.095121 point 1365, which was the July 22nd load to August 18 high.
+NEUT3|So it's now at the 50% fib Annachi retracement level.
+NEUT4|Of that uptrend, and this level lies around one point.
+BEAR5|1158, near term bias remains on the downside, and this is highlighted by the fact that RSI has been trending down and is now dipped below 50 into bearish territory.
+BEAR6|Euro USD has scope for deeper fall towards one point 1108, which is the 61.8 fibbonaci level and below this support level.
+BULL7|The August 5th low comes into view.
+BEAR8|At one point, 1045, which is the next seven Archie at 78.6 and then below this, the market would retest the 1.0951 low and a deeper fall from here would indicate that top is now in place at one point 1365.
+NEUT9|So if we look at the bigger picture, we could see that from the higher one point 1615 there was another low and 1.36.
+BEAR10|Point 1365 could now be the next lower low an we could see that there has been a downtrend in progress from this.
+NEUT11|May high one point 1615.
+BEAR12|So if prices remain below the 50 day 50% fibo Nachi market would remain heavy swell as the hundred day moving averages, capping prices to the downside.
+BULL13|But to the upside, immediate resistance lies at one point 1206.
+NEUT14|Which is the Aug 29 high?
+NEUT15|And the 38 fits also the 38.2% fever Nachi level.
+BEAR16|But the Hundred Day moving average is close to this level, so it's an important resistance area capping the market.
+BEAR17|And like I said, the market remains heavy below this hundred day moving average and only move above it would weaken the bearish bias.
+BULL18|"Thank you very much for watching and have a great day."""

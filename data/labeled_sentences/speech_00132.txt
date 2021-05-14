@@ -1,0 +1,12 @@
+BEAR0|"""Exactly one year ago, the S&P 500 had reached the bottom after correcting 34% since the start of the COVID-19 bear."
+BEAR1|The fastest 30% plus decline in history happened in only 22 trading days.
+NEUT2|Prior to 2020, the quickest sell off of this magnitude had happened during the Great Depression in 1934.
+BEAR3|Apple shares never dipped 30% below their own February 19th levels.
+BULL4|Apples decent February to March performance may have been a taste of what was to come next.
+BULL5|High performing stock through the thick of the pandemic and economic crisis.
+NEUT6|Apple was back to the top by early June 2024.
+BULL7|An astonishing full bear market recovery in about 2 1/2 months.
+BULL8|The broad market spike can be largely explained by the massive injection of liquidity in the economic system by the US Central Bank and the federal government.
+NEUT9|The other factor is what also explains Apple's impressive 52% returns since mid February 2020.
+BULL10|That is the new stay at home dynamics benefited the tech sector, which happens to be the largest chunk of the S&P 500 and the NASDAQ indices.
+BEAR11|"Markets that are not as tech heavy, such as Japan's Nikkei 225 and the Russell 2000, remain underwater until November of 2020."""

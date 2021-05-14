@@ -1,0 +1,23 @@
+BEAR0|"""The two and a quarter trillion dollar Biden spending plan would introduce a profound change to the US economy with versa 4 decade long decline in government investment that began in the Reagan years."
+BEAR1|Here's the graph to look at government investment in the economy is falling steadily from above 1% of the economy.
+NEUT2|Back in the 1980s to around 7/10 of a percent.
+BEAR3|Now it's been kind of stagnant and only pops briefly with spending bills.
+BEAR4|After recessions President Biden highlighted this decline in his speech yesterday.
+NEUT5|We fall back.
+NEUT6|The rest of the world is closing and closing in fast.
+BEAR7|We can't allow this to continue.
+BULL8|American Jobs plan is the biggest increase in our Federale non defense research and development spending on record.
+NEUT9|Daniel Yergin, whose book commanding Heights chronicled the way economic leadership, swings back and forth between companies or the private sector and government, told me yesterday quote the frontier between government and the private sector is never fixed and it's always shifting.
+NEUT10|Biden certainly is pushing out the boundary of government again in relation to the economy.
+BEAR11|Several economists worried that the amount of spending on top of the recent $1.9 trillion stimulus bill and a recovering economy would crowd out private investment.
+BEAR12|John riding from Brean Capital says we're going to have crowding out.
+NEUT13|That's what happens with an economy.
+NEUT14|That gets to full capacity, and then you demand more from it.
+BULL15|Still, analysts at the Penn Wharton Budget model tell me that the spending will raise the level of wages by zero point 2% over a 10 year.
+BEAR16|And GDP by zero point 3%.
+BEAR17|That's the level, but reduced capital spending overall by zero point.
+BULL18|1% now with 2016 study from the Congressional Budget Office, estimates a 5% return on productive government investment returns.
+NEUT19|5%, but the debates already begun about how much of the spending in this bill.
+BULL20|With its expanded definition of infrastructure will end up being productive.
+NEUT21|Shepard Smith here.
+NEUT22|"Thanks for watching CNBC on YouTube."""

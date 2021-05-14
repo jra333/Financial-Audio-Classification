@@ -1,0 +1,40 @@
+NEUT0|"""Sing me now with more Greg IP is the chief economics commentator at the Wall Street Journal."
+NEUT1|He's the author of the recent piece demographics and Debt Hangover, the long term US growth.
+BULL2|Greg, we're looking for good news these days.
+NEUT3|You got you got bad news and worse.
+BEAR4|Yeah, sorry if you were bothered about the short term economic outlook.
+BEAR5|My bad news is that the long term outlook is actually worse.
+NEUT6|And Kelly, we talked about debt in the opening of this segment, but it's almost as much, if not more so.
+NEUT7|A demographic story, really.
+NEUT8|I mean, demographics to a great extent is destiny when it comes to long term growth.
+BEAR9|And this pandemic, I think, is tend to aggravate two serious problems.
+NEUT10|the United States has had.
+BEAR11|One is that the fertility rate, which was already has been declined full declining.
+BEAR12|Basically since the last recession is probably going to drop again, the Congressional Budget Office thinks it will fall to 1.6 next year, which would be the lowest in at least a century of data well below the 2.1 number that we think of as the replacement rate, and so that alone is going to put a serious drag on the population because kids not born next year, will not be part of the labor force.
+NEUT13|20 years from now now what do you do about low fertility?
+BULL14|Well, you can increase immigration, but according to the CBO, we're going to fewer immigrants too, because of the barriers that were raised to immigration because of the pandemic.
+BEAR15|And the fact that we're having fewer undocumented coming in anyway, so you put those two things together, it's going to fewer Americans 20 to 30 years from now, and that puts a greater burden on the ones remaining to build, grow the economy, and sustain the very high levels of debt that we're now caring and are going to be carrying.
+BULL16|I mean, you could also increase the fertility rate, but they're trying that in other parts of the world with mixed success.
+NEUT17|You know, I asked the doctor when I was there the other day.
+NEUT18|I said, you know, are you seeing more or fewer patients than usual and they said for a couple of months when the pandemic first broke out, they saw fewer than usual, but in the last few months it's really picked up and they're seeing as many people in a week, almost as they used to see in a month.
+NEUT19|So perhaps there will be a catchup effect.
+NEUT20|But as we await the answer on that, tell me what you think about the debt situation.
+NEUT21|I mean, this is going to be the one that drives policy making near term.
+NEUT22|Are you expecting something like a Tea party movement?
+NEUT23|Would that be premature here?
+NEUT24|And how do we know what level is a level that hurts growth?
+NEUT25|Well, traditionally, the sign that you look for was upward pressure on interest rates.
+BEAR26|That was a sign that all the government borrowing was competing with the private sector and squeezing out or crowding out private sector borrowers borrowers.
+BEAR27|That means less investment.
+NEUT28|You don't see that now and you actually haven't seen it for a number of years.
+BEAR29|We're running these very large deficits and interest rates are rock bottom and the Fed says it's going to keep them there for the next four or five years.
+NEUT30|So crowding out is not a near term problem, but if eventually we get past this week, spot in the pandemics behind us and most economists think that that indeed will happen.
+NEUT31|Then interest rates will eventually rise off of 0, and that's when you do worry Bout crowding out now.
+NEUT32|What would it tell us if interest rates never get back to where they were before and there is no crowding out?
+BEAR33|It tells you that the fundamentals of investment were already weak.
+NEUT34|You've heard the expression, like the secular stagnation or the global saving glut.
+BEAR35|That's basically a story about how investment around the world, not just in the United States, has been unexpectedly weak for some time.
+BEAR36|Lower investment always equals lower productivity.
+NEUT37|So that I think Kelly is kind of the double dagger right now, heading aimed at the long term health of our economy, fewer Americans and the Americans that we have will be less productive unless we can somehow have a burst of innovation and animal spirits that like, gives us a new productivity boom.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

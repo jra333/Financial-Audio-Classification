@@ -1,0 +1,28 @@
+BULL0|"""Disney Plus is doing much better than we thought."
+BEAR1|We raised our estimates for that with this note, but it's the company is seeing pressure across all of its other segments and most notably at the parks which were closed in March and we expect to be closed for quite awhile.
+NEUT2|Do we have any idea how long quite awhile is?
+NEUT3|No, we don't actually.
+NEUT4|In our note we we had assumed previously that June 1 would be the open.
+NEUT5|We that was our assumption when they when they closed in March.
+BEAR6|And with this note we pushed it back to January 1st and we've made a number of other changes as well even when they open we have the parts acting are operating at much less than full capacity.
+NEUT7|The first six months we have about 50% capacity.
+NEUT8|And then the next six months at 75% capacity.
+NEUT9|And that's just as important as when they open.
+BEAR10|Frankly, might be more important, because now that the company is furloughed so many of its workers, it cut its losses pretty dramatically during the closed.
+BEAR11|But when it opens, our estimates suggest that at 50% they still lose money.
+NEUT12|So it really what really matters is when the economy gets going and people start traveling again and we can get those parts back to 7580% full.
+NEUT13|The problem, yeah, and that's the problem John.
+BEAR14|You've got impossible job.
+NEUT15|I mean we have no idea what people are going to do.
+NEUT16|They could open the doors back and there are Disney fanatics out there and many of it maybe it's 95% full in the first day 'cause people just don't care.
+BEAR17|Or maybe it's 10% full for three months because people are terrified.
+NEUT18|It's impossible to guess.
+NEUT19|That's exactly right.
+NEUT20|A lot of it is going to depend on sort of the issues you know around the virus and what's going on from a health care standpoint.
+BULL21|We do a lot of work with our health care team at UBS is very strong and and has guided us in in.
+NEUT22|Sort of these thoughts.
+NEUT23|But you're right, we really just don't know, and a lot of these states are starting to open their economies.
+NEUT24|Florida where Disney World is being one of them with which opened in the beaches recently I would say California is going to sound like it's going to be slower with Governor Newsom has been saying.
+BULL25|So yeah, it's well.
+NEUT26|You have to take all this into account, but at the end of the day, it's not just when they open, it's how they open.
+NEUT27|"What are the additional costs associated with opening under this new environment and be one of those crowds going to show up?"""

@@ -1,0 +1,43 @@
+NEUT0|"""Neo stock analysis and predictions, December 14th."
+NEUT1|In today's NEO stock analysis and predictions, by an eye on every price dip, let's get started.
+BEAR2|An IO is currently down to 4.9% as of premarket shares.
+BEAR3|This is due to an IO sell off to raise capital to beat their competition.
+BEAR4|Although an IO might be temporarily down, investors should not worry.
+NEUT5|According to Wall Street analysts.
+NEUT6|Stephen Hall.
+BEAR7|NIO is down today, but investors can't go wrong with Nio, Paul states.
+NEUT8|Nothing will slow this electric vehicle stock.
+NEUT9|It has too many factors that will guarantee it to succeed.
+BULL10|Anio is still flying higher on exceptional demand and delivery numbers, expecting more record breaking deliveries.
+BULL11|I believe NIO will turn around soon after the sell off and easily hit $57.
+BEAR12|The latest dip in Nio's stock price is a buying opportunity as things are destined to change for the better with solid monthly growth and earnings and higher demand for electric vehicles.
+BULL13|NIO stock will be one of the top EV makers going forward.
+NEUT14|Here are three reasons you should buy an eye on every price dip.
+BEAR15|One delivery numbers since October and iOS deliveries were 5000 plus doubling year over year for the eighth consecutive month.
+BULL16|Deliveries were up just over 100% year over year that month and in September they were up 133% year over year.
+NEUT17|The way that NIO is going similar growth or more is expected in January 2 the electric vehicle boom is here.
+BULL18|Let's be honest, EV sales will definetly improve under a Biden administration pushing for a greener future.
+NEUT19|Major automakers are switching their fleets to electric General Motors.
+BULL20|NYSE GM, for example, just announced it is investing $2.2 billion to increase its electric vehicle production.
+NEUT21|It also has plans to unveil 20 new EV's around the world over the next three years.
+BEAR22|California Governor Gavin Newsom just signed an executive order banning the sale of gas powered cars by 2035.
+BULL23|Joe Biden's new green plan will be a substantial catalyst for Eco friendly vehicles in Europe.
+BEAR24|Automakers have been forced to sell more ivis after lawmakers made them cut CO2 emissions by 40% by 2021.
+NEUT25|Three everyone loves NIO stock.
+BULL26|In recent weeks, JP Morgan analyst Nikolai upgraded the stock to a buy from a hold.
+BULL27|He also increased his price target to $40 a share lie, believing that Nio's market share will quadruple over the next five years.
+BULL28|Moreover, Anio continues to produce stellar earnings, an iOS revenue of $666.6 million beat estimates on Wall Street by a large margin.
+BULL29|Gross margins also improved 12.9% as compared to expectations for 11.25%.
+BULL30|NIO is fundamentally healthy with strong growth potential for the future conclusion.
+BULL31|NIO is expected to produce blowout earnings and even better deliveries.
+BULL32|So $57 is a lowball estimate for this stock, said Hall with solid monthly growth and earnings coupled with higher demand for electric vehicles.
+BEAR33|NIO stock could continue flying down the road.
+NEUT34|Investors should use every dip as a buying opportunity for NIO.
+BULL35|There is obviously still plenty of upside opportunity for NIO.
+NEUT36|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT37|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now.
+NEUT38|So that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT39|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL40|We'd really appreciate it.
+NEUT41|Are you still watching and want more?
+NEUT42|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

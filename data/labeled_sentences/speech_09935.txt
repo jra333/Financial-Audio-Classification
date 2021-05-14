@@ -1,0 +1,34 @@
+NEUT0|"""Sure, so we did two things."
+NEUT1|First of all, we build a model we spent 18 months working with our analysts and our technology Department to build a model to come up with sentiment scores for every research reports that we do from plus hundreds to minus 100 for very positive report or negative report coming up with the score for whether it's positive or negative, is easy enough we can find out by reading the research ourselves, but the conviction behind it is a lot harder and you really need nuance in there.
+NEUT2|In the reports right?
+NEUT3|And you need to feedback from the analyst to make sure the machine is.
+NEUT4|Is getting that right?
+BULL5|So after 18 months we feel that we've we've built up model.
+NEUT6|The scores were positive and then we then used that to come up with a trading strategy behind those those scores.
+NEUT7|So did the machines read the reports and then talk to the analysts?
+NEUT8|What I mean?
+NEUT9|You know it's a good question.
+NEUT10|How did it work?
+NEUT11|No, so you feed the reports into the machine and initially the machine will come up with a score.
+NEUT12|But then the important things of conviction conviction.
+NEUT13|So how much do you really positive and negative?
+NEUT14|But then also is it we think it's positive or absolutely certain this analyst is really, really convinced?
+NEUT15|But what's important initially when you teach the machine really how to read this report is to validate or reject what the computer thinks.
+NEUT16|So what the machine thinks.
+NEUT17|So that's where the human story analyst still comes in.
+NEUT18|So it's not the machines taking over, it's the machines collaborating with the with the analyst because they have to learn, and eventually the machines will understand the analysts language better.
+NEUT19|And can do it on their own.
+BEAR20|Absolutely, what was the outperformance compared to the S&P 500?
+NEUT21|So what we found is that if you look at the the top quartile of reports or with the highest scores compared to the bottom quartile.
+BEAR22|So the most negative, there's about a seven 800 basis point spread in performance on an annualized basis.
+NEUT23|So the trading strategies if you buy those top stocks and you go short the bottom stocks and you do it on a systematic basis you get a Sharpe ratio of about 1.2.
+NEUT24|And what that means is that you.
+NEUT25|You outperform your outperform the market, right?
+NEUT26|There's there's real signal behind.
+NEUT27|So what was the goal of this?
+NEUT28|Was this to prove that Morgan Stanley Research is is accurate?
+NEUT29|Or is this to come up with a model that you can then somehow sell to clients in some way?
+NEUT30|The objective was initially, can we machine read our own research?
+NEUT31|But then it's really to come up with strategies where we can help our investors to make money to drive Alpha.
+NEUT32|OK, Lou, thank you fascinating stuff with the machines in the analysts go out for a beer.
+NEUT33|"After all this and hang out as maybe the next stage."""

@@ -1,0 +1,23 @@
+NEUT0|"""Welcome to the Aurobindo Pharma Limited stock analysis video."
+NEUT1|In this video, we would look at fundamentals of Aurobindo Pharma Limited and important financial ratio.
+BULL2|Aurobindo Pharma Limited current price is 591.15 exchange, 1.98% higher than previous close.
+BEAR3|Its 52 week highs 870 and 52 week low as 512.4 companies earning per share is 39.3 and its price to equity ratio is 14.8.
+NEUT4|Stockists book to price ratio is 3.6 Aurobindo Pharma Limited.
+NEUT5|Return on equity is at 32.5%.
+BEAR6|Company had 3641.6 revenue in Q416 as compared to 3906.2 roller into 316.
+BEAR7|Revenue has been down for few quarters in last one year which is a concern.
+BEAR8|Revenue has been up and down in last few quarters with minus six point, 8% in current quarter and 3.5% in previous quarters.
+BEAR9|Raffet has declined in last few quarters, which is not positive for the company.
+BEAR10|Current quarter profit is 532.4 as compared to 578 point 6,00,00,000 in previous quarter.
+BEAR11|Profit growth rate has been negative in last few quarters.
+BEAR12|It has grown minus 7.97% in last quarter compared to minus 4.47% in previous quarter, which is a concern.
+BEAR13|Profit margin is the ratio of net profits revenues profit margin in Q416 is 14.62 as compared to 14.81 in 2/3/16.
+BEAR14|Operating profit for the company in Q416 is 721.24 as compared to 894.84 crore in Q316L built in Q416 is 649.374 as compared to 793.16 roller in 316.
+BEAR15|Operating profit margin for the company in Q416 is 19.81% as compared to 22.91% in Q316.
+BEAR16|Ebbett margin in Q416 is 17.83% as compared to 20.31% in Q316.
+BEAR17|Company has 4702 four dead.
+BULL18|It has increased liability of 39.5 power companies.
+NEUT19|Inquisitor coverage ration is 78.42.
+NEUT20|Finally, here is a summary of few positives and negatives based on these analysis points we have calculated the rating for Aurobindo Pharma Limited.
+NEUT21|Here is rating on a scale of 10 for Aurobindo Pharma Limited.
+BULL22|"Thanks for watching this video."""

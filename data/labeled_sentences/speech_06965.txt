@@ -1,0 +1,8 @@
+NEUT0|"""It's very obvious that you need this service, but please give us a moment to show you the features and benefits of our service."
+NEUT1|Looking for a way to get started investing, or maybe you're a seasoned investor looking for new ideas at The Motley Fool.
+NEUT2|We've got something for every investor from stock picking services like stock advisor and rule Breakers, to model portfolio services like Supernova, an $1,000,000 portfolio.
+NEUT3|We seek out great companies to invest in for the long term and our services span a variety of investing strategies including high growth, dividends and options.
+NEUT4|Check us out at start.fool.com, The Motley Fool helping the world invest.
+BULL5|Better.
+NEUT6|Will it forward to working with you?
+NEUT7|"Call us or click the link below."""

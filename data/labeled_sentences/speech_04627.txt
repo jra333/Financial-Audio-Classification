@@ -1,0 +1,18 @@
+NEUT0|"""Tesla's recently made headlines and hear the latest updates for the company."
+BULL1|Tesla is not slowed down in 2021 and the company recently reported a record number of 184 thousand vehicles delivered in a little over 180,000 vehicles produced in the first quarter.
+BULL2|Is almost 100% increase in one double number of deliveries from the same period last year and it is beat what analysts predicted.
+BEAR3|What's even more surprising is that the Model S and Model X production was at zero, and although the company did deliver a little over 2000 vehicles, it was done through inventory.
+NEUT4|This is because the vehicles are going through changes and a statement.
+NEUT5|Tesla wrote the new equipment is being installed and tested in Q1 and the company is now in the early stages of ramping new production.
+BULL6|Bloomberg has reported these record numbers are due in part to strong reception of the Model Y production in China and Tesla Shanghai.
+NEUT7|We're also seeing taxis using Teslas as a primary vehicle for ridesharing.
+NEUT8|In cities like New York, it is mandatory for new drivers to use an electric vehicle as the new primary vehicle source.
+BULL9|And with Biden's new infrastructure plan.
+NEUT10|We can see an even harder push for drivers and taxis to go electric.
+BULL11|Recently, Apple has announced a massive new energy storage project in which Tesla supplied to Megapack battery solutions for the project.
+BULL12|In a recent press release, Apples announced that it is building a massive new 240 MW hour of energy, enough to power 7000 homes in one day.
+BULL13|This would become one of the largest battery projects in the world and test those estimated charge between 200 three $100 per kWh for this megapacks.
+NEUT14|We can estimate that the entire payment will be over $50 million.
+NEUT15|And with Apple being as big of company as it is, the fact that they chose Tesla to power its project and to use their batteries shows how powerful Tesla's batteries can be.
+BULL16|We have also seen Elon Musk push and donate for better infrastructure in Texas and this is primarily due in part for the new Tesla factory in Texas.
+BULL17|"This will lead to eventually even more production for its vehicles."""

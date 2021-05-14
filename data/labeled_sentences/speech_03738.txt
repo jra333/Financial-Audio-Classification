@@ -1,0 +1,25 @@
+BEAR0|"""The housing market is heating up again as the country moves away from lock downs and mortgage."
+BEAR1|Interest rates are at record lows, but for 10s of millions of Americans housing remains only a dream.
+NEUT2|I'm Steve Forbes.
+NEUT3|This is what's ahead when we give you the insights you need to stay on top of this ever turbulent world.
+NEUT4|Why is it that so many Americans can't buy a house anymore?
+BEAR5|Not so long ago, any middle class family that wanted to buy house could do so, but in recent decades, housing prices have gone up two to four times.
+NEUT6|The pace of individual and family incomes.
+NEUT7|Why there are two big villains?
+NEUT8|One villain is States and municipalities around the country.
+NEUT9|Led by California have put more and more restrictions on new land being used for development or even increasing development on existing land.
+NEUT10|This is substantially raised prices the other big villain is the time it takes to get approval for a development it can take years not only months but years.
+NEUT11|Several states have not fallen into this trap.
+NEUT12|States such as Georgia, North Carolina and Texas in Texas.
+NEUT13|For example, a developer can get approval within a matter of weeks by contrast, and San Francisco can take five years 10 years.
+NEUT14|Maybe never in those states like Texas and Georgia.
+BULL15|Housing is booming.
+NEUT16|People want more of it, but the prices remain affordable, so the bottom line is clear.
+NEUT17|We gotta get rid of these crazy regulations that have grown up over the decades.
+NEUT18|They're not necessary.
+NEUT19|We get rid of those kind of regulations and do it.
+BULL20|North Carolina and others have done.
+NEUT21|There's no reason why the American dream of owning a house can be our reality, whoever it wants to realize it.
+NEUT22|I'm Steve Forbes.
+NEUT23|Thank you for listening and do send in your comments.
+BULL24|"I look forward to seeing you next time."""

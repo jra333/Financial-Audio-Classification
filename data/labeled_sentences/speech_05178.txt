@@ -1,0 +1,7 @@
+BEAR0|"""Just saw a really big Amazon van on my street."
+NEUT1|Big Prime logo on the side of the vehicle reminded me I wanted to look at Amazon charts to see potentially when a new all time high could occur.
+NEUT2|Let's take a look.
+NEUT3|What we're looking at is the all time highs.
+NEUT4|And when they sell off 25% or more, how long does it take to get to the next all time high and we have about 10 occurrences and the average time to get to the new all time high is about 17 months weekly and monthly chart look constructive as well as the daily.
+NEUT5|As you can see, the price action broke out of this downward trend and now in some whatever continuation Pennant pattern which likely could break.
+BULL6|"Upward closer to the all time high line."""

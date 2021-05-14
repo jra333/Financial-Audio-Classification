@@ -1,0 +1,66 @@
+BULL0|"""Facebook stock today rising."
+NEUT1|There it is.
+NEUT2|You can see it.
+BULL3|It was up 4% a second ago.
+NEUT4|Now 3.4374% of Dollar Sixteen 3217.
+NEUT5|Very interesting thing about that 3217 number David Benoit Deal Journal Blogger who's been all over this story.
+NEUT6|That 3217 number that's right in the middle of the original IPO range, right of 28 to 35 right?
+NEUT7|Kind of in the middle there.
+NEUT8|So maybe if they hadn't repriced it, they have gotten the pricing right?
+NEUT9|Yeah, well in some ways.
+NEUT10|I think Facebook still argues that the price is right, at least for them and their investors that $38.00 IPO.
+NEUT11|Paid them the money that they needed to be paid, but certainly this IPO has gone South.
+NEUT12|Further, I think that people thought.
+NEUT13|What are you kidding me?
+NEUT14|Of course it has a lot further South than people thought.
+BULL15|Yeah, I think so.
+NEUT16|Yeah.
+NEUT17|I mean touched was it touched 31 yesterday right?
+NEUT18|Yeah, closed at 31 close to 31 so look.
+NEUT19|I mean they can set your right 'cause they did get $16 billion.
+NEUT20|They did raise a lot of money but you can see by the stock action that the market thinks something different about the stock and what it's worth without it down.
+BULL21|Yeah, I would agree.
+NEUT22|There's certainly something that was missed in either the demand discussions or the pricing discussion.
+BEAR23|Something went around here.
+NEUT24|For sure now.
+NEUT25|You know we have the lawsuits.
+NEUT26|We know NASDAQ is going through whatever they're going to Jenny Strasburg on a few minutes to talk about Nasdaq's role in all this.
+BEAR27|Do you think now you see Facebook shares upright for the first day, saying on a day when the market is down?
+NEUT28|So what do you think?
+NEUT29|Facebook, at least as far as the share price is gone?
+NEUT30|Maybe this is settling down for the stock itself right now.
+NEUT31|You know, I don't want to say, yeah, I think it's possible.
+NEUT32|I mean, I think I think 31 I think really did catch a lot of people and people thought listen.
+NEUT33|We're not sure.
+NEUT34|I think people still aren't sure wins value.
+NEUT35|There was no doubt from Needham this morning.
+NEUT36|That's what I was going to say about that.
+NEUT37|Yeah, it's like the vibrating by writing in a $40 price target.
+NEUT38|Call them an option on the world, so option on the world away to take a hike that is classic and there you can see we actually have a little little pull quote from it.
+NEUT39|I mean, that's just a weird option on what does it mean?
+NEUT40|What does that mean?
+NEUT41|An option on the world?
+NEUT42|'cause Facebook covers the world?
+NEUT43|Yeah, I mean so.
+NEUT44|So their argument is that with 900,000,000 doesn't seem very fundamental.
+NEUT45|You know it doesn't, but they do go in the note there is more research obviously, but you know, they think that it will eventually have more revenue than Google, which is.
+NEUT46|A pretty common, and that's a really big now.
+NEUT47|How are they going to get there?
+NEUT48|How they get revenue?
+NEUT49|We know the issue with Facebook is mobile.
+NEUT50|Everyones going mobile and it's harder to put ads on that little Facebook crap.
+NEUT51|I mean do they?
+NEUT52|Do they address that in the note?
+NEUT53|I mean they talk a little bit about mobile, they're common essentially.
+NEUT54|Is that look Google has just about the same amount of users, a little bit more than Facebook right now and their users only spend a couple of minutes every day on Google.
+NEUT55|And Google makes a pretty good amount of money on revenue on its advertising.
+NEUT56|Whereas Facebook users spent about 14 minutes a day on the site and so it's just kind of a aggregate number of people looking at it in amount of time.
+NEUT57|The Needham thinks that the ads will come all right.
+NEUT58|David Benoit.
+NEUT59|Deal, Journal Blogger.
+NEUT60|Let's get back to the block.
+BULL61|Thank you very much, Sir.
+BULL62|Before we leave you though, look, it's good morning for Facebook.
+BULL63|Shares good morning for Mark Zuckerberg, the wealth Ometer doing a little bit better today you can see a little dip up there.
+NEUT64|So hey, Mark Zuckerberg, price still on your honeymoon worth 16.223 billion.
+BULL65|"It's good number, good number for Mr Zuckerburg today."""

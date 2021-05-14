@@ -1,0 +1,32 @@
+NEUT0|"""In an uncertain world for stock markets, what role for psychology when it comes to picking stocks to help us think about these issues were joined by Jeremy Lang of our Deborah Asset Management."
+NEUT1|Like Jeremy, so I think in your investment process you'll think a lot about normality.
+NEUT2|What is normal for investors and for management?
+NEUT3|Who are making decisions about the companies they run and to help us think about that, you've got a great chart here.
+NEUT4|I think of the long term oil price, right?
+NEUT5|So you see a lot of the bits of research that I read on the old price only go back 20 or 30 years and so they show.
+NEUT6|If you like the tail end of that chart and what you see on the tail end of that chart.
+BEAR7|Is that the oil price looks quite low compared to where it is.
+NEUT8|Pain, but for me was much more interesting is where does the oil price normally sit and what causes it to spike and then slowly 'cause remember this is many many decades of history then claw its way back to if you like the more normal place that it is and so for me the most interesting thing about this chart is looking at what went on in the 1860s, eighteen 80s compared to now because that big oil price spike in the 1860s is what's called a Pennsylvanian or boom.
+NEUT9|And that was a period which, in my view is very similar to what we have now.
+NEUT10|You had a few like an exogeneous shock which forced the old price up and then that triggered a huge change in behavior in the people that run all companies there was this massive incentive to find new ways of finding all in a cheaper way and that was there was an enormous technological explosion.
+NEUT11|That's where oil drilling was invented and that brings us back to a very long period of very low oil prices which should perhaps be normal.
+NEUT12|That's why that's our view is that if you like.
+NEUT13|There's a sort of feedback loop here.
+NEUT14|We went there once.
+NEUT15|The price of oil gets very high, then encourages this sort of systematic risk taking in an industry where everybody herds and thinks there's lots of opportunity, but they behave myopically and so wave of capital come in comes in, which just in the end inexorably drives the oil price all the way back down again, and so that for us is the norm.
+NEUT16|And so when it comes to investment.
+NEUT17|Normality can also drive behavior and risk taking at companies as well, and I think you've got a chart here which shows some of that in Japan.
+NEUT18|This chart here shows you balance sheet growth over a rolling three year.
+NEUT19|For a certain bunch of businesses.
+NEUT20|In this case Japanese ones.
+NEUT21|And what are the Japanese doing here?
+BEAR22|The exporters are getting a bit exuberant.
+NEUT23|Is that the right word?
+NEUT24|Yeah, so the story here really is, you know, we kind of like Japan back in 2011 because we felt that there were a lot of businesses in Japan that have been under the cost for a long time, and so consequently, management it rained in their risk taking, and so we're very careful with capital.
+NEUT25|And that's what you see in that child in 2011.
+NEUT26|You see, there's virtually no.
+BULL27|Balance sheet growth over the previous three three years for those export LED industries of autos and industrials.
+BULL28|But as the yen moved and made it easier for those managers, they their appetite for risk.
+BULL29|If you like started to rise and so as we go through to 2012, 2013 and so on, you can see that their willingness to chase growth by investing capital slowly gets higher and higher.
+NEUT30|Until now, you see, there's almost this explosion of commitment to capital.
+BULL31|"For those export orientated businesses, thank you very much Jeremy thank you."""

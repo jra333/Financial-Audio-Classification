@@ -1,0 +1,11 @@
+NEUT0|"""People keep asking me for my thoughts on the banking crisis and economic matters in general, and I'm by no means a financial expert, but I've looked into it and maybe this video will be helpful."
+NEUT1|If you're someone who thinks that any of that is important or interesting.
+NEUT2|The economy in the old days it was much simpler than it is now.
+NEUT3|If you think of the economy as a huge bucket or cauldron containing, well, things like material goods, natural resources, physical labor and specialized skills, then traditionally the way it worked was that people exchanged the things they had for the things that they needed.
+NEUT4|And the price of each thing was determined by how much of it there was an how much it was desired, supply and demand.
+NEUT5|It was quite easy to understand and we got by like that for thousands of years and then at some point in fairly recent history, a group of evil Wizards emptied a sack load of magic beans into the bucket and everything just went weird.
+NEUT6|The way I understand it is that the magic beans grew into these things that everybody now refers to as the markets and the markets assumed control of all human affairs, and we now in this situation where.
+NEUT7|Well, the markets are a bit like the Greek gods in Jason and the Argonauts.
+NEUT8|They look down at what humans are doing and if they don't like how we're behaving, then they punish us and all we can do is try to not make them angry, or which is difficult because their their whimsical the markets.
+NEUT9|As I say, I'm not an expert, but if you want to know more, read the comments under this video, 'cause I'm sure.
+NEUT10|"Somebody will explain."""

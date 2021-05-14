@@ -1,0 +1,9 @@
+NEUT0|"""Comcast Corp is an American telecommunications conglomerate headquartered in Philadelphia, PA."
+NEUT1|It is the second largest broadcasting and cable television company in the world by revenue, the largest pay TV company, the largest cable TV company and largest home Internet service provider in the United States and the nation's third largest home telephone service provider.
+NEUT2|Comcast provides services to US residential and commercial customers in 40 States and in the District of Columbia.
+NEUT3|As the parent company of the International media company, NBC Universal since 2011, Comcast is a producer of feature films and television programs intended for theatrical exhibition and over the air and cable television broadcast, respectively.
+NEUT4|The 27 analysts offering 12 month price forecasts for Comcast Corp have a median target of $54.00 with a high estimate of $70.00 and a low estimate of $40.
+BULL5|The median estimate represents a + 8% increase from the last price of $50.
+NEUT6|The current consensus among 32 polled investment analysts is to buy stock in Comcast Corp.
+BULL7|Thanks for watching.
+NEUT8|"Don't forget to subscribe my channel."""

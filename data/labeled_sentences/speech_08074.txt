@@ -1,0 +1,61 @@
+NEUT0|"""Hey guess what?"
+NEUT1|It's Friday misses your morning jolt.
+NEUT2|I have three things you need to know to anyer market trading week on a high note.
+NEUT3|First up a little around the horn.
+NEUT4|AT&T CEO Randall Stephenson.
+NEUT5|He was at the Wells Fargo Conference yesterday afternoon.
+BEAR6|He came out very bullish on TV and I get it.
+NEUT7|He just closed his Time Warner deal.
+NEUT8|But I think this comment is a little goofy.
+NEUT9|Let's see what we got here.
+BULL10|18 T Randall Stephenson and Wells Fargo quote we actually think will be growing TV Subs over the next couple of years.
+BULL11|Yeah, I hear you, my man.
+NEUT12|I question that because.
+NEUT13|Obviously you see them moving.
+NEUT14|You see the movement toward streaming.
+BEAR15|You see companies like Roku going through the roof, but look what has happened to Netflix.
+BULL16|Netflix is stock is up about 110% this year.
+BULL17|This week alone, I believe we saw three aggressive upgrades, one company calling out of 500 price target for this company.
+NEUT18|So either Mr. Market is completely wrong on Netflix or Randall Stephenson is wrong.
+NEUT19|You can't have Netflix stock up here and comments like very bullish on the outlook for TV from Randall Stephenson on the other side.
+NEUT20|My my view.
+BULL21|I think Netflix is is the winner here.
+NEUT22|Clearly I mean come on TV.
+NEUT23|Who's watching TV?
+NEUT24|Brooklyn have no money.
+NEUT25|They're not paying for TV.
+NEUT26|What else?
+NEUT27|We got?
+NEUT28|PayPal, PayPal?
+BULL29|This company has made its second straight deal this week.
+BEAR30|Plunking down $120 million for a fraud prevention company shout out to PayPal CEO Dan Schulman.
+NEUT31|I talked him about a month ago for my Morning Jolt podcast, and he's doing everything he said in that 25 minute podcast.
+NEUT32|Check it out on SoundCloud there putting cash to work.
+NEUT33|They're watching their lead over rivals Dan Shulman.
+NEUT34|I mean, the guy is just a top flight, see?
+NEUT35|What else we got?
+NEUT36|What else we got?
+NEUT37|The big story today is how absolutely lame.
+BEAR38|This market looks we're not getting a snapback rally.
+BEAR39|We're not getting a lot of enthusiasm out there after the markets taking a drubbing the past couple sessions are still seeing a little bit of weakness in some of the Fang stocks.
+NEUT40|I don't know, you know what is lame as the new Chevy Blazer that got unveiled last night.
+NEUT41|Jim, I don't know what you were thinking, but the Blazer was an 80s icon.
+NEUT42|My dad had one with it was really retrofitted with every cool accessory at the time.
+NEUT43|What should GM in Vail last night is essentially a rounded mid size SUV family Hauler GM?
+NEUT44|I mean, you gotta step it up there.
+NEUT45|Laser had identity.
+NEUT46|It said you want to own me, not a Ford Bronco.
+NEUT47|Come on, it looks so lame.
+NEUT48|Lastly, I leave on this names on the street I'm sitting down with Black Berry CEO John Chen.
+NEUT49|A little later on, little later on today the company came out there and expected earnings in the morning.
+NEUT50|It listened.
+NEUT51|Changes on the phenomenal job too.
+NEUT52|I mean he is repositioned BlackBerry as a play on the future of cars.
+NEUT53|The connected car but also security.
+BULL54|And that was one of the stronger parts of Blackberries business in the quarter.
+NEUT55|They beat on revenue that beat on earnings.
+BEAR56|I have no idea why BlackBerry stock is down about 13% this year.
+BULL57|Going into the earnings, but I suspect it will get a strong bed off of these results longer but longer term.
+NEUT58|I think BlackBerry is a business that's going to be done by Microsoft and video SoftBank.
+NEUT59|I'm just saying be sure to sign up for the Morning Jolt newsletter down here.
+BULL60|"Have a wonderful wonderful weekend."""

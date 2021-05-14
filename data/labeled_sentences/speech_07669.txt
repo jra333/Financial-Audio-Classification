@@ -1,0 +1,45 @@
+NEUT0|"""Good morning, my name is Howard Bascom, up from Kansas City and I've got a theoretical value question for you."
+NEUT1|If you were to buy a business and you bought it at its intrinsic value, what's the minimum after tax free cash flow yield, you'd need to get?
+NEUT2|Well, your question is that we were buying all of a business.
+NEUT3|And we were buying it at what we thought was intrinsic value.
+NEUT4|What was the minimum?
+NEUT5|Correct president earning power or what the president.
+NEUT6|The minimum discount rate of future streams.
+NEUT7|No.
+NEUT8|What's the minimum current after tax free cash flow yield?
+NEUT9|You wait, wait, wait, could.
+NEUT10|Conceivably by a business.
+NEUT11|I don't think we we, we would be likely to, but we could.
+NEUT12|We could conceivably buy a business that had no current.
+BULL13|After tax cash flow, but we would have to think it was had a tremendous future, but that we would not find.
+NEUT14|Obviously the current figures.
+NEUT15|Particularly in the kind of businesses we buy.
+NEUT16|Tend to be representative.
+NEUT17|We think of what's going to happen in the future, but but that would not necessarily have to be the case.
+NEUT18|You can argue for example, in buying stocks.
+BEAR19|We bought GEICO at a time when it was losing significant money.
+BEAR20|We didn't expect it to continue to lose significant money, but but if we think.
+NEUT21|If we think the present value.
+NEUT22|Of the future earning power.
+NEUT23|Is attractive enough compared to the purchase price?
+NEUT24|We would not.
+NEUT25|We would not be.
+NEUT26|We would not be overwhelmed by what the first years figured would be.
+NEUT27|Charlie want to add to that.
+NEUT28|Yeah, well we don't care what we report.
+NEUT29|In the first year or two of.
+NEUT30|After buying anything.
+NEUT31|Well, I would say that that.
+NEUT32|In a world of.
+NEUT33|7% long term bond rates that.
+NEUT34|We would certainly want to think we were discounting.
+NEUT35|Future aftertax streams of cash.
+NEUT36|At least a 10% rate.
+NEUT37|But that that will depend on.
+NEUT38|On the certainty we feel about the business, the more certain that we feel about a business.
+NEUT39|The closer we were willing to play it.
+NEUT40|We have to feel pretty certain about any business before we're even interested at all, but there there's still degrees of certainty and and.
+NEUT41|If we thought we were getting.
+NEUT42|A stream of of cash over the next 30 years that we felt extremely certain about.
+NEUT43|We would we would we would use a discount rate that would be somewhat somewhat less than if it was one where we thought we might get some surprises in five or ten years possibility existed.
+NEUT44|"Nothing to add, OK?"""

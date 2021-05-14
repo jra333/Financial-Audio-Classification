@@ -1,0 +1,8 @@
+NEUT0|"""Hey traders and are keen CEO and President of alphashark.com."
+NEUT1|This is your stock trade today and it's going to be in Pfizer.
+NEUT2|So institutional order flow in the option market traded by the November 45 calls.
+NEUT3|I think it's an opportunity to get long.
+BEAR4|Pfizer could get into Pfizer at 43 so if we look at the daily chart of Pfizer very strongly in charge, even though the stock is down today so the trade would be to buy Pfizer at 43 stop loss will be 40.
+NEUT5|Target would be 44 1/2 to target, two would be 46.
+BULL6|So by Pfizer I think the stock goes higher here based on unusual option activity in short term is.
+NEUT7|"In thanks will run it back tomorrow."""

@@ -1,0 +1,15 @@
+BEAR0|"""A snap of cold weather that has struck Europe in Asia is sent natural gas prices in those two regions of the world is our highest level in over six years."
+BEAR1|However, the US price of natural gas remains relatively low by comparison.
+BEAR2|Prices at Henry Hub have been trading at around 2:00 and a half dollars per Mmbtu in recent weeks, which to be fair, is significantly above levels from one year ago, but still far below peak levels from 2003 to 2000.
+NEUT3|8 Now US up until 2016 was only exporting natural gas via pipeline to Canada and Mexico, but things have changed very dramatically in the past five years.
+NEUT4|Currently anywhere from 3% to 7% of US production, depending on the month, is exported on oceangoing vessels, mainly going to Europe and Asia.
+NEUT5|Sometimes the other parts of the world like Latin America.
+BULL6|Now, given the rise in US LNG exports and the Sky high price of LNG exports.
+NEUT7|Globally, why is it that the Henry Hub price hasn't reacted more well?
+NEUT8|That seems to have a lot to do with demand conditions in North America.
+BEAR9|With many restaurants, offices and other businesses shut down because of the pandemic.
+BEAR10|Natural gas demand remains significantly below normal and we see that in natural gas storage levels which remain near seasonally adjusted record highs.
+BULL11|However, this does raise a question with the advent of widespread vaccination programs in the United States and elsewhere, and in addition to that, also the possibility of additional fiscal stimulus and monetary stimulus.
+NEUT12|Could this eventually cause the price of Henry Hub to reconverge with the price in other markets around the world?
+NEUT13|That remains an open question.
+NEUT14|"I'm Eric Norland, senior economist with the CME Group in London."""

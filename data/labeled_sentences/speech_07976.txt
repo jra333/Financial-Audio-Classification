@@ -1,0 +1,20 @@
+NEUT0|"""Sage full calcein media here."
+NEUT1|Thanks for joining us for our next educational topic to follow.
+NEUT2|Today we're covering the volume weighted average price.
+NEUT3|This is part of technical analysis, so let's find out a little bit more about it.
+NEUT4|So VW, AP or volume weighted average price is a technical analysis tool that is the ratio between the asset price and the total trade volume.
+NEUT5|VW AP is a trading benchmark used by the trader.
+NEUT6|And used to obtain the average price at which the security traded throughout the trading session in terms of volume and price.
+NEUT7|So why do traders consider the VW AP as an essential tool?
+NEUT8|VW AP helps in identifying where the market is bearish or bullish if the market is bullish, it means that the price at which the shares are trading is below the VW AP.
+NEUT9|On the other hand, a market is bearish when the market price is above its VW AP.
+NEUT10|Another advantage of VW AP is that you can understand the time to buy or sell the stock.
+NEUT11|Retail and professional traders use VW AP for determining the intraday trade advantages of EWP strategy.
+NEUT12|The most significant advantage of using the VW AP strategy is that it is easy to calculate and understand.
+NEUT13|It is beneficial to calculate small trades.
+NEUT14|Disadvantages of VW AP strategy.
+NEUT15|One of the major disadvantages of VW AP is that it does not account for any opportunity cost.
+NEUT16|It can manipulate trading by positioning the trades only at the time when market prices are at a level that is favorable with the volume weighted average price.
+BEAR17|There is a scope that the results could be inaccurate and misleading for big orders are wrong.
+BEAR18|Decision could take considerable time to recover.
+BULL19|"Thanks for watching stage here for Calcein Media."""

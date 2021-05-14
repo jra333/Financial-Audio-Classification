@@ -1,0 +1,26 @@
+NEUT0|"""Test, test, test."
+NEUT1|They used the same staying in wiretap tools traditionally deployed to nab organized criminals and drug dealers.
+NEUT2|Make yourself comfortable, but in this case the FBI was targeting executives from small penny stock companies.
+NEUT3|These are tiny companies known as micro Caps, who shares typically trade for a penny or less.
+BEAR4|Prosecutors have charged 22 people, 18 of those have pled guilty or been convicted after trials.
+BEAR5|Huawei, for allegedly taking part in a deal offered by an undercover FBI agent posing as a corrupt hedge fund manager.
+BEAR6|To buy stock in companies at an inflated price in exchange for kickbacks as Jean Eaglesham reports exclusively in the Wall Street Journal Operation Penny Pincher is one of the biggest investment fraud stings ever mounted by the federal government.
+NEUT7|Here's how the FBI sting worked.
+NEUT8|A microcap executive is introduced through a Finder to John Kelly, an FBI agent posing as the manager of a fake hedge fund called Seefin Capital.
+NEUT9|The FBI's cover story was that Cfan Capital was based in New York.
+NEUT10|Agent set up a fake satellite office in the Boston suburb of Burlington, MA, for John Kelly to do his secret deals, which ripped off see fins investors.
+NEUT11|The Sham office was complete with business cards and swag in the form of this phone whale and also hidden cameras.
+NEUT12|My side is I'll get you the money and I expect you know my share to come back to capture interactions between John Kelly and Company executives as they accept his offers to overpay for shares in exchange for those kickbacks.
+NEUT13|Among those who took the bait.
+NEUT14|An executive at an animal feed company.
+NEUT15|Mr. Kelly in a meeting with Vitalife executive John Jordan, explains 50% back on whenever I invest, Mr Jordan confirms he understands the deal because, you know, you definitely being yeah well I appreciate that and that's why you know again when I started out I had a hard time, you know, strict Catholic upbringing.
+NEUT16|But I realize that you know this this whole games to make money well, but it is reality.
+NEUT17|Yeah, in this case, the FBI agent agrees to buy up to $5 million of beta lifestock with payments of increasing size is if your wires the first payment of $32,000 to the company in turn, Mr Jordan wires the $16,000 kickback to another sham company set up by the FBI called Waters Edge.
+NEUT18|As John Kelly explains in an email, he created Waters Edge simply for the kickbacks which have to be hidden.
+BEAR19|Another person also gets stung in this sting the Finder 63 year old James Pranke who helped Penny stock companies raise money.
+NEUT20|He, too, had been propositioned by John Kelly to play his role in the illegal deal.
+NEUT21|This, accordingly, in a deal for you.
+NEUT22|I don't know what you would think in terms of compensation that squares with how you were thinking or so for his services in the Veda life deal.
+BEAR23|Mr Pranke was sent his 10% kickback and then to prison.
+BEAR24|A federal jury in Boston, convicting both Frankie and Jordan.
+BEAR25|"A fraud each man now serving a 30 month sentence there appealing their convictions."""

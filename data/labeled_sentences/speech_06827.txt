@@ -1,0 +1,23 @@
+NEUT0|"""There are three types of stock analysis."
+NEUT1|One that you should do, one that you can do, and one that you're going to do.
+NEUT2|They all get the same return.
+NEUT3|When you got into investing, this is what you thought you'd be doing.
+NEUT4|You also used to think that on December 25th, Grown Man would climb down your chimney and give you a free PS2.
+NEUT5|And an old guy in a red suit climbing down a chimney to give you presents in the middle of the night is actually more realistic than you reading a 56 page, 10 Q and accurately being able to determine whether you should buy or sell and what is this 10K you didn't realize you were going to have to do?
+NEUT6|Exercise to invest in the ******* stock market the first time you read 10K you were running the other direction.
+NEUT7|So maybe security analysis isn't your thing.
+NEUT8|The day you find this out is also the day that wallstreetbets conveniently enters your life.
+NEUT9|Finding Wallstreetbets feels like a new beginning because it is the beginning of the end.
+NEUT10|Trading has now become your weird psychotic religion.
+NEUT11|You do magic rituals.
+NEUT12|They don't actually do anything.
+NEUT13|You read sacred texts they don't actually do anything.
+NEUT14|You listen to holy men.
+NEUT15|They don't actually do anything.
+NEUT16|And in a desperate attempt to save you from yourself.
+NEUT17|Your brain starts to correlate random things in the outside world to the performance of your Robinhood account.
+NEUT18|And to your surprise, whether or not Jupiter is in retrograde actually correlate's better to Amazon share price than all of the analysis you did.
+NEUT19|Because of this, you now realize it's best to gamble with your financial future using rules like Lil Yachty is about to drop an album time to go short, I guess.
+NEUT20|Looks like Tesla's been trading sideways for a while now.
+NEUT21|That probably means it's due to go up pretty soon here.
+BULL22|"This 10% out of the money calls should do the trick."""

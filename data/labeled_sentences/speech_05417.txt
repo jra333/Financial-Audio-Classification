@@ -1,0 +1,10 @@
+NEUT0|"""From the FT in London, it's a busy session in markets."
+NEUT1|Here's what's hot overnight.
+BEAR2|India cut interest rates in response to weaker inflation and just about promised more ahead.
+BEAR3|Australia Meanwhile, kept rates on hold but had some harsh words for the rally in the Aussie dollar, saying it could complicate the adjustment of the economy may be the currency wars are back on.
+NEUT4|After all.
+BEAR5|On a similar note, the yen has burst two and U 17 month high wiping out the effects of the monetary bazooka unleashed in October 2014, let alone the new easing from January.
+BEAR6|True to form, the Nikkei doesn't like this with stocks now putting in the second longest losing streak of the ABBA Nomics error, Japanese Government bonds two are on the up.
+BEAR7|That's a global theme again today with a renewed drop in oil, once again generating a nervous tone.
+BEAR8|The black stuff is now nearly 12% below its March peak.
+BULL9|"German buns in particular back on form with 10 year yield sinking to a new low for the year, boosted in addition by the arrival of the newly souped up Bond buying program from the ECB."""

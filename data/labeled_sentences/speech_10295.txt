@@ -1,0 +1,22 @@
+NEUT0|"""Of course, the process of bankruptcy is messy."
+NEUT1|The bondholders often don't know where they stand.
+NEUT2|You'll have senior bondholders, junior bottle, or sometimes Sir senior mortgage banker bondholders.
+NEUT3|They all have a chance of getting a piece of new post bankruptcy hurts because it's highly unlikely that the business actually goes away.
+NEUT4|The enterprise is more something.
+BEAR5|The problem is that the common stock holders are at the bottom of the bankruptcy pecking order, meaning there's almost zero chance they get a piece of the new company.
+NEUT6|If you own hurts here, 4 bucks, you're buying the old hurts with 19 billion in debt.
+NEUT7|That it can't repay, since the creditors can't collect, they're going to seize the collateral, which is the business.
+NEUT8|So this $4 stock will most likely just be cancelled.
+BEAR9|Honestly, the fact that hasn't been cancelled yet is a travesty, because it's only a matter of time.
+NEUT10|If I were running the bankruptcy court issue, an edict saying the darn thing can trade, which would keep inexperienced investors from losing money on it.
+NEUT11|Instead, this darn thing traded 5 or 30 million shares yesterday in 295 million today.
+NEUT12|The whole float is only 140,000,000.
+NEUT13|That's insane, and it's not just hurts we're seeing the same thing with Chesapeake Energy.
+BEAR14|The heavily indebted oil and gas producer.
+BEAR15|Chester is headed for bankruptcy because it can't cover its interest.
+NEUT16|Payments to bondholders will repossess the company taking away the common stock from shareholders.
+NEUT17|The same way hurts is being repossessed the same way your house or your car would be repossessed.
+NEUT18|Don't miss a second of mad money.
+NEUT19|Follow at Jim Cramer on Twitter.
+NEUT20|Have a question?
+NEUT21|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

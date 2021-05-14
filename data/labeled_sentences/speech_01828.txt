@@ -1,0 +1,18 @@
+NEUT0|"""Welcome to charts that count the US stock market in the month of November can be summed up in a single word, yippee."
+NEUT1|Whether it was news that an effective COVID-19 vaccine could arrive as early as the spring time or news that the US would have divided an therefore inactive government for years to come.
+NEUT2|The market took flight.
+BULL3|The S&P 500 rose by 11% in November, its best November ever.
+NEUT4|Everyone wanted risk while stocks flew.
+BULL5|Defensive assets like gold and the dollar sank, but seeing the S&P 500 make new highs is not in itself all that exciting.
+NEUT6|For over 10 years, the US has been host to a stonking round.
+NEUT7|Whether the market mood is pessimistic or optimistic.
+NEUT8|Investors First choice has consistently been large US corporations.
+BULL9|In November, however, indices that have long trailed the US in emerging markets in Japan in Europe matched the performance of the S&P 500 or even surpassed it.
+NEUT10|Now.
+BEAR11|One result of this widening gap is that U.S. stocks have become relatively expensive at about 30 times forward earnings.
+NEUT12|They are towards the top.
+NEUT13|Of their historical price range relative to corporate earnings.
+BULL14|International stocks, Meanwhile, are closer to those long term averages, a feature that will appeal to value oriented investors.
+BEAR15|Now, those who have bet on international stocks closing the gap with U.S. stocks have suffered some years of frustration and underperformance.
+NEUT16|But what happened in November suggests that maybe, just maybe, those investors time.
+BULL17|"Has come."""

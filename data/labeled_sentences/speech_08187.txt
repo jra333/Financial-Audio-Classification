@@ -1,0 +1,30 @@
+NEUT0|"""Dot com cheers of Netflix."
+BULL1|ELEX popped over 3% through afternoon trading on Tuesday to hit yet another new all time high on the back of the most bullish analysts call to date.
+BULL2|GBH Insights updates price target to a whopping $500 per share.
+BULL3|Less than a week after Goldman Sachs GS lifted its target to $490.00.
+BULL4|Therefore, investors clearly need to take a look at why analysts are so excited about the streaming giant GBH Insights raised its NFL X price target from $400 per share to $500 on Tuesday, which marked at 28% premium from Monday's closing price of 300.
+NEUT5|And $90.40.
+BULL6|GBHS updated price target marked the highest out of the 36 analysts who cover Netflix, according to FactSet.
+BULL7|Meanwhile, the firm reaffirmed it highly attractive.
+BULL8|Rating our bullish thesis on Netflix is based on our belief that the company's competitive mode franchise appeal ability to increase international streaming customers through 2020 and original content buildout will translate into robust profitability and growth.
+NEUT9|Analyst Daniel Ives wrote in a note to clients.
+BULL10|More fundamentals, Netflix added 7.41 million new members in the first quarter, which marked a 50% jump from the year ago.
+BULL11|And topped the companies forecast of 6.35 million.
+NEUT12|The streaming company closed the quarter with 125 million members.
+BULL13|Looking forward to the second quarter, Netflix expects to add 6.2 million new members.
+NEUT14|These user figures and growth estimates are part of the reason analysts are so excited about Netflix.
+BULL15|Last week, Goldman analysts reiterated the firm's buy rating for NFLX, an up their price target from $390.00 per share to $490.00 per share.
+BULL16|The previous Wall Street High, citing the company's growing content offerings and distribution ecosystem.
+NEUT17|GBH analysts pointed out similar reasons for their new price target.
+NEUT18|Investors will also be pleased to note that a GBH survey claimed that the average Netflix customer watch is its service more than 10 hours per week, which tops Amazon AMZN, an who lose 5 hours.
+BULL19|GBH also stated that almost 90% of Netflix subscribers said they would be willing to pay more for the service.
+BULL20|This is a good sign for investors since people clearly think that Netflix is content offerings are already worth the $13.99 a month price tag that it charges for its premium subscription.
+NEUT21|Netflix wisely began spending billions of dollars on its own original content when it realized how popular the streaming commercial free subscription model had become.
+BEAR22|The company understood that one day, the Disney's Dissent boxes FOXA of the world would pull their movies and shows for simply ask for too much.
+BULL23|The companies investments will become even more crucial after at aunties T $85 billion merger with Time Warner TWX was approved.
+NEUT24|Stock price movement.
+BEAR25|Cheers of NFL X have skyrocketed 1108% over the last five years before today's climb.
+BEAR26|Netflix is movement crushes Amazon's 520% climb.
+BULL27|An Facebook's FB roughly 707% surge.
+BULL28|NFLX has also soared over the last year, up nearly 164% against the S&P 500 S 14% climb.
+BULL29|"Investors will also see that shares of Netflix have climbed nearly 109% since the start of the year, which places it near the top of the S&P 500."""

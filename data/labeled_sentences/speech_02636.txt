@@ -1,0 +1,46 @@
+NEUT0|"""Political tensions they are heating up around the world, so let's do a quick review."
+NEUT1|The Italians had their election on Sunday, March 4th and it did not produce a government or a majority that was to be expected.
+NEUT2|That's the way Italians operate.
+NEUT3|It's a very messy system and they work through it in the country grows just fine.
+NEUT4|No impact there.
+NEUT5|Germany was a little different.
+NEUT6|Chancellor Merkel needed to form a grand coalition to govern the country and she needed the Social Democrats to agree to that they were in between a rock and a hard place.
+BEAR7|If the Social Democrats didn't agree to become part of Merkel's grand coalition, that would be a new election.
+BEAR8|An if there was a new election, well, they might lose even more voice in the government.
+NEUT9|So the SPD went along.
+NEUT10|And that was what the market expected.
+NEUT11|And so we're moving along in Germany.
+NEUT12|Now, some things that are coming up on the trade front are really much more disturbing for markets.
+NEUT13|The stock market is very sensitive to trade, and trade makes the world go round.
+BEAR14|the US is upset with China, so the US is putting tariffs on steel and aluminum.
+NEUT15|Unfortunately, that's going to hit Germany in Canada, and that's really the way trade works.
+NEUT16|It's nothing about trade is bilateral.
+BULL17|It looks bilateral.
+NEUT18|We trade with you.
+NEUT19|You trade with us.
+NEUT20|It's one to one, but it never is.
+NEUT21|You build a car in one country.
+NEUT22|You get the steal from another country.
+NEUT23|You get parts from somewhere else.
+BEAR24|Train is so complex and it's the collateral damage that really hurts.
+NEUT25|And it's the collateral damage with the stock market is trying to price.
+BEAR26|So when we get news of a trade skirmish or a trade war, it's not good for the stock market.
+BULL27|Now usually the stock market will recover.
+BULL28|And they will recover because generally the initial skirmishes are pretty small.
+NEUT29|What might come next after steel and aluminum, we think there's a very, very high chance now that the US will announce that it's pulling out of NAFTA somewhere in the second quarter.
+NEUT30|Now pulling out of NAFTA doesn't mean the US leaves NAFTA, it means it's triggering a six month clause in which it can reconsider.
+NEUT31|But these are the kind of trade negotiations trade skirmishes, the beginnings of a trade war that are heating up.
+NEUT32|Now, what's impacted trade with Mexico for sure.
+BULL33|Corn beef natural gas Mexico's already importing more coin from Brazil.
+NEUT34|There's nothing bilateral about trade.
+NEUT35|Also what will be impacted as Brexit, because Brexit really is about immigration and trade and the UK hasn't figured out that they hold no cards in this negotiation.
+BEAR36|There trills still trying to get their way.
+NEUT37|It's not going to happen.
+NEUT38|So there will be a break up.
+NEUT39|And probably we're going to see new elections in the UK, because that will be a disturbing impact.
+NEUT40|Now in the Asia, what we think is happening is the Trans Pacific trade deal may go ahead without the US and maybe without Canada to Japan, Australia, the countries around China.
+BULL41|They really want to put a trade deal in place, so we're going to see a lot of action on trade.
+BEAR42|A lot of tensions with trade.
+BEAR43|It's going to hurt the US dollar simply by raising the risk that the US won't be involved.
+BEAR44|But probably it's not going to hurt GDP all that much.
+BEAR45|"Stock market stock markets aren't going to like it, and Blue Putnam chief economist, CME Group."""

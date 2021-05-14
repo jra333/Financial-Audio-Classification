@@ -1,0 +1,42 @@
+NEUT0|"""So you've got an extra $100 laying around."
+NEUT1|You've built up an emergency fund and can provide for all your basic needs today, so now it's time to invest for the future.
+NEUT2|While very few people are going to retire off $100, investment investing is a journey and as the ancient Chinese proverb says, a journey of 1000 miles begins with a single step.
+NEUT3|You've already taken your very first step that's saving $100 savings.
+NEUT4|Are the fuel that feeds your investing engine?
+NEUT5|Make a savings plan to make sure you'll be able to continuously invest month after month and year after year.
+NEUT6|You can even set up your bank account to automatically put aside a set amount every week or month to help.
+NEUT7|Next you need to sign up for a brokerage account when choosing a brokerage.
+NEUT8|Be mindful of commissions and fees while being aware of fees is important for all investors.
+NEUT9|It's even more important for investor buying $100 at a time.
+NEUT10|Many brokers will ask for $7.00 or $8.00 per transaction, and if you have to pay an $8.00 Commission every time you buy and sell an investment, you'll be 8% in the hole right off the bat and 16% in the hole.
+NEUT11|If you have to take into account, the commissions will have to pay.
+NEUT12|When you sell the investment.
+NEUT13|As a result, you'll probably want to sign up with a discount brokerage, particularly ones that offer free trades once you've chosen a brokerage, it's time to make your first investment.
+NEUT14|Now, with that first $100, you could go out and look for stocks that trade for less than $100 a share, but we would advise doing that if you were to do that.
+NEUT15|The value of your whole portfolio would depend on the results of one company for just about every investor, an index fund or ETF is the perfect first purchase.
+NEUT16|These investment vehicles allow instant diversification because they represent an ownership interest in.
+NEUT17|All the stocks in the index that the fund tracks.
+NEUT18|So instead of owning just one company, you own a teeny piece of hundreds or thousands of companies.
+NEUT19|Further, these funds charge very low fees, so you get to keep as much of your returns as possible even if you don't get free trades at your brokerage.
+NEUT20|Many brokers also allow unlimited free trades of select index funds and ETF's.
+NEUT21|As for which ETF's to buy.
+NEUT22|If you can think of investing idea or theme, there's probably an ETF for it.
+NEUT23|There are tech centric ones, dividend focused ones, ones that own small companies.
+NEUT24|And once again, big companies for new folks, we recommend starting out with an ETF that mirrors the S&P 500, such as Vanguard S&P 500 ETF video or the Spider SMP 500 ETF Trust SPY.
+NEUT25|These ETS represent ownership in the S&P 500 Index composed of 500 of the largest U.S. companies.
+NEUT26|Now astute investors may have looked up these tickers and realized wait a minute shares with these ETF's cost more than $100.
+NEUT27|What am I supposed to do then?
+NEUT28|Circling back to the point from the beginning of the video, investing is a long term thing.
+NEUT29|The best thing you can do with $100 now is create a low fee or Commission free brokerage account.
+NEUT30|Put the money in it and then put yourself in a position to add more money to that account over time.
+NEUT31|Once you have enough saved, you can begin buying shares of quality.
+NEUT32|Low fee ETF's.
+BULL33|It may sound unsatisfying, but taking the Longview instead of just immediately buying shares of whatever stock happens to cost less than $100 will put you in a far better position.
+NEUT34|1020 and 30 years from now, even after you've bought that first ETF.
+NEUT35|Remember, this is not the end, this is the beginning.
+BULL36|The beginning of an investing journey that will last a lifetime and hopefully make you smarter, happier and richer.
+BULL37|Thanks for watching.
+NEUT38|If you have any thoughts on the topic or have any future topics you'd like to request, drop a comment for us below.
+NEUT39|And if you're looking for some help with investing, we've got a free starter kit over at full com slash start.
+NEUT40|It covers everything from money saving tips to buying your first stock, and it comes with A5 stock sampler from our premium analysts.
+NEUT41|"If you enjoyed this video, give us a thumbs up and subscribe to get more content like this from The Motley Fool Fool on."""

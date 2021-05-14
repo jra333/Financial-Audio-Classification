@@ -1,0 +1,12 @@
+NEUT0|"""Happy New Year with back and this is the latest on markets from the FT in London."
+BULL1|2017's got off to a lively start with signs of long absent rising inflation, taking a big bite out of the bond markets.
+BULL2|German prices are rising at the fastest pace in three years.
+NEUT3|French figures are on the up.
+BEAR4|Business surveys are very upbeat and with oil prices at least much steadier these days this could end up being a year of reflation after a hefty drop in bonds.
+BEAR5|Yesterday, the mood is, today, but most think this has further to run.
+BULL6|Possibly brightening the mood.
+BEAR7|Still further, more bad news for Doom fans in the bond market.
+NEUT8|We have some second tier U.S. jobs data coming up later and the minutes of the latest Fed meeting.
+BULL9|Asia played catch up today with Japanese markets reopening.
+BULL10|They got going with a bang, rising 2.4% with a big rally for airbag maker Takata.
+BEAR11|"Meanwhile, UK stocks are still hovering near record highs, but they're not breaking new ground today yet, partly as they are held back by a large drop for retail and next, which is sounded a very downbeat note about prospects for the UK consumer in 2017."""

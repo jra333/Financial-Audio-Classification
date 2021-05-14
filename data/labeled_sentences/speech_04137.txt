@@ -1,0 +1,9 @@
+NEUT0|"""Hello Traders and welcome to another intraday technical analysis session."
+NEUT1|Our second instrument for the day is the Google stock.
+BULL2|The alphabet stock rise.
+NEUT3|It is mainly known the Google stock has been trading in a trading range for the past six months or so.
+NEUT4|We can't observe a third retest on the 980 area.
+BEAR5|With slight retracement at the moment, we're expecting price to continues downward movement slightly roughly to the 960 area and then gaining momentum and with strong volumes were expecting the price to penetrate their 980 area.
+BULL6|Once we observe valid penetrations in a slight retest on the main resistance were expecting prices to move upwards to roughly the $1000 mark.
+BULL7|Thank you for watching our intraday technical analysis from all of us here at AAA trade.
+BULL8|"We wish you successful and responsible trading."""

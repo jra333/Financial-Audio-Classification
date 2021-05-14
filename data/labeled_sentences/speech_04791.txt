@@ -1,0 +1,17 @@
+BEAR0|"""How have the markets responded to the Autumn statement which gave us slower growth forecast from around 2.2 to 1.4% next year?"
+BEAR1|Higher borrowing costs of £120 billion more than planned and the cost of Brexit on public finances.
+BULL2|UK Chancellor Philip Hammond, as expected, made higher borrowing and more infrastructure spending the centerpiece of his statement in a climate of rising bond yields globally.
+BULL3|It was to be expected that UK gilts would climb and the 10 year yield.
+BULL4|Was up about 10 basis points to levels last start in May, as the UK borrows more to cover the cost of Brexit, the infrastructure package frankly, looked a bit modest.
+NEUT5|23 billion / 5 years.
+NEUT6|The overall sense of the market is that nothing was really said to alter investors.
+BEAR7|View that the UK is in quite a bind.
+BEAR8|Because of Brexit.
+NEUT9|The pound, well, that didn't really do much during the speech.
+BEAR10|It was being sold off at the start of the week, but that was because of the dollar strengthened.
+NEUT11|That resumed on Wednesday afternoon.
+BEAR12|Although the pound did strengthened against the euro and there was little action in the Footsie 100 or the Footsie 250, they were down marginally.
+NEUT13|But as ever there were winners and losers within them.
+BEAR14|The state Agent Shell's shares fell because of the ban on letting fees, while those likely to benefit from infrastructure infrastructure spending on transport and construction did well.
+BEAR15|Overall, a market response that was a bit disappointing, but at least investors have a bit more reality about the.
+NEUT16|"Economic impact of Brexit."""

@@ -1,0 +1,44 @@
+NEUT0|"""The European."
+BULL1|Debt problem festers on, of course, and the Germans and the French seem to have come to some resolution about how they're going to inject capital back into the banks over there, though it's not quite clear that what they've agreed on is something that all parties have signed onto.
+BULL2|Mary, thanks for joining us.
+NEUT3|Sure.
+NEUT4|Well, markets were kind of happy today and a lot of people were wondering why that would be because 200 points.
+NEUT5|Yeah, and in Europe I mean there was.
+BEAR6|A lot of positive reaction that cost of financing Spanish debt came down.
+NEUT7|Not a huge amount but almost 50 basis points.
+NEUT8|I think people were looking at that and saying why?
+NEUT9|I mean, there's really nothing firm here, but I think the good news was that Germany is showing that it's still engaged in the process, and even though a Chancellor Merkel has been saying all along that she's not going to do anything to put at risk German taxpayers and so forth until Spain and Italy show that they are willing to make some concessions, the fact that there were at the table and there were some things that they said that they put on a track.
+NEUT10|Tord progress.
+NEUT11|I think people were looking for some good news and and so that's why markets, well Mary, help me to understand a little bit, why?
+NEUT12|Ultimately it isn't kind of a shell game.
+BULL13|I mean the good news here apparently was what the was at the European Stability Fund would inject capital directly into the banks, therefore thereby somehow protecting the balance sheets of Italy and Spain itself.
+NEUT14|So somehow, because Italy and Spain themselves aren't going to get the money, but it's coming from this other facility, things are going to be OK. Well, the reason I think there were two reasons why that's considered, maybe.
+BULL15|A step in the right direction.
+NEUT16|One is that they said that those loans that they make to those banks will not have priority over other money that's put in from the private sector.
+NEUT17|Now imagine your private sector investor and you're thinking, oh, maybe I should buy some of these Spanish banks, you know, get it on the bottom.
+NEUT18|Well, you're not going to do that.
+NEUT19|If you think that the government's also going to give them money.
+NEUT20|And then if there's a problem, the government is going to be first in line and you're going to be in the back of the line.
+NEUT21|So this sort of said, OK, you're not going to be subordinated.
+BULL22|That was good news.
+NEUT23|The other thing that's good news is the banks have to be recapitalized an if they are recapitalized along with other things.
+NEUT24|OK, and that's what we're waiting for.
+NEUT25|Then Europe can start spanking, start growing again.
+NEUT26|So I think the idea would be recapitalized the banks along with reforms.
+BULL27|Which Chancellor Merkel is still trying to get Spain to do and maybe we can get some growth out of this country which actually I think could save a lot of what.
+BEAR28|We think now is lost.
+NEUT29|I mean if Spain grows.
+NEUT30|Some of those loans are not going to go bad if Spain doesn't grow, forget it.
+NEUT31|Yeah, we have about a minute left.
+NEUT32|I wanted to ask you about that though.
+BEAR33|One of the recurring problems has been the weather.
+NEUT34|How many toxic assets still sit inside these European banks?
+NEUT35|And we keep getting surprised by what they're holding.
+NEUT36|That's really, I think then the big problem for Spain is.
+NEUT37|Its credibility is completely shot because it went from sort of oh, 12 billion would do it to 20 billion would do to 40 billion would do it.
+NEUT38|And now most people say that, you know.
+NEUT39|If all of these loans go bad, you know you're talking about €250 billion at least, but again, I'm not.
+NEUT40|We don't know that yet.
+NEUT41|We're not going to have a good report on that until September, but I'm not convinced that all those loans have to go bad.
+BEAR42|That's what's so frustrating about this.
+BEAR43|"You know, if the Spanish government would think about cutting taxes and doing some of the pro growth stuff that we know is needed to make the economy more competitive, maybe you wouldn't have those loans going bad."""

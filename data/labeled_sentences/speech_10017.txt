@@ -1,0 +1,53 @@
+NEUT0|"""So how you know this is vague question?"
+NEUT1|How do you profit in the stock market?
+NEUT2|Buy low, sell high?
+NEUT3|Yeah, I mean and you know, just following trends.
+NEUT4|You know there's different types of trading.
+NEUT5|You know you can be a day trader.
+NEUT6|You could be a swing trader.
+NEUT7|You could be a dividend investor, which is, you know you buy stocks that offer dividends and just collect the dividend, dividends, or like every quarter.
+NEUT8|Or you know there will be a semi annual or annual part of the company's profits.
+NEUT9|Are you know, paid out to shareholders?
+NEUT10|So it's an incentive to create long term investors in that company nice and that actually entered the following question which was.
+NEUT11|So what does a low cost index fund mean?
+NEUT12|Lost cause in excellent I don't know but you keep quiet your question but I don't know.
+NEUT13|Causing this, but I mean it sounds like what it is.
+NEUT14|You know 'cause they just want their tissue.
+NEUT15|Whoever asked that there it is.
+NEUT16|It's not just as in P500 is a lot of lower costing ones that you can especially like the Russell 2000 is also having Russell 1000 and 3000 so it's just different collection of stocks that that they pull together.
+NEUT17|So I mean I guess that's what he's trying to ask.
+NEUT18|Yeah?
+NEUT19|What are the low cost initialize whatever.
+BEAR20|Instagram is lazy.
+NEUT21|You know there's also.
+NEUT22|It's not just US MP.
+NEUT23|There's also like over the counter stocks which are, like, you know, tend to be like the penny stocks.
+NEUT24|The smaller companies they tend to be a little bit riskier because they don't follow like all SEC regulations, but you know, overall, you know that you can make some money off of those as well.
+NEUT25|So what's a capital gain?
+NEUT26|Capital gains profit?
+NEUT27|Yeah, and then so you get taxed off of that once you you know, sell and pull out you get.
+NEUT28|That's considered capital gain.
+NEUT29|In the stock market, if you're you know short term trader meaning, use buy and sell within a year you have a higher capital gains tax.
+BEAR30|But if you hold it over a year, I believe that capital gains tax drops to about 15% right?
+NEUT31|But then all again at the end of the day.
+NEUT32|Your short term investments are considered income, so it's based off of your income bracket based off of how much you make a year.
+NEUT33|You know you'll get taxed anywhere from like 10 to 30%.
+NEUT34|She Uncle Sam always has to get his cut, huh?
+NEUT35|Yeah, exactly.
+NEUT36|So moving on to the next question, what is a short squeeze shoulder squeezes what we saw with games combination of different factors of essentially what it is when a stock goes really high and really fast.
+NEUT37|OK so imagine like like with the GameStop right?
+NEUT38|That's exactly what I thought.
+NEUT39|Over shorting it, that's where the name comes from.
+NEUT40|Short squeeze, right?
+NEUT41|So when they're short and there it goes against him, they're going to be like, oh, man, we had to get out.
+NEUT42|We gotta re buy our shares because we owe them our shares right?
+NEUT43|So they re buy the shares.
+NEUT44|Plus there's people trying to buy in on the way up suit because they see that going up.
+NEUT45|Yeah and plus the hedge funds buying into it to repay their right.
+NEUT46|It just causes a double like like parabolic move.
+BEAR47|It's a squeeze up, you know because.
+NEUT48|Where is everybody showing it?
+NEUT49|And I'll go.
+NEUT50|Decatur do your solace, solace my love.
+NEUT51|Hello go.
+NEUT52|"Naked old daughter."""

@@ -1,0 +1,21 @@
+BULL0|"""Well, local shares will get off to a positive start in early trade on Friday."
+BEAR1|Spy futures have been an inaccurate gauge of what we might expect in today's session, but you would think with an improvement of around 34 points or .6% there is enough of a buffer within that to be able to predict a positive start to trade.
+BULL2|So the gains that we saw for the spy came at the hands of very encouraging session, where the US markets were concerned.
+BEAR3|There were any number of statistics that flattered the performances of the Audi, S&P 500 and the NASDAQ.
+BEAR4|Including the fact that all of them finished in record territory, the S&P 500 is in the midst of its longest run of closing record closes in 20 years.
+BULL5|So at the end of the session we saw gains of the order of half of 1% for the Dow and the S&P 500 and technology stocks stood out.
+BULL6|With the NASDAQ up by about 3/4 of a percent.
+BULL7|So there were good performances from the Fang stocks within that Facebook, Apple, Netflix and Google.
+BULL8|Netflix stood out with a gain of more than 4%.
+BULL9|On the back of news that they will be increasing costs.
+BULL10|So that's an indication of the esteem in which that stock is held when it's being able to increase prices and still be able to get supported from investors elsewhere we saw.
+NEUT11|The political side of things make an impression as well.
+BULL12|the US House of Representatives passed a budget that is seen as an important step in the process in relation to tax reform.
+NEUT13|There is now expected to be a piece of legislation put to the Senate.
+NEUT14|One document that is seen to pave the way for tax reform in the markets are encouraged by that, and then the final aspect to the performance of the US markets comes down to the economic side of things.
+NEUT15|So there were a number of indicators.
+NEUT16|Only economic side of things that were better than expected.
+BEAR17|They included the number of people claiming for unemployment benefits that fell in the last week.
+BULL18|Durable goods orders were better than expected.
+BULL19|Factory orders were also higher than what the market had anticipated, so that dovetails with the story of the improving U.S. economy elsewhere.
+BEAR20|"The Aussie dollar is weaker on the back of a strengthening U.S. dollar, so it's back to around 77.9 USN."""

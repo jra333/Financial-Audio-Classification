@@ -1,0 +1,61 @@
+BULL0|"""30 points today."
+NEUT1|Not gonna lie.
+NEUT2|It wasn't a thrilling day on the stock market, so we opened down a little bit and we sort of stayed there all day long.
+NEUT3|So there it is.
+NEUT4|And and it says here on my schedule it says investors shifting focus to wrangling in Greece over fiscal austerity where if I had before.
+NEUT5|I'm sorry, was it like last night?
+NEUT6|The last time I was here, before you on the telephone in the temple, so is this just a daily occurrence now?
+NEUT7|Is this like right?
+NEUT8|You know I'm like mud wrestling at a sleazy bar.
+NEUT9|Is this gonna happen every day?
+NEUT10|I don't know about what you know about that.
+NEUT11|So, but seriously, I thought I'd keep saying they got this fixed and then it isn't and then it isn't that it is and then it is what's going on?
+NEUT12|Well, you know a lot of people were saying they have been saying, and I think they're absolutely right.
+NEUT13|Is that Europe, in particular, Greece.
+NEUT14|These problems are going to be here for a long time, and this is something that we just gotta get used to.
+NEUT15|What are we celebrating the three years of grease being a problem is that none of my of my talking about it.
+NEUT16|Mid month this month, right?
+NEUT17|So it soon it's soon that I'll be yeah soon I've been talking about it since February 2009.
+NEUT18|I'm not saying that's how long this has been around.
+NEUT19|But I've been talking about it so anyway it's soon but wait for the cake and it's still it's still going to be with us.
+NEUT20|I'm sure perhaps even another year.
+NEUT21|Who knows, it could be even longer.
+NEUT22|The point is this rally has.
+NEUT23|You know, taking it in stride, it hasn't really been too spooked by any other developments that we've seen over there.
+BEAR24|Even some headlines that last year we probably would have seen the market sell off quite dramatically.
+BULL25|There haven't been any days like that at all this year, so overall, is that investor sentiment is is good.
+NEUT26|Yeah, abburi.
+NEUT27|It's been it's very good, and February is not a great month for stocks in general, and some people have had a little bit of consciousness because of that, but nobody's been taking any real bets either way.
+NEUT28|I mean, we had a nice pop on Friday thanks to the jobs report, but today it's just another day of waiting and seeing.
+NEUT29|So we've got two things here.
+BEAR30|One is that the stock market is relatively elevated and compared to where it was a few months ago, notwithstanding that the few points down today and yet we've got the bond market with 10 year yields under 2%, which generally points to recession.
+NEUT31|So it's like hold those two things in your head at the same time, and it gives you, you know, a headache.
+NEUT32|What's going on?
+NEUT33|Now, of course, the Fed has a role to play in there because they are helping to depress interest rates.
+NEUT34|But part of it is right.
+NEUT35|I mean, part of it is that the bond market is still very concerned.
+NEUT36|Are typically concerned about the worst case scenario and that hasn't gone away.
+NEUT37|Let's looking off.
+BEAR38|The worst case is looking awful at less than 2%.
+NEUT39|Yes, yes, that's right.
+BEAR40|But we know that things could melt down in Europe if a certain scenario plays out.
+NEUT41|On the other hand, stock investors are paid to look for upside as well As for downside, and they do see some upside here as well.
+BEAR42|Again, the jobs report on Friday showing unemployment down to 8.3% and other indicators in the US here are showing things pretty good.
+NEUT43|And it's not just the US, it's Germany is China, Japan.
+BULL44|All of the major economies are showing.
+NEUT45|So what do we think are the best sectors in the market in the markets?
+NEUT46|What are people saying?
+NEUT47|Well, tech is one that people will still love it and which really means Apple.
+NEUT48|Let's be honest, it really means Apple, you know.
+BEAR49|And a lot of the losers from last season financials.
+BULL50|Of course, they're doing well whether or not they continued continuing.
+NEUT51|We don't know, and some cyclical so they doing well too.
+NEUT52|Whatever you think like the mining companies, they tend to.
+BULL53|Cereals companies are doing very well.
+BULL54|Energy is doing decently well, but again, financials materials.
+BULL55|These are generally good signs for the market.
+BEAR56|Keep in mind also that the Russell 2000 at those small cap stocks 4% off an all time high right now.
+NEUT57|Well doubt transports.
+BULL58|Also doing very well.
+BULL59|So all of these so-called leading indicators are doing well.
+NEUT60|"So if you want optimism, look no further."""

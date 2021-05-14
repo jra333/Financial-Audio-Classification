@@ -1,0 +1,16 @@
+NEUT0|"""I don't know when to buy stocks, but I know whether to buy stocks."
+NEUT1|Some people should not own sites at all 'cause they just get too upset with price fluctuations.
+NEUT2|If you're going to do dumb things because your stock goes down, you shouldn't own a stock at all.
+NEUT3|I mean, if you buy your house at $20,000 and somebody comes along next thing says I'll pay you 50.
+NEUT4|You know someone.
+NEUT5|Quotes that day.
+BULL6|The best thing with stocks actually stood by him consistently.
+NEUT7|Overtime you want to spread the risk as far as the specific companies you're in by owning a diversified group an you diversify overtime by buying this month next month, the year after the year after that.
+NEUT8|If you save money, you can buy bonds.
+NEUT9|You can buy a farm.
+NEUT10|You can buy an apartment house written by a part of American business, and if you buy a 10 year bond now, you're paying over 40 times earnings for something whose earnings can't grow and you compare that to buying equities, good businesses.
+NEUT11|I don't think there's any comparison.
+BEAR12|You're making a terrible mistake if you stay out of a game that you think is going to be very good overtime because you think you can pick a better time to enter it.
+NEUT13|I know what markets are going to do over a long period of time.
+NEUT14|They're going to go up, but in terms of what's going to happen in a day or a week or a month or year even, I'd never felt that I knew it, and I've never felt that was important.
+BULL15|"I, I will say that in 10 or 20 or 30 years, I think stocks will be a lot higher than they are now."""

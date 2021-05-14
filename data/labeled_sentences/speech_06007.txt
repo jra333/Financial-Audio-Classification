@@ -1,0 +1,30 @@
+BEAR0|"""Mutual funds, well, I love him and I hate him."
+NEUT1|I love him first of all, because for new investors there a wonderful answer.
+NEUT2|Instead of investing in stocks yourself, you get to just give your money over to a mutual fund manager who takes it and invest in stocks for you and so you might have a good idea that oil is something good to invest in this year.
+NEUT3|But rather than have to pick the right oil stocks or maybe pick the wrong ones, you're giving it to a mutual fund manager who does that for you.
+NEUT4|Mutual funds are very convenient and wonderful for new investors.
+NEUT5|And passive investors.
+NEUT6|Why do I hate him?
+BEAR7|I hate him because of their fees.
+NEUT8|Lot of people don't know how much they're paying in the 1st place.
+NEUT9|When Tom and I speak nationally, we often ask an audience show of hands.
+NEUT10|Do you have a mutual fund?
+NEUT11|Most people say yes, show of hands.
+NEUT12|Do you know how much you paid in fees to your mutual fund last year?
+BEAR13|Very few people, maybe less than 5% of the room raised their hand at that point, so I hate him because the fees are often more than you should be paying.
+BEAR14|And when you net those fees out of that Fund's annual return, you end up below the stock market's average.
+NEUT15|Which is why we've always liked index funds primarily among mutual funds.
+NEUT16|So if I am thinking about investing in a mutual fund, what are a couple of questions I should ask?
+NEUT17|Well, I think the two questions you should ask our first of all, what is the fund do and who's running it?
+NEUT18|Is this a quant?
+NEUT19|That is, a computer managed fund that's automatically buying and selling stocks?
+NEUT20|Is it a smart human manager with a good track record?
+NEUT21|Is it an index fund which is just buying a whole basket of stocks so no di fun number one and then #2 no difese.
+NEUT22|How much are you paying?
+NEUT23|You can look it up on philosophy.
+NEUT24|Check out annual expense ratio.
+NEUT25|That's the percentage of your money you're paying to your fund each year.
+NEUT26|That's an important term.
+BULL27|Again, Tom and I nationwide show of hands.
+NEUT28|Most people don't know what the phrase annual expense ratio is, and they have most of their money in mutual funds.
+NEUT29|"So to summarize, know they fund and know that fee."""

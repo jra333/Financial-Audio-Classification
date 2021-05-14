@@ -1,0 +1,13 @@
+BULL0|"""Hey guys, how you doing so?"
+NEUT1|This is another SEC versus XRP slash Ripple update again.
+NEUT2|I'm going to be some eyes in legal briefs, videos and check him out on YouTube.
+NEUT3|I'm going to add in a bit my own theory in there too.
+NEUT4|So as we all know, yesterday was another discovery date in the SEC vested Ripple lawsuit.
+NEUT5|To summarize the proceedings.
+NEUT6|Basically what happened was Ripple had sent an ocean to ask the SEC for certain documents specifically on Bitcoin and Therium.
+NEUT7|Just to basically see what internal conversations were about Bitcoin athyrium.
+NEUT8|And then from that make determination to how XRP is a security or isn't the security essentially, and the SEC were trying to stop Ripple from getting these documents.
+NEUT9|But yesterday Judge Netburn basically granted Ripple the access to every document they wanted, so River looking for any documents to compare XRP, Bitcoin, Ethereum and if they find them.
+BEAR10|Essentially that could be case over.
+NEUT11|So Jeremy Hogan says so.
+NEUT12|"Keep your eyes peeled for a settlement within 30 days."""

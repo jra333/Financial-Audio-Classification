@@ -1,0 +1,16 @@
+NEUT0|"""My name is Will Stevens."
+NEUT1|I'm the Asia equity strategist at Deutsche Bank this week.
+NEUT2|I think the key focus has really been twofold.
+BEAR3|Firstly, ongoing concerns around the trade war potentially between the US and China and Secondly around emerging markets contagion, which we're starting to see.
+NEUT4|You know, some pressures here in the region, especially in India and Indonesia.
+NEUT5|For next week.
+NEUT6|We think the key focus is going to be on primarily on China.
+NEUT7|We're going to have some important data out of the region in terms of retail sales and industrial production.
+NEUT8|Think that should be a good gauge.
+BEAR9|Of to what extent trade war fears are starting to impact domestic consumption and confidence will also be closely watching the a share market Switcher re approaching their 52 week lows.
+NEUT10|We think it will be play a pretty important role for how domestic onshore equity sent sentiment is playing out.
+NEUT11|Think for the rest of the year, the key focus is going to continue to be on issues such as the potential impact of trade wars in our view has been that it's actually a bit overstated as a first order impact.
+NEUT12|But where it becomes concerning is whether it has any second order impact in terms of domestic demand and infrastructure plans for regional economies from a bigger picture perspective, we also continue to think that what happens around Chinese capital markets.
+NEUT13|Liberalization is of critical importance, not just to the region but also the world.
+NEUT14|We estimate that Chinese domestic households have 65 trillion renminbi of savings and as those markets open up how that flows throughout the region is going to be a critical.
+NEUT15|"Jordans"""

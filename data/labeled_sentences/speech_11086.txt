@@ -1,0 +1,23 @@
+NEUT0|"""Neo stock analysis and predictions, January 18th."
+NEUT1|In today's NEO stock analysis and predictions, Anio stock price prediction, January 19th, 2021 to January 22nd, 2021, all right.
+NEUT2|Let's get started.
+BEAR3|Last week NIO stock slid 7.65% due to external factors such as large wedding that caused city lockdowns around China and panic selling because of Biden's new stimulus package.
+BEAR4|Analysts believe that NIO is on its way to recover from last week slide due to several catalysts such as Biden's inauguration.
+BULL5|Nio's expansion plans and construction of a second factory based on these factors are longer term increases expected for NIO stock this week and further within the year.
+BULL6|In fact, according to 15 Wall Street analyst, NIO should recover an increase by 4 to 5% this week alone, according to Sun Trust banks price prediction algorithm programmed the probability of NIO recovering in price this week is 95% likely.
+BULL7|The algorithm expects an iota recover and continue to trend as nio's potential to overtake the EV section this year grows.
+NEUT8|Here is Sun Crest algorithm prediction for NIO this week, January 19th, 2021.
+NEUT9|High price target $63 median price target $59 low price target $56.30 January 20th 2021 high price target $65 median price target $62.00.
+NEUT10|Low price target $58.
+NEUT11|January 21st, 2021.
+NEUT12|High price target $67 median price target $65.
+NEUT13|Low price target $60.00.
+NEUT14|January 22nd 2021.
+NEUT15|High price target $69 median price target $68.
+NEUT16|Low price target $61.00.
+NEUT17|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT18|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT19|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL20|We'd really appreciate it.
+NEUT21|Are you still watching and want more?
+NEUT22|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

@@ -1,0 +1,28 @@
+BULL0|"""Netflix has earnings after the close on Tuesday."
+NEUT1|October 20th right now it's sitting around 5:30.
+BULL2|Last week it tried to breakthrough at 570.
+BULL3|This important level of resistance that it tried to break the last quarter before earnings.
+NEUT4|If you remember.
+NEUT5|There were talks about.
+BEAR6|Slow subscriber growth.
+NEUT7|Last earnings last quarter the same talks this year.
+NEUT8|This quarter as well.
+BULL9|This is a great company in the long term and it's held up pretty nicely even with some people returning to work less people at home definitely compared to the summer months, but it held pretty strong and it's.
+BULL10|Pushed up towards 600 over the last couple of weeks, but this level 570 is very important.
+NEUT11|For Netflix, as we saw last quarter.
+BEAR12|And the fact that couldn't breakthrough tells me that the earnings report is probably not going to push it through 570 and less Netflix just really exceeds expectations on.
+NEUT13|Earnings specifically on subscriber growth.
+BULL14|You know the revenue is going to be there, probably close to the estimate.
+NEUT15|The Wall Street estimate but really need us as a surprise for subscribers to push it towards 600.
+BEAR16|On the downside that breaks, or if it can't hold this 5:30 or 525 support levels could push down towards 500.
+BULL17|Tesla has earnings on Wednesday after the close important levels we're looking at is 465 and 420.
+BEAR18|Since the stock split, it hasn't spent almost anytime above 500, but if some of the headlines are true about Tesla exceeding expectations on deliveries, that could be a pretty big move towards 500 and holding above 500, especially if there is.
+NEUT19|Short or shortly after, if there are any.
+BEAR20|If there's any news about Tesla being included in the S&P 500 on the downside, 420 is important to hold, and if it can't hold that and then I could see it breaking down below 400.
+NEUT21|The move here would not be again to play any weekly options because of the variables.
+NEUT22|If you're going to play specifically the earnings report, then I would pay for time.
+NEUT23|Pay a little extra premium about three weeks on a contract, and then if that contract becomes profitable then you close it right away, but.
+NEUT24|As we've seen, every earnings season.
+NEUT25|Let's say you buy a 500 contract thinking that it will move.
+NEUT26|In that direction, and then immediately after the earnings report the next day that all that premium is killed.
+NEUT27|"So buy some time on it if you're going to buy the upside, but wait for these levels, or the 465 and 4:20 and make moves accordingly."""

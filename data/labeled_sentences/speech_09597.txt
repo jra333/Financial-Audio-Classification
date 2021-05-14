@@ -1,0 +1,12 @@
+BULL0|"""Finally, one more thought, making a fortune but forgetting where you put it, the parabolic rise of Bitcoin once again has got everyone excited."
+BEAR1|Once again, the crypto currency shot up once before to $20,000, only to lose 2/3 of its value.
+NEUT2|This time it's flirting with double that up above $40,000, and smart investors like Scott Miner think it's only getting started.
+NEUT3|Our fundamental work shows that Bitcoin should be worth about $400,000.
+NEUT4|You can debate whether it's real or it's not, whether it's a currency or commodity or just a fad, but you can't deny that is getting broader acceptance as PayPal now accepts it for payment and successful investors like Kathy would have Ark put their money where their mouths are.
+BEAR5|But it turns out there's one little problem with Bitcoin.
+NEUT6|You have to remember your password, and if you don't, your Bitcoin fortune is as good as gone.
+NEUT7|There's no convenient little button asking whether you forgotten your password and offering to reset it, and so the New York Times reports on one German investor who loses sleep over 220.
+BEAR8|$1,000,000 worth of Bitcoin he cannot reach and the Daily Mirror tells us of a night worker who threw out a hard drive with £230 million worth on it.
+BEAR9|They are in good company, 20% of Bitcoin worth around $140 billion is lossed or misplaced.
+BEAR10|So for all of us who are constantly frustrated with how many passwords we have to remember and how much time we spend resetting them all things could truly be worse.
+BEAR11|"There could be millions of dollars at stake."""

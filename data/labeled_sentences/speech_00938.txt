@@ -1,0 +1,16 @@
+NEUT0|"""Doctor Lee ask you about the Astra Zeneca vaccine."
+BEAR1|'cause because of course we've been covering some concerns about the vaccine in Europe.
+BEAR2|They halted use of it in some countries because of blood clots.
+NEUT3|Since then, of course, the European health authorities come out and said no, it's fine.
+NEUT4|Go ahead and obviously we have this new data here in the US, but what would you say to people based on the information that we have about whether they should feel if in fact it does receive use authority here in the United States, whether it would be safe to take it.
+NEUT5|Well, I think first people should know that this virus is.
+NEUT6|This vaccine has been given to more than 13 million people, at least in UK and Europe, and the most extreme reaction that we've seen is an extreme allergic reaction which is occurring at about 1:00 in 4,000,000 to one in six million cases.
+NEUT7|So this vaccine is as safe as all the others.
+NEUT8|The effectiveness of it is a little bit less in terms of the top line for symptomatic disease, but the most important thing is that this vaccine.
+NEUT9|Prevented all hospitalizations and no one died after receiving it, so it's 100% effective in doing what we needed to do, which is to keep people out of the hospital and keep them alive.
+NEUT10|There are no.
+NEUT11|There are no safety concerns with this vaccine any more so than the others that are already being used.
+NEUT12|And again, millions of people in Europe and the UK have already received it, and it's still being used there today.
+NEUT13|Hey, thanks for watching our YouTube channel.
+NEUT14|You should know that you can follow today's top stories and breaking news and catch up on your favorite MSNBC shows all in one place.
+NEUT15|"Download the NBC News app today."""

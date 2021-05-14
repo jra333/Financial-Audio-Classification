@@ -1,0 +1,39 @@
+NEUT0|"""Hi traders, this is Taylor from the tradinganalyst.com."
+BULL1|Thanks for stopping by.
+NEUT2|We're going to take a look at this Facebook Daily chart if you're not already member, go ahead & up via the premium Membership tab.
+NEUT3|You could take advantage of all the Member only features live chat room, private Twitter feed, daily market videos.
+NEUT4|Daily watch list.
+NEUT5|Educational videos and much, much more.
+BULL6|It's a great opportunity and we'd love to have you.
+NEUT7|Or to take a look at this Facebook Daily chart here.
+BULL8|As you can see, it's running up against this 102 seventy 102 fifty resistance right here.
+BEAR9|Overall is a very bearish move right here that Facebook made last week.
+BULL10|OK, we had a break out to new all time highs and then we failed hard.
+NEUT11|OK now it doesn't matter what the rest of the market does.
+NEUT12|All that matters is that Facebook failed hard.
+BULL13|It broke out to new all time highs and then it failed hard.
+BEAR14|So that is a failed breakout.
+NEUT15|OK, now notice the difference.
+BULL16|You say that you know Facebook broke out to new all time highs here and then.
+BEAR17|We consolidated lower and then we crashed here and then we bounced again.
+NEUT18|OK now the difference between these two moves between this time and this time that we came back down is that.
+NEUT19|Is the speed at which the move took place?
+BULL20|OK, so right here we had a break out to new all time highs.
+NEUT21|And then just three days later we come crashing down, alright?
+NEUT22|So over here it took a lot of time.
+BULL23|We made new all time highs and then we kind of consolidated, consolidated, consolidated and then we came back down OK.
+BEAR24|This is a clear rejection of these new prices up here.
+NEUT25|OK, so at the very least, I would be cautious on the long side because of this failed breakout.
+NEUT26|Here we've got this first resistance at 102.
+NEUT27|Seventy next resistance, which I believe if it gets up here, it won't break any higher than that.
+NEUT28|If it does, I would not be holding on to any shorts above that 108 level.
+BULL29|OK, so that one away level I believe is a good shorting opportunity.
+NEUT30|If it breaks over that.
+NEUT31|I don't think shorting Facebook would be a good idea.
+BULL32|Right guys, thanks for watching that video.
+BULL33|Really appreciate you guys stopping by.
+BULL34|Hopefully this video will bring you some profitable trades in the future.
+NEUT35|If you're not already member, go ahead & up on the premium Membership tab.
+NEUT36|If you have any questions about this video or about membership or anything at all, you can email me the tradinganalyst@gmail.com.
+BULL37|I'd love to hear from you.
+BULL38|"Alright guys, have a great rest of your day and I'll see you next time."""

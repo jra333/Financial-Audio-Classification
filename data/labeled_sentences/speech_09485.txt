@@ -1,0 +1,16 @@
+BULL0|"""Also, the race for a vaccine Astra Zeneca Oxford coming out with preliminary findings from its pure reviewed trial just one day after Pfizer said its vaccine is 95% effective."
+NEUT1|So let's begin there for this hour.
+NEUT2|We've got Yahoo.
+BULL3|Finance is Angelique Amlani standing by with the story and angele we heard from the company today saying this triggered a strong immune response, particularly in older adults, which of course is very promising news given that they are the most vulnerable absolutely.
+NEUT4|And that's some of the key points.
+NEUT5|Of course, this is from.
+NEUT6|Their phase two trial and they're looking at, you know, moving forward Astra Zeneca.
+NEUT7|Of course we know is the company that had to pause their trials earlier this year, and so moving forward is is very important when it comes to the global distribution of the vaccine.
+BULL8|They have agreements with so many different countries across the world and are a key of player in the World Health Organization efforts as well.
+NEUT9|So very key results from the vaccine company as well as looking forward.
+NEUT10|Of course we anticipate.
+BULL11|Some of that strong result.
+NEUT12|We know that while it is a different platform than what we see with the Pfizer and Moderna of vaccines, this is going to offer an alternate especially because we know that the different types of platforms are going to sort of have different responses in different people and different groups in different age groups and so all of this of course very positive news as we near the end of the year and look forward to more applications for vaccine.
+BULL13|Yeah, and we're seeing Pfizer shares down though under some pressure.
+NEUT14|In the session there.
+BULL15|"Alright thanks so much for that, Angela."""

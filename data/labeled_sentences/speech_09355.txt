@@ -1,0 +1,32 @@
+NEUT0|"""Apple often is not the first to the race when it comes to various technologies."
+NEUT1|It may not be the first of the race, if ever with a foldable phone, but do you think that this is a viable thought?
+NEUT2|Even that Apple would consider developing a foldable phone when there's so many other features users want right now, like wireless charging?
+NEUT3|Yeah, I mean I like to picture Apple executives sitting in Cupertino right now.
+NEUT4|Just sort of laughing and watching all of these other phone makers release folding phones right now, and they sort of do this pretty often, right?
+NEUT5|They let the Android movers and shakers just get out there, release new features, see how they work, see where all the technical an hardware pitfalls pop up, and then they usually join the market and and create some other sort of technology to make things a little bit better.
+NEUT6|Or at least make it clear that this is what the masses want.
+NEUT7|So I think that's what Apple is doing.
+BEAR8|It's taking a wait and see approach what we've seen with a lot of these foldable phones have been lots of early 1st generation hardware issues.
+NEUT9|Issues with the screens, issues with the mechanism that hold the hinge that makes the the two screens or the single screen fold in half and so it will be interesting to see with this new waway if Dad has improved, this is a second generation from them or were sort of now in this second generation from Samsung and these other players.
+NEUT10|I feel like it's almost unfair though to bring hallway and I mean it's very difficult to get.
+NEUT11|A hallway phone in the United States.
+NEUT12|So they're facing a whole host of other issues when it comes to demand for their product, they've got a much more limited market than Samsung or Apple will ever have, but in terms of the Galaxy fold, Joanna?
+BULL13|I mean, it certainly didn't save Samsung from losing, it's it's number one place to Apple.
+NEUT14|Yeah, I mean one more point on far away there was a couple of reasons this phone does not stand to take off.
+NEUT15|I mean #1 being the sanctions and the fact that this does not run quote unquote the right Android OS that everybody wants.
+NEUT16|You cannot get Google Apps on here and so that's a big struggle for those that have been in the Android ecosystem, then #2 is the price on this thing.
+BULL17|It's nearly $3000, and that's been again.
+NEUT18|The first generation issue with these foldable phones.
+NEUT19|$3000.
+NEUT20|Yeah, I think this is a $2800 when you do the conversion.
+NEUT21|Wow, I mean, I can't even imagine in China as a status symbol.
+NEUT22|Are rich person having a hallway foldable phone for $3000 versus an iPhone 12?
+BULL23|Exactly and that and it's been the case with the Samsung phones as well, and Samsung executives have told me over the last year that they're working really hard to bring down the price point.
+NEUT24|I mean, all of the foldable phones have been over.
+BULL25|I believe $1500 for Samsung, so they've been working hard to bring that down to lower price points where Samsung is actually been the most successful in the last couple of years and he brought up Samsung falling behind Apple in the last quarter.
+NEUT26|I think that's a combination of Apple and the fact that the iPhone 12 were brand new new designs.
+BULL27|5G pent up demand for those phones, and the fact that Samsung was.
+BEAR28|Caught a little bit flat footed around the pandemic, not having the right price points.
+NEUT29|They've done a couple of things in the last couple of months with the same with the Galaxy S 21 and a special fan Edition phone to sort of rebound and re look at the pricing structure on its phones.
+NEUT30|Shepard Smith here.
+NEUT31|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,24 @@
+NEUT0|"""The mortgage price is in a consolidation pattern with no inherent bias."
+BEAR1|Hence a breakout from this phase could push the tokens price in either direction.
+NEUT2|Modest price awaits a break out.
+BEAR3|The modest price slid into consolidation, creating lower highs and higher lows due to aggressive, yet diminishing pressure from both buyers and sellers.
+NEUT4|By connecting the swing highs and lows using trendlines, a symmetrical triangle pattern forms.
+NEUT5|This technical formation forecasts a 40% breakout, which is the distance between the swing high and low created on March 11th and 12.
+BULL6|Since this setup has no bias, a decisive close above $0.38 will result in a 40% bull run to 54 cents.
+BEAR7|On the other hand, a breakdown of the lower trendline at $0.31 will kickstart a downward trend to $0.19.
+BEAR8|And increased seller activity at the current price will quickly push Polygon Tord, the lower trend line.
+BEAR9|However, a breakout here will spell trouble for the modest price.
+BEAR10|A 13% drop to the immediate demand barrier at 27 cents, coinciding with the 200 SMAD on the six hour chart, seems likely.
+BEAR11|If this level is pierced by overwhelming selling pressure polygone could indeed slide 30% to tap the intended target at $0.19.
+BULL12|Modest 6 United States Dollars hour chart.
+BULL13|Adding credence to the bearish outlook as a slew of underwater investors has seen and into the blocks in out of the money around price ioma P model.
+BEAR14|IOM AP reveals that 13,200 addresses that hold nearly 800,000,000 modage tokens are out of the money and might break even dampening the bullish momentum.
+NEUT15|Mortgage ioma piechart.
+BEAR16|Additionally, the number of whales holding between 100,000 to 1,000,000 modage tokens has reduced by 8.5% from 979 to 118.
+NEUT17|Following a similar trend are the investors that hold 1,000,000 to 10 million modage tokens.
+BEAR18|These market participants have cut down their exposure to modage tokens by 13.5% since March 11th.
+BEAR19|Such a drastic reduction suggests that the whales aren't optimistic about the modest prices bullish potential.
+NEUT20|Modest whale Holder distribution chart.
+BEAR21|While the downward breakout seems set in stone, it could be altered by a strong surge in buyers or new capital flowing into the mortgage markets.
+BEAR22|If this momentum manage is to push the price past the $0.40 supply barrier and create a higher high around $0.45, it will invalidate the bearish outlook.
+BULL23|"In fact, such a move might catalyze a run up to $0.54."""

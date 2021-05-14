@@ -1,0 +1,18 @@
+NEUT0|"""Let's talk about how you talk to your customers."
+NEUT1|Whether you're notifying them when order ship providing support over the phone or confirming their reservations by text.
+NEUT2|In our hyperconnected world, your customers want you to connect with them on the communication channels they use every day.
+NEUT3|They expect you to do it in your app, your website and across devices using text messages and video through Facebook Messenger and in chat Windows with bots or live agents.
+NEUT4|2 billion people use WhatsApp.
+NEUT5|Are you engaging your customers there to reach your customers?
+NEUT6|You need to be on these channels securely and around the globe.
+NEUT7|But how do you make that happen on your own?
+NEUT8|Facing a complex maze of thousands of carriers, global regulations, networking gear, old protocols, expensive hardware and proprietary software is overwhelming, but the solution is simple Twilio.
+NEUT9|Twilio is the cloud communications platform that more than 50,000 companies and over 2,000,000 developers use as their platform for customer engagement.
+NEUT10|Using communication APIs, you can send a text, place a call or kick off a chat from your app or website with just a few lines of code.
+NEUT11|Easily leverage every channel and type of communication that matters and as new channels emerge will make sure you can reach your customers there too.
+NEUT12|You pay only for what you use, so you can try out new ideas for just a few pennies.
+NEUT13|You get the reliability and global reach your customers demand, and you can win the battle for customer satisfaction and loyalty with Twilio, you can focus on reaching your customers like never before on the channels they use.
+NEUT14|Every day will handle the rest.
+NEUT15|Visit to leo.com to chat.
+NEUT16|Live with an expert.
+NEUT17|"We can't wait to see what you built."""

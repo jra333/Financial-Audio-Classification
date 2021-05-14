@@ -1,0 +1,20 @@
+NEUT0|"""Neo stock analysis and predictions February 23rd."
+NEUT1|In today's NEO stock analysis and predictions when will NIO go up again?
+NEUT2|Alright, let's get started.
+BEAR3|Shares of NIO was down by 2.31% on Tuesday morning.
+BEAR4|NIO shares were caught in a wave of selling triggered in part by signs that US interest rates may be on the rise.
+BEAR5|In addition, the $1.9 trillion COVID-19 relief package moving through the US Congress has some economists and investors worried about inflation simply because it's a lot of money to dump into the economy.
+NEUT6|That's almost certainly having an effect.
+BEAR7|Lastly, Tesla has fallen quite a bit over the last few days, as the current category leader.
+BEAR8|It's not surprising to see other electric vehicle stocks falling as well.
+NEUT9|When will Nio go up again?
+NEUT10|All that said, nothing about these external events changes the long term potential of NIO stock and its fundamentals.
+BULL11|In fact, large corporations are taking bigger positions within NIO stock at this time because the price is so low, according to analysts and iOS price will recover on certain facts.
+NEUT12|One, being a stabilization of the market and the economy's interest in yield rates which might happen this week or at the end of this week, we're hoping for more sooner than later.
+BULL13|Second, when the Nio's earnings are announced on March 1st, this will give an IO a huge catalyst to go higher.
+NEUT14|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT15|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT16|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL17|We'd really appreciate it.
+NEUT18|Are you still watching and want more?
+NEUT19|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

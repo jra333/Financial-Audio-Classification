@@ -1,0 +1,29 @@
+BULL0|"""Hey guys Sam here from Tesla."
+NEUT1|Quick bit welcome the show where I find questionable investments.
+NEUT2|An interesting news on the Tesla Company.
+NEUT3|Don't forget to like and subscribe to get the latest up-to-date news.
+NEUT4|Let's get started.
+BULL5|Recently, Kathy was just raised a price target of $3000.00 for Tesla by 2025.
+NEUT6|What's interesting is that in the report, although their bullish on its ride hailing sector, as well as increase in margins within the company, the craziest part is they think that one of the fastest growing part of Tesla is also its generation.
+NEUT7|And energy storage is not accounted for.
+NEUT8|I'm not really sure why Kathy was and her team have not put this into their valuations.
+NEUT9|When I see that Tesla's energy aspect is one of its greatest growing aspects, is that I mean that it's currently growing 50% plus year over year.
+BULL10|In fact, the demand for the home energy storage is still continuing to rise, and I do expect for more homes to end up becoming this part of Tesla's ecosystem.
+NEUT11|Also, it's interesting that Bitcoin is also not part of the valuation, but.
+NEUT12|I do understand that since this fluctuation and everything else becomes a really difficult part to model, but the things that doesn't that makes me question this evaluation is what is semi truck not included.
+NEUT13|Recently we saw the prototype being tested live as well knowing that by the end of the year it will start delivery.
+NEUT14|So this is this not being included.
+NEUT15|Also doesn't make any sense.
+NEUT16|Another aspect for me is why she expecting there's a car in the $15,000 range when there have been no talks about it.
+NEUT17|With that being said these numbers.
+NEUT18|Need to be pumped up.
+NEUT19|I wouldn't be surprised that it would end up looking around.
+NEUT20|$2500 is being the bear case with $5000 being on the more bullish side of the case.
+NEUT21|Why do you guys think that arc invest left out these aspects out of the evaluation?
+NEUT22|Anyways, this just goes to show that you as investor should also do your due diligence.
+BULL23|I do think our confesses sandbagging well.
+BULL24|I do think one of the reasons for it is that she wants to be conservative in that there still good prospects for Tesla to grow in the future, but at the same time by being conservative in the estimates, meaning that her likeness of being correct, who would increase, which makes investors happy, which I guess would help her more in the long term.
+BULL25|Which would make sense as they would help her to gain trust up individuals who invest in the ETF fund.
+BULL26|Anyways, thank you guys for watching Tesla quick bits.
+NEUT27|These are just my opinions.
+NEUT28|"Invest safely and don't forget to like and subscribe."""

@@ -1,0 +1,15 @@
+NEUT0|"""Never buy a stock that doesn't pay a dividend."
+NEUT1|That has been your advice through and through.
+NEUT2|Why are these stocks more attractive?
+NEUT3|You look at companies that don't pay distributions don't return capital.
+NEUT4|How risky they are.
+NEUT5|Take a GoPro for example.
+NEUT6|I'm not just picking one company, I'm just giving you a good example of a company that basically is lost.
+NEUT7|70% of its value never returned a dime to shareholders.
+NEUT8|Or how about a company that's been around much longer?
+NEUT9|Yahoo never paid a dividend.
+NEUT10|It's never made money for anybody except all the CEOs that have gone through there and got whacked.
+NEUT11|It's just a rotating door where management extracts capital.
+NEUT12|Never returns any to shareholders and I look at that and say to myself, why don't I just avoid that altogether if it doesn't pay a dividend?
+NEUT13|I know that 71% of the time all the returns come from dividends.
+NEUT14|"Why should I want to talk, doesn't pay a dividend and I never will."""

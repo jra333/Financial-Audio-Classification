@@ -1,0 +1,13 @@
+NEUT0|"""I'm going to ask each of you your gut feel as to what's going to happen this June."
+NEUT1|I'm going to end with Greg Store, 'cause I know how much he hates to do that, but let me finish it.
+NEUT2|Yes, yes, I'm gonna let you think about how you're going to try to duck this question, but let me start with you, Michael.
+BULL3|I think that the law is going to be upheld.
+NEUT4|The whole on the whole law, including the individual mandate, including the individual mandate, and so therefore the arguments were more interesting in for show, but they're not going to really affect the.
+NEUT5|In the outcome, I think that it basically is a case of taking a look at all of the different aspects in around it and and the justice is trying to go ahead and to do as much of a job as they could to figure out what would be the best course.
+BULL6|I'm not so sure that there was enough there to go ahead and overturn Christopher.
+NEUT7|I'm going to agree with Mike, and I think the issue is it's much more difficult than it first appears to keep part of the law and not other parts.
+NEUT8|So I really think once they look at it, they realized it's probably all or nothing, and it seems like.
+NEUT9|Killing all the law is just too much, but I know who can tell Paula.
+NEUT10|I thought I was going to be the only one I'm going to agree with these two and I am going to go out on a limb a little bit and say that I think the Chief Justice is going to be in the majority.
+NEUT11|But I think Kennedy is going to be with the four so 5-4 with John Roberts, John Roberts and Boy.
+NEUT12|"Would that make professor write it then?"""

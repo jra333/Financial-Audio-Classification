@@ -1,0 +1,14 @@
+NEUT0|"""In this issue of Forbes in our America's best small companies issue, we have an industry Atlas that focuses on the banking industry."
+NEUT1|So the banking industry has come a long way from the financial crisis.
+BULL2|Balance sheets are flush, the government spent a lot of money, trillions of dollars with stimulus and bailouts, and so now banks are strong.
+BULL3|They return on assets, is come back to pre crisis levels and their stock prices have rebounded strongly.
+NEUT4|The problem is banks are not lending money and in the old days lending was the core business of banks.
+NEUT5|So the loan to deposit ratio as you can see by the chart.
+BEAR6|Is still falling, and in fact it's at one of its lowest levels in the last several decades.
+BEAR7|One thing has been increasing at banks and that is bank compensation.
+BEAR8|Bank salaries continue to go up.
+NEUT9|They went up all through the crisis.
+BULL10|So as you can see by the circles on our graphic bank, compensation per employee has grown.
+NEUT11|As you can see, the red bubbles indicate of the largest compensation which is over $90,000 per bank employee versus the yellow bubbles which are at about $60,000 per employee.
+BULL12|There are not many industries out there where compensation has increased by 50% or so in the last decade.
+BULL13|"So while the bank industry has gotten real strong, it's not really translated into new loans for businesses or for consumers."""

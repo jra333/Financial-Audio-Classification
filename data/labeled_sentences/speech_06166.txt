@@ -1,0 +1,38 @@
+NEUT0|"""Boom was going on investor Maniacs and Knight Rider here and today we're taking a look at Alphabet parent company of Google."
+BULL1|Hey, analysts were looking for $10.60 earnings per share on a gap basis on Q1 2019.
+BEAR2|Their most recent report after you back out the one time €1.7 billion fine, they had to pay.
+BULL3|Google delivered $11.90 in earnings per share or a 12.2% beat.
+NEUT4|Nice, that's the number most.
+NEUT5|Investors are going to be looking at in terms of earnings.
+BEAR6|Revenue, however, was expected to come in at 37.3 billion and Google missed by a billion with 36.3 billion.
+BEAR7|That's a 2.7% miss.
+BEAR8|It's a decent sized revenue miss, and it was enough to push the stock down 7.7% the day after reported thus far today.
+BEAR9|About halfway through the day were down in additional 1.4%.
+BULL10|Now you may be thinking, hey, they beat by 12.2% on earnings and missed only two point 7% on revenue.
+NEUT11|Shouldn't that be a net positive?
+NEUT12|Google is a growth company and growth investors care more about the top line then they do the bottom line.
+NEUT13|It's just the way it is now.
+NEUT14|Roughly 85% of Google's revenue comes from selling ads and for a long time Google was the only game in town.
+BEAR15|But the past several years Facebook has become a formidable competitor and they're now doing the same thing to Instagram and they are taking market share away from Google.
+NEUT16|Then there's Amazon.
+NEUT17|Let's say you want to buy a stereo.
+NEUT18|Hey, 5-10 years ago you might have gone to google.com and be like hey where to buy the stereo or whatever?
+NEUT19|Nowadays you just go to Amazon.com and you do your search there and they have their own little lists of top selling an Amazon recommended and blah blah blah blah.
+NEUT20|If you're a company you can do that.
+NEUT21|You can get the sponsored results right.
+NEUT22|So businesses are also going there to spend their advertising dollars to be a sponsored result there.
+NEUT23|Amazon also recently started selling ad space to third party websites which is a little.
+BULL24|Another marginal dollar going away from Google, Twitter and Snapchat have also ramped up very selling of ads in recent years and being is now estimated to have roughly 33% search engine market share thanks to it being the default search engine on the iPhone.
+NEUT25|Most people underestimate the market share of being Google announced they will heavily invest in their cloud business to better compete with Amazon Web Services and Microsoft Azure.
+NEUT26|I like this.
+BULL27|I think it's good, but they're also pretty late.
+BULL28|AWSN as are already have a massive massive lead and Google is going to be fighting an uphill battle.
+BEAR29|There are additional YouTube advertising restrictions coming into place to Demonetize more videos which are considered to contain adult content or offensive content which means slower near term ad revenue growth on YouTube.
+BULL30|Having said that long term it is something that needs to be done and is ultimately a positive for the platform.
+BEAR31|The Google Pixel sales fell below expectations.
+NEUT32|Google is expected to introduce a lower priced phone in the near future.
+NEUT33|To help capture more market share, so should you buy Google?
+NEUT34|I still like Google.
+BULL35|I think it's a great company.
+NEUT36|I think it's a buy, but I like Amazon and Facebook even more.
+BULL37|"Hope you guys have a great day."""

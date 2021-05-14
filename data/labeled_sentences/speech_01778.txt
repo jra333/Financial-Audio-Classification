@@ -1,0 +1,6 @@
+NEUT0|"""When the entire crypto market is crashing, you have three options."
+NEUT1|Option number, one.
+NEUT2|Sell your crypto an lose some money option #2.
+NEUT3|Just chill, hold your crypto and wait for the recovery option.
+NEUT4|#3 is to buy the dip and make even more money.
+NEUT5|"What option are you taking like follow peace out."""

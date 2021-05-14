@@ -1,0 +1,38 @@
+NEUT0|"""Why are you persuaded that this is more like 1968 or 1979 which then came and ushered in the Reagan era in 1980?"
+NEUT1|And not some just spasm through which we just go back to the status quo.
+NEUT2|You know, it's a it's an interesting question, and nobody knows the right answer the way I started to think about this was if you think about points in history where the country really shifted course.
+NEUT3|It's not because of 1 shock.
+BEAR4|The country gets shocked a lot.
+NEUT5|It seems to me it was.
+NEUT6|At times when this shocks piled in one on top of the other and you mentioned 1968 and this feels like 1968?
+NEUT7|Why?
+NEUT8|Because then you had a Vietnam War that was going badly.
+NEUT9|The Ted Offensive which shocked Americans.
+NEUT10|You had a President, Lyndon Johnson, who said, I'm not even going to run for reelection.
+NEUT11|You had the memory of a dark summer, a hot summer of 67 with racial tensions in the air.
+NEUT12|And then you had the real coup de grace which was assassination of Martin Luther King, followed by Robert Kennedy.
+NEUT13|And I think that left.
+NEUT14|A lot of Americans in you know I was in grade school at the time, but you know, remember very well people thought the wheels have come off the cart.
+NEUT15|We've lost control and that's really what produces, I think a change in the political system and that's kind of what it feels like.
+BEAR16|Now you have a coronavirus shock followed by depression like economic numbers followed now by unrest across the country.
+NEUT17|And it's the one after another after another aspect that I thought made this feel like that.
+BEAR18|And and then you pointed to 1979 when of course the hostages were taken in Iran and there was a great wellspring of feeling that that whole situation had been mismanaged.
+NEUT19|It was being handled weekly, and then in the 1980 election Carter was kicked out and in came Ronald Reagan.
+NEUT20|One difference that I detect now, Jerry from 1968, an even from 1979, is the dysfunctionality of Congress.
+NEUT21|Back then, there was a center in American politics.
+NEUT22|Right now it doesn't feel like there's much of a center at all.
+NEUT23|You have extremes on the left.
+NEUT24|You have extremes on the right and not much in the center.
+BEAR25|Nobody seems to be talking or willing to do business with one another in good spirits in good faith.
+NEUT26|I think that's right.
+NEUT27|And I talked to Ron Chernow, historian.
+NEUT28|He made exactly that point that one of the differences now is that the killing in Minneapolis that set off the unrest happened at a time.
+BEAR29|Of particular economic excuse me, a particular political dysfunction in this country that the system is not working.
+NEUT30|You don't have Democrats and Republicans coming together in rooms in the Capitol right now to talk about what do we do about this?
+NEUT31|They barely talk to each other.
+NEUT32|The president and the Speaker of the House can't even stand to be in.
+BEAR33|This literally can't stand to be in the same room with each other, and so you have a shocking situation.
+NEUT34|And I mean that in terms of multiple shocks at a time when the political system doesn't seem to be able to come together very well.
+NEUT35|Now I will add as a footnote.
+NEUT36|In a more complete sign, there were three big stimulus packages that passed Congress.
+NEUT37|"Yeah, the started."""

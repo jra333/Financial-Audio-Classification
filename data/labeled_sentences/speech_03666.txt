@@ -1,0 +1,38 @@
+BEAR0|"""Hey, what's going on guys?"
+NEUT1|Good morning.
+NEUT2|My name is Doctor Boyce Watkins and I wanted to give you some updates on what's going on in the stock market as you get ready for your investing don't forget to invest.
+NEUT3|You know you gotta invest consistently.
+NEUT4|That's how you build your wealth and so let me just tell you some things I'm looking at right now with the market.
+BULL5|Basically this is looking to be a good day for sure.
+BULL6|For the market on the futures market is doing really well, which means that the actual market should start off with a boost.
+NEUT7|The big issues right now have to do with stimulus and that virus.
+NEUT8|Those are two factors that everybody's watching.
+NEUT9|So let's start with the virus.
+NEUT10|Well, in terms of the virus in where we are, I call it the virus because I don't like saying that whole word, it's just, you know, triggers me.
+NEUT11|You know, the cases are actually going up in the United States.
+NEUT12|What's interesting is that the number of deaths don't seem to be going up with the number of cases, so maybe we're learning to live with the virus, but obviously you have to watch out for overwhelming the system.
+NEUT13|The United States is no longer the world leader in new cases were actually behind Europe on a per capita basis.
+NEUT14|Believe it or not.
+NEUT15|So keep an eye on that stimulus package.
+NEUT16|That's that's a big one.
+BEAR17|That's a whammy.
+NEUT18|Nancy Pelosi just made an announcement that they've given the Republicans 48 hours to come up with a deal or something like that.
+NEUT19|And I think that she's doing that to try to show that she wants to make a deal.
+NEUT20|I don't know if she does.
+NEUT21|I'm not completely convinced, but you know, we'll see how that goes.
+NEUT22|In addition to that, China.
+BULL23|Just announced their their economy grew 4.9%, you know.
+NEUT24|And despite the virus now remember the virus started in China.
+NEUT25|It was ravaging through China and then suddenly just stops.
+BEAR26|And that's because they weren't reporting their data.
+NEUT27|They weren't, they just pretty much told their 1.2 billion people like look, everything's fine and they just dealt the cases behind closed doors.
+NEUT28|Is that a bad thing or a good thing?
+BULL29|Nobody knows, but it's allowed their economy to keep going, which is making them a world superpower.
+NEUT30|Financialjuneteenthtv.com show up there.
+NEUT31|Monday nights at 8:00 o'clock, Arlen Age event and I are doing a black business pitch.
+NEUT32|Competition is called life's a pitch and we're allowing black owned businesses to do 92nd pitches for the audience so that we can decide if we want to support them or not and give them good feedback.
+NEUT33|So if you'd like to join us for the show and watch the show and learn how to be on the show, just visitfinancialjuneteenthtv.com Monday night at 8:00 PM.
+NEUT34|So take care guys.
+NEUT35|Make sure you subscribe.
+NEUT36|Have a great day.
+BULL37|"Love you."""

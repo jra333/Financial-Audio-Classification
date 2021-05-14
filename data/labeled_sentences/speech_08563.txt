@@ -1,0 +1,40 @@
+NEUT0|"""I just made $5 million five million."
+BEAR1|That's $5 million the past month.
+NEUT2|Investing, as you can see, I have more than $100 million.
+NEUT3|Subscribe to my channel so I can teach you how to make millions.
+NEUT4|Let me tell you about my day so far.
+NEUT5|Coffee in Paris sort them, all deems it took a little nap on Mount Kilimanjaro, know, yeah?
+NEUT6|And then I jumped back for the final quarter of the NBA Finals course out of course, and all that was before lunch.
+NEUT7|I could go on belong sayings.
+NEUT8|I'm standing on top of the world.
+NEUT9|In this video.
+NEUT10|We are going to go over the stock Amazon Woo, yeah, AM ZN.
+NEUT11|Amazon is Amazon a buy or a sell.
+NEUT12|Is it a crash?
+NEUT13|What's going on here?
+BEAR14|So when we look at the very short term, the one week, we see that Amazon has fallen.
+NEUT15|What we need close to two percent, 1.62% as we can see right over here.
+BEAR16|When you look at the one week chart, we can see that Amazon has fallen more than 2%.
+NEUT17|In the short term.
+BULL18|The one month close to 4%.
+NEUT19|And the three and three month charter.
+BEAR20|It shows that Amazon has been going down.
+BEAR21|By almost 7%, seven percent Amazon seems to be going on a downtrend when you look at the one year chart.
+NEUT22|It seems that.
+BULL23|Amazon has has been increasing from one year, but.
+NEUT24|Is it going to keep going up or is it gonna keep going?
+BEAR25|Orders are going to keep dropping.
+BEAR26|That is the question that we're going to discover in this video today when we look at the five year chart, we can see that Amazon has fallen in the past right over here.
+BEAR27|It's fallen and they fell a little over here.
+BEAR28|And I fell right over here.
+NEUT29|Sure, none of these drops were as big as bright over here, but.
+NEUT30|Maybe this is just a correction.
+NEUT31|Usually when a company.
+BEAR32|At a ties, it also has the most dramatic drops.
+BEAR33|Back over here this, this was also seemed like a dramatic drop when we, when we're thinking of 660, falling down to 500.
+NEUT34|Now.
+NEUT35|What's going on here with Amazon?
+NEUT36|Warren Buffett.
+NEUT37|The billionaire investor once said.
+NEUT38|Be fearful when others are greedy.
+NEUT39|"Anne be greedy when others are fearful by billionaire Warren Buffett."""

@@ -1,0 +1,35 @@
+BEAR0|"""So many people have reached out feeling that today their stagnant."
+NEUT1|They're not able to move forward in their careers.
+NEUT2|Get the jobs they want, get the leadership they want.
+BEAR3|They feel a little bit out of control.
+NEUT4|What I would say is.
+BULL5|Now is a perfect time to boost your career.
+NEUT6|And there are four key steps that are going to help you do that right now starting today.
+NEUT7|The first is to stop focusing only on applying on line.
+NEUT8|So it's an amazing statistic that 80% of jobs are not achieved through applying on line and also 70% of jobs aren't even publicly listed.
+BEAR9|So if that's all you're doing, sitting at your desk looking for online postings, you're really missing the mark.
+NEUT10|What we want to do is.
+NEUT11|Bring ourselves to market and that includes.
+NEUT12|Powerful networking reaching out to former colleagues, former professors, anyone who you think could help you and really demonstrating not only what you're great at today, but what you're hoping for in the future.
+NEUT13|Now is a perfect time and do that on LinkedIn.
+NEUT14|Do it on the phone.
+NEUT15|Do it any way you feel comfortable to reach out to people who can help you boost your strength and confidence in your work.
+NEUT16|Secondly, we need to get in the right room.
+NEUT17|So there's been a lot of writing about.
+NEUT18|How do we network powerfully one of the challenges is people tend to be comfortable with networking only with people at their own level.
+NEUT19|Well, that's going to keep you from advancing what you really want to do is also network with people who are 10 steps ahead of you, or 100 steps ahead of you.
+NEUT20|What's really going to open doors for you is to connect with people who have the power and the clout to make connections.
+NEUT21|That you are not able to make on your own.
+NEUT22|A third way to boost your career is find new ways to be of service and demonstrate your potential and your thought leadership.
+NEUT23|So professionals have so much more to give and new ways to be a service, then they recognize.
+NEUT24|Now is the time to start demonstrating your thought leadership and you can do that on LinkedIn by sharing once a day, someone elses post or an article or a video and saying something about it.
+NEUT25|So you're demonstrating your own.
+NEUT26|About leadership.
+NEUT27|Or you can be of service to someone who is a higher level than you, and you offer a skill that is complementary to theirs so you can reach out to someone who's 10 steps ahead and in return for something wonderful that they've done for you.
+NEUT28|You can offer something of help to them that they would find very valuable.
+NEUT29|The 4th made a power up your career right now is to start speaking more bravely and confidently about the work you want to do.
+NEUT30|Even if you don't have it all nailed down, so many professionals have exciting ideas about where they want to go in the future.
+BEAR31|But because the idea isn't fully baked, they feel like they can't talk about it.
+NEUT32|That's a mistake you can't move forward with your highest visions if you're not talking about what you want to do, start by writing down your ideal job description.
+NEUT33|Even though you think it's out of reach, write it down and then begin to work those elements into your LinkedIn profile and in how you talk about.
+BULL34|"Your work, and I promise you when you take these four steps, you will find that your career will advance, will move forward and you can take the reins on that right now."""

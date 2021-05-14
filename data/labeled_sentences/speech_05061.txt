@@ -1,0 +1,17 @@
+BEAR0|"""Netflix fell short of subscriber growth targets for the third quarter after posting massive growth earlier in 2020."
+BULL1|Netflix continues to claim pole position in streaming services, but the competition isn't far behind.
+BULL2|Global net subscriber adds came in at 2.20 million versus the 3.57 million expected.
+BULL3|Though the streaming giant did see double digit penetration of broadband homes in both South Korea and Japan, Netflix is revenue came in at $6.44 billion versus the $6.38 billion expected, while diluted EPS came in at one point 74 versus the two point 14 expected.
+BULL4|Revenue increased by 23% year over year while diluted EPS was up 18%.
+BEAR5|To beef up its library and keep subscribers coming back, Netflix has been investing in original content, facing a serious cashflow problem.
+BULL6|The streaming giant generated 2.56 dollars in revenue for every $1.00 it spent in the third quarter versus one point $50 in 2019.
+BEAR7|Although the gain was a result of production delays due to COVID-19.
+BULL8|Management is forecasting Q4 revenue of $6.572 billion, up 22.2% year over year and diluted EPS of one point $35 up 3.8%.
+BEAR9|However, they also expect slightly negative free cash flow in Q4.
+BULL10|In 2021, free cash flow maybe negative $1 billion to break even.
+NEUT11|The company stock closed at 525 point, $42 on the 20th of October 2020.
+BULL12|Over the last 12 months it is risen by 89%.
+NEUT13|Morningstar rates its fair value estimate for the company at $200 and considers the stock overvalued.
+NEUT14|Consider buying at $100 and selling at $350.00.
+NEUT15|Facts that records a 12 month target price between 220 and $670.
+NEUT16|"According to FactSet, 22 analysts have a buy rating for overweight 12, have a hold rating, one is underweight and four considered Netflix a cell."""

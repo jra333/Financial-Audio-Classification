@@ -1,0 +1,51 @@
+NEUT0|"""The RBA an aprox the Prudential regulator responsible for banks."
+NEUT1|Are they really trying to walk a really difficult tightrope here?
+NEUT2|To some degree they're trying to look at the broader economy and decide what steps they should or need to take to make sure the economy continues to recover and low rates in their view is a really important part of that.
+NEUT3|Of course.
+BEAR4|On the flip side, we're seeing house prices going through the roof because of those low rates.
+NEUT5|Now the RBA is only really got that one lever.
+NEUT6|It's either up, down or store neutral as complain.
+NEUT7|The whole rates where they are now for the next couple of years.
+BEAR8|But we know that house prices continue to escalate the that the word is they're using the number of first home buyers as a proxy for how available or affordable housing is right around the country, but particularly in the capital cities to the extent they see that number starting to fall, they may feel forced from their perspective.
+NEUT9|Maybe some of us might say welcomed to make to take some decisions to make some moves, to really restrain that pace of growth of house prices right around the country.
+NEUT10|It's quite fascinating, isn't it?
+NEUT11|Scott is this the property boom?
+NEUT12|That shouldn't be?
+BEAR13|Almost because that industry just had so many interruptions during the pandemic.
+NEUT14|And here it is now.
+NEUT15|It's extraordinary.
+NEUT16|Yeah, that's right.
+BEAR17|If you think about you know May June, July last year there was no shortage of people out there saying House price crash 3040% falls.
+NEUT18|Of course there are the usual suspects.
+NEUT19|Also always predict house price crashes.
+NEUT20|So any set of circumstances will do.
+NEUT21|But there was a real concern.
+BEAR22|Even the big banks are out there with with reasonably, you know, negative.
+NEUT23|Quite often.
+NEUT24|Some circumstance I'm saying it was 20% was the largest I saw.
+NEUT25|One of the major banks that would have been really material.
+NEUT26|Of course the economy didn't falter as badly or for as long as it was possible that recovery with low rates meant that we simply all felt like on all of us.
+NEUT27|But most of us.
+NEUT28|More money in our pocket or the same amount of money in our pockets.
+NEUT29|Our jobs were at risk and yet we could go to the bank manager.
+BEAR30|So how much can I borrow the bank manager saying well about 25% more than you could this time last year, and unfortunately for those people who are trying to get in the housing market now.
+NEUT31|Plenty people see great.
+BULL32|Thank you very much.
+NEUT33|I'll take that higher borrowing capacity, ongoing bid, auction against everybody else with the same circumstances.
+NEUT34|And that's why house prices are going through the roof.
+NEUT35|Simply be 'cause it's more affordable at these lower rates.
+NEUT36|Yes, fascinating to see how it's playing out now, Scott.
+BULL37|The Essex is expected to be buoyed by another rally in New York overnight.
+BULL38|We've seen some really strong share price and talk about recoveries.
+NEUT39|Our market not yet at the February 19, 2020 hires were still chasing that down, but the American market will hit those numbers.
+BULL40|I think before the end of the calendar year last year, and continues to go ahead another record overnight for the S&P and the Dow Jones and Lou.
+BULL41|Strong gains one and 1.4% respectively.
+BULL42|These are really big gains in the US market, buoyed by of course, those large tech companies that continue to just go further and further and further ahead.
+BULL43|That should be good news for our market.
+NEUT44|Here the question.
+NEUT45|Of course for us is how much can we capture?
+NEUT46|Those same games, given our market is dominated by our banks and resources players.
+BULL47|Not exactly new economy companies and that's no criticism, but it just means that the gains and the shoot growth mean that you know in the Amazons and Googles of the world already so big are growing at fifteen 2025% a year.
+NEUT48|Our biggest banks and resources companies can't simply keep up with that pace of growth.
+BULL49|And so I think that the gap will continue to grow.
+BULL50|"But good news in the US is absolutely good news here and we should see our market rise today too."""

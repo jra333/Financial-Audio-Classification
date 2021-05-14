@@ -1,0 +1,6 @@
+BEAR0|"""A series of technical issues that cropped up on Wednesday grounded United Airlines flights for several hours down the Wall Street Journal's website and halted trade in the New York Stock Exchange."
+BEAR1|Many of the world systems are increasingly Internet relyant problems with the Internet are inevitable, and there's always a potential for broken codes.
+BEAR2|Human error and cyberattacks that disrupt with the system.
+BEAR3|However, the Los Angeles Times reports that many companies spend as little as 6% of their IT budget on security, leaving their systems vulnerable to issues.
+NEUT4|To better protect their system, a company could use two Internet providers rather than one with one serving as a backup.
+BULL5|"The company could also increase their security budget in train employees on how to handle Internet failures quickly."""

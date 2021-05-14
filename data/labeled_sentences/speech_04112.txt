@@ -1,0 +1,36 @@
+NEUT0|"""The way I describe pager duty is if you think about your day, you get up in the morning."
+NEUT1|You might order coffee from Starbucks.
+NEUT2|You might order lift on the way into work, check Slack to see what your teammates are doing.
+NEUT3|All of those digital services are running on top of a ton of complex technology.
+BEAR4|That's getting more complicated by the day and the developers who sit behind those solutions have a difficult job of managing all that complexity as it proliferates.
+NEUT5|There's a number of unsung heroes sitting behind all this amazing technology that gives us a lot of convenience and joy.
+NEUT6|That get woken up in the middle tonight and have to manage things when things things don't work so well.
+NEUT7|So what pager duty does is it captures a machine signal from technology to see the early warning that something is either not working the way it's supposed to, or working better than it's supposed to, and then it gets that right right problem to the right person at the right time.
+NEUT8|Jennifer Tejeda took over patron duty in 2016.
+BEAR9|She was not the founder of the company and what's interesting about that is often VCs or tech observers will see a CEO change as a sign of weakness.
+NEUT10|Or some sort of pivot in the business that wasn't the case with this so much as a founder, recognizing that they wanted to bring someone else in for the next stage of growth.
+NEUT11|And if you look at what Tata did, she took over in 2016 in about 2 1/2 years a little less than three years, she took the company public in a very successful IPO.
+BULL12|There was a lot of positive energy around its business, an around what its CEO or doing, the enormous credit to to Alex Solomon, the founder, CEO in particular into the founding team that.
+NEUT13|Alex had the maturity to realize this could be a really gigantic company, knows the company he had the foresight to realize.
+NEUT14|This could be a publicly traded company as we see today.
+NEUT15|You know, we talked about, does he need a CEO as a partner?
+NEUT16|What's the best way to get there?
+NEUT17|And he made the courageous decision to say, you know what?
+NEUT18|I think we need a CEO and so then he and I teamed up to find the best one.
+BULL19|And you know, we realized we found him found one when we found Jan. We were incredibly lucky together.
+BULL20|This is a business that was performing well with a super humble founder who actually raised his hand and said.
+BULL21|We need somebody who knows how to do this to come into the business, and Alex created room for me to have the autonomy to really drive the business through another growth cycle.
+NEUT22|The first earnings for a company after it goes public is sort of a rite of passage that has to do this dance of both impressing Wall Street and impressing technologists back in its native Silicon Valley, hitting its targets on revenue and growth while also showing a path forward in the months and years to come.
+NEUT23|I'm a sailor and the metaphor I've been using for our team is.
+NEUT24|This is basically us getting the boat.
+NEUT25|Over the start line is very early, and so yeah, I'd like to be carried out of this company in a box.
+NEUT26|I know I love what I do and I I think that the market is a $25 billion market with 85 million potential users just on our core platform.
+NEUT27|We're going to be very busy spreading the word.
+BULL28|I think going public creates an opportunity for us to build our brands and our awareness.
+NEUT29|You know, it's fun.
+NEUT30|It's fun expanding a company.
+NEUT31|It's fun to grow and I like the troubleshooting and the problem solving that's involved in my job.
+NEUT32|And I'm a extreme extrovert.
+NEUT33|So I'm surrounded by awesome people all the time.
+NEUT34|Whether they are my customers or our investors, or you know our employees.
+BULL35|"So I really can't complain."""

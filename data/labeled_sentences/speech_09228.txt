@@ -1,0 +1,7 @@
+BEAR0|"""In its latest crypto newsletter, Bloomberg observes that Bitcoin BTC has had a tendency of adding zeros to its price, noting that the asset previously went from $1000 to $10,000 in less than four years, maturation may have slowed this trend somewhat, but Bloomberg does not appear to believe it has reached a full stop."
+BULL1|They noted that such a rise could occur again, though it may not be for some time, though this prediction might appear bold on the surface, it is rather conservative compared to other forecasts we've seen in recent months.
+NEUT2|A crypto analyst known as Plan B has recently stated that Bitcoin is still moving in accordance with the stock to flow model, which forecasts are $100,000 price by late 2020.
+BULL3|In addition to historical trends, Bloomberg suggests that fundamental supply and demand factors support bitcoins rise.
+NEUT4|It points out that about 90% of the total supply has been mined, while institutional demand continues to gear up with grayscale.
+NEUT5|Bitcoin Trust GB TC.
+BULL6|"Approaching Bitcoin equivalent Holdings of 500,000 Bloomberg's short term prognosis is that Bitcoin could revisit 2019's high of $14,000 by the end of the year."""

@@ -1,0 +1,37 @@
+BULL0|"""Thank you for supporting Tesla through this difficult."
+NEUT1|Thank you.
+NEUT2|Elon Musk to see you're fat that 2019 was going to be a banner year for the company on the back of the Model 3 this compact car that's supposed to remake Tesla is a more mainstream automaker.
+NEUT3|With this vision of bringing electrification the electric vehicle to the masses.
+NEUT4|But then we get into the first quarter, and things really didn't play out the way that everybody thought.
+BEAR5|Sales of Tesla vehicles plummeted compared to the fourth quarter.
+NEUT6|And then we saw really a push by.
+BEAR7|Tesla to lower the prices of its vehicles in a really dramatic way on multiple occasions, which raised the question, is there demand for the Model 3 at the previous expectations?
+NEUT8|It has?
+NEUT9|Tesla reached the ceiling of people willing to spend a lot of money for a small car, and that's the question that's really hanging over Tesla as we look ahead to this year.
+NEUT10|How does Tesla keep the growth story going forward?
+BEAR11|We seen Tesla's shares drop.
+BEAR12|Below the $200 mark really underscoring the uncertainty in the investor's mind about where this company is going.
+NEUT13|The company is rushing to build a factory in China.
+NEUT14|It broke ground just at the beginning of this year and hopes to have it done by the end of the year and to start up production.
+BULL15|And that's that's a huge lift.
+BULL16|That is something that would be remarkable if they pulled it off.
+BEAR17|But just beyond that, the issue for Tesla is that the US finds itself in a difficult position with China.
+NEUT18|With a growing trade tensions, if you look at Tesla's results for the past.
+NEUT19|A year or so, China being its second largest market behind the US.
+NEUT20|This is where a lot of the growth has been coming.
+NEUT21|The challenges is that because Tesla makes its vehicles in California and ships them to China, those vehicles are more expensive because of tariffs and the Model 3 is aimed at a more mainstream buyer.
+NEUT22|They believe they need a factory on the ground to make those vehicles for the customers that they want to sell them to.
+BEAR23|Meanwhile, there's a lot of headwinds coming just at the China market.
+BEAR24|Sales are down in that country overall, and increasingly.
+BULL25|We're seeing huge investments by Chinese players to create their own electric car companies.
+NEUT26|Teslas of China if you will.
+NEUT27|The question will be contest to operate in China.
+NEUT28|Can it get its factory running?
+NEUT29|And then you know what kind of competition is they're going to face?
+BEAR30|The total number of orders for the Model 3 in the past 24 hours is now past 100 and 15,000.
+NEUT31|The company has said they expect to deliver between 360,000 and 400,000 vehicles this year.
+BULL32|Likely meaning that they would build many more.
+NEUT33|Some analysts question that if there's really that demand, they also wonder if Tesla really has the capability to do that, given that they've never been able to do that before.
+NEUT34|We have to basically allocate all resources to model three production, because otherwise we're going to and it is come close to the end many times, and you had Elon Musk's been able to figure out how to pull it out?
+NEUT35|Often times of the last minute, and that's part of the charm of the company.
+BEAR36|"But it's also part of the reason why you see a growing chorus of people who are betting against the company because they question whether the company can continue to have those close calls."""

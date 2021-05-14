@@ -1,0 +1,20 @@
+BULL0|"""Hey guys, welcome to another MGI investing tutorial."
+NEUT1|This is Barrett and today we're going to be doing technical analysis of ticker symbol Jane.
+NEUT2|Ugh let's jump right into it.
+BULL3|Firstly, I just wanted to say sorry for the lack of videos in the past couple of months, but I'm glad to be back and I'm going to start covering Jane ugh on every other day schedule and then slowly ramp back up to covering other tickers.
+NEUT4|You guys may be interested in so stay tuned for that and leave a comment down below of other stocks.
+BEAR5|You guys may be interested in OK guys, today we saw Jay knock down around 4.3% closing the day at $113.95 now and after hours trading about $114.00 even.
+NEUT6|Here I have the one day timeframe pulled up.
+NEUT7|I have also placed Fibbonaci retracement lines from the low of March to the high we saw in August of $190.00.
+NEUT8|Jane's been trading sideways lately so we will keep that in mind when evaluating what the stock could do in the future.
+NEUT9|So let's jump into should you buy or sell Jane, ugh.
+BULL10|As you guys can see, $112.00 is a critical level of support, and we've seen it tested twice already.
+BEAR11|We saw it break down to $114.00 in September and then around $100 in October, and now we're at that same level again.
+NEUT12|In this retest, is the indicator of what direction we should follow.
+BEAR13|It should be noted that we did make a lower low, indicating that Apostle reversal is not confirmed on the note.
+NEUT14|If you should buy or sell Jane ugh, I'm going to issue my hold rating looking to wait for confirmation of higher lows before grabbing a position.
+NEUT15|Again, this is for educational advice only and should not be taken as your sole source of investment advice when looking to invest.
+BULL16|Thanks guys for watching.
+BULL17|But before I go I wanted to say huge thank you to those who have already followed the channel and have helped us get to 700 subscribers.
+NEUT18|It really does mean a lot.
+BULL19|"It allows me to keep making videos for the future, so again, thank you guys and I'll see you in the next video."""

@@ -1,0 +1,24 @@
+BEAR0|"""The New York Stock Exchange abruptly shut down at 11:32 AM East Coast Time yesterday did not resume trading until about 10 minutes after 3:00 PM Eastern."
+BEAR1|The New York Stock Exchange President Tom Farley said the outage was caused by a technical configuration problem that was fixed, but he didn't describe exactly what went wrong and forced this multi hour shutdown.
+NEUT2|He said an investigation would begin last night.
+NEUT3|The Homeland Security Secretary Johnson said that there was no indication that this was anything.
+BEAR4|Nefarious that there were any bad actors or that this was a cyber attack but both law enforcement and the SEC and actually Treasury officials as well said, although they were that they were in close communication with Wall Street in spite of the on the record statement that this was not a bad act, U.S. stocks did not do well yesterday, closing down about 1.5%.
+NEUT5|We're told that this was not at all related to the technical glitch, but rather the continued tumble of the Chinese stock market, which will talk about a little bit later.
+BEAR6|As well as debt fears in Europe related to Greece, quote from a fish security officials involved US security officials say they have no evidence that the computer problems that struck the New York Stock Exchange, United Airlines and the Wall Street Journal's website Wednesday were anything but glitches.
+NEUT7|Others, though, saying, well, there's no evidence, aside from the fact that the largest financial exchange, one of the largest airlines Ana major media outlet.
+NEUT8|All were hit on the same day, so not everybody is buying this.
+NEUT9|Louis, that there's nothing in the fereos going on, although officially were not told that it was that.
+NEUT10|Yeah, it seems very strange and your mind goes to to those places, but this could happen.
+NEUT11|Maybe it did happen, but it does seem very odd.
+NEUT12|Well, FBI director James Comi said quote that caught my attention.
+NEUT13|We're not big believers in coincidence either.
+NEUT14|We want to dig into that part.
+BEAR15|We do not see any indication of a cyber breach or cyberattack.
+NEUT16|But again, in my business you don't love coincidences.
+NEUT17|The International hacking group Anonymous the day before.
+BEAR18|Wished Wall Street ill on Twitter.
+NEUT19|Tweeting late on Tuesday.
+BEAR20|Wonder if tomorrow is going to be bad for Wall Street.
+NEUT21|We can only hope and generally this is bringing up a lot of questions related to people's fears about the vulnerability of American computer systems of really a lot of questions here.
+NEUT22|I have to say.
+NEUT23|"Yes, there are vulnerabilities all over the place, and you know, maybe this was some rogue rogue person from Anonymous, you know they usually will announce as a whole that they're going to do something before they well before they do it."""

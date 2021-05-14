@@ -1,0 +1,24 @@
+NEUT0|"""This makes sense have a little change in your pocket put it somewhere where you can't reach it."
+NEUT1|But you're not 10 years old anymore.
+NEUT2|You've got credit cards.
+NEUT3|Bills to pay and one click apps from Amazon to Uber that make it.
+NEUT4|So so easy to part with your paycheck.
+NEUT5|Where's that Piggy Bank.
+NEUT6|Now it's here your phone.
+NEUT7|I tested a range of financial apps and found 2 that make it simple to save even without self control digit and acorns siphon off tiny bits of your money to slowly a massive savings account.
+NEUT8|That you'll be glad you have digit works by tapping into your existing checking account and monitoring your spending habits to find extra money in your budget every few days when it thinks it's safe.
+NEUT9|Digit pulls out a bit of money and deposits it into a digit savings account.
+NEUT10|You can get your savings back in anytime just by sending digital text.
+NEUT11|It's free, but you won't make any money on the savings.
+NEUT12|Acorns, as the name implies, is about planting a seed.
+NEUT13|It takes spare change, rounding up to the nearest dollar on all the purchases you make on credit cards and checking accounts, and then invest it in the stock market.
+NEUT14|It chooses an investment portfolio based on your goals and charges.
+NEUT15|A small fee for the service.
+NEUT16|These apps help people who aren't being served by traditional banks like this one.
+NEUT17|I'm talking about Millennials, who may have sporadic income and no 401K insight, and also the kind of people who'd rather text a robot banker then wait in line for a teller.
+NEUT18|So how safe are these savings apps?
+NEUT19|It does take a leap of faith to trust any app with your banking information.
+NEUT20|But both acorns and digit say they've taken steps to ensure your data is secure and ask for the money digit, puts it in an FDIC insured bank.
+NEUT21|But because your money isn't yielding interest, it's best for short term savings like a vacation.
+NEUT22|Acorns is for longer term investing and put your money with some well established firms such as Vanguard and I shares at a time when the average American under 50 has negative savings.
+NEUT23|"These modern day piggy banks make a lot of sense."""

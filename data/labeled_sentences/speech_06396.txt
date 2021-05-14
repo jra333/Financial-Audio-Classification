@@ -1,0 +1,25 @@
+NEUT0|"""First of all, what are we learning about the toll of the shutdowns in the 1st place?"
+BEAR1|I mean, it seems pretty obvious you know a lot of people lost their jobs, but explain what you mean.
+BEAR2|Well, it's obvious that people lost their jobs, but it hasn't been obvious why they lost their jobs.
+NEUT3|We know that in pandemics, a lot of people won't go out, they'll stay home just because they're afraid of getting infected.
+NEUT4|So there's been this ongoing debate about whether well, a lot of these States and countries that have not had lockdowns.
+BEAR5|Their economies are going to suffer just as much because of those sort of voluntary social distancing.
+NEUT6|But if you look at the research that's coming out now, it's just not true.
+NEUT7|In my column, I specifically focused on this study by a group of researchers at Indiana University.
+NEUT8|They looked at things like mobility data.
+BEAR9|And Google searches for the words unemployment and they found that when states had stayed home orders and they closed nonessential businesses, that had a clear and dramatic impact on unemployment.
+BEAR10|They think about 60% of the job losses we've experienced are because of state mandated closures.
+BEAR11|So in other words, what we're learning is that the state mandated closures had a huge impact on the number of job losses.
+NEUT12|But do we know if they necessarily were better in containing covid than voluntary?
+NEUT13|Measures we don't know that yet, and I think that's going to take more research.
+BULL14|And by the way, it might be the case that accepting of very large economic costs might have been worthwhile, depending on the value of the lives that are being saved.
+NEUT15|But I think the more relevant takeaway from this research, Kelly, is that lockdowns are a very blunt instrument and they don't take into account many of the different risk profiles that we now know thanks to research are true just to take one example, since a very large portion of death take place in nursing homes and.
+NEUT16|Other sort of assisted care facilities.
+BULL17|Focusing your resources on those organisations and the people contact with them would have produced a lot more benefit in terms of health without all the con commitment, loss of economic activity.
+NEUT18|So explain, for example, in the future when we start to talk about a second wave or even just these kind of breakouts that are starting to happen in different parts of the country, what would a more targeted reaction look like?
+BULL19|They could do more to preserve employment.
+NEUT20|Well, I think first of all we do have limited testing and tracing capabilities, but focusing that testing and tracing capacity when those hotspots emerge would be very valuable.
+NEUT21|I think that's one of the things that we've learned, I think.
+NEUT22|Also, realizing that we know that outdoor activity shows much less risk of transmission than indoor activity, so you don't, for example, have to close all the parks, close all The Walking trails and hiking trails.
+NEUT23|Another thing that we've learned is that children really do seem to be at much, much less risk of getting the disease, and possibly spreading the disease.
+BEAR24|"It probably wasn't necessary to close all the schools as much as they have, but we do know that that's had a big negative impact on the livelihoods of people who serve the school system and on the education and the welfare of the children themselves."""

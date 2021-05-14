@@ -1,0 +1,39 @@
+NEUT0|"""The ballots have been counted and Scotland is staying in."
+NEUT1|It was a momentous referendum on whether to secede from the United Kingdom, but it is over.
+NEUT2|Scotland is remaining part of the Union.
+BEAR3|It has had major impacts on financial markets.
+NEUT4|Katie Martin is here to tell us more.
+BULL5|Katie huge sigh of relief.
+NEUT6|Whew, basically is what it comes down to.
+NEUT7|Basically, the risk of Scotland leaving immediately has just gone from the market.
+NEUT8|As I heard and immediately in there.
+NEUT9|People, investors, being investors, thinking about the long term are very much looking at what kind of shadow this leaves over the markets.
+NEUT10|The short term thing has gone.
+BULL11|Sterling has recovered its edge back a little bit from the highs of the day, but I wouldn't read too much into that.
+BULL12|Stocks are doing pretty well stocked with the banks that you mentioned that are domiciled in Scotland there doing particularly well, but long term people are thinking what does this mean?
+NEUT13|So Prime Minister David Cameron was talking today about devolving more powers effectively to England.
+NEUT14|That's that was sort of out of the blue in some sense this.
+NEUT15|You would think that after the discussion about Union, we'd have more talk about Union and said a little more disunion.
+NEUT16|Does it get?
+NEUT17|Does it get people wondering whether we're going to see this again in some form in the future?
+NEUT18|Yeah, I think it just gets people thinking about political risk as a thing for UK markets.
+BEAR19|Again, which they haven't really been since the you know, lost some contentious general election.
+NEUT20|There's there's kind of been a thing now it's something that you have to take into account with UK assets, but certainly for the short term, people think that the interest rate path that people thought we were previously set on is back on track, and that would be the UK would be.
+NEUT21|Essentially, the first major economy to start to raise rates again and get back into something that vaguely resembles normal monetary policy.
+BULL22|Yes, exactly that would be good for the pound in the interim, since the other major economies seem, say, the least further behind in that bag.
+NEUT23|With the Excel you're the pound is at 2 year highs against the euro, but against the dollar is quite different than dollars.
+NEUT24|Just on this it's doing its own thing.
+NEUT25|It's a juggernaut at the moment, but another interesting aspect of all this is what it's done more broadly to European markets.
+BULL26|Spanish markets doing particularly well today because there's this hope that this kind of neutralizes the sting somewhat of the.
+BULL27|Catalan secession hopes Catalan bones.
+BULL28|Spanish bonds doing particularly well.
+BEAR29|So there are definitely reverberations across Europe now.
+BULL30|Are we seeing a rising broadly a relief rally across all asset classes?
+BEAR31|Anything slipping, or is it just a pop up across the markets itself up, but it's very much more relief than euphoria.
+NEUT32|You know, this sets us back to where we were at the beginning of September, before the polls got so close before people got nervous.
+NEUT33|But it doesn't really change the macro picture for the UK, of course.
+NEUT34|Yeah, if you go back to August even if you go back just one month, we're looking at at polls that showed up.
+NEUT35|Quite substantial, no lead, and nobody was really paying a lot of attention to, and it seems like everybody very suddenly focused on this.
+NEUT36|Really only in the last maybe two weeks or 2 1/2 weeks when the polls started to tighten, it was quite shocking and over the past couple of weeks it doesn't matter what.
+NEUT37|For example Carney who said everyone just ignored him and and looked at the opinion polls and this being the only story.
+NEUT38|"Now the attention is going to go back to boring stuff like data central banking, all that good stuff."""

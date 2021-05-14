@@ -1,0 +1,18 @@
+BEAR0|"""Market I had expected that the Fed was going to announce some type of tapering program, but instead the Fed indicated that it remains disappointed with the pace of economic growth, especially with what's going on in the labor market and has decided to emphasize of the need to have the economy grow."
+NEUT1|Rapidly enough so that it no longer requires extraordinary assistance from the Federal Reserve.
+NEUT2|So in your opinion, is that the right move?
+NEUT3|I would say that because of the containment of price inflation, core PCE, price inflation is running at one point 2% annually.
+NEUT4|the Fed has the luxury of adhering to this exceptionally stimula Tori monetary policy, so you think it's OK?
+NEUT5|I think it's OK.
+BEAR6|I mean, I might be worried about a possible overvaluation of equities.
+NEUT7|Nevertheless, we've yet to see the 10 year Treasury yield.
+BEAR8|Drop down to say 2.5%, which is Stillwell above where it was throughout much of the first half of this year or before expectations of tapering took hold.
+NEUT9|You mentioned equities.
+NEUT10|I mean, do you think they're overvalued at this point?
+BULL11|We had a new record from the SNP.
+BULL12|Oh yeah, there are from the perspective of both earnings and corporate bond yields, the equity market is now overvalued by between 5 and 10%.
+NEUT13|That is not especially alarming.
+BEAR14|When you consider that during previous economic recoveries, the over valuation of equities reached at least 20%, now they also cut their economic outlook.
+NEUT15|I mean, were you surprised about that with your reaction there.
+BULL16|No, that's very much in line with consensus views, but I'll add that if the Fed continues to place this heavy emphasis on invigorating the US economy, the consensus growth forecast of 2.6%.
+BULL17|"420 fourteen will prove to be on the low side and if anything, real GDP growth in 2014 will be close to 3% if not higher, largely because of the Fed's emphasis on trying to attain a rate of economic growth that is strong enough to remove the need for this additional assistance from monetary policy."""

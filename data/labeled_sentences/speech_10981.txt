@@ -1,0 +1,40 @@
+NEUT0|"""At what are you hearing today about that GM partnership?"
+NEUT1|Yeah, we're hearing from sources that GM basically took a look at it at what Nicole actually had in terms of technology.
+NEUT2|You remember the original deal was not just for GM to provide some fuel cell technology for Nicholas Rexite semi trucks, but also to manufacture a pick up on their behalf.
+NEUT3|But what we're hearing from sources is that they basically looked at what Nicola had.
+NEUT4|There wasn't that much there with the pickup and so executives at GM decided to take a step back under the New Deal.
+NEUT5|GM will not take an equity stake.
+NEUT6|They basically just become a supplier of technology to Nicola.
+NEUT7|Which nuclear pays for right?
+BEAR8|And we're also hearing that from the Nicholas side executives kind of felt the company bitten off a bit more than they could chew.
+NEUT9|You know, under Trevor Milton that we talked about a lot, he had all of these different projects and ideas extended from semi trucks to a pickup truck to Palace portals vehicles, but he has since resigned.
+NEUT10|Since that short seller report and reports of SEC and DOJ interest in the company and the current leadership looked at what they had ahead of them and felt they really need to streamline what Nicola was trying to do.
+NEUT11|And that is simply to focus.
+NEUT12|On commercial semi trucks that are powered by hydrogen fuel cell technology, which someone which will come from GM and some of which will come from Robert Bosch.
+NEUT13|Of course the company is now steered to a large extent by a former GM.
+NEUT14|Executive.
+NEUT15|Steve Girsky is chairman.
+NEUT16|One of that relationship and and how does it evolve that we see them get back on board once it's a little bit more proven for example, well under the terms that we we saw this morning from GM, it does leave room for them to expand the relationship to include.
+NEUT17|Battery technology that was also something that was the part of the original deal, but it seems like that and that is now off the table we reported earlier in the year that that seemed Gursky was a big part of those talks.
+NEUT18|He made the initial introduction between Trevor Milton and Mary Barra the GM CEO, but I mean what's extraordinary about this deal is like, say, for example GM had walked away say that it was completely off the table.
+NEUT19|Nicholas still has all of the pieces that it needs to carry on with its business plan.
+BULL20|It's building a factory of its own and Arizona as a joint venture in Europe with E1 of the most established bills with the semi trucks in the world.
+NEUT21|It has this long standing relationship with Robert Bosch who are providing a number of core components and working them on technology so they still have all the things they need.
+BEAR22|I think really this is a reputational hit to the company.
+NEUT23|I am curious about their reputation.
+NEUT24|All hit here at because I mean even if they have all the pieces, the idea that a company like GM was willing to walk away from this.
+NEUT25|A lot of people are reading into that that Jim must have seen something.
+NEUT26|Or rather, maybe they didn't see something that they were looking for.
+NEUT27|Yeah, I was on the pickup truck side that I decide, you know, sources.
+NEUT28|They said tell us that they looked at what nuclear actually had and there wasn't much there in.
+BEAR29|GM felt it already made heavy investments in its own electric pickup trucks.
+NEUT30|You know, the EV Hummer that's coming at the end of next year.
+NEUT31|GM's been working on fuel cell technology for almost two decades.
+NEUT32|That's what GM wants.
+NEUT33|It wanted to find a mechanism that it could find its its fuel cell technology in a commercial product.
+NEUT34|And so the end result is what we get.
+NEUT35|GM sells that energy to Nicola.
+NEUT36|Sources did tell me earlier in the year, though.
+NEUT37|The issue is is that GM sales have been designed for use in a in a consumer vehicle.
+NEUT38|A consumer car, not a semi truck.
+NEUT39|"So what I'm hearing is that is actually going to take a little bit of time to GM to adjust the design to fit in with the design of Nicholas truck."""

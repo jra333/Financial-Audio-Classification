@@ -1,0 +1,36 @@
+NEUT0|"""The operating earnings for the first quarter have no meaning whatsoever in terms of forecasting what's going to happen."
+NEUT1|The next year at.
+NEUT2|And.
+NEUT3|I don't know.
+NEUT4|The consequences of shutting down.
+NEUT5|The American economy I know eventually.
+NEUT6|It will work whatever we do.
+NEUT7|We make mistakes.
+NEUT8|We won't make mistakes and I'm not.
+NEUT9|During this talk and later on, I'm not going to be second guessing people on this because nobody knows for sure what any alternative action would produce or anything short, but what we do know.
+NEUT10|Is that for some.
+NEUT11|Certainly.
+NEUT12|Bearing the balance of the year, but it could go on a considerable period of time, who knows?
+BULL13|But our operating earnings will be.
+NEUT14|Less considerably less.
+NEUT15|Then then, if the virus hadn't come along.
+BEAR16|I mean, that's just it, it hurts.
+NEUT17|Some of our business is a lot.
+NEUT18|I mean you shut down.
+BEAR19|So our business is effectively been shut down.
+NEUT20|It affects others much less.
+NEUT21|Are three major businesses of insurance and.
+NEUT22|An the NSF RR RR and our energy business.
+NEUT23|Those are our three largest by some margin.
+NEUT24|Ha.
+BULL25|They are in a in a reasonably decent position, they will.
+NEUT26|They'll spend more than their depreciation.
+NEUT27|Ha, so some of the earnings will go.
+NEUT28|Along with depreciation will vote or increasing fixed assets.
+NEUT29|But basically these businesses will.
+NEUT30|Produce cash even though their earnings.
+BEAR31|Decline somewhat.
+NEUT32|Hey investors, Zack Guzman.
+NEUT33|Here are you interested in learning more about the markets and getting the latest financial news?
+NEUT34|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT35|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

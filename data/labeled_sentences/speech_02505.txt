@@ -1,0 +1,34 @@
+BULL0|"""Good afternoon everyone."
+NEUT1|This is Christian with perfectstockalert.com, a 100% free service for smart investors and traders.
+NEUT2|All we ask in return.
+NEUT3|Please refer friend.
+NEUT4|Today will be looking at another type of divergent is known as a bearish divergance.
+NEUT5|This is basically a situation where price activity makes a new high, but Lumentum is not doing that.
+NEUT6|Whenever you have a situation like that, price is not being confirmed by momentum and that is a cell signal, a reversal signal.
+NEUT7|In this example, we'll be using the RSI indicator at 14 periods.
+NEUT8|However, this will work with any of the indicators out there that work with the divergences, including the slowest auction ACD.
+NEUT9|There's just dozens of them that actually work with this, so keep that in mind.
+BEAR10|Right here you're going to notice a high point on the RSI up above this 70 line, which is where you typically find overbought signals, and you'll notice I just covered up.
+NEUT11|You'll notice also that the following high point there's the first one, and here's the second one is lower than the first, so you're actually trending down here.
+NEUT12|The corresponding high points of the price activity here.
+BEAR13|An here are actually showing an uptrend, and this is known as a bearish divergences.
+NEUT14|Now you would expect this to.
+NEUT15|Fail in a situation like this, but you don't want to just jump on it and start shorting.
+NEUT16|Then you could be really very very early or even find situation where the trend is so strong that it never materializes.
+NEUT17|So you can't just see these opportunities and begin selling them.
+NEUT18|You need to wait for price confirmation.
+NEUT19|Price confirmation will come in a series of lower lows when you start to see that breakdown then you have confirmation.
+NEUT20|You can begin to sell it.
+NEUT21|Let me show you how that works.
+NEUT22|Clean that chart up a bit.
+NEUT23|And once you've spotted what you believe to be as a bearish divergance, and you can simply mark off the low points on any advance that you have going on and just continue to monitor those low points and every time you make a new low and then make a new high that previous low becomes a support line so you just advance your trendline or support line on that and continue to monitor until you see a breakdown.
+NEUT24|Once you see a breakdown, you have a signal confirmed by price that giving you can begin to sell the.
+NEUT25|Security that you're working with right there.
+NEUT26|In this particular situation, the fact that you have a bearish divergent form and both cases are above the 70 lines, showing overbought conditions, which is typically the area you find overbought on the RSI, you have confirmation of that signal, but you'd also like to find it on another indicator and definitely wait for price to be the final factor in your analysis whenever it begins to respond how you expect it to, then you're getting the confirmation that you need to trade successfully.
+NEUT27|Now you know.
+NEUT28|Please take a moment to review our disclaimer.
+NEUT29|The information provided herein is our opinion only.
+NEUT30|Under no circumstances do any statements here represent a recommendation to buy or sell securities or make any kind of an investment.
+NEUT31|You are responsible for your own due diligence.
+NEUT32|To summarize, we do not provide investment advice in order to make any claim or promises that any information here will lead to a profit, loss or any other result.
+NEUT33|"These videos are for educational purposes only."""

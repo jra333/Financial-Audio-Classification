@@ -1,0 +1,16 @@
+BEAR0|"""There are a growing number of investors who are prepared to bet that prices have troughed if they're right, this could be very important because it could mark a turning point in a vicious downturn that is shredded."
+BEAR1|The budgets of producing countries upended central bank policies and stoked fears of a deflationary spiral.
+BULL2|While since hitting a 12 year low near $27.00 a barrel in January, Brent crude oil, the international benchmark, has rallied by more than 1/3 to over $37 a barrel.
+BULL3|At the same time, hedge funds and other speculators have established their biggest bet in history on a recovery in oil prices.
+BULL4|One reason they're bullish is that Saudi Arabia, the world's largest exporter, have done enough to convince the market that is sufficiently concerned about the length and depth of the price route to consider action.
+BEAR5|So it's been talking to other big producers such as Russia about a production freeze.
+BEAR6|Equally, the US shale industry that contributed so much to the gluttony or market is finally showing signs of slowing down now.
+BULL7|Steadier oil prices are important because they've helped stem some of the broad based commodity selling due to their linkage.
+NEUT8|That comes through all dominated commodity indices.
+BULL9|An exchange traded funds so industrial metals such as zinc, copper and aluminium are now at their highest levels since the autumn.
+BEAR10|This in turn is triggered a big rally and beaten down mining stocks.
+NEUT11|Well, that's the big question that everyone's asking.
+BULL12|However, one thing is clear, it will be difficult for prices to rise significantly for here.
+NEUT13|For a number of reasons, companies will look to hedge their production.
+NEUT14|That means selling future production forward in the market that will act as a cap on prices, but more widely what the market really needs to see is a recovery in demand to eat into the stocks and oversupply in the market.
+BULL15|"Ultimately, that means growth in China will need to pick up, and it's not clear yet if that's going to happen."""

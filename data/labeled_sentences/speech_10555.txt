@@ -1,0 +1,6 @@
+NEUT0|"""Alright, well let's take the Apple stock we can see from this weekly chart."
+BEAR1|That's the first time we have dropped below the 20 days young man on the weekly chart.
+NEUT2|So should be very careful.
+BEAR3|And if we cannot bounce back quickly, then it means here will be a death cross so.
+NEUT4|Here is a short time frame on top, also bearish for Apple stock.
+BULL5|"Thank you."""

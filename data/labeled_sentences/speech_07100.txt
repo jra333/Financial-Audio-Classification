@@ -1,0 +1,15 @@
+NEUT0|"""Hello, my name is Judy Ping McCormick."
+NEUT1|Today I'm going to present you with the analysis of Netflix stock 2017.
+BULL2|Netflix stock Price was going up throughout the year 2017, ranging between $130 at the start of the year to over $200 towards the end of 2017.
+NEUT3|The actual and estimated earnings per share for Netflix stock were the same for the 2nd and fourth quarter of 2017.
+BULL4|Both revenue and earnings followed an upward trend throughout 2017 right into the first quarter of 2018.
+NEUT5|About 10% of revenue constitutes earnings.
+BULL6|Netflix performed the relatively in line with the Dow Jones Industrial Average in 2017, both trended upwards throughout the year.
+BEAR7|However, Netflix was more volatile, especially in the middle of the year.
+BULL8|Netflix prices had risen higher than those in the Dow Jones industrial average, based on our charts.
+BULL9|Based on our analysis about recommendations to management, are the booming streaming industry has provided Netflix with unique opportunities?
+NEUT10|We need to run away and capitalize.
+NEUT11|It may be starting our own productions.
+NEUT12|Signing up big League sports such as Soccer, Grand Slam tennis tournaments to capture more viewers.
+NEUT13|For latest release movies may be offering pay-per-view option on top of the existing monthly fees to generate extra revenue.
+BULL14|"Thank you."""

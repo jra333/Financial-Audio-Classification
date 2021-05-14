@@ -1,0 +1,50 @@
+NEUT0|"""Well, if it's Friday, which it is, thank goodness it's time for barones buzz where we take a sneak peek at the new issue of Barron's Magazine and joining me now is Barron's senior editor Jack."
+BULL1|How wonderful to see you.
+BULL2|Thanks for being here.
+NEUT3|Love your cover story.
+NEUT4|The top 100 hedge funds, a highly anticipated list.
+NEUT5|As we know, hedge funds can be a little opaque.
+NEUT6|So how do you guys come up with this level?
+NEUT7|We have a variety of sources.
+NEUT8|It really just takes a few months of reporting to track down the numbers.
+NEUT9|Calling verified the companies, make sure things are after fees and get a good ranking.
+NEUT10|Anyone can figure out which mutual funds are doing well, as you say, it's not as easy with hedge funds, so we have the top 100 performers and what we find is that in recent years that we've done this near the top of the list has been hedge funds have been playing in mortgage backed securities and things like that, and now it's all about stocks and the ones near the top of the list have made sort of clustered bets on stocks that they know really well.
+NEUT11|The name of the top of the list is Larry Robbins, Glenview Offshore Opportunity Fund.
+NEUT12|He's made a bet on Obamacare, figured out which stocks are going to benefit from Obamacare, and made concentrated bets so.
+NEUT13|We have a cluster of stories where you get the rankings.
+NEUT14|We've got some profiles of fund managers and also some stocks that activist investors are targeting.
+NEUT15|Now.
+BEAR16|Have there been any upsets to this list?
+NEUT17|Any major movements up or down?
+NEUT18|While we have seen those, those guys are making the bets in the mortgage backed.
+BEAR19|Another asset backed securities have dipped down and some ones that are made great stock that's of risen to the top.
+BEAR20|So there has been some turnover on the list.
+NEUT21|All right.
+NEUT22|A lot of people are going to be reading that list.
+BULL23|Thank you so much now moving to Asia.
+BEAR24|The so called Warren Buffet of Asia is selling off.
+NEUT25|All of his Chinese properties does this signal that the Chinese housing bubble has finally officially burst?
+NEUT26|Well, I think it's in the process.
+NEUT27|This is Lee Cushing.
+NEUT28|He has sold a lot of property there.
+BEAR29|We had a cover story in Behrens at last year, you know, warning about the conditions in the China property market.
+BEAR30|We have seen prices fall this year in a lot of markets there in China, and so we take the opportunity to look at what's going on in the market now.
+NEUT31|It's not so much a liquidity event is just sort of a structural oversupply there an if you have investments in China, not just real estate investment stocks, or if you're thinking about maybe bargain hunting in China right now.
+NEUT32|I did.
+NEUT33|I think this is a story for you to figure out where we are in the property cycle there an what does it seem will happen in the long term?
+BULL34|Will there be another rebound the way our bubble here rebounded the code, but I think you have to be really patient.
+NEUT35|There's some you know the government there trying to get some, for example banks to give more mortgages to people.
+BEAR36|Banks aren't really keen to do that right now because the profits aren't great.
+NEUT37|There's other products they could be selling that make better money for them, so it's kind of.
+NEUT38|It's tough in China right now to spur this to revive this property market, so you could have some you know a bit more downside.
+NEUT39|There you need to be careful here alright.
+NEUT40|And finally, you say that this summer might be the right time to start cultivating a taste for veggie burgers.
+NEUT41|Really dear, to my heart, forget about hedge funds in Chinese property.
+BULL42|Beef prices are up 9% this year.
+BULL43|Work is up 5%.
+BEAR44|We had a ramp in grain prices and some farmers had to reduce the size of their herds.
+BEAR45|There's also going to swine virus out some supply issues and.
+NEUT46|Those could take a few years to play out so we could be looking at these elevated prices at BAR because I recommend instead of having a barbecue at your house, try to get invited to a neighbors bar.
+NEUT47|There you go, there you go.
+NEUT48|Now is the time to to be really friendly with your neighbors Jack?
+BULL49|"How thank you so much for all that."""

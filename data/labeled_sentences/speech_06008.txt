@@ -1,0 +1,42 @@
+NEUT0|"""Should you play the lottery?"
+NEUT1|Let's talk about it.
+NEUT2|More than 1/3 of Americans believe winning the lottery is the only way they will ever retire comfortably.
+NEUT3|But the odds of winning either the Powerball or Mega Millions are roughly one in 292.2 million and one in 302.5 million respectively.
+NEUT4|Compare those odds to some other unlikely scenarios and consider whether there might be a more foolproof way to Symetra Financial future strategies.
+NEUT5|They're just more likely to win you about civil retirement.
+NEUT6|Don't depend on blind luck.
+NEUT7|Just discipline well, the odds are much worse than the probability of death as a result of one of these, a plane crash 11 million to one car accidents 161 falling out of bed, 2,000,000 to one flesh eating bacteria 1,000,000 to 1 lightning strikes 1.2 million to one dog Molly 118 thousand to one snake bites fifty million to one and a shark attack 3.75 million to one turns out swimming with the Sharks is safer than petting a dog, driving a car or sleeping in your bed.
+NEUT8|If these statistics have you feeling a little paranoid, cheer up.
+NEUT9|Many good things are also more likely to happen than winning the lottery.
+NEUT10|For example, the odds of getting a Royal flush in the first hand of poker or just 600 and 49,739 to one to put her on his perspective, consider this.
+NEUT11|Scientists calculated in 2004 that there was a 60 to one chance that asteroid 2004 MN 4 would strike the Earth on April 13, 2029.
+NEUT12|The asteroid is about a quarter mile wide larger than the asteroid that carved out Meteor Crater in Arizona, and it was still more likely to hit the planet than you were to hit the Jack pot.
+NEUT13|Fortunately for earth dwellers, scientists revised.
+NEUT14|Predictions for the asteroid.
+NEUT15|It's no longer particular to hit Earth at all, just skimmed very close.
+NEUT16|Your chances of winning the lottery are equally as slim, so how do you improve your odds of winning?
+NEUT17|If you've combed through all the statistics and you still want to play the lottery, here are some ways to improve your chances.
+NEUT18|First, use the computer generated numbers because they tend to be the luckiest and there's less chance of someone else picking a duplicate number.
+NEUT19|Whatever you do, don't pick a lucky 711 or a birthday.
+NEUT20|You can be sure that someone else will have also picked those numbers.
+NEUT21|Also, be sure to play the $1,000,000 or $2,000,000 second prize in the Powerball.
+NEUT22|We only have to match five of the six numbers.
+NEUT23|Those odds are one out of 11.6 million.
+NEUT24|If you get even better odds, you can still play in the state lotteries instead of the national one.
+NEUT25|So then how to improve your chance of attaining retirements if you are one of those who consider the lottery their best chance of retiring, consider this comparison instead.
+NEUT26|Let's say you buy a $2.00 Lotto ticket every week for 20 years.
+NEUT27|There is little likelihood based on the odds that you would ever win if you instead invested at $2.00 a week.
+NEUT28|Insecurities and got a 5% return you would have accumulated $3520.
+NEUT29|It may not sound like much, but if you invest $2.00 a day instead, you'd wind up with $24,663 after 20 years.
+NEUT30|The average stock market return is 10% a year.
+NEUT31|If you got that rate of return over 20 years, then your $2.00 a day would become forty $3721.
+NEUT32|That may not be enough to retire on, but if you increased it to $5 a day, you'd wind up with one hundred 9283 dollars $10 they would get you 200, eighteen, $1553.
+NEUT33|Now we're talking.
+NEUT34|The point is that you do have better odds for successful retirement if you plan for it.
+NEUT35|Then by playing the lottery you don't have to depend on fate, chance or luck.
+NEUT36|You can take matters into your own hands.
+NEUT37|So what are your thoughts?
+NEUT38|What are your lucky numbers?
+NEUT39|If you like this video, hit that like button and consider subscribing.
+NEUT40|I talk about money and everything related to it so don't miss out.
+NEUT41|"And as always, take care of your money."""

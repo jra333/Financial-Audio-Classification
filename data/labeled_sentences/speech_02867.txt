@@ -1,0 +1,9 @@
+NEUT0|"""Here's a 2008 Dodge Avenger comfortable, powerful intelligent."
+NEUT1|This Avenger delivers on all fronts.
+NEUT2|Features include AM FM, satellite radio, remote engine start, front, heated bucket seats, key fob, activated rear Windows, manual tilting, steering column, inline, 4 cylinder engine, aluminum wheels, gas pressurized shocks, an refrigerated box located in the glovebox.
+NEUT3|Dodge doesn't do middle of the road.
+NEUT4|Leave average in the dust.
+NEUT5|Hurry in today for a test drive.
+BULL6|We have so much to offer at Apple Chevrolet.
+NEUT7|Your Tinley Park Chevy dealer.
+NEUT8|"We are conveniently located at 8585 159th St in Tinley Park, IL."""

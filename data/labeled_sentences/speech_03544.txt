@@ -1,0 +1,24 @@
+NEUT0|"""My first question actually relates to what chair Powell said and has said multiple times recently that he's not really considering negative rates because you think there's a higher chance of that."
+NEUT1|Then perhaps he's letting on.
+BULL2|Well, maybe slightly.
+BEAR3|I mean, I think the you know the economy is in a very deep recession and the there there there could still be a need for significantly more stimulus.
+NEUT4|I think the Fed's made it very clear that in the first instance that would come through additional asset purchases, and you know, at the moment they are certainly not considering negative rates, and I don't think the probability is high.
+NEUT5|Over over the next year or so that they're going to get there, but I also wouldn't rule it out completely because it really does depend on how the economy evolves and you know, clearly the Fed's very concerned about the path of the economy and that's come out very clearly from the various appearances that we've seen from the chair and other Fed officials.
+NEUT6|So I, I certainly it's very far from our baseline expectation, but I wouldn't rule it out completely either.
+BULL7|The Treasury Secretary sounded optimistic that we're going to see a second half recovery of some kind, potentially as soon as the third quarter Jan. What are you seeing in the reopening data from the States as far as economic activity, and can we get that kind of bounce?
+BEAR8|Q3 or expectation is that we will see a recovery in the in the second half, and I think there is a decent amount of evidence that we've probably seen the low point on activity.
+NEUT9|If you look at some of the high frequency numbers.
+NEUT10|April probably was the law I think May and June are going to show some some pick up in economic activity and then in the third quarter it's going to show up in the in the quarterly numbers.
+BULL11|I mean, I think we were seeing some recovery across kind of range of of places.
+BEAR12|It's not just the places that have have reopened, but and obviously that reopening is also very cautious and partial, but in general activity is starting to come off of the bottom.
+NEUT13|Does that mean that no further stimulus is needed?
+BULL14|Well, I do think that additional fiscal stimulus is needed and we're building in additional fiscal stimulus.
+BULL15|In particular, we think that there will be money for state and local governments.
+BULL16|I think that is still very much needed, and we're also expecting more money to go to the household sector via a partial extension of the extra unemployment benefits.
+NEUT17|And also probably another round of rebates.
+NEUT18|So that is baked into our expectations.
+NEUT19|I think it's.
+NEUT20|Baked into what?
+NEUT21|A lot of people in markets are expecting, and so if that were not to come, you know that would be at the margin at least a reason to become less optimistic about the idea that we can see your recovery.
+NEUT22|But we're assuming it.
+NEUT23|"And I think markets are assuming it too."""

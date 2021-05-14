@@ -1,0 +1,24 @@
+NEUT0|"""In investing in general, emotions play a really important role."
+BEAR1|Most often they're working against us behaviorally overtime as the markets go up and down, we often have emotional reactions to this and those emotional reactions lead to underperformance.
+BEAR2|The more people check in and obsessed with short term returns, the worst they do.
+NEUT3|Their academic papers out there that look at what they called the behavior gap or the performance gap between what people should earn if they didn't do anything versus what they actually end.
+NEUT4|So it's about 1.56% per year in Los returns due to market timing and active monitoring of accounts.
+NEUT5|We know that, for instance, women on average are slightly better investors than than men, and they tend to change their allocation less.
+NEUT6|They tend to fiddle with things less.
+BULL7|And therefore actually get higher returns than men.
+NEUT8|The role of technology is to help people stay the course and to make the most of the time that they have to save and invest.
+NEUT9|The most effective thing we found is showing people what their tax bill will be before they make a transaction.
+NEUT10|People are much more averse to losses than they are excited about game when we show them the tax impact of making a trade before they go through with it, 75% of them decide not to go through with that trade, which means not only are they saving in taxes.
+BULL11|But they're also saving that behavioral gap an improving their returns in both ways as we look ahead, we're constantly building out more ways to learn from our customers behavior, and we've looked at how many times are they logging in?
+NEUT12|What days are they logging in?
+NEUT13|What pages are they going to?
+NEUT14|And we're understanding the correlations between those things and their behavior.
+NEUT15|Remember that it's not about humans versus robots, it's always the best of both.
+NEUT16|Ultimately, if you.
+NEUT17|Want to take matters into your own hands?
+NEUT18|We can't save you from yourself, right?
+NEUT19|We have to respect your desires.
+NEUT20|We think of financial services evolving in somewhat the same way as say, a self driving car is changing.
+NEUT21|Transportation will still have agency in the future.
+NEUT22|Will still be able to set our goals and decide what we want.
+NEUT23|"Just like you tell a car where you want it to go, but then you'll let the technology get you there more efficiently, safer, faster than you could if you were making all them unit decisions along the way yourself."""

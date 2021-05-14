@@ -1,0 +1,57 @@
+BULL0|"""Exciting in the markets today."
+BULL1|New highs again.
+BEAR2|All 11 sectors on the upside 3 to one advancing the declining stocks but not a lot of new highs.
+NEUT3|Where's the new stock highs Twitters at a new High Berkshires at a new high few of the banks are at new highs, but there's not a big expansion of individual stock.
+NEUT4|New highs and waiting for that to happen.
+BULL5|Meantime, we keep getting China new highs every day.
+NEUT6|There's your big market for the years China that MC Hi has been on fire that's the China ETF.
+NEUT7|The EM, which is the emerging markets in China.
+NEUT8|In there as well.
+BULL9|Also historic highs.
+NEUT10|Semesa big star.
+BULL11|They're doing well today for the quarter and four for the day Energy, another big star doing well.
+NEUT12|Banks.
+BULL13|Also great, but not outperforming today.
+NEUT14|As for the markets, it's kind of a status quo situation.
+BEAR15|Everyone agrees everybody I call every trading desk were pretty stretched Bob, but I don't think we're going down right now.
+NEUT16|That's the attitude.
+NEUT17|There's no reason to sell because the main macro narrative, the big three stimulus go big stimulus, particularly the vaccine rollout and earnings.
+BULL18|Keep growing, I keep talking about Q1 and Q2 earnings estimates are rising fast.
+BULL19|That's a great sign for the markets.
+BEAR20|So yes, short term, the major indices are stretched with the individual.
+NEUT21|Internals the relative Strength index is.
+NEUT22|We look at our stretch, but look at these moves here.
+BULL23|We've had huge moves in the small caps again this month.
+BULL24|We had six day run in the S&P 500 were 5% last week.
+NEUT25|These are enormous moves and it doesn't seem to be a lot of worries out there.
+NEUT26|You just look at the VIX again.
+BEAR27|Remember, we had a big spike in the VIX a few weeks ago on concerns about those short squeezes and potentially, I think some internal worries about the market, but that's kind of gone away.
+BEAR28|We actually dropped below 20 briefly this morning on the VIX.
+BEAR29|We haven't been below 20 since December.
+NEUT30|In the VIX, so there's an indication of not a lot of concern out there immediately for the market.
+NEUT31|Finally, if you want to see how desperate the states are becoming to get revenues and to come up with additional tax ideas, did you see Stacy Cunningham's editorial in the Wall Street Journal?
+BEAR32|She's threatening to leave New York State NYSE will leave New York State if the State Institutes this proposed financial transaction tax.
+NEUT33|It's a trading tax, is what it is here now.
+NEUT34|It's not clear who would pay any of these taxes.
+BEAR35|The trading desks are scattered.
+BEAR36|All over it's a jurisdictional nightmare.
+NEUT37|I don't know how they would enforce this, but the financial transactions tax.
+NEUT38|It's been tried in other countries.
+NEUT39|It doesn't work.
+NEUT40|It doesn't raise the money.
+NEUT41|People thought it causes people to move around.
+BEAR42|It dramatically cuts trading.
+NEUT43|We know it doesn't work, but it's a sign of how desperate people are.
+NEUT44|There's no state aid coming in the stimulus package here, and we're going to see other crazy attempts to raise taxes in other states with other kinds of tax schemes that don't make a lot of sense.
+NEUT45|We're going to competition for people's dollars out there, so.
+NEUT46|The question is with the NYSE ever move Carl?
+NEUT47|I find it rather hard to believe that something like that would actually happen.
+NEUT48|I know that the New York Stock Exchange has had discussions with other states, but you know, Carl.
+NEUT49|Somehow the Texas Stock Exchange?
+NEUT50|It just doesn't have the same ring to it.
+NEUT51|The New Jersey Stock Exchange, Miami's been taken already.
+NEUT52|There is a Miami stocking shape.
+NEUT53|The Palm Beach Stock Exchange.
+NEUT54|I don't know Carl, but this is a sign of how desperate people are getting.
+NEUT55|Shepard Smith here.
+NEUT56|"Thanks for watching CNBC on YouTube."""

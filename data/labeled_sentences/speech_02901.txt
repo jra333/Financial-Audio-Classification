@@ -1,0 +1,44 @@
+NEUT0|"""Do you think there's still room to run for the faang stocks?"
+NEUT1|Yeah, you're right, Matt, it's it's all down to the composition of the US market, which is now over 40% in tech, quite incredible.
+NEUT2|And now that we've got, obviously, Tesla's joined the party look on the one hand, it's sustainable because rates are low.
+NEUT3|We've if there's one factor that if you like, works for stocks, it's focusing on the discount rate.
+NEUT4|So the fact that we have ultra low discount rates means that these growth stocks.
+NEUT5|They can be more expensive.
+NEUT6|However, they can be, but now I have to say is looking really really stretched and that's why we have more much more biased towards cyclical stocks.
+NEUT7|Now we still maintain of course the positions in these types of stocks, but I mean Tesla on 300 times earnings.
+BULL8|Apple, even apples on 33 times earnings.
+NEUT9|I remember just 5-6 years ago, is on 10 times earnings and you can buy it at nearly a 3% dividend yield.
+NEUT10|Essentially these these.
+NEUT11|These growth stocks have priced in this very low discount rate.
+NEUT12|Fine, that's what we expected, but but now it's it's it's time for a pause because these ratings are really, really extreme.
+NEUT13|Are you worried Alan about inflation at all in the USI mean?
+BEAR14|We've been talking to people who point out those industries involved with delivering Internet goods have seen scarcities, for example shipping and logistics, and those prices are going higher.
+NEUT15|I also talked to a couple of investors yesterday who think we could see the 10 year yield at the end of 2021.
+BULL16|One and a half percent approaching 2.
+NEUT17|What do you think about that?
+NEUT18|So my I would say let's say we get some inflation.
+NEUT19|What would the Fed do?
+NEUT20|Nothing.
+NEUT21|What would the the MPC, the Bank of England do?
+NEUT22|Nothing?
+NEUT23|What would and there's evidence for that?
+NEUT24|We saw inflation in 2011.
+NEUT25|What did the Fed the MPC that do their nothing?
+NEUT26|So even if we get inflation, which by the way I think is a long shot.
+NEUT27|Yeah, I see this graph of break evens.
+NEUT28|But look it's just going back to normal levels.
+NEUT29|It was dislocated back in March.
+NEUT30|Like a lot of asset classes.
+NEUT31|But if you do a longer term chart, we pull it up on your Bloomberg and do GPW or GP monthly on that break.
+NEUT32|Even chart to see a longer term chart.
+BEAR33|You'll see around 2% is kind of the normal level for break evens, so there's there's little evidence for higher inflation globally.
+NEUT34|We see low inflation everywhere, even in China right now.
+NEUT35|However, we have had.
+NEUT36|If you like magic money in in the states incredibly, and then we got more magic money to come, I need money just plunked in people's Bank accounts.
+NEUT37|And therefore you know, could there be a bit of inflation?
+NEUT38|Sure, but more importantly for me, especially with the new Fed policy, which is basically average inflation over a long term, they're going to do nothing.
+NEUT39|Absolutely nothing about it could bond yields go higher.
+NEUT40|I doubt it bonds are not exactly wonderful investments, but I doubt it.
+BEAR41|With all this, all this QE, and by the way that's been one of the worst as well as December 31 as you'll know him at one of the worst forecasts.
+NEUT42|Is uh next year bond yields are going to rise?
+NEUT43|"They just haven't."""

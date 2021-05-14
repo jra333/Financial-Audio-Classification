@@ -1,0 +1,13 @@
+NEUT0|"""So Apple's wearables, we see that as being the big surprise for Apple when they report earnings within the next month or so."
+BULL1|Yeah, it's definitely going to be one to watch Mike Sam Santoli put up a really smart chart on Friday afternoon, and it basically showed the PE ratio has doubled for Apple from the lows in January 2019.
+NEUT2|Speaking to the valuation we've seen take place in this name this year.
+NEUT3|Is it getting expensive now?
+NEUT4|Well, it used to be in the value camp and if you look at the index owners it is now shifted out of value in more into a little bit back into growth a little bit.
+BULL5|So we do see the valuation catching up to the stock.
+NEUT6|Our target price is $300.
+BULL7|As you correctly stated, but the stock has been re rated higher on valuation so investors are now going to look at revenues and earnings growth.
+NEUT8|The core fundamentals of the company's revenues and earnings growth and less so about valuation expansion.
+NEUT9|You know the whole market with interest rates being so low.
+BULL10|A lot of investors don't value putting money into cash, you're not earning much interest on your savings account in the bank, and so the equity markets overall have seen a boost into their valuations.
+NEUT11|And Apple has participated in it.
+BULL12|"But yes, you are indeed correct with your statement, which is very smart about the valuation has materially appreciated in our target price is $300."""

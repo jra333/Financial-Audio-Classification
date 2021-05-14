@@ -1,0 +1,21 @@
+NEUT0|"""When we move cannabis, it can hover anywhere from less than 100,000 per shipment all the way beyond 25 million."
+BEAR1|There is definitely a concern that criminal elements are very active in the black market space.
+NEUT2|We have observed certain surveillance as we move product.
+NEUT3|Our drivers have been approached by individuals asking why they're carrying what they're carrying, what they're carrying in the vehicle, where they're moving to, and our our secure transport drivers are trained appropriately to respond to that.
+NEUT4|When we transport our cannabis goods, they are typically moved in a variety of makes, models, colors of vehicles in order for them to blend in with other vehicles on the road.
+NEUT5|Something that is consistent across these vehicles really is the geofencing, the tracking, the temperature control monitoring not only with the drivers, but also having the ability to monitor that at our operation center.
+NEUT6|Some are armored and some are not.
+NEUT7|Some for cannabis, some to move cash, and these will typically be armored.
+NEUT8|Both cab and cargo and they will have an armor level of a certain type to stop rounds being fired at the vehicle.
+NEUT9|We have 670 staff, more than 150 vehicles across 7 secure facilities in Canada.
+NEUT10|I think one of the biggest vulnerability challenges if you will that we have is really hiring the right people.
+BEAR11|But poor hire could result in the theft of significant amount of our shipments which then impacts our relationship with our client.
+NEUT12|I spent a number of years with Joint Task Force 2 which is Canada Special Forces Group.
+NEUT13|And in 2000, I joined the United Nations.
+NEUT14|I was exposed to a lot of unorthodox type of security management aspects in Afghanistan, Pakistan and other parts of the world.
+BEAR15|There was a situation in Afghanistan where we had to ensure the secure and safe movement of aid into a particular area.
+NEUT16|One of my rules was to meet with the local warlord in that area.
+NEUT17|And discuss how that could be done.
+BULL18|After three hours, a lot of raisins, pistachios and shy, we came to an agreement that our staff would not be impeded when they move through that particular territory.
+NEUT19|And these are the types of things that I was faced with, and I think a lot of those experiences lend itself very well when it, when it comes to securing facilities here in Canada and in the US and moving high value.
+NEUT20|"Product"""

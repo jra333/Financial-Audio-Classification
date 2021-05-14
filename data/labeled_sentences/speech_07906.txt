@@ -1,0 +1,26 @@
+NEUT0|"""Hey there, Jason Moser here with Brendan Matthews joining you for another edition of ask a fool."
+NEUT1|But today we're taking a question from Gabe.
+NEUT2|Gabriel and Gabriel asks when a company goes out of business and the stock becomes worthless.
+NEUT3|What happens to the people who shorted shares?
+NEUT4|Not people that own shares brand, but the people who shorted shares.
+NEUT5|This is an interesting question.
+NEUT6|What what happens to those right Gabe?
+NEUT7|So here's the thing you first you should understand how shorting works.
+NEUT8|So when you short a stock.
+NEUT9|You essentially borrow shares via your broker.
+NEUT10|You sell them, you get money and then you have to at some point buy back those shares an what you're hoping is it will happen at a later price or at a lower price at a later time, so that you'll essentially you'll spend less to buy back.
+NEUT11|The shares than what you bought him at.
+NEUT12|Essentially the reverse of buying shares long.
+NEUT13|So in a case where stock becomes worthless, you essentially won't have to buy back those shares.
+BULL14|So you've essentially made in theory 100% profit, so it's a good.
+BULL15|It's a good thing.
+NEUT16|Yeah, that's probably the ultimate short bet, right?
+NEUT17|I mean like when you're placing when you're shorting a company, you're taking a bearish outlook thinking the stock is going to go down.
+NEUT18|And I mean it can't go down any further than zero.
+NEUT19|So I guess if it goes out of business then it's kind of like game over, right, you right?
+NEUT20|Yeah?
+NEUT21|So the short answer is if stock becomes.
+NEUT22|Completely worthless, that's the best case scenario for shorts.
+NEUT23|Alright, well Gabriel, great question.
+NEUT24|Thanks for asking it.
+NEUT25|"And For more information, make sure to check out full.com."""

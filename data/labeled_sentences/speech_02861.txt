@@ -1,0 +1,10 @@
+BULL0|"""After another grueling weekend of talks between Greece and its international creditors investors this morning have reasons to be optimistic, at least for the time being."
+BULL1|Early Monday, European leaders said that they were prepared to give Greece another bailout, providing the country implements a round of punishing austerity measures over the next few days.
+BULL2|European stocks surged at the open and by late morning, the main benchmark index was up close to 2% on the day, particularly led by banking stocks and also a very sharp rise on Francis Cat 40 index.
+BULL3|Indexes in Spain and Italy, both countries considered particularly vulnerable to Greek shocks, were both up more than 1%.
+NEUT4|But does this mean that the grease crisis has finally come to an end?
+NEUT5|Not necessarily investors.
+NEUT6|And strategists say that a lot hinges on whether the Greeks will stick to their side of the agreement and implement the reforms necessary.
+NEUT7|Many are saying that we should not write off the risk of a Greek exit from the eurozone just yet either.
+BULL8|Next week, on July 20th, Greece faces a €4.2 billion interest and bond payment to the European Central Bank.
+NEUT9|"So even though markets and investors appear optimistic today, just remember that the Clock is still ticking."""

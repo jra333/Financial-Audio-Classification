@@ -1,0 +1,56 @@
+BULL0|"""Will your portfolio go better with Coke?"
+NEUT1|Will take a look.
+NEUT2|Here's one company I don't need to tell you much about.
+BULL3|Its Coca Cola, the global leader in soft drinks.
+NEUT4|It used to be called pop, but that was a long time ago.
+NEUT5|It's a soda.
+NEUT6|What is it?
+NEUT7|It's sugar in water.
+NEUT8|It's kept very, very cold and you pay two $3 to buy a bottle at your local supermarket drugstore convenience store, whatever it is.
+NEUT9|And it's a global brand.
+NEUT10|Is it a good investment?
+BULL11|It's been a great investment.
+NEUT12|Maybe not in the last five years, but it's been for the last 150 years.
+NEUT13|But let's take a look at the chart here.
+NEUT14|You can see it trades for about $46 a share.
+NEUT15|This charts about five years.
+BULL16|I would say it's doubled in the last five years, which is great by any normal benchmark of stock market performance.
+NEUT17|Maybe not when you compare it to Google and Amazon.
+NEUT18|Is it a global brand?
+NEUT19|Yes, of course.
+NEUT20|It's a global brand.
+BULL21|Is it a good investment for your portfolio?
+NEUT22|I like Coca Cola not maybe not as much as Warren Buffett.
+NEUT23|He's on the board.
+NEUT24|He owns 10% of the stock, he said famously, I'd never sell a share of Coca Cola.
+NEUT25|And why should he if he's owned it for 20 thirty 40 years, maybe even longer.
+NEUT26|He seen his money go up and up and up and up.
+NEUT27|It never has done anything but go up in his lifetime.
+NEUT28|So why wouldn't Warren Buffett think it's one of the great investments of all time for you getting in at $46 a share?
+BEAR29|It's a little harder you're paying 44 times earnings that's off the charts in a bad way.
+NEUT30|You're giving them $44.
+NEUT31|They're giving you a dollar of earnings.
+NEUT32|Not such a great deal.
+NEUT33|But is Coca Cola ahold forever stock?
+NEUT34|It has been?
+NEUT35|Will it be in the millennial generation?
+NEUT36|Less so maybe some of you are millennials out.
+NEUT37|There was the last time you bought a Coca Cola.
+NEUT38|You might drink water.
+NEUT39|You might drink fruit chews.
+NEUT40|You might drink tea.
+NEUT41|Coca Cola is probably not a go to drink.
+NEUT42|I suspect the demographics.
+NEUT43|Are somewhat older and the people that drink it, but I don't know that for sure.
+NEUT44|What's the good part about Coca Cola?
+BULL45|Return on equity is great.
+BULL46|The return on assets is great.
+NEUT47|8-9 percent.
+BULL48|Return on invested capital's excellent.
+NEUT49|They do a very good job at managing the distribution globally of Coca Cola, but you're paying you're paying Rolls Royce prices for a $0.10 drink, which is what I used to pay as a child when I was buying Coca Cola.
+NEUT50|Maybe it was a quarter, but it was not.
+NEUT51|It wasn't $2.39 which you might pay at LaGuardia Airport.
+NEUT52|That's all the time we have this week on the investment adviser.
+NEUT53|I'm your host Matthew Stevenson, in partnership with Dukascopy TV.
+NEUT54|Remember, money can take care of you.
+NEUT55|"It cannot take care of itself."""

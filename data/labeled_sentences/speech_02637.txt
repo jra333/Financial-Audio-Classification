@@ -1,0 +1,22 @@
+BULL0|"""Oil markets in the aftermath of the US withdrawal from the Iran nuclear deal US is withdrawn from the Iran nuclear deal and promised to reimpose sanctions on Iran, Europe, Russia, China all plan to stay in the deal, abide by its terms, including helping Iran gain the economic benefits promised by the deal diplomatically and politically."
+NEUT1|The question for non U.S. companies.
+NEUT2|Is whether they can be forced to comply with unilateral U.S. sanctions, even if they're trading between their own country and Iran.
+NEUT3|Now this is going to be a very interesting legal political economic turf war which we will all watch.
+BULL4|In the meantime, China well may increase purchases of rainy and oil just to make the point that it can.
+BULL5|Saudi Arabia and Russia may increase production of oil because, well, the prices hit their targets and they need the money and despite the increased supply spot, oil prices are likely to make remain quite elevated.
+NEUT6|This is because they're going to be reflecting a 10 to $12.00 barrel.
+NEUT7|Middle East risk premium.
+BEAR8|Now the reason that risk premium is there is the potential for a military confrontation between Saudi Arabia and Iran.
+NEUT9|This would be a low probability event, but it would be high impact.
+NEUT10|Now.
+BEAR11|This means the oil futures curve is going to remain in backwardation.
+BULL12|That is, spot prices are much higher than the two year futures prices.
+BULL13|Backwardation is not likely to go away until there are good reasons to believe tensions in the Middle East are being reduced, and that's certainly not the case right now.
+NEUT14|And let's look at US shale producers.
+NEUT15|They're going to take a look at the oil curve.
+BULL16|They're going to see some very nice prices, and they're going to be expanding production I guess.
+NEUT17|Is that the US will be producing oil at 12 million barrels per day doing 2019.
+BULL18|That puts us on par with Saudi Arabia and Russia.
+BULL19|The three top oil producers in the world.
+NEUT20|I'm Blue Putnam chief economist, CME Group.
+NEUT21|"For more of our research, please see cmegroup.com/research."""

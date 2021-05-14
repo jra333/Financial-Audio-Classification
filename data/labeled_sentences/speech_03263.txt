@@ -1,0 +1,29 @@
+BEAR0|"""Stock markets around the world have tumbled over the last few days as investors worry about the state of China's economy, where only a few days into the sell off and it's too early to say if the worst is behind us."
+NEUT1|Here are five things we've learned so far.
+NEUT2|Number one, there's something bigger going on in China.
+BEAR3|Chinese stocks have been tumbling since June, but markets around the world barely flinched.
+BEAR4|That'll change two weeks ago when Beijing devalued its currency, economic data had already been pointing to a slowdown, but investors were worried that the government knew something they didn't.
+BEAR5|And things were worse than they thought.
+NEUT6|Most investors care far more about China's economy.
+NEUT7|The world's second largest than they do about the country stock market.
+BEAR8|The massive fall in global stocks on Monday and Tuesday shortly rebound shows markets are struggling to adjust to a weaker China and the impact that will have on global growth.
+NEUT9|Number 2 the picture for the Fed isn't clear.
+NEUT10|The Federal Reserve is supposed to care about the US economy, not about emerging markets, but investors certainly seem to believe that the chaos in China costs some doubt on Fed plans to raise interest rates later this year.
+BULL11|A week ago, investors or a 50% chance of a September rate rise now that shrunk to just 21% number.
+BEAR12|3 investors seem to think central banks have used up most of their tools.
+BEAR13|The big rally in stock market since the financial crisis have seen a number of setbacks, but most of the time investors have been reassured by the actions of central banks.
+BEAR14|the Fed, the Bank of England, the European Central Bank and the Bank of Japan have all slashed interest rates to record lows and launch massive stimulus programs.
+BEAR15|Now, many investors believe central banks have already played all of their cards while the Fed is headed for an exit from rock bottom interest rates.
+BULL16|A rate cut in China on Tuesday briefly stabilized markets, but the impact was short lived investors faith in central banks seems to be waning.
+BEAR17|#4 commodities did have further to fall.
+BULL18|After all earlier this summer, it looked like commodity prices had steadied after a year, long slump.
+NEUT19|Not anymore.
+BEAR20|Prospect of waning demand from China, a top consumer of metals.
+BEAR21|And a big importer of oil have sent prices tumbling again.
+BEAR22|U.S. oil prices fell below $40 a barrel on Monday for the first time since 2009.
+BEAR23|That's a 50% drop in the last year.
+NEUT24|#5 is a perfect storm for emerging markets.
+BEAR25|Emerging markets hit by slowing growth already out of fashion with investors before the bad news from China.
+BEAR26|With many developing economies geared to feeding China's demand for raw materials, things just got worse.
+BEAR27|Currencies from Indonesia to South Africa to Brazil all fell hard this week.
+BEAR28|"And those economies still face the prospect of a US Fed rate rise, which could weaken their currencies even further against the dollar."""

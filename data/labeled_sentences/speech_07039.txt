@@ -1,0 +1,26 @@
+NEUT0|"""Hello, I'm Richard Hunter, head of market."
+NEUT1|So welcome to look ahead for the week commencing the 19th of October.
+BULL2|All things considered it's been a fairly positive week that said against some mixed earnings from the banks in the US as the reporting third quarter reporting season kicks off in earnest, also fading hopes of a fiscal stimulus ahead of the presidential election of weight slightly on market and of course renewed lockdowns in certain parts of Europe and indeed in the UK in particular.
+BULL3|Even so, the markets generally have made some progress apart from the UK.
+BEAR4|The Dow Jones currently is almost flat in the year today.
+BEAR5|It's down low point, 1% S and P500 up 8%.
+BULL6|The NASDAQ continues its March on it's up about 31% in the year to date and without everything over overhanging the UK at the moment, including the negotiations with the EU.
+BEAR7|The Footsie 100 is currently down 22%, so turning to next week.
+NEUT8|Again, in the states, we're going to expect a few interesting company out announcements to be coming through the likes of Netflix, Tesla, and American Express, for example.
+NEUT9|And in the UK, Barclays at the end of next week will kick off the UK banking reporting season.
+BEAR10|We may have had some clues already from the US banks which have reported fairly mixed bag with the exception of the lights of Goldman Sachs.
+NEUT11|Indeed, Morgan Stanley, but it doesn't generally bode well, particularly for potential.
+BEAR12|A further increase in bad debt provisions for Barclays.
+BULL13|There may be some solace if the investment banking unit has been able to benefit from market volatility.
+BULL14|Nonetheless, some good news in the banking sector in the UK is long overdue.
+BEAR15|Barclays shares are down around 45% in year to date.
+NEUT16|Couple of similar type companies also reporting next week both pandemic related.
+NEUT17|The first one is Reckitt Benckiser, which has its half year numbers.
+NEUT18|Some of its more famous brands include Desole.
+BEAR19|Clearasil, Calgon and Harpic obviously has been a beneficiary of the pandemic and the fact that people were for a big part of the last six months basically stuck at home.
+BULL20|Shares are up about 18% year to date and up about 40% since their March low.
+BULL21|Similarly, Unilever, also with its own stable of famous brands including the likes of Cornetto, Domestos, Magnum and Marmite, has seen its shares up 11% in the year to date and again.
+BULL22|Up 29% since March low, so will be interesting to see with the Lock downs being easiest and then more restrictions being placed.
+NEUT23|Just how those trades are faring and holding up during the current round.
+NEUT24|Thank you for watching.
+BULL25|"Have a great week."""

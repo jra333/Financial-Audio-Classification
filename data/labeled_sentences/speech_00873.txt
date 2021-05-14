@@ -1,0 +1,38 @@
+NEUT0|"""Hi friends, welcome to Concepts explained simply."
+NEUT1|Today we will understand the concept of trade lifecycle and will understand the same from the perspective of execution of a transaction in stock market.
+NEUT2|First of all, we should know about the participants in lifecycle of a trade.
+NEUT3|The first one is obviously the seller, that is, the person who wants to sell his shares.
+NEUT4|The second participant is the buyer who wants to buy the same shares.
+NEUT5|Third one is the broker who facilitates the trading between a buyer and a seller.
+NEUT6|There can be two different brokers for both buyer and seller.
+NEUT7|4th one is the Stock Exchange or stock market where execution of trade happens.
+NEUT8|Both buyer and seller broker need to be member of that particular Stock Exchange.
+NEUT9|5th Participant is the depositary.
+NEUT10|We're both buyer and seller hold limit accounts.
+NEUT11|Demat accounts are the one where shareholders hold their shares in dematerialised form.
+NEUT12|It is similar to our bank accounts where we hold our cash in the form of currency.
+NEUT13|Depositories were earlier known as custodians when shares were held in the physical form.
+NEUT14|Last but not the least, six participant is the clearinghouse that makes sure every trade that is executed in Stock Exchange is settled.
+NEUT15|Therefore, it is said that clearinghouse acts as a buyer for each seller and seller for each buyer.
+NEUT16|Now let's understand the stages in trade lifecycle.
+NEUT17|There are actually three stages, namely execution, clearing and settlement execution is when agreement on trade happens between buyer and seller.
+NEUT18|During clearing accounting, an arrangement for transfer of shares and cash between buyer and seller is performed.
+NEUT19|Settlement is the final stage when the actual exchange happens.
+NEUT20|There are pre standardized settlement cycle in stock exchanges of different countries like T + 2 in India.
+BEAR21|In US the settlement cycle was T + 3 which is brought down to T + 2 from September 5th 2017 onwards.
+NEUT22|Now let's have a look at complete trade lifecycle, as explained in earlier slides.
+NEUT23|Here we can see all the participants that take part in trade lifecycle.
+NEUT24|Now let's understand the flow.
+NEUT25|Initially, the seller instructs his trader to sell a particular script at a particular price that maybe the current market price or an offer code.
+NEUT26|The trader enters that offer in Stock Exchange at the same time, the buyer instruct his trader to buy that particular script at Matic Market Price or a bit code.
+NEUT27|The buyers broker also enters the quote in Stock Exchange.
+NEUT28|If the offer and bid price for a particular share matches, the trade gets executed in Stock Exchange and the trade execution stage is completed.
+NEUT29|Therefore, we can say that trade is set to be executed between buyer and seller.
+NEUT30|When agreement on price and quantity is established.
+NEUT31|Post execution, the clearing process is triggered where both buyer and seller brokers as an agent of clearinghouse make arrangements for transfer of shares and cash between trading parties.
+NEUT32|And once the actual transfer of cash and shares is completed, the trade is set to be settled.
+NEUT33|So this was the explanation of complete trade lifecycle.
+NEUT34|With this I end my video.
+NEUT35|Thanks for watching the video.
+NEUT36|Thank you, please share the video with your friends and don't forget to hit the subscribe button for future notifications.
+NEUT37|"Bye bye."""

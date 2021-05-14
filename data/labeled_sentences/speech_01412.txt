@@ -1,0 +1,28 @@
+BULL0|"""Hey fools, an welcome to two stocks making the news."
+NEUT1|I'm joined as ever by Michael just hey Mark hey Chris, happy New Year to you too.
+NEUT2|Thank you and yes so who's our first HSBC?
+NEUT3|OK really, the news is quite broadly about all of the European listed banks.
+NEUT4|Had a report in the FT that supposedly the European Commission is putting forth proposals to go.
+BEAR5|Perhaps maybe a bit softer than originally expected in terms of banking reform.
+NEUT6|OK, So what could that mean?
+NEUT7|For for all blanking shareholders really well?
+NEUT8|Apparently there's going to be more national discretion in terms of how the rules are applied, but at the same time, there's sort of a hidden extra in there that it's possible that sort of similar to the Volcker Rule in the US, proposed that there might still be restrictions on proprietary trading even if deposits are ring fenced.
+NEUT9|So OK, that needs to consider for HSBC shareholders.
+NEUT10|It's offering a perspective field of four point 8%, so you know, in terms of whether not that risk is reflected, but.
+NEUT11|Big news, yeah, absolutely.
+NEUT12|And obviously so yeah, very interesting news there an now onto Sainsbury's now.
+BEAR13|I've had a pretty good year in fairness, but news coming out today that it might be slightly a rocky road ahead.
+NEUT14|Well is that they have the results out on Wednesday.
+NEUT15|We're going to tell us how they did over the Christmas period.
+BEAR16|Analysts are suggesting at the moment that it's possible that they could have their first decline in like for like sales in nine years in these upcoming results.
+BEAR17|So a few slightly negative possibilities there in terms of what analysts are expecting.
+NEUT18|Absolutely, and so is there something.
+NEUT19|Is there a bigger picture?
+NEUT20|Consider here as any other of the supermarkets notice anything similar?
+NEUT21|Yeah, well actually has to have Walmart owned.
+BEAR22|Asda have come out and said that they had record UK Christmas number's 4.8 million shoppers but they did warn that trading for all the food retailers has been very tough and so in terms of the read through their fur for Sainsbury's again, you have to look at it and say they might have had a very good run in last few years but.
+NEUT23|Tough times being reported here by these analysts, absolutely so there you go.
+NEUT24|So where is coming out that again tough times for the supermarket after Christmas.
+BULL25|So thanks very much Mark.
+BULL26|Thanks for joining us.
+NEUT27|"We'll see you very soon."""

@@ -1,0 +1,31 @@
+NEUT0|"""Hi folks, has published a list of India's top 10 richest billionaires."
+NEUT1|Let's have a look into the list.
+NEUT2|At #10 we have a stand for drop off and a philanthropist with net worth of 6.1 billion U.S. dollars and contributing sector is Pharmaceuticals.
+NEUT3|Are Jim Premjee #9 Laksmi Mittal 7.4 billion U.S. dollars?
+NEUT4|Contributing sector is still and he is CEO and Chairman of Worlds largest steelmaker Arcelor Mittal interesting Lee.
+NEUT5|In 2005 he was the 3rd richest person in the world.
+NEUT6|It #8 we have a chairperson of auditable a group.
+NEUT7|He also owns Vodafone Idea.
+NEUT8|He is Kumar Birla 7.6 billion U.S. dollars.
+NEUT9|Net worth and commodities is the main sector for his wealth.
+NEUT10|#7 Cyrus Poonawalla net worth $8.2 billion and he owns most of his earnings from vaccines and he is the founder of Serum Institute of India in 2005, Government of India awarded him Padmasree for his contribution in the field of medicine.
+NEUT11|#6 Sunil Mittal.
+NEUT12|$8.8 billion from telecom.
+NEUT13|He is the founder and chairman of Party Enterprise and his first business was to make cramps after for local business manufacturer.
+NEUT14|We have gotten Madani at #5.
+NEUT15|With net worth of $8.9 billion, his main source of wealth is commodities and port.
+NEUT16|He is the sole controller of India's largest portages mood report.
+NEUT17|He is the chairman and founder of Adani Group #4.
+NEUT18|We have their contact with net worth of $10.4 billion.
+NEUT19|His main sources banking.
+NEUT20|He's the Executive Vice Chairman and managing Director of Kotak Mahindra Bank.
+BULL21|In August 2019, he was reported to be one of the most highly paid CEOs of Indian Bank.
+NEUT22|Signature is in third position.
+NEUT23|With $11.9 billion, he is from software industry and he is the founder of Actual Technologies and he is India's top philanthropist rather Kisner.
+NEUT24|Domani is the 2nd richest billionaires in India, with net worth of $13.8 billion from retail and investment.
+NEUT25|Domani got into retail business with one store in suburban Mumbai in 2002 and he is also the stakeholder PTS India and United Breweries at number one.
+NEUT26|We have Mukesh Ambani with $3.6 billion from petrochemical, oil and gas.
+NEUT27|Is a Stanford dropout and he's a Chairman managing Director Ann largest set Holder of three lines in their limited a Fortune 500 company.
+BULL28|Thanks for watching.
+NEUT29|Subscribe to our channel and do not forget to like the video to tell us about your thoughts on the comments.
+NEUT30|"We'll see you in the next video."""

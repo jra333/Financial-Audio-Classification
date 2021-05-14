@@ -1,0 +1,7 @@
+NEUT0|"""Hey Sarah, take a look at Zoom shares."
+BEAR1|They fell about 6% though they are still positive on the session and this comes after a BuzzFeed report that says that Google is banning the popular service from its employees devices citing security vulnerabilities.
+NEUT2|Now this comes after a number of other challenges for zoom, privacy and security related, and they seem to just be piling up.
+BEAR3|Yesterday, a shareholder filed a lawsuit claiming that Zoom has been covering up security flaws.
+BEAR4|And as we've been talking about guys feels like the number of schools and businesses banning the popular service for its employees and students is just growing.
+BULL5|Shares are still up, though.
+BULL6|"We should note about 70% year today."""

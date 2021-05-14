@@ -1,0 +1,31 @@
+NEUT0|"""Today marks the 18th anniversary of the September 11th terrorist attacks and it's a day of reflection, certainly for you."
+BEAR1|Because Cantor lost 658 people on that day.
+NEUT2|Talk about what the anniversary means.
+NEUT3|You personally, well, it's certainly it's a time to reflect, but also a time to raise money for charities that then will see benefit right?
+NEUT4|So, taking something that was incredibly sad and you want to be there for the families of the victims but also raising money so that they.
+NEUT5|Can can at least pass on something really good and is that something that you were still able to do with hand?
+NEUT6|Just cut his capital short?
+NEUT7|Yes, that's wonderful, let's.
+NEUT8|Try to elegantly shift gears a little bit now into what's happening in the markets right here, right now, because we're just hearing about gap.
+BULL9|How it's having its best set of returns since 2008.
+NEUT10|It's auspicious and honest, vicious in many ways, but from your perspective Gina, what is happening in terms of the market at the moment and what is happening in terms of the so called rotation?
+NEUT11|There perhaps is running our legs.
+NEUT12|Well I think what happened was two weeks ago.
+BEAR13|We reached such an extreme overbought condition in the 10 year Treasury yield.
+NEUT14|I mean we're talking a multi year extreme level of overbought.
+BULL15|On the 10 year Treasury yield, we started to see a little bit of reversal in that you started to get a couple of incremental points of positive momentum on trade.
+NEUT16|It's called him very incremental because I don't think anything really happened.
+NEUT17|But you know, if you think you were two weeks ago, we were so bullish, Bearishly positioned.
+BULL18|10 year extremely overbought defensive shares in the US equity market trading at a 20% premium to cyclical shares, the equity risk premium at levels that usually are affiliated with crisis relative to the 10 year we've started to see some of that reverse and we've started to see a little bit of risk tolerance re emerge and that's why some of these beaten down the least the lowest momentum stocks in the index are starting to perform better.
+BULL19|Some of the value stocks are starting to perform better.
+BULL20|You've seen stabilization in crude over that time as well, so there's just a modest rotation into more risk tolerance.
+BEAR21|Really from what listed really extreme positioning frankly by the middle of August.
+NEUT22|Sean, do you view the changes that we've seen over the last few days as something that could be the start of the sustainable change in leadership?
+NEUT23|Or is this like the occasional volatility kind of blow up that we get from time to time where a bunch of extreme positions get unwound?
+NEUT24|But in the end, the underlying fundamentals that caused the general trend don't change much.
+BULL25|It's a 5% move, so I think we were in a interesting time because it's the Ying and Yang of the market where earnings aren't going to be particularly good.
+NEUT26|But rates are low, and if there's any hope of optimism, people try to pour into equities, right?
+BEAR27|So if there's a bad tweet comes out about a trade deal, then they'll just go down again.
+NEUT28|So I think there's a general bias to be long equities here.
+NEUT29|Just because your present value against such a low discount, right?
+BEAR30|"So that makes perfect sense, but it's really about earnings that are going to come up, and I think they're going to probably pretty disappointing."""

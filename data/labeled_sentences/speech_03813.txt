@@ -1,0 +1,18 @@
+NEUT0|"""What should investors think is actually on the table right now at this moment?"
+NEUT1|It's hard to tell because I think we've seen with this administration that there's a tendency to announce a policy change before the policy process has run its course.
+NEUT2|We saw this with the tax cut in 2017, and we're maybe seeing it now.
+NEUT3|So a payroll tax cut was something the President said last night that he wanted.
+BEAR4|But earlier last week, Secretary Mnuchin said it wasn't on the table and Larry Kudlow hasn't traditionally been a big fan of payroll tax cuts.
+NEUT5|So that's one question.
+NEUT6|The second question is, if we're doing a payroll tax cut.
+NEUT7|Is it going to be something that's relatively shallow cut for a longer period of time, or a deep cut?
+NEUT8|That's more temporary?
+NEUT9|We don't know, so there's still a lot that has to get filled in here.
+NEUT10|What about Senate Republicans?
+NEUT11|As we understand that's the kind of the first meeting that has to take place for a meeting of the minds before you then approach the Democrats of the plan, what do you think they are likely to support?
+NEUT12|Well, there is a proposal from a senator from a Senate Republican to do something like this, but it's hard to tell.
+NEUT13|And there's a sense up on the Hill that people don't know how bad this is going to get and how exactly we should tackle that.
+NEUT14|Remember, Congress doesn't really do fiscal policy preemptively.
+NEUT15|Countercyclical fiscal policy isn't something we've normally seen.
+NEUT16|Instead, we tend to get big changes to taxes and spending once we're in a downturn, and often when there was a new president, which in 2001 and 2009.
+BEAR17|"Coincided, of course, with having a downturn."""

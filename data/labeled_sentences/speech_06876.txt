@@ -1,0 +1,26 @@
+BEAR0|"""As the rapidly spreading coronavirus continues to take its toll on the global economy, jobs are quickly disappearing."
+BEAR1|It's perhaps no coincidence that the cryptocurrency industry finds itself on hiring spree, while so many others are having to let go of employees.
+NEUT2|Blockchain and cryptocurrency startups were founded from day one for this, and they seem to be prepared for remote workers.
+NEUT3|In a recent conversation I had with the CEO of crack in one of the largest exchanges in the United States, we learned that they were hiring not only for technology professionals.
+NEUT4|But for professionals with a wide range of skillsets, qualified not only from the hospitality industry and elsewhere, but for those with liberal arts educations, we found ourselves literally letting our hair down as we talk crypto.
+NEUT5|I think we saw some some people that saw this coming.
+NEUT6|Maybe they were following the news out of Wuhan.
+NEUT7|They were already hedging and then we saw once the news really started to break that we were getting a lot of new signups and it's kind of been a bit of a ramp up just over the last few weeks, every day more signups every day, more verification requests, more people funding their accounts and that to us is like the signal that things are heating up that we need to start adding more staff and actually the.
+BEAR8|The whole COVID-19 thing as terrible as it has been for the broader economy.
+BEAR9|Actually a lot of our employees have partners or other members of their household who are now unemployed and the timing is worked out well for us and that we suddenly have an increase in demand.
+NEUT10|And we a lot of roles to fill the majority of open positions or less technical customer service compliance documentation.
+BULL11|So we're able to offer temporary work to to our employees, other family members.
+NEUT12|Based on what you're seeing, looking around right now, how would you categorize Bitcoins relationship with traditional markets?
+NEUT13|Yeah, I think there's some.
+NEUT14|There's some correlation because I think there's some common denominator an and that is retail investors who are basically gamblers.
+NEUT15|They make their trades on a whim.
+NEUT16|They follow the market, and I think no matter what, it is, no matter what their quote, unquote investing in their buying on the way up in their panic, selling as soon as you know something goes wrong.
+BULL17|But we've seen Bitcoin rebound.
+BULL18|You know 30% plus in the last week it's still up 65% on the year.
+NEUT19|I think we're seeing a little bit of that, you know.
+NEUT20|Maybe deleveraging and maybe people selling selling some of their assets to cover other positions in the equities markets, or to make sure they've got enough cash to handle whatever is coming.
+BEAR21|All the volatility, the Upson Downs the craziness in the markets.
+NEUT22|If you've been living in Bitcoin for any amount of time, you know you've just you're used to this level of volatility.
+NEUT23|You just live your life on the roller coaster and what's happening in Bitcoin now is not that extreme for Bitcoin.
+NEUT24|You know, it's it's what's happening in the rest of the world.
+BULL25|"That seems very extreme by comparison, and you know, it's a terrible time for the world, but by all measurements, I'm cracking as the business is doing well, and I think the cryptocurrency space as a whole is doing well in this situation."""

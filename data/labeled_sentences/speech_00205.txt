@@ -1,0 +1,19 @@
+NEUT0|"""We just saw in a filing that Pfizer CEO Albert Bourla sold about six and a half $1,000,000 worth of stock."
+NEUT1|Sorry, 5.6 million.
+NEUT2|I switched the six in the five on Monday, triggered probably buy that stock move because of the vaccine data.
+NEUT3|Now from this filing we know it was about 100 and 32,500 shares at an average price of about $41.94.
+NEUT4|It's clear that this is under one of these 10B51 trading plans.
+NEUT5|A pre planned sale.
+NEUT6|This one was adopted August 19th.
+NEUT7|2020 now Pfizer tells us Albert Bourla CEO still owns about $15 million worth in Pfizer share saying he's been there for 25 years at the company and through that time he owns a substantial amount of Pfizer stock.
+NEUT8|They say quote under are qualified and non qualified savings plans.
+NEUT9|They say he now holds approximately 9 times his salary in Pfizer stock after the sale this week.
+NEUT10|That's how we get to that $15 million number guys.
+NEUT11|But anytime you see these stock sales from executives around news, particularly on covid vaccines and drugs, eyebrows are raised.
+NEUT12|We've seen this with Moderna as well and so this one is capturing some attention even though it was a pre planned stock sale.
+NEUT13|But the bottom line here is that that stock sale was going to take place on that day whether or not there was a vaccine, right?
+NEUT14|I don't know if it was that day, but triggered by the price.
+NEUT15|So if the shares reached a certain price a certain number of shares would be sold at that price.
+NEUT16|They didn't know when they were going to get the vaccine data they didn't know if the vaccine data we're going to be good, but that sale plan was put in place in August based on what price the stock reach.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

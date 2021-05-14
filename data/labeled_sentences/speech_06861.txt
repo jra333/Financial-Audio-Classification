@@ -1,0 +1,27 @@
+NEUT0|"""Hello and welcome back to the note to now."
+BEAR1|We've had a day of very high drama on the bond market.
+BEAR2|Very impressive sell off there and we've had a very boring day on the stock market.
+BEAR3|With prices rising somewhat and the VIX Volatility index actually falling, I would like to argue that that latter the boring day on the equity market is actually very worrying.
+NEUT4|Now to take a look at what's happened in bonds.
+NEUT5|Let's first of all, take a look at the 10 year.
+BULL6|German Bunds, a quite remarkable rise in Pontiled now up.
+NEUT7|16 basis points of the day, retraced all of what had happened in the last six months.
+NEUT8|We heard from Mario Draghi at the ECB today.
+NEUT9|He wanted to make clear that people should get used to extra volatility in the bond market.
+BEAR10|People are basically running away from the deflation trade at this point.
+NEUT11|Very unclear what to make of the fact that the ECB is now embarked.
+BEAR12|On QE heightened uncertainty there you also see that in US Treasurys.
+NEUT13|To give you an idea of where we might have reached, let's take a look at the.
+NEUT14|German Bundt the 10 year bonds.
+NEUT15|The total return you have made on that.
+NEUT16|This is using the Bloomberg effort Index and compare it to.
+NEUT17|The SNP, what we're looking at here is how buns have done over the last 15 years and have the S&P did in the 15 years up to the epic bust of early 2000.
+NEUT18|This certainly looks like a classic equity market top that has finally been reached here with.
+NEUT19|Once there is a sense that psychology that people had long believed has finally been punctured.
+NEUT20|That may not turn out to be true, but that's what it looks like.
+BEAR21|In that context, the fact that stocks don't seem to register this at all today is quite alarming.
+NEUT22|I'd like to close by suggesting that we should perhaps liken this to a brontosaurus.
+NEUT23|This is an analogy that Jeremy Grantham, a very famous investor mate to me back in 2007.
+NEUT24|In the early days of the credit crisis, the equity market is like a brontosaurus, which if you hurt it, if you hit it on its tail, it would take it a very long time.
+BEAR25|For that pain to register in its pea sized brain in the same way it will can take the equity market an extremely long time to register that something very nasty has happened in bonds or some other market.
+BEAR26|"Very disturbingly, whenever bond markets and equity markets disagree about something, it tends ultimately to be the bond market that's proved right."""

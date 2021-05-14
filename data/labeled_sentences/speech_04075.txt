@@ -1,0 +1,8 @@
+BULL0|"""We know that someone's got better stuff and get broadcast."
+NEUT1|I don't give a ****.
+NEUT2|Gotta get it, I'll get it.
+NEUT3|I won't ever stop now.
+NEUT4|Want to get in my head face down in the photograph.
+NEUT5|Rock bottom I found, but I'm back now it's better back down.
+NEUT6|One found at the top, now screaming now, so that's the whole crowd did.
+NEUT7|"I may come back."""

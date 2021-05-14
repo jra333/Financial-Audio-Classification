@@ -1,0 +1,23 @@
+NEUT0|"""Who has seen an advertisement that has convinced you that your microphone is listening to your conversations?"
+NEUT1|All of your interactions, your credit card swipes, web searches, locations likes, they're all collected in real time into a trillion dollar a year industry.
+NEUT2|Real Game Changer was Cambridge Analytica.
+NEUT3|They worked for the Trump campaign and for the Brexit campaign they started using information warfare.
+NEUT4|Cambridge Analytica claimed to have 5000 data points on every American voter.
+NEUT5|I started tracking down all these Cambridge Analytica ex employees.
+NEUT6|Someone else that you should be calling the committee is Britney Kaiser.
+NEUT7|Brittany Kaiser, once a key player inside Cambridge.
+NEUT8|Analytica casting herself as a whistleblower.
+BULL9|The reason why Google and Facebook are most powerful companies in the world is because last year data surpassed oil in value.
+NEUT10|Data is the most valuable asset on Earth.
+NEUT11|We targeted those whose minds we thought we could change until they saw the world the way we wanted them to.
+NEUT12|I do know that they're targeting Tool was considered a weapon.
+BEAR13|There is a possibility that see Meriken public had been experimented on.
+BEAR14|This is becoming a criminal matter when people see the extent of the surveillance, I think they're going to be shocked.
+BEAR15|And I still fear for your life.
+NEUT16|Yet the powerful people that are involved.
+NEUT17|But I can't keep quiet is because it will make powerful people man.
+NEUT18|States rights should be considered just fundamental rights.
+NEUT19|This is about the integrity of our democracy.
+BEAR20|These platforms, which were created to connect us have now been weaponized.
+NEUT21|It's impossible to know what is what.
+NEUT22|"Because nothing is what it seems."""

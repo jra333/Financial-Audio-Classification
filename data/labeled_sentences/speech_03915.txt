@@ -1,0 +1,27 @@
+NEUT0|"""Have you ever been to Brazil or Russia or China or England or?"
+NEUT1|Even your neighborhood shopping center?
+NEUT2|Well, the one thing that they all have in common is you can buy Coca Cola there.
+NEUT3|It's maybe the biggest global brand ever created.
+NEUT4|We all know Coke.
+BULL5|Historically, Coca Cola has done a great job of franchising the right to bottle Coca Cola in different countries.
+NEUT6|As a result, today by my count, you can buy Coke in 12 different countries.
+NEUT7|What you get is a great brand great management but significant difference in prices.
+NEUT8|So as we as an investor start to think about Coke, we think oh.
+NEUT9|Great company, great brand, long term growth, all the things they like to see and then we look for pricing.
+NEUT10|On top of that.
+NEUT11|So today we're what's interesting.
+NEUT12|Well, we think buying Coca Cola in Mexico is very interesting.
+BULL13|We think buying Coca Cola in Australia is very interesting as an example, and even in Japan sounds funny, but a great place to be an investor.
+NEUT14|Where we'd like to go?
+NEUT15|Well, certainly China.
+BEAR16|That's a hard thing to do it today, and as a result we're shut out from investing and Chinese Coca Cola bottlers maybe in the future.
+BULL17|Great brand, great management.
+NEUT18|We know that man will be there.
+NEUT19|They've done it for 100 years.
+NEUT20|They're going to do even more over the next hundred.
+NEUT21|I'm Roger grow.
+NEUT22|That's a little bit about investing in Coca Cola.
+NEUT23|One other note though, you should carefully consult with your stopper.
+NEUT24|Trusted stock broker about any investments that you make, much less investments that you make outside the United States.
+NEUT25|There's a lot more to it than just share price.
+NEUT26|"I'm Roger Grill and thank you for spending a few minutes with me."""

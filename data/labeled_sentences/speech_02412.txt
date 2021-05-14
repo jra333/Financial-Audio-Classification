@@ -1,0 +1,26 @@
+BEAR0|"""The cryptocurrency industry is steaming hot."
+NEUT1|The total market value of cryptocurrencies is approaching $2 trillion.
+NEUT2|That's bigger than the market caps of Amazon, Google, and Microsoft.
+NEUT3|Bitcoin has been trading above $50,000 since March 8th and has a market value of $1.12 trillion, almost as much as all the silver in the world.
+NEUT4|Fo Mo Ed institutions keep pouring into the space.
+NEUT5|Tesla will start accepting payments for its electric vehicles in Bitcoin, adding the crypto currency to its $2.5 billion Bitcoin trove, one of the oldest banks in America.
+NEUT6|BNY Mellon has launched a digital assets unit.
+NEUT7|Goldman Sachs has relaunched its crypto trading operations.
+NEUT8|JP Morgan has introduced a structured note offering tide to a basket of stocks with exposure to Bitcoin, Morgan Stanley and Goldman Sachs have become the first major U.S. banks to offer their wealthy clients direct access to Bitcoin.
+NEUT9|But institutions and venture firms rushing to cash in on the surge don't come empty handed.
+BEAR10|Ports of capital are pouring on crypto startups.
+NEUT11|Minting knew unicorns at a breakneck pace just in March.
+BULL12|3 crypto firms raise some of the largest capital raises in the industry's short but rich history.
+NEUT13|There are now at least 18 crypto native companies with Unicorn status according to data platform Pitchbook.
+NEUT14|Click here to subscribe.
+NEUT15|To Forbes Crypto asset and blockchain advisor.
+BEAR16|In the heyday of ikos, companies raised billions, but the hype was short lived, low quality projects, multiple scams and the lack of institutional and regulatory oversight led to what is now known as the Great Crypto Crash of 2018.
+BEAR17|When an index that tracks the performance of the 10 largest and most liquid digital assets plunged by 80%, crypto bulls are hoping that this time it is truly different.
+BULL18|Publicly listed companies like MicroStrategy and Square have amassed sizable Bitcoin positions on their balance sheets and are seeing it as an alternative to gold.
+BULL19|Meanwhile, applications for a US Bitcoin ETF are piling up at the *** doorstep and the market is buzzing in anticipation of Coinbase.
+NEUT20|Is direct listing slated for April 14th, the first major public offering for a cryptocurrency company?
+NEUT21|Amid the frenzy, Forbes analyzed data from Pitchbook and compiled a list of the 10 largest venture capital deals for blockchain and crypto native firms.
+NEUT22|Deal date August 7th 2018. Notable investors, Crimson Capital, China Blue Bell Asia, Jumbo Sheen Group Lion's Capital Palace Investment Company Pavilion Capital Post Money valuation $15 billion previous valuation $12.00 billion.
+BULL23|The world's leading Bitcoin mining hardware manufacturer.
+NEUT24|Bitmain also operates Antpool, one of the top Bitcoin mining pools accounting for more than 12% of bitcoins, network hash or computational power.
+BEAR25|"Shortly after the $422 million capital raise, the Beijing based company filed for an IPO on the Hong Kong Stock Exchange in September 2018, but the offering fell through amid the Bitcoin crash and market cooldown."""

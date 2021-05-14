@@ -1,0 +1,31 @@
+NEUT0|"""Alright, the the the corrupt politicians acted."
+BULL1|That's great.
+NEUT2|The corrupt politicians act.
+NEUT3|I like this.
+NEUT4|I want to start this morning by just talking about white.
+BEAR5|Most every American will dislike this bill.
+NEUT6|It uses taxpayer dollars to fund the elections and campaigns that uses taxpayer dollars to fund campaigns.
+BEAR7|That's going to result in more political attack ads.
+NEUT8|And when Americans find out they're going to have more political attack heads, their heads are going to explode.
+BEAR9|Next, I think that most every American thinks is not good in this bill as it dilutes your vote.
+NEUT10|It devalues your vote.
+NEUT11|I think about the sanctity of the election booth when you walk in there and make your one vote.
+NEUT12|It counts as one vote.
+NEUT13|One person, one vote.
+NEUT14|Meanwhile, an operative is being paid for the last 30 to 60 days to go out and collect ballots.
+NEUT15|Ballots that may have belonged to a dead person.
+NEUT16|To people that don't even live in the state yet.
+NEUT17|So when that person walks in with 30 ballots, 60 ballots, $100 a day, it dilutes.
+NEUT18|Value of your vote.
+NEUT19|What I'm for?
+NEUT20|I'm for election integrity and I think in Kansas we have solid election integrity and part of that is voter ID and I think most every American thinks that voter ID adds to election integrity.
+BEAR21|I can't get a hotel room tonight.
+BEAR22|I can't rent a car tomorrow.
+NEUT23|I can't get in in the halls of Congress without my ID, and I don't think it's too much to ask of a person to have an ID to vote.
+NEUT24|Not having an ID devalues your vote.
+BEAR25|As I think about this legislation, I think it's an unconstitutional power grab by Speaker Pelosi and Senator Schumer.
+NEUT26|It's an unconstitutional power grab look just because you can grab power doesn't mean you have to, and actually one the first Test of leadership is do you turn down power when you have opportunity to gain more.
+NEUT27|This legislation will end up with a one party system.
+NEUT28|This is exactly what President Washington did not want.
+NEUT29|Was a monarchy a one party system and I believe Americans will remember this.
+BULL30|"In 2022 and 2024, thanks so much."""

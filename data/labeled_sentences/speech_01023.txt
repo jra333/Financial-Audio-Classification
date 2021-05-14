@@ -1,0 +1,44 @@
+NEUT0|"""Let's switch over to talk about toilets."
+BEAR1|Had its worst day yesterday since 1991.
+NEUT2|You are an investor in the sector.
+NEUT3|Through this Occidental Petroleum deal from last year, you put in $10 billion I think, and maybe some more after that.
+NEUT4|I know you get preferred dividends, but that investment has to be underwater at this point.
+NEUT5|And what you're thinking.
+NEUT6|Well the the the 10 billion is the preferred stock with Warren said.
+NEUT7|But and there is no market in it.
+BEAR8|I mean, it was a private deal, but but we also have about 2% of the common stock, and that's that's down significantly and.
+NEUT9|Anne.
+NEUT10|Their eyes, they said when I did that, I've been the biggest variable.
+NEUT11|Is the price of oil and I don't know the price of oil and every day it gets quoted.
+NEUT12|And today it's cold or whatever it is on WTI, maybe it's.
+NEUT13|$33 or something like that.
+NEUT14|Now it's going back into what they called contango.
+NEUT15|You know where the far outsells at a premium where it was in backwardation when we did the deal and the far out was at a discount, but there's still.
+NEUT16|If you have an opinion on oil you can buy or sell oil either one year out or two years out or three years out or something, the sort and when oil was in the 30s.
+NEUT17|Father agony in the oil Patch and the math just changes terrifically.
+NEUT18|I mean, it just doesn't pay to drill in a lot of areas.
+NEUT19|And the Saudis can turn out a lot of it, but with practically no operating costs.
+NEUT20|Or, you know, I mean, they've got very very very cheap operations.
+BEAR21|I mean, between that war between the Saudis and the Russians, and then also perhaps the secular decline of demand given concerns about climate change.
+NEUT22|Is this really a great place to invest?
+NEUT23|Well, I don't think the second or the man will change that much, but certainly the immediate demand was changed.
+NEUT24|I mean, the airlines need lesson, people drive less if there.
+NEUT25|Working out of their homes and now you can change.
+NEUT26|You know when you're talking about something close to 100,000,000 barrels a day?
+NEUT27|Did you change it by 5% with?
+NEUT28|You know that is huge.
+NEUT29|If everybody wants to keep producing what they were before and and it's you know it's what they call the marginal barrel that determines the price at.
+NEUT30|Well, I took economics and then school.
+NEUT31|Either they start but the marginal mine and gold and that was a very big deal and my professor said that he wanted to buy the marginal mind somewhere over in Africa.
+NEUT32|They have a little tiny mind and it would have a big sign that said marginal mine at all world.
+NEUT33|Watch it.
+NEUT34|Well, that's what that's what we do with oil.
+NEUT35|Except we're talking 100,000,000 barrels a day, and.
+NEUT36|Small supplier demand.
+NEUT37|Changes can have a very disproportionate.
+NEUT38|Appropriate change in price and an.
+NEUT39|And it does correct itself.
+NEUT40|Overtime, I mean, you know there's a line that the solution to $25 oil is $25 will be people.
+NEUT41|Quit drilling then and they had.
+NEUT42|That doesn't affect the Saudis much 'cause they don't have to drill.
+NEUT43|"Turn up production that much but but if you get into the shale projects, I mean the math really changes on them depending on on prices."""

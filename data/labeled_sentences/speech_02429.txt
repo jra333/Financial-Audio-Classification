@@ -1,0 +1,9 @@
+NEUT0|"""On Friday."
+NEUT1|Free market flash on this Julie.
+NEUT2|Bipartisan bill introduced in California legislature Friday that would lower the bar for large theme parks, including Disneyland, to be able to open now theme parks can't open until California until this date, like a minimal spread, that means less than one daily new case for 100,000 people.
+BULL3|The bill would enable parks to open with 25% capacity with the spread is moderate, I mean fewer than four daily new cases.
+NEUT4|Among that 100,000 people.
+BULL5|Now the other theme park stocks are also higher on this musically.
+NEUT6|SeaWorld and Cedar fair.
+BULL7|And there is another factor bolstering the stock keeping is also out with a note saying is bullish on Disney Plus.
+NEUT8|"Subscriber growth will learn more about both the Parks and Disney streaming business and the media giant reports it's earnings after the Bell on Thursday, right?"""

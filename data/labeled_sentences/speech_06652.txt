@@ -1,0 +1,12 @@
+NEUT0|"""Hello everyone and thank you for joining this technical analysis video for Tuesday, March 23rd on Christina Bethany."
+NEUT1|Do investment analyst taking look at pound dollar on the daily chart.
+BULL2|So zooming into the chart, we can see that the price is currently trying to find support around the 50 day moving average and avoid violation of the range which kept the market above the previous low of one point.
+BEAR3|3777 and below the top resistance of 1.40.
+BEAR4|Will the technical signals are not very encouraging at the moment.
+NEUT5|The 20 day moving average continues.
+BEAR6|To decelerate towards the 50 moving average, the RSI has edged below its 50 neutral marking.
+BEAR7|The magazine is set to enter the negative area, so the risk is overall looking neutral to bearish in the short term picture, and we expect a clear close below the 50 day Ma, and more importantly below the one point 38 level to confirm.
+BEAR8|A steeper decline, likely towards the 38.2% Fibonacci of one point 3639 moving lower end out of each McLeod who may see another round of losses.
+BEAR9|Which could potentially stabilize somewhere near the 50% Fibonacci of one point 3455 and now if the price avoided this negative scenario instead rises above the 23.6% Fibonacci of one point, 3867 which has been squeezing upside corrections over the past couple of days, we see another battle near the important resistance of 1.40, where any break higher will likely see an extension towards the crucial resistance between one point 4135 and 1.42.
+NEUT10|35 and if this proves easy to clear this time, then the next stop could be around one point, 4350 so that's all for pound dollar today.
+BULL11|"Thank you for watching and have a great day."""

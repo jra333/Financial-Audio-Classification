@@ -1,0 +1,29 @@
+NEUT0|"""And here's something we rarely hear about these days."
+NEUT1|The company buying back shares AutoZone saying it now has authorization from its board to buy back an additional 500,000,000 worth of common stock.
+NEUT2|So what does this tell us about the health of the company?
+NEUT3|Let's bring in Bloomberg Sarah Burton to find out ensar everybody else is trying to shore up capital.
+NEUT4|This one isn't how come, well, it's definitely an anomaly mark.
+NEUT5|Given the surge we've seen in capital raises, whether it's through selling stock, issuing debt, even companies that usually buy back shares their differing some of these programs, and Borini associates was kind enough to put together this short for me.
+NEUT6|If you look at buybacks so far this year compared.
+BEAR7|Last year you can see there's an 80% fall off since last year, but the difference here is that AutoZone has been benefiting because of the recession.
+NEUT8|People weren't buying cars there, repairing them.
+NEUT9|Instead, you look at the earnings growing 20% or more for three of the past four quarters, so it can do this by back to see if will crediting the company's strong financial health shareholders.
+NEUT10|They've reaped the reward and look at the stock for the past 12 months.
+BULL11|There you can see up about 34%.
+BULL12|Also, this is the company's 19th by back in the last 10 years.
+NEUT13|Just looking at that rate today.
+NEUT14|You can see there's actually a four point difference between the low.
+BULL15|And the high in Virginia.
+NEUT16|So SIS was actually saying that this is typical on the day after the buyback is announced.
+BULL17|In fact, on average there's a spread of about 4% from low to high, so traders may have been able to profit by buying here on this dip, hoping you can see this line here.
+NEUT18|Buying here on this dip right here.
+NEUT19|You seeing it go right up here and then.
+NEUT20|It's actually coming right back down again.
+NEUT21|So one way to have made money today markdowns are, what about the long term outlook?
+NEUT22|Is this a good thing that they're buying back shares?
+NEUT23|Well, one of the animals was talking was talking to me about this a while ago.
+NEUT24|An Gimme Gimme credit actually.
+NEUT25|Was saying that this is in Autozone's case is not necessarily a good thing, because they're actually using borrowed money to buy back some of these shares and they don't think that's a good sign as well.
+NEUT26|Alot of the honest to most of them are actually seeing you know what hold this stock.
+NEUT27|It's not necessarily a by Mark, Bloomberg, Sarah Burton joining us.
+BULL28|"Sarah, thanks."""

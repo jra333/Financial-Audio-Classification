@@ -1,0 +1,31 @@
+BEAR0|"""Talk to me a little bit about the ways that all of these big old traditional automakers doubling down on electric vehicles creates a scenario that might be a problem for Tesla."
+NEUT1|Well, look, you're exactly right.
+BULL2|I've been bullish on Tesla for the last 10 years.
+BULL3|It's hard to imagine an auto company executing better than Tesla has growing last year 31 billion this year on a track to do 48 billion, 50% growth, no one else in the auto world was doing that.
+NEUT4|Having said that, Tesla is not going to be King of the Hill and electric forever.
+NEUT5|And what's important to note is Volkswagen under her ADESA said, we're all in on electrics.
+NEUT6|Mary Barra has said, will be all electric by 2035.
+NEUT7|Volvo came out yesterday.
+NEUT8|One of them saying they'll be all electric by 2030, in which interesting is Tesla is not just getting hit from the high end and Audie Etron, which is great in the Portia Taikan.
+BEAR9|They're now getting pressure from the low end, especially the Chinese.
+NEUT10|What's interesting is in markets that Tesla has dominated, like Europe, where they have historically were number one there now number four behind Hyundai VW.
+BULL11|And also the Peugeot Zoe so they're getting competition from all sectors.
+BEAR12|They're going to have to double down to compete.
+BEAR13|But that also means Steve that they're competing for supplies as well.
+NEUT14|I mean, if you have all these people who say, look, we're going to come in, we're going to grab batteries to fuel.
+NEUT15|Our EV's?
+BEAR16|Then are those supplies going to be in shortage?
+NEUT17|I mean, is Tesla going to have to go out and offer to pay more for for the materials that it needs to manufacture the batteries?
+NEUT18|I think that's really the least of Teslas worried, so let's get clear about that.
+NEUT19|First, a lot of people worry about a shortage of lithium, and I will tell you right now, lithium is one of the more plentiful.
+NEUT20|Materials in the world.
+NEUT21|People have alleged you can only get them in certain places.
+NEUT22|Bolivia that are hard to get to infect.
+NEUT23|The themes quite plentiful.
+NEUT24|What you worry about is a car company in some cases are rare earth minerals like cobalt, but a lot of firms, notably Tesla or working on making clean or green batteries that don't use cobalt.
+NEUT25|The things you want to be more worried about if you're an auto company are semiconductors.
+NEUT26|That shortage is real, as you may know, Silicon Valley was built on making semiconductors until the biggest in the world.
+NEUT27|But increasingly, semi conductor production is moved to China, Taiwan and Korea.
+NEUT28|That should be a wake up call for America and every auto company in the world now is trying to figure out how they can make sure they have a plentiful supply of semiconductors for vehicles in 2021.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

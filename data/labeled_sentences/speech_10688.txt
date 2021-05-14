@@ -1,0 +1,7 @@
+NEUT0|"""Alright, well let's take the Apple stock we can see ever had formed a doji indecision pattern on the weekly chart."
+BEAR1|That means the job for the four weeks had terminated for temporary here, but is that the confirmation no is indecision need another candle to be confirmed?
+NEUT2|As long as we keep below these two main lines, that means the downtrend prevail.
+BULL3|That means we're still had possibility to test the 50 yummy days on the weekly chart.
+NEUT4|The price will be 110 so.
+NEUT5|We need another following candles to confirm the direction.
+BULL6|"Thank you."""

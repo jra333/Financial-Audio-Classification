@@ -1,0 +1,21 @@
+BEAR0|"""Delivery was initial public offering was set to be the largest in a decade for the London Stock Exchange, but its shares slumped up to 31% on its debut."
+BEAR1|The British food Delivery, which is still the most valuable tech company to list in London earlier this week, had to slash its offer price to the bottom end of its initial range of 390 Pence per share.
+BEAR2|Anna $10.4 billion valuation Deliveroo shares plunged to lows of 276P per share before stabilizing AT299P per share mid morning, with the slump knocking $2.6 billion off the Amazon backed companies.
+NEUT3|Value delivery was opening.
+BEAR4|Marked one of the worst debuts in recent years for a London listed company.
+NEUT5|The tech company had hoped to list at the top end of its IPO pricing with a $12 billion valuation.
+BEAR6|But leading investors in the United Kingdom balked over a voting structure that allowed founder and CEO will shoot out vote shareholders and the company's treatment of its army of self-employed drivers.
+BULL7|I am very proud that delivery was going public in London are home said shoe in a statement.
+NEUT8|In this next phase of our journey as a public company.
+BULL9|We will continue to invest in the innovations that help restaurants and grocers to grow their businesses to bring customers more choice than ever before and to provide riders with more work.
+BEAR10|The disappointing IPO will dent attempts to boost London over New York and Hong Kong as a destination for nascent and fast growing startups seeking to raise capital in the public markets.
+NEUT11|A proposal to allow companies like Deliveroo to take on a dual share class structure in which founders have a Golden share outweighing other investors and be brought into the premium section of the Stock Exchange and included in the Footsie 100 Index.
+BEAR12|I've been cheered by Prime Minister Boris Johnson's government, but has been met with disquiet from investors.
+NEUT13|Still, Wednesday's initial public offering will be the largest on the London Stock Exchange since Glencore's listing in 2011.
+BEAR14|The IPO for a homegrown tech company should have been a draw for investors, but some of the biggest money managers in the UK like Aberdeen Standard, Aviva Investors and LGM announced they would sit out the listing a long running campaign from a small trade union that represents deliveries.
+BEAR15|Army of Freelance drivers appears to have been heard in the boardrooms of the city of Love.
+BEAR16|And the city's financial district, the Independent Workers Union of Great Britain, has claimed that the teal clad couriers who are ubiquitous site now on streets across the UK, can be paid just $2.76.
+NEUT17|Two pounds per hour, despite deliveries claim that most make $13.70 ten pounds per hour.
+BEAR18|Labor issues were flagged as a major concern in the company's prospectus with regulatory probes over workers rights under way in the UK, in Europe, while Uber was forced to guarantee its taxi drivers a minimum wage.
+NEUT19|Holiday pay and pensions.
+BEAR20|"After the UK Supreme Court ruled in February, they were employees rather than contractors."""

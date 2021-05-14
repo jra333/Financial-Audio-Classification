@@ -1,0 +1,30 @@
+NEUT0|"""Want to read to you a tweet?"
+BULL1|de Blasio says New York City has reached the 3% testing positive ITI seven day average threshold.
+BEAR2|Unfortunately, this means public school buildings will be closed as of tomorrow, Thursday, November 19th.
+NEUT3|Out of an abundance of caution, we must fight back the 2nd wave of COVID-19 again that is New York City Mayor de Blasio Reggie I know that you cover education for us here.
+NEUT4|In addition to covering things like sneakers for Yahoo Finance, what do you think, teachers?
+NEUT5|Are thinking about all this right now.
+BEAR6|Will teachers have been frustrated for quite awhile because you're kind of in this middle situation, you don't know what to expect.
+NEUT7|And as a teacher, that's one thing you always talk about planning.
+NEUT8|You want to have your lesson plans?
+NEUT9|You want to have your supply plans, but you do not know what's going on.
+NEUT10|So I think out of abundance of caution, the city is deciding to close schools, and that's something that unions like the UFT and the FT have called for it to listen to the science and listen to the data and plan accordingly.
+BEAR11|But teachers are very frustrated because they don't know what's next.
+NEUT12|Not for next semester, but even the next few days a few weeks.
+NEUT13|Yeah, I mean it's it just seems to be flip flopping all the time, not just for the teachers, but of course for the parents who have to work and deal with childcare.
+NEUT14|And of course at the crux of all this are the kids themselves not really knowing what's going on day today I can tell you though from personal experience at the parochial schools, remain open to New York City and the archdiocese has been doing a great job.
+NEUT15|They have said, even if New York City public schools closed, they're going to keep their doors open.
+NEUT16|So it's it's sort of a tale of two schools.
+NEUT17|Reggie, right.
+NEUT18|Now I can speak at least for New York City, where you've got these Catholic schools remaining.
+NEUT19|And many of them gone to hybrid learning and the public schools.
+NEUT20|It seems like it's a day to day situation.
+NEUT21|It really is.
+NEUT22|And when you speak to the parochial school, especially the Catholic schools in New York City, they've been planning for this not only with school, but with their churches.
+NEUT23|We've seen them fight back about having churches shut down, and they say, listen, we know the social distancing policies we have, the PPE we have the sanitizer, so that's been something that the Catholic Church has been thinking about, not only with schools go as well As for their parishioners, so it's not hard to see that they might be more prepared here than the New York City school system.
+NEUT24|Yeah it is a smaller school system.
+BULL25|I'll give them that to have to oversee, but but grateful that they're able to stay open.
+NEUT26|We wish the public school folks.
+NEUT27|Well, alright.
+NEUT28|Reggie Wade.
+BULL29|"Thank you."""

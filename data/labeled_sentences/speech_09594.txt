@@ -1,0 +1,35 @@
+NEUT0|"""Marvin, first of all, what do you do with dollar right now?"
+NEUT1|You know what?
+NEUT2|I think, the dollar, the dollar weakness trend is something that is.
+BULL3|Gaining a bit of strength even though it's moved a bit, you know, I think we have to look at all the liquidity that's put in that's being put into the system and it's still making its way into it.
+BEAR4|And you know, with real yields collapsing, there's not a lot of support for the dollar, particularly around the euro where you know at least on some of the plans that they've passed.
+BULL5|Things are improving a bit.
+NEUT6|Or some of the risk assets rangebound.
+NEUT7|Yeah, you know, I think that's a that's a good way to categorize it.
+BULL8|You know valuations certainly very, very high, but they've but they've held in there and they're able to absorb a lot of the ongoing news with regard to the virus with regard to China etc etc.
+NEUT9|And you know, I do think a range bound type of market is something that we're going to look at going into the end of the summer, Marvin the bet that will really affect careers on the buy side is the shift from these seven tech glory stocks.
+NEUT10|Whatever the number is.
+NEUT11|Somebody who's kidding me?
+NEUT12|On Twitter the other day that it's six or seven hours, 9 I don't know how many it is Marvin, but this one way bet in the equity market with SPX grinding ever higher versus everything else.
+NEUT13|When do we get to the everything else?
+NEUT14|I think we need clarity on what the economy is going to support.
+NEUT15|You know certainly the amount of liquidity that's in there is making its way into the equity markets.
+NEUT16|Those bets around you know the six, seven, 1012 whatever the number is is an easy bet.
+NEUT17|There are companies that can grow in this market and that are going to be around after that.
+NEUT18|We don't know what the after that is going to support until we're there.
+NEUT19|I think it becomes difficult to judge that.
+NEUT20|Do you believe we will continue to see one day?
+NEUT21|NASDAQ next day SPX X NASDAQ.
+NEUT22|I mean, is this oscillation going to continue through the summer?
+NEUT23|Yeah, I think it does.
+NEUT24|Just because you know the commentary and you know the degree of in certainty is still as great as it was months ago.
+NEUT25|Even though were, you know, 10s of percents above you know above from a valuation perspective.
+NEUT26|So I think that that continues as we try to parse through all of this information.
+BEAR27|That's coming at us.
+NEUT28|Marvin, how much higher can gold go from here?
+NEUT29|Oh, you know what I mean?
+NEUT30|It is theoretically there.
+NEUT31|There is a limited amount of resources and it plays into a bit of the concern with inflation at some point in the future as well as monetary debasement.
+BULL32|So it can continue to go higher.
+NEUT33|I think I think it's one of those asset classes that becomes a bigger part of your asset allocation, as we kind of look beyond, you know, whatever.
+NEUT34|"Whether it's the next six months or the next year before we get clarity."""

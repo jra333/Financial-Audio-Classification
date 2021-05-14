@@ -1,0 +1,16 @@
+BEAR0|"""Bitcoin has been on a tear over the last six months, climbing almost 500% amid a bull market that's made the crypto currency a $1 trillion asset."
+BULL1|The Bitcoin price, now hovering near its all time highs of around $60,000 per Bitcoin, has soared as Wall Street Giants and companies including Elon Musk's electric car company, Tesla make Big Bets on Bitcoin now as the broader cryptocurrency market nears $2 trillion, up almost threefold since the beginning of the year.
+BEAR2|The Chief investment officer of Soros Fund Management has claimed Bitcoin is at an inflection point following a number of crypto infrastructure bets by the Jero Gay, Soros founded Asset Manager.
+BULL3|We think the whole infrastructure around crypto is really interesting and we've been making some investments into that infrastructure, and we think that is at an inflection point.
+BULL4|Soros Fund Management's Don Fitzpatrick told Bloomberg, pointing to the growth of Bitcoin and crypto exchanges, asset managers and custodians.
+NEUT5|This month, Soros Fund Management has invested in crypto data provider Luka and Bitcoin Financial services company Nyd IG.
+NEUT6|When it comes to crypto generally, I think we're at a really important moment in time.
+BEAR7|Something like Bitcoin might have stayed a fringe asset, but for the fact that we've increased money supply in the US by 25%, Fitzpatrick said, adding there's a real fear of basing of Fiat currencies, bitcoins massive rally that's taken it from under $10,000.
+NEUT8|For Bitcoin, this time last year to around $60,000.
+BULL9|Today comes amid unprecedented central bank money, printing and government stimulus measures put in place to offset the economic damage done by the coronavirus pandemic.
+BEAR10|These measures sparked fears.
+BULL11|A wave of inflation could be about to hit the US dollar and other currencies with famed investor Paul Tudor Jones setting the Bitcoin market alight when he named Bitcoin as the fastest horse to beat inflation last year.
+BEAR12|When you look at gold price action in the context of a fairly robust inflation narrative of late, it's struggled getting traction, and I think that's because Bitcoin is taking some of its fire base away, Fitzpatrick said, declining to answer when asked if she owned any Bitcoin.
+BEAR13|However, Fitzpatrick did warn that the Bitcoin inspired central bank digital currencies that are in development around the world could pose a potential threat to the adoption of Bitcoin and other cryptocurrencies, but she remains upbeat in the long term.
+NEUT14|I think it is a real threat, but I think it will be temporary.
+NEUT15|"I don't think they'll be successful in permanently destabilizing Bitcoin, Fitzpatrick added."""

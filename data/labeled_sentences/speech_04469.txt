@@ -1,0 +1,18 @@
+NEUT0|"""About a week ago, Jim Cramer did an article about Disney on his show."
+NEUT1|What follows is a short summary.
+NEUT2|Disney is one of the first box we recommend the show and it was also the very first talk I told you to buy an hold for your kids to learn how to teach to get them to understand the stock market over time.
+NEUT3|There were plenty of moments that challenge the faithful.
+NEUT4|There's an errant movie now and then, they some theme park, we just we know that and then of course the big one.
+BEAR5|The decline in ESPN subscribers.
+NEUT6|Now, if you believed in Disney, you have been amply rewarded and you know what?
+BULL7|I bet it's got even more upside.
+NEUT8|Even if you're today's phenomenal run, he goes on to provide more information about the company and talks about its new services.
+NEUT9|You can actually see a lot of business history in its graph.
+NEUT10|Each point on the graph in front of us represents one day.
+NEUT11|We see a steady growth, but then a few years ago Disney hit a rocky Patch.
+NEUT12|I suggest that this rocky Patch is important for Disney.
+BULL13|My algorithm suggests that Disney is a good company and that there isn't a huge bubble in the stock, presumably because of the previous rocky Patch.
+NEUT14|People lost hope in the company or were nervous about it and so didn't go crazy investing in it.
+BULL15|This suggests that this company could rise in value.
+BEAR16|I suggest that the main problem is that there is a very large bubble in the wider economy and that this will burst at an unpredictable time in the future.
+NEUT17|"The best thing to do with Disney is wait until the national economic bubble bursts and then consider picking this stock up at a cheaper price."""

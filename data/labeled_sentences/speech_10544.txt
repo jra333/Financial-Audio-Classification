@@ -1,0 +1,11 @@
+NEUT0|"""Alright, well let's take by the Apple stock we can see here iPods."
+BULL1|2.4% in the positive area.
+NEUT2|If we change the chart into daily chart, we can see here we got a green candle discreet candle.
+NEUT3|Just followed the big.
+NEUT4|Red canoe before it formed a.
+NEUT5|Bullish harami pattern.
+NEUT6|That means we may have a possibility to go higher from here as we can see, we have four days.
+NEUT7|Keep above the 129 twenty year midline.
+BULL8|That means here had strong support, so it's likely full.
+BULL9|Apple stock to make a consolidation in this area.
+BULL10|"Thank you."""

@@ -1,0 +1,23 @@
+NEUT0|"""Let's bring in another voice on this right now, Lindsay Piezas here she is the chief economist at Stifel, Lindsay."
+NEUT1|First of all, do you agree with Steve's assessment there that this is going to be like turning the lights back on and we're going to be getting a million jobs a month?
+NEUT2|Plus coming back in a rush?
+BULL3|I wish I could say yes, but I think it's going to be a much slower trickle as we see to Steve's point, confidence still remain under pressure, even with permission from our state, local officials to return to business.
+BEAR4|As usual, there will be somewhat of a lingering hesitancy on the consumer.
+BEAR5|Front to return to crowded movie theaters or crowded conference centers.
+NEUT6|So I don't think it's going to be as easy as flicking the switch back on.
+BULL7|It will take some time, but to the point of the data this morning we are seeing a further improvement in the jobless claims GDP steady around 4%.
+BULL8|This does support the thesis that we are taking sizable steps in the right direction, but when we look at this on a nominal basis, unemployment still up over 6% jobless claims near 700.
+BEAR9|1010 million Americans still without a position of gainful employment.
+BEAR10|5,000,000 reliance on federal unemployment assistance.
+BULL11|It is very clear that we are far from out of the Woods or the recovery is far from being complete, and in fact with that growth profile increasingly reliant on federal stimulus monetary stimulus returning to a longer run.
+NEUT12|Sustainable organic platform, I think, is going to be increasingly difficult, so I would say not only is this not a flip, the switch scenario.
+NEUT13|But it's going to be extremely bumpy getting to that sustainable organic platform years from now.
+NEUT14|Leslie, the one thing I'll say I'll take Steve's side on this, just the idea that once people get vaccinated, if we don't see a big resurgence in cases if we don't see these strains, kind of a cough.
+BEAR15|I I do think there's a huge amount of pent up consumer demand.
+NEUT16|If people get vaccinated and they feel like they want to get out there, that that's the equivalent of like ripping the band aid off.
+NEUT17|And maybe once they're back, it's not a slow pickup for them.
+BULL18|Maybe they are back in full force.
+NEUT19|I think there is pent up demand, absolutely, but to your earlier point, there are some states that never really shut down and have already begun the reopening process.
+BULL20|So again, it's going to be less of a entire flip the switch the country reopens and really pockets of different areas in the country returning to meet that pent up demand again against the backdrop of some lingering hesitancy to return to 100% business as usual.
+NEUT21|Shepard Smith here.
+NEUT22|"Thanks for watching CNBC on YouTube."""

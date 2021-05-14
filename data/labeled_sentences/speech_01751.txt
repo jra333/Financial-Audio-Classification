@@ -1,0 +1,22 @@
+NEUT0|"""PayPal."
+BULL1|Both say there is still plenty of runway for growth in electronic payments.
+NEUT2|Electronic payments only surpassed cash payments on a global basis a couple of years ago.
+BULL3|The scalable nature of the business should allow PayPal to improve its margins.
+BULL4|Overtime, Paypal's long running experience in online payments is a unique asset that is becoming more valuable.
+NEUT5|As e-commerce becomes a bigger piece of the pie.
+BEAR6|There say the separation between online and point of sale transactions is blurring and PayPal may increasingly come into competition with larger companies in the future.
+NEUT7|Alipay and we chat provide examples of how governments could favor local players and this could shut PayPal out of some emerging market opportunities.
+BEAR8|Opportunities to monetize Venmo could be limited.
+NEUT9|Analyst ratings by 85% hold 12% sell, 2% market cap 145.34 billions.
+NEUT10|Average volume 5.50 millions.
+BULL11|3M both say 3M continues to emphasize innovation and keeps competitors away with generous levels of R&D spending, which totals about 6% of net sales, the firm continues to benefit from its shared technology platforms, which is applicable to multiple use cases.
+BULL12|Technology allows 3M to charge a 10% to 30% premium for its products, but also brings down its unit costs.
+BULL13|3M is likely to profit from segments and geographies exposed to faster growing portions of global GDP.
+BULL14|Which over the long term should allow it to handily outperform the industrial Production index.
+BEAR15|There say 3:00 AM will struggle to attract and retain the best and brightest scientists and engineers as future generations will increasingly gravitate toward the technology sector.
+BEAR16|While 3M has earned returns that have doubled its cost of capital for over 25 years, the firms R&D efforts have struggled to generate additional sales.
+BEAR17|The firm faces several headwinds, including challenges in its automotive and semiconductor markets, customer inventory, destocking, and an economic slowdown in China.
+BULL18|Analyst ratings by 5% hold 84% sell 11% market cap 91.72 billion's dividend yield 3.75% average volume to .77 millions.
+NEUT19|As always, be sure to let me know your thoughts down in the comments.
+NEUT20|Be sure to smash that like button.
+BULL21|"Thank you so much for tuning in and I will catch you in the next video."""

@@ -1,0 +1,24 @@
+BULL0|"""Foxconn says it's looking to get feet in the EV market."
+NEUT1|That's electric vehicles.
+NEUT2|Dan Hally is with us now.
+NEUT3|Dan, what does this move by Fox coming for Apple?
+NEUT4|It shouldn't be much for Apple.
+NEUT5|They really, you know.
+BULL6|Obviously, Foxconn wants to continue to work with Apple going forward there, one of their largest suppliers.
+NEUT7|So I don't think they would want to tarnish that relationship at all.
+NEUT8|This really is all about Foxconn trying to expand outside of small electronic manufacturing and go big time there.
+NEUT9|To be or build out about 10% of the global EV market.
+NEUT10|They want to be the company that does that they're working on.
+NEUT11|Solid form battery of their own that should be ready by 2024, so this is something that they are going to do outside of simply, you know, just working with Apple and having Apple?
+NEUT12|Is there one of their biggest partners?
+BULL13|But it should be good news for Foxconn itself.
+NEUT14|Just 'cause it's going to be, you know, a bigger part of the EV world.
+NEUT15|And then Dan iPhone orders pre-orders begin today.
+BULL16|Yeah, you're gonna be able to order now.
+NEUT17|Some of them will be available next Friday and then pre-orders for the Mini and the Pro Max should be coming up shortly after that.
+NEUT18|An available later in November.
+BULL19|These are some big improvements.
+NEUT20|These phones people will be getting their first 5G iPhones next week, so we'll have to see how people feel about 5G and whether or not they really do see the kind of improvements that carriers have promised.
+NEUT21|But, you know, I've said it before.
+NEUT22|It's not gonna be night and day right out of the box.
+NEUT23|"It's going to take a little while for 5G to really take off."""

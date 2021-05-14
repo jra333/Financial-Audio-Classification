@@ -1,0 +1,7 @@
+BEAR0|"""One of the most influential voices that pushed GameStop in the Wallstreetbets Reddit forum has been sued for securities fraud."
+NEUT1|The proposed class action suit targets Keith Gill, who's on line nickname was Roaring Print Kitty.
+BEAR2|The suit claims he misrepresented himself as an amateur investor and profited by artificially inflating the price of the stock is not.
+NEUT3|Then no response yet from Gil.
+NEUT4|The biggest story is the moment they happen from around the globe.
+NEUT5|Subscribe to Bloomberg.
+NEUT6|"Quicktake now for insight in an instant."""

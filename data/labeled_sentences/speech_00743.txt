@@ -1,0 +1,29 @@
+NEUT0|"""Apple just became the world's first trillion dollar company."
+NEUT1|Here's how it got there.
+NEUT2|back in December 12, 1980, Apple first listed on the stock market, selling 4.6 million shares for 22 bucks apiece.
+NEUT3|In other words, it was worth 110 thousandth of what it is today.
+BEAR4|Things went well for awhile, but by 1985, Steve Jobs was forced out by CEO John Sculley in a power struggle.
+BEAR5|10 years later, the company's sales peaked at just over $11 billion and started to slump.
+BEAR6|Is competition from Microsoft and other companies bid into its share.
+NEUT7|Two years later, Steve Jobs was brought back in the company bought his next computer company.
+NEUT8|The turn around wasn't immediate for its share price though.
+NEUT9|First, this had to happen iMac.
+NEUT10|I book iPod.
+NEUT11|It was in 2001 that Steve Jobs introduced one of the company's most iconic and successful products ever.
+BULL12|The iPod, a couple of years later, the company expanded into music with the launch of its iTunes Store and its valuation began climbing.
+NEUT13|Then comes the big one on iPod.
+NEUT14|Phone.
+NEUT15|Are you getting it?
+BULL16|The iPhone was introduced on January 9th, 2007 and it has been the key to the company's rise to a trillion dollars in market value.
+BULL17|But we'll get back to that in a second and we call it three years later came the iPad that was Steve Jobs's last major product announcement before his retirement and death a year later in 2011, despite concerns about how the company would fare without its founder, Steve Jobs, the share price continue to rise for a while.
+BEAR18|That was until the iPad and the iPhone began to lose their shine.
+BULL19|So in September 2014, the company launched its first two oversized phones, the iPhone 6 and the iPhone 6 Plus, and they were a big big hit, including in China.
+BULL20|Sales rose to $155 billion for the devices, and the shares continued their climb.
+BEAR21|Then in 2016 came another dip for the share price when quarterly profit dipped by 27%.
+BULL22|After a slowdown in iPhone sales, but then, just like in 2014, a new iPhone wrote in to save the day, the iPhone 10.
+BULL23|It lifted the average selling price of iPhones to a new record and also the share price.
+BULL24|Now let's jump to just three months ago with concerns mounting about how well the iPhone 10 was selling.
+BULL25|The company announced a massive $100 billion buyback program.
+BULL26|Three months later, the company reported excellent third quarter results and now with excitement mounting over the news devices to be unveiled in September, the company's market value has crossed the trillion dollar mark.
+BULL27|But excitement about new phones can always backfire, so investors will be looking to what else Apple has to propel its value past a trillion dollars.
+NEUT28|"Maybe Apple has one more thing waiting for us."""

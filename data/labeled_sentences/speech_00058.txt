@@ -1,0 +1,11 @@
+NEUT0|"""Here's my new analysis."
+NEUT1|In 60 seconds.
+NEUT2|They're currently trading at $43.35.
+NEUT3|Made you have a very pivotal week.
+NEUT4|This upcoming week with the short term price, target and resistance level at $45.30.
+BULL5|If they do break in close above that level, I could see them running back up to $54.40 in the coming days and weeks.
+BEAR6|If not, they could fall back down to that $38.00 mark if they break below that then the absolute bottom looks to be at about $31.80, but as of now guys I'm going to be picking up the November 19th of 2021 call option.
+NEUT7|I'll be 50.
+NEUT8|Strike is currently worth $925 per contract and.
+BULL9|I do believe now is a good time to start your position.
+NEUT10|"You can always add an average down if needed on those support lines, but other than that guys, that's about it and good luck."""

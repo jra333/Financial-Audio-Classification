@@ -1,0 +1,10 @@
+BULL0|"""RP is currently going up."
+NEUT1|This is nothing folks you have not seen anything yet.
+NEUT2|SRP should be standard.
+NEUT3|A $1.00 plus coin that just makes sense if you know the capability of Ripple, an SRP and what they've done with that coin.
+NEUT4|It should easily just be chilling at $1.20.
+NEUT5|Kind of like where Cardano Zella dollar $20.50 easily so we haven't seen nothing yet.
+NEUT6|Hopefully we get a new standard price for XRP so that whenever you log on to Coinmarketcap you just see.
+NEUT7|Oh yeah, that's SRP.
+NEUT8|It's like a $1.00 point.
+NEUT9|"Oh yeah, like that type of ****."""

@@ -1,0 +1,40 @@
+BEAR0|"""The major stock market averages maybe down more than 1% each year."
+NEUT1|To kick off the new year, but not the electric car makers Tesla and Nio?
+BULL2|Nope, they are rising above the sell off today.
+BULL3|Anne rallying on some pretty impressive delivery numbers.
+NEUT4|Yahoo Finance's Emily McCormick has been following this one for us.
+NEUT5|She joins us now, Emily.
+BULL6|Well, Alexis taking a look here at both Neil and Tesla really handily beating their previous records when it comes to their December 4th quarter as well as their annual deliveries.
+NEUT7|And I'll start off with Neo here because we really are seeing this stock pop in the intraday session.
+BULL8|Really bucking the trend here of the broader market and those American depositary receipts up 9% intraday.
+NEUT9|Now taking a look here at Neos deliveries for December.
+BULL10|Those coming in at 7007 that was an increase of 121% over last year and this brought total deliveries.
+BULL11|In 2020, to 43,728 that was a jump of 113% year over year.
+BULL12|Now I also want to highlight that Neil isn't the only a Chinese based a car company in electric vehicle company specifically that has been topping expectations recently.
+BULL13|We also saw X Peng as well as Lee Auto handily topped Wall Street's expectations when it came to their delivery results as well for December.
+NEUT14|So really, a testament here to the demand story that exists in China, which as we know.
+NEUT15|Is the largest market here for electric vehicle companies now taking a look here at Tesla that company delivering a total of 400 and 99,550 vehicles for the full year?
+BEAR16|That was just really trivially short of the half a million vehicles that Wall Street had really been homing in on up again.
+BEAR17|Really amounts to a rounding error here.
+BULL18|Still up 36% year over year from be about 300 and 67,500 added, reported last year.
+NEUT19|And of these, more than 180,000 occur during the fourth quarter alone.
+BULL20|So again, a really strong finish here for Tesla and really speaks to the momentum that this company in particular is heading into the new year with after a more than 700% stock gain that we saw in 2020 Alexis.
+NEUT21|I want to get back to Neo for a minute because I also know they launched their own used car service and also a trading platform.
+NEUT22|What can you tell us about that?
+NEUT23|That's right, Alexa.
+NEUT24|So some of these stock gains that we are seeing for NEO today.
+NEUT25|Coming on the heels of this announcement as well, which came out yesterday.
+NEUT26|Neil, essentially saying that it plans to invest the equivalent of more than $450 million into this service over the next five years.
+NEUT27|That service, of course, being that knew you scarred platform.
+BULL28|So really, Neo is doubling down here, really trying to capitalize on this demand that we're seeing in the electric vehicle market.
+NEUT29|An if we think about what meal has been doing over the past couple of months.
+NEUT30|And it also really been.
+BULL31|Rolling out a liquidity injection that we saw over the summer.
+NEUT32|It had a battery subscription program that had just announced in the past couple of months and said that it does plan to expand into Europe as well.
+NEUT33|And remember that Tesla is also building out its giga factory near Berlin, so clearly we are seeing these electric vehicle makers in the early innings of this EV revolution.
+NEUT34|Really trying to make this a land grab and take up as much market share as they can.
+BULL35|Again in these early stages.
+NEUT36|So I think that really speaks to what we saw here in Neo's latest delivery figures as well as in these latest announcements in new services.
+BULL37|Alexis made nice start to the year for those EV related companies.
+NEUT38|Emily McCormack.
+BULL39|"Thank you."""

@@ -1,0 +1,21 @@
+BEAR0|"""Well, Facebook may be about to take a very hard fall."
+BEAR1|The tech giant, an one of the world's richest companies could be hit with the worst single day market wipeout ever.
+NEUT2|Scott Peterson is following this story for us.
+NEUT3|So Scott, really interesting.
+NEUT4|What is actually going on here?
+BEAR5|Well, they reported their earnings after hours last night, so we're seeing a precipitous decline in the stock this morning down over 20%.
+BEAR6|Which means if that holds up for the 9:30 opening, we could see a loss of about $120 billion in the stock price of Facebook, and that would be a record.
+NEUT7|And to put that into context.
+NEUT8|Take a look at this graph here.
+BEAR9|On the left there that is the Facebook potential decline of up to 120 or even $150 billion and the next just to the right of it Intel back in the dark Days of 2001 and the.com bust dropped only 91 billion and we've got Microsoft Apple and Exxon rounding up a fraction of what we could see this morning, so this is a big potential record drop for any single U.S. stock ever in the history of the stock market.
+NEUT10|That's hard to believe.
+NEUT11|So why are investors?
+NEUT12|Well, a lot of it has to do with the industry is changing and Facebook and Amazon Netflix Google all have so much personal information on all of us that security costs are becoming a real factor that they haven't accounted for before.
+NEUT13|They spent $7 billion.
+NEUT14|This is Facebook, just in the last quarter alone.
+BULL15|That's up 50% from the month before or the quarter before.
+NEUT16|And when you look at Cambridge Analytica, when you look at the Russian hacking of the 2016 elections, we look at the privacy concerns the industry is waking up governments.
+NEUT17|Waking up, Mark Zuckerberg had to testify before Congress.
+NEUT18|The EU has come out with restrictions and so it's in this instance, Facebook is spending this much more money and security concerns before they get restricted by government before they get potential fines.
+NEUT19|And so there's a new reality.
+NEUT20|"Waking up this morning that how much information, personal information on all of us that these big companies have in Facebook is changing gears very rapidly."""

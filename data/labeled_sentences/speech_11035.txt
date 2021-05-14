@@ -1,0 +1,24 @@
+NEUT0|"""Neo stock analysis and predictions, February 12th."
+NEUT1|In today's NEO stock analysis and predictions, how buying NIO dips helps investors?
+NEUT2|Alright, let's get started.
+BULL3|One of the reasons that buying Nio's dips is smart for the future is that NIO has established that it has fine tuned its business model in 2020.
+NEUT4|In analysts view, it's fair to extrapolate a long term volume CAGR of 50% into NIO due to the company's easy access to equity.
+BEAR5|After all, NIO has exceeded analyst expectations in the face of a pandemic, Tesla, cutting its prices and a slew of competition.
+BULL6|Analysts expect an iota keep tinkering with its increasing production to eke out a 50% long term volume.
+BULL7|See AGR over the next five years, analysts think NIO will need to add about a total of 4,000,000 vehicles production capacity by 2025.
+BULL8|Given the cash flow generation from the business coupled with easy access to equity capital ability to fund this level of volume growth is not a significant constraint.
+NEUT9|The real constraint is management bandwidth.
+BULL10|To execute capacity expansion at this breakneck pace.
+BULL11|Having said this, analysts realistically see an IO hitting twenty million annual vehicles deliveries mark by 20.
+BULL12|Thirty 2021 is turning out to be a year of upwards trends for NIO in analysts view, there is hardly A cause for concern as nio's business model, which has reached critical mass level in terms of its ability to generate a huge amount of cash flows with rising capacity utilization.
+BULL13|Unleashing operating leverage ample internal cash generation, and easy access to equity.
+NEUT14|Market means that the only constraint to nio's growth is management bandwidth.
+NEUT15|An iOS great business at a fair price is superior to any fair business at a great price.
+BULL16|Investors should take advantage of the dip to gain entry to this long term growth play.
+NEUT17|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT18|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of anios.
+NEUT19|Stocks and predictions.
+NEUT20|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL21|We'd really appreciate it.
+NEUT22|Are you still watching and want more?
+NEUT23|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

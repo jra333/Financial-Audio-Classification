@@ -1,0 +1,18 @@
+NEUT0|"""What's up guys?"
+NEUT1|This might be crypto here for another one minute crypto video.
+NEUT2|Make sure to like and subscribe if you want to win that Vechain giveaway.
+NEUT3|So Visa chooses athyrium to settle payments over Ripple X RP.
+NEUT4|I'm super confused.
+NEUT5|So Visa said that it will allow the US DC cryptocurrency to settle transaction on its payments network.
+NEUT6|Now all of this is great for adoption in cryptocurrency, but it's got a lot of people asking why not XRP now a couple years ago Visa.
+NEUT7|Quired earthport, which is a cross border automatic clearinghouse for payments, and one of the biggest high profile banks, actually use Ripple, will Santander in the UK, which was powered by Earthport.
+NEUT8|Now just three years ago, Visa paid $251 million to acquire earthworks.
+NEUT9|So we're all wondering why not use SRP and earthport to settle visa payments?
+NEUT10|I mean, when it comes down to it, you bought a company to help avoid some of the costs when it comes to cross border payments and to help speed up the payment process.
+NEUT11|Well, as we all know, there's continued debate on whether XRP is a security and they're being sued by the SEC, so this lawsuit with the SEC could have been a major blow to XRP in so many ways, including visa not settling payments on the XRP Ledger and deciding to go with Ethereum Now, Visa told press outlets that it launched a pilot program with payment in Crypto platformcrypto.com.
+NEUT12|So Visa's latest step will use the Ethereum blockchain which strips out the need to convert digital coins.
+NEUT13|Into any traditional money in order for the transactions to be settled.
+NEUT14|So basically when you're paying for your coffee and you're using your card, you will use Ethereum and it will be settled in real time.
+NEUT15|Adoption is going to be people using their credit cards, not even knowing that is settling in USD C or cryptocurrency.
+NEUT16|I might be crypto.
+NEUT17|"Make sure to like the video down below if you want to be a part of our Vechain giveaway."""

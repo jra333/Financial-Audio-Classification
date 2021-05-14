@@ -1,0 +1,21 @@
+BULL0|"""You may have noticed China's in the news in a big way this week."
+BEAR1|That's mostly because of the market turmoil that's been rocketing around the world know particularly in the US, alot of that's being blamed on poor economic performance in China and a badly faltering Chinese stock market.
+NEUT2|But get used to it.
+NEUT3|This is going to be a fall of big Chinese news you're having, for example, a presidential visit presidential.
+NEUT4|She is going to be here in September to visit the White House.
+NEUT5|That's going to be a big deal.
+NEUT6|National Security Advisor Susan Rice is in Beijing at the end of this week to lay the groundwork for that.
+NEUT7|It's that important that has to be prepared carefully.
+NEUT8|Before the economic upheaval that was going to be a visit dominated by a conversation about climate change, that's still going to be on the agenda.
+NEUT9|But you're also going to have the economic problems of the hour are going to be on the agenda as well.
+NEUT10|Climate change as well, security issues, and particularly the tensions over Chinese performances, Chinese actions in the South China Sea.
+NEUT11|So that's going to be there.
+BEAR12|I think all of that is probably going to make China a bit of a pinata in the presidential campaign.
+NEUT13|Starting in the fall and leading through the primaries next year.
+NEUT14|Lots of Republicans are going to be doing China bashing.
+NEUT15|You saw some of that begin this week already.
+NEUT16|And there is going to be at the end of the year.
+BULL17|The potential for a place of US Chinese cooperation on climate change because there's a global climate change conference in Paris at the end of the year, President Obama and President Xi of China have already come to some general agreements about how they might jointly approach that.
+BULL18|It's very important to the US to have China move forward on climate change.
+BEAR19|If President Obama is going to get the US to move forward on climate change, so China is going to be in the news, a lot started in a bad way this week because of the economic mess.
+BULL20|"But it's going to continue through the fall no matter what."""

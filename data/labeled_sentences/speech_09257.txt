@@ -1,0 +1,22 @@
+BULL0|"""A recently released research paper from Bloomberg has painted a positive picture for Bitcoin heading into 2020."
+BULL1|The key takeaways being that the major cryptocurrency should top $10,000 soon and that it will also follow a similar path to gold, which is in an upward trend.
+BEAR2|Currently, Bloomberg's Bitcoin outlook for next year has highlighted adoption of falling supply and tether's influence on the market.
+BULL3|All is positives for the price going ahead, more so with only a few weeks to go.
+BULL4|The prediction is that if Bitcoin closes 2019 at $6500, support tilts favorably for 2020.
+NEUT5|Just a matter of time for Bitcoin.
+BULL6|$10,000 has always been a critical price point for Bitcoin, especially considering it is the halfway point to bitcoin's all time high of approximately $20,000, according to the Bloomberg Research Paper, this level will soon be reached again.
+NEUT7|It concludes that 2019 was.
+BULL8|Part of its transition toward the crypto market version of gold, the maturation process should continue, notably, as volatility declines.
+NEUT9|Like gold, Bitcoin is retracing a bear market, while most of its brethren old coins have increasing beaters.
+BULL10|On the downside for Bitcoin, we see $6500 as good support and $10,000 as initial resistance in 2020.
+NEUT11|The research also looks deeper into the gold market.
+BULL12|With this perceived correlation with cryptocurrency, gold is according to the report on a good foundation and up over the last decade of about 30%.
+BULL13|In fact, they even correlate the resurgence of gold back to the US Federal Reserve rate hike of 2015, and Bitcoin has also seen boosts when there has been financial uncertainty.
+NEUT14|The importance of tether interesting Lee.
+NEUT15|The controversial stable coin tether is also set to play a big role in the advancement of Bitcoin in the coming years, according to the report.
+BULL16|The reason for this is that Tether has the highest daily volume across the market due to its use as a currency adds the report.
+BEAR17|This is negative ramifications for most crypto assets masquerading as currencies.
+BULL18|However, because Bloomberg sees Bitcoin as the only cryptocurrency that is equivalent to gold tethers, advancement should promote and support bitcoins growth in the future.
+BULL19|Of course, it is impossible to predict what Bitcoin will do in the next year, but the general sentiment is positive.
+BULL20|The mining reward having further adoption, and even these smaller indicators brought up by Bloomberg all point to a year of improvement in 2020.
+NEUT21|"Images courtesy of Twitter Shutterstock Dot for more on this story, visit the news article link."""

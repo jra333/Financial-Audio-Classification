@@ -1,0 +1,24 @@
+NEUT0|"""Tight is the season look."
+NEUT1|It's not just higher cost.
+BEAR2|It's an epic shortage of homes for sale that cause passing pending home sales in February to drop nearly 11% from January.
+BEAR3|They were even slightly lower compared with a year ago.
+NEUT4|Pending sales measures signed contract.
+BEAR5|So people out shopping during the month when mortgage rates did climb pretty sharply, but the Realtors are blaming these weak sales mostly on supply.
+NEUT6|There were just one point.
+BEAR7|3,000,000 homes for sale at the end of February and nearly 30% decline from last year.
+BEAR8|That's the largest annual drop.
+BEAR9|Ever and the lowest supply ever.
+BEAR10|Sales are now varying dramatically by price Point because supply is so lean on the low end and more plentiful on the higher end.
+BEAR11|But the Realtors, chief economist Lawrence Yun, notes that now even homes priced between 500,000 and a million are starting to see the same low inventory problems.
+BEAR12|Sellers are usually most busy this time of year, but they were actually 20% fewer homes newly listed this March than last March.
+BEAR13|People are probably afraid that if they sell their home too quickly, they just won't be able to find anything else.
+NEUT14|To buy back to you guys, do people just not want to move?
+NEUT15|I mean is that?
+NEUT16|Is it simply that Diana?
+NEUT17|Well, it's the fear of not finding something else that they can afford.
+NEUT18|It's also still that fear of not particularly wanting people walking through their houses.
+NEUT19|You know Cove, it isn't over yet, right?
+NEUT20|And it's also just, you know, they don't know where to price it at this point.
+BULL21|Yeah, fascinating stuff, Diana, thanks.
+NEUT22|Shepard Smith here.
+NEUT23|"Thanks for watching CNBC on YouTube."""

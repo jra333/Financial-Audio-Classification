@@ -1,0 +1,27 @@
+NEUT0|"""A lot of people feel that the arm deal would be so fabulous for you, but if it doesn't happen well, you know what it's a step back."
+NEUT1|For NVIDIA, you assured us again last question that you believe in ARM, but do I really have to feel like if ARM doesn't get done, you can own the stock of NVIDIA?
+NEUT2|And it is going to be huge no matter what, and so the the growth opportunity ahead of us for artificial intelligence.
+NEUT3|Autonomous vehicles.
+NEUT4|Manufacturing robotics industrial robotics.
+NEUT5|5G edge.
+BULL6|Those those those applications are going to are going to make us a very large company and I think I think our growth project trajectory is is a very exciting.
+BULL7|We expect data Center to continue to grow.
+NEUT8|We expect it to be a great growth year for data center and so so all of that is independent of an however.
+NEUT9|Arms, as you know, you know that's the most popular CPU in the world.
+NEUT10|It is is the CPU instruction set that that that hyper scalars and mobile device companies and PC companies are really excited about an and we were so fortunate that Moss on it as SoftBank really wanted to put it in a good place.
+NEUT11|And he thought that in video would be the perfect host for for this amazing company.
+BULL12|And so we're going to be able to inject.
+BULL13|So much exciting technology and so much energy engineering scale into arm to accelerate their road map, which the ecosystem is going to love.
+NEUT14|Number one they love it.
+NEUT15|#2 #2.
+BULL16|We're going to be able to bring artificial intelligence capabilities and the entire data center scale, computing peripherals and all of the software developers that we work so closely with.
+NEUT17|To this to this platform so well.
+BULL18|So I think we're going to get this deal done.
+BULL19|I'm very confident that and the the progress is great.
+BULL20|It's going as we expected, and we're going to get it done.
+NEUT21|Don't miss a second of mad money.
+NEUT22|Follow at Jim Cramer on Twitter.
+NEUT23|Have a question?
+NEUT24|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

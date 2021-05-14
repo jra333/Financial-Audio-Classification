@@ -1,0 +1,17 @@
+BEAR0|"""George's new election Bill is signed into law, but that's just the start legislatures in 47 states are considering voting bills that the nonpartisan Brennan Center for Justice deems restrictive 49 bills in Texas alone, where some of that state's biggest companies are joining the business backlash that began with Major League Baseball in Georgia."
+NEUT1|From Dallas based American Airlines as a Texas based business, we must stand up for the rights of our team members and customers who call Texas home.
+BULL2|And honor the sacrifices made by generations of Americans to protect and expand the right to vote from Texas entrepreneur and Dell Technology CEO Michael Dell.
+NEUT3|Free, fair, equitable access to voting is the foundation of American democracy.
+BEAR4|But Republican leaders say the companies have it all wrong.
+BEAR5|Senate Minority Leader Mitch McConnell hitting back in language he might previously have reserved for athletes or entertainers advised to the corporate CEOs of America's to stay out of politics.
+BEAR6|Don't pick sides in these big fights on CNBC, Arkansas Senator Tom Cotton accused the CEOs of running scared.
+BEAR7|I think they're afraid of left wing attacks and they're afraid of being attacked on cable news.
+BEAR8|They may also be afraid of losing business with some calling for a boycott of the Georgia companies that didn't speak out sooner.
+NEUT9|These corporations did not speak out publicly or think of public position on SB 202 before it passed.
+NEUT10|Still unclear how far corporate America is likely to go with this beyond the words.
+NEUT11|So far the only entity to actually take its business elsewhere is Major League Baseball.
+BEAR12|There's also this a report from the watchdog group Public Citizen which says many of the state legislators behind these measures are among the biggest recipients of corporate money, including from companies speaking out against the measures, like AT&T.
+NEUT13|Also a big donor, according to the report, our parent company, Comcast, which declined to comment on the Public Citizen report but said in a statement that voting is fundamental to our democracy.
+NEUT14|And efforts to limit or impede access to it are not consistent with our values, chefs.
+NEUT15|Shepard Smith here.
+NEUT16|"Thanks for watching CNBC on YouTube."""

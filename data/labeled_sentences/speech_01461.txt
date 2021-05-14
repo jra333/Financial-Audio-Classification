@@ -1,0 +1,12 @@
+NEUT0|"""Hi, this is color of sublime trading and this is a short video analysis for Warren Buffett's company Berkshire Hathaway."
+BULL1|If we look first at the monthly timeframe, we can see that prices overall in a nice strong uptrend.
+BEAR2|This is last year's high and as you can see price is trading above this level here.
+NEUT3|Going over to the weekly time frame price is above the 50 simple moving average and also above the 200 simple moving average.
+BULL4|Here we can see how we had a deep move to the downside price found support around the 50 simple moving average error before continuing to the upside, even gapping up along the way.
+NEUT5|If we just go down to the daily time frame now, we can see that prices above the 50 simple moving average and also the 200 simple moving average.
+NEUT6|And this is the deep move we saw on the weekly time frame.
+NEUT7|I'm just going to draw in a resistance line here, so we have a resistance here as we can see price moves along here broke through resistance, went back down below it, them eventually move back above this area of resistance if we just zoom in, we see that prices now eventually broken this.
+BULL8|Previous autumn high we can look for long opportunities.
+BULL9|So Berkshire Hathaway still trending well, producing Breakers offering us plenty of opportunities to enter trades.
+NEUT10|Don't forget to subscribe and click on the link for our free Facebook Group.
+NEUT11|"We can catch all of our analysis."""

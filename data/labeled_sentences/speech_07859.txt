@@ -1,0 +1,13 @@
+NEUT0|"""Here's my weekly portfolio update."
+NEUT1|I'm no longer using margin, just 100% invested now over hedge.
+NEUT2|I want my head to an Aug expiration 330, strike my position from biggest to smallest.
+NEUT3|Apple is my biggest now.
+NEUT4|Apple.
+NEUT5|2nd is smelly.
+NEUT6|Dirt is trade desk for for Tesla 5th Lulu.
+BULL7|An success Netflix.
+NEUT8|The knock FA firm Crowd Strike Coupon MasterCard Civ.
+NEUT9|Pat and chewy.
+NEUT10|Zoom.
+NEUT11|PayPal OK Snow by the window.
+NEUT12|"AI pmem pen."""

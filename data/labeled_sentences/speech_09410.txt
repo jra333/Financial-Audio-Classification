@@ -1,0 +1,20 @@
+NEUT0|"""Well, let's take a look at where shares of Tesla are, because on the same thread it seems like the Chinese government may be using a little bit soft power to have some influence on U.S. companies."
+BEAR1|Shares of Tesla down right now, although they're off their losses early in the morning, around 3%.
+BEAR2|The report from the Wall Street Journal saying that the Chinese government will restrict the use of Tesla vehicles by military staff and employees of state owned companies and reports say that there was a government security review of Tesla cars and concerns over recording images through.
+NEUT3|The vehicles cameras, Jenn, that's a big deal for a company that's pretty substantial.
+NEUT4|Part of the stock index, especially now.
+BULL5|Yeah, I mean it's a huge deal, and Tesla's really been soaring.
+BEAR6|Frankly, on the success that it's been having in China with the factory and sales there and this really Harkins back, I think to what we saw during the Trump administration, there was a lot of collateral damage that we were talking about of companies getting caught in the middle.
+BEAR7|Either of tariffs or as you said, sort of this soft campaign, what what could be happening and that could be is can sometimes hurt your stack just as much as what actually happens.
+NEUT8|So for Tesla, which has been seen as really this diamond in China, something that it can really play to its strengths, this is something that I think can raise a lot of eyebrows that we should be watching here.
+NEUT9|Tesla, as you said.
+BULL10|I mean it has come off the lows today, but certainly something to watch as this heats up.
+NEUT11|You know, and you do wonder to what degree Jen this is just kind of lip service because the first thing I thought of when I read this was why me.
+NEUT12|How many Chinese government officials own Teslas anyway, right?
+NEUT13|I mean, maybe it's a very small share.
+BEAR14|Maybe this impacts one or two people in China right now.
+NEUT15|But of course I think the larger question here is that signaling that the Chinese government is sending not just to the United States government, but to the US private sector as well, it brings back a lot of memories of all the times that U.S. government kind of sanctions on Chinese companies here in the United States were used as part of those.
+NEUT16|Negotiating tactics under the Trump administration, it seems like very much still the same story under the administration as well.
+NEUT17|And I think that's really important to point out the national security interests, because that's different than the price of your TV is going to go up.
+NEUT18|That's different than the consumer part, and when they go to when they go to that, always pay attention because it's very hard to refute those.
+BULL19|"So a good point there, but."""

@@ -1,0 +1,15 @@
+BEAR0|"""The tremendous crowds which you see gathered outside the Stock Exchange are due to the greatest crash in the history of the New York Stock Exchange and market prices."
+NEUT1|The Wall Street panic, in my opinion, is over.
+BEAR2|It had to come stock speculation had become crazy.
+NEUT3|Like an appendix operation.
+NEUT4|It's a good thing to have it over with.
+NEUT5|I personally have been buying stocks.
+NEUT6|Since the crash set in on Tuesday.
+NEUT7|And I have been urging everybody else.
+NEUT8|Who can do so to buy without going into debt?
+NEUT9|Every time America has had a panic in the past.
+NEUT10|It has paid people to buy stocks in the midst of the excitement.
+BEAR11|I am absolutely confident that stocks purchased during this panic and we've had a panic.
+BULL12|Make no mistake about that will also yield very generous profits.
+NEUT13|Now is the time to buy.
+BULL14|"I hope you are plenty of tall to wait in and buy."""

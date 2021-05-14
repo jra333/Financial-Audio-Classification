@@ -1,0 +1,9 @@
+BEAR0|"""This week, CNBC releases the Disruptor 50 list, companies shaking up their space."
+NEUT1|Julia Borsten reports on one company tackling the shipping and warehouse business.
+BULL2|The explosion of e-commerce means demand for warehouse automation is projected to top $25 billion in five years, double the size of the market back in 2018 at a batiks is poised to capture that growth.
+NEUT3|Its robotic warehousing and fulfillment system shrinks the footprint of a massive warehouse into an office building by making storage vertical, and it uses machine learning to determine where to store items and what to stock our combinat nation of unique high density storage and 3D robotics allows us to take a warehouse and put it into 15% of the space of traditional systems.
+BEAR4|Nordstroms partnered with Antibiotics in December using its supply chain technology to slash its warehouse space and bring fulfillment closer to the consumer.
+BULL5|The company aims to cut costs and carbon footprint for nordstroms, along with companies distributing food to restaurants, auto parts, beauty supplies, an footwear.
+NEUT6|Coming out of the backside of Covid, we now ourselves are looking at growth numbers that we were predicting for four or five years in the future.
+BULL7|In fact, inbound requests from retailers grew by four times since coronavirus and now at Ebonics is in talks with a number of grocery delivery companies, as it looks to help retailers keep up with Amazon's speedy delivery.
+NEUT8|"Julia Borsten CNBC."""

@@ -1,0 +1,16 @@
+NEUT0|"""Hello, let's take a look at the Apple stock."
+BEAR1|We can see Apple had a negative day during the most of the time and then it managed to bounce back to the positive area.
+BEAR2|Till the closing the market so it's a struggle sign for Apple stock.
+NEUT3|If we change chart into daily chart.
+NEUT4|I can see here we got another small red candle.
+NEUT5|This red candle means there's still a lot of buying power to support the price, but it's not.
+BULL6|Strong enough because we got a very small low light here.
+NEUT7|But as long as we keep the above.
+NEUT8|The top of this condo.
+NEUT9|The prices.
+BULL10|121.99 as long as we keep above this level, we are still in uptrend.
+NEUT11|We can see here already got 3 candles.
+NEUT12|Above this level, so it's still a construct centimeter.
+NEUT13|So let's wait to see what will happen because the volume is too shy.
+NEUT14|I don't think the advance will be powerful, it will be mild.
+BULL15|"Thank you."""

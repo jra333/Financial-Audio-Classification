@@ -1,0 +1,11 @@
+BULL0|"""Disney shares soared nearly 14% to a new high."
+NEUT1|Why is that?
+NEUT2|It is all about Disney.
+BULL3|Plus market expansion.
+NEUT4|Is it time to buy Disney stock right now?
+NEUT5|Not yet.
+NEUT6|You should dollar cost averaging from $150 mark and below.
+NEUT7|Why should buy it?
+NEUT8|2 main reasons.
+NEUT9|First of all, Disney Plus and the second one upcoming that's in and right now you have to do only one thing.
+NEUT10|"Subscribe to my channel."""

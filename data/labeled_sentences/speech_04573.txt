@@ -1,0 +1,29 @@
+NEUT0|"""Answer Yes or no will suffice."
+NEUT1|Do you own any Bitcoin?
+NEUT2|Try and do a transaction over $100,000 in Bitcoin.
+NEUT3|I tried to do some real estate in Switzerland with it.
+NEUT4|Once it is a useless currency, it is a useless currency.
+NEUT5|That's what I believe.
+NEUT6|I mean, look, I'm you know I realized people have different opinions, but to me it's garbage.
+NEUT7|There is no evidence that it has a reserve reverse correlation to correcting markets.
+NEUT8|Last March, if you own Bitcoin, you got slot and you have to somehow hedge the risk of Bitcoin.
+NEUT9|That means it's not a real currency.
+NEUT10|That means the receiver is not willing to take the risk of the volatility it has.
+NEUT11|It's worthless, I believe them.
+NEUT12|OK, speaking truth and where's the long term value?
+NEUT13|Just this this idea that they're going to cut the number of units in half senses such as scam like that's just totally BS.
+NEUT14|Where is the intrinsic value inherent in deploying real capital?
+NEUT15|Let's talk real money here and putting it into Bitcoin as a storage of value.
+NEUT16|It's not even a single cell amoeba.
+NEUT17|If you took all of the market cap of Bitcoin, totally irrelevant to me, why?
+NEUT18|This, which is basically a digital game, so I look at it has any intrinsic value and watch what happens one day and I'm waiting for this one.
+NEUT19|I'm waiting for the day that one of these regulators comes down **** ** Bitcoin.
+NEUT20|Grown men are going to weep.
+BEAR21|When that happens, you'll never see a loss of capital like that every.
+NEUT22|Yes.
+NEUT23|Mini he sold.
+BULL24|From Pete I'm glad I have a lot of dry powder.
+BULL25|I'm ready to go back and re deploy an I'm looking for ideas and I just feel invigorated and very optimistic that what's coming in the next couple of years is going to be really, really interesting and I'm ready.
+NEUT26|I'm ready to invest, take 1%, put in Bitcoin.
+BULL27|Will be very happy my friend.
+BULL28|"I can't, I can't argue with you, but I gave you a lot."""

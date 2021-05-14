@@ -1,0 +1,31 @@
+BULL0|"""Constance, your take wow."
+NEUT1|Yeah, that's it.
+BULL2|I mean, it's a strong report.
+NEUT3|I'm just looking at the BLS website to dig in deeper, but I mean this is exactly, I think what the Fed is looking for.
+NEUT4|It confirms that that pause.
+BEAR5|I think it'll probably put some upward pressure on rates here, but certainly from an inflationary POV we're not still not seeing that demand pull on wages, and I think until we see that it's reasonable to expect the Fed to just kind of be on hold and monitor the situation.
+NEUT6|So absolutely I think that this endorses the Fed pause for sure.
+NEUT7|And you know what you're seeing in the markets.
+BULL8|Actually interesting because the front end of the of the curve is actually selling off more than the back end.
+NEUT9|So you seeing what we call a bear flattener.
+NEUT10|So the market is saying that the Fed pause is actually warranted, and it's probably going to remain on pause for a good portion of next year.
+NEUT11|So I think that this is the market sort of endorsing the feds view as well.
+NEUT12|So what do you do like?
+NEUT13|What's the trade?
+NEUT14|When, like all the macro headwinds that we've been talking about, there not resolve themselves in one jobs report?
+NEUT15|Is my point it out like sort of?
+NEUT16|If we keep having all this job growth without real wage inflation?
+NEUT17|So what's the best?
+NEUT18|Is there barbell trade you want to be in right now?
+NEUT19|Well, I think that if you look at the trajectory of the pace of job creation, you kind of you can't get too excited, too wrapped up in one number.
+NEUT20|You kind of have to look at the longer term trend.
+BEAR21|The longer term trend is for a gradual slowdown in the pace of job creation, and that's why you're not seeing too much exuberance in the bond market.
+BULL22|You're seeing sort of a measured rise in yields across the curve as opposed to something that that is more outsized.
+NEUT23|So I think the market is going to take this in stride and put this in context with the trajectory of the pace of job creation we've seen throughout 2019.
+BULL24|So as far as trades are concerned, I think that any yields could rise tactically.
+BULL25|I think there's a momentum that could lead to Neils towards 2%, especially given the strength and the data we're going to get CPI and retail sales, which might also be somewhat strong going into the into the Christmas season, but you know, so we could we could see ten years ago to 2%, but I don't really see a clear catalyst.
+NEUT26|For a sell off in 10 years beyond 2%, I'm just looking down into these details.
+BULL27|We saw a big increase in health care and services, so that's 30,000 and then in terms of manufacturing, we went from negative 43 in October to positive 50 for most of the other areas of good producing were flat to down, so I think that rig big rebound in manufacturing speaks probably mostly to GM, but I think the big upside surprise here comes from that health care and social assistance which.
+NEUT28|You know, has been this amazing engine of growth in terms of you know, health care workers and just driven by demographics.
+BEAR29|There's, I think, one one month in the last 20 years had a negative print for this sector and that was during Katrina.
+NEUT30|"And then it ended up being revised up."""

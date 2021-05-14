@@ -1,0 +1,37 @@
+NEUT0|"""Let me ask you."
+NEUT1|What you think has changed in the last 50 years?
+BULL2|Obviously a lot, but have we made the kind of moves forward that you would have expected?
+NEUT3|Yes, I think so.
+NEUT4|But I think as as man is 51 years old.
+NEUT5|I know it's probably thought we were in flying cars by now, but that hasn't happened, but from a satellite perspective though, I think there is real change from our perspective.
+NEUT6|We can now monitor the supply within the commodities markets on a virtually real time daily basis, and that is transforming the way we're understanding the data.
+NEUT7|I'm going to put that in context monitor.
+NEUT8|It's not just satellite.
+NEUT9|It's also got to do with aerial.
+NEUT10|It's got to do with drones.
+NEUT11|When we talk about measuring, we can now measure to the square meter outside of mine and that means we can look at the inputs and the outputs and predict what the production levels are going to be out of that mine.
+NEUT12|Also the other element of measure which is looking at the physical assets were talking about the lorries, the cars, the people and you have minds that are slowing down, coming back on etc etc.
+NEUT13|And that's that's something we can now monitor on a daily basis.
+NEUT14|The real art, though, is the prediction it's taking that knew sets of alternative data and creating into something that makes sense from a market perspective.
+NEUT15|What is the implication for price?
+NEUT16|What is going to be the impact on the one to two to three months?
+NEUT17|And when we're talking about stocks in particular?
+NEUT18|I mean until now, really, the only reliable source of daily information on base metals is the enemy stock figure.
+NEUT19|We only have to look at nickel for the last three days to understand it's important.
+NEUT20|What is different now is that we can start looking on a daily basis at the physical production of that and that has substantive implications from a price perspective.
+NEUT21|Also, when you look at this, you can use this data in other ways and was very interesting when you combine it with other datasets.
+NEUT22|So for example, the California wildfires last year which devastated hundreds of square kilometres.
+NEUT23|If you combine that with the property register and the land tax.
+BULL24|That allowed us within a 24 hour period to understand the implications for the US insurers, which as always happens with these events, their equity value is strongly hit for that 24 hour period.
+NEUT25|Our clients knew in advance of anybody what the actual impact was on those businesses, and these were heavily discounted at that time as an equity.
+NEUT26|Mitchell, how do you deal with the privacy issues which surely must be a concern?
+NEUT27|I mean, you can be up there all around the world with dozens of satellites.
+NEUT28|How do you deal with the issues that you can see?
+NEUT29|What we're all doing?
+NEUT30|Yes, so from our perspective we are only looking at physical assets.
+NEUT31|We are not interested in individuals, so privacy is not so much of an issue from our viewpoint were about the physical movement of trucks were about how how tall is your pile of cathode?
+NEUT32|How tall is your pile of iron or so?
+NEUT33|From a privacy perspective, that is not an issue for us.
+NEUT34|What is crucial to us though?
+NEUT35|And I, as I've been a metals guy for 25 years, we can now see China.
+NEUT36|"And that is fundamental from the supply and demand perspective."""

@@ -1,0 +1,33 @@
+NEUT0|"""I think the best way to learn economics if you want to read something is to go to the Financial Times and I'm going to show you how to do this for free."
+NEUT1|Whenever you go to an online newspaper.
+NEUT2|It works for some of these websites trying to teach you, but if you have to pay for something then what I want you to do is do.
+NEUT3|I'm showing you OK, but when you go to these websites I don't want you to read anything that it tells you what stocks to buy.
+NEUT4|I just want you to read things that tell you how the world works.
+NEUT5|I mean the economic stuff.
+NEUT6|OK, so for example, US jobless claims that's important.
+NEUT7|That's important, right?
+NEUT8|That's a big economic data point.
+NEUT9|Watch what happens when I click on this.
+NEUT10|It says woah woah.
+NEUT11|You have to pay for it.
+NEUT12|Heck no what you do is this.
+NEUT13|I want you to copy the title here like this.
+NEUT14|Then I want you to go to Google or Bing.
+NEUT15|If you work at Microsoft.
+NEUT16|And then I want you just go search and click on it and boom, now you can read it for free.
+NEUT17|And the reason why this happens is because if it did not, if you know the FT didn't allow us to happen, then their articles wouldn't be indexed or searchable by Google Right?
+NEUT18|So anyway, but I recommend just reading that.
+NEUT19|Look at that cheese a week.
+NEUT20|This is nutty man.
+NEUT21|Look at this.
+BEAR22|36 / 36 million workers comp less people have lost their jobs in past two months.
+NEUT23|Look at this look at this this chart.
+NEUT24|This is when they first started collecting data for it from the Bureau of Labor and statisticsbls.gov.
+NEUT25|But this right here boom so sad.
+BEAR26|Yeah, but they're saying that the growth in unemployment is slowing.
+NEUT27|It's it's getting less bad.
+NEUT28|So so to speak, yeah, yeah, so anyway that's why I recommend doing for learning about economics.
+NEUT29|I don't think there's a textbook you should read because I think they're all kind of boring to be honest.
+NEUT30|And there are two theoretical right, like I mean, nobody like anybody has an MBA that learned about supply and demand graphs.
+NEUT31|You've never used those in the real world.
+NEUT32|"You've never used that unless you're an economist, I guess."""

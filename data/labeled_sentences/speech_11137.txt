@@ -1,0 +1,20 @@
+NEUT0|"""Neo stock analysis and predictions, November 24th."
+NEUT1|In today's NEO stock analysis and predictions, what to expect next for NEO?
+BEAR2|Alright, let's get started in the latest trading session, 265 million quarter baross limited shares change hands, but the stock trading lower today NEO stock has traded lower today due to quick profit.
+BEAR3|Short sellers with the company's most recent per share price at $55.38, changing hands around $6.13 or 0.12% at last look.
+BEAR4|Analysts expect a bounce back of $55 to $58 this week, although an iOS current price is not cheap, it is still considered a discount because analysts expect the stock to reach around $70.00 by the end of the year.
+BEAR5|The share price had its 52 week low at $41.96, which suggests the current value is an impressive 96.46% up since then, when we look at an iOS trading volume, we note the 10 day average is 323.85 million shares with the three month average coming to 159.31 million, which indicates that there is still more potential to grow within the upcoming weeks.
+BULL6|Data shows that the NIO shares are performing relatively much better than most of its peers within the same industry as can be gleaned from the statistics.
+BULL7|The company's share value shot plus 1228.06% over the past six months, 8 + 56.21% in annual growth rate that is considerably greater than the industry average of nine point 7%.
+BULL8|Moreover, analysts have looked to higher expectations by upgrading its fiscal year 2020 revenue estimates.
+BULL9|The rating firms predict current quarter revenue for NIO Limited will rise plus 64.1%.
+BULL10|While the growth in revenue is estimated to hit 47.8% for the next quarter year, over year growth is forecast to reach 116.9% up from the last financial year.
+BULL11|Neo is set to be a massive winner in the next few weeks because the world transitions to electrical automobiles, which cannot be stopped.
+BULL12|Proof of this is the rise of electric vehicle shares all over.
+NEUT13|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT14|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now.
+NEUT15|So that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT16|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL17|We'd really appreciate it.
+NEUT18|Are you still watching and want more?
+NEUT19|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

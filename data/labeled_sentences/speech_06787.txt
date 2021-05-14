@@ -1,0 +1,13 @@
+NEUT0|"""What we know right now."
+NEUT1|This is all source reporting by the Financial Times that they're putting for the Saudi Public Investment Fund has built up this undisclosed stake.
+NEUT2|They're putting a size of it about 3 to 5% of the total shares of the companies, or three to 5% stake.
+NEUT3|They're saying that, again, those sources familiar say that that steak is now worth between 1.7 and around $2.9 billion.
+BEAR4|The steak is below the 5% threshold that requires a public disclosure in the US for those publicly traded stocks.
+NEUT5|The exact timing of the purchase is unknown, although the sources familiar say that it took place.
+NEUT6|After the Crown Prince Mohammed bin Salman took a tour of the US back in March.
+NEUT7|Also worth noting here that another big investor foreign in Tesla shares last year was through Chinese Internet company Tencent.
+NEUT8|They took a stake in Tesla last year about $1.7 billion, or about a 5% stake as well.
+NEUT9|So it looks like Tesla shares moving on this and of course got the other added dynamic to this.
+NEUT10|As always, as Tesla is one of those battle grounds for short sellers and bulls.
+NEUT11|So that's probably one of the reasons why you're seeing up at session highs.
+NEUT12|"About four and a half percent."""

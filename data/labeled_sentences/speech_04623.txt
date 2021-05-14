@@ -1,0 +1,8 @@
+BEAR0|"""Coming out of 2020, I think what we should realize is we have a very brittle economy, a very fragile ecosystem of companies that are over levered."
+NEUT1|We need to create incentives for these folks to save and to invest in the future and the best way to do it is to not allow them to take the short term easy way out.
+NEUT2|You know when when you look at Amazon.
+NEUT3|What's interesting about Amazon is people used to lambaste Jeff Bezos for not being profitable, but when you looked under the hood, he was the single best investor of our generation.
+BULL4|Even better than Buffett, because he would take billions of dollars of free cash flow and invested in the future.
+NEUT5|There is a business case to be made in every company to either save and or spend.
+NEUT6|To plan for the future and instead to just give it back randomly in the open market, is one of the dumbest business decisions you can make.
+BULL7|"So Warren is right and I agree with him."""

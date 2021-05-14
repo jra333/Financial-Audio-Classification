@@ -1,0 +1,33 @@
+NEUT0|"""You shouldn't try and time the market when the market source."
+NEUT1|It's not necessarily time to sell when the market collapses.
+NEUT2|It's not always time to buy.
+NEUT3|Take a small portion of your income every month and invested that's averaging in.
+NEUT4|That's the idea.
+NEUT5|Maybe it's 10%, maybe it's 5% of your salary.
+NEUT6|Put that aside, regardless of what the markets doing, 'cause overtime, if you buy companies that are profitable pay dividends, you'll grow as an investor.
+BULL7|Your assets will grow.
+NEUT8|That's basically your nest egg you're talking about there.
+NEUT9|And if you average in, you'll get the highs.
+NEUT10|You'll get the lows, but overtime your nest egg will grow and that's what matters when you're 65.
+NEUT11|If you only put 10% of your salary aside when you started 21, you'd have about $1.2 million in the bank.
+NEUT12|If you just had the average salary in America, a $56,000 think about that.
+NEUT13|You don't have to die penniless.
+NEUT14|All you have to do is put a little aside every week.
+NEUT15|What everybody should understand about the stock market is it has its own forces at play.
+NEUT16|Nobody can control it every day.
+NEUT17|The world makes decisions on what they want to pay for any stock and what price earnings ratio.
+NEUT18|In other words, what multiple of this year's earnings are they willing to pay?
+NEUT19|Very often this is an emotional decision.
+NEUT20|Sometimes there's exuberance in the market and investors are willing to pay more.
+NEUT21|Sometimes when they get concerned in their risk adverse, they want to Payless.
+NEUT22|That's called volatility.
+BEAR23|Price swings of up to 30 and 40% are not uncommon in the stock market.
+NEUT24|When you look over 100 years of history, so when you see a violent day where the stocks go down 5 or 6% get over it.
+NEUT25|It's normal, in fact, not having volatility is not normal.
+NEUT26|And we've been in a period of three years where there hasn't been a lot of volatility.
+NEUT27|Now we're back to normal, so get used to these swings and the key to it is invest overtime.
+NEUT28|Sometimes you buy stocks in there very cheap.
+NEUT29|Sometimes you'll pay more for them, but if you average in overtime, that's a very good long term strategy.
+NEUT30|And when it comes to volatility, don't let it affect you.
+NEUT31|Don't get emotional about stocks.
+NEUT32|"They never cry for you, so you shouldn't cry for them."""

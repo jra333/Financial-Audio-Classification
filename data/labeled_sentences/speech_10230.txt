@@ -1,0 +1,20 @@
+NEUT0|"""Oh totally."
+NEUT1|I mean, I've been dealing with a bunch of companies that you always see scale or very oriented toward that crowd.
+BEAR2|Strike Cisco and Cisco is a behemoth in there.
+NEUT3|They're talking about just huge numbers, minutes being used on their on their video, and by the way, let's not forget.
+NEUT4|Also makes it so that if you're in Singapore or you're in India, it doesn't matter.
+NEUT5|You're on one chat, so I think things are going to change.
+BEAR6|That's cloud based and if your brick and mortar it just gets worse and worse.
+BEAR7|David, I mean, these layoffs, the stores that are closing?
+NEUT8|And if you take a look at the stock prices, I'm a huge believer in David Simon and wish you would come on.
+BULL9|He's great.
+NEUT10|Don would too.
+BULL11|These are fantastic operators Steve Tanger.
+NEUT12|Tanger Miss $6 stop but I don't know.
+NEUT13|I mean is that model where you want to go?
+NEUT14|I think Amazon could go to $3000 in this in this market.
+BEAR15|David Amazon Web Services must be just crushing it.
+NEUT16|So yeah, I think the world is changed.
+NEUT17|No, very few people I know David wanted this.
+NEUT18|People want to go back to the way it was, it can't.
+BEAR19|"It turned out to be too lucrative not to go back."""

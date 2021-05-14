@@ -1,0 +1,7 @@
+BULL0|"""We think that traffic will increase to three times today's levels."
+NEUT1|That's because, particularly in the developing world, you have all these people today that don't have access to cheap point to point mobility.
+NEUT2|So in the US, about 70% of people have their drivers license, but in China that's only 20% of the population.
+NEUT3|So all these people that.
+BEAR4|Aren't able to afford cars.
+BULL5|Will enter the market now that they have access to cheap taxis and this is going to greatly increase the number of vehicle miles traveled.
+BULL6|"Also, people will end up taking taxis, most likely more often because they'll be much, much more convenient, so that's why we see that 3X increase coming."""

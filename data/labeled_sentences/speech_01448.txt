@@ -1,0 +1,25 @@
+BULL0|"""Just two weeks ago, Raven Coin blasted through the resistance level at $0.15 and gained 97% in price."
+BULL1|It's currently retracing, along with the rest of the market, and it seems to be forming a support at the previous resistance level.
+BULL2|I believe we're going to be consolidating at the current level for awhile, and then we're going to be heading higher.
+NEUT3|We're going to be setting a price target a bit later on, but first, will you be able to get to the moon on your own?
+NEUT4|Starship rocket if you buy Raven Coin in 2021.
+NEUT5|In this video, we're going to be setting a price target and we'll be looking at the fundamentals.
+NEUT6|Raven Coin is currently sitting at 1.2 billion U.S. dollars, times a 24 hour volume of 152,000,000 a circulating supply of 8.2 billion, and the maximum supply of 21 billion.
+NEUT7|Raven Coin is a blockchain that is dedicated to the creation and peer to peer transfer of assets and that enables users to create and trade and real world or digital asset.
+NEUT8|So Raven coin is actually a protocol that is based on a fork of the Bitcoin code and it also includes code that focuses on allowing tokens to be issued on the Raven coin blockchain.
+NEUT9|And with Raven coin you can create your own token within minutes and be able to trade it securely worldwide.
+NEUT10|So on Raven coin you can issue tokens that represent virtual goods such as tickets to an event and in game currency.
+NEUT11|What's really cool is that even stocks or shares of a company can be represented by a token on the Raven coin blockchain.
+BULL12|OK guys, I hope you're enjoying the video so far.
+NEUT13|If you I drop a like and comment down below.
+NEUT14|If you hold Raven coin in your wallet or if you are about to buy some and what makes Raven coin different from Bitcoin?
+NEUT15|Is that it has a block time of one minute rather than 10A maximum growing supply of 21 billion instead of 21 million and a new mining algorithm which prevents centralization of mining and what this means is that through this hashing algorithm, the Raven Coin protocol is ASIC resistant and this promotes the use of consumer grade GPU hardware so that miners without massive ASIC farms can participate.
+NEUT16|OK guys, we're going to get to our price target in a moment, so make sure to continue watching.
+NEUT17|Heading to the White paper we see some examples of how unique tokens can work on the Raven Coin protocol.
+NEUT18|For example, a user can create an asset named art and then the user can create unique art assets by attaching your name to each piece of art.
+NEUT19|For example, art, Mona Lisa and you can represent any piece of art as a non fungible token.
+NEUT20|Getting back to the chart, I believe Raven coin shows a lot of promise and it has a wide range of uses.
+BULL21|And then expecting the non fungible token sector to be booming significantly.
+NEUT22|Apart from this I also like Raven coins ASIC miner resistance since it helps keep it decentralized and this makes its price less likely to be manipulated by big miners given its current market cap.
+NEUT23|I would say that the projected market cap of 20 billion U.S. dollars is achievable during the peak of this altcoin cycle and that would give us a bit more than a 15X and price and the price target of 2.3 U.S.
+NEUT24|"dollars."""

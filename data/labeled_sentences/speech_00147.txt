@@ -1,0 +1,27 @@
+BULL0|"""Snap is up more than 50% this week."
+NEUT1|Options, trades, traders are looking for more upside Pete.
+NEUT2|Tell us what you're seeing.
+BULL3|They sure are Scott.
+BEAR4|As a matter of fact, this stock has had 10 separate occasions with bullish activity since the start of October.
+BULL5|So very, very incredible amounts of volume coming in there this week.
+NEUT6|They're going after 13,000 of next weeks expiring, so October 30th they're going after the 41 calls.
+BEAR7|Those calls were going for between $0.75 and a Buck and a quarter stock was trading just over 40 1/2 or so Scott, so this stock has been absolutely on fire from $26 over to $40 there also buying 42 and a half calls of next week as well.
+NEUT8|About 9000 of those trading next, we've got a Norwegian cruise lines.
+NEUT9|This is one of those where we've had carnival.
+NEUT10|Now we've got Norwegian.
+NEUT11|They're going after next week's expiring 21 and a half calls, and they bought about 3000 of those calls as well.
+NEUT12|Scott, very inexpensive.
+NEUT13|Those are going for about $0.20.
+NEUT14|I got a third one for you because I know we're going to talk some tech.
+NEUT15|How about Apple?
+NEUT16|Now?
+NEUT17|Apple is an extremely active option trading stock.
+NEUT18|It's almost #1 every single day.
+NEUT19|Average is about 2,000,000 contracts today.
+NEUT20|They're buying the deep in the money, but it's interesting.
+NEUT21|So it's almost like buying stock, but they're going out in November, so this is not just an earnings play.
+NEUT22|November the 27th of expiration date is what they're buying.
+NEUT23|The 1:10 calls they bought an incredible number of those.
+NEUT24|They spread it off, so I loved what I was seeing here.
+NEUT25|I already own the stock.
+NEUT26|"As you know, I've owned it forever, but I also own these calls now as well."""

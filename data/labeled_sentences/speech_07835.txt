@@ -1,0 +1,27 @@
+NEUT0|"""OK, So what are you sticking to Nick?"
+NEUT1|What's your stock pick?
+NEUT2|My stock picking this evening is actually Merck, which is a very large US listed pharmaceutical company.
+NEUT3|I think in South Africa you know for awhile that that's sort of the dialing in the pharmaceutical sector and healthcare sector was aspirin, but aspirin and he's sort of current environment.
+BULL4|Since the share prices recovered very strongly.
+NEUT5|But it does have a mountain of debt that has got some structural set of issues.
+NEUT6|Looking at our local and distant healthcare sort of providers and stocks, there's nothing that really rings too attractive at the moment.
+NEUT7|Therefore, we'd like to sort of go offshore Merck big portfolio largely inform are largely sort of cancer drugs, but it's got 20% of its revenues coming from vaccines, etc.
+BULL8|And so, and if we then have a look at the valuation, I think there's 2025% upside from these sort of levels.
+NEUT9|So so quite attractive, and that's that's the topic.
+NEUT10|OK Mia, what's your stock pick this evening?
+NEUT11|Well, I'm going with cargo Carla today.
+NEUT12|And you know Coca Cola is a very well known company.
+NEUT13|It's got massive brands over 200 brands worldwide that the selling over 500 countries.
+NEUT14|Or sorry over 500 brands selling over 200 countries.
+NEUT15|Rather they are the leaders in four of the of the top sparkling drink drinks we know.
+NEUT16|Fans are Coke license and Sprite and they're also very well diversified.
+NEUT17|Over the last couple of years they've actually started the diversification with the buy in of Minute Maid, which I think was already in the 60s or the 70s.
+NEUT18|So the company now not only sells sparkling drinks, they've moved away, sort of from the lower margin areas of their business, the distribution, the buckling, etc.
+NEUT19|And actually just focusing on on the drinks itself.
+BULL20|They've got a great footprint worldwide and they've got a great area for growth and the price itself hasn't actually run as hard as the market has recovered.
+BULL21|So it still offers value at these levels I think.
+NEUT22|OK, let's leave it there.
+BULL23|Thank you both for having joined me this evening.
+NEUT24|Of course that's Nick Rail from Ashburton Investments and near Kruger from Kruger International as well.
+NEUT25|We take more of your stock related questions next week.
+BULL26|"Have a good evening."""

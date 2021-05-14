@@ -1,0 +1,13 @@
+NEUT0|"""Johnson and Johnson ticker JNJ has a market cap of $416.5 billion."
+NEUT1|Researches develops manufacturers and sells products in the worldwide healthcare field.
+BULL2|Three year earnings per share.
+BULL3|Compound growth rate is up 1.2%.
+BULL4|Three year sales compound growth rate is up 2.6%.
+BULL5|Five year compound cash flow growth rate is up 2.5%.
+NEUT6|Current dividend is 2.55% just over our 2.5% threshold.
+BULL7|That dividend has increased 450.
+BEAR8|Seven years earnings per share payout is 71%, but the free cash flow ratio is only 51.9% while slightly down from last year.
+BULL9|Profit margin is a healthy 17.8%.
+BULL10|The current PE of 28.76 is about 42% over the 10 year average of 20.19.
+NEUT11|The interest coverage ratio is 99.07.
+BULL12|"Johnson and Johnson is a solid dividend growth by."""

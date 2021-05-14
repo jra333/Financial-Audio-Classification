@@ -1,0 +1,27 @@
+BULL0|"""I mean a given this huge rally that we've had the past era."
+NEUT1|It felt like perhaps a little bit of a correction was inevitable, but I guess the question now is how much lower could we go?
+BULL2|Yeah, so Bitcoin is still the best performing asset class across a 10 or five or three year.
+NEUT3|And like you said last year did over 300%.
+BULL4|So seeing a small correction is probably healthy for Bitcoin at the same time, we're also seeing etherium and some of the other altcoins are close to hitting new highs, so it's not just Bitcoin outperforming and I think there's just a lot of migration of capital from the traditional market.
+NEUT5|From the bond market or the stock markets into this non correlated asset class.
+NEUT6|And yet there is still a lot of skepticism out there, right?
+NEUT7|We just got the call from UBS Global Wealth Management that given the regulatory threats.
+BULL8|Not to mention that perhaps we could see more competitors coming from central bank issued currencies that Bitcoin could end up being another Netscape or Myspace.
+NEUT9|Well, I I would differentiate between the two.
+NEUT10|For example, China is issuing a central digital currency, but they're not promising that it will have limited supply, right?
+NEUT11|So just like the Fed is printing dollars, they will continue printing digital currencies right there.
+NEUT12|The beauty of Bitcoin is that it has limited supply everybody in the world knows that no one can print more of these and that the more people come in and buy Bitcoin, the higher price is going to go.
+NEUT13|So who are buying Bitcoins right now?
+NEUT14|Alex, when it comes to?
+NEUT15|When it comes to these Holdings, because that seems to be a little bit of a mystery.
+NEUT16|There has been more talk that perhaps is institutional investors are in the game now, but at the same time, what about the speculators?
+NEUT17|And could we see this transitioning from who is holding cryptocurrencies right now?
+NEUT18|Yeah, it's a great question.
+NEUT19|Celsius is managing just over $5.3 billion as we have the second largest asset manager in the world.
+BULL20|We grew 10 * 10 times in in during 2020, right?
+NEUT21|So we've seen a huge adoption both from retail from corporate and from institutions we work with over 350 institutions, so this time it's not like 2017 where it was a a retail mania.
+NEUT22|This time you're seeing some of the world's smartest investors.
+NEUT23|Know just looking to diversify the acid.
+NEUT24|Class, but also generate yield.
+NEUT25|We generate Alpha on Bitcoin, Ethereum and 42 other assets that we manage for them.
+NEUT26|"So this is really a completely new asset class that is now being adopted by a very broad base of investors."""

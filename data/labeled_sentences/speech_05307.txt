@@ -1,0 +1,7 @@
+NEUT0|"""I like creepy books."
+NEUT1|It makes absolutely no sense how humans think is very similar.
+NEUT2|We all believe you're special and we are different but innately under under it all.
+NEUT3|I think we are very similar beings.
+BEAR4|I have wasted inordinate amount of time during the lock down there.
+NEUT5|Quite stupid.
+NEUT6|"Honestly, they're not like the original homes."""

@@ -1,0 +1,11 @@
+NEUT0|"""Alright, what's the deal?"
+NEUT1|You too, this is for everybody that's been watching AMC stock GME, stock GameStop stocks.
+NEUT2|And you know stocks just watching them.
+NEUT3|About in about AMC.
+NEUT4|I've been showing slides for about two years now, but I bought an AMC at.
+NEUT5|OK price Ann.
+BEAR6|What I think is going to happen on Monday is going to skyrocket.
+NEUT7|I'm making at AMC prediction, I believe before the end of March.
+NEUT8|Crazy before the end of March, I believe AMC will be at $614.00 before the end of March.
+BULL9|Peak.
+NEUT10|"That's my start prediction."""

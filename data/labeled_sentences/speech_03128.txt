@@ -1,0 +1,22 @@
+NEUT0|"""So the government is expanding its investigation into insider trading and here to talk about is Wall Street Journal editor, column Bar, Good Morning?"
+NEUT1|How are you alright?
+NEUT2|How are you good?
+NEUT3|Good?
+NEUT4|So we want to get caught up on the on the storage.
+NEUT5|They they?
+NEUT6|We got some numbers behind what it is that the government is investigating, right?
+NEUT7|So the government is looking at about 120 people is for criminal charges potentially for insider trading?
+NEUT8|This is important because one of the things that happened in the crisis was that we had a bunch of big banks.
+NEUT9|For instance fail and there were no top executives of them who are charged criminally and you can make of that what you what you will.
+BEAR10|But a lot of people say here's a failure by the government to prosecute no apparent wrongdoing.
+NEUT11|And of course, in those cases, the problem is it's very difficult to prove intent.
+NEUT12|It's it's difficult to prove that anybody was acting to enrich themselves at the expense of others, right?
+NEUT13|They were doing things that enrich them, but they would say, well, we weren't trying to run the company into the ground.
+NEUT14|Why would we do that, right?
+BEAR15|So those cases have proven very difficult for the government to bring.
+NEUT16|On the other hand, these insider trading cases they've got 66 of them now since the crisis, and they've had convictions in 57, and so you know, they see this as a way to show that they're going to prosecute people who try to take advantage of the everyday person who puts their savings in the market.
+NEUT17|And this is one of the sort of the underpinnings of the markets.
+NEUT18|Is this notion that you can trust the markets, and you can invest in a company, or you can buy ETF's and you can do so feeling that you're not being taken advantage of by anyone in the whole thing about insider trading is that they.
+NEUT19|These small groups, people that collect inside Information Act on it.
+NEUT20|Basically you make money at the expense of everybody else.
+NEUT21|"So this is a huge huge huge priority for the government right now."""

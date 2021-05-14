@@ -1,0 +1,18 @@
+NEUT0|"""Of course we made the decision to start allocating toward Bitcoin when Bitcoin was a 10,000."
+NEUT1|It's it's a little more challenging with the current price closer to 20,000.
+NEUT2|Amazing, you know over a very short period of time, how big of a runup we've had, but having said that, our our fundamental work shows that Bitcoin should be worth about $400,000 so.
+NEUT3|You know we're going to even if we had the ability to do so today, we're going to monitor the market and see how trading goes valuation, but ultimately want to buy it.
+NEUT4|Scott Miner, we want to delay the Fed press conference for this.
+NEUT5|Comment by you.
+NEUT6|How do you frame a 400,000 Bitcoin?
+NEUT7|How do you get from where we are now?
+NEUT8|Up to 400,000?
+NEUT9|Is it just based on scarcity?
+NEUT10|Yeah, right Tom, it's based on the scarcity.
+NEUT11|An relative valuations such as things like gold as a percentage of GDP, so you know their Bitcoin is actually has a lot of the attributes of gold and at the same time has an unusual value in terms of transactions, right?
+NEUT12|Mike McKee emails me.
+NEUT13|Why are we talking about bit Dog?
+NEUT14|Well, we've got a Fed press conference going on.
+NEUT15|Mickey jump, jump in here and say this first.
+NEUT16|You know we're going to get emails.
+NEUT17|"From people about Bitcoin."""

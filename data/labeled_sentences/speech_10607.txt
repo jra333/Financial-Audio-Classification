@@ -1,0 +1,40 @@
+NEUT0|"""What do you do?"
+NEUT1|What do you do when the biggest winner from the stay at Home economy finally?
+NEUT2|Disip uanz do you dump the entire covid cohort, or do you stick with it on today with the Dow Rose 185 points as we climbed 1.13% and the NASDAQ gained 1.28%?
+BULL3|Yes, yes yes.
+BULL4|I'm talking about the reaction to zoom video communications after reported a very good quarter.
+BEAR5|That wasn't quite good enough for Wall Street.
+NEUT6|This companies practice synonymous with the new normal.
+BEAR7|I think we'll look back on 2020 is the year of zoom, so when you see the stock down 15% it's alarming.
+NEUT8|You gotta wonder what that means for the rest of the state.
+NEUT9|At home stocks.
+NEUT10|The answer.
+NEUT11|Nothing.
+BEAR12|Just because zooms insanely high growth is decelerating a tiny little bit.
+NEUT13|That doesn't mean the trend is over.
+BULL14|In fact, I'd argue that it never is never going away because this year has shown us that millions of jobs can be done better from home.
+NEUT15|No need for that central office.
+NEUT16|Why go to meetings to negotiate or signed documents?
+NEUT17|We do everything over the web and save millions, maybe 10s, maybe hundreds of millions of dollars in travel in hotels and dinners.
+NEUT18|Zoom.
+NEUT19|I mean, that's how the $39 billion SMB global IHS market deal was consummated as we heard last night.
+NEUT20|For CEOs Doug Peterson and Lance Uggla on mad money.
+BEAR21|The truth is people were confused about zoom in that confusing created opportunities all over the place today because the immediate pin action from when I was on squawk on the street it was.
+NEUT22|Let me walk you through what happened here, starting with what should be obvious first.
+BULL23|I hate to break it to you, but Zoom Video reported some amazing numbers.
+NEUT24|Did they obliterate the estimates?
+NEUT25|Yes, did they fiercely raise the forecast?
+NEUT26|Yes, normally would be enough, but they didn't reveal gigantic contracts from big corporations.
+BEAR27|They they didn't say that they stole Java, used US loss of business from competitors which made people worry that the gross margins aren't great as they used to be because the company is having lots of smaller clients use this service for free.
+NEUT28|Trying to up sell them instead of going after elephants and whales.
+BEAR29|Of course, when you consider how much the stock is run over the past 11 months, you could argue maybe even it was due for a bit of a pullback.
+NEUT30|I mean, yeah, I don't know.
+BULL31|I mean stocks up 500% going in.
+NEUT32|I I, that's a lot of money.
+BEAR33|I think the stock got overheated and the story it's certainly not bad news for the stay at home thesis, not Wensum made a heck of a lot more money than Wall Street was expecting.
+NEUT34|Don't miss a second of mad money.
+NEUT35|Follow at Jim Cramer on Twitter.
+NEUT36|Have a question?
+NEUT37|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

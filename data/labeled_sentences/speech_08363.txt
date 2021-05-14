@@ -1,0 +1,22 @@
+BEAR0|"""Getting some breaking news here on the automakers fella."
+NEUT1|Bo has that press film.
+BEAR2|The DOJ has launched an investigation looking at Ford Honda, BMW, Volkswagen Four automakers who have reached an agreement.
+NEUT3|They did it within the last couple of weeks with the state of California regarding vehicle emissions.
+NEUT4|The reason that the DOJ has launched this investigation is to looking into why they reached this agreement with California.
+BEAR5|Did they violate any antitrust laws in reaching that agreement?
+NEUT6|But at the end of the day, this is all about the Trump administration.
+NEUT7|We heard from Larry Kudlow last hour.
+NEUT8|And it's belief that it should set one national standard when it comes to fuel economy.
+NEUT9|California should not have the right to set a separate standard and the automakers before that.
+NEUT10|I mentioned Ford, Honda, BMW, Volkswagen.
+BULL11|They've already agreed with California in terms of the standards that California is going to be setting.
+NEUT12|Going through to 2025.
+NEUT13|So that's at the heart of this.
+BEAR14|Not only this investigation, but also this dispute that's going to be flaring up over the next several weeks between the Trump administration and the state of California.
+NEUT15|When it comes to fuel economy standards.
+NEUT16|You know, Phil.
+NEUT17|As you said, I asked Kudlow interesting before we knew about this news, but just in general about the administration's pushback against businesses in certain areas where where businesses were OK, whether it's right Mercury missions for our plans, right?
+NEUT18|Whether it's these cafe standards that you've covered so closely, or you know whether it's a number of other areas as well.
+NEUT19|Methane for example, where some of the industries also saying we're OK with things.
+NEUT20|Let's listen to what Kudlow had to say about why they continue to move forward.
+BULL21|"Pushing in terms of the lower standards that you're referencing here that they want versus what California is looking for."""

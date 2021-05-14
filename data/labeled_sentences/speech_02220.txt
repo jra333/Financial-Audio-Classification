@@ -1,0 +1,39 @@
+BULL0|"""Profits are climbing, margins look pretty good, rising revenue rising 20% year on year."
+NEUT1|John Blackledge of Cowen and SunTrust use of Scully joining us this morning.
+NEUT2|Talk about the quarter guys.
+NEUT3|Happy Friday.
+BULL4|Good to see you John.
+NEUT5|I mean what is there to nitpick about when you're looking at the level of deceleration on a WS and then the margin story as well?
+NEUT6|Yeah, I mean a WS really came through right?
+BEAR7|I mean investors, we were talking to leading into the earnings were concerned about top line growth amidst rising competition, mainly from, you know, kind of Microsoft Azure and also to a lesser degree Google Cloud.
+BULL8|But Awos beats on revenue.
+BULL9|They beat on margins, ease investor concerns and sets it up for you know up 9 1/2% on the margin beat it was it was a huge margin beaten they were they just called out prime.
+NEUT10|One day, costs were a little bit lower.
+BULL11|Also the one Q guide was great.
+BULL12|Better than expectations.
+NEUT13|So Amazon for us really firing off on all cylinders right now remains our top pick for 2020.
+BULL14|We boosted our estimates.
+NEUT15|Our price targets now 2650 a share from 2400.
+NEUT16|Interesting use of how about your targets and I wonder how you think of Amazon guidance now, given that some believe that I mean any guidance, they're just bound to blow past in the coming quarters.
+NEUT17|Well, so yeah, so I'll echo what John said.
+BULL18|We've also taken our price target up were raised our estimates.
+BULL19|We think 2020 is going to be and then very, very impressive year for them, particularly because of the move to one day shipping, which in fact cause an acceleration in units sold growth last quarter to about 22% from 14% last year, so that's really one key metric in it to focus on you know in terms of other things that a lot of investors keep worrying about to a certain grid with Amazon so.
+BULL20|AWS did really well this quarter, didn't do as well the prior quarter and that's why the stock saw a lot of you know variability and I think going forward it's still going to be an area that people are going to pay a lot of attention to just because it's so profitable.
+NEUT21|Outside of that, I think.
+BEAR22|Margins overall, I think the street margins may be a little too high for 2020 at least relative to where we are.
+NEUT23|We still think they're going to spend somewhere between 4:00 and $6 billion on this one day shipping.
+BEAR24|That's an additional 2 billion on top of what they've already spent this year, so you know, I think there are some issues, potentially on the margin.
+BULL25|But overall, you know Amazon is firing on all cylinders.
+BULL26|It is our top large cap pick, and it's hard to argue with the numbers last night.
+NEUT27|Both in agreement then do you guys feel like it's tough as the analyst to forecast this company?
+BEAR28|It feels like when everyones down and everyone thinking oh this is an investment year.
+NEUT29|Amazon just comes out and almost proves that it has these kind of earnings leverage and takes everyone by surprise.
+NEUT30|Yeah, well now it's.
+NEUT31|It's this sorry, I know it's a it's a it's a great question.
+NEUT32|One thing I would point out on a WS with a WS in their advertising business.
+NEUT33|They account for about 20% of revenue in 2020.
+NEUT34|But on our math they account for about 95% of Amazon's operating income.
+BULL35|So these two really high margin businesses afford the company great optionality, meaning they can invest and do prime one day, which improves the prime value value prop.
+BULL36|Consumers love it, but it also extends Amazon's Moat in e-commerce without really disrupting margins.
+NEUT37|We really had two quarters where margins were light and then, but with these scaling high margin businesses, they crush margin this quarter so they just have a lot of optionality.
+NEUT38|"And again, that's why it's our topic."""

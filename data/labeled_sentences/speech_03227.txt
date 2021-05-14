@@ -1,0 +1,21 @@
+NEUT0|"""Let's kick it around."
+NEUT1|Do some final trades before we go from Post 19 Amy Raskin.
+NEUT2|I just see you today.
+NEUT3|What do you got for?
+BULL4|Thank you relatively small cap company called Impinge IMPINJ tickers Pi.
+NEUT5|They do ultra high frequency RFID.
+NEUT6|Really interesting technology about to be deployed by a lot of big companies.
+NEUT7|Look at it.
+NEUT8|Alright Pete, I'm gonna give you a Coke.
+NEUT9|I had that question about Coker Pepsi.
+NEUT10|I really like Coco into the earnings so I think this is something with the call buying that I'm seeing today as well.
+NEUT11|Why not Coke, OK?
+NEUT12|He is a Mountain Dew guy, no man.
+NEUT13|I I actually don't drink soda.
+NEUT14|If you don't do that do.
+NEUT15|I haven't drank soda pop or even at fast food and maybe 30 years, so it's not my deal soda pop.
+NEUT16|Now you're showing your Minnesota.
+NEUT17|Starbucks look, I think tomorrow's facts are going to be higher than it is right now.
+NEUT18|Starbucks.
+BULL19|Yeah, we gonna buy Progressive Corp. That was a great quarter.
+NEUT20|"I'm going to sell Keysight technology to get the funds for it."""

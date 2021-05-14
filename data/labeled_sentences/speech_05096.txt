@@ -1,0 +1,40 @@
+NEUT0|"""I want this video we're going to talk about Netflix stock and follow information."
+NEUT1|Should not consider as investment advice as usually we start with a simple Wall Street.
+BULL2|Forecasted to grow.
+NEUT3|Uh.
+NEUT4|Upper year.
+NEUT5|Is 28.4% in the company grew by?
+NEUT6|Almost.
+NEUT7|98% over the past year, there's also risk concerns.
+BEAR8|The depth not covering well operating cash flow.
+NEUT9|And let's have a closer look.
+NEUT10|So one year return 71.6% of business industry will be the market.
+NEUT11|The long term price volatility is less than average market volatility.
+NEUT12|The company.
+NEUT13|Is over Valuated, almost 58% in valuation?
+NEUT14|P ratio is 77.92 is considered as high.
+BULL15|Future grow.
+BULL16|Forecasted 28.4% and also earnings per share growth forecasted.
+NEUT17|As well.
+BULL18|Past performance 53.6%.
+BULL19|That's a good number.
+BULL20|High quantity earnings.
+NEUT21|Financial health so as you can see that.
+NEUT22|The depth are not covering.
+NEUT23|So the equity is not covering the depth.
+BULL24|And debt to equity ratio is over 150% is considered high.
+NEUT25|They don't pay dividends.
+NEUT26|And was there insider trading shows that there was on February and April?
+NEUT27|Some insider sells.
+NEUT28|Let's to look to the top shareholders, so there's red and green.
+NEUT29|For example, BlackRock added to their portfolio.
+BULL30|And we can see here earnings per share are growing every year.
+BULL31|Total sales are growing every year.
+BULL32|Also, shares outstanding is growing every year.
+NEUT33|Return to equity.
+BULL34|33% last 12 months.
+BULL35|Operating margin last 12 months 70%.
+NEUT36|Investing.com summering the stock for long term investor is a strong BI, weekly, natural and daily also natural.
+NEUT37|Comment down below section what which stock you prefer to.
+NEUT38|Research and also subscribe to the video.
+NEUT39|"Like the video and see you in a future one."""

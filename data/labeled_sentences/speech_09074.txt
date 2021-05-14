@@ -1,0 +1,13 @@
+NEUT0|"""Tradestockalerts.com, where you can easily double or more your money every year."
+NEUT1|Do you struggle making money in trading stocks or are you just getting into the market and you don't know where to start?
+BEAR2|With 90% of the traders losing money in the market, we realize it can be difficult to make a profit.
+NEUT3|With their expert advice, we will show you how you can maximize your profit.
+NEUT4|Each year we take all the hard work away and said daily stock alerts so you know exactly what to trade without the headache of trying to figure it out yourself.
+NEUT5|Unlike other services, our buy and sell alerts are given at the exact same time every day.
+NEUT6|This is ideal for you because you don't have to wait anxiously in front of your computer.
+BEAR7|Or worry about missing a trade because you weren't able to take a break from your work.
+NEUT8|We will even show you how you can trade 100% Commission free.
+NEUT9|Here are the results from the previous month.
+NEUT10|For a more in depth review of our track record, you can view our past trades by checking out the link below, which is tradestockalerts.com/results.
+NEUT11|Just as a quick reminder, if you haven't heard of our special offer, please take advantage of our seven day trial.
+NEUT12|"If you are looking to make some serious cash, we offer the best trading service to make that possible at tradestockalerts.com."""

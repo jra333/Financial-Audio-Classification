@@ -1,0 +1,53 @@
+NEUT0|"""Of course, there's a reason they're so expensive."
+BULL1|By and large, the earnings from the cloud players have been extraordinary during a very difficult.
+NEUT2|For the economy.
+NEUT3|Just when you think they rallied all they can, they report blog quarter and the stock surges higher.
+BULL4|Datadog, they're one of the best beats of the year Crowdstrike member.
+NEUT5|We just had them on their amazing Oct.
+NEUT6|I can't.
+NEUT7|And it is a topic in it.
+NEUT8|I mean, I don't see it can do no wrong Mr. Short.
+NEUT9|We can't do anymore problems.
+NEUT10|The scalar though and zoom video?
+NEUT11|Well, it's probably the story of the century and you know, I think there are.
+NEUT12|Quinn is a rock star and even an I read all the articles about China.
+NEUT13|Anne I believe in the man I'm not telling you to do your banking on zoom.
+NEUT14|I am telling you to do your boozy brunch on zoom like I do every Sunday.
+NEUT15|Now let's what it would be a mistake to ring the register on these stocks.
+NEUT16|Some yes, some no.
+NEUT17|The digitization stories too good to miss.
+NEUT18|We need to be more selective though, so let's take a try to figure out which ones have gotten a little too expensive, right?
+NEUT19|First off, when you're evaluating these software as a service companies or SAS stocks, there's a quick and dirty way to get a sense of what works and what doesn't.
+NEUT20|It's called the rule of 40.
+NEUT21|I've talked about it many times.
+NEUT22|I will talk about it more.
+NEUT23|The rule of 40.
+NEUT24|Basically, you add the companies revenue growth rate.
+NEUT25|A race right here you add the company's revenue revenue growth rate to its earnings before interest, taxes, depreciation, invitation margin.
+NEUT26|Now if the combinations.
+NEUT27|Over 40 you got a good one.
+NEUT28|If it's under 40, you gotta risk your one they did here is that there are two ways to win with these cloud software.
+NEUT29|Place.
+BULL30|If they're losing money, they better have very rapid revenue growth and if it got slower growth, well they better be a lot more profitable.
+NEUT31|And that's what we're really measuring here of the 50 cloud names, we're looking at 17, one seven past the rule of 40 tests based on this year's estimates, and they are zoom video livongo.
+NEUT32|Chegg Crowdstrike Viva systems that's step one.
+NEUT33|Peter Gas fantastic Adobe datadog service.
+NEUT34|Now at last year's simple teamsalesforce.com Doc, you sign fastly.
+NEUT35|Dynatrace Z scaler VM, Ware Dropbox an wits which had on a couple times.
+NEUT36|This is the school gosh, miserable now if you use next year's numbers you would pick up another two that we like, Koopa an AL Teryx or Alpha Rex, depending on whether you want to get it wrong but lose datadog fastly and Z scaler, which is one of my faves.
+NEUT37|Of course, the problem here is the valuation in the rule.
+NEUT38|40 doesn't tell you anything about that.
+NEUT39|So what if we created a new metric?
+NEUT40|I keep doing this on Friday 'cause I know a lot of your tired, but I don't care a new metric by taking the Rule 40, Rule 40 score and dividing it by the price to sales multiple.
+NEUT41|So let's say your revenue growth plus your EBIT Dom margin should be at least five times the size of your price to sales multiple.
+NEUT42|Objective standard, but I kind of like it.
+NEUT43|Who from the 17 names that passed the rule of 40 make the cut off?
+NEUT44|Well, some old friends.
+NEUT45|VM, Ware, Dropbox, Salesforce.
+NEUT46|Chegg Adobe, an livongo health member, log house like that personal health coach for diabetes now I think this is a decent list if you're worried about valuations.
+NEUT47|Don't want to chase the red hot style.
+NEUT48|Stay at home stocks.
+NEUT49|Don't miss a second of mad money.
+NEUT50|Follow at Jim Cramer on Twitter.
+NEUT51|Have a question?
+NEUT52|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

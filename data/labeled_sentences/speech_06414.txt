@@ -1,0 +1,12 @@
+NEUT0|"""The Super Bowl is the most expensive single event advertisement in sports for the Super Bowl 50 telecast."
+BULL1|CBS is charging $5 million for a 32nd advertisement during the big game, an 8.7% increase over last year since the inaugural Super Bowl in 1967.
+BULL2|The cost of a 30 second commercial is increased 12,500% during that same.
+NEUT3|The S&P 500 used as the benchmark for measuring.
+BULL4|Old market performance is up, just 2140%.
+BULL5|This means the cost of a Super Bowl ad has increased at a rate 5.8 times faster than the stock market.
+NEUT6|So how is this possible?
+NEUT7|Over 50 years commercials have become part and parcel to the Super Bowl as a major television event.
+NEUT8|But still the Super Bowl does not have the highest TV advertising premium.
+NEUT9|That award goes to the Oscars telecast.
+NEUT10|In 2015, a single advertising dollar bought the attention of 26 viewers during Super Bowl 49.
+NEUT11|"During the 2015 Oscars for which 32nd spots went for $2,000,000, advertisers spent $1.00 for 18 viewers, a record high perhaps minute ad."""

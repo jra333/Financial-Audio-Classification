@@ -1,0 +1,11 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Wednesday, April 5th time Salena Nicholas technical analyst at xm.com.
+NEUT2|And today we'll look at Dollar Yen on the daily chart.
+BEAR3|So use DJPY remains below the key 111 level so we can see it after three days of consecutive declines, we saw a bit of a pause today as the downside.
+BEAR4|Momentum has weakened can be seen in the RSI, which has flattened out right now, but the short term bias remains to the downside, since the RSI does remain below 50, so it's still in bearish territory and also the maqdis below 0.
+BEAR5|So that's also in bearish territory, so unless strong resistance at 111 is broken to the upside, we cannot rule out another push lower towards the 110 level.
+BULL6|This is going to be important support for now.
+BEAR7|So if we look at the overall picture, the market is neutral, we could say and sustain trading below the 50 day moving average and also below that remote cloud will probably extend the consolidation but.
+BEAR8|We could say that the short term bias remains bearish, specially if there's a break of the important 110 support level, and we'll see resumption of the decline from 115.49 after kind of paused for a few days.
+BULL9|But of course the break below in turn will extend this corrective follow, so that basically started from the high of 118.65.
+BULL10|"Thank you so much for watching and have a great day."""

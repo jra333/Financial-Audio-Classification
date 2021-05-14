@@ -1,0 +1,20 @@
+BULL0|"""Gamestop's dizzying rallies and slumps have good company in Bitcoin."
+BULL1|The cryptocurrency's rally got new life this week after Tesla CEO Elon Musk announced that the electric vehicle maker invested $1.5 billion in Bitcoin and signaled its intent to begin accepting it as a form of payment.
+BEAR2|But even Elon Musk couldn't save the cryptocurrency from its volatility.
+NEUT3|Cryptocurrencies are good example where you see the same type of price action.
+NEUT4|Well, it's not clear these are justified by any value argument in any fundamental argument.
+BULL5|Bitcoin quadrupled in price in late 2020 after gaining some mainstream momentum, PayPal started allowing consumers to buy, sell, and hold cryptocurrencies in their PayPal wallets, and Fidelity launched its Bitcoin fund.
+NEUT6|Millennials also jumped on the Bitcoin bandwagon by using stimulus checks to buy the cryptocurrency concept of retail backing stock for it to go up and up and up.
+NEUT7|Bitcoin and Tesla are clear examples.
+BULL8|Bitcoin is also getting institutional interest of Fidelity Investments.
+BULL9|Survey found that 36% of institutional respondents held crypto in their portfolios more than six out of 10 expressed interest in Bitcoin and other cryptocurrencies up from fewer than half in 2019.
+NEUT10|I originally thought Bitcoin would end the year at 50 or 60,000 things are happening so much faster than I had predicted, so I think Bitcoin could end the year to $100,000.
+BEAR11|Most of Wall Street is still sitting on the sidelines.
+BULL12|JP Morgan is the farthest along in its Bitcoin acceptance last year.
+BULL13|It agreed to take on Bitcoin exchanges.
+NEUT14|Coinbase and Gemini Trust as banking clients.
+NEUT15|I don't think the the investor base is big enough and deep enough right now to support this kind of valuation.
+NEUT16|There are regulatory hurdles that stand in the way of Bitcoin going mainstream.
+NEUT17|the US Treasury Department has proposed requiring banks and other intermediaries to maintain records to verify customer identities for certain.
+NEUT18|Cryptocurrency transactions recording transactions would go against the very principle of Bitcoin, which promotes anonymity.
+NEUT19|"Those folks who have really dug in on this asset class know that using assets like Bitcoin for anything the least bit nefaria's, illicit, etc is probably the worst mechanism possible, since every single transaction leads the digital breadcrumb."""

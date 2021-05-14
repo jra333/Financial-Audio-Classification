@@ -1,0 +1,35 @@
+NEUT0|"""Well, it's hard to find an economic rationale for it."
+NEUT1|You know, we're looking at yesterday's numbers at 20 million people receiving some kind of unemployment benefits were looking at all of the survey data from the regional Fed, showing that the economy may be turning a quarter a corner certainly is not rebounding at the pace that it was before, or pretty much all the indicators are softening.
+NEUT2|And we're looking at, but I'll call soft, lockdown, soft shutdowns that are probably the precursor to more extensive shutdowns and lockdowns.
+BEAR3|Given as Karen just reported 180,000 people a day being diagnosed with the disease and 1500 people a day dying.
+NEUT4|So I don't think there's a good economic or a public health or or social reason to explain why they want to cut these programs at this particular time.
+NEUT5|So it's kind of gotta be politics doesn't it?
+BEAR6|The CDC has urged people to stay at home over Thanksgiving.
+NEUT7|This will have a devastating impact, of course, for.
+NEUT8|A lot of families and how they socialize, but it will have a near term economic impact as well.
+NEUT9|Have you got any good read as to what you think this might mean in terms of a shutdown of economic activity over the next week or so.
+BEAR10|Well, I don't think I shutdown is imminent, but impediments to normal economic activity are growing.
+BEAR11|For example, New York City shut down its school system today, I think is the first day of it.
+BEAR12|And that means that working parents won't be able to go to work because there we need to stay home for child care.
+BEAR13|And that in turn reduces their consumption.
+BEAR14|It reduces their income of their hourly workers, possibly induce it, reduces their consumption expenditures.
+NEUT15|So in this way.
+NEUT16|We're going to see this disease calling the shots as we move forward, even if we don't get lockdowns per say.
+BEAR17|There's a big drag out.
+BULL18|Their holiday travel is certainly going to be impacted, and as you know, Jeff better than I do.
+NEUT19|The airline industry is the transportation industry in the hospitality industries.
+BEAR20|They're all hurting really badly right now, and none of that's going to get any better with people staying at home over the Holidays.
+NEUT21|What will get better though?
+NEUT22|If we've learned anything from our experience with this virus, is it people do indeed, stay home if they do indeed wear their masks.
+NEUT23|And limit their exposure to large groups of people that the rate of infections will at least slow rather than at its current pace.
+BEAR24|Where the number of new infections every day is doubling every 16.1 days as of yesterday's numbers and shows no sign of decelerating.
+NEUT25|Call very good morning to.
+NEUT26|I'm just going back a stage if I may and and the case for the defense for the administration at the moment over allowing a lot of these extra measures to basically expiring December less than 3% of them are being used.
+NEUT27|At the moment there's one $2.6 trillion available and it's less than $100 billion are actually being used as well.
+NEUT28|So this case for the defense from Mr Mnuchin is this money can be used elsewhere or freed up to potentially be used elsewhere.
+NEUT29|That makes sense, doesn't it?
+NEUT30|Gosh Steve, you know, I remember reading about a boat that you guys over in England floated, called the Titanic and one of the problems was that there weren't enough lifeboats on board.
+NEUT31|And then none of those lifeboats were being used when the boat left of the dock.
+NEUT32|But when you needed them, they weren't there.
+NEUT33|These are the lifeboats for the economy.
+NEUT34|"These are the places where companies to go when there's no place else to go, whether they're small businesses or medium sized businesses, not the big ones that can go to the capital markets."""

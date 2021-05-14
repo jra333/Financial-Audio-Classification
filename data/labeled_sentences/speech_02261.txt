@@ -1,0 +1,16 @@
+NEUT0|"""This is my current portfolio."
+NEUT1|I'm holding 40% cash over hedge spy put expiration June 18, Strike 330 here.
+NEUT2|The positions I'm holding from biggest to smallest black wack.
+NEUT3|My target price is over 745.
+BEAR4|There's still downside risk from here.
+BEAR5|It could go down to 700.
+NEUT6|Keep that in mind if you want to get a position next is.
+NEUT7|United Health this current price is a steal.
+NEUT8|Here my target price is 269.
+NEUT9|That is.
+NEUT10|Cook Target price is 52 is so close I wouldn't be getting a position here if you don't already have a position like this.
+BULL11|Netflix, then Visa that's my top five are very pleased.
+NEUT12|Nexus with genuine.
+BEAR13|Pepsi Lulu Sales force Boeing.
+NEUT14|Affirm.
+NEUT15|"And Bumble and Jeremy."""

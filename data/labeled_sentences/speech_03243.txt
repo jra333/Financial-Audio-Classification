@@ -1,0 +1,13 @@
+NEUT0|"""Here's what we're watching with the trading week underway in London."
+NEUT1|A summer breeze is roughly markets with New York closed for July 4th.
+BEAR2|Quite trading generally rains with currencies, rangebound shares in Europe are losing steam after rising at the open with financials once more.
+NEUT3|The culprit.
+NEUT4|Better news for minors.
+BULL5|Buoyed by firmer commodity prices.
+BULL6|Indeed, silver is glistening, rising to a two year high as gold sits at $13150.00 an ounce government bond yields are also contained near their recent record lows.
+BULL7|And here's the reason why Global Equities had bounced back hard.
+BEAR8|After Brexit ever low yields bolsters the valuation argument for equities but ever low yields on expectations of further central bank easing.
+BEAR9|Also paint a Dow picture of future growth while Footsie 100 global companies reliant on dollar revenues are set to enjoy currency tailwind thanks to a much weaker Sterling top line.
+BEAR10|Growth remains elusive for many Brexit, spurred a short sharp shock for equities and above all, it has been a trade.
+NEUT11|The longer term investment case records, however, appears less certain.
+BULL12|"Particularly when financials are wilting and precious metals are rising."""

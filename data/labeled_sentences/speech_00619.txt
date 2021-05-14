@@ -1,0 +1,30 @@
+NEUT0|"""Let's get a check on how the markets are reacting to all of this."
+NEUT1|First, Jerrod Blicker is joining us now, Jerrod.
+NEUT2|It seems like a lot of the rally has already come in advance of the stimulus bill.
+NEUT3|And now, in today's session, there's more of a muddling around.
+NEUT4|Kind of feeling, yes, I'd agree with that.
+NEUT5|Stocks are forward looking, so if you're looking to the markets, they are discounting mechanism.
+NEUT6|But we see the Dow here.
+BULL7|It's up over 600 points.
+BULL8|That's good for 3%.
+BULL9|The NASDAQ is just positive.
+NEUT10|It's kind of.
+BEAR11|Oscillated around the unchanged line most of the day.
+BEAR12|Same for the Russell 2000, down just a little bit, and the S&P 500 up over 1% an Let's take a look at the Candle stick chart going back two months and we can see now we've definitively broken out of this downtrend, which is a good first step.
+BULL13|Yesterday was at 90% update in NYSE listed stocks.
+NEUT14|That means 90% of them ended in the green and when that happens we tend to get continuation now.
+NEUT15|How much is up for debate?
+BEAR16|But we do have a tailwind here of pension funds with which have to re balance buying equities and selling bonds into the end of the month, which is also the end of the quarter, so will look to see if that realizes some gains here for the indices.
+BEAR17|The 10 year T note yield is down just about half of a basis point here really.
+NEUT18|Not much action going on in the bond market for that matter.
+BULL19|Even just looking at stocks even though the Dow is up 3%, that's a relatively muted day as we wait for some more information here and then the 30 year two T-bond deal.
+BEAR20|That's down about two basis points.
+NEUT21|And the US dollar index this.
+BEAR22|This has kind of done the opposite of stocks, so it is broken.
+BEAR23|Its upward trend line and that is taking some pressure off of emerging markets and some of the people around the world just scrambling for dollars as few as little as a few days ago and then WTI futures here.
+BEAR24|They're not really doing much either, they're down just about 8 basis points.
+NEUT25|Hey investors, Zack Guzman?
+NEUT26|Here, are you interested in learning more about the markets and getting the latest financial news?
+NEUT27|Willing click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT28|Get the latest up to the minute market analysis.
+NEUT29|"Big interviews in the world of finance and information on how to manage your money every day, wherever you are."""

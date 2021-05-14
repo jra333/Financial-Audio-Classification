@@ -1,0 +1,19 @@
+NEUT0|"""Then there's a bit of irony here, I guess in talking about this on the Eve of a hearing where antitrust concerns are going to be raised."
+NEUT1|But Facebook certainly feels like they've got to compete in this space.
+NEUT2|What are they doing to try and compete?
+NEUT3|Yeah, they're really offering incentives for creators on Tik T.O.K to move over to Instagram's real, which is basically a clone of what Tick Tock has to offer.
+NEUT4|These short form quick videos that Tick Tock is known for.
+NEUT5|That's going to be something that's going to roll out in the US later.
+NEUT6|It's available in some countries now, but what Facebook is really doing is trying to ensure that they are able to play in this space as well.
+NEUT7|And we've seen them do this to Snapchat.
+NEUT8|They did that with Instagram stories, Instagram stories.
+NEUT9|Just a clone of snaps.
+NEUT10|The main feature of Snapchat and they're doing it again with Tick Tock and you know this is something that regulators lawmakers they're all looking at when it comes to Facebook, how they're able to use their sheer size to dominate smaller companies that don't acquiesce to its demands for a buyout, or it feels it can simply push out of the market by copying.
+NEUT11|And that's you know, again, something they tried to do with Snapchat.
+NEUT12|They purchased Instagram, obviously.
+NEUT13|They saw that as an issue or an up and coming issue.
+BEAR14|They purchased WhatsApp because they worried that it as a messaging service would be too large for competitor for Facebook Messenger.
+NEUT15|And now we're seeing them since they don't want to buy Tick Tock, but they can't buy Tiktok.
+NEUT16|They are now just trying to clone it and I think you know when regulators hear about this and look at this, they gotta be scratching our heads and thinking look man, just chill out for like 5 seconds while we have this hearing.
+NEUT17|Don't put yourself under the gun even more with this kind of move.
+BEAR18|"As we're about to have you on Capitol Hill yeah, and we should also add that this all comes is the government looks to potentially ban tick tock the app in the US as well."""

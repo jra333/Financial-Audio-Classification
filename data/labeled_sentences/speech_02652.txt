@@ -1,0 +1,20 @@
+BULL0|"""Thanksgiving week in the US was full of market moving news."
+NEUT1|Here's a quick recap of some of the developments that impacted rates in equities.
+BULL2|First, the announcement of successful testing of several vaccines were encouraging.
+BEAR3|Equities reacted positively as well optimism about improved economic recovery in 2021 caused investors to rotate into US small cap domestic stocks in the Russell 2000 Index with less relative support for the technology, stocks and NASDAQ that had done so well during the pandemic in 2020.
+BULL4|Second, U.S. government officially commenced funding of the transition to President elect by this occur even as a number of court cases challenging the election were still proceeding.
+BULL5|Overall, market participants reacted with expectations of a fiscal stimulus package that would come sooner rather than later in 2021.
+NEUT6|Finally, there was the expected nomination by the President elect to name former Fed Chair Janet Yellen to occupy the position of Treasury Secretary and the new administration.
+NEUT7|The markets embrace this positively for several reasons.
+BULL8|The choice of Janet Yellen offers the likelihood of a collaborative environment between the Fed and the Treasury given her long career with the fit, the large budget deficits that the new president will inherit means that a close relationship between the Treasury Department and the Fed will be especially important.
+NEUT9|We also note that Janet Yellen is a student of Labor market.
+NEUT10|She wrote her doctoral dissertation on why labor markets in the 1970s and early 1980s did not react as rapidly to recessions might have been expected by classical theories.
+BEAR11|Pandemic induced recession is all about jobs.
+BEAR12|U.S. economy is still short.
+BEAR13|Some ten million jobs from the pre pandemic peak.
+BEAR14|Many service sector companies have closed forever.
+BULL15|Many large companies are right sizing their workforce to align with slower demand.
+BEAR16|State and local governments face financial distress and are planning layoffs in 2021.
+NEUT17|Federal assistance does not appear having a labor markets expert at the helm of the US Treasury Department was considered a timely choice by market participants.
+NEUT18|His policy makers focus on how to rebuild the economy from the effects of the pandemic.
+NEUT19|"I'm Blue Putnam chief economist CME Group."""

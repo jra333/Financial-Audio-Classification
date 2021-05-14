@@ -1,0 +1,40 @@
+BULL0|"""Good afternoon Kate."
+BULL1|Great to be with you.
+NEUT2|So mostly just ran through.
+NEUT3|You are launching this in app delivery service in partnership with Uber eats.
+NEUT4|You also work with all of the major delivery aggregators.
+NEUT5|Why was it important for the company to bring this in house?
+NEUT6|Well, you know it's been quite a year, obviously, right?
+NEUT7|It's a it's a lot more fun this week, passing finally flipping the switch.
+NEUT8|I want this years brought a year ago.
+NEUT9|Today.
+NEUT10|Our business was probably 20% digital, 80% in person and overnight that flipped the 8020.
+NEUT11|And today we're about 60 and it's all about what we're calling Shack track.
+NEUT12|You know, for a long time Kate Shake Shack has really been known as the Great Burger experience coming together with human beings.
+NEUT13|We love that and we can't wait to get back to that.
+BULL14|But we also know we haven't been terribly convenient and launching delivery as a service in our own app today, great partnerships throughout Shack tracks or other third party delivery and new ways to add convenience to what has always been that Great Shack experience is really the path we're headed on today.
+BULL15|And it's been.
+NEUT16|It's really been an acceleration and amplification.
+BULL17|Of the evolution of our brand, which has been incredibly exciting and really the thing that has kept us on track, regaining momentum every month since the pandemic started.
+NEUT18|And ready mentioned Shack Track, which is of course your digital fulfillment service.
+NEUT19|It's something that you think will be a part of the company's business, even as people return to eat on premise.
+NEUT20|How will that work?
+BULL21|Well, we believe that people are going to come back.
+NEUT22|You know, I'm here in New York and every day we're seeing things.
+BULL23|Get a little bit better in New York City and great urban centers.
+NEUT24|There's no doubt that's going to take some time, but we believe people will gather again.
+NEUT25|But what's been amazing this year is how many people have said, you know what I want to use your channels?
+NEUT26|I want to preorder.
+NEUT27|I want to get it there at Shack Track.
+NEUT28|Pick it up outside.
+NEUT29|Convenient will even do it.
+NEUT30|A curbside delivery for you and later this year we're going to open our first ever drive throughs, which we're really excited about.
+NEUT31|And it's all about really.
+NEUT32|Just adding that digital convenience.
+BULL33|Our digital sales this year are up 3 1/2 times just on our own chats, not including delivery channels in the last year.
+NEUT34|As you said earlier, we've got 2,000,000 new guests using those channels, and I think what we're aiming towards is having people get out all the friction of what was hard before.
+NEUT35|Ordering and paying and kind of annoying stuff of the restaurant legacy experience, but still be able to be there with friends come together or take it to go get home with your family or back to the office or wherever you're headed.
+NEUT36|It's a game changer for us.
+BULL37|We're really excited to keep building this out and keep showing our guests that easier ways they can use fiction.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,18 @@
+NEUT0|"""Neo stock analysis and predictions, February 6th."
+NEUT1|In today's NEO stock analysis and predictions, biggest US pension buys more NIO.
+NEUT2|Alright, let's get started America's largest public pension by assets recently made major changes to its investment portfolio.
+NEUT3|The California Public Employees Retirement System bought more NIO in the fourth quarter.
+NEUT4|CalPERS, as the pension fund, is known, disclosed their trades among others, in a format filed with the Securities and Exchange Commission, CalPERS, which has total assets of $445.6 billion.
+NEUT5|The pension Board 500 and 84,842 more shares of NIO which they now have a total of 2.6 million Adrs.
+NEUT6|CalPERS had been buying up an IO in the third quarter as well.
+BULL7|Nio Adrs rocketed more than 12 times in value last year, and so far, in 2021 through Friday's close, they were up 16.3%.
+BULL8|In comparison, the S&P 500 Index, a broad measure of the market, rose 16.3% in 2020 and has gained 3.5% so far this year.
+BULL9|Nio's deliveries were strong in January are bullish sign for investors who seem to have an insatiable appetite for EV stocks.
+BULL10|Nonetheless, Nio moved in January to raise capital through bonds.
+NEUT11|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT12|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT13|If you enjoyed this edition of NEO stock analysis and predictions.
+NEUT14|Leave a comment and please hit the like or share button.
+BULL15|We'd really appreciate it.
+NEUT16|Are you still watching and want more?
+NEUT17|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

@@ -1,0 +1,16 @@
+BEAR0|"""Facebook had a rough week, internal issues went public due to outcry over the platforms, moderation, stance and advertising policies."
+NEUT1|In light of the events surrounding police brutality and Donald Trump's response.
+BULL2|Despite the latest strings of controversy, Facebook is one of the few S&P 500 companies that have been able to show positive year to date.
+BULL3|Returns from the pandemic up 13% since January.
+NEUT4|This figure is critical as investors are looking for safe plays midst a climate of volatility and prolonged uncertainty.
+NEUT5|The recent events and negative headlines are highly concerning for some, but not so much for those strictly focused on numbers.
+BULL6|Facebook still has over 3 billion active users and managed to pull off stable advertising revenues throughout the pandemic, which helps Stoke the Flames for bullish traders.
+BULL7|Some analysts predict that Facebook will see future gains as it optimizes the monetization of WhatsApp process that is still in the initial stages.
+BULL8|Additionally the recent return of Chris Cox to his old position of Chief Product Officer has raised hopes for many that view him as an advocate for internal change and progressive vision for the company.
+NEUT9|No stranger to controversy.
+NEUT10|Facebook will continue to have an important role in 2020.
+BULL11|From ongoing developments over the pandemic to the upcoming U.S. presidential election, Facebook will have more chances to win favorability inside and outside the marketplace.
+NEUT12|What are your thoughts on trading Facebook stock?
+NEUT13|We'd love to hear from you in the comments section.
+NEUT14|Make sure to like and subscribe to our channel for the latest developments in the trading world.
+BULL15|"Thanks for watching and see you next time."""

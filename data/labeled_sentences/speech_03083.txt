@@ -1,0 +1,14 @@
+NEUT0|"""Joining us now is Scott Kessler, head of technology sector equity research at CFR a research."
+NEUT1|He has a buy rating with a price target of $238.00 a share.
+NEUT2|You still like this stock?
+NEUT3|You're not troubled by all of these investigations swirling around it, and increasingly, let's just say prickly press that surrounds this one time, darling?
+NEUT4|Well, so Tyler, I think there are two separate questions.
+NEUT5|Honestly, this is one of those situations where you don't necessarily have to like the company to see the stock as attractive, and that's really what's going on here.
+BEAR6|When we downgraded our opinion on Facebook last summer before the company reported Q2 results, we thought very positively about a lot of the things that the company was doing, but we thought the stock was overvalued.
+BULL7|Here we have a situation where, as you referenced earlier, the stock has recovered nicely, but we still still see a lot of headroom because we think the fundamental story is intact, despite significant risks related to a lot of inquiries and investigations around the world.
+NEUT8|And here at home as you speak to or analyze customers, by which I mean users and advertisers, are they as riled up as regulators seem to be?
+NEUT9|It doesn't appear to be the case now.
+NEUT10|We haven't seen obviously what the company is going to report for Q1 where they're going to talk about Q1 results likely next month, but I think it's fair to say that now this scandal or kind of offshoots of it, is really about a year old.
+BULL11|And what we've seen is that, for the most part, the fundamental story, particularly on the top line, I'd say, is more intact than people probably anticipated.
+NEUT12|Going back a year or nine months or six months and so that's something to keep in mind, but of course there are other things going on at the company.
+NEUT13|"They're transitioning more to a stories format and spending a heck of a lot money on the health and security of their platforms."""

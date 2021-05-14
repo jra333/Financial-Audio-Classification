@@ -1,0 +1,30 @@
+BULL0|"""Thank you for joining me."
+NEUT1|I'm Alexandra and I want to talk about Apple today.
+NEUT2|So yesterday we did the maker of the Internet Explorer.
+NEUT3|So today we're doing the maker of Safari and I guess tomorrow we do an Oracle or something.
+NEUT4|Obviously they also make the Mac book that I'm forced to work on and they have other unfortunate products like iPhones that make things more difficult than they need to be.
+NEUT5|But you know, kind of works for them I guess.
+NEUT6|Stock price $135.37 which gives them a market cap of $2.27 trillion.
+BULL7|Again, getting up their revenue.
+NEUT8|$274.5 billion earnings $57.4 billion, which gives them a PE of 36 with a four PE of 32.
+BULL9|Both of those slightly better than Microsoft that we've done yesterday.
+NEUT10|Dividend yield .61% with the payout ratio of 22%.
+NEUT11|Nothing to write home about.
+BULL12|It's still better than the absolutely terrible bond yields, but not by much.
+NEUT13|So if you're looking for a dividend stock, this is probably not it.
+NEUT14|Total assets $323 billion.
+NEUT15|Total liabilities $258 billion, which gives them a total stockholders equity of $65 billion.
+NEUT16|And the reason it's so terrible that they spent $78 billion in stock buybacks that last year, which is more than the current equity total and $78 billion, is not really out of the ordinary.
+NEUT17|So, you know, not not a big fan, not a fan at all.
+NEUT18|Risk factors are none, I think unless someone else comes up with a great phone that costs $1000, I don't really see them having too many competitors there.
+BEAR19|Obviously there's also other competitors in the market and that has really been a problem for Apple.
+NEUT20|They have competition in pretty much everything they do except $4000 monitor stands, but that's a different issue and they seem to be doing well despite all that, so I don't think that there's anything changing anytime soon.
+NEUT21|Obviously, for growth investor, the 5:00 ISH percent growth is not great, so probably not going to be a stock for you.
+BULL22|For a dividend investor, there is definitely better dividend stocks out there.
+NEUT23|I wouldn't really think of Apple as the most stable company either.
+BEAR24|Despite their near meteoric rise in the past 20 years, but overall dividend is just too low.
+BEAR25|For a value investor, the P is just too high and the balance sheet is pretty terrible.
+BULL26|So also definitely better stocks out there.
+NEUT27|That's it for me for today.
+NEUT28|If you like this video mixer, subscribe and coming up more videos every day before market open.
+BULL29|"I hope you have a successful day."""

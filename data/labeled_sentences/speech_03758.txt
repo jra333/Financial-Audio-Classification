@@ -1,0 +1,38 @@
+NEUT0|"""I'm Dan T. Mental MarketWatch that I'm here with Sean Gourley, CTO and founder of Squid Ink, and we're going to talk about what happened on Tuesday when hacking of the AP Twitter account triggered a massive market sell off."
+NEUT1|What happened is wrong.
+NEUT2|Well, So what we see here is AP Twitter account getting hacked in a tweet comes out that says there's been a bomb.
+BEAR3|An explosion in the White House, and Barack Obama is injured.
+NEUT4|What happens then?
+NEUT5|Is it kicks off instead of chain reactions.
+BEAR6|That causes about $200 billion of capital T wiped out of the markets for about 5 minutes and then it bounces back.
+NEUT7|Computers have played a role in trading for years, but that role has been changing.
+NEUT8|I mean, we talked about earlier how in the past it's usually just to figure out that movement of the stock.
+NEUT9|But computers have become much more sophisticated.
+NEUT10|Can you talk a bit about that right?
+NEUT11|Exactly so in the old days we talking 10 years ago we would have had computers trading on the zeros and ones sort of tick information about the price of a stock and maybe the volume that was traded.
+NEUT12|It was all the information that you'd get looking at a stock chart, but of course you know what happened then is the computers need to move faster 'cause there was a competition for speed, but they need to get smarter and so they start to learn how to read.
+NEUT13|And as the algorithms learn how to read, they start to read news.
+NEUT14|And then you also have now the random news out there that the tweets, the news headlines.
+NEUT15|How is the computers adapted to those changing the types of information, right?
+NEUT16|So the standard natural language processing, which is the technology that these machines computers used to read.
+NEUT17|It will be the same stuff you find in a spam filter.
+NEUT18|You know blocking your emails from people you don't know, but what what goes on there is you can think of the easier problem which is for a computer to say.
+NEUT19|I know an earnings call is coming out.
+NEUT20|I know a statement from the Fed is coming out.
+NEUT21|What's a lot harder though is to for an algorithm to look through millions of different tweets and look for events that weren't scheduled.
+NEUT22|Look for events that weren't predicted it so much noisier world where people can tweet in any kind of language.
+NEUT23|That is unstructured and not necessarily conforming to very, very formal English.
+NEUT24|Can these systems become much more sophisticated so where they know you know quickly that OK, this AP tweet was hooks so so there's a couple of things going on here.
+NEUT25|The mathematical signature of a real bomb attack like we had in Boston looks very, very different from the mathematical signature of tweets that we had from the AP News hoax.
+NEUT26|If you look at the tweets through time in Boston, it's sort of radiated out with pictures.
+NEUT27|And different kinds of words.
+NEUT28|It was highly scented on Boston initially and then moved out around the world, and it had a certain kind of frequency timing structure that the AP Newswire hoax didn't have.
+NEUT29|It had a different kind of structure, so we can actually tell if we look back at that and say this was real.
+NEUT30|This was fake just based on these mathematical signatures.
+NEUT31|Of course, that takes a little bit of time.
+NEUT32|So an algorithm that's making its money by being the fastest.
+NEUT33|We're talking in a world of milliseconds here.
+NEUT34|Doesn't have time to process through that information, doesn't have time to make complex calculations and so it just gets out of the market and says, you know what?
+BEAR35|I don't know what to do and then liquidity banishes.
+NEUT36|And that's what happened.
+BULL37|"Thank you very much, thank you."""

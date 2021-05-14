@@ -1,0 +1,4 @@
+NEUT0|"""Buy, Sell buy sell funny money Bupa."
+NEUT1|That sounded important.
+NEUT2|Yeah, that's Wall Street stuff.
+BEAR3|"Sorry bout that."""

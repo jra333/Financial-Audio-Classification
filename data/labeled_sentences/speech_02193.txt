@@ -1,0 +1,27 @@
+BEAR0|"""With stocks having their worst showing in years, the key question on just about everyone's mind is whether to view all of this as a correction, or if a bear market is on the horizon."
+NEUT1|Paul Merriman, founder of investment advisory firm.
+NEUT2|Merriman Wealth Management in Seattle, wrote an article on MarketWatch that draws distinctions between a correction and a bear market.
+NEUT3|Here are four things to know.
+NEUT4|First, what is a bear market?
+BEAR5|It's a downturn of 20% or more lasting at least 60 days in.
+NEUT6|Any broad equity index such as the Dow Jones Industrial Average or the S&P 500.
+NEUT7|It's different from a correction, which is defined simply as a 10% drop from the market's recent high, and if the 20% plus downturn last less than two months, it's considered a correction instead of a bear market.
+BEAR8|2nd, A Bear market is triggered when investors lose faith in the market as a whole, decreasing the demand for stocks.
+BEAR9|This tends to happen when the economy enters a recession.
+BEAR10|Unemployment is high.
+BEAR11|An rising third like earthquakes, bear markets are hard to predict and they are especially hazardous to those who failed to prepare since 1929. the US stock market has experienced 25 bear markets, an average of 1 every 3.4 years.
+NEUT12|The last bear market ended in March 2009.
+NEUT13|So statistically we're overdue for one, but also like earthquakes.
+NEUT14|Bear markets don't last forever.
+BEAR15|These 25 bear markets lasted on average.
+NEUT16|For ten months, an 4 bear markets can be relatively mild or quite harsh.
+BEAR17|The average bear market loss was 35%.
+NEUT18|The smallest loss was 21% in 1949.
+BEAR19|The worst was a drop of 62% from November 1931 to June 1932.
+NEUT20|So what does Merriman say about protecting yourself in a bear market?
+NEUT21|One guaranteed protection, he says, is to never invest in equities.
+NEUT22|But then again, if you do that, you'll never reap the gains.
+NEUT23|From bull markets, a better form of protection is to diversify among many equity asset classes and other effective means of protection.
+NEUT24|Is adding bond funds in the end, the advice is simple.
+NEUT25|Keep your expectations in check, be patient and take the Longview to check out the rest of Merrymans bear market tips.
+NEUT26|"Go to marketwatch.com."""

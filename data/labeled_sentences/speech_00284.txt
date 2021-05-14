@@ -1,0 +1,30 @@
+NEUT0|"""I will part of that conversation talk about New York real estate and kind of where we are in that."
+NEUT1|So if you take a side San Francisco and New York, something really interesting guy is actually happening in urban areas.
+NEUT2|So take a look at this chart so the white line is urban price growth in the Orange line is suburban price growth.
+BEAR3|Now clearly what happened during the midst of the pandemic, everyone was fleeing cities and going into suburbs who had house prices and apartment prices in urban cities go down versus suburban areas.
+BULL4|Prices went up.
+NEUT5|Now that trend really stayed until butts about December.
+NEUT6|Now that we're about two months into the year, you're seeing.
+BULL7|Urban prices recovered just a bit.
+BULL8|Maybe we're seeing some signs of stabilization, or at least that Max.
+BEAR9|Exodus has kind of stopped.
+NEUT10|Anecdotally, we all know that I just bought an apartment in Brooklyn.
+BEAR11|Obviously, that's New York, but the lawyer that we closed with was telling me that there are some seriously huge deals that are going down in New York, and she's like, I wonder if we're looking at like a real estate grab where you're seeing a lot of people coming with these low rates and just sort of pumping money because things are so cheap right now and prices have fallen so much in main areas like Manhattan.
+NEUT12|Yeah, I think about the long term.
+NEUT13|You would probably assume a bit like the London market that it always comes back and in some ways if you are going to get inflation as well.
+BULL14|These are real assets and they have the potential to go up so there is a reflation trade here.
+NEUT15|If you're worried about inflation coming through, real estate is 1 area you could potentially find a way of protecting yourself.
+NEUT16|I do wonder whether people will continue to move out you didn't.
+NEUT17|You decided to stick around, but a lot of other people have like did you?
+NEUT18|Did you think about moving out?
+NEUT19|No kidding, my husband ever born in Manhattan.
+NEUT20|If we did, I'd be disowned by my parents.
+NEUT21|Would never make it no.
+NEUT22|Not at all.
+NEUT23|We didn't think of it, but the market is definitely quite active.
+NEUT24|This is totally anecdotally right now.
+NEUT25|Things are still, you know, closing might take longer to close.
+NEUT26|Some of that's just the pipeline of getting the funding and getting all the information from the government, etc.
+NEUT27|But it's still actually moving.
+NEUT28|I just think it depends on what that price point actually is and how the discounts come down far enough that we see some stability.
+NEUT29|"Now, if Salt was repealed, that would make an enormous difference for real estate in the tri-state area."""

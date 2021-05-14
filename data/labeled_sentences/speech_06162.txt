@@ -1,0 +1,17 @@
+NEUT0|"""The intrinsic value of Amazon is range between $34.56 per share and $35.79 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $34.56 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $34.56 in cash and cash equivalents.
+NEUT4|Paying $35.79 per share represents the company's price per share, based on its earnings.
+NEUT5|A price of $35.79 per share represents the fractional payment for the company's next 20 years of median historical earnings.
+NEUT6|A conservative way to value a company using future earnings, which slightly differs from the result you get by calculating the company's price to earnings ratio.
+NEUT7|Now what's the stock currently trading at now?
+NEUT8|The stock is currently trading at a price of $3036.15 per share.
+NEUT9|Incredible due to the fact that this price falls far beyond the upper bound of the company's intrinsic value.
+NEUT10|It would be reasonable to assume that the stock is currently overpriced.
+BULL11|Your next step would be to find a better priced investment vehicle which can gain a similar return with similar risk, all while maintaining safety of principle with an ample margin of safety for the defensive investor.
+NEUT12|Low cost index fund satisfies the Afor mentioned investment vehicle characteristics.
+NEUT13|The Vanguard 500 Index Fund is the same fund Warren Buffett used in his famous 10 year bet against the hedge fund industry, which he won.
+NEUT14|Until we're able to find a stock which passes the scrutiny required of the analysis prescribed by Benjamin Graham and the value investing community as a whole, this investment vehicle should suffice, and specifically the Vanguard 500 Index Fund serves as a prudent investment alternative to Amazon until the stock trades below a price of $35.79 per share.
+NEUT15|So join a value investing community here on YouTube and subscribe to my channel so you can continue to gain insight on how to analyze business performance so that your investment performance is optimized.
+NEUT16|"Remember when your investment performance is optimized value investors, so as you well production, I'll see you guys next video."""

@@ -1,0 +1,15 @@
+BEAR0|"""So here we are, with the Dow Jones industrial average back above 14,000 for the first time since October 2007."
+BEAR1|In fact, today marked the first close above that level since October 12th, 2007.
+NEUT2|Now I started here at Forbes in August of 2007.
+BEAR3|So I watched that entire March up to the October 2007 highs, and then I've been here for the entire decline down to the March 2009 lows and the huge recovery we've seen in the past 3 1/2 years, with the Dow back of 14,000.
+NEUT4|A lot of people are wearing that.
+BULL5|We may be back in the same kind of published conditions that we were in 2007.
+NEUT6|But let me tell you this, there is no way that we're at the same point we were in 2007 when all the road signs for a collapse ahead were there and people were definitely starting to spot them.
+NEUT7|Instead, this economy in this country, in this stock market have a lot going for them.
+BULL8|The housing market is showing the early signs of recovery that should have very long legs.
+BULL9|The labor market is showing signs of life for the first time in several years and could keep rising through this year and into the future.
+BEAR10|The bear case is that the Federal Reserve could pull back on the extraordinary stimulus it's put in recent years, and that the debt and deficits at this country has an issue.
+BEAR11|Could crop up and weigh down stocks moving forward.
+BULL12|With the Dow and the S&P not far off their all time highs, I'm betting that we get to those levels sometime this year.
+BULL13|It might not be immediately because after a big January, there's certainly room for a pullback, but watch to hit those levels at some point during 2013.
+BULL14|"Possibly not finishing at those levels, but there's a lot in place that could move this market higher in the weeks and months to come."""

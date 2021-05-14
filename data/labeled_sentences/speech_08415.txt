@@ -1,0 +1,46 @@
+NEUT0|"""A new potential deal to tell you about this morning."
+NEUT1|Xerox is said to be considering a bid for computer and printer maker.
+NEUT2|HP.
+NEUT3|HP is about three times as large as Xerox in terms of market capitalization, the Wall Street Journal had the exclusive story and is joining us right now.
+NEUT4|The Reporter behind that scoop is the journals Carolyn Bardo and Karen.
+BULL5|Thanks for being here.
+NEUT6|Thanks for having me kind of weird to think of these two companies grasping Onan and combining what's.
+NEUT7|What's the logic behind it?
+NEUT8|Yeah, size wise, I think the idea catches everyone by surprise.
+NEUT9|The logic is that both of these companies are kind of at a turning point.
+NEUT10|Obviously printed documents.
+NEUT11|We all use a lot fewer of them.
+NEUT12|Printers in general printer sales is not a fast growing industry.
+BULL13|They're both in cost cutting mode.
+BULL14|The idea is that by combining they could cut even more costs, boosting their profit margins.
+BULL15|An you know be stronger together.
+NEUT16|Also there in slightly different industries, so they both make printers, but obviously Xerox is known more for their larger copy machines.
+NEUT17|The ones that we have in our offices, whereas HP is probably more well known for their small printers that we have at home, as well as a huge PC business.
+NEUT18|So they could also combine forces in terms of diversification.
+NEUT19|So it makes sense to you when you hear bout two companies that are both obviously in cost cutting modes, both in a little bit of a panic kind of getting together.
+NEUT20|Does that play out?
+NEUT21|You think?
+NEUT22|I mean, that's the type of deal that we tend to see in these types of industries where revenue is not quickly growing and so bankers have long suspected that.
+NEUT23|But you know, we may see a printer company merger.
+NEUT24|What did they suspect it was going to be?
+NEUT25|Xerox making an offer for HP?
+NEUT26|Probably not.
+NEUT27|Is there any reason to think that the Justice Department would step in and say OK too much overlap here or anything along those lines?
+NEUT28|Or when you're in a business in an industry that's in trouble, is that kind of glossed over?
+NEUT29|It's certainly a valid question.
+NEUT30|I mean, the fact that Xerox has apparently, as we said in this story, found a bank to say that they think they have.
+BULL31|They have full confidence they could raise the necessary funding for this bid and that Xerox has thought through the rationale debate.
+NEUT32|It leads me to believe they've thought through the antitrust reasons and they see the fact that one the declining sales and then to the fact that they are in slightly different parts of the industry could be working in their favor.
+BULL33|Their immediate knee jerk reaction is HP shares up by about 8 1/2 percent.
+BEAR34|Xerox shares down by over 3 1/2 percent.
+NEUT35|That makes sense too.
+NEUT36|I mean, obviously the market is looking at this and saying, yeah, OK, there's something really happening here.
+NEUT37|But yeah, I think I think that's.
+NEUT38|The market saying that this could make little sense.
+NEUT39|I mean, HP and Xerox are two companies in a very different spot right now.
+BULL40|Xerox, as we know, has already been in cost cutting mode very aggressively.
+BULL41|They just posted better than expected earnings last week.
+BULL42|They announced a deal to sell their joint venture, which, with Fujifilm just yesterday, so their stock is up about 84%.
+NEUT43|So far this year before today, how did they get to be the acquiring company when there's so much smaller that they're coming from a position of relative strength?
+NEUT44|At the moment their their stock is more richly valued, whether that ends up to be the deal that we see.
+NEUT45|"Is still to be seen I think."""

@@ -1,0 +1,38 @@
+NEUT0|"""The market seems to not be really worried about the budget."
+NEUT1|They're more focused on the data and the prospect of the Fed being on hold.
+NEUT2|An inflation being too low, so no, financing has been an issue and my guess is in the short run it won't be.
+NEUT3|Partly Andrew.
+NEUT4|'cause of what Joe said.
+NEUT5|Inflation is quote unquote, too low interest rates are extremely low in Germany, just helped us out with that, didn't they?
+NEUT6|I mean, what would our interest rates be if German boons weren't basically negative again?
+NEUT7|Well, they they wouldn't.
+BULL8|They would probably be higher I think, but the point of this is is that where interest rates are validates a higher multiple on the market and that's why you're seeing some strength today.
+NEUT9|Yeah, we're seeing 300 points or so to the upside, if you take bowing out of it, Joe, go to you on that as well.
+NEUT10|I mean, how can we take for granted that European debt is going to be as moribund as it is, and therefore the 10 year yield you could argue is divorced from U.S. economic prospects?
+NEUT11|And what do you make of the fact that wage growth has been so remarkable?
+BEAR12|So on the wage side, wages have been relatively weak.
+BEAR13|Kelly because Productivity's been weak, but on the US side for rates US 10 year yields are actually high relative to most of the globe, but that's of course because of Europe as you mentioned, has very low rates of much of the German yield curve is negative, and as long as ECB continues with this extraordinary stimulus, which it just said it will through this year, that's going to cap the ability of 10 year yields to rise.
+BEAR14|I expect 10 year yields to stay comfortably below 3%.
+NEUT15|And that probably means we could do a lot more on the fiscal side for infrastructure and things of that sort.
+NEUT16|You know, entering the notes that I have here, you are mentioning to our segment producer that a lot of things in the market indicated that a pause was on tap, that the breath was weakening.
+BEAR17|The transports look terrible.
+BEAR18|The small caps look very bad, and these are patterns that we've seen for the past couple of weeks.
+BULL19|And yet here we are today very strong in the markets thanks to big Cap technology.
+NEUT20|We had that Apple upgrade.
+BULL21|We had a Facebook upgrade.
+NEUT22|We have semiconductors, really.
+BULL23|Rallying today.
+NEUT24|Does this really show you that this is a big cap tech kind of market?
+NEUT25|As long as you have that leadership?
+BULL26|The markets are alright.
+BEAR27|Yeah, absolutely look, I think on the negative the biggest negative for the market is that 75% of the market that the companies are that buying back their stock will.
+NEUT28|The window will close by the end of this week.
+NEUT29|That's the biggest buyer.
+NEUT30|Stocks will not be in buying because leading up to the quarter the positives is that we two things happen Friday and yesterday.
+BEAR31|On Friday we had a week employment number.
+BEAR32|The market actually does better when we have weak employment numbers.
+NEUT33|Then when we have very strong employment numbers.
+NEUT34|And then you had fed Chairman Powell said he's not going to raise rates anytime soon, so I think that's a very powerful combination.
+BEAR35|So we have this battle going on in the market between the Fed causing the P to go up.
+BEAR36|But we have some earnings revisions that are going down right now.
+NEUT37|"The markets for focused on the former, not the latter."""

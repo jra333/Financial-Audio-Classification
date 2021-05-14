@@ -1,0 +1,6 @@
+BEAR0|"""Bitcoin volatility continues in his traded in a range of 32,400 to 39,000 over the last 36 hours."
+BULL1|Yesterday's gain was the largest one day percentage gain since November 5th.
+NEUT2|It's market cap is now over $700 billion or almost 70% of the total crypto market cap.
+BULL3|The push by institutional investors has accelerated trading volumes.
+BULL4|Bitcoin futures volume at the CME broken all time record in December.
+BULL5|"As average daily volume reached over 11,000 contracts equal to 56,000 Bitcoin in addition to the increased interest from institutional investors, companies such as PayPal Square, an MicroStrategy announced massive investments and interest in Bitcoin, further pushing the crypto currency higher."""

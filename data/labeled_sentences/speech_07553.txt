@@ -1,0 +1,3 @@
+NEUT0|Around the world.
+NEUT1|Headquarters of the Wall Street Journal in New York.
+NEUT2|This is the Wall Street Journal report.

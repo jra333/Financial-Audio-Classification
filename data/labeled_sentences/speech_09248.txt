@@ -1,0 +1,40 @@
+BEAR0|"""The dollar is poised for its a fourth straight weekly decline against."
+NEUT1|So if the dollar does continue.
+NEUT2|Currency strategists, how should investors manage their equity portfolios?
+NEUT3|Derek as well as a senior portfolio manager with AIM Investments and he is joining us from San Francisco.
+NEUT4|Welcome to InFocus Derek.
+BULL5|Thanks so much for joining us.
+NEUT6|Good morning dear to we had a currency strategist on earlier you and I were talking to the break.
+BEAR7|He says that he sees the dollar easily falling to 1:30 Euro 110 yen, which is actually where we are today.
+NEUT8|Do you think if this happens that this is something equity investors?
+NEUT9|Should be monitoring.
+NEUT10|Well, it's difficult to really position yourself particularly short-term against currency swings.
+NEUT11|There are certain ways you can position your portfolio to make sure that you're covered against it.
+NEUT12|Just sort of hedged against weakness in the dollar.
+NEUT13|One of those ways would be.
+NEUT14|Large cap stocks versus small caps.
+BULL15|Another is obviously buying a larger portion of international equities, which most domestic investors are woefully underweight.
+NEUT16|A third way from a sector perspective is to focus on sectors that have a large portion of their revenues coming from overseas clients.
+NEUT17|Notably, technology would fit into that category.
+BULL18|That may may help that sector.
+NEUT19|Speaker, are there any particular companies, not necessarily ones that you own, but ones that you think are good examples of this, either in the tech arena or as you just mentioned, sort of generically the large cap multinationals.
+NEUT20|Sure, one company might take a look at would be for example be Qualcomm.
+NEUT21|So Qualcomm is a provider.
+NEUT22|They manufacture chipsets for cellular telephones and a significant portion of their business, and particularly their growth comes from Asia where a lot of their types of chipsets are being used.
+BULL23|So if the dollar continues to weaken, those chipsets become more affordable to those clients and so those products may grow in revenue.
+BULL24|And so that may help.
+BEAR25|Qualcomm's stock price over the next couple of, say, 6 to 12 months if the dollar continues to weaken.
+BEAR26|Let's say this Derek obviously, even in your intro, we were saying that we're seeing really solid weekly declines.
+NEUT27|So for the dollar, at least for the past month, month and a half.
+BEAR28|But it's basically since the beginning of the year off and on.
+NEUT29|Have you made any changes to your portfolio based on what you're seeing with the dollar?
+NEUT30|No, we haven't.
+NEUT31|For with the AIM Global Equity Fund, we aim to provide a very broadly diversified portfolio for our investors, focusing more on stocks based on the individual merit to the companies instead of of what's going on economically.
+NEUT32|However, we do try and position the portfolio to hedge against these risks, such as a dollar decline, but we had been doing that throughout the year already, and so there's no, we don't need to make any changes at this point.
+NEUT33|So even if the dollar does go for example, as we were talking about those levels, 130 Euro, 110 yen or stays at this level with the yen.
+NEUT34|You won't make any changes not at this point because it's it's very, very difficult to predict.
+NEUT35|Deletion is short term on a 6 to 12 month horizon.
+NEUT36|Which way currencies are going to go and even on a longer three to five year Horizon it's it's quite a bit of difficulty in predicting those types of movements also, and so we don't need to make any very short term changes in our risk position with regards to the dollar.
+BULL37|OK Derek, thank you so much for your time.
+NEUT38|Thank you very much Deidre.
+BULL39|"Our thanks to Derek is well he is senior portfolio manager at AIM."""

@@ -1,0 +1,14 @@
+NEUT0|"""Indeed I do."
+NEUT1|CNBC's Houston has exclusively broken this story.
+NEUT2|You might recall the company Haven that was formed from Amazon, Berkshire Hathaway, JP Morgan.
+NEUT3|They were designed or basically trying to disrupt the US health care industry.
+NEUT4|Will that venture is disbanding after just three years?
+NEUT5|And if you recall, the health care stocks sold off when this particular news was announced a couple of years ago will see whether or not we get a bounce.
+NEUT6|Basically, haven.
+BULL7|Has made good progress.
+NEUT8|They are saying in exploring a wide range of health care solutions as well as plotting new ways to make primary care easier to access.
+NEUT9|However, this venture is now disbanding and the 57 employees of which are Boston based will be distributed through either JPMorgan, Amazon or Berkshire Hathaway.
+BEAR10|They will continue to collaborate on an informal basis, but Scott, I think you probably remember this was going to be the big disruptor for health care health insurance, and we did see those stocks sell off when that.
+NEUT11|Was announced, and now they're disbanding after three years.
+NEUT12|The big fanfare with Buffett, Bezos, and an Jamie Dimon.
+BULL13|"Of course, I remember that day well, so thank you very much."""

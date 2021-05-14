@@ -1,0 +1,23 @@
+NEUT0|"""What do you make of?"
+NEUT1|Well, the risk on flavor in terms of the markets.
+NEUT2|Is it just day-to-day volatility you're expecting?
+BULL3|Yeah, I mean, I think you're going to continue to see volatility, but we had a lot of good news over the weekend.
+BEAR4|We had another vaccine that looks like it's promising we have the election coming to an end and all those who think that that's going to drag out I think are getting more and more resigned to the fact that it's not going to drag out.
+BEAR5|And we also have the reopen trade that we've been talking about, so this is going to be a tough few months with covid cases and deaths, which is tragic.
+BULL6|And obviously we don't want to forget, but I think the reopen trade is alive and well.
+NEUT7|We're going to switch quickly to figure out how to get these vaccinations.
+BULL8|Across the country and across the world and optimism is is apparent and you're going to see a lot of that post Thanksgiving as well.
+NEUT9|You're going to see a flood of IPO's between Thanksgiving and Christmas.
+NEUT10|Watch how those are received and if those are received well that bodes extremely well.
+NEUT11|For 2021 this is going to be a very busy time post Thanksgiving through Christmas and you talk about IPOs.
+NEUT12|We know of course you're in beautiful San Francisco, which is the heart really of technology as well.
+NEUT13|Where are we on the big tech to some of these smaller cap rotation trades?
+NEUT14|Well, the nifty you know my friend, I always talked about Mount Fang.
+NEUT15|We had, you know Microsoft and tested the Fang stocks and that has been the safe haven since Covid started.
+NEUT16|Now you look at some of the widening out of those names, and that's clearly happening, and some of the more successful companies that have gone public in the last year and some of the great returns of the last year.
+NEUT17|You look at Palatine, you look at zoom.
+NEUT18|You look at Cloudflare.
+NEUT19|You look at up work.
+NEUT20|You look at some of these names where the expansion of those names, not the mega caps.
+BULL21|And it's been a great place to find return.
+BULL22|"And that's why the IPO window, which I think is open and will show promise in the next six weeks, is some place investors want to pay attention to."""

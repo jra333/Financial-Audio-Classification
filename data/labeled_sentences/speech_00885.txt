@@ -1,0 +1,27 @@
+NEUT0|"""Are covid lockdowns bullish or bearish for stocks Footsie 100 and focus?"
+NEUT1|I'm Bob Stokes with Elliott Wave International.
+NEUT2|Elliott Wave International has long held an proven that events outside of the market do not determine the long term trend of prices in the short term, news and events can and often do contribute to market volatility.
+NEUT3|Although not always and not always logically.
+NEUT4|But then the long term trend resumes.
+NEUT5|We've shown countless examples, and here's one of the latest, the lockdowns related to covid.
+BEAR6|One might conclude that investors would view the business interruptions resulting from the lockdown.
+BEAR7|As a sign that stock prices would decline, hence the sell off would occur with each lockdown announcement.
+NEUT8|However, the evidence shows no correlation between the behavior of the market.
+BEAR9|Ann lockdowns.
+NEUT10|Here's a chart and commentary from our December global market perspective.
+NEUT11|Notice the non relationship between the Footsie 100 and the UK stringency index, which records the number and strictness of the British government's policies in fighting coronavirus stocks crash from February to March of this year with almost no restrictions in place.
+BULL12|And then rallied from March through May during Britains Titus Lockdown.
+BEAR13|Today, shares gradually declined alongside the government's receding restrictions from June through early October, and as lockdowns tightened in early October, the Footsie 100 initially fell and then rallied as Elliott Wave International has reiterated many times.
+NEUT14|Financial markets often move ahead of the news.
+NEUT15|They are not driven by the news.
+NEUT16|The mainstream simply uses the news to rationalize what the markets have already done.
+NEUT17|Yes, there are indeed trading days when stock markets rise.
+NEUT18|When the news is good, yet there are many times when the news is good and stocks fall and vice versa as the Wall Street classic book Elliott Wave Principle key to market behavior by Frost and Prechter says sometimes the market appears to reflect outside conditions and events but at other times it is entirely detached from what most people assume or causal conditions.
+NEUT19|The reason is that the market has a law of its own.
+NEUT20|It is not propelled by the external causality to which one becomes accustomed.
+NEUT21|In the everyday experiences of life, the path of prices is not a product of news.
+NEUT22|The market's progression unfolds in waves, waves or patterns of directional movement.
+NEUT23|Get Elliott Wave Insights into the Footsie 100 as well as other global stock markets.
+NEUT24|Now you can do so by reading our comprehensive monthly global market perspective, which updates you on more than 50 of the world's biggest markets.
+NEUT25|From stocks to Bitcoin to gold and oil prices.
+NEUT26|"Follow the link below this video to learn more."""

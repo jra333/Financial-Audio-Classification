@@ -1,0 +1,7 @@
+BEAR0|"""May 17th is in the books on Wall Street and it has been a bruising day for stock markets as reports that President Donald Trump sought to interfere in an FBI investigation were digested by investors major indices all experienced their biggest one day to clients."
+BULL1|It's US election and the CBO is VIX index, a measure of implied volatility in U.S. equity markets saw its biggest one day rise since September 2016.
+BEAR2|Defensive stocks outperformed with utilities and real estate.
+BEAR3|The only sectors in the S&P 500 to end the day with gains financials trailed the broader index.
+BEAR4|Weighed down by declining longer dated Treasury yields, the difference between the two year Treasury yield and 10 year Treasury yield fell to levels last seen since before the US election, a sign that the prospect of a steeper yield curve predicated on higher growth and inflation expectations has abated.
+BEAR5|the US dollar fell sharply falling to pre election levels and gold sword experiencing its best day since the UK voted to leave the EU as investors favored haven assets.
+NEUT6|"And that's the New York minute."""

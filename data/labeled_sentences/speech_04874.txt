@@ -1,0 +1,11 @@
+BEAR0|"""Facebook's third quarter results came in mixed as they miss slightly on the top line, but beat our expectations."
+BEAR1|An consensus on the bottom line, the narrow miss on revenue was mainly due to the user count decline in Europe, which was a result of GDP.
+BULL2|Are we know that this firm's total daily and monthly user count still beat our expectations?
+BEAR3|In our view, no decline in Facebook's U users was reassuring as a display that this white mode names Network effect mode source is intact.
+NEUT4|More importantly, I'll buy data and content issues that have surrounded the firm.
+BULL5|This year, advertisers continue to spend on Facebook's ad loads an ad prices both increased and further drove impressive double digit growth in revenue generated per user.
+NEUT6|We expect to see similar monetization in Facebook's newer products such as Instagram and Stories in one or two years.
+BEAR7|Management's guidance indicated slightly better than expected revenue growth in the fourth quarter, while margin for next year may be coming in a bit lower than we had modeled.
+NEUT8|The two offset one another and did not impact our fair value estimate of Facebook.
+NEUT9|We are maintaining our $186 per share fair value estimate.
+BULL10|"We currently view Facebook shares as attractive as they are trading at a 21% discount to our fair value estimate."""

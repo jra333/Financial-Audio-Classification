@@ -1,0 +1,16 @@
+NEUT0|"""Economist."
+NEUT1|It's been said that money makes the world go around the people.
+NEUT2|Who study just how and why that happens?
+NEUT3|Our economists because the global economy is the financial lifeblood.
+NEUT4|The study of the economy is important as the growing complexity of the global economic competition and increased reliance on quantitative analysis is becoming higher.
+NEUT5|A business and political trend all demonstrate the need for economists, politics, stock market, business and labor markets, international trade, demography, and technological advances.
+NEUT6|These are just some of the area of interest for economists.
+NEUT7|They look for solutions to problems arising from the movement of people, products and capital.
+NEUT8|They use economic modeling and forecasting techniques to research issues such as energy costs, inflation, interest rates, import and export volumes, and employment trends.
+NEUT9|Government use economists to formulate economic guidelines and standards, which means economists may be called to testify before Congress and other legislative bodies.
+NEUT10|Strong research and problem solving skills are important.
+NEUT11|In addition to collecting and analyzing data.
+NEUT12|You will need to write up your findings and recommendations, but becoming an economist takes at least a bachelors degree.
+NEUT13|More often a master degree or even a PhD is required.
+BEAR14|Economics with its reliance on research and statistics has been called the dismal science.
+NEUT15|"But to those striving to understand the intricacies of how human created wealth and prosperity, economics can be fascinating."""

@@ -1,0 +1,39 @@
+NEUT0|"""You want to dive a little further now into the stock market's reaction to the election and bring in Stephanie Miller, managing Director at fiscal note markets."
+NEUT1|Stephanie, I know you've been busy trying to keep up with these results as they come in.
+NEUT2|Has anything been a surprise to you so far?
+NEUT3|I love that question, so I was happily going to sleep last night around 11:00 PM thinking that things are trending.
+NEUT4|Basically like I thought like I can get a few hours of sleep and I'm going to.
+NEUT5|I'm going to do this.
+NEUT6|An woke up this morning to all the news about.
+NEUT7|In the Senate, so I think the most surprising thing to me is the fact that Republicans are now very poised to hold on to the Senate Majority.
+NEUT8|So even if Biden does, when the White House he's going to have to figure out how to work with a Republican Senate that was such a low probability event, in my mind, I haven't really even contemplated this is a scenario an, and research that I've done.
+NEUT9|It was the predictions gave Democrats such an edge they were spending so so so much money that even Republicans I talked to said.
+BULL10|Absolutely, Democrats are totally poised to win a number of seats an and they didn't they they've never won so far.
+NEUT11|So then look at the stock market, I mean gangbusters, its biggest postelection rally in history is this investors.
+BULL12|Now coming to terms with a split Congress Anan.
+BULL13|Apparently they're happy with that.
+NEUT14|Yeah, I mean there's gonna be checks right?
+NEUT15|So what Wall Street wants more than anything is for nothing to happen in Washington.
+NEUT16|They there's so much of a bias towards a static policy environments that you can actually make business decisions and have those decisions.
+NEUT17|Hold the test of time beyond a couple of years.
+NEUT18|And so the more gridlock in Washington tends to be better, so you know the blue wave.
+NEUT19|The market.
+BULL20|I think a totally got wrong and was I was trying to pound the table on that a little bit, but everything seemed like it was going to be closer.
+NEUT21|On Election Day itself, but you know the reason why the market was comfortable with that.
+BULL22|With this huge injection of stimulus, I think now about is, you know things are going to be much more clear over the next few years for us in the business community and we are super happy with that.
+NEUT23|How likely is it though that we're going to get legal challenges from the Republicans in these battleground states?
+NEUT24|We already saw President Trump's camp say we want to recount in Wisconsin.
+NEUT25|And what does that do to the market?
+NEUT26|At least in the short term.
+NEUT27|But that trip up any rally, do you think that's a great question?
+NEUT28|So that's still the place.
+NEUT29|I think the market is getting this wrong is that there will be certainty anytime soon.
+BEAR30|There is a court case where the US Postal Service has been soon and.
+NEUT31|Earlier today, about an hour ago it was kind of illuminated.
+BEAR32|As part of this that 14,000 ballots in the Philadelphia area alone never made it out of the post office, and so I think there's going to be new and different types of issues with this election that emerge and that could continue to delay a decision.
+BEAR33|I do think, though, that whether it's Trump or Biden is now way less important, so even if it does drag out, and even if that does put some pressure on the market.
+BEAR34|Mostly because the more this drags out the I think it takes stimulus off the table.
+NEUT35|Congress is not going to agree to do something if they don't know you know what options they have in the future.
+NEUT36|In the event that things are different.
+NEUT37|And so I think there could be some pressure there heading into the Holidays, but I think the long term bet on stability is what I'm what we're all seeing and that really checks out.
+NEUT38|"Kind of under either presidential scenario."""

@@ -1,0 +1,17 @@
+BULL0|"""The numbers that seem to be coming in better than expected."
+BULL1|Well, if we have Disney revenues, is 16.25 billion versus estimates of 15.93 billion.
+NEUT2|The company reporting an adjusted profit of $0.32 per share, unclear.
+NEUT3|Still, if there are any one time items that would make that uncomparable with the expectations.
+BEAR4|But analysts had been anticipating a per share loss there.
+NEUT5|They want to point out two key things here.
+NEUT6|In this report.
+BULL7|One is Disney plus up to 94.9.
+NEUT8|1,000,000 subscribers as of January 22nd.
+BULL9|That's up from 87 million was the last number the company reported in ESPN Plus.
+NEUT10|Now 12.1 million.
+BULL11|So some growth there in Disney plus as it continues its rollout.
+BEAR12|Also they say there was a 2.6 billion impact of covid at the Disney Parks experiences and products segment due to the closures and reduced operating capacities.
+NEUT13|I'm going to continue to dig in here and we'll be back with more shortly.
+BULL14|But you see, shares up nearly 2% guys.
+NEUT15|Shepard Smith here.
+NEUT16|"Thanks for watching CNBC on YouTube."""

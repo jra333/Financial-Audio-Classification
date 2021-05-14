@@ -1,0 +1,33 @@
+NEUT0|"""So let's see if I want privacy and I want surety."
+NEUT1|Then I'm starting to think about what the President seems to be ridiculing on a daily basis election.
+NEUT2|Is it possible to keep the election private and secure?
+NEUT3|You know, Jim?
+NEUT4|This is I. I know the topic that you care a lot about.
+NEUT5|It's a topic that I care a lot about.
+NEUT6|Starting in 2016 when we saw where a lot of other technology companies tools that were really designed to do good things were actually misused in order to influence the election, we realized we had to do something about it.
+NEUT7|And so we launched in 2016 the Athenian project, which gives our services at no cost to local, state and federal governments needing to protect their election infrastructure and.
+BULL8|It's been incredibly rewarding to be able to talk with the state and local officials that are true Patriots, whether they are in blue states or red states or purple states.
+NEUT9|More than half of the US states we now have people who are using the Athenian project in order to stay safe.
+BULL10|Have a Tiger team which is assembled internally that's on call 24/7 365 to be able to help with these different security challenges that might be coming up over the weeks to come, and so far we've been able to thwart a number of attacks, but we see everything is going very smoothly.
+BULL11|Registrations are happening and we're doing everything we can to ensure that the election which is coming up will be free and fair.
+NEUT12|An out, you know prevented the cyber attacks will not be the lead story at the end of that day.
+NEUT13|OK, that's good to know.
+NEUT14|'cause yes, I care passionately.
+BEAR15|We don't want the country to be upended by this one.
+NEUT16|This question, Reuters reported on some internal discussions at Cloudflare with guards to work for the Trump campaign.
+NEUT17|But also we should note that you work for pretty much everybody.
+NEUT18|U.S. President, you're not.
+NEUT19|You're kind of ecumenical when it comes to U.S. presidential campaigns.
+NEUT20|We you know we provide services for both of the campaigns.
+NEUT21|Again, where we're not.
+NEUT22|We're not picking sides here at all, and we brief the campaigns as well as other government officials on what we're seeing in terms of cyber attacks.
+NEUT23|And we have seen cyber attacks that are targeting the campaigns, but part of what we think is important is delivering our services as inexpensively or in some cases free.
+NEUT24|And So what we did was we actually worked with the Federal Election Commission to make sure that we could.
+NEUT25|Give our services away for free while complying with the elections rules and campaign finance rules and what they came back and decided was cyber security was so important for the future of this country and for the future of democracy that they would let us.
+NEUT26|Another great companies like Microsoft provide Services to campaigns and so we've been doing that for a number of different campaigns, including both Trump and the Biden campaign.
+NEUT27|Don't miss a second of mad money.
+NEUT28|Follow at Jim Cramer on Twitter.
+NEUT29|Have a question?
+NEUT30|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,30 @@
+NEUT0|"""Alright, some news from Berkshire Hathaway and Warren Buffett."
+NEUT1|Bill Gates, the founder of Microsoft and longtime Berkshire board member, is retiring from the board pension.
+NEUT2|The former American Express CEO and now the chairman of Venture Capital from General Catalyst, has been nominated to replace him.
+NEUT3|Gates joined the board in 2004.
+NEUT4|Mike it's been a long time to have him on that board.
+NEUT5|This will be a real changing of the guard, somewhat somewhat of a change, I'm guarantees, because Bill Gates, probably, you know.
+NEUT6|Over committed elsewhere probably wants to just ease back from this a little bit.
+NEUT7|Catching all of course.
+NEUT8|Formerly running American Express Brookshire's, by far the largest shareholder of American Express, has been for many years, so I don't think it necessarily means strategically all that much, but it's certainly keeping things within.
+NEUT9|Warren Buffett Circle might just want to switch back to the markets and what we've heard in the last hour too.
+NEUT10|Interesting that we just got those two news bites from Royal Caribbean Anne from Boeing.
+NEUT11|It reminds us of the sectors that are most affected by this crisis in as great as it is to hear.
+BEAR12|More tests are going to be available, and we're addressing the problem at its root, cause those types of companies are lacking demand and will be for the months ahead.
+NEUT13|We need to wait and see whether the market is found.
+BULL14|Confidence in them in a lasting fashion.
+NEUT15|They enjoyed the bounce today, but a long way to go for those companies which you never know is exactly how much a market decline has frontloaded the expected difficulty to common, and a lot of times.
+NEUT16|In fact, if you look at market dynamics, have this kind of very dramatic rush lower, and then you know a bouncer of strong rally like we had today.
+NEUT17|And then, even if it lasts for a little while, they always say, well, you're going to shop around.
+NEUT18|Maybe there's going to be another test of those.
+NEUT19|Why is that?
+BEAR20|It's because the bad stuff that the market anticipated with the initial drop then comes to the surface and we have to kind of contend with it again.
+NEUT21|And that's the argument about the crowd psychology anyway, you know real quickly.
+BULL22|We were had been talking for months about the strength of the American Sue Moran and then shouldering the burden of this global economy.
+NEUT23|Is that in doubt now it's in doubt.
+BEAR24|Temporarily, at least I do think so, yeah, I mean, people are retreating from from.
+NEUT25|Economic life commercial life to some degree.
+NEUT26|Doctor Fouchy believing in response to a question said Mom, maybe this is going to go 789 weeks?
+NEUT27|Yeah, that's a good long time in terms of you know, and that's that.
+NEUT28|Those are months that are more than their share of spending for the whole year.
+NEUT29|"Basically into the summer that you can."""

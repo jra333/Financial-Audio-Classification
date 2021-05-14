@@ -1,0 +1,27 @@
+NEUT0|"""Hey Mark, can you comment on what's going on with this?"
+NEUT1|Amazon News this week and what you think the implication is for CVS Now, parent company of Aetna.
+BEAR2|The stock actually fell, so it clearly there's a view that CVS Health is not done enough to be able to compete.
+NEUT3|If you will, on the digital side, how confident are you in their ability to do that?
+NEUT4|The CEO of CVS Health, of course, coming from the insurance side now.
+NEUT5|So how do you think about that?
+NEUT6|Well, first, nobody should be surprised that Amazon's made this move.
+NEUT7|I think the timing is probably not have been well planned for this very reason to get our economy going again.
+NEUT8|Customers, consumers must feel safe going back into the economy, and so it's it's.
+NEUT9|It's the responsibility of leadership and all these organizations, including the Board, to better understand what is the value proposition and customer experience that allows people to be safe to use your product and services.
+NEUT10|Once you understand that, you have to then re calibrate.
+NEUT11|Asset allocation and capital allocation and people in a way that allows employees to come back to work and meeting that value proposition safely.
+BULL12|When you have both conditions where people know it is safe, then I think you can reopen the economy more more robustly, and I think that's the issue we're seeing with retail pharmacies across the board.
+NEUT13|They still want people in the stores to buy other stuff.
+NEUT14|And what you're seeing in companies like Target, which who would have ever thought on a quarterly call, you'd see them talking about adding curb spaces to deliver more product or look at gap, reducing the number of stores and saying digital 1st and their stock goes up.
+NEUT15|The whole issue here is are we reshaping our businesses in a way that makes customers feel safe, engaging with us, and allows our employees to engage with their customers safely, and that hasn't been cracked yet, and retail pharmacy.
+NEUT16|How important is it to look at CVS?
+NEUT17|Aetna at this point in that tie up to make it ways for these pharmacies to kind of reach another another directions.
+NEUT18|Well, I think there is a strategy.
+BULL19|I have great confidence in Karen.
+BULL20|We've been working together for over 20 years.
+BULL21|She's a very capable executive.
+BULL22|She's got the right level of courage and curiosity to move this forward.
+BULL23|I think she'll need support from the board and reshaping capital allocation and talent in a way that the company can get focused on.
+NEUT24|Exactly figuring out what is the digital first strategy for retail pharmacy, particularly CBS and that now.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

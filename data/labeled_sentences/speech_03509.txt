@@ -1,0 +1,14 @@
+NEUT0|"""Hello, welcome to Capital Academy, the professional online Academy with exclusive and professional courses to master the trading on the global financial markets."
+NEUT1|Gold technical analysis for March 21st, 2014.
+BULL2|Gold edged up toward $1330 per oz in thin trade.
+NEUT3|During today's trading session.
+BEAR4|After its sharp drop hitting $1320.34 per rounds.
+BULL5|Due to strong U.S. dollar after the US Federal Reserve claimed the possible increase of the interest rates in the first half of 2015.
+BULL6|In addition, today Fitch Credit Agency has upgraded the rating of the United States to AAA.
+BULL7|All of these positive data supported the US dollar and will affect the safe haven demand of the precious metals.
+BEAR8|The gold declined yesterday, hitting all the mentioned expected targets and now is in process to hit its biggest weekly falling since November.
+BEAR9|And as we can see on the daily chart, the prices are steady at the lower level of the ascending channel, which represented a strong barrier that pushed the gold to recover slightly toward $1330 per oz.
+BEAR10|However, this recover is just a correction step, which confirms further decline toward the support levels stated in our daily newsletters.
+NEUT11|To follow the rest of the technical analysis and to know the next target of the gold, oil, silver and other currencies, please open a live account with our recommended broker nbcfx.com and start receiving buy and sell signals with entry and take profit prices.
+NEUT12|For more info please contact us at info@capital-academy.com.
+BULL13|"Thank you and have a nice day."""

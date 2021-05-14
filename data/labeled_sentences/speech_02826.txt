@@ -1,0 +1,12 @@
+NEUT0|"""Here's a good news story."
+BULL1|What is good for people and the planet also appears to be unambiguously good for emerging market investors.
+BEAR2|On average, investors who put money into smoke belching state owned companies that ignore labor rights and shun transparency do worse than counterparts who are more observant of ethical standards.
+NEUT3|This is shown by the so-called ESG stock indices, that is, indusries comprised of companies that observe environmental, social and governance standards.
+BULL4|These have performed handsomely in recent years.
+BEAR5|As the chart shows, data from Mssi, the world's dominant index provider, shows that the main ESG index for emerging Markets has outperformed the benchmark emerging market indexes consistently since the financial crisis.
+BULL6|In June, the outperformance gap hit a record and it now stands at about double its span at the start of 2013.
+NEUT7|This index consists of 417 companies that score highly on environmental, social and governance standards as judged by mssi.
+NEUT8|Some big investors are buying into this site.
+NEUT9|Geist Swiss Re one of Europe's biggest insurance companies, plans to move its entire 130 billion U.S. dollar investment portfolio into ethically based investment indices, according to its chief.
+NEUT10|Investment officer, if more big funds follow suit and the outperformance of USG indices continues, then companies that pollute the atmosphere care little for their workers, lack, transparency or are involved in gambling.
+BEAR11|"Tobacco, alcohol, nuclear power and weaponry may find it increasingly difficult to attract investment capital."""

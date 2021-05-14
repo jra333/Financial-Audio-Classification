@@ -1,0 +1,8 @@
+NEUT0|"""Hello all right, let's take a look at the Apple stock."
+NEUT1|In your springtime, we can see here Apple stock.
+NEUT2|Make a dodgy again here with a smaller amount.
+BEAR3|Smaller amount of volume so it's a bearish sign for Apple, because when it breaks out from the EMS it has no.
+BEAR4|Clear sign to go up again because with the volume is low with the price it make no further advance so it's a bearish sign for Apple.
+BEAR5|So in my opinion is very likely for goal for Apple to go down from here to go back to retest the low of 103 is still likely so if Apple goes down again then the whole market of the whole U.S. market share market will go down again.
+NEUT6|So hold your money and don't go back too early.
+BULL7|"Thank you."""

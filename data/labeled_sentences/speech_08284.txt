@@ -1,0 +1,36 @@
+BULL0|"""Hello and welcome back to the notes back."
+NEUT1|After a week's break, let's take a look at the US stock market today.
+NEUT2|Now it's now almost exactly a year since the S&P 500 hit.
+BULL3|Its all time high back in May of last year, and it's really quite surprising that it hasn't managed to take that high out in the last few days.
+BEAR4|Remember that the strong dollar was held to be a problem.
+BEAR5|The dollar is at its weakest for the year today it's fallen sharply.
+BEAR6|The low oil price was held to be a problem given the effect it had on energy stocks.
+BULL7|Oil is rallying very impressively.
+BEAR8|You saw a big write down in expectations on earnings.
+BULL9|We're halfway through the earning season and generally most companies have beaten those expectations.
+BULL10|All good reasons to think that stocks would do well.
+BEAR11|Also, you're seeing continued bullishness as far as equity investors are concerned that the Fed isn't going to raise rates anytime soon.
+NEUT12|Not until December.
+NEUT13|If you believe the futures market.
+NEUT14|So why haven't we taken out last Mays High?
+BEAR15|But if we take a look at this chart, you can see one rather negative way of looking at it.
+BEAR16|Is that the leadership that the markets had required over the last year from the tech sector is now dramatically absent.
+NEUT17|This shows you the information technology sector relative to the rest of the SNP, and you can see it has come down to dramatically.
+BEAR18|Companies like Microsoft and Apple disappointed with their revenue projections, disappointed with their earnings.
+BEAR19|And were punished very severely.
+NEUT20|There is, however, a more positive gloss you can press on this, particularly this chart.
+BULL21|You can see that the market is broadens.
+NEUT22|What we're looking at here is the S&P 500 Equal weight index.
+BULL23|That's where every stock, regardless of its size, is given .2% of the index and how that's doing compared to the normal market cap weighted index when the last year you see the market cap weighted index doing significantly better.
+BEAR24|That is a sign of market narrowness that the strength in the market was concentrated in a few.
+BEAR25|Large cap names are generally a very worrying sign that you're at the end of a bull market.
+NEUT26|As you can see, the market is broad and very, very significantly and very positively.
+NEUT27|In the last few months.
+NEUT28|Therefore, you could argue that what we've seen has been a period where the market is managed to get itself back into order, regain some balance after a period in which some companies have become excessively valued and done so without a really major falling prices, which is what often happens you could.
+NEUT29|View this positively.
+BULL30|If we take a look at another chart that you can also see that while there were losing old leaders, we might be gaining new ones.
+BEAR31|Apple today dropped back to its lowest level since July the 2nd, 2014, at which is plainly a negative development.
+NEUT32|Apple has been very much the leader of this market for a long time, but as you can see, if you compare that to how Amazon has done over the same.
+NEUT33|There do appear to be other knew leaders appearing.
+BEAR34|In its stead, so I still find it very hard to excuse the way in which the market hasn't been taken to new highs despite all the good excuses that traders had to take it up there.
+BULL35|"But there are some arguments that something positive is going on here that we are seeing a change of leadership and a broadening of the market."""

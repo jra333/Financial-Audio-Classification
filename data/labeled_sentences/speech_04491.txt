@@ -1,0 +1,27 @@
+NEUT0|"""We wanted to take a look at Disney."
+NEUT1|Now mentioned it briefly in the opening block of the show.
+NEUT2|Of course, the decision by the company to postpone the opening of its Disneyland Park, saying that the state of California has now indicated it will not issue theme park reopening guidelines until sometime after July 4th and given the time required for us to bring thousands of cast members back to work and restart our business, we have no choice but to delay the reopening of our theme parks and resort hotels until we receive approval from government officials.
+NEUT3|Of course, when it comes to.
+NEUT4|To Disney overall theme parks.
+NEUT5|As we have pointed out, many times are very important.
+BEAR6|It is going to be a rocky opening.
+NEUT7|No doubt one way or the other.
+NEUT8|You've also got production of movies that has been in hiatus, questions about theatrical releases of movies given where we are right now in terms of attendance at movie theaters, questions about sports programming, ESPN, Don't Forget Media Network.
+NEUT9|Still a very important component overall of operating income as of course is parks, experiences and products.
+NEUT10|The studio.
+BULL11|Even though we've talked so often, Jim about direct to Consumer Disney plus what a success it's been, and there's no doubt about that.
+BEAR12|Its contribution to operating income is still going to be quite small, while its revenue number keeps going up because they're spending so much on it and you're talking about a company that is added a lot of debt to its balance sheet, and so you could even see it tip in 204 1/2 to as much as five times leverage ratio, which could scare off some investors as well.
+NEUT13|Yeah, but it's very well run financially, and they did contact the market a couple of times, but.
+NEUT14|David, I think that one of the undercurrents of this era when you get off the desk and talk to people is there's a dis belief that what all these different commissioners and owners are telling us about sports and Disney needs sports.
+NEUT15|It's very, very important when someone says, you know what we're going to put all the players in a bubble in Florida.
+NEUT16|Well, remember, it's not just the players need whole staff.
+NEUT17|Now if you're going to put football on a bubble, you're talking about thousands of people that they put in a bubble.
+NEUT18|And what are you going to put him on?
+NEUT19|Some sort of island so?
+BEAR20|I think that Disney needs professional sports, but the number of people who have come down with Covid.
+NEUT21|I mean, maybe maybe it won't matter by then.
+NEUT22|It'll be a 15 day DL covid list.
+NEUT23|But holy cow, I don't want to be dizzy if it comes.
+NEUT24|My Chapel trust owns Forever taking a beating here, but I I, I think that Disney has to be sweating all these covid announcements versus the the confidence that the owners are expressing.
+NEUT25|It's all systems.
+NEUT26|"Go for all sports."""

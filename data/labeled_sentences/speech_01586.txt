@@ -1,0 +1,17 @@
+BEAR0|"""Binance coin was heading towards $205.00 after Bitcoin fell below $49,000 on the price charts."
+BEAR1|Neo also moved below a strong level of support with bearish momentum likely to push the price to as low as $32 over the next few days.
+BULL2|Finally, engine pictured buyers exhaustion after making remarkable gains over the past week.
+BEAR3|The bounce from $210 to $270 towards the beginning of March was not a recovery, as sellers asserted themselves around the $270 mark and took control of the market.
+BEAR4|Since then they have pushed BNB below the $230 retracement level.
+NEUT5|The $200 to $205.00 zone as the next area of interest where the market's bulls could take a stand.
+BULL6|The awesome oscillator pictured bearish momentum on the rise as it crossed over into bearish territory on the four hour chart.
+BEAR7|The Obv also noted steady selling pressure over the past few days.
+NEUT8|A bearish retest of $230 can be used to enter a scalp short position with take profit at $205.00 and a stop loss of $236.00 or $240 to give a little more breathing room.
+BEAR9|As the volume profile visible range showed while the point of control at $37.13 read has been a level that bulls have tried to defend over the past week, it appeared to have been seated to bearish pressure in recent hours.
+BEAR10|The MACD formed a bearish crossover and dove under 0 on the charts.
+NEUT11|The 38.2% retracement level and the 50% retracement level at $35 and $32 respectively are levels that can witness Neo bounds.
+BULL12|However, as the VP VR highlighted the $30.05 to $32 zone will be the next area of notable trading activity in the area where Neo is more likely to find strong support than at $35.
+NEUT13|In hindsight, it is quite simple to spot bullish exhaustion, but quite hard to be certain of it in real time.
+BULL14|The candle wake up to $1.51 for Enj was followed by a strong momentum bearish candle and this development confirmed that Enj bulls have run out of steam, at least in the short term.
+BEAR15|The stochastic RSI dove into the oversold territory, while the RSI also began to drop lower from extremely overbought values, registering a value of 69 for the most recent closed trading session.
+BULL16|"The next level of support for Enj was the 23.6% retracement at $1.07."""

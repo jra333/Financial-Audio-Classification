@@ -1,0 +1,39 @@
+NEUT0|"""What kinds of areas you targeting?"
+NEUT1|We know that you've given a list of for sort of elements that you really want to see and that you're looking at.
+NEUT2|Can you give us any more details?
+NEUT3|Absolutely.
+NEUT4|So you know, we think the target universe is probably 150 companies total $10 billion plus plus private companies.
+NEUT5|There are more that were not including or not including in that subsidiaries of large corporations were not including some employee owned businesses in that list.
+NEUT6|But you know this is broader than 150.
+NEUT7|We think the top third will meet.
+NEUT8|Our quality thresholds were looking for a simple, predictable free cash flow generative company, very high barriers to entry.
+NEUT9|With minimal exposure to what we call risks, extrinsic risks risk.
+NEUT10|We can't control.
+NEUT11|We're looking for the Super durable, great growth business that we can own for the next decade.
+NEUT12|That's kind of the target.
+NEUT13|The list is a list that we have in mind.
+NEUT14|There may be others were not aware of with we welcome the phone call, but we're going to come through that list that stick with me if you will please.
+NEUT15|We're going to we're going to look at every deal over the next, you know, call it we're going to see every deal with next six months.
+NEUT16|I mean, this is what's interesting about this transaction.
+NEUT17|Is every investment banker.
+BULL18|Around the globe is aware that we've just raised the largest blank check company in the world.
+NEUT19|We've got $5 billion of capital, and we're looking forward to committing to buy a minority common stock interest in a company.
+NEUT20|It's the only such cool in the world.
+NEUT21|I refer to it in a way as its own Unicorn, and basically we're in a Unicorn mating dance, and we want to, you know, marry a very attractive Unicorn on the other side that meets our characteristics, and we've designed ourselves to be a really attractive partner.
+NEUT22|And that's what we're going to do.
+NEUT23|And, you know, in terms of specific companies, you would rather not name specific companies because some names are already out there and I don't think they meet all your criteria.
+NEUT24|So for example, you say you know a company that's not exposed to extrinsic risks, would that take Air B&B out of the equation?
+NEUT25|What I mean to say is every business is exposed to extrinsic risks.
+NEUT26|But if the extrinsic risks is one that is catastrophic.
+BEAR27|So for example if you're an energy company in the price of oil goes down to 20 and you're bankrupt, that's not for us.
+NEUT28|Every bit you know we own Hilton.
+BEAR29|Today it's clearly exposed to pandemic risk.
+NEUT30|But it's a business that survives through a crisis like this becomes a more dominant business after a crisis like this.
+NEUT31|We would certainly take a look at a company like Airbnb, have always admired the business.
+BULL32|I've admired its economic characteristics.
+NEUT33|I know many air BNB.
+NEUT34|And makes a large amount of her income by renting out the ground floor for her brownstone is that amazing experience with the company you know?
+BULL35|Certainly a business we would look at very attractive economic characteristics.
+NEUT36|We don't require that a company today is cash flow positive on an overall basis.
+NEUT37|We just require it has extremely economic attractive characteristics and that we can predict with pretty high degree of confidence how those cash flows will grow over the long term.
+NEUT38|"And that's the kind of business that we're looking at."""

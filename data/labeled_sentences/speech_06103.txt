@@ -1,0 +1,32 @@
+BULL0|"""Does the country need another infusion of fiscal stimulus or fiscal safety?"
+BULL1|Net here to continue the progress that's been made so far.
+NEUT2|I think so.
+NEUT3|I think we've got a couple of issues.
+BEAR4|We have businesses that are concerned that they don't have enough cash to get through to the other side of this crisis.
+BULL5|We've made a good effort there with the Paycheck Protection Program and other Federal Reserve efforts, but then we also have the fact that the extended unemployment insurance benefits are set to expire at the end of July.
+BEAR6|We've got a 13% unemployment rate in the United States.
+BEAR7|A lot of households have taken a big kid in income, so I am concerned that consumer spending could drop in later this year if we don't provide some sort of assistance to those households where many Members have been laid off and.
+BEAR8|I've lost money from from the job market.
+NEUT9|And what form would you recommend that assistance should take?
+NEUT10|Is it extending the unemployment stipend or or something else or something in combination of several things in combination?
+NEUT11|I, I think it's several things in combination.
+NEUT12|I think it's much better to go to big than to go to small.
+BEAR13|Obviously households are going to be cash constrained because of the loss of jobs, so we need to think about the unemployment insurance benefits.
+NEUT14|We need to think about whether we want to provide additional stimulus payments or whether we want to cut the payroll tax and then also I think we need to think about state and local governments.
+BEAR15|They're going to face a huge budget crisis.
+NEUT16|Their sources of revenue, primarily sales taxes and income taxes, or.
+BEAR17|Down tremendously, they've got to balance their budgets.
+BEAR18|Unlike the federal government, so I'm concerned that we could see huge budget cuts, huge job cuts at the state and local level, and that could really SAP the economic recovery and could be a problem for the economy through the rest of this year and into 2021.
+NEUT19|Kayla, that was certainly something that that last Member was drilling **** ** that that the idea is a Colorado member.
+BEAR20|I can't remember his name, but but he was saying, you know, if this comes to pass and you end up with massive layoffs across the municipal workforces of multiple states, you could really have a second economic leg down.
+NEUT21|And that's certainly part of the tug of war.
+NEUT22|Here, Tyler, but it is going to be a lightning rod when that debate takes place in July, because many Republican members of Congress believe that you know that these States and municipalities should not be reimbursed for lost tax revenue.
+NEUT23|That that is not the job of the federal government.
+NEUT24|We specifically heard Florida Senator Rick Scott talking about that, saying that when he was running the state of Florida, they didn't get reimbursed for all of the money that businesses lost during hurricanes.
+BEAR25|And certainly this is a different scenario because the government ordered a federal shutdown of businesses back in the month of March.
+NEUT26|And so there is an ideological debate about what responsibility the government has to fill in some of those gaps.
+BEAR27|But this is going to be a political food fight.
+NEUT28|When the debate begins in just a few weeks time and part of the reason why Republicans want to not approach this debate until after they return from their work period in middle of July is because they have so much more data at that point about what the job market looks like, what consumer spending looks like an they really want to have that data in hand to know where public opinion lies and what they really need to do.
+BULL29|Alright Kayla, thank you very much.
+NEUT30|Kayla Toshi Gus Faucher.
+BULL31|"Thank you as well."""

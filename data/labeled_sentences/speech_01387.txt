@@ -1,0 +1,35 @@
+BULL0|"""Fed officials at the October meeting after the quarter point rate cut, believe that policy would be quote well calibrated that would be to deliver moderate growth, strong labor markets and inflation near the 2% target."
+NEUT1|The stance of monetary policy was seeing this quote likely to remain appropriate after that cut.
+NEUT2|As long as the economy and the economic data came in in line with Fed forecast, those two bullet points really mean the Fed was thinking it would be on hold for at least some period of time after that quarter point cut.
+BEAR3|There were some divisions though inside the Fed on this issue a couple of the participants wanted to state that no cut was coming afterwards.
+NEUT4|Otherwise they wanted to be very explicit about the future path.
+NEUT5|A couple called the rate cut.
+NEUT6|Quote A close call and two who we know Rosengrant and George don't know if it was the other couple we talked about earlier.
+NEUT7|They didn't want to cut it all the Fed said the cut was due to the Trade war, global developments, economic weakness and to take out what it said.
+NEUT8|Quote was insurance against potential.
+NEUT9|Downside risks that were concerns, even though recession chances fade and there was some improvement in Brexit and and trade at the time, there were still concerns that the weakness in manufacturing and exports which spill into the labor markets and consumer spending kind of gives you a clue that what the Fed is really concerned about.
+NEUT10|Their OK with them.
+BEAR11|Not OK with it, but they're not all that concerned with weakness in manufacturing exports if it doesn't spill into the labor markets, and they thought that would threaten the economic expansion and further dampen investment and exports so.
+BULL12|Several said the rate cut would better align.
+NEUT13|By the way the funds rate with the neutral rate and with the yield curve.
+BEAR14|There were some financial stability concerns mentioned in the meeting.
+BEAR15|High levels of corporate debt were mentioned and elevated values for risky assets.
+NEUT16|No additional detail on what those risky assets might be, and they discussed what options there was.
+NEUT17|A staff presentation about what they might do in the next crisis that included adjusting their balance sheet with additional quantitative easing different forms of forward guidance and potentially.
+NEUT18|Interest rate caps.
+NEUT19|Nothing was decided in any of those regards.
+NEUT20|Of course, the staff also presented plans on how to solve the repo market problem, including a discussion.
+NEUT21|Again, no decision made on a standing repo facility.
+NEUT22|We can talk about that in depth if you want Tyler, but the big takeaway here is that the Fed wanted to send a signal that after that cover a cut they're on hold for some period of time, well, and so that goes to my question, Steve on hold for some period of time based on history when the Fed.
+NEUT23|Releases minutes like this.
+NEUT24|What does on hold mean?
+NEUT25|In practical terms?
+NEUT26|No.
+NEUT27|I mean there were a couple other instances where they did these three rate cuts and Powell, the Fed chair, who was also the former lawyer like to go back and draw from precedent and those three times they were.
+NEUT28|I know in the 98 instance it was a couple years or two worth almost three years till the Fed got back into the rate cutting game with the NASDAQ bubble and of course 911 as well.
+NEUT29|95 they were neutral, you know neutral for fed policy.
+NEUT30|Of course Tyler you know is a gear that's them doing something which is not.
+NEUT31|Moving the rate and I think they like to be there for as long as they can.
+BULL32|I think the bar is high.
+NEUT33|I talked to Lil Brainerd this morning.
+BEAR34|"I think the bar is high in both directions for changing rates at this point and the way the Fed puts it is as the economy economic data has to come in line as to be really out of line materially or significantly out of line with what they're looking for in the economy."""

@@ -1,0 +1,13 @@
+NEUT0|"""Davo City based businessman Dennis Way joins Forbes Magazine's list of richest Filipinos for the first time."
+NEUT1|Waste estimated net worth is at $660 million, which puts him at #22.
+BULL2|He had so Dana Corporation, its assets grew by 28% in 2018.
+BULL3|The holding firm is awaiting approval for its backdoor listing on the Philippine Stock Exchange is also set to shake up the telecommunications industry, with Dito Telecommunity.
+BULL4|After winning the bid for the.
+NEUT5|Third major telco player last year.
+NEUT6|Boy who is close to President Ortega, 30, also has interests in oil, energy, logistics and hospitality.
+NEUT7|The See siblings of the ** Group were ranked first by Forbes with a combined net worth of $17.2 billion.
+NEUT8|They inherited their fortune from their late father, Henry See who died last January.
+NEUT9|Businessman and former Senator Manny Villar was ranked first in the 2018 list, placed second this year with the total net worth of $6.6 billion.
+NEUT10|He is still the richest in the Philippines when individual net worths are considered.
+NEUT11|Completing the top five R John Gokongwei junior at $5.3 billion in Rikers on junior at $5.1 billion.
+NEUT12|"And Jaime Zobel de Ayala at $3.7 billion."""

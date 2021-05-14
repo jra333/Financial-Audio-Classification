@@ -1,0 +1,13 @@
+NEUT0|"""Hey well Robin Hood again limited the amount of shares that customers can buy for certain stocks."
+NEUT1|We've got a couple new names to add to that list Beyond Meat, Starbucks, GM.
+NEUT2|So not the names that we've been talking about.
+NEUT3|You think of GameStop, for example.
+NEUT4|There are now 50 names in total on that list.
+NEUT5|I just spoke to Robin Hood.
+NEUT6|It's not entirely clear why they're adding names like Starbucks.
+NEUT7|They did say that this has to do with market volatility.
+NEUT8|There monitoring monitoring stocks by the name they're looking at each stock and seeing if it fits a certain criteria.
+NEUT9|We don't have a lot of detail on exactly.
+NEUT10|What that is they say though it is a fluid situation and they are updating their blogposts, but again, the list of restricted stocks now includes 50 names back to you will.
+NEUT11|Shepard Smith here.
+NEUT12|"Thanks for watching CNBC on YouTube."""

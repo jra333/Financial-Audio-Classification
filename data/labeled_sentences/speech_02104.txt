@@ -1,0 +1,20 @@
+BULL0|"""We're back all right."
+NEUT1|Doc options.
+NEUT2|Unusual activity.
+NEUT3|What do you force?
+NEUT4|Well, Scott, I've got one of Warren Buffett's favorite stocks.
+NEUT5|He doesn't just own it.
+NEUT6|He participates or enjoys their product on a daily basis.
+NEUT7|That is Coca Cola ko.
+NEUT8|With the stock just below 51, let's say $50.80 Scott they were buying the 51 calls.
+NEUT9|These calls expire the 23rd of October, not regular expiration.
+NEUT10|A week after that Scott, they were paying about $1.41 for these calls.
+NEUT11|They were taking some profits in September, rolling out to October.
+NEUT12|I like following that, so I bought these and I'll probably be in three to four weeks.
+NEUT13|Second trade infrastructure just like we talked about Valley VLE this one even though Jim Cramer last night couldn't give him a thumbs up.
+NEUT14|He was kind of neutral on it.
+NEUT15|We see 58,000 calls changing hands on this one.
+NEUT16|Scott Big big buying of this one.
+NEUT17|These are regular October calls the 13 calls and the 14 calls both of them purchased.
+NEUT18|Over 55,000 of each of those I own the 13's and I'm looking for more upside Scott.
+NEUT19|"Over the next couple weeks."""

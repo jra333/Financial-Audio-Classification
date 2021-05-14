@@ -1,0 +1,16 @@
+NEUT0|"""When you write a note, you move markets."
+BULL1|Apple shares closed higher today by more than 1%, and if you come and take a look at a chart that I'm showing inside my terminal, Apple's market cap in part because of that move now outweighs the entire energy sector within the S&P 500.
+NEUT2|As a whole.
+BULL3|You upgraded the stock again today with a street high price target of 325.
+NEUT4|On Apple.
+NEUT5|Walk me through your call, folding in the analysis on the Apple card.
+NEUT6|Yeah, I mean look, it's really about what I view is really a super cycle between iPhone 11 and 5G and I think that's something skeptics continue to miss.
+NEUT7|You have 400,000,000 of the 900,000,000 consumers within the ecosystem of Cupertino are going to upgrade, and I think you combine that with the services piece.
+NEUT8|That's really the 1/2 to this stock and re rated.
+NEUT9|I think the stock has a three in front of it going into early next year.
+NEUT10|You know, in terms of, you know, on the card and what were some of these tangential initiatives.
+NEUT11|It just speaks to Apple trying to further monetize the install base.
+NEUT12|That's the Golden jewel for them, and that's what really the street starting to see.
+BEAR13|Definitely a stumble as we saw with Apple Card.
+NEUT14|How far should the trees right here?
+NEUT15|"This continues to be the middle innings of a rewritten story."""

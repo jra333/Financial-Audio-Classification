@@ -1,0 +1,29 @@
+BEAR0|"""Motive safety regulators reviewed evidence related to an allegedly defective steering sensor that was used in roughly 778 thousand older General Motors Co vehicles."
+NEUT1|But ultimately decided against opening a formal investigation into the matter.
+NEUT2|The National Highway Traffic Safety Administration told Reuters about the previously unreported review.
+NEUT3|The agency evaluated information related to a lawsuit against the automaker brought by the widower of a 42 year old woman who died after her 2007 Chevrolet Trailblazer SUV crashed.
+BEAR4|According to documents, Reuters reviewed the cause her widower alleges in the lawsuit was a defective steering sensor that the automaker failed to adequately warn drivers about, despite long knowing the component had issues.
+NEUT5|The lawsuit, filed in a local Georgia court in 2016 and updated in 2020.
+NEUT6|His ongoing GM, the top selling automaker in the United States, denies the allegations and declined to comment on the decision by NHTSA.
+BEAR7|The primary US vehicle safety regulator, the lawyer representing the widower Lance Cooper, wrote to NHTSA in February 2020 urging it to investigate GM for failing to alert regulators to alleged issues with the sensor in a timely manner and recall affected vehicles, according to the letter, which was reviewed by Reuters.
+BEAR8|Cooper previously unearthed evidence in another case that helped expose GM's failure to recall millions of vehicles with defective ignition switches, a crisis that eventually led the automaker to resolve criminal charges in a 2015 deferred prosecution agreement.
+NEUT9|Following a request for information from regulators, GM provided documents produced in the recent case focused on the steering sensor.
+BEAR10|According to court documents on Jan 28, NHTSA officials determined there was insufficient evidence to lead to a formal investigation at this time.
+NEUT11|The agency told Reuters, adding it would take future action if warranted.
+NEUT12|The agency said the vehicles Cooper highlighted were built before US Regulation began mandating electronic stability control.
+NEUT13|In September 2011.
+NEUT14|The sensor is a key part of GM's version of electronic stability control.
+NEUT15|Called Stabilitrak, like other such systems stabilitrak adjusts brakes and engine power to help drivers avoid losing control and crashing.
+NEUT16|Cooper told Reuters.
+BEAR17|He was disappointed with NHTSA's decision to not pursue an investigation.
+NEUT18|The risk of the sensor failing and disabling electronic stability control, unquestionably relates to automotive safety.
+NEUT19|He said to former heads of NHTSA question the agency's decision not to open an investigation.
+BULL20|One said the technology, even if not required, was well on its way to becoming mainstream at the time.
+BEAR21|Avoiders review of hundreds of pages of documents submitted in the litigation shows that GM has since 2007 confronted a series of issues with the steering sensor, including high levels of warranty claims in a manufacturing flaw.
+NEUT22|Without recalling affected vehicles, GM in responses to questions from Reuters said it had conducted thorough investigations involving experts across many disciplines after a rigorous analysis of internal and external data.
+BEAR23|The company said we're not aware of any other complaints alleging accidents that involve stabilitrak disengaging due to a faulty steering sensor.
+BEAR24|Current and former GM employees have testified as part of the litigation that even after losing Stabilitrak.
+NEUT25|Drivers can still steer and brake.
+NEUT26|So vehicles remain safe.
+BULL27|Thanks for watching.
+NEUT28|"Please subscribe."""

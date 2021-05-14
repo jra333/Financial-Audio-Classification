@@ -1,0 +1,29 @@
+BULL0|"""Hello there everybody, hopefully today finds you in the green."
+NEUT1|Today is Monday April 5th 2021 and we need to talk about the big news that came out of Tesla Inc.
+BEAR2|Going by TSLA on the NASDAQ finished last Thursday up at $661.75, down $6.18 or nearly a 1% in the Red Day.
+NEUT3|Over all the day about average volume.
+BEAR4|Just a steady decline throughout it.
+BULL5|Of course we did see a decent rise in stock price for the week with Friday, March 26, seeing, oh, about 634 at open.
+BULL6|So decent increase in stock price over the course of the week despite the loss on Thursday.
+NEUT7|So we did just get multiple big things come out of.
+BEAR8|Obviously we had a long weekend with Good Friday closing down the markets in general on Friday, so we've had three days to digest.
+NEUT9|And on Friday, Tesla came out with big news.
+NEUT10|So April 2nd 2021.
+BEAR11|According to their press release that I have linked down below in the first quarter we produced just over 180,000 vehicles and delivered nearly 185 thousand vehicles.
+BULL12|We are encouraged by the strong reception of the Model Y in China and are quickly progressing to full production capacity.
+BULL13|The new Model S and Model X have also been exceptionally well received with the new equipment installed and tested in Q1.
+NEUT14|And we are in the early stages of ramping production, so quarter one vehicle production.
+BULL15|Very very impressive according to the Fool analysts on average were expecting total quarterly deliveries closer to 170,000.
+NEUT16|So the experts were underwear actually overwhelmed.
+NEUT17|I should say by the report that came out on Friday they were under expecting what was produced for sure will have the fools link down below as well.
+NEUT18|And guess what?
+BULL19|We also came off huge huge news on Friday as well.
+BEAR20|Interestingly enough, a jobs report came out for March on Friday when the markets were closed, so 916 thousand new jobs were created in the month of March, beating out that oh 675 thousand or 700,000 expected jobs forecasted by industry experts.
+NEUT21|So we've kind of got.
+NEUT22|A perfect storm brewing, it seems like for Tesla, good news coming out of China as well as good news coming out of the United States.
+BEAR23|As far as the job forecast.
+NEUT24|Who knows.
+NEUT25|Obviously stock market can be fickle, but just that jobs news is typically enough to send the market in the green, so that's not a recommendation to buy or sell.
+NEUT26|Remember that, but I do want to know what your thoughts are on Tesla for today as we get things going.
+NEUT27|Do you think it's a green for go?
+NEUT28|"Or a red for no."""

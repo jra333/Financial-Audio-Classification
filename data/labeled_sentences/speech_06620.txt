@@ -1,0 +1,20 @@
+NEUT0|"""Hello and welcome to today's technical analysis."
+NEUT1|It's Wednesday, July 19th.
+NEUT2|Amanda as your U currency analyzer exam.com today will be looking at the dollar versus the yen on the daily chart.
+BEAR3|So USD JPY heater three week low of 111.68 during yesterday's trading their parents.
+BEAR4|Significant declines since reaching a four month high of 114.49 on July 11.
+NEUT5|The RSI is currently at 47, close to the 50 neutral perceive level.
+BEAR6|In addition, the indicator has flatlined, projecting neither positive nor negative intraday direction.
+BEAR7|If the price moves higher, very around with 38.2% Fibonacci retracement level of the June 14 to July 11 up leg at 112.30 could provide resistance further up the one 1300.
+NEUT8|Combined with the 23.6% Fibonacci mark at 1:15 Point, 15 might form an additional resistor area.
+BEAR9|On the downside, the 200 day moving average.
+NEUT10|And 50% Fibonacci level ranging from 111.97 to 111.63.
+BEAR11|Cutover support notice at this range also encapsulates the current level of the 50 day moving average as well as yet as well as yesterday's three week low.
+BEAR12|Moreover, bear in mind that the 200 day moving average was briefly violated today.
+BEAR13|Should the price continued declining, the 61.8% Fibonacci Mark R 110.96 would be out next.
+BEAR14|For additional support in the wider picture, the pair recorded a bearish closed this week when the 50 day moving average move below the 200 day one.
+BEAR15|This is generally perceived as a negative medium term signal.
+BEAR16|However, it is too early to judge the strength of the signal and move below both moving averages would reinforce it for the time being.
+BULL17|The pair remains predominantly neutral in the medium term given the significant sideways movement.
+NEUT18|Since the start of the year, that's it for today.
+BULL19|"Thank you for watching and have a great day."""

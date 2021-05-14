@@ -1,0 +1,34 @@
+NEUT0|"""This is an instructional video on how to use stop losses when using the option."
+NEUT1|Backtester will use.
+NEUT2|A simple example will look at selling puts.
+NEUT3|An Apple avoiding earnings over the last two years every week and will just focus on the 50D.
+BULL4|Here are the results over the last two years selling a naked put in Apple has returned 21.7%.
+NEUT5|What we can do now is put in a stop loss coming down to the close trade.
+BEAR6|One section you can lose much more than 100% when selling a put, which is to say you can lose much more than the premium you received.
+NEUT7|So let's try and put a stop loss on this to reduce the risk.
+NEUT8|Will try a 70% stop loss which says that if we sold a put at a dollar.
+NEUT9|If it ever went up to $1.70, we would simply exit the position and here are the results.
+NEUT10|If we reopen the short, put the next day after we're stopped out so we can see the return has actually gotten worse, which in certain sense makes sense.
+NEUT11|We're taking less risk.
+BEAR12|We would expect a lower return.
+NEUT13|But in fact, the trade machine gives you much more power than that.
+NEUT14|Rather than opening up a new short put immediately.
+NEUT15|What we can do is wait a week and then open it up at the normal time.
+NEUT16|Here are those results we simply select at normal time.
+BEAR17|Now we see a staggering result.
+BEAR18|Selling puts an Apple while avoiding earnings every two years while putting a stop loss in an opening at the normal time after the stop is triggered, returned 69%, whereas the normal implementation returned.
+BEAR19|21% and using a stop loss, but opening immediately returned just 13%.
+NEUT20|This is the power of understanding the stock dynamics and how the stock dynamics affect the options.
+NEUT21|Let's look at another example.
+BULL22|Now with Disney we can see that selling a put in Disney over the last three years every week and avoiding earnings while putting a stop loss in, has returned 100 and 2%.
+NEUT23|But understanding the stock dynamics of Disney and how they're different than Apple allows us to implement our stop loss differently.
+BEAR24|When Apple stock goes down, it tends to go down with momentum.
+NEUT25|That is, it goes down consecutively.
+NEUT26|Disney in fact does not actually have that stock dynamic.
+NEUT27|We can test that by seeing the result of opening our short put immediately.
+NEUT28|That is the next day after a stop loss is hit and now we see the results.
+NEUT29|We went from a 100% gain to 150% gain, still using a stop loss, but just understanding the stock dynamics of Disney in this case reopening our short put after we get stopped out.
+NEUT30|The next day is better than waiting the full week to reopen it.
+NEUT31|This has been a demonstration of the closed trade when section of the CML viz.
+NEUT32|Option, Backtester trade machine.
+BULL33|"Thanks for watching."""

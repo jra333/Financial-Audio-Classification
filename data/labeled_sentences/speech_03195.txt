@@ -1,0 +1,37 @@
+NEUT0|"""Hello everyone, this is Valentin from Chico."
+NEUT1|In this video I'm going to explain to you how to use our newest an very cool feature filter by color in Google Sheets.
+NEUT2|So as you can see here I have an example spreadsheets with some sample data with all of the templates of our company for example.
+NEUT3|And as you can see here I use a lot of colors to identify from which Department these templates are.
+NEUT4|But now let's say.
+NEUT5|I want to export filter data to one of my colleagues with only the information of the sales templates.
+NEUT6|I need these roles to be exported to my colleague, so there's no feature in Google Sheets to filter by color, but Luckily she go has created this, so let me show you how it works to open she go, you go to add ONS, she go and start.
+NEUT7|If you do not have it installed yet, you can click on get add ONS and get it for free.
+NEUT8|So you can see that there's a sidebar that pops up on the right side of your screen, and here by hovering the + you can choose to import or export data.
+NEUT9|In this case I want to export my filter data to my colleague.
+NEUT10|Here we go, the data destination is the spreadsheet of my colleague.
+NEUT11|Of course, I've already made a premade spreadsheet to show you, so let's search for it here.
+NEUT12|Here you can see filter by color, the spreadsheet of my colleagues.
+NEUT13|So this is our destination.
+NEUT14|Let's click on it.
+NEUT15|There we go, and then in the Settings tab you can give this collection a name.
+NEUT16|For example, today I'm only going to send the sales templates information.
+NEUT17|You have your automatic updates on daily at midnight.
+NEUT18|You can change this as you like and let's enable the filter by section as you can see we can filter by condition by query language and now also by color.
+NEUT19|So let's show you here we want column A.
+NEUT20|Of course this has our colors that we want to identify.
+NEUT21|You click here and select the background color that you want to export.
+NEUT22|So in our case it is the blue of our sales.
+NEUT23|Let me show you.
+NEUT24|You can see all the colors and the sales has the blue color, so we chose that one and then you can also enable the transfer formatting button.
+NEUT25|In this case.
+NEUT26|This is very useful because then your colleague will also remain the blue color, so save the connection to export this only the sales data to your colleague.
+NEUT27|There we go.
+NEUT28|The connection was updated and now of course your colleague would see his spreadsheet, but let me open the destination for you here and show you.
+NEUT29|As you can see, she got created a new tab with your connection.
+NEUT30|The sales templates and there we go.
+NEUT31|We have filtered by color, so only the blue color of the sales templates are exported into your colleagues spreadsheets.
+NEUT32|So this is how you filter by color in Google Sheets.
+BULL33|I'm sure this will this feature will come in handy for you guys.
+NEUT34|Make sure to try it out and if you have any questions please comment below.
+BULL35|We will be happy to help you.
+BULL36|"Thank you."""

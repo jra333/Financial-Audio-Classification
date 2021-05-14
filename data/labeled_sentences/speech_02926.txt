@@ -1,0 +1,41 @@
+NEUT0|"""The Wall Street Journal is reporting that the social network weighed the idea of actually charging companies for access to user data."
+NEUT1|Report cites internal emails from Facebook executives between 2012 and 2014.
+BULL2|Those emails also reportedly show that Facebook talked about pushing some advertisers to spend more in return for increased user information access.
+NEUT3|Facebook doesn't deny these emails, but says that they were taken out of context and notes that they have never sold any user data and I was just talking with Andrew in the break about this.
+NEUT4|Reading this story last night, I was kind of thinking, OK, I guess the good news is they talked about this and decided not to do it, but you're still basically selling the information anyway by by selling it to advertisers through saying we're going to do XY and Z or giving it away.
+NEUT5|I guess the good news is they they didn't do it, but I guess the bigger question is they thought about actually doing.
+NEUT6|I think it's more about the demonstration of the internal psychology inside the company that they would think that it was OK to even have a real conversation about selling the data what that means.
+NEUT7|Unclear by the way, what data is actually given or shared with advertisers.
+NEUT8|How that works today relative to what they might have been thinking about.
+NEUT9|It's possible that under what they were talking about, they actually could have provided the actual data.
+NEUT10|So right now, for example, the advertiser can't, really, you are can't really see the data unclear from these emails exactly what they would have been providing, but I think it's more a demonstration that.
+NEUT11|To the extent that they that you that you want to be very careful with your data that they were willing to at least engage in this conversation is not a secret that something that happens in four years ago, that a lot of companies technology companies had to make sure we're going to go down this road.
+NEUT12|Or not some chose to do it, some didn't.
+NEUT13|And the ones who didn't do, the ones who kind of saying these guys need to be regulated.
+NEUT14|Now if you think of Tim Cook or if you think of Ginny Rometty and some of the things that they've made right in terms of in terms of saying we decided not to build these databases or have this access to this information or decide to even think about selling it.
+NEUT15|It was a decision that companies everywhere had to make it make it feel so.
+NEUT16|If we had if there was a way to even bet on everything now, alright, so with Bezos is comments in mind about all companies eventually fail, right?
+NEUT17|Given what Facebook is looking at facing right now, you saw the high 220.
+NEUT18|Just a few, it will exceed that high at some point in the future or it will not exceed that high at some point in the future.
+NEUT19|You make money on the over and under.
+NEUT20|Does it go back above that or is it?
+NEUT21|I don't think I'd bet against Mark Zuckerberg at this point.
+NEUT22|What do you think?
+NEUT23|I think it may very well go back, but it more along it was like 7.
+NEUT24|What will take very long time.
+NEUT25|I think there's two issues and they need to get separated.
+NEUT26|You think people five years from now we're still going to be here.
+NEUT27|That's where that's the bigger point.
+NEUT28|The bigger point is the trend lines on Facebook.
+NEUT29|Coca Cola.
+NEUT30|Facebook Classic's Instagram is different story.
+NEUT31|But Facebook Classic the trends are not in their favor but that's a separate story to Instagram.
+NEUT32|No.
+NEUT33|No, it's a separate story then this larger well that civilization about the regular European model is that comes in here.
+NEUT34|And so that's sort of hard to way.
+NEUT35|It's sort of hard to weigh how people are going to use Instagram, whether another service is going to not over Instagram, 'cause I'm not on it.
+NEUT36|So I mean, I got on Facebook either.
+NEUT37|So no, that's what Facebook they have.
+NEUT38|Another one.
+NEUT39|I'm still waiting.
+NEUT40|"I can't talk to anyone on Myspace."""

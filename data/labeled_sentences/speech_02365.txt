@@ -1,0 +1,27 @@
+NEUT0|"""And welcome to this morning's edition of toggles."
+NEUT1|Daily video insights.
+NEUT2|My name is John I'm the Co founders, one of the cofounders of Toggle, and for those of you joining us for the first time, this is one of those times when we take a look and deep dive into one of the many toggle insights produced every morning.
+NEUT3|Every market trading day.
+NEUT4|If you'd like to see more of these insights, you can subscribe to our YouTube channel or else you can also check us out on toggle Dot Global where you can sign up and test drive the toggle copilot which is the system that were.
+NEUT5|Using care, the focus today is going to be on Disney, a company that obviously very many of you will be familiar with.
+NEUT6|And as you can see here in this 360 asset overview, that toggle has actually.
+NEUT7|Produce quite a number of different bullish signals for the company recently.
+NEUT8|However, the.
+NEUT9|Current price action has been more or less range belt.
+BULL10|Now the latest inside that we're going to take a look at here is actually related to earnings growth and so if you just go down here and click on this, it's going to take you straight into the inside itself and what you see here by just looking at the gist of it is that in effect analyst expectations for Disney's free cash flow per share is are actually now quite high and historically this has led to a median increase in Disney's price of almost 10% over the following three months now.
+NEUT11|A better way to look at that is right here, where you can see with the starting price the median expected level that it could reach based on historical data is about 2O227.
+NEUT12|Ideally you see the price stay within this confidence band, and by no means dip below 176 fourteen, which is the level at which the odds that this driver is still relevant for the stock price will have been significantly diminished, and so it's a good place to revisit the thesis and potentially place your stop loss level right here.
+NEUT13|To move on to another idea instead.
+NEUT14|Now looking at why it might move, we look at this and you can see that actually historically there haven't been very many times when the expectations were quite this elevated, and so just visually inspecting the chart.
+BULL15|You can see that those periods have indeed coincided with very good price action for Disney share price.
+NEUT16|Now keep in mind there have not been that many episodes.
+NEUT17|Again, there's not a lot of cases that toggle.
+NEUT18|Has been able to study in order to produce this.
+NEUT19|So with that caveat, let's look at the back test and take a look at what the actual returns were over those periods and you can see that they range from about 2 1/2% all the way to Anna size.
+BULL20|Even 17 1/2%.
+NEUT21|And if you invested in each of those four prior episodes, you would have made about $1.40.
+NEUT22|If you if you had started so $1.40 of profit, starting with a $1.00 investment, so not about return.
+NEUT23|Definitely something to take a look at and see whether or not fundamentally this stock fits in your portfolio now in the rest of the this much for for Disney today in our daily Brief which by now should already be in your mailbox is if you're subscribing to it.
+NEUT24|If not, again you can sign up easily on toggled global.
+NEUT25|We also discuss the recent trends in Bitcoin and what might have made it so much more popular as a play on inflation recently than other commodities, particularly gold.
+NEUT26|"So again, check it out and we'll talk to you again tomorrow."""

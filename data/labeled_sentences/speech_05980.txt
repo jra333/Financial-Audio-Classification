@@ -1,0 +1,29 @@
+BEAR0|"""Should the elections be postponed as President Trump suggests no way, but big problems are looming."
+NEUT1|I'm Steve Forbes and this is what's ahead where you get the insights you need to navigate this fast changing world.
+BEAR2|Well, President Trump set off a storm when in a tweet, he broached the idea of delaying the November elections because of election fraud fears.
+BEAR3|Democrats, predictably, an gleefully declared the president, knows he will lose and is trying to extend his term unconstitutionally.
+BEAR4|The idea of suspending a national election is an utter nonstarter.
+NEUT5|We held elections during the Civil War and the Second World War.
+NEUT6|And will hold them this November.
+NEUT7|But Trump raises legitimate concerns about the growing use of Mail in voting under this method, ballots are automatically sent to every voter.
+NEUT8|States are supposed to remove inactive voters, particularly people who have moved or died a public interest law firm.
+BEAR9|Judicial Watch reached an agreement with the officials of California, Los Angeles County, to remove what may be as many as 1.5 million ineligible people from registration rolls.
+BEAR10|The Supreme Court has ruled that federal law makes such removals mandatory, but enforcement has been uneven as California and other areas of the country make clear.
+NEUT11|Wholesale mailing invites abuse is of unauthorized people getting their hands on ballots and voting them as many go to wrong addresses or to people who are dead.
+BEAR12|Another activity that undermines the integrity of elections is so called ballot harvesting, where political operatives go door to door and pressure people to fill out ballots.
+BEAR13|This kind of wrongdoing was why the election to Congress of Republican candidate Mark Harrison, North Carolina in 2018, was invalidated.
+NEUT14|Traditional polling places have officials there to ensure the proper procedures are adhered to.
+NEUT15|That goes out the window with Malins.
+NEUT16|Moreover, for reasons that are unfathomable in this high Tech Age.
+BEAR17|The counting of these battles can take weeks and evoked serious administrative problems.
+BULL18|Alas, experience demonstrates that delays like that open opportunity for chicanery.
+NEUT19|There is a world of difference between mass mailings and traditional absentee ballots.
+NEUT20|Normally, a voter formally request an absentee ballot if she won't be able to go to a polling place on Election Day because of travel, illness, or some other obstacle.
+NEUT21|All of these disturbing factors are why a bipartisan Commission Co, chaired by former President Jimmy Carter several years ago.
+BEAR22|Warned about the dangers of widespread use of Mail in voting.
+NEUT23|Now, some states, like Oregon have mastered this technique, but clearly most of not.
+NEUT24|This is why voters should have the opportunity this November to vote in traditional polling places.
+NEUT25|If they don't wish to, they can do what has been done in the past and that is apply for and then send in an absentee ballot.
+NEUT26|I'm Steve Forbes.
+NEUT27|Thank you for listening.
+BULL28|"Do send in your suggestions for topics and I look forward to being with you soon again."""

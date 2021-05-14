@@ -1,0 +1,20 @@
+BEAR0|"""At the depths of the Great Recession, unemployment hit 10%."
+BEAR1|Average household income dropped around 9%.
+BEAR2|Housing prices took a nosedive to 2003 levels.
+BEAR3|The country's GDP declined more than 4%, and the stock market fell over 56% from its 2007 high.
+BEAR4|This financial crisis hit bottom in early 2009 after some of America's biggest banks needed a government bailout.
+BULL5|Five years after Lehman Brothers collapse, how much is the US economy recovered?
+BEAR6|Let's start with America's GDP by mid 2009 GDP began rebounding, but growth has been sluggish, averaging just two point 2% below the pre recession average of 3.5%.
+NEUT7|Since World War Two per capita GDP.
+BEAR8|The country's total output divided by the US population has now inched above its 2007 peak, meaning that it took four years just to get back to where we started.
+NEUT9|Then there's housing home prices more than doubled from 2000 to 2006.
+NEUT10|Then after 2008 collapsed.
+BEAR11|Now prices are up again, but still way below their peak.
+BEAR12|The Case Shiller index of homes in 20 cities shows today's prices are around where they were in 2004.
+BEAR13|What about American workers unemployment at over 7% is Stillwell above where it was in oh wait and the Sheriff jobs that are part time remains high over 19%.
+BULL14|In a way it was around 17% median household income in the US just above $51,000 adjusted for inflation has a long long way to go to recover from 2000 2008.
+BULL15|It was generally above $55,000.
+NEUT16|What about stocks?
+BULL17|The one bright spot is America's portfolios with the Dow in the $15,000 range.
+BEAR18|It's up around 25% from its high in 2008, still with only 33% of Americans saying the economy is good by most measures, the recovery remains lackluster.
+NEUT19|"That's the short answer."""

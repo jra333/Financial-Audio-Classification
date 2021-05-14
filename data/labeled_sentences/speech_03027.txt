@@ -1,0 +1,20 @@
+BEAR0|"""Facebook losing billions of dollars in market value."
+BEAR1|It was an epic plunge that is one for the record books and it comes in the wake of Facebook's user privacy scandals.
+BEAR2|Today, the social media giant posted a massive 19% loss at the Bell.
+BEAR3|The stock closed at $176 a share after tanking and after hours trading yesterday on a disastrous second quarter earnings report.
+BEAR4|KPIX 5's Mary Lee tells us the wipe wipe out isn't just bad.
+NEUT5|It's historic Mary.
+BEAR6|Well is Facebook's flop is the biggest one day dive by any company in U.S. stock market history.
+BEAR7|The last chopped nearly $120 billion off the company's market value and its worst trading day since going public in 2012.
+BEAR8|Missed projections and both revenue and daily active users had investors rushing to dump their shares before they lost too much money.
+BEAR9|But no one took a bigger hit than Facebook CEO Mark Zuckerberg.
+NEUT10|He saw his net worth.
+BEAR11|Slashed by about $16 billion and slid from 3rd place to 6th on Forbes list of the richest people in the world.
+NEUT12|I think the big takeaway from this is that Facebook is no longer the high growth company it once was.
+BEAR13|It's had meteoric growth for a decade now that is starting to slow down.
+BEAR14|Company executives had warned that revenue growth would slow as the company focuses on user privacy in the wake of massive data leaks and fake news scandals.
+BEAR15|The Facebook slide helped pull the NASDAQ down by about 1%.
+BULL16|The S&P 500 also finished in the red, but other sectors were up on the day.
+BEAR17|The Dow finished with a gain of about 113 points and believe it or not, it could have been worse.
+BEAR18|Shares were down as much as 24% in after hours Trading's yesterday.
+NEUT19|"Mary Lee KPIX 5."""

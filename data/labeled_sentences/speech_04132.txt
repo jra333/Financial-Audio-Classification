@@ -1,0 +1,38 @@
+BULL0|"""Message that that that we can move forward."
+NEUT1|Do you fall on either one of those two camps?
+NEUT2|Either we need to change things or we need to keep be better at selling the point.
+NEUT3|Well, the basic message of opportunity and growth is real one, and one of the things we did not do nationally in the last election was lead off with that criticize Obama very well.
+NEUT4|But Reagan voice taught us, yes, you criticize the opponent, but you better have a positive program and lead with that.
+NEUT5|And that's we did so successfully in the 1980s.
+NEUT6|We have to do that again.
+NEUT7|Certain issues we have to deal with, one that is very sensitive as immigration and two things we must insist on in that reform is or guest worker program.
+BEAR8|Otherwise we will have illegal immigrants in the future.
+BEAR9|In this economy recovers and the other one is to deal with visas for a high tech workers we have huge shortage in this country which hurts us competitively.
+NEUT10|Kids have come here and go to in terms of advanced degrees in science and other areas critical to our future should get a green card in there.
+BULL11|Oklahoma so positive reforms there and lead with the opportunity and growth, such as a tax simplification and sound dollar.
+BULL12|An patients controlling healthcare will do fine here for Mitt Romney at CPAC today and you're in New Hampshire, so we have to.
+NEUT13|We have to get you get your gauge.
+NEUT14|Who do you think may take over the Republican mantle in the coming years as we look forward to the next?
+NEUT15|The next leader of the Republican Party?
+NEUT16|Thankfully, nobody's going to be at being the big leader in the next.
+NEUT17|Three years and that way you get a lot of new talent coming along.
+NEUT18|You see it on the state level.
+NEUT19|I come from New Jersey.
+NEUT20|We've got a very, very colorful governor there.
+NEUT21|Chris Christie, but you have a Walker in Wisconsin and elsewhere.
+NEUT22|Rand Paul.
+NEUT23|What he did.
+NEUT24|I think excited.
+NEUT25|The base have principle.
+NEUT26|Get up there and defend that principle.
+NEUT27|So I think you're going to see a lot of the figures emerging in the next three years and how it plays out in 2016.
+NEUT28|We'll find out soon enough, but in the meantime, I think people are going to see the GOP actually has a deep bench.
+NEUT29|Before you guys had to get your take on sequester, how big of a hit is this and and where do we need to fix this in the next coming couple weeks?
+BEAR30|Well, it's not going to be fixed because they just don't agree on priorities, but the idea that when you look at the actual cash cuts one one cent on the dollar is going to mean the end of civilization.
+NEUT31|No, unfortunately, what the President has done is the Washington Monument response.
+NEUT32|Cut those things that people will feel cut those things that hurt people hurt the economy instead of the bloat that's there.
+NEUT33|Every family, every business to take can take out one cent on the dollar.
+NEUT34|And most of them have done so in the past year.
+NEUT35|Why can't Washington with a near $3.6 trillion budget?
+NEUT36|I hear anything else, Sir.
+BULL37|"No, I just I'm glad you have sunshine today, great."""

@@ -1,0 +1,32 @@
+NEUT0|"""Hi, I'm Katrina and I'm the social media manager here at The Motley Fool."
+NEUT1|We're here to answer your investing questions and I've got a batch in from Facebook and Twitter.
+NEUT2|I'm going to send them down to our analysts who answer them with their foolish opinions.
+NEUT3|Nicole from Facebook asks, I'm a beginning investor in stocks.
+NEUT4|Where do I start?
+NEUT5|How do I choose an individual stock and how do I purchase it?
+NEUT6|When you're choosing a stock to purchase, particularly if you're beginning investor, I think you should stick with the Pier Lynch model of, by which you know and never, never invest in a company whose model you can't draw with crayons.
+NEUT7|So invest in simple, heavily branded companies that you're intimately familiar with that you can understand.
+NEUT8|Some of my favorite beginning investor stocks out there include companies like McDonald's and Coca Cola.
+NEUT9|They're very straightforward business models.
+NEUT10|We can all see the sort of, or at least understand the drivers that would impact these businesses that are relatively transparent from an investor level.
+NEUT11|There are simple to straightforward, and best of all their stable.
+NEUT12|Now, how do you actually buy these companies?
+NEUT13|Well, you have to open a brokerage account and I recommend any of the discount brokerage firms like E Trade Fidelity, Schwab.
+NEUT14|I personally use Fidelity from my own account, but they'll relative they'll all achieve relatively the same thing, which is will give you access to it and the ability to purchase shares for a small fee, usually about 7 to $11.00.
+NEUT15|Whether you want whether you're buying or selling, so you have to open a brokerage account.
+NEUT16|Typically they require about 500 to $2500 to start.
+NEUT17|Some will actually open with a 0 balance, but believe it or not, you actually have to fund it if you want to buy those shares.
+NEUT18|So once you funded your brokerage account and you have the company that you're comfortable with, you believe it's a sustainable long term company that you understand.
+NEUT19|You're going to get their ticker symbol, and this is a three or four letter title basically, and how you identify shares of that specific stock.
+NEUT20|So McDonald's ticker symbol is MCD.
+NEUT21|Starbucks is sbux, and you would go to your brokerage firm.
+NEUT22|You can either call them if you'd like some assistance, or that's pretty easy to do online, and you would input that ticker symbol and the number of shares you'd like to buy.
+NEUT23|So let's say you want to buy or you have $100 that you'd like to allocate to a specific stock, and shares are about $20.00 each, so you want to you want to buy.
+NEUT24|Five shares of that stock and you didn't put the ticker symbol and the number of shares you'd like to select, and I recommend doing a market order.
+NEUT25|There's a couple different more complicated orders out there, but for the beginning investor, what's important?
+NEUT26|Just getting the share so just do a market order, which will give you the most recent price and you're off to the races.
+NEUT27|And now we want to hear from you.
+NEUT28|Ask us your investing questions on Facebook and Twitter.
+NEUT29|You can go to facebook.com/the, Motley Fool or tweet at The Motley Fool or use hashtag.
+NEUT30|Ask a fool.
+NEUT31|"I'll see you on line."""

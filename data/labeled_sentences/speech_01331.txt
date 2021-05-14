@@ -1,0 +1,24 @@
+BEAR0|"""I made the concerns of Australians caused by a bill called the news media bargaining code which could lead to Google and YouTube suspending their services in Australia."
+NEUT1|The citizens of this country have reason to be excited.
+BULL2|After a large rise in the prices of Apple and Tesla shares, which was caused by the reaction of investors to the split of their shares in the ratio of 441 Apple and 541 Tesla remotely full, predicts that the same will happen on the Australian Stock Exchange.
+BULL3|The prices of the mentioned shares increased by almost 30 and 50%.
+NEUT4|Those who bought these shares before the split can boast that they earned.
+NEUT5|More in a couple of weeks than in a couple of very fruitful years.
+NEUT6|Do Motley Fool singles out three candidates who could split their shares to CSL Limited is first on their list price of one share at the time of recording.
+BEAR7|This video is $295.12 over the share price fell from almost $343.00 as it was earlier this year.
+BEAR8|It is still among the most expensive shares on the Australian Stock Exchange.
+NEUT9|Sincere sell limited already splitted stock in 2007 341.
+NEUT10|This process is not unknown to that company.
+NEUT11|The Motley Fool thinks there is a good chance they will do it again.
+NEUT12|The second candidate is the Commonwealth Bank of Australia.
+NEUT13|The stock price of that bank is $68.95 now, but it was over $90.00 in February this year since National Australia Bank, Westpac Banking Corp and Australia and New Zealand banking Group.
+NEUT14|All have share prices in a similar range today between 17 and $18.00.
+NEUT15|The Motley Fool thinks there is a possibility that the Commonwealth Bank of Australia may decide to join its share price to that group.
+NEUT16|The third candidate is Afterpay Limited with the share price of $82.73 in the Motley Fool's opinion, it is the least probable for the split of shares, but due to the increase in the share price of this company, the split cannot be.
+NEUT17|Ruled out the purpose of this video is to give a warning.
+NEUT18|First of all, it is not investment advice.
+NEUT19|While it is very possible for stock splitting to happen, it is also possible for the leaders of these companies not to consider it.
+BULL20|Also, it should be reminded that in the price increase of Apple and Tesla shares in addition to creating greater opportunities for purchase by retail investors, the so called formal also played an important role.
+BEAR21|Fear of missing out on earnings opportunities.
+NEUT22|In this case characteristic of invents that cause the fear of missing out is that when the same event is repeated again and again, it can no longer attract so much attention from investors.
+NEUT23|"So be careful."""

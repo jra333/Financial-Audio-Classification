@@ -1,0 +1,18 @@
+NEUT0|"""Peter, how do you adapt and adjust to virology?"
+NEUT1|With great difficulty as I think you can see from the market pricing, I mean basically we don't know very much.
+NEUT2|We know there's a problem we don't know how virulent it is or what the spread will be, nor do we know obviously what the long term implications will be, or even a short implications for the Chinese economy.
+BULL3|So I think that given all of that, markets are simply saying that we've had a great run.
+BULL4|It probably is a good time to take some risk off the table, take some profit, will sit this one out, and we'll come back potentially at some point in the future.
+BEAR5|The trouble is we don't know how long we're going to be out of the market for we don't know how far the market will fall before things turn around, so it's a it's a.
+BEAR6|It's an exceptionally difficult time and I think investors are simply just taking the shortest route, which is out Peter down two or three percent, maybe will be down four 5%, who knows.
+NEUT7|That's not even a correction.
+NEUT8|Have we become completely immune to understanding and studying corrections?
+NEUT9|Or, heaven forbid, intangible bear market?
+NEUT10|Yes, I think that's a very good question actually.
+NEUT11|I mean, how many times have we ever started this chair over the years and said, you know, markets look to be able priced and market still continue to rise.
+BULL12|Yeah, I think it's a very good point.
+NEUT13|You know we have forgotten.
+NEUT14|Perhaps we've forgotten the fundamentals, but that's perhaps because the fundamentals on what they were.
+NEUT15|I mean, we were living in a market which has been given life support by central bank liquidity for many many years and there are no signs of that turning around and it's so long.
+NEUT16|As you know, central banks remain in the game absent any significant shocks such as this one, which turns into something much worse.
+BEAR17|"There's no real reason to expect equities to completely fall off a Cliff."""

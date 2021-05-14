@@ -1,0 +1,21 @@
+NEUT0|"""How would you characterize U.S. economy right now and how critical is another round of stimulus at this point?"
+NEUT1|Well, I would say that.
+BULL2|The US economy has actually performed better than expectations, right?
+NEUT3|If we if we take a look at you know what you would think would be happening around GDP around unemployment around the challenges of of individuals, families, small business, bigger business.
+NEUT4|I think you know.
+BULL5|So far the programs that have been put in place by the Fed, those programs that have been put in place coming out of Treasury, I think have served us well.
+NEUT6|What we don't know from where we are is what the forward trajectory looks like.
+BULL7|And show, I think right now, we're all trying to watch the data to see that as we head back into colder weather as we head back into flu season, do we actually see a continual uptick or resurgence in terms of of covid cases of as of late, we've seen a bit of that.
+NEUT8|I would say in some cases that was expected.
+NEUT9|But really, what we want to see is again, we want to see that curve turn and bend and start to go back down.
+BULL10|And clearly I think we all have optimism.
+NEUT11|And there's a lot of work going on in terms of.
+NEUT12|The vaccine and the anti virus out there and you know hopefully that's not in the that's not too far in the in the future and that we can get that out.
+BULL13|We can get that scale that we can give people the benefit of that so that we can start to have a more expedited return to normalcy.
+NEUT14|Our willingness to to use mass transportation, our willingness to go into crowded space, or willingness to go indoors into a restaurant.
+NEUT15|I think all of those things are critical from a stimulus perspective.
+NEUT16|I think without a doubt.
+NEUT17|People recognize that there that we probably do need another round.
+NEUT18|I think we've got the ability to be more targeted this time in terms of those businesses, those geographies, those those areas that have been more acutely affected by the virus, and I think at this point it sure feels like to me it's it's not about are we going to get it?
+NEUT19|It's when will it come and exactly how?
+NEUT20|"How will that be designed as we go forward?"""

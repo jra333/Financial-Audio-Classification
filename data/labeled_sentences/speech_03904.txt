@@ -1,0 +1,39 @@
+NEUT0|"""Alright, this video is if you made a graph and you feel like you have a straight line or there's a linear relationship in your data, what you want to do now is go into your advanced edit options."
+NEUT1|And then we're going to temporarily turn on the legends.
+NEUT2|You'll see why in a moment and scroll to the bottom, and we're going to add a trendline.
+NEUT3|A trendline is what Google Sheets cause a line of best fit.
+NEUT4|So in this case it's a line, so we're going to choose linear and then for label we're going to choose use equation.
+NEUT5|Now can I put that there going to click update and then we see this this trend line now?
+NEUT6|Now what we're going to do is we're going to use that trend line to sort of analyze and figure out what our relationship is between our independent variable and dependent variable.
+NEUT7|So since it's a line, the equation of the line is Y equals MX plus C. Why is your Y variable or your dependent variable M?
+NEUT8|Is your slope or gradient of your line X?
+NEUT9|Is your X value or your independent variable value?
+NEUT10|An C is the Y intercept or where the line of best fit crosses your vertical Y axis.
+NEUT11|So that is the general formula for any line.
+NEUT12|Now if we look at the data, the Google Sheets has created, it is analyzed your data points and it has tried to find the best line equation that represents your data.
+NEUT13|So it gives out here.
+NEUT14|So we copy that down Y = 2.1, seven X + .05 and then we convert that into.
+NEUT15|What does that actually mean in our experiment while our Y is distant?
+NEUT16|So what I can do is I can choose to represent D's distance, so we stayed equals distance.
+NEUT17|So ago D equals.
+NEUT18|2.17 and I'm going to change X to T because my X values are really time, so I'll put time in seconds.
+NEUT19|And then my Y intercept.
+NEUT20|I start to think about, well, what does that really mean when this line goes all the way back?
+NEUT21|And in this case it means you know that's the starting distance where the car was.
+NEUT22|If this is the example of a car and its distance overtime where a car started and the slope the slope here is going to be the speed, or in other words how fast it traveling, and the reason we can think of that is because it's rise over run or in other words, you're.
+NEUT23|Y axis meters divided by your X axis.
+NEUT24|Second so meters per second, that is speed.
+NEUT25|So what this really tells us is this slope 2.17.
+NEUT26|The slope tells us that the car is moving 2.17 meters every one second.
+NEUT27|Or you could say 2.1 meters per second.
+NEUT28|Maybe I'll just write that in there really quickly.
+NEUT29|Meters per second.
+NEUT30|Both of those mean the same thing, and then the Y intercept tells us the car was 0.05 meters from the starting point on the timer started.
+NEUT31|So this is just an example of, you know what you want to do.
+NEUT32|You want to get your line equation.
+NEUT33|Then you want to substitute in your values.
+NEUT34|Then you want to figure out what does the slope mean.
+NEUT35|What does the Y intercept mean?
+NEUT36|You should be able to try and figure out what those mean, and so as our last step, all we're going to do is go back into our advance, edit, and then we're going to turn off that legend, because now we already got the equation.
+NEUT37|We don't need to sort of clutter a graph up now.
+NEUT38|"All of this can go into a lab report."""

@@ -1,0 +1,21 @@
+NEUT0|"""As all good short sellers know, identifying a bubble is one thing, but finding the best way to profitably bet against it is a tougher challenge."
+BEAR1|The last month has seen renewed focus by investors on warning signs that Sweden's decade long property boom may be coming to an end.
+BEAR2|News that the country's residential property market from August to October suffered its quickest for since 2008 sent chills through the value of the Kroner which has lost four point 4% against the euro since September.
+BEAR3|On fears about the country's residential and commercial markets, these fears are understandable.
+BULL4|Swedish home prices have roughly doubled since 2008, outpacing similarly overheated markets in Canada and Australia, according to Moody's household debt is among the highest in the world at 180% of disposable income.
+BEAR5|The yield on commercial property has fallen from over 4% in 2007 to less than one today, according to the Riksbank.
+NEUT6|Whilst borrowing for listed property companies.
+BEAR7|Has trebled over the same.
+NEUT8|So what is the best way to short Swedish property?
+NEUT9|The currency markets are too blunt at all and Swedish banks may have large exposure to property, but they also have high capital buffers against future losses.
+NEUT10|A better way would be to look at Swedish listed commercial property companies whose shares today appear priced for perfection.
+NEUT11|Fab urges a commercial property company with 80% of its assets and offices and all of them based in Stokholm.
+BULL12|It shares have risen by two.
+BULL13|26% since 2012, yet its annual funds or operations over this time have increased by only 7%.
+NEUT14|Today, the company shares trade at 31 times.
+BULL15|Next year's adjusted earnings, according to estimates by Handelsbanken more than doubled the 13 times they were valued at in 2012, and a large premium to Nordic peers.
+BEAR16|Yet before divestment, the company generates negative free cash flow, while earnings before interest tax depreciation.
+NEUT17|Amortization only covers interest payments twice.
+NEUT18|According to Swedbank analysis.
+NEUT19|More than 1/3 of its debt has to be refinanced within the next year.
+BEAR20|"The slightest bump for Swedish commercial property would dramatically call into question the market's rosy outlook for its shares."""

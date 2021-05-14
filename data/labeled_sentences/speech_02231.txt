@@ -1,0 +1,39 @@
+NEUT0|"""Good morning, this is Mr Ties with here."
+NEUT1|I am going to be talking to you about how to insert a chart or create a chart.
+NEUT2|First thing I'm going to do is I'm going to use this handy little focus tool so you can see where I'm playing more.
+NEUT3|So we're going to graph this thing called Cisco Systems.
+NEUT4|So I'm going to click and drag over exactly what I want to graph.
+NEUT5|That's just that line right there.
+NEUT6|We don't want any other information in there 'cause that would screw up the graph, so only click the name of the company and then the range of stock prices.
+NEUT7|Then you're going to go up to this insert chart and click.
+BULL8|And you're going to see this chart pop up.
+NEUT9|This is really not what we want.
+NEUT10|If we're comparing stock prices over time.
+NEUT11|So the first thing I'm going to do is I'm going to be here and I'm going to change the chart type to be a line which will represent change in price overtime.
+NEUT12|And obviously this is not what you want, so if you get this, you're going to go down here and you're going to switch the columns in the rows.
+NEUT13|And when you do that then you get a nice neat line graph here.
+NEUT14|Alright, the next thing you want to affect are the titles and maybe some colors, so I'm going to be here customize.
+NEUT15|And I'm going to choose chart and access titles and the first thing is the chart title.
+NEUT16|So you want to call this whatever you're going to call this graph.
+NEUT17|Cisco stocks you see a pop up here.
+NEUT18|You can change the font the size.
+NEUT19|Make it bold.
+NEUT20|You can center it whatever you want there.
+NEUT21|Next title I want to change is the horizontal access.
+NEUT22|That's the one on the bottom there.
+NEUT23|I don't have any data here.
+NEUT24|I wish I had the dates, but I don't see them popping up, but I can just put this time going by so now it has the word time there.
+NEUT25|And then the last title that we want to affect is the vertical axis title.
+NEUT26|That one does have numbers on the side, so I can say.
+NEUT27|Stock prices and you'll see that pop up on there and again you have the option of changing the different things about it.
+NEUT28|Last thing I want to do before I leave here as I don't like this little legend over here.
+NEUT29|We know this is Cisco so we don't need that there.
+NEUT30|That is the legend.
+NEUT31|So if I go to legend.
+NEUT32|And where it says position?
+NEUT33|I can choose none and get rid of that completely.
+NEUT34|Alright, so once you're done customizing all this.
+NEUT35|You can close that an if I click on here it gives you three dots so you can always go back to this three dots, edit the chart and do other things with it.
+NEUT36|Right now I'm going to copy the chart and once you do that you can go to Google Doc and paste it.
+NEUT37|You can also go to a second sheet, maybe an go and paste it in here.
+NEUT38|"And maybe you want to create different charts and just put him in the second sheet for now until you get to a point where you can copy these all over to a Google Doc."""

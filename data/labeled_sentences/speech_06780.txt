@@ -1,0 +1,47 @@
+BULL0|"""I think having $2 billion that they didn't have yesterday is certainly good news as far as it goes."
+BEAR1|Tesla has a working capital deficit of about 1.7 billion, ending at last quarter, and we haven't seen any sign that a big sales turn around isn't underway in Q2 and Tesla's balance sheet has been a problem for a long time.
+BULL2|This at least kicks the can down the road a little bit for them.
+NEUT3|By the way, how expensive is this financing?
+NEUT4|Because obviously the equity is the most rational path for them to go down, given where the share price still is.
+NEUT5|They're also doing convertible bonds and their existing debt is trading at some pretty high yields.
+NEUT6|That's right.
+BEAR7|I mean, the unsecured debt, which is not apples to apples comparison, trades North of 8%.
+BEAR8|This money we're going to have to see where the conversion rates come in, but you know, I think this is probably going to be a harder financing for them than it's been in the past, so I'm not expecting today's enthusiasm to last much longer.
+NEUT9|Robert Investors, perhaps also liking the Elon Musk, is putting some of his own money to work in this job.
+NEUT10|He's putting 10 million in to buy stocks so that God gave the stock a boost today, but.
+NEUT11|You know one of the issues with Tesla wears relates to disclosure is just how much stock has he collateralized for margin loans.
+NEUT12|In other words, you know he hasn't sold any stock.
+NEUT13|He holds about 20% of the company so he doesn't have any liquid source of wealth to buy more stock.
+NEUT14|So what he's done is he's leveraged stock to get cash.
+NEUT15|He's also got some mortgages in private homes.
+NEUT16|This amount is right as of 2017, was around $600 million that he had leveraged.
+NEUT17|We don't know what the number is for 2018, but it's likely a lot higher.
+NEUT18|Now he's worth 20, so we shouldn't worry that he's going to be down to his last Buck, but you look at what happened with Chesapeake Energy.
+NEUT19|Look at Bernie Ebbers at world com and look at Adelphia.
+NEUT20|These are all cases where founders who had a lot of stock leverage.
+BEAR21|They had margin loans and when the stocks fell dramatically and quickly, they had to cover an they were just trying to cover stock with selling more stuff and that's a downward spiral.
+NEUT22|So in other words, an we've seen this time and again you can have a high net worth but not necessarily have cash on hand, right?
+NEUT23|Big difference between net worth and liquid.
+NEUT24|Charlie, what about the $10 million move by Elon again in terms of Elon's overall, you know, relevance to this company?
+BEAR25|That's not a huge amount, it's it's a drop in the bucket.
+BULL26|I mean, it's a token show of confidence and that is nice as far as it goes.
+NEUT27|I would be much more focused on why Tesla did not raise money last December when the stock was at $375 and the capital needs were more or less the same.
+NEUT28|What they are today.
+NEUT29|An I think it tells you a lot about the Tesla shareholder base that that question is not really being asked.
+NEUT30|Why did why didn't they?
+NEUT31|I mean, that was around the time that he was.
+NEUT32|Talking about the stock going private at 4:20, he said he didn't want to and I take him at his word.
+NEUT33|He didn't want to, and now they're going to make this is a reason there's a phrase you raise when you can not.
+NEUT34|When you need to, an well, Tesla needs to.
+NEUT35|And So what is happened?
+NEUT36|In other words, is what we've seen in the first quarter.
+NEUT37|The trends we've seen since some of the demand side issues we've talked about have put them in this bind that he did not anticipate.
+NEUT38|That that's right, and there's a terrific piece on cnbc.com right now.
+NEUT39|By Lora Kolodny just outlining how Tesla is offering loans to employees who are affected by irregular shifts.
+NEUT40|Nothing, nothing is run right here at everything.
+NEUT41|Everything needs to be rethought here.
+NEUT42|That said, Robert, this is how he's always kind of run things.
+NEUT43|So certainly the investor base knows this.
+NEUT44|The reaction again, maybe tells you that they expect him to continue to pull away rabbits out of his hat.
+NEUT45|Yeah, and also we're in such an amazing lending environment right now with interest rates where they are, where the Fed where they are, that you know, for the for the foreseeable future.
+BULL46|"This is a company that can continue to raise money despite all these questions."""

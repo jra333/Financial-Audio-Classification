@@ -1,0 +1,29 @@
+NEUT0|"""But Joe, I'd like to discuss Fed Chair Jay Powell, who today faces one of his most difficult challenges."
+BULL1|Defending a Fed policy that's arguably arguably the most aggressive in history amid a dramatically improved economic outlook?
+NEUT2|Let's look at what's changed here.
+BULL3|Since the Fed last night, we got the $1.9 trillion in relief enacted by Congress signed by the President.
+BULL4|It's prompted a surge in growth forecast.
+BULL5|Vaccinations have accelerated.
+NEUT6|States have started to reopen.
+BULL7|Bond yields have soared, and inflation concerns among the leading market worries right now.
+BULL8|Meanwhile, the Fed zero rate and aggressive policies on QA.
+NEUT9|They haven't changed.
+NEUT10|Powell and other Fed officials say.
+NEUT11|They're going to keep them in place until the economy regains.
+BEAR12|Most of the ten million jobs lossed from the pandemic.
+NEUT13|An inflation runs above its 2% goal for a time, so the focus today will be on how much more optimistic the Fed's own forecasts become at how Powell defends no change in policy.
+BULL14|the Fed is likely to hike, for example, its growth outlook for this year.
+NEUT15|It had forecast GDP around 4% for this year, or CNBC Fed survey around 6% with no rate hikes expected.
+NEUT16|This year the focus turns to the median Fed officials forecast work.
+NEUT17|The funds rate in 2022, Fed looks for no hikes.
+NEUT18|Are CNBC survey nearly two full Heights with a 0.45 funds rate forecast reported that yesterday, thank you, America Michelle Meyer writes Powell and forecast revisions will seem more upbeat.
+NEUT19|This will likely be the feds first step in a less accommodative direction.
+NEUT20|But Barclays doesn't think so.
+NEUT21|They say we expect the Fed to rain in policy rate expectations in March with the median dots.
+NEUT22|That is the feds forecast.
+BULL23|Still showing no lift off through 2023 despite an upgraded outlook.
+NEUT24|No Fed has ever run so aggressive a policy as this one and so no Fed has ever had to engineer an exit from it.
+NEUT25|The question is whether Powell can keep yields at Bay for now and avoid a temper tantrum.
+NEUT26|Joe, when he moves to tighten?
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

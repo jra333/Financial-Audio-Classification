@@ -1,0 +1,18 @@
+NEUT0|"""In China, it isn't so much what said, but who says it?"
+BEAR1|Few investors can have been surprised by warning over the weekend that China's rising leverage poses risks.
+BEAR2|But this warning came from Li Keqiang, China's Premier speaking to the National People's Congress.
+NEUT3|The impression he left was that Beijing's emphasis is now on controlling risks deleveraging, in other words, as much as on growth and China's faster evolving bond markets are already reflecting their shift.
+BULL4|Borrowing costs in China have been rising rapidly and in some cases faster than US rates.
+BULL5|Yields on two year government bonds have jumped 42 basis points this year compared with 11 basis points in the US, and there's almost now a full percentage point gap between yields on Chinese 10 year debt and the US counterparts.
+BULL6|That's double the gap three months ago.
+NEUT7|Driver for these moves can really be found in China's short term money markets where the central bank has been broadening its activity.
+BULL8|A year ago, the People's Bank of China Fine tuned its influence by beginning daily liquidity operations for the first time and last month it caught investors off guard by raising a range of those short term borrowing rates.
+NEUT9|The net effect is a tightening of liquidity without resorting to the blunt instrument of raising headline interest rates and risking a broader economic slowdown.
+NEUT10|Hence, monetary policy can still be described officially, there's neutral.
+BULL11|Such a straight transmission mechanism, higher short term rates left longer term ones may be commonplace elsewhere, but it isn't necessarily in China as its markets developed in fits and starts onshore bond markets expanded by 32% last year to 64 trillion renminbi.
+NEUT12|That's 9.3 trillion U.S. dollars.
+NEUT13|That's huge by any standards.
+NEUT14|But the problem for investors is reading that expanded market and figuring out exactly what the PBOC wants to achieve all its extra operations.
+NEUT15|It still doesn't target target a single rate as its peers do amid the guesswork.
+BULL16|One thing remains clear with lending reaching a new record in January.
+BULL17|"Mr. Lee and the PBOC still have some way to go in their risk curbing efforts."""

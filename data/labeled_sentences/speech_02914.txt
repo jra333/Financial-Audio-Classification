@@ -1,0 +1,23 @@
+NEUT0|"""Hey guys, it's Vivian."
+NEUT1|Your hot stock girl today I'm going to discuss Facebook.
+NEUT2|The ticker symbol is FB.
+NEUT3|Facebook is one of the largest social media companies in the world and as everyone knows it operates Facebook and Instagram.
+BEAR4|Facebook's stock dropped around 20% after reported second quarter earnings back in July, even though revenues were up, 42% makes no sense right?
+NEUT5|We need to look a little closer to see why so many investors bailed.
+BEAR6|At the stock knew user growth has slowed and maybe close to reaching its saturation point.
+BEAR7|What I think spook investors to most is that Facebook ad interaction dropped by 20%.
+BEAR8|This is alarming because if less people interact with an ad then they will have to drop their advertising rates.
+NEUT9|They're charging their customers.
+BEAR10|If advertisers can't reach as many customers with Facebook as they used to, then they may spend their advertising dollars elsewhere.
+NEUT11|What I did like on the last.
+BULL12|Earnings report was that Facebook average revenue per user grew from $23.00 to $25.
+NEUT13|This is important.
+NEUT14|Facebook knows so much information about its users that marketers can't directly target interested consumers.
+BEAR15|I think these stock is oversold.
+BULL16|Ann is a strong buy here, treating at only 16 times EBIT ah.
+BEAR17|There may be some volatility for the next few quarters because of the GDP.
+NEUT18|Are privacy rules in Europe, but this will just give investors time to accumulate shares.
+NEUT19|At a decent value five years from now, investors will look back at this time period as the last Golden opportunity to buy Facebook shares at a good price.
+NEUT20|My advice is to buy some shares now and accumulate shares until you own your full position.
+NEUT21|So there you have it.
+NEUT22|"My thoughts on Facebook I'm giving you hot stock, Rowan, please be sure to subscribe below and check out my other videos from our great investment ideas."""

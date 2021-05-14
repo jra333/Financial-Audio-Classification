@@ -1,0 +1,31 @@
+NEUT0|"""It's time now for quick take by the numbers we give you the numbers that tell the story."
+NEUT1|This afternoon's number $170 billion.
+BULL2|Deutsche Bank predicts that US stimulus checks could lead to a $170 billion wave of retail inflows to the stock market.
+NEUT3|Strategists say a survey of retail investors found that they plan to put 37% of their stimulus checks directly into stocks.
+BULL4|Stemis showing sentiment is positive across the board.
+BULL5|This is, of course, as a combination of free trading apps and direct government stimulus has helped fuel a boom in retail involvement in the stock.
+NEUT6|Market, most notably from first time investors.
+NEUT7|So the big question, what does it mean for your wallet?
+NEUT8|If President Biden's $1.9 trillion aid bill passes tomorrow here to discuss in another edition of Quicktake FA, Q is Bloomberg's personal finance Reporter Charlie Wells.
+BULL9|Hey Charlie, thanks so much for being here.
+NEUT10|Look, this is a huge bill $1.9 trillion and includes $1400 stimulus checks.
+NEUT11|Skinnies, as they are sometimes being referred to online minimum wage child tax credits.
+NEUT12|How should people be preparing for the impact this could have on their finances?
+NEUT13|That's a really great question, and basically they should be making a plan now.
+NEUT14|So these stemis as you call them are not a sure thing.
+NEUT15|There's a lot of debate over who will qualify for them.
+NEUT16|Previously it was single people who made $75,000 or below married couples who made 150 or below, but that as the White House spokeswoman have said recently, is subject for debate.
+NEUT17|But that doesn't mean that you can't plan and financial advisors really not recommend writing down what you plan to do with it.
+NEUT18|Talking to friends and family about your plans.
+NEUT19|And also I really want to emphasize this, 'cause I think it's a good idea not thinking about this as black or white.
+NEUT20|Not thinking.
+NEUT21|Oh either I'm going to spend all of this money or I'm going to save all this money.
+NEUT22|You could spend half and save how we so.
+NEUT23|So what do you mean by that?
+NEUT24|I mean, you know you can not taking putting all your eggs in one basket.
+NEUT25|That's exactly right, and that is one of the sort of behavioral psychology traps that financial advisors and psychologists try to get people to kind of snap out of thinking.
+NEUT26|OK, well, here comes $1400.
+NEUT27|I think I'm going to spend all that on something that cost $1399 instead, breaking it down, saying, look, maybe I could have some fun with that, but I could also be responsible with another portion of that.
+NEUT28|The biggest story is the moment they happen from around the globe.
+NEUT29|Subscribe to Bloomberg.
+NEUT30|"Quicktake now for insight in an instant."""

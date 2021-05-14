@@ -1,0 +1,12 @@
+BULL0|"""Shares of Netflix rose nearly 13% in extended trading as the financial milestone validated the company's strategy of going into debt to take on Big Hollywood studios with a flood of its own programming in multiple languages."
+NEUT1|Netflix Inc. Said on Tuesday its global subscriber roles crossed 200,000,000 at the end of 2020 and projected it will no longer need to borrow billions of dollars to finance its broad slate of TV shows and movies.
+BULL2|Shares of Netflix rose nearly 13% in extended trading as the financial milestone validated the company's strategy of going into debt to take on Big Hollywood studios with a flood of its own programming in multiple languages.
+BULL3|The world's largest streaming service had raised $15 billion through debt in less than a decade.
+BULL4|On Tuesday, the company said it expected free cash flow to break even in 2021, adding in a letter to shareholders.
+NEUT5|We believe we no longer have a need to raise external financing for our day-to-day operations.
+NEUT6|Netflix said it will explore returning excess cash to shareholders via share buybacks.
+NEUT7|It plans to maintain $10 billion to $15 billion in gross debt.
+NEUT8|Thanks for watching this video.
+NEUT9|Please do subscribe.
+NEUT10|All media.
+NEUT11|"New York."""

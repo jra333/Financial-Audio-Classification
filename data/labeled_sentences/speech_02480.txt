@@ -1,0 +1,18 @@
+NEUT0|"""Hello, this is Cody Hubbard with the Kimmons Wilson School at the University of Memphis."
+NEUT1|And today I wanted to talk to you about a paper I wrote the Graziadio business review titled Disney versus Comcast.
+NEUT2|Lessons learned from the corporate drive.
+NEUT3|There are a lot of different lessons that managers and practitioners of large companies and small companies can learn from the rivalry between the Walt Disney Company and Comcast Corp.
+NEUT4|So the paper starts out looking at what rivalry means and then looking at the rivalry between the two companies in network television.
+NEUT5|Their theme, part brands, their theatrical productions and especially centered around the Marvel Cinematic Universe and the use of the Incredible Hulk character.
+NEUT6|And then, summarizing with the acquisitions and streaming.
+NEUT7|That the two companies are involved with now and the acquisition of Fox and streaming with Disney Plus and the soon to be Peacock, which will be released this summer.
+NEUT8|Some of the lessons that can be learned for managers again both in small or large organizations is competitive scanning.
+NEUT9|Knowing what your organ it or what your competitors doing, which arrivals doing and trying to learn from what works for them and what doesn't work for them, for example.
+NEUT10|Disney is now probably scanning what Universal's next steps are.
+NEUT11|With their statements and the returning statements about sending things to streaming services at the same time as theatrical releases and looking at how theaters like AMC and Regal are reacting to those statements, another lesson is having the organizational foresight to look out for your organization and make the decisions that are best for your organization and try to avoid getting into some type of bidding war over services which gets into the third message strategic pricing.
+NEUT12|Knowing what your rival or your competitors are doing so that you can price your product so that it's beneficial to the consumer, but it also gives them a service and doesn't hurt the perception or the quality of your service.
+NEUT13|We also have to learn how to cooperate with your competitors from time to time.
+BULL14|For example, the two companies have worked together to have the Incredible Hulk and different MCU movies and the two companies now are working within their theme parts brands to reopen their parts in a safe and responsible manner amid the COVID-19 pandemic.
+NEUT15|And then the final lesson to learn is the consumer orientation aspect of this always looking out for what's best for your consumer and what's going to be best for them, and how can you best provide a service or your product to them not getting caught up so much and just trying to outbid a competitor or outdo a competitor.
+NEUT16|You have to keep that in mind what's going to be best for your organization and for your organizations, consumers.
+BULL17|"Thank you very much."""

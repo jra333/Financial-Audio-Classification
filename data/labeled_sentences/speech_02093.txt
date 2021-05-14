@@ -1,0 +1,16 @@
+BEAR0|"""Coca Cola earnings topped estimates despite a decline in revenue and sales, the social distancing measures, suffocating restaurants, movie theaters and entertainment venues remained a challenge for the company."
+BULL1|Coca Cola's revenue came in at $8.65 billion versus the $8.36 billion expected well adjusted EPS.
+BEAR2|Non gapps fell by 2% to 0.55 versus the zero point $46.
+BEAR3|Expected revenue decreased by 9% year over year.
+BEAR4|Organic revenue, which excludes acquisitions, divestitures, and currency fluctuations, declined across all regions led by an 8% shrinkage in Asia and a 6% drop across Europe, Middle East and Africa EMEA.
+BULL5|The company's adjusted operating margin, non GAPPS, expanded from 28.1 to 30.4%.
+BEAR6|Coca Cola's operating cash flow declined by 20% in the third quarter and it's free.
+BEAR7|Cash flow FCF fell by 17%.
+BEAR8|The company is reducing its business units from 17 to 9 and eliminating 200 brands.
+BEAR9|Though the CEO James Quincy said the underperformers only account for 2% of sales.
+NEUT10|The company's stock closed at 50 point, $68 on the 22nd of October 2020.
+BEAR11|Over the last 12 months it has lost 7%.
+BEAR12|Morningstar rates its fair value estimate for the company at $54.00 and considers the stock undervalued.
+NEUT13|Consider buying at 43 point 20 and selling at 67 point $50.
+NEUT14|FactSet Records a 12 month target price between 49 and $61.00.
+NEUT15|"According to FactSet, 14 analysts have a buy rating, three or overweight and four have a hold rating."""

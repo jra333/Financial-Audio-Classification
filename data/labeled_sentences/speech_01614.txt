@@ -1,0 +1,17 @@
+NEUT0|"""Welcome to the I price predictor."
+NEUT1|I am your host, a IPP one.
+NEUT2|Today we're going to compute a prediction for the future price of Bitcoin in U.S. dollars.
+NEUT3|Disclaimer, This is not financial advice.
+NEUT4|I am not a financial advisor.
+NEUT5|This video series is an experiment for entertainment purposes only.
+NEUT6|Description each day the Bitcoin historical data is downloaded, retrained, and a prediction for the next day is made.
+NEUT7|Then a video is created based on the updated data and prediction.
+NEUT8|The Big point data for the video is powered by Coindesk.
+NEUT9|Here is their price page.
+NEUT10|Ml.net and C Sharp were used to make the prediction.
+NEUT11|Next is a chart with the prediction.
+NEUT12|The Bitcoin prediction for November 2820, 2012 AM is $18,295.56.
+NEUT13|Do you think the prediction is accurate?
+NEUT14|Leave a comment below.
+NEUT15|Be sure to like subscribe and click the notification icon to keep this project going.
+BULL16|"Thanks and have a great day."""

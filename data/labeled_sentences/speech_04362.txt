@@ -1,0 +1,33 @@
+BEAR0|"""The bad years."
+NEUT1|The crisis years.
+BEAR2|The Dow dropped by about 50%, and since then it's you know and people panicked and got out.
+BEAR3|Of course, even in the mutual fund business, and particularly ETF business, a lot of net liquidations at the Lowe's and now we're back.
+NEUT4|I think the gain from that level is maybe 200%, so it shows you that when you.
+NEUT5|Act on the emotions of the marketplace.
+BEAR6|You're making a big mistake.
+NEUT7|I stay and always have said stay the course.
+NEUT8|Don't let these changes in the market even a big one.
+BEAR9|That was a 50% decline.
+NEUT10|Don't let that change your mind and never never, never be in or out of the market.
+NEUT11|Always be in a certain level and you may want to be 50% in stocks like I am.
+NEUT12|You may want to be 75% or 25%.
+NEUT13|That's probably a decent range but never be out and think you can get back in because your emotions will defeat you totally.
+NEUT14|There were three pieces to his legacy that important to separate.
+BULL15|So far.
+NEUT16|Everybody's talking about what he's invented in terms of the no load fund in terms of the index investing and that was brilliant and he really did bring capitalism to the common person.
+NEUT17|It was a fantastic revolution, controversial when he brought it out, but it's it's sort of a kind of a three part I'd stand to this.
+NEUT18|There's a trilogy.
+NEUT19|Qualities 'cause, in addition to his contributions, which are enormous revolutionizing investing, his career was remarkable career as an entrepreneur.
+NEUT20|What he created and then the idea of character is he understood resilience from adversity.
+NEUT21|The way so fewer or candid with us.
+BULL22|Welcome so much.
+NEUT23|He was the most anti Wall Street Wall Street driver seat.
+NEUT24|It is remarkable how antithetical he was.
+NEUT25|He basically said you don't need anybody.
+NEUT26|Here's the democr and we're going to cut these down with one idea, but he had two.
+NEUT27|You don't need anybody, and we're going to give you a low fee.
+NEUT28|I'm, you know, I don't know.
+NEUT29|I mean look when someone passes.
+BEAR30|Well, I know I should be more sad about it.
+NEUT31|I want to celebrate this guys like because he and he's a friend and he's amazing.
+NEUT32|"And vanguards incredible institution."""

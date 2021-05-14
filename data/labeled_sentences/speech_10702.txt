@@ -1,0 +1,20 @@
+NEUT0|"""Your vote and your trades this morning we're talking about making money from the race."
+NEUT1|Scott Kohn is our senior correspondents and some real money.
+NEUT2|Yeah, you know, you can place stocks based on who you think is going to win, but this is a more direct way of doing it.
+BEAR3|You know, since Barack Obama named Joe Biden's running mate to his stock has gone up nearly four points literally, we're talking about the Intrade political futures market, where shares of John McCain have dropped about three points since Friday.
+NEUT4|Let's take a look at where they stand.
+NEUT5|Barack Obama trading this morning at 6240.
+NEUT6|And here's a look at where John McCain is trading much less than that he is trading at 3660, which some table might say is a huge buying opportunity, and you can do this.
+NEUT7|This is a real market with real money and some political experts swear by it.
+NEUT8|Trades on the US elections, but it's based here in Dublin, Ireland, where according to the CEO they employ the theory known as the wisdom of crowds.
+NEUT9|When you aggregate information from a very diverse large community or a crowd of people, then typically the information that your aggregate has the opportunity to be smarter than anyone individual.
+NEUT10|You can bet not just on candidates, but on everything from box office receipts to the weather, and this is real money.
+NEUT11|In each case you buy or sell a share or a contract traded in points from zero to 100 based on the percentage chance of something happening, point is worth $0.10.
+NEUT12|So if you thought Barack Obama had a 60% chance of winning the presidency, you might buy one share of Obama at 60 points or $6, and trading is heavy five times the volume.
+NEUT13|In 2004, $100 million and counting this year from all over the world, you can see someone making a trade in California with someone in Russia.
+NEUT14|Can in trade predict the election?
+BEAR15|Critics say the money and the trading volume are too small, but at the Wharton School of Business they found in trade has a margin of error of 1 to 1 1/2% or about half that of a Gallup poll.
+BEAR16|I'm going to lose my union card as an economist for saying this.
+NEUT17|It turns out that even very small or sometimes play money markets still end up yielding very accurate predictions.
+NEUT18|Maybe these virtual crowds really are wise.
+NEUT19|"Morning about."""

@@ -1,0 +1,17 @@
+NEUT0|"""Secrets on investing."
+NEUT1|What is SBA sees and little inspiration from Phillip Fisher.
+NEUT2|What is SBA sees special purpose adquisition company?
+NEUT3|Definition of SBA sees a special purpose acquisition company.
+NEUT4|SPC is a company with no commercial operations that is formed strictly to raise capital through an initial public offering IPO for the purpose of acquiring an existing company.
+NEUT5|Also known as blank check companies.
+NEUT6|According to Financial Times.
+NEUT7|In the first three months of 2021 there have been investment in SBA sees for more than 80 billion U.S. dollars.
+NEUT8|How is the construction of SBA sees each SP AC is constructed differently?
+NEUT9|But the starting point is that if a company is not bought within two years, the money must be paid back to the investors, minus salary, etc to the people behind the project.
+NEUT10|What is the risk with SBA sees who approves the investment.
+NEUT11|Initially you buy an empty shell, so it is based on faith, hope and trust.
+NEUT12|FSA around the globe urges private investors to be cautious.
+NEUT13|The stock market is not risk free and SBA sees is not new, but the growth is.
+NEUT14|Here is a great quote to remember by Phillip Fisher.
+NEUT15|The stock market is filled with individuals who know the price of everything but the value of nothing.
+NEUT16|"Be careful but also good luck please like subscribe and comment."""

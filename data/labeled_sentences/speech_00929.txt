@@ -1,0 +1,45 @@
+NEUT0|"""Shelmire, she is head of US Economics at Bank of America Global Research."
+BULL1|Michelle great to have you here today.
+BULL2|I mean, the wage number was pretty strong.
+NEUT3|That's like 10% annualized.
+BULL4|Yeah, it was exceptionally strong.
+NEUT5|The wage number, but we have to be really careful reading too much into that.
+NEUT6|A lot of it has to do with compositional shifts in the labor market.
+BEAR7|So when you think about where the job cuts were concentrated, it was highly in leisure and hospitality, which tend to have lower paid workers.
+BULL8|The fact that those individuals fell out of the labor market numbers means that overall wage growth just from a compositional perspective looks stronger.
+NEUT9|So unfortunately, we don't really have a good sense right now of wage growth.
+NEUT10|We haven't.
+NEUT11|Of the last several months ever since Covid hit, and we probably won't for some time going forward until we've had a more complete healing in the labor market.
+NEUT12|But are you generally in the camp Michelle that thinks that those wage pressures are going to subside later this year because they read.
+BULL13|Jefferies thinks we're going to, you know, to be maybe 3% wage gains.
+NEUT14|But if we don't, I mean, if they stay elevated, then that's going to be very different.
+NEUT15|Policy response from the Fed.
+BULL16|So the economics would suggest that the wage pressure should certainly moderate, just from the fact that the unemployment rate is still elevated.
+BEAR17|It's come down, but it's still high above where you should be in terms of full employment.
+BEAR18|So all a sequel that should lead to you know downward pressure on on wages, which we will find out after we've returned to some sort of equilibrium in terms of the composition of the labor market.
+BEAR19|So I would be in that campus, well that we're going to see somewhat slow wage growth that said.
+NEUT20|Your point, Kelly.
+BEAR21|If there is a surprise if we just end up, you know remaining elevated or actually accelerate from here that would then fuel the inflation narrative which was already moving through markets.
+BULL22|And we've seen a number of different places raising their GDP forecast considerably over the past week, since the Democrats took Georgia, and it looks like I'm seeing estimates on the order of a trillion dollars of stimulus that is now being priced in with GDP estimates of six and a half percent growth for this year.
+BEAR23|Now, I don't know if that just got brought to a screeching halt with these comments by Senator Mansion to the Washington Post, where he's saying he's not necessarily on board with $2000 stimulus checks.
+NEUT24|Now that would only be $350 billion.
+NEUT25|But you know, that gives us a sense that maybe there's not.
+BULL26|There's going to be more pushback.
+NEUT27|To some of those big numbers, then we thought.
+NEUT28|So how do you guys sort of take put all that together and figure out how much fiscal stimulus is coming down the Pike and what that's going to mean for growth?
+BULL29|Sure, so at the moment our forecast for GDP growth this year is 4.6%.
+BEAR30|So strong, but we have a pretty weak start in Q1 with only 1% GDP growth.
+BULL31|If another round of stimulus is past, and I think that it is certainly leaning in that direction.
+NEUT32|The dollar amount will still find out.
+NEUT33|There's obviously you know quite a lot of negotiation that has to go through before we can get that stimulus through the door again, especially after 900 billion was just passed.
+NEUT34|But if we get another round, call it in February or early March that will then.
+BULL35|Boost growth at the start of the year and provide an even bigger buffer to the consumer.
+NEUT36|And also remember right now that there is a lot of money already out there.
+NEUT37|There's over a trillion dollars of what we would consider excess savings.
+NEUT38|That's already outstanding.
+NEUT39|Now this distributional issues with that.
+NEUT40|A lot of it is kind of unintentional, saving the people who probably need the money most are not necessarily the ones that are sitting on those piles of cash, so more stimulus will help.
+NEUT41|But there's already a lot of money out there to think very carefully about the multipliers with every additional round of stimulus, how much it will then boost the economy.
+NEUT42|I think it will highly depend on how that stimulus is designed, how able it is to be targeted to the, to the people in the parts of the continent in most.
+NEUT43|Shepard Smith here.
+NEUT44|"Thanks for watching CNBC on YouTube."""

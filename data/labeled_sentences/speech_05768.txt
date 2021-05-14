@@ -1,0 +1,25 @@
+NEUT0|"""A lot of the reaction from the financial markets on this has been due to the fact that historically they've expected Netflix to overperform is never underperformed to this degree, so we will see what happens in the in the subsequent quarters."
+BULL1|But I would expect providing that growth can return to expectations.
+BULL2|Netflix will be able to shake this off.
+BEAR3|Outlook for the current quarter was also more conservative than what Wall Street had expected.
+NEUT4|135.1 million members is what they're anticipating.
+NEUT5|Is this a sign or what they're saying?
+BEAR6|Is this a sign that Netflix's decision to raise prices backfired?
+NEUT7|Uh, no.
+BULL8|I think I think generally we've seen subscriber acceptance of price rises and that Netflix has actually been able to continue driving its average revenue per customer ever upwards.
+NEUT9|Without seeing too much of a downside on that.
+BULL10|And in fact, if we look at the paid editions and that paints a much more positive picture that in the US domestically paid additions were roughly equivalent to the same period last year, and international either on the rise.
+BULL11|So I think actually the price rises have been broadly accepted by the majority of its subscriber base.
+NEUT12|Now, Richard, we've also talked about this idea that you talked about.
+NEUT13|These are posies, average revenue per user numbers.
+BULL14|Netflix may be looking to up that number a little bit.
+NEUT15|Now there's some reports out there that they may be looking to add some ultra high definition 4K offerings in certain programs and you charge him a little bit more per user for that.
+NEUT16|How much of that could be driving that growth as well as that next technology?
+NEUT17|That next level of visual stunning this for for users out there?
+BULL18|Yeah, UHD is a challenging one so I wouldn't expect that to have the same impact As for instance HD did on the the pay TV market years back, and that's largely because the improvement in visual quality is just not so much of a step up for consumers.
+NEUT19|They need a very large TV and to be sitting quite close to be actually able to notice the difference.
+NEUT20|So for Netflix that's really going to be about driving a small proportion of really high end customers, but I don't expect that to be the next cash cow for their business.
+NEUT21|Hey there, thanks for checking out CNBC on YouTube.
+NEUT22|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT23|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL24|"Thanks for watching."""

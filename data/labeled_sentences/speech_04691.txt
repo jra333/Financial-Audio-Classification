@@ -1,0 +1,32 @@
+BULL0|"""Fact that they were able to achieve a $2 trillion market cap without selling 15G iPhone is remarkable."
+NEUT1|It speaks to the strength of their portfolio, their hardware portfolio.
+NEUT2|During the pandemic, tablets and laptops with a billion consumers working remotely, and a billion consumers learning remotely.
+BEAR3|But is this potential that 5G will cause a multi year upgrade cycle and turn a headwind to a tailwind?
+NEUT4|As far as unit growth and smart phones that could drive their shares to three trillion?
+NEUT5|In our view, Thompson, so that's the fundamentals for the stock.
+BULL6|And clearly you're bullish on those fundamentals.
+NEUT7|What do you think about the risks to the downside when you consider not so much?
+NEUT8|Just the technicals of the share price, but but what?
+NEUT9|The sort of psyche might be?
+NEUT10|A people that have held this and made so much money in it that if we do see a bit of a pullback, weather in Apple shares or the broader market, whether it becomes a key source of profits for investors, just more broadly.
+NEUT11|And that once the tide turns a little bit, whether it could pull back quite significantly.
+NEUT12|If so, some excellent questions there unpacking that quickly.
+BULL13|So on the psychology front, I think the share split could benefit to that extent, so consumers may be or investors may be less likely to opt out with the pending share split as far as whiskery, I think the biggest risk is China.
+NEUT14|15% of their sales come from China and to the extent that they have, you know either a prolonged US China trade war or just other challenges in China.
+NEUT15|I still see that is the biggest risk to the share, fundamentally.
+NEUT16|In November could be something of a binary event for US, China trade and Apple has long been in the crosshairs of that mean.
+BULL17|The expectation is that the Saber rattling against China will continue to ramp up, but that policy actions will, for the most part be on hold until afterwards.
+NEUT18|So what would you say about owning Apple after the election if that is the case?
+NEUT19|So I do think that China is one of those policies that there's United.
+NEUT20|You know, anti China stance from both the.
+NEUT21|Reigning president and the Democrat elect.
+NEUT22|So I do think even if Joe Biden becomes president, it doesn't mean that the China issue will go away.
+NEUT23|For Apple, it may mean that the tariff issue for China goes away for Apple, but I would say this is a risk.
+NEUT24|There were to continue to monitor regardless of who's ultimately in the White House.
+NEUT25|Tom, how concerned are you about the stock split?
+NEUT26|I mean in its own right, of course it's not a negative.
+BEAR27|My point really is whether people have counted it too much as a positive and that the run up we've seen in the last month or so.
+NEUT28|Which did come as well, of course, after stronger quarterly earnings, but but whether that's been a big factor behind the run up and whether that could unwind as quickly as it's written, well, so that's excellent question.
+NEUT29|I do think that stock splits have served as a short term catalyst, much like they did in the tech boom days of the early 2000s.
+BULL30|But I think more important was your other comment that there June quarterly earnings were so favorable and they have so much momentum, and again they still have yet to sell 15G iPhone.
+BULL31|"So I think that there's still a lot of good news ahead for shares of Apple."""

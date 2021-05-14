@@ -1,0 +1,49 @@
+NEUT0|"""Well, the New York Stock Exchange Deutsche boss Bear deal has been next."
+NEUT1|Is this good for competition?
+NEUT2|We got David Benoit joining us on the set now to tell us about this.
+NEUT3|It was next the merger of this was next because it was gonna provide be a monopoly for derivatives trading, right?
+NEUT4|Tell us what was the problem with that?
+NEUT5|Yeah, essentially the EU European Union.
+NEUT6|Yes, European Union antitrust people or Commissioner came out and called it a quasi monopoly.
+NEUT7|Not quite full, but essentially in terms of derivatives in terms of Futures Trading in options trading on exchanges.
+NEUT8|They would have had 93% of the market.
+NEUT9|It seemed like, which is a pretty big share, is there?
+NEUT10|I mean the trading exchanges this patented idea.
+NEUT11|Stupid question, but it seems like the only place where you would want a monopoly.
+NEUT12|Right, well I think that they were worried about kind of pricing and kind of what would happen if you could only trade these things.
+BEAR13|You know through one company, but have we had problems with liquidity and stuff like that with derivatives so that it would be a better way to keep the market really healthy?
+NEUT14|Keep tracking?
+NEUT15|Well, you know there's still a lot that's done not on the exchanges, which is part of it.
+NEUT16|And I think I think this is one of one of those things.
+NEUT17|Is that when you try to regulate things like derivatives as in you can very much drive.
+NEUT18|Away the liquidity from sort of where it's out in the open.
+NEUT19|A lot of people want to want to have their derivatives over the counter, so I think this is a sort of a moot point and they're looking at, as usual.
+NEUT20|Is governments and government regulation looking exactly where they shouldn't?
+NEUT21|Shouldn't be looking.
+NEUT22|I mean I can't see that this will you know, destroy competition.
+NEUT23|I mean, if you look at the derivatives markets of the futures exchanges all around the world and the London Metal Exchange still dominates in metals trading.
+NEUT24|There's no way that if it bought combex that it would be any less competition.
+NEUT25|It still dominates, right?
+NEUT26|Yeah, well, if you look at it that the exchanges when they were when they were trying to fight this through, we're saying that you counted the over the counter, not not traded on exchanges.
+NEUT27|They only have about 15% of the derivatives market, so clearly the vast majority of derivatives being traded or not going to be traded on their exchange is even if so.
+NEUT28|Is interesting interesting to me that it's gotten in the way that do we need David to have more consolidation in this industry?
+BEAR29|Because profit margins are relatively thin for for a lot of the banks right now.
+NEUT30|And I know that's a hard thing for a lot of people to swallow because it is very fashionable to hate the banks and then getting bailouts and all that sort of stuff.
+NEUT31|But a lot of their profit margins on things like this and just wait the thing.
+NEUT32|Well, some of the European banks actually did not want to be able to go through.
+BEAR33|They were plotting that it was rejected today because they're worried about prices.
+BULL34|And not necessarily getting better for them.
+NEUT35|Certainly exchanges are all we're all anxious to get mergers.
+NEUT36|We saw a whole wave of them.
+NEUT37|Seemingly nothing.
+NEUT38|None of them are going to happen.
+NEUT39|But for banks it doesn't look like.
+NEUT40|But then the customers, the banks of the customers of the exchanges so that I can see I can see this.
+NEUT41|This is thrilling, usually because you do please.
+NEUT42|Text story.
+NEUT43|I can see that.
+NEUT44|One of one of the things that I worry about whenever government gets involved is that they look at the wrong piece of the pie and tended to go wrong with it.
+NEUT45|What do you think you've watched government regulation in action in a more general sense.
+NEUT46|Look, I think it's really hard to take a blanket look at government regulation, but I mean, but will try.
+NEUT47|I would say that in my vantage point, which is really on the tech side, the European antitrust regulators have been the toughest on the tech companies and often are more far ahead of where the US regulators are willing to go.
+BULL48|"Sometimes for better sometimes or worse."""

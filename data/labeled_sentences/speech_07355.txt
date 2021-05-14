@@ -1,0 +1,36 @@
+NEUT0|"""Hi this is Anita, Bella and company for my analysis is the Coca Cola company Coke sells over 500 brands of products over 200 countries."
+NEUT1|They presently provide more than 1.6 billion drinks a day worldwide.
+NEUT2|Now these are some chart showing figures for revenues of the companies and earnings per share growth.
+BULL3|The chart shows that Coke has been increasing from the last 10 years.
+NEUT4|Now there's this graph that shows Google a company's dividends per share.
+NEUT5|An annual dividend growth rate.
+NEUT6|Google usually raises its dividend in February, every year's dividends per share would be raised.
+BULL7|This scenario would imply that stock value will increase.
+NEUT8|Now if you were to ask to choose between companies that offer 5015% dividend growth, another offering 30%, you would obviously go for the second one as it implies greater profits to you.
+BULL9|The graph here shows that dividends per share are increasing consistently over the year.
+NEUT10|That is, it was .4 in 2002.45 and 2003.5 and 2004, and so on, and one in 2012.
+NEUT11|The wooden growth rate follows these exact pattern.
+BULL12|That is, it is increasing from 2003 to 2004 degrees until 2007, increasing in 2008, again decreasing till 2011 and is increasing now.
+NEUT13|Now the valuation done for the Coca Cola company shows that the intrinsic value per share is 52.104.
+NEUT14|This is the FCF evaluation that is free cash flow to equity.
+NEUT15|The cashflows are discounted to get the final present value of the future FCF.
+NEUT16|The intrinsic value is greater than the current market price.
+NEUT17|That is 40.08.
+NEUT18|Since the intrinsic value is greater than the current market price, it is a buy.
+NEUT19|Now why it is a buy?
+BULL20|It is obvious as through all the ups and downs of the stock marketable past decades, Coke has remained a solid investment for everyone who owns it.
+NEUT21|Google a company gives investors very high return on equity, meaning that for money you invest, your return is typically higher than industry average.
+BULL22|Also, the company has increased dog dividend every year for almost 50 years straight.
+NEUT23|Now, what is this strategy that Google is opting now?
+NEUT24|It is currently spending more money, newest form of advertising, social networking, etc.
+BULL25|This is cut the advertising cost while boosting product awareness.
+BULL26|Coca Cola is basically a stable consumer staple company.
+BULL27|It has a strong brand name and makes for a good defensive stock.
+BULL28|The company's trailing net income payout ratio of 50.5% as its September 2012, is fairly consistent with it.
+NEUT29|Any historical average of 51.7%.
+BEAR30|In terms of free cash flow payout caves, annual dividend payment, historically only represented slightly more than half of the annual free cash flow, indicating that there's an ample slack for further different hikes down the road, and obviously, as the developments will increase the prices of the shares are gone.
+BULL31|Will definitely increase.
+NEUT32|And the light of chaos.
+BULL33|Favorable valuations.
+BULL34|An fairly predictable dividend growth potential.
+NEUT35|"This stock has attempting risk reward profile, so I recommend buying the shares now."""

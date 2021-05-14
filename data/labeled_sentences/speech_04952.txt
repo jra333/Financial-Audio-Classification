@@ -1,0 +1,17 @@
+NEUT0|"""Welcome to my $100,000 stock journey."
+NEUT1|I'm going to review my purchase of Coca Cola, European partners stock symbol.
+NEUT2|CCP purchased November 14th, 2018.
+NEUT3|This is my video Journal.
+NEUT4|I've been trading stocks for a while but I really have just started following the can slim rules an I wanted to document my journey and hope that sharing my journey can help you learn.
+NEUT5|I'm actually sharing what I'm purchasing and at what price, and this is real money.
+NEUT6|Real trades in my Roth 401K.
+NEUT7|This is not investment advice and I'm not encouraging you to invest.
+NEUT8|This is just my stock journey.
+NEUT9|I purchased Coca Cola European partners CCP for $48.20 an I set my floor that yellow line at 4434.
+NEUT10|This stock, according to the MARKETSMITH and IBD charts, is in a pivot point an you can see down at the bottom in that volume section where that number one is that this stock has closed 13 in the last 15 days up.
+NEUT11|In Marketsmith, this has a relative strength of 93, a composite rating of 94, an accumulation and distribution of an A minus.
+NEUT12|Do you like this by give it a thumbs up or thumbs down, or better yet leave a comment so others can learn.
+BULL13|Thanks for watching.
+NEUT14|Keep an eye out for my next episode or better yet, subscribe to my channel.
+NEUT15|Don't forget to hit the Bell if you want to get an alert.
+NEUT16|"When I post a new episode."""

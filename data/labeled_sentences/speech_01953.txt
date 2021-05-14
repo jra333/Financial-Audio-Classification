@@ -1,0 +1,47 @@
+NEUT0|"""Is the stock that everybody is talking about right now?"
+NEUT1|Is only one stock they're talking about?
+BEAR2|GameStop and earlier this hour I reported that Melvin Capital now telling us that it is closed out its position.
+NEUT3|It is the latest chapter in what has been a wild ride for this stock.
+NEUT4|Robert Frank joins us with another personality that's been involved in this investor.
+BULL5|Ryan Cohen, buying shares of GameStop last August was a risky bet, but given the stock's meteoric rise, the bet paid off handsomely, Robert.
+BULL6|Good morning, Andrew again, great reporting by you this morning on GameStop.
+NEUT7|Now we're just going to use the market closed yesterday to measure all this 'cause who knows where it's going to open today, but GameStop creating more than $2 billion in wealth for its biggest shareholders just over the past couple of weeks.
+NEUT8|As you mentioned the big winner here, Ryan Cohen, the co-founder of Chewy bought around 10% of the company last August.
+BULL9|He added more to that position last month, bringing his total stake to 13%, so his investment of $76 million.
+NEUT10|Now worth 1.3 billion now.
+NEUT11|He's also if you just measure that by day he's made more than $90 million a day, or about $3 million an hour for the past two weeks.
+BULL12|Now his other stock investments also doing well.
+NEUT13|He played a lot of cash from selling Chewy into Apple stock that has more than tripled, so he's added more than a billion.
+NEUT14|Just then, the Apple bet now the other big winner here.
+NEUT15|Many people haven't seen this or read about it.
+NEUT16|Is Donald Foss.
+NEUT17|Now he is the 76 year old.
+NEUT18|Founder and former CEO of Credit Acceptance Corp.
+NEUT19|There the subprime auto lender Foss bought around 5% of the company last February for around 12 million.
+NEUT20|That $12 million stake now worth about a half a billion dollars.
+NEUT21|And this is interesting.
+NEUT22|The hedge fund manager Michael Bury.
+NEUT23|He's that contrarian investor made famous by the Big Short Bury, owns about through his company owns about $250 million in shares right now.
+NEUT24|He would have made even more.
+NEUT25|But Bury actually sold off about 38% of his stake last year, so I'm sure he's sorry he did that.
+NEUT26|Now.
+NEUT27|You know, GameStop CEO George Sherman.
+NEUT28|His stake is now worth about 350,000,000 now.
+NEUT29|This is the big question, one that Becky and Joe were also mentioning earlier.
+NEUT30|So far none of these guys have sold, or at least we haven't seen filings yet.
+NEUT31|But if you get any of these shareholders, whether it's Fosco and Sherman, any of these guys selling a lot of stock now while the retail investor will get hurt, that's going to cause a whole other debate, guys.
+NEUT32|Robert, you think they think the company should try to raise some money right now.
+NEUT33|That's what I would be doing.
+NEUT34|I almost think it's negligence not to, but then people are going to say they're taking advantage of this crazy moment.
+BEAR35|Well, I don't think anyone would criticize the company for trying to raise money.
+NEUT36|The question is, can they do it quick enough with the stock where it is like could you do a secondary at anywhere close to these valuations?
+NEUT37|What is the right valuation?
+NEUT38|Could you borrow money?
+NEUT39|I mean would a bank or even an acquisition target?
+NEUT40|What would they take as currency?
+NEUT41|What is the value of this company?
+NEUT42|So yes, you would think with this elevated levels there could be some positive business impact, but I just don't know how, anyone, whether it's a lender.
+NEUT43|A target or a partner could value the stock as a currency, so I think we'll see where it settles down.
+NEUT44|Maybe they could do something to help the actual business, but at this point it's just hard to value.
+NEUT45|Shepard Smith here.
+NEUT46|"Thanks for watching CNBC on YouTube."""

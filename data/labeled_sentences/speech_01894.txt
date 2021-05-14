@@ -1,0 +1,31 @@
+NEUT0|"""Cdtv.net dividend report is brought to you in part by 1M3 Corporation."
+NEUT1|IT solutions for banking and finance.
+NEUT2|Call them at 917-686-3485.
+NEUT3|I'm John Hannah and here are the CD tv.net David and report for Wednesday, October 21st, 2009.
+NEUT4|Cdtv.net covers dividend paying stocks.
+NEUT5|Earnings reports, dividend announcements and company profiles.
+NEUT6|But first, here's today's city without.
+NEUT7|Net.
+NEUT8|Top stories.
+BEAR9|The Coca Cola Company reported excluding items earnings per share were $0.82 compared with $0.83 last year.
+NEUT10|Analysts average estimates were $0.82 per share.
+BEAR11|Coca Cola is in line with estimates net operating revenues for the quarter decreased 4%.
+NEUT12|The Coca Cola Company manufacturers distributes and markets non alcoholic beverage concentrates and syrups worldwide.
+BEAR13|Pfizer incorporated reported adjusted diluted earnings per share were $0.51, a decrease of 18% compared with $0.62 in the year ago quarter.
+NEUT14|Analysts average estimates were $0.48 per share.
+BULL15|Pfizer bit by three cents.
+BEAR16|Revenues were $11.6 billion, a decrease of 3% compared with $12 billion in the year ago quarter.
+NEUT17|Pfizer incorporated engages in the discovery, development, manufacture and marketing of prescription medicines for humans and animals.
+NEUT18|Worldwide and now the dividend report.
+NEUT19|Merchants Bancshares incorporated announced that its board of Directors declared a dividend of $0.20 per share, payable November 12 to shareholders of record as of October 29, 2009, Merchants Bancshares Incorporated operates as the Bank holding company for the Merchants Bank, which provides commercial and banking products and services in Vermont.
+NEUT20|The Mosaic Company announced that its board of Directors declared a quarterly dividend of $0.05 per share on the company's common stock.
+NEUT21|Dividend will be paid on November 19 to stockholders of record.
+NEUT22|As of the close of business on November 5th, 2009, the Mosaic Company is one of the world's leading producers and marketers of concentrated postpaid, Anne Parrish crop nutrients.
+NEUT23|The directores of the Marcus Corporation declared a regular quarterly cash dividend of eight and a half cents per share of common stock.
+NEUT24|The dividend will be paid on November 16 to shareholders of record on October 26, 2009.
+NEUT25|The Marcus Corporation operates movie theaters and hotels and resorts in the United States.
+NEUT26|The Board of directors of Colgate Palmolive Company declared a quarterly cash dividend of $0.44 per common share, payable on November 13 to shareholders of record on October 26, 2009.
+NEUT27|The company has paid uninterrupted dividends on its common stock since 1895. Colgate Palmolive Company, together with its subsidiaries, manufacturers and markets consumer products worldwide.
+NEUT28|The Washington Post Company declared a regular quarterly dividend of $2.15 per share.
+NEUT29|Payable on November 6th to shareholders of record on October 26, 2009, The Washington Post Company, together with the subsidiaries, operates as a diversified education and media company in the United States and internationally.
+NEUT30|"For more information about these dividends an other announcements go to see tv.net."""

@@ -1,0 +1,12 @@
+NEUT0|"""To provide a useful service, businesses need to react quickly to changing patterns in user behavior."
+NEUT1|Identifying these patterns involves processing customer data.
+NEUT2|Lots of it.
+NEUT3|But as you collect data more and more time is spent on repetitive tasks to make predictions.
+NEUT4|Machine learning may be used to sort through huge data sets, but can be very difficult to set up Google's predictive API.
+NEUT5|Employees are classifiers to do the heavy lifting for you, letting you focus on your project, not algorithmic nuts and bolts.
+NEUT6|It's predictions help you understand how your market is trending overtime, allowing you to tailor your future strategy.
+NEUT7|Here's how it works.
+NEUT8|Structure your training data and upload it to Google Storage.
+NEUT9|Train one of our models on your data set using one of our API's.
+NEUT10|Apply the trained model to make predictions and profit from the newly built model to interpret data as it comes in, improving results overtime using are continually improving algorithms to predict your customers future wants and needs, or use one of our hosted models built by experts with data already gathered and labeled.
+NEUT11|"If you crave insight into what your customers may look to buy, once you interpret feedback or wish to categorize online data, Google's Predictive API helps you quickly see data patterns that can help you profit from knowing what customers want before they even think to ask."""

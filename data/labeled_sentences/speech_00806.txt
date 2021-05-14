@@ -1,0 +1,14 @@
+NEUT0|"""A smaller iPhone Amazon takes on Netflix."
+NEUT1|An AT&T acquires Yahoo.
+NEUT2|The street is out with five tech predictions for 2016, all right.
+NEUT3|First up, Amazon will eclipse Netflix as the preeminent content service.
+BULL4|Amazon recently announced that it's linking up with Showtime and Starz offering Amazon Prime subscribers.
+NEUT5|These channels at a discount, and that could be a game changer for Amazon.
+NEUT6|Next, the street expects web giant Yahoo should be sold to telecom behemoth AT&T mirroring Verizon's acquisition of AOL.
+NEUT7|Earlier this year now reports suggest Yahoo is looking to sell its core search and content business, and another year another iPhone.
+NEUT8|We expect Apple to come out with a small iPhone bringing back the Four inch smartphone that was ditched back in 2012 when the 4.7 inch iPhone 5 was released and forth.
+NEUT9|The street expects a wave of high profile Silicon Valley companies like Uber, Airbnb, Glassdoor to go public.
+NEUT10|Uber now has a valuation of over $60 billion.
+NEUT11|And finally, 2016 could be the year of virtual reality, especially with Facebook's Oculus.
+NEUT12|The maker virtual gaming headsets now Samsung and Google are also in this space, so those are our tech predictions for 2016.
+NEUT13|"For more details, head to thestreet.com."""

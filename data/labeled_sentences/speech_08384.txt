@@ -1,0 +1,5 @@
+BEAR0|"""The Wall Street Journal has identified 7 variables that he thinks will affect the direction of the world economy in 2015, the US based daily says tumbling crude prices, while very good for consumers, are forecast to slow economic growth in petroleum producing regions."
+BEAR1|It adds the eurozone remains in the doldrums, and China's economy has been hit by slumping real estate and weak domestic demand.
+NEUT2|It also notes the geopolitical worries.
+NEUT3|In the Middle East.
+NEUT4|"There's a lot of focus too, on what will happen when the US Federal Reserve raises interest rates around the middle of this year, bringing to an end a near 7 year period of near 0% short term rates."""

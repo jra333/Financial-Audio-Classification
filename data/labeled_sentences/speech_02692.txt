@@ -1,0 +1,14 @@
+BULL0|"""The S&P 500 has started off strong so far in 2020, taking the S&P 500's market cap Buck back up to nearly 140% of US gross domestic product, a level that it is only achieved once before in the Post World War Two era."
+BEAR1|The last time the market cap to GDP ratio got to similar levels was back in the year 2000, the decade that followed the year 2000 was a rough one for stocks between 2000 and 2002, the S&P 500 fell by 50%, then between O2 and 07, it doubled recouping its losses, but that was followed by an even bigger 60% decline during the global financial crisis overall.
+NEUT2|Between 2000 and 2009, the S&P 500 market cap.
+NEUT3|Well, from 135% of GDP to just about 40%.
+NEUT4|Miraculously in the past decade, it has recovered to its old highs, but now that we're back at those old highs, should investors be worried before saying that history risk repeating itself, it's worth pointing out a key difference between the year 2000 and the year 2020.
+NEUT5|Back then, interest rates were three times higher than they are today.
+NEUT6|The level of long term interest rates is important when considering equity market valuations.
+NEUT7|Most valuation models use long term interest rates to discount the future value of earnings and dividends into the present moment.
+BEAR8|The higher the levels of interest rates, the lower the valuation level for the equity market.
+BULL9|Perhaps with long term interest rates close to 2%, the equity market can support valuation levels that it could not support 20 years ago when long term interest rates were in a 6 to 7% range.
+BEAR10|Also may be the single biggest threat to the equity markets ability to continue rising faster than the growth rate of nominal GDP.
+BEAR11|Isn't the possibility of an economic slowdown or a fallen earnings?
+BEAR12|Maybe the biggest single threat is a rise in long term interest rates.
+NEUT13|"I'm Erik Norland, senior economist with CME Group."""

@@ -1,0 +1,17 @@
+BULL0|"""After a high stakes meeting between Donald Trump and Xi Jinping markets rallied on the news of a trade ceasefire between the US and China, but only a day later, everything had already changed."
+BEAR1|Donald Trump tweeted that talks could fail and refer to himself as tariff man.
+BEAR2|His comments sparked confusion and anxiety, prompting three major U.S. stock indexes to drop more than 3% in a single day and wiping more than $760 billion off the S&P 500.
+NEUT3|As this vertiginous roller coaster suggests.
+NEUT4|Investors are nervous and that's something we may have to get used to.
+NEUT5|Here's why.
+NEUT6|After their dinner on the sidelines of the G20 summit in Argentina, Trump announced her quotes.
+BULL7|Incredible deal as he agreed with Xi Jinping to freeze tariffs for three months to allow for further negotiations.
+BEAR8|Market seemed reassured at first, but the two governments fell short on details as to how they would resolve key issues such as technology transfer or cyber crime, and on what would happen to existing tariffs.
+BEAR9|Trump tweeted that China would lift a 40% tariffs on American cars, but Beijing then immediately confirm creating confusion.
+BEAR10|Shares of companies that are exposed to the trade war exporters like Boeing were hit particularly **** ** Tuesday and in general investors see the trade war as a potential threat to global economic growth, including the US is.
+BEAR11|The US economy has done well this year, but investors are getting worried that the good times can't last.
+BEAR12|Many economists are predicting some slowdown in 2019 as the benefits of this year's big tax cut starts to wear off.
+BEAR13|Investors have already been selling shares in some major U.S. banks.
+BEAR14|Some tech companies have become so big that whenever they sneeze, the whole U.S. stock market gets a cold concerns that Giants like Facebook and Apple may be overvalued have rattled the markets recently.
+BEAR15|Apple's share price is down more than 20% since October peak.
+BEAR16|"The trade fight growth questions and tech troubles are all causing investors to worry that the US stock markets Long Bull Run is finally over and that things are going to get even bumpier in 2019."""

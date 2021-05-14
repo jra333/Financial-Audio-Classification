@@ -1,0 +1,21 @@
+NEUT0|"""Hello and welcome to today's technical analysis."
+NEUT1|It's Tuesday, August 1st one.
+BEAR2|Does your you can sell is access.com today will be looking at the dollar versus the yen on the daily chart so we can see that USD JPY hit a 1/2 month low during today's trading.
+BEAR3|The pair fell just below the 110 level.
+BULL4|Additionally, in the pews 10 trading days, they apparently advanced in two of them.
+BEAR5|While it retraced most of the uptrend from their June 1420 half model, over 108.78 to their July 11 for 1/2 months I or 114.49 or these are pointing to a bearish bias in place.
+NEUT6|Looking at momentum in the very short term.
+BEAR7|By turning to the RSI indicator we can see that there is also two downside is RSI is in bearish, say Tori at 34.
+NEUT8|Why it is getting lower?
+BEAR9|If the price continues declining very around the 110 key level, which was a congested area in the past, is likely to provide support.
+NEUT10|Bear in mind that 110 was briefly violated today before the prices bounce back up above it.
+BEAR11|Further down, additional support is likely to come around the June 14th in half Marlow 108.78 earphone.
+NEUT12|The other hand dipped ice advances.
+BULL13|Very around the 61.8% battery terminal level of the June 14 to July 11 up leg or wondering 10.95 is expected to provide resistance further up.
+BEAR14|Another barrier to the upside is likely to be formed by the current level of the 50 day moving average 111.57 and the 50% people watching mark or wondering 11.63.
+NEUT15|Concluding with the medium term picture, it is predominantly bearish.
+BULL16|Given the overall town transit, the start of the year but with a tilt to neutrality as a result of significant sideways movement over the last three months.
+BEAR17|Additionally, the pair recorded Ambarish Cross on July 17 when the 50 day moving average move below the 200 day one.
+BEAR18|While the price is currently below both moving averages.
+NEUT19|That's it for today.
+BULL20|"Thank you for watching and have a great day."""

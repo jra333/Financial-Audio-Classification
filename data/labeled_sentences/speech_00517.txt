@@ -1,0 +1,17 @@
+NEUT0|"""Predictions for 2020 what's going to happen to the stock market?"
+BEAR1|Well, as we've seen in the close to 2019, trade wars seem to be settling down.
+NEUT2|And of course, Boris gotta such a majority that it seems as though Brexit is finally going to be sorted, or at least stage one is because don't forget, even when stage one, he's sorted.
+NEUT3|All that means is a transition period where there's lots of agreements to become.
+NEUT4|With Europe there is a long way to go on that.
+NEUT5|And it also suggests that even with the trade wars they chopped, and they've changed again.
+NEUT6|Maybe in 2020, we'll see more of that one thing I'm going to promise you in 2020 is that it's gonna be interested why?
+NEUT7|Well, you've got Boris.
+BEAR8|On one hand, you've got Donald Trump on the other, so it's bound to be volatile in the markets US election.
+BEAR9|Donald really can't afford for the American economy to be doing badly.
+NEUT10|He's gotta be pushing to make sure that the economy is good.
+NEUT11|Before he seeks reelection and of course, as Boris tries to negotiate with Europe, that's going to give some volatility.
+NEUT12|But at the end of the day, again, he can't afford not to come to a good conclusion.
+NEUT13|We look forward to some good market returns in 2020, but always as ever stay diversified and make sure you're using top fund managers.
+NEUT14|Top fund managers can make sure there in the right company they're in the right asset class.
+NEUT15|The key to successful investment.
+BULL16|"Is to be in the right place, right time with diversification in the market, right place and then you always get good returns here to an awesome prosperous 2020."""

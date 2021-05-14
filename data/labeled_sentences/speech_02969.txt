@@ -1,0 +1,33 @@
+BULL0|"""Good evening everyone."
+BULL1|I'm Erin Burnett and Outfront tonight Facebook not making many friends this evening because just a few hours ago Facebook came out with its first earnings report as a big public company and it did do about what people thought revenue was up 32% from a year ago and that may sound good.
+NEUT2|But the problem is Facebook's shares or taking a big hit.
+NEUT3|Now you remember this is a company that was the second biggest stock market launch ever.
+NEUT4|And today Facebook shares closed at $26 a share.
+NEUT5|You see that Black Diamond looking ski slope?
+NEUT6|That's Facebook shares from its IPO.
+BEAR7|It's falling even after the market closed tonight down about 30% from where it went public.
+BEAR8|This obviously is heard a lot of people who struggled to try to get shares of this IPO.
+NEUT9|Why are people so nervous?
+NEUT10|Well, there is one word and it's money during tonight's conference call with investors Mark Zuckerberg, the CEO of Facebook, made it clear that making money from advertising is a top priority.
+BULL11|We know that social ads perform much better than non social ads, so our job over the next few years is to increase the percentage of ads that are social and engaging.
+NEUT12|Social and engaging ads.
+NEUT13|Well, you know advertising is a word.
+NEUT14|Mark Zuckerberg would not have used when he first described Facebook.
+NEUT15|The site he created in his Harvard dorm room, because here's what he actually said in letter to investors earlier this year.
+NEUT16|Quote Facebook was not originally founded to be a company we've always cared primarily about our social mission.
+NEUT17|Well, the company's mission now is to make money off of you and it's 955 million users.
+NEUT18|It has to make money.
+NEUT19|That's just that's just the reality of it.
+NEUT20|Now you're a public company, so how does it plan to do that?
+NEUT21|Well, here's a couple of things they're planning to do.
+NEUT22|Supposedly, there's a rumored want button, and there's a like button on Facebook.
+NEUT23|Now, if you like something but they want Button tells you, let you tell your friends you know what you'd like them to buy from you.
+NEUT24|Maybe it's like a wedding or baby registry thing.
+NEUT25|The bottom line is supposed to link you to spending money, and there's also a new service called Facebook Exchange which.
+NEUT26|Tracks what you do on the web and then shows you ads when you go back on Facebook based on where you have been, according to Bloomberg, Facebook is also working on a cell phone to try to make money from people on their cell phones, which has been a real issue for the company.
+BEAR27|Mark Zuckerberg, though shot down that report on the call.
+BEAR28|Well, The thing is, is that actually advertising on your own to get advertising here has been soft spot for Facebook.
+NEUT29|Nobody wants to look at ads on their smartphone, right?
+BEAR30|I mean, it's hard enough to see something on there to begin with, and this has a lot of people worried, especially when you consider that half of Facebook users now go onto the website from a smartphone so.
+NEUT31|Facebook, could it ever get back to where it went public?
+NEUT32|"That's the crucial question."""

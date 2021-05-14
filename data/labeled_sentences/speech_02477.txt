@@ -1,0 +1,8 @@
+BEAR0|"""We want to get to some breaking news here after hours at Disney Outlet plans to layoff 20,000 employees."
+NEUT1|Miles has the latest on this for us.
+BEAR2|Miles short of stock off about 1 1/2% after hours following this news, CNBC reporting the company will layoff 28,000 people across its parks, experiences and consumer product segments.
+BEAR3|Now, 2/3 of those set to be laid off work part time employees but still brings the full time layoffs at Disney.
+BULL4|As part of this move to North of 9000, workers so certainly.
+BEAR5|We've talked a lot over the last few months about would there be not just a second wave of the coronavirus, but a second wave of layoffs?
+NEUT6|Downsizing in corporate America?
+BULL7|"Disney, it seems, taking steps towards that end with the news today, Sean."""

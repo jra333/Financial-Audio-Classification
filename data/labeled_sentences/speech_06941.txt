@@ -1,0 +1,46 @@
+NEUT0|"""Well, the Fed really doesn't want anybody to be paying attention to the balance sheet taper tantrum scarred everyone at the Fed at the time they realize how sensitive the markets are to news about the balance sheet."
+BEAR1|But I also think the markets are fixated on the balance sheet in a ridiculous way.
+BEAR2|The concern is that shrinking the balance sheet will cause some kind of liquidity crunch and the idea is that it will cause a funding liquidity crunch.
+NEUT3|Examples of that or Bear Stearns and Lehman Brothers.
+NEUT4|So it's a concern, but if you look at any indications that that might be happening and we can.
+BEAR5|In the public, look at a few of them that there aren't any signs that bank reserves are getting scarce.
+BEAR6|So in terms of a funding liquidity crunch, there's there's no sign of 1, so I think the markets need to stop worrying about it in terms of a market liquidity crunch.
+BEAR7|Yeah, balance sheet tightening or quantitative tightening might be contributing on the margin, but there are a whole bunch of other factors that are causing market liquidity tightening, including the US Treasury issuing loads of T-bills to finance our ballooning deficit and market liquidity.
+NEUT8|Tightening is that really a big issue?
+NEUT9|No, it just means that paper is a little bit more expensive, and so if you compare borrowing costs now relative to just before 2008, if there's still a bargain.
+BEAR10|So I think that the markets are sort of acting a bit like a spoiled brat at the moment, and that the balance sheet is actually really just a red herring here.
+NEUT11|Steven, what do you think?
+NEUT12|What's your reaction as somebody who is in the market?
+NEUT13|So you have to look at it.
+NEUT14|There's no rate rise that the market is going to like, so you have to be when you look at this as a macro level.
+BEAR15|That's why I keep saying the math has changed so you don't get back to 29.
+NEUT16|Fifty 2940 in the SMP.
+NEUT17|If the numbers have changed, though, the allocation to asset basis has changed as well.
+NEUT18|Steep those equip yesterday about the punch bowl being removed from markets and and it was a joke.
+NEUT19|It was equipped that chair Powell said that you know, I've I've locked the punch bowl away long ago.
+NEUT20|It's it's deep in the cupboard or something along those lines.
+NEUT21|Do you think that was an indication that he's only changed the script over the last month?
+NEUT22|'cause he was really forced to and ultimately he, and ultimately as soon as he gets a chance to, he's going to cost the market aside again and just focus on the economy.
+NEUT23|I think that's right.
+NEUT24|I think one way to think about you know we talked about Hawks and doves.
+NEUT25|I don't think you get to the point of being considered to be a central bank central banker if you want.
+NEUT26|If you like 0 rates, nobody likes zero rates.
+NEUT27|Nobody likes big balances.
+NEUT28|They all want to normalize and I think this is going to be the script of the taper tantrum where they're going to back off.
+BEAR29|Let the market settle and they're going to come back and do what they want to do, which is to get up a couple a couple of rate hikes from here and reduce the balance.
+NEUT30|OK, so that sounds like it's a bait and switch.
+NEUT31|If you're absolutely something absolutely all these comments, Megan's right.
+NEUT32|If Megan's right back and you actually have some experiences, not only are you an expert in financial markets, you also an expert in little kids.
+NEUT33|That's what you do, right?
+NEUT34|You pick fights when you can, but I want to ask you, but I don't lie to my children.
+NEUT35|You don't never a whole troop all the time.
+NEUT36|Come on, Becky, come on, you know work we're going to.
+NEUT37|We're going to the to the to the Candy store and ends up being the doctor Megan.
+NEUT38|I want to ask you.
+NEUT39|Well, OK, maybe I want to see your question, have we?
+NEUT40|What's clarity doing here?
+NEUT41|I mean, I thought he was pretty.
+NEUT42|I was surprised how da Vinci was sort of hinting here that with things of Titan, materially real quick, what's your sense of what, what?
+NEUT43|Richard's doing here.
+BEAR44|I think he's responding to financial conditions, which tightened massively in December but have loosened a little bit since then, so I think also the markets didn't like Powell's commentary on the balance sheet.
+NEUT45|"I think he was trying to correct for that as well."""

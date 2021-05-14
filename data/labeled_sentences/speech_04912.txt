@@ -1,0 +1,23 @@
+NEUT0|"""So, so it's that hedge against inflation thesis that we've been hearing so much about."
+NEUT1|I guess in light of that is inflation a real risk?
+NEUT2|Is that something that you're truly concerned about is something more than quote unquote, transitory this year and beyond?
+NEUT3|Yes, so fantastic question.
+NEUT4|We at Morgan Stanley have been very clear that we have a very different view on this than the Fed.
+NEUT5|What we what we think is really different this time is not only the combination of both monetary stimulus and fiscal stimulus, but it is coming those those forces of stimulus are coming at a time where consumers have access savings and they have.
+NEUT6|Access credit capacity on their balance sheets.
+BEAR7|One of the things that produce deflation in our humble opinion in the last cycle was the fact that both the US banking system and US households were deleveraging and and repairing their balance sheets.
+BULL8|This time, you know we're coming out of a crisis where both banks have capacity to lend an households have great capacity to spend.
+NEUT9|And to borrow.
+NEUT10|Yeah Lisa, that would make sense, although then you know if you hear that line of thought and then you get some stories about mortgage credit availability.
+NEUT11|For example, some people who think that they should be Golden in terms of mortgage availability and it's a little bit harder than some had expected, is that just a wrinkle in that, or do you think it means something?
+NEUT12|Now look, I think remember where we're coming from, right?
+NEUT13|So we're coming off of a decade where, you know we had a housing crisis and and the banks completely with the help of regulators and the help of the Federal Reserve, repaired balance sheets.
+NEUT14|And there was an extraordinary amount of pain.
+BULL15|And so you know, I think with regard to the housing market, I do think lending is going to be prudent.
+NEUT16|But I think that what's different this time is that households the excess savings rate, we're looking at $1.5 trillion in excess savings from the stimulus.
+BEAR17|We're looking at A at a scenario where debt obligations as a share of household net worth is at a 40 year low.
+NEUT18|So households have capacity.
+NEUT19|And I do think slowly, overtime as this much more robust economic cycle gets going.
+BULL20|I do think that the housing cycle is going to be strong and that mortgage lending will be solid.
+NEUT21|Shepard Smith here.
+NEUT22|"Thanks for watching CNBC on YouTube."""

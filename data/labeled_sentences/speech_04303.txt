@@ -1,0 +1,19 @@
+BULL0|"""India's economy is growing fast and has the potential to be Asia's second economic superpower after China."
+BULL1|Hundreds of 1,000,000 have been lifted out of poverty and businesses taking advantage.
+BEAR2|But India's rise may be running out of steam.
+BEAR3|GDP growth has now dropped below China for the first time since 2017.
+BEAR4|Car sales are suffering their worst spell in two decades.
+BEAR5|Housing construction is slowing.
+BEAR6|Consumer confidence is also falling.
+NEUT7|So what's behind this loader and what is Prime Minister Narendra Modi doing about it?
+BEAR8|The immediate culprit is India's shadow banking sector, so-called nonbank financial companies account for around 1/5 of all new credit fears over risky lending sparked a credit crunch that hit millions of consumers and businesses.
+BEAR9|However, some economists say that Modi should shoulder some of the blame.
+NEUT10|In 2016, he withdrew most of the high value cash from the financial system.
+BEAR11|The crackdown on black money and tax evasion caused a liquidity crisis.
+BEAR12|In 2017, and you sales tax forced some small businesses to close and put many more in financial difficulties.
+BULL13|In spite of these controversial policies, Modi was re elected by a landslide in May.
+BEAR14|Critics say he's now doubling down on nationalist policies to deflect attention from India's economic troubles, scrapping autonomy for the Muslim majority state of Jammu and Kashmir is popular among many Indians, but it sparked criticism overseas to meet its target of doubling the size of the economy.
+BULL15|By 2025, Modi's government needs growth of at least 8% year.
+BEAR16|Right now that looks like an impossible goal.
+BULL17|However, without faster growth, Modi will struggle to create jobs for the 12 million people.
+NEUT18|"Enter the workforce each year."""

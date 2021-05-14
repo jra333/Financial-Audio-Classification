@@ -1,0 +1,30 @@
+NEUT0|"""Stock #4 the company is."
+NEUT1|The 4th T. It's the trade desk.
+BEAR2|The ticker symbol is TTD the trade desk on September 26, two days shy of the end of September was trading at $156 a share, and right now it's about 111, down $45.00 a share that's that equates to a 29% drop.
+BULL3|This has been a wonderful stock.
+NEUT4|Like the others, it's a big time winner in the case of the trade Desk, I first picked it in February 2017, so that's almost two years ago at 34.
+NEUT5|I just mentioned to you.
+BEAR6|It's dropped from 156 to 111, so we're still pretty happy with that 34 cost basis and three months later in May of last year it had risen to 52 IRI.
+NEUT7|Recommended it right there.
+BULL8|So in both cases it's up in on the one hand 250% on the other, 138% in less than two years this has been a great winner.
+NEUT9|So what are two things that I like about the trade desk?
+NEUT10|Well, the first is I really like the CEO.
+NEUT11|Jeff Green is one of those classic visionary founder types.
+BULL12|Highly eloquent, feels like the smartest guy in the room for his industry.
+NEUT13|Now if you've never heard of the trade desk before.
+NEUT14|You might be wondering what what's being traded in.
+NEUT15|The answer is what's being traded is the trade desk offers a platform where people who want to advertise come on and bid for where they're going to locate their ads.
+NEUT16|So it's basically kind of like eBay where you have buyers and sellers, but in this case it's called programmatic ad buying.
+NEUT17|So instead of doing it the old way, let's say through an agency where you would find out what are the rates and where you guys going to put me, you actually go right into the platform and you bid against others to have your ads seen in this or that site, so it's.
+NEUT18|It's a brilliant use of the Internet where there is already so much advertising, so it makes a lot of sense to me and it makes a lot of sense when you have something like Jeff Green steering.
+NEUT19|This company, the founder.
+BULL20|It makes a lot of sense to me that it's been such a winner and I expect that it will be a winner.
+BEAR21|Going forward again, the stock is down 29% in less than two months.
+NEUT22|The second thing I like about.
+NEUT23|The trade desk is it I'm not going to go through my 6 traits of a rule breaker stock, but it is a true rule breaker.
+NEUT24|The six traits that I've written about for years that helped me find stocks.
+NEUT25|One of them is top dog and 1st mover in an important emerging industry, and this is kind of that type of a company.
+NEUT26|This is the top dog and 1st mover in a very relevant industry ad buying around the Internet, doing it through a programmatic platform.
+NEUT27|So this is the leader.
+NEUT28|This is kind of like again eBay for what it was doing back in the day, so this is a true rule breaker and I like that a lot about the trade desk including its outstanding performance.
+NEUT29|"Overall."""

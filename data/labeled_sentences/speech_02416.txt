@@ -1,0 +1,23 @@
+NEUT0|"""The latest chapter in this saga, of course is the Disney Plus streaming service coming out a little bit earlier this month, Apple TV plus at the beginning of November."
+NEUT1|What do you think of these latest developments in this group?
+NEUT2|With a lot of eyes on it right now?
+NEUT3|Well, Disney's stock we really like.
+BULL4|It's on our US focus list at William O'Neill and Company the stock right now is making new highs.
+BULL5|It's been keeping pace with the market.
+NEUT6|It's got a relative strength right now about.
+NEUT7|84 and it's under accumulation, so we really like Disney.
+BULL8|We think the streaming move is a big deal for them.
+BULL9|The company said they added 10 million subscribers in the 1st 24 hours of launch from last Tuesday to last Wednesday.
+BULL10|So that's very encouraging.
+NEUT11|Obviously, they're not the first entrant, but there are leader in content with franchises and Marvel Star Wars Pixar, as well as all the legacy Disney content.
+BULL12|So we think this is going to be very attractive to consumers.
+BULL13|In addition, if you look at their pricing there only charging 699 a month for Disney plus that compares to the standard Netflix plan of around $13.00, so it's less expensive and it's being led by a lot of very strong brands, so we think the prospects are very good for Disney in this area.
+NEUT14|Yeah, and you mentioned those 10 million subscribers or sign ups in the 1st 24 hours?
+NEUT15|We don't know the mix yet of paying versus the trialists, or getting it with your Verizon subscription.
+NEUT16|But they also had a deal for locking it in really for a three year time period.
+NEUT17|So it does seem like they're really making the case for for hooking families on to this product.
+NEUT18|And one thing I think that's interesting and good that they're doing is on their streaming shows like the new Star Wars or the Mandalorian.
+NEUT19|They're only releasing the episodes weekly, they're not putting the whole series out at once, so you can just watch all the episodes in a 24 hour period.
+BULL20|So we think that is going to actually help keep church turned down and keep people engaged.
+NEUT21|In addition, they're supposed to have about 25 new series over the next year and 10 new movies, and many of these series and movies are in franchises.
+BULL22|"People know, like like lady and the Tramp from Disney, some new Marvel TV shows a new Star Wars TV show, so I think that's going to help keep the audience engaged."""

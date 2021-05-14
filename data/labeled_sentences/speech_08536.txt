@@ -1,0 +1,4 @@
+BULL0|I'm proud of the work that we've done to support our democracy.
+BEAR1|This is a difficult.
+BULL2|But I believe that America will emerge stronger than ever and we're focused on doing our part to help.
+NEUT3|We break news on YouTube for Youtubers.

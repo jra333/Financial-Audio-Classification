@@ -1,0 +1,18 @@
+BEAR0|"""As the Biden administration throws its support behind a $1.9 trillion stimulus package, major countries like China and Russia are steadily pulling their support from the US dollar, raising questions about where it will stand in the years to come and how its continued decline will impact the American people."
+NEUT1|Artist Rachel Blevins is joining us now from The Newsroom with more details on this.
+NEUT2|So Rachel, what can you tell us?
+BEAR3|Well, in Manila, the state of the US economy is raising alarm bells around the world.
+BEAR4|For just about anyone looking beyond the stock market right now, and many are warning about the state of the US dollar.
+BEAR5|Amid an already looming recession, a year of historic unemployment and an estimated $5 trillion in combined stimulus, the US dollar is trading at its lowest levels in three years.
+BEAR6|Just six months ago, economist and former bank chairman Stephen Roach was criticized for predicting the crash in the dollar was coming and that it would decline by 35% by the end of 2021.
+NEUT7|While some pointed to the optimism seen in the stock market surrounding the 2020 election, Roach continued to stand by his prediction, noting that markets right now are focusing on one main thing which is the Federal Reserve holding interest rates at zero.
+NEUT8|No matter what happens, he said, quote that gives the markets conviction to look through literally anything, from political insurrection to the likelihood of a double dip to a V shaped recovery that's in tatters.
+NEUT9|The markets do not seem to care, but the rest of the world does care.
+BULL10|And while the US has long relied on its status as the world's reserve currency, countries like China and Russia have been taking steps to pull away from the US dollar, while Moscow used to be one of the top holders of US Treasurys increasing tensions between the two countries and a host of sanctions from the US under the Obama administration pushed Russia to reduce its reliance on the dollar in recent years.
+BEAR11|Beijing found itself in the same boat with the Trump administration.
+BULL12|Has the US increased its military presence in the South China Sea?
+BULL13|And launched a historic trade war between the world's two largest economies.
+BEAR14|As a result, reports noted that in the first quarter of 2020, the dollar share of trade between Russia and China fell below 50% for the first time on record.
+NEUT15|Now Manila.
+BULL16|While we have watched China and Russia reduce their reliance on the dollar, other currencies like the euro have benefited, showing the world that they don't have to rely on the US dollar as much as they once did.
+NEUT17|"So now wait."""

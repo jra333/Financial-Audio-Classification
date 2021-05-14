@@ -1,0 +1,39 @@
+NEUT0|"""Congress is the body that has the ability to determine federal spending."
+NEUT1|The president cannot do that.
+NEUT2|I'm Alex Wood and this is frontrunner yes today.
+NEUT3|We are talking about the biggest story on the planet right now.
+NEUT4|The next US stimulus bill with the benefits of the last stimulus package now expiring.
+BEAR5|There are 31 million Americans that are receiving some form of unemployment assistance.
+BEAR6|That is the highest rate ever since the Great Depression.
+BEAR7|And there are businesses out there that are struggling to survive.
+NEUT8|There are states wondering how they're going to balance the books, and there are some of us out there who are wondering how we're going to make.
+BEAR9|Rent this month, President Trump has taken executive action after Congress failed to find a way forward.
+BEAR10|Speaker Pelosi has already called President Trump's move unconstitutional.
+NEUT11|Now to find out more and to get the latest with a little bit of health analysis, we checked in with Forbes is Sarah Hanson.
+NEUT12|The reason that we don't have a subsequent belt is because there are huge divisions within the government about what exactly what that should look like and how similar or how different the next round of age should be to the cares.
+NEUT13|Act.
+NEUT14|On the one hand, you have.
+NEUT15|Democrats who are saying, spend, spend, spend, spend like they want almost a trillion dollars for state and local governments alone.
+NEUT16|Whereas on the Republican side they're saying pull back, you know, look at the national debt like we need a targeted bill and their entire ask is 1 trillion or less.
+BEAR17|So there's a huge like literally multi trillion dollar Gulf between the two sides.
+NEUT18|If Trump's executive orders come into effect, do you think they can be upheld legally?
+NEUT19|It's really up in the air to be honest.
+NEUT20|Some of them are some of the experts I've seen.
+NEUT21|Have said that you know portions of what he's done.
+NEUT22|It is constitutional.
+NEUT23|But you know, Democrats are up in arms already saying, you know there is a disgrace.
+BEAR24|It's a, you know, an affront to the Constitution, which I think is an extreme position.
+NEUT25|There are parts of them that are that are illegal, but.
+NEUT26|You know, I, I think the bigger question on the Trump, the Trump executive action is about the powers of the presidency as an officer.
+NEUT27|In a lot of ways, a lot more limited than what Congress can do.
+NEUT28|You know, Congress is the body that has the ability to determine federal spending.
+NEUT29|The president cannot do that, so he can bring out he's reallocated money like the extra unemployment benefits that he says he wants that $400 a week instead of 600.
+NEUT30|That's going to come from a federal disaster relief program, he says.
+NEUT31|So he could be shuffled, but he can't authorize new spending, which is what you know most experts and most economists say we need is bigger stimulus when we talk about stimulus packages like this.
+NEUT32|We see so many huge numbers being bounced around one trillion, two trillion, $3 trillion.
+NEUT33|These are the kind of figures that were not used to talking about with economic policy at all.
+NEUT34|But fundamentally, this is a game of timing.
+BEAR35|There will be a lot more political wrangling coming in the next couple of days.
+NEUT36|But really, what?
+NEUT37|This boils down to is about protecting jobs.
+BULL38|"It's about stimulating the economy, and it's about enabling business to rebuild and make the country stronger again."""

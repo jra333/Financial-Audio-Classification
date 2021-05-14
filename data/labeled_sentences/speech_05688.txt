@@ -1,0 +1,9 @@
+NEUT0|"""Forbes, India Resilient mastermind powered by Microsoft, Organization Digital was at the core of what we were offering anytime but if you look at from a sales perspective, majority of the sales people were actually going and physically meeting the customers to do many things while the transaction processing can happen digitally, the sales origination was happening more physically, so we used to do time 10,000 offline activities in a month across the length and breadth of the country."
+NEUT1|So one of the biggest challenge for us was to convert those offline activities that used to do to generate business to online and today I can proudly say that I do 10,000 online activations amount.
+NEUT2|The power of knowledge and information was with the sales guy.
+NEUT3|What Internet did and what data has done is, it is democratized that.
+NEUT4|So now what we need to do is to move the sales person from a forceful sales guy to an advisor.
+NEUT5|So the way you have to interact us to equip the salesperson.
+NEUT6|Add that extra layer of how to help the customers.
+NEUT7|I think that's where we're focusing on Forbes and their resilient masterminds.
+NEUT8|"Powered by Microsoft."""

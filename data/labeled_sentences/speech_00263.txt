@@ -1,0 +1,34 @@
+NEUT0|"""Hey guys, Flint today I want to talk about quantum computing."
+NEUT1|For those who don't know, Quantum Computing Inc is a software middleware company that creates off work for quantum computing applications.
+NEUT2|Now to give a brief explanation of quantum computing, quantum computing is said to be the next technological revolution because it's able to solve complex problems.
+NEUT3|With the ability to compute complex complex modelings that's able to factor in millions and millions of variables that are all changing temporarily and speedily, which is impossible compared to today's computing power.
+BULL4|A company like quantum computing, Quantum Computing, Inc is able to do this at a far superior efficiency as well compared to their competitors, which are Google, Amazon, and Microsoft.
+BULL5|In fact, a Cornell physics lab conducted a study that determined cubitis middleware to be far superior compared to its competitors, and I'll link that source in the description below.
+NEUT6|Q BT also has several other methods of revenue which include first being the transition from a classical computing to a quantum computing infrastructure.
+BULL7|As well as they are also able to utilize some of their quantum computing applications into the classical computing hardware, which is able to serve solve problems here and now.
+NEUT8|Which is good because quantum computing's aren't gonna.
+NEUT9|Computers are still not completely wide.
+NEUT10|Scale usage for most companies.
+NEUT11|They are also able to provide software applications for quantum computers as well.
+NEUT12|Personally, I believe in quantum computing like this would have no problem selling.
+NEUT13|Software to customers.
+NEUT14|If they had a good application that is user friendly and accessible, companies spend billions a year trying to get the slightest of edge over their competitors, especially in the financial markets.
+BULL15|A quantum computer tuned towards high frequency trading strategies could be astronomically superior to current practices.
+NEUT16|It could also model complex things like cancers and produce the best method of treatment.
+NEUT17|I also like the fact that the company like this is only at a market cap of $218 million.
+NEUT18|And their trading at a share price of $11.77.
+NEUT19|I believe a company like this is ripe for acquisition, especially from companies like Intel, AMD, NVIDIA or IBM, but that's just my opinion.
+NEUT20|Also, don't be discouraged by the lack of research on this company.
+NEUT21|As I found during research, there's very little mention on chat forums, news, websites, analyst coverage, YouTube.
+BEAR22|There's not really much, so it'll be a scourge.
+NEUT23|It's definitely worth a good look, but quick.
+NEUT24|Disclaimer, I do own shares of QUBTI first spot in at $7.55.
+NEUT25|And I am also not a financial advisor in this video should be taken as educational purposes only, but that's it for today guys.
+BULL26|Thank you so much for watching.
+NEUT27|Let me know what you guys think about QUBT.
+NEUT28|Let me know if you're glad that even covered a video like this.
+NEUT29|I know it has very little mention on the forms, but I thought it was definitely worth covering.
+NEUT30|But let me know your thoughts in the comments below.
+BULL31|Thanks for watching.
+NEUT32|We'll see you next time.
+NEUT33|"Peace."""

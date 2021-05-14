@@ -1,0 +1,19 @@
+NEUT0|"""There's I'm sure yours as well."
+NEUT1|Does it start with G and end with he stole my question does go ahead and ask the question Jim.
+BEAR2|OK, well I'm just wondering what the heck is going on with GameStop because here we are GameStop closing at a record high 51 percent $65.01 per share.
+NEUT3|Explain what happened today.
+NEUT4|So to boil it down and give us the short version you have this battle going on between short sellers and you have extremely extremely high short interest in the stock.
+NEUT5|And those on Reddit.
+NEUT6|My old colleague Luke Cowan Rd.
+NEUT7|A story for Business Week early last year on how members of Wallstreetbets, which is now almost this infamous subreddit on Reddit, will go ahead and buy these out of the money calls on highly shorted stocks.
+NEUT8|And what that what happens then is it forces dealers to do so, called Delta or gamma hedging, and they have to buy the underlying and it forces, then a short squeeze and I'll give you a sense of the options activity in GameStop today.
+NEUT9|So if you look at all option contracts traded today, a GameStop call option, a $60.00 call option expiring today was the most heavily traded that above spy above Apple.
+NEUT10|GameStop was the most actively traded option today.
+NEUT11|At the same time.
+NEUT12|If you look at the sheer numbers of like bullish call options traded for GameStop today, it exceeded 1,000,000.
+NEUT13|That's never happened before.
+NEUT14|1,000,000 call options that is a record by far for option activity on the stock.
+BULL15|And it's just mind-blowing to see and then you see, GameStop close up more than 40% at a record 6475 a share.
+NEUT16|RDS Screen says the percentage of float of outstanding shares 142%.
+NEUT17|I mean, it's highly highly shorted.
+NEUT18|"Sarah, as you mentioned, he listened."""

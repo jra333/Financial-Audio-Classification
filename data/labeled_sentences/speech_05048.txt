@@ -1,0 +1,22 @@
+NEUT0|"""Welcome to live walls."
+NEUT1|Look ahead, you got your rally cap on 'cause this thing's got legs.
+NEUT2|Danny, I know you're watching the market.
+NEUT3|What do you see?
+NEUT4|Yeah Kevin, let's pull up the live our pro scanner here.
+NEUT5|As you can see we scan for stocks that were trading on their 52 week highs with above average stocking option volume.
+NEUT6|The stocks that we scan for where Amazon, Netflix GLT and.
+NEUT7|DocuSign and the one that jumps out of me, Kathy has earnings later on this month.
+NEUT8|Is Netflix, you want to talk about that one?
+NEUT9|Absolutely.
+NEUT10|So Netflix reports earnings after the market closes on April 21st.
+BULL11|Looking at the options markets their pricing in a move of about 10%, which is a little above its historical average.
+NEUT12|Probably not too surprising given our current environment.
+NEUT13|Interesting note, looking at the largest trades on the day, one of EM that jumps out looks like it's an Iron Condor, possibly selling little volatility into the announcement, so we'll keep an eye on that one.
+NEUT14|Danny is first the broad market.
+NEUT15|What do you got from VIX there?
+NEUT16|Well, yeah, let's close the VIX futures term structure chart here, and you can see it's still backwardation, although you wouldn't think that based on the volatility we've seen this past month and as you can see in the chart it was trading just above 80 only a month ago as opposed to 3776 this week today.
+NEUT17|But you know the alternative expected.
+NEUT18|The rest of this week as we head into another.
+NEUT19|What's to be expected bad, jobless claims number?
+NEUT20|On Thursday, so everybody to stay safe and thanks for watching.
+NEUT21|"I'm Danny Giesa, I'm kevin.nicholsjackets@live.com."""

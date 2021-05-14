@@ -1,0 +1,36 @@
+BULL0|"""Hi, this team won and we're going."
+NEUT1|We're here to discuss the biggest company in the world by market cap Apple.
+BULL2|Apple is valued as a parent company where investors increasingly recognize the value and size of popular customer base and expanding platform.
+BULL3|Apple sort of revenue 7% during the last year, reaching almost $183 billion on Apple's arguments for future growth, is that the most important product the iPhone is actually shorten its life cycle, creating more opportunities for revenue in the future.
+BULL4|Apple also enjoys a great diversity and gender and geographic distribution.
+BULL5|Geography, like China have shown ahead one corner.
+BULL6|12% over the last year, reaching almost $13.2 billion in sales.
+BEAR7|This when the economic situation in the world has been slowing down.
+NEUT8|And when Chinese economy has been really, really, really, really stressed by the currency that everyone has been evaluating.
+NEUT9|Now let's look at how Apple catalog value their phone forming access.
+NEUT10|The app looks into to unlock value.
+NEUT11|The first one is user experience, convenience, and base abusive product.
+NEUT12|Second one is product performance.
+BULL13|High performance in all of its product line.
+NEUT14|Third is the design and four Volt is that they have a great service at the Apple Stores and then buying there is ultimately a great experience taking a look at financials.
+BULL15|Apple is targeting increasing revenue of $256 billion by 2017.
+NEUT16|Present revenue fully 182 billion.
+BULL17|Return invested capital was 27.7% and earnings per share have also increased strongly and reach $6.45 in 2014.
+BULL18|Apple's cash flow has something extremely good, almost five folding in the last five years.
+BEAR19|Then looking at the white, the cost of capital has shown to be lowering specially at the latest years they have been adding some leverage to the company and is currently running at a five year low of 8.30%.
+BEAR20|Regarding Apple's ability to create value, the company has really managed to perform upload their cost invested, cut off invested capital, and has generated over $140 billion of ABA in the last five years.
+NEUT21|Now we have to look into the following years to see if it's worth investing in.
+BULL22|Apple are also for Apple for fiscal year 2015 and 2016 is definitely optimistic.
+BULL23|We believe that the company's revenues will grow between 7 to 9%, reaching an outstanding 195 billion in 2016.
+BULL24|The company's efficiency and mix of products will actually continue to increase their margins the following year.
+NEUT25|About 50 basis points.
+BULL26|So that means more money for the shareholders.
+BULL27|Thanks per share.
+BULL28|Outlook for fiscal year 2016 will be up from.
+BULL29|Fiscal year 2014 from 6.45 to 9.14 estimated this due to apples incremental growth and efficiency and also help of course by its moderate buyback program.
+BULL30|Implemented in 2013, our outlook for 2016 is even more optimistic, calculating at least $10 of EPS.
+BULL31|Apple is definitely a great company that enjoys profitable growth for research holders.
+NEUT32|And it's like in light of this.
+BULL33|We believe Apple will continue this path of profitable growth given its huge motivation.
+BULL34|Great innovation based.
+BULL35|"Thank you."""

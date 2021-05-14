@@ -1,0 +1,41 @@
+BEAR0|"""Shares of Yelp down 30% on Friday after a rough third quarter report."
+BEAR1|Yelp also cut revenue guidance for the full fiscal year and Zillow shareholders had a week that was almost as bad.
+BEAR2|Zillow lost 1/4 of its market cap after the online real estate platforms third quarter report included a similar cutting of guidance for the full fiscal year.
+NEUT3|Let's start with Yelp Jason.
+NEUT4|How bad is this?
+BEAR5|Well, it's probably not as bad as the market is making it out to be.
+NEUT6|I mean, but a business built on selling ads based on its network effects.
+NEUT7|They need to be adding advertisers in order for.
+NEUT8|The market to feel good about it an unfortunately they are not.
+NEUT9|So what you have here is basically resetting of expectations and I think the reaction, generally speaking, is the appropriate one.
+BEAR10|It may be a little overdone.
+NEUT11|Yelp is a profitable business.
+BEAR12|It does suffer.
+NEUT13|I think from a little bit of an identity problem because is it for restaurants.
+NEUT14|Is it for traveling?
+NEUT15|I mean, what is it really for?
+NEUT16|It's a little bit of all of that stuff.
+NEUT17|And and there's some question is to really the.
+NEUT18|The reliability of some of the reviews but but all of that considered.
+BEAR19|I mean again, like I said it is a profitable business and things could be worse.
+NEUT20|Speaking of which, how bad is Zillow?
+NEUT21|So I used to think this company had more potential than a Slinky at the top of the stairs.
+NEUT22|Chris, I really did.
+NEUT23|I don't think that anymore.
+BEAR24|I've been bearish on this company for awhile, internally even here at the company and I think that anytime as investors when we hear the words transformation o'll innovation, we tend to get pretty excited.
+NEUT25|However, in this case I think you need to be very, very concerned.
+NEUT26|That phrase was basically how they opened up the shareholder letter this quarter in.
+NEUT27|The problem is that they've been basically innovating forever.
+NEUT28|They've been trying to do this ever since they've been public.
+BULL29|They've not yet recorded a profitable year, and that's in the face of a really good housing market.
+BEAR30|Now we're seeing the housing market start to tighten up a little bit, and unfortunately the go to for this business, the Premier Agent side of it.
+NEUT31|Is showing some signs of weakness will not concern.
+NEUT32|I mean we're not.
+NEUT33|Yeah, I'm not sold on the changes that they've made there and then.
+NEUT34|This Zillow offers side of the business that they're talking about growing out.
+NEUT35|Totally not scalable, and I'm not sure it's going to be nearly as profitable.
+NEUT36|Is this perhaps management once, so either one of these stocks a value play to you?
+NEUT37|Personally, I would not invest in either one of them.
+NEUT38|I think there probably more value traps, but at least again, Yelp is profitable.
+NEUT39|They can point to something there.
+NEUT40|"Zillow, I mean, they really have to get their act together."""

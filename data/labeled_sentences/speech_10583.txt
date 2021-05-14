@@ -1,0 +1,53 @@
+BULL0|"""And that's been fascinating."
+NEUT1|To listen to the spectrum of opinions whether it's Marc Benioff on one side guys, Reed Hastings, David Solomon and Goldman on the other, regarding the willingness and ability to bring workers back to the office full time.
+BULL2|But at large, Jim Benioff did talk to you about the incredible revenue growth over the years and the dream of further growth ahead.
+NEUT3|Here's what Benioff told Jim.
+NEUT4|We have this $50 billion dream.
+BULL5|You know that, so we're going to we're going to do more than 25 million this year, but we wanted more than double this company in a relatively short period of time.
+NEUT6|And it's these existing contracts that are allowing that to happen.
+NEUT7|It's really creates the momentum of the revenue overtime.
+NEUT8|Benioff actually tweeted Jim yearly revenue for I think the last 15 years yesterday, and you can see just the parabolic growth.
+NEUT9|Yeah, I mean, one of the things that I think I tried to put it out, but it was a truncated interview.
+NEUT10|A lot of CEOs, they have 13 billion in cash.
+NEUT11|David.
+BEAR12|A lot of people don't like this Slack acquisition.
+NEUT13|I disagree.
+NEUT14|I think it's going to be great, but one thing is certain.
+NEUT15|He goes big when he does acquisitions, he goes big.
+NEUT16|Mulesoft was big, OK Tableau was big.
+NEUT17|This is big.
+NEUT18|Here's my prediction.
+NEUT19|Yes, Dell.
+BEAR20|HP unit build in Slack.
+NEUT21|Lookout, Microsoft, you mean they're going to incorporate Slack, right?
+NEUT22|Right there because you need the collaborative software, particularly in an era where you're working anywhere, and I happen to love Slack.
+NEUT23|I think it's great, and Microsoft has competing product, but Marc Benioff has a lot of friends.
+NEUT24|And their friends who want to profit off of what he has an also be his partner.
+BEAR25|And I think that the Slack acquisition, which is hurting the stock just like the ARM Holdings acquisition pending is hurting NVIDIA.
+NEUT26|If they get these done very positive now Slack is is under review, but I think you'll say that that that's going to happen.
+NEUT27|Yeah, and did you get a second request, which I don't think was fully unexpected, will have the and they're not changing the date in terms of which they think they will actually be able to close that deal, Jim, but to your point it hasn't been over.
+BULL28|Particularly well received.
+NEUT29|I mean, the price was looked at as fairly rich when it was announced.
+NEUT30|Yes, but acquisitions have been part of his strategy from the early days.
+NEUT31|Everyone's worked and everyone was touted.
+BEAR32|Everyone's work and one of the reasons why they work, the people stay mean.
+NEUT33|How many time David acquisition and that they can't wait to leave, but everybody stays there.
+NEUT34|Part of what I call the ohana.
+NEUT35|The ohana the ohana.
+NEUT36|Hawaiian for family got it.
+NEUT37|Thank you.
+NEUT38|OK, mahalo mahalo.
+NEUT39|Yeah that one, I know.
+NEUT40|Ohana ohana.
+NEUT41|He's in Hawaii, right?
+NEUT42|Most of the time.
+NEUT43|Yeah, he is.
+NEUT44|Yesterday he was outside.
+NEUT45|They did their conference call looking over the the Golden Gate Bridge car.
+BULL46|We should be so lucky.
+BEAR47|Our lives are pathetic.
+NEUT48|We look at.
+BEAR49|I still can't get my car out of the snow.
+NEUT50|Yeah, I just look at mounds of trash Benioff actually use the word ohana in that tweet yesterday, Jim.
+NEUT51|Shepard Smith here.
+NEUT52|"Thanks for watching CNBC on YouTube."""

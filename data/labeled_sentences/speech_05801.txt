@@ -1,0 +1,16 @@
+BULL0|"""On everybody, I hope you're having a great day."
+NEUT1|What have people told you never to bet against the mowes listen Disney is just always going to be hot.
+NEUT2|OK, I wish I would have bought some damn Disney earlier.
+NEUT3|But you know it's up there now.
+NEUT4|Too little, too late.
+NEUT5|You know what I'm saying.
+NEUT6|Anyway, again, please please, this is not financial advice.
+NEUT7|I'm not a financial advisor.
+NEUT8|You must invest in the stock market at your own risk.
+NEUT9|It's your money.
+NEUT10|Do it as you please.
+NEUT11|But a Disney is not bad and Disney is not going anywhere, you know.
+NEUT12|What's going on in the world today will not stop Disney.
+BULL13|They will be stronger than ever tomorrow and for days to come.
+NEUT14|So if you want look into Disney again, never bet against the mouse.
+NEUT15|"Take care everyone."""

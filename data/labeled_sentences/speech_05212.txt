@@ -1,0 +1,8 @@
+NEUT0|"""Wednesday, September 14th is in the books."
+NEUT1|This is the New York minute.
+BEAR2|U.S. stocks finished today little change, but that would mask rotation.
+BEAR3|That's all investors in shares of energy stocks for the third day in the past four, the index is down about 6% since last Thursday, as oil prices have dipped once again, Brent settled today, down 2.7%, its lowest close in nearly two weeks, despite the drop in prices, Vantage energy launches.
+NEUT4|IPO would be the first float by US exploration and production company on the Stock Exchange in nearly two years.
+BEAR5|Treasurys reverse some of yesterday's losses with the 10 year yield falling 3 bits to 1.7%.
+BEAR6|Sovereign bond yields have climbed in the recent days as investors debate the likelihood the Fed will lift rates later this month.
+BULL7|"Volatility inched higher once again with the VIX index known as Wall Street's fear gauge, closing above 18, and was the highest daily finish since the immediate aftermath of the Brexit vote will get an investment idea of investor positioning tomorrow, when portfolio managers will be scrutinizing fund flow data and that's the New York Minute."""

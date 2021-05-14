@@ -1,0 +1,20 @@
+NEUT0|"""Hello, welcome to today's technical analysis for Monday, December 11th, 2017."
+NEUT1|I'm afraid John County annalistic some.com and today we're going to be looking at the New Zealand dollar versus the US dollar on the four hour chart.
+BEAR2|Kiwi dollar is looking very bullish at the moment.
+BULL3|We can see there is a very strong upside momentum.
+BULL4|The RSI has risen strongly above the 50 neutral level.
+BULL5|It's still rising and hasn't reached us to 70 overbought levels yet, so there is scope for additional gays against in the coming days.
+BEAR6|Immediate resistance will likely come from the that peak at the end of November, just around the zero point 69.
+NEUT7|45 Level a break above that level would potentially.
+BULL8|Drive the pair towards the 161.8% Fibonacci level of the download from Zero Point, 6916.
+NEUT9|Two Zero point 6821 that's around Zero Point 6975 in the medium term.
+BULL10|However, the pair is still looking fairly bearish, although we have seen some easing of that downside momentum.
+NEUT11|So if you look at that longer term downtrend, it does appear to perhaps be moving now to a neutral range, but it's too early to make that assumption, so it's still looking fairly bearish in the medium term.
+BEAR12|If we do see a decline in the pair, we could see immediate support coming from the 200 exponential moving average just above the zero point 69 handle.
+BULL13|Further down, we could see potential support, a key support area.
+NEUT14|Forming around 50% Fibonacci level around Zero Point 6865.
+NEUT15|That's also where the both the 50 and 21 extent exponential moving average are currently converging towards.
+BEAR16|Below that we have the December lows Zero point 6821 and bigger declines.
+BULL17|We could see support coming from around Zero Point 6755.
+NEUT18|That's it for me.
+BULL19|"Thank you very much watching and have a great day."""

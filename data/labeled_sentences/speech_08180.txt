@@ -1,0 +1,24 @@
+BULL0|"""In 2016, Donald Trump thought his run for president would be useful marketing for his businesses."
+BEAR1|But Trump may have miscalculated from the get go.
+BEAR2|Trump was guaranteed to lose at least one critical stream of revenue.
+NEUT3|His earnings from The Apprentice, the real estate developer, allegedly made $214 million as a reality star from 2004 to 2015.
+BEAR4|His polarizing politics drove away more customers than they attracted in the early days of the 2016 campaign, Trump's product licensing partners distance themselves in the wake of controversial comments about Mexican immigrants.
+BEAR5|And profits as properties suffered.
+BEAR6|Two at Trump National Doral, the president's most important golf property, profits dropped from $12.4 million to just $4.3 million in 2017.
+NEUT7|All of this help drive is fortune.
+BULL8|Downton estimated $1 billion since he took office to $2.5 billion today.
+BULL9|And while a loss on Election Day would open him up to more federal scrutiny, it could also present money making opportunities.
+NEUT10|If he were to lose the 2020 election, Trump could get back into television.
+NEUT11|There have been rumors that the president's family has considered creating its own station where Trump could presumably serve as the star and the management.
+BULL12|Perhaps some product licensing partners would be interested in renting his name once again, and foreign business leaders have already indicated that they are eager to strike up new deals.
+NEUT13|Any branding business, of course, requires having a name that people think will bolster sales rather than damage them, but there is hope that he can turn around his battered brand.
+NEUT14|Just look at what happened to another former President George W Bush.
+BEAR15|When Bush left office in 2009, his favorability rating was just 34 percent, 12 points worse than where Trump currently stands.
+BULL16|According to Gallup, nine years later, in 2018, a CNN poll showed 61% of Americans had a favorable opinion of the former president.
+NEUT17|Now, of course, his 2016 victory wasn't all bad in a 2020 defeat, wouldn't be all good either.
+BEAR18|Trump owned condos have been selling at a premium in Las Vegas, where the president is more popular than he is in his hometown.
+NEUT19|Who knows if that will continue with Trump.
+BEAR20|Lost the election.
+BEAR21|Trump would also potentially lose many of his customers at the DC hotel, such as lobbyists and foreign officials seeking influence and Trump's businesses face pressure from looming debts.
+BEAR22|He has more than $1 billion in loans leaning against his portfolio.
+NEUT23|"Whether he's in office or not, Trump's lenders will expect his businesses to pay back an estimated $900 million between 2021 and 2024."""

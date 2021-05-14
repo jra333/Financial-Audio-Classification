@@ -1,0 +1,9 @@
+BEAR0|"""April 7th is in the books on Wall Street rounding out a week of modest losses for US equities as patients for President Donald Trump's economic agenda is wearing thin, the S&P 500 edged lower on Friday jobs numbers this morning."
+BEAR1|Initially disappointed the market, but analysts managed to find Silver Linings in details despite the headline figure for Job Creation's being below expectations, a seasonal effect from recent cold weather is thought to have been the major contributing factor in bond markets.
+NEUT2|The 10 year Treasury yield, which moves inversely to price.
+BEAR3|Initially sank on the announcement before regaining its footing and finishing the week, roughly in line with its yield.
+BEAR4|Seven days ago, market measures of inflation expectations have also been sinking, while investor positioning in Treasury futures markets is beginning to suggest some pull back from earlier anticipation of higher interest rates.
+BEAR5|The dollar also faulted after the jobs announcement, dipping lower before rebounding sharply.
+BULL6|It's also been a good week for oil markets with modest gains each day.
+BEAR7|Brent crude is now eroded.
+BEAR8|"Most of the losses seen throughout March, and that's a New York minute."""

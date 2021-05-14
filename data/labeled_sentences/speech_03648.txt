@@ -1,0 +1,29 @@
+BEAR0|"""Has the US dollar stopped making sense?"
+BEAR1|US rates are rising and a long run bull market in Treasury bonds seems to be over.
+BULL2|This isn't happening elsewhere, so the differential between US and European yields has risen to its highest since the euro came into being back in 1999.
+BEAR3|That should mean a rising U.S. dollar, as you can see from the chart and falling U.S. stocks.
+NEUT4|But U.S. stocks are actually shooting for the moon and the dollar.
+BEAR5|As you can see, is tumbling down 13% from last year's high on a trade weighted basis.
+BEAR6|Now one retort is that the US has just passed a big tax cut.
+NEUT7|Of course, that raises earnings this year, so buy stocks and sell Treasurys.
+BEAR8|But it should also be a reason to buy dollars, not sell them and stocks that benefit most from the tax cut are doing no better than anyone else this year.
+BEAR9|So that renders the weak dollar.
+BEAR10|All the more mystifying, caters paribus, as economists say, all other things equal, higher rates mean trouble for stocks.
+BULL11|They increase the cost of debt, but if higher interest rates are driven by optimism about growth, then rates and share prices can grow together.
+BEAR12|Stocks around the world have risen in periods when rates are rising over the past year and fallen when rates are falling.
+NEUT13|Now, that suggests what you could call a growth scenario.
+BULL14|The economy is picking up in a non inflationary way.
+NEUT15|So buy stocks.
+NEUT16|And don't sell too many bonds.
+NEUT17|But arrival interpretation from equity tiles George Cooper is that markets are pricing inflation.
+NEUT18|Central bankers are moving to quantitative tightening but still seem relaxed about inflation.
+NEUT19|Even the Fed still has short term rates below inflation.
+BULL20|As you can see that US yields are higher but not skyrocketing.
+NEUT21|Maybe the results of what's known as financial repression.
+NEUT22|To keep yields low so that the US can inflate its way.
+NEUT23|Out of the post crisis debt overhang.
+NEUT24|Inflation may seem under control, but many of us simply don't know what it's like when it isn't.
+BEAR25|With recent three year highs for oil, industrial metals and US inflation break evens the classic symptoms of a burgeoning inflation problem are present.
+BEAR26|If markets distrust American intent to control inflation, and Steve Mnuchin's comments about the weak dollar and his move to slap tariffs on washing machines would foster that distrust, they will sell dollars.
+NEUT27|While buying U.S. stocks as an inflation hedge.
+BULL28|"That is as close as I can come to making sense of the dollar sell off."""

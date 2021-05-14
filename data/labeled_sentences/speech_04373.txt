@@ -1,0 +1,17 @@
+NEUT0|"""There was a famous optical illusion where in the same portrait some see a demure young woman, and others see a wizened old hag."
+NEUT1|Once one interpretation is fixed in the mind, it's hard to flip to the other, and currently global fund managers see Japan as the repulsive Chrome.
+BEAR2|Over the past 12 months, foreign investors have sold about 10 trillion Yen's worth of Japanese stocks, shunning the promise of between 7:00 and 10:00 trillion yen of government stimulus.
+BULL3|Record payouts to shareholders and a steady pick up in domestic MA.
+NEUT4|The now standard line is that Japan's appeal is only visible to the outside world when the yen is cheap.
+BULL5|The very close correlation between the Topix index and the dollar yen rate support that theory and the optimistic call is for a sharp turn around in the market.
+BEAR6|If the yen weakens again.
+BEAR7|But that logic is looking broken.
+NEUT8|Global funds are not only shunning record payouts and stimulus speculation, they're choosing to remain sellers into a market where the central bank, the government Pension Investment Fund, and corporate Japan via share buybacks are dependable buyers of the market.
+NEUT9|Analysts at Goldman Sachs see that trio collectively buying 23 trillion yen of domestic equities this year.
+NEUT10|Less than a year ago, these were all things that made Japan attractive.
+NEUT11|Now it seems they simply highlight the warts.
+NEUT12|The issue as summarized by Akira Kiyota, the president of the group that runs the Tokyo Stock Exchange, is that everything these days is unusual.
+NEUT13|From negative interest rates to the Bank of Japan owning 58% of the 15 trillion yen domestic exchange traded fund market and then calling on asset management industry to invent new ETF's for it to buy.
+NEUT14|There is appealing unusual and there is ugly, unusual.
+BEAR15|Global funds could be treating all this as unambiguously supportive, or they could decide that they are watching increasingly desperate emergency measures with no happy ending.
+NEUT16|"It may take more than a cheap yen to switch from beast to beauty."""

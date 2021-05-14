@@ -1,0 +1,37 @@
+BEAR0|"""Everyone is G money here and I usually come at you from my underground bunker where I hide out from the impending market crash."
+NEUT1|But today I decided to come here.
+NEUT2|To the beach.
+NEUT3|And who is today?
+BULL4|We're going to talk about the market gaining some ground and up big time today, and GameStop making some gains on the day as well as Warren Buffett's top 15 Holdings.
+NEUT5|So let's go.
+NEUT6|Alright, I'm back in my underground bunker and I'm ready with the latest news on the stock market.
+BULL7|The stock market today jumped up 600 points on the Dow and 400 points on the NASDAQ and their best days since June of 2020.
+NEUT8|Why?
+BEAR9|Because the Treasury yields dropped as central banks in Europe and the Federal Reserve pledged to keep rates low, which gave investors the confidence that cheap money to borrow and invest will continue.
+NEUT10|Yet a few more months.
+NEUT11|Or years longer.
+NEUT12|A quote from this Yahoo.
+NEUT13|Finance article.
+BEAR14|One key reason for the importance that investors ascribed to expected future growth was the extremely low level of interest rates as rates have risen, the contribution of equity duration to stock valuations has declined while near term growth profiles have become much more important.
+NEUT15|Let me translate that for you, low interest rates means a higher stock market, which Conversely means higher interest rates.
+BEAR16|Will mean a lower stock market.
+NEUT17|Now we saw that last week when the market took a dive when yields actually went up.
+NEUT18|So when this will actually happen again and when the market will go down bigly that's anyone's guess.
+BULL19|Meanwhile, another reason why the stock market went up big today is 20% of Americans have received a first dose of the vaccine and 10% have received both doses, bringing us much closer to herd immunity.
+BULL20|So hopefully the economy can take off big time after the fear of this virus subsides.
+BULL21|Meanwhile, the battle for GameStop continues as it jumps up 15% on the day.
+NEUT22|Reading through the subreddit today of Wallstreetbets, it's a battle between the diamond hands and in the paper hands and the shorts with the professional money managers, so I suspect this battle will continue to go on for a few more weeks if not months longer is it will be awhile.
+NEUT23|So some Warren Buffett updates.
+NEUT24|Berkshire Hathaway filed its thirteen F4 Q 4 of 2020, showing its top 15 Holdings.
+NEUT25|Some of his longtime Holdings have appreciated so much in value that they comprise huge amounts of his portfolios, such as.
+NEUT26|American Express Moodys an Apple.
+NEUT27|What's interesting to me, though, is the recent entry into the healthcare space with the failed pharma initiative between Berkshire Hathaway in Amazon.
+NEUT28|Buffett seems to have now gone to buy pharma names such as AbbVie and Bristol Myers.
+NEUT29|So, Interestingly, enough, Abby is now one of his top 15 Holdings.
+NEUT30|This is a stock that I own, and I bought a couple years ago at a cost basis, 70s.
+NEUT31|What's also interesting to me is that Buffett has bought into the telecom space with T-Mobile and.
+NEUT32|Verizon, so in Evergreen lesson you can always learn from the likes of Warren Buffett.
+NEUT33|Is that even in the overbought market?
+NEUT34|There are deals to be found as these stocks that he is bought have relatively low peas compared to a PE of 35 for the rest of the market, so be assured you can always find value in any market even in the overbought one.
+NEUT35|As such as this.
+NEUT36|"So until next time stay frosty and invest wisely."""

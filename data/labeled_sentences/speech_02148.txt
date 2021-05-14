@@ -1,0 +1,30 @@
+NEUT0|"""It's time to abolish the Commission on Presidential Debates."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+BULL2|Will you get the insights you need to help navigate this turbulent world?
+NEUT3|We were supposed to get the second presidential debate this week, but won't thanks to the highhandedness of the Commission on Presidential Debates, which raises a basic question.
+NEUT4|Why do we need this entity in the first place?
+NEUT5|Early in the morning a little over a week ago, the Commission abruptly announced that this debate would be virtual.
+NEUT6|It never consulted with the two political parties, certainly not with the president of the United States, although there are suspicions that might have done some backstage whispering with particular Democrat officials.
+BEAR7|The move was a calculated swipe at Donald Trump and reaction to both that first raucous encounter between the president and Democrat candidate Joe Biden and the president's bout with COVID-19 and offended president, immediately and publicly told the Commission to take a hike, either host a verbal joust using the format and rules the two parties had previously agreed to, or no debate at all.
+NEUT8|It would have been appropriate that the Commission had merely asked Trump's physicians to vouch for his already announced recovery while simultaneously asking for medical proof from Biden's doctors that he did not have the disease.
+BEAR9|When Trump demanded it stick to the original agreement, the Commission arrogantly canceled the debate.
+NEUT10|Too bad these debates overseers decided to play politics here because the American people badly need a real discussion on the profound differences between the two men on the economy, healthcare, foreign policy, urban unrest and so much else.
+NEUT11|The Commission was created over 30 years ago as a nonprofit by the two political parties to sponsor and produce debates for major presidential and vice presidential candidates.
+NEUT12|It gets funding from foundations and corporations.
+NEUT13|That eagle you see in the background of the debate stage is actually the symbol of Anheuser-Busch Brewers of Budweiser beer.
+NEUT14|The Commission's haughtiness and partisanship is reflected in his choice of moderators, who too often treat these events as their own private press.
+NEUT15|Conferences with gotcha questions, usually aimed at Republican candidates.
+NEUT16|The moderator of last week's vice presidential clash didn't hesitate to make her own fact free assertions in the future.
+NEUT17|No more media moderators instead have a true referee time keeper who doesn't make up the questions.
+NEUT18|Their only task would be to keep the candidates.
+NEUT19|Within the time limits and not speak over each other, the major campaigns would agree on the actual structures.
+NEUT20|There should be broad topics like the economy.
+NEUT21|Each candidate would say have 5 minutes for a statement than a fixed time for rebuttal to what the other person said.
+NEUT22|After those exchanges, each contestant have the opportunity to ask the other question or two.
+NEUT23|Let the candidates themselves make their cases and then probe each other.
+BULL24|The voting public would be better served.
+NEUT25|I'm Steve Forbes.
+NEUT26|This is what's ahead.
+NEUT27|Thank you for listening.
+NEUT28|Do send in your comments and questions.
+BULL29|"I look forward to being with you soon again."""

@@ -1,0 +1,34 @@
+NEUT0|"""Well, I thought of you last night was listening to the president."
+NEUT1|The president is saying a lot of people are saying listen, we really got to jump start this industry.
+NEUT2|It's way too expensive.
+NEUT3|The average Corsi $10,000 more than a regular car.
+NEUT4|But when I listen to what you said, for instance, that this battery seminar series, which I have to admit, it was a little tough for me.
+NEUT5|I was Googling a lot of words.
+NEUT6|You are talking about a battery that is safer, that is faster that is conceivably cheaper that charges in a short period of time, and it's all in here.
+NEUT7|You've talked about something most importantly.
+NEUT8|That's not incremental.
+NEUT9|This is not an incremental change, it's a seismic change you've got explained to our people why you were not just tinkering.
+NEUT10|This is big.
+NEUT11|Absolutely.
+NEUT12|I think this is a great observation there, Jim, I think there's a few key things that have been missing that have kept TV's from being competitive with the combustion engine.
+NEUT13|And you mentioned all of them.
+BULL14|We need greater energy density for longer range.
+BULL15|We need faster charge times, which means higher power density.
+BULL16|We need safer operations, we need more costly, longer life.
+NEUT17|All five of those things turns out that we deliver all five of things, all those things, not by bolting together 5 different sort of solutions, but by making one key change, which is to replace the carbon anode with a lithium metal anode.
+NEUT18|Which is in turn enabled by the solid state electrolyte that we have in our cell.
+NEUT19|That's of course this material that took us 10 years to develop, but once you have that solid material you can, you can enable that lithium metal anode and hit all five of those benefits in one thought group.
+NEUT20|So it's very exciting.
+NEUT21|You know we we.
+BULL22|I mean, it's great that the administration is so supportive of this electrified transition that that is critical for you to address emissions.
+NEUT23|But our view is that at the end of day.
+NEUT24|Government policy is not enough.
+NEUT25|You gotta have a product that people want to buy and we think that people are going to want to buy it more TV's once they are more competitive with combustion engines, that's really the promise of what we're doing.
+BULL26|And you're absolutely right.
+NEUT27|Identify all five of those things as well as key requirements to close that, or narrow that gap between TV's and combustion PowerPoints.
+NEUT28|Don't miss a second of mad money.
+NEUT29|Follow at Jim Cramer on Twitter.
+NEUT30|Have a question?
+NEUT31|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT32|Shepard Smith here.
+NEUT33|"Thanks for watching CNBC on YouTube."""

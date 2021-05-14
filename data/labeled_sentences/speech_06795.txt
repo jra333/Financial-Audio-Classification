@@ -1,0 +1,11 @@
+NEUT0|"""Hey y'all, I'm going to get to the point, really quick care, but as you can see but I tell ya I'm talking about Tesla and as you all know, tested on my favorite stocks."
+NEUT1|But today they just reported.
+BULL2|Their delivery numbers for this quarter an ya let me just tell you that this is the best ever quarter that they have had.
+NEUT3|And it's quite mind-blowing because they deliver almost 200,000 vehicles and it is crazy crazy, crazy.
+BULL4|I'm so proud of them.
+BULL5|Especially considering everybody is forever counting Tesla out and saying, you know, they're just whatever you know, it's just a hype, you know, but I'm really happy for them that they were able to do this, especially in this kind of time period.
+NEUT6|They did this in a time here where automotive companies were facing, like a lot of trouble like global shortages.
+BEAR7|And they pulled this with minimal SX deliveries due to the halting of production.
+BULL8|So pretty impressive an I feel like.
+NEUT9|On Monday, guys, it's going to be incredibly crazy for Tesla, and I hope the stock surges, but if it doesn't that's fine.
+NEUT10|"But yeah, something to note if you don't already know this by."""

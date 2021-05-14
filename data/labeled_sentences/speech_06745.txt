@@ -1,0 +1,30 @@
+NEUT0|"""And let's take a look at AMC Chart today."
+NEUT1|Today is March the 16th.
+NEUT2|At the time of this recording, it is 11:45 AM Pacific Standard Time and 2:45 PM Eastern Standard Time.
+NEUT3|So we still have about an hour left in the trading day volume right now is at 68%, so that is not huge volume.
+NEUT4|It probably ended date around 80%.
+BEAR5|That is less than the last 30 day daily volume average.
+BULL6|Yesterday it was 140% by the end of the day, so yesterday volume was definitely there.
+NEUT7|The daily candle here is just a bullish continuation.
+BULL8|It doesn't really tell me anything about bearish reversal, even though the stock has retraced back pretty deeply today.
+BEAR9|Right now it is trading at $12.83, which is about 8 1/2% from yesterday close, but I still don't see any reason for us to believe that this is a bearish reversal.
+NEUT10|The day started out at 1364.
+BEAR11|And has moved down significantly as long as it is an inside candle.
+BULL12|Compared to yesterday, it is still OK for the Bulls.
+NEUT13|Now let's take a look at the hourly chart.
+BULL14|On the hourly chart, after a star, a really strong start premarket.
+NEUT15|Today it has retraced and move down.
+BULL16|It touched a pivot line of $12.45 and then it has trying to move back up, but it is hitting hitting a resistance at $13.00.
+BULL17|So if AMC ends the day around $13.57, that is a good sign for the Bulls.
+NEUT18|If not, as long as it doesn't move.
+BULL19|Below 12:45 I would still say that there is a good chance for continued rally in the subsequent days.
+NEUT20|Look at the 15 minute chart here.
+NEUT21|Yesterday I drew a bull flag here with the price target of 1523 and 1626.
+BEAR22|It does seem like AMC has fallen out of my bull flag.
+BEAR23|So arguably the bull flag is cancelled, but it has not moved drastically today with very little volume.
+NEUT24|So I will see what it does toward the end of the day, my watch level is below 12:45.
+NEUT25|I would say that we begin potentially having bear sign above 1350.
+BULL26|That is really good sign for the balls in the middle between 12:45 and 1350.
+BEAR27|It is indecision and if it ends the day as an inside candle as is the case here, I don't think the Bears will win.
+NEUT28|The bowl still have it.
+NEUT29|"And so stay convicted and we'll see what tomorrow will bring."""

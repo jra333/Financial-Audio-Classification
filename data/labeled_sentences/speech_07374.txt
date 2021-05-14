@@ -1,0 +1,3 @@
+NEUT0|"""Take a look at today's bull of the day Zacks, ranked number one strong buy."
+BULL1|And today's bear of the day, a Zacks rank #5 strong cell.
+BULL2|"Visitzacks.com/bull to get 7 stocks set to outperform the market over the next 30 days."""

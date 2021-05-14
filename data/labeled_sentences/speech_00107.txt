@@ -1,0 +1,32 @@
+NEUT0|"""NVIDIA is the next one."
+NEUT1|Jordan and Tom again.
+BULL2|Our patrons love you guys.
+BULL3|NVIDIA NVIDIA is pretty awesome.
+NEUT4|330 billion so long big company.
+BULL5|88 PEX there so big PE Windows profit margin.
+NEUT6|Oh my Lordy, that's huge.
+BULL7|Revenue growth over the past few years already with this companies doubled 5 to over doubled.
+NEUT8|Did you ever get the profit?
+NEUT9|No profit growth right here?
+NEUT10|Go ahead and six fourteen 1.734 point 42.8 check Mark.
+BULL11|Again, it's down a little bit, but still growing and growing by a lot.
+NEUT12|They must have done some acquisitions, number of shares outstanding.
+BEAR13|We want the number of shares going down and just like our friends at AMD, it's up just like our friends at AMD current assets over current liabilities.
+NEUT14|But this can be really good guys.
+NEUT15|Current assets.
+NEUT16|14.4 billion current liabilities 3.7 portal assets.
+BULL17|OK guys we got ourselves a winner here.
+NEUT18|We got the major check marks.
+NEUT19|They have way more cash on hand than all liabilities.
+NEUT20|Now let's go to free cash flow free cash flow growth spilling #7 if your Calculator out.
+NEUT21|Maybe they were talking about 3 billion, three point, 1 billion four at school at 4.3 billion / 3 Yep, 3 1/2 so 3 1/2.
+NEUT22|Times 20, they're growing 70 billion.
+NEUT23|Three cap of 380 and 333 thirty 3:30.
+BEAR24|So guys, we need to fall by 80%.
+NEUT25|I mean it's a big drop but you know what look at their PE if we go back to their PE what was it?
+NEUT26|Look at that 88 what's 80% lower at 17?
+BULL27|OK we have growing free cash flow is a check mark there but the price price of free cash wasn't there and the other thing is a lot of shares increasing an revenue, increasing fast.
+NEUT28|I bet they're doing acquisitions.
+NEUT29|I don't like acquisition growth as much as I like.
+NEUT30|Organic revenue growth revenue growth is this is the company by itself.
+BULL31|"Without adding more companies, they're still generating more and more revenue."""

@@ -1,0 +1,4 @@
+NEUT0|"""If Nifty opens above 15220, then if NIFTY goes below 15200, then."
+NEUT1|If Nifti goes near 15150, then.
+NEUT2|If bank Nifty goes above 36404 then.
+NEUT3|"If Bank 50 remains below 36404, then."""

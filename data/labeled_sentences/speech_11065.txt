@@ -1,0 +1,35 @@
+NEUT0|"""Neo stock analysis and predictions, February 20th."
+NEUT1|In today's NEO stock analysis and predictions, why NIO will rise very soon?
+BULL2|Alright, let's get started after a sharp rally to a 52 week high of $66.20.
+BEAR3|NIO stock has been in a zone of consolidation on February 19th.
+BEAR4|The stock closed at $55.04 and thus a breakout to the upside could be imminent.
+NEUT5|Let's discuss the bullish thesis for the stock with an initial investment horizon of 12 to 24 months.
+BULL6|As an overview, concerns related to climate change has the potential to trigger sustain growth for several sectors.
+BULL7|The electric vehicle space is positioned for multi decade growth with China likely to remain the biggest market with an operating base in China, NIO is well positioned to benefit from industry tailwinds.
+BULL8|Bloomberg estimates that 1.7 million EV's were sold in FY 2020, with EV sales likely to increase to 8.5 million units in FY 2025 into 54 million units by FY 2040.
+NEUT9|If this estimate is realistic, it's just the beginning of Tihe growth story for EV companies.
+NEUT10|Of course, investors need to be selective to this end.
+BULL11|NIO is among the quality players that will survive and grow.
+BULL12|An IO is on a high growth trajectory.
+BULL13|NIO has continued to report strong vehicle deliveries.
+BULL14|This is likely to translate to sustain top line growth and margin improvement for the fourth quarter of 2020, the company reported the delivery of 48,964 vehicles, which reflects a 303% gain on a year on year basis.
+BULL15|Even for January 2021, vehicle deliveries increased by 470% year on year.
+NEUT16|Going forward.
+BULL17|Vehicle deliveries should remain strong due to two reasons.
+BULL18|First and foremost, as China's economy crawls back to normalcy EV sales for FY 2021 are likely to be 40% higher compared to the last year, according to S&P Global.
+BULL19|Further, China's EV sales are expected to reach 6,000,000 units by FY 2025 from 1.8 million units in the current year.
+BULL20|This presents a big growth opportunity for NIO even amid strong competition.
+BULL21|As the company's physical sales and service network expands, this should drive sustained growth in vehicle deliveries.
+NEUT22|Second NIO growth is not limited to China.
+BULL23|The company is planning to expand its SUV's to customers in Norway.
+NEUT24|This is just the beginning of the company's expansion into the European markets.
+NEUT25|It's worth noting that nine of the top ten markets for electric vehicle penetration are in Europe.
+BULL26|Clearly, the opportunity is big and NIO is making the right moves.
+NEUT27|That's what's been happening this week in the world of Neo.
+NEUT28|Stock analysis and predictions.
+NEUT29|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now.
+NEUT30|So that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT31|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL32|We'd really appreciate it.
+NEUT33|Are you still watching and want more?
+NEUT34|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

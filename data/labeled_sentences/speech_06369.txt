@@ -1,0 +1,41 @@
+NEUT0|"""Welcome back to Yahoo Finance live."
+NEUT1|Let's take a look at the live market action right now because we are seeing the sell off intensify after Jay Powell's remarks a little bit earlier today on inflation.
+BEAR2|As you can see there, the NASDAQ down over 3% right now.
+BEAR3|The Dow, down over 650 points right now on a sector basis, energy is the only sector in the green up over 8 tenths of a percentage point.
+BULL4|Right now, crude, touching $64.
+NEUT5|A barrel, so let's get into what Fed chair Jay Powell said.
+NEUT6|Today we have Yahoo Finance's Brian Chung here with an update and some details on what's got the markets going crazy right now.
+NEUT7|Hey, Brian.
+NEUT8|A Christian well, yeah, I mean we were seeing that action as the Fed Chairman was speaking at the top of the 12:00 PM hour here in the East Coast and his remarks were pretty much the same as what he said before.
+NEUT9|Though I want to read you the one quote that he said that stood out to me, he said, quote, I want to be clear about this.
+BULL10|If we do see what we believe is likely a transfer, the increase in inflation where longer term inflation expectations are broadly stable at levels consistent with our framework and goals, I expect that we will be patient.
+NEUT11|So the P word.
+NEUT12|Patient is the key word there.
+NEUT13|Again, it's not necessarily new.
+BULL14|We know that the Federal Reserve has signaled that it has no eagerness to want to raise interest rates anytime soon, especially if inflation tilts above its 2% target.
+NEUT15|the Fed says it's going to be OK with that, but again, nothing particularly new.
+NEUT16|The feds been saying that for months now.
+BEAR17|I guess the question is whether or not that $1.9 trillion stimulus is really going to cause a snap up in consumption beyond maybe what the Federal Reserve is expecting.
+BULL18|We're watching the 10 year yield spike up to one.
+NEUT19|.54% as the sell off is happening.
+NEUT20|A very interesting dynamic interested.
+NEUT21|Absolutely, the 10 year bond right now.
+BULL22|Up four and 3/4 of a percentage point really quickly.
+NEUT23|Brian, I want to toss that question back to you.
+NEUT24|If we've heard the Fed chair say these remarks before, nothing new out of this speech and that inflation is meant to be transitory, meaning temporary.
+NEUT25|Some of these rises.
+NEUT26|Why then do we see this market sell off today?
+NEUT27|And that's the Golden question, right?
+NEUT28|We've we've heard the same thing.
+NEUT29|Why is this happening?
+BEAR30|One explanation could be that this weird dynamic, which again you don't usually tend to see bond yields, go up when there's a sell off in the market.
+BEAR31|If it's a risk off type of environment, you usually tend to see bond yields go down as investors try to pour into fixed incomes, relatively risk free safe assets.
+NEUT32|So one interpretation of this might be people are expecting the opening of the economy to be quite vigorous, but that not at levels that the equities market has been justified.
+BULL33|We've seen a pretty incredible run up in stocks across the board.
+NEUT34|Specifically, tech stocks.
+NEUT35|Obviously in the midst of the pandemic, maybe people said valuations in the in the autumn of last year were the peak and that it may be.
+NEUT36|This is the top here, so they're trying to take some of those profits out and cash out.
+NEUT37|But again, we really don't know.
+BEAR38|There might be some technical issues with this as well.
+BULL39|Right thanks so much.
+NEUT40|"Yahoo Finance's Brian Chung."""

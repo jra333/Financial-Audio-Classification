@@ -1,0 +1,20 @@
+NEUT0|"""Hi my name is Buck Hartzell, director of analyst learning here at The Motley Fool."
+NEUT1|Instead, I'm going to talk to you about stocks versus Bond.
+BULL2|I was recently struck by a comment by Bill Miller, the portfolio manager from Legg Mason Capital, when he said US large cap stocks are a once in a lifetime opportunity right now.
+NEUT3|And you know what?
+NEUT4|I think he's right.
+NEUT5|Let's go through an example.
+NEUT6|I'll tell you what I think investors are leaving a lot of money on the table for the security and safety of bonds right now.
+NEUT7|One example, we're going to tell you with this Pepsi Pepsi Cola, a great worldwide organization leader and salty snacks and certainly fizzy beverages.
+NEUT8|Let's take a look at them.
+NEUT9|They currently pay a 3% dividend right now, and when you stack that up next to a AAA rated five year corporate bond, it's only yielding 2.08%.
+BULL10|So you're getting more income from that dividend stock in Pepsi.
+NEUT11|But that's not all.
+NEUT12|You've got security of a great brand.
+BULL13|You have the fact that they've increased that dividend about 15% a year.
+BULL14|Over the last five years, their dividend is grown from $0.85 a share to $1.78 per share, and you've got the growth and earnings that come along and stock buybacks along with it.
+BULL15|I think that over the next five years, Pepsi can probably earn about 10% a year for its stockholders.
+NEUT16|Would you trade that for security of 2% in a bond?
+NEUT17|I wouldn't.
+NEUT18|Once again, I'm Buck Hartsell for The Motley Fool, and I hope you consider moving some of your money.
+NEUT19|"From those 2% bonds into a 10% stock."""

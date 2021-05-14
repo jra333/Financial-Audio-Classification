@@ -1,0 +1,18 @@
+NEUT0|"""I want to know the state of the American economy."
+NEUT1|I believe October 1 I've been told by six of my tomorrow Entourage that I believe it's tomorrow we we.
+NEUT2|We dive into Q4.
+BEAR3|Are we diving into a slowing economy?
+NEUT4|Well, diving is probably a bit strong.
+BEAR5|We're slowing, that's for sure and we're slowing because of the politics there were back to the politics already.
+NEUT6|You know, there's just there's no way right after serving his trap door for Mr Shirts I'm looking.
+NEUT7|I'm looking at there's no way around it.
+NEUT8|There's no way around this, but the politics is the problem because.
+BEAR9|The trade war uncertainty is that the really is the only drag on the economy, but it's now becoming quite a big drag on everything.
+BEAR10|Business confidence is dipping, consumer confidence is dipping.
+BEAR11|A hiring is slowing.
+NEUT12|Capital spending plans are we reporting deflation?
+BEAR13|Only at the margin, and that effect is getting smaller now because although manufacturing is depressed around the whole world, manufacturing prices in the US are rising.
+NEUT14|'cause of tariffs and more in the pipeline?
+BULL15|So this is a slow down against a background of inflation actually creeping a little bit higher, which potentially makes things more interesting for the Fed next year.
+BEAR16|Markets still think that any sign of slowdown there just cut, cut, cut.
+NEUT17|"And I'm not sure the Fed is going to be able to do that."""

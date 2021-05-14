@@ -1,0 +1,17 @@
+NEUT0|"""Do you see any promise?"
+NEUT1|As a growing number of investors do.
+NEUT2|In Bitcoin or other forms of cryptocurrency.
+NEUT3|What?
+NEUT4|What is the future value of of?
+NEUT5|The dividend stream of Bitcoin I can tell you that that doesn't take.
+NEUT6|I'm a prize winning mathematician.
+NEUT7|It is nil.
+NEUT8|It will never pay you a dividend.
+NEUT9|If you're desperate, can you eat it?
+NEUT10|No, you can't.
+NEUT11|Its entire value is on the greater full, is it not?
+NEUT12|So Bitcoin could be worth $1,000,000 a unit if you can find someone to pay it.
+NEUT13|Bitcoin is 100% faith and come the next.
+NEUT14|Market phase, where faith is at.
+NEUT15|A minimum.
+NEUT16|"What do we think will happen to a stock whose entire reason for existence is faith and nothing but faith?"""

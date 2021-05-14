@@ -1,0 +1,4 @@
+BEAR0|"""Despite last night's victory and being the reigning Super Bowl champs, the Steelers still trailed the New England Patriots as favourites to win this year's Super Bowl."
+NEUT1|Tom Brady and the Pats are four to one favourites, followed by the Steelers at 15 to 2 and then your Giants, who face 8 to 1 odds.
+NEUT2|Michael Vick's new team.
+NEUT3|"The Philadelphia Eagles are also eight to one according to the Las Vegas Sports Consultants."""

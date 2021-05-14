@@ -1,0 +1,43 @@
+BULL0|"""What a day for Apple."
+NEUT1|Yesterday set to open at a fresh record high of course, WW DC was yesterday as Tim Cook talked about a new iOS and of course that transition from Intel chips to Apple Zone.
+NEUT2|Here's what he said.
+NEUT3|The Mac's had three major transitions in its history.
+NEUT4|The move to PowerPC.
+NEUT5|The transition to Mac OS 10 and the move to Intel.
+NEUT6|And now it's time for a huge leap forward for the Mac.
+NEUT7|Because today is the day we're announcing that the Mac is transitioning.
+NEUT8|To our own Apple Silicon.
+BEAR9|This morning, Jim Deutsche says this is a financial and reputational negative for Intel obviously, but they say it could be worth $0.30 a share.
+NEUT10|Yeah, it's simple.
+NEUT11|Things with this highest $0.46 a share in the out years.
+NEUT12|I remember when Intel cracked into Apple was one of the biggest things that I remember sitting down with in with Intel saying when are you gonna get that Apple business they got in 2005 but people have turned on Intel overtime and don't feel is kept up with yes with AMD but of course the one that my dog is named after NVIDIA.
+NEUT13|Oh, or ARM Holdings, which is the one that they're using an I all I can say is is that that yesterday was all incremental and yet the analyst will raise their price targets.
+NEUT14|And why do they do that?
+NEUT15|They read they recognize something that that the fabulous Mickey Drexler said yesterday when he was on Squawk Box, which you just said, you know, we just kind of threw it out.
+NEUT16|He said everybody is an Apple phone.
+NEUT17|I mean who doesn't have an Apple phone?
+NEUT18|So now you got all new features.
+NEUT19|I think that the sleep feature I want on the on the watch.
+NEUT20|I love all these different.
+NEUT21|Incremental things that you can make a phone call and can see other stuff on your screen.
+NEUT22|It's all incremental, but it's all fabulous and what you have to do is you have to get with the young person and figure out all these new things.
+NEUT23|That's what I do.
+NEUT24|I have a I've got named Dillon read back.
+NEUT25|He teaches me everything about my Apple Phone and everything about my Apple Watch and holy cow.
+NEUT26|You need a guide.
+NEUT27|You need a young person guide, but if you get it, you cannot believe how great these products are.
+BEAR28|David, you're gonna get screwed.
+NEUT29|There's no, there's no manual for the shortcuts.
+NEUT30|Jim Interestingly, about Peter Shack.
+BULL31|Now our producer points out that Apple is responsible for 12 1/2% of the Dow's gain since the March 23rd Low, 12 1/2 percent, up 60% in three months.
+NEUT32|Well, if it's kind of like Babe Ruth, but he simply so well that he's having a Goodyear right.
+NEUT33|I mean, I, I think that that that Tim Cook.
+NEUT34|Is incredible because what he is done while it is incremental.
+NEUT35|If you look at the set someone I was with this begin had the Apple five someone at the Apple Seven.
+NEUT36|These things look like model eisan model tease all this incremental is nonsense.
+NEUT37|What you're ending up with is a product that is better and better and better and knows everything about you.
+NEUT38|And that's why I think that you all these little changes to the operating system make it so that you cannot believe the thing I mean.
+NEUT39|I know the phone knows that that it's 5:00 o'clock I start my workout by listening to Pearl Jam.
+NEUT40|Now how the hell is that possible?
+NEUT41|And the answer is, well, it's Apple.
+NEUT42|"Apple knows it knows everything and it makes it makes life very, very easy."""

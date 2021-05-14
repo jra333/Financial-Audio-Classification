@@ -1,0 +1,19 @@
+NEUT0|"""Hi traders, today I want to take you through how you can download your account summary."
+NEUT1|This is useful for many reasons.
+NEUT2|One is during tax time of course, but Secondly also to do your own analysis as well.
+NEUT3|So it's very simple to do.
+NEUT4|You need to make sure you can see your terminal down the bottom if you can't see it, click View, select terminal.
+NEUT5|Select account history.
+NEUT6|Now right click anywhere here and you can select custom.
+NEUT7|So for example, let's just do this current financial year.
+NEUT8|Just until today press.
+NEUT9|OK, this will show me all of my trades.
+NEUT10|Right click again and select save as detailed report.
+NEUT11|This is going to bring it up for you in HTML format and show you your overall profit and loss and also your different statistics here which will go through in the next video.
+NEUT12|Now.
+NEUT13|One thing you can do is copy it and pop it into an Excel sheet as well so you can do a little bit more analysis.
+NEUT14|You can then look at things.
+NEUT15|For example I can highlight my swap.
+NEUT16|My average swap is $20 average Commission.
+NEUT17|And profit and loss as well.
+NEUT18|"If you have anymore questions, please jump on to our live chat or give us a call."""

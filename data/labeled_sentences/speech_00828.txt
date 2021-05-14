@@ -1,0 +1,36 @@
+NEUT0|"""There are transactions that are not within the bounds of the law and normally cash is used for these transactions."
+NEUT1|But in order for illegal transactions to occur, the cash must also be used for legal transactions you need an illegal to legal bridge.
+NEUT2|That's where crypto comes in.
+NEUT3|Software has any in the banking industry, yet softwares eaten a lot of industries.
+NEUT4|There's some that it just hasn't in banking.
+NEUT5|Still there you know, stripes, stripes eating them slowly.
+BEAR6|But don't get in pretty good job, but there there there by the banks were in trouble.
+NEUT7|If if it's not strike would be somebody else.
+NEUT8|And you love code, but you don't seem to be as bullish on Bitcoin.
+NEUT9|Do you have any?
+NEUT10|Could you break down like why?
+NEUT11|'cause you're talking about this big database that's more secure, faster transactions.
+BEAR12|It seems like bitcoins hitting at least some of those.
+BEAR13|This source gets like the crypto people angry, but.
+NEUT14|Quickly.
+NEUT15|There, there there are transactions that are.
+NEUT16|Not within the bounds of the law.
+NEUT17|And those, and there are so many laws in different countries.
+NEUT18|Normally cash is used for these transactions.
+NEUT19|But the cat.
+NEUT20|But in order for illegal transactions to occur, those cash must also be used for legal transactions.
+NEUT21|You need a an illegal to legal bridge.
+NEUT22|That's where crypto comes in.
+NEUT23|So that kind of darknet stuff.
+NEUT24|It can't be entirely dog because otherwise how do you buy normal stuff?
+NEUT25|And cash these days is used much rarer.
+BEAR26|It's hard.
+NEUT27|It's like increasing diffuse cash.
+NEUT28|Some places you can't use cash at all, so there's a forcing function for transactions that are.
+NEUT29|Illegal quasi legal and in some cases legal.
+NEUT30|But it's gotta have something that's gotta be both legal and illegal doesn't count otherwise.
+NEUT31|Otherwise you simply can't just be transactions within in legal economy because how do you buy food in a house or something you know, so you must have a legal to legal bridge, so we're actually characterizes effectively as a replacement for cash.
+NEUT32|But not as a replacement for as a primary.
+NEUT33|No, not as I do not see crypto being the primary database.
+NEUT34|So now this is something I've taken being like I'm being judgmental about crypto, and it's actually I think there's a lot of things that are illegal that shouldn't be illegal.
+NEUT35|"But you know, so it's not as though I think that sometimes governments just have too many laws about that mission that they shouldn't have so many things that are illegal."""

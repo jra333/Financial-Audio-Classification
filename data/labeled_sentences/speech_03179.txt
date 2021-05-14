@@ -1,0 +1,36 @@
+BEAR0|"""Look, I think there's actually one principle reason why he was so unhelpful this week in terms of giving us any guidance on where rates are going, and that's because he doesn't know we are actually at a point where the next decision could go either way, so you can talk about what you don't know and there is genuinely a lot of uncertainty and the fact that we had dissents from his colleagues in both sides, some who didn't want to cut this this week."
+NEUT1|So we wanted to cut more.
+NEUT2|I think underlines that point, but but I think more broadly speaking, yes, he's probably learned in the last year that efforts to try and elaborate and shed light on what he's planning to do.
+NEUT3|They can come back and haunt him, you know, because if markets don't like what he says, sometimes it's not taking the right way.
+NEUT4|Sometimes it's he has to change his mind because the facts change.
+NEUT5|And honestly the less of that guidance you give, you know the less risk you take in that direction.
+NEUT6|I mean my my young Wall Street days.
+NEUT7|I remember the Greenspan briefcase indicator.
+NEUT8|I mean, there was a time when people kind of looked towards their own interpretations of the Fed.
+NEUT9|What it might do in markets seem to function OK. Obviously there were.
+BEAR10|There were bumps in the road, but is it a situation where the markets are OK?
+NEUT11|With maybe not knowing as much and trying to figure it out on their own well, I think so.
+NEUT12|I mean, there were special circumstances in the last five or six years that sort of led to this radical transparency when the federal funds rate was zero and the Fed really didn't have many tools to help the economy.
+NEUT13|Talking more explicitly about how they're going to keep rates at zero for very long time, or only raise them slowly was one way of keeping long term rates under control.
+NEUT14|So in some sense it was a necessary, you know, adjunct to their policy toolkit.
+NEUT15|We're not in that situation any longer.
+NEUT16|There's room to cut rates if they need to.
+NEUT17|The other thing is that there's been stuff going on in the background, so they now have, as you know, the notorious dot plot.
+NEUT18|So in the name of transparency, which every central bank seems to believe in their telling us what the path is for how officials think policy is going to move in the next year or two.
+NEUT19|I know there are real mixed feelings within the Fed about that, but it is what it is and it forces the Fed or or Powell basically have some sort of commentary about exactly whether or not he's going to be following that path.
+NEUT20|So there's a path.
+NEUT21|And it might be known it might not be known.
+NEUT22|Here's the thing over the last maybe two weeks, I've heard the two words put together a lot loste control in the context of the Fed has lossed control of the interest rate market.
+BEAR23|Is this a situation where you believe that the Fed has lossed control of the interest rate market an?
+NEUT24|If so, is communication the way to solve that?
+NEUT25|Not at all.
+NEUT26|I think there's two separate issues here.
+NEUT27|Going on when people have talked about the Fed losing control, they mean over the.
+NEUT28|Supply and demand for cash in the money market so that the actual interest rate that dealers and others are paying goes to where the Fed is targeting the right.
+NEUT29|That's a completely separate issue.
+NEUT30|The broader issue I think you're talking about is a Fed guiding the overall markets on the appropriate direction for where it wants monetary policy to go, and I think that the Fed in some sense doesn't necessarily want it to tell the market where to go.
+NEUT31|It actually wants to know what the market thinks.
+NEUT32|If the Fed talks too much, it ends up just looking in the mirror.
+NEUT33|It sees what the market thinks the Fed wants to do rather than what the market wants.
+NEUT34|Stepping back a little bit actually turns the market into a bit more of an independent signal about what it's going to do.
+NEUT35|"And by the way, the fact that we saw bond yields do this gigantic U turn in the last month with virtually nothing happened in the United States tells you that trying too hard to control where the bond market can go is a fools game, 'cause you may not fully understand why it's going up or down."""

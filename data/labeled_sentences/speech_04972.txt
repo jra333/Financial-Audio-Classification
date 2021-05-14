@@ -1,0 +1,14 @@
+NEUT0|"""January 25th 2021."
+NEUT1|Updated January 25th, 2020 one 12:09 PM accompanied by her security detail.
+NEUT2|Speaker of the House Nancy Pelosi D Kalaf leaves her office and walks to the House chamber at the US Capitol on January 21st, 2021 in Washington DC.
+NEUT3|Drew Angerer, Getty Images.
+BULL4|House Speaker Nancy Pelosi looks to be investing big on Tesla and Disney Business Insider reports that the California politician bought 25 call options.
+NEUT5|The option to buy stuck within a certain time frame for Tesla on December 22nd, giving her the option to buy 2500 shares at $500.00 each, according to financial disclosures.
+NEUT6|She is also looking into Walt Disney Company and Apple stocks purchasing 100 call options for each company at $100 each on the same day moves that cost up to $1,000,000 and up to $500,000, respectively.
+NEUT7|There is the possibility that her husband, businessman and investor Paul Pelosi.
+NEUT8|Purchased the options.
+NEUT9|While these bets may not belong to Pelosi, lawmakers are required to report any investments belonging to them, their spouses or any dependent children.
+NEUT10|Barons, reports the call options are set to expire in early 2022. Business Insider knowledge.
+BULL11|Make us some challenges to her lawmaking decisions as she is now invested in Tesla's success and has the capacity to influence legislation.
+NEUT12|She also disclosed the purchase of 20,000 shares, AllianceBernstein $1,000,000 last month.
+NEUT13|"$7 million there is reported."""

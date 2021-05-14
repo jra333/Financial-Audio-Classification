@@ -1,0 +1,49 @@
+NEUT0|"""The intrinsic value of vertexes ranged between $5.35 per share, an negative $8.58 per share."
+NEUT1|How were these values calculated?
+NEUT2|Paying $5.35 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $5.35 in cash and cash equivalents.
+NEUT4|Now the high end for our our intrinsic value range.
+NEUT5|Really.
+NEUT6|There is no payment that we would have to do as a matter of fact, vertex would have to pay us.
+NEUT7|$8.58 per share in order to make a transaction happen.
+NEUT8|Now this is simply a function of their median 10 year net profits.
+BEAR9|As you can see, seven of the last 10 years they have posted negative earnings.
+BEAR10|This is not good for vertex, especially in light of the value investing framework that Benjamin Graham is laid out before us in the 1930s and 40s.
+NEUT11|Benjamin Graham specifically mentions he says he writes to be wary of companies that post.
+BEAR12|You know, even one year of negative earnings, but in the last 10, the median is such that it's negative.
+NEUT13|$112 million of net earnings.
+NEUT14|So who are we to assume that the next 10 years are going to be any different than this figure here?
+NEUT15|Therefore, the high end is really incredibly low, so if we're going to compare this to a share price, it's not going to make any sense.
+NEUT16|But let's just take a look at market folly and see what what the market has to say.
+NEUT17|You know the markets knocking on our door right now and they're offering a vertex for sale.
+NEUT18|Well, what's the price for vertex?
+NEUT19|And look at this $209.95.
+NEUT20|Does that make any sense?
+NEUT21|I mean nothing against Vertex Pharmaceuticals or their products, but I mean the price itself is just.
+NEUT22|It's nonsensical.
+NEUT23|What is it based off of?
+NEUT24|PE ratio is .56 above where where it should be in order for for further investigation to be warranted, at least from a fundamental analysis perspective.
+NEUT25|But $209 and just compare that to their net profit that net profit.
+BEAR26|Is very low, it's negative, it's just.
+NEUT27|It's not.
+NEUT28|You know when I see something like this it's very easy for me to reject and hopefully you share the sentiment because you can see the reasoning you see.
+NEUT29|The relationship between the share price and you know their actual fundamentals.
+NEUT30|I mean, we're taking a look here at their ten year cash balance and their ten year net profit margin.
+NEUT31|And that's where we're getting the intrinsic value range from.
+NEUT32|So the reasonable thing here would be to reject because they're neither offering a safety of principle.
+NEUT33|Nor an ample margin of safety for our investment.
+NEUT34|However, if we're considering a binary decision such that it's either an investment in Vertex Pharmaceuticals or some alternative, then that alternative should be the Vanguard 500 index fund.
+NEUT35|Now this is the same fund that Warren Buffett used to beat out the hedge fund guys in 2008.
+NEUT36|He officially won the bet in 2018, and the bet was simple.
+BULL37|It's just he parked a boatload of money in the in this fund, and he said, I bet you'll get a better return than you guys can hedging.
+NEUT38|You're hedging your risk.
+NEUT39|And they tried and tried and he eventually started winning in the 4th year and he never stopped winning since that year.
+NEUT40|So I suggest that you guys invest your parking money here.
+NEUT41|Don't leave it in a bank 'cause it'll get a higher return.
+NEUT42|It'll be more productive in this index fund then in your bank and your savings account, an especially the vertex pharmaceutical stock.
+NEUT43|Don't invest until these guys start posting some positive net earnings.
+NEUT44|I mean, you want to see at least 10 years, a 10 year history of positive net.
+NEUT45|Net earnings guys, if you got any value from this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance so that way your investment performance is optimized.
+NEUT46|Remember when your investment performance is optimized so wish you well production.
+NEUT47|I'll see you in the next video.
+NEUT48|"Value investors."""

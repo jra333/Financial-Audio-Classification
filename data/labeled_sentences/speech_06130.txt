@@ -1,0 +1,44 @@
+NEUT0|"""Trillion dollars, what do you do?"
+NEUT1|Don't do it.
+NEUT2|Don't do it, don't.
+NEUT3|So what do you?
+NEUT4|What do you do?
+NEUT5|Don't cut taxes.
+NEUT6|The whole point of cutting taxes to reduce the tax burden, not to replace one tax with the cutting taxes with a brand new tax like you also believe in revenue neutrality, so you know I don't believe in revenue neutrality in the sense of thinking that if you were, say, reduce the corporate tax rate, you make an investment in new plant the plants going to be on line overnight.
+NEUT7|No, it takes 2-3 or four years down the road.
+NEUT8|Key thing is reduced.
+NEUT9|The burdens, get the obstacles out of the way to get the economy growing.
+BULL10|Not only will you see better equity values, but the assets of the nation will grow back.
+BULL11|In the 1980s, people forget the national debt thanks to the defense buildup went up $1.7 trillion more than doubled.
+NEUT12|The net wealth of the nation went up $17 trillion, so the Republicans are now proposing this crazy tax.
+BEAR13|They're going to punish American consumers over $100 billion a year, give subsidies to Boeing and GE.
+BULL14|So we're going to help foreign consumers in China and Iran.
+NEUT15|Punish American consumers, it's insane.
+NEUT16|Which is really think.
+NEUT17|But these are Republicans doing it.
+NEUT18|No, you don't buy this notion that the dollar will rise, and so therefore also now these Washington politicians are now becoming a currency swap.
+BEAR19|Traders and experts is preposterous.
+NEUT20|So we're going to manipulate the dollar so you don't feel the fact that your gallon of gasoline is going to go up $0.30 a gallon, which is what it will if they put in this a border tax.
+NEUT21|So, and you put.
+NEUT22|Plus, if you want to get a quick tax cut, introducing a whole new tax that people haven't thought through, people forget in Washington.
+NEUT23|We have these elaborate global supply change.
+BEAR24|You're going to disrupt all of that and you don't know what the consequences are.
+BEAR25|See if you mention that consumers will get hurt by this.
+NEUT26|This sort of measure.
+NEUT27|I mean, is there though, a bit of a 0 sum game to play here and does the Trump administration have a mandate to deliver it in terms of implementing some form of protectionist measure?
+BULL28|Yes, it will hurt consumers, but it will help workers.
+NEUT29|On the flip side, and is that a trade that he has a mandate to deliver on the people who would be hurt the most working families?
+NEUT30|Middle class Americans are the ones who elected Donald Trump.
+NEUT31|So the first thing the Trump administration is going to do is hurt those very people or struggling anyway, no, economically it's wrong.
+NEUT32|Politically it's wrong.
+NEUT33|And if you have problems on trade, you want to go after specific companies.
+NEUT34|If you want to enforce the rules that we have on the books, now we have a lot of remedies now or you think you have need new remedies and put it before Congress and get it passed.
+NEUT35|But the sweeping thing in these taxes?
+BEAR36|What's bad about this tax is we've seen in Europe and elsewhere.
+NEUT37|They're embedded in prices.
+NEUT38|You don't see it directly like you do a sales tax.
+NEUT39|So it's very easy to raise.
+NEUT40|Hey there, thanks for checking out CNBC on YouTube.
+NEUT41|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT42|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL43|"Thanks for watching."""

@@ -1,0 +1,8 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instruments is the Walt Disney Company stock, which is traded in the New York Stock Exchange under the ticker DIS.
+BULL3|As we are getting closer to the end of the year 2020, Disney shows quite strong bullish signals by gaping up $12.00 and continue in setting up a new all time highs.
+BULL4|With an enlarging list of countries extending their stay at home policies for another two weeks or so, Disney is projected to dominate streaming.
+NEUT5|Given a carts to Blanche to the balls, with sellers risking to lose control for awhile.
+NEUT6|Thank you for watching AAA trades intraday technical analysis from all of us here.
+BULL7|"I wish you a good day ahead, and as always, a successful and responsible trading."""

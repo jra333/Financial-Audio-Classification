@@ -1,0 +1,20 @@
+BEAR0|"""Are investors finally falling in love with what is often called the most hated bull market run in history?"
+BEAR1|Global equities have been climbing for much of the year and there are now mounting signs that investors are beginning to shed some of the inhibitions they've lingered since the financial crisis.
+BULL2|Looking under the hood of the recent rally and several positive trends become apparent.
+BULL3|Small cap stocks have recovered their vem, a growth sensitive high beta shares have recently outperformed more solid defensive ones.
+BULL4|This optimism is particularly apparent in the US with cyclical industry like financials, energy materials and industrials, have all outperformed some of the more defensive sectors, such as utilities, real estate, and consumer staples.
+BULL5|Over the past month.
+BEAR6|But it is the international backdrop that is slowly eroding the pervasive skepticism those characterized the post crisis rally.
+BEAR7|Bank of America notes that the variability of economic growth across 45 major countries is running at the lowest in at least half a century.
+NEUT8|In other words, the global economy is swimming forward in a leisurely pleasingly synchronized fashion.
+BULL9|And that is reflected in robust global corporate profit growth this year and expectations for a positive earnings season which starts in the US this week.
+BEAR10|Analysts expectations for US profits have been muted by the recent hurricanes, but that just lowers the hurdle for companies to surmount.
+NEUT11|Of course, the seeds of a correction are probably now being sown.
+BULL12|The synchronized global economic expansion and budding optimism ratchets up the likelihood of tighter monetary policy.
+NEUT13|Low interest rates remain.
+NEUT14|One of the most important foundation stones that the stock market rally rests on.
+NEUT15|And there are no shortage of other known and Noble risks out there.
+BULL16|For now, investors appear to be grudgingly learning to stop worrying and love the rally.
+NEUT17|With John Templeton observed.
+NEUT18|Bull markets are born on pessimism, grown skepticism, mature on optimism and die on euphoria.
+NEUT19|"We made last be approaching that final stage."""

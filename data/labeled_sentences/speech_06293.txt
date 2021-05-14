@@ -1,0 +1,31 @@
+BULL0|"""Is a booming stock market good for American workers?"
+NEUT1|Contrary to what some politicians say, it is big time.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to navigate these turbulent times.
+BEAR3|In a speech, the other day, presumptive Democratic nominee Joe Biden denounced what he called shareholder capitalism.
+NEUT4|The assumption was that healthy stocks come at the expense of American workers.
+NEUT5|That's just nonsense.
+BEAR6|The stock market is like a weather barometer, weak stock market signals economic trouble as investors sense that business revenue and profits will be declining, which means layoffs and salary cuts.
+BEAR7|Stocks tanked in 2007, 2008.
+BEAR8|And months later, we're in the Great Recession.
+BEAR9|Stocks collapsed in February and early March this year as a coronavirus crisis loomed, they began recovering a few weeks later when it appeared the economy was starting to emerge from the lockdowns.
+BEAR10|Stocks went down yesterday when California made its announcement on schools, which did not bode well for the economy there.
+NEUT11|But the stock market means more than current and future economic conditions.
+NEUT12|It's also about what kind of retirement you will have over 100,000,000 Americans have over $9 trillion invested in 401K's, IR A's, and other similar types of plans.
+BEAR13|If stocks go down, that means fewer retirement dollars for Americans.
+NEUT14|Also, there are additional trillions of dollars and other kinds of pension plans, especially for state and local government workers.
+NEUT15|Again, most of that money is invested in equities.
+BEAR16|If the market does badly overtime, those pension benefits will be in trouble.
+NEUT17|The same fact holds true for endowment funds for colleges, foundations, and cultural institutions like Museums Joe Biden and the extremists advising him refused to recognize that we're truly helps working people is not bad mouthing the stock market, but rather a booming economy, which is what we're getting before the covid crisis.
+NEUT18|Shut it all down.
+BEAR19|We had record, low unemployment wages were rising, especially for lower income Americans.
+BULL20|No wonder stocks were doing so well, fueling this boom.
+NEUT21|With lower taxes and fewer unnecessary rules and regulations that were crushing companies, particularly smaller ones.
+BULL22|But Biden is proposing to do the opposite by sharply raising taxes and imposing new burdens on firms.
+NEUT23|Sort of the economic equivalent of what doctors used to do to patients and days of old.
+NEUT24|They bleed them, and then wonder why the patients died.
+NEUT25|We need the right prescriptions for what ails us, not quack economic remedies that never work, and then trying to shift the blame.
+NEUT26|To the stock market.
+NEUT27|I'm Steve Forbes.
+BULL28|Thanks for listening.
+NEUT29|Do send in your comments and suggestions.
+BULL30|"I look forward to talking to you soon again."""

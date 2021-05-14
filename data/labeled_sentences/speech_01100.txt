@@ -1,0 +1,41 @@
+NEUT0|"""Alright, welcome back it is time now for the traders to answer your questions."
+NEUT1|Alright, let's do it.
+NEUT2|First up for Stephanie.
+NEUT3|What is a better bank to own right now?
+NEUT4|Step Bank of America or Citigroup?
+NEUT5|Well, I own Bank of America but I have my own city.
+BULL6|In the past I think the execution is far better at Bank of America, even though the stock is more expensive at 12 times earnings, .9 times price to book.
+BULL7|That compares to 10 times earnings at Citigroup.
+NEUT8|In .6 times.
+NEUT9|Price to book such City is cheap but I think cheap for a reason.
+BULL10|I like the execution better and also the responsible growth strategy outlined by the CEO.
+NEUT11|All right, Next up Joe in New Jersey asks Pete is Best Buy a buy, sell or hold.
+NEUT12|I view it as a bit of a buy.
+BULL13|Still Brian, I understand the cautiousness that they put out there, but when you look at the digital growth and I think that will continue for the next couple of quarters, yes, their margins might come in a little bit because of the fact they're going to be bringing back employees a little bit more as they reopen and continue to open up stores.
+NEUT14|And they alluded to that.
+BULL15|But I think the digital sales are going to continue to be very strong.
+BULL16|They might not be 240%, but I think they'll be very, very strong.
+NEUT17|It still trades relatively inexpensively.
+NEUT18|I view this pullback right now today as an opportunity, so I may be owning this stock before the end of the day.
+NEUT19|Alright, for Michael Farr, Mark in Atlanta wants to know your position, if any, on a censure.
+NEUT20|Mark, I like this company.
+NEUT21|I think it's a little bit pricey now.
+NEUT22|It's of course a big consulting company professional services company in the tech and information tech communication space.
+BULL23|Good company, you know 8 to 10% earnings growth.
+NEUT24|I don't think it's cheap here, but I own it.
+NEUT25|I'm going to hold it.
+NEUT26|I'd buy it on a pullback.
+NEUT27|One point 3% dividend.
+NEUT28|The secret behind this company in my opinion, is Julie Sweet.
+NEUT29|She's the CEO, one of the most remarkable leaders I've met at a Fortune 500 companies.
+BULL30|She is outstanding.
+NEUT31|An I think is the secret weapon at Accenture.
+BULL32|Alright, and Josh Brown KERA in New York says I'm looking for a stable stock with good dividends.
+NEUT33|Do you recommend either Verizon or AT&T?
+NEUT34|Verizon, I own it.
+BULL35|It's about to break out of an all time record high from back in December 2019.
+NEUT36|Pays a 4% yield.
+NEUT37|You could set your watch by 12 times earnings in dispensable business, broadband, cellular, communications.
+BULL38|We've learned this year.
+NEUT39|We can't really live without any of them for even 5 minutes.
+NEUT40|"I would close my eyes and buy the stock right now."""

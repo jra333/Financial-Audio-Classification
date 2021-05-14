@@ -1,0 +1,30 @@
+NEUT0|"""I want to shift back over to that other story we're watching, breaking news as we are hearing from Treasury Secretary Janet Yellen."
+NEUT1|More about what she's expected to say in her address.
+NEUT2|For more on that when I get young finances fed Reporter Brian Chung, who has the latest for us, right?
+BULL3|Good morning, Zach.
+NEUT4|Will Janet Yellen again?
+NEUT5|The Treasury Secretary beginning her remarks at the Chicago Council on Global Affairs.
+NEUT6|The headlines, just breaking.
+BEAR7|She kicked off her speech by criticizing the Trump administration, saying that over the last four years the Trump administration isolated the United States, an retreated from the international order that the US created.
+BULL8|She said that the interconnected world is something that she hopes to build as Treasury Secretary.
+NEUT9|She wants to stop what she called a race to the bottom when it comes to corporate taxes, she said, quote.
+BULL10|We are working with G20 nations to agree to a global minimum corporate tax rate that can stop the race to the bottom.
+NEUT11|Together we can use a global minimum tax to make sure the global economy thrives based on a more level playing field in the taxation of multinational corporations and Spurs, innovation, growth and prosperity.
+NEUT12|So no more detail beyond that.
+NEUT13|It's not like Janet Yellen had a bright line test for what the minimum global corporate tax rate should be, although the bite administration has been talking domestically about maybe lowering the corporate tax rate to something like.
+BULL14|28% this is going to be very important in terms of this posturing.
+NEUT15|In her first major public speech directed at international policy because she's headed into a number of meetings as part of the International Monetary Fund and World Bank Spring Meetings which are taking place this week.
+NEUT16|A few other points I want to highlight before I toss it back over to you.
+NEUT17|She talked about the economic relationship with China.
+BULL18|Obviously a very big focal point after the US China Trade War under the last administration, she said quote, but you know, the US will be competitive where it should be collaborative where it can be.
+NEUT19|An adverse aerial where it must be so very interesting to see her use of word adverse aerial, not necessarily a light stance on their approach to China, but saying they do want to create some sort of competitive dynamic between the two.
+NEUT20|And then of course she said she is prioritizing domestic policy and that stimulus is a step as we saw from that last $1.9 trillion, but that the next step will be the infrastructure plan that the Biden administration has been teeing up over the last few weeks.
+NEUT21|And of course, Yellen, saying she's also going to prioritize any sort of fiscal policy's towards.
+BULL22|Creating a more equal economy, especially for the women and the minorities that have been so disproportionately impacted.
+NEUT23|But again, those remarks now just beginning on the Chicago Council on Global Affairs.
+NEUT24|But those the big headlines from the Treasury Secretary this morning.
+NEUT25|Alright, Brian Chung.
+NEUT26|Bring us the latest there.
+NEUT27|Appreciate that.
+BULL28|Interesting to see it all timed up with expected increases in corporate tax rates.
+NEUT29|"Back here at home."""

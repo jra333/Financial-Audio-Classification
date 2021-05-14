@@ -1,0 +1,8 @@
+NEUT0|"""This week, keep an eye out for Tesla."
+BEAR1|It's one of those stocks that's been on the decline over the last month.
+BEAR2|As we've seen an overall sell off in tech and high growth names.
+NEUT3|GameStop it's still a favorite meme.
+NEUT4|Stock of wallstreetbets.
+BULL5|The company is getting serious about its e-commerce initiatives, an video game developer.
+NEUT6|Roblox will go public this week listing directly on the New York Stock Exchange.
+NEUT7|"It will trade under the ticker symbol RBLX"""

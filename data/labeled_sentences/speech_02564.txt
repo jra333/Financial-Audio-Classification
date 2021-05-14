@@ -1,0 +1,14 @@
+NEUT0|"""From the FT in London, here's the latest on markets."
+BEAR1|All traders want for Christmas is for the Dow Jones industrial average to hit 20,000 for the first time, but they're being repeatedly frustrated.
+BEAR2|Yesterday got close, but not quite there.
+NEUT3|The obsession with round numbers is a bit of a gimmick, but it does have a serious point.
+BEAR4|Options and orders tend to cluster around eyecatching figures, so there's money to be made or lost.
+BEAR5|European stocks, Meanwhile, are looking sleepy.
+NEUT6|News came from Sweden, where the central bank held.
+BEAR7|Interest rates in the deep freeze at minus 0.5% but followed through on warnings.
+BULL8|It would extend bond purchases.
+BULL9|They will now run through the first half of next year, but it was a split decision and with the economy upbeat, even though inflation is drab, something the central bank is running out of enthusiasm for further easing in European banks.
+BEAR10|Tillys Monte Passkey shares are getting clobbered yet again amid fresh concerns about its liquidity position, while Spanish banks are also sinking after a surprisingly adverse court ruling on mortgage clauses.
+NEUT11|That's it for the year from the market.
+NEUT12|Minute team from all of us.
+BULL13|"Merry Christmas."""

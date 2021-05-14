@@ -1,0 +1,15 @@
+NEUT0|"""Hello, welcome to today's technical analysis for February 10th, 2016."
+NEUT1|I'm Celina necklace technical analyst thetics, m.com.
+NEUT2|Today we will look at the euro versus Japanese yen on the daily chart.
+BEAR3|Euro JPY is falling in the descending channel since early June 2015, when the pair fell from a high of 141.04 down to a low of 126.15.
+BEAR4|After touching the Sloan January 21st, there was an attempt to rally to a high of 132.29, but resistance was found at the 100 day moving average.
+NEUT5|This is the red line.
+BEAR6|Subsequently the pair reverse back down to fold below the key 130 level psychological level with the important 130 level is now turned into resistance and prices are testing.
+NEUT7|This level should prices fail to break above an.
+BEAR8|If there's a daily close below this level, then the market could be headed towards testing the lower trendline support of the channel below 126.
+BEAR9|Mctee is in bearish territory, but approaching the zero line.
+BULL10|A move above 0 could give some upside momentum to price.
+BULL11|Is a recovery back.
+BULL12|Above 130 is likely to lift euro JPY back towards resistance, and it comes in at the 50 day moving average around 1:30, Point 50 and then next resistance at the 100 day.
+BEAR13|Around 1:32 but if prices remain within the boundaries of the upper trendline of the channel, than the bias remains bearish, and prices will continue to fall in this descending channel.
+BULL14|"Thank you for watching, and have a great day."""

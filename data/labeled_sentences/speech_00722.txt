@@ -1,0 +1,13 @@
+NEUT0|"""Hey Bow Tie Nation going to do a one minute Tesla stock analysis for our shorts video today."
+NEUT1|So here we go.
+BULL2|Shares have been on a wild ride up 371% over the last year, though they have been facing that weakness around the earnings reports, so make sure you watch every time they report earnings.
+NEUT3|It's trading for 318 times on that trailing earnings basis, but for these growth stocks like this, you've also got a look at that earnings growth.
+BULL4|These are expected up 84% to $4.33 per share for Tesla, so on that price to earnings, the gross ratio.
+NEUT5|It's only at one point.
+NEUT6|Two times which analysts have an average price target of $608.00 per share.
+NEUT7|Though the high is around 12:40, so quite a range in those price estimates.
+BEAR8|The semi conductor shortage this year could hurt production.
+NEUT9|So be watching for an announcement that they might have to slow down a little bit.
+BULL10|I still think they can hit 850,000 cars sold this year, which would be 70% more than last year.
+BULL11|Now for our profitability jumped over the last year to an operating margin of six point 3%.
+BULL12|"So I would be a buyer on any dips here."""

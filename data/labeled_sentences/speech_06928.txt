@@ -1,0 +1,41 @@
+NEUT0|"""We don't go out and get situated."
+NEUT1|This is the finance program and we always like to see new faces.
+NEUT2|When you come to Wall Street financial literacy class, you're going to see people with tattoos and dreads and just people you normally wouldn't expect to see.
+NEUT3|Learning finance.
+NEUT4|You're going to see people of all different backgrounds looking for hope.
+NEUT5|He makes it universal.
+NEUT6|If I tell you, I'll give you 50 bucks, but I want you to pay me back.
+NEUT7|$50 in interest.
+NEUT8|What you're going to say?
+NEUT9|So now you gonna say what and why you're going to say no.
+NEUT10|They call me Wall Street because I teach all of the financial classes here at San Quentin, and I've been teaching financial education for about 10 years now.
+NEUT11|I am in prison for participating in a robbery murder and I was sentenced to 54 years to life in prison for that crime and I've been incarcerated for 22 years.
+NEUT12|These are the stocks that I picked.
+NEUT13|The MasterCard.
+BEAR14|I got 89 there at 200, most became the prison illiterate.
+NEUT15|He doesn't have a college education to this day.
+NEUT16|He only has a GD.
+NEUT17|And yet this guy is successfully trading from prison Micelli who had come from juvenile Hall with me.
+NEUT18|He would read the sports page simple.
+NEUT19|I mean go get it and I read it.
+NEUT20|I grabbed the paper and I was like I got it when I turned around on order, Guy said hey man, you play the stock market and I've realized that I picked up the business section instead of sports page like I mean.
+NEUT21|And I asked him what the stock market was and he told me he said that's the place where white folks keep all their money and that's when I really first discovered the stock market.
+NEUT22|So I started teaching myself how to read family or friends on the outside, opened up online brokers accounts and I basically told him what the buying when the buyer, when the sale.
+NEUT23|And I mean I was just simply because it was really just that easy.
+NEUT24|This is the finance program.
+NEUT25|But I don't teach about finance.
+NEUT26|I teach financial empowerment, emotional literacy.
+NEUT27|That's what I teach.
+NEUT28|So I think financial education is important for incarcerated people.
+NEUT29|Given that the crimes that are committed are financially motivated and driven.
+NEUT30|When I learned about financial education myself, I'm I thought that would be something that other men in my same situation could benefit from.
+NEUT31|And so now the program teaches incarcerated men how to better manage their emotions, an relations to their financial standing.
+NEUT32|So you gotta weigh your strategies when you're talking about giving yourself room to start saving money.
+NEUT33|When you're traumatized, you do a lot of things.
+NEUT34|You don't know why you're doing them, and that happens with finance too.
+NEUT35|I suffered a lot of trauma in my life and my trauma like culminated in me murdering a man.
+NEUT36|So while this is very important to me because I do need to manage my money and manage my life, what's most important is that I'm managing my emotional responsibilities because the last time I didn't do that, a man lost his life.
+NEUT37|I don't think you can have for rehabilitation without financial education.
+NEUT38|I can make amends for the crimes that I've done.
+NEUT39|I can even stop doing the things that I've done, but I think for people who were criminals when you empower those people and they know that they don't have to commit crime like I did when I learned I have to commit crime.
+NEUT40|"It was like, wow, like I can really make something my life and I have to be a criminal."""

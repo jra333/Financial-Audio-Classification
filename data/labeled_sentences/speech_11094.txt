@@ -1,0 +1,19 @@
+NEUT0|"""Neo stock analysis and predictions, January 8th."
+NEUT1|In today's NEO stock analysis and predictions, Anio's next move Australia.
+NEUT2|Alright, let's get started when it comes to electric vehicle manufacturers, NIO is fast becoming a global household that people are starting to recognize.
+BULL3|Since NIO was first listed on the United States Stock Exchange, the stock has grown from $6 to $53.51 last year.
+BULL4|The stock has seen an increase of 1112% while announcing profit gains of $666.66 million.
+BULL5|In 2020 quarter, Boros was rated one of the most popular stocks on Wall Street, with traded volumes equaling 280,000,000 shares a month.
+BULL6|Currently, NIO has seen a growth spurt of 27,190% when compared to 2019's traded volumes.
+BULL7|Australia expansion, according to the Wall Street Journal, the need for electric vehicles has expanded to Australia.
+BULL8|Australia is expected to see a 40% increase in electric vehicle use this year alone, according to sources, NIO representatives are in talks with Australian officials to deliver 3000 Childs to Australia.
+BULL9|In the next four months, EV sales in Australia doubled in 2019.
+BULL10|This year sales are set to quadruple due to Australia's new EV policies.
+NEUT11|The Australian government currently has room to build upon its EV sector with a future fuel strategy document.
+NEUT12|This document will grant consumers financial incentives if they want to purchase an electric child in the future.
+NEUT13|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT14|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT15|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL16|We'd really appreciate it.
+NEUT17|Are you still watching and want more?
+NEUT18|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

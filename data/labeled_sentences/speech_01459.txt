@@ -1,0 +1,17 @@
+NEUT0|"""Welcome to our channel."
+NEUT1|Today we will talk about the Berkshire Hathaway and we will see what are the stocks that the company sold in March.
+NEUT2|Berkshire Hathaway Incorporated is a holding company organized around six areas of activity, insurance and reinsurance, manufacturing of industrial products and building materials.
+NEUT3|Wholesale distribution of grocery, food, and nonfood products, railroad merchandise, transportation, production and distribution of electricity and gas, and others.
+NEUT4|Let's see the detail of these activities of 2019, making a comparison with the previous year.
+NEUT5|I May 15th the Berkshire Hathaway released its 13 F report.
+NEUT6|Don't you know what their team F report is?
+NEUT7|It is a quarterly report that all institutional investors with at least $100 million in assets under management must be provided to the competent agencies.
+NEUT8|Let's find out what are the stocks that Warren Buffett liquidated in March.
+NEUT9|There are important news that we would not have expected.
+BEAR10|It was easy to expect a drop in positions for travel sector securities with a drop in shares for TRV and Delta Airlines, for example, the strong sale of Phillips and Goldman Sachs and the reduction on JP Morgan were completely unexpected.
+NEUT11|In the coming days we will analyze these stocks to understand the causes of the sale.
+NEUT12|If you enjoyed this video or you found it helpful then Please remember to leave a like on it based on the results, we will define the next contents.
+NEUT13|Thank you for watching.
+NEUT14|Can I come smart investing group?
+NEUT15|Join us on canicome.com.
+NEUT16|"Don't miss our previous videos, good vision and enjoy."""

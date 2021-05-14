@@ -1,0 +1,19 @@
+NEUT0|"""Welcome to xm.com."
+NEUT1|This is the daily market common by Rafiqui Etienne.
+NEUT2|I'm Christina marruecos.
+BULL3|European Union leaders ended a marathon summit on Tuesday with a classic fudge as a compromise deal that significantly watersdown the original plan of a €750 billion rescue package finally got the backing of the frugal nations.
+BULL4|After hitting Fresh Four month highs earlier today, the euro became the victim of by the rumor sell the fact falling on the announcement, but has since picked up some momentum.
+BULL5|European stocks also cheered the much anticipated fiscal boost for the euro area economy, adding to the positive sentiment were more encouraging headlines for a Corona virus vaccine and treatment.
+BULL6|All this Boyd Wall Street to fresh highs.
+BEAR7|Sending the NASDAQ to a record close.
+BULL8|The SMP 500 hit a five month high, but the Dow Jones.
+BULL9|Lagged amid some caution for traditional stocks, as the earnings releases pick up pace this week, Coca Cola and United Airlines are due to report the results later today and E Mini futures were pointing to a higher open with the recent bouts of risk off proving short lived, it seems there's little that condense the underlying optimism that's being fed by expectations of more stimulus.
+BEAR10|However, the next round of fiscal stimulus in the United States could prove trickier than the previous relief bills, as both the Republicans and Democrats will have the November presidential election in mind.
+BEAR11|When making their demands, but with the negotiations coinciding with the earnings season the next couple of weeks could be quite bumpy for Wall Street.
+NEUT12|In the meantime, the only way is up for gold.
+BULL13|The precious metal has been benefiting from the recent resurgence of virus cases, but also from the Super Low government bond yields, propelling it to 9 year highs.
+BULL14|The weaker greenback has also been supportive of Gold's rally.
+BEAR15|The dollar index slid to four month lows earlier today, way down from a perked up pound.
+BULL16|Sterling is flirting with a $127.00 handle for the first time since mid June on hopes that the latest round of Brexit negotiations taking place in London this week bear some fruit.
+BEAR17|However, a deal remains far off given the significant differences on several issues, and the pound could just be setting itself up for a big fall.
+NEUT18|"Thanks for watching today's Daily Market comment at xm.com."""

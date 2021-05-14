@@ -1,0 +1,25 @@
+NEUT0|"""All right, welcome to PJ TV series on Henry Hazlitt's definitive book Economics in one lesson."
+NEUT1|This book is one of the best books out there for describing economic concepts in a way that are easily understood, so we thought we'd try to bring some of these lessons to you here with your own Brook president of the Iran Center for Individual Rights, and Terry Jones, associate editor for investors.
+NEUT2|Business daily, I mean Castle Clunkers classic.
+BULL3|Mom people felt good about buying cars.
+NEUT4|You're wrong, they did, but they had to destroy something in order to get there somehow.
+NEUT5|This is economic activity.
+NEUT6|Yes, government taxes.
+NEUT7|You takes money out of circulation.
+NEUT8|And extends credit to somebody else.
+BEAR9|It's a bad idea, and it lowers the overall productivity of our economy.
+NEUT10|Build this bridge the money to pay for these workers has to come from somewhere one way or the other.
+NEUT11|It comes from tax profits or what drive future investment standard of living wage increases and hiring people don't realize the wages go up now because the capitalist becomes more generous now because the workers can go on strike and they demand higher wages and they go up because the workers become more productive because of the technology that they have common sense.
+NEUT12|When you lower the price of something.
+NEUT13|You also guess what you lower the supply coming to market.
+BEAR14|Inevitably you're going to end up with shortages.
+NEUT15|There's no free lunch.
+NEUT16|Somebody pays for it and to do economics, right?
+NEUT17|You have to dig deep into the non obvious consequences.
+NEUT18|Economic policy too often is crafted to special interests to getting this done right now and to hell with the future.
+NEUT19|Freedom is the key to job creation, not coming intervention.
+NEUT20|Now go buy it.
+NEUT21|You can find it.
+NEUT22|It's on the web in short order.
+NEUT23|You're going to have all of economics laid out for you by.
+NEUT24|"One really good book and two really smart guys explaining it for you."""

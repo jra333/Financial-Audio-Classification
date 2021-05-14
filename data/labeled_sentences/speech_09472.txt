@@ -1,0 +1,25 @@
+NEUT0|"""Hi in this Bloomberg video tutorial, we're going to show you how to compare company financials using the Bloomberg Terminal."
+NEUT1|Specifically looking at relative valuation, an graph fundamentals.
+NEUT2|After logging on to the Bloomberg Terminal, select your company.
+NEUT3|We will once again be using Amazon, then either type into the search bar relative valuation or type the shortcut.
+NEUT4|RV relative valuation compares the size of your specific company and its competition, as well as those companies performance in regards to stock price and other measurables.
+NEUT5|Once this information displays, there are many options to look through towards the top of the screen we see the listings of the different types of industries associated with your selected company.
+NEUT6|There should also be a space that lets you know the geographic region of the company.
+NEUT7|Getting more in depth into the information, we will look at Amazon's profitability by selecting the comp Sheets tab and then selecting the profitability tab.
+NEUT8|Here you can look at how your company's sales, growth, income growth and profit margins compared to others within the same industry.
+NEUT9|For example, the Bloomberg Terminal shows eBay and Netflix as the primary competitors of Amazon.
+NEUT10|Navigating between these tabs will allow you to compare important statistics and help to formulate a prediction for the company's performance going forward.
+NEUT11|Next, staying within the selected company, we will once again navigate using the search bar to find graph fundamentals or type the shortcut GF.
+NEUT12|Once GF is displayed you will see a chart that has a graph of the five year revenue and earnings per share.
+NEUT13|If you would like to continue comparing companies, add securities by using the company's competitors ticker symbols or look for them in RV comps.
+NEUT14|Once you have the companies you would like to compare, look at the fields column and choose the data points that you wish to highlight.
+NEUT15|Among the options are revenue, an EPS.
+NEUT16|You can browse other options by clicking fields.
+NEUT17|When these are selected, the variables will then be visible in the key stats side of the graph.
+NEUT18|You can change the panels shown in the graphing function to single panel panel per field or panel per security.
+NEUT19|Panel per field is probably the best one to use if you find viable information.
+NEUT20|The best way to save it is by going to the top of your screen to this icon and selecting.
+NEUT21|Grab.
+NEUT22|The Bloomberg Terminal will then prompt you for your email and send the screengrab to you as an attachment like this.
+NEUT23|This method can be used to save in relative valuation in graph fundamentals.
+NEUT24|"To learn more, check out our other Bloomberg Terminal videos or ask a staff member at the Park Library."""

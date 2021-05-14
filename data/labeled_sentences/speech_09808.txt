@@ -1,0 +1,45 @@
+NEUT0|"""Call it meme stocks."
+NEUT1|Call it stonks Elon Musk called game stocks.
+NEUT2|Whatever the name, it is the gamification of stocks.
+BULL3|Companies like GameStop and AMC extending their recent rallies.
+NEUT4|Look at these numbers.
+NEUT5|These are percentage changes for two day 480% for cost, for instance.
+NEUT6|So what's driving GameStop?
+NEUT7|The video game?
+NEUT8|Qaynan movie theater owner?
+BULL9|AMC higher?
+BEAR10|It's not their business which are struggling from the disruption of streaming and the pandemic.
+BEAR11|Instead it is momentum, Yolo and FOMO day traders piling into GameStop have sent that stock.
+BULL12|More than 1000% since December.
+NEUT13|And really you can trace things back to August when Ryan Cohen, formerly CEO Chewy, bought a 10% stake in GameStop and joined the board with plans to turn the company around some on Wall Street.
+NEUT14|Didn't buy into this narrative and started shorting GameStop betting on a price decline.
+NEUT15|Retail Day traders with hours to kill on their Commission.
+NEUT16|Free trading apps.
+BEAR17|Got involved and eventually decided to bully short sellers by pushing the stock price up Cohen's $76 million investment.
+NEUT18|It's now worth 2 billion plus.
+NEUT19|So where does this leave the professional investor?
+NEUT20|Let's ask one, David Neuhauser, chief investment officer at Livermore Partners, joins me now.
+NEUT21|David, always good to speak with you just by way of explanation, you run an alternative asset management firm, which means you often build short positions, betting against individual names as well as long positions.
+BULL22|Betting on a long term rise in the stock.
+NEUT23|Right now are you investing as you normally would?
+NEUT24|Are you stepping back and kind of watching everything because it's so nutty?
+BULL25|Yeah, so thank you for having me Scarlett.
+NEUT26|Right now I'm in more of a wait and see mode.
+NEUT27|You know we're looking at the market and for the past few months I think we've been writing just to our investors saying that this dynamic that's going on the market is unsustainable, and so we're really sitting on our hands in this environment.
+NEUT28|You know, trying to look for value seeking value, but when I see some of the parabolic moves in some of these companies today, it really screams epic bubble and that's we've been telling our clients investors.
+NEUT29|And the way you look at that is, you really have to focus still on, you know the value set that you're focused on or or that's how you focus on your.
+NEUT30|Value opportunities and therefore you sit on your hands.
+NEUT31|OK, so you're professional.
+BULL32|You're going to stay disciplined in all this.
+NEUT33|But The thing is, and this is what surprises me.
+NEUT34|It's not just day traders.
+NEUT35|You've got Elon Musk, for instance, really encouraging this, given his antagonistic history with short sellers, what do you make of that?
+NEUT36|Well, you know it's like he's been antagonistic in the past, as you know, and I think he's got a sort of a cult following.
+NEUT37|That's with Tesla, of course.
+NEUT38|So anytime you have sort of these big name people that are getting behind an idea, it just brings more chaos and it brings more liquidity.
+NEUT39|And it brings more eyes on it.
+NEUT40|So that's what that's what kind of gets the ball rolling.
+NEUT41|So personally, I think you know he's had a questionable past, so I think you gotta be careful there.
+NEUT42|The biggest story is the moment they happen from around the globe.
+NEUT43|Subscribe to Bloomberg.
+NEUT44|"Quicktake now for insight in an instant."""

@@ -1,0 +1,33 @@
+NEUT0|"""So you want to work for Goldman Sachs?"
+NEUT1|It's one of the most elite investment banks in the world and also one of the hardest to get into wooden undergraduates hoping to get hired.
+NEUT2|There need to know one and started start this way, but the odds are against you.
+NEUT3|Goldman says less than 3% of its nearly 100,000 applicants worldwide have been hired as associates.
+NEUT4|The entry level position for grad school grads or analysts entry level for undergraduates on the career section of its website, Goldman shows.
+NEUT5|The caliber of candidate hires people like Travis who studied ethics, politics and economics at Yale.
+NEUT6|When does the process start early offers?
+NEUT7|This year's grads were handed out back in the fall.
+NEUT8|Does having been an intern there help your chances alot?
+NEUT9|A Golden Rep saying our internship programs are the main feeder for our full-time programs.
+NEUT10|Will they look at your grades?
+NEUT11|Of course, Goldman recommends applicants submit their college transcript and their high school S80 scores.
+NEUT12|So what's the next step?
+NEUT13|Getting invited to a first round interview with a Golden representative.
+NEUT14|Those can happen on campus, in person or over the phone.
+BEAR15|Phyllis, A Dartmouth economics major says that during one of the phone interviews I was asked to predict whether the US stock market will open up or down in the next 30 minutes.
+NEUT16|The interviewer telling her later the prediction didn't matter.
+NEUT17|He cared more about my thought process.
+NEUT18|Choose among those lucky enough to be invited to a Super Day.
+NEUT19|What's a super day?
+NEUT20|It's industry jargon for a day packed with two to three rounds of interviews at Goldman.
+NEUT21|These are one on one meetings with employees in a certain division or group.
+NEUT22|Goldman pays the travel costs.
+NEUT23|Any advice most of those offered by Goldman recruiters boils down to four main things.
+NEUT24|One demonstrate interest in Goldman by following the company on Twitter, for example to show knowledge in your area of study, you might be asked in detail about a subject of a college paper.
+NEUT25|You've written 3.
+NEUT26|Show a passion for finance for example.
+NEUT27|Knowing where Goldman Sachs stock is trading on the day is also important for be personable.
+NEUT28|They prefer candidates who come across as natural and not as if they're reciting a pre written script.
+NEUT29|How do you find out if you got the job?
+NEUT30|Goldman says it calls each candidate to extend the offer and the big question, how much will you make Goldman wouldn't divulge what they pay, but experts and sources in the industry say large elite investment banks like Goldman pay in the $70,000 range.
+NEUT31|But you can double that with your bonus.
+NEUT32|"That's the short answer."""

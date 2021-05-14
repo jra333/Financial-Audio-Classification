@@ -1,0 +1,31 @@
+NEUT0|"""We now is Ellen Zentner."
+BULL1|She's chief US economist at Morgan Stanley, elements great to see you again.
+NEUT2|What's your base case?
+BEAR3|Expectation for any kind of tapering right now.
+BULL4|So I think that definitely President Bostic is still in the minority at the FOMC, but definitely expressing more optimism, especially as we've seen the efficacy of the vaccine.
+NEUT5|Now, even with some bottles of it being rolled out on time here in the beginning of that process.
+NEUT6|And so I think at some point, certainly by the middle of this year, we would expect policy makers to sort of coalesce around firming up those discussions of when should they start tapering.
+NEUT7|And so we think that they'll start tapering in the beginning of 2022, which means signaling it at the December meeting.
+NEUT8|And certainly, depending on how the vaccine plays out and how the economic activity rebounds on the other side of that can certainly shade that by a month or two in either direction.
+NEUT9|So to me, Bostick's comments were not that inconsistent with what the market is currently expecting in terms of the timing of tapering.
+NEUT10|What struck me is very surprising.
+NEUT11|Was that he said he wanted to get back to a pre covid balance sheet in short order an it's the pace of that tape rate that I think would be very surprising.
+NEUT12|I mean, it seems impossible that they'll ever be back to a pre covid balance sheet.
+BEAR13|Ellen, let alone in short order, and Loretta Mester of the Cleveland Fed did come out and say she's not expecting a reduction in bond buying until next year.
+NEUT14|So you can see this.
+NEUT15|This battle is already starting to play out.
+BULL16|We are seeing interest rates slightly on the rise.
+NEUT17|You know, with the 10 year today again, emphasize slightly up to about 96 basis points or So what would happen if market started to sniff out?
+NEUT18|That maybe the Fed is going to be under some pressure to turn the dial back more quickly.
+NEUT19|So I think for that for the Fed, the balance sheet is going to actually be very important in terms of anchoring those rate hike expectations.
+NEUT20|They have to not only begin tapering the balance sheet, but finish that process well before they begin raising rates.
+NEUT21|That's the order of operations that is currently in the framework of the Fed and so how long they want to take to taper the balance sheet when they want to start tapering the balance sheet.
+NEUT22|You know that means that they can start to take their foot off the gas.
+NEUT23|Pedal to use a favorite phrase of former Fed chair.
+NEUT24|Yellen's take their foot off the gas pedal but still control rates and rate expectations.
+BEAR25|Because the market is going to not be willing to price in rate hikes until they actually finish tapering.
+NEUT26|And so I think that separation between balance sheet operations and rate hikes is very important for the Fed to maintain.
+BULL27|And I do feel like the market remembers the lesson learned from the taper tantrum, as does the Fed and I do think that they can.
+NEUT28|Successfully separate the two.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

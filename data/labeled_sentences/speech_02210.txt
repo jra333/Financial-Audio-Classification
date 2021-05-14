@@ -1,0 +1,34 @@
+NEUT0|"""How would you describe this topic in one simple, punchy statement?"
+BULL1|The pandemic is a tragedy, but it is also a once in a lifetime chance to rebuild better economies that work for everyone.
+BEAR2|All rich societies have been polarizing for a good four decades.
+BEAR3|Around 1980, the good jobs that were plentiful and available to a lot of people in the past disappeared, in particular factory jobs.
+NEUT4|Globalization is not the big factor here.
+BEAR5|Some factory jobs moved to Asia to other low cost countries.
+BEAR6|Many more were automated away, and the clerical jobs that were lost, your computers, the retail jobs that are lost for online shopping.
+NEUT7|Those have little to do with globalization.
+NEUT8|And a lot to do with technology tax systems have not re distributed as much as before.
+BEAR9|Unions that often kept wages high have been on the decline in one country after another.
+BEAR10|Perhaps the worst effect of all these changes is that entire regions have been left behind because the new good jobs they tend to thrive in the big cities, not in the smaller towns and the rural areas.
+BEAR11|The pandemic hit societies that were already fragile because of this polarization.
+NEUT12|The people in low paid.
+BEAR13|Low productive service jobs are also most exposed to the disease because they have to be physically present.
+BULL14|My hope is that the pandemic can be a catalyst for change.
+BULL15|In the past the deepest crises have also been opportunities for the greatest social improvements in the US.
+NEUT16|The Great Depression led to the New Deal in Europe.
+NEUT17|The shock of the Second World War produced the Post War welfare state.
+NEUT18|We cannot resist technological change.
+NEUT19|We need to embrace new ways of working.
+NEUT20|We can do that by putting much more money into.
+NEUT21|Skills education training to equip people for more advanced, well paid jobs rather than means tested benefits.
+NEUT22|Let's have a universal basic income.
+NEUT23|We need to lower the burden of taxes on labor on work, cutting, income taxes, payroll taxes.
+NEUT24|Any tax that creates a cost for hiring people into better jobs.
+NEUT25|Instead, let's make up the revenue elsewhere.
+NEUT26|Wealth has increased enormously over the last 40 years and is very unequal.
+NEUT27|It's a good thing to tax.
+NEUT28|The other thing we should tax is carbon emissions.
+NEUT29|To help with climate change and penalize polluting behavior, then redistribute that to the whole population so that you help the worst off we need to overcome rising regional inequality within countries.
+NEUT30|And the pandemic is an opportunity for that.
+NEUT31|The shift to remote working we have all experienced gives us a way to imagine how the most modern, highest pain, knowledge jobs could be done from anywhere we have the tools.
+BULL32|And we have the policies to make economies work better for everyone.
+NEUT33|"What we need is the political will."""

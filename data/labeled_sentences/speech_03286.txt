@@ -1,0 +1,45 @@
+NEUT0|"""We're also joined this morning by Steve Forbes, Forbes magazine."
+BULL1|Great to see you.
+BULL2|Thanks for taking the time to spend a few minutes with us.
+NEUT3|What was your reaction to what happened here yesterday afternoon?
+NEUT4|It shows that even in this age of high technology, you can get absolutely eye popping glitches in the system.
+NEUT5|That's exactly what happened when stock like a censure goes from $40 to a penny back to 40 in the flash of an eye.
+NEUT6|So in that sense, there's some systemic flaws they're going to have to dig out.
+NEUT7|If you literally do 10,000 trades every 2nd St individual trade, so they have to figure out what in the world went wrong.
+NEUT8|As hackers can get in, blow up the system, you also have systemic.
+BULL9|I mean fun economic fundamentals at work too that help bring this thing down the we've been watching the very robust stock market for, you know, several weeks now people have been buoyed by there's a degree of optimism, even returning to some sectors of certain certain markets.
+NEUT10|But you watch these riots in the streets in Greece.
+BEAR11|You see the European Union in a state of disarray.
+NEUT12|We once talked about pigs not so long ago.
+NEUT13|Portugal, Ireland, Greece, Spain.
+NEUT14|If Greece has problems with these other pigs get sick and what might that mean for the rest of us?
+NEUT15|Well, I think Germany today votes on whether they're going to go ahead with the bailout for Greece.
+NEUT16|France did it yesterday.
+NEUT17|They will go ahead and in Greece itself they've got very major systemic reforms to make, and the thing that Harry on this to watch is not that Greece is going to have to go through some austerity, but are they also going to make systemic reforms like their tax code which is anti business so the economy can get back on its feet.
+NEUT18|Going to see the same thing.
+NEUT19|Play out in Britain.
+NEUT20|They know they have to cut back, but are they also going to do it in a way that lets the economy recover?
+NEUT21|Because they say the pigs may actually lead to end up leading to the UK, but that we there's some self reflection that might be important here as well.
+NEUT22|'cause as we look around the country states like New York states like Illinois, states like California are looking at mountains and mountains of not only debt deficit, they've got.
+NEUT23|Their pension systems are all in major major deficit so we have our Greece is here and they are called Illinois, California, New York, New Jersey, Michigan and others.
+NEUT24|And they're going to have to make systemic reforms.
+NEUT25|We see that across the River in New Jersey, they major budget cuts, tax cuts to get these economies reform.
+NEUT26|Everyone has to get their act together.
+NEUT27|The wake up call has come in the short term.
+NEUT28|What do you anticipate happening today?
+BEAR29|I think initially the markets will take a hiccup down, and then they probably end up the day.
+NEUT30|Amazingly up.
+BULL31|We've as you said, we've had a good run since March of 2009.
+NEUT32|Up 75% of pause, not the end of the world.
+NEUT33|And also.
+NEUT34|Would you say would you go so far as to say you feel like the economy is in a state of recovery?
+BEAR35|The economy is recovering, it's a weak recovery.
+NEUT36|Given the magnitude of what happened in 2008, 2009.
+NEUT37|It's like a baseball team that was losing all the games.
+NEUT38|Now there only losing half the games better than losing all of them, but not yet in the World Series.
+NEUT39|Steve Forbes.
+NEUT40|As always.
+BULL41|We thank you for your expertise.
+BULL42|Thank you very much Sir.
+NEUT43|Alright, a lot happens early on the early show.
+NEUT44|"Weekday mornings on CBS."""

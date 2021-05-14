@@ -1,0 +1,9 @@
+NEUT0|"""I'm Claire Mcandrew and over 6 lectures will investigate the economics of the art market and the agents that operate in it."
+NEUT1|This course will explain how the art market differs from other markets, theoretically, empirically, and in practice will address a range of topics that look at how the market functions, what drives things like supply and demand.
+NEUT2|Valuation and prices will take a look at the role of the state and regulation, art, finance, investment and many other related topics, vendors and buyers they'll have access to a lot more information.
+NEUT3|So they'll have access to prices from gallery's from auction houses.
+NEUT4|They'll spine everything on the Internet, so there's much more transparency.
+NEUT5|I remember well the first auction.
+NEUT6|All these artists you know that became so expensive later.
+NEUT7|Cool people very cheaply.
+NEUT8|"Overtime I built a collection of about 2800 pieces."""

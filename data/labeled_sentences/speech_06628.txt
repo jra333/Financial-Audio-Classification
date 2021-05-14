@@ -1,0 +1,15 @@
+NEUT0|"""Hello and welcome to today's technical analysis."
+NEUT1|It's Thursday, July 20.
+BEAR2|Amanda you currencyisaksen.com today will be looking at the dollar versus the Luna on the daily chart so you SD card has retreated considerably since reaching one point 5793.
+BEAR3|The 17 month high from May 5th yesterday, the pair recorded a 14 1/2 month low of one point 2578.
+NEUT4|Turning to the Chamorro analysis, the negative alignment when the ten counts in line.
+BEAR5|The red line cause below the blue Kijun Sen line in late May is still in effect, suggesting a bearish bias in place.
+BEAR6|Regarding the RSI, it is in oversold territory a 25 and currently maintains a moderately positive slope.
+BULL7|This might hint that momentum in the very short term is positive on the marching should price action maintain the overall downside momentum from recent weeks the area around yesterday's low of one point 2578 might provide support further down.
+BEAR8|The focus would shift to the 24 1/2 month low of 1.24.
+BULL9|60 from May 3 for additional support.
+BEAR10|If, on the other hand, the price advances the area around the current level of the 10 consent are one point 2760 conducted resistance additional gains who turned their attention to the Kijun Sen at one point 2962 and their and their one point 50, handle another congested area recently for additional resistance moving to the medium term picture.
+BEAR11|The pair recorded a bearish cross last week when the 50 day moving average moved below the 200 day one.
+BEAR12|This is a medium term negative signal which is supported by price action taking place below both moving averages as well as below the QEMU cloud.
+NEUT13|That's it for today.
+BULL14|"Thank you for watching and have a great day."""

@@ -1,0 +1,9 @@
+NEUT0|"""A few of you have asked me about my analysis of a firm Holdings."
+BULL1|A firm is the latest Fintech name which has seen incredible momentum.
+NEUT2|Following its public debut, a firm provides financing for customers purchasing large goods.
+NEUT3|In some cases, customers pay affirm an interest, but for substantial portion of their book, it's actually the merchant that pays the interest while allowing the customer to get functionally a 0 interest loan.
+BULL4|Shares have doubled on their first day of trading and have nearly quadrupled from the valuation range a few weeks ago.
+BEAR5|Valuations look very pricey.
+BULL6|Even on a relative basis, and I see no compelling reasons to buy after this very large momentum run with a firm.
+NEUT7|It's valued at 45 times annualized sales, and it seems very obvious that the biggest risk is that of the high expectations and valuations.
+BEAR8|"The other risks include other ones, such as steep competition from traditional innovative players, including high momentum names like Square and PayPal, which I'm extremely bullish on, like share, subscribe for more."""

@@ -1,0 +1,29 @@
+NEUT0|"""Neo stock analysis and predictions, September 11th."
+BULL1|In today's NEO stock analysis and predictions, NEO stock gets a policy boost from China.
+NEUT2|All right, let's get started.
+BULL3|The NIO LED battery swap model is about to get policy boosts as the Shanghai Securities News reported that the Ministry of Industry and Information Technology MIIT is encouraging companies to develop a battery swap model based on usage scenarios.
+NEUT4|According to the report, the MIT will also encourage local governments to formulate.
+NEUT5|Relevant policies to promote the development of the battery swap industry in the form of pilot programs to support and encourage companies to develop and manufacture products based on battery swap models in China.
+NEUT6|NIO is the most high profile promoter of the battery swap model.
+BULL7|Last month, the EV Maker released its highly expected boss battery as a service battery rental service in China and generated high interest in China's auto and technology circles.
+NEUT8|According to the Shanghai Securities News.
+NEUT9|MIT researcher by who are recently said at an internal seminar that MIT.
+BULL10|As the leading Department of the Joint Ministerial Meeting on Energy Efficiency and new energy vehicle industry development will remain steadfast in developing new energy vehicles for the car body and battery separation mode by who has said new energy vehicles are still in the early stages of industrial development.
+NEUT11|MIT will maintain an open attitude on different technology routes, including charging and battery swap.
+BULL12|He said that MIT encourages enterprises to explore and develop in various ways to accumulate experience, and MIIT will also improve relevant.
+BULL13|Policies to offer support by added that the auto industry needs to sort out the difficulties that still exist in the separation of body and battery and work together to promote it.
+NEUT14|He suggested that enterprise standards group standards should come out first and then carry out standards research.
+NEUT15|The MIT will also mobilize its local departments and bureaus to formulate relevant policies.
+NEUT16|Create a pilot to promote industrial development support to encourage enterprises to carry out research and development and production of the battery swap model.
+BULL17|In fact, there are regions with the new energy industry developing faster, actively preparing for the pilot.
+NEUT18|Government officials from the Hainan province recently said they are currently working on a specific pilot program to promote the battery swap mode and strive to launch as soon as possible by the end of June.
+BULL19|Hainan's new energy vehicle ownership has reached 40,100 units, accounting for 2.82% of the car ownership, about 1.3 percentage points higher than the national average.
+BULL20|Beijing and other big cities also have the advantage of implementing the pilot.
+BULL21|Program according to Wu Jackson, deputy general manager of China Automotive Technology and Research Center Co. Limited taxi models in big cities is more unified, meeting the standardization and commercialization needs of the battery swap model.
+NEUT22|For example, 100,000 taxis in Beijing can almost support the construction of a new model when the model is built, it can drive private car users to choose the battery swap model, he said.
+NEUT23|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT24|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT25|If you enjoy this edition of NEO stock analysis and predictions, please hit the like or share button.
+BULL26|We'd really appreciate it.
+NEUT27|Are you still watching and want more?
+NEUT28|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

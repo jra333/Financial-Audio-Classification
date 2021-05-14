@@ -1,0 +1,18 @@
+NEUT0|"""When debt markets and equity markets are telling completely different stories, it can be highly profitable to pay attention."
+BEAR1|A pronounced example of this can currently be seen in Greece, where its equity markets are sharply lagging.
+BULL2|Greek government bonds that have rallied during the country's recent emergence from an economic depression.
+BULL3|If the debt markets are correct, then Greek stocks should be one of the better performing markets next year.
+BULL4|The most recent IHS market, Greece, PMI, showed its six consecutive improvement in manufacturing conditions.
+BEAR5|While employment growth was at its highest in the 18 years of the survey, has existed, this consistently good news can be seen in the Albiet illiquid Greek 10 year government bond yield which has fallen from over 7% at the start of the year to four point 3% today.
+BULL6|The Athens Composite Stock Index, Meanwhile, is up just 16% year to date.
+BEAR7|There are some technical factors behind Greece.
+BEAR8|Is stock market lagging behind the improvement seen in this government debt and economy.
+BEAR9|Many Greek stocks are tiny in terms of market capitalization.
+BEAR10|An illiquid following the crisis, meaning few analysts bother to cover them, and large funds are unable to own them psychologically.
+BEAR11|Professional investors remain traumatized from their prior experiences investing in Greece and May not yet be willing to take the career risk of distancing themselves from the herd.
+NEUT12|Few are also likely to bother to look beyond the headline price to earnings.
+NEUT13|Multiple of an index that is heavily distorted by its weighting of banks, but for more nimble stock pickers, there are certainly opportunities.
+BULL14|A number of Greek industrial stocks have strong balance sheets and trader undemanding multiples of free cash flow.
+NEUT15|Those looking for Eresia, although far riskier option can choose Greek banks.
+BULL16|Not only are they the most economically sensitive sector, but these lenders have very high capital ratios traded large discounts to book value and operate in a highly consolidated retail banking market which in the future should become very profitable either way.
+NEUT17|"Betting on Greece may become one of the trendy trades in 2018."""

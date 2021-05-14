@@ -1,0 +1,23 @@
+NEUT0|"""I fools I'm Dan Caplinger and I'm here today with the ask a full series where our readers ask us questions about basic investing concepts and today we're answering a question from one of our readers."
+NEUT1|JT Forbis asks us what are the advantages and disadvantages of averaging up or down now just so that everybody is on the same page what JT is talking about here is.
+NEUT2|What happens when you have bought an initial stock position and you're thinking about adding to that position?
+BEAR3|If the stock price has gone down since then, what your additional purchase is doing is called averaging down.
+NEUT4|If the price has gone up, you call it averaging up, and basically what the average is talking about is the average cost basis of your position.
+NEUT5|The average per share price that you have bought.
+NEUT6|Now we're averaging down a lot of people like the idea, because basically it lets them get a bigger position.
+BULL7|In a stock at a cheaper price now the risk though is that you're taking on a bigger position, so if those losses continue then you could magnify your losses above what you would have lost if you've only stuck with your original position.
+BEAR8|So take a couple of examples with Netflix for instance, we saw a big plunge a couple of years ago after a failed strategy to split the company into two parts.
+NEUT9|There.
+NEUT10|Quickstar model basically didn't fly.
+BEAR11|Chester's lost a lot of confidence shares plummeted.
+BEAR12|Those who averaged down with Netflix have been richly rewarded, though, because the prices quadrupled since those lows.
+NEUT13|Now, on the other hand, take another stock like Apple.
+BEAR14|Apple hasn't been as fortunate and a lot of people have averaged down along the way as the price has fallen from around $700.00 down to the $400 range and those shares really haven't bounced yet, and so investors haven't been rewarded for it.
+NEUT15|As far as averaging up is concerned, the same thing really applies if you spend more money to pay a higher share price for the stock that you add to your position, then you really need it to go up even more and plenteous companies have done that.
+BULL16|Google, for instance, has had a lot of success with its ad revenue as well as with other businesses is trying to get into.
+BEAR17|On the other hand, stocks like Mako Surgical that had big growth runs but then reversed course.
+BEAR18|Averaging up has been disastrous, so it really just depends on what you think a stock is going to do.
+NEUT19|If it makes sense to add to that position, go ahead.
+NEUT20|If it doesn't, don't use averaging up or down as an excuse to increase your risk in a way you don't aren't comfortable with it.
+NEUT21|Thanks again for the question and For more information about investing, please stay tuned to fool.com.
+BULL22|"Thanks for watching full on."""

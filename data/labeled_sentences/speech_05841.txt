@@ -1,0 +1,15 @@
+BULL0|"""The S&P 500 hits a milestone 13 years in the making."
+NEUT1|This is what's news at this hour on WSJ live I'm Joanne Poe is Standard and Poor's 500 index, surpassing the 1600 level for the first time ever.
+NEUT2|The market milestone coming 13 years, one month and 11 days after the SNP first jumped above the 1500 level in March 2000.
+NEUT3|At the height of the tech bubble.
+BULL4|Not to be outdone, the Dow Industrial Index also hitting a milestone today, breaking the 15,000 level for the first time in its history.
+BULL5|The blue chip average taking nearly six years to hit the big round Number after it first closed above 14,000 in July 2007.
+BULL6|Today's big market gains fueled by a strong U.S. jobs report on the health front, researchers at an international conference on Autism presents 3 new studies suggesting environmental influences before birth may play a role in the risk for the condition.
+NEUT7|The results of the studies taken together with previous work, provide more evidence that environmental factors impacting the womb, including exposure to air pollution, the use of prenatal.
+NEUT8|Iron supplements and the use of household insecticides are all meaningful in terms of autism risk.
+NEUT9|Aerosmith James Taylor.
+NEUT10|The new kids on the block and Jimmy Buffett are among the scheduled performers for a concert to benefit the victims of last month's Boston Marathon bombing.
+NEUT11|The concert will take place on May 30th at the TD Garden Arena.
+NEUT12|The concert is titled, Boston Strong and the evening of support and Celebration and proceeds will benefit the One Fund.
+NEUT13|Boston organization.
+NEUT14|"Tickets go on sale Monday will keep you posted on the latest news developments throughout the day and what's news on WSJ Live."""

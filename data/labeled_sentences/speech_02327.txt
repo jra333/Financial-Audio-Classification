@@ -1,0 +1,42 @@
+BULL0|"""We've seen house price appreciation on a year over year basis increased to 15 year highs, so certainly that that seems to make housing less affordable."
+NEUT1|But we have to consider the impact of mortgage rates.
+BULL2|And while mortgage rates have trended up in in recent months, there's still historically low.
+BULL3|So relative to one year ago, housing is actually still more affordable.
+NEUT4|And that's really thanks to this low mortgage rate environment that we find ourselves in.
+NEUT5|So, so we've been speaking so much about this idea that the logo.
+NEUT6|The low mortgage rates have helped existing homebuyers, many of whom have refinanced their mortgages to either lower interest rates, shorter terms, or both, and in many in many cases here, how much can interest rates go in terms of higher before the real housing market?
+NEUT7|Crunches felt if the dynamic right now is still with relatively low rates overall.
+NEUT8|That's a great question and I would say you know.
+NEUT9|So think about purchasing power.
+NEUT10|So how much home you can afford to buy?
+BEAR11|Increasing mortgage rates certainly cut into that, especially if you don't have a slowdown in nominal house price appreciation, especially if you don't have a corresponding growth in income.
+BULL12|But what we anticipate will happen is if mortgage rates rise high enough, that will start to cool down house price appreciation, which should help with affordability.
+NEUT13|So I mean, the economics of housing have always kind of.
+NEUT14|Baffled me, I'm a homeowner myself, yet many times real estate brokers go into these transactions, advising their clients.
+NEUT15|It's about affordability, right?
+NEUT16|How much can you take from your paycheck in terms of rent or a mortgage to sustain your lifestyle that you have?
+NEUT17|Meanwhile, other people say you should look at the actual value of the property and then work backwards towards whether or not the payment is there.
+NEUT18|How exactly should potential homebuyers be valuing these properties?
+NEUT19|How much should they say, hey, you know what the market is like this?
+NEUT20|This is what the market will bear versus how much should I pay because this is how much I can afford.
+NEUT21|Out of my monthly paycheck, let's say it's all from the perspective of a potential home buyer.
+NEUT22|It's all about what you can afford to pay per month, and that's really what we mean when we talk about purchasing power.
+NEUT23|How much home can I afford to buy?
+NEUT24|And given the fact that mortgage rates are so low?
+BULL25|That's really helping to boost purchasing power, which is why we've seen such high demand in the market.
+NEUT26|Now if we talk about some of the biggest centers that have seen the biggest gains it has been in suburban areas outside of Metropolitan centers, are we going to continue to see that kind of trend play out?
+NEUT27|And how long does it last?
+NEUT28|How long before people say you know what?
+NEUT29|Maybe I want to move back to New York City.
+NEUT30|Certainly, as things open back up again, you know you'll have demand coming back to the cities, but it's important to note that demand for the suburbs existed even prior to the pandemic.
+NEUT31|You have this massive generation, the millennial generation aging into their prime home buying years aging into the lifestyle decisions that a correlate highly with buying that first home.
+NEUT32|You know, moving out to the suburbs, getting the house with the schools, and so we saw this trend to smaller metros and suburbs.
+BEAR33|Even preceding the pandemic, but certainly the need for more space accelerated some of that, and so we do anticipate demand to come back into larger cities, denser cities, but but this suburban trend preceded the pandemic.
+BULL34|Alright, so the suburban trend is intact.
+NEUT35|Before we let you go Odetta, the spring season is almost you can say it's probably in the middle of it right now.
+NEUT36|What exactly have you seen so far, and what can we expect for the summer?
+NEUT37|Yes, the spring season got an early start this year.
+NEUT38|We didn't see the usual winter lull that you would see in the housing market.
+BULL39|Expect the current dynamics to persist, increasing demand against limited supply of homes for sale, which means continued house price appreciation and a pretty competitive market.
+NEUT40|Shepard Smith here.
+NEUT41|"Thanks for watching CNBC on YouTube."""

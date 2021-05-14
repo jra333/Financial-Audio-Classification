@@ -1,0 +1,14 @@
+BEAR0|"""Oil prices slid to an 11 year low on Wednesday, sending ripples through the global financial markets."
+BEAR1|It dropped as much as 4% in early trading.
+NEUT2|So what's causing prices to fall?
+NEUT3|China in the Middle East?
+BEAR4|In China, the world's second largest crude oil consumer activity in its vast services sector, slowed in December, according to Private Gage published on Wednesday.
+BEAR5|This adds to string of weak economic readings in recent months and turmoil in the country's stock markets.
+BEAR6|Analysts also see the growing rift between Saudi Arabia and Iran is squashing any chance of major producers cooperating to cut production?
+BEAR7|Is the downward trend likely to continue?
+BULL8|Probably few experts see any upside for prices in the shorter the global mismatch between supply and demand that has battered crude since 2014 shows few signs of abating, big producers like Russia and Saudi Arabia are pumping crude at a fast pace as they seek to defend and extend their market share.
+BEAR9|In the US, crude output has fallen much slower than expected and the excess crude is going into storage that is at levels not seen for nearly 80 years.
+NEUT10|What can we expect next more oil?
+NEUT11|All eyes are on Iran, which will soon add hundreds of thousands of barrels of oil to the global market.
+BULL12|When the international sanctions against the country are lifted, many analysts expect prices to stay cheap for longer, providing a boost for consumers around the globe.
+BEAR13|"But further troubles for Russian budget officials in American oil drillers."""

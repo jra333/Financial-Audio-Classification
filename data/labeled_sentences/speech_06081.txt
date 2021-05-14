@@ -1,0 +1,57 @@
+NEUT0|"""Well, here's a here's about Riddle for everybody."
+NEUT1|Which should you buy?
+NEUT2|Should you buy a share of iPhones?
+NEUT3|I sorry of Apple stock about 700 bucks.
+NEUT4|So should you buy an new iPhone and an iPad?
+NEUT5|But the same price?
+NEUT6|Quinn for trial is going to break it down for us.
+NEUT7|And here he is on the set in that amazing tie and jacket.
+NEUT8|I love it.
+BULL9|Thanks for being here.
+BULL10|My pleasure.
+NEUT11|There's Apple stock at 701 box so you can buy that 700 bucks OK?
+NEUT12|Or you could take 700 bucks.
+NEUT13|By right 'cause you know, if you bought a Mac book in 2004 would have cost about $2000.
+NEUT14|Do you know how much that $2000 be worth today?
+NEUT15|I have no idea.
+NEUT16|Probably around $860,000.
+NEUT17|Wow, yeah, but we're in 2012 now or not in 2004 and I wrote this story in February.
+NEUT18|Similar story in February when the stock hit $500 and ask the same question.
+NEUT19|'cause it was the same price as an iPod and I thought, well wanna buy apples.
+NEUT20|You go to the store or do you buy the stock?
+NEUT21|But in since then the stock has risen the entire price of an iPhone, so it's risen $200 since there is no $7.00, you can actually get an iPad, an iPhone for the price of one share of Apple.
+NEUT22|So what happened?
+NEUT23|Based on your recommendation last time it's 500 bucks.
+NEUT24|And what would the iPad be worth now?
+NEUT25|Even at what would the iPod be worth now then?
+BEAR26|I put that iPod you bought for 500 bucks would have gone down in value.
+BULL27|Oh OK, so it would have been better.
+NEUT28|I did it by this time but dollars dollars that would have been better so it's not going to happen.
+NEUT29|That isn't that what is going to happen this time is at $700.00.
+NEUT30|Well as it turns out yes people say.
+BULL31|There are several brokerages that have already up their targets to one brokerage $840 a share, so they still say that there's still room for it to go.
+NEUT32|I mean, who knows it could go to $1000 a share, you just don't know, but as it happens, it was hard to find people who who preferred the stuff.
+NEUT33|Over as a theoretical question over the stock.
+NEUT34|But as we know you can't make calls on the stock.
+NEUT35|Can I mean you can't?
+NEUT36|You can't like ring up anybody if you don't.
+NEUT37|If you have.
+NEUT38|If you have the choice, it's binary.
+NEUT39|You can't have both.
+NEUT40|Check MarketWatch on your app or you can check the Wall Street Journal on your iPhone through.
+NEUT41|OK, you OK, that's fair enough, but what I mean?
+NEUT42|If it's an absolute truth and you cannot have both, then that makes it rather tricky, doesn't it?
+NEUT43|Doesn't people really prefer the quality of life that the iPod and the iPhone bring into their life?
+NEUT44|And they're prepared to not rather play with their gadgets than double on the stock market.
+NEUT45|Very few though according to my appease, what do you expect the stock to do and what people are people telling you based on iPad Mini or the Mini you know the smaller tablet coming along right?
+NEUT46|So I mean the school of thought that says, well, you got the iPod mini.
+NEUT47|They've got a lot of billions of dollars in cash, but 100 billion, 100 billion approximately.
+NEUT48|You know, under Tim Cook, the company has been faring very well and this as you know the iPhone 5 is records sales according to Apple, so they still expect the stock to rise, but there are other people who say that these subsidized iPhones can't last forever.
+BEAR49|They're really costing.
+NEUT50|The carrier is a lot of money and that's not going to go on indefinitely.
+NEUT51|I'm not as huge factor in propping up the demand for iPhones.
+NEUT52|Is this $199 deals you got when actually you have to buy one at a contract is closer like $600.
+NEUT53|Wow, there you go.
+NEUT54|Well system resolves but nobody has quite the clothing you do.
+BULL55|Thank you very much Quinton for trial.
+NEUT56|"They re more on that on smartmoney.com."""

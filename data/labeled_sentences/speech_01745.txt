@@ -1,0 +1,66 @@
+NEUT0|"""Alright, let's get to the stocks on our radar and Steve will hit you with a question."
+BULL1|Ron Gross, you're up.
+NEUT2|First, what are you looking at?
+NEUT3|All right, Steve?
+NEUT4|I got Ampco Pittsburgh ticker symbol AP a little tiny Co 228,000,000 market cap.
+NEUT5|They make forged hard into steel rolls.
+NEUT6|I know you know what that is, so let me explain their large rolling pins that are used to form steel into different shapes.
+BULL7|The stocks up 83% this year.
+BEAR8|We hold it in the deep value portfolio, but we've actually had it on hold because the steel business is a mess right now.
+NEUT9|So the new CEO is diversifying through acquisition cutting costs, trying to turn this business.
+NEUT10|If he continues to do it successfully, stock is cheap from here, but it's by no means a guarantee.
+NEUT11|That's why we've had it on hold.
+BULL12|I'm taking another look to see if we want to increase our position after the nice turn around.
+NEUT13|So far Steve question about Amco pitsburgh.
+NEUT14|How would have investor like me find a company like even just find this company?
+NEUT15|Where would I go to even learn about this?
+NEUT16|Is it a search of my searching for numbers?
+NEUT17|What am I looking for?
+NEUT18|You would probably be searching for small, we call the micro cap companies companies under 500,000,000, plenty of different ways to search for companies screening tools out there.
+NEUT19|And these are often companies that are just under under, followed unloved.
+NEUT20|And sometimes if you're careful you can find a bargain.
+NEUT21|Or you could subscribe to a mountain full service.
+NEUT22|Here we go Matt Argersinger.
+NEUT23|What are you looking at?
+NEUT24|Going with a company that's on our watch list in $1,000,000 portfolio?
+NEUT25|It's called alumina ticker.
+NEUT26|I LMN leads the market for genomic sequencing machines which are vital for biotech companies, Cancer Research, large hospitals.
+BEAR27|It's got a very compelling razor, razor blade business model stocks down about 40% from its high.
+NEUT28|It really is a dominant in.
+NEUT29|In its markets and it's, you know, it's a company we're taking a very close look at.
+NEUT30|I think it's a great way to play biotechs without actually investing in biotechs Steve question about aluminum.
+NEUT31|Will genomic sequencing cure cancer in the next 50 years in the next 50?
+BULL32|Absolutely well, I think we could.
+NEUT33|Actually, I think that could happen in 10 years.
+NEUT34|The way the technologies improving Jeff Fisher.
+NEUT35|What are you looking at?
+NEUT36|Well, I was going to go with Cabela's because Bass appears that Bass Pro shops is trying to buy them out.
+NEUT37|And I keep trying to talk about companies that are possibly being acquired here.
+BEAR38|But I just got a text from my brother that my sister in law is in labor.
+NEUT39|Going to do an about face in honor of that and I'll go with Carters tickers CR I. Carters of course, makes clothing apparel for babies and young children in the USUS, based only, and it's been a great stock the past five years.
+NEUT40|And yeah, and longer it's a Motley Fool recommendation, as well as what size companies that sorry Steve.
+NEUT41|It's a $5 billion market value.
+NEUT42|Steve question about Carters.
+NEUT43|Does the always on sale thing it's I bought something Carters for my kids?
+NEUT44|It seems like there's always this great sale going on.
+NEUT45|Does that help them or hurt them?
+BULL46|It appears to be helping.
+NEUT47|You're shopping there, so I mean it's point.
+NEUT48|I am definitely shopping there because of the sales.
+NEUT49|Isn't everything always on sale now everywhere?
+NEUT50|Coupon or discount?
+NEUT51|Unless we're talking about Tiffany's, which really has just made a lot of hay out of date.
+NEUT52|Nope, we're never going down market.
+NEUT53|Find it interesting that Carters is a standalone company.
+NEUT54|To me it sounds like a brand that would be part of a larger like a super brand.
+NEUT55|Yeah, like Amco Prince rolled steel level that could make sense around the Carters in Osh cosh.
+NEUT56|Both good brands that could be rolled into some larger apparel company.
+NEUT57|You heard it here first.
+NEUT58|There you go, Steve three.
+NEUT59|Very different businesses.
+NEUT60|Alumina Carters Amco Pitsburgh any one of those three you feel like adding to your watchlist.
+NEUT61|I'd like to look at aluminum.
+NEUT62|That sounds very interesting to me.
+NEUT63|There you go, Steve.
+NEUT64|Oh, XT.
+NEUT65|"Really all the money, all the money you're I was going to say all the money you're spending at Carters that they are growing cancer, cancer or Steve Kids cancer."""

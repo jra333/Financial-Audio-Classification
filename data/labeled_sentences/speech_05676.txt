@@ -1,0 +1,10 @@
+NEUT0|"""Welcome to the quick stocks virtual portfolio."
+BEAR1|Today's recommendation is Disney is a powerhouse that is tanked on their most recent earnings.
+BEAR2|Miss ESPN flopping and some uncertainty about Disney's most recent streaming service announcement, but the strong pipeline of Star Wars and Marvel movies.
+NEUT3|Disney won't be going away anytime soon.
+BULL4|I think the Disney streaming service will actually be a huge hit and right now Disney is available at a huge discount price with a strong dividend and a strong future outlook.
+BULL5|This is a strong buy.
+NEUT6|Here's how the portfolio is doing today.
+NEUT7|All opinions and comments are always welcome.
+NEUT8|If you enjoyed this week's edition, don't forget to hit the like button below and tell next week.
+NEUT9|"May the Bulls be with you."""

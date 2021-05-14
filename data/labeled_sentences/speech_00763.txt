@@ -1,0 +1,42 @@
+NEUT0|"""What is the significance of the sedan ET72 Neo going forward?"
+NEUT1|Do one less so it is 7CET7 is Neo's first self-driving car?
+BULL2|It sufficiently shows Neos capability in autonomous driving and it's also our first sedan in mass production.
+NEUT3|The pricing of the sedan.
+BULL4|It's close to about 70,000 U.S. dollars before subsidy's, so almost twice the price of a Tesla Model 3.
+NEUT5|Are you concerned at all about the pricing?
+NEUT6|Are you comfortable with the pricing at this level?
+NEUT7|So warm laid down with me is the 5th unteachable.
+NEUT8|We're always very clear about our target user groups.
+NEUT9|For example, the price of RET seven is similar to the ones of the best selling midsize or full size sedans in China.
+NEUT10|Like BMWs, five class, Audi A6, Mercedes-Benz E Class, their sales numbers are at around 10,000 cars per month.
+BULL11|Our strategy for the Chinese market is to provide better products.
+NEUT12|In service at a similar price of gasoline cars.
+NEUT13|You tabbed or use her the junk we of course believe as an autonomous car.
+BULL14|It's worth the price as the best vehicle in the premium market in any aspect from every detail of its design, internal space to service.
+NEUT15|Agent Adalah so premium delicious honey.
+BEAR16|And in fact after the launch, many from our user, community and media think the pricing is probably a little low.
+BEAR17|Hudson native finding control and general manager Tina Turner had deleted the competition.
+BULL18|Obviously with Tesla continues to heat up.
+NEUT19|Do you see the ET7's putting you and Neo in a different class?
+NEUT20|She's a tongue more than someone with a client, so the size the ET 7 is not a car competing with Tesla's Model 3.
+NEUT21|If comparisons are to be made, it is more of a rival to the Model S. The 87 is very competitive.
+NEUT22|Based on this market position.
+BULL23|In terms of deliveries that we see more broadly for Neo, yeah, December, the numbers were very good.
+BULL24|Again, more than 100% increase year on year in terms of deliveries.
+BULL25|Yeah, so you see that pace of sales at pace of growth continuing this year downward sounds in Tigne and I of course believe China's EV market will keep growing this year.
+BULL26|Neo is prepared for such growth.
+NEUT27|China's EV market had a big change last year.
+BULL28|The percentage of personal purchase has been increasing.
+BULL29|Which means EV has become a rational choice for many Chinese consumers.
+NEUT30|Yourself, it's all there you go.
+NEUT31|Face hungry Cindy Goshen.
+BULL32|So now we think it's very positive.
+BULL33|We are very confident that Neo has room for growth in terms of our market segment.
+NEUT34|Engine or missing interface?
+NEUT35|Ever since I met William, can you update us on your international expansion plans?
+NEUT36|What are your priority markets and what is the time frame that we're looking at?
+NEUT37|Ourmedia Armin trilogy.
+BULL38|While darling, we have clear plans to enter the European market this year.
+NEUT39|We will gain experience from a specific country and region to understand how to meet the needs of local users, how to introduce Neos community culture to different countries.
+NEUT40|Communities and one far from this perspective, we still have work to do.
+NEUT41|"Then go along tattoo symbols on the young who."""

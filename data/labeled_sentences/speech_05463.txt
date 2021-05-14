@@ -1,0 +1,28 @@
+NEUT0|"""But you know, options traders are betting disease."
+NEUT1|Magical Rally is about to run out of steam than what you see.
+BULL2|And a day like today, with this stock almost got back to its 52 week high, but it might have done intraday above 115.
+NEUT3|Call volume was really hot.
+NEUT4|It was few times out of puts and total options.
+NEUT5|Volume was three times average daily volume.
+BEAR6|The most active strike that I saw was the September 120 calls.
+NEUT7|A little more than 8000 of those traded for an average price about 1:40 that looked to be selling.
+NEUT8|It looked like someone had this position in place.
+BULL9|You get this pop above 115 to new highs and they're taking some profits here.
+BULL10|That doesn't mean that the run is over, but it's had a really nice run.
+NEUT11|Over the last couple of months, the company is going to report on August 7th I believe.
+NEUT12|I think the options market between now and then is implying about a 5% move in either direction, which seems kind of Fair.
+NEUT13|That is that one year chart right there.
+NEUT14|There's obviously some resistance up there at the prior highs we have a five year chart, which this is the most important one to me for probably technicians.
+NEUT15|I'm a bit of a novice here, but look at that thing.
+BEAR16|It just broke out above that downtrend that's been in place since those highs.
+NEUT17|I think it was about 122 back in 2015 guys.
+NEUT18|Sure yeah.
+NEUT19|I think the interesting thing is if you go back and you look at the last week and a half or so and Disney.
+NEUT20|Even wherever the stock has been, it's obviously been running higher and higher, but they have been very aggressively positioning for a move to the upside, and it was the 111 strikes and now they went all the way out to October like a week ago.
+NEUT21|The 1:15 so people are expecting the stock to go higher now is 120.
+BULL22|The cap maybe, but there's been very, very aggressive.
+BULL23|Buying in between the levels between 1:10 all in 120 is interesting because it's right near that prior all time high, which will be significant absolutely.
+NEUT24|Hey there, thanks for checking out CNBC on YouTube.
+NEUT25|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT26|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL27|"Thanks for watching."""

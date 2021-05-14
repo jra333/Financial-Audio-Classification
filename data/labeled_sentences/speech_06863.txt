@@ -1,0 +1,20 @@
+BEAR0|"""Tesla currently plays slightly above the $2000 stock price, which occasional drops every now and then, and a market cap of $382.04 billion."
+BEAR1|Cathy Wood, CEO of RRK, Invest strongly believes in the Tesla stock and thinks it is very underestimated and undervalued.
+NEUT2|The market does not seem to recognize the large potential of the company.
+BULL3|A few months ago in March, the stock price of Tesla sits around $350.00 and zoom to the $2000 range in less than six months.
+NEUT4|The initial maximum prediction of AARC for Tesla for a five year span is $1500.
+BULL5|Clearly they have company exceeded that expectation.
+NEUT6|In 2018, Tesla had a 17% share of the total electric automotive market in the world, including China come 2019.
+BULL7|The number rose to 23% now.
+NEUT8|Recent reports revealed that Tesla owns 28% of the world's have sales in the early part of 2020.
+NEUT9|In the United States, Tesla dominates the market with 80% share in China, where there are more than 400 registered electric vehicle makers, Tesla possesses quite a large share at 23% as of July 2020.
+BULL10|It's not losing share, it's gaining share with the words of Cathy Wood.
+BULL11|This growth came even before the official launching of vehicles integrated with the new Autopilot upgrade or the Robotaxi network would in the rest of Arc invest, believe that Tesla will launch their ride hailing service sometime this year or early next year, giving birth to a strong competitor to Uber and Lyft.
+NEUT12|When this happens, it will send the bare minimum prediction of Arc about Tesla flying out the window and the new base target will be at $7000 for a five year span.
+BULL13|If Tesla unleashes the robotaxi network this year, it will bode extremely well, especially in the middle of a virus outbreak where human to human interaction poses a threat and is strongly discouraged.
+NEUT14|What Kathy would presumes is that Tesla will hire customers as employees at the same time.
+NEUT15|The possible scenario is that the customer will be offered a low down payment to purchase a Tesla Model 3 or any Tesla car.
+NEUT16|And the rest of the amount will be paid off the money that the customer is going to make off using their car as a ride hailing vehicle.
+BULL17|Tesla's Autopilot is constantly improving its operations even though it's not making the headlines over the last few years.
+NEUT18|The cars that Tesla released have been incorporated with the sensors that collect and store data from every journey that the car takes.
+BULL19|"The data will then be used to further improve the performance of the AI system that operates autopilot."""

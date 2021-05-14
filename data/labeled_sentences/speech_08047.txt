@@ -1,0 +1,37 @@
+NEUT0|"""US interest rates are one of the most important topics in finance."
+NEUT1|The numbers which are used to price pretty much everything else in financial markets to help us think about where they're going to go.
+NEUT2|We're joined by Nick Garside of JP Morgan Asset Management.
+BULL3|Hello Nick, thanks for joining us.
+NEUT4|So I think your first chart that you've got here, you're saying the US Federal Reserve has a pretty good environment in which to raise rates.
+NEUT5|It does.
+NEUT6|This is the radical shift from a year ago.
+NEUT7|And when you look at the global economic landscape, what you see is one of convergence.
+NEUT8|Not divergent, so when you look at this chart here, this is saying in aggregate what central banks are doing, and it's showing them converging.
+NEUT9|So all central banks expected to raise rates.
+BULL10|Now this is key for the US because it means the dollar should be stable and it will allow the Federal Reserve to raise rates at a more aggressive level.
+NEUT11|And I think you're even more sort of enthusiastics.
+NEUT12|I'm not sure if that's the right word you think rates are going higher than a lot of people, maybe even the Fed itself is predicting.
+NEUT13|Oh, absolutely so.
+NEUT14|Again, when we look at what the markets predicting for both this year and next year, including the March hike, it's got four rate hikes.
+NEUT15|The Federal Reserve themselves, or at six rate hikes.
+BULL16|Our view is 8 rate hikes for this year and next year and that will take interest rates too on a real or inflation adjusted basis just a little bit tight.
+NEUT17|And what is it you think that is going to happen to drive that?
+NEUT18|Is this?
+NEUT19|You already see the factors in place that are going to cause this.
+NEUT20|Or are you expecting something to change, which maybe the rest of the market hasn't cause and onto yet, so it's a little bit of both.
+NEUT21|So certainly when we look firstly underlying rates of economic growth very positive.
+NEUT22|Think of any economy in the world virtually, and it's running at above trend rates of growth.
+NEUT23|But as we look forward, this is the key we're about to see the return in a big way of animal spirits and what this chart shows is the percentage of consumers with a favorable.
+BEAR24|View of economic conditions and when you look at this blue line here it is off the charts, surpassing even expectations in the Reagan area of the early 1980s.
+NEUT25|So this is phase two.
+BULL26|This is yet to come when we see policies around tax reform, it will drive animal spirits and it will drive economic growth substantially higher.
+NEUT27|And I think we've seen.
+BEAR28|Donald Trump has faltered in his first big policy splash.
+NEUT29|They didn't manage to repeal Obamacare, and now we're sort of.
+NEUT30|We're hoping for tax reform, but obviously this maybe is a little bit more tricky that many people had simply assumed after he was elected.
+NEUT31|Do we need to get that coming through, or is this already underway and it isn't going to matter if we get massive tax cuts?
+BULL32|Also, the underlying rate of economic growth is very supportive for this, as we look forward.
+NEUT33|This is a 2018 event, and this is what drives the Fed a lot tighter.
+NEUT34|In 2018, it means things like 10 year Treasury yields.
+NEUT35|Expect those at the end of the year, closer to 3 1/2%, not 2 1/2% great.
+BULL36|"Well, thank you very much for joining us now."""

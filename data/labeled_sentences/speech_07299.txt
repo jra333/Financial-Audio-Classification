@@ -1,0 +1,23 @@
+BULL0|"""Cannabis had a breakout 2020 legal sales across the US hit a record $17.5 billion, a 46% increase from 2019, according to a new report published by BDS, say a cannabis sales data platform."
+NEUT1|14 states allow for adult cannabis use, while 36 allow for medical sales.
+BULL2|Most of the sales growth came from adult use markets, especially mature markets like Colorado, where sales grew by 26% to reach $2.2 billion.
+BULL3|Oregon saw sales hit one point.
+BULL4|$1 billion, a 29% increase over 2019.
+BULL5|Emerging markets like Illinois, which expanded its medical cannabis market to include adult use.
+BULL6|Sales last year saw a rise of $784 million.
+BULL7|This was the largest dollar gain in the US and Illinois is currently doing more than $1 billion in sales.
+BULL8|California, the country's largest cannabis economy, at $3.5 billion, increased sales by $586 million, while Florida saw an increase of 400.
+NEUT9|$73 million, according to experts at the DSA.
+NEUT10|Three things contributed to the industry's growth last year, the COVID-19 pandemic.
+NEUT11|More customers entering mature markets like California, Colorado and Oregon, and states like Illinois and Arizona establishing new adult use markets.
+NEUT12|Another factor driving the industry's growth is a simple one.
+NEUT13|More people are consuming more cannabis than before.
+NEUT14|About 30% of consumers surveyed by BDS a said they shot for cannabis.
+BULL15|Products more often, while 25% of consumers say their cannabis usage has increased since before the pandemic in Colorado, where market penetration is greatest in the country, 48% of Coloradans imbibe cannabis delivery.
+BEAR16|Companies also made a killing last year as they capitalized on the pandemic.
+BULL17|DSA found that the number of Americans using cannabis delivery increased 25%, but most of the cannabis industry is still in the black market.
+NEUT18|Illicit cannabis sales are estimated to be more than 100.
+NEUT19|Billion dollars each year.
+NEUT20|But the legal industry is slowly catching up.
+BULL21|By 2026, P DSA predicts the legal US cannabis market will reach $41 billion in annual sales.
+NEUT22|"Roughly, the size of the craft beer industry."""

@@ -1,0 +1,61 @@
+NEUT0|"""Hi, this is Jeffrey veteran bestplace.com."
+NEUT1|I'm here with Charles Sizemore, Sizemore Capital Management.
+NEUT2|So Charles, let's talk Netflix here.
+BULL3|Stocks up big time, almost a factor of five in the last year or so.
+NEUT4|Some people say it's kind of reshaping digital media and entertainment as we know it, so you will believe or you buy that hype.
+NEUT5|Well, I am a subscriber myself as I believe you are.
+NEUT6|I am as are millions of Americans.
+NEUT7|This is a revolutionary company they have taken.
+NEUT8|They are really rewriting the rules for media distribution.
+NEUT9|Because of Netflix now on Demand, media is really what everybody expects.
+NEUT10|You want it at anytime all the time.
+NEUT11|You want the entire library of content at your disposal.
+NEUT12|They've been instrumental in making that happen.
+NEUT13|However, that does not mean that once the dust settles, they're going to be the ones profiting from it.
+NEUT14|I'll give you a perfect example.
+NEUT15|My 3 year old loves watching go Diego go.
+NEUT16|That's his favorite show.
+NEUT17|And so we put her on Netflix form every morning until one day it just wasn't there anymore.
+NEUT18|What happened?
+BULL19|Well, Amazon, who is now a well financed competitor of Netflix.
+NEUT20|They bought the rights to stream that program as well as a few others.
+NEUT21|Sponge Bob Dora.
+NEUT22|It's unfortunately I'm all too intimately familiar with these children shows, but Netflix lost out.
+BEAR23|They lost out on distribution rights for this content because they got squeezed by Amazon who's willing to pay more for it.
+NEUT24|So there's no guarantee that Netflix, who reinvented media is going to be the one who's left to profit from it.
+NEUT25|Yeah, I mean as hell.
+NEUT26|So my question here is whether or not the story the narrative on Netflix is enough to convince investors that it's worth buying into because the P is a little on the high side.
+NEUT27|They're spending a lot of money to build out international operations which aren't entirely profitable yet.
+NEUT28|And so investors kind of believe in the story of Netflix, but at the same time, I mean, there is competition out there.
+NEUT29|And it's not just Amazon, there's other people who are going to get into streaming that either are in streaming now that we don't even know about.
+NEUT30|There's.
+NEUT31|That's the thing with disruptors is they can be disrupted, too, so.
+NEUT32|You know, overall, do you think that there is staying power simply by being a big brand?
+NEUT33|Now?
+NEUT34|Do you think that's enough for Netflix to keep him going in the short term at least?
+NEUT35|Or is there?
+BEAR36|Is there a big risk because of all this froth because of the run up in the last year.
+NEUT37|So I'll answer your question with a question of my own.
+NEUT38|Did it work for BlackBerry?
+NEUT39|BlackBerry invented the smartphone.
+NEUT40|There was no such thing as a smart phone until the BlackBerry BlackBerry came out.
+NEUT41|Now it is an irrelevant company.
+NEUT42|You know why?
+NEUT43|Because somebody else came out with a better mousetrap Apple with the iPhone and later Google Android and later the Windows Phone.
+NEUT44|So at the end of the day, BlackBerry formerly research in motion, they lossed out in the revolution that they started at my saying Netflix is going to go the way of library tomorrow.
+NEUT45|No, I'm not.
+NEUT46|I'm just saying be very careful here before you bet your retirements on it.
+NEUT47|You want to put a little play money at work?
+NEUT48|Buying Netflix?
+NEUT49|Go for it.
+BEAR50|It's a very volatile stock.
+NEUT51|You could make good money.
+BULL52|It's like we said it's gone up by almost a factor of five in the last year.
+NEUT53|I absolutely would not stake your retirement on it.
+NEUT54|Well, that's an important point, is it doesn't matter if you're first in line, you gotta make sure that you keep up after that.
+NEUT55|Just 'cause you have a head start doesn't mean you wind up winning the race right?
+NEUT56|Exactly, so that's that's good advice.
+NEUT57|So we'll keep an eye on Netflix.
+NEUT58|Then we'll talk again soon.
+BULL59|Charles, thanks.
+BULL60|"Sounds good."""

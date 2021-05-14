@@ -1,0 +1,45 @@
+BEAR0|"""The Masters market sell off over Covid started just around a year ago."
+BEAR1|This is when investors really started to panic about the potential impact of the pandemic and what that would mean not only for the markets, but of course for the economy as well.
+NEUT2|We want to bring in Yahoo Finance editor in Chief Andy Serwer to please take a look back at some of the lessons that we've learned over the past year.
+BULL3|And Andy, we had that massive sell off and then of course it was followed by the fastest recovery that we've ever seen on record.
+NEUT4|I'm curious so to get your thoughts as we do look back.
+NEUT5|Over the last 12 months, just a couple of things that stick out to you, and some of those lessons that we have learned.
+NEUT6|Yeah, that's right, Sean.
+NEUT7|I mean, we really have taken a turn around the sun because right now this week and especially tomorrow is going to really mark the day that the pandemic really began.
+NEUT8|Or at least it began in the United States.
+NEUT9|Or at least it began to really take a hold of our consciousness and we really started to become aware of it was kind of a shutdown day.
+NEUT10|I think when we look back on this year will make a lot of sense in terms of what happened with the economy and the stock market.
+NEUT11|I mean there was this as you said in this huge sell off and then the snapback because we realized it wasn't the end of the world.
+NEUT12|But then there was the stay at home trade because the companies in the parts of the economy that did best benefited from work from home.
+NEUT13|And of course that was the fangs and then the second tier text in the Pelotons and the FCS.
+NEUT14|And now as we start to get back to work.
+NEUT15|And the vaccine is being widely distributed.
+BEAR16|We're seeing a change over this rotation trade that we've been talking about for the past several weeks, which is of course generating a sell off of the text, particularly the second tier text and a rotation into cyclical stocks.
+NEUT17|An you know two years from now, we'll look back and say, oh, this is all just made perfect sense when we're in the throes of it.
+BEAR18|It's gut wrenching.
+NEUT19|It's mind-blowing.
+NEUT20|It's crazy.
+NEUT21|We've never been here before, but if you think about it actually does make sense.
+NEUT22|Andy, when you talk about being in the throes of it, I remember going into this.
+NEUT23|You did an interview with Warren Buffett where he said he was holding on to his airline stocks.
+NEUT24|He wouldn't sell him.
+NEUT25|Then.
+NEUT26|About a month later he did and then it was 365 days ago.
+NEUT27|You were with him as we hit really the lock down.
+NEUT28|What was that like?
+NEUT29|Absolutely Adam.
+BEAR30|I mean, it was March 10th of 2020 and I was sitting in his office in Omaha, which is kind of unthinkable at this point.
+BEAR31|Still doing an interview with him and remember the day before last year was the big sell off where the circuit Breakers kicked in and the Dow was down 2000 points and we flew out there and we were a little sort of wary like wow.
+NEUT32|I guess you know there's this pandemic, but we're traveling there wasn't really any talk of testing.
+NEUT33|There was not no widespread testing.
+NEUT34|We didn't particularly wear mask buffet, walked out and just came right out and shook our hands.
+NEUT35|We were a little concerned about that and sat right down with me and the first question.
+NEUT36|I asked him.
+NEUT37|Adam was the markets down 2000 points, Warren Buffett, what the heck is going on and, you know, gave one of his famous buffet isms where he said if you live long enough you'll see everything in markets and this is just another episode but you know the idea of after that I remember thinking Yikes you know what if we had given Warren?
+NEUT38|Look at covid.
+NEUT39|You know this sort of scary right?
+NEUT40|The whole thing.
+NEUT41|It was very, very scary and going back to those days a year ago and I remember you and I having a conversation that day when we knew that we were going to be working from home and you and I had a bet and you said that we wouldn't be back to the office until at least may and I thought you were crazy.
+NEUT42|I thought that would be way too long and here we are 12 months later and we're all still working from home or Andy Server.
+NEUT43|Yahoo Finance editor in chief.
+BULL44|"As always, thanks so much for jumping on with us."""

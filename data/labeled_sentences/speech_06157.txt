@@ -1,0 +1,12 @@
+NEUT0|"""Hello, I'm Pat O'Hare chief market analyst for briefing.com."
+NEUT1|Today is Thursday, March 6th.
+BEAR2|The world's largest retailer, Walmart reported February.
+BULL3|Same store sales increased 2.6% versus the briefing.com consensus estimate that called for an increase of zero point 8%.
+BULL4|Walmart indicated that sales exceeded its expectations because of continued strength and grocery health and Wellness and entertainment U.S. business segments.
+BULL5|Notably, it added that sales trends and apparel improved when compared to the last several months, but that softness remained in the home area due in part to a pullback in the housing market and the economy.
+BULL6|Comparable sales results, according to the company, outperformed the market in its three largest businesses.
+BEAR7|Looking to March, which will bring spring Break and an early Easter this year Walmart is projecting comparable store sales to be flat to up 2%.
+BULL8|Walmart continues to be in a good spot to capitalize on the slowing economy and consumers penchant to trade down for less expensive merchandise.
+BULL9|As we noted in last month and a bargain hunting column, we like the retailers position and believe it is attractively priced at current levels for investment minded individuals.
+NEUT10|The February sales report in March Outlook did not change that opinion.
+NEUT11|"I'm paddle her for briefing.com Thanks for listening."""

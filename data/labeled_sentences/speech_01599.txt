@@ -1,0 +1,18 @@
+BULL0|"""After a stark plunge Thursday that wiped out $100 billion in market value, the world's largest cryptocurrency is back near all time highs Tuesday as corporations like Visa and PayPal join other institutional players in expanding their crypto offerings, regulation."
+BULL1|The Wall Street is warming up to Bitcoin.
+NEUT2|Legendary hedge fund manager Ray Dalio warned last week that he thinks there's a good probability Bitcoin could be banned by the US government, similar to how it band Gold nearly a century ago.
+NEUT3|The Securities and Exchange Commission has been slow to issue regulation for cryptocurrencies, but in an interview with Forbes SEC Commissioner Hester Pierce, said Gary Gensler, President Joe Biden's nominee to head up the agency would likely be sympathetic to the call for regulatory clarity.
+BEAR4|When nations like South Korea started cracking down on crypto currency three years ago, prices crashed as much as 80% over the course of one year, though, it's unclear how such a development could affect markets today.
+BEAR5|Bitcoin prices have skyrocketed over the past year amid booming institutional adoption, and inflation fears sparked by unprecedented government spending to combat the pandemic.
+NEUT6|Last week, billionaire Elon Musk tweeted that Tesla would start accepting Bitcoin for vehicle purchases and retaining the cryptocurrency tendered as opposed to converting it to U.S. dollars.
+BULL7|Also, this month, Fidelity Investments filed an application for its first Bitcoin exchange traded fund and banking powerhouse Morgan Stanley said it would open up Bitcoin exposure to its wealthy clients.
+NEUT8|So it's limiting such funds to investors with an aggressive risk tolerance.
+BULL9|Bitcoin has surged nearly 800% over the past year.
+BULL10|It's return of about 96%.
+NEUT11|This year's more than any sector tracked by the S&P 500 SEC Commissioner explains why a delayed Bitcoin ETF has consequences.
+BEAR12|Forbes Bitcoin plunge erases $100 billion in 24 hours.
+NEUT13|Here's how long the bloodbath could last.
+BEAR14|Forbes legendary investor warns Bitcoin ban.
+BEAR15|Likely as price suddenly soars.
+NEUT16|Tord $60,000.
+NEUT17|"Forbes"""

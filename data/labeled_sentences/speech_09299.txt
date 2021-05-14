@@ -1,0 +1,20 @@
+BULL0|"""Hey guys, how's it going?"
+NEUT1|Welcome to trade a stock.com.
+BULL2|Today is Monday the 15th on falling feeling better.
+BEAR3|I was sick for about 3 weeks and then I got to Vegas got even more sick today I buy cyber icy ybr.
+NEUT4|I bought this talk awhile ago.
+BULL5|Made some good money on it and it out breaking out today.
+BULL6|Ironic 140 very good volume, not overbought yet and you can see it's been basically consolidating for a couple months now.
+BEAR7|You have a little bit of a sending base right here and basically broke out right today.
+BULL8|Good volume, nice white bar closed above the breakout line.
+NEUT9|So I bought this stock today.
+BULL10|I'm thinking this talk is going much higher so hopefully it does.
+NEUT11|Let's keep an eye on it.
+BEAR12|Unfortunately my OMCL stock, some news, bad news came out on that I had to sell that it took.
+BEAR13|Took a pretty bad loss.
+NEUT14|I have that written out in the blog so I did buy.
+NEUT15|See ybr today.
+BULL16|Great strong stock breaking out.
+NEUT17|Let's make some money.
+NEUT18|Don't forget to sign up for trade alerts in our watch list right here.
+BULL19|"Have a good day."""

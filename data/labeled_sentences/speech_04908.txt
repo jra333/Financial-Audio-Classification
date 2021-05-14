@@ -1,0 +1,12 @@
+BULL0|"""We're back, let's bring in real Solomon now with some bullish stock calls on the street, we need to talk about hey hi Scott, so Morgan Stanley naming Wynn Resorts preferred US gaming stock price target jumps 20 bucks to 120 a share."
+NEUT1|So this is on the Covid vaccine news and a stronger Chinese economy.
+BULL2|Good RX.
+NEUT3|Take a look.
+BULL4|Shares are up about 9% today after an RBC upgrades outperform.
+BEAR5|The stock, however, is still down more than 20% this week on that Amazon Pharmacy News.
+BEAR6|RBC says that pullback is an overreaction by the dip here.
+NEUT7|This is that discounts will be larger on Good RX and Amazon and at home delivery is really only 5% of retail pharma.
+BULL8|And staying with RBC, the firm bumping the price target on Yelp from 29 to $34 and this Scott is on improving fundamentals and also the belief that once the economy reopens, the snapback will be fast.
+BULL9|For restaurants, bars, beauty and fitness, the stock Scott is up more than 60% in a month and also on pace for its best month ever.
+BULL10|Certainly hope there right?
+BULL11|"Well thank you."""

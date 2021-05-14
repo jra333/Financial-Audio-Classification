@@ -1,0 +1,45 @@
+NEUT0|"""Hi, I'm full.com editor Dylan Lewis."
+NEUT1|On this episode of FA Q We're going through the long and short of shorting stocks.
+BULL2|When you buy a stock, you're hoping that the value will go up over time.
+BEAR3|When you're shorting a stock, you're expecting the opposite, that the value of the company will go down in the future.
+NEUT4|Buying a stock is simple.
+NEUT5|You have money in your account, you buy it, it's yours.
+NEUT6|Shorting is a little more complicated when you're short.
+NEUT7|You actually borrow the shares via your brokerage and then immediately sell them at market price.
+NEUT8|The proceeds from the sale gets positive into your account, and you have an open short position to close this position, you have to go out and buy shares and return the same number of shares to the person you borrowed them from.
+NEUT9|So a little example.
+NEUT10|You borrow one share at $10 and sell it.
+NEUT11|The $10 is deposited into your margin account.
+NEUT12|Let's walk through two different scenarios.
+NEUT13|One month later, shares are at $7.00.
+NEUT14|You buy a share in return it to your brokerage and pocket the $3 situation.
+NEUT15|Two shares are at $13.00.
+NEUT16|You probably get a call from your brokerage asking you to put more money in your margin account to cover the losses.
+NEUT17|You can either commit to the position and put that money there, or buy shares at market price, close out the position and eat the three dollar loss.
+NEUT18|Shorting is a lot riskier than buying stocks, and the main reason for that.
+NEUT19|The upside and downside are flipped when you own a stock.
+BEAR20|The worst case scenario is that you lose all of your money, so in the example before you bought it for 10, the business fails and shares go to zero.
+BEAR21|You lose your $10, but on the flip side, if the business does well overtime, the stock could double or triple earning you more than you originally invested.
+NEUT22|When you're short, it's the opposite.
+NEUT23|The most you can gain is 100% of your money back, but you could lose more than you originally invested because there's no theoretical limit on the price of a stock.
+NEUT24|Say you were shorting the stock, tripled, you gain $10 by selling it after you borrowed it, but you don't have to go out there and buy it back for $30, meaning that you're taking a $20 loss.
+NEUT25|There are some other downsides to being short.
+NEUT26|You have to pay to watch your thesis play out.
+NEUT27|So generally there is a stock loan fee associated with shorting it, stated as a percentage and you're basically paying it daily.
+BEAR28|So every day that you have a position open, it eats into your returns.
+BEAR29|You have massive downside with big earnings surprises, MA activity or Black Swan type events like Brexit in the US election results as well.
+BEAR30|When unexpected events like those happen, shares can spike as people that are short, panicked to cover their positions, and this is called a short squeeze.
+NEUT31|With shorting, you're also betting against the general motion of the market.
+BULL32|Historically, the US stock market is returned 6 to 7% annualized.
+NEUT33|Going short is a bet against that general growth trend.
+NEUT34|And Lastly, you're on the hook for dividends paid out.
+NEUT35|While the shares are on loan as a market tool, shorting is a good thing.
+NEUT36|Allowing people to bet against companies creates an incentive for people to identify fraud in the shorts can also be a good check on irrational exuberance.
+NEUT37|But generally the average investor should stay away from shorting.
+NEUT38|It's risky and complicated.
+NEUT39|Hopefully this video made it a little less complicated.
+NEUT40|Thanks for watching guys.
+NEUT41|If you enjoyed this video we have plenty more like it coming hit.
+NEUT42|Subscribe down at the bottom right and give us a thumbs up.
+NEUT43|And if you have any questions on things I hit in the video, drop them in the comments section below.
+NEUT44|"We love getting ideas for future episodes."""

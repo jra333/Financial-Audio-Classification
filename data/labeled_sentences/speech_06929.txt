@@ -1,0 +1,28 @@
+BULL0|"""And while U.S. stocks are hitting records, so are India's an Argentina's US junk junk."
+NEUT1|Bond prices are also high and rising, and it isn't just risky investments that are up, so are the prices of conservative U.S. Treasury bonds.
+NEUT2|Call it the investors dilemma.
+NEUT3|Everything is expensive.
+BULL4|Wall Street Journal columnist ES Browning joins Money beat now Mr Browning, thank you so much for joining us.
+BULL5|See you, good to be here.
+NEUT6|So Jim, you have a great column here looking at how everything is expensive.
+NEUT7|Across the world, can you get a bargain anywhere these days?
+NEUT8|It's pretty hard to find something that's cheap is something that is cheap.
+BULL9|It it's probably got some huge defect, and even things that have gotten knocked down like social media stocks and junk bonds and biotechnology stocks are all on the rebound and Dan are getting back close to the highs that they hit before they got knocked down.
+NEUT10|So there's really a very widespread demand for assets right now, and that widespread demand is interesting because it's good and bad, right?
+BEAR11|Yeah, I mean the the bad part is that with everything so expensive you run the risk that everything could decline.
+BEAR12|If there's a drop in confidence or some sudden change in the investment climate.
+NEUT13|But the good news is that things are getting spread around fairly widely, which was not really the case in past periods of excess.
+NEUT14|Yeah, and when you talk about those past periods of excess 1990s in the late 1990s, there was a huge mania for.
+NEUT15|Exactly back in the 90s you had the the.com bubble and everyone was just piling into tech stocks, but that rally that bubble was so concentrated in such a specific part of the market and you have the exact opposite playing playing out right now.
+NEUT16|Yeah, and the same was true before the financial crisis where you had a huge run into housing and mortgages and an risky loans.
+NEUT17|That was another area where there was a huge concentration of assets.
+NEUT18|Now it's very widespread, including a lot of money in very conservative Treasury bonds, which indicates that you don't have the same speculative fever.
+NEUT19|Now that you have had in the past.
+NEUT20|So you call this the Investors dilemma.
+NEUT21|What is an investor to do in this current environment?
+NEUT22|Well, it's a tough choice if you want to be really conservative, you have to go for something like a an increased cash exposure because.
+NEUT23|If you go almost anywhere else, it's expensive.
+NEUT24|Some people are recommending Treasury bonds and one reason the Treasury bonds are up is that in most scenarios, if everything else goes down, Treasury bonds hold their value, but it's a significant problem where to go and the other recommendation that people are making is that you try to diversify and and just get a very broad spread of assets, which clearly is what the market is doing.
+NEUT25|The Investors dilemma Jim Browning.
+BULL26|Thank you so much for joining us.
+NEUT27|"You bet."""

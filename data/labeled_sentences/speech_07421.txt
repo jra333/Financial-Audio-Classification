@@ -1,0 +1,21 @@
+BULL0|"""It was a wild night in America on Tuesday, with big swings in the vote tallies in big states."
+BULL1|The atmosphere of excitement and uncertainty is captured nicely in the roller coaster in NASDAQ.
+BEAR2|Index futures as the evening wore on the ride remains wild on Wednesday with both candidates.
+NEUT3|Seeing a path to election as the final votes are tallied, the outcome is going to depend on absentee ballots cast in just a few swing states, such as Pennsylvania.
+NEUT4|But just because the presidency still hangs in the balance, it does not mean that we have not learned anything at all.
+NEUT5|One thing is becoming increasingly clear.
+BEAR6|The Democrats hopes of adding to their majority in the House of Representatives and of flipping the Senate look likely to be dashed.
+NEUT7|This means that the most popular market narrative leading up to this election is not going to play out.
+NEUT8|This was the so-called blue wave.
+NEUT9|Reflation trade the story went like this with Democratic control of all three branches of government.
+BEAR10|There would be huge fiscal spending.
+BULL11|Higher inflation, higher interest rates, and finally higher stocks.
+BULL12|But despite the blue wave scenario not playing out stocks rose nicely on Wednesday morning.
+NEUT13|Was the reflation trade narrative just a convenient post hoc justification for a market that was determined to rise anyway?
+NEUT14|Perhaps not if you look at 10 year Treasury yields on Wednesday morning.
+BEAR15|They did fall just as the failure of the blue wave scenario would have predicted beforehand.
+BEAR16|As a result, cyclical stocks and most prominently banks, the most cyclical of all, are getting hammered, which is exactly what the failure of the blue wave thesis would have predicted beforehand.
+NEUT17|So why, then is the market as a whole doing so well?
+NEUT18|Well, look at who is leading the market up, its technology and specifically the biggest tech stocks.
+NEUT19|Once again, the so-called faang stocks are leading the market, which is a return to the status quo of the last few years, and given a very mixed election result, what else would you expect?
+NEUT20|"Some days, even when the world is going mad, markets make good sense."""

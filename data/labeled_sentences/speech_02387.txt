@@ -1,0 +1,29 @@
+NEUT0|"""Jarrid what's going on with Disney."
+BULL1|Alright, we got a nice beat on several key metrics here.
+NEUT2|Disney plus subscribers.
+NEUT3|Probably the focus here.
+NEUT4|94.9 million the estimate was four 90.7 million.
+BULL5|So really nice beat their adjusted EPS.
+NEUT6|Now this is earnings per share.
+BEAR7|Net loss per share swung to a profit.
+BEAR8|$0.32 the estimated loss per share was $0.38.
+NEUT9|So the opposite basically revenue coming in at 16.25 billion.
+NEUT10|Estimate was for lower at 15.91 billion.
+BEAR11|Still a substantial drop I'd Smith that's about 20% lower than last year, but given what?
+BULL12|Going on with the parks and the theater understandable, ESPN Plus subscribers 12.1 million coming in higher than the estimate of 11.5 million total Hulu subscribers.
+NEUT13|39.4 million estimate was for 38.4 million, so just reading into the report here, we've got a we have a quote here.
+BULL14|From the report, we believe the strategic actions were taking troops to transform.
+BULL15|Our company will fuel our growth and enhance shareholder value, as demonstrated by the incredible strides we've made in our DTC business.
+NEUT16|That's direct to consumer.
+NEUT17|Reaching more than 146,000,000 total paid subscriptions across our streaming services at the end of the quarter, that is from Bob Chapek, Chief Executive Officer.
+NEUT18|So just to review these numbers one more time, nice feed on total subscriptions coming in about 94.9 million.
+BEAR19|Estimate lower and also all the top line and bottom line metrics.
+NEUT20|Nice beats there.
+NEUT21|So just taking a look at the stock as it is trading right now.
+BULL22|The initial pop is up.
+BULL23|It's up about 1.8%.
+BULL24|You can see over the trailing year holding on to gains of 35%, and that's pretty impressive considering all the pivots they'd have to make.
+NEUT25|I also want to mention that they've also announced that they're rolling out movies this year.
+NEUT26|Haven't adjusted the schedules Black Widow, starring Scarlett Johansson, still scheduled to open on May 7th.
+NEUT27|Already knew that, but just kind of indicative of what direction they're heading in right now.
+NEUT28|"Planning for the best."""

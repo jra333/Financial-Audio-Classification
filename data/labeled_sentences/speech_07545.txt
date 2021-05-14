@@ -1,0 +1,21 @@
+BULL0|"""Record closing highs for all three major Wall Street indices on Wednesday the same day Joe Biden became the 46th president of the United States."
+BULL1|Wall Street was relieved with the inauguration going off without a hitch.
+NEUT2|Unrest Liz Miller is president of Summit Place Financial advisors.
+NEUT3|The inauguration is is actually very important.
+BEAR4|You know, we did see all the major indices, sort of dipping around 11:00 o'clock.
+BULL5|Going into it, and then it's coming out of that rather smooth transition, at least compared to what was expected.
+BULL6|And you know, those who were enthused by the messages of hope in the future driving the major indices to new highs into the afternoon by the closing Bell.
+BULL7|The Dow rallied 257 points.
+BULL8|The S&P 500 jumped 52.
+BULL9|The NASDAQ surged 260.
+NEUT10|Politics could only take partial credit for the rally.
+NEUT11|Netflix was by far the star of the day.
+NEUT12|The streaming media giant, which has been besieged by growing list of new challengers, said it will no longer need to borrow billions of dollars to finance his TV shows and movies.
+NEUT13|The main reason it continues to take in millions of new paying subscribers.
+NEUT14|Netflix ended last year with more than 200,000,000 paying customers worldwide.
+BULL15|Shares of Netflix surged 17% to an all time high.
+BULL16|Netflix is quarterly results fueled enthusiasm for other tech companies like Google Parent Alphabet that have yet to report.
+BULL17|Alphabet shares jumped to a record high as well in other high profile earnings.
+BULL18|Morgan Stanley, the last of the big U.S. banks to report smashed estimates thanks to strength in its trading unit.
+NEUT19|Procter and Gamble one of the world's largest consumer products companies.
+BULL20|"Boosted its full year sales guidance for the second time after demand for its cleaning products remained at an elevated level due to the health crisis."""

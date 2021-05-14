@@ -1,0 +1,33 @@
+BEAR0|"""According to the Johns Hopkins University website, so far there have been at least 210,000 reported deaths from COVID-19 in the United States."
+BEAR1|But many public health experts infectious disease specialists believe that these estimates are most likely underestimating the actual true number.
+NEUT2|Then there are people like conspiracy theorists who believe that the numbers are actually being deliberately.
+NEUT3|Overestimated so what's preventing us from getting a more accurate picture of what's going on?
+NEUT4|Well, there are eight points to consider.
+NEUT5|So first there's the lack of a coordinated national surveillance system.
+NEUT6|Although many of us use the COVID-19 tracker from Johns Hopkins University, it's important to remember that it wasn't created as an official government source.
+BEAR7|Instead, it was created when a graduate student and an associate professor noticed a lack of systems to track cases as a University.
+NEUT8|Johns Hopkins can't tell States and jurisdictions what to do.
+NEUT9|Only the federal government has the power and resources to keep everyone coordinated.
+BEAR10|Two lack of national testing.
+NEUT11|An national coordinated testing.
+NEUT12|Extensive testing is only happening in a handful of states like New York and California, and even in those places it's not completely clear who is getting tested and how often, so it isn't clear what percentage of actual COVID-19 cases and deaths each state is currently catching.
+BEAR13|Three lack of resources an adequate public health infrastructure.
+NEUT14|Many Health department's just don't have the personnel the time.
+NEUT15|Order technology on hand to keep accurate records for delays in or absence of reporting once a death from COVID-19 has happened, it needs to be reported to the authorities and make its way up the chain to whoever is telling the death count at the state level.
+NEUT16|This chain may not be very well coordinated and can make the DMV look efficient by comparison.
+BEAR17|5 unfamiliarity with COVID-19.
+NEUT18|We know more about the virus now compared to when it first hit, of course.
+NEUT19|But there's still a lot that remains a mystery to medical experts.
+BEAR20|Many cases can go unidentified and mixed messaging from the federal government hasn't helped either.
+NEUT21|6, The virus, the disease it causes and death are complex.
+NEUT22|The virus can take time to do damage and trigger chain reaction over a lengthy.
+NEUT23|For example, if someone got COVID-19 and then got pneumonia and suffered respiratory failure, the cause of death could have been officially counted as respiratory failure.
+NEUT24|The Cover 19 should also be listed, in this case 7.
+BEAR25|The lack of a clear national definition of a COVID-19 death.
+NEUT26|This relates to .6.
+NEUT27|The federal government should come up with a very clear and transparent definition of what constitutes a COVID-19 death that is properly vetted with these nine tific community and have it released by the national authorities.
+NEUT28|8 political motivations and conspiracy theories when politicians seek to use COVID-19 figures as a means to their ends or conspiracy theorists possessing very little to no scientific knowledge or able to sow doubt in medically credible sources.
+NEUT29|It can become harder to determine what is true and what is not.
+NEUT30|Ultimately, the death count is only one measure of the severity of an infectious disease, outbreak, epidemic, or pandemic.
+NEUT31|Keep in mind that the true impact must also be considered on impact.
+BEAR32|"The families loss, economic productivity, medical costs and disruption to normal life."""

@@ -1,0 +1,43 @@
+BEAR0|"""Boom, what's going on?"
+NEUT1|Investor Maniacs who listen here brother today.
+NEUT2|We're talking about Fang.
+NEUT3|And I'm not talking about the double things on these 24 inch pythons.
+NEUT4|Brother.
+NEUT5|No, I'm talking about Facebook, Apple, Amazon, Netflix, NVIDIA and Google.
+NEUT6|And I threw in Microsoft just for good measure.
+NEUT7|Today we're only looking at valuation, that's it.
+NEUT8|So I've got the ticker symbol symbols blocked out over here on the left.
+NEUT9|We don't want you to get influence.
+NEUT10|You look at these numbers and you decide which one you think is the best valued.
+BULL11|So first we've got 2018 revenue growth.
+BEAR12|We can see our slowest growers here, around 14% with our fastest grower around 37%.
+BEAR13|This is the most recent quarter you can see this one, and this one are actually shrinking revenues.
+BULL14|This one is still our fastest grower.
+NEUT15|This is enterprise value divided by 2018 revenues.
+NEUT16|So remember enterprise value takes into account.
+NEUT17|It's like market cap, but it includes.
+NEUT18|The cash in debt on the balance sheet.
+NEUT19|OK, so we can see this one and this one is the cheapest and this one is the most expensive.
+BEAR20|But we have to remember operating margins so this one is going to be the worst, although it's one of the cheapest.
+NEUT21|It has not that great of operating margins at 5%.
+BEAR22|In contrast this one, although it's more expensive than most it has blow away operating margins, fantastic operating margins.
+NEUT23|So when we take the 2018 revenue growth and the cost of the revenue.
+NEUT24|And the operating margins.
+NEUT25|We get this ratio the smaller the better.
+NEUT26|So this one is going to be our cheapest and it looks like this one is going to be our most expensive.
+NEUT27|However, all of these companies have earnings and for this particular cohort of stocks, earnings is really a better metric to use.
+NEUT28|So we've got the PE ratios.
+NEUT29|This one is going to be our cheapest and this one is going to be our most expensive at 132.
+NEUT30|But we also have to remember these companies are growing at different rates.
+NEUT31|So we've got the PEG ratio.
+NEUT32|Remember that's the PE ratio divided by the growth.
+BULL33|The revenue growth, so we can now see that this one is our cheapest.
+NEUT34|We take the PE ratio of 22 and we divide it by the revenue growth of 37.35 and we get .6.
+NEUT35|That's a pretty cheap stock there.
+NEUT36|In contrast, our most expensive is here at 3.7, so looking just at these numbers if you want to pause the video for a second and decide which one you think is the best one or two, go ahead and do that now.
+NEUT37|OK, and now we've got Facebook, Apple, Google, Invidium, Microsoft, Amazon and Netflix.
+BEAR38|As you can see Facebook, in my opinion, is by far the cheapest valued stock which makes sense 'cause it had a bunch of problems in the back half of 2018.
+NEUT39|I'll probably make a video pretty soon on Facebook about that stuff.
+NEUT40|I don't think that those issues really matter anymore.
+BULL41|I think they've gotten past it, and I think that from a valuation standpoint, Facebook is the clear winner of the things.
+BULL42|"Hope you guys have a great day."""

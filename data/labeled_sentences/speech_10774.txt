@@ -1,0 +1,36 @@
+NEUT0|"""Let's be clear here, the way that you have characterized your pre orders were reservations in the past."
+BEAR1|I mean you called these on CNBC serious orders.
+NEUT2|Now people would look at this and say if you have a company that's not putting down a deposit that doesn't have a fleet but basically are collecting letters of interest, are those truly serious orders?
+NEUT3|Well, now we've been Phil.
+NEUT4|We always been very clear, right?
+NEUT5|These are.
+NEUT6|These are just what they are intended to be right?
+NEUT7|These are non binding letter intense.
+NEUT8|They're called pre orders out in the in the kind of real world so always classified him for that and we have a lot of those pre orders.
+NEUT9|I think you know we have pre orders directly from fleets.
+NEUT10|We have pre orders from people that sell the fleets because that's the way fleets by please don't buy like in general they don't buy like consumers buy they buy through intermediaries and so all we've done is gone out gauge interest because you got a tool for.
+NEUT11|To build something like this in an automated fashion, we're going to build one of these every 6 minutes.
+NEUT12|We kind of have to know how to tool and you gotta know bout a year in front of your of your building, so that's what everybody uses.
+NEUT13|Pre-orders for.
+NEUT14|They are always by definition non binding.
+NEUT15|No money down cancel.
+NEUT16|I mean, that's just that's the nature of EV startups trying to gauge interest.
+NEUT17|I understand that Steve, but some people would look at this and say look, you were far more aggressive in characterizing those preorders as true commitments that you have company XYZ.
+NEUT18|That has said yes.
+NEUT19|Sign us up for 5000 or 6000.
+NEUT20|Do you regret the way you characterize those reservations?
+NEUT21|Well reservation fill all I can you know I don't want to get into specific target Al use demand is robust.
+NEUT22|We've never said we had orders.
+NEUT23|We don't have a product yet.
+NEUT24|By definition we can have orders, right?
+NEUT25|So when you're early and you're years away from a product.
+NEUT26|In this case one year, and now we're down to six months.
+NEUT27|So now that we have the betas, we are starting to be able to short some of that up, but the pre-orders did exactly what they were supposed to do.
+NEUT28|Gauge interest, nobody knew.
+NEUT29|If police would buy an electric pickup truck right, it was completely unknown science, no data around it, so we queried them.
+NEUT30|We have very robust interest and that's just what they are.
+NEUT31|Their letters of interest.
+NEUT32|You can't do any more than that in this stage, so I don't think anybody thought that we had actual orders right?
+NEUT33|We just that's just not the nature of this business.
+NEUT34|Shepard Smith here.
+NEUT35|"Thanks for watching CNBC on YouTube."""

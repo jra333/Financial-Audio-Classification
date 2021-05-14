@@ -1,0 +1,8 @@
+BULL0|"""From FX Empire, this is Chris taking a look at the S&P 500 and as you can see the market has shown quite a bit of bullish pressure as we have broken out of this 150 point range."
+NEUT1|This under 50 point range has a measured move.
+NEUT2|To 3100, which of course is a higher level fresh new hire.
+BEAR3|Should say an you know there's nothing on this chart that says it can't happen, but we are running out of momentum.
+BEAR4|I think we're running out of time, so short term next couple weeks, months, whatever, we're probably looking at bullish pressure.
+BULL5|This is based mainly upon US China talks going a little better I guess in the sense that they at least they are talking, but we've been disappointed before.
+NEUT6|One would have to think it's only a matter of time before that happens.
+BULL7|"Next couple candles probably send this market higher though."""

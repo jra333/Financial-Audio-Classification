@@ -1,0 +1,45 @@
+BULL0|"""The RSI 14 is 87 and this increases the risk substantially."
+BULL1|There is a buy signal from a pivot bottom found 21 days ago.
+BULL2|Dot is Castor Maritime Incorporated stock a buy several short term signals are positive and the stock has broke the rising trend up, which indicates an even stronger rate of rising.
+BULL3|We conclude that the current level may hold a buying opportunity as there is a fair chance for Castor Maritime Incorporated stock to perform well in the short term period.
+BULL4|We have upgraded our analysis conclusion for this stock since the last evaluation from a hold accumulate to a strong buy candidate candidate Dot current score.
+NEUT5|8.344 predicted opening price for Castor Maritime Incorporated of Wednesday, February 10th, 2021.
+BEAR6|The predicted opening prices based on CTRM is overvalued compared to its price of $1.06 per share has well below average safety and is currently rated a buy.
+NEUT7|Dot recommendation rec.
+NEUT8|Birech reflects the cumulative effect of all the vector vest parameters working together.
+NEUT9|These parameters are designed to help investors buy safe undervalued stocks rising in price.
+NEUT10|Dot value ekeren.
+NEUT11|Price $1.00 point 06 current value $0.00 point 73.
+BEAR12|CTRM has a current value of $0.73 per share compared to a price of $1.06 per share.
+NEUT13|This stock is currently overvalued.
+NEUT14|Value is computed from forecasted earnings per share.
+NEUT15|Forecasted earnings growth, profitability, interest and inflation rates.
+NEUT16|Dot upside potential relative value.
+NEUT17|RV FARV is an indicator of long term price appreciation.
+NEUT18|Potential CRM has an RV of 0.87.
+NEUT19|Which is fair on a scale of 0.0 to 2.0.
+NEUT20|This indicator is far superior to a simple comparison of price and value because it is computed from an analysis of projected price appreciation.
+BEAR21|Three years out, AAA corporate bond rates an risk dot safety relative safety Rs.
+NEUT22|Very pores is an indicator of risk.
+BEAR23|CTR M has an Rs rating of 0.40 which is very poor on a scale of 0.0 to 2.0.
+NEUT24|Rs is computed from an analysis of the consistency and predictability of a company's financial performance.
+NEUT25|Debt to equity ratio.
+NEUT26|Miss longevity, price, volatility and other factors dot timing relative timing.
+NEUT27|RT excellent and analyzes a stocks price trend.
+BULL28|See TRM, has a relative timing of 2.0 which is excellent on a scale of 0.0 to 2.0.
+NEUT29|RT is computed from an analysis of the direction, magnitude and dynamics of a stocks price movements day over day, week, over week, quarter, over quarter and year over year.
+BULL30|If the trend dissipates, RT will gravitate toward 1.0 overall rating value.
+NEUT31|Safety timing VST very goods is the master indicator for ranking every stock in the vector of a state.
+BULL32|Base CRM has a VST rating of 1.34 which is very good on a scale of 0.0 to 2.0.
+NEUT33|VST is computed from the square root of a weighted sum of the squares of RV, Rs and RT stocks with the highest VST ratings have the best combinations of value safety and timing dot stop, stock price, stock price $0.00 point 5 two stop is an indicator of when to sell a position.
+NEUT34|CRM has a stop of $0.52 per share.
+NEUT35|A stock stop is computed from a 13 week moving average of its closing prices.
+NEUT36|And is fine tuned according to the stocks fundamentals.
+BEAR37|CI comfort index very poor.
+NEUT38|See as an indicator, which reflects a stock's ability to resist severe and or lengthy price declines.
+BEAR39|CTR M has a PSI rating of 0.33, which is very poor on a scale of 0.0 to 2.0 size based solely upon his stocks.
+NEUT40|Long term price history.
+BULL41|GRT earnings growth rate.
+BULL42|GRT reflects a companies one to three year forecasted earnings growth rate in percent per year.
+BULL43|CTRM has a forecasted earnings growth rate of 22.00%.
+NEUT44|"Which vector vest considers to be excellent?"""

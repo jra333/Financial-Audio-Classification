@@ -1,0 +1,36 @@
+NEUT0|"""Hey guys it's me Brad here for another fun prediction."
+NEUT1|This is off on I'm not telling you to do this.
+NEUT2|Do not purchase anything that I'm recommending here.
+NEUT3|This is all for fun and games.
+NEUT4|I'm doing predictions just for my own personal entertainment so if you guys want to enjoy watch go ahead.
+NEUT5|But anyway I'm looking at this stock Micron technology.
+NEUT6|MU is the ticker and it just looks so beautiful to me on this daily.
+NEUT7|Just look at it.
+NEUT8|Uhm?
+BULL9|You have the RSI that looks like it's picking up.
+BULL10|You had it break nice or levels of resistance yesterday.
+NEUT11|I mean Friday you have.
+NEUT12|You have it touching this.
+BULL13|Magdi signal it looks like its momentum is reversing RSI's moving up.
+BULL14|Volume is coming in.
+NEUT15|Let's look at the volume.
+BEAR16|Volume is decreasing, but that's after a long downtrend.
+NEUT17|You know volume.
+BEAR18|Downtrend come back this gap was filled in and it was rejected.
+NEUT19|So this is the next green bar.
+NEUT20|This this is beautiful.
+NEUT21|So beautiful.
+BULL22|I think it's going to go up to at least here.
+NEUT23|If it breaks, this SMAP these SMAD and this resistance level.
+NEUT24|Do you know how great that is?
+BULL25|That is wonderful and that's what I'm hoping happens.
+NEUT26|This is an easy option play for me.
+NEUT27|If I were to trade this so my prediction is is that it's going to go up.
+NEUT28|To least 50 will see.
+NEUT29|Let's see let me do on one trim level support.
+NEUT30|One of this 48 something.
+NEUT31|Me.
+NEUT32|Yeah, what do you guys think?
+BEAR33|I don't know it could be wrong.
+NEUT34|It could come back down here and hit this, you know, continue and trick us.
+BULL35|"You know now, but my prediction is up."""

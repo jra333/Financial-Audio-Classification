@@ -1,0 +1,9 @@
+NEUT0|"""Here's what we're watching."
+NEUT1|Is trading gets underway in London for what is the final day of the first quarter and what a quarter it has been for investors swinging from the depths of despair in mid February to the point where many asset classes are now back in the green for the year lagging this V shaped recovery.
+BEAR2|However, a European and Asian equities, hence why the Footsie All World Index is slightly negative for the year.
+NEUT3|So where does this leave investors and markets?
+NEUT4|As April beckons, closely watching commodity prices and remaining wary of.
+BEAR5|Any renewed strength in the US dollar, for all the support from highly accommodative central banks, with Janet Yellen playing a starring role this week, dollar strength and falling commodity prices are the tripwires for investor sentiment.
+NEUT6|As we enter April.
+NEUT7|For now, the investor heard is enjoying having central banks like the Fed in their corner.
+BEAR8|"But with the March U.S. jobs report due tomorrow, an another corporate earnings season looming, we are about to see whether April is indeed the cruelest month."""

@@ -1,0 +1,38 @@
+NEUT0|"""Hello again everyone, expense form from trade-winds.com and this is our update for July 27, 2017."
+NEUT1|Let's take a quick look at today's markets.
+BULL2|Well, it was an interesting day.
+BULL3|The Dow actually hit a fresh new intraday high and and closed at up 85 points today, mostly led by Boeing which was up nicely.
+BEAR4|Second day of a gap here nice.
+BEAR5|Follow through on that earnings announcement yesterday and Verizon as well having a huge day on an earnings beat, but pretty much everything else was down the S&P 500 finished lower by two and a half then now that took it on the chin down 40 points mid day.
+NEUT6|We had a tech sell off here and I'll look at a few of those in a moment.
+BEAR7|While the Russell also pulling back about eight points, bonds down again down about $0.60 or so.
+BULL8|One gold and crude both are moved higher in both both closed up above and these previous highs here.
+BULL9|So gold popping up above about 10 points today while crude finished higher by about $0.29.
+NEUT10|Now let's go back then as that it was a lot of lot of big tech names also transports which was a surprise even on the Dow.
+NEUT11|Let's have a look.
+BEAR12|And a few of those names starting with Apple and you can see pretty sharp sell off here.
+BULL13|Now we did have a nice bounce.
+BEAR14|We did make up about half of that by the end of the session, but we were lower.
+NEUT15|Most of those Fang stocks taken on the chin.
+NEUT16|There's Netflix.
+NEUT17|Let's look at Google here.
+NEUT18|There it is.
+NEUT19|NVIDIA as well.
+BULL20|Took it on the chin now, Amazon, which you can see here, had put in a fresh new high.
+NEUT21|And then sold off.
+BEAR22|But after hours gave the market a shock came in with an earnings EPS of $0.40 a share compared compared to an expected number of $1.42.
+BEAR23|Now it's an even bigger shocker.
+BEAR24|Is that initially they were down about 2%.
+BEAR25|When I looked at them just before starting to record this video, they were only down 2%.
+BULL26|They were starting to recover.
+NEUT27|Main reason is all that money that they spent went towards.
+NEUT28|You know new investments, so I guess we'll get a lot more detail in the conference call.
+NEUT29|But investors aren't too worried when they're reinvesting or putting the money, their profits back into the business.
+BULL30|So that seems to be encouraging.
+BEAR31|And as I mentioned in this initially we saw 3% sell off, which really isn't much for a stock that's over $1000 a share.
+NEUT32|But we had already made back a percent after hours, so it will be very interesting.
+NEUT33|How we open tomorrow and what the follow through will because as as I just showed you, those NASDAQ stocks were taking it on the chin big time.
+BULL34|So will we see any follow through selling or will Amazon help lift this market?
+NEUT35|Once again that's about it.
+NEUT36|For now.
+NEUT37|"Enjoy the rest of your day and we will see you on our next update."""

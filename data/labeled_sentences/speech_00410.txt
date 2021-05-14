@@ -1,0 +1,61 @@
+NEUT0|"""Swizz Beatz wanted to see Shopify policy."
+NEUT1|We look at Shopify, Pull it up.
+NEUT2|Let's see show people 135 billion price to sales 54.
+NEUT3|Price to earnings 701.
+NEUT4|Do we need to go any further?
+NEUT5|PE of 707 hundred.
+NEUT6|It made $196 million last in the last 12 months.
+NEUT7|Guys 196,000,000 bucks.
+NEUT8|It's like $434 billion.
+NEUT9|I think you almost made $196 million last 12 months and you're not are you?
+NEUT10|You're not worth 135 billion now, guys.
+NEUT11|I don't think he's going further.
+NEUT12|I hate to break it to you.
+BULL13|I mean, they got great margin.
+BEAR14|They got great margins, really awesome, but this is going to come down so much.
+BEAR15|It's ridiculous.
+NEUT16|Why is your stance?
+NEUT17|Because other people say this is growing.
+NEUT18|This is incredible.
+NEUT19|This amazing.
+NEUT20|Let's go.
+NEUT21|Let's go let's go.
+NEUT22|Let's just get on this.
+NEUT23|Let's get in on this stock before it becomes a good zillion dollars guys.
+NEUT24|It doesn't make money in the four year it.
+NEUT25|So this is the first year it's made money in the last 12 months of the first times ever made money.
+NEUT26|It's $135 billion company.
+NEUT27|If their profit, let's say their profit goes.
+NEUT28|Let's do this.
+NEUT29|OK, so PE ratio?
+NEUT30|Let's pick a PE ratio.
+NEUT31|Let's give him a high PE ratio of 30.
+NEUT32|Let's say we're given 30 PE ratio 30.
+NEUT33|They're currently 135 billion, 135 billion /, 30 PE.
+NEUT34|They had to make $4.5 billion a year.
+NEUT35|Is that right?
+NEUT36|That's right, 4.5 billion year in profit, not sales and profit.
+NEUT37|Keep in mind their sales last year in the last 12 months or 2.5 billion.
+NEUT38|What's their profit margin so their profit margin?
+NEUT39|Let's say it's 30%.
+BULL40|It's a 25.
+BULL41|Right now I'm gonna give it a little bit better, but let's say it's 30%, so we're going to make four point.
+NEUT42|5 billion divided by .3 and that means what's 4.5 / .315 billion hit that 15 billion in revenue to hold on to justify justify the price assuming a 30 piece till I was even given.
+NEUT43|This is what I want to do guys.
+BULL44|I'm trying to show you guys higher profit margin higher piece assuming a 30 by 30 pieces 700 PE right now.
+NEUT45|700 P. I'm assuming let's call it 30 P which is still way high there.
+NEUT46|$15 billion in revenue.
+NEUT47|How there are two point 5 right now let's take some 10 years.
+BULL48|15 / 2.5 to the power of .1 -- 1 equals they need to grow by 20% per year for ten years.
+NEUT49|Is it possible?
+NEUT50|Yes, but that would just mean it's worth what it's selling for today.
+NEUT51|Do you see what I'm saying here?
+NEUT52|I'm sitting there saying I'm giving a higher PE than we normally give.
+NEUT53|I'm giving him more profit margin they've made, and I'm telling them how much revenue to grow by for the next 10 years to justify two days price, not 10 years from now, is price.
+NEUT54|Today's price?
+NEUT55|And that's where I have an issue with growth investing.
+NEUT56|Everybody always puts more value on growth when you break it down.
+NEUT57|The numbers you sit there and say, is this a probable outcome?
+NEUT58|20% for years?
+BEAR59|OK, it's a small company could go 20% a year all day.
+BULL60|"I'm fine with that then it's worth what it's worth today at a 30P."""

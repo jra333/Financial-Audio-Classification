@@ -1,0 +1,11 @@
+BEAR0|"""The Utility EV Company, based out of Cincinnati, OH, shares spiked moments ago on a report that House Democrats have vowed to stop a newly announced contract between the Postal Service and workforce competitor Osh Cosh."
+NEUT1|Remember that contract was to modernize the Postal Service fleet.
+NEUT2|It had been announced earlier this week.
+BEAR3|Workhorse plummeted 50% on the news.
+NEUT4|Had to announce a new corporate update and give a news conference on on that.
+BULL5|Looks like shares are trading a little bit higher.
+NEUT6|They were on halted just on the news that this might not go to Osh costs, or if lawmakers are able able to successfully block.
+NEUT7|That will keep an eye on the story.
+NEUT8|Obviously moving the stocks.
+NEUT9|Shepard Smith here.
+NEUT10|"Thanks for watching CNBC on YouTube."""

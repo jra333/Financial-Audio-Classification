@@ -1,0 +1,27 @@
+BULL0|"""While video conferencing has become more popular over the last few years, use of this medium for job interviews had dominated in the past few months due to social distancing, so this means expectations are that you'll have a nearly flawless execution."
+NEUT1|Fumbling through the process while experiencing distractions and technical difficulties really isn't an option, so it's up to you to master the platforms being used in practice beforehand so you can appear confident and troubleshooting anything that comes up.
+NEUT2|You're required to set the stage for the interview environment, which take some additional preparation, and then you can have a major impact on the outcome as the host of at least one side of the interview space, you'll need to consider lighting connectivity.
+NEUT3|Audio quality, ambient noise, background visuals and video angles just to name a few.
+NEUT4|Everything counts and will be part of the evaluation, since it's likely you'll be using video technology to communicate in the new role, maybe with customers.
+NEUT5|So the interview is becoming an audition of sorts.
+BEAR6|Second, you'll be asked how you're handling the pandemic, and you should ask them to on a positive note, employers in the near future will be more forgiving of things like resume gaps and layoffs due to the recent disruption in the job market.
+NEUT7|However, question that's frequently being asked of candidates is how have you handled work during the pandemic.
+NEUT8|And with the really trying to assess is your leadership, creativity and how you adapt during a crisis.
+NEUT9|If you were furloughed, describe the new skills you developed or relevant online courses you completed.
+NEUT10|Or maybe you volunteered and you can talk about your participation in those events.
+NEUT11|Maybe you are supporting preschool age children as they were taking online courses, so all of these are going to bring important skills to the table and there's really no right or wrong response necessarily.
+NEUT12|But there are certain ways you can be more strategic in your answer to.
+BULL13|Demonstrate more positive attributes versus wasting an opportunity to showcase relevant competencies.
+BEAR14|And third, learning about the company culture just got harder.
+NEUT15|Part of the interview process is assessing the company and job it for yourself.
+NEUT16|While the hiring team is assessing your skills and fit at the same time, big piece of that puzzle is often revealed during an in person interview when you have the chance to observe the building decor, an employee interactions, the workspace setup and just the overall office vibe with in person interviews on hold or in offices that may have.
+BULL17|Significantly restructured to comply with social distancing guidelines.
+BEAR18|Much of this information is now muddled or even lost.
+NEUT19|Ask to speak with people you'll be working with, including peers or colleagues or people on collaborating teams and even direct reports.
+NEUT20|Use online tools like Glassdoor, Twitter and even linked into you comments or postings about the organization and talking to your network to get honest feedback about their experiences working in the company.
+NEUT21|Get creative with your questions during the interview by asking things like who was the last person on the team to get an award and what was it for.
+NEUT22|Or can you give me an example of a recent team conflict and how it was handled?
+NEUT23|And just for good measure, there are several things about the interview that haven't changed, so it's worth your time preparing.
+NEUT24|Well, there's no way to prepare for everything you might face in your next interview.
+NEUT25|Managing those things that are within your control will make those unexpected moments less stressful and easier to handle.
+BULL26|"So give yourself every advantage to leave a lasting positive impression."""

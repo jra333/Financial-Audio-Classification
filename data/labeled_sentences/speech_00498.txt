@@ -1,0 +1,51 @@
+NEUT0|"""Dell investors welcome back to another video."
+NEUT1|Today we're going to be learning the real value of LM Ericsson or Ericsson.
+NEUT2|What's the intrinsic value of this company?
+NEUT3|And really, first, what do they do?
+NEUT4|So, according to Wikipedia, Erickson is a Swedish multinational networking and telecommunications company headquartered in Stockholm.
+NEUT5|The company offers software, infrastructure information, communications technology for telecommunications operators and folks in the industry.
+NEUT6|So pretty interesting.
+NEUT7|They trade on the NASDAQ.
+BULL8|And in 2019 it looks like they had revenues in the amount of $227 billion, and some change, which is pretty strong.
+NEUT9|But let's take a look at their intrinsic value and see what they're really worth.
+NEUT10|0 on the intrinsic value range.
+NEUT11|Their values range anywhere from $3.06 to $5.17.
+NEUT12|Now you might be wondering how did I calculate that?
+NEUT13|Will start off with the low end of things.
+NEUT14|$3.06 represents their cash and cash equivalents, right?
+NEUT15|So for every share issued and outstanding by Ericsson.
+NEUT16|They have $3.06 in cash and cash equivalents about on the high end of things.
+NEUT17|So for $5.17 per share, what are you purchasing?
+NEUT18|Well, this represents their net profits.
+NEUT19|Really a multiple of their net profits in that multiple is 20, right?
+NEUT20|And what figure in my using what year?
+NEUT21|Well, I'm not using any one particular year.
+NEUT22|Rather I'm using the median net profits from the last 10 years, right?
+NEUT23|So this figure right here, 854 multiplied by 20 divided by?
+NEUT24|The total shares outstanding for Ericsson, and that's how we arrive at this fine balance in 17 cents number.
+NEUT25|It's it's really.
+BULL26|It's a solid number to use, and a number that I would stand by.
+NEUT27|As far as valuing the company fairly, we need to value these companies on the basis of what they're really worth in the basis of their performance, right?
+NEUT28|Not what someone else, not what our neighbors, Susie says.
+NEUT29|They're worth.
+NEUT30|'cause remember when people purchase this stock, they have to bid a little bit higher than the price forcing driving this price up.
+BEAR31|So if there is a flood of ice and it's going to drive the price up probably beyond its intrinsic value.
+NEUT32|So what are they trading at today?
+NEUT33|Well, they're currently trading at a price of $11.76 per share, which is, you know, it's not that far off of our figure, but it is more than double right.
+BULL34|More than double this upper bound.
+NEUT35|So of course this is a call where we are not going to invest.
+NEUT36|We would have to wait until the intrinsic value based off the company's performance justifies a purchase of its shares, right?
+NEUT37|We would have to wait until this figure drops beneath this figure, but where do we park our money in the meantime?
+NEUT38|If you need to?
+NEUT39|Productive place to park your money.
+NEUT40|There's no better place to do it than in the Vanguard 500 index fund, and I don't get paid to say this.
+NEUT41|I just like this fun because this is the same fund that Warren Buffett used to beat out the hedge fund guys in 2008.
+BULL42|We look at this steady growth here.
+NEUT43|You're looking at about 10 percent.
+NEUT44|10% return per year by parking your money here.
+NEUT45|So this would be the safe place to put it, which secures an ample margin of safety until this price for Ericsson, assuming it's a binary decision, drops beneath the upper bound.
+NEUT46|For for its intrinsic value.
+NEUT47|Now value investors.
+NEUT48|If you got any value out of this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance.
+NEUT49|So that way your investment performance is optimized.
+NEUT50|"Remember when your investment performance is optimized so wish you wealth production so you guys in the next video take care."""

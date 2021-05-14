@@ -1,0 +1,15 @@
+NEUT0|"""Alright John, as usual what you have for us today."
+NEUT1|Chargepoint judge, you know we were talking TV's back and forth because of all the great news out of General Motors.
+NEUT2|Will charge point.
+NEUT3|That's what they do.
+NEUT4|Charging stations at the money calls the stocks 2975.
+NEUT5|They're buying the April 30s that expire this Friday.
+NEUT6|I bought those judge and I'll probably be in about 2 to three days second one.
+NEUT7|Walmart.
+NEUT8|Take a look at the 150 strike out in May.
+NEUT9|This stock is about 140.
+NEUT10|So in other words they see $10 of upside.
+NEUT11|I bought the lower strike I bought the one 40s and sold the upside calls.
+NEUT12|I'll probably be in those about a full month.
+NEUT13|Scott Love both of these trades.
+BULL14|"Alright, good."""

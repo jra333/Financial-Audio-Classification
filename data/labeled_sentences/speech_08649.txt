@@ -1,0 +1,15 @@
+NEUT0|"""Hey guys, so I welcome to trade a stock today."
+NEUT1|I actually sold em TRN.
+NEUT2|Bought it yesterday.
+NEUT3|I bought it as it was bouncing off the 50 moving average as you see today actually sold at 64 and not sure what's going to close that this was at 126 but I did make about $200 off of it chart still looks good price.
+BULL4|Tell us some room to run, it's not overbought.
+NEUT5|But I just want to take the quick money.
+BEAR6|I don't like how the volume was so thinly traded.
+NEUT7|I looked at a lift today.
+NEUT8|Lift is about the same price, so I want to take my money out of here and try to swing trade left.
+NEUT9|So let's keep it.
+NEUT10|I on the market tomorrow, but I did close my trade out today with empty RN.
+NEUT11|So about 200 bucks or so.
+NEUT12|And of course of day or so.
+NEUT13|So not too bad.
+NEUT14|"Alright, don't forget to subscribe right here for our watch list an our alerts and I'll talk to you later."""

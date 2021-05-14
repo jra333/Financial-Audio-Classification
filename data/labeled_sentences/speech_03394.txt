@@ -1,0 +1,13 @@
+BEAR0|"""Bank stocks have dropped sharply since the start of the year because of worries about their business model."
+NEUT1|In a world of low interest rates and concerns about the UK recovery, it means the financial sector, which includes asset management and insurance groups as well as banks, are no longer the biggest component of the Footsie 100 in market cap terms, consumer goods groups and now the biggest grouping on the Footsie 100.
+BULL2|A shares of these companies have largely done well since the start of the year.
+BULL3|Consumer goods groups have performed strongly in contrast to banks, as these companies have mainly prospered in a difficult market environment.
+BULL4|This is because they have relatively strong balance sheets at healthy cash levels appealing to nervous investors looking for somewhere safe to park their money.
+NEUT5|These groups include British American Tobacco, the International cigarette company, Unilever, the Producer of household products such as soap and Shampoo, and Burberry, the British Fashion House, and luxury goods maker.
+NEUT6|It's difficult to tell whether this is a rebalancing of the economy in favor of consumer stocks over banks.
+NEUT7|The reality is it broadly depends on the economic recovery.
+BULL8|If the market stabilized and the revival on the High Street starts to strengthen, then bank stocks are likely to do well at outperform.
+NEUT9|Some of the consumer goods groups which typically outperform in difficult market conditions.
+BULL10|In a recovery, worries about low interest rates hurting the ability of banks to make money will probably recede, while house prices will likely continue to rise.
+BULL11|Boosting bank loan and mortgage books.
+BEAR12|"However, a downturn in growth and sentiment will likely see consumer goods groups retain their position as the biggest components on the Footsie 100."""

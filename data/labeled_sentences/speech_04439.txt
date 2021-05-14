@@ -1,0 +1,42 @@
+NEUT0|"""Some big news on Tesla."
+NEUT1|This morning the company announcing that five for one stock split in earlier this morning.
+NEUT2|Our friend Jim Cramer.
+NEUT3|This is what he tweeted.
+NEUT4|He says.
+NEUT5|I've urged everyone of the CEOs with the big dollar amount stocks to split.
+NEUT6|Someone listening, let's get CNBC's headquarters right now to get Jim Cramer's take on that right now.
+BULL7|Jim, you have been encouraging CEOs to do with the stock.
+NEUT8|Looks like it's up like some $15 billion in market cap just on that stock split news when I've made the argument that nothing actually.
+NEUT9|Really changed it does make it easier obviously for some investors to get access to the stock, but but how should investors think about these splits?
+BULL10|You're so right.
+NEUT11|I mean, I, I it is without a doubt chimerical that it creates any wealth.
+BEAR12|I just think that something's changed in America.
+NEUT13|We've got a lot of younger people who want to buy this fractional share.
+NEUT14|Things really hasn't taken off to get a chance to own Tesla.
+NEUT15|Psychologically they feel like it would be better to have a smaller amount as like Apple any.
+NEUT16|Any value in the stock that's created by this is false, but I think the idea of getting newer younger people involved in the stock market who aren't just brainwashed to put money into index funds is terrific.
+NEUT17|Andrew enough time is past 20 years has passed since the.com.
+NEUT18|You could say that the.com people, once again a new generation are in and they're very uninformed.
+NEUT19|I think it's up to us to inform them and we can be a critical voice for them, right?
+NEUT20|But no, it shouldn't create wealth, but it can create new people coming in.
+NEUT21|And boy, do we ever need that answer you know that this business has been ossified and that we were becoming dinosaurs and now young people want to be in because they think they can pick stocks and many of them can.
+NEUT22|Right now it's it's.
+NEUT23|It's very true.
+NEUT24|It's very true.
+NEUT25|Before we let you go, you're people who want to be in now and isn't it great.
+NEUT26|They do.
+NEUT27|No, it's it's very exciting.
+NEUT28|It's very exciting that they want to be in and I think you know this is what we've been waiting for for a long time because a lot of people unfortunately missed out the last 10 years.
+NEUT29|During this period.
+NEUT30|Of course, we also have to hope that they get educated on this stuff and get educated because of people like you, Jim who educate them about making the right decision.
+NEUT31|You come on, I mean.
+NEUT32|State they listen, they they listen to you.
+NEUT33|Maybe they buy before the opening.
+NEUT34|They say listen, I hear that they're not really a lot of wealth created.
+NEUT35|Tesla maybe we should wait like Mike said in a great interview to let it come down.
+NEUT36|But how about this idea that young people millions of people are looking at our show and making decisions that perhaps they should have by Tesla when it was 270.
+NEUT37|A lot of them did.
+NEUT38|We are far too critical.
+BEAR39|There's too many people come on the shows and dismiss these younger people and say they don't know what to do.
+NEUT40|And then you look at the records.
+BULL41|"And the records are paltry versus some of these younger people."""

@@ -1,0 +1,14 @@
+NEUT0|"""No question Facebook is about to be the hottest stock out there and for you all you would be investors out there that poses some interesting questions for which John Matarese has the answers tonight."
+NEUT1|So you don't waste your money.
+NEUT2|Facebook is the hottest new stock to go public in years.
+NEUT3|Maybe in modern history it's now the $10 billion question.
+NEUT4|How can you get a few shares of the social networking giant investors across the country are now scrambling to buy some shares later this week.
+NEUT5|But most small investors will not have access at the initial public offering or the IPO price.
+NEUT6|You may have to pay double or triple by the time you get your chance to buy in an hour or two later.
+NEUT7|So the Los Angeles Times has some suggestions.
+NEUT8|It says you can buy shares in a high tech or IPO mutual fund in advance that specializes in new offerings like this.
+NEUT9|Or if you want just one commemorative share to frame websites like give a share one share and frame a stock will sell you exactly one share how not to invest answering any email that shows up that claims it can get you Facebook at the offering price.
+NEUT10|Yep, scammers are already.
+NEUT11|Circling otherwise, experts say, your best bet may be just waiting a few days to see if it comes down a little bit after the initial hype so you don't waste your money.
+NEUT12|I'm John Matarese, 9 news.
+BULL13|"Thanks John, you know."""

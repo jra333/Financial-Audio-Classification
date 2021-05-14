@@ -1,0 +1,35 @@
+NEUT0|"""Let's go back in time for a minute is June the 24th, 2016, the day after the Brexit referendum, to most pundits surprise, the UK has narrowly voted to leave the EU."
+NEUT1|But something strange is happening.
+BEAR2|The economy isn't falling off a Cliff as some had predicted there's no imminent self inflicted recession and the Treasury's prediction that 800,000 jobs are about to disappear.
+BEAR3|Its worst case scenario also appears overcooked.
+NEUT4|So what actually happened to the economy since the vote?
+NEUT5|And what impact will Brexit really have?
+BEAR6|No true, the pound dropped 10% immediately after the result.
+BULL7|There's been little recovery against the euro, but the pound has climbed back up to the $1.35 mark.
+BEAR8|Inflation has risen, so things like bread and chocolate are more expensive for you and me, and the economy is about 1.9% smaller than pro Brexit.
+BEAR9|Economists expected it to be at this point, that's a 38 billion pound annual loss.
+NEUT10|What about the future?
+NEUT11|On March 29th, 2019, the day Britain officially leaves the EU, not much will change.
+NEUT12|The transition deal means the UK will probably stay in the single Market and Customs Union until December 31st, 2020.
+NEUT13|Businesses can rest easy for now knowing that goods, capital people and services will continue to flow freely.
+NEUT14|What's less certain is what sort of customs arrangement the UK and EU will agree on.
+NEUT15|What trade deals the UK can strike when it's free to set its own tariffs on goods?
+NEUT16|Oh yes, those top secret documents.
+NEUT17|The ones that show the government's own analysis of how Brexit will affect the economy.
+NEUT18|So what do they tell us?
+NEUT19|For a start?
+BEAR20|They say that almost every sector of the economy in every UK region will be worse off under all likely Brexit scenarios, depending on how hard the Brexit is, the losses are expected to be large.
+NEUT21|2% of national income or £40 billion a year.
+NEUT22|If Britain stays a member of the Single market.
+NEUT23|And adopts Norway's relationship with the EU.
+NEUT24|5% of national income.
+NEUT25|If Britain just has a free trade deal with the EU or 8% of national income if there's a very hard Brexit and Britain trades with the EU underworld Trade Organization rules.
+BEAR26|In each case the government expects tax revenues will be hit even though less money will be transferred to Brussels.
+BEAR27|The net losses are expected to be between 20 billion and £80 billion a year.
+NEUT28|Both the Bank of England and the Office for Budget Responsibility now think the UK economy won't grow faster than about 1.5% a year, but of course all of this economic modeling depends a lot on things we don't know.
+BULL29|Will manufacturers be able to import parts from across the EU without big delays at borders?
+NEUT30|Can companies hire the E workers they need?
+NEUT31|Will there be new regulatory barriers?
+NEUT32|Erected companies are reluctant to invest heavily in the UK until there's clarity over the outcome of the Brexit talks.
+BULL33|Britain's long term economic relationship with the EU should become clearer in the autumn 01.
+NEUT34|"More thing with the EU withdrawal Bill still has to make its way through Parliament and clear a lot of hurdles before anything is set in stone."""

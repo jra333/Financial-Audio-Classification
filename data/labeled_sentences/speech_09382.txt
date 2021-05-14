@@ -1,0 +1,30 @@
+NEUT0|"""So."
+NEUT1|Let's use a real world example.
+NEUT2|Obviously this is not the kind of deal you're doing, but if you look at Tesla today through that lens.
+NEUT3|Is that stock a buy within market cap North of $800 billion?
+NEUT4|I mean, the short answer is yes.
+NEUT5|The reason is that I think people it took people like I bought Tesla in 2014 or 15.
+NEUT6|I was one of the largest owners of the convertible debt.
+NEUT7|You know, I felt that that was the best margin of safety.
+NEUT8|Way to bet on Tesla.
+BULL9|It's turned out to be an enormous winner.
+NEUT10|And I really believe in what Elon is doing.
+NEUT11|I think he's the most important entrepreneur of our of our lifetime.
+NEUT12|Uhm?
+BEAR13|It's taken people.
+NEUT14|15 years to embrace that they're going to be now a legitimate car.
+NEUT15|Complete, but when I under the investment, my bet was on something bigger and I think that Elon is well past building a car company and I think it will take another five or ten years for people to figure out what this next arc of innovation is and what that is is.
+NEUT16|That is the deregulation of energy.
+NEUT17|If you look under the hood, you know utilities spend 10s of billions of dollars, hundreds of billions of dollars a year all around the world.
+NEUT18|On CapEx they are completely regulated.
+NEUT19|They feel completely safe, they feel like they can issue debt ad nauseam.
+NEUT20|You know they can cause all kinds of damage.
+NEUT21|Into the environment or otherwise.
+NEUT22|Look at PG and E and still come away unscathed because they're protected, except that something is happening that nobody forecasted, which is the complete bottoms up disruption of energy, and that's the only way that this thing is going to get deregulated.
+NEUT23|It's not going to be by law or dictate it's not going to be, you know, a big monolithic competitor.
+NEUT24|It's going to be because every home installs hydro panels, solar panels, batteries, and then software that basically allows him to live.
+NEUT25|Off the grid and then eventually pump their excess energy into battery solutions and other things that are controlled by cities and towns and governments who then in turn will turn off their usage of speakers at a minimum and then overtime will have very different characteristics of usage from traditional utilities.
+NEUT26|That is what Tesla is powering.
+NEUT27|That is what allows it to be a multi trillion dollar company, so it doesn't have the same return profile is when I bought it, but is it equivalently now 25 or 30 bucks a share?
+NEUT28|Well, obviously not, but can it be multiples higher than where it is today?
+NEUT29|"Absolutely."""

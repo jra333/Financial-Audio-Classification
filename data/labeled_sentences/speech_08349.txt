@@ -1,0 +1,18 @@
+NEUT0|"""You'll find information regarding index in your account in the content folder."
+BULL1|I have this talk as a strong buy.
+BEAR2|I consider the stock undervalued and we remain 1% longer.
+NEUT3|Stock.
+NEUT4|The normal upside that I consider in Yandex mentioned in 2012.
+NEUT5|It is $28.00 to $30 and my most bullish target on this talk is 33 to $47.
+BULL6|That is to say I have a strong buy in Yandex.
+BULL7|I consider one of the best opportunities in the market.
+NEUT8|Outside the US.
+BULL9|And we remain committed to the long side.
+NEUT10|In Yandex I also announced that in my view, which were the best place outside the US stock market in the Chinese market as well?
+BULL11|So Yandex is outside the US market stock that we remain strong by fully long when I'm presented with a normal upside 28 to $30 and most bullish target 33.
+BULL12|$237 we consider it a strong buy and I already announced that even if the stock would sell.
+NEUT13|I will remain committed to the long side in the index for those that have long positions in Yandex, you have to follow this line that is the blue line that in my perspective is support.
+NEUT14|So if or while the share price remains above this support line, there is no reason whatsoever in my perspective to quit long positions.
+BULL15|In Yandex OK, that is my view and bear in mind that in 2012 I've been very clear about the upgrades to strong buy in Yandex.
+NEUT16|Also mentioned in 2011.
+BULL17|"Thank you."""

@@ -1,0 +1,26 @@
+NEUT0|"""Neo stock analysis and predictions, November 7th."
+NEUT1|In today's NEO stock analysis and predictions.
+BULL2|NIO options volume beat Apple and Facebook.
+NEUT3|All right, let's get started.
+BULL4|Analysts note that options of Neo are breaking volume records according to data Neos volume of options in trading this week exceeded Facebook options many times and also overtook Apple.
+BULL5|Neo is experiencing rapid growth this week.
+BULL6|In general, the entire first part of the week was extremely successful for the company.
+BULL7|The cumulative growth was more than 11% from the opening price on Monday.
+BULL8|Neo's record deliveries Neo has gained investors confidence in the company's prospects.
+NEUT9|Primarily the result of Neos deliveries were shared this week.
+BULL10|The company set a new record, breaking the threshold of 5000.
+NEUT11|Ivis delivered per month.
+BULL12|This figure is 100% higher than the results of October last year, demonstrating the rapid development of the company's supply in the previous months.
+BULL13|The delivery figures were continuously growing in September.
+BULL14|This growth was 133% on a year over year basis.
+BULL15|Neos increased production.
+BULL16|The company's confidence in the future is also confirmed by its founder and CEO William Li.
+BULL17|In an interview with the Chinese media, he spoke about the company's plans to double its production capacity, bringing it to 300,000 cars annually.
+NEUT18|By the end of 2021.
+BULL19|Also, the Chinese media are suggesting that a new model will be announced at NIO Day in January to complement Neos lineup.
+NEUT20|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT21|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT22|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL23|We'd really appreciate it.
+NEUT24|Are you still watching and want more?
+NEUT25|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

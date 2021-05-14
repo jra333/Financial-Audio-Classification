@@ -1,0 +1,28 @@
+NEUT0|"""Hello viewers, in this video we will be going over ETF ticker, symbol DIA ticker diia closely tracks the Dow Jones Index."
+NEUT1|It holds 30 large cap U.S. stocks.
+BEAR2|DIA stocks are price weighted not cap weighted, which can produce major sector realignments when multiple Holdings change as a curd in September 2013.
+BULL3|DIA is a popular choice for investors looking for relatively safe exposure to large cap US equities.
+NEUT4|DLA has an MSI ESG fund rating of a based on a score of 6.28 out of 10.
+NEUT5|This dissector holdingford EIA.
+NEUT6|It has highest exposure to technology sector, followed by almost even spread of exposure to healthcare, industrials, consumer cyclicals financials and consumer noncyclical's.
+NEUT7|Here are the top 10 stock Holdings of diyaa that comprise almost 53% of its portfolio.
+NEUT8|This is complete list of all 30 stockholdings under Dya.
+NEUT9|All these are large cap U.S. stocks.
+NEUT10|Feel free to pause your video to see all these 30 stocks or take screenshot of it.
+NEUT11|Next we will look into dividends of some of the stocks.
+NEUT12|Under this ETF, Daiei pays out dividend of approximately 2.13%.
+NEUT13|Let's look at the highest paying dividend stocks and Dow Jones.
+NEUT14|Chevron pays dividend is 6.86%.
+NEUT15|Dowen Corporation dividend is 5.67%.
+NEUT16|Walgreens pays dividend is 5.15%.
+NEUT17|IBM dividend is 5.1%.
+NEUT18|For is in 4.23%.
+NEUT19|JP Morgan 3.56%.
+NEUT20|Coca Cola 3.23% and McDonald's 2.3%.
+NEUT21|This chart is annual total returns since its inception from 1998.
+BULL22|It made the highest gain in 2013 of 29.42% in highest loss of minus 31.99% in 2008.
+NEUT23|How do you think it will perform in the year 2020?
+NEUT24|Let us know in the comments section.
+NEUT25|Finally, if you like the content of this video, please hit the like button.
+NEUT26|Thank you.
+NEUT27|"For watching."""

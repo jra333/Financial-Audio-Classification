@@ -1,0 +1,22 @@
+BULL0|"""Good afternoon everybody."
+NEUT1|We're going to quickly run through how you actually purchase stock using etoro, so we're going to log into our account.
+NEUT2|Once we're in here, we're going to move on to move to my virtual profile that they don't actually purchase this stock items, so we're going to trade markets or we can pick our stock if we know our ticker or the name of the company, we can purchase it here.
+NEUT3|For example, say we want to buy EasyJet.
+NEUT4|Might be an easy one.
+NEUT5|So how much are we going to trade?
+NEUT6|EasyJet is down today, so we're going to be here.
+NEUT7|We want to buy the stock we do.
+NEUT8|So there's two options we've got.
+NEUT9|Trade and order.
+NEUT10|Trade basically means we're going to buy you ask current market price you can.
+NEUT11|You've got two choices you can buy in amount so I will say it 1000 U.S. dollars worth of it or we can say units.
+NEUT12|So the units you can buy hold shares or fractional shares you can.
+NEUT13|Fractional shares is just a little piece of one share so let's go back and buy in amount.
+NEUT14|Will say 1000 U.S. dollars.
+NEUT15|And from now we're not going to use any leverage to leverage is just.
+BULL16|Basically, leverage allows us to magnify, so we basically borrow some money so we can double the amount we're doing.
+NEUT17|But we're going to one times leverage.
+NEUT18|As to the 1000 U.S. dollars and its simplest click open trade.
+NEUT19|So we just bought it so we got her a virtual profile.
+BEAR20|Here we can see currently were slightly down.
+NEUT21|"That's actually due to the spread that heater or mixture little bit of money and so that's how we buy a stock on the Terrell."""

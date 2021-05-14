@@ -1,0 +1,10 @@
+NEUT0|"""April 4th is in the books."
+BULL1|This is the New York minute Wall Street remained in a holding pattern on Tuesday as investors awaited minutes of the Federal Reserve's monetary policy meeting after fluctuating between modest losses and gains, the S&P 500 finished the day a point 1%, while the Dow Jones industrial average edged up .2% as concerns lingered about the prospects for the Trump trade.
+BULL2|Energy stocks were the biggest gainers on the S&P fueled by rising oil prices.
+BULL3|Both Brent and WTI settled at their highest level in four weeks.
+BEAR4|Meanwhile, a string of negative headlines on retailers pushed consumer discretionary stocks.
+BEAR5|Lower investors appeared cautious ahead of Wednesday's FOMC meeting minutes, as they watch for debate on the unwinding of the Fed's balance sheet.
+NEUT6|They also took stock ahead of the US Jobs report and a meeting between President Donald Trump and his Chinese counterpart Jinping.
+NEUT7|Later in the week.
+BEAR8|Elsewhere in markets, Treasury slid with the yield on the 10 year note rising 4.3 basis points to 2.36%, while gold posted a modest advance for the third consecutive day.
+NEUT9|"And that's the New York minute."""

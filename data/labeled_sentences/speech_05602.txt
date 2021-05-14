@@ -1,0 +1,8 @@
+BEAR0|"""The pound plunged and there really is no other word for 6% fall in a major currency in two minutes flat."
+BEAR1|It went from trading at about $1.26 to $1.18 just after 7:00 PM in New York's 9:00 AM in Tokyo and 10:00 AM in Sydney.
+BULL2|It's soon bounced back to about $1.24, but moves that sudden are extremely rare.
+NEUT3|Try to suggest it may have been a mistake and fat finger trade where someone keyed in the wrong price.
+NEUT4|Orero computer algorithm, effectively doing the same thing.
+BEAR5|The backdrop is that this happened at the weakest point in the FX trading day.
+BULL6|New York has gone home and Asia is really only just getting up to speed.
+BEAR7|"Will speculation about what caused this and a new debate on the pounds value now it really did bounce back quickly to the $1.20 three, $1.24 level, but it hasn't recovered all that ground at last, suggesting traders are happy enough thinking that the Sterling will keep weakening it, perhaps not quite as dramatically as this plunge."""

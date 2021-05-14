@@ -1,0 +1,16 @@
+BEAR0|"""Why Airbnb stock crashed this morning?"
+NEUT1|What happened Airbnb, NASDAQ ABNB had a great typo week last week, first dramatically raising its IPO price to a range of $56 to $60.00 before actually going public, then more than doubling on its first day of trading before pulling back just a bit to close the week this week could be a bit different with a downgrade.
+NEUT2|Is the first news of the week.
+BEAR3|Airbnb is starting off on a down note an falling 8 point.
+NEUT4|4% through 1:10 PM Eastern Standard Time.
+NEUT5|So what So what exactly happened this morning?
+NEUT6|Here it is in a nutshell, Arabs, I PO was a huge event on Wall Street, necessitating the involvement of more than three dozen separate investment banks to bring it public.
+NEUT7|One firm that did not participate in the hypo, however, was equity research firm Gordon Haskett that took its independence and the fact that it's accordingly not bound by any post typo quiet period as an opportunity to throw some shade on the hypo in a note covered earlier today by St Insider.
+BEAR8|Com Gordon Haskett downgrades airballed away from buy.
+BEAR9|Based on its pre IPO valuation to underperform.
+NEUT10|I sell based on its post type or run up.
+NEUT11|Where to invest $1000 right now before you consider Airbnb Incorporated, you'll want to hear this investing legend and Motley Fool co-founder Tom Gardner just revealed what he believes are the 10 best stocks for investors to buy right now.
+NEUT12|An Airbnb incorporated wasn't one of them.
+NEUT13|The online investing service.
+BULL14|He runs, Motley Fool everlasting stocks, has beaten the stock market by over 3X.
+BULL15|"And right now he thinks there are 10 stocks that are better."""

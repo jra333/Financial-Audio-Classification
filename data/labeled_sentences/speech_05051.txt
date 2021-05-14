@@ -1,0 +1,39 @@
+NEUT0|"""Let's talk about Netflix now because they plan on cracking down on those of us actually not going to those of us because I don't do this, but it's password sharing."
+NEUT1|We have.
+NEUT2|Yahoo Finance is tech support Dan Hally here with us to talk about that move from Netflix.
+NEUT3|I almost caught myself almost told on myself.
+NEUT4|I'm not going to say anything about whether I password share or not.
+NEUT5|I know a lot of people do tell us what is going to be happening going forward.
+NEUT6|I will freely admit to password sharing on multiple services, so Netflix come and get me essentially what's going on here.
+NEUT7|Is there is a test where if you are sharing someone elses password you will need to log in and prove that you're part of that person's household.
+NEUT8|So when and where?
+NEUT9|What countries how long this is going to run isn't clear yet, but the idea would be that when you go to log in with that person's password, they would have to then receive a kind of code in their email.
+NEUT10|And that would then be plugged into on your side so you can know someone password.
+NEUT11|You can know someone's email, but then you would also have to reach out to them to get that extra password from their email account.
+NEUT12|The idea here is, yeah, that's not a big deal.
+BEAR13|I mean, I'm definitely going to still do it, but it will slow down some people and it will also slow down stolen account.
+NEUT14|So if your account is being used by someone you don't know, they still, they'll go to log in and they won't be able to use it because it's not like someone who stole your account is going to reach out to you and say, hey.
+NEUT15|You start an email.
+NEUT16|Can I get that notification number so it really does seem like this is going to crack down on some password sharing, but I don't think that this is going to be an overall full on crack down, you know, Reed Hastings has said that this is part of Netflix.
+NEUT17|He said that you know in the past that it doesn't seem to be something that they're too concerned about, and realistically, it gets as many eyeballs as possible on these shows, and it makes more people want to sign up for Netflix because it just gets that kind of virtuous cycle of will talk about the show.
+NEUT18|More people want to see it, so they'll sign up and it will continue to go through.
+NEUT19|As long as they're not sharing passwords, but I am not going to stop, I don't think very many people will either.
+NEUT20|Alright, so Reed Hastings.
+NEUT21|You need to go after Dan Hally.
+NEUT22|Do not look at my account or all of the many different profiles that are on my account there.
+NEUT23|All part of my household I want to ask you Dan really quickly here.
+NEUT24|Obviously Netflix is not the only streaming service that we have out there and password sharing as you mentioned, is something that a lot of people do across a lot of these different platforms.
+NEUT25|Is there any whispers or rumors about any of the other streaming platforms wanting to take similar measures?
+NEUT26|Perhaps not necessarily this one too.
+BEAR27|Also, similarly crackdown.
+NEUT28|On that password sharing.
+NEUT29|I think one of the big things you know if you look at Disney Plus, for instance, they allow multiple accounts and I think it's up to six or seven accounts.
+NEUT30|So they basically have that work in.
+NEUT31|Just add your account there.
+NEUT32|Similar to Netflix.
+NEUT33|Netflix doesn't allow as many accounts as Disney Plus, and I think that was a purposeful decision on their part.
+BEAR34|But as far as cracking down, I think we're the only major services that I know that cracks down is Spotify because if you share a single account, you're both sharing the same kind of music and it just screws up what your recommendations would be.
+NEUT35|So my wife and I ended up getting a family plan just because everything was messed up on our.
+NEUT36|So that's really a good way to do it.
+BULL37|Alright, thanks so much.
+NEUT38|"Yahoo Finance is Dan Hally."""

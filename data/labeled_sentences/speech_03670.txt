@@ -1,0 +1,13 @@
+NEUT0|"""But Oxford economics, in a new report is estimating three scenarios for the coronavirus in its base case."
+NEUT1|The virus remains contained to China, and the effects are modest.
+BEAR2|But if the virus spread throughout Asia, Oxford sees a potential $400 billion hit to global growth relative to that baseline scenario.
+NEUT3|That's about another half a point of global GDP.
+NEUT4|Now the virus goes global oxfords model forecast $1 trillion, one point 3% or $120.00 off of global GDP.
+BEAR5|If there is a global pandemic, Oxford says the US and Eurozone enter technical recessions.
+BULL6|In the first half of 2020, however, the recovery is rapid.
+BEAR7|The pandemic inflicts a short but very sharp shock on the world economy.
+NEUT8|Now, economists have turned to a variety of high frequency indicators from pollution to energy consumption to traffic data.
+NEUT9|This helps them gauge the economic impact of the virus.
+BEAR10|In China, data check, closely monitoring traffic congestion in Beijing, you can see it remains sharply sharply below normal levels at peak rush hour times congestion now is 40 to 50 percentage points below.
+NEUT11|The 2019 average and that's in Beijing.
+NEUT12|"So we're going to look for more details about what the Federal Reserve thinks about the coronavirus."""

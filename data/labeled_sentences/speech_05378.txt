@@ -1,0 +1,12 @@
+NEUT0|"""To stay up to date with latest videos and trending news stories, make sure to subscribe the channel by clicking the button below this video."
+BEAR1|Emergency response teams scrambled on Tuesday to prevent a Dutch cargo ship adrift in the North Sea from sinking and causing an oil spill off Norway's coast after the crew had to be evacuated in stormy weather, Reuters reports.
+BEAR2|Footage released by the Norwegian Rescue Coordination Center showed some of the 12 crew members jumping into the sea late on Monday from the badly listing eams lift hendricken, before being rescued by helicopter.
+NEUT3|Others were hoisted directly from the deck.
+BEAR4|All were brought to safety, but the ship has continued to drift towards land.
+NEUT5|It is currently some 74 kilometers 40 miles off the Norwegian coast.
+BULL6|The wind is expected to gradually shift the vessel to a course parallel to the shore, giving the salvage operation more time.
+NEUT7|Hans Petter Morn some of the Norwegian coastal Administration told Reuters.
+NEUT8|The Hendrick has around 350 tons of heavy oil and 50 tons of diesel in its tanks.
+NEUT9|The Coastal administration said.
+NEUT10|Smit Salvage, a subsidiary of a Dutch marine services company, Boskalis.
+BULL11|"Told Reuters that had been contracted to try saving the ship and was mobilizing a team to send to Norway later on Tuesday."""

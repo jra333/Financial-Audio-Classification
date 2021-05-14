@@ -1,0 +1,23 @@
+BEAR0|"""So Damian, the late summer anxiety on the foreign front is kind of matched by late summer anxiety on the economic front, not maybe not extreme, but this kind of a sense that, well, the economy is picking up a little, but not very much and not enough an it's it's reached a plateau and is kind of stuck there."
+NEUT1|Is that a fair description?
+NEUT2|You think?
+NEUT3|I think it's pretty fair and I think a lot of businesses and consumers are kind of watching the economy through their fingers right now because.
+NEUT4|You know, if you're in the housing market in the stock market, you're probably getting some of the benefit of the last nine months, but if you're not in it, you know it's still really tough.
+BEAR5|Wages are not going where people want him to go.
+NEUT6|Businesses, a lot of businesses are doing well, but not well enough to kind of do a lot of hiring, and so we still have, you know, 46 million Americans that in food stamps.
+BEAR7|A lot of Americans still worried about their health care.
+BEAR8|They're still in there, is uncertainty about how the health care law is going to affect a lot of businesses, so I think that we're seeing some anxiety there, too.
+NEUT9|But this isn't the kind of formula that you would expect.
+NEUT10|Five years after the financial crisis really kicked up in two years after the August 2011 debt ceiling.
+NEUT11|So I suppose the good the good news in that is that in the last several years has been kind of a spring spurt followed by a summer slump.
+BEAR12|At least we're not having the summer slump this year, right?
+NEUT13|I mean, well, we could, and, you know, just a matter of weeks when Congress comes back and has to domestic special.
+NEUT14|That's right, so you know, there's there hasn't been a global event or a drought or something like that that's really arrested.
+NEUT15|The GDP this sequester is kind of hanging out there.
+NEUT16|I think we're all still waiting to see how that's going to affect next year.
+NEUT17|But you know, right now, there's just a lot of uncertainty.
+NEUT18|Let's probably less Washington, certainly, but more you know what's it going to take to get the economy going?
+NEUT19|Yeah, exactly, and nobody knows the answer to that question.
+NEUT20|That's right, and there's a tremendous amount of finger pointing, and there's really no discussions between the White House and House Republicans right now about what can be done to, you know.
+BULL21|Maybe get some more jobs initiatives going.
+NEUT22|"And so we're not going to see any change for the foreseeable future."""

@@ -1,0 +1,29 @@
+NEUT0|"""The intrinsic value of into it is ranged between $6.29 per share and $68.71 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $6.29 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $6.29 in cash and cash equivalents, paying $68.71 per share represents the company's earnings.
+NEUT4|So a price of $68.71 per share represents the fractional payment.
+NEUT5|We would all pay for the company's next 20 years of median historical earnings.
+NEUT6|A conservative way to value a company that's different than the PE ratio.
+NEUT7|So the big question is what are they trading at now?
+NEUT8|Into it's currently trading at a price of $325.34 which is massively overpriced and you can take a look at this PE ratio here to abet our fundamental analysis.
+NEUT9|Yes, we can use some bits of technical analysis to come to a more refined conclusion.
+NEUT10|An anything above 20.
+NEUT11|Benjamin Graham says that we should avoid so at this time the price is not attractive through several signals.
+NEUT12|But what's the alternative?
+NEUT13|So we need one that's going to maintain our our safety of principle and maintain an ample margin of safety.
+NEUT14|So what we would do is invest in the Vanguard 500 index fund.
+NEUT15|Now, I'm not financially related to these folks.
+NEUT16|Vanguards not paying me to say this.
+NEUT17|I'm only choosing him 'cause I know.
+NEUT18|Warren Buffett used these guys to win a bet in that he started in 2008 against the hedge fund industry.
+NEUT19|But what we would do is invest in Vanguard 500 until this price here becomes lower than this price here of $68.71.
+NEUT20|Now if you're watching this video sometime in the future, make sure you have updated.
+NEUT21|Annual figures I'm using fiscal year 2019.
+NEUT22|That's only because it's the only.
+NEUT23|I'm not sure if you guys know this, but those years typically are audited while quarterly statements or not.
+NEUT24|So I want to use the more verifiable information, but just make sure you use updated ones if I don't have a video out already by that time.
+NEUT25|And until that time guys subscribe to my channel so you will continue to gain insight on how to analyze business performance or that your investment performance is optimized.
+NEUT26|Remember when your investment performance is optimized.
+NEUT27|So as you well, production down investors, I'll see you in the next video.
+NEUT28|"Stick around."""

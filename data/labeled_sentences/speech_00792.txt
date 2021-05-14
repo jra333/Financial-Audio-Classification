@@ -1,0 +1,24 @@
+BULL0|"""Welcome back to power lunch."
+BULL1|I'm Seema Modi industrials pulling through this earnings season results from Caterpillar Fastenal comments over the past month, showing that they are finding ways to cut costs plus, new data from Sandhills showing that demand for tractors are starting to rise.
+NEUT2|Does that bode well for the agricultural giant deer which reports earnings tomorrow morning?
+NEUT3|Let's bring in the Trading Nation team today.
+NEUT4|JC O'Hara, MKM Partners and Daniel Shay of simpler trade.
+NEUT5|Daniel, I know you've been watching the disconnect between.
+NEUT6|Caterpillar and Deere, which name do you rather own here?
+NEUT7|For me I prefer John Deere because when you're looking at Caterpillar, I mean it's absolutely been a laggard this year.
+NEUT8|I mean, I really tie that to the fact that it's really tide to global economic growth, right?
+BULL9|But John Deere has been really stable in their farming segment, and you know, this year we've seen a rise in gardening due to the pandemic.
+NEUT10|That's really been likened to the Victory Gardens of World War Two, super me.
+NEUT11|I'm bullish John Deere and as an options trader for an earnings report, I love selling put credit spreads directly before that report to capitalize on that Ivy Crush in Theta decay.
+BULL12|JC, The stock is done pretty well over the past month.
+NEUT13|How do you trade dear here ahead of its earnings report?
+BULL14|It has done well and when you look at the chart of deer versus Caterpillar, you know it's our opinion that deer will continue to outperform your date.
+BEAR15|Dear is hired by 10% first cattle Caterpillar, which has underperformed in his lower by 7%.
+BEAR16|But this outperformance by deer is nothing new.
+NEUT17|You know?
+NEUT18|We show it 10 year chart of both deer and cattle, Caterpillar normalized and we can see that both companies used to move in lock lock step.
+BEAR19|But then in late 2018 deer really started to pull away and an outperform and that performance you know continues today so.
+BULL20|Overall, we want to continue to stick with leadership.
+BULL21|We want to stick with momentum and we want to be involved with charts that are breaking higher, so that ultimately means we want to belong here into the numbers tomorrow.
+NEUT22|It's also one of the only industrials investing in AI Jason Danielle.
+NEUT23|"Thanks for joining me today dear report out tomorrow and for more Trading Nation, head to our website or follow us on Twitter."""

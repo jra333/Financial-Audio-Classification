@@ -1,0 +1,53 @@
+NEUT0|"""David Riley Smith Barney."
+NEUT1|That's how you know it used to be.
+NEUT2|It had like 15 years ago back.
+NEUT3|It used to be Salomon Smith Barney, now just Morgan Stanley Smith Barney right, but it used to be easy.
+NEUT4|Morgan Stanley Dean Witter Smith Oddity right forgot one.
+NEUT5|Yep, Yep there was.
+NEUT6|I'm not getting that wrong.
+NEUT7|Well know is Morgan Stanley Dean Witter Smith Barney was somewhere else.
+NEUT8|So what's the what's the good word?
+NEUT9|This negotiation?
+BULL10|There's an agreement in place.
+NEUT11|Well it actually there was a negotiation hasn't started.
+NEUT12|Keep that in mind.
+NEUT13|This is sort of like the pregame positioning.
+NEUT14|It's it's not the tailgating party they've passed by this, but what it is is Morgan Stanley owns 51% of Smith.
+NEUT15|Barney City owns 49%.
+NEUT16|This is a joint venture.
+NEUT17|They went into a couple of years ago.
+BULL18|They have an agreement going forward.
+NEUT19|Morgan Stanley has the right to buy 14% this spring.
+NEUT20|Think it's 15% in 2013 and then 20 percent 2014.
+NEUT21|Now one of the questions in there is out there and there's a lot of rumbling going on is.
+NEUT22|Will they maybe decide?
+NEUT23|What is a Morgan Stanley?
+NEUT24|By the entire 49% right now, why don't they?
+NEUT25|Well, it all comes down to price.
+NEUT26|All comes down to it all comes down to you know and their valuations are different.
+NEUT27|But I gotta step back.
+NEUT28|And you basically posit in your piece that look it depends on what your view is, what's going to happen to the stock market if there's still a bull stock market a year, two years from now, you're bullish phase.
+NEUT29|That maybe Morgan Stanley into paying more in the future then they could today.
+NEUT30|If you know the brokerage business, I mean if you've got the economy is going gangbusters year or two from now, the stock markets doing really well.
+NEUT31|Rates are higher, rates are higher than making a lot more money.
+BEAR32|I mean their pre tax margins have been very depressed.
+NEUT33|You know that's about this.
+NEUT34|Before I want to just touch on.
+NEUT35|Why does Morgan Stanley want more of this business?
+NEUT36|Well, I think this goes to James Gorman, the CEO he had of you after the crisis that what he wanted was a business that wasn't just dependent on the highly volatile trading business.
+NEUT37|So he wanted to put another leg under the table.
+NEUT38|So he wanted a fee based business.
+NEUT39|Which you know, I know you're not a big fan of the brokerage side because of the fixed costs, yeah, but the retail businesses is a crummy business.
+NEUT40|It's well, it's tough, but the one that has going for it and then you know, I understand this thing on this is that it's fee based.
+NEUT41|But also you're not using like capital for it.
+NEUT42|It's not capital intensive so you look at the return on equity for business like that.
+NEUT43|It's really high.
+NEUT44|And now the idea would still know.
+BULL45|Yet if it's going to work is hopefully that can balance out when you're having a really volatile time in the trading business.
+NEUT46|You've got this sort of steady state going on OK when times get better.
+BEAR47|That's made it boring, but the trading is, you know, knocking the lights out.
+NEUT48|OK, we're going to end with the prediction.
+NEUT49|I need a prediction from you.
+NEUT50|Will Morgan Stanley end up buying all of City's stake in it in the coming months?
+NEUT51|Yes or no?
+NEUT52|"I'd say no."""

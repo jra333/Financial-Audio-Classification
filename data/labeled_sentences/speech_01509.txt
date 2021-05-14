@@ -1,0 +1,13 @@
+NEUT0|"""Talk about Best Buy."
+NEUT1|So let's look at a couple things here.
+BULL2|So Best Buy has broken out past the previous all time high of.
+NEUT3|Ninety 9182, Let's say $92.00 per share.
+BEAR4|So if we break this down into smaller time frame, we can see here is price has had a gap up.
+NEUT5|Typically when you see gaps like this, price has to come back down, fill that gap and it'll start making its way right back up.
+BEAR6|Or if it starts with the previous all time high, as resistance is a big chance at Best Buy could go down.
+NEUT7|But what I definitely do know is that it Best Buy.
+NEUT8|Breaks out beneath this triangle pattern.
+NEUT9|Here what you can see is it is currently correcting inside of it.
+NEUT10|It breaks out higher.
+BULL11|It will definitely move to about $100 per share or right here at this previous all time high of 9940.
+NEUT12|"If it wants to move lower and then eventually break out beneath here it will come right back down to 9130 for really nice game."""

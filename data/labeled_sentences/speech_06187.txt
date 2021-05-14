@@ -1,0 +1,21 @@
+NEUT0|"""The intrinsic value of PepsiCo was ranged between $6.20 per share and $89.96 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $6.20 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $6.20 in cash and cash equivalents, paying $89.96 per share represents the company's price per share, based on its earnings.
+NEUT4|A price of $89.96 per share represents the fractional payment for the company's next 20 years of meeting historical earnings.
+NEUT5|A conservative way to value a company using future earnings, which slightly differs from the result, should get by calculating the PE ratio.
+NEUT6|Now PepsiCo is currently trading at a price of $1.00.
+NEUT7|Excuse me, $133.29 per share, don't we wish it was trading at $1.00 due to the fact that this price falls far beyond the $89.96 per share upper bound of?
+NEUT8|Well that represents their intrinsic value.
+NEUT9|It's reasonable to assume that the stock is currently overpriced.
+NEUT10|Your next step would be to find a better price investment vehicle, which can gain a similar return with similar risk, all while maintaining safety of principle with an ample margin of safety for the defensive investor or low cost index fund satisfies the information investment vehicle characteristics.
+NEUT11|Specifically, the Vanguard 500 Index Fund is the same fund Warren Buffett used in his famous 10 year bet against the hedge fund industry, which he won in 2018.
+NEUT12|Until we're able to find a stock which passes the scrutiny required to the analysis prescribed by Benjamin Graham in the Valley Investment community as a whole, this investment vehicle should suffice.
+NEUT13|Just take a look at that most recent 10 year annual return.
+BULL14|Which is looking excellent.
+NEUT15|So guys we would wait until this price falls below this price here.
+NEUT16|So that's when we would do a deeper dive into the analytics.
+NEUT17|The financial statements of PepsiCo to try to come to some deeper understanding of where they where they stand and where we would stand if we invested in them.
+NEUT18|Until then, guys join our value best community here on YouTube and subscribe to my channel so you can continue to gain insight on how to analyze business performance so that your investment performance is optimized.
+NEUT19|Remember when your investment performance is optimized?
+BULL20|"So with your well production, I'll see in the next video value investors."""

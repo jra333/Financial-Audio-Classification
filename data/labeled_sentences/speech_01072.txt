@@ -1,0 +1,39 @@
+NEUT0|"""It's 2020 and Bitcoin is having a moment."
+BULL1|It's partying up like it's 2017 and surpassed the $19,000 mark for the first time since its heyday.
+NEUT2|I'm no Bitcoin expert, so I asked my colleague Cross asset Reporter Katie Deschooling in all the ways of the Bitcoin, so we've put together 5 Bitcoin terms which are the most often used or the most confusing that have very specific meanings that are different from their other markets counterparts fees.
+NEUT3|I would say are most commonly use and they tend to be specific T Bitcoin.
+NEUT4|I mean words like fear, uncertainty and doubt.
+NEUT5|We all know what that means, but it has a very specific meaning in the crypto community.
+NEUT6|Let's start with blood.
+NEUT7|Or is it FUD food?
+NEUT8|I say it rhymes with mud and no one has corrected me yet, so I'm going to go with Bud and it's funny.
+NEUT9|It's kind of the derogatory term in the crypto community.
+NEUT10|It's used, sort of as a way to brush off bad information.
+BEAR11|Negative headlines about Bitcoin.
+BEAR12|You know, that's just FUD creeping in.
+NEUT13|It's people trying to rain on the crypto parade.
+NEUT14|OK, So what about having or happening?
+NEUT15|You can grow in the way I've heard it having happening.
+NEUT16|Bitcoin, there's a limited supply.
+NEUT17|When Bitcoin was launched in 2009, they used to receive 50 Bitcoin per block, but as happenings have gone through, they happen about once every four years.
+NEUT18|Now they only receive 6.25 tokens.
+NEUT19|You could say that having is why Bitcoin is ripping 130% this year, this actually might be my favorite one hotel.
+NEUT20|It's basically just a typo, it came about in 2013 when someone misspelled it on a forum.
+NEUT21|And you have seen some backronyms.
+NEUT22|Some people say it means hold on for dear life.
+NEUT23|It does just mean that in periods of volatility, hobble your bitcoins.
+NEUT24|OK, so now we have the opposite of huddling which is weak hands.
+NEUT25|We can.
+NEUT26|So this is what fun leads to its when crypto newbies.
+BEAR27|When you hit a rough Patch the price goes down or there's negative headlines about Bitcoin this week hands will sell their coins, the weak hands or people who are just kind of tourists in this space and art.
+NEUT28|There to stomach the volatility that often comes along with with Bitcoin and now we have whale.
+NEUT29|I'm pretty sure I'm saying that right so Wales is interesting it can apply to other areas of the market.
+NEUT30|It's not specific to Bitcoin and but in Bitcoin and in other markets it just refers to someone who owns so much of an asset that any trade they make tends to move the price.
+NEUT31|And there are evidence of whales in Bitcoin.
+NEUT32|Some researchers have said that 2% own 95% of the assets and you do see a lot of whale watching going on in Bitcoin.
+BULL33|You could say something like, well, the whale was active last night, and that's why Bitcoin spiked 30%.
+BULL34|Thank you so much Katie.
+NEUT35|OK, cool.
+BULL36|Well this was super fun, so thanks for having me.
+NEUT37|That's the hot take on Bitcoin lingo.
+BULL38|"Thanks for listening."""

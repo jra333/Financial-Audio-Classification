@@ -1,0 +1,40 @@
+NEUT0|"""Alright, last question."
+NEUT1|It comes from street ER from Twitter and he writes if a business declared bankruptcy, So what happens to their stock?
+NEUT2|The question arose due to the Sports Authority News.
+NEUT3|I assume Sports Authority declared bankruptcy.
+NEUT4|They didn't actually Sports Authority is not a publicly traded company at this time, so it doesn't really apply to that.
+NEUT5|But I will point out that this is one of the things that that could potentially really drive me crazy 'cause it used to be publicly traded and it was taken private through a leveraged buyout.
+NEUT6|And these things are crazy because basically, what these?
+NEUT7|These firms do is, they say we're going to borrow a lot of money to buy you, but we're going to make you the company responsible for the loan, and we're going to pay ourselves a big dividend in the process.
+BEAR8|Part of why Sports Authority is going out of business is because the debt that was used to take them private is so big they can't cover.
+NEUT9|It drives me nuts.
+BEAR10|Any stock that has declined in value and it's not in a retirement account.
+NEUT11|You can write that off as a loss at first offsets any capital gains that you have, and then you can deduct 3000 up to $3000 off of your income for that year.
+NEUT12|Anything beyond that 3000, you just carry forward for year after year after year.
+BEAR13|I know people, subscribers who have such big losses from the.com bust they're still able to deduct $3000 every year off their tax return due to those losses.
+NEUT14|You can carry him forward indefinitely, but essentially it's just the stock is worth nothing, right?
+NEUT15|You still hold that, not literal piece of paper, but you still hold that Sharon is just got a big old zippy on it, right?
+NEUT16|But the tricky part about this is if you sold a stock, you would get a statement from your broker at the end of your said you bought it.
+NEUT17|For this price you sold at this price and that's what you report to the IRS.
+NEUT18|For worth of security you didn't sell it, it's just worth nothing at this point.
+NEUT19|Yeah, and so a you might have to get some proof.
+NEUT20|It might be a letter from your broker or documentation that when the stock was delisted and with a worthless security it is always considered that you sold it on December 31st of that year, and that's important.
+NEUT21|'cause that could help determine whether it's a long term loss or a short term loss.
+BULL22|Oh OK, and the rules have gotten easier since 2008.
+NEUT23|It used to be kind of difficult to declare capital asset a worthless security because sometimes even after Chapter 11.
+NEUT24|Bankruptcy, there's still some nominal value to that security, and you could only claim the Delta instead of it being zero and claiming the full amount, but that should not be, I think getting a letter from your brokerage firm should qualify and you should be fine, right?
+NEUT25|And that's a really good point.
+BEAR26|Just because something went bankrupt doesn't mean it's out of business.
+NEUT27|The stock could be worth pennies, absolute pennies, but it's still worth something.
+NEUT28|So if you want to take that loss, you have to sell it in the open market and then use that as the information using your tax return.
+NEUT29|So when does this so a stock is finally worth absolutely nothing.
+NEUT30|When the company goes completely out of it?
+NEUT31|It's delisted.
+NEUT32|You can't like there's no way for you to sell it, it's just.
+NEUT33|There's nothing to sell anymore like the shares aren't on an exchange anywhere.
+NEUT34|The only value it has is if you had the certificates you could sell it on eBay.
+NEUT35|That's about it.
+NEUT36|Chapter 11 is not necessarily the end right story, right?
+NEUT37|I mean you think of like General Motors and a lot of big companies have declared bankruptcy and then they recovered in their stock is trading.
+NEUT38|I've done it two or three times personally.
+NEUT39|"Someone of your exceptional credit score would not be someone who wouldn't have you on the show."""

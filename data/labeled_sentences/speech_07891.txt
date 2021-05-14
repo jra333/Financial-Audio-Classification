@@ -1,0 +1,15 @@
+BEAR0|"""Being bullish or bearish in finance means that you are either optimistic or pessimistic about the current market climate."
+NEUT1|Bulls are people who think the market or a particular stock is going to rise.
+NEUT2|If investors are bullish about a stock, they'll rally behind that stock by investing in it.
+BEAR3|Bears, on the other hand, are individuals who feel that the market and or an individual security is going to lose value.
+BEAR4|Bearish investors will sell or take a short position in the security or index that they believe is doomed.
+NEUT5|Generally, investors shift in and out of bearish and bullish modes based on many factors including global economic concerns, national economic data and corporate financial performance.
+BULL6|These two diverse outlooks create the market to have a working system.
+NEUT7|We need people willing to buy and people willing to sell.
+BEAR8|Since bears often think the market or their positions are going to lose value, they will sell to mitigate losses.
+BULL9|Bulls, on the other hand, will perceive the same economic indicators as a good time to buy, and they'll pick up what bears are selling so that they can profit from the upward momentum that's anticipated.
+NEUT10|An investor can be bullish about the overall market, but bearish on a given stock.
+NEUT11|In this case, a proper trading strategy would be to take a short position in the stock and buy a market portfolio or an instrument that tracks the market.
+NEUT12|The opposite situation can be true as well.
+BEAR13|So while these iconic animals of Wall Street consistently take opposed views on the market.
+BULL14|"Wise investors know that both mindsets are needed for successful trading."""

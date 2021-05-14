@@ -1,0 +1,30 @@
+NEUT0|"""You ever found yourself looking at nutrition labels at the grocery store?"
+NEUT1|Maybe you were looking for something specific like sugar levels or certain vitamins and minerals.
+NEUT2|Well, financial statements are similar.
+NEUT3|They show you where a company's money came from, where it went, and where it is.
+NEUT4|Currently, virtually every fundamental analysis strategy involves analyzing data from financial statements.
+NEUT5|So being familiar with these statements is important.
+NEUT6|Every publicly traded company in the US has to produce three main financial statements each quarter income statement, balance sheet, and cash flow statement.
+NEUT7|Let's look at each in a little more detail.
+NEUT8|The income statement might look the most familiar to you.
+NEUT9|It's basically a line by line summary of how much a company earned over a period of time.
+NEUT10|It begins with the top line report of the company's revenue from selling goods and services.
+NEUT11|Then as you move down the report, it subtracts all the costs associated with running the business.
+NEUT12|These costs include operating expenses like raw materials and wages interest expense, which is how much the company pays an interest for borrowed money and asset depreciation after subtracting all the expenses, the income statement reports the bottom line.
+NEUT13|Earnings this is how much the company actually earned or lost during a period.
+NEUT14|As a shareholder, earnings is one of the most important figures to know.
+NEUT15|Another financial statement is a balance sheet alleger like statement of a companies assets, liabilities and shareholders equity.
+NEUT16|Assets are things the company owns that have value or have an economic benefit.
+NEUT17|Assets include tangible items like property factories, equipment, and inventory.
+NEUT18|They also include intangible things like patents and trademarks, cash and investments, or assets too.
+NEUT19|If you look at the other side of the balance sheet, you'll see liabilities and equity.
+NEUT20|Liabilities are money a company owes to others, but it also includes rent for buildings money owed to vendors or taxes do.
+NEUT21|If you subtract liabilities from assets, you're left with shareholders equity, often called book value.
+NEUT22|It's the amount of money that would be left to shareholders if the company shut down and sold its assets and paid all its liabilities.
+NEUT23|All of these items must balance to provide an accurate picture of a company's financial state.
+NEUT24|Finally, there's the cash flow statement.
+NEUT25|It details the companies inflows and outflows of cash, and the relationships between the income statement and balance sheet.
+NEUT26|While the other statements contain accounting assumptions that affect the numbers, that cash flow statement is considered a clean report with very little room to manipulate.
+NEUT27|You can't fake cash, so it can be useful to examine this document to learn how a company makes money.
+NEUT28|It's worth pointing out that there are other important sources of a company's financial picture, like footnotes and management reports, but all the financial ratios used to analyze stocks are taken from one or more of the documents we've discussed in this video.
+NEUT29|"With this information, you can compare similar companies to find the stocks with the best potential value."""

@@ -1,0 +1,11 @@
+NEUT0|"""Also, I think the most important message I think is from the medium term perspective."
+BULL1|You've got the assurance from the Fed that we will be allowing inflation to go about 2%.
+BULL2|If you recall, in the previous cycles, whenever inflation has even just reached closer to 2%, Fed has hiked.
+NEUT3|If you remember in 2012, when core PCE, inflation ************ 2%, we had seen both fiscal and monetary tightening in 2017 eighteen as well we saw something similar.
+NEUT4|So there is a question mark on Feds willingness to allow inflation going about 2% and what today's speech has done from Chair Powell is a historic moment in our view, because this is really confirmed that there will be a transition to higher inflation in this cycle which we have not been able to achieve in the previous cycles.
+NEUT5|As regards the timing of it is concerned.
+NEUT6|So we have.
+BULL7|We are expecting inflation to cross 2% in 2022.
+NEUT8|We're expecting core PCE inflation to be in the range of around 2% in second half of 2021, so sense is that in terms of actual inflation, that is the time when you will see that debate.
+NEUT9|But look markets are not waiting.
+BULL10|"We're seeing already break even is moving up and you should expect that expectation from the market to be well ahead of the second half of 2021."""

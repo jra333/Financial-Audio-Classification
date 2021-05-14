@@ -1,0 +1,5 @@
+NEUT0|"""Your difference to get the yearly prediction you please."
+NEUT1|What's up this number series, Australian downtrend.
+NEUT2|How it is achieved?
+NEUT3|Here from here to here.
+BEAR4|"My target got hacked."""

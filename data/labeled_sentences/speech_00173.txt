@@ -1,0 +1,20 @@
+NEUT0|"""Let's talk about Palantir guys."
+NEUT1|PLT or is the name what they do they do AI and data, meaning they can take your data sets.
+NEUT2|They can take whatever you have and use their systems to make you make more money.
+NEUT3|Pretty much that simple as that.
+NEUT4|As a matter fact, the last 17 years they've been helping governments all over the world take data sets that they have and make predictive analysis help them better update their systems.
+NEUT5|Be more efficient, supply chain, etc etc.
+NEUT6|For the last 17 years they've been working for the government sector and now they're taking all that knowledge.
+NEUT7|All that data they've built up, and the techniques that they've been using, and now helping major companies get to where they need to be.
+NEUT8|For example, IBM, combining with Watson, doing some of the CRM help, or worked in the background just on a 5 year contract with BP, and they're helping 3M with their supply chain.
+BULL9|But three companies a lot more you're expecting to grow themselves at 30% per year from now for the next 5 to 10 years.
+BULL10|That's a big growth in this company.
+NEUT11|There are industry agnostic, meaning it doesn't matter what company you're working for, no matter what company you are.
+NEUT12|They can help you get better results, but they will supply chain, your customer base or working anything in the middle.
+NEUT13|So industry agnostic doesn't mean if your Navy or Shell Corporation, they have something for you.
+NEUT14|Personal price target.
+NEUT15|Now this is the technical and fundamental analysis.
+NEUT16|We're looking for $100 price target in the next 12 months.
+NEUT17|A lot of people out there have it for 150 or more, but I'm comfortable with $100.
+NEUT18|Because I really like pollentier and of course we do have a position.
+NEUT19|"Join us on Discord for more."""

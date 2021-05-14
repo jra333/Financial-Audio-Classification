@@ -1,0 +1,42 @@
+BEAR0|"""In Indian outsource are cooking the books."
+NEUT1|I'm Adam naturally the Wall Street Journal here with my colleague Nick Deogan.
+NEUT2|The Wall Street Journal's International letter to talk about Satyam computer Nick.
+BULL3|Thanks for being here.
+NEUT4|Tell me how big a scandal is this.
+BEAR5|This is certainly the biggest corporate scandal in Indian stock market history.
+BULL6|Southam Computer is one of the best known technology companies in India and we have an astonishing confession today by its chairman and founder.
+NEUT7|Who essentially says he was cooking the books and the company whose whose name means the truth.
+NEUT8|In Sanskrit there was a giant fraud for several years.
+NEUT9|Credit Lyonnais calling this India's Enron all be it on a smaller scale.
+NEUT10|Money wise.
+NEUT11|But tell me how did he get away with this for such a long time.
+NEUT12|I think that's one of the things that investigators are going to be pouring over right now.
+NEUT13|He essentially says in this astonishing five page confession letter that he wrote to the board into the.
+NEUT14|Regulators in India that it's been going on for several years and it was concentrated the holding company.
+BEAR15|He says there was that the Board of Directors, which has a pretty star, started cast and the other top officials really didn't know bout it.
+NEUT16|I'm sure that's something people are going to look to see whether he had any accomplices and how could a company of this size which was on the NYSE which was audited by Pricewaterhouse Coopers.
+NEUT17|How could they get away with it for so long?
+NEUT18|I think whether it becomes in a scene as India's Enron.
+BEAR19|A lot will depend on how investors react, and so far investors are not reacting well.
+BEAR20|The Indian stock market was down more than 7% today.
+BEAR21|It's really shattering the confidence of a lot of investors.
+NEUT22|Both foreign investors, an individual retail investors.
+NEUT23|Well, let's take a look at this for a second.
+NEUT24|What investors aren't feeling very good right now.
+NEUT25|But what's the outcome of this likely to be for investors, but also for the people who work for this company and its clients.
+NEUT26|It has some very Big Blue chip companies.
+NEUT27|Yeah, it's interesting to see.
+BEAR28|I mean some of the other rivals have been hit, but some of them are.
+BULL29|Expected to benefit.
+NEUT30|You've seen some of some of the rivals to Satyam like Infosys and others.
+BEAR31|Their stocks have risen today because people think that the system is obviously going to lose a lot of business.
+BEAR32|The theme stock, which has gotten hammered today and such employees, who knows what's going to happen to them.
+BEAR33|It's also particularly bad time because the technology outsourcing sector is starting to cool already.
+BULL34|The Indian economy, just like a lot of other economies, is starting to cool.
+BEAR35|So it definitely doesn't help.
+NEUT36|On that level, and I think people are just going to start to wonder about the transparency of some of these companies.
+BULL37|The chairman, Mr Raju, his his comment today was quite stunning.
+NEUT38|He said he did it for so long and finally he couldn't keep it up.
+NEUT39|He said it was simply simply unmanageable proportions and it was like riding a Tiger, not knowing how to get off without being eaten.
+NEUT40|But Nick Duggan thanks for being with us for the Wall Street Journal.
+NEUT41|"This is Adam Nash Berg."""

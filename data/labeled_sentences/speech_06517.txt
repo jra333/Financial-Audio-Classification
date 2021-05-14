@@ -1,0 +1,18 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xm.com today."
+NEUT1|Really connect USD JPY on the daily chart.
+BULL2|So zooming in, we can see that yen buyers have emerged within the 109.66 to 109.84 zone.
+BULL3|Previous resistance.
+BULL4|Now support to contest the price pullback of a one year high of 110.96.
+BULL5|The Soaring 50 and 100 day simple moving averages are defending the near 3 month rally of the 102.58 level while I near completion of a bullish crossover of the 200 day estimate could further boost this outlook.
+BULL6|The advance in each marker lines suggest that positive sentiment remains potent, opposing the minor price correction while the short term oscillators are reflecting mixed signals in directional momentum.
+BULL7|If buyers mold stable footing in this key support belt, initial upsides constraints may come from the red tickets in line at 110.04 before this traction lifts the price to challenge the resistance boundary located between 110.74 and 110.96, successfully resuming the climb may then propel the pair towards the critical 111.71 high.
+NEUT8|Of a.
+BULL9|Shooting this to the vital resistance section of 112 point 22212.40 involving a 10 month peak and a high that was identified in April 2019.
+NEUT10|Could draw traders attention.
+BEAR11|If the Perry directs below the 109.66 frontier, early downside limitations could develop from the 109.23 to 109.56 region.
+BEAR12|Sinking from here next critical support may emerge from the 108.16 to 108.40 zone and the tentative uptrend line pulled from the 102.58 low.
+NEUT13|It downside violation of these obstacles could then meet the 50 day SMAD and the 107.53 barrier.
+BEAR14|Summarizing a dive beneath the 109.23 to 109.56 support could create doubt in the rally.
+BEAR15|Furthermore, to undermine the strong bullish picture, that price would need to correct below the 108.16 to 108.40 support and the support of trendline.
+NEUT16|That's it for me.
+BULL17|"Have a great trading day."""

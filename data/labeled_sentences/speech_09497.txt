@@ -1,0 +1,4 @@
+BEAR0|"""SmarTrend identified a downtrend for Cowen Group NASDAQ symbol COWN on December 3rd, 2009 at $6.33 in approximately 3 months."
+BULL1|Cowen Group has returned 21% as of today's recent price of $5.
+BULL2|Trade your way to success today with smart Trend.
+NEUT3|"Click below for more news and market analysis."""

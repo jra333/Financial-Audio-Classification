@@ -1,0 +1,24 @@
+NEUT0|"""An analysis of job postings for Amazon, Facebook and other tech Giants hints at their inner workings."
+NEUT1|Figure out what their company's culture is like by looking for keywords and its job listings.
+NEUT2|Roman Sambursky, shutter stock.
+NEUT3|One of the hardest things about choosing a new job is determining whether you'd fit in with the company culture.
+NEUT4|Apart from reviews on job sites like Glassdoor, you often have no other information to work with before you actually step foot through the company's doors.
+NEUT5|But as it turns out, the job application itself can be a telling window into what a company's culture is really like.
+NEUT6|That's what text analysis startup text show found after it examined 25,000 job postings from high profile tech companies like Amazon, Facebook, Apple and Google.
+NEUT7|According to tax Shea, each company demonstrated unique language patterns and its job postings that set it apart from others in the industry.
+BEAR8|Amazon for example was 33 times more likely to use the word wickedly in its job postings compared to the next closest company.
+NEUT9|Other distinctly Amazonian phrases included fast-paced environment, an maniacal.
+NEUT10|Facebook on the other hand, was more likely to use the words or family ruthlessly and storytelling than other companies.
+NEUT11|And while Netflix is distinctive words where we doubt bull by the horns and disciplined text she found while Twitters were nerd passion for learning and diverse perspectives.
+NEUT12|Text Shea.
+NEUT13|In several cases, the words that disproportionately appeared on the company's job listings suggested a clear message about the company's ethos.
+NEUT14|It's no coincidence that common language would pop up in thousands of seemingly unrelated job postings.
+NEUT15|Texte Ossio Kieran Snyder wrote in a blog post.
+NEUT16|In large organizations, you don't end up with thousands of people using the same words by accident, she said.
+NEUT17|The patterns that show up across your company's jobs show what you truly value.
+NEUT18|The language a company uses in its job listings can affect the type of candidate that applies.
+BEAR19|A 2011 study showed that companies could inadvertently be attracting more male candidates than female candidates by using words that are colored with gender bias.
+NEUT20|Words like aggressive, competitive, and individual are all.
+NEUT21|Masculine coded words and thus attracted more men to apply to the companies that used them in their job.
+NEUT22|Postings at the same time, words like builder, cooperative, and understanding are all feminine coded words and attracted more women to job postings that included them.
+NEUT23|"Organizations spend significant time and money on shaping their employment brand, Snyder wrote, but however you trying to spin it the truth of your cultural environment shows up in the language that your team uses to communicate, especially when your entire company you."""

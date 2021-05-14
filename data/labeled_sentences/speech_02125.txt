@@ -1,0 +1,13 @@
+BEAR0|"""The co-founder of Crypto Data and Insights firm Coin Metrics has fired back at yet another article in mainstream media claiming that the Bitcoin bubble has been driven by Tether."
+BEAR1|Nick Carter, a former Fidelity Crypto asset analysts in Castle Island Ventures, partner, slammed the Wall Street Journal article titled behind the Bitcoin Bubble by Andy Kessler, alleging that it verged on journalistic malpractice.
+NEUT2|The award winning WSJ writer based some of his fairly extensive criticism on the work of a Blogger called Crypto and on in a viral post called The Big Short Inside Crypto's Doomsday Machine, Kessler wrote the Blogger had found that as much as 2/3 of Bitcoin buys on any given day were purchased with Tether.
+BEAR3|Based on coin Lib data raising questions over Tether and its lack of audits and the idea US DT was being employed to buy Bitcoin to Jack up its price, Kessler added.
+NEUT4|Kessler said he must also note that wallet provider Coinbase, the largest Holder of Bitcoin, says it does not support USD.
+NEUT5|T do they know something?
+NEUT6|Coinbase offers its own stable coin USDC, in partnership with Circle Carter, who is now board chair at Coin Metrics.
+NEUT7|Wrote that assessing trade between USDT and Bitcoin using data called coin Lib was indefensible as it included 10s of billions of wash trading data from exchanges that reputable data sources ignore.
+BEAR8|He said any serious trader knows that many of the exchanges composing the coin Lib sample are not credible and that the resultant data was thus completely unreliable.
+NEUT9|Carter stated that coin Lib is taking the data outputs from marginal and often non Fiat connected tether based exchanges as face value.
+NEUT10|And unsophisticated analysts like crypto Anon, are using it to disseminate FUD about bitcoins liquidity.
+NEUT11|He argued that highly regulated exchanges and institutional fund providers do not rely on or even support tether in some cases, and they all facilitate an on ramp to Bitcoin and support the price.
+BEAR12|"Carter concludes that Kessler needs more research and called for a retraction and a correction by the WSJ."""

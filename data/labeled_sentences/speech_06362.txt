@@ -1,0 +1,33 @@
+NEUT0|"""Oh fools I'm Robert Brokamp, senior advisor for the Fools Rule retirement service."
+NEUT1|As part of our Ask a Fool series, we have a question from Joshua.
+NEUT2|He asks when selecting different options for growth.
+NEUT3|Is it better to put individual stocks in my Roth IR A or should I put mutual funds in that account and manage my individual stocks outside of it?
+NEUT4|So the first answer to that is what's the goal for the money?
+NEUT5|Obviously if you need money in shorter term, it's not for retirement.
+NEUT6|You keep it outside of your IRA.
+NEUT7|You should be able to put.
+NEUT8|You should put money in there only for money that you can leave until you're at least 59 and a half.
+NEUT9|So let's make sure we all understand a Roth IR A versus a Traditional IRA Ray with a Traditional IRA Ray, you probably got a deduction when you put the money in it grew tax deferred, which means he didn't pay taxes as it grew.
+NEUT10|But then when you take it out in retirement, then you'll pay taxes.
+NEUT11|Roth is the other way around.
+NEUT12|When you put money in, you don't get a tax break, but then it grows tax free, meaning in retirement when you take the money out, you don't pay any taxes.
+NEUT13|So which investment should go in a Roth?
+NEUT14|IR a while when you think about it, you want you Roth to be bigger because that's the one that comes out tax free and a bigger tax free account is always better.
+NEUT15|So when you think of what to put in the Roth, you have to think about what will produce the most growth.
+NEUT16|Now that's always difficult.
+NEUT17|We can't predict the future, but generally speaking, over the long term, the type of stocks that have higher growth are small cap stocks.
+NEUT18|We're talking about stocks that are less than $2 billion in market cap.
+NEUT19|And it might also be value or growth depending on the stock.
+NEUT20|So when you think of what to put in your Roth, think of the type of stocks that will probably produce the greatest return.
+NEUT21|Now, will that be your individual stocks or will it be those be your mutual funds?
+NEUT22|That depends on your mutual fund and your ability to pick good stocks and which one you think will provide the highest growth.
+NEUT23|Now.
+NEUT24|Another consideration to with your stocks is, is this a dividend paying stock?
+NEUT25|Or not, if it is a dividend paying stock, that is the type of stock to keep in some type of IRA, because if it's outside the IR A, you're going to pay taxes on those dividends each and every year.
+NEUT26|If you have to choose which account a retirement account rather traditional or a regular taxable account, save your taxable account for stocks that don't pay dividends because it'll grow without really any taxes because you're not paying the tax and dividends.
+NEUT27|And then when you sell, you'll be paying long term capital gains rates which.
+NEUT28|According to current law, are lower than ordinary income rates, so those are several considerations.
+NEUT29|I know it's not an absolute black and white answer, but so those are some ways to think about hope that helps.
+NEUT30|And if you have any other questions, visit us on our Facebook page and fulan.
+NEUT31|On the show may have interest in the stocks they talk about, and The Motley Fool may have formal recommendations for or against.
+NEUT32|"Don't buy or sell stocks based solely on what you hear."""

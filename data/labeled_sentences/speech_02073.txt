@@ -1,0 +1,35 @@
+NEUT0|"""Stock market magic here."
+NEUT1|So in this video we're going to go over Pepsi stock versus Coca Cola.
+NEUT2|Stock Zero will start with Pepsi.
+NEUT3|Currently trading for $131 in about $0.50.
+NEUT4|If we Scroll down we can see the 52 week high was at $147.20 in the 52 week low.
+NEUT5|It was at $101.42 and it has a currently a dividend yield of 2.7.
+NEUT6|7.
+NEUT7|And now Pepsi is a lot more expensive than Coca Cola, as you're going to see Coca Cola trades.
+NEUT8|Between right around the $45.00 mark right now hovers 40 to 50 right around in that range.
+NEUT9|So Pepsi is significantly more expensive than Coke per share.
+NEUT10|Now the thing I do like about Pepsi is there they have a lot more potential growth than Coca Cola.
+NEUT11|There a bit newer of a company and they're still expanding and they also like Doritos.
+NEUT12|That's a brand they own, so they have a bit more going for them in terms of growth.
+NEUT13|However, I still do prefer Coca Cola as we're going to see right now.
+NEUT14|Let me type in Coca Cola.
+NEUT15|As you can see, Coca-Cola is going right about $45 per share, and I do have quite a few shares.
+NEUT16|I have 20 shares for an average cost of $40.51.
+NEUT17|And if we Scroll down, we can see the 52 week high was about $60.52 equals low was $36.
+BULL18|And their dividend yield is a little bit higher.
+NEUT19|At three point 4%.
+NEUT20|Now Coca Cola the share price is a lot lower.
+BEAR21|They do have less growth.
+BULL22|Potential growth isn't as high as Pepsi, however.
+NEUT23|I still really do like Coca Cola.
+BULL24|They have great distribution there, a worldwide known brand.
+NEUT25|So I do prefer Coca Cola over Pepsi stock.
+NEUT26|However, either are a great choice.
+NEUT27|I just prefer Coca Cola, little bit higher of a dividend an the share price is significantly cheaper than Pepsi, so that's my take on it.
+NEUT28|But either company is.
+BULL29|A long term, a great investment.
+BULL30|They're both solid companies, so either one is.
+NEUT31|A wise choice if you're thinking of getting in a beverage soda type company.
+NEUT32|Either one is good to go with.
+NEUT33|I just prefer Coca Cola.
+NEUT34|"And if you're new to investing, you can click the link below to sign up for Robin Hood and get a free bonus stock."""

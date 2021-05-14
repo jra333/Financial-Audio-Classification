@@ -1,0 +1,12 @@
+NEUT0|"""McDonald's new CEO is making changes at the company, moving away from a culture that we're now I realized tolerated partying and fraternizing between senior managers and rank and file employees."
+NEUT1|Weird piece.
+BEAR2|Anyway, the Journal says the new CEO Chris Kempinski is seeking to restore professionalism after former CEO Steve Esterbrook was Easterbrook was fired for having a consensual.
+NEUT3|Relationship with the staff room commits addressing that the Journal piece describes a culture of late nights at bars and happy hours at the company's headquarters, where Easterbrook, another and another former executive, developed a reputation for flirting with female employees.
+BEAR4|A formal complaint back in October triggered the investigation that led to Easterbrook's firing.
+NEUT5|It's bed, bath and beyond might as well be you.
+NEUT6|I think you OK stocks to watch the Journal this is this is a great place.
+NEUT7|We love it.
+BULL8|The Journal reporting that Bed Bath and Beyond is struck a deal to sell roughly half of its real estate and then lease back that space.
+BEAR9|The Journal saying the deal with Oak Street real estate capital expected generate more than $250 million for the troubled retailer Pains Me to call it trouble.
+NEUT10|This is Jennifer Pines.
+BULL11|"You enjoy our time there."""

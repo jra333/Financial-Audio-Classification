@@ -1,0 +1,12 @@
+NEUT0|"""Hey, what's up everyone?"
+NEUT1|Welcome back to this cryptocurrency prediction with you today.
+NEUT2|We're going to do prediction on Bitcoin, so now the price of the Bitcoin is 59,980, two $1000.
+BULL3|OK guys, from last 24 hour the price was higher strictly 1000.
+NEUT4|Because he's 60,000 and lowest is 55,000, so you can see now you can see the price you can see now that is 60,000 hands going up and up and up.
+NEUT5|So guys the right time to sell your Bitcoin now because the price is very hype.
+NEUT6|Now from last one month 60,000 the highest price guys.
+NEUT7|So the price may now come down anytime so it's the best time to sell your Bitcoin now because it crossed the $60,000.
+NEUT8|So invest your money at your own risk.
+NEUT9|OK, bye.
+NEUT10|See, the president is 60,000.
+NEUT11|"Brush the $60,000."""

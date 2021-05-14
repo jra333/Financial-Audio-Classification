@@ -1,0 +1,24 @@
+NEUT0|"""All right, meantime Walmart announcing its answer to Amazon Prime, it's called Walmart."
+NEUT1|Plus, CNBC's Melissa Repko has more on this service, Melissa, which we're taking a close look at and trying to figure out how it compares, what it has, what it doesn't have.
+NEUT2|Perhaps that that Amazon does tell us your thoughts.
+NEUT3|Yes.
+NEUT4|Hi today Walmart has officially announced its subscription service, which was much anticipated and the service will cost $90.00 a year where there's a monthly option, which is 1295 a month.
+NEUT5|But it looks very different than Amazon Prime and Amazon Prime of course is a comparison.
+NEUT6|I spoke to the Chief Customer Officer and she said we're not launching this compete with anything but at the end of the day customers, an analysts and investors will be looking to compare the two side by side and Walmart looks very different.
+BULL7|Is offering three key perks.
+NEUT8|One is free delivery of grocery and other items to the house.
+NEUT9|Fuel discounts at its gas stations and then also use of an app called Django which allows people to skip the line and check out themselves through a smartphone app.
+NEUT10|I and so you know, they also held out the prospect Melissa of more to come.
+NEUT11|Do we have any sense as to what else they might do?
+NEUT12|And of course this is taken in the larger context of Walmart really making significant inroads digitally just in general as it tries to compete more effectively with Amazon.
+BULL13|That's right, its e-commerce sales nearly doubled in the second quarter and Walmart's really seen benefits from the pandemic is everyone's turn to it for a lot of customers, including you and your customers have turned to it for a wide variety of things like grocery and Walmart's really looking to hang on to those customers and build on the broken theme during the pandemic and their Chief Customer Officer mentioned that they may be adding more benefits, but this is kind of a starting point for that.
+NEUT14|But two core elements of this are leaning into that.
+NEUT15|Pandemic Trend one is people want groceries conveniently delivered to the home, and if they remember of Walmart plus, they won't have to pay a fee for that.
+NEUT16|They can get as many as they want as long as they need a $35 threshold.
+NEUT17|The other piece is a scanning go.
+NEUT18|People are looking for contactless pays to pay an that access to the app will be limited to only Walmart.
+NEUT19|Plus Sam's Club customers may be familiar with that because they already have access to the same thing at the Warehouse Club.
+BULL20|Melissa, thank you.
+NEUT21|It's interesting to watch.
+NEUT22|Here's a Walmart reacting quite positively and look at if it starts to get anywhere near a multiple that other digitally focused companies do.
+NEUT23|"Melissa Repko from cnbc.com."""

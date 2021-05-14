@@ -1,0 +1,15 @@
+NEUT0|"""We haven't really gotten your report card on Buffett's letter."
+NEUT1|The defensive buybacks, at least his own buyback.
+NEUT2|Not not all buybacks, and this lack of commentary either on specs really or on GME.
+NEUT3|Although Munger took care of some of that last week, yeah, I mean, I think that what he basically said was look if you're a long term investor, you can do well and I think that was a very wasn't.
+NEUT4|It really wasn't an offhanded attack or anything, just like hey guys, younger investors, you can do really well if you compound.
+NEUT5|Obviously he is preferred people to just put money in an index fund.
+BEAR6|The most jarring thing was the Precision Castparts, which was the company that they obviously pay too much for.
+NEUT7|That's his words.
+NEUT8|37 billion he came on a squawk box that morning and he said he's paying a very high multiple and it was highly unusual for him to do that.
+BEAR9|It was the largest acquisition and it was a bad luck with $11 billion right down.
+NEUT10|So coral, very self effacing letter.
+BEAR11|Yeah, he did say not his only mistake, but in his words that was a big one.
+BEAR12|It says it paid too much.
+NEUT13|Shepard Smith here.
+NEUT14|"Thanks for watching CNBC on YouTube."""

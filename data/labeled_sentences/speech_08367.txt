@@ -1,0 +1,20 @@
+NEUT0|"""Hi this is Thomas with like assets."
+NEUT1|Have you ever wanted to group your positions by a custom category such as an investing strategy or a Guru stock picks?
+NEUT2|Well, in this video I will show you how to use the tagging feature to easily track your investments in a customized way.
+NEUT3|To set up tagging, you will need to tag your individual positions with your desired tag, and then you can view the group of positions by this tag.
+NEUT4|First you will click into your account and then into the position you want to tag.
+NEUT5|Click settings.
+NEUT6|Enter your tag name and save.
+NEUT7|You can enter multiple tags if you like.
+NEUT8|Now tag your other positions using the exact same steps.
+NEUT9|Now I will return to the default view and click more and select tags.
+NEUT10|I have created 2 special tags for this example portfolio.
+NEUT11|If I click on my energy pics tag I can see the performance for these pics.
+NEUT12|I can change time frames and see the performance and value.
+NEUT13|I can change the benchmarks and compare these tagged pics to my benchmark.
+NEUT14|Now let's take a look at Guru Bob 2013.
+NEUT15|I have tagged these stocks with the guru Bob 2013 so I can track the performance of my favorite fake guru, Bob.
+NEUT16|How were bobs pics doing year to date?
+NEUT17|What is the Alpha of Bobs pics?
+NEUT18|As you can see, tagging is a powerful and customizable feature that lets you easily track the performance of your investments and whatever way you want to group them.
+BULL19|"Thanks for watching."""

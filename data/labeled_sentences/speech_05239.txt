@@ -1,0 +1,35 @@
+BULL0|"""Hello and welcome back to starts with Superman Doodle Jam."
+NEUT1|Next up on our list is Netflix.
+NEUT2|We are running through the top 100 most popular stocks, breaking him down, giving him a grade from zero to 10 based on nine key factors running in alphabetical order.
+NEUT3|Next up numbers 55.
+NEUT4|Netflix, what do they do?
+NEUT5|Well, we know what they do, don't we?
+NEUT6|They run their streaming network.
+NEUT7|Sure, most people have a Netflix.
+BEAR8|I have a Netflix lately they've been quite lacking in the material and I'm going to count that against them because I'm on the fence as to whether or not I want to cancel my Netflix subscription.
+NEUT9|I'm being honest here, alright.
+NEUT10|So first up, let's take a look at the earnings growth over the last quarter.
+BULL11|Current quarter up 90% next year up 68% current year, 62% up next year up 30.
+NEUT12|31% fantastic looking numbers.
+NEUT13|Let's take a look at the analyst price target current stock price 493.
+NEUT14|Our price target 618 fantastic.
+BULL15|That's quite a lot with two upgrades here as well.
+BULL16|I got it saying stocks looking good so far.
+NEUT17|What's the PE ratio looking like?
+NEUT18|81.
+BEAR19|Not bad for a $500 stock beta 0.83?
+NEUT20|That's a low risk.
+NEUT21|Beta.
+NEUT22|We like that.
+BULL23|And Lastly let's let's look at the short interest first on Netflix we have an increase of 5% so.
+NEUT24|Semi, that's not a great great sign to see, but it's nothing really crazy Netflix.
+BULL25|Let's look at the chart over the last five years is how the pretty decent upward trend and has continued to gain subscribers.
+NEUT26|Let's take a look a little closer.
+NEUT27|We've seen it trade between these ranges between 470 and about.
+NEUT28|Five $7000 range, currently 493 nearing the bottom side of that range, keeping in mind price target as well, I'm going to give this one A9 out of 10.
+BULL29|Nine out of 10.
+NEUT30|I'd give it a 10 out of 10 if they get some new good movies.
+NEUT31|What do you think?
+NEUT32|Let me know in the comments.
+NEUT33|Thank you for watching.
+NEUT34|"Don't forget to leave a like and subscribe and we'll see you next one is Neo will see you over there."""

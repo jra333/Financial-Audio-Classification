@@ -1,0 +1,33 @@
+NEUT0|"""Do voters really want higher taxes?"
+NEUT1|Watch these three pivotal referendums.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to help navigate this turbulent world.
+BULL3|Democrats are pushing big tax hikes.
+NEUT4|They try to sugarcoat them by saying only the rich will pay more.
+NEUT5|That's not true on the national level.
+BEAR6|If the Trump tax cuts are actually repealed, the typical household will pay at least $1000 more because the standard deduction will be cut in half.
+BEAR7|But there are three particular state referendums proposing tax boosts that extensively hit.
+BEAR8|Only the better off, of course, the kinds of higher taxes being proposed would destroy savings and capital and end up slamming local economies.
+NEUT9|Will voters be fooled by these envy based appeals?
+NEUT10|Watch these referendums.
+NEUT11|California Proposition 15 would repeal the limitations on increasing taxes on supposedly large commercial properties that were enacted back in 1978 with Proposition 13.
+BULL12|Proposition 15 would hike taxes by some $10 billion.
+NEUT13|Proponents claim only big bad commercial companies would pay, but guess what?
+BEAR14|Voters are beginning to realize they would end up being heard higher taxes here would mean higher rents and lease payments for countless small businesses which have already been badly hurt by the COVID-19 lockdowns.
+BEAR15|That in turns mean more bankruptcy and job losses as well as higher prices.
+NEUT16|Where the building owners get the money to pay more taxes from tenants, who in turn must raise prices.
+BEAR17|Minority owned businesses would be particularly hurt, which is why the NAACP is come out against Prop 15.
+NEUT18|Another must watch referendum is taking place in Arizona.
+BULL19|This proposition would boost the state's highest income tax rate from 4 1/2% to 8%.
+BULL20|Arizona's been gaining 10s of thousands of new residents fleeing tax mad California.
+NEUT21|Why would it want to imitate the disastrous path of its feckless neighbor?
+NEUT22|Illinois has a referendum that would replace its current flat tax income rate with a progressive system.
+NEUT23|The current rate is 4.95%.
+NEUT24|The governor wants a new system with a top rate of almost 8%.
+BEAR25|Only the rich, he says, would pay more, but Illinois's already burdened with numerous other taxes.
+NEUT26|If that referendum passes, Illinois would become the most heavily tax state in the country except for New York, New Jersey and California.
+NEUT27|As is happening in those states.
+BEAR28|Residents would flee Illinois to friendlier climes as never before.
+NEUT29|If these referendums pass hold onto your wallets, more will be coming.
+NEUT30|I'm Steve Forbes.
+NEUT31|Thank you for listening to send in your comments and suggestions.
+BULL32|"I look forward to being with you soon again."""

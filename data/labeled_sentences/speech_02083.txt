@@ -1,0 +1,35 @@
+BEAR0|"""And breaking news in just the past few minutes also had Coke results."
+BULL1|They are out, the company reported quarterly profit of $0.42 per share, beating estimates by two cents.
+BULL2|Revenue was in line with forecasts.
+NEUT3|Want to get over right now to.
+NEUT4|Sara Eisen spoke to the company CEO and joins us right now with the highlights era.
+BEAR5|Good morning, Andrew and just to put some perspective on those numbers, you just read that seven 2.2 billion in sales was a 28% drop.
+NEUT6|We went back to records at least since 1990 Cokes.
+BEAR7|Never seen a revenue drop like that.
+BEAR8|The earnings drop down 32% organic revenues which is a key metric here for consumer companies down more than 20 percent 26%.
+BEAR9|Clearly the market had the expectations low.
+BULL10|An analyst were pretty much ballpark correct in expecting it as the share price is higher.
+NEUT11|What drove the quarter?
+NEUT12|I just talked to CEO James Quincy.
+BEAR13|Two key factors and their related which drove weakness pretty much across the board.
+NEUT14|Number one.
+BEAR15|The countries that were in lockdown dictated which countries did worse than others.
+BEAR16|Europe was particularly hard hit and they are away from home business.
+BEAR17|Remember, 50% of Coca Cola's business happens outside the home restaurants, stadiums, concerts, Coke is way more exposed than its rival Pepsi, and that is reflected in the sales weakness.
+BULL18|Volume trends according to Quincy, have sequentially improved.
+BEAR19|Across the quarter, as countries started opening up in July, for instance, the sales were down.
+BULL20|He said only mid single digits relative to double digits earlier in the quarter.
+BULL21|So clearly he said it's getting better.
+NEUT22|They are seeing the second quarter as the most challenging part of the year, but plenty of uncertainty lies ahead.
+NEUT23|The company is not giving guidance.
+NEUT24|What else can I tell you from Quincy?
+NEUT25|He said that as far as the stock up go, people going to the grocery and buying, he said once that once people figured out that the supply chains were not going to be strained and there weren't going to be shortages.
+BULL26|Those softened a lot and came back to normal as far as China.
+NEUT27|They've got the international picture here.
+BULL28|He said the Chinese business has back bounced back.
+NEUT29|He said we grew in China.
+NEUT30|However, it's not growing as fast as it was growing before the crisis, and he attributes that to the fact that only 85% of their eating and drinking establishments are actually open.
+NEUT31|Is that a litmus test for other countries around the world, he said, can't tell whether that's for sure.
+BEAR32|As far as the US business actually was not, it was down.
+BEAR33|Everything was down, but was not as down as some of the other countries, and that's because partially the US didn't fully lock down an.
+BEAR34|"Also because a lot of the food service that the fast food businesses stayed open for drive-thru and take away, and that certainly helped their beverages, they're very exposed there."""

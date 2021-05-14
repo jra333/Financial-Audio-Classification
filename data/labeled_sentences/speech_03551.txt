@@ -1,0 +1,37 @@
+BEAR0|"""It's not every day that Goldman Sachs gets called out on a bad trade, but it has happened."
+NEUT1|Steve Russell.
+NEUT2|Lilo is here.
+NEUT3|He's going to tell us goldmans bad call in the last couple of days.
+NEUT4|Hey, Goldman doesn't get around that, but you're here to tell us.
+NEUT5|Yes, basically once called that they were they were a little off on this one.
+NEUT6|So basically they came out in late June a few weeks ago and said it's time to go short.
+NEUT7|The S&P 500.
+BEAR8|The stocks are too high.
+BEAR9|There's too much trouble in Europe.
+BEAR10|Too much trouble here in the US.
+NEUT11|Time to show their statement right there.
+NEUT12|Right, and so we're recommending a short position SP 500, and so people looked at this and said, wow, Goldman Sachs is saying this, oh, let's step back for a second.
+NEUT13|This is not.
+BEAR14|This is not so good for the markets and so we had a big sell off that day.
+NEUT15|You Fast forward a few weeks and now you come to today.
+BULL16|The market is a lot higher than when it was a few weeks, almost 13,000 right?
+NEUT17|Almost there sometime and out, yeah, and the SP 500 now background 1375 and so Goldman saying Whoops were wrong like we hit some stop orders and so we are.
+NEUT18|We're taking off our short position right now and basically you know.
+BEAR19|We hit the higher level where we said you know, OK, this is not a good trade anyone, so we're backing off and so overall the loss I think was about 1.1 percent 1% and not a huge loss.
+NEUT20|But I mean it's interesting though because at the time it looks like a decent call.
+NEUT21|It looked like you know there weren't going to be any grand solutions in Europe.
+BEAR22|They looked like everything was getting worse here in the US.
+NEUT23|Now.
+BULL24|Not to say that Europe is totally fixed, but I think that the announcements from the EU summit last week caught some people off guard.
+NEUT25|You had this huge rally on Friday.
+BULL26|The rally has continued throughout the first two days this week.
+BEAR27|Even if it's on light volume, it's still continued, and so we're at this point now where yes, the US economy is still struggling.
+BEAR28|Yes, Europe is still a mess, but.
+NEUT29|There may be some measures that are being taken in Europe that are going to kind of stem the crisis soon.
+NEUT30|Here's Goldman and it's with his tail between his legs.
+NEUT31|Kind of saying, well, it's going to be bad in the long term, but we were just wrong for this short part of the cycle exactly exactly and so, and that's the main point right now is that, you know they're even saying, you know, we're still very concerned about the US and their quote was our bias remains to the downside when it comes to USUS economy and what's going to happen.
+BEAR32|Especially with this jobs report coming up on Friday, they expect only 75,000 jobs added so.
+NEUT33|You know, again, it's one of those things.
+NEUT34|It's a short term trade.
+NEUT35|They missed out a little bit.
+BEAR36|"Not a huge deal, but at the same time though, it seems like we called them out OK. Fair enough, it seems like we're due for an upside surprise, given that expectations were so low, so low on that job report will be back here on Friday."""

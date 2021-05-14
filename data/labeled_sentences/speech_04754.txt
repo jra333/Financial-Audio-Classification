@@ -1,0 +1,13 @@
+BEAR0|"""Hello and welcome to FT markets, turmoil has ensnared markets, and here are the major concerns facing investors."
+BEAR1|Sweden goes further negative.
+BULL2|In an interest rate, world turning increasingly negative, the Riksbank has upped the ante against market expectations that it would cut its benchmark interest rate to just minus 0.45%.
+BULL3|It is actually cut to minus 0.5% and out of the kicker that it's ready to do more.
+BEAR4|As a result, core European bond yields have fallen to new record lows, while UK and US benchmarks are also falling.
+BULL5|The race to the bottom among central banks is picking up speed.
+BEAR6|Financials and miners are leading the equity sell off.
+BEAR7|Banks do not like negative rates and after a brief response on Wednesday, investors are once more fleeing the sector.
+NEUT8|The question now is whether we are finally seeing the kind of capitulation that ultimately staunch is.
+BEAR9|What has been a brutal sell off since the start of the year.
+NEUT10|Is the end showing signs of that capitulation?
+BEAR11|Well, a massive rally in the yen suggests that carry trades are being cut as investors head for the sidelines.
+BULL12|"The currency surged nearly 3% against the dollar this morning and along with rising equity volatility, this tells us that market stress may indeed be near or perhaps approaching an inflection point."""

@@ -1,0 +1,18 @@
+BEAR0|"""Trading is over after a hot and steamy August the 15th."
+NEUT1|Here in New York.
+NEUT2|Here's the New York minute.
+BULL3|Fortunately, perhaps for everyone, the Olympics continues to be far more exciting than the markets.
+BEAR4|It's been an extremely quiet, thin day.
+BULL5|Although you have seen the S&P 500 sets, yet another new all time high.
+NEUT6|Now what's perhaps most intriguing about this is where that rally is coming from.
+BEAR7|It's coming from a very quiet rebound for emerging markets, which have been out of favor for so long.
+NEUT8|You can see that very clearly.
+NEUT9|First of all, in Chinese H shares is the Hang Seng Chinese Enterprises Index of.
+NEUT10|Large Chinese companies quote in Hong Kong.
+BULL11|It's at last as a high for the year for the first time all year.
+NEUT12|Or if you look at foreign exchange.
+BULL13|This is JP Morgan's benchmark index of emerging market currencies, again at a fresh, very significant high for the year.
+BEAR14|Or finally, if we take a look at the ETF market, this is how the EEM emerging markets ETF that tracks the MCI index is down compared to the main S&P 500 tracker for the year.
+BULL15|Again, a clear rebounding sentiment about the emerging markets.
+BULL16|That's it's those companies that are exposed to emerging markets that are doing well.
+NEUT17|"And that's the New York minute."""

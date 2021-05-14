@@ -1,0 +1,20 @@
+NEUT0|"""Welcome to the Deep Industries limited stock analysis video."
+NEUT1|In this video we would look at fundamentals of Deep Industries Limited and important financial ratio.
+NEUT2|Deep Industries Limited current price is 321.50.
+BEAR3|It changed 1.10% higher than previous close its 52 week high as 331 and 52 week low is 158 companies earning per share is 23.1 and its price to equity ratio is 14.3.
+NEUT4|Star cast book to price ratio is 3.2 Deep industries limited return on equity is at 17.7%.
+BEAR5|Company had 74.94 Ave in Q416 as compared to 70 point 6,00,00,000 in Q316.
+BULL6|Revenue has grown consistently in last few quarters, which is positive for company.
+BULL7|Revenue has grown quarter round quarter with six point 1% in current quarter and 4.6% in previous quarters.
+BULL8|Raw food has grown steadily in last few quarters with 23.2 as compared to 17.74 in previous quarter.
+BULL9|Profit growth rate has also grown steadily in last few quarters.
+BULL10|It has grown 31.17% in last quarter compared to 5.61% in previous quarter, which is great positive.
+BEAR11|Profit margin is the ratio of net profits revenues profit margin in Q416 is 31.01 as compared to 25.09 in Q316.
+BEAR12|Operating profit for the company in Q416 is 36.74 as compared to 41.46 roaring Q 316 L built in Q416 is 30.634 as compared to 27.02 roller in Q316.
+BEAR13|Operating profit margin for the company in Q416 is 49.05% as compared to 58.73% in two 316 Abbott margin in Q416 is 40.89% as compared to 38.28% in 2/3/16.
+BEAR14|Company has 264.6 floor dead.
+NEUT15|It has interest liability of 22 point 2,00,00,000 companies.
+NEUT16|Investor coverage ration is 5.87.
+NEUT17|Finally, here is a summary of few positives and negatives based on these analysis points we have calculated the rating for Deep Industries Limited.
+NEUT18|There is rating on a scale of 10 for Deep Industries Limited.
+BULL19|"Thanks for watching this video."""

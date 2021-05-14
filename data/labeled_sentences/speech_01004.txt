@@ -1,0 +1,25 @@
+NEUT0|"""What's going on with?"
+NEUT1|GameStop an.
+NEUT2|Wallstreetbets and AMC stop.
+NEUT3|So a bunch of hedge funds shorted.
+NEUT4|And.
+NEUT5|The retail investor.
+NEUT6|They found a way to basically connect people who were hunting 4 Chan.
+NEUT7|To a Bloomberg Terminal.
+BEAR8|So so we retail investors were angry AF and even middle class people who don't quite have a few money.
+NEUT9|They are sending a nephew by buying GameStop.
+NEUT10|They're buying AMC.
+NEUT11|And yeah, it's me and it's like a party.
+NEUT12|Like a party, but the party is a protest that people may financially benefit.
+NEUT13|It's Occupy Wall Street, but with a goal.
+NEUT14|It's Occupy Wall Street with limited partners that are micro limited partners.
+NEUT15|So a limited partner is a person who antes up money.
+NEUT16|It's a decentralized hedge fund, and what that is is it's a hedge fund, but it's loose and it's only connected over the Internet, so you enter your NLP and so when the public angry MOB organizes on Twitter, they organize on Reddit in order until it was deep platformed or organizes on YouTube.
+NEUT17|That's a decentralized, angry mob that's that's looking for blood.
+NEUT18|And remember when you short a stock, there is a unlimited amount of loss that you can take because it's a naked sale and what a naked sale is is when you sell stock that you don't own.
+NEUT19|So the price goes up really high.
+NEUT20|You need to go buy it because you sold stock that you didn't own.
+NEUT21|That's a naked sale.
+NEUT22|That's a short.
+NEUT23|So when you short.
+BEAR24|"When the hedge fund shorts, the risk is massive because their losses are unlimited."""

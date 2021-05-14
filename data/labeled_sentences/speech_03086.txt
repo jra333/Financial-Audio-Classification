@@ -1,0 +1,21 @@
+NEUT0|"""Hey everybody, it's time for Morning Joe."
+NEUT1|Brian Sozzi Tesla.
+NEUT2|Just bleeding finance people.
+NEUT3|Yeah we could go there.
+BEAR4|Chief Accounting Officer left for personal reasons.
+NEUT5|Now their treasure departed.
+NEUT6|According to Bloomberg, Big red flag.
+BEAR7|I mean the quarter has a couple weeks away from ending Big Red flag on test so you don't see guys crunching numbers of money losing electric car company departing for the quarter ends.
+NEUT8|Red Flag sells dog another red flag.
+BEAR9|With regard to Facebook shares below its 50 day moving average.
+BEAR10|Yeah it's the only non rallying tech stock and that's a major red flag.
+NEUT11|You worried about how they're doing in the quarter and how investors continue their changes in the News Feed.
+NEUT12|Alright, we want to remind everyone all the incredible things our colleagues at the dealer up to tell us.
+NEUT13|Yeah, I mean, they just do phenomenal high level institutional level analysis.
+BULL14|Big win for them.
+NEUT15|You know we wrote about VF Corp potentially making an acquisition.
+NEUT16|We're about that.
+NEUT17|Yesterday they came out and bought a running sneaker brand.
+NEUT18|If nobody's on the deal, get on the deal.
+NEUT19|I mean, we have so many people on Wall Street on there.
+NEUT20|"Get on it, get on it, get on it & up for morning Jolt at thestreet.com right now."""

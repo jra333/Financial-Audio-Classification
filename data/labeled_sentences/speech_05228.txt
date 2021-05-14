@@ -1,0 +1,35 @@
+BULL0|"""So it's basically a robust recovery back to normal and new normal and deep scars."
+NEUT1|Alright, let's hear it.
+NEUT2|Which one do you think is most likely?
+NEUT3|Yeah, So what we're calling it a new normal most closely resembles our base case, and of course, how the vaccine plays out in all of these scenarios is very important to driving which scenario we end up finding ourselves in because the next 18 months is going to dictate the next five years for the economy, so you know and what we're calling a new normal is that the vaccine does come in the spring, but not before.
+NEUT4|There's a second wave of infections that does drive some risk aversion during that time.
+NEUT5|But leave a little bit more lasting imprint of risk aversion to consumers and businesses, and so that in that recovery is more gradual than, say, some of the more bullish scenarios but, but that's, you know, return to what we're calling a new, normal importantly has to come with some assumptions of what does work from home look like you know.
+NEUT6|Certainly they work from home.
+BULL7|Arrangements will be lower than today, but higher than they were previously.
+NEUT8|And then how are we incorporating accelerating technology trends?
+NEUT9|And that's where.
+NEUT10|The help of our equity analysts became very important in this analysis because not all is.
+BEAR11|Is is bad when we think about technological advances, especially when they're tired from working from home.
+BULL12|Many of those can actually drive productivity gains, which in this baseline help us maintain potential GDP.
+BULL13|Right now, that would be a sort of good longer term outcomes.
+NEUT14|So just everybody is kind of following here.
+NEUT15|Of the four potential outcomes.
+BEAR16|You're basically thinking kind of the second worst.
+NEUT17|Is your base case, which is to say it's not.
+NEUT18|You know the worst outcome, but it's not some of the more optimistic ones either.
+NEUT19|And as you said, a lot of this depends on the vaccine timing, but I really thought it was interesting.
+NEUT20|Your point about how in your base case, which is somewhat cautious, you envisioned a 30% work from home rate, longer term, which is about double what the government is estimating.
+NEUT21|Why is that figure so high?
+NEUT22|And what does that tell us?
+NEUT23|Yeah, so our surveys right now.
+NEUT24|I'll suggest that our surveys of households suggest that we've got about 50% working from home right now, so we're assuming that it comes down substantially from where it is today because many folks will be going back to work or we are having some more flexible, at least work from home arrangement or not full time work from home, but that we do end up with double the amount that the government had estimated precoded that was existing pre covid.
+NEUT25|Now what have we done?
+BEAR26|We've proven that productivity does not suffer when we work from home.
+NEUT27|We've removed the stigma of working from home.
+BULL28|We put in the technological advances to be able to work from home, and that will continue to deepen over time.
+NEUT29|And so you know, the you know we took a deep dive into more than 700 sectors of the economy to to look at the capability to work from home.
+NEUT30|It gives you these types of numbers and getting this estimate.
+NEUT31|You know, just a ballpark of it, right?
+NEUT32|Is important because if we think about consumer spending trends, we when we work from home, we spend like we're in retirement.
+BEAR33|So if we take out health care spending which is more age related when we move into retirement, we drop apparel expenditures by 20%.
+BEAR34|"We drop food away from home at 8 by 8%, and we drop transportation expenditures by 4% to all of those are tide to work, commuting, eating out, and purchasing work clothing and so that's also important to understand work from home because it will shift consumer spending patterns."""

@@ -1,0 +1,10 @@
+NEUT0|"""Gotta ask about Tesla here because market value yesterday surpassed out Walmart."
+NEUT1|What kind of valuation is Tesla discounting right now?
+NEUT2|Look right now.
+NEUT3|We continue to talk in the EV market.
+BULL4|The appetite continues to be there for investors.
+NEUT5|It's only three to 4% penetrated.
+NEUT6|Their only King of the Hill.
+NEUT7|And if you are from a profitability is what we're seeing in China, we still think bright days ahead for test.
+NEUT8|Remember, it's valued as a technology name, not automobile company.
+BEAR9|"Despite the haters, your continuous scratch their heads in stock near tire."""

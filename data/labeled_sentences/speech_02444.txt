@@ -1,0 +1,20 @@
+BEAR0|"""The stock is down."
+BEAR1|I mean there's no question they're impacted because they're dependent on travel there dependent on theme park attendance there dependent on their movie releases, and they've been unmercifully hit by this.
+BULL2|This, I believe that this will be overcome and the bright spot is Disney Plus which is doing phenomenally well.
+NEUT3|It has reached four and a half million subscribers in less than six months.
+NEUT4|Their goal for five years was a range of 60 to 90 million subscribers, so they're almost at the lower end of their five year range in six months, and it's driven by the quality of the content and the power of the.
+NEUT5|Disney content yes.
+BEAR6|It makes me wonder about that catalog catalog of content they have as well, because another thing we're hearing from the likes of whether it's Netflix or other outlets and studios is this concern that the Corona virus is going to halt production for some time for new content.
+NEUT7|So do you think Disney perhaps has an advantage there, given just the vast amount they hold currently?
+NEUT8|Absolutely.
+NEUT9|I mean content is King and they are the King of content.
+BEAR10|And while they also are experiencing production shutdowns and the delays of premieres of a number of blockbuster movies, you know it gets pushed out.
+NEUT11|It doesn't get illuminated.
+NEUT12|So it's just about waiting.
+BEAR13|It's a little disappointing that they're cutting the suspending the dividend, but it's understandable.
+NEUT14|Companies have to be in cash conservation mode right now, so they have money to get over this hump.
+BULL15|And it is a bright spot that they are opening Shanghai Disney even on a limited basis.
+NEUT16|So there is light at the end of the tunnel.
+BULL17|We will get through this.
+BEAR18|I mean I am optimistic this has been just sad globally, but I believe you buy good companies when they're going through a difficult time.
+NEUT19|"And that's what's happening here."""

@@ -1,0 +1,24 @@
+BULL0|"""And we were just talking about right before the show began that this might be good news for Asia."
+NEUT1|So why is that?
+NEUT2|And what does it mean for the rest of the world?
+BEAR3|Well, it's certainly been a huge global spillover from the coronavirus shocked at the drop in oil prices that we've seen.
+BULL4|The good news is that, at least for Asia, almost all the region are net oil importers, so this is actually a partial offset to the income shock coming from the coronavirus.
+BULL5|So that I think in and of itself is is good news.
+BEAR6|It certainly won't be enough to offset the disruption and economic activity that we're going to see in late Q1 in early Q2.
+BULL7|But it's a net positive for almost every country in the region outside of Malaysia, which is obviously a net oil exporter.
+NEUT8|And in terms of how far down these moves are going to go, I mean, what are your expectations here?
+BEAR9|Our commodity strategists do see short term downside simply because of the lack of storage capacity on the oil front.
+BEAR10|Ultimately, that would result in reductions in production which will re balance.
+BULL11|The market, and so they actually see the possibility of upside to their forecasts in 2021, but at least for the next few months, we're going to be dealing with.
+BULL12|We think very, very low oil prices, and I think of all the countries in the region, it's probably China and India that are going to benefit the most from this.
+BULL13|Both of these countries have inflation that's higher than they'd like at the moment, and so the drop in oil and fuel prices helps to alleviate those pressures.
+NEUT14|And it doesn't fundamentally just go to how big the demand fall off has been.
+NEUT15|Essentially, that dovetails into probably how you look at the global economy, and indeed as an economist.
+NEUT16|See is perhaps something you've never seen before.
+NEUT17|Yes, it's I think it's a measure of just how abrupt the economic shock is that we're seeing.
+NEUT18|It's unprecedented, really, in our lifetimes.
+BEAR19|This kind of physical disruption to economic activity brought about by social distancing and other measures.
+NEUT20|So in fact, the with respect to the oil market specifically.
+BEAR21|Producers don't want to shut in wells and do things that will cost them in the longer term.
+BEAR22|Everyone is hoping that someone else will cut, supply and cut production so they don't have to, but our our views are that ultimately we're going to need to see you know meaningful, meaningful cuts simply because of the scale of the demand shock and what we do think that the global economy can pick up in the second half of the year.
+BEAR23|"We still have to get through what's going to be a very difficult second quarter on the demand side first."""

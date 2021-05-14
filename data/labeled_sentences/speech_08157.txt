@@ -1,0 +1,17 @@
+BEAR0|"""The observation that this long rally in US equities is the most hated bull market in history has become so frequently repeated they risk becoming a modern financial cliche."
+NEUT1|Less commonly asked, though, is the simple question who exactly are all the grumps doing?
+BULL2|This hating in a week where the S&P 500 has hit another all time high long term holders of large cap US shares will be happily sitting now on their gains.
+BEAR3|On the other hand, the most vocal haters of this rally of fund managers who complain that has been driven by only a small number of overvalued growth stocks.
+BEAR4|Whilst less glamorous value shares that they favor have been left behind, those who make this argument can point to the significant out performance of the Russell 1000 Growth Index, which is comprised of companies with high price to book ratios against the Russell 1000 Value Index, which only includes companies viewed as cheap.
+BEAR5|On this basis, the value index has been trounced by growth by 10 percentage points this year.
+BEAR6|Now as concerns abound over high equity valuations in the US.
+NEUT7|Anyone who believes that they will be able to protect themselves by buying a value index constructed by using a cookie cutter methodology should think twice.
+NEUT8|Yes.
+NEUT9|Many of the companies included look cheap on accrued basis, but a closer look shows they are actually cheap for a reason.
+NEUT10|Much of the Russell 1000 values.
+NEUT11|Largest weightings are simply companies that do not generate much value for their investors.
+BEAR12|AT&T, Pfizer, an Exxon all last year made less than a 5% return on invested capital.
+BULL13|According to research by new constructs, switch over to what is classified as growth and we see the largest weightings Apple, Facebook alphabet and Microsoft each made over 28% return on invested capital.
+BEAR14|The compounding effects such differences in profitability have on these companies equity valuations, especially if these profits can be reinvested in their businesses at the similar rates of return is simply immense.
+NEUT15|The fact so called growth has trailed value is not an injustice to be complained about.
+BEAR16|"It is simply the reflection of better businesses outperforming worse ones."""

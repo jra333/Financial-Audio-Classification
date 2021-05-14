@@ -1,0 +1,44 @@
+NEUT0|"""Hey, it's playing this video chart on ticker symbol AAPL, Apple."
+NEUT1|We will take a look at the 30 minute time frame.
+NEUT2|Not sure what I mean by 30 minute.
+NEUT3|I do offer an explanation video at that link.
+BEAR4|Well, a very rough day here for Apple after earnings and just a rough day for the markets as a whole.
+NEUT5|But a lot of updates that need to be done from the technical point of view.
+NEUT6|First thing to do is just actually they laid out a couple of these lines.
+NEUT7|Sure, they still pretend they're just not relevant right now and for presentation standpoint, I don't want to risk causing clutter and confusion.
+NEUT8|'cause there's lines are very look.
+NEUT9|So let's try to keep this analysis as clean as possible, but the first update that needs to be done comes about based on a foundation rule in charting which states whenever levels of support are broken and closed below they tend to act as resistance, so moving forward now this area right here at 1/10/25.
+NEUT10|Is gonna be that initial area of resistance to give some credit credits do last 30 minutes of the day.
+NEUT11|Nice little green volume bar.
+NEUT12|Nice green candle.
+NEUT13|So I mean that doesn't guarantee anything, but it's at least valid to think.
+NEUT14|OK, well, maybe maybe this is the start of something bigger.
+NEUT15|So if the price does continue to work way back upwards, the big question mark be becomes well, can the price not only get up to one 1025 minutes?
+NEUT16|Break up above it and then most importantly stay above it.
+NEUT17|So keep a very close eye on.
+BEAR18|That will be an important area of resistance early into the week, and then as far as if the price could break above that level at that point.
+NEUT19|Next key overarching level would be that Purple line up there.
+NEUT20|Which on my chart and notes the very well known, the very famous 50.
+NEUT21|Moving average currently valued at 1/13/15.
+NEUT22|Now as far as levels of support, first key level very straightforward, just a question of OK. Well where did the bleeding finally stopped today and the bleeding finally stopped down there at 107 sixty five.
+NEUT23|So that'll be the first key level of support to watch.
+NEUT24|At that area can't quite hold up the next area of support to watch after that one.
+BEAR25|Would then be down there at the 105 mark.
+NEUT26|So yeah, things are still looking rough here for it, but it is Apple so I suppose you never know.
+NEUT27|But next week is definitely going to be a very very interesting bit of time and we'll see how things play out.
+NEUT28|First off, thanks so much for watching the entire video real quick.
+NEUT29|Before you go, I want to invite you to a live webinar, web class, training workshop, online event, whatever you want to call it, but it will be me.
+NEUT30|Live revealing to you what I discovered that has allowed me to transform myself from being an employee to being my own boss.
+BULL31|Including how I had only one losing day out of 73 days in total, I'm going to cover 3 keys that have helped me unlock profitable consistency within the markets.
+NEUT32|The first key is super weird, but in a productive type of way.
+NEUT33|The second key is super awesome because it quite literally is wired into our DNA as humans, making it very easy to use, but in a cruel way.
+BEAR34|This becomes a pitfall for many traders.
+NEUT35|I'll explain it, although including how to avoid the pitfall that it creates for some.
+NEUT36|And yeah, the third key when you hear it.
+NEUT37|Sounds way to get way too good to be true, but it's not and I'll show you how it all works.
+NEUT38|Then at the end I open it up for a question and answer session.
+NEUT39|That is again totally live.
+NEUT40|Even if you can't make the live session, please still sign up as it will be recorded and you can go back and watch the replay that I will send you.
+NEUT41|Click the image on the screen or click the link down in the description box so you can get the date and time and claim your spot which I should note is limited due to the fact that this truly is a live event.
+NEUT42|If you have any questions.
+NEUT43|"Let me know if not I'll be seeing you soon."""

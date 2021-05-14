@@ -1,0 +1,29 @@
+BEAR0|"""You have aged in the last six weeks."
+NEUT1|I mean when you see Mario Draghi capitulate to QE.
+NEUT2|42 President Lagarde is going to come in and do it.
+BEAR3|The same chairman Powell's caught in this vice.
+BULL4|I think his press conferences are getting better.
+NEUT5|How do you feel old concerned one about the ramifications of a punch bowl to the brim?
+NEUT6|Financial markets absolutely love when central banks ease but will is glowing but will but will it really help the economy?
+NEUT7|And the answer is no.
+NEUT8|Take Europe.
+NEUT9|All of the problems facing Europe or non monetary.
+NEUT10|They're all about Brexit, global trade China.
+NEUT11|How is more monetary is going to help when rates are?
+NEUT12|How do we get away?
+NEUT13|Let's go right back to shadow Open Market Committee.
+NEUT14|How do we get away from the institutional crutch that only the central bank can solve?
+BEAR15|Our social fiscal ills.
+NEUT16|Well, I think it's incumbent on Jay Powell, Mario Draghi Carota to basically come out and say this is the proper scope and limitation of monetary policy.
+BEAR17|Draghi particularly should say we've created our own problems here.
+NEUT18|It's up to the fiscal and regulatory policy makers to clean up the mess.
+NEUT19|And that's that.
+NEUT20|I mean, he he said that yeah, I mean, Mario Draghi's been saying that for last seven years, just no one listens.
+NEUT21|OK, fair enough.
+BEAR22|I mean, we all know that the ECB is the financial backstop for all of Europe, but let's take the US OK. Rates are low, the system is awash with excess reserves in the economy.
+BULL23|Bond yields 2%.
+BEAR24|Corporate bond spreads have narrowed.
+NEUT25|Tell me how easy is going to stimulate the economy.
+NEUT26|Think about the channels through which it would work and you come to the conclusion pretty rapidly.
+NEUT27|It really wouldn't work, so it would stimulate markets and markets.
+BEAR28|"Love that, but it's sure not going to help the economy much."""

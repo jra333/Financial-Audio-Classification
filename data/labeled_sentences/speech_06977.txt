@@ -1,0 +1,20 @@
+NEUT0|"""Facebook has billions of users worldwide across its multiple platforms, including the Facebook app, Instagram and WhatsApp."
+NEUT1|For the firm.
+NEUT2|The largest source of revenue is easily their advertising model, bringing in 98% of total revenue last year.
+NEUT3|But you're in the fourth quarter report.
+NEUT4|Zuckerberg said that this might change and Facebook will be concentrating on another aspect of its business.
+NEUT5|Before we get started, I'd really appreciate it if you could possibly like comment and subscribe.
+NEUT6|If you enjoyed the video.
+NEUT7|Now the Facebook founder Mark Zuckerberg has announced that he believes the next big technology is virtual reality.
+BULL8|The company already has an established presence in the market with its Facebook reality labs and Oculous line of devices.
+BULL9|Facebook Reality Labs worked to develop innovative technology so just stylish glasses which can eliminate the need for a smartphone.
+BULL10|The company also is the market leader in VR headsets with 35% share last year.
+BULL11|The newest Oculus Quest 2 have been extremely popular with Zuckerberg believing it will become the first mainstream VR headset.
+BULL12|So Facebook's hardware revenue streams are increasing substantially with it rising by 72% last year.
+BULL13|In some ways, the pandemic has increased the way in which we see technology as an everyday factor of life with VR and AR, allowing for new opportunities in education, gaming, exercise, and work.
+NEUT14|It could very much be the future.
+BULL15|This makes Facebook an attractive stock and one that could pay off if you buy now.
+NEUT16|In the future.
+BULL17|I hope you enjoyed this video and found it useful.
+NEUT18|My name is Ardian.
+BULL19|"Thanks for watching."""

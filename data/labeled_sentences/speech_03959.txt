@@ -1,0 +1,22 @@
+BEAR0|"""The hanging man and shooting star or two bearish indicators that appear during an uptrend."
+NEUT1|They can mark a top or a resistance level.
+NEUT2|They are single candle stick patterns.
+NEUT3|The difference lies in the position of the opening and closing prices on the candle stick.
+NEUT4|The hanging man consists of a candle with a small body at the top and a week at the bottom that is two or three times longer than the body.
+BEAR5|This indicates a sell off occur during the trading day, but the buyers were able to push the asset back near the starting point or just beyond.
+NEUT6|It has no Wick above the body and it doesn't matter what color the body is.
+NEUT7|A shooting star has a small body at the bottom and a Wick at the top.
+NEUT8|That again is two or three times longer than the body.
+BEAR9|This means the high price of the day is relatively far from where prices opened and closed.
+NEUT10|This time there's no Wick at the bottom, and again, it doesn't matter what color the body is.
+NEUT11|Both patterns are bearish, but the shooting star is considered much more bearish than the hanging man.
+NEUT12|The length of the week is important to both patterns as well.
+NEUT13|Larger is considered more significant in each case.
+NEUT14|As with most single and double candle stick patterns, the hanging man and shooting star need confirmation before action confirmation could come in.
+NEUT15|The form of a gap down or a long red candle stick traded on heavy volume.
+NEUT16|When trading a shooting star, you would set your stop loss about 10 to 20 pips above the high of the week.
+NEUT17|Since the prices were previously rejected at that level.
+NEUT18|In regards to setting appropriate target, if you were to follow the traits of successful traders research, you would place it at least twice a distance as your stop loss.
+NEUT19|So if your stop losses about 20 pips, then look for at least 40 pips.
+NEUT20|The profit potential.
+NEUT21|"This means you're establishing a one to two risk to reward ratio in the next video will take a look at two more reversal patterns, the double top and double bottom."""

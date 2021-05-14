@@ -1,0 +1,11 @@
+BEAR0|"""You are not doing well."
+NEUT1|They sound commercial.
+NEUT2|Oh yeah.
+NEUT3|Yeah, it's alright.
+NEUT4|Color.
+NEUT5|Capital was such a man.
+NEUT6|Can I go take a bath?
+NEUT7|Such as unit ounces.
+NEUT8|Nancy Cook we're coming under code.
+NEUT9|Really.
+NEUT10|"While that is a real thing."""

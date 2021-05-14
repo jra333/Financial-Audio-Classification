@@ -1,0 +1,10 @@
+BULL0|"""I'm just commenting for every times TV reporting from the New York Stock Exchange were earning season is in full swing after Citigroup beat analysts estimates as the company's earnings rose 30% in the first quarter."
+NEUT1|Citigroup was among one of the first companies reporting in the financial sector this week.
+NEUT2|Other earnings reports to keep an eye on this week include investment bank Goldman Sachs on Tuesday, Bank of America on Wednesday, and Morgan Stanley on Thursday.
+NEUT3|Also on Tuesday, Coca Cola, Johnson and Johnson are reporting before the market opens.
+BEAR4|While Intel and Yahoo release earnings after the close, the economic calendar today revealed that China's growth slowed unexpectedly in the first quarter as GDP slid to 7.7%.
+BEAR5|A separate report showed that New York manufacturing activity barely expanded in April.
+BEAR6|Also, on Monday, 8 closely watch Index showed that confidence among US home builders fell in April after concerns over lack of developed lots and rising costs for building materials on the economic calendar for Tuesday.
+NEUT7|The Consumer price index.
+NEUT8|And housing starts are issued at 8:30 AM Eastern.
+NEUT9|"Jessica Minten, reporting from New York for every times TV."""

@@ -1,0 +1,33 @@
+BULL0|"""Alright, so thank you have helped our viewers for years to explain the concept of why big data is so compelling."
+NEUT1|It is one of not just with one of us.
+NEUT2|They could also do great security stuff, but one of the chief attractions of Splunk and people are saying, why does anyone care about Big Data this much?
+NEUT3|So I'm going to give you the floor to explain why a Splunk.
+NEUT4|But of course a snowflake is so popular.
+NEUT5|It's a yeah as you called out so early Jim on these Cloud Kings, I think you probably got the opportunity to talk about the data or big data Kings coming up as well.
+NEUT6|We are lucky enough like Snowflake and others, and by the way, we're a customer of Snowflake.
+NEUT7|We love using their products.
+BULL8|There are wonderful data warehouse that complements what's plunked us on more real time time series streaming data and and very complex big data.
+NEUT9|But everything in the world is.
+NEUT10|We've talked about has got a sensor attached to it now.
+NEUT11|Then almost everything he's got.
+NEUT12|Some type of Wi-Fi or network connection, and there is a ton of data, literally tons of data that is flying around the stratosphere around us at a given moment.
+NEUT13|The difficulty is being able to capture that data and then begin to make sense of it so that you can serve customers more effectively.
+NEUT14|You can reduce costs, you can optimize your supply chain.
+NEUT15|You can hear signals from your plea based at all the different capabilities that if you understand big data and cloud certainly helps dramatically.
+NEUT16|There.
+NEUT17|You can actually drive society forward at Splunk.
+NEUT18|We call it turning data into action, breaking down every question, every decision, and ultimately reaction so that we can keep our organizations in society moving forward.
+NEUT19|We should target.
+NEUT20|Is there a limit though?
+NEUT21|I mean it.
+NEUT22|I mean, there's so many companies that look and sound like each other and we know that data is very important.
+NEUT23|We you know that we were close to Domino's and there's a great video on your site about Domino's and how it's it, how great you are important to a technology company that happens to sell pizza.
+NEUT24|But at a certain point, well, everybody have someone who defines data and looks for Dayton sister data and Splunk through data and we won't need any more of these companies.
+NEUT25|I, I think that the first trend, absolutely, I think every company is going to need a date as our data leader.
+NEUT26|A chief data officer.
+NEUT27|Overtime, the whole point of digitization, number of points, one of the big points of digitization is you now get a bunch of data didn't have before so that you can actually begin to act in near real time on all these different signals that needs somebody that understands data and guides data across an organization, though that that pull from corporations is what polls companies like Splunk.
+NEUT28|And others forward to help the the technical population within those organizations actually make sense of data for the marketing Department, the sales Department, the HR Department, Finance Department, people that are leaning much more heavily on data gathering, data science and making sense here.
+NEUT29|Don't miss a second of mad money.
+NEUT30|Follow at Jim Cramer on Twitter.
+NEUT31|Have a question?
+NEUT32|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

@@ -1,0 +1,25 @@
+NEUT0|"""Hello and welcome to this technical analysis video here at exam.com."
+NEUT1|It's Thursday, June 21st.
+BULL2|I'm Christina, Bethany investment analyst, and today we're going to look at the US dollar versus the Canadian dollar, which had an impressive rally this week as U.S. trade protectionism has wiped out any hopes of progress in NAFTA talks.
+BEAR3|While oil prices were not supported either.
+BULL4|So looking at the daily time frame, we can see that the price has rallied significantly above its moving.
+BULL5|Average is to break the 1.33 key level and reach one year highs at one point 3325 today.
+BULL6|But we can also see that in the past five days the market has been continuously touching the Upper Bollinger Band.
+BEAR7|Actually, it has been closing above it, which signals that the market might be over both and reverse it down.
+NEUT8|So it could be around the corner.
+BEAR9|Besides, if we look at their sin this stochastic so those are in overbought territory as well, their size above 70 but has somewhat slowed down.
+NEUT10|What is stochastics are looking to post the bearish cross well above 80 and that is if the blue percentage the line crosses below the red percentage Kaline.
+BEAR11|So chances for decline are high.
+NEUT12|At the moment.
+BEAR13|I know if the marketing did weakens falling below the 1.33 psychological level then we could look for support around one point 3250 which has been tested several times in the past, both as support and resistance even lower.
+NEUT14|We could touch one point 3123.
+NEUT15|Which overlaps with the 61.8% keyboard match of the long term down link between May and September 2017.
+BEAR16|That could be a bit of challenge because any significant step below it could push the market back to neutrality.
+BULL17|Then in case this level fails to hold as well, the 20 day moving average at one point 3043 could be the next target before bearish action strengthened towards one point 2129 twenty where the 50% fibo Nachi.
+NEUT18|Long term down happens to be as well.
+BULL19|Moreover, the area around it has successfully restricted upside movements in October and December, so it should attract some interest.
+BULL20|Now if the price extend gains, the next peak could be around the frequently approached area of one point 3346, while further up one point 3420 resistance could come into play as well.
+NEUT21|Finally looking at the medium term picture.
+BEAR22|The outlook here has switched to bullish after this weeks or rally.
+BEAR23|And unless the price drops below one point 3123, the picture is likely to stay positive in the medium term, so that's all from me.
+BULL24|"Thank you for watching and have a great trading day."""

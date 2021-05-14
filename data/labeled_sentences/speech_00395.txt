@@ -1,0 +1,4 @@
+BULL0|"""Alright, so very good evening all."
+NEUT1|Welcome to performance optimization simulation session myself, surgicare and the Today is Sunday 1st of October 2017.
+NEUT2|And now this one has the score of nine, four quality at a score of eight out of eight.
+NEUT3|"Four probability makes it as a Type 1 trick."""

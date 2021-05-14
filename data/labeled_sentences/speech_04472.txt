@@ -1,0 +1,52 @@
+BULL0|"""Multiple expansion is what we saw today when Wall Street got hyped about the best of the best look at what lettuce hired."
+NEUT1|Start with Apple.
+NEUT2|OK, and it's always fun to start with Apple, 'cause you know how much I like it about you.
+NEUT3|Follow Apple.
+NEUT4|I follow out Apple.
+NEUT5|We all know that they launched a new phone tomorrow and you gotta be under rock, not too.
+NEUT6|It's the ultimate non event event because new iPhones come out like clockwork so everyone has on the calendar.
+NEUT7|We all know what's going to happen.
+NEUT8|We know there will be a mix of positives and negatives about size, weight, cost, color and always is the case that even with 5G in it and then we end up buying it of course.
+NEUT9|It's almost a dog bites man story.
+BEAR10|Yet that didn't stop Wedbush.
+NEUT11|Is Dan Ives nice person publishing a piece titled The Grand Entrance for iPhone 12 begins Cook Kick kicks off Super cycle Tuesday.
+BULL12|He calls it the most important launch in six years before describing it as a once in a decade product launch, he points to stepped up demand for components for the larger version, which is true.
+BULL13|We know that from Marvel we know that by the way, Skyworks solutions will probably have an upside surprise.
+NEUT14|And he says that China is the linchpin of this whole.
+NEUT15|Thesis again, dog bites man, let me read you one.
+BULL16|Let's say pertinent snippet quote cooking company had the stage set for Supercycle product release which should drive shares further in our opinion and quote.
+NEUT17|Well, well, well a super cycle, huh?
+NEUT18|Listen when you call something super cycle you're going to catch peoples attention.
+NEUT19|Unfortunately, I'm superstitious about super cycles that words the ultimate jinx we heard about the cold super cycle in 2011, right before the entire country crash and burn.
+BEAR20|It was a once in a lifetime collapse.
+NEUT21|In October 2014, Morgan Stanley quote for a fracking sand supercycle that was almost exactly where the price of oil peaked kick you off a multi year meltdown to sand fracking.
+NEUT22|Or fracking sand or whatever.
+NEUT23|So in this analyst talks about an iPhone Super super cycle.
+NEUT24|I feel like he's tempting fate.
+NEUT25|That said, you know I like Apple, I think you should own it, not trade it.
+NEUT26|But people are going to buy it today and they're going to sell it tomorrow because it didn't go higher again.
+BULL27|We've seen this time and again, the bar is now been set so high going into launch that there's a good chance Apple will disappoint today's buyers.
+BULL28|The darn thing rallied more than 6% today.
+BULL29|Talk about Great Expectations.
+NEUT30|Siri will the stock go still higher?
+NEUT31|Here's quizzical.
+NEUT32|Then there's Amazon which jumped almost 5% unless you're living under a Rock You know tomorrow's Amazon Prime Day, which is actually two days this year.
+NEUT33|Go figure that out, right?
+NEUT34|We're in a pandemic, we know there's going to be a ton of shopping, but why not wait?
+NEUT35|But that's not how John Blackledge accounts these things.
+BULL36|Today he jumped the gun and gave it you a preview that's outrageously bullish on Prime Day and the extended holiday shopping, he's expecting a demand surge, which suggests a permanence of shifting consumer behavior.
+BULL37|Yeah, I know.
+NEUT38|I know why you like today.
+NEUT39|You have to say it.
+NEUT40|You have to say today.
+NEUT41|I mean again, there's nothing wrong with this piece.
+NEUT42|It's just that it brings nothing new to the table.
+NEUT43|'cause everybody kind of knows this stuff already.
+BEAR44|Personally, I think it's better to say nothing because now the stock is Ward ahead and it'll be harder for Amazon to live up to the Prime Day hype.
+NEUT45|Don't miss a second of mad money.
+NEUT46|Follow at Jim Cramer on Twitter.
+NEUT47|Have a question?
+NEUT48|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT49|Miss something head to madmoney.cnbc.com.
+NEUT50|Shepard Smith here.
+NEUT51|"Thanks for watching CNBC on YouTube."""

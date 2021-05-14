@@ -1,0 +1,19 @@
+NEUT0|"""Jeff, we never ever really talk or start with Bitcoin, but I just had to get your take like when you look at the commodity world."
+NEUT1|How do you think about Bitcoin?
+NEUT2|Well, if you overlay a chart of Bitcoin on the price chart for copper, they look very similar an what do they have in common or both risk on growth proxies?
+NEUT3|And I would argue that Bitcoin is the retail inflation hedge.
+NEUT4|You look at gold people like to say it's told demand from gold.
+NEUT5|There's really no evidence that it has.
+NEUT6|Gold is still a defensive asset.
+NEUT7|It has traded lockstep with with the way it should in this big rotation.
+NEUT8|You know towards you know, defensive asset or away from defensive assets that cyclical rotation.
+NEUT9|So yeah, I I don't argue.
+NEUT10|I don't think there's any you know, gold and Bitcoin can coexist.
+NEUT11|And you know in terms of thinking about the run up in Bitcoin this year, remember what happened to iron or remember what happened to copper.
+NEUT12|They're behaving very similarly, so it's so interesting.
+NEUT13|So you look at it as a risk on asset.
+NEUT14|Does it have then a correlation to things like the dollar yields or real yields or no?
+NEUT15|It used to.
+NEUT16|Now it just has a correlation to copper.
+NEUT17|Which people are using for a proxy.
+NEUT18|"As you know the risk onto you know you know, global economic boom, you know that's currently going on in places like China and potentially going on if you get the vaccine take hold in the Western Hemisphere so it's it's it's acting much more like you know your typical risk on asset than a defensive asset."""

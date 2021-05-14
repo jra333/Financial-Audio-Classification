@@ -1,0 +1,21 @@
+BEAR0|"""The latest sign of thawing of the credit markets leveraged loans."
+BULL1|The pariah of 2008, had bounced back in 2009.
+NEUT2|Our market popper is on the right on the story Margaret.
+BULL3|This could be good news for private equity firms, right?
+NEUT4|That's absolutely right, Allison.
+NEUT5|We've seen some refinancings recently, and that's really the sign of what Allison was talking about.
+BULL6|The thawing of the credit markets, hospital operator HCA Inc was able to issue $1.25 billion of new debt last week to repay a portion of its 33 billion of outstanding debt.
+BULL7|Ford came to market with 1.75 billion of new debt and Chemical Co. Polymer Group was able to extend parts of its $455 million credit facility as a group.
+BULL8|Leveraged loans have bounced back to trade above $0.83 on the dollar.
+BEAR9|That's after hitting a December low under $0.60, but these loans are not without risk.
+NEUT10|Default rates are around 6% according to Standard and Poor's, and that's double the historic average and loan inch issuance.
+BEAR11|Is way off its peak in the first half of this year, banks arranged $41 billion in leveraged loans in the US, down from 187 billion in the first six months of 2008 and 549 billion in the first half of 2007.
+NEUT12|We're not seeing a flood of new deals yet, but people I'm talking to say that could come next.
+BULL13|Wellmark ablaze loan volume still solo.
+NEUT14|Well, the banks got burned on this stuff.
+NEUT15|Allison, you have to remember that that basically leveraged loans were sort of the subprime of corporate debt for awhile, especially late in 2007.
+NEUT16|Early 2008, when there were these things, called PIK toggle notes, and what that was, was the ability to defer your interest and add it to principle.
+NEUT17|Sounds familiar, of course, sounds like a subprime mortgage, so these deals started to go to make people worry, although again, the default rate isn't that high considering how much risk there was out there, but you saw the banks dumping these things.
+NEUT18|City wrote them down, wrote down about 7 billion over the past year, and you've seen.
+NEUT19|More sales of them, from banks to get him off their books.
+BULL20|"OK, Margaret, thanks for that."""

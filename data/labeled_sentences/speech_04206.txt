@@ -1,0 +1,17 @@
+NEUT0|"""There are two basic and distinctly different ways to analyze a stock, technical analysis and fundamental analysis."
+NEUT1|Fundamental analysts believe the market price of a stock doesn't always match the true value of the company.
+NEUT2|That stock represents.
+NEUT3|Technical analysts believe that the fundamental elements of a stocks value are already accounted for in a stock's price.
+NEUT4|That prices move in trends and that historical patterns in the market and in stock prices tend to repeat to understand the difference.
+NEUT5|Imagine a fundamental analyst, Tom and a technical analyst Joe, at a shopping mall trying to decide which store to invest in.
+NEUT6|Tom goes into each store, studies the product being sold, the layout, the company's financial statements, and then decides whether to buy that company stock.
+NEUT7|Tom is looking for the store with the best fundamentals, things like a good product, responsible management and so on.
+NEUT8|Joe sits on a bench in the mall and pulls out his laptop so that he can check the stock charts for the various companies.
+BULL9|Joe looks to see which company has been performing the best based on the price of its stock.
+NEUT10|And then looks for patterns that indicate a store with a strong upward trend.
+NEUT11|In this case, Joe does not consider the stores products or its financial situation, but instead assumes that these fundamental factors are already factored into its current share price.
+NEUT12|In fact, Joe doesn't even need to be in the mall to make his choice.
+NEUT13|Tom will base his decision on the company itself and his belief that it is or soon will be worth more than its stock price suggests.
+BULL14|Joe will buy a stock because historical trends suggest the price is likely to go up.
+NEUT15|Not because of anything he sees in the company itself.
+NEUT16|"In the end, Tom and Joe may choose to invest in the same store, but their reasons for investing will be very different."""

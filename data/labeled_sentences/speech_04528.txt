@@ -1,0 +1,45 @@
+BEAR0|"""Two agrees that a very decent number it's weaker than expected."
+BEAR1|I don't think it's dramatically weaker than expected, but I think it is consistent with the economy shifting down from very rapid growth three to six months ago to still rapid growth and still clearly above trend growth.
+NEUT2|But I think it is.
+NEUT3|It is somewhat softer and I. I mean, I think we will need to see.
+BEAR4|Gradual further deceleration because we are at a 3.7% unemployment rate and I think we're probably a little bit beyond the level that sustainable in the in the long term, so I don't think there's anything to get super worried about in this report, but it is a little.
+NEUT5|It's definitely like spec tations we had John a month ago, and you said you're very comfortable with our above consensus.
+BULL6|Call for hike in December and four next year.
+BEAR7|Less comfortable today.
+BEAR8|Very comfortable with December, less comfortable with with four hikes next year.
+BEAR9|Basically because financial conditions have tightened substantially.
+BEAR10|You know, I think the data have been a little weaker.
+NEUT11|I don't think that's been a major shift.
+NEUT12|You look at the eyes, them reports this this week, for example, that they were.
+BULL13|They were very good.
+NEUT14|This one was was softer but financial conditions matter for monetary policy.
+NEUT15|And if you get the markets, do more of the tightening for you than the Fed.
+NEUT16|Needs to do a little less.
+NEUT17|Ann is, I mean just what we've seen right now.
+BULL18|If this is a passing storm, financial conditions, you know, ease up again, going into next year, then we're back where you thought we were.
+NEUT19|That's that's right.
+NEUT20|So the.
+NEUT21|The thing about markets, of course, as they move very quickly and they can move a lot and they can also move back.
+NEUT22|But that's exactly right.
+NEUT23|If if markets go back to you know where they were in terms of you know, helping growth boosting economic activity.
+NEUT24|Then of course the downside risks go away.
+BEAR25|So when you say though this morning you see meaningful downside risk to your baseline forecasts of quarterly hikes in 19.
+NEUT26|What is meaningful, downside risk mean?
+NEUT27|Well, it means there's a.
+NEUT28|There's a good chance that there will be.
+NEUT29|A pause at some point in 2019 and we, you know we we haven't had a pause, but I think that you know markets are of course pricing in a lot less tightening for next year.
+NEUT30|It's basically one hike price relative to that.
+NEUT31|I would say that's too low and you know I feel pretty strongly that that it's too low.
+BEAR32|If I look at the whole kind of range of possible outcomes, but the risks to going at every quarter are definitely on the downside.
+NEUT33|You mentioned the ISMA numbers.
+BULL34|They've been consistently pretty strong.
+BULL35|In fact, they accelerated recently in the US, but you may have seen this uptick in weekly unemployment claims.
+NEUT36|I mean, there's sensor sensitivity.
+NEUT37|Right now they're looking for signs of peak that activity and things rolling over anything to really scrutinize their well.
+NEUT38|I think the.
+BEAR39|The economy is slowing.
+BULL40|I do think it's it's gone from very strong growth to merely strong growth.
+NEUT41|So if you're focused on kind of the second derivative of growth as markets often are, of course you look at that and you say, yeah, the second derivative is negative, but I think the the pace of growth, and in particular the pace of growth relative to potential is also very important, and that there's still clearly above trend growth.
+NEUT42|And even this payroll number.
+NEUT43|Even if you took that 155 exactly at face value.
+BULL44|"He didn't average with anything else that would still be above trend."""

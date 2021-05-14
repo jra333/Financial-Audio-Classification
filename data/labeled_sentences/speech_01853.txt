@@ -1,0 +1,19 @@
+BULL0|"""The Cardano price shows signs of life as it bounces off a significant demand barrier, adding credibility to the bullish narrative."
+BULL1|On the 12 hour chart, the cordonna price shows the presence of aggressive buyers who have managed to create higher lows.
+BULL2|The sellers around the $1.48 resistance level have absorbed this bullish momentum, forming a series of highs in this area.
+NEUT3|An ascending triangle pattern seems to form when the swing lows and highs are connected using trendlines.
+BULL4|This technical formation is a continuation pattern and has an inherent bullish bias, suggesting an upswing.
+BEAR5|Based on the set up, a decisive close above the breakout point at $1.48 indicates a 45% upswing determined by measuring the distance between the pivot high and low.
+NEUT6|At the broadest part of the ascending triangle.
+NEUT7|Adding this distance to the breakout point reveals the card on a price target of $2.16.
+BULL8|At the time of writing, Ada shows a strong bounce from the hypotenuse, indicating that it could surge tored the $1.48 level.
+BEAR9|However, momentum reversal indicator MRI reveals the presence of state trend resistance at $1.35, which could detur any upside movement.
+BULL10|Hence, Cordonna buyers must clear this level to have any chances of a bullish breakout.
+BULL11|Adding credence to this bullish outlook is the lack of resistance levels beyond $1.30 as shown by into the blocks global in out of the money GM model.
+NEUT12|Roughly 122 thousand addresses that hold nearly 3 billion Ada purchased the token at an average price of $1.30.
+BULL13|Therefore, clearing this zone will place these market participants in the money who might add to the bullish momentum if they decide to invest more.
+BULL14|Hence, it is necessary for the Cardano price to surge past this level to enter the price discovery phase.
+BEAR15|While the bullish narrative seems likely, investors should note that a failure to stay above the hypotenuse or rejection at $1.00 and thirty cents, $1.35, or even at $1.48, could be fatal.
+BEAR16|In that case, the Cardano price could reverse its move, a breakdown of the 50 and the 100 simple moving averages SMAP at $1.17 and $1.12, respectively, could signal the extinction of an upward move.
+BEAR17|Furthermore, if Bears managed to slice through the psychological level at $1.00, a full blown reversal could be underway.
+BEAR18|"This move could push the Cardano price to the immediate demand barrier at $0.92."""

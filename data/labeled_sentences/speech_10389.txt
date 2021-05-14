@@ -1,0 +1,6 @@
+NEUT0|"""Alright, one last look like the Apple stock we can see here."
+NEUT1|Apple has made a green candle.
+NEUT2|This green candle has sit above the year, my line so it's still in the uptrend line so there's no sign of weakness.
+BULL3|We're still sitting within the consolidation area in my opinion.
+NEUT4|After the consolidation there will be a big move for Apple stock, but for now we just wait for the confirmation of the market.
+BULL5|"Thank you."""

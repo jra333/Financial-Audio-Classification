@@ -1,0 +1,18 @@
+NEUT0|"""Or we need to know we don't need to know a number, we just need to know that it's big and the question is not what the number is, but whether the numbers are going to continue to run at this pace, whether we're going to continue to see ten million new claims every two weeks for."
+NEUT1|234 periods, or whether we've suddenly gone to the bottom of it and that's it.
+BEAR2|I fear that the numbers are going to continue to get worse, at least for another couple of weeks.
+NEUT3|And if we see the current pace of jobless claims continue for the coming weeks, is the current stimulus package that's been agreed enough?
+NEUT4|Or will we need to see even more measures come in to protect workers here?
+NEUT5|You know all I can say to all of those questions is that I don't know, you know, as an economist who's old enough to admit that I don't know, we have no historical basis to compare it to this experience.
+NEUT6|We could go back maybe to the Blitz in London as a comparable example of when an entire nation shut itself down.
+NEUT7|Never mind all the nations of the world pretty much shutting themselves down at the same time, there's no comparable basis for this, so there's no way to calibrate anything.
+BULL8|I think it's going to be a change and adapt.
+NEUT9|As we go for policy makers, it's going to change and adapt as we go for a lot of businesses, we don't know how many businesses will survive this period of forced shutdown.
+BEAR10|We don't know how many will come back, and that's critical to the question of how fast people can get back to work at the end of this.
+NEUT11|If they can get back to work it in at the end at all.
+BEAR12|And we Furthermore don't know the impact on the financial system on banks if people don't pay their rent and landlords can't pay their mortgages, the banks will have to write off the mortgages.
+BEAR13|The asset backed securities then fall into a dark hole.
+NEUT14|There's no good story at this point as to how we get out of this.
+NEUT15|Hi, I'm Joanna Barsacchi and thank you for watching.
+NEUT16|You can check out more of our videos by clicking on the boxes on the screen and don't forget to subscribe to our channel for more from CNBC International.
+BULL17|"Thank you for watching."""

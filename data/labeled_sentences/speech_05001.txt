@@ -1,0 +1,11 @@
+NEUT0|"""From the FT in London, here's the latest on rather nervni markets."
+BEAR1|Something has turned in the market mood for weak sentiment.
+BEAR2|Have been upbeat with investors clinging on to the notion that Donald Trump's promises of higher spending and lower taxes can fuel a resurgence in inflation, business and consumer sentiment have been sailing high above hard data on the state of the US economy.
+BEAR3|But cracks are forming a mix of a tempestuous Trump and his impending meeting with Shizhen Ping Week US car sales data and the upcoming French election and maybe even the attack in Saint Peters Burg of.
+NEUT4|All scratch nerves.
+BULL5|Maybe the Trump trade is not such a sure thing after all, particularly with inflation in the eurozone not keeping pace curiously Trump's recent threats in the FT towards North Korea.
+BULL6|Spark no immediate market reaction yesterday, but now with the US car data, it's all sent bonds climbing again and fired up the yen.
+BULL7|A traditionally strong performer in times of global stress.
+BEAR8|Meanwhile, South African markets continue to suffer.
+BEAR9|Indeed more so today after the S&P downgraded the country's debt rating to junk.
+NEUT10|"Owns random bank stocks at all bleeding."""

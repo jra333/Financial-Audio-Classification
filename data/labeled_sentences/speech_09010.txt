@@ -1,0 +1,20 @@
+BULL0|"""Hey guys, I hope everyone's having an awesome day today."
+BEAR1|I'm going to be talking about the weird struggle that FedEx is having regarding its stock price and why it's been going down despite strong interest from investors before we begin.
+NEUT2|If you do enjoy these types of stock analysis videos and want to see more, please be sure to hit the like button and subscribe to the channel.
+NEUT3|Without further ado, let's get into it.
+BEAR4|As you can see, FedEx closed at a price of around $245 per share on Friday and if we take a look at the last 30 days, we can see that it's been in a strong decline, falling about 16% from its peak on December 17th.
+NEUT5|Going to close at around $292.00 per share.
+BULL6|This increase was due to strong earnings beat on the 16th of December when it reported $4.83 in earnings per share for the quarter, beating the consensus estimate of $4.01 by 82 cents.
+BEAR7|The business had revenue of $20.56 billion during the quarter, compared to analyst estimates of around 19 and a half billion.
+BEAR8|This decrease does make sense to a certain degree as a Christmas Holidays were fast approaching an investors were looking to take their profits heading into the end of the year, but doesn't make sense.
+NEUT9|However, is that this dip was not short term.
+NEUT10|In fact, since the 17th FedEx hasn't closed in the Green, an many people, including myself, are confused as to why.
+BEAR11|According to Bruce Kamich of Real money, we could correct down into the $225 to $210 area in the weeks ahead.
+BEAR12|He says that the moving average convergence divergent oscillator has cross below the zero line for an outright South signal, which you can see to the right of the graph or the blue line if his analysis is correct, then we can expect FedEx to take another short to medium term dive, potentially falling over 15% more from where it's currently priced.
+BULL13|I strongly believe, however, that the stock will not fall under the 220 mark as the financial numbers for FedEx are really strong and their services will continue to be needed as online consumption increases constantly.
+NEUT14|Recently, news broke that Dodge and Cox, a mutual fund company, sold 13 million shares on the 31st December.
+BEAR15|They were not the only ones who reduced their FedEx Holdings as funds such as Causeway Capital Management Heiress Associates, an hodgkiss Ann Wiley Capital Management also reduced their stakes there sell offs combined may have contributed to a good amount of the stocks decline.
+NEUT16|Since the start of 2021, guys that brings us to the end of this quick stock analysis video.
+BULL17|I hope you were able to take away some useful information out of it and hopefully I was able to clear up some confusion as to why this stock has been sinking.
+NEUT18|If you did find this video helpful, please leave a like on the video.
+NEUT19|"Subscribe if you need to channel your next time guys East."""

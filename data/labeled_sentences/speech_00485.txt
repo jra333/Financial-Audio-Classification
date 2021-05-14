@@ -1,0 +1,13 @@
+BULL0|"""Stock #9 is going to be Stitch Fix their simple SFX which is up 25.6% so far in 2021."
+NEUT1|And here's three reasons why I like stitches for a long term investment number one.
+NEUT2|This is a platform that I think is absolutely genius.
+NEUT3|I'm someone that hates going to physical retailers to try on clothes and the ability to get stuff shipped to my house.
+NEUT4|Try it on and only pay for the stuff I love.
+NEUT5|I love the concept of this business #2.
+BULL6|This is a relatively new company that has seemed very nice revenue growth for every year since they've gone public in 2020 is an 8.5% increase in revenue with the pandemic problems.
+BULL7|A 28.6% increase in 2019, a 25.5% increase in 2018.
+BULL8|So this is a company that is seen reliable growth, overtime and #3.
+BULL9|The last earnings report was very impressive.
+BULL10|They saw a net increase of 240,000 customers and they went back to profitability.
+BULL11|So this is a company that had a fantastic track record and I only see them increase in after we seen the problems.
+NEUT12|"That's happened with retail stores."""

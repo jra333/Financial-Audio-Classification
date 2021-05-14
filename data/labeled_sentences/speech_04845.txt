@@ -1,0 +1,14 @@
+BEAR0|"""New data shows Amazon is now out delivering the post office amid the pandemic."
+NEUT1|Frank Collins has the story for us morning Frank good morning to you, Sir.
+NEUT2|That's right, Amazon is delivering just about half of its own orders year to date, 18% more than even the post office.
+BULL3|As the ETAILER continues to grow its shipping network during the COVID-19 pandemic and the most recent week of data, Amazon Self Delivery grew to more than 56%.
+BEAR4|That's a 10% increase since March, with partner UPS seeing the biggest decline in Amazon orders.
+NEUT5|When it comes to all of e-commerce since March.
+BEAR6|Amazon again out delivering even the post office in the most recent week of data USE.
+BULL7|Commerce is rapidly expanding as the result of the pandemic E marketer raising its forecast for 2020 to 18% growth from a previous estimate of roughly 12%.
+BULL8|Grocery delivery companies expected to be the biggest beneficiaries, with a new forecast of 58% growth in 2020 from a previous estimate of only 23% publicly traded, Amazon and Walmart seeing triple digit sales growth for their grocery services in the first week of May.
+NEUT9|Instacart.
+BULL10|Nearly 500% overall grocery delivery.
+NEUT11|Tripling those companies also deliver health and beauty products.
+BULL12|Now forecast to see a 32% increase toys and hobbies as well as consumer electronics all expected to see double digit increases due largely to working and learning from home.
+BULL13|"COVID-19 also impacting how we get our e-commerce click and collect when you buy online, but pick up at the store expected to increase by 60% this year."""

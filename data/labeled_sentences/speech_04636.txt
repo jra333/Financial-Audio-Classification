@@ -1,0 +1,14 @@
+NEUT0|"""There is a big misconception about technical analysis that by studying the chart patterns, you can actually predict the prices."
+NEUT1|Let me break this for you.
+NEUT2|This course is divided into 3 modules, Candlestick and psychology.
+NEUT3|Chart patterns and indicators.
+NEUT4|We're going to talk about various kinds of chart types.
+NEUT5|Line chart.
+NEUT6|Bar chart, Candlestick chart and there are many other chart patterns that we're going to talk about, like Ranco, Kogi, pointed.
+NEUT7|Single most factor in your analysis should be priced.
+NEUT8|It encompasses all the available information around you and give you the clear picture.
+NEUT9|In chart patterns, we will have two types of chart patterns.
+NEUT10|Then we're going to study.
+NEUT11|One is the continuation pattern and two reversal patterns.
+NEUT12|Hi, I'm Michelle Mehta.
+NEUT13|"Come learn technical analysis with me."""

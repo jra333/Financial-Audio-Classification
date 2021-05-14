@@ -1,0 +1,42 @@
+BULL0|"""So the Feds two day meeting getting underway today and while no policy changes are expected, the outlook for rate hikes is starting to shift."
+NEUT1|And for that, Steve Liesman has the results of the latest CNBC Fed survey, Steve.
+NEUT2|Good morning Andrew.
+NEUT3|You have the CNBC Fed survey shows the market's speed up, the timeline for Fed tightening, potentially putting the Fed and the markets at odds over the policy.
+NEUT4|Outlook respondents now see the Fed hiking rates for the first time in November 2022 and ending QE or asset purchases in November 2021.
+NEUT5|That's later this year, 63% of the 43 respondents say the $120 billion of monthly purchases are not needed either for the economy or in the markets, and 83% say.
+BEAR6|The 1.9 trillion Biden relief package was too big.
+NEUT7|Back in September, respondents forecast the first hike February 2023.
+NEUT8|Now it's November 2022.
+NEUT9|So that's about three or four months later, better vaccine and economic news that played a part, obviously.
+BULL10|But the huge amount of fiscal relief has also been a big factor.
+BEAR11|Robert Brusca, chief economist, at fact and Opinion, Economics, writes the stimulus package is too big and poorly allocated.
+NEUT12|Much of the money will not get into a productive spending stream to create stimulus, but you'll narrow off of narrow, economic says.
+NEUT13|2.7 trillion.
+BULL14|That's the last one, and this one here in stimulus in one year, should lead to a booming economy even though inflation and interest rates may rise, they're only getting back to more normal levels faster than expected.
+BULL15|And that is good for the economy.
+NEUT16|So 2 views there.
+BULL17|Well, back in December, the ten year was forecast to rise modestly this year to 1 1/4%.
+BULL18|It's already surpassed that at 160 and headed to 2% this year and two point 4% next year, according to respondents.
+BULL19|And the two point 4% level.
+NEUT20|That's also the average response for what would take what it would take to bring the Fed into the market.
+NEUT21|So little expectation at this point that the current yield the Fed would ride to the rescue of bondholders enter.
+NEUT22|Who?
+NEUT23|It's going to be fascinating to see what's going to happen.
+NEUT24|You know who we have in the next hour, do you?
+NEUT25|Well, you got Jack Lew coming up and Judy Shelton I think is that who you're referring to?
+NEUT26|That's who I'm referring to.
+NEUT27|I want to know what you want to know.
+NEUT28|Well, I mean, I read Miss Shelton's last piece in the Journal, and I think she's very much against all of the things the Fed has done, and I think you could make an argument somewhere along the line that maybe what they're doing now is too much, but you know, was all of it too much?
+NEUT29|I guess is the question you might, you might ask him.
+NEUT30|Also interested in this idea of maybe Jack would talk about this.
+BEAR31|Other central banks have expressed their concern with higher bond yields, but.
+NEUT32|This Federal Reserve has not, so I'm interested.
+NEUT33|Does he think the Fed needs to come in at some point or be prepared to come in at some point?
+NEUT34|And of course enter the question is this?
+NEUT35|Fed had a forecast an it was perhaps not based on.
+NEUT36|First of all, the blue wave coming and then the extra 1.9 trillion of stimulus.
+NEUT37|And why that does or doesn't change the feds own policy outlook.
+NEUT38|If you look at the forecast for the dot plots and do, they don't really have rate hikes until 2023 markets moving that forward.
+NEUT39|Not that significant that the Fed and the markets are out of wack for the next couple of years, but would be interesting to see how they would realign again.
+NEUT40|Shepard Smith here.
+NEUT41|"Thanks for watching CNBC on YouTube."""

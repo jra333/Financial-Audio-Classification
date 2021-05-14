@@ -1,0 +1,13 @@
+NEUT0|"""Hello, welcome to today's technical analysis for August 26, 2015."
+NEUT1|I'm Selena Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at gold on the weekly chart.
+BEAR3|Gold has remained below the key psychological level of 1200 since the end of June.
+BEAR4|Prices are challenging the 61.8 Fibonacci retracement and this is of the rise from the 2008.
+BEAR5|Low that was at 681.43 all the way up to the 2011 high of 1920.80.
+BEAR6|Now this high was actually a record high and since then prices have been falling and we can see they've been making lower peaks and lower lows.
+BEAR7|Looking at the weekly chart, the outlook is quite bearish, especially after the 50 and the Hundred week moving averages cross below the 200 week moving average.
+BEAR8|This is quite a bearish signal.
+BEAR9|Also, if we look at the Mac D, it's in negative territory below 0, so this is also giving a bearish signal.
+BEAR10|A further decline from current levels would lead to retest of the July low of 1071.19.
+BEAR11|A break below this level would actually strengthen the downtrend, so as long as the market remains below the key 1200 level, the bearish bias will likely hold.
+BULL12|"Thank you for watching and have a great day."""

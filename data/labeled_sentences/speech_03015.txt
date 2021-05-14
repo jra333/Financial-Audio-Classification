@@ -1,0 +1,37 @@
+NEUT0|"""Hello this is how is Mohannad from Indian Institute of Technology Madras today I'm going to present this talk which video on the different types of analysis I have performed on the company."
+NEUT1|I wanted to make.
+NEUT2|That is Facebook disclaimer.
+NEUT3|The value generated or on my own and have no bearing or responsibility that wrong or missing the press Facebook.
+NEUT4|So now let's move on to the company overview.
+NEUT5|The company's name is Facebook.
+NEUT6|The ticker symbol of Facebook's FB and the industry to which it belongs to his Internet and computer services.
+NEUT7|The idea of you know IPO is 2012 and the number of shares outstanding on 2.
+NEUT8|.846 millions as of January 2016.
+NEUT9|The current share price of FB is 113.71 dollars.
+NEUT10|So this slightly South, the various sources of revenue for Facebook.
+NEUT11|But will games advertising and distress advertising being the major contributor.
+NEUT12|This slide lists out the key star risks of the company.
+NEUT13|Here we can see that The Beatles security is .76, which is less than one which indicates stability.
+NEUT14|He did slightly so some of the various acquisitions of Facebook like WhatsApp, Oculus, Instagram and Paroki.
+NEUT15|Now we move on to the best analysis I have listed down some of the important results from test analysis, the first one being a political factor, the second one being an economic factor.
+NEUT16|That urban being a social factor and the 4th one major technological factor.
+NEUT17|So next we want to the SWOT analysis, the strengths, weaknesses, opportunities and threats are listed down in this slide.
+NEUT18|So next, the postals, the quarters 5 force analysis.
+BEAR19|The competitive rivalry is moderate to high, but the bargaining power of customers is moderate to high threat of new entrance is moderate bargaining power suppliers is low threat of substitute products moderate to high.
+NEUT20|So next we move onto the ratio analysis by bitter margin of Facebook is quite high.
+BULL21|Even when compared to its competitors, it is.
+BULL22|It is going very well.
+NEUT23|And the next topic margin.
+BULL24|It is going well, but it still.
+NEUT25|It's less than Google.
+BEAR26|The return on assets is high, but it's still less than feature and with the current ratio of Facebook is quite high.
+BEAR27|This might mean that the Facebook is not making a good use of his acquisitions.
+NEUT28|The price to earnings ratio of Facebook is very very high when compared to its competators.
+BEAR29|This might mean that Facebook is overpriced.
+NEUT30|OK, next we wanted a valuation.
+BULL31|Dominant growth rate is estimated to be 30%.
+NEUT32|The target price estimated to be 122.61 dollars and the target fee multiple right.
+NEUT33|The expected to be 90.1.
+NEUT34|So dogs.
+NEUT35|On that, on account of all this, my recommendation on the stock is to buy.
+BULL36|"Thank you."""

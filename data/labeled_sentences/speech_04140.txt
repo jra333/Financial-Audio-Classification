@@ -1,0 +1,9 @@
+NEUT0|"""Hello Traders and welcome to another intraday technical analysis session."
+BEAR1|Our second instrument for the day is the Walt Disney Stock, the Walt Disney Stock has experienced a whopping 4.4% decline in price in early September.
+BULL2|Price has now been correcting.
+BEAR3|But struggling to the upside and had found resistance at approximately the 9999 thirty area.
+BULL4|This stock has covered approximately 50% of the losses and is now consolidating and continuing to found resistance on the 50% Fibonacci retracement level as well as the 200 main.
+BEAR5|We believe the price will continue its downward movement to at least the 9750 or.
+NEUT6|Even to retest the bottom at the 9620 area.
+BULL7|Thank you for watching our intraday technical analysis from all of us here at AAA trade.
+BULL8|"We wish you successful in responsible trading."""

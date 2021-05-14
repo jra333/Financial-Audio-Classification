@@ -1,0 +1,8 @@
+BULL0|"""February 13th is in the books on Wall Street and it has been a day of fresh highs across all four major US indices."
+NEUT1|The S&P 500.
+BEAR2|The Dow Jones Industrial Average, NASDAQ Composite, an Russell 2000, all closed at record levels.
+BEAR3|Telecom's was the only sector of the S&P 500 to end in the red after Verizon announced on Sunday night that it would roll out unlimited data plans across the country.
+BULL4|In a bid to win back consumers from rivals T-Mobile and Sprint, the move signals are slightly more optimistic mood among investors.
+BULL5|Buoyed by news last week that President Donald Trump plans to release details of proposed tax cuts soon, Apple shares were standout performer on Monday, closing at a new record high, surpassing its last record set in February 2015.
+BEAR6|Oil prices slid despite data last week, showing that the much talked about OPEC production cuts have had some effect in bond markets.
+BEAR7|"U.S. Treasury yields, which move inversely to prices, continue to rise, but analysts warn it may be short lived and prices could go higher from here and that's a New York minute."""

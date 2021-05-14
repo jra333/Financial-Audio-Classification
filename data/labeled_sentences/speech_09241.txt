@@ -1,0 +1,29 @@
+BULL0|"""Hey guys I'm living I have got one good news for you."
+NEUT1|This is 1 new article from Bloomberg and this is the timing of this article.
+NEUT2|In this article Kelvin Churchill said that he will raise 1.6 billions from 2 news packs.
+NEUT3|An merger has not been confirmed yet.
+NEUT4|That's why one person who has knowledge about it.
+NEUT5|He confirmed it to the Bloomberg.
+NEUT6|Everything has been written in this article about raising capital.
+NEUT7|Everything is written in it about.
+NEUT8|Raising the capital, we will talk about it.
+NEUT9|But first, let's talk about those two images which are leaked from Bloomberg Terminal.
+NEUT10|So this was the leaked information on Bloomberg on 11th of January.
+NEUT11|Venrock Associates proposed to sell lucid Motors to Churchill Capital.
+NEUT12|This was the news leaked on 11th of January.
+NEUT13|This status was proposed and earlier the payment type who's talking now it is cash.
+NEUT14|Let me be clear.
+NEUT15|This isn't confirming the merger or anything, but it's a step in the right direction.
+BULL16|It's better than the most of speculation out there, but after seeing this article from Bloomberg I'm quite sure that this merger will go through.
+NEUT17|In this article, Michael claim raised a combined capital of initial public offering, according to a person with knowledge of the matter of CC Ivy, that is Churchill Corp 6 raised.
+NEUT18|480,000,000 apprised from 4,000,000 in the IPO said that person this person asked not to be identified.
+NEUT19|Becaused this information is not public yet.
+NEUT20|When Bloomberg asked Churchill about this or representative from Churchill declined to comment on this.
+NEUT21|Right now the valuation of this lucid carmaker is about 15 billions.
+NEUT22|So after this merger, the valuation of CC Ivy.
+NEUT23|Would be around 15 billions.
+NEUT24|JP Morgan is the leading Churchill IPO, while Churchill Seven is being advised by Citigroup.
+NEUT25|This is 1 screenshot off Bloomberg Terminal right now.
+NEUT26|The valuation of CC Ivy App App 30 is 8.3 billions, but according to Bloomberg the correct valuation of Lucid Motors is teen billions.
+NEUT27|So in this case the price of CC.
+BULL28|"Ivy should be double."""

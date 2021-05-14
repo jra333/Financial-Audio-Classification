@@ -1,0 +1,22 @@
+NEUT0|"""Let's do final trades we have about a minute and a half or so, so you can give me a little more detail than you normally do."
+NEUT1|As to why you like the stock you do, Jimmy, you go first.
+BEAR2|Well, look, we're having this discussion right now about this Christmas rally and doesn't continue.
+NEUT3|And the fact is, we have a question.
+NEUT4|What happens in January?
+NEUT5|I don't know and I don't think anybody can say with definite certainty what will happen in January.
+NEUT6|In about.
+NEUT7|Like you know, plates, tax selling, waiting, waiting for the new year, or what do you mean in January?
+NEUT8|Well, it could be definitely.
+BEAR9|I think that some of this game has been the absence of selling because people don't want to recognize the seller strike.
+NEUT10|And you know, also people are on vacation, so who knows what happens in January?
+NEUT11|I'm going to play it safe.
+BULL12|One stock in one area that I think will do well in January is financials and Citigroup good stuff?
+NEUT13|OK, Jenny, I'll double down on the on the financials.
+BULL14|We just added American Express, which should have 10% earnings growth for the next two years trades at half the multiple of of its peers.
+NEUT15|So we think it's a great time to own it.
+NEUT16|OK, split the 30 seconds we have left.
+NEUT17|January Joe talked about earlier Amazon they were in spending mode this year.
+BULL18|We've got, you know, potential revenue acceleration next year, and I think that when you look historically on when you want to buy Amazon, it's after they spent.
+NEUT19|A bunch of money alright that stuff.
+NEUT20|Joey O'Reilly automotive.
+BULL21|"ORLY kind of consolidating the gains since it reported earnings and they got some strong performance."""

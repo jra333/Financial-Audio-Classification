@@ -1,0 +1,9 @@
+BULL0|"""But the infrastructure can service and so you reference that we've seen great success from exchanges and on ramps."
+NEUT1|And indeed we have in 2018.
+BEAR2|In Q4 we saw multiple companies raising at Unicorn valuations from those fields, for instance, but we've also seen failures in the space when the business model didn't match the stage of the infrastructure itself.
+NEUT3|So whereas merchant payment processors, for instance, might make sense when you have higher layer infrastructure, an greater scale through that higher layer, they didn't maybe make sense in 2013 or 14.
+NEUT4|In a pre SegWit environment or in a pre lightning network environment, and so when we're looking at companies and its founders were really asking the question of are they building for the infrastructure that's in place today and anticipating future upgrades at this point?
+NEUT5|Are there any other coins that you feel confident will last?
+NEUT6|Well, I expect that we'll see protocols that serve other unique purposes.
+NEUT7|I think that in terms of store of value as a proposition that Bitcoin will be is today and will be in the future.
+NEUT8|"The cryptocurrency that addresses that need and other protocols may serve other purposes."""

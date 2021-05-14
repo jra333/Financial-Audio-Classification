@@ -1,0 +1,6 @@
+BEAR0|"""Suffered one of the biggest one day losses of market value in U.S. history."
+BEAR1|Facebook's market value plummeted $119 billion.
+NEUT2|For perspective, that's around the total market value of McDonald's and Nike.
+BEAR3|The massive loss came after Facebook reported fewer knew users than expected following the privacy scandal.
+NEUT4|But don't feel too bad for Facebook.
+NEUT5|"The company is still worth more than $500 billion."""

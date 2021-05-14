@@ -1,0 +1,39 @@
+NEUT0|"""Delve into any book shop and you will find the shelf groaning with authors attempts to explain how money is made, Loste, lent, and borrowed."
+NEUT1|Popular macro economics tells a particular fairy tale.
+NEUT2|Interest rates are used to regulate the economy.
+NEUT3|Central bankers lower rates to boost investment and pep up activity or raise them to arrange things in there for low interest rates are a harbinger of good times or easy money and therefore high investment and growth.
+BULL4|If the fairy tale were true, charts like this one would be telling us that thanks to low interest rates, we are now in a glorious environment for investment.
+NEUT5|Of course it isn't.
+NEUT6|Lex spends countless hours discussing investment with analysts and finance directors.
+NEUT7|Never is the market interest rate given more than a backstage role in the decision to invest or sit back.
+NEUT8|Instead, it's all about the size and reliability of the perspective return.
+NEUT9|In the words of the Siemens Chief Financial Officer, we don't decide to spend more just because interest rates are lower for a couple of years.
+NEUT10|Instead, history shows that interest rates tend to be high when growth is high.
+NEUT11|If investments and growth are not driven by interest rates, what is going on?
+NEUT12|First, there is a modicum of sense to the fairy tale.
+NEUT13|A central banker.
+BULL14|Easing policy uses money to buy shorter dated debt, driving up its price, which leads to lower rates.
+NEUT15|I'm going to lower interest rates.
+NEUT16|Is central banker code for I am easing policy, but what has been missing from this tale is demand.
+BULL17|More money also boosts incomes and expected inflation, which will increase the demand to borrow at any one interest rate.
+NEUT18|This drives up equilibrium interest rates.
+NEUT19|If this sounds counter intuitive, let me banish your confusion by introducing a different fairy tale.
+NEUT20|Once Upon a time, there was a Kingdom that used gold as its currency.
+NEUT21|A wicked dragon sat upon a hoard of gold more than all the rest in the Kingdom.
+NEUT22|One day a hero slayed the dragon and the townspeople rushed to haul home.
+BEAR23|The plunder as gold floods the Kingdom.
+BULL24|The price of everything from Goatskins to castles will be expected to double.
+NEUT25|If you were a banker in that Kingdom, would you still lend on the same terms as before?
+NEUT26|Not if you are sensible.
+NEUT27|So what if there is more available to lend?
+BEAR28|This effect will be swamped by the falling value of the currency in which people are repaid.
+BULL29|A sensible banker would raise interest rates.
+NEUT30|Of course, modern economies are more complicated than that.
+NEUT31|QE is not expected to have the same effect as the Dragons flood of gold because nobody expects it to be permanent.
+NEUT32|But if it were, you should be expecting the same kind of affects extremely easy money leading to rapidly rising prices, which leads to high interest rates.
+NEUT33|The bottom line, the headline interest rate is an extremely ambiguous indicator of the monetary stance.
+NEUT34|You need to look not only at interest rates, but currency markets.
+NEUT35|Equity prices and forecasts of economic activity.
+NEUT36|Easy money simply means that money is easy to come by.
+NEUT37|It's only in fairy tales that low interest rates and easy money are the same thing.
+NEUT38|"If you don't believe me, ask any of the surviving finance directors for their reminiscences of early 2009."""

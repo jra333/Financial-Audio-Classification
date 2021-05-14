@@ -1,0 +1,24 @@
+NEUT0|"""Alright, let's take a look at the Apple stock."
+BEAR1|We can see Apple has opened negative and kept.
+NEUT2|All the way until the closing of the market, but it's a little bit higher than the.
+NEUT3|Middle of the day.
+NEUT4|If you change the chart into daily chart.
+NEUT5|We can see here we got a.
+NEUT6|Red Dodge so this story has a long lower tail that means a lot of buying power from underneath, and also this kind of the law is a little bit higher than yesterday.
+BULL7|So that means we still got some buying power.
+BEAR8|After the yesterday's drop.
+NEUT9|So if we checked.
+NEUT10|Volume we can see the volume is not to hide.
+NEUT11|That means selling and buying.
+BEAR12|Still weak in my opinion we have falling back to this point because if we draw a line from here we'll see.
+NEUT13|Actually this is the breakout and then all the candles had been above this line.
+BEAR14|But unfortunately from yesterday and today.
+BULL15|We have been.
+NEUT16|Below drop below this area because he lives here.
+BULL17|But we closed back up again to this level.
+NEUT18|So in in this scenario, I think Apple should find a consolidation station area between.
+NEUT19|This point.
+BULL20|And at the high point here.
+BEAR21|So this is a new trading range, but from the volume I can see there's no institution interest here, so it will unlikely for Apple stock to go back up too quickly from here.
+NEUT22|I think it needs a consolidation.
+BULL23|"Thank you."""

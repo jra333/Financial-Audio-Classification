@@ -1,0 +1,43 @@
+NEUT0|"""Hey traders, Todd Gordon here with tradinganalysis.com."
+NEUT1|This is for CNBC's Trading nation traders.
+NEUT2|Let's go to work in Netflix.
+BULL3|I'm liking the daily chart here.
+BULL4|Looks like we have a breakout happening here that's been in formation through the back half of 2017.
+NEUT5|So as you focus in here on this consolidation just around the 200 region, this in the technical world, the technical methodology that I use, which is Eli Wave.
+NEUT6|This is going to consider this a fourth wave, which means we're going to have one more.
+NEUT7|Break out.
+NEUT8|That should target the zone of fib resistance right around the 250 mark.
+NEUT9|Now we are heading to earnings on January 22nd.
+BULL10|I don't think we're going to get the full $45.00 move here in the next couple weeks, but let's begin to work on up towards that target resistance zone.
+NEUT11|So what I'd like to do is begin to establish a long position by selling puts.
+NEUT12|I'd like to sell a put spread rather than buying a call spread.
+NEUT13|Not a good idea to be long options into earnings because you're inevitably going to get that implied volatility.
+BEAR14|Crush post earnings and that's going to hurt the value of both puts and calls, so I like to short puts heading into earnings.
+NEUT15|I want to contain my risk by selling a put nearby, but then buying a lower put, which is called a put credit spread.
+NEUT16|So the trade I'd like to do here is in the options that expire on January 26th.
+NEUT17|Again, earnings of the 22nd, so this will take us through.
+NEUT18|I'm going to sell a put that's very close to the market here.
+NEUT19|I'm going to sell the 2:05 put as we're currently trading 2O584.
+NEUT20|I'm going to pair that up with the purchase of the 195, put that affectively.
+NEUT21|Capture risk becomes a stop loss in a sense, so the difference between selling the 2:05 put buying the 195 put will be a net credit to us of $3.90 or $390.00 per option.
+NEUT22|Spread your trading that will give you a Max reward as the excuse that will give you Max risk as the platform will tell you.
+NEUT23|Here is $635.00 if the trade goes completely wrong and you hold this all the way into expiration which we should not do.
+NEUT24|The design and purpose of this trade is to be out ahead of earnings.
+BULL25|Or if we have a comfortable profit margin heading into earnings, perhaps you can hold it and chance it roll the dice a little bit.
+NEUT26|But if we show a good profit ahead in earnings will likely take that trade off the table and move on.
+NEUT27|So let's go ahead and see if we can get our $3.80 to $0.90 worth of credit, depending on where you were filled when you see this video in that trade is now working back to the chart here guys as we zoom in.
+BEAR28|If the market would have break back below this breakout point here just about.
+NEUT29|$200, let's take the trade off.
+BEAR30|OK, so I'm going to put a stop loss in if the underlying market gets back to one $95195 let's cut the trade.
+NEUT31|It's obviously not working and move on because we want this breakout level that we're focusing on to hold.
+NEUT32|This should be your newly formed support level.
+NEUT33|If not, let's get out and contain the risk.
+BULL34|Otherwise, looks like we should be able to move on up to the 250 mark in the first half of 2018 and Netflix first CNBC trading nation.
+NEUT35|I'm Todd Gordon.
+BULL36|Good luck on that trade in Netflix.
+NEUT37|Be sure to follow us at Trading Nation on Twitter for updates to this trade as well as.
+NEUT38|All the other markets that our traders are watching will see you guys in the next video update.
+NEUT39|Hey there, thanks for checking out CNBC on YouTube.
+NEUT40|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT41|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL42|"Thanks for watching."""

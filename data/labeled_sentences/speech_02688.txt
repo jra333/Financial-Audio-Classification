@@ -1,0 +1,18 @@
+NEUT0|"""When we speak to consumers and producers of soybean oil and other vegetable oils, one question we often get asked is how will the world's two and a half trillion dollar market for crude oil impact the vegetable oil markets which are large but much smaller than crude?"
+NEUT1|Well, it's an interesting question, and it's certainly a valid one.
+NEUT2|Given that when one looks at the price history of, say, soybean oil versus crude oil.
+NEUT3|We can definitely see that there's a strong relationship, but when one looks at this chart a little bit more closely, one sees something very odd in a thing that's very odd as a maybe it's the crude oil traders who should be asking the vegetable oil traders with their markets are saying about the future direction of crude.
+BEAR4|For example, over the past 16 years since 2005, vegetable oils have often peaked and bottomed before crude oil look at 2008.
+BULL5|In January 2008, soybean oil peaked before crude oil did.
+NEUT6|Six months before crude oil didn't reach its peak until July that year, then vegetable oils hit bottom in December 2008, about two months before crude oil hit bottom in February 2009.
+NEUT7|Since then, that same pattern is held quite often.
+BULL8|For example, vegetable oils peaked earlier than crude oil in 2011.
+BEAR9|Then by 2013 had begun a long, steep slide that anticipated a later sharp collapse in crude oil prices in late 2014 and 2015.
+BEAR10|Vegetable oils hit bottom in October 2015, about four months before crude oil hit bottom in February 2016, and then most recently, vegetable oils peak before crude oil prior to the pandemic, and they hit bottom about one month before crude oil did last year in 2020.
+BEAR11|Now, crude oil prices have been following vegetable oil prices higher for the past 12 months.
+NEUT12|What is important to realize is that part of the rally in vegetable oils comes from a drought in South America.
+BEAR13|Which is impairing production of soybeans that's important to soybeans, but has no obvious impact on crude oil.
+NEUT14|What's more is that the exact mechanism of the relationship between vegetable oils and crude oil is not entirely clear.
+NEUT15|That said, 65 countries around the world have some sort of biofuel mandate, and those biofuel mandates may explain why the vegetable markets not only react to what's happening in crude, but perhaps sometimes even anticipate what's happening in the crude oil market.
+NEUT16|I'm Erik Norland, senior economist with the CME Group.
+NEUT17|"In London."""

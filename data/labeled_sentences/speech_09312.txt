@@ -1,0 +1,34 @@
+NEUT0|"""Can you give us an update on where things are with fish?"
+NEUT1|Because fishing rights are certainly this.
+BULL2|Hold up between France and the UK.
+NEUT3|Where do things lie now?
+BEAR4|Latest is that the UK side made quite a significant concession to the EU and said they'd be willing to accept the EU, only reducing their catching British orders by 30%.
+NEUT5|Now previously the UK stance was they wanted to take much more of that away from the EU, but clearly they've made that concession.
+BEAR6|But today the EU response been to reject that concession and say no, that's not enough.
+BULL7|So clearly the EU is playing exceptionally hard.
+BULL8|More on this issue and it have seen that the UK has been willing to give an inch and they think they might even give a mile if they just stick it out so.
+BULL9|Still haven't gotten agreement on fish, but I think we are edging closer and closer to a compromise.
+NEUT10|You're joining us from from Kent in the UK.
+NEUT11|I'm just curious how you're thinking your life might change come the new year because of Brexit if at all.
+BEAR12|We admire it was difficult to travel on the side roads around my home because I I I live right next to his new in land border facilities recreated the whole truck so if it is the case that we see lots of lorries and vehicles being diverted away from the port to stop disruption, that will clearly affect the side roads.
+NEUT13|So it might affect me in that way.
+NEUT14|And also yeah as we've been talking about will it be the case then?
+NEUT15|Supermarkets?
+NEUT16|We have less of certain products because the you drive this truck once it comes in the UK to bring them for fear of being caught up in disruption.
+NEUT17|Who knows?
+NEUT18|I think yeah it didn't mean the person away boxing professionally.
+NEUT19|I'll be, I'll be here I'll be reporting yeah, it had certainly a lot has been keeping you busy.
+NEUT20|I just want to end asking about vaccines here and to what extent.
+BEAR21|The delays at the border are affecting vaccine shipments.
+BULL22|Leaving government has been saying that they're bringing in vaccines in any way they can, so we have air cargo coming in.
+NEUT23|We have obviously them being brought over by by Rd Transport.
+BEAR24|There has been some reports of distribution of the vaccine in Kent's being affected by all these traffic problems, but by and large it hasn't been a problem yet, but clearly that is a worry that the government has an.
+BULL25|That's why they want to resolve the situation with Frances quickly as possible and cleared the rollout of this vaccine is absolutely critical to the UK's response to the virus.
+NEUT26|We have this mutant strain and it's only when we reach.
+NEUT27|High levels of vaccination that life can get anywhere close to normality.
+NEUT28|So clear?
+NEUT29|Yeah, it's a massive privacy joamets on the ground UK in Kent in the UK.
+BULL30|Thanks Joe for your time for joining us on quick take this morning.
+NEUT31|The biggest story is the moment they happen from around the globe.
+NEUT32|Subscribe to Bloomberg.
+NEUT33|"Quicktake now for insight in an instant."""

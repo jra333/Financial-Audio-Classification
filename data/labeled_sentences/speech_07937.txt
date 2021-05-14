@@ -1,0 +1,33 @@
+BEAR0|"""Well, cash flow is a very underappreciated measure for most businesses."
+NEUT1|Most of us as investors are looking at earnings, not cash flow.
+NEUT2|Just because companies report their earnings report, and we say they beat earnings.
+NEUT3|But the truth is the game of business is about cash flow more than anything else.
+NEUT4|How much money did you take in this year as a business?
+NEUT5|And how much went out?
+NEUT6|Let me give a simple example to show why cash flow matters to me more than earnings.
+NEUT7|Subscription business is actually the Motley Fool's one, but let's go with one.
+NEUT8|That more people know that Netflix when Netflix when you subscribe to Netflix, you're paying them upfront.
+NEUT9|Whether you're looking months or a whole year or even multi years ahead, you're giving them all the cash up front.
+BULL10|That's a great cash flow business.
+BEAR11|They haven't even delivered their service to you yet, and you've already given all the money that you're going to give them so they could look like they're losing money.
+BULL12|When in fact, at least in the near term, they're getting cash from all of us all at once, and it's a strong kind of front weighted cash flow business model.
+BULL13|Now, over the course of time they're going to keep their costs down, etc and grow their business properly to be both cash flow positive and a good earnings story.
+NEUT14|But the truth is more than anything in business, you want to make sure over a given.
+NEUT15|You have more cash coming in than going out.
+NEUT16|I used an example of a subscription business 'cause they're often underappreciated.
+BEAR17|People thought AOL was overpriced.
+BULL18|Throughout the 1990s, 'cause it kept looking like it was losing money when all of us, many of us anyway, we're paying them either $4.00 an hour or $20 a month up front, and it was an amazing cash flow story, which is part of the reason AOL went up about 250 times in value in the 1990s, even though for a good portion that they didn't have many earnings.
+NEUT19|By the way, Amazon.com, another good example of a cash flow story where people were looking at the losses saying this company is going out of business.
+NEUT20|This is a stock I would never buy.
+NEUT21|Everybody should have been buying Amazon.com.
+NEUT22|In those years, maybe even still today.
+NEUT23|So why should investors care about cash flow?
+NEUT24|Well, positive cash flow when you have more money coming in than going out enables you to invest that money or to get paid interest Biobank think about what insurance is.
+NEUT25|The entire insurance industry is predicated on the idea that you and I are giving our money to them now and at some indeterminate future time.
+NEUT26|They may, or often may not pay us back.
+BULL27|In the meantime, they're getting to use all that money that we're paying them.
+NEUT28|They're getting to invest it if they're like Warren Buffett's company, he buys stocks with it.
+NEUT29|Other, more conservative traditionally insurance companies are just investing in bonds or three month T-bills or a wide spate of investment choices.
+NEUT30|But think about it, they're getting to use our money and any business that is cash flow.
+NEUT31|Positive has the exact same dynamic you're paying him up front.
+NEUT32|"They're getting to do something with the flow."""

@@ -1,0 +1,15 @@
+NEUT0|"""As we begin the year 2021, the furthest thing from the minds of most investors is the possibility that the Federal Reserve might increase interest rates."
+NEUT1|Indeed, if you look at the Fed funds futures, they praise little chance that the Federal Reserve moves policy at all during the next two years.
+BEAR2|However, if you look further up the yield curve to say 10 year or 30 year bond yields, those have been rising in recent weeks.
+NEUT3|And they seem to be propelled by a variety of factors, including first and foremost that vaccines are now being widely administered in the United States and in many other countries around the world.
+BULL4|Now vaccines are coming in the context of extremely high consumer savings rates in the United States, so it raises the possibility that once the pandemic hopefully comes to an end, that there could be a great deal of pent up consumer demand as a result of the vaccines and the high level of savings.
+BULL5|In addition to that, we also have incredible amounts of fiscal stimulus over $3 trillion approved last year, and perhaps another $1.9 trillion in the pipeline with the new administration.
+NEUT6|And on top of all of that, of course you have central bank quantitative easing in the United States and in many other currency areas around the world of simply unprecedented size.
+NEUT7|So when you Add all of this up, it does raise the question, what would it take to get the Federal Reserve off of 0 interest rates?
+BULL8|Well, first and foremost, it probably requires a return to full employment in the United States.
+BEAR9|That would mean gaining back probably at least ten million jobs that have been lost during the pandemic.
+NEUT10|But if you look at fed funds futures and how they correlate to both inflation expectations and to the equity market, traders seem to think that there are two other factors at play as well.
+NEUT11|First, inflation expectations.
+NEUT12|If inflation expectations were to continue to rise, that might bring forward the date in which the Federal Reserve eventually gets off of 0 interest rates.
+NEUT13|Secondly, traders also seem to think that the Federal Reserve will have an easier time eventually raising interest rates if the equity market is trading near a record high.
+NEUT14|"And if perhaps it's recently corrected, I'm Erik Norland, senior economist at the CME Group in London."""

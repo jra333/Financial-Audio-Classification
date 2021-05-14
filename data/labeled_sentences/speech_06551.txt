@@ -1,0 +1,14 @@
+NEUT0|"""Hello, welcome to today's technical analysis for April 11th, 2016."
+NEUT1|I'm Celina, Nicholas, technical analysts, that xm.com today.
+NEUT2|Let's look at the pound versus yen on the daily chart.
+BEAR3|GBP JPY fell to its lowest level since August 2013 last week, and this level of 151.63 was reached last Thursday.
+BEAR4|Prices have since stabilized.
+BEAR5|Unpause, the decline of this momentum reached oversold levels and we can see our aside, dipped just below 30, and that's considered oversold levels.
+NEUT6|So.
+BEAR7|As momentum reached, these extreme levels suggests that there will be some consolidation in the market and a possible pullback in prices in the near term before heading even lower.
+NEUT8|If we look at the technical picture, it looks bearish.
+BEAR9|All three moving averages, or sloping down to 5000 and 200 moving averages prices have been making lower highs and lower lows since the November 2015 peak of 188.79.
+BEAR10|Meanwhile, market is also below the Ichimoku cloud, and this also highlights the bearish bias.
+BEAR11|Immediate support lies at the multi year low of one 5163, but a violation of this would expose the 150 level.
+BULL12|Alternatively bounce higher from current levels with target an important resistance area around 1:55.
+BULL13|"Thank you for watching and have a great day."""

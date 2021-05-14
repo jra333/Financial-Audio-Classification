@@ -1,0 +1,4 @@
+NEUT0|"""Netflix has undergone 2 stock splits since its initial public offering in May 2002, the first stock split announced in January 2004, had a 2 for one ratio and was payable February 11th, 2004."
+NEUT1|The second stock split, which had a 7 for one ratio, was announced in June 2015.
+NEUT2|It had a payable date of July 14th, 2015.
+BEAR3|"Netflix ticker symbol NFLX trades on the NASDAQ."""

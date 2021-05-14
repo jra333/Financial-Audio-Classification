@@ -1,0 +1,26 @@
+NEUT0|"""Are the rich and famous?"
+NEUT1|Wouldn't it be great to walk in their shoes?
+NEUT2|How they handle their fame is one thing, but how they handle their money?
+NEUT3|Well, that's something we can all learn from US.
+NEUT4|Trust surveyed nearly 700 high net worth people with at least $3 million in investable assets.
+NEUT5|Here are four key ways they have built and sustained wealth that financial advisors suggest you should do.
+NEUT6|Also, number one delay gratification.
+NEUT7|About 80% of those surveyed said investing in long term goals is more important.
+NEUT8|And current needs.
+NEUT9|Not everyone has piles of cash left over after paying for things like utilities, a mortgage and car payments.
+NEUT10|But consider this if you put $100 towards your retirement each month instead of spending it on discretionary items, you'd have roughly $40,000 after 20 years.
+NEUT11|Assuming 5% interest multimillionaires, like Jay-Z, and Beyoncé might consider putting off the purchase of an extra swimming pool.
+NEUT12|But for the average investor, forgoing expensive coffee five days a week or deciding against those glitzy cufflinks could put extra money in your pocket that will grow over time.
+NEUT13|#2 be smart when it comes to credit.
+NEUT14|Do you pay off your credit card balances in full each month?
+NEUT15|Bankrate.com's Greg McBride tells MarketWatch those consumers should use a rewards card that earns cash and perks for discretionary spending.
+NEUT16|Plus, if you're racing to pay down your mortgage or car loans, don't.
+NEUT17|If it makes sense, pay them down on schedule and use the extra money to fund your retirement plan.
+NEUT18|#3 Warren Buffett does it, so you should too.
+NEUT19|That is, when investing buy and hold the Berkshire Hathaway CEO wasn't part of US Trust survey.
+NEUT20|But 85% of those polled say that when it comes to stocks and bonds, they made their biggest investment gains by buying and holding on to investments for several years.
+NEUT21|Buying whole doesn't sound very exciting.
+NEUT22|But Buffett has lived by that strategy for decades and #4 be tax conscious when investing bad tax management can result in giving up as much as 40% of your gains every year, that's good for Uncle Sam.
+NEUT23|But for the average investor, there are a few simple ways to shelter money from the government and increase your net after taxes.
+NEUT24|Consider investing in or increasing your investment in your company's 401K plan or an IR a safe your child's education in a 529 plan or put money away.
+NEUT25|"And a flexible savings account."""

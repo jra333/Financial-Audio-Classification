@@ -1,0 +1,10 @@
+BEAR0|"""Concerns over the state of times economy were echoed today by the Taiwan Institute of Economic Research, the head of the Institute's forecasting Center believes that even 1% growth for the year in Taiwan will be a challenge."
+BEAR1|Tears latest economic forecast paints a gloomy picture look one day.
+NEUT2|Get some bump was then there are not many reasons for optimism.
+BEAR3|Our exports have fallen for six straight months and trade orders announced last week represented the fourth straight decline with external demand week there was a belief that Taiwan could rely on domestic demand turmoil in the stock market is dashed.
+BEAR4|That hope and made negative growth the possibility that the city you know to to have equal the Government Statistics Bureau had forecast growth of 1% in the fourth quarter.
+NEUT5|But the stock market turmoil is not solved.
+BEAR6|These problems will continue for an extended.
+BEAR7|With positive growth to be difficult over the second half of the year.
+BEAR8|There's a high possibility of negative growth in the third quarter, with several recent downward revisions to Taiwan's growth forecast and problems throughout the global economy.
+BULL9|"Tier economist Gordon Swim believes that the government must now focus on preserving 1% growth."""

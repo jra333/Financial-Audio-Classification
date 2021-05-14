@@ -1,0 +1,39 @@
+NEUT0|"""You think about tax reform."
+BULL1|Tax reform is definitely been a boost near term.
+BULL2|We think the second quarter GDP number is going to be very good you given you even PMI yesterday, given some data will see later this week.
+BULL3|But more importantly, though 2019-2020, tax reform will start to wear off, interest rates start to rise even more.
+BEAR4|We do think this will pressure economic data.
+NEUT5|And we do think that some of the numbers for 2019 and 20 are a little bit aggressive.
+BEAR6|Also, you look at the rising dollar, so I know today the dollar is weakening a little bit, but the rising dollar is definitely going to affect our exporters.
+NEUT7|It's going to definitely impact some other issues, plus he's bringing up the T word betrayed.
+NEUT8|You likely trade.
+NEUT9|Do you look at what the US economy has managed to do over the years?
+BULL10|And I know interest rates are going up, but they're going up the levels.
+NEUT11|That are much lower.
+BULL12|Then periods in the past where we were able to generate much higher and much higher economic growth than 2%, we average 2.8% for years and years and years and at 40% higher than Europe for 40 years.
+NEUT13|So there must be something that's changed fundamentally in your view and I guess what are you talking about?
+NEUT14|The population growth and productivity is that is that the same old Montefiore we hear again and again from people that don't think we can grow faster?
+NEUT15|Definitely, but I think also you think about the labor market is also tighten.
+BEAR16|We've seen unemployment rate at three point, 8% lowest since 1960, but key point we're not screaming that a recession is coming near term.
+NEUT17|What we're saying?
+NEUT18|More importantly, is that this business cycle, yes, it's going to linger a lot longer than normal.
+NEUT19|Yeah, you've got rates rising, and you also bad things that will be a fundamental disappointment from what we've been sold on tax reform and water container, then that you're saying that Mnuchin and everybody that is talking about what tax reform is going to do, they're going to be totally wrong.
+NEUT20|'cause they're talking about 3% or above.
+BEAR21|We're just stuck back in the 2% that we had when there was all the over regulation and redistribution.
+NEUT22|Anyway, Scott, is that where you are?
+NEUT23|Is is that all makes sense to you.
+BULL24|Yeah, I think so.
+NEUT25|You know, short term basis, you're obviously going to get some support from from the tax cuts this year in 2019 as well, but this is really a demographic issue when you look at GDP growth, there's only one.
+NEUT26|There's only one recipe for growth.
+NEUT27|It's the amount of Labor you input times and productivity of that labor that per worker.
+BEAR28|If labor force growth is going to be a lot less than we've had in previous decades, when we had the baby boom generation coming in, female labor force participation.
+BULL29|Increasing those trends are way behind us, so with some of the labor force growing you know 2 1/2% or so.
+NEUT30|It's probably going to bring about a half a percent per year, and if you look at the BLS projections, about 40% of that was projected a couple years ago to be immigration.
+BEAR31|And now we're cutting immigration in half, so the labor force input is really going to be ground.
+BULL32|So unless you get some sort of magical, gigantic boost unprecedented in productivity growth, you're really not going to get anything close to 3% GDP growth.
+NEUT33|1 1/2 to 2% is the the bogy and that's you know.
+NEUT34|Based on the demographic projections and simple logic.
+NEUT35|Hey there, thanks for checking out CNBC on YouTube.
+NEUT36|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT37|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL38|"Thanks for watching."""

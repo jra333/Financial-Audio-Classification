@@ -1,0 +1,14 @@
+BEAR0|"""FedEx plunging today on pace for its worst day in two months after missing earnings expectations and cutting its 2020 profit forecast on the call, CEO Fred Smith called the results an anomaly and blame some of the weakness on macro pressures."
+BEAR1|In this quarter has seen significant effects on the industrial economy due to continuing trade disputes, including reductions in international air freight and tepid at best be to be domestic parcel and freight shipping.
+NEUT2|Mike it talking about global weakness at a time when we're starting to see more optimism about the global economy, how do you exactly fit in his comments with what's happening with better?
+NEUT3|Given the way the market is acted, looking for all these global industrial plays to buy an anticipation of something going better, this FedEx might have been the first one you chose in other circumstances.
+BEAR4|So there's a combination of the macro which is disproportionately affecting air freight.
+NEUT5|Their core business and express, and obviously just their own kind of structural an pricing issues, so it's been a value trap the stock.
+NEUT6|So I I think it's interesting how the market.
+NEUT7|Is punishing FedEx a little bit of spill over to related companies?
+NEUT8|But it's not really taking it as a broad signal of weakness on a forward going basis for the industrial exception to that point.
+BEAR9|Josh, you surprise UPS, is not down more than one point.
+BULL10|7%.
+NEUT11|In lieu of this, I am and to Mike's point, which I think is the most important point that maybe the tell that the market is saying yes, we understand there's some challenges in industrial and manufacturing.
+NEUT12|But dude, fix your last mile business, fix your profitability on.
+NEUT13|"E Commerce an it's it's not quite the global macro that's cooking people."""

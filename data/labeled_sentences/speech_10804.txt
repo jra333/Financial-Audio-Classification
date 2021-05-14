@@ -1,0 +1,9 @@
+NEUT0|"""A great job I am I. Peter writes, should I be worried about Bear Stearns in terms of liquidy and get my money out there?"
+BEAR1|No, no, no Bear Stearns is fine.
+NEUT2|Do not take your money.
+NEUT3|I just really like if there's one takeaway other than plus 400.
+NEUT4|Somebody Bear Stearns is not in trouble.
+NEUT5|I mean if any are more likely to be taken over, don't move your money from fair.
+NEUT6|That's just being silly.
+NEUT7|Don't be silly.
+BULL8|"Man monies back after the break."""

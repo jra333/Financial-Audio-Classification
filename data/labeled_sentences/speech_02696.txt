@@ -1,0 +1,26 @@
+NEUT0|"""There are two ways of looking at it."
+NEUT1|One is China specific, which is there's a political dimension to it.
+NEUT2|Jack Ma probably is being sort of pushed back in terms of power and influence, and that could be, you know, one part of the story, but the second part of the story beyond China and beyond, Alibaba is a general regulatory pushback that is inevitably coming toward the tech sector and the fintech sector.
+NEUT3|Globally, we are stepping into 2021 with a mountain of sovereign issuance of debt mounted of corporate debt.
+NEUT4|Issuances and on top of this we don't want more and more debt bubble to be built and who will be the enablers of further expansion of the debt bubble.
+NEUT5|It will be the banks and the financial technology sector and also the sectors that are or the companies that are very very large and have tremendous amount of monopolistic or quasi monopolistic power in terms of extending credit.
+NEUT6|So whether it is you know the practices of US Fintech companies or US big tech, or in the case of China, Alibaba, you will see more and more of this.
+NEUT7|I we should not look at it Justin.
+BEAR8|Isolation, I think worldwide regulators are not happy with the cloud and the reach of financial technology companies.
+NEUT9|They took a lot of measures to Iranian banks 1011 years ago after the aftermath of the global financial crisis.
+BULL10|I think we're going to see a lot of pushback along the same lines against nonbank financial companies.
+NEUT11|Right and what would this mean for the traditional banking sector, which is also undertaking this?
+NEUT12|A massive digital transformation drive?
+NEUT13|Because at the end of the day you need a fair number of players to keep the system, the financial sector, the financial system stable and running.
+NEUT14|I think a common thread among regulators over the last say 5 to 7 years has been that they don't want to come across as getting in the way of financial innovation.
+NEUT15|Hence they have encouraged non bank financial companies to flourish and prosper and and sort of you know, bringing them toward the more formalized part of the economy.
+NEUT16|It's for being in a Wild West of the world so to speak, so regulation, but at the same time don't discourage innovation.
+NEUT17|But then the other issue is you know the bank non bank.
+NEUT18|Pretend that you know whether there should be a level playing field.
+NEUT19|That there should be no regulatory arbitrage.
+NEUT20|You know that's where you start seeing systemic risk.
+NEUT21|Build up that you know on one side of the financial sector there's a lot of regulation in the aftermath of the GFC.
+NEUT22|On the other side of the financial sector isn't, and then companies will start arbitraging that difference and you'll see a big expansion of credit in the non bank site.
+NEUT23|So I think from banking perspective of course you know Bank would want a level playing field, they would want lending limits on non bank financial companies.
+NEUT24|They would want to see reserve requirement like the way the banks have now how the regulators shred that balance.
+NEUT25|"Level playing field, but at the same time not discouraging innovation and not getting in the way of this amazing improvements and changes that we're seeing is a big question."""

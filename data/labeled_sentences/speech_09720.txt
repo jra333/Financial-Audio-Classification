@@ -1,0 +1,36 @@
+NEUT0|"""Scott Bauer, the CEO of Prosper Trading Academy, is with us now and before we get to your big trade of the day, I'd love to get your perspective on the market action."
+NEUT1|Sure, I think the the bullish activity that we saw last week.
+NEUT2|Andrew was a little bit too much too quickly.
+NEUT3|I know the Bulls like it out there.
+BEAR4|Economic activity is still pretty good, but there's still so many risk headlines weighing over the market right now that I personally think we're due for a pullback.
+NEUT5|I don't think it's going to be anything.
+BULL6|Is severas reaching the?
+BEAR7|Lows that we saw you know at Christmas or anything like that, but I think that that we're due for a pullback just based on on all of this bullish sentiment that we had last week just to cooling off just a cooling off.
+NEUT8|Yeah, let's take a look at your trade today.
+BEAR9|Yeah, Delta Airlines you know last week that the airlines actually got really really hammered on news coming out of American.
+BEAR10|But those were after some really nice runups that these stocks have leading into these sell offs.
+NEUT11|But I like Delta going into earnings.
+NEUT12|They have earnings later this week.
+NEUT13|And I'm not necessarily looking for a big push to the upside, but I'm really looking for some stability here and we're down around an area here where there's some good support in the stock, so I'm selling a put spread this weeks put spread ahead of earnings.
+NEUT14|It's the 47 and a half, 46 put spread.
+NEUT15|I can sell that for right now for about 5060 cents.
+NEUT16|Somewhere in that range.
+NEUT17|And what I'm looking here.
+NEUT18|Angie, is for the stock to just either stabilize or go up, so it's a neutral to bullish type of trade.
+NEUT19|Annual reward to risk so.
+NEUT20|This one because it's a credit spread that I'm collecting money up front.
+NEUT21|It's not the same type of odds or not the same type of reward to risk that we look for on a debit spread.
+BULL22|But this is great.
+NEUT23|It's a dollar and a half wide.
+NEUT24|I'm collecting $0.60.
+NEUT25|That's what I can make and my maximum risk on this is $0.90 so I do like those that reward to risk Scott before you take off.
+NEUT26|I would love to get your view or some Twitter tricks for training the airlines because it's not the simplest sector.
+BEAR27|No, you know, sometimes it can be a real tough trade because the sector moves on energy prices.
+NEUT28|It moves on capacity an we typically see even in between earnings cycles.
+NEUT29|News come out about the airline, so this is this is a sector energy.
+NEUT30|I really focused my trades on, typically around earnings time.
+BULL31|Good to have you here and thanks so much.
+NEUT32|Have a great trading day.
+NEUT33|You as well.
+NEUT34|Check out business firstdayim.com to find out where to see our entire show.
+NEUT35|"And don't forget to like follow and share business first AM."""

@@ -1,0 +1,19 @@
+NEUT0|"""Everyone, let's take a look at the Apple stock."
+NEUT1|We can see after the opening of the market.
+BULL2|I Paul has been a great job and kept until now so it's very near the closing the market.
+NEUT3|If we change the chart into daily chart we can see it clearly.
+NEUT4|Here we got another green candle is a very.
+BEAR5|Police sign because we got a gap here.
+NEUT6|Actually for the real body we can see these two bodies not continued.
+BULL7|So actually that means a strong bullish sentiment in the market.
+BULL8|And also we can see this green candle has well above the former high on here it made on the 9th of November, so it's a very bullish sign and constructive sign for Apple stock.
+NEUT9|If you check the volume, we can see the volume is not too low, so this bounce back.
+NEUT10|This reverses very.
+NEUT11|Is where is very real.
+NEUT12|Somebody is buying in so we can see here.
+BULL13|We got nearly the gold cross.
+NEUT14|In the Yummies line.
+NEUT15|So in my opinion.
+BULL16|Apple has finished the consolidation short term.
+BULL17|It's very likely for God and for Apple to go higher from here and lead the US stock market.
+BULL18|"Thank you."""

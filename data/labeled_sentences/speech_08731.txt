@@ -1,0 +1,12 @@
+NEUT0|"""Hey, Trader Trader, Keen CEO and President of Alpha shark com."
+NEUT1|Today's stock trade of the day is going to be in US steel, so I think still goes higher here.
+BULL2|So we saw big buyers of the January 30 calls in the January 29th.
+NEUT3|So I came in here and I bought US Steel stock.
+NEUT4|I didn't stack goes higher.
+NEUT5|You can see here I got stock at $229.
+NEUT6|So today's trade.
+NEUT7|Are they in stock?
+NEUT8|Is to buy US Steel at 29 stop loss is 26 Target 1.
+NEUT9|Is 3050 Target 2 is 32, so I'm long US steel stock at $29.00.
+NEUT10|Target one is 3050, Target 2 is $32 with a stop loss of 26.
+NEUT11|"Thanks will run it back to."""

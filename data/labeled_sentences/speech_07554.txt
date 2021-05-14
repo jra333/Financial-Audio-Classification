@@ -1,0 +1,6 @@
+BULL0|"""Today, the Journal debuted a New York section to compete with the New York Times local coverage."
+NEUT1|News Corp's Rupert Murdoch invested $30 million into the launch.
+BULL2|The move gives Murdoch an opportunity to poach Department store luxury ads from the Times, which was so strapped for cash last year, had to pay Mexican heavyweight Carlos Slim 14% interest on a $250 million loan.
+BULL3|An Murdoch seems delighted at the chance, saying earlier this month quote we have all been involved in newspaper Wars, television wars and all types of Media wars, I guess.
+NEUT4|And I've.
+NEUT5|"Enjoy them."""

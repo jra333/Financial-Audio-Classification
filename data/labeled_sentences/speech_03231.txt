@@ -1,0 +1,20 @@
+NEUT0|"""Alright, let's do final trades."
+NEUT1|Jenny, you are up first.
+NEUT2|Sure Zimmer.
+BULL3|If you needed a new hit before the pandemic, you need a new hip after revenues might have been deferred, but there certainly not gone high free cash flow yield 18 times earnings plenty of growth ahead.
+NEUT4|Gamblin Jim.
+NEUT5|Hey, I'm not gambling when I bring up Berkshire Hathaway.
+NEUT6|You know one month return is double that of the S&P 500.
+BULL7|Maybe St Warren hasn't lost a step after all.
+NEUT8|Maybe it's his Apple Holdings.
+NEUT9|Maybe it's his Bank of America purchases.
+BULL10|Either way, he's starting to get the respect he deserves.
+NEUT11|All right?
+NEUT12|Steve Weiss.
+BULL13|XP oh I added to the position.
+BEAR14|The stock is just now beginning to recover from where it was when they report are great quarter 'cause somebody's way too optimistic.
+BULL15|It's breaking through resistance.
+NEUT16|This stock will follow path of UPS and FDX Joe Terranova.
+NEUT17|A small cap bargain.
+NEUT18|An essential and nonessential retail oralis oh lli.
+NEUT19|"Good stuff."""

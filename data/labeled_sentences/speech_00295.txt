@@ -1,0 +1,12 @@
+BEAR0|"""Well, I'm thinking at this GameStop situation is the craziest."
+NEUT1|I think I've ever seen.
+NEUT2|Usually you have a short squeeze and it goes up, but this one keeps going.
+NEUT3|So this really speaks to the changing demographics of investors in the market.
+NEUT4|And what I mean by that is the people that really true investors never heard of.
+NEUT5|Read it a few years ago.
+BEAR6|Sure, it's been around, we know it, but for that to drive a short squeeze in a company that's so fundamentally flawed as you pointed.
+NEUT7|100% last week 50% today there's no there there.
+NEUT8|I got Broads in London.
+NEUT9|Pretty cards and skins.
+NEUT10|Legacy family.
+NEUT11|"Go on Alexa."""

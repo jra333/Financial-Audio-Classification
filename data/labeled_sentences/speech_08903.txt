@@ -1,0 +1,19 @@
+BEAR0|"""You're crazy."
+NEUT1|Hey, it's a sure thing as soon as that Bell rings will be in the money.
+NEUT2|Here we go watch S JPT cough.
+NEUT3|Ha.
+NEUT4|What the hell was that?
+NEUT5|You said?
+NEUT6|SJP was a sure thing I don't understand.
+NEUT7|SJP is in the new Spielberg movie.
+NEUT8|It's going to be huge talking about SGP is a Canadian chiropractic supplies company.
+NEUT9|Jessica Parker, what no?
+NEUT10|Isn't this the Hollywood Stock Exchange?
+NEUT11|You know the website where you buy and sell celebrity stocks based on the ups and downs of their careers?
+NEUT12|No wow.
+NEUT13|And what is all this?
+NEUT14|This is the New York Stock Exchange.
+NEUT15|Like in the movie Wall Street.
+NEUT16|I thought that was Hollywood.
+NEUT17|Make believe like children of every color being at the same McDonald's.
+NEUT18|"But back home you said you were about to make a fortune in silver, Bronze, Silver."""

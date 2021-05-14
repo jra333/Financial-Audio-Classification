@@ -1,0 +1,26 @@
+NEUT0|"""PE ratio explained."
+NEUT1|Over the years, several measurements and models have been developed to assess the value of companies with either earnings or share price.
+NEUT2|PE ratio is one of the mathematical models to determine the value of a company by using the share price relative to the earnings per share.
+NEUT3|How does it work?
+NEUT4|Where can it be used?
+NEUT5|How can it be applied in a real setting?
+NEUT6|The PE ratio or price earnings ratio is a unique formula in business because it makes use of both share prices and an earnings measurement, which is the earnings per share.
+NEUT7|The PE ratio is computed by dividing the market value of the shares over the diluted earnings per share of the company.
+NEUT8|To break this down, it should be noted that the market value of the shares may be observed in a stock market or a recent sales transaction.
+NEUT9|If the stock is not publicly traded.
+NEUT10|The earnings per share, on the other hand, involves dividing the income of the company after deducting the preferred dividends over the diluted number of common shares.
+NEUT11|Diluted common shares is computed by proportionately adding the shares involved with convertible bonds, convertible shares, and stock options.
+BULL12|Basically, if the PE ratio is higher, it means that the stock being evaluated is overvalued because the investors expect a high growth rate in the future.
+NEUT13|This is because the market value of the stock is a measure of investor expectation or the current value of the stock in the market.
+BEAR14|If the PE ratio is lower, it means that the stock is undervalued because the investors do not have high expectations for growth on the stock.
+NEUT15|PE ratio can be used to identify which companies would have a high growth potential.
+BULL16|A high PE ratio may indicate a profitable growth rate over the years purely because investors may be paying premiums to own the stock under this assumption.
+BEAR17|A low PE ratio, on the other hand, may indicate a lower growth potential over the years.
+NEUT18|However, focusing on these numbers may not be advisable at all times.
+BEAR19|There are times where the PE ratio of a company may be misleading due to momentary spikes in the stock price, which may not indicate consistent earnings.
+NEUT20|In these scenarios, it would be advisable to look at trends in the company's financials to determine whether there is really a potential for growth.
+BEAR21|One of the weaknesses of the PE ratio is the shortsightedness of the computations involved.
+NEUT22|As a result, there is a need to increase the level of analysis by involving news on the company future plans set out in their public statement and other pertinent information such as regulatory requirements and economic status of the industry.
+NEUT23|There is no perfect formula in business fluctuation analysis, which is why investors need to be more informed when using these as a measure of future success.
+NEUT24|Knowing how to read trends in the market and how to evaluate businesses based on news and future plans may also help in finding the right stock to invest in.
+NEUT25|"It never hurts to be more informed."""

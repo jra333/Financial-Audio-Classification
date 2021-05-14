@@ -1,0 +1,33 @@
+BULL0|"""Good afternoon Mr Buffett."
+NEUT1|Nelson Coburn from Silver Spring MD have one question.
+NEUT2|I want to ask.
+NEUT3|It hasn't come up here yet.
+NEUT4|Where does the money set that comes in say from dividends and whatever other income that comes in the Berkshire that you're waiting to invest someplace else?
+NEUT5|Is it get someplace where it's taking in a profit or is it just sitting gathering dust?
+NEUT6|We we only have about.
+NEUT7|Four or five commercial paper names we accept.
+NEUT8|We're very picky about where we put the money.
+NEUT9|All gets invested.
+NEUT10|We do not have anything sitting around in the safer.
+NEUT11|Anyplace else, so it's all invested.
+NEUT12|But we do not get venturesome in the least.
+NEUT13|In terms of.
+NEUT14|In terms of.
+NEUT15|Where our short term money goes so we only have like like I say, maybe four or five approved names on commercial paper, all of which I approve.
+NEUT16|I mean, if anything ever goes haywire on this, it's my fault.
+NEUT17|Right now we have.
+NEUT18|We have maybe.
+NEUT19|A billion and something in.
+NEUT20|And should be relatively short term Treasurys and then we have a little extra in in some commercial paper maybe, but you will never see us reaching for an extra 8th of a percent on short term yields, and some of you may remember the fiasco in the Penn Central in the commercial paper market and Penn Central.
+NEUT21|Around 1970 or thereabouts was paying a quarter of a point.
+NEUT22|As I remember more.
+BULL23|Than other commercial paper issuers.
+NEUT24|And of course, they one day, despite showing a positive net worth, I think of a billion and a half or so they said they.
+NEUT25|They had a lot of net worth, but no cash.
+NEUT26|Turned out cash was more important than, so they defaulted.
+NEUT27|Now the interesting thing about doing that is if you're getting a quarter of a point extra.
+NEUT28|And you and you came over on the Mayflower, and you landed, and you said, well, I'm going to apply myself to getting a quarter point extra in short term money.
+NEUT29|And you didn't make any mistake until you got to.
+NEUT30|Depends central you would sign from the com pounding aspect you you would be behind at that point and I don't like a business that you can do right for 300 years and then make one mistake and be behind so so we.
+NEUT31|Wait, wait, we're very picky about.
+NEUT32|"About short term paper, but it is all invested an when it's large amounts that it probably will be in Treasurys couple of couple firms is commercial paper we take."""

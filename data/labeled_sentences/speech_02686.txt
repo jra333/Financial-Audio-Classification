@@ -1,0 +1,28 @@
+NEUT0|"""The US midterm elections as we approach the November 6 election date, there's going to be considerable research produced on the potential impact of markets."
+NEUT1|Depending on how the election goes, our perspective is that this election will not result in the type of market event risk we saw in the November 2016 presidential election.
+BEAR2|That was when equities in general were greatly impacted.
+BEAR3|They were down.
+NEUT4|In the night they came back in the morning and then they just kept going.
+NEUT5|This time around we expect very different impacts on various equity sectors depending on how the vote goes.
+NEUT6|Healthcare will get a lot of attention if the Democratic Party wins a few more governorships which seems likely, then there may be some red states that choose to expand Medicare under the Affordable Care Act and Healthcare and hospital stocks.
+BULL7|The healthcare sector in general will do well if that happens.
+NEUT8|There's also some speculation that post election there may be a bipartisan infrastructure spending legislation.
+NEUT9|Now this would be whether, regardless of your scenario, whether the Democrats do better, the Republicans do better.
+NEUT10|There might be this push for bipartisan infrastructure legislation.
+NEUT11|We disagree.
+NEUT12|We just don't think infrastructure is that easy.
+NEUT13|It's a difficult thing to get any kind of agreement on.
+NEUT14|It's kind of we know it is the Brown wall problem.
+NEUT15|Everyone hates the color.
+NEUT16|No one can agree on the alternative color to paint the walls anyway.
+NEUT17|If the momentum bills after the midterms for an infrastructure spending program.
+NEUT18|It will provide strong support for the materials and industrial sectors, but don't count on it then their taxes, whether the temporary part of the tax bill, personal income taxes, will be made permanent.
+NEUT19|Depends on whether the Republicans maintain control of both the Senate and the House.
+NEUT20|The part of the tax bill that strongly supported equities, however, that was the corporate tax cut an it is already permanent, so the market impact of whether personal tax changes become permanent.
+NEUT21|That might be very, very small.
+NEUT22|Now we also note that in the scenario in which the House of Representatives flips to the Democratic control, this means total gridlock in Washington, in gridlock situations, presidents in the past have tended to focus on things they can do that do not require congressional approval.
+NEUT23|In this case, that means even more emphasis on foreign policy, and that suggests the US China Trade War could escalate if there's another round of tariffs imposed by the United States, it would most likely extend to a variety of consumer goods.
+NEUT24|For example, we note that as much as 8085% of the toys sold in the United States during the holiday season.
+BEAR25|They come from China, and tariffs would raise their prices and might impact the stock prices of the discretionary consumer sector.
+NEUT26|So the election could have a lot of impact one way or another on a variety of different sectors of the economy.
+BEAR27|"But it's not likely to be a repeat performance on the whole stock market like the November 2016 presidential election, Blue Puttnam chief economist, CME Group."""

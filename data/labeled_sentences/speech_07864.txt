@@ -1,0 +1,7 @@
+BULL0|"""I'm using this week's recommendation to double up our investment in another stock we already own in the portfolio that we'd like waited more heavily for this week."
+BULL1|We're doubling our investment in Berkshire Hathaway.
+NEUT2|Their stock symbol is BRKB.
+NEUT3|In the various scription below, I have included the the link to my original recommendation for this stock when it was including the 1st 10 stocks we purchased.
+NEUT4|Please subscribe to my YouTube channel for Future Weekly stock buys and follow me on Instagram at Shenzi Investments.
+NEUT5|Finally check out the Gen Z Investments online store at gsistore.com.
+BULL6|"Thank you and have a great weekend."""

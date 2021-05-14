@@ -1,0 +1,30 @@
+NEUT0|"""Palantir stock analysis and price prediction, January 30th in today's Palantir stock analysis and price prediction."
+NEUT1|What you should know about Palantir?
+NEUT2|Alright, let's get started.
+BEAR3|Palantir Technologies Inc. PLT are closed at $35.18 in the latest trading session marking a -- 1.35% move from the prior day.
+BEAR4|This change was narrower than the S&P 500's daily loss of 1.93% at the same time, the Dow lost 2.03% and the Tech heavy NASDAQ lost 2%.
+BULL5|Heading into today, shares of the company had gained 55.38% over the past month, outpacing the business services sectors, loss of 4.68%, and the S&P 500 gain of 1.48% in that time.
+BULL6|PLT ER will be looking to display strength as it nears its next earnings release.
+NEUT7|Investors should also note any recent changes to analyst estimates for PLT are these revisions helped to show the ever changing nature of near term business trends?
+NEUT8|With this in mind, we can consider positive estimate revisions.
+BULL9|A sign of optimism about the company's business outlook.
+NEUT10|Our research shows that these estimate changes are directly correlated with near term stock prices.
+NEUT11|Investors can capitalize on this by using stock rankings.
+NEUT12|This model considers these estimate changes and provides a simple actionable rating system ranging from a strong buy.
+BULL13|The Wall Street systems have a proven outside audited track record of outperformance, with number one stocks returning an average of plus 25% annually since 1988.
+BEAR14|Over the past month, the Wall Street consensus EPS estimate has moved 20.59% lower.
+NEUT15|PLT is holding a rating of hold right now in terms of valuation.
+NEUT16|PLT is currently trading at a forward PE ratio of 288.89.
+BULL17|This valuation marks a premium compared to its industry's average forward PE of 32.35.
+NEUT18|The technology services industry is part of the business services sector.
+NEUT19|This group has an industry rank of 202.
+BEAR20|Putting it in the bottom 21% of all 250 plus industries.
+NEUT21|That's what's been happening this week in the world of Palantir.
+NEUT22|Stock analysis and price prediction.
+NEUT23|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of Palantir.
+NEUT24|Stock analysis and price prediction.
+NEUT25|If you enjoyed this edition of Palantir, stock analysis and price prediction, leave a comment.
+NEUT26|And please hit the like or share button.
+BULL27|We'd really appreciate it.
+NEUT28|Are you still watching and want more?
+NEUT29|"Check out last week's Palantir Stock analysis and price prediction by checking out our Palantir playlist."""

@@ -1,0 +1,17 @@
+BEAR0|"""Look at the records he tried to hurt Social Security years ago."
+NEUT1|All right, let's move on.
+NEUT2|President, I have to move on to the next question.
+NEUT3|They say their stock market will boom if I'm elected.
+BEAR4|If he's elected, the stock market will crash OK?
+NEUT5|Customers very quickly look.
+NEUT6|The idea that the stock market is booming as his only measure of what's happening where I come from in Scranton and Claymont that people don't live off of the stock market just in just in the last three three years during this crisis, said the billionaires in this country made according to the Wall Street, 700 billion more dollars 700 billion more dollars because that's his only measure.
+NEUT7|What happens to the ordinary people out there?
+NEUT8|What happens to them?
+NEUT9|Let's talk tomorrow.
+NEUT10|1 case.
+BEAR11|Workers in 401K's are through the roof.
+NEUT12|We're gonna move on or through the roof.
+NEUT13|Hey NBC News viewers.
+NEUT14|Thanks for checking out our YouTube channel.
+NEUT15|Subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews, show highlights and digital exclusives.
+BULL16|"Thanks for watching."""

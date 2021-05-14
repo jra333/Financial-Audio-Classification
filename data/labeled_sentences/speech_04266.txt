@@ -1,0 +1,9 @@
+NEUT0|"""Hey, CNBC has learned that Google Parent alphabet plans in the coming weeks to stop using Oracle financial software and instead start using similar software from another provider, Sapps."
+NEUT1|Now this move only relates to the software that Google uses to track finances.
+NEUT2|There's no indication that the company is moving other systems off of Oracle.
+NEUT3|However, remember guys that just earlier today, the Supreme Court ruled in Google's favor and a longstanding lawsuit between the two.
+NEUT4|Now that is separate from this latest decision to stop using Oracle software.
+NEUT5|But guys, the main point of this and the broader story is that increasingly these two tech companies are rivals and their competing in the same cloud computing market, so will continue to monitor this.
+NEUT6|For full stories, please go to cnbc.com Reporter Joe Jordan know, but broke this one.
+NEUT7|Shepard Smith here.
+NEUT8|"Thanks for watching CNBC on YouTube."""

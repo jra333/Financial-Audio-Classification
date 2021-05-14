@@ -1,0 +1,25 @@
+BULL0|"""In the world right now, Plug Power shares are up."
+NEUT1|You know 84% in just seven trading days.
+NEUT2|Company making the second big deal in less than a week.
+NEUT3|Announcing a 5050 joint venture with Renault of France to develop and hydrogen fueled commercial vehicles in Europe and joining us now is Andy Marsh, President and CEO of Plug Power.
+BULL4|In a broadcast exclusive joining us by phone and we really appreciate you joining us.
+NEUT5|I know you were just on with Jim and mad money less than a week ago.
+NEUT6|There you are in the zoom perfect.
+NEUT7|Talking about the election and talking about a deal in South Korea, this deal appears to be even bigger in some future way because it's 5050.
+NEUT8|Why Renault and how big do you think that European market just might be?
+NEUT9|So bright thank you for having me on an Wivern owes an easy answer were no is the second largest Lake commercial vehicle company in Europe.
+NEUT10|And they also were experts in battery electric vehicles, which is a critical technology when you marry it with fuel cells.
+NEUT11|And when you look at those two together, it's a perfect marriage since we provide a full turnkey from the fuel cell to the hydrogen infrastructure to hydrogen and in Europe they expect by the year 2030 there to be over 500,000 fuel cell electric vehicles, local light commercial vehicles on the road and this JB is targeting 1/3 of that.
+BULL12|And I agree this could be bigger than the South Korea activity and plug is.
+BULL13|Moved from being just a fuel cell manufacturing hydrogen infrastructure manufacturer and hydrogen generation manufacturer, and now we're in the vehicle space with the I think the Premier player we could have picked to work with in Europe.
+NEUT14|How big is the addressable commercial market in Europe?
+NEUT15|Roughly and do you have the scale and the people?
+NEUT16|The facilities that the capital to scale up to meet that market?
+BULL17|Well, I I think when you start thinking about the capital Brian, we have the strongest balance sheet in this industry with over $3 billion.
+BULL18|So we're well positioned for will also going to be able to leverage facilities that were no already has in place?
+NEUT19|And they will be using many of their employees and many of our folks will be supporting the activity.
+BULL20|So we really do feel we have the ability to meet this need.
+NEUT21|But look when you're growing like plug is growing, you're going to need to add people.
+BULL22|And I think over the coming months you will see additional executives joining the Plug team that really help us grow out this business, both here in North America, Asia and now you're.
+NEUT23|Shepard Smith here.
+NEUT24|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,4 @@
+BEAR0|"""SmarTrend identified a downtrend for hi-tech pharmacal NASDAQ symbol HI TK on January 22nd, 2010 at $23.41 in approximately 4 weeks."
+BULL1|Hi-tech Pharmacal has returned 5.5% as of today's recent price of $22.13.
+BULL2|Trade your way to success today with smart Trend.
+NEUT3|"Click below for more news and market analysis."""

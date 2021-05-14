@@ -1,0 +1,10 @@
+BEAR0|"""Price is almost always lead to some instances of price gouging, and it's happening now online with Amazon sellers squeezing people looking for coronavirus related goods, but Amazon says it's trying to push back."
+BEAR1|Major suppliers such as Target and Walmart are virtually sold out of medical face masks and hand sanitizer, causing prices to skyrocket on 3rd party retail sites.
+NEUT2|Abox of 23 M face masks that normally retails for about $14.00 at Walmart is being offered by a third party seller for nearly ten times that on Amazon on eBay, a 2 ounce bottle of hand sanitizer is selling for about $25, nearly 40 times more.
+NEUT3|Then it sells for at Target.
+NEUT4|When asked about this price gouging on Wednesday, President Trump said it is a concern if you tell me that's happening, we would definitely investigate.
+NEUT5|We don't want that.
+NEUT6|In a statement, Amazon told CNBC in part, there is no place for price gouging on Amazon.
+BEAR7|We are disappointed that bad actors are attempting to artificially raise prices on basic need products.
+BEAR8|In response, Amazon has removed 10s of thousands of offers from its site and continues to monitor its store.
+BEAR9|"For violations and eBay just released a statement saying eBay has been employing a combination of digital and manual surveillance tools to remove products marketed with the term coronavirus which violates our policies regarding making unsubstantiated health claims, we are also taking action to mitigate the inflated price of masks listed on the site."""

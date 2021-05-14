@@ -1,0 +1,15 @@
+BEAR0|"""For the third year in a row, Amazon CEO Jeff Bezos topped Forbes list of richest Americans, while U.S. President Donald Trump's ranking dropped as the pandemic slammed his office."
+NEUT1|Buildings, hotels and resorts.
+BULL2|Overall, the aggregate wealth of the Forbes 400 list rose to a record $3.2 trillion, even as the pandemic caused a massive economic slump, leaving millions of Americans unemployed for the third year in the road.
+NEUT3|Jeff Bezos is at the top of the list.
+NEUT4|He's worth.
+BEAR5|$179 billion this year, Forbes Assistant managing editor Carrie Dolan told Reuters the pandemic had an uneven impact.
+BULL6|It's been interesting some some companies have really benefited more.
+NEUT7|People are shopping on line.
+BEAR8|Amazon shares have been up a lot, and yet you know, other sectors have really, really struggled the hotel sector.
+BEAR9|Oil and gas is way down.
+BEAR10|The 25 people who dropped off the list about ten of those dropped off related to the impact of Covid.
+NEUT11|Another company doing well during the pandemic is zoom Eric Yuan, the CEO of Zoom Video Communications, which has become ubiquitous in the work from Home Era, was one of 18 newcomers on the list, with a net worth of $11 billion.
+NEUT12|But as office buildings, hotels, and resorts, three categories that the Trump Organization owns property in.
+NEUT13|Suffered during the pandemic.
+BEAR14|"Trump's ranking dropped in #352 from 275 last year as his net worth fell to $2.5 billion from 3.1 billion."""

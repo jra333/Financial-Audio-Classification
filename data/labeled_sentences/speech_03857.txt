@@ -1,0 +1,27 @@
+BULL0|"""Thanks to President Trump's tax cuts, the rich are paying more in taxes than they did before."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+BULL2|Will you get the insights you need to better navigate this turbulent world?
+NEUT3|You heard that right.
+BEAR4|Democrats assert that the Trump tax cuts passed in 2017 were a giveaway to the rich.
+NEUT5|That's false.
+BULL6|The income tax bill for rich individuals has actually gone up, not down.
+NEUT7|This reality is important for two reasons.
+BEAR8|First, false facts mislead the voters and 2nd false facts lead to bad policy.
+NEUT9|So let's look at the real facts, the top income earners in 2018, page $16 billion.
+BEAR10|More income taxes than they did the year before.
+BEAR11|Payments by the other 99% went down by $80 billion.
+BEAR12|The big factor for most taxpayers was at the standard deduction was almost doubled under the Trump tax program, while itemized deduction for upper income earners were curtailed.
+NEUT13|Hence their higher tax bills.
+NEUT14|Another fact, the top 1% paid about 37% of income tax receipts in 2017 before the Trump tax cut.
+NEUT15|In 2018 they paid around 40% of total income tax revenues after the Trump tax program went into effect.
+NEUT16|As Andy Puzder, former CEO of a major restaurant company and author of Getting America back to work, has put, it doesn't sound like a tax cut for the wealthy.
+BEAR17|We've seen this counterintuitive result before with President John Kennedy sweeping tax cuts in the 1960s, when tax receipts from high income earners sword.
+NEUT18|We saw it again in the 1980s with President Reagan's massive income tax reductions.
+NEUT19|The rate paid by the top 1% almost doubled during Reagan's presidency.
+BULL20|By the way, both the Kennedy and Reagan tax cuts fueled fantastic economic booms with numerous new jobs and rising incomes.
+BULL21|Before Covid shutdown the economy, the Trump tax cuts and deregulation had set off an expansion that's a record.
+BULL22|Low unemployment and income for lower wage workers rise faster than any other group for the first time in decades.
+NEUT23|Democrats want us to believe they can raise the trillions of dollars to pay for all their promises just by taxing the rich.
+NEUT24|The reality is that just ain't so, as these facts demonstrate, most of the American people will take it on the economic chin.
+NEUT25|I'm Steve Forbes.
+BULL26|"Thank you for listening to send in your comments and suggestions and look forward to seeing you soon again."""

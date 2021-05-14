@@ -1,0 +1,10 @@
+BULL0|"""Hi friends."
+NEUT1|Walt Disney Co. Sleeping Beauty bonds.
+NEUT2|This case analyzes the biggest bond issue in the history of $300 million bonds by Disney with a maturity period of 100 years.
+NEUT3|The coupon rate offered to the bondholders was to be 7.55% and the bonds were callable bonds.
+NEUT4|This is quite rare that companies issue bonds which have a duration which is higher than the average life expectancy of individual show ever.
+BEAR5|Disney and Coca Cola have both issues.
+NEUT6|Such lands with a maturity of 100 years, although the goal of the company is to grab profits from the high demand in the market.
+BEAR7|However, the longer duration of these bonds also makes this risky for Disney.
+NEUT8|This case analyzed a number of considerations and also compares the returns of the bonds with the returns of 10 year bond and the common stock of the company.
+BULL9|"Thanks for watching this video."""

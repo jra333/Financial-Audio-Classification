@@ -1,0 +1,9 @@
+NEUT0|"""Alright, let's take the Apple stock."
+NEUT1|We can see Apple has made a doji pattern before it had come break out from this yummy line.
+NEUT2|So that means this year.
+NEUT3|My line for the 50 day same line is very important for Apple and it hesitated to break out from here.
+BULL4|As to the volume, we can see the volume is larger than the volume before it, so that means here somebody has sailed into holding position.
+BEAR5|That means in short term is very likely for it to drop back.
+BEAR6|So as long as we keep below this 50 yard line there's possibility for it to drop down back.
+NEUT7|We need to wait until it break out from here to idle position.
+BULL8|"Thank you."""

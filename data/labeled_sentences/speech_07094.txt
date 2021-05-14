@@ -1,0 +1,34 @@
+BULL0|"""I got a report here and it says Disney will overtake Netflix as the streaming leader by 2024."
+NEUT1|OK ampere analytics put that out.
+NEUT2|I don't know them but that is the source of this.
+NEUT3|This particular forecast Netflix co-founder and former CEO Mark Randolph joins us.
+NEUT4|Now you agree with that.
+NEUT5|In three years, Disney overtakes Netflix.
+NEUT6|What do you think?
+NEUT7|Well, Stewart, first of all, who knows.
+BULL8|But I gotta say I'm really impressed with what Disney has done so far.
+NEUT9|I mean what are they 16 months in and they've just exceeded 100,000,000 subscribers.
+BULL10|It's extremely impressive and even more impressive is the velocity.
+NEUT11|You know that their Investor Day, which was not too long ago, they had 86 million, so 14 million subscribers.
+NEUT12|It took Netflix 10 years to get there 1st 14 million subscribers in Disney's done it in just over two months.
+NEUT13|But you know the thing that I'm really impressed with and I think that.
+NEUT14|Yeah, go ahead hit me Stewart.
+NEUT15|Well, I don't know I just I want to know if Netflix has this number of subscribers and Disney Plus has this number.
+NEUT16|What's the difference between the two?
+NEUT17|Well, the one big difference, of course, is that approximately 1/3 of Disney subscribers are in a single country.
+NEUT18|It's the Hotstar in India.
+NEUT19|And even if you look out at where the forecast goes three years from now, you will probably show that Disney is going to be larger than Netflix in one country, India.
+NEUT20|But Netflix will still be larger than India in another 195 countries, so this is not quite the way it sounds in the report.
+NEUT21|And of course, fundamentally the most important thing that Disney has to do is demonstrate that they can make money from their subscribers.
+NEUT22|You know you mentioned before that right now about a $4 average revenue per user and Netflix is just about $10.
+NEUT23|It'll take a while for them to bring those numbers up, but you know, really, sincerely, it is not Netflix that necessarily should be scared by Disney's prominence.
+NEUT24|It's all of the other streaming companies.
+NEUT25|I mean, there right now with Paramount Plus coming in a few weeks ago.
+NEUT26|Now, every single major media companies in the streaming business.
+NEUT27|And right now we're all sampling, but I promise you.
+NEUT28|There is going to be a musical chairs moment and there is not going to be cherished for everybody and I think what consumers are going to do is have their Marie Kondo moment where they really ask themselves, is this service bringing me joy?
+NEUT29|And if it's not, they're going to dump it, and I certainly think that Amazon pardon me that Netflix and Disney are both going to be left standing and I wonder who else will be joining them.
+NEUT30|That's a fascinating?
+NEUT31|Randall.
+BULL32|Thanks for joining us.
+BULL33|"We appreciate your expertise in this."""

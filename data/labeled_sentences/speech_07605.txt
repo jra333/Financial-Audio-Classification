@@ -1,0 +1,38 @@
+BULL0|"""So I think everybody had as much fun as ever."
+BULL1|I mean, we we had a crowd that certainly equaled our record and.
+BEAR2|Again, I run into thousands of shareholders in there.
+NEUT3|They're all having a good time here, and directors have a good time, so it's just sort of a Mardi Gras.
+NEUT4|Was there anything different about this meeting or is it the sameness that makes it so special?
+NEUT5|It's the sameness pretty much.
+NEUT6|I mean it working with Charlie Munger.
+NEUT7|Yeah, we're not going to change the format very much, although Brian pointed out earlier that there were a lot of kind of controversial subjects, a lot of things that caught people's attention and picked up a lot of news at this time, and it's because you and Charlie.
+NEUT8|Just say what you think, especially Charlie.
+NEUT9|Yeah, Johnny says exactly what he thinks and he thinks in colorful language to another side.
+NEUT10|I've noticed that as that changed over the years.
+NEUT11|Or is that just more than Charlie?
+NEUT12|Yeah, that Charlie.
+NEUT13|And since you met him since 1959 when I met him, OK, Warren, let's talk about some of the things that really resonated with people and and maybe start where you began the annual meeting this year and that was talking to your investors and telling them a little bit about investing, some tips and lessons along the way.
+NEUT14|You kind of used as a teaching experience at the top.
+NEUT15|Yeah, normally I don't do that.
+NEUT16|I mean that in fact I can't remember when I did it at the.
+NEUT17|We just go right into questions and answers, but everybody thought that.
+NEUT18|That maybe we're giving a little bit the wrong lesson, because all the questions would naturally tend toward current events, and so this time I went back.
+NEUT19|Actually the 1942 when I bought my first stock as an illustration of all the things that have happened since 1942, we bad.
+NEUT20|We got 14 presidents, seven Republicans, seven Democrats we've had.
+NEUT21|We've had world wars.
+NEUT22|We had 911.
+NEUT23|We had the Cuban Missile Crisis we have.
+NEUT24|All kinds of things.
+NEUT25|The best single thing you could have done.
+NEUT26|On March 11th, 1942, when I bought my first stock would just buy an index fund and and never look at a headline.
+NEUT27|Never think about stocks anymore, just like it would do if you bought a farm.
+NEUT28|You just buy the farmer, let the let the tenant Farmer voted for you, and I pointed out that if you would put $10,000 in an index fund that reinvested dividends, and I paused for a moment to let the audience try and guess how much it amount to.
+NEUT29|They would come to $51 million now and the only thing it had to really believe in then is that America would win the war and that America would progress as it has ever since 1776 and that American businesses of America move forward American business with move forward.
+NEUT30|You didn't have to worry bout what stock to buy.
+NEUT31|It didn't have to worry what day to get in and out you didn't.
+NEUT32|You didn't know the Federal Reserve would exist, whatever it might be.
+NEUT33|And America works.
+NEUT34|Hey there, thanks for checking out CNBC on YouTube.
+NEUT35|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT36|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL37|"Thanks for watching."""

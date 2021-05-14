@@ -1,0 +1,27 @@
+NEUT0|"""David, I want you to weigh in on Bitcoin or Roubini was on the other day."
+NEUT1|Absolutely scathing we had Scott Minerd of Guggenheim yesterday talking about the scarcity factor, the proxy to gold and that Bitcoin would go now from 10 to 20 up to $400,000 per whatever the unit is of the unit.
+NEUT2|David Rosenberg on Bitcoin discuss.
+NEUT3|Well, I'll just say that.
+NEUT4|You know you speak to most people that are asking me to put money in Bitcoin.
+NEUT5|They can't even tell you who the person was that developed it, or even how it's actually mind.
+NEUT6|So it's just the classic.
+NEUT7|Follow the herd.
+BEAR8|Extremely crowded trade.
+NEUT9|It's in a massive bubble and everybody seems to believe that you know we're going to get to that 21 million cap on the supply constraint, but there's really nothing in the protocol to suggest that the supply of Bitcoin can't go up once we hit that limit, the one thing we do know about gold is we know the supply curve of gold with certainty.
+NEUT10|We don't know the future supply curve of Bitcoin.
+NEUT11|People think they know, but they don't really know.
+NEUT12|So I would just say that you know it's a.
+NEUT13|It's a massive bubble and it's extremely difficult to value into any intrinsic work on what Bitcoin could be worth.
+NEUT14|David.
+NEUT15|Do governments, including Canada have a stab Lish, more conservative than the US on with their monetary history to governments have a responsibility to burst the bubble?
+NEUT16|Or do they wait for the market to do it?
+NEUT17|I don't think that it's the government's responsibility to burst any bubble, but I think at some point you are going to find more of a ploration of government LED digital currencies that will act as some form of competition.
+NEUT18|You know.
+NEUT19|Part of the problem here, of course, is that even argue that Bitcoin is somewhat related to the lack of faith in Fiat currencies, so it's a self defeating prophecy.
+NEUT20|But governments aren't there to burst any bubbles and look.
+NEUT21|The thing about Bitcoin is the last time that behave like this, and.
+NEUT22|Such a speculative fervor notwithstanding the fact that you know, you might have, you know wealthy fund managers calling core higher Bitcoin prices and are actually putting their own money behind it.
+NEUT23|The reality is that the chart just looks absolutely crazy right now, and the last time it undertook this degree of speculative fervor, which is in late 2017, it went on to have an 80% bear market.
+NEUT24|I mean, the thing about Bitcoin, and that the reason why it's not really a valid investment thesis is that is also.
+NEUT25|Bloody volatile.
+NEUT26|"That's five times the volatility of gold."""

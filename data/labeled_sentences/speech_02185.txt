@@ -1,0 +1,31 @@
+NEUT0|"""Let's bring in economist John Lensky."
+BULL1|He's another regular on the program, whose pointed US higher pointed us towards a positive direction and being right.
+NEUT2|So John, I want you to compare the recovery that we did see after the 2008 crash that recovery versus this recovery after the virus tell me about it.
+NEUT3|What's the?
+NEUT4|What's the comparison?
+NEUT5|Well, you know, let's begin with one of the most important economic indicators, the unemployment rate.
+BEAR6|Recently the unemployment rate fell under 8%.
+BEAR7|In September, it took only five months for the jobless rate dropped from nearly 15% to less than 8%.
+NEUT8|Seven point, 9%, let's go back to the 2008, 2009.
+NEUT9|What followed that Great Recession?
+NEUT10|It took 35 months, 35 months.
+BEAR11|That's nearly three years for the unemployment rate to drop from 10% in October of 2009 two.
+BULL12|Less than 8% by appointed in 2012, right there were doing much better and we will find indicator after indicator in some cases were already setting new record highs.
+BULL13|Retail sales assetta new record high.
+NEUT14|We had to wait 33 months for retail sales instead of new record high after the Great Recession.
+NEUT15|Alright tell me about the stock market because I think the baseline for stocks is often the profitability of American corporations.
+NEUT16|We just started to get the latest profit reports we've got.
+NEUT17|Too few to make a general judgement at this point, but how do you see profitability going in the future?
+BULL18|Profitability is going to be very good next year.
+NEUT19|I'm with the consensus, you know, the equity analysts who look at this stuff very closely.
+BEAR20|Say that in 2020 corporate earnings, S&P 500 earnings will be down by 17 to 18% annually.
+BULL21|That's bad news, but the good news is that in 2021, S&P 500 earnings per share are expected to grow by, I think more than 22 or 23% annually so.
+BULL22|A profits will more than fully recover from their COVID-19 plunge in less than a year.
+NEUT23|Does that mean the stock market slide to continue its rally?
+NEUT24|Why not?
+NEUT25|Because interest rates are going to remain very low.
+NEUT26|My goodness if you get less than 1% from a 10 year Treasury yield.
+NEUT27|If you're getting in right now, just under 2% from investment grade corporate bonds.
+BULL28|Just to be in bonds, it makes a lot of sense to be in equities up until that point where the economy is strong enough and we begin to see the 10 year Treasury yield breaking towards 2%.
+BULL29|Alright John, the Bulls are running amok this morning and we thank you as always for joining us today and over the past few years.
+BULL30|"John loans Gary one alright."""

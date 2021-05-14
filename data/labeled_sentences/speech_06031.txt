@@ -1,0 +1,16 @@
+NEUT0|"""According to a Wall Street Journal report on Wednesday, Salesforce would be in advanced talks to take over Slack Technologies for the cloud giant."
+NEUT1|It would be the most important acquisition ever, and one of the largest in the software sector.
+BULL2|This deal is poised to value Slack above a $17 billion market capitalization even if market cap rose to more than $20 billion.
+NEUT3|Following the rally on Wall Street.
+BULL4|After the news, Slack stock popped more than 30%, reaching its highest level since the beginning of June.
+BEAR5|On the other hand, Salesforce stock lost 4%.
+BEAR6|The news of a potential acquisition came at a tricky moment for Slack as the company, based in San Francisco, is struggling to keep up with Microsoft Teams.
+BEAR7|The effects of the economic downturn weighed on the balance sheet since the company was forced to offer discount and payment concessions to many of its customers.
+BULL8|The possible purchase of Slack came on the heels of a number of acquisitions made by the cloud giant to compete with Oracle Core Nsap.
+BULL9|To date, the company boasts a market capitalization of $230 billion, and the firm joined the Dow Jones index of 30 big stocks in late August, replacing the oil giant Exxon Mobil.
+NEUT10|The company's stock closed at 40 point, $70.00 on the 25th of November 2020.
+BULL11|Over the last 12 months it has risen by 84%.
+NEUT12|Morningstar rates its fair value estimate for the company at $20 and considers the stock overvalued.
+NEUT13|Consider buying at 10 and selling at $35.
+NEUT14|Facts that records a 12 month target price between 20 and $40.
+NEUT15|"According to FactSet data 10 analysts expressly by two overweight 9 hold one underweight and four sell ratings."""

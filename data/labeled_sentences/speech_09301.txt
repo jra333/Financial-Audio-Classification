@@ -1,0 +1,11 @@
+NEUT0|"""Hey guys, welcome traders talk about OMC L today at 8645."
+NEUT1|So right around here you see, here is a break.
+BULL2|Here's the basically the buy point, so there was a lot of resistance all throughout here and the stock basically broke out on decent volume.
+BULL3|Went up to 92.5 an in that level.
+BEAR4|It was actually overbought so the stock has come down.
+BULL5|Since then I picked it up here, I just did my stop loss about 8% below, but I expect this.
+NEUT6|To basically bounce off here and go up a little bit higher or trade around here for a little bit and then go higher.
+NEUT7|So if it does crash for this by point and goes down, I'm going to take the loss and sell, but hopefully goes up.
+NEUT8|Don't forget to subscribe right here for a watch.
+NEUT9|List an over by alerts.
+NEUT10|"Alright bye."""

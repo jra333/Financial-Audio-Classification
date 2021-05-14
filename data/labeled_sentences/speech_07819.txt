@@ -1,0 +1,30 @@
+NEUT0|"""Let's bring in our editor in Chief, that's Andy Serwer, because when Warren Buffett speaks, we all pay attention."
+NEUT1|In his annual letter to shareholders, lot of issues there, Andy and one of the big ones was making the case for a stock buyback.
+NEUT2|In his case, buying back his own stock.
+NEUT3|Can you tell us more about how he's justifying it?
+NEUT4|Yeah, well, basically he bought back almost $25 billion worth of Berkshire Hathaway stock in 2020.
+BEAR5|And you know, buybacks have increasingly gotten a bad name at him.
+NEUT6|And in fact, even Joe Biden was saying that this is something companies should be very, very wary of doing.
+NEUT7|And the reason why is because it's actually twofold.
+NEUT8|Number one.
+NEUT9|First of all, it essentially means your timing, the purchase of stock.
+BEAR10|An executive CEO's have done a terrible job, often buying when the stock is high, and then the stock goes down and they look like idiots.
+NEUT11|And the other thing is actually it gives it advantage to the shareholder class at the expense of, let's say employees.
+NEUT12|So in other words, instead of spending billions of dollars giving employees raises, you use that money to buy back stock.
+NEUT13|And who benefits?
+NEUT14|The top executives benefit more than anyone else, because their compensation is usually based to a large degree on the stock price performance.
+NEUT15|And you've been covering Warren Buffett for years, and someone who is so closely watched here, not only by us journalists, but also by investors by retail investors as well.
+NEUT16|When you take a look at and you impact this in your article here over the weekend, but I guess, what do you think it is when you drill down?
+NEUT17|When you look into this fascination with Warren Buffett, what did you conclude just by so many people follow him so closely year after year after year?
+NEUT18|Yeah, that's sort of what makes Warren Buffett special.
+NEUT19|Shawna Ann, you know, I kind of came away with this one word, and that word is wisdom.
+NEUT20|And then I was thinking, well, what is wisdom really?
+NEUT21|Wisdom, of course, is being smart.
+NEUT22|But a lot of people are smart and make bad decisions, so it's being smart and making the right choices, being right, and then the third element I guess would be being smart, making the right decisions and doing that overtime.
+NEUT23|So that is wisdom and wise people in this country.
+NEUT24|I would submit Shawna are not necessarily revered as they are for instance in other countries like China.
+NEUT25|You know, we like our rogues and are Renegades.
+NEUT26|So when someone becomes sort of a wise person.
+NEUT27|A lot of people follow, but some people serve poo poo.
+NEUT28|That and you see some of that with Warren Buffett.
+NEUT29|"But I, I guess still a lot of people do follow."""

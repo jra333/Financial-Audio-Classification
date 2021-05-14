@@ -1,0 +1,16 @@
+NEUT0|"""Bank of Japan did two things today."
+NEUT1|Number one.
+NEUT2|It put a cap of 0% on the 10 year government bond yield.
+NEUT3|That basically means it's offering to buy any bonds off of the sale at that price.
+NEUT4|Number two, it promised to overshoot on inflation, so essentially, even when Japanese inflation gets to its target of 2%, the Bank of Japan will not act immediately to bring it back down to target again.
+NEUT5|Yes.
+BEAR6|Federal Reserve considered both of these options in the early 20 tens and rejected both of them as too radical.
+NEUT7|Now the Bo J is doing them.
+NEUT8|This is something that economists like Paul Krugman have been calling for for quite some time.
+NEUT9|That is a big question.
+NEUT10|In economic theory.
+NEUT11|It works, but promising to overshoot your inflation target only matters if people believe you can get to your inflation target in the 1st place.
+BEAR12|The BJ's credibility to do that has been struggling.
+BULL13|So far, cautiously, but positively.
+BEAR14|Stock markets up close to 2% for yen is about 1% weaker.
+BULL15|"I think this hasn't fully sunk in yet and we may see more moves once the US Federal Reserve had its meeting later today."""

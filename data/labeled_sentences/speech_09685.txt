@@ -1,0 +1,33 @@
+BEAR0|"""Stocks are getting crushed where you are."
+BEAR1|Stocks are getting crushed where I am.
+NEUT2|How much of a game changer was that?
+NEUT3|ISN manufacturing number yesterday?
+NEUT4|Well, I think it took tempered optimism too.
+NEUT5|Cautious optimism.
+NEUT6|That's what we saw yesterday.
+BEAR7|I ** under 50.
+BEAR8|Basically, you saw that the market reacted to the downside and then we continued to see the news overnight there in the UK you saw construction was a little bit weak.
+BULL9|The numbers were a little bit.
+BEAR10|We coming out of there and again you continue to see global weakness China.
+NEUT11|And Europe in general just basically toeing the line, so I think right now you're seeing a market that's trading with cautious optimism.
+BULL12|That means that you're going to see a lot more volatility.
+NEUT13|Joe is the Fed gonna ride to the rescue the markets completely repriced.
+NEUT14|October the 30th.
+NEUT15|Are we going to get another rake up?
+NEUT16|Right now they're pricing in a 70% probability, but I think the question is not so much the rate cuts because I think everyone starting to question whether or not movements and rates is going to actually be the stimulus that we need.
+NEUT17|I think you're looking at policy, and that's going to be more of the tone that's going to come.
+BULL18|But yes, right now looking at the Fed Fund futures back behind here at CME, there's a 70% probability that's doubled since a couple of days ago when it was in the mid 30s.
+NEUT19|So one thing that surprises me about today, and it's different to August.
+BEAR20|So in August, equity markets got beaten up, but we saw yields going down in the bond market.
+NEUT21|That's not happening here.
+BULL22|Today yields are going up.
+NEUT23|Explain the difference?
+BULL24|Yeah, well, I think right now you're seeing that prices actually are going up right now in the bonds and.
+NEUT25|And here's why.
+NEUT26|I mean, obviously uncertainty.
+NEUT27|I think you're seeing some of the parts of the curve that are coming into question because we really don't know in the short term.
+NEUT28|How, how, how disruptive the global slowdown is right now the US service economy.
+BEAR29|If in the next couple of weeks we start to get a hint that that's under pressure, that's going to put more pressure in in the equity markets and it's going to put more pressure to the upside in the interest rate markets.
+NEUT30|As far as price, you're going to see yields come down, but I'm telling you right now, guy, right now, right now what we're seeing is a market.
+NEUT31|That's saying, I don't know if that kind of equity of that.
+NEUT32|"Yields are going to really be a matter."""

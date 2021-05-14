@@ -1,0 +1,26 @@
+NEUT0|"""Why is technical analysis best for Indian stock markets?"
+NEUT1|Getting daily profit is really hard from trading if you don't have any strategies.
+NEUT2|When we're doing long term investment, day-to-day fluctuations don't matter.
+NEUT3|Timing the entry and exit accurately is not easy for everyone.
+NEUT4|In such a case, technical charts on popular charting websites can be seen as your only friend, which can help you get nearly the best entry and exit points.
+NEUT5|NSE and BSE are the major national exchanges in India.
+NEUT6|You can trade in stocks by opening a demat or trading account with a deposit.
+NEUT7|Ori participant or stock broker.
+NEUT8|It is essential for any trader or investor to understand what is NSE and BSE in the share market.
+NEUT9|Google Finance Google Finance is a website focusing on business news and financial information hosted by Google.
+NEUT10|Google Finance was first launched by Google on March 21st, 2006.
+NEUT11|The service featured business and enterprise headlines for many corporations, including their financial decisions and major news events.
+NEUT12|Google Sheets Google Sheets can be used to automate data of stocks directly from Google Finance on a real time basis.
+NEUT13|Trading Tradingview is a place where stock charts are front and center tradingview combined.
+NEUT14|Stock and forex charts with a community of investors who share their trading ideas.
+NEUT15|This website is one of the most favorite websites among traders.
+NEUT16|The website is developed and controlled by Tradingview got incorporated.
+NEUT17|It is not an Indian website.
+NEUT18|The Tradingview consists of an entirely different section for the Indian market.
+NEUT19|You will also find the current situation of the global market in its home page.
+NEUT20|It really helps you to understand the real time situation of the market, which makes you a wise decision maker while trading.
+NEUT21|Investing Investing website is actually news based, so it has an edge over the other websites when it comes to equipping the viewer with what is happening in the market.
+NEUT22|Investing.com is a global financial portal and Internet brand composed of 33 additions in 24 languages and mobile apps for Android and iOS.
+NEUT23|Provide news, analysis, streaming quotes and charts, technical data and financial tools about the global financial.
+NEUT24|The Screener is the key feature of this website, and this makes it special among the retail traders with the help of easy programmable coding language, anyone can create his or her scan.
+NEUT25|"The scanner also works in the live market, 5 minute delayed and we can also use its feature for the end of the day scanning a huge list of scanners is present by default, which is freely available for use."""

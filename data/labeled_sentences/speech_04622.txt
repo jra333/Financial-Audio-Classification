@@ -1,0 +1,36 @@
+NEUT0|"""Keep Capitol police and their families in your prayers."
+BEAR1|That's the message on this Good Friday evening from the acting Chief after yet another one of her officers was killed outside the Capitol and another officer seriously hurt.
+BEAR2|Nothing official on injuries, but we're told that officer is in the hospital, listed in stable condition.
+NEUT3|Here's what police say happened around 1:00 o'clock this afternoon.
+BEAR4|Aman hit two officers with a car before crashing it into a security barricade.
+BEAR5|Police say the man then hopped out of the vehicle, wielding a knife.
+BEAR6|Officers gave him orders to stop, but they say he didn't respond.
+BEAR7|Instead, police say he lunged aggressively towards the officers and that's when they opened fire and shot.
+NEUT8|The suspect.
+BEAR9|Medics took him to a hospital, where he later died.
+BEAR10|Police say the attack happened at a checkpoint near Constitution Ave just North of the capital.
+BEAR11|Dozens of DC National Guard troops responded to the complex, which was then locked down for about 2 hours.
+NEUT12|Congress in recess right now, so lawmakers were not in the building.
+NEUT13|Coming up, you'll see the police procession carrying the body of William Billy Evans.
+NEUT14|The officer killed in today's attack, the Acting Capitol Police Chief says he had been on the force for 18 years.
+NEUT15|In a statement, President Biden wrote in part, we send our heartfelt condolences to Officer Evans family and everyone grieving his loss.
+BEAR16|We know what a difficult time this has been for the Capitol.
+NEUT17|Everyone who works there and those who protect it.
+BEAR18|At the White House, the American flag was lowered to half staff.
+NEUT19|The president ordered all flags on federal land to do the same to honor the officers.
+BEAR20|Today's attack comes less than three months after another capital officer died during the January 6th insurrection.
+NEUT21|NBC News justice correspondent Pete Williams with us now Pete.
+NEUT22|What do we know about this suspect and this investigation?
+NEUT23|Well, in terms of the investigation, I think one big question is what did caused the injuries of the officer who died.
+NEUT24|It's not entirely clear whether they were from being struck by a car or whether it was friendly fire.
+NEUT25|We just don't know.
+BEAR26|But law enforcement officials say the man who was driving the car was 25 year old Noah Green, who had been living in the Norfolk, VA area.
+NEUT27|Capitol police say he was not known to them that he was not in their files from making any threats in the past.
+NEUT28|A biography on the website of the college where he played football said he was born in West Virginia, but grew up in.
+BEAR29|In Virginia and on his Facebook page, and it'll a posting just a few weeks ago, he said he had recently lost his job, he wrote quote these past few years have been tough and these past few months have been tougher.
+BEAR30|And then he said, I've been tried with some of the biggest unimaginable tests in my life, but police say so far there's no sign this was a terrorist attack tonight.
+NEUT31|Investigators are going through Noah Green social media.
+NEUT32|They're talking to friends and family members.
+NEUT33|They're working to trace his movements in the hours and days leading up to the attack, and I think most notably, they're looking into clues that he was struggling with some mental health issues ship.
+NEUT34|Shepard Smith here.
+NEUT35|"Thanks for watching CNBC on YouTube."""

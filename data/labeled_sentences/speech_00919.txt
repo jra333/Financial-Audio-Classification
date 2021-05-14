@@ -1,0 +1,35 @@
+BULL0|"""Thank you William for joining us on a very important day for your company."
+NEUT1|Now I remember covering your first attempts at an IPO back in 2015.
+BEAR2|You ultimately signed a deal to sell the company that fell through over regulatory concerns.
+NEUT3|So Needless to say, it has been a long road to today, only to find a downsized deal at the end.
+NEUT4|So I'm curious, you know what is this next chapter look like for Visio and how would you characterize the process thus far of going public?
+BULL5|Yeah, first of all, I'm very excited to be here today, you know.
+NEUT6|I mean, I started the company back in 2002, was a second mortgage on my house, would concern you a long way in the last 1819 years we built a great company with great people and we we saw over 80 million devices and.
+NEUT7|Five years ago when we tried to go public, the company like he'll try to buy us and since then were being executed on aversion to innovate on TV, bring streaming the ready on to the TV also.
+NEUT8|Bring this no value to our TV, which were so well known for so, so excited to be here today.
+NEUT9|Can you give us a sense of what the future looks like for Visio an I want to ask you that question in the prism of who you believe your competitors are.
+NEUT10|On one hand, you do make the bulk of your money from selling actual TV, selling the hardware.
+NEUT11|So is it?
+NEUT12|You know Samsung, Sony or do you see your competitors as being, you know makers of ODT devices like Roku and Apple and Amazon.
+NEUT13|Google companies like that.
+NEUT14|Yeah.
+BULL15|Well I see I see all of us up competitors again.
+NEUT16|As an entrepreneur, you know I'm pretty paranoid.
+NEUT17|An in competing and that's why we're here.
+NEUT18|Set out to do and what competing with Sony.
+BULL19|Samsung great picture quality at the same time or competing with people at Roku, Amazon Fire.
+NEUT20|Great user interface so you can stream the ready on your TV so we see both the competitor.
+BEAR21|In your perspectives, you say that Covid generated a quote net positive impact on consumer demand for your products as people who were essentially stuck at home.
+BEAR22|They upgraded their TV's, but during the course of the year you faced inventory shortages.
+NEUT23|Supply chain issues are kind of at the forefront right now with regard to chip shortages and the like.
+NEUT24|Can you give us a sense of what the demand looks like right now and your ability to be able to meet that?
+NEUT25|Especially as we look at this ever changing world.
+NEUT26|Yes, uh COVID-19 may people staying at home and home entertainment became more critical than ever.
+BULL27|I'm so glad that worked as a TV company.
+BULL28|We can entertain people at home and that heavy demands is still very strong.
+NEUT29|And last year that the balance is one of the chart and currently TV still is.
+NEUT30|The great parlor again people are staying at home.
+NEUT31|We need to entertain them and the supply challenges being being tough.
+BULL32|But like the last for the last 18 years we had no a lot of tough situations where great company with great team of people and we work very closely with all of our supply chain partners to make sure we have enough inventory here in the US for the American consumer to entertain themselves at home.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

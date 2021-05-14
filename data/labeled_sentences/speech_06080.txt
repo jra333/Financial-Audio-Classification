@@ -1,0 +1,10 @@
+NEUT0|"""Welcome to the Farmers markets desk."
+NEUT1|I'm Steve Shafer.
+BULL2|After a strong start to the year for the US stock market with the S&P 500 up 4% for the month.
+NEUT3|February 1st brought the ADP private Sector Payrolls Report, which showed 170,000 jobs were added by private sector employers that comes ahead of Friday's report from the government that will show nonfarm payrolls, which are expected to deliver about 150,000 new jobs for the month that will bear watching.
+BEAR4|If some holiday workers that were brought on temporarily for the holiday season left the workforce during the month of January, Friday's report will also come with the market still working its way through earnings season after a hot start with big quarters from the likes of Apple and Caterpillar.
+BEAR5|Earnings season momentum has slowed down a bit with recent readings including Exxon Mobil's this week.
+BEAR6|Ford Motors last week and a number of others showing less than stellar growth versus some earlier in the season.
+NEUT7|Reports for Friday's nonfarm payrolls report.
+NEUT8|It's important to remember that the ADP figure this morning is not a perfect indicator.
+BEAR9|"Unlike the report coming Friday from the government, the ADP number does not include government jobs, which have declined of late as state and local governments cut budgets and the federal government also reduces spending."""

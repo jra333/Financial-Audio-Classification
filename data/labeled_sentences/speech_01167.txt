@@ -1,0 +1,33 @@
+NEUT0|"""Why trade forex?"
+NEUT1|There are lots of ways to invest your money.
+NEUT2|Lots of people buy stocks or bonds.
+NEUT3|Lyrics.
+NEUT4|The effects market has several advantages over the stock and bond markets.
+NEUT5|First off, in stocks and bonds, you sometimes have a bull market when everything or just about everything is going up.
+NEUT6|And of course you sometimes have a bear market when everything or just about everything is going down.
+NEUT7|It's pretty easy to make money in a bull market, but it's a lot harder for an individual trader to make money in a bear market when prices are falling day after day.
+NEUT8|In effects, though, there's never a bull market or a bear market, since each currency trade consists of buying one currency and selling another, the market never goes up or down as a whole.
+NEUT9|One currency going down naturally means another currency relative to that going up.
+NEUT10|All that matters is that you figure out whether the currency you're interested in is going up or is going down.
+NEUT11|Secondly, the effects market is by and large a level playing field.
+NEUT12|There are no mergers and acquisitions or insider trading to make the market move unexpectedly.
+NEUT13|Some banks that get a lot of orders do have more information about what's going on in the market than say the average individual, but over a longer time horizon.
+NEUT14|Economic and political fundamentals are what drive customer flows and everyone has equal access to information about those.
+NEUT15|Besides affects is the biggest market in the world.
+NEUT16|Some $5 trillion a day in trades.
+NEUT17|Nobody is big enough to control a market of that size for long.
+NEUT18|3rd the market trades 24 hours a day, five days a week.
+NEUT19|You can start trading at 9:00 AM on Monday morning in Wellington, New Zealand and turn off your computer at 5:00 PM on Friday in San Francisco, US.
+NEUT20|That is 124 hours straight of trading time.
+NEUT21|It's hard for someone with a job to trade stocks because the markets only open while they're at work, but you can trade effects anytime before work after work or even on your way to work.
+NEUT22|If you wake up in the middle of the night with a great idea, the market's waiting for you.
+NEUT23|Trading FX is cheap.
+NEUT24|Generally speaking, you trade directly with the market maker.
+NEUT25|There's no Commission, no brokerage fees or no stamp duty, and because the market is so big, the odds are you'll never be stuck in a trade.
+NEUT26|If you want to get out of a position, you can almost always find someone to buy or to sell with trades are executed within seconds.
+NEUT27|You can get started with a little money.
+NEUT28|In fact you can start with a demo account and no money at all.
+NEUT29|And practice trading risk free.
+NEUT30|And when you finally feel ready to challenge the market as little as $500 could get you started.
+NEUT31|$500 won't get you that far in stock or bond markets, but in the FX market where you can use leverage, you can control a substantial amount of funds with that amount of money.
+NEUT32|"That's the subject of our next video."""

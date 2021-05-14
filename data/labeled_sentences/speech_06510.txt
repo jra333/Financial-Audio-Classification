@@ -1,0 +1,16 @@
+NEUT0|"""Hello and welcome to today's setting analysis."
+NEUT1|It's Thursday, July 6th.
+NEUT2|I'm andrezieux currency isanexam.com today will be looking at gold on the daily chart.
+BEAR3|So gold has been in a downtrend since early June.
+BEAR4|The precious metal currently trades below their chin roll cloud while it hidden near 2 month low or 1217.33 in yesterday's trading.
+NEUT5|Their mark D. Is suggesting that the negative market biases in place?
+NEUT6|Specifically, the indicator is below 0 as well as below.
+NEUT7|Its red signal line.
+NEUT8|The Tenkan Sen Line, the Red Line crossing below the blue Kijun Sen Line in late June.
+BEAR9|Supports the negative short term signal given by the mcdee.
+BEAR10|If their price advances, a barrier to the upside might be formed by the 200 day moving average and 10 concern line current responding from 1233.13 to 1237.66.
+BEAR11|Further up, additional resistance could be provided by the 50 day moving average and cloudtop ranging from 1250.34 to 1252.05.
+BULL12|On the downside, yesterday's low of 1217.33 combined with the near 4 month low of 1214.17 from May 9 might offer support if this area is violated, the focus would shift to the area around the 1200 psychological level for additional support regarding the medium term picture it country looks neutral with significant sideways arranging.
+BEAR13|Since the start of the year, overall the short term outlook is bearish and the and the Medium Terrorism Hotel.
+NEUT14|That's it for today.
+BULL15|"Thank you for watching and have a great day."""

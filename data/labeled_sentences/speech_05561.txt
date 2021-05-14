@@ -1,0 +1,34 @@
+NEUT0|"""When I think about is something that we left off with last time, I unfortunately didn't get much time to be able to talk about it, which is this concept I really love."
+NEUT1|What you said is is that you can't secure what you can't identify.
+NEUT2|I mean, that's just that's their common sense, correct?
+NEUT3|Yeah, that's right, it it all starts there.
+NEUT4|It's you know it.
+NEUT5|It kind of sneaks up on you little bit.
+NEUT6|It's so obvious when you think about it, but we take a lot of identification today for granted and look in the physical world.
+NEUT7|We as humans, we've been designed to recognize people in the digital world.
+NEUT8|You don't have any of the same cues that we had in the physical world, so we're ultimately recreating in the digital world all the mechanisms to provide.
+NEUT9|And assurance that you're actually dealing with the person you think you're dealing with, and because of this it is a new problem.
+NEUT10|I thought it was very interesting.
+NEUT11|Most recent cops call people say, well, who are you replacing an you said you're really replacing technology.
+NEUT12|It's 1520 years old.
+NEUT13|It's not anything.
+NEUT14|It's not somebody's being ripped out that just got in a year ago.
+NEUT15|Yeah no, that's right.
+NEUT16|Enterprises have been doing identity based security for some time, but it wasn't the center of their security construct.
+NEUT17|We we've lived in a world of big Moats and even bigger walls, kind of the Castle philosophy of security put everything of value behind a wall and then somehow it's safe.
+NEUT18|Put the unknown bad actors on the outside, presumed that the good actors on there on the inside, and you know everything is great.
+NEUT19|But this world that we live in now doesn't respect.
+NEUT20|Those walls on those motes and everything of value is now outside, so we need a new security paradigm.
+NEUT21|We need one in which people can work from anywhere.
+NEUT22|We have a reality in it that the applications were accessing are are in the data center were still accessing mainframes.
+NEUT23|In large enterprises.
+NEUT24|We also have sass and cloud applications.
+NEUT25|On the other side, we just want to make it easy for end users to do their job.
+NEUT26|Authenticate once, get access to everything that you need access to.
+NEUT27|That's the new paradigm.
+NEUT28|And in that paradigm is all based upon.
+BULL29|Strong identity.
+NEUT30|Don't miss a second of mad money.
+NEUT31|Follow at Jim Cramer on Twitter.
+NEUT32|Have a question?
+NEUT33|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

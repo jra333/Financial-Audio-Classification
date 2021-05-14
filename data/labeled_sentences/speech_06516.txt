@@ -1,0 +1,23 @@
+NEUT0|"""Hello, welcome to today's technical analysis for February 7th, 2017."
+NEUT1|I'm Celina, Nicholas, technical analyst at exam.com.
+NEUT2|Today we'll look at the pound versus the US dollar on the daily chart.
+BEAR3|So Gbpusd has been experiencing some losses for a fourth day in a row, falling to more than two week low today.
+BEAR4|The RSI indicator is currently in bearish territory, except 47, indicating near term bearish sentiment.
+NEUT5|Note though that this level is close to the 50 neutral level.
+NEUT6|If the market closes above the 50 day moving average.
+BULL7|The area around 1.25 which managed to hole several times recently.
+NEUT8|Is likely to act as resistance to any upside moves.
+NEUT9|Should this level be reached.
+NEUT10|The February 2nd near 8 week.
+NEUT11|I've one point 2705 would come into view as another resistance level, and note that one point 27 could act as a is also psychological level only if prices break above the December 6 four month.
+NEUT12|Five one point 2774 we would be able to talk about it change.
+BULL13|In sentiment for the pair, Meanwhile, on the downside, a congested area around one point 2285 comes into view as immediate support.
+BEAR14|If it is challenged and fails to hold the area around 1.22 would likely offer additional support and then a further fall towards the mid January low of one point.
+NEUT15|1986 would also come into focus and this was a more than 30.
+BEAR16|Two year low.
+BEAR17|If we look at the medium term, the price since the latter part of January has been above the 50 day moving average, but significantly below the 200 day moving average.
+BEAR18|So it's setting a bearish medium term outlook.
+BEAR19|It should be noted, though, that should the price further drift away from this 200 day moving average, it could be an indication of an overextended sell off overall near term and medium term.
+NEUT20|Maintains a bearish price.
+BULL21|Thank you very much for watching.
+BULL22|"Have a great day."""

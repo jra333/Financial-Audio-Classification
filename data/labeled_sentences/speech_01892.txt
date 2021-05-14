@@ -1,0 +1,39 @@
+BULL0|"""Doctor, thank you."
+NEUT1|CDC today said vaccinated Americans can travel, but at the same time said we don't recommend it.
+NEUT2|That can be rather confusing.
+NEUT3|Is there a medical reason why vaccinated people should not travel?
+BULL4|Yeah, so good to be with you and I think it has to do with the fact that we still have people traveling from and two places where we're seeing double digit increases in cases.
+NEUT5|And even if you're vaccinated, you don't know who around you might be or might not be high risk and therefore that is a scenario set up, especially with these variants where people can get sick and unfortunately end up in a hospital and we're seeing younger people shipped in the hospitals, which is disturbing, but makes sense when you think about older people being vaccinated.
+NEUT6|And younger people still waiting to get their turn.
+NEUT7|So that's essentially why.
+NEUT8|But I do think the CDC.
+BULL9|Overall it's great news.
+BULL10|As you point out, it reinforces that once America is fully vaccinated, we're going to be able to safely resume more normal activities.
+NEUT11|And I think that will happen by the summer.
+NEUT12|Yeah, but TSA number.
+NEUT13|So we're traveling already.
+NEUT14|There's there's no method to check whether someone has been vaccinated.
+NEUT15|Do you believe vaccine passports or necessary?
+BULL16|I think we're going to.
+BULL17|So in short, yes, I think that how we get passports, and hopefully we can have some agreement that makes them easy, comprehensible in different languages, and is a very like 0 barrier chef and I believe in our private sector combined with public partners, we can do that.
+NEUT18|We need to have ways that people can demonstrate proof of vaccination, and we also need to remember at the same time we need to make it very easy for people to get vaccinated.
+NEUT19|That's going to be easy with supply and at the same time ship.
+NEUT20|I just want to reinforce that the tricky part around a requirement.
+NEUT21|Is that these are emergency authorizations Pfizer with their pivotal data will probably get to a full approval soon, but an emergency authorization is not necessarily full approval, so will definitely need proof of vaccination.
+NEUT22|But this time period is going to be a transition where vaccinations are the ticket to freedom, but that ticket is not the easiest one to get right now, right?
+NEUT23|That's for sure.
+BULL24|I I want to ask you a question about the Capitol Dr. You've treated Capitol police officers and their families, and it's my understanding that you saw a fairly dramatic increase.
+BEAR25|In PTSD cases following the January 6 attack, or are you concerned that today's events could make things even worse and lead to another spike?
+BULL26|Yeah, sure, thanks for asking.
+BEAR27|I'm I'm a DC person who practiced here for almost 15 years and those Capitol police in my younger days were the people that kept me safe and so it troubles me that in the last six months alone, and especially since the January 6 attacks.
+NEUT28|Not just PTSD, but they're coming into primary care offices with their families and their children with insomnia anxiety.
+BEAR29|Their children are having nightmares ship their wives and spouses are not feeling.
+NEUT30|Today seems made kind of the hairs on my arms.
+NEUT31|Stand out only because it just triggers for me.
+NEUT32|Those vivid kind of patient encounters.
+NEUT33|So my urgent plea to people building on what the general said is.
+NEUT34|Let's also make sure we added some community based counseling and interventions around mental health, not just for law enforcement, but for everyone who's been exposed to this violence on a repeated basis.
+NEUT35|Doctor, Doctor, Kavita Patel.
+BULL36|Thank you so much.
+NEUT37|Shepard Smith here.
+NEUT38|"Thanks for watching CNBC on YouTube."""

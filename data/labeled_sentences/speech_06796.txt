@@ -1,0 +1,29 @@
+NEUT0|"""Lift both, say lift, will profit from it."
+BULL1|Stupid Brandon comparison to its competitor, Uber lifts aggregation of multimodal offerings will drive and app stickiness, making lift a one stop shop for all transport needs.
+BULL2|Lifts position in the autonomous vehicle race could equalize gross and net revenue after no longer needing to pay drivers.
+BULL3|Bear, say, Ride sharing is still a relatively new industry, which leaves plenty of room for increasing regulations that could hurt lifts.
+BEAR4|Margins lift may lose on pricing power if competitors with larger markets use profits from its monopolistic regions to drive down prices in the US and Canada, the development of autonomous vehicles and especially Google's Waymo could eliminate the need for all existing rideshare platforms driving Uber and Lyft out of business.
+NEUT5|Analyst ratings by 68% hold 29% sell 3%.
+BULL6|Tesla Bull say Tesla has the potential to change the world with long range of technology.
+NEUT7|AV Technology and battery technology that can store solar energy that its products generate.
+BEAR8|The cost advantage of recharging over gasoline is significant and gas will probably never be able to catch up.
+NEUT9|Furthermore, the instant torque events makes them fun to drive as the vehicle is always a full power.
+NEUT10|Its unique Supercharger network makes Tesla the only automaker directly trying to alleviate the range anxiety of buying enough.
+NEUT11|There say investing in Tesla carries tremendous uncertainty.
+BEAR12|The market has high expectations for the stock, so a slowdown in growth, execution problems or lack of capital could lead to a severe decline in the stock price.
+BEAR13|The acquisition of Solar City and Elon Musk's recent erratic behavior adds uncertainty.
+NEUT14|The stock has massive key man risk mass at adoption by consumers could be many more years away than Tesla expects.
+BEAR15|If demand does not materialize, the company is likely to struggle to recoup the costs of the Gigafactory.
+NEUT16|Audi, BMW, Mercedes and others are no longer ignoring Beves.
+NEUT17|Analyst ratings by 28% hold 28% sell 44%.
+BULL18|Netflix Bull say Netflix is internal recommendation software and large subscriber base give the company an edge when deciding which content to acquire in future years.
+BULL19|International expansion offers attractive markets for adding subscribers.
+BULL20|Netflix has built a substantial content library that will benefit the firm over the long term.
+BEAR21|There say the firm continues to burn billions of dollars of cash to create its original content with no end insight, the need for increased content and marketing spend outside of the US will limit the rate of margin expansion for the International segment.
+BULL22|The level of competition in the US and internationally is increasing and will continue to do so over the near future.
+NEUT23|Disney launched its own branded SVOD service in the second half of 2019.
+NEUT24|Ratings by 62% hold.
+NEUT25|26% so 12%.
+NEUT26|As always, be sure to let me know your thoughts down in the comments.
+NEUT27|Be sure to smash that like button.
+BULL28|"Thank you so much for tuning in and I will catch you in the next video."""

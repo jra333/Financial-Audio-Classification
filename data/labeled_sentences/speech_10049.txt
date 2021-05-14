@@ -1,0 +1,24 @@
+NEUT0|"""Hey everybody, this is Jordan Collier with the storybook Wealth Builder channel and today I want to do a Part 2 video on how to use the Yahoo Finance app."
+NEUT1|Setting price alerts now the whole idea was setting price alerts is so you don't have to keep going back into the app to see what the prices of a particular company it will just simply notify you on your mobile device.
+NEUT2|So let's go to the search bar.
+NEUT3|Let's look at a company like Apple $131.96.
+NEUT4|Perhaps you want to buy a share at $130.
+NEUT5|In the top right hand corner beside the start the Bell and that upward facing Arrow hit the Bell which will activate a price alert prompt.
+NEUT6|There you can enter in your preferred price target.
+NEUT7|Let's create that.
+NEUT8|And will exit out.
+NEUT9|Head back to home.
+NEUT10|And then from there in the bottom right hand corner hit notifications.
+NEUT11|There in the top right hand corner you'll hit the belt again, which will activate that price alert prompt.
+NEUT12|There you can see Apple at your target price.
+NEUT13|You can also add in other companies from the prompt with the plus icon.
+NEUT14|Let's go transalta.
+NEUT15|And will set that at 20 create.
+NEUT16|You can also delete by swiping across the screen.
+NEUT17|We can delete that.
+NEUT18|Now important note is that once you exit out of that beside the Bell icon in the top right hand corner, there is the gear icon for settings.
+NEUT19|Just make sure your push notifications are activated so that when a company hits a particular price target, you will be notified.
+NEUT20|Anyways, that's pretty straightforward.
+NEUT21|In the Yahoo Finance app.
+NEUT22|Make sure you do the cliche thing and super smash all the buttons of the like and subscribe variety.
+NEUT23|"Make your opinions known in the comments below and we'll see you all next time."""

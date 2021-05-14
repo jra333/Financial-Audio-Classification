@@ -1,0 +1,31 @@
+BULL0|"""Thank you, Sarah."
+NEUT1|Let's bring in Pasqualie Romano.
+NEUT2|He is the CEO of Chargepoint, joining us from the company's headquarters in Campbell, CA.
+NEUT3|Pasquali.
+NEUT4|Let's talk about the SPAC IPO that you guys announced today.
+NEUT5|You're going to be combining with Switch Back Energy acquisition, a deal valued at 2.4 billion.
+BULL6|You're going to get what basically almost $500 million in revenue to fund your expansion.
+NEUT7|Why now?
+NEUT8|Why do you believe this is the right time for your company to go public through a spec?
+NEUT9|Well, we've been trying when to exactly take the company public.
+NEUT10|We've always had goals to do that and right now with the market for electric vehicles being now starting to establish and climb that that hockey stick in consumer acceptance, it's just the right time to add the capital to the company to really fuel our growth were 13 years old.
+NEUT11|We've been in the market for 10 years.
+NEUT12|Selling product we've amassed 4000 business customers in that in that time frame and climbing quickly and so for us we had a lot of optionality on the timing.
+BULL13|But given the given the recent I think awakening in the Investor investment community that this trend is here to stay, it was good timing for us.
+NEUT14|Yeah, at the same time pasqualie, let's be honest, you guys are not yet profitable.
+BULL15|Yes, you had basically $147 million in revenue last year, and I know you're projecting to be profitable a couple of years down the road from here.
+NEUT16|But by my count, your at least the 6th EV related spec that's been announced since May.
+NEUT17|And when I talk with people in the auto industry, people who deal with the EV industry, almost everybody says the same thing.
+BEAR18|Some of these specs are going to blow up in the face of investors.
+NEUT19|How do you counter that story that?
+NEUT20|Line out there that these are not all companies and some people would say that about Chargepoint that should go public right now.
+NEUT21|Well, I mean, we're very different.
+NEUT22|This is an established company.
+BULL23|It's had a 10 year track record of shipping product supporting customers.
+BULL24|We are in revenue.
+NEUT25|We do not have the risks of a pre revenue company and more importantly we're an index for the electrification of transportation.
+NEUT26|Because, as all of the existing automakers and the new automakers begin to transition to electric vehicles, that all drives demand for us so.
+NEUT27|We are broadly attached to the acceptance of EVs.
+BULL28|We have very good predictability based on our 10 year track record, we see our revenue directly proportional to the acceptance of EV's.
+BULL29|So we think that from a an achievement of our financial goals perspective we have.
+NEUT30|"You know, we have the maturity and the predictability to be able to do that, and it's very different for us."""

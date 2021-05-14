@@ -1,0 +1,20 @@
+NEUT0|"""Jim, we haven't mentioned the Treasury Secretary's $916 billion proposal from last night."
+NEUT1|Yes, I spoke to him this morning and I think it's got something interesting that people should listen to.
+NEUT2|$600 per child.
+NEUT3|$600 per adult.
+NEUT4|$2400 checks right to you per family for for an I think that this is something you're going to hear about and people are going to say wait a second.
+NEUT5|How can we not do this?
+BEAR6|How can we not give the country a holiday present when we are so beaten down and so many people are out of work?
+NEUT7|Is it the right unemployment figures for the Democrats know?
+NEUT8|But I keep in mind a check from the government is something that a lot of people may like, and I think there could be a little bit more of a groundswell over this proposal than others, and I think that's very, very significant and should not be ignored.
+NEUT9|$600 per child per adult.
+NEUT10|People want it.
+NEUT11|They want to barely.
+NEUT12|Yeah, it does seem like we're zeroing in on direct payments as opposed to state and local or liability insurance.
+NEUT13|Is that a fair trade?
+NEUT14|Yes, that's very true, but I think people should know is that this could be money in their pockets, and I know that there are a lot of issues.
+NEUT15|I know that the great though is the enemy of the good.
+NEUT16|I think most people in America say it's good to get a paycheck from the get a an additional check from the government to augment their paycheck, or if they've lost their paycheck for no reason whatsoever.
+BEAR17|'cause it is darn pandemic.
+NEUT18|Shepard Smith here.
+NEUT19|"Thanks for watching CNBC on YouTube."""

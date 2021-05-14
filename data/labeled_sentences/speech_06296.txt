@@ -1,0 +1,8 @@
+NEUT0|"""Welcome to the FT market minute."
+NEUT1|Here's what we're watching in London on a lovely Friday morning.
+BULL2|2 words risk on stock markets in Asia and Europe or advancing Treasury yields and nudging higher and gold is getting smacked.
+NEUT3|Why the optimism?
+BULL4|Well, Wall Street hit new highs overnight and futures are again firmer after President Donald Trump said he had a phenomenal tax plan on the way investors needed to hear this Wall Street had restored in recent weeks and worries that the White House had yet to address its muted fiscal boost.
+BEAR5|We still have no details, but just the hope that something is on its way seems to have reignited the Trump trade, and adding to the chipper mood is Mr. Trump's phone call with this Chinese counterpart in which he accepted the one China policy.
+BULL6|Some investors fears spat with China on this issue, and so regardless of 1's view, the site of a more pragmatic diplomatic approach is being welcomed by markets.
+BULL7|"And Speaking of China, the trade data pointed to a healthier economy than expected Bulls of growth focus assets are having a Good Friday."""

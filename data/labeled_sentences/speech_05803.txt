@@ -1,0 +1,18 @@
+NEUT0|"""If you have less than a few $1000 to invest, most of the options out there don't make a lot of sense."
+NEUT1|Well, first of all, you wouldn't be able to even open an account with a lot of major brokerages out there.
+NEUT2|But say you found one that had relatively low count minimum as far as brokerages go, which is like $500 or maybe $1000, and you're paying between 7:00 and $10.
+NEUT3|Every time you make a trade, you buy some stock for $100 and you sell it.
+NEUT4|You've already spent like 20% of the value of it on commissions, and so it's just like how are you going to make 20% return to pay for what you paid your broker to do this in the 1st place?
+NEUT5|Average customer is about 26 years old and we know that a lot of these people are using Robin Hood for the first time.
+NEUT6|So first investing account.
+NEUT7|My co-founder Vlad and I were working.
+NEUT8|We were building a technology startup in New York and financial services and a lot of the events actually around the Occupy Wall Street movement really made us.
+NEUT9|I want to do something that we thought was more positive and forward looking with with ourselves and so the objective was always to build a product that allowed consumers that previously didn't have access to a service like the stock market to get access.
+NEUT10|The cash that you have sitting in your account when the markets are closed, we invest that in money market funds collect interest on it, so more like a bank.
+NEUT11|We also make money off of some premium services like margin lending.
+NEUT12|So if you want to trade on a line of credit then we can extend a lot of credit.
+NEUT13|You for for trade with.
+NEUT14|Commissions are sort of the most expensive touchpoint for the customers that really don't have a lot of money.
+NEUT15|We thought that was an important service to provide in the marketplace is to give people that don't have a lot of money.
+NEUT16|The ability to get started so that as they mature through their life and their financial situations become more complicated that they've got some experience and they've got.
+BULL17|"Is that the new that they've been able to grow with?"""

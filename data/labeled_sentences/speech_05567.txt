@@ -1,0 +1,33 @@
+NEUT0|"""Highfalls my name is Jim Mueller."
+NEUT1|I'm an analyst with the newsletter Stock Advisor here at The Motley Fool, and I'm here to answer a question asked on one of our stock advisor discussion boards in our Ask a full series.
+NEUT2|The question is, I have some money which I'll need to use in eight to 14 months.
+NEUT3|The standard advice, for instance from Vanguard, is to put all of this into a money market fund immediately, but those pay really low rates.
+NEUT4|I know this is the safest thing to do, but I'm curious what would a fool do?
+NEUT5|Well, the answer is it's the standard advice because it is the safest thing to do and it's what we advise here.
+NEUT6|At The Motley Fool.
+NEUT7|If you need the funds within three to five years, let alone 14 months or less, why would you put it at a risk of loss?
+NEUT8|I mean, think about it.
+NEUT9|You've got some big purchase plan, maybe going to Europe with your wife next summer.
+NEUT10|You want a bit of extra spending money, so you put it in a couple of safe boring stocks.
+NEUT11|Maybe like Johnson and Johnson, or Coca-Cola, then a month before you need the money, the market decides the world is going down the tubes.
+NEUT12|They sell is contaminated.
+BEAR13|I just made that up and Coke announced announces that its CEO and CFO have suddenly resigned for family reasons and both its earnings and revenues will badly miss estimates.
+NEUT14|I just made that up too.
+BULL15|Thanks to this news.
+BEAR16|Anna general doldrums in the market, you've lost 30% of that money.
+NEUT17|No European trip.
+NEUT18|Furious wife, you really want to risk that or worse now this scenario may seem far fetched, but the point is that money needed in a short time frame should never be invested in the stock market.
+BEAR19|Because during that short time you could lose a significant chunk.
+NEUT20|Remember the winter of 2008, 2009?
+NEUT21|Well, if today were in the middle of June and but it was in 2007 and you needed the funds around Christmas time, 2008 January 2918.
+BEAR22|Nineteen months later, the S&P 500 fell about 44%.
+NEUT23|Between those two time periods.
+BEAR24|Granted, Koken Janjay didn't lose as much between those two dates, but other big and safe companies saw their shares fall.
+BEAR25|Pfizer, for instance, fell about 27% and another safe bet Apple fell 34%, and I sure hope you wouldn't have picked Google because it shares fell 42%.
+NEUT26|In those 18 months.
+NEUT27|Think something like that can happen going forward from today.
+NEUT28|Think again.
+NEUT29|Bottom line, don't invest with money you need in the short term.
+NEUT30|Anything less than three to five years.
+NEUT31|Sure you get a pittance by investing in a money market fund or CD, but the upside is you have the money you need when you need it.
+NEUT32|"I'm Jim Mueller and that's ask a fool."""

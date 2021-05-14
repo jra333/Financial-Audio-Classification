@@ -1,0 +1,23 @@
+BULL0|"""What a difference a decade makes."
+BEAR1|10 years ago in March 2009, the equity markets hit bottom after the financial panic that was triggered in September of 2008 by the very messy bankruptcy of Lehman Brothers and the bailout of AIG.
+BULL2|The low point for the S&P 500 was 676 and 10 years later, the market has risen some 300% and climbing.
+NEUT3|Similarly for the Dow Jones industrial average, the low point was 6547 and a decade later, the Dow is in the 25,000 to 26,000 range.
+BULL4|It's been a very durable equity bull market.
+NEUT5|Part of the reason for the durability was the extent of the sell off and depth of the recession.
+NEUT6|Starting points matter and this bull market commenced from a very low point indeed.
+NEUT7|After a decade, though, many analysts thoughts have turned to win.
+BEAR8|The bull market might end.
+NEUT9|Our perspective is that bull markets and economic expansions for that matter, bull markets do not die of old age.
+NEUT10|They often, in due to the unintended consequences of well intentioned policy's.
+NEUT11|A common cause for the end of bull markets comes about a year or two after the Federal Reserve raises rates high enough to flatten the yield curve.
+NEUT12|That's what happened in 2018 and 2019.
+BEAR13|It's been a tough year for equities this time around.
+BEAR14|There's a compounding factor, namely the US initiated trade war, with the imposition of penalty tariffs.
+NEUT15|The goal was to use tariffs as a stick to get to a world of freer trade and lower tariffs.
+BEAR16|Unfortunately, the subsequent *** for tat tariff battle is hit.
+BEAR17|Both China and the US with their economies and markets not doing well and much worse than was anticipated by either side.
+BEAR18|The unintended impact is come from the uncertainty the tariffs have caused and the resulting loss of business confidence and delaying of investment plans are these two forces likely to end the bull market well.
+BEAR19|They have certainly stalled and bull market equity markets are already seeing evidence of a slower growing economy and much lower corporate earnings growth.
+BULL20|However, the Fed is already halted, its program of rising rates, and if we see any relief on the tariff front, that might be enough to Dodge the bullets that have already been fired.
+NEUT21|Time will tell if the bull market can get going again.
+NEUT22|"I'm Blue Putnam chief economist, CME Group."""

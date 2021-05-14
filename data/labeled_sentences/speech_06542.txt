@@ -1,0 +1,14 @@
+NEUT0|"""Hello everyone is Tuesday September 10th and you are looking at the technical analysis video or European market here at exam.com."
+BULL1|So having a look at the daily chart that we have detected some discouraging trend signals here as the market completed last week's trading under these upward support line, the 50 day moving average and slightly below ichimoku cloud, other 50% Fibonacci of the applet from oh point 8472 point 9323 managed once again to stop downside corrections on Monday.
+BULL2|And although this stochastic seemed to be turning higher to leave the oversold area, the RSI and the Magdi which continue to move in the bearish territory have yet to show any improvement.
+BEAR3|So the odds for a meaningful upside reversal in the price are currently looking weak and the negative sentiment could turn even stronger if we close decisively below the 50% Fibonacci of all point 8819, which case the 200 day moving average currently at 8833 and the 61.8%.
+NEUT4|Owner of four Point 8797 could stop their bearish action.
+BEAR5|Are breaking lower the positive medium term picture.
+BEAR6|I would turn neutral and support could run down somewhere between oh point 8654 and the OH point 6086 level.
+NEUT7|On the upside.
+BEAR8|Now with the pair proves oversold and the price rebound.
+NEUT9|So the 38.2% Fibonacci point 90 and the 2050 day moving average is currently around 1965 could provide.
+BEAR10|Immediate resistance while above the rich McLeod and the 23.6% Fibo Nachi of Oh Point 9123 there's another block between Oh Point 9182 and oh point 9250, and unless the price clears that while the prize me likely postpone their retest of the 10 year high of oh point 9323.
+NEUT11|So that's all from me.
+NEUT12|Thank you for watching.
+BULL13|"Have a great day."""

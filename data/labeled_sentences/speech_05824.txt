@@ -1,0 +1,30 @@
+BEAR0|"""Royal Bank of Scotland has reported its eighth consecutive annual loss offer to taking a 6.5 billion hit from litigation and restructuring costs, dealing another blow to government plans to sell off the state."
+NEUT1|Backed lender.
+BEAR2|Shares in RBS were down 8% on Friday morning and I'm joined by Emma Dunkley, our retail banking correspondent to discuss the results.
+BEAR3|So Emma, what has caused investors to be so disappointed this morning?
+BEAR4|Well, investors were clearly disgruntled by the fact that the state backed bank has.
+BULL5|Posted yet another consecutive.
+BEAR6|Net annual loss, which takes its cumulative loss to more than £50 billion since the financial crisis, which is massive.
+BEAR7|Part of this was driven by the fact it took a huge charge and provision for upcoming litigation provisions and also for the ongoing debacle that is the misspelling of payment protection insurance.
+BEAR8|They also saw quite weak revenues.
+BEAR9|There was a 15% dip compared to the previous year, taking it to about £13 billion.
+NEUT10|And this is happening as the bank continues to restructure, shrink its investment banking division, ultimately to focus on the you take UK retail and Commercial Bank.
+BEAR11|It's a huge restructuring story, but a lot of the big provisions and losses had been already been announced last month by the bank.
+BEAR12|And what seems to have disappointed some investors this morning is revised guidance on dividends.
+NEUT13|The crucial issue of when will the bank restart dividend payments?
+NEUT14|But what they said there indeed?
+NEUT15|So investors are quite excited.
+BULL16|Last year, when the bank revealed it, strengthening capital buffers, which after a certain point is used to payout dividends.
+NEUT17|So a lot of analysts investors were expecting dividend payments from next year, and indeed the bank suggested that it could start repaying dividends or excess capital through share buybacks from next year.
+NEUT18|However, today they said definitively that it will not be happening before Q1 of next year.
+BULL19|For pushing it back, which is clearly disappointed, a lot of investors and actually 66 juxtapose to Lloyds Banking Group, who yesterday revealed actually quite strong results and unveiled a bumper £2 billion dividend payout, which even included a special dividend in a boon to investors.
+NEUT20|What does this mean for the government which still owes some 75 odd percent of Royal Bank of Scotland and their hopes of selling down that's take over the course of the next couple of years.
+BEAR21|It certainly is a blow to the government.
+BEAR22|The fact that share prices have fallen so substantially today in itself is an issue, because obviously the government doesn't want to sell its remaining 73% stake in the bank at a loss.
+BEAR23|It in fact began the UK's biggest error.
+BEAR24|Privatisation last year offloading a 5% stake and this in Curd a 1.1 billion loss to taxpayers which did not please the masses, shall we say.
+BEAR25|So this is definitely another blow to the government and perhaps delays a further stake sale in RBS.
+BULL26|And of course, the contrast will grow now with Lloyds, which saw a big jump in its shares this week.
+NEUT27|After reporting, you know, a big dividend payout.
+BEAR28|The contrast between Lloyds and RBS remains stock.
+BULL29|"OK, Emma, thank you very much."""

@@ -1,0 +1,6 @@
+NEUT0|"""Now there are two scenarios I can envision."
+BULL1|The stock market has a correction now say 20% or so, and then we move up again.
+NEUT2|Whether we make new highs or not is a different story, or we go up by 30% and then we collapse by 40%.
+NEUT3|So I think in either case I don't believe that it's a good time to buy stocks at the present time.
+NEUT4|My advice to retirees is the diversified.
+BEAR5|"Near term, I think the market may very well go down starting next week."""

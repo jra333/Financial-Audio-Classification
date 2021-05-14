@@ -1,0 +1,26 @@
+NEUT0|"""Neo stock analysis and predictions, October 30th."
+NEUT1|In today's NEO stock analysis and predictions, Neo's next stop is $142.
+NEUT2|Alright, let's get started.
+NEUT3|An IO limited.
+NEUT4|NIO has traded at a range of $1.36 to $31.99 in one year.
+BULL5|The stock is at $31.95, up 33.87%.
+NEUT6|To see whether the stock short term total has a thrust, it's good to check stocks.
+BULL7|Current movement over the last week, NIO shares were in a consolidation phase at $25.00 to $27.00, which is a month.
+BULL8|Amount drift of 2.94%, analyst estimates Morgan Stanley recently initiated with Price target rating of $33 dollars with a growth expectancy of 57.39% in the upcoming months.
+BULL9|Moreover, Morgan Stanley also upgraded Neo stock to overweight, boosting its end of the year price to $50 to $70.00 notwithstanding any external influences.
+NEUT10|Right now, the middling Wall Street analyst 12 month amount Mark is $142.73.
+NEUT11|According to the average price forecast.
+BULL12|Investors can expect a potential return of 87.05%.
+NEUT13|Fundamental analysis.
+BULL14|NIO recently conveyed quarterly sales of 524.65 billion, which embodies the growth of 156.50%.
+NEUT15|Neo's gross margin is currently plus 3.40%.
+BULL16|Its operating margin is up 81%.
+NEUT17|Its pretax margin is plus 14.43%, and its Net margin is plus 12.86%.
+NEUT18|Looking at Sustainability, Neo's return on assets equity.
+NEUT19|Whole principle and finance principle is plus 48.28% + 3212.71% + 111.15% and plus 201.78%.
+NEUT20|Correspondingly, that's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT21|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT22|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL23|We'd really appreciate it.
+NEUT24|Are you still watching and want more?
+NEUT25|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

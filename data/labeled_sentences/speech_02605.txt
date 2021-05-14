@@ -1,0 +1,32 @@
+NEUT0|"""Economics and finance are not the same thing."
+NEUT1|They're related, but they are distinct.
+NEUT2|I think some of our economic problems in financial troubles begin when we get the two mixed up.
+NEUT3|So let me clarify the difference in economics, we asked two questions.
+NEUT4|Is this profitable and how can I make it even more profitable?
+NEUT5|Let's say that there's $100,000 investment that will produce a $200,000 return by the end of the year.
+NEUT6|Economically, we'd say hotdog.
+NEUT7|How do I make this happen?
+NEUT8|We might also ask how can I make it even more profitable?
+NEUT9|Economics is really the question of should I do this?
+NEUT10|Finance is the question, can I do it?
+NEUT11|Where am I going to come up with $100,000?
+NEUT12|Can I get the startup capital?
+NEUT13|Well, let's say that I get the startup capital and all that profit happens at the end of the year.
+NEUT14|How will I pay my bills in the meantime?
+NEUT15|How does the cash flow?
+NEUT16|That's another financial question.
+NEUT17|Of course, there's one more issue when it comes to money taxes.
+NEUT18|What are the tax consequences of our enterprise?
+NEUT19|What order do you think these things should come in?
+NEUT20|What order do you think most people put them in?
+NEUT21|A lot of people put tax avoidance, first, finance 2nd and economics third, if at all.
+NEUT22|But economics must come first.
+NEUT23|It's just common sense.
+NEUT24|Let's say we invest $100,000 and lose it all.
+NEUT25|Do we want to find the startup capital to make that happen?
+NEUT26|Of course not.
+NEUT27|We think income tax problems are good problems to have zero.
+NEUT28|It's economics, first finance 2nd and taxes.
+NEUT29|Third.
+NEUT30|That's the order you're going to put these in.
+NEUT31|"If you're ranching for profit."""

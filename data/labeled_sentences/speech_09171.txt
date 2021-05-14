@@ -1,0 +1,9 @@
+NEUT0|"""When people ask, well, So what do you think is happening with Bitcoin?"
+NEUT1|I say, well, you know, one Bitcoin is still one Bitcoin.
+NEUT2|It always has been always will be there only 21 million of AM, and you probably should get one and as opposed to thinking, comparing it against the Fiat currency.
+NEUT3|Because I look at currencies and I say, well, there's Bitcoin and they say, well, that's very volatile and I say no.
+BEAR4|All the other currencies are very volatile against Bitcoin.
+NEUT5|Because they know that this is really transforming the world an and so these currencies that are tide to political forces or.
+NEUT6|You know dictatorships or or even the dollar, which really does have political influence and and and is has to be has to be.
+NEUT7|The monetary policy has to be so precise to get it just right.
+NEUT8|"Why bother?"""

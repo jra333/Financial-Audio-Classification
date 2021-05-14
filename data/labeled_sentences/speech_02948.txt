@@ -1,0 +1,35 @@
+NEUT0|"""Facebook responding saying we're reviewing the complaints and will have more to say soon."
+NEUT1|Years after the FTC cleared our acquisitions, the government now wants a do over with no regard for the impact that President would have on the broader business community or the people who choose our product every day.
+BEAR2|Of course, there could be big implications here if Facebook is forced to sell off either WhatsApp or Instagram, which are the two big acquisitions which are in focus Sarah back over to you.
+NEUT3|Julia borsten Julia.
+NEUT4|Thank you.
+NEUT5|Let's get to Illinois now with more background on these antitrust lawsuits.
+BEAR6|Elon sounds like it was worse for Facebook then it was expected to be.
+NEUT7|Well, there are.
+BEAR8|There are two lawsuits being filed against Facebook.
+NEUT9|They are coordinated, coordinated, but they will be separate.
+BEAR10|But they both essentially accused Facebook of the same thing and that is a buying up its smaller rivals rather than competing with them and cutting off access to third party developers that they view as a threat.
+NEUT11|Now as a result, the state say that consumers get locked into the platform and then the company is able to milk their data.
+NEUT12|And we will not allow any company to think that they are too big to fail and that is why 46 attorney generals across this nation have filed this action and we will continue to take action against any company that engages in these predatory actions.
+NEUT13|Now, as Julia now is, Julia did allude to some of the recourses that the states are seeking from the courts, could include divesting assets such as WhatsApp and such as Instagram.
+BEAR14|They also want Facebook to get approval for any future mergers or acquisitions, and the states have set the threshold as low as $10 million.
+NEUT15|Now, 48 attorneys general, including some territories, have joined in this lawsuit from the states.
+NEUT16|Both parties are represented.
+NEUT17|The vote by the FTC to move forward was three to two guys.
+NEUT18|Interestingly, the two Democrats on the Commission joined with the chairman to vote for suing Facebook.
+NEUT19|The two Republicans voted against it back over to you.
+NEUT20|That it is an interesting breakdown.
+NEUT21|I was just going to ask as a follow Elon.
+NEUT22|What how a new administration would affect all of this, especially the the demand from prosecutors at the FTC to dye vest, Instagram and WhatsApp, which is a huge deal.
+NEUT23|Two huge.
+NEUT24|Well this is going to eventually be right.
+NEUT25|This is this eventually would be decided by the courts.
+NEUT26|I mean, that's why they filed a lawsuit and it would be up to the court to decide what exactly the remedy would be.
+NEUT27|There is a possibility that down the road the court could even combine these two cases into one case if they are similar enough, and if all parties agree to that, just sort of streamline the arguments going forward.
+NEUT28|But I think that what you're seeing is there is a broad agreement here that Facebook overstep the boundaries.
+NEUT29|That's coming from regulators of both parties, and so I think a new administration coming in.
+BEAR30|We've seen bipartisan backlash against Big Tech in Washington.
+NEUT31|This is one more example of that today.
+BULL32|11 Thanks so much for that much appreciated.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,20 @@
+NEUT0|"""Hello, welcome to today's technical analysis for August 17th, 2017."
+NEUT1|I'm referred by John Currency analyst at xm.com.
+NEUT2|Today we will look at the pound versus the US dollar on the four hour chart.
+BEAR3|Gbpusd has significantly moved away from its ten month highs, hit early in the month as it continues its downslide.
+BULL4|It is now attempting to reclaim the 1.19 level, having bounced back somewhat after finding support at the 61.8% Fibonacci retracement level of the upper leg from one point 2588, two one point 3266 between June and August.
+BEAR5|Technical indicators continue to remain in bearish territory.
+BEAR6|The RSI is trending down again after failing to break.
+BULL7|Above the 50 neutral level, while the Mckeddie remains well below 0, though it has now climbed above its red signal line, suggesting anything of the bearish bias in the near term, should we see an upside move, we have strong resistance coming from the one point 2908 level which acted as resistance both yesterday and today.
+NEUT8|Above that, we have the 50% fibo Nachi level at around one point 2925 and then that would open the way towards the 50 moving.
+NEUT9|50.
+NEUT10|Moving average at County at one point 2967, and then we would have the key level of 1.30.
+NEUT11|This is a very important resistance level as it has previously acted.
+NEUT12|Resistance in the past.
+BEAR13|It's also the 38.2% people national level and is also where the 200 moving average is currently converging to the downside.
+BULL14|Support should come again from the 61.8% people in actual level.
+NEUT15|I run with the one point 2845 level and below that we have the July low one point 2810 that would lead the way towards a drop below that would lead the way towards the one point 2730 area which is the 78.6% fibo Nachi level and then below that we would see we could see fresh move towards the 1.26 handle.
+NEUT16|If we don't see the pair moving about 50 day moving average.
+BULL17|The near term bias is unlikely to shift to positive one.
+NEUT18|That's it for me.
+BULL19|"Thank you very much for watching and have a great day."""

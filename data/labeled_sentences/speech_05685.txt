@@ -1,0 +1,17 @@
+BEAR0|"""Yeah, commodities got hit across the board today."
+NEUT1|St Everyone wants to know your prediction for the 10 year yield.
+BEAR2|Do you expect rates to continue to rise here and for that to derail some of what we've seen in terms of the stock market gains?
+NEUT3|Yes and yes.
+NEUT4|Sarah, I switched my view on bond yields on January 5th after having been a bond bull for four years, saying that the Georgia Senate election results essentially meant all branches of government could be in Democratic hands.
+BEAR5|The deficit would get out of control and the yields would go up at that time.
+NEUT6|I was looking for 150 years.
+NEUT7|My target that has come and gone.
+NEUT8|I made 175 my target.
+BULL9|We exceeded that during the day.
+NEUT10|Today I'm looking at 2% and the major reason for looking for yields to rise.
+NEUT11|Sarah is the fact that you have a $3 trillion infrastructure program which President Biden will outline in Pittsburgh tomorrow and there is not going to be enough of tax increases to finance it.
+BEAR12|You and Wills had a great discussion with Mark shot in the past hour, and I believe that the Republicans are not going to support it, which in turn means the deficit will increase.
+BULL13|The borrowing will increase and that is going to get reflected in the evening.
+BULL14|And that is a major reason for looking for yields to rise even further than they have so far.
+NEUT15|Shepard Smith here.
+NEUT16|"Thanks for watching CNBC on YouTube."""

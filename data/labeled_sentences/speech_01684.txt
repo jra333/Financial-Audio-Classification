@@ -1,0 +1,23 @@
+BEAR0|"""I'm oh, I'm sorry."
+NEUT1|That they won't allow you to see.
+NEUT2|What we saw.
+NEUT3|I'm not sure there are words in English to describe.
+NEUT4|If you talk to the border.
+NEUT5|Patrol agents, those women and men will tell you.
+NEUT6|Then what President Biden is doing?
+NEUT7|Is bone deep down to the marrow stupid?
+NEUT8|They want to go back.
+NEUT9|To the border practices and the border security.
+NEUT10|That existed on the day that President Biden was inaugurated.
+NEUT11|Now President Biden and.
+NEUT12|Vice President Paris need to come down here?
+NEUT13|I don't mean any disrespect and I'm not.
+NEUT14|Trying to tell him how to do their jobs, but they need to come down here.
+NEUT15|Because it became clear to me.
+NEUT16|Today that there are one or two things going on here.
+NEUT17|Either President Biden believes in open borders.
+NEUT18|You do, after all, we have to watch what politicians do, not what they say.
+NEUT19|Or the people that President Biden is put in charge to make border security policy.
+NEUT20|Are not qualified to manage a food truck.
+BULL21|Thanks very much.
+NEUT22|"Coach Tommy Tuberville from state."""

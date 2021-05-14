@@ -1,0 +1,13 @@
+BULL0|"""Hi and welcome to the channel."
+NEUT1|In today's video, we're going to be going over needle and how the stock perform today and where we're headed going forward.
+NEUT2|If you want to keep up to date with our post, make sure to hit the subscribe button as we post daily.
+NEUT3|Now onto the video.
+BULL4|Shares of the Chinese electric car company Neil were trading higher today as the company came out and said that the growth of the company will not be affected by the shortage of automotive.
+NEUT5|Semiconductor components.
+BEAR6|Aneel executive talked about the shortage of parts, saying that the company has been expecting the shortage and was well prepared ahead of time, so the shortage will not affect needle currently.
+NEUT7|Although this shortage is something to keep in mind, it does not appear to be any threat to the growth of Neo at the moment, but we will see.
+BULL8|The stock had a good trading day and is trading around $45.00 currently.
+BULL9|As we are headed closer and closer to Neo Day in January, we could very well see the stock up above $60.00 or $70.00.
+NEUT10|If you enjoy this NEO stock update, make sure to hit the subscribe button and let us know what your Neo price prediction is going forward.
+NEUT11|Just as a disclaimer, I'm not a financial advisor.
+NEUT12|"Everything you see on the channel is for entertainment purposes only."""

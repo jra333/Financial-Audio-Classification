@@ -1,0 +1,12 @@
+NEUT0|"""Hi and welcome back to the channel for another NEO stock analysis."
+NEUT1|In today's video we're looking at NEO stock and why neous prices dropped.
+BEAR2|The stock was trading lower today, even though there has been no negative news.
+BULL3|The opposite, actually, with Neil receiving good news as they reported record deliveries for the month of November.
+BEAR4|So why has the price dropped the last couple days?
+NEUT5|There does not seem to be any one particular reason for the drop.
+BEAR6|I think the price has dropped mainly due to people profit taking or new investors panicking and selling as the price dropped this week.
+BULL7|This week has not changed the outlook for NEO as I still see this company growing rapidly in the coming years.
+BULL8|This dip in price has just allowed us to buy more shares at a good price moving forward.
+NEUT9|I hope you enjoyed the quick update on Neo stock for the day.
+NEUT10|As always, make sure to hit the like and subscribe button if you want to catch our daily stock videos.
+NEUT11|"Do remember I am not a financial advisor and you should always do your own research before investing."""

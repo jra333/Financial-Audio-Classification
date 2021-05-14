@@ -1,0 +1,20 @@
+NEUT0|"""ARM stock trade is user friendly."
+NEUT1|To open an account, log onto www.armstocktrade.com.
+NEUT2|Select open account.
+NEUT3|Select the type of account and click next.
+NEUT4|Complete all mandatory fields and upload required.
+NEUT5|KYC document.
+NEUT6|A confirmation email would be sent to your registered email address.
+NEUT7|Click on sign in on the top right of the home page.
+NEUT8|Fill in your username and password.
+NEUT9|Click on sign in to log in.
+NEUT10|You can also click on the about US tab to learn more about Armd stock trade, the benefits and how to pay.
+NEUT11|The research tab directs you to search and get detailed analysis of prices and market performance.
+NEUT12|You can get security overview here.
+NEUT13|Select preferred stock to view details.
+NEUT14|You can also get research overview here.
+NEUT15|Select reporttype click on the PDF icons to view high conviction stocks and select desired sector to view valuation metrics.
+NEUT16|Once logged in, you have access to your account information on the account summary page.
+NEUT17|This gives you an account overview providing you with a summary of your net asset value of stock and current cash position, as well as a snapshot of unsettled cash proceeds.
+NEUT18|The best stock trading experience is just a click away.
+NEUT19|"Log onto www.armstocktrade.com and enjoy trading in the stocks marketplace."""

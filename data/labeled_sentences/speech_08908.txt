@@ -1,0 +1,32 @@
+BEAR0|"""Hey guys I'm leaving today."
+NEUT1|We will talk about AMC.
+BULL2|People have high hopes from AMC because most of companies use stores are open last week and as of this Friday 99% of them should be potentially operational.
+NEUT3|But will movie fans really trust the steps Ames has taken to slow the spread of coronavirus and risk spending time in crowded indoor theaters?
+NEUT4|The very survival of the company may be at stake.
+NEUT5|There is no black and white answer.
+NEUT6|Some customers were never afraid of Covin 19, while others may never see a movie on a big screen again.
+BEAR7|People are at least less fearful than they were a year ago.
+NEUT8|Perhaps the most significant question is whether enough people will set foot in movie theaters this year to undo aims Entertainment readable 2020 Miss Fortune.
+BEAR9|The theaters chain lost nearly 4.6 billion last year on 77% less revenue than it's generated in 2019.
+NEUT10|COVID-19 is of course, the culprit.
+BULL11|Well, the stock is up by more than 145% since February.
+BEAR12|This is still a troubled company facing difficult future.
+NEUT13|This optimism may be misplaced.
+BULL14|This year will almost certainly be better.
+BULL15|The analyst community is modeling 100% revenue growth this year, accompanied by a loss of 3.52 per share versus a year loss of 39.15.
+BULL16|Next year's loss is expected to be even more modest at 80 at 0.88 per share, profitability is preferable, but progress is rewarding.
+BULL17|Studios are increasingly in agreement with awarding theaters.
+NEUT18|There is one more problem.
+BULL19|Consumers are also comfortable at home, so the studios are ready for the change.
+NEUT20|But what about the consumers?
+NEUT21|Take everything with a grain of salt, as customers can say one thing and they do another thing.
+BEAR22|Still consumers opinion help paint a picture of what they think and sizable swath of them are permanently wary of entering crowded theaters.
+NEUT23|Specially when the same entertainment is.
+NEUT24|Available in the safe of their own homes.
+NEUT25|So what now where we should see AMC?
+BULL26|Yet that's a win that likely based on hopes, and theaters are reopening as reality sets in this year.
+NEUT27|It will become clear that Aims Entertainment can never be what it used to be, no matter what much rebounds from the 2020.
+NEUT28|I am adjusting my expectations on reality and not thinking too high and I do not have any high hopes from AMC.
+NEUT29|But still, let's check what chart says.
+NEUT30|So this is its chart and now it has brachten this support level.
+BEAR31|"And if it is staying here and these Jones in this case, it may go up like this, but if it is going down from here, then the downward trend will start."""

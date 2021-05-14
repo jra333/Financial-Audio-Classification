@@ -1,0 +1,34 @@
+NEUT0|"""Who are some of your favorite interview subjects for your podcast?"
+NEUT1|Yeah, that's a good question.
+NEUT2|Probably one of my favorite.
+NEUT3|I was very fortunate to have interviewed Kobe Bryant and I'm really grateful I didn't know him that I had the opportunity to meet him and interview him and he was just an incredible gentleman.
+BULL4|He was amazing to my whole team.
+NEUT5|He was so grounded in the interview when I was speaking to him, he had such a aura about him of of calmness, and I felt it on that day.
+NEUT6|And I talked about this.
+NEUT7|Before as well, but what I was really fascinated with him is that he was told no so many times in his life after his basketball career and what was even more beautiful is he talked about how he was so peaceful as a retired athlete.
+NEUT8|And I thought, wow, like that takes a real sense of knowing yourself and so he was one of my most fascinating.
+NEUT9|Guess another incredible guests have been Ray Dalio.
+BULL10|Ray Dalio was a phenomenal guest.
+NEUT11|We talked about his book principles and what I what I admired about Ray and I was sharing this with someone yesterday as well.
+NEUT12|Is that, you know, raised, worth like $20 billion or something like that and he is one of the most grounded, humble people I've ever met, and he had no point made anyone feel his stature.
+NEUT13|He was just so down to Earth able to answer questions.
+NEUT14|And we talked about how he practiced meditation from decades.
+NEUT15|Meditation is being such a deep part of his life and that's what I found when I'm speaking to successful influential people.
+NEUT16|80 to 90% of them.
+NEUT17|I remember Tim Ferriss limit is 80 to 90% of the most successful people in the world practice.
+NEUT18|A meditation practice.
+NEUT19|And I think we underestimate how many of these people that we admire and we don't realize Kobe Bryant, a meditation practice.
+NEUT20|LeBron James has a meditation practice.
+NEUT21|We are just so unaware of what is hidden behind these people, and that's what I love.
+NEUT22|Extrapolating in my interviews with them is finding out where's that Monk mindset in all of these incredible individuals.
+NEUT23|And it's there.
+NEUT24|They're already thinking like months are there really other common threads between you're talking to people like business people, athletes, people in the entertainment business.
+NEUT25|I'm sure that you've been able to identify, yeah, the patterns that of success, yeah, so meditation is definitely one of them.
+NEUT26|The other one is being really perseverant like persistence.
+BEAR27|Saying being able to accept nosean rejections and failures is the biggest factor, and I think so many of us get tired by hearing a couple of nose or we get upset by hearing a couple of nose or couple of rejections.
+NEUT28|Just throw us off our path.
+BEAR29|These people have been rejected a million times and are ready to be rejected a million times over another trending pattern that I've definitely seen is their dedication to service.
+NEUT30|All of these people are trying to live.
+NEUT31|For a purpose greater than themselves in some way, whether they're trying to make movies to improve diversity and representation, whether they're trying to build businesses that give a lot in charity, whether they're trying to write documentaries or movies that shift our conversation around LGBTQ, all of these people are living for a purpose higher than themselves.
+NEUT32|They're not just going out there to make it, they're going out there to make a difference.
+BULL33|"And I think that's such a powerful message."""

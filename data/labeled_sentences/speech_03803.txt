@@ -1,0 +1,23 @@
+BULL0|"""This morning, GameStop mania leaving a big mark on Wall Street."
+BEAR1|The Dow, S&P 500 and NASDAQ all posting big losses Friday.
+BEAR2|But GameStop shares kept surging.
+NEUT3|It's a classic story of the little guy versus the big pros on Wall Street.
+BULL4|The stock skyrocketed thanks to amateur investors chatting on Reddit.
+NEUT5|Keith Gill, who goes by Roaring Kitty, has been championing GameStop for months, the first stock that I'm going to talk about is GameStop and I know it's a polarizing stock.
+BEAR6|Some people won't even tune into the stream.
+BEAR7|Members of the Forum began buying up the struggling stock that major traders bet would keep falling.
+NEUT8|In turn, the pros ended up losing billions, while people like Justin speak a pastor and novice investor began cashing in, we decided it's $35.
+NEUT9|But the upside is real high at my last Lance, those shares were worth about $3300.
+BEAR10|He used a trading app Robin Hood to make the investment now facing backlash for blocking trading on GameStop shares, sending the stock price plunging Thursday in a since loosen restrictions.
+NEUT11|This was an internal operational risk management decision that the firm made so that we could protect the firm and protect our customers.
+BULL12|The move catching the attention of lawmakers.
+NEUT13|While the SEC warns against market manipulation, writing in part we will act to protect retail investors when the facts demonstrate abusive or manipulative trading activity that is prohibited by the Federal Securities laws.
+NEUT14|The showdown on Wall Street now setting the stage in Washington as Congress, prepares to hold hearings amid the financial frenzy.
+NEUT15|And the fallout for Robin Hood isn't over.
+BEAR16|It has been hit with a class action lawsuit from angry customers and the Texas Attorney General has launched an investigation into the company and others saying it took some extraordinary and unusual steps to limit its access to the free market guys.
+NEUT17|Back to you, Kathy Park outside the New York Stock Exchange this morning.
+BULL18|Kathy, thanks so much.
+NEUT19|Hey, thanks for watching our YouTube channel.
+NEUT20|Find your favorite recipes, celebrity interviews, uplifting stories.
+NEUT21|Shop our favorite deals and so much more with the Today app.
+NEUT22|"Download it now."""

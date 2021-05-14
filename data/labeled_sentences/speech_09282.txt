@@ -1,0 +1,26 @@
+NEUT0|"""BNGO stock analysis and predictions, January 27th."
+NEUT1|In today's BN Geo.
+NEUT2|Stock analysis and predictions, B NGO will turn 100,000 into 1,000,000.
+NEUT3|Alright, let's get started.
+BULL4|Arguably the hottest stock on the planet over the past month is Genome Analysis Company Bio, Nano Genomics, NASDAQ, be NGO shares of Bio Nano have catapulted more than 1600% in the past month of $100,000 investment six months ago would be a Hardy $1.18 million.
+NEUT5|As of this past weekend, Bionano's incredible run higher has primarily been used driven.
+BEAR6|It all began on December 23rd when a publication of a study by the human genome Structural Variation Consortium put a big feather in Bionano's cap.
+BULL7|This study showed that bionano's optical genome mapping ogm with Safa was significantly more sensitive in identifying large structural variations relative to Pacific Biosciences.
+NEUT8|OGM technology.
+BULL9|Further suffer comes with a cost per genome of $500 compared to between $10,000 in $20,000 per genome for PAC Bio.
+NEUT10|The news parade continued on January 4th when Bionano published a comprehensive study on autism risk genes.
+NEUT11|The companies Diagnostic Services subsidiary Lenny Edge and identified sequence variants in three Autism spectrum disorder ASD risk genes.
+BULL12|The belief is that bionano sensitive ogm technology could help healthcare companies better target their therapies at ASD.
+BULL13|Another hard to treat ailments, investors also seem stoked about Bionano genomics, capital raising activity even though dilution has whipsawed the stalker bit in January.
+BULL14|Bionano close to $101.8 million underwritten offering on January 12th and announced the pricing of a $200 million underwritten offering on January 20th, raising around $300 million in a very short period of time.
+BEAR15|Will allay any cash concerns for a company that ended the previous quarter with only $18.9 million in cash and cash equivalents.
+NEUT16|What healthcare stock Bionano brings to the table is incredibly exciting.
+NEUT17|The question is, will drug developers utilized the technology?
+NEUT18|The answer to this question will dictate whether Bio Nano can maintain this incredible rally.
+NEUT19|That's what's been happening this week in the world of BN Geo.
+NEUT20|Stock analysis and predictions.
+NEUT21|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of the NGO stock analysis and predictions.
+NEUT22|If you enjoyed this edition of the NGO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL23|We'd really appreciate it.
+NEUT24|Are you still watching and want more?
+NEUT25|"Check out last week's BN Geo stock analysis and predictions by checking out our BN Geo stock analysis playlist."""

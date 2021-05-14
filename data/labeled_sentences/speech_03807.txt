@@ -1,0 +1,14 @@
+BULL0|"""A sweeping national security law imposed by Beijing is redefining politics in Hong Kong."
+BEAR1|The febrile atmosphere in the city is also making it a less attractive place for expat bankers, except perhaps for those working at Chinese banks which were targeted in last year's demonstrations.
+NEUT2|We've taken a close look at what are the political convulsions in Hong Kong are accelerating the mainland isation of its financial sector?
+NEUT3|In other words, is Hong Kong's finance sector becoming more Chinese?
+NEUT4|At the end of July, bankers at Chinese firms totaled more than 2100.
+BULL5|That's a massive rise from 2013, and the current rate bankers at Chinese firms will soon outnumber everyone else.
+NEUT6|That makes sense when you consider that Hong Kong Stock Exchange, now it shines New York as the Premier platform for Chinese companies that want to raise dollar funding.
+BULL7|Chinese listings in the US actually grew by a quarter this year to over 3 billion, but the value of listings in Hong Kong has doubled to more than 18 million.
+BULL8|In Hong Kong, stock market is set to benefit even more from fraying US China ties as Hawks in Washington push to delist Chinese companies that don't comply with American accounting standards.
+NEUT9|That the listing is on the cards for virtually every Chinese company that listed on Wall Street, many have set up secondary share placements in Hong Kong as a fall back option, and unsurprisingly, is the Chinese banks who dominate those deals and the IPOs of up and coming Chinese tech groups.
+NEUT10|This year Beijing backed CCC and state run China Merchants Bank are the top bookrunners for listings in Hong Kong.
+NEUT11|Both have more than 1 billion worth of deals to their name so far this year.
+NEUT12|The only western bank to break the top 10 is UBS.
+NEUT13|"Hong Kong is starting to look less like a global financial nexos and more like an offshore Center for Chinese finance."""

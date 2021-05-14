@@ -1,0 +1,24 @@
+NEUT0|"""Fed Chair Jay Powell trying to balance optimism and caution."
+BULL1|Powell telling an audience in Dallas that the US economy is strong but could face headwinds next year.
+NEUT2|There are challenges that are typical of this point in the cycle, and that is, you know, we have to be thinking about how much further to raise rates and the pace at which we will raise rates.
+NEUT3|And I think the way we will be approaching that is to be is to be looking really carefully at how the markets and the economy and business Contacts are reacting to our policy.
+NEUT4|If you're wondering why the questions weren't too tough yesterday because standing alongside him, that was the Dallas Federal Reserve President, Mr Robert Kaplan.
+NEUT5|My Wilson, your thoughts on the comments from the Federal Reserve Chair.
+NEUT6|They usually don't challenge your boss now.
+NEUT7|It's probably not a good idea Public TV.
+NEUT8|So anyways, look, I think this is this is the thing that a lot of folks missed this year, right?
+NEUT9|So the Fed is.
+NEUT10|This is where we are and one of the reasons we were probably more bearish this year than most people was because it was obvious that the Fed was on a deliberate path for the first time since the financial crisis.
+BEAR11|They were reducing their balance sheet.
+NEUT12|They had set the course to hike every other meeting.
+NEUT13|And oh, by the way, the data has gotten even better, so why should they stop, right?
+BEAR14|This is their job, so it just drives me crazy.
+NEUT15|People say Oh well, the Fed is blowing bubbles and now they're doing their job and like what are you making a mistake?
+NEUT16|It's like wake up your mind.
+NEUT17|OK, the point is, the Fed is going to go all the way this time, and the market is recognized this all year.
+NEUT18|That's why we have this rolling bear market that we've called for that was the whole call.
+NEUT19|And now it's kind of completed, right?
+BEAR20|And by the way, oil was probably one of the last ones to go down 30%, so there's been no place to hide this year.
+NEUT21|Stocks, bonds, currencies, you name, right, so?
+NEUT22|You know that was their point of recognition was in January, not now right.
+NEUT23|"To recognize that now is sort of the Captain Obvious."""

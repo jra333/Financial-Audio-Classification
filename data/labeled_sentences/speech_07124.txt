@@ -1,0 +1,12 @@
+NEUT0|"""Welcome to the FT market minute."
+NEUT1|Here's what we're watching in London on Monday morning.
+BEAR2|Well, it's tin hats on 'cause his second day of a fairly chunky sell off in stocks is upon us after Wall Street lost 2.5% on Friday, the S&P 500 futures are lower again and this is affecting global bourses.
+BEAR3|We've seen 3% locked off Hong Kong, and as we record this, the DAX in Germany is shedding more than two percent.
+NEUT4|What's going on?
+BEAR5|Well, most marketers are putting the blame on a dose of fretting that central banks are becoming less willing to provide even greater dollops of largess to feed the equity bulls, and that the Fed may raise rates this month.
+BULL6|Bond yields have jumped, but as a potential 25 basis point, US interest rate rise a few months earlier than expected really make a difference in economic terms.
+NEUT7|Probably not in market psychology terms.
+NEUT8|Possibly a lot.
+NEUT9|That's because since the financial crisis investors have got used to the belief that the Fed in its peers will ease policy at the first sign that traders upper lips are trembling, take that comfort blanket away and a tantrum ensues.
+NEUT10|The big question for investors is this astrope overreaction to misplaced concern.
+NEUT11|"Or will the bursts of volatility trigger further bouts of selling?"""

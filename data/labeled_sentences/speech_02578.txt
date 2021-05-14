@@ -1,0 +1,20 @@
+NEUT0|"""Joining me to discuss where billions are being made and also lost in the private world of hedge funds is Hennessy groups managing Principal Charles Gray Dante."
+BEAR1|So the payday numbers are out for some of Wall Street's major investors and they are in the billions.
+BULL2|But what is the Hennessey Hedge Fund index telling us about performance this year so far in 2008, Camilla hedge funds, according to the embassy indexer up 3 1/2% more importantly, there are 23 strategies within that index.
+BEAR3|And 21 of the 23 strategies are negative.
+NEUT4|And there are only two strategies that are positive so far this year.
+NEUT5|The short biased strategies and macro managers.
+BULL6|I think a hedge fund manager would be lucky to return 10% this year, unlike last year when we had managers returning 20% or more.
+NEUT7|I do think 2008 is a transition year for hedge fund portfolios where they will be reinventing themselves moving out of the short side and maybe staying short but in different sectors like health care, especially if we have a Democrat president.
+BEAR8|I think the health care sector will be shorted further and perhaps moving into high yield distressed.
+BEAR9|Those managers that believe we have a shallow recession or moving into high yield and distressed securities becauses those securities have built in a very deep recession in their pricing.
+BULL10|Now we saw big success with investors shorting subprime, shorting the housing market, embedding on high oil prices and high commodity prices.
+NEUT11|Is that going to continue this year or what are you saying?
+NEUT12|Well, that was a big bet last year.
+NEUT13|There is some money being made in 2008, but most of that trade.
+BEAR14|Shorting home builders shorting subprime lenders are pretty much been exhausted.
+BEAR15|And that is part of the consternation in this market, and that the next trend is difficult to identify becauses of the crosscurrents that we're seeing in the marketplace between people who feel that we were having a shallow recession versus people who feel that we're having a deep recession.
+BEAR16|People who feel that we're in a secular bull market bear market versus people feel that we're really in a bull market with a bear market correction and a lot of Wall Street investors are basically shorting bubbles.
+NEUT17|Is there another bubble class we should expect to explode at any moment?
+NEUT18|If I was to pick the next bubble, it would be commercial real estate and I think rents are very high, which means that commercial real estate buildings are overvalued or valued at a very all time high.
+BULL19|"And I would think that's the next bubble to crack."""

@@ -1,0 +1,27 @@
+NEUT0|"""Well, I think we're getting to the most important part right now of the presentation where they're talking about, you know what that 5G might mean to the customer, and that's really you."
+NEUT1|Know, Tim Cook started out talking about how it'll be faster downloading and uploading speeds better gaming, you know, less network congestion and here towards the end of the presentation we're hearing some of the kind of the benefits of 5G.
+NEUT2|Whether it's an enterprise use or medical abilities to download medical scans quicker.
+NEUT3|Well, that's that's one of the questions that I have about this.
+NEUT4|There's been a lot of talk about 5G.
+NEUT5|It's become a trade talk.
+NEUT6|Issue between the United States and China, uh, with respect to who was going to lead the way on 5G, but it does sound as if the greatest impact of 5G.
+NEUT7|Maybe in the commercial setting as opposed to in the ordinary user like you and me.
+NEUT8|Right, and that's really the challenge for the industry and for Apple, right?
+NEUT9|This technology has been out there for little while.
+NEUT10|It's been years and years of buildup, but right now it's going to have its moment, essentially with Tim Cook on stage talking about it.
+NEUT11|The average customer is going to start to hear about it, but the networks are not widespread here in the US, customers might have a disappointing experience up front, so those are some of the challenges for it, but in some ways it might remind you of when 4G came out.
+NEUT12|It took a few years for developers to start playing with it to figure out.
+NEUT13|You know what the cool next have application was going to be, whether it was going to be downloading pictures very quickly and you know the selfie generation emerged so.
+NEUT14|That's one of the things we just don't know what 5G is going to bring, but you're making a bet.
+NEUT15|Investors are making a bet that it's going to be essentially laying the pipes for a whole new world.
+NEUT16|And those pipes which are being supplied by the likes of AT&T, Verizon will hear from the CEO of Verizon in just a little bit, T-Mobile.
+NEUT17|Those pipes have not.
+BULL18|So far as I know, yet really kept up with the technology that is built into these new phones like the Samsung S20 and this new phone from from Apple.
+NEUT19|Yeah right, this is a big issue too and he went 4G rolled out it was.
+NEUT20|It was widely out there and the issue was there wasn't enough phones to take advantage of it.
+NEUT21|This time around the phone makers are really bought into this idea and the networks are racing to do it and we're seeing that the bulk of 5G phones are really being purchased in China at this point where there had been a little bit more aggressive in that regard so that you know it's a thing that Apple essentially has waited a little bit too to get to and now is kind of getting into the party.
+NEUT22|Kind of.
+NEUT23|Perhaps on the precipice of.
+NEUT24|This becoming a real thing.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

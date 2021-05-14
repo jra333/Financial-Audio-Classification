@@ -1,0 +1,37 @@
+NEUT0|"""I love economics."
+NEUT1|I began studying economics when I was 13 and I haven't stopped yet.
+NEUT2|Economics really has changed my life and the whole way I see the world.
+NEUT3|What's so powerful about the discipline is just how much it shapes, how you understand everything around you.
+NEUT4|So perhaps you're asking what's my incentive to learn economics?
+NEUT5|Well, that's a great question you've already hit on a key economic insight in sentence.
+NEUT6|Example, why's the service at a local restaurant typically so much better than from the cable company?
+NEUT7|Or why do laws which supposedly protect endangered species sometimes end up with more of those animals being killed?
+NEUT8|Or why do big toy companies sometimes advocate for regulations which raise their costs?
+NEUT9|Incentives are the key.
+NEUT10|Another example might help us explain way.
+NEUT11|Back in 1787, the British government hired sea captains to ship convicted felons to Australia.
+BEAR12|The conditions on those ships were just awful.
+BEAR13|On one voyage more than 1/3 of the men died and the rest arrived beaten, starved and sick.
+BEAR14|The public was outraged.
+BULL15|Newspapers called for better conditions.
+BULL16|The clergy appealed to the captain sense of humanity and British Parliament passed regulations.
+NEUT17|Requiring better treatment of those prisoners.
+BEAR18|Unfortunately, those attempted solutions simply didn't work.
+BEAR19|The death rate remained shockingly high.
+NEUT20|So Tyler is a good economist.
+NEUT21|How would you solve this problem?
+NEUT22|Well, there was one economist at the time who came up with a novel solution.
+NEUT23|It was implemented and it basically worked.
+NEUT24|Instead of paying the captains for each prisoner who embarked to Australia, the government would pay the captains only for the prisoners who arrived alive.
+BULL25|Overnight, the incentives of the sea captains changed the survival rate of the prisoners shot up to 99%.
+NEUT26|As one observer put it, economy beat, sentiment and benevolence.
+NEUT27|So what's your incentive to learn?
+NEUT28|Economics people here that I'm an economist and the asking about managing their money and economics does have some lessons for investing in the stock market.
+NEUT29|But economics is much broader than that.
+NEUT30|It's the study of human action, how people make choices and how they should make choices under scarcity.
+NEUT31|Economics will help you with your choices.
+NEUT32|Whether picking akarere, parenting a child, or deciding how much education is a truly worthwhile investment.
+NEUT33|Overall, economics will give you a deeper understanding of the key issues of our time.
+NEUT34|Economics can be hard.
+NEUT35|Retraining your brain to look at the world in a different way isn't always easy, but the reward is a new set of eyes to see the world.
+NEUT36|"So Are you ready to begin?"""

@@ -1,0 +1,23 @@
+NEUT0|"""So it's like really defying gravity."
+BULL1|With its IPO valuation here, the company is finalizing a price now as you mentioned, but regardless of where it winds up, Snowflake will be the highest valued software IPO in thepost.com era.
+NEUT2|That's on a forward revenue basis, according to sources familiar with its estimates.
+NEUT3|Snowflake provides cloud based data warehousing for large enterprises with a lengthy customer list.
+BULL4|The the company generated top line growth that nearly tripled, although its marketing expenses alone surpassed its 265.
+NEUT5|$1,000,000 in revenue for fiscal year 2020.
+BEAR6|Losses accelerated to $350 million.
+BULL7|Regardless, Snowflake has captured investor demand boosting its price range by 30% yesterday and it's landed an unprecedented anchor investment by Berkshire Hathaway.
+NEUT8|That's to the tune of $700 million.
+NEUT9|Sale for Salesforce is also putting $250 million into this deal.
+NEUT10|And guys, it's rare to see such a vote of confidence going into an IPO, particularly with that Berkshire Hathaway investment.
+NEUT11|I can't, I can't remember the last time we talked about Berkshire Hathaway when talking about an IPL, because is it is it because yeah, it wasn't in our life.
+NEUT12|Business is down here.
+NEUT13|Sorry.
+NEUT14|But is it because of the business that Snowflake is in?
+NEUT15|So there are some FEC documents indicating that Todd Combs is the one behind this investment.
+NEUT16|Of course, it's not Buffett himself, but one of his associates that's been behind more of the kind of growth tech investments that Berkshire has done recently.
+BULL17|It's certainly the fact that this company is growing dramatically.
+NEUT18|A lot of times, you know, you get this investor demand when you see such an unprecedented top line growth and software, of course, has been in focus these days.
+NEUT19|But yes, the last time Berkshire Hathaway invested in an IPO was.
+NEUT20|Forward back in 1956.
+NEUT21|So half a century ago, none of us were alive.
+NEUT22|"At least those of us who are part of this conversation now."""

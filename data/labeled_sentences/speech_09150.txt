@@ -1,0 +1,5 @@
+BULL0|"""Bitcoin futures continue to trade near 3 year highs as the digital currency is up 90% on the year, outpacing most other asset classes we've seen."
+BULL1|Bitcoin futures push up through the $13,000 mark and look to target highs set in January 2018, when Bitcoin hit $19,783.
+BULL2|Many investors believe that because of the rampant inflation in the balance sheet expansion, that Bitcoin could be a good hedge going forward.
+NEUT3|Remember, there's only about 21 million units of Bitcoin created in with the pandemic working around the globe.
+BULL4|"Governments are set to continue to expand their balance sheets, and many of them believe that alternative asset classes like Bitcoin and digital currencies may take a role in governments going forward."""

@@ -1,0 +1,4 @@
+NEUT0|"""What do analysts think of Amazon stock?"
+NEUT1|The 45 analysts offering 12 month price forecasts for Amazon.com Inc have a median target of $4000 with a high estimate of $5200 and a low estimate of $3420.
+BULL2|The median estimate represents a + 26.5% increase from the last price of $3161.68.
+NEUT3|"The current consensus among 50 polled investment analysts is to buy stock in Amazon.com, Inc."""

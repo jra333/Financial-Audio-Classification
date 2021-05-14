@@ -1,0 +1,17 @@
+NEUT0|"""Hi, this is Mike Riedmiller best selling author and also Forbes brand voice contributor."
+NEUT1|I recently wrote an article article stock market volatility time to diversify.
+NEUT2|You look at the stock market.
+NEUT3|Lot of people ask me where is it headed next?
+BEAR4|We've seen some days where the market is down by 1000 points or more.
+NEUT5|Some days it's down 500 points that pops up 300 but more important to the question of where is the stock market headed next?
+NEUT6|And more important question is.
+NEUT7|Do you have a financial plan in place to help yourself be prepared for your retirement goals and how were you prepared for the next major market move?
+NEUT8|I have a process that me and my team help implement called results in advance planning.
+NEUT9|We look at your current investments, what's working?
+NEUT10|It's maybe not working and then help people with a financial plan.
+NEUT11|So when it comes to stock market volatility, they can be less concerned, have more readiness and preparedness.
+NEUT12|So let's chat soon.
+NEUT13|I'm happy to answer questions.
+NEUT14|Point in the right direction and share with you some of the things that I learned.
+NEUT15|I'm in Austin, TX right now at a financial conference.
+BULL16|"I attend different conferences throughout the year, continuing to grow my firm education and the ultimate goal, helping people to be financially successful and ready for their financial future."""

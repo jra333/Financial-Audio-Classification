@@ -1,0 +1,47 @@
+NEUT0|"""We're not winning the war against the pandemic, and when we're losing, we buy the Cramer COVID-19 index."
+NEUT1|Oh, I wish there were more to it than that, but when the virus seems unstoppable, you go back to the well and buy the stocks of the companies that do well.
+NEUT2|When the oldest rages, regardless of valuation, that's how the Dow gained 236 points.
+BULL3|A SMB advance .72% and the NASDAQ filled with pandemic winners surged 1.47%.
+BEAR4|This rally was extra impurity and anyone who thinks the market should reflect or be linked to Washington's inability to pass another stimulus.
+NEUT5|Bill now at the extra unemployment benefits.
+BEAR6|600 bucks per week have expired.
+BEAR7|They're baffled that stocks seem to celebrate the new hot spots.
+NEUT8|The rising case counts as so many states in California.
+BEAR9|Over 500,000 the forced closures of flagging businesses.
+NEUT10|So let me give you Cramer's guide to the perplexed, because when you go to the tape and look at what's winning, it's actually very straightforward.
+NEUT11|There's nothing counter intuitive about this move.
+NEUT12|It's not crazy.
+NEUT13|It's not a logical.
+NEUT14|In fact, it makes perfect sense.
+NEUT15|Let's do this.
+BULL16|Let's consider the 15 best performers of the Cramer COVID-19 index has a big day today.
+NEUT17|First, there's fastly, oh, that's a big day Trader favorite.
+NEUT18|This is a platform that provides stability and support to 10s of thousands of websites that handle everything from news e-commerce.
+NEUT19|These guys work with Shopify, New York Times, Slack, Microsoft's GitHub competitor.
+NEUT20|That last scene that will hear from later in the show as well as pictures which is also on Tonight Show.
+NEUT21|Fastly thrives when everyone stuck at home.
+NEUT22|Well, guess what?
+BEAR23|We're totally stuck at home.
+NEUT24|We're totally relying on the Internet.
+BULL25|Second, Chegg the on demand interconnected learning platform that reported spectacular numbers tonight and raised guidance through the roof.
+BULL26|Plus 45% plus Year 45 with so many colleges moving courses online.
+BEAR27|Of course, check stock is soaring.
+NEUT28|This company it's a dream come true for stay at home students and for stock market junkies.
+NEUT29|Thurness, Chewy, the online pet food store.
+NEUT30|If you have pets and you're trying to quarantine you use Chewy again.
+BEAR31|This is another company that would have been doing fine but is now on fire thanks to Kovan.
+NEUT32|It's a pandemic playground.
+NEUT33|4th is Palatine, oh, there's nothing like a pandemic to turn exercycle into an ecosystem when the gym is closed, you stop using your peloton bike as a clothes rack and prepared to sweat it off.
+NEUT34|Switch off all that truly or white claw with Allie love.
+NEUT35|Who will crush you?
+NEUT36|Her digital coaching is integral to the flywheel that is pelted apologies to flywheel.
+NEUT37|They're spending brick and mortar competitor 5th regardless of who comes up with a vaccine, we're going to need billions of files and that means we need emergent biosolutions there.
+NEUT38|The contract manufacturer, number of drug companies working on vaccines, including JJ.
+BULL39|They had the capacity, the capability in the skill set to help the worst.
+NEUT40|The outbreak gets well, the higher the stock goes.
+NEUT41|Is it really any mystery to that?
+NEUT42|Don't miss a second of mad money.
+NEUT43|Follow at Jim Cramer on Twitter.
+NEUT44|Have a question?
+NEUT45|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT46|"Miss something head to madmoney.cnbc.com."""

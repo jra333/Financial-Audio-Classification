@@ -1,0 +1,23 @@
+NEUT0|"""Yahoo Finance now offers trading of four crypto's on its iOS app."
+NEUT1|Next on your four minute Crypto Daily News.
+NEUT2|Hello and welcome to four minute crypto.
+NEUT3|Today show is from a post by Wolfe Zo at Coin Desk, and is brought to you by bit block boom.
+NEUT4|Take a look at the Bitcoin maximalist conference coming to Dallas, TX in 2019 at bitblockmoon.com, and before I start, I want to remind you to, like, subscribe and share.
+NEUT5|Yahoo Finance is one of the world's largest news sites for real time, stock quotes and market information.
+BULL6|And it is added a feature allowing cryptocurrency trading on its iOS platform, according to a blog post on Thursday.
+NEUT7|The company will now support the trading of four different cryptocurrencies.
+NEUT8|They are now supporting Bitcoin, Ethereum, Litecoin and Dodge coin on their iOS mobile app and I can understand all their choices, but I am I have to admit I'm a little surprised by the addition of Dodge Coin, but what do I know, right?
+NEUT9|The announcement came amid various tweets online.
+NEUT10|Indicating these service appeared to be also available on the desktop version of Yahoo Finance.
+NEUT11|Although the feature is not visible on desktop browsers at the moment.
+BULL12|Yahoo Finance said in its announcement that it plans to extend the service to Android Desktop and mobile web platforms in the near future.
+NEUT13|Now, Yahoo partnered with trade it for the new feature trade.
+NEUT14|It is a platform that integrates with brokerage services to act as a hub for trading financial assets.
+BULL15|Trade it notably integrated with the US cryptocurrency exchange Coinbase last year.
+NEUT16|According to a statement at the time, though it isn't yet clear which brokerage Yahoo is connected with for its new online offering.
+NEUT17|Yahoo started this partnership with trade in September of 2017, allowing users to carry out in at trading of traditional finance assets.
+NEUT18|The exposure to crypto currencies at a time, though, was limited data on prices and portfolio.
+NEUT19|Performance, so now another major player is getting into the world of cryptocurrency.
+NEUT20|The question is will you use Yahoo to make any of your cryptocurrency purchases in the near future?
+NEUT21|Let me know on Twitter where I'm at during legal and and don't forget to join me every weekday for a new episode of Four Minute Crypto.
+NEUT22|"This is a crypto cousins.com production."""

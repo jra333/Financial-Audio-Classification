@@ -1,0 +1,14 @@
+BEAR0|"""Saudi Arabian billionaire Prince Alwaleed bin Talal said he had settled a libel suit against the Forbes Magazine group over its reporting on his fortune, which he claimed was billions of dollars larger than the magazine estimated."
+BULL1|A brief statement from Alwaleed's private office on Tuesday said the suit against Forbes and two writers had been settled on mutually agreeable terms.
+NEUT2|Forbes did not immediately respond to an emailed request for comment.
+NEUT3|Alwaleed, whose Kingdom holding holds stakes in high profile Western investments from Twitter to Citigroup, Euro Disney and London.
+BEAR4|Savoy Hotel filed a defamation suit against Forbes in London in 2013.
+NEUT5|That year, Forbes estimated his net worth at $20 billion in its widely watched billionaires list.
+BEAR6|Alwaleed argued that the magazine undervalued Kingdom holding by not using the full market price of its Saudi listed shares and had implied the company was not transparent in its financial reporting.
+BULL7|On Monday, the Saudi Stock Exchange opened to direct foreign investment.
+NEUT8|Previously, foreigners had only been able to buy shares via indirect channels.
+NEUT9|In his statement on Tuesday, Alwaleed said that because of the market opening, Forbes was now comfort Rible with using Kingdom Holdings market price.
+NEUT10|In valuing that component of his wealth.
+NEUT11|He did not elaborate on this, so are on other parts of the dispute or disclose financial terms of the settlement.
+NEUT12|Forbes website currently puts Alwaleed's net worth at $22.6 billion, making him the world's 34th richest person.
+NEUT13|"The website says this estimate is based on Forbes own calculation of the value of Kingdom Holdings assets, not the market price of its shares, because only 5% of the company is publicly traded on the Saudi stock market."""

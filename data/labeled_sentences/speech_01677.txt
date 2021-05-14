@@ -1,0 +1,25 @@
+BULL0|"""Xconomy performing well and expect it to continue to do so."
+BULL1|The committee judged that a modest increase in the federal funds rate target is now appropriate, recognizing that even after this increase, monetary policy remains accommodative.
+BULL2|The Federal Reserve is finally achieve policy liftoff, nudging the cost of overnight borrowings slightly higher and markets are very happy.
+BULL3|Global and US equities are rallying led by financial stocks.
+BULL4|Investors in general are relieved that the long drawn out saga of will the Fed go or not has finally been settled.
+BEAR5|But how long will the good vibrations lost the positive reaction across markets reflects expectations at the first Fed tightening cycle in nearly a decade will be slow and steady.
+NEUT6|the Fed released its latest estimate.
+NEUT7|Of policy shifts in the coming years.
+BULL8|For 2016 they expect just four rate hikes, which will lift the median back to 1.375%.
+NEUT9|From its current 0.375 and then for 2017 they expect the funds rate will be at a meeting of 2.375.
+NEUT10|Is this a realistic outlook?
+BEAR11|In recent years the feds own assessments for the economy, inflation and policy shifts have proven overly optimistic and subject to downward revisions.
+BEAR12|Given a backdrop of slowing global demand, still sliding commodity prices, not to mention rising stress in the US high yield bond market.
+NEUT13|the Fed may only tighten policy once or twice in the coming year.
+NEUT14|Indeed, some argue.
+NEUT15|For this week's tightening is all we're going to see a one and done rate rise cycle is their view.
+NEUT16|So what does the bond market think?
+NEUT17|Well, this is where things look interesting.
+BEAR18|The bond market has long discounted the feds view of the future and as of now thinks there will be no rise until June next year.
+BEAR19|So all told, maybe the fetches policy twice during 2016, and that's why the policy sensitive US 2 year Treasury yield appears to have stalled around 1%.
+NEUT20|So what does this divergent between the Fed and markets really mean?
+BEAR21|It could be a slice of humble pie is brewing for traders or the Fed and potentially a volatile 2016 for markets affirma US recovery next year means a faster pace of tightening.
+BULL22|Now the last time the bond market expected that kind of outlook was back here in mid 2009 and then early 2010 when indeed we were above 1% and rising towards 150.
+NEUT23|So if we do see two year yields approached that kind of area in the coming months, standby from market fireworks.
+BEAR24|"The current join equities will seem very shortsighted indeed."""

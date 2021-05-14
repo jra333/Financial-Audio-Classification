@@ -1,0 +1,17 @@
+NEUT0|"""Last Scottish Stock Exchange closed its doors in 1973, but if Scotland voted for independence in a second referendum, should it once again have its own boss?"
+NEUT1|On the basis of recent performance, you probably wouldn't advocate it at the time of the last independence referendum in 2014, Paul Motian, Scott Evans at the London Business School, compiled an index of Scottish companies.
+BEAR2|They found that between 1955 and 2014 Scottish shares underperformed the rest of the UK.
+NEUT3|But if you stripped out the Royal Bank of Scotland, they did better.
+BEAR4|I asked Paul and Scott to update the data and this is what it looks like since the last independence vote Scottish shares have underperformed the rest of the UK with or without RBS.
+NEUT5|That is partly because shares in other big Scottish companies.
+BEAR6|Such as Standard Life and Aberdeen have also fallen and the performance would be worse still, if an investment companies were excluded, Scottish investment trusts have been going great guns lately.
+BULL7|Outperforming non Scottish trusts by about 6 percentage points since 2014.
+BULL8|Scottish Mortgage Trust is one of the best performers.
+NEUT9|It's about to join the Footsie 100.
+NEUT10|But take a look at its top Holdings.
+NEUT11|As you can see, it's tech stocks.
+NEUT12|Its retailers hardly pillars of the Caledonian business establishment.
+NEUT13|Shares in all of these companies like $0.10.
+BULL14|Amazon, Tesla and Inditex have risen since 2014 and those gains have been boosted by a weaker pound versus the dollar and the euro.
+NEUT15|So it seems.
+NEUT16|"It doesn't really matter that much where a company shares are listed, it's what happens elsewhere that counts."""

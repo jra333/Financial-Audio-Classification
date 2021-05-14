@@ -1,0 +1,33 @@
+BULL0|"""Many businesses this is the company says this is designed to accelerate its direct to consumer strategy in light of the success of Disney."
+NEUT1|Plus, the move divides content creation and distribution by creating a new media and entertainment distribution group.
+NEUT2|Now it's responsible for monetizing all content, including ad sales and how all content is released, whether it's through traditional means like film and TV, or through digital platforms.
+NEUT3|Such as Disney Plus now well, this division will also oversee operations of Disney's streaming services, Disney Plus Hulu and ESPN Plus.
+NEUT4|Now, this new divisions chairman is Kareem Daniel.
+NEUT5|He previously ran consumer product games in publishing.
+NEUT6|He's a 14 year veteran of Disney.
+NEUT7|He's also worked in interactive media and in distribution at Walt Disney Studios.
+NEUT8|The Content, Businesses, studios, general entertainment and sports will be run by the same three sets of leaders and they will continue to report directly.
+BULL9|Disney CEO Bob Shapack Japex saying in the release that splitting content and distribution will allow the company to quote be more effective in nimble.
+NEUT10|In making the content consumers want most delivered in the way they prefer to consume it.
+NEUT11|The company also announcing an Investor Day on December 10th when it will go into details of its direct to consumer strategies and coming up.
+NEUT12|We'll have a first on CNBC interview with Disney CEO Bob Shapack guys.
+BULL13|Julia, thank you.
+NEUT14|Your shot was frozen there in the beginning, but we heard what you had to say.
+BULL15|Thanks for bringing us the news.
+NEUT16|We can't wait for the interview.
+NEUT17|Just a quick follow-up question.
+NEUT18|Obviously it sounds like a big deal the strategic reorganization.
+NEUT19|How much of it has to do with the pandemic?
+BEAR20|And just what this company has gone through in light of the recently announced high number of layoffs for park employees and some of the other struggles they've had at the box office and elsewhere.
+NEUT21|Also, Sarah, I think it's really important to point out that this is not addressed the parks division.
+NEUT22|This really does not impact parks.
+NEUT23|What it does impact is the rest of the business.
+NEUT24|We did see.
+NEUT25|Disney recently announced that Saul was going to be going direct to consumer on Disney.
+NEUT26|Plus we're being released on Christmas Day so that really speaks to the change that we're seeing here in the reorganization.
+NEUT27|And I think that we're going to hear a lot more from JPEG about this.
+NEUT28|But the question really is not about the parks 'cause they're having their own issues.
+NEUT29|The question is how much the?
+NEUT30|Entertainment business is going to change as result of Disney Plus and Hulu and we'll see a shift for from the studio away from theatrical to direct to consumer and for TV away from the regular TV bundle to direct to consumer.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

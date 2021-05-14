@@ -1,0 +1,25 @@
+NEUT0|"""At Berkshire Hathaway, we have all kinds of businesses."
+NEUT1|We own 73 businesses now and and businesses were looking for.
+BULL2|An entity that has durable competitive advantage, somebody that not only is doing well now, but will do well 10 or 20 years from now and in capitalism.
+NEUT3|When you have a wonderful business.
+NEUT4|It's like having an economic Castle and the nature of capitalism is that people want to come in and take your castles perfectly understandable.
+NEUT5|I mean, if I'm selling television sets or something, there's going to be 10 other people they're going to sell a better television set if I have a restaurant here in Omaha, people are going to try and copy my menu and get more parking and take my chef and so on.
+NEUT6|So capitalism is all about somebody coming in trying to take the Castle.
+NEUT7|Now what you need is you need a Castle that has some durable competitive advantage.
+NEUT8|Some Castle that has a Moat around it, and that Moat.
+NEUT9|One of the best moments in many respects is to be a low cost producer, but sometimes the Motors just having more talent.
+NEUT10|I mean, if you're the heavyweight champion in the world and keep knocking out people, you've got a competitive advantage.
+NEUT11|So if you can keep doing it and it's very profitable if you're the one that happens to be able to do it.
+NEUT12|If you can turn out great motion pictures, yeah, I mean, you know Steven Spielberg?
+NEUT13|I mean he.
+NEUT14|He he felt about on and it has enormous economic value.
+NEUT15|Well, we're looking for that institutionalized.
+NEUT16|We're not looking for the best brain surgeon in town, we're looking for the male clinic, so we want an institution.
+BULL17|That regardless of the person in charge will re maintain that competitive advantage over the decades.
+NEUT18|Ann and we hope we find that in some businesses and then we try to get the best person that we can to run them.
+NEUT19|Usually it's the person who's been running.
+NEUT20|Are you always right or do you make mistake that we make mistakes?
+NEUT21|It would be fun if we didn't make mistakes.
+NEUT22|I mean, I when I play golf and everyone of the 18 holes I had a hold of one I wouldn't be playing golf for very long.
+NEUT23|I mean you have to go into the rough occasionally to make the game interesting.
+NEUT24|"Not too often though."""

@@ -1,0 +1,45 @@
+NEUT0|"""Alright U.S. bank or US Bancorp."
+NEUT1|It's like a bank holding company to do financial services.
+NEUT2|They do lending cash management.
+NEUT3|It's like your typical everyday bank.
+NEUT4|It's U.S. bank.
+NEUT5|It's pretty big and look at the five year graph you clearly see.
+BULL6|It's actually one of the better graphs among banks.
+NEUT7|It's very similar to JP Morgan Chase line and also a Bank of America line.
+NEUT8|But the whole reason why I feel U.S. bank is probably the best bank for people invest in is because the valuation, in my opinion should be 50 to $60.00 and before all this crazy jazz.
+NEUT9|The valuation was at 60 and right now it's 36.
+NEUT10|If you buy in, you could actually make a whopping 80 to 90% of it makes a full recovery of V shape recovery, or at least a W shaped recovery.
+NEUT11|So if you look at the one month graphical, see banks were a little bit iffy.
+BULL12|It went down, but now it's going back up because the economy is slowly opening up.
+BEAR13|The one biggest fear about banking is if a lot of people don't have jobs then a lot of people can't take out loans.
+NEUT14|And if people don't have jobs, who wants to open businesses?
+NEUT15|If no one opens businesses?
+NEUT16|Banks to make any money.
+NEUT17|Because most of the income comes from lending money to other people and collecting interests.
+BULL18|And one big thing about US Bancorp is as a fantastic track record of responsible lending and also really good financial management.
+BEAR19|And the CEO doesn't really good job among this.
+BEAR20|And during the 2008 to 2009 financial crisis, US Bancorp has never went negative, something that very few banks could really brag about.
+NEUT21|Now being really responsible is very.
+BULL22|Much needed, especially in these hard economic times, when unemployment rates are Sky high, so the leadership is really good.
+BULL23|And that's why among all the banks, US Bancorp has been growing like one of the best among all the banks today it's dipping, so it's a perfect town of buy.
+NEUT24|And I'm definitely thinking about buying some shares at U.S. bank, and I'm probably would not be buying JP Morgan Chase or Wells Fargo, though if you look at the dividend it's 4.69%, which is very high, especially for a bank.
+BEAR25|Now the SP 500 average is only 2%.
+NEUT26|This is more than twice that and if you care about Warren Buffett an what he buys, he has sold virtually all.
+NEUT27|His airline Holdings will see here.
+NEUT28|For example United Airlines 0%, but with US Bancorp he owns millions and millions of shares an for the Berkshire Hathaway portfolio.
+NEUT29|Almost 10% of the portfolio, 110th of it is in US Bancorp.
+NEUT30|This is how much Warren Buffett likes this company, and he actually likes it alot so much.
+NEUT31|The point that he virtually has sold and none of it.
+NEUT32|During this crazy recession, if you check this out, Bancorp student really well and not that many individuals on Robin Hood actually know about this, so I highly recommend this and not only that like 4.69% dividends, you can't really find that anywhere else, and this is a perfect time to buy if you buy in right now, it's like buying it all the way back in 2015, 2014.
+NEUT33|It's like getting a time machine.
+BULL34|This is the perfect time to buy and once again, this is one of the best bank stocks out there.
+NEUT35|Not only has Warren Buffett not sold virtually.
+NEUT36|Any shares the dividends is 4.69%.
+BULL37|They have very good financial management and never went negative during the 0809 crisis and that should definitely say something about their overall companies attitude.
+NEUT38|So U.S. bank definitely check it in the ticker.
+NEUT39|Name is USB and if you guys want to trade options, go ahead.
+BULL40|That's a very good options.
+NEUT41|Prices as well and you guys have 100 shares of US Bancorp.
+NEUT42|You could always sell covered calls and that's also consistently giving you monthly income.
+NEUT43|That's about it.
+BULL44|"Thanks for watching."""

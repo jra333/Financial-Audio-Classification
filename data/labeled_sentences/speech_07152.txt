@@ -1,0 +1,9 @@
+BULL0|"""Hi friends."
+NEUT1|This case is about human RE0U RCE.
+NEUT2|Tokyo Disneyland and the Disney Sea park.
+NEUT3|This case describes how the Japanese, Oriental and color the management team was eager to expand the business beyond its business.
+NEUT4|Disneyland in Japan, and therefore considers that investment in a new project Disneyland Park.
+BEAR5|See after negotiations with Walt Disney, which are notoriously difficult in the negotiations, demanding 10% royalty on entries.
+BEAR6|Share of 5% of food and real novelty management of Japanese Oriental land called were sceptical of the undertaken projects as it involved a great risk for them since they will not invest more than just on Earth.
+NEUT7|But assume 100% of the cost of construction as well.
+BULL8|"Thanks for watching this video."""

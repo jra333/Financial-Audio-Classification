@@ -1,0 +1,38 @@
+NEUT0|"""You can add Netflix to the list of companies taking steps to combat racism in the USA."
+NEUT1|Short time ago, the company CEO Reed Hastings said he will personally donate $120 million to help historically black colleges in the United College Fund.
+NEUT2|Also a growing list of companies have now decided to make Juneteenth a paid company holiday that's June 19th, which commemorates the ending of slavery in America.
+NEUT3|Our own Kristen Meijer is joining us now for more Christian.
+NEUT4|We didn't mention this in the open, but Amazon.
+NEUT5|Also, one of those companies telling employees to sort of reflect this Juneteenth.
+NEUT6|What can you tell us morning?
+NEUT7|Alexis, yeah, so Amazon is not alone here.
+BEAR8|You're hearing a lot of companies saying, listen, the Juneteenth needs to be a holiday, or that it needs to be a day that employees decide to cancel meetings and take time to reflect on how racism has impacted this country.
+NEUT9|As you had mentioned.
+NEUT10|And just to.
+NEUT11|Kind of reiterate, June 19th, that's this.
+NEUT12|Coming Friday or Juneteenth is the people called essentially, a celebration of the end of slavery.
+NEUT13|So Amazon really taking the lead there and making sure their employees, really.
+NEUT14|Focus on the meaning of that holiday and using it as something other than for just work.
+NEUT15|Jeff Bezos also highlighted that throughout the day that Amazon is going to be providing initiatives and meetings for people to go and attend and really learn more about not just Juneteenth but essentially about black progress inside the country.
+BEAR16|And Kristen, amidst all of this, Apple reportedly losing its chief diversity officer.
+NEUT17|Yeah, that's correct, Brian.
+NEUT18|So Christy Smith had been at the company for about three years.
+NEUT19|She joined in 2017 after her predecessor left, and I want to highlight here.
+NEUT20|Did not even make it a whole year, was only in her role for about six months after she made a comment about the all white.
+NEUT21|Essentially staff at Apple.
+NEUT22|So it's a little bit interesting to see here how Apple is going to handle diversity going forward.
+NEUT23|They said that this move had been on the books for about two months, but I do want to highlight here that Apple has.
+BEAR24|Had a very large problem when it comes to diversity.
+BEAR25|Has made very little progress over the years.
+NEUT26|Only about 6% of the employees.
+NEUT27|There are black, roughly 70% Brian are men.
+BULL28|However, they are attempting to make some strides in 2018.
+BEAR29|They did say that over half of their new hires were black or from other underrepresented groups.
+BEAR30|And hey, Kristin Morgan, Stanley's former global diversity chief suing the bank now for racial discrimination.
+NEUT31|Yeah, that's right, Alexis.
+NEUT32|So essentially, Marilyn Booker, she had been at the bank for 20.
+BEAR33|Five years she says she's alleging in her lawsuit that she was fired for pushing Morgan Stanley too hard and too fast to essentially promote diversity and to essentially created a sort of program and fast track.
+NEUT34|Some of those diversity hires toward success into upper to upper management.
+BEAR35|She said she met a lot of resistance or budgets were cut throughout the years, and now she was apparently given the boot.
+NEUT36|All right, Kristin Myers.
+BULL37|"Thanks for that."""

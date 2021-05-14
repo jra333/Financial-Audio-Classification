@@ -1,0 +1,18 @@
+NEUT0|"""Hi, my name is Josephine Calcaterra HSBC's chief as an economist."
+NEUT1|So my key economic takeaway from this week will have to be of course on Friday.
+BEAR2|Today we have the 1st $36 billion on bilateral tariffs that will hit Chinese imports in the United States.
+BULL3|Now the impact of this should be quite manageable actually.
+NEUT4|In the short term, but really matters is the next steps at the UST are in the United States Administration takes?
+NEUT5|Do we see the next $16 billion come through in the next few months?
+NEUT6|And most importantly I would say.
+NEUT7|Is actually auto tariffs if those come into the equation.
+BEAR8|That could be quite disruptive, not only for Europe, U.S. trade, but actually would even impact a lot of exporters in Asia, in particular, Japan, Korea and even Thailand and Vietnam, which have significant auto and auto parts exports to the US.
+NEUT9|We also of course had the minutes for the Fed of the June meeting overnight, and that will also lead into the non farm payrolls.
+NEUT10|We have this evening.
+NEUT11|This is important because it helps us derive the policy trajectory for the Fed in the short term.
+NEUT12|And of course, this matters for the dollar, which is one of the key variables for a lot of central banks in Asia.
+NEUT13|So next week on Tuesday will have China.
+BULL14|CPI is going to be important to continue to see price deceleration in the food space in China that allows the PBOC to keep monetary conditions quite quite neutral or accommodative.
+NEUT15|Then on Wednesday we have BNM Big Negara, Malaysia's meeting.
+NEUT16|This will be important because it's going to be the first meeting presided by the new governor nor Shamsia and would like to see if there's any changes in BNM's take on the economy, but we expected.
+BULL17|"High degree of continuity last Thursday will have make up careers meeting."""

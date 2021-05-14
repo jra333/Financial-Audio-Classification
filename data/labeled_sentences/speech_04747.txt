@@ -1,0 +1,28 @@
+NEUT0|"""It's time now for the executive edge Facebook's Mark Zuckerberg, penning an op Ed in the Wall Street Journal defending the social media Giants ad business and reiterating that the company doesn't sell user data."
+NEUT1|Zuckerberg also emphasizing that users have quote complete control over how their information is used for advertising.
+NEUT2|You can check out the performance of Facebook over the last year.
+NEUT3|There is the stock.
+BEAR4|It is down about 22% over that.
+BEAR5|As Facebook's been under fire over a large portion of that.
+NEUT6|For some of its practices and the op Ed is interesting.
+NEUT7|There are a number of polls from here.
+NEUT8|Zuckerberg saying we have a strong incentive to protect people's information from being accessed by anyone else.
+NEUT9|Some would question whether they've lived up to that obligation, that Zuckerberg, so so says he has in this particular op, Ed.
+NEUT10|Another question he writes is whether we leave harmful or divisive content up because it drives engagement.
+NEUT11|We don't.
+BEAR12|People consistently tell us they don't want to see this.
+NEUT13|This content but they will click on it.
+NEUT14|Are they doing enough to control whether your data is being used in various ways or seen by people that you don't want to buy?
+NEUT15|You could easily, I think, make the argument that they haven't done enough in the past.
+NEUT16|You could barely take issue with some of these.
+NEUT17|A lot issues.
+NEUT18|Yeah he does.
+NEUT19|He does publicly quite public is just perception is reality.
+NEUT20|Does the investor think that they've done enough to do?
+NEUT21|Does the market think they've done enough to Facebook users wanted to do enough?
+NEUT22|They will think we answered all your questions is no no, no no no.
+NEUT23|The biggest question for the Facebook as a stock is do advertisers walk away from the 800 pound gorilla in the room.
+NEUT24|Do they still get bang for their Buck?
+NEUT25|No, because there are only two £800 gorillas in the room exactly and it's just Facebook and it's all about the fundamental tension of the businesses there in the op Ed, which is advertisers or the customer.
+NEUT26|They want more relevant ads to be delivered and they need to know more about you to do that so.
+NEUT27|"Where you strike that balance is the whole story."""

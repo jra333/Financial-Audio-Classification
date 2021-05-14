@@ -1,0 +1,18 @@
+BULL0|"""Hello everyone, welcome back to the channel."
+NEUT1|Today I wanted to talk about Neo's latest price target given by Daiwa Securities, which is currently one of the highest given by any financial institution.
+NEUT2|Let's hop right into the video.
+NEUT3|First of all, what is Daiwa Securities and what is their price target for Neo die?
+NEUT4|What is a Japanese investment bank that is the second largest securities brokerage after Nomura Securities having around $200 billion in assets.
+NEUT5|Their $100 price target given for NEO comes in less than two weeks after the companies analyst.
+BULL6|Kevin Lau upgraded the stock to a buy rating, increasing the price from $65 to $70.00.
+NEUT7|Why was the price target given by the Japanese company so high?
+BULL8|First of all, Daiwa Securities believes Neo will be able to further capture the luxury car market in the future with its leading autonomous driving technology.
+BULL9|Building a user community and innovative business concepts and models.
+NEUT10|Similar prediction about capturing the luxury Chinese electric vehicles market was given in 2020 by JP Morgan.
+NEUT11|In which they predicted Neo taking up to 30% of the Chinese luxury car market.
+NEUT12|Daiwa Securities also said that Neo is oriented toward building a user community, which is different from other traditional car manufacturers.
+BULL13|The companies analysts believe this will help increase user loyalty and further build brand reputation, which will serve to stimulate new car sales as autonomous driving will be a big thing in the future.
+BULL14|The company is really optimistic about the progress and hopes that Neo will launch the autonomous driving as a service system in 2022.
+BEAR15|Neo shares are currently trading at $57 per share, around 20% below the all time high price of $67, which was achieved after an incredible Neo's day, which happened on 9th of January 2021.
+BULL16|With the recent high price targets given by many analysts, possible expansion to Europe and building its second plant in China, Neo remains a hot stock to watch for in the upcoming years.
+NEUT17|"As always, thank you for watching and please subscribe to the channel if you would like to get updated on latest news regarding Neo."""

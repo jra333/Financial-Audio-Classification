@@ -1,0 +1,4 @@
+BEAR0|"""Apple stock technicals to watch for the rest of the March stock is currently sitting at 121 and if we zoom out to daily chart one year one day chart, we can see we are sitting pretty much 15% below its all time highs which is 145 and short term."
+BEAR1|It is downtrending but if we zoom out to yearly chart on a yearly chart, we're still up trending because we're making higher lows and also we close this trend line is 6 months trendline.
+NEUT2|And if we take a look at this trend line right here, we close below and also this red line with red zone is 200, a moving average.
+BULL3|"If we see continued volatility for the rest of the March in stock market, I would expect those levels to act as a support for Apple stock."""

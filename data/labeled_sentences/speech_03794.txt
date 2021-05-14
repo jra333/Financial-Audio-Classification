@@ -1,0 +1,25 @@
+BEAR0|"""In March, more than a dozen European countries suspended use of Astra Zeneca's COVID-19 vaccine because of concerns over blood clotting."
+BEAR1|Astra Zeneca has said the clouding is not related to the vaccine, and while The Who in European Medicines Agency or both, conducting additional reviews of the vaccine, they believe countries should not suspend use of the vaccine.
+NEUT2|Initially a lot of countries just stopped giving out the vaccine altogether in the most recent days after the World Health Organization came out and said this isn't related, some countries have started giving the vaccine again, but they've placed some restrictions on it.
+NEUT3|So some countries, like France, have said we'll give it, but only to people over the ages of 55, while other countries are still not giving it out yet.
+BEAR4|Experts are worried these steps could a road peoples willingness to get the vaccine largely due to an inadequate supply of doses.
+BEAR5|The European Union has lagged behind other countries in terms of their vaccine rollout, with 11.4 vaccinations for every 100 people as of March.
+NEUT6|By comparison, the US has 32.6 vaccinations per 100 people and the UK leads the pack with 38.4 per hundred vaccine hesitancy, which is another way of saying people who are afraid of getting vaccines or who say they won't get vaccines.
+BEAR7|It's actually higher in Western Europe than in the US, So it's already quite a problem there.
+BEAR8|To get some people to take the vaccines an experts are worried that this issue with Astra Zeneca vaccine is only contributing to these queries.
+BEAR9|A lot of people have refused to take the Astra Zeneca vaccine, and experts are concerned that this could really harm the rollout, not only in Europe but also in the US, since people in the US are reading all these news reports about issues in Europe, and it could make people nervous for if and when.
+BULL10|The vaccine does get approved here in America.
+NEUT11|This kind of fear could have global implications.
+NEUT12|If enough people choose not to get vaccinated.
+NEUT13|We need vaccines to end the pandemic.
+NEUT14|We need to reach what's called herd immunity, which is when a high percentage of the population is vaccinated in order to end this pandemic and start resuming life as normal.
+NEUT15|Some experts say this is 60% of people vaccinated, some experts 870%.
+NEUT16|And when people say that they're afraid to take the vaccine or won't take that vaccine, that means that this pandemic will.
+NEUT17|Just last, a lot longer and it means that variance that could be more deadly and more contagious have more time to arise.
+NEUT18|So we really want to get people vaccinated as much as possible.
+BEAR19|An issues like holding vaccines like what happened with Astra Zeneca vaccine can be really problematic because it can just contribute to people being scared of vaccines.
+BULL20|Of course we want to make sure the vaccines are as safe as possible, but these vaccines have been really well studied in.
+NEUT21|The experts are saying that there's no real risk here earlier this week.
+BEAR22|The National Institute of Allergy and Infectious Diseases expressed concern at Astra Zeneca.
+BEAR23|Quote May have included outdated information and its initial data of the US arm of its COVID-19 vaccine trials.
+BEAR24|"On Wednesday, the company released updated numbers from its US phase three trials, which show its vaccine is 76% effective against symptomatic disease, down from a previously claimed 79% efficacy."""

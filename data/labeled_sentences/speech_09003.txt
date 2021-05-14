@@ -1,0 +1,33 @@
+NEUT0|"""In this video I'm going to show you how to download all the stocks in column A1 by one automatically with Excel VBA."
+NEUT1|You can download this code from my website, but this is going to be the last one I'm going to press and then it's just going to run through and download Shake Shack's historical stock data, then Alibaba and you could do this for however many stocks you want and you can just walk away from your computer and I'll do it.
+NEUT2|So let me just move this down so I'm just going to reply and my code does.
+NEUT3|Is it opens up?
+NEUT4|Yahoo Finance and it paste in the first stock which is Shake Shack and surges that.
+NEUT5|Then it selects historical data.
+NEUT6|An historical data shows.
+NEUT7|Different stock price on each of the days.
+NEUT8|And how it opens and closes.
+NEUT9|So and then it goes to download data and at the bottom left of my.
+NEUT10|Google Chrome browser.
+NEUT11|You could see Shake Shack dot CSV.
+NEUT12|So downloads all the historical stock data for them.
+NEUT13|And then it opens up the File Explorer.
+NEUT14|It goes to my downloads.
+NEUT15|And it copies the name of the file that we just downloaded.
+NEUT16|And paste it into the workbook.
+NEUT17|Then opens our book and.
+NEUT18|Copies over the data into the original workbook, and then it goes to the second stock.
+NEUT19|Anaphase II stock there and then it searches it.
+NEUT20|Now, so now the second song is Ali Baba.
+NEUT21|It goes to historical data.
+NEUT22|Goes to download data.
+NEUT23|I basically use like a.
+NEUT24|All the code you get from our website, but it just sets wherever on the screen it is and then it just repeats the task over and over.
+NEUT25|So now it opened up Ali Baba and now it's done.
+NEUT26|So now in this workbook Angie two so.
+NEUT27|It pays the first doc and here and then it pays the second stock at the end of the last row.
+NEUT28|Over here you could just like pay some on different sheets or wherever you want to face them and then.
+NEUT29|You could do like statistical comparisons between all the different stocks.
+NEUT30|And the good thing about it is you could download.
+NEUT31|As many stocks as you have in column A.
+BULL32|"And thank you for watching my video."""

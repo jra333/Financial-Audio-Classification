@@ -1,0 +1,18 @@
+BULL0|"""OK, so Dow Session High was up 173."
+BEAR1|We've come off a bit despite this headline out of Reuters that McConnell Jim says we do need another Covid aid package.
+NEUT2|We don't have much more than that.
+NEUT3|Doesn't say how large that package should be, but directionally it's whole lot better than saying my caucus won't support it.
+BULL4|That's big, and that makes me feel that you are.
+BULL5|You are step stepping closer to a deal.
+NEUT6|I think that if they would stop if the Republicans and Democrats will stop the name calling it would certainly help in the.
+BEAR7|The people need this and the stock market doesn't show it, but the people absolutely need it and I think that there isn't a Republican or Democrat that doesn't know someone who's been laid off or about to be laid off.
+BEAR8|Frankly, I think that David the it's the about to be laid off.
+NEUT9|People that are really front and center or we didn't even get to.
+BEAR10|For example, the Wall Street Journal today or yesterday late yesterday reporting on Warner Media's plans of thousands of job cuts and restructuring.
+NEUT11|Yet another sign of impending where those people are to go jump, say again.
+NEUT12|They're going to hammer nails for Lenoir.
+NEUT13|I mean, I know what, what do you do, right?
+BEAR14|That's obviously result in part of the lack of production going on.
+BEAR15|A lack of things being shown in movie theaters and on and on.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

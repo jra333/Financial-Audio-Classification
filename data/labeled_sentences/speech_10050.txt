@@ -1,0 +1,38 @@
+NEUT0|"""Well, this hasn't started trading yet, but let's help investors understand your business."
+NEUT1|You're in lending and in the data business.
+NEUT2|What's the data set that you're working with?
+NEUT3|You're so we are in AI lending platform.
+NEUT4|That basically means you know applying AI to the problem of consumer lending, and we do that by helping banks you know originate better loans that are more accurate in terms of predicting who's likely to default and and.
+NEUT5|And that means using all sorts of data to have a more informed decision.
+NEUT6|And in one that can result in letting banks approve you know two to three times as many borrowers at the same loss rates as they would otherwise, well, you say.
+NEUT7|All sorts of data.
+NEUT8|What kinds of data, aside from transactional data are you talking about and where are you getting it?
+NEUT9|Yeah, so you know the data is very broad and it certainly means all the sort of traditional data you would get from a credit report that we use hundreds and hundreds of variables there.
+NEUT10|It also could mean where somebody is employed, the industry they're in, their background with respect to education.
+NEUT11|So there's more than 1600 variables in R model, which is fairly unprecedented in lending to use such a broad amount of data.
+BULL12|But it gives you a much better lens onto the consumer and in the end helps you be much more accurate.
+NEUT13|In predicting if and when they they may default on alone.
+NEUT14|That is fascinating.
+NEUT15|Where do loan officers normally have the largest blind spot?
+NEUT16|What mistakes do they do?
+NEUT17|They normally make just by just from being human.
+NEUT18|Yeah, well, you know a lot of times it's been digitized, it's not.
+NEUT19|I mean historically it was somebody sitting across, you know, at a bank sitting across the desk from you asking you questions.
+NEUT20|You know today most most lenders have at least somewhat digitized that process.
+NEUT21|Leasing the consumer lending space.
+NEUT22|But literally, they're just using a handful of variables you can think of.
+NEUT23|Your credit score may be how many credit lines you have open.
+NEUT24|If you have any default or delinquencies, but you know the idea of that being able to predict what's going to happen in the future in the real world is just a massive.
+NEUT25|You know mismatch between a very simplistic model and the real sophistication of trying to really understand what might happen to that consumer.
+NEUT26|What might happen to that loan in the coming months and years?
+NEUT27|So as we look at the current universe of delinquencies, charge offs, reserves.
+BEAR28|The things that go wrong in lending, how much lower can that number potentially get?
+NEUT29|Oh, it's it's incredible.
+NEUT30|You know, one way to sort of quantify it is if you thought of it like a system that was completely random as zero in a system that was kind of omniscient.
+NEUT31|At 100.
+NEUT32|You know our view generally is that most lending systems in the consumer world at our bar at about 2:00 an we believe our system, you know, just reasonably is at about 10, so we're five times, man, you know maybe 4 to 8 times more accurate than a traditional lending system.
+NEUT33|But we're only 10% towards.
+NEUT34|What is theoretically possible?
+NEUT35|There's always some randomness in the world, so you can't get to 100% predictive, but we are literally just scratching the surface surface of what's possible with AI.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

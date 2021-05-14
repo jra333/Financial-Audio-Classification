@@ -1,0 +1,26 @@
+NEUT0|"""President Biden's $1.9 trillion stimulus package, or roughly 10% of the US economy, has raised several questions that we're think are worth digging into."
+NEUT1|We picked what we think are the four most important to consider.
+NEUT2|First, how much of the $1.9 trillion is spent in fiscal year 2021?
+NEUT3|Approximately $1.2 trillion, or 63% of the expenditures will come in fiscal year 2021, which ends on September 30th, 2nd.
+NEUT4|How will the additional spending in 2021 impact US real GDP and employment?
+BULL5|The overall support for individuals includes $640 billion for direct payments as well as unemployment insurance increases and additional funds for food stamps.
+BULL6|These measures will be spent right away and they will cause a sharp increase in second quarter real GDP.
+BULL7|US first quarter GDP was already on track for an annualized rate of growth of close to 10% with the stimulus package.
+BULL8|The second quarter is likely to be well over 10% annualized growth.
+BULL9|Indeed, calendar year 2021 might record overall 10% real GDP growth.
+NEUT10|Third, how will the additional spending?
+NEUT11|In fiscal year 2021, be funded.
+BEAR12|The US Treasury was already going to have a massive budget deficit to finance now the fiscal stimulus package, as $1.2 trillion to the funding calendar over the next six months.
+BULL13|This means the US Treasury will have to increase the size of its debt auctions above what it would have had to do if the stimulus package had not come into law.
+NEUT14|This means there could be an additional several 100 billion of 1020 and 30 year debt issuance before September 30th 4th.
+NEUT15|How are interest rates impacted?
+NEUT16|Market participants anticipate future events as best they can with a discount for risk and uncertainty.
+NEUT17|By February 2021, Market participants had much more clarity on many items compared to October 2020.
+NEUT18|For example, in October 2020, we didn't know the outcome of the elections.
+NEUT19|By February 2021, it was known that the Presidency, Senate, and House of Representatives would be under Democratic Party control.
+BULL20|So the probability of a massive fiscal stimulus package which was rising sharply even before the legislation was passed into law.
+BULL21|Also, the pace of vaccine distribution was still an unknown back in October 2020, whereas by February 2021 there was much more confidence in vaccine distribution in the first half, accompanied by much improved optimism about the economic rebound.
+BULL22|All these factors are bullish for economic activity and they've been reflected in yields on longer term notes and bonds, which have started to rise.
+BEAR23|That is, bond prices fall.
+BULL24|We would argue that much of the anticipation of improved economic growth, a whiff of inflation pressure, and huge Treasury supply is now been priced into the bond markets with much higher yields than back in October 2020.
+NEUT25|"I'm Blue Putnam, chief economist, CME Group."""

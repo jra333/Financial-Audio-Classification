@@ -1,0 +1,45 @@
+NEUT0|"""We mentioned those headlines out of GM a few moments ago."
+BEAR1|They were extending some downtime gym at three plants in part because of this chip shortage, they're going to reassess in March.
+BEAR2|They say it's hurting everyone in the industry.
+NEUT3|They say in some cases where there is a shortage they will build vehicles without certain modules, so some features will obviously be sacrificed in Jamul.
+NEUT4|Hope to learn more when they post earnings tomorrow.
+BEAR5|Argus upgraded Ford, but Ford had a similar problem talking about 1 billion to 2 billion.
+BEAR6|It's an 18 month problem.
+NEUT7|The Chinese are hoarding these.
+NEUT8|There's only a couple companies with the foundry capacity.
+BULL9|We decided to outsource our foundries to become two countries, by the way, who have very close relationships with China, President Trump.
+NEUT10|He did not really understand the significance for the military problem.
+BEAR11|It's really a problem about American industry and David.
+NEUT12|You can't just throw up foundries, they take a huge amount of time.
+NEUT13|If you think that the shortage is real, five materials going report Lamb research is going to report Kelaita is important.
+NEUT14|It's all about the food chain and our decision to deemphasized it in this country.
+NEUT15|No doubt, and Carl there is a bigger question as we watch the opening Bell there, yeah will wave back to you there from the NYC, but there is a bigger question here Jim about about.
+NEUT16|Well, defense, generally speaking and how involved the American government is going to get in terms of in encouraging 5 nanometer technology at Intel and perhaps bringing others in as well.
+NEUT17|I mean, that is going to be an important effort to watch.
+NEUT18|I think it's one reason why by there.
+BULL19|By the way, there are investors who are quite bullish on the prospects for Intel is in part their expectation that you will see the US government become aggressive in sort of intervening to help to help the industry look.
+NEUT20|I think it can happen.
+NEUT21|I mean, one of the things Carls is that it's targeted.
+NEUT22|The Republicans didn't like to help certain industries.
+NEUT23|Biden is very much involved with trying to get alternative energy.
+NEUT24|There are no real Senate champions to be able to do this.
+NEUT25|There's no real constituency to be able to say look, we should start helping Intel.
+NEUT26|AMD is ahead of Intel, so we help Intelco come up.
+NEUT27|They used to build foundries, they they're pretty much foundry light.
+NEUT28|I think this should be a national effort, not an Intel effort.
+NEUT29|I was hoping to be able to get I Ty wants me to be involved.
+BULL30|I was hoping to be able to get.
+BEAR31|Maybe global Foundry, but these companies have very close ties to the Chinese, and they're very afraid that they could risk their Chinese business.
+NEUT32|So it's going to have to be done from the ground up using our companies, and I don't know whether it's the will in Washington to be able to break the stranglehold that we gave to these companies.
+NEUT33|We gave it to him because we decided that we were not going to be in anything other than the semi light business.
+NEUT34|I do like AMD and NVIDIA, 'cause they know how to do it.
+NEUT35|A Intel got a new CEO.
+NEUT36|I mean God love him and everyone suddenly like some cousin, new CEO.
+BULL37|I like companies that have good, solid foundries and the one that is built the most and it's going to double its CapEx probably is Skyworks solution and the one that have done the least is Qualcomm.
+BEAR38|Hence why that stock has been a total dogs and say reported.
+NEUT39|If you believe in foundries, even Liam Griffin.
+NEUT40|We've been a company that's best control of it.
+NEUT41|Fate you buy Skyworks even up here Carl.
+BULL42|It is a great company.
+NEUT43|Shepard Smith here.
+NEUT44|"Thanks for watching CNBC on YouTube."""

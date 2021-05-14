@@ -1,0 +1,32 @@
+NEUT0|"""XRP Ripple XRP news."
+NEUT1|Today XRP price prediction.
+NEUT2|February 14 in today's XRP Ripple XRP news.
+BULL3|Today XRP price prediction XRP Ripple jumps 15%.
+NEUT4|Alright let's get started.
+BULL5|The XRP price jumped on.
+BULL6|Friday's interest in crypto currencies surged after Elon Musk's Tesla snapped up $1.5 billion of Bitcoin and BNY Mellon and Master Card took steps towards using the digital tokens.
+BULL7|SRP, the crypto currency of the Ripple Network, rose as much as 15%.
+BULL8|Before slipping back slightly, it was up 11% to 0.5987 dollars as of 9:00 AM Eastern Time according to Bitstamp.
+BULL9|The Bitcoin price was one point 4% higher at $48,129 on the Bitstamp exchange just off a record high of above $48,300 touched on Thursday.
+NEUT10|Elon Musk's electric car company, Tesla revealed on Monday that it had bought $1.5 billion of Bitcoin and plan to start accepting it as payment.
+BULL11|The announcement sent Bitcoin soaring to a record high of above $48,000.
+BEAR12|The coin had been hovering below $40,000 for much of the previous two weeks.
+BULL13|On Thursday, Bitcoin jumped to a new high of above $48,300 after BNY Mellon and MasterCard both warmed to cryptocurrencies, MasterCard announced it will allow merchants to accept select crypto currencies on its network starting later this year.
+NEUT14|And Bank of New York Mellon said it will issue, hold and transfer Bitcoin for clients in the future.
+BEAR15|The announcements appear to have boosted other crypto assets, such as ripples, XRP and ethereums, ether ether, the native cryptocurrency on the Ethereum network was roughly flat at $1793.00 on Bitstamp on Friday morning, but it was not far off a record high of more than $1800 reached earlier in the week.
+BEAR16|Mean cryptocurrency doge coin was down around 7% to 0.068 dollars.
+BEAR17|However, it does appear that ex RP network Ripple, like many others, are riding the Bitcoin wave, said Craig Erlam, senior market analyst at currency firm, Oanda.
+BULL18|Although it is significantly outperforming so far today, it does have a lot of lost ground to make up, so perhaps that may explain why it's being targeted.
+NEUT19|There doesn't seem to be much else behind the moves which should always be a concern, but that doesn't mean it can't make significantly more gains as we've so often seen.
+BEAR20|The Ripple Networks cryptocurrency is wildly volatile.
+BEAR21|SRP sword and crashed in early February.
+BEAR22|When I read it organized buy and hold scheme appeared to fall apart after the price touched $0.74.
+NEUT23|That's what's been happening this week in the world of XRP, Ripple, XRP, News, today, XRP price prediction.
+NEUT24|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of XRP Ripple, XRP News, today XRP price prediction.
+NEUT25|If you enjoyed this edition of XRP Ripple, XRP News today, XRP price prediction.
+NEUT26|Leave a comment and please hit the like or share button.
+BULL27|We'd really appreciate it.
+NEUT28|Are you still watching and want more?
+NEUT29|Check out last week's XRP Ripple, XRP news today.
+NEUT30|XRP price prediction.
+NEUT31|"By checking out our XRP Ripple XRP news today, XRP price prediction playlist."""

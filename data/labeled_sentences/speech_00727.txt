@@ -1,0 +1,21 @@
+NEUT0|"""Let's get a little bit stock specific here."
+NEUT1|We've seen some of those high flying techniques come under pressure today, and some of the other big names that we've been following.
+BEAR2|A name like Tesla that stock off just around 2 1/2% today.
+BEAR3|Elon Musk announcing a price cut for the model as it's his second one this week.
+NEUT4|And Rick when you take a look at the stocks reaction to this news, I mean the street, at least.
+BEAR5|Seeing this as a negative here for the company, at least in the near term, I guess.
+BEAR6|So, Tesla said they're going to cut the price of the Model S and some other models.
+NEUT7|Basically, it looks like there.
+BEAR8|We're trying to get into competitive ballpark with this new company lucid that has a sedan coming on to the market in a few months that will compete with the Model S so Elon Musk tweeted that the new price will be just over $69,000, which will undercut the lucid sedan when when it hits the market.
+NEUT9|But this is this is kind of weird in a way, Shawna.
+NEUT10|I mean the way most automakers price their cars is they set a an MSRP when the thing goes on the market and nobody pays the MSRP.
+NEUT11|You know, you negotiate with the dealer and usually you get it lower than the MSRP.
+NEUT12|But if it's a really hot car, it's going to be higher than the MSRP, so the MSRP doesn't really mean that much.
+NEUT13|For most cars, Tesla is different 'cause it doesn't really have dealers, and you know they're obviously trying to do things differently, so I guess Elon Musk wants everybody to know that Tesla will remain competitive on price with everybody out there.
+BEAR14|If you know volumes don't change that, in theory that reduces your revenue by a little bit.
+NEUT15|But in reality when you lower the price, sometimes you sell more cars, so I'm not sure.
+BEAR16|It's a net negative for Tesla, and then they'll **** at least under pressure today after they cut prices for the second time in a week with falling just over 2%.
+NEUT17|Hey investors, Zach Guzman here?
+NEUT18|Are you interested in learning more about the markets and getting the latest financial news?
+NEUT19|Willing click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT20|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

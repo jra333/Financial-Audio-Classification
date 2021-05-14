@@ -1,0 +1,6 @@
+BULL0|"""I think the market is very good."
+NEUT1|I think it's a great time to start a mortgage company.
+NEUT2|Hey there, thanks for checking out CNBC on YouTube.
+NEUT3|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT4|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL5|"Thanks for watching."""

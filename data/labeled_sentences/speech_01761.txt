@@ -1,0 +1,22 @@
+NEUT0|"""The GDP of an economy is an indication of the economic activities happening on the ground."
+BEAR1|A decline in the GDP figure points to corresponding fall in output across sectors.
+BEAR2|A likely contraction in GDP usually has a catastrophic impact on production, employment, and tax collections.
+BEAR3|A host of international agencies, economists and brokerage houses have cut India's economic growth estimate.
+BULL4|For FY21 on concerns about the fallout of novel coronavirus or COVID-19 pandemic and the resultant lockdown, the World Bank expects India's GDP to grow at 1.5% to 2.8% in FY21.
+BEAR5|This projection points at the slowest growth rate recorded since the economic reforms of 1991.
+BULL6|Asian Development Bank is still optimistic it sees India's economic growth.
+BEAR7|Slipping to 4% in FY21 from 6.5% earlier, citing a weak global environment and continued efforts to contain the COVID-19 outbreak within the country, S&P Global Ratings has further slashed its FY21 GDP growth forecast to 3.5% from a previous downgrade of five point 2%.
+BULL8|Fitch Ratings has put its estimate for India growth at 2% in FY21 from five point 1%.
+BEAR9|Estimated just 18 days ago, India ratings and research has revised its FY21 forecast to 3.6% from 5.5% earlier, Moody's Investors Service has slashed India's 2020 GDP growth estimate to 2.5% from 5.3% earlier.
+BEAR10|Standard Chartered Bank said it expects growth to slip to a three decade low of two point 7% in FY21 rating agency.
+BEAR11|ICRA predicts a contraction in growth.
+BEAR12|It says India's GDP could contract to a negative 1% in FY21 on account of the extension of the nationwide lockdown to May 3rd.
+BEAR13|British brokerage firm Barclays has said that the extension of the nationwide lockdown till May 3rd will inflict an economic loss of two $34 billion and result in stagnant GDP for 2020.
+NEUT14|The brokerage house also.
+BEAR15|Baked economic growth at zero for 2020 and .8% in FY21 from 2.5% and 3.5% earlier, respectively.
+BEAR16|Deutsche Bank has said India's GDP growth would collapse in April to June and might be a negative print of 5% year on year or even more.
+BEAR17|There was also a possibility that the July to September real GDP two would be negative.
+BULL18|The International Monetary Fund projected a GDP growth of 1.9% for India in FY21, from 5.8% estimated in January.
+BULL19|Warning that the worst recession since the Great Depression will dwarf the economic damage caused by the global financial crisis a decade back.
+BULL20|However, I have also said that India and China would be the only two major economies likely to register growth.
+NEUT21|"With all others contract ING."""

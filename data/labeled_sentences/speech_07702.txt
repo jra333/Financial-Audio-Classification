@@ -1,0 +1,35 @@
+NEUT0|"""OK, Bill Ackman, the activist investor who's also a Berkshire investor as well, has raised questions in recent months about the legality of the multi level marketing company Herbalife."
+NEUT1|He called it a pyramid scheme.
+NEUT2|Berkshire owns a multi level marketing company to the pampered Chef.
+BEAR3|Will Ackman's attack on Herbalife have any impact on the pampered chef for Berkshire?
+NEUT4|And do you believe Ackman's concerns are legitimate?
+NEUT5|How do you think about the debate over multi level marketing companies and decipher which ones are legitimate?
+NEUT6|And which ones are not?
+NEUT7|Yeah, I don't know anything.
+NEUT8|I've never actually even looked at a 10K of Herbalife, so I I do not know about their operation, but.
+NEUT9|I think the key obviously is whether a direct marketing operation is really based on selling product to would be.
+NEUT10|Distributors of 1 sort and loading them up an and instead of sending this in effect, selling it to end users, an A pampered chef is 1,000,000 miles away from anything where any the money is made in any way.
+NEUT11|By selling the level A and then those people selling the level B and all that sort of thing.
+NEUT12|It is true that certain people lots of people get paid on the results.
+NEUT13|The selling results of other people that they recruit.
+NEUT14|But this business of.
+NEUT15|Loading up people with a couple $100 or package of something that they never sell, and that being sort of the main business.
+NEUT16|And I don't know anything about Herbalife on this.
+NEUT17|I do know about pampered Chef and that is not pampered.
+NEUT18|Chef business.
+NEUT19|Pampered Chef's business is based on selling to the end user and we have thousands and thousands and thousands of parties every week where people who are actually going to use the product.
+NEUT20|Buy it from somebody and we are not making it.
+NEUT21|They're not making the money by.
+NEUT22|By loading up people and then and then having them leave the sales force and an R profit coming from that Charlie.
+NEUT23|I think that should be the distinguishing characteristic.
+NEUT24|If I were regulating the industry, I would, I would look very hard at at operations where thousands of people got their hopes.
+NEUT25|As to earning a living by by selling the product invested their savings and buying a whole bunch of product that they didn't need themselves and then.
+NEUT26|Sort of being a banding and the hope and being left with the product an the parent company or the some of the main company.
+NEUT27|Just going out and selling millions and millions of people on a dream that was not fulfilled.
+BEAR28|Johnny, well, I think there's likely to be more flim Flam and selling.
+NEUT29|Magic potions them.
+NEUT30|Pots and pans.
+NEUT31|At our age, we're in the market, know pretty magic potions.
+NEUT32|If any of you have them.
+NEUT33|That's the extent of your comment.
+BULL34|"I assume Charlie I'm OK."""

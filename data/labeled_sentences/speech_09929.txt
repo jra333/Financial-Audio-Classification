@@ -1,0 +1,5 @@
+NEUT0|"""This year September started with a quick, aggressive stock rotation out of previous leaders such as technology stocks and in a more diversified portfolios and then partly reversed stock and sector rotations can occur in both up and down markets and are more often associated with volatility than direction."
+NEUT1|There's some interesting theories as to why September can be a rotation month.
+BULL2|One idea has it that if a portfolio manager had been highly successful in the first eight months of the year, they may want to reduce risk and take some profits from their winners to secure a successful year relative to their peers.
+NEUT3|Here's Alternatively if a portfolio manager had been late to the market rally going into September, it might be time to re balance the portfolio in a different direction to try to make up lost ground stock rotation in September can be a harbinger of volatility in October, especially ahead of any known event risk, such as the US elections.
+BULL4|"Option strategies may be able to assist effective event risk management."""

@@ -1,0 +1,22 @@
+BEAR0|"""It looks like the recovery is slowing heading into the fourth quarter and potentially even stalling when we look at the data such as now casts out of the Federal Reserve banks and also some private now casts."
+NEUT1|It seems like the data are just not as strong as they were over the summer, and certainly when you look at the labor market.
+BULL2|Initial jobless claims this morning remains stalled and also when we look at last week's employment numbers, well, we just saw pretty moderate gains after very strong increases over the summer and parts of the spring.
+NEUT3|How big is stimulus is needed by when to turn that around?
+NEUT4|Well, it's tough to say how much stimulus, but really, what types of stimulus would be important?
+BULL5|Certainly stimulus that helps members of the of the US economy.
+BEAR6|Households who are on the bottom of the K. If you look at a K shaped recovery, those who've lost jobs, businesses, small firms that are seeing their doors close and certainly families who have had folks that have been placed on furlough and now threatening to see permanent job losses, certainly we need help there.
+BEAR7|And also, state and local governments seem to be under pressure.
+BULL8|And so potentially some measure of stimulus for them as well.
+NEUT9|It would be important.
+NEUT10|Dana, a lot of people on Wall Street know the Conference Board where you work for its consumer confidence numbers.
+NEUT11|How would you characterize?
+NEUT12|Right now, the attitudes of consumers in America about the present and the future.
+NEUT13|So it's fascinating.
+BULL14|Last week we did publish our consumer confidence measures and after two months of declines, we actually saw a pop in confidence in September and that was related to business quote.
+BULL15|Households believing that business conditions would improve also that employment options were a little bit better.
+BULL16|And also they were pretty upbeat about their future finances.
+NEUT17|So in.
+BULL18|In a sense, that's really great news in September, and we're just hoping that this plays out in the economic data that this plays out in the labor market.
+BULL19|And certainly that businesses can make good on consumers expectations for them.
+NEUT20|Shepard Smith here.
+NEUT21|"Thanks for watching CNBC on YouTube."""

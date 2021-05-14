@@ -1,0 +1,29 @@
+BEAR0|"""In the meantime, the SEC has launched an investigation of Exxon Mobil after an employee filed a whistleblower complaint last fall."
+NEUT1|That's according to the Wall Street Journal.
+BEAR2|The complaint alleges that Exxon overvalued its oil and gas assets in the Permian basis stock right now down by about 2 3/4%.
+NEUT3|Let's bring in the Journal Reporter who broke this story.
+NEUT4|Emily Glaser and Emily tell us the back story on the complaint that has launched this investigation.
+NEUT5|What's the details?
+NEUT6|Sure, thanks for having me my colleague Chris Matthews and I just reported this story.
+NEUT7|This story this morning.
+BEAR8|Several people involved in valuing a key asset in the Permian Basin which is currently the highest producing US oilfield, complained during an internal assessment in 2019 that employees are being forced to use unrealistic assumptions about how quickly Exxon could drill wells there to arrive at a higher value.
+NEUT9|And that is pretty much what preempted the SEC's launch of investigation.
+BEAR10|After an employee filed a whistleblower complaint last fall.
+NEUT11|This is in particular an area called the Delaware Basin within the Permian acreage that Exxon bought from back in 2017.
+NEUT12|Explain what some of those employees were pushing back against.
+NEUT13|Well, they were saying that Exxon was valuing the everything they are higher than it was.
+NEUT14|Axon has said the Permian Basin.
+NEUT15|This is in West TX and New Mexico is essential to its plan.
+BEAR16|But Exxon has also, you know, really its CEO is pushed for this asset valuation and the employees were saying the pushing was going way too far.
+NEUT17|Part of this is based on the production that they said they could get out of this.
+BULL18|Darren Woods said back in March of 2019 that they thought they could get oil and gas production out of the Permian up to a million barrels a day by the year 2024.
+BULL19|From previous estimates of about 600,000 barrels a day by 2025.
+NEUT20|What was the company's response to this story in this complaint?
+NEUT21|Well, the company told us that they declined to comment on the existence of an investigation.
+NEUT22|Spokesman said that if they were asked by authorities about the 2019 assessment you just mentioned some of the figures that Exxon would provide information that shows its actual performance exceeded the drilling estimates, and that Exxon doesn't comment on employees performance.
+BEAR23|And I just want to note that we did report also that at least one of the employees who complained was fired last year and so we had also previously reported there.
+BEAR24|Then internal disagreements over the evaluation.
+BULL25|Emily, thanks for joining us on the news line this morning.
+BEAR26|It's good to hear from you that stock again down by about 2.7%.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

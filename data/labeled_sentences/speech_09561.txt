@@ -1,0 +1,26 @@
+NEUT0|"""Tell me about why why this method this back?"
+NEUT1|How much money are we talking about?
+NEUT2|What are you going to use the money for?
+NEUT3|Why did it make sense?
+NEUT4|The trying relationship?
+NEUT5|Yeah, I mean we were fully funded before, you know we had raised a planar capital and we're fully funded.
+BULL6|Before we did this transaction, I think this puts our company with a very strong balance sheet and the opportunity to do some some inorganic opportunities in addition to our very fast organic growth that we have right now.
+BULL7|So it's a real opportunity to scale the business and allows us more degrees of freedom and in a market that has gone from a billion to 12 billion over the past decade.
+BEAR8|In this decade is going to go from 12 to 146, so it's been compounding at 20% for a decade, and it's projected to continue to compound over this coming decade.
+BULL9|So we're at an inflection point and we think there are lots of opportunities for growth in our sector, Rick.
+BULL10|Hey Rick, it's great to see you.
+NEUT11|It's Andrew here.
+NEUT12|Andrew, how are you with this?
+NEUT13|For the investors out there that are there?
+NEUT14|Hey, it's great to see that they're thinking about investing in the company in terms of comps in terms of comparables, should they be thinking about the multiples that are historically on a sort of classic auto parts makers and sort of just stepping that up?
+NEUT15|Do those companies affected the goal?
+NEUT16|I mean, is this a 0 sum game?
+NEUT17|Can they still win while you win?
+NEUT18|I know you have a lot of patents, but in terms of competition longer term.
+NEUT19|Just speak to that if you could.
+NEUT20|Absolutely.
+NEUT21|I mean, I think that there are many different types of comps we're working on and used parts versus prototyping or tooling which was passed in this industry, and I think there's a number of technical industrials as well as companies like Proto Labs or.
+BULL22|Materialized that are very good comps for our business and you know we're growing much faster than the market so it's a it's a.
+NEUT23|Consideration.
+NEUT24|Shepard Smith here.
+NEUT25|"Thanks for watching CNBC on YouTube."""

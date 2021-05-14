@@ -1,0 +1,24 @@
+NEUT0|"""Haley, one more one real quickly."
+NEUT1|General Motors is going to unveil the electric Hummer this fall.
+NEUT2|Interested in that?
+NEUT3|No.
+NEUT4|Not at all, because she interested in the electric Hummer Tesla builds their electric cars.
+NEUT5|GM outsources it to LG.
+NEUT6|You know, it's a third party off the shelf battery.
+NEUT7|All the electric like they're not a software company, like Everything runs on software.
+NEUT8|Software is eating the world.
+NEUT9|You're going to get in your car.
+NEUT10|You're going to say, take me here.
+NEUT11|It's going to take you there.
+NEUT12|Tried tried putting on a song in a GM or Ford, or doing anything electronically, trying over the air.
+NEUT13|Software update user.
+NEUT14|Just not computer companies.
+NEUT15|When I'm going to buy my future transportation spaceship product, I want this to be software connected over the air updates.
+NEUT16|App Marketplace built by a company like Apple or Tesla, not some legacy thing like GM or Ford, which literally runs on Dinosaur juice.
+NEUT17|Or that's how they built their company.
+NEUT18|Like you know, I mean talk to your smartest software engineers or software friends.
+NEUT19|How many of them are pumped to get a job and move to Detroit and go work for GM and Ford 0 and that sounds sounds simple, but the company is just a group of people.
+NEUT20|The smartest people in the world are flocking to code for Tesla and nobody wants to code for GM record.
+NEUT21|So that's why I'm not pumped about a vehicle.
+NEUT22|Where so much my consumer experience is going to learn how good those coders were.
+NEUT23|"Dinosaur juice I think that was my favorite song from individual Gallery."""

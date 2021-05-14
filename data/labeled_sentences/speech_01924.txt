@@ -1,0 +1,17 @@
+NEUT0|"""I'm Nathan Fisher combined Michael Sandler and I have almost 50 years experience helping people file bankruptcy."
+NEUT1|We've helped thousands and thousands of people file Chapter 7 to eliminate their debts.
+BEAR2|There are many more people who need to file, but haven't because of the cost.
+NEUT3|We charge less to help more people, but there are those who can't get access to the system because they can't afford to pay $1000, two $1000, or even $3000 to file.
+NEUT4|And those are usually the people who need it the most.
+NEUT5|So Fisher Sandler is going to file your Chapter 7 bankruptcy case for just the $335 filing fee, and no attorney fees down.
+NEUT6|That's right, nothing.
+BEAR7|0 down bankruptcy.
+NEUT8|0 down Chapter 7 bankruptcy instead of coming up with a bunch of money before filing, you can now spread the payments out over a full year and it'll cost you a little over $100 a month.
+NEUT9|Stop wage, garnishments, lawsuits, foreclosures, car repossessions.
+NEUT10|And stop credit or harassment.
+NEUT11|Now you don't have any excuses, so pick up the phone and call us today or put an appointment on our calendar yourself through our website at www.fishersandlerlaw.com.
+NEUT12|See you soon.
+NEUT13|Click the link below to schedule your free consultation or call 703-691-1642.
+NEUT14|Today we offer phone, virtual or inoffice consultations.
+NEUT15|Fisher Sandler, home of the Zero down bankruptcy.
+NEUT16|"Call 703-691-1642 or visit www.fishersandlerlaw.com."""

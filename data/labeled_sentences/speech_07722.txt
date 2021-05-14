@@ -1,0 +1,58 @@
+NEUT0|"""Before we get to the results, let's get to this news."
+NEUT1|Apples board has approved a four for one stock split, an why now?
+NEUT2|Apple's aim is to make this talk more accessible to a broader base of investors.
+BULL3|Now for the results, and they are better than expected.
+BULL4|Q3 earnings per share.
+BULL5|$2.58 The street was at $2.04 revenue, up 11% to 59.7 billion.
+NEUT6|That's first expectations of 52.3 billion.
+BULL7|So better on the top and bottom of gross margins coming in.
+BULL8|38% As for the segments iPhone revenue in the quarter 26.4 billion versus expectations of 22.4 billion services up 15% to 13.2 billion.
+BULL9|Wearables home accessories 6.5 billion Mac and iPad better than the street.
+NEUT10|Was looking for Mac at 7.1 billion and iPad at 6.6 billion and Greater China sales.
+BULL11|We should mention actually grew about two percent 6% in constant currency Apple.
+NEUT12|Not providing Q4 guidance at this time.
+NEUT13|Guys back to you.
+BULL14|Yeah nice 5% move higher for Apple after hours 4 for one stock split.
+BEAR15|Stephanie, I'm sorry to cut you off before.
+NEUT16|Why don't?
+NEUT17|Why don't we give you the first word here with 11% revenue growth, almost 20% looks like 18% earnings growth to new June quarter records.
+NEUT18|What do you make of that?
+BULL19|I mean well, and I also think the iPhone sales were.
+BULL20|I mean, the units are much better than expected, right?
+NEUT21|I mean 26.4 versus 22.4 services.
+NEUT22|And I was saying I thought I was.
+NEUT23|I was looking for about 12 and a half 13% growth.
+BULL24|We got 15% growth in that.
+BULL25|Has to be because the App Store the IT really accelerated throughout the quarter we thought that would be up about 3032%.
+BULL26|That looks like it's a little bit higher, so I think this is a fabulous report across the board.
+NEUT27|It trades at 30 times earnings.
+BULL28|It's up 64% since March, so the expectations were high.
+NEUT29|But these are fabulous numbers.
+NEUT30|Now we just wait for the 5G.
+NEUT31|Yeah, so Josh Lipton.
+NEUT32|Let's get back to you.
+NEUT33|Have any more color that you can give us on this report?
+NEUT34|Yeah, a couple of some color.
+NEUT35|I would give you guys first of all on the iPhone we talked about the iPhone it Cook telling me the iPhone 11 was his top seller during the quarter.
+NEUT36|It's been that way since the iPhone actually launched.
+NEUT37|We also did talk about China two.
+NEUT38|We mentioned this.
+BULL39|They did grow 2% in real dollars.
+NEUT40|Cook saying but on a constant currency basis they actually were 6%.
+BULL41|So we definitely saw China sort of come back into a big increase.
+NEUT42|I asked Cook about China, what's interesting there guys remember?
+NEUT43|China has about 40 Apple Stores, unlike here they open some stores that they had to reclose them fairly quickly because of those COVID-19 spikes, they did not have to do that in China.
+NEUT44|I asked whether that made a difference and he said that didn't make a difference in the quarter guys.
+BULL45|Josh, thanks so much for that.
+NEUT46|Let's get to Dan Ives.
+BEAR47|Dan looks like on the surface they've smashed it across pretty much every line.
+NEUT48|What do you make of it?
+BEAR49|Yeah, this is a complete blowout.
+NEUT50|I mean even best case this is beyond in terms of the iPhone number.
+BULL51|The China growth, which is key to the stock moving phone number 60 to 70 million iPhones in the window of Upper great opportunity for China.
+NEUT52|And then you look at the margin profile.
+NEUT53|You put this all together.
+NEUT54|This is a stock.
+NEUT55|I think.
+NEUT56|Next step is 425 four fifty we workout next three to six months into an iPhone 12 product cycle.
+NEUT57|"You know just this is a test one like number and now phase two comes for Apple in terms of iPhone 12."""

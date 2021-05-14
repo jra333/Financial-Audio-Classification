@@ -1,0 +1,33 @@
+NEUT0|"""Important it is to get those checks out to Americans and how big a swing factor it will mean on your GDP forecasts."
+BEAR1|German fiscal stimulus is extremely important in terms of being able to provide a backstop for the economy right now and offset the fact that the private sector has lost a lot of jobs.
+BEAR2|Income is being destroyed, so this the quicker the government can provide those in most need with the appropriate funds, the better be for the economy.
+BEAR3|So the more that this is lagged, the more we're going to see consumer spending cutback in.
+BEAR4|The more the economy is going to suffer in the next few weeks.
+NEUT5|So yes, the timing and the magnitude of the stimulus.
+NEUT6|Housley critical yeah five months as long as five months for paper checks.
+NEUT7|If you don't have direct deposit, where are we on unemployment right now, Michelle, what's your best guess?
+NEUT8|Are we in double digits yet?
+NEUT9|I think we're close if we're not there yet, and so you know, obviously just about 10 million people filed for unemployment insurance between this week and last.
+BEAR10|Not all of those will officially show up as unemployed in the official cetis ticks that are released in early May for the month of April, but a whole lot will, and we're not done yet in terms of unemployment filing, so you can easily see in the April data between 10 and 14 million people lose their jobs, throw up as unemployed in the statistics, and that will send the unemployment rate into double digits.
+NEUT11|So this is happening very very quickly and that's the nature of the shock.
+BEAR12|This isn't a cute shop, it's shutting off parts of the economy which is causing people all at once to be losing jobs.
+BEAR13|Michelle, your latest GDP forecasts has now 3/4 of contractions for Q1Q2Q3.
+NEUT14|Talk us through the latest numbers are how big the bouncer expects.
+NEUT15|Expecting in Q4 is and my final question within that is what if there is a second wave of this disease?
+NEUT16|Is that factored in?
+NEUT17|Do you expecting a bounce in Q4 or not?
+BEAR18|Yeah, so to walk through the forecasts, Q1 is likely to be negative just because of the last two weeks in March looking so weak for the consumer.
+BEAR19|So we're looking for a 7% decline in the first quarter annualized as a result of these lockdown measures, prompting people to shelter in place and shutting down businesses, Q2 is going to be more extreme, so we think we're going to see a 30% decline an annualized basis.
+BEAR20|Q3 we think we're going to see about a 1% drop, so we don't have those.
+BEAR21|The sharp snapback that a lot of other people have for the third quarter.
+BEAR22|We think it will take longer and it will take longer because it will take time for the economy to reopen.
+BEAR23|You know you can shut the economy down very quickly that that switch can go off fast, but to put it back on there is going to be frictions and we do think it will take time so there will unleash some pent up demand and spending.
+BULL24|And we think we'll see that show through probably some point this summer with the consumer coming back a bit, but it will probably take time for business investment to recover for housing investment for inventories to be restocked.
+NEUT25|And and to us that will happen more into the fourth quarter.
+NEUT26|Now you raise a really important point, wealth, which is about this potential for a W. So you could see an area where the virus isn't appropriately contained or spread elsewhere in the globe, and there's a risk of it coming back here in the US.
+NEUT27|Then sure, you can open up the economy.
+NEUT28|People can start to emerge again.
+NEUT29|Start to to, to to go back to work to restaurants and the like.
+NEUT30|And then there's a second spread which would cause this kind of W shape.
+NEUT31|So I do think that this is going to take some time to get out of.
+BEAR32|"It's not going to be a dramatic snapback, unfortunately."""

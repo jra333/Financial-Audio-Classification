@@ -1,0 +1,18 @@
+BEAR0|"""More than 7500 people have signed a moveon.org petition to call on Disney to delay the July 11th opening of Disney World in Florida until they see a decline in covid cases in that state."
+BEAR1|Now, this comes after a dozen unions representing some 17,000 Disneyland employees in California wrote to California Governor Gavin Newsom last week, saying that they believe it's still unsafe to open that park.
+NEUT2|Disney telling us quote the safety and well being of our cast members and guests are at the forefront of our planning and we look forward.
+BULL3|To continue dialogue with our unions on the extensive health and safety protocols following guidance from public health experts, which we plan to implement as we move towards our proposed phased reopening.
+BULL4|Now it is worth noting that Disney's Parks Division was its biggest profit growth driver last year.
+NEUT5|The division was Disney's largest by revenue, so certainly a lot of pressure there, but it's worth noting as we await California to approve the opening of the parks here, we're still awaiting that from the governor that universals Orlando Park is already open.
+NEUT6|At limited capacity, yeah.
+NEUT7|I mean, I don't know if they would ever make a reversal on that count.
+NEUT8|Julio is interesting that this one is coming from the workers as regards Disney.
+NEUT9|Yeah no, it really speaks to the fact that Disney really needs to make sure that both its workers and its visitors feel really comfortable.
+NEUT10|It doesn't send a particularly good message to Disney fans to people who might want to visit the park that the workers are saying this right now, but you really need all of their constituents to feel comfortable.
+NEUT11|For this to work out.
+NEUT12|So I know that Disney is really doing everything it can right now to make sure that that environment is safe at the parks.
+NEUT13|The question that we're hearing the employees ask.
+NEUT14|Is whether there's any world in which it makes sense to open the doors right now, yeah, but you're right.
+NEUT15|Disney in particular has a lot riding on this.
+BULL16|Julia, thanks very much.
+NEUT17|"Julia Borsten with the latest there."""

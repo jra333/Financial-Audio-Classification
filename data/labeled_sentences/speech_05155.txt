@@ -1,0 +1,19 @@
+BULL0|"""Guidance for Q3 also pretty strong revenue guide had been expected to come in around 8687 billion and they've guided 87 to 93 billion for the third quarter."
+NEUT1|So beta or beat on the guide.
+BULL2|Not really something to beat, but an impressive guide operating income guide roughly in line with expectations 2 to 5 billion so strong.
+BULL3|Q2 strong guide for Q3 digit growth has been digging through the numbers as well.
+NEUT4|D. What stands out?
+NEUT5|Hey well just on those covid costs remember that last quarter it said that mostly all of its operating costs would go towards covid over 4 billion, so that was expected next quarter.
+NEUT6|Q3 assuming more than $2 billion in covid costs.
+NEUT7|I also want to break out a WS.
+NEUT8|Amazon's cloud computing unit net sales of $10.8 billion.
+BEAR9|And that is a little bit shy of the $11 billion expected on the annual growth rate, dipping below that, 30% market was 29% year over year.
+NEUT10|Perhaps you could have seen this coming because?
+BEAR11|Microsoft Cloud unit sales decelerated a little bit as well, but that is not hitting the stock, which is still up about 4%, and that may be because it looks like on pretty much every other cylinder Amazon is firing.
+BEAR12|I also want to pull out third party seller services coming in at $18 billion.
+BULL13|That represents growth of 53%, up from 31% annual growth last quarter.
+NEUT14|This is important because it relates to some of those complaints that Amazon unfairly competes with.
+BULL15|With its third party seller, so that is likely a positive point.
+BULL16|Also, advertising revenue holding up as well.
+BULL17|It looks like that grew 41% year over year from 44% annual growth last quarter.
+BULL18|"So guys will continue to dig into this, but again a little bit missing those expectations on a WS, but elsewhere it looks pretty good."""

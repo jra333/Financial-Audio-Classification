@@ -1,0 +1,33 @@
+NEUT0|"""Neo stock analysis and predictions, December 25th."
+NEUT1|In today's NEO stock analysis and predictions, how Alibaba's investigation affects anios talk?
+NEUT2|Alright, let's get started.
+BEAR3|Alibaba on Thursday suffered its worst one day decline due to regulate his opening an antitrust investigation.
+BEAR4|Alibaba and all of its affiliate stocks fell 18%, which is outpacing its previous one day decline of eight point 8%.
+BEAR5|The stock had low levels not seen since June for investors in Alibaba and its affiliates, companies.
+NEUT6|Where does this leave them?
+NEUT7|And how does?
+NEUT8|How does Alibaba's backlash effect NIO stock?
+BEAR9|Expense case expecting a child company of Alibaba experienced a 4.41% decrease in at price target to $41.87, according to analysts expect will take a further hit due to its parent company's ongoing investigation.
+BEAR10|Analyst expect expect to drop another 5 to 8% within the next few days until things are sorted out with their parent company.
+NEUT11|Alibaba is the largest e-commerce platform in China based on user activity and that means that the site tends to attract lower to middle income consumers.
+NEUT12|Alibaba has disclosed that it has millions of merchants on its retail e-commerce platform.
+NEUT13|The question is to what extent are these merchants feel forced into exclusivity agreements by Alibaba?
+BEAR14|How many merchants have been forced to list only on Alibaba's or its child companies platform?
+NEUT15|That is why Alibaba is investigated.
+NEUT16|For those who are long gone, expect you can view this as a great opportunity to buy into the shares at a low price.
+NEUT17|If you are trading on the shorthand analysts suggest cashing out on expense stock and avoid the upcoming price drop that will come within the next few days.
+NEUT18|As Alibaba is further investigated.
+BEAR19|The case for NIO stocks for investors in NIO, you can expect a temporary hit in share prices due to expense.
+BEAR20|Bad news.
+BULL21|Analysts expect an iota bounce back from expense, bad news due to four factors, one Anio Day, which is an annual gathering of NIO users to reveal what is upcoming for Nio's, a brand and as a company to an IO is set to reveal its new E7 sedan 3 Anio is set to release the prototype of its second sedan for an iOS news 150 KHW battery.
+BULL22|These catalysts are expected to put NIO in the green within the upcoming trading days.
+BULL23|Anio strong fundamentals.
+BULL24|New vehicles, products and future prospects will help the company push forward in spite of expense.
+BEAR25|Bad news.
+NEUT26|That's what's been happening this week in the world of Neo.
+NEUT27|Stock analysis and predictions.
+NEUT28|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT29|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL30|We'd really appreciate it.
+NEUT31|Are you still watching and want more?
+NEUT32|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

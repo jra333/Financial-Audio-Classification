@@ -1,0 +1,25 @@
+BULL0|"""Shares of Disney jumped as much as 7% on the news in after hours trading."
+NEUT1|The Walt Disney Company just announced that its streaming service Disney Plus has more than 50 million subscribers.
+NEUT2|Fair value and profit drivers.
+NEUT3|Our updated fair value estimate is $130 per share and reflects the impact of the COVID-19 pandemic and our updated assumption that the parks remain largely shuttered for the remainder of 2020.
+BULL4|We expect average annual top line growth of about 8% through fiscal 2024 with annual growth of 10% for fiscal 2021 2020.
+BULL5|Four we project average organic annual sales growth from the media networks to be 4 percent, 5% for affiliate fees and 1% for advertising as the loss of subscribers at ESPN and other pay TV channels will be offset.
+BULL6|Viper Sub affiliate fee increases domestically.
+BULL7|We also expect new bundles to provide a boost to this segment.
+BEAR8|We project that the US parks will remain closed through 2020 as a result of the shutdown at a lag and consumers returning fiscal 2020 revenue for domestic parks will fall by over 50% and that fiscal 2021 revenue will remain 35% below fiscal 2019.
+BEAR9|On the international side, the Chinese parks will also remain closed in 2020, resulting in a revenue decline of over 68% and that fiscal 2021 revenue will be 30% below fiscal 2019.
+BEAR10|As a result, the new parks and consumer division will suffer a 49% decline in revenue in fiscal 2020, and fiscal 2021 will be 29% lower than fiscal 2019.
+BULL11|We expect normalized growth of 4% in fiscal twenty 2324.
+BEAR12|Given the delay of movie premieres in theater closures, we believe that theaters will be largely empty until June in the US, China and Europe.
+BEAR13|As a result, theatrical revenue will decline by 40% in fiscal 2020, and that fiscal 2021 will remain 15% below the fiscal 2019 levels for fiscal 2023-2024.
+BULL14|The studio will return to 6% organic average annual growth due to the strong slate of Marvel movies in the growth in TV subscription, VOD and other outlets as Disney Plus ramps up.
+BULL15|We estimate 26% annual growth for the new DTC segment is.
+BULL16|We are modeling strong subscriber growth for Disney Plus, and Hulu.
+BULL17|We now project that the Disney branded service will hit 94 million paid subscribers by the end of fiscal 2024 due to its strong launch quarter in the US.
+BULL18|This growth assumes a strong international rollout and continued low prices for the service in the US and aboard.
+BULL19|We project that the segment will just be profitable by the end of our five year projection.
+BULL20|We project Disney's overall operating margin will improve to 19.5% in fiscal 2024 from 17% in fiscal 2019 as the losses at the DTC segment are offset by margin improvements at the studio and Park segments.
+BULL21|After recovering from the impact of the COVID-19 pandemic.
+NEUT22|As always, be sure to let me know your thoughts down in the comments.
+NEUT23|Be sure to smash that like button.
+BULL24|"Thank you so much for tuning in and I will catch you in the next video."""

@@ -1,0 +1,5 @@
+BULL0|"""Coinbase Global revealed an eye popping valuation on Wednesday, reflecting the craze over cryptocurrencies."
+BULL1|The largest US digital currency exchange said private transactions valued the company at around $68 billion ahead of a planned stock market listing that represents nearly 13 full jump in its valuation in the space of a few months, and underscores how the perceived value of Coinbase has rallied in lockstep.
+BULL2|With a surge in the price of Bitcoin, a successful listing by Coinbase, whose business is primarily focused on digital currencies, would represent a landmark victory for cryptocurrency advocates vying for endorsement for a sector that has struggled to win the trust of mainstream investors, regulators and the general public.
+NEUT3|It could also be seen as a tacit regulatory approval of assets traded on Coinbase is platform, and that platform is global.
+NEUT4|"The company boasts more than 43 million users in more than 100 countries."""

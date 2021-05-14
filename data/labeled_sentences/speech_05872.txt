@@ -1,0 +1,7 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 weekly chart."
+BEAR1|You can see that we continue to bounce around right above 3400 on the weekly timeframe, chopping back and forth, doing as much damage as we can to people trying to pick up momentum.
+NEUT2|That being said, I don't necessarily think that there is anything wrong with.
+BEAR3|The market, other than the fact that we are bracing for the election short term pool banks offer buying opportunities, but from a longer term standpoint, it's going to be very difficult to put a lot of money into the market.
+BEAR4|This is likely to continue to be noise.
+NEUT5|And maybe a range of 2035 hundred and say 3300.
+NEUT6|"It's difficult to imagine that we're going to do much more than chop sideways."""

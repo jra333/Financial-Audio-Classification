@@ -1,0 +1,26 @@
+NEUT0|"""Charles Dickens famously wrote it was the best of times."
+BEAR1|It was the worst of times.
+NEUT2|It was the age of wisdom.
+NEUT3|It was the age of foolishness.
+NEUT4|Charles Dickens could easily been describing the performance of stocks for the second quarter of 2019.
+BEAR5|In the second quarter of 2019, we experienced the worst of times with the S&P 500 index losing over 6% in the month of May fear gripped markets, as trade talks with China fell apart, increasing the odds of a global recession.
+BULL6|In June we saw the best of times with the S&P 500 Index gaining 7% following news from the Federal Reserve that interest rate cuts were likely.
+BULL7|The good news continued when reports surfaced, indicating trade talks with China may resume when President Trump and President Xi of China meet at the G20 summit.
+BEAR8|For investors that held steady during the May sell off, it was an age of wisdom for investors that were spooked by the headlines and sold stocks.
+NEUT9|It was an age of foolishness as the first half of 2019 came to an end.
+BULL10|The S&P 500 Index gained an impressive 18% and the tech heavy NASDAQ did even better, gaining over 20%.
+BEAR11|International shares continued their underperformance relative to U.S. stocks, but still posted a respectable 14% gain in the first half of 2019.
+BEAR12|Other than trade and tariff talk, the biggest news of the quarter, an likely for the year is the low level of interest rates.
+BEAR13|The 10 year U.S. Treasury has a current yield of only 2%, which is down from nearly 3% in March.
+BEAR14|The Federal Reserve has signaled interest rates are likely to be cut in 2019 in the bond market took this as an indication that lower rates are probable for the foreseeable future.
+NEUT15|We simply need the Federal Reserve to cut interest rates in July to confirm the bond market, Lee.
+NEUT16|What can investors expect from stocks going forward?
+BEAR17|For starters, the S&P 500 index is essentially flat since the September 2018 highs as corporate earnings have grown and stock prices remain flat.
+BULL18|This makes stocks cheaper today than they were nine months ago.
+NEUT19|Secondly, is interest rates.
+BULL20|Hover around 2%.
+NEUT21|There are few liquid places to invest other than stocks.
+NEUT22|As a result, use any negative headlines or stock.
+NEUT23|Sell off as a buying opportunity.
+NEUT24|From the HM Capital Management team.
+BULL25|"Thank you for watching."""

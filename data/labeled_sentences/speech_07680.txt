@@ -1,0 +1,37 @@
+BULL0|"""Hey, how you doing?"
+NEUT1|I'm Eric Schlein from Larchmont, NY.
+NEUT2|This is actually a follow-up question from a question that I asked last year at the meeting.
+NEUT3|I asked you guys you know what you would do with a small sums of money.
+NEUT4|Since you know I run a small portfolio under $1,000,000.
+NEUT5|And you know, I asked you if you be doing things you know, like the net Nets that Benjamin Graham used to talk about an you know liquidation arbitrage.
+NEUT6|You know a lot of the things that used to do in the buffet partnership and you acknowledged that you wouldn't be just to buy and hold investor that you basically are today.
+NEUT7|But we'd be doing a lot of those transactions.
+NEUT8|And Mr. Buffett, you also talked about how a lot of the investments you would do with under $1,000,000 would have nothing to do with stocks and would be with other types of securities.
+NEUT9|And you're really not elaborate.
+NEUT10|Neither of you really elaborated.
+NEUT11|Anymore than that, so I guess I was wondering if you could elaborate a little more little bit more on how your investment strategy.
+NEUT12|You know back then.
+NEUT13|You know in reference to non stock investments would be different than your buy and hold strategy today.
+NEUT14|So what kind of stuff would you be doing?
+NEUT15|Maybe you can give me a past example that you did in the 50s and 60s that would be great.
+NEUT16|Thank you.
+NEUT17|Appreciate it well.
+NEUT18|If I were working with small sums of money and I would be happy doing that.
+NEUT19|The.
+NEUT20|It would just open up.
+NEUT21|Thousands of possibilities to man.
+NEUT22|You might very well, certainly we found.
+BEAR23|Very mispriced.
+NEUT24|Bond switch where we could.
+NEUT25|Come nowhere near buying a position of enough size in Berkshire to make a difference, but.
+NEUT26|Where it would have made a difference if you were working with $1,000,000 but.
+NEUT27|It would be bonds.
+NEUT28|It would be.
+NEUT29|It would be stocks of.
+NEUT30|Both in the United States and elsewhere, we found him in Korea a few years ago that were ridiculously cheap.
+NEUT31|You know, you basically had to make very significant returns, but you couldn't put big money out in it, so it could be in stocks that could be in.
+NEUT32|Bonds wouldn't be in currencies with small amounts.
+NEUT33|But you know, I had a friend who used to buy tax liens.
+NEUT34|You know Tom, now he's got some relatives here and an enterprising person can find a lot of different ways of making money.
+NEUT35|You'll find them, most of them will be in small stocks if you're working small money, they'll be in small stocks or in some specialized bond situations.
+NEUT36|"Would you say that Charlie, sure?"""

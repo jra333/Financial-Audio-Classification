@@ -1,0 +1,34 @@
+NEUT0|"""Warren Buffett announcing that Berkshire Hathaway or I should say, Berkshire Hathaway announcing that they have gotten out of their position of Costco and Brian Sozzi."
+BEAR1|This certainly came as a surprise to many longtime ties between Berkshire and Costco.
+NEUT2|Charlie Munger board member over a Costco.
+NEUT3|They've been in stock for 20 years.
+NEUT4|Costco just coming out with a $10 per share.
+NEUT5|Special dividend.
+NEUT6|We know that Warren Buffett likes excess cash that he can deploy into more assets, but they are now.
+BULL7|Out of Costco, and I think certainly to you coming as quite a surprise and a surprising pivot in 1/4 where they added to Kroger.
+NEUT8|I didn't really think dump Costco by Kroger is the kind of trade we were going to see these days.
+NEUT9|I have crackers been doing a lot of things pretty pretty well miles, but yes, this one surprises me and I go more in depth on this in a story on Yahoo Finance right now.
+NEUT10|So I encourage everyone to please check it out.
+NEUT11|But to your point, Costco is a business really right in the wheelhouse, Warren Buffett.
+NEUT12|It is a retail business.
+NEUT13|He knows that very well it has a wide Moat around its business.
+NEUT14|Certainly those are things that he can appreciate.
+NEUT15|But a couple of reasons here why it's surprising Miles, first of all, is the exit.
+NEUT16|The stock before he can get paid for the special dividend, you have to be a shareholder of record.
+NEUT17|As of December 2nd to get that dividend.
+BULL18|Also the company is gaining a lot of share in recent months from a lot of other retailers during the pandemic Costco is put up double digit, same store sales increase overall for the past five months.
+NEUT19|That is not the norm right now in retail.
+NEUT20|And also Costco is an international business.
+BULL21|They're having a lot of success, double digit sales gains in a lot of markets like China.
+NEUT22|Like a South Korea in that other retailers just are not.
+NEUT23|Having that brings more membership fee fees into the business.
+BULL24|They could take that money deployed in the US, improve their e-commerce business again miles.
+BULL25|It really creates this flywheel and widens their competitive advantage.
+NEUT26|And I suppose right at a certain point you need to take profits on your position.
+NEUT27|But Warren Buffett is Riding American Express that he bought in 1965, so it hasn't really been a slave to those realized profits.
+NEUT28|And I guess it's also interesting at a time where they finally got into Amazon.
+NEUT29|After Buffett Munger said they probably could have understood that business alphabet is another company they do not own, but that Buffett and Munger have both said, yeah, we probably should have been able to figure that one out.
+NEUT30|They bought Snowflake at the IPO while they own Amazon and got out of Costco.
+NEUT31|So there's certainly a changing of the guard there within the Berkshire portfolio, we know that you know Ted and Todd Todd Combs said West are more involved in the decision making there, but Costco was definitely a buffer position through and through this one's been in the portfolio for a long time.
+NEUT32|And interesting to see how those things have evolved over the years.
+NEUT33|"Over at Berkshire Hathaway."""

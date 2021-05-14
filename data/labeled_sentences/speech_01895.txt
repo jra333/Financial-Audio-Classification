@@ -1,0 +1,35 @@
+NEUT0|"""Cdtv.net dividend report is brought to you in part by 1M3 Corporation."
+NEUT1|IT solutions for banking and finance.
+NEUT2|Call them at 917-686-3485.
+NEUT3|I'm John Hannah and here are the CD tv.net David and report for Wednesday, February 10, 2010.
+NEUT4|Cdtv.net covers dividend paying stocks.
+NEUT5|Earnings reports, dividend announcements and company profiles.
+NEUT6|But first, here's today's city without.
+NEUT7|Net.
+NEUT8|Top stories.
+BULL9|The Coca Cola Company reported fourth quarter earnings per share were $0.66, up 53% from 43 cents last year.
+NEUT10|Analysts average estimates were $0.67 per share.
+BEAR11|Coca Cola misses by a penny.
+BULL12|Sales were driven by international volume growth of 6% in the quarter and 4% for the full year.
+NEUT13|The Coca Cola Company manufacturers distributes.
+NEUT14|Ann markets non alcoholic beverage concentrates and syrups worldwide.
+BULL15|The Walt Disney Company reported excluding items earnings per share for the fourth quarter increased 15% to $0.47, compared to 41 cents in the prior year quarter.
+NEUT16|Analysts average estimates were $0.38 per share.
+BULL17|Disney beats by 9 cents.
+BULL18|Revenue gained 1% to $9.7 billion from $9.6 billion last year.
+NEUT19|The Walt Disney company.
+NEUT20|Together with the subsidiaries, operators and entertainment company worldwide and now the dividend report.
+NEUT21|Cardinal Health Incorporated Board of Directors approved a regular quarterly dividend of 17 and a half cents per share.
+NEUT22|The dividend is payable on April 15 to shareholders of record on April 1st, 2010.
+NEUT23|Cardinal Health Incorporated provides health care products and services primarily in the United States.
+NEUT24|Regal Beloit Corporation Board of Directors declared a dividend of $0.16 per share, payable on April 16 to shareholders of record at the close of business on March 26, 2010.
+NEUT25|Regal Beloit Corporation, together with its subsidiaries, manufacturers and sells electrical and mechanical products in the United States, Canada, Mexico, India, Australia, Thailand, Europe, and China.
+NEUT26|Healthcare Realty Trust Incorporated declared dividend in the amount of $0.30 per share.
+NEUT27|The dividend is payable on March 4th to shareholders of record on February 18, 2010.
+NEUT28|Healthcare Realty Trust Incorporated, a real estate investment trust.
+NEUT29|Engages in the ownership, acquisition, management and development of real state properties associated with the delivery of health care services in the United States.
+NEUT30|Out Lock Incorporated Board of Directors declared a first quarter dividend of $0.20 per share, which is payable on March 1st to shareholders of record at the close of business on February 16, 2010.
+NEUT31|Aflac incorporated through subsidiary, provides supplemental health and life Insurance Allergan, Incorporated Board of Directors, declared a.
+NEUT32|Port quarter dividend of $0.05 per share payable on March 12 to stockholders of record on February 19, 2010.
+NEUT33|Allergan, Incorporated is a multi specialty healthcare company.
+NEUT34|"For more information about these dividends an other announcements go to see tv.net."""

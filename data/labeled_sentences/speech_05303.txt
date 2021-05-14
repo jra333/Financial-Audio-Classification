@@ -1,0 +1,21 @@
+BEAR0|"""Nigeria stocks suffered major losses in the first quarter of 2021, which ended yesterday due to several factors, some of which include rising yields in government, securities, reallocation of portfolios by investors, profit taking and the deteriorating situation in the economy."
+BEAR1|It's not looking like anything different in this new quarter as the stock market recorded a total loss of 0.33.
+NEUT2|Percent to close today at 38,916 basis points.
+BEAR3|Market capitalization also lose over 67 billion error so close today at 20.361 trillion error.
+BEAR4|However, the market performance was affected by losses in stocks like FTN, cocoa and any insurance which jobs are losers.
+NEUT5|List today are losers.
+NEUT6|List of Four is, however, completed by Unity Bank and regulations were recorded.
+BULL7|A combined six couple hours at the close of trading today, Meanwhile, are top gainers today.
+NEUT8|We have USEN and royalex topping gainers list again, at least is, however, agonist list of four rather is all about concluded by Zippo and Kotick's moving on now to our market somewhere we can see right here that 239 million shares valued at 2 billion air exchange and in 4450 deals today.
+NEUT9|On the global scene, however.
+NEUT10|The Footsie, the Dow Jones, and the Nikkei Japan stocks.
+BULL11|They are all in the positive territory today.
+BEAR12|The long term stocks clawed back some of yesterday's losses.
+NEUT13|That's the Footsie as it I'd economic data ahead of the Easter weekend.
+BULL14|We can also say it is riding on the optimism, sending the US market.
+NEUT15|After President Joe Biden unveiled a $2 trillion infrastructure investment plan.
+BULL16|The Dow Jones also is in the positive territory, mostly today as the market gets president.
+BULL17|Bidens boost it recorded a 0.49% increase.
+BULL18|The Japan stock sneaky, it's also rising, as you can see right here.
+BULL19|That's because investors snapped up shares of semiconductor related companies on the first day of the new fiscal year on OPS for robust corporate earnings, and it recorded a 0.72% increase.
+NEUT20|"As you can see right here, that's all on stock market review."""

@@ -1,0 +1,14 @@
+BEAR0|"""Fears of renewed risk are fueling the rally in sovereign bonds here in the UK, gilt yields are reaching a record low on Thursday."
+BEAR1|German bond yields are also reaching uncharted territory.
+BEAR2|Low and negative interest rates have been steadily lifting the price of government debt this year.
+BULL3|Bond prices got another big boost on Friday, with new data showing weakness in the world's largest economy when the may U.S. jobs report showed the slowest growth since 2010.
+BEAR4|Bond prices move in the opposite direction to their yields, so as prices go up, the yields go down.
+BEAR5|Investors are grappling with lots of uncertainty at the moment.
+NEUT6|The UK referendum on whether to leave the European Union is coming up in just a few weeks.
+BULL7|However, while Brexit could be a big event even if voters decide to leave the EU, the pound exchange rate would adjust, as with the Bank of England's policy, so investors would still expect the UK government would pay up.
+NEUT8|The recent bond buying spree, including gilts, is more to do with investors concerns about global economic growth.
+NEUT9|Investors are searching for safe haven assets in global markets.
+NEUT10|They're not finding it in the commodity markets.
+BEAR11|Oil's recent rally has stalled after report showing higher inventories.
+BEAR12|American stocks are nearing record highs, while the recovery in the European equities is stalling.
+NEUT13|"Government bonds represent a haven for investors, but with zero and even negative interest rates, many investors aren't sure where to turn."""

@@ -1,0 +1,27 @@
+BULL0|"""On Wednesday, the Federal Reserve raised short term interest rates by 25 basis points to a range between one an 1 1/4%, the 4th increase since December 2015."
+NEUT1|But are the Fed's efforts to steer the economy working?
+NEUT2|Here are three things to know.
+BULL3|Number one, the feds rate increases are not cooling off Wall Street's hot streak.
+NEUT4|In theory, when the Fed lifts short term rates, long term rates should rise and financial conditions.
+BEAR5|Should tighten, but stocks have rallied to record highs this year and bond yields have fallen yields on 10 year Treasury notes are at their lowest levels since November, so borrowing costs are falling for many households and businesses, even as the Fed tries to raise them.
+BEAR6|That increases the risk of overheating the market, which economists say could then snap back, potentially sending yields soaring and choking off, lending #2.
+NEUT7|So is the Fed's influence over the economy waning?
+BEAR8|If the central bank and Wall Street continue to move in opposite directions, it suggests the Fed's ability to steer the economy is limited, as New York Fed President William Dudley told The Wall Street Journal.
+BEAR9|If we decide that we need to tighten financial conditions and we raise short term interest rates and that doesn't accomplish our objective, then we're going to have to tighten short term interest rates by more.
+BEAR10|Many economists say the disconnect between.
+BEAR11|Fed policy and the market is due to factors the Fed can't control like central bank stimulus in the Eurozone and Japan which is prompting investors there to look to U.S. government debt for better returns that pushes up the price of long term Treasury securities and drives down yields.
+BEAR12|Also driving down yields cooling expectations that the Trump administration will quickly usher in a tax overhaul plus add to that the global economy picked up this year.
+NEUT13|Boosting equity prices and weakening the dollar number 3 keep your eye on the rate of inflation.
+NEUT14|Fed governors meet.
+NEUT15|Next on September 19th and 20th and have indicated at least one more rate increase this year.
+BULL16|But inflation could keep that plan in check.
+NEUT17|One thing that they really looking at very carefully is how inflation behaves.
+BULL18|They've been, you know, they've been trying to push inflation up to their 2% target.
+NEUT19|Now for for a long time.
+NEUT20|It was under shooting the target.
+NEUT21|For almost five years they hit it.
+BULL22|Earlier this year went up to I think 2.1 or two point 2%.
+BULL23|So the thinking was OK. Well, now they've they've actually the economy is improving.
+NEUT24|Inflation is right where they want it.
+BEAR25|What's happened since then, however, is that inflation has dipped back down again to around one point 7%.
+BULL26|"So I think they really want to see some some indication that the inflation gauge is going to move back up before they really feel fully confident to go again."""

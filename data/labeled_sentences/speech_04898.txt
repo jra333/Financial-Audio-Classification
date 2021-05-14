@@ -1,0 +1,51 @@
+NEUT0|"""We are of course watching for Dow 22,000."
+NEUT1|We've been watching all morning.
+NEUT2|Come on in economist John loss.
+NEUT3|All right, John, I say that there is a kind of a mood of economic optimism.
+NEUT4|Ignore the swamp.
+NEUT5|Ignore politics.
+BULL6|There's some optimism about the economy and that's boosting the markets.
+NEUT7|You agree, I agree, but it's more than optimism.
+BEAR8|There's actually been kind of the rubber hitting the road.
+BULL9|We've had a number of regulations being repealed, but there's optimism about the tax changes right now.
+NEUT10|the United States has the highest tax rate in the world, almost 40.
+NEUT11|Percent you have candidates about 20% where somebody going to invest a dollar if they can.
+NEUT12|Each dollar they making profit they get to keep $0.20 more and that may change very soon.
+NEUT13|But John why are investors expressing any confidence that will get a tax cut?
+NEUT14|I mean they fit the Republican Party.
+BEAR15|Congress failed miserably on health care.
+NEUT16|Didn't get it.
+NEUT17|Why are investors believing this time around that this time will get it done?
+NEUT18|Well look, even if you think there's a 50% chance that something will go through, this is going to be such a massive change.
+BULL19|If it does get through, we're going to see investment flowing in from around the world.
+NEUT20|This is going to be the 1980s all over again.
+NEUT21|The capital is very liquid.
+BULL22|It moves very quickly, particularly in international markets to where I can get the highest return.
+NEUT23|If you lower the tax rate from near 40% to 20%, that's a huge difference.
+NEUT24|And people who would have thought of investing in the United States before going to flood money in here.
+NEUT25|Just like even what do you think?
+NEUT26|Some of the cash will come back to America that's currently being held by big technology companies.
+NEUT27|I mean Apple has got about $220 billion cash sitting overseas.
+NEUT28|Does that come back here?
+NEUT29|If we get tax cuts?
+NEUT30|So yeah, a lot of that's going to come back but but that's just a small portion of the money that's in international capital markets.
+NEUT31|That's going to flow to the United States.
+NEUT32|Where do you think would go on the Dow industrials if we really do get tax cuts this year?
+NEUT33|Oh, I mean, I, my guess is you probably, if you think there's a 50% chance that they're going to get this.
+NEUT34|My guess is actually getting it.
+NEUT35|You may see another 400 points, 500 points, maybe in the Dow, just on the news that we're likely to get it.
+NEUT36|That's it, right?
+NEUT37|OK, how about Amazon corporate executives nowadays?
+NEUT38|Mention Amazon in their earnings calls more often than President Trump.
+NEUT39|And frankly, they're looking over their shoulder.
+NEUT40|Best scared of Amazon.
+NEUT41|Your thoughts on that?
+NEUT42|Well look.
+NEUT43|I mean, why shouldn't they be scared of a company that provides products at a low price and high quality?
+BEAR44|I mean that should scare lots of potential competitors that are there.
+BULL45|OK John, thanks for joining us.
+NEUT46|That was very interesting.
+NEUT47|Your statement on tax cuts, a flood of money comes in.
+NEUT48|If we cut taxes, we're waiting for it with patiently waiting.
+NEUT49|John Lott.
+BULL50|"Thanks a lot, OK?"""

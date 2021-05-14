@@ -1,0 +1,17 @@
+NEUT0|"""In this video we will take a look at stocks bought by billionaires and last quarter."
+NEUT1|George Soros bought 55,000 shares of Disney, a time worth about 5,000,000 and he bought almost 3,000,000 shares of Peloton worth, about 79 million at the time.
+NEUT2|You are probably familiar with Disney, and if you never heard for Peloton Interactive, it is company that sells exercise equipment.
+NEUT3|David Einhorn bought almost 109 thousand shares of Disney Fifty 7500 shares of Berkshire Hathaway.
+NEUT4|Also, he bought 10,000 and 900 shares of Tesla.
+NEUT5|Seth Klarman's baupost group.
+NEUT6|About 300,000 shares of Alphabet and 2,000,000 shares of Facebook.
+NEUT7|Stanley Druckenmiller also bought Disney and now he has almost 30,000 shares of Disney.
+NEUT8|Daniel Loebs tripled its Amazon stake.
+NEUT9|Bill Ackman bought Berkshire Hathaway in Starbucks.
+BULL10|Carl Icahn nearly quadrupled his stake in Occidental Petroleum.
+BULL11|Howard Marks Oak Tree Capital more than doubled its Alibaba Holdings.
+BULL12|David Teppers fund bought Netflix, Tesla and Twitter well.
+BULL13|John Paulson more than quadrupled his Tiffany steak.
+BULL14|Disney Stock was bought by 5 billionaires which makes it most popular stock among billionaires.
+NEUT15|Peloton Tesla, Berkshire Google Facebook, Amazon Alibaba, Starbucks, Occidental, Netflix, Twitter and Tiffany Ware stocks bought by billionaires.
+NEUT16|"If you are interested in videos like this, please subscribe."""

@@ -1,0 +1,37 @@
+NEUT0|"""Hello, I'm Steve Forbes and this is what's ahead."
+NEUT1|We give you the insights you need for this ever changing turbulent world.
+NEUT2|Well, baseball fans and sports fans are wondering are we going to get baseball this year?
+NEUT3|Well, hockey got its act together in the post Covid world basketball got its act together.
+NEUT4|Both of those leagues are resuming play.
+NEUT5|Yes, truncated season empty arenas, but the games will go on but baseball, the granddaddy of them all play was supposed to resume.
+NEUT6|Try 4th ain't going to happen.
+NEUT7|Why because players and owners are locked in a bitter dispute, they're debating how many games should there be?
+NEUT8|How should salaries be determined in this truncated season?
+NEUT9|After all, stadiums are going to be empty.
+NEUT10|A huge source of revenue in a traditional season.
+NEUT11|Well, I think fans have a message for both sides.
+NEUT12|Get your act together.
+BEAR13|Everyone knows this is a terrible time.
+NEUT14|Compromises have to be made.
+BEAR15|Players should realize with people unemployed, there's not much sympathy.
+BEAR16|Oh my salary might go down a couple of $1,000,000.
+NEUT17|Boo Hoo owners are not blameless either.
+BEAR18|They've been practicing some of them bad things in recent years, like tanking deliberately tanking their teams, making them play badly for several years.
+BEAR19|They've also been playing thanks to Arcane Rules games with calling up players from the minor leagues, delay it a couple of weeks that hurts their future earnings.
+NEUT20|All of these things are legitimate issues, but now is the time for compromise.
+NEUT21|People want at least for two or three hours a day to be able to leave this troubled world and go into the world of sports and baseball and root for their favorite team.
+BEAR22|Unfortunately, Major League Baseball's had a terrible history of Labor relations 25 years ago.
+BEAR23|They wiped out an entire season 'cause they couldn't come to an agreement.
+NEUT24|Now they have a major negotiation coming up next year.
+NEUT25|This ain't going to help this dispute now, so put aside their big disputes, this is not just about baseball.
+NEUT26|This is about the country.
+NEUT27|Baseball is called America's pastime.
+NEUT28|Well, if baseball doesn't watch out baseballs, time is going to be passed when a team or a player doesn't do something that's considered right.
+NEUT29|Fans mentally put an* next to that player or team baseball.
+NEUT30|It better watch out because this whole season is going to be an* and the way* is going to be spelled as with two S is not one.
+NEUT31|Get your act together guys.
+NEUT32|America needs you and you need us.
+NEUT33|I'm Steve Forbes.
+BULL34|Thank you for being with us.
+NEUT35|Give me your views on this dispute.
+BULL36|"I look forward to seeing you next time."""

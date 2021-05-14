@@ -1,0 +1,28 @@
+NEUT0|"""George Floyd's daughter Gigi now owns a piece of Disney."
+BULL1|Thanks to Barbra Streisand.
+NEUT2|Wow, the six year old posed with a letter from the singer on Instagram as well as the official certificate from Disney.
+NEUT3|It's not clear how many shares Gigi was gifted.
+NEUT4|Disney stock Price sits at about $115.00 a share.
+NEUT5|Touring what do you make of this gift as opposed to cash right?
+NEUT6|And I was thinking a lot about this 'cause I would think why doesn't she just want cash for a little girl?
+NEUT7|Disney Right is a smart move to be super honest.
+NEUT8|I've been thinking about that just to have some.
+NEUT9|Involvement in being part of getting the Certificate of Disney.
+NEUT10|That probably meant more to her than some cash, so Barbra Streisand has a new grandchild, Anne.
+NEUT11|I think she's probably thinking on that level an I was a little rushed to judgment before when I said just give her cash.
+NEUT12|What is this?
+NEUT13|I think this was probably more special at this point.
+BULL14|Yeah, and it's still sorry.
+NEUT15|I disagree.
+NEUT16|I disagree.
+NEUT17|I disagree.
+NEUT18|I do look let me let me tell you that.
+NEUT19|Did you guys ever get cards for your birthday from Grandma?
+NEUT20|What came out of it when you opened it?
+NEUT21|Money or a check?
+NEUT22|Not shares?
+NEUT23|No little kid once shares coming out of their birthday card.
+NEUT24|They want money.
+NEUT25|They want checks.
+NEUT26|Cut a check Barbara at that little girl can't see shares they can she can see she can see a couple of greenbacks in there though.
+NEUT27|"Come on."""

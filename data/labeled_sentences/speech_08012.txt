@@ -1,0 +1,28 @@
+NEUT0|"""In the Hollywood version of investing, the idea is to sell high and buy low, and sometimes people have managed to do this, making fortunes or at least success amongst their peers."
+BEAR1|The problem, as the US stock market gets into it, eighth year of gains and the world market seemed to be caught up in this long bull market.
+NEUT2|For stocks and assets of all sorts, is that that attempt doesn't really work anymore when bonds are expensive as well as stocks.
+BEAR3|What do you sell if you want to get out of the stock market and if you do want to get out, how do you know when, because markets have defied pessimists for years, projections that markets will fall earnings will fall.
+NEUT4|It'll all come to a sticky end.
+NEUT5|Really haven't come true.
+NEUT6|So the big question for investors, and for policymakers who are worried about the financial stability implications of another market route, is what will make markets crash our valuations enough, and if so, when will it happen?
+NEUT7|If you look at a popular valuation measure which compares how much the stock market is worth to average corporate profits over the previous ten years, then the US stock market is only been this expensive twice in its history since 1881.
+NEUT8|That was just before the 1929 crash and at the peak ofthe.com bubble in 2000.
+NEUT9|The question though is what is going to make this crash?
+BULL10|Because the economy is doing pretty well, is recovering and if you look around the world.
+BULL11|Most economies are recovering.
+NEUT12|It's very hard to find a country in recession Venezuela?
+BULL13|Well, that's falling into crisis, but even the UK, which has voted for Brexit while the economy is still expected to grow this year and next year.
+NEUT14|And that comes to the point about what is needed to cause a market crash.
+NEUT15|Sometimes you need something to go wrong.
+NEUT16|Goldman Sachs have looked at sort of the 13 bear markets which we've had since the 1960s, and what happens is usually a recession.
+NEUT17|Happens or.
+BEAR18|Prices start to rise very quickly and the central bank pushes up interest rates to cut off inflation and that causes a downturn.
+NEUT19|So evaluation isn't enough.
+NEUT20|What do people worry about?
+NEUT21|Talk to the pessimist and they focus on these building pressures.
+BEAR22|Things which will make any eventual downturn much worse.
+NEUT23|When it does arrive.
+BEAR24|Corporate indebtedness.
+BEAR25|Well, that's been going up and people have been used to low interest rates for so long that any sort of inflation shock if that pushed up interest rates, people, well, many businesses and consumers wouldn't really know how to react, so the crash may not be coming soon.
+NEUT26|It could go on for some time.
+NEUT27|"But the question is when it does arrive well, how dramatic is it going to be?"""

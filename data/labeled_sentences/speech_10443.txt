@@ -1,0 +1,24 @@
+NEUT0|"""Finally, there's the tried and true, which is zoom video."
+NEUT1|After getting pancaked, this people started returning to the office.
+BULL2|Zoom is back in style.
+BULL3|Now the covid spiking again.
+NEUT4|Who could have guessed that going back to work?
+NEUT5|We cause the virus to spread other than anyone with a brain.
+NEUT6|It's not safe to go to the gym, so we're back on her pelotons.
+NEUT7|Finally, Roku hit an all time high, because what else are you supposed to do when you're stuck at home all day and watch TV and movies over the web?
+BEAR8|I could tell you to go by the whole Cramer COVID-19 index, but the drug stocks are once again under assault.
+NEUT9|It's around 2 election and there might be hard to own because both parties love to bash Big Pharma.
+NEUT10|Even as I think it's all rhetoric, you have to be more selective.
+BULL11|But I think the stay at home stocks that work today will keep working.
+NEUT12|These moves tend to last longer than one day.
+NEUT13|You get quick flippers and profit taking usually by 11:30 tomorrow.
+NEUT14|And then maybe you can pick some up.
+NEUT15|We've been through this twice now and the pattern is clear.
+BULL16|The lockdown stocks keep roaring until we get a sustained period with covid cases go down and businesses can reopen.
+NEUT17|Look at it like this.
+BULL18|As long as there's a big line to get the elevators at office, you can keep expecting cases will climb.
+NEUT19|Which means right back where we started from.
+NEUT20|Don't miss a second of mad money.
+NEUT21|Follow at Jim Cramer on Twitter.
+NEUT22|Have a question?
+NEUT23|"Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com."""

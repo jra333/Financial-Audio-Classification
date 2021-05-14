@@ -1,0 +1,27 @@
+NEUT0|"""Welcome back to the channel."
+NEUT1|Ladies and gentlemen, I am Racki Ryan a month ago.
+NEUT2|To this day I had a video titled Intel Stock Analysis.
+NEUT3|Today I gave it a price target of $60.00 per share.
+NEUT4|My model is telling me that the value of the stock today is $60.00 per share and we're going to look and see at what the prices at today today.
+NEUT5|The price of Intel stock is $60.78.
+NEUT6|My model correctly predicted the share price of $60.00.
+BEAR7|While at the time the stock was trading at $51.00, so Full disclosure I am bullish on the future of Intel as a value investor, I think that the company is undervalued compared to its current market price.
+BEAR8|I think that the stock is being overlooked by Wall Street and as I said in my prior video, I think this stock will start to take off again when she has better news.
+NEUT9|Well the news came and there is now a new CEO named Pat Gelsinger.
+NEUT10|Pat is one of the OG original founders of the Intel chip, so this is almost like a Steve Jobs 1990s esque type vibes.
+BEAR11|We got the OG chipmaker coming back to save the chip company which is not doing well, although when you look at their numbers and their revenues etc it's really hard for me to argue that they're not doing well.
+NEUT12|The stock had $78 billion.78.
+NEUT13|Billion dollars in revenue last year, $20 billion in net income.
+NEUT14|It trades at a 12 price to earnings and it's only valued at $250 billion.
+BEAR15|I understand that their production has been delayed.
+NEUT16|I'm very well aware of that.
+NEUT17|However, a lot of people think that magically the world is going to shift from Intel chips.
+NEUT18|I do not think so.
+BEAR19|I'm still extremely bullish on Intel because the stock, in my opinion, is undervalued.
+NEUT20|I said when I divide the stock a month ago, there's a $51.00 per share.
+NEUT21|It's now it's 60.
+NEUT22|I said this stock is is should be worth $60.00 per share today.
+NEUT23|And now today a month later is at $60.00 per share.
+NEUT24|But in that video I also mentioned that the stock has $70.00 plus upside.
+NEUT25|$70.00 plus upside.
+BULL26|"So I do think that the stock is going to continue to rise and I think the stock going is going to be going into the 70s."""

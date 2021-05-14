@@ -1,0 +1,19 @@
+NEUT0|"""You want to be successful investing in the stock market, but you don't think you know enough about finance."
+NEUT1|You're not in the accountant.
+NEUT2|You're not great with numbers.
+NEUT3|The financial media is full of corporate news, data, tips, tricks, quick advice.
+BEAR4|It's just leading you towards stocks with mediocre growth.
+NEUT5|That's the problem.
+BEAR6|There are too many stocks whose earnings aren't worth the time and resources you spend on them, or stocks that will lose value.
+NEUT7|There aren't as many stocks with real earning potential.
+BULL8|EPS momentum focuses on high earning growth stocks, often showing a high probability of rallying for weeks, months or years.
+NEUT9|Derived from product lifecycle acceleration in the company.
+NEUT10|EPS momentum calculates the earning momentum score based on earnings, revenue and growth.
+BULL11|When an M score is higher than 20, you will find it true earnings and revenue breakout.
+NEUT12|Stock earning momentum is based on Real Pass data from the company, not someones opinion estimates or conjecture.
+NEUT13|Then pick the right moment by considering the short term bias and the stock's ability to outperform the market.
+BULL14|You found a good timing when all three indicators are above 0.
+NEUT15|All the information is also provided to you in the form of easy green and red flags.
+NEUT16|You can watch relative rotations and shifts in sentiment as they happen.
+NEUT17|You can filter all U.S. stocks based on your own criteria, earning momentum and our EPS momentum analytics.
+BULL18|"Driven by data powered by momentum results, you can see EPS momentum delivers fundamental portfolio acceleration."""

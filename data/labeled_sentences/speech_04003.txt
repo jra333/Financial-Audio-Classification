@@ -1,0 +1,33 @@
+BEAR0|"""Facebook shares have actually been surging."
+BULL1|Adding the most gains to the S&P 500, rising about four and a half percent after Mr. Zuckerberg shared his testimony before Congress.
+BULL2|It was one of the biggest one day percentage gains for the stock in nearly two years.
+NEUT3|Well, how would you from the IMD Business School joins us?
+NEUT4|Now live in our studio to take a look at that testimony.
+NEUT5|And of course from a management perspective point of view.
+NEUT6|It's all about business leadership.
+NEUT7|Part of the reason why those shares.
+NEUT8|Actually, Rose was because a lot of shareholders felt that actually Mr. Zuckerberg didn't seem too combative.
+NEUT9|He seemed to be doing a decent enough job 'cause that testimony continues, so we don't know where those stocks are headed tomorrow, but from a business perspective and a leadership perspective, what sort of position is Facebook in right now, right?
+NEUT10|So in many ways to stop price of a company really reflect the underlying health, at least what investors believe in so right now, the search after Facebook stock price fairly to speak is the investors mostly believed.
+NEUT11|Underlying health of the business.
+BULL12|Model of Facebook stay intact.
+NEUT13|However, what would be really interesting to keep an eye on is the marketing mix by Big big brand advertiser.
+NEUT14|Whether they would reconsider the mix of the usage or the spending on Facebook versus more traditional media as well, that would be the next indicator.
+NEUT15|I'm sure investor would be paying an eye on all right and you say this is the next indicator, but how big is shift?
+NEUT16|Is that how worrying is that?
+NEUT17|To show?
+NEUT18|I mean fundamentally how Facebook make money is advertising.
+NEUT19|And so the biggest revenue stream is essentially this big brand advertiser.
+NEUT20|Whether they're going to continue to spend as much money on the Facebook platform or they're going to switch to elsewhere, and primarily because of the Facebook scandal, really exposed the corresponding risk when you go and advertise on Facebook platform is not just generating a lot of leg and conversion of sales, but there is corresponding risk as well, and that highlight highlighting.
+NEUT21|Perhaps it's one of the key discussion among many.
+NEUT22|Many of the big brand company right now, alright, and that is key discussion as you say, but it's also a.
+NEUT23|We factor in Facebook's revenue that's how it they make money.
+NEUT24|They collect this data, they potentially get it to advertisers who target these consumers because the ultimate thing about Facebook is the product is the consumer so if that business model goes away.
+NEUT25|How will Facebook and other companies like it make their money in the future right so that's the big discussion right because historically in the big tech world, particularly Facebook and Google advertising is King, including YouTube and Instagram.
+BEAR26|And because these are free services, so if advertising advertiser begin to scale back their spending on Facebook, that would destroy their fundamental business model that require them to ship into a subscription model or any other thing else.
+NEUT27|Now what's interesting?
+NEUT28|Of course, subscription is not the end of big tank tech firm.
+NEUT29|In fact, if you look at Amazon Prime, if you look at Netflix, they are raising head to head against YouTube for example, which is essentially free.
+NEUT30|So subscription is actually a very viable business model as well.
+NEUT31|In the world of high tech, right all right?
+NEUT32|"Well, how would you thank you so much for coming in for that analysis there?"""

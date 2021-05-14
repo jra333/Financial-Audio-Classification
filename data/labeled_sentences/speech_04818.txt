@@ -1,0 +1,11 @@
+BULL0|"""Polygon has been trading inside a tightening pattern for the past month and seems ready for a significant breakout as whales have gone into a buying frenzy for the past three weeks."
+BEAR1|Modest price as one barrier away from $0.51 on the 12 hour chart.
+NEUT2|Modish has established a symmetrical triangle pattern with its resistance trendline formed at 0.374 dollars.
+BEAR3|A breakout above this critical point will drive modest price towards $0.51.
+NEUT4|A 37% move calculated using the maximum height of the pattern as a reference point.
+NEUT5|Modest 12 United States Dollars hour chart.
+BULL6|This breakout seems likely thanks to a significant spike in the number of whales.
+BULL7|Since March 10th, the amount of whales holding 10 million or more modest coins increased from 31 to 62 and remains in an uptrend.
+NEUT8|Mortgage holders distribution chart.
+BEAR9|Nonetheless, a rejection from the upper boundary of the pattern at 0.374 dollars would be bearish and has the potential to drive Polygon down to the lower trend line of the symmetrical triangle currently established at $0.30.
+BULL10|"It's important to note that a breakdown below this point will push modest towards $0.20."""

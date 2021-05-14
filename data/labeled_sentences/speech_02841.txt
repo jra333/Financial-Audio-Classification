@@ -1,0 +1,11 @@
+NEUT0|"""Here's what we're watching."
+NEUT1|We're trading underway in London in France.
+NEUT2|We are down to two candidates, machrone versus the pen and the market likes the sound of that second round contest.
+BULL3|Looking for a makron victory.
+BULL4|French banking stocks surging and that's driving cap 40 up 4% at the open risk on is not just confined to France, however Italian shares up more than 3% at the open, with even London's Footsie 100 up over 1 1/2 percent.
+BULL5|The euro climbed above 109 in Asia against the dollar, a five month peak single currency remains at 1%.
+BULL6|Around 108 thirty euro has also sharply rallied against the pound and rose briefly get yen 120 its highest level since late March.
+BEAR7|There's also a big reaction in bonds with the premium for French 10 year paper shrinking to less than 50 basis points over German buns.
+NEUT8|This spread was back near 80 basis points last week, and the question is, how soon do we see this relationship revert to 30 basis point area?
+BEAR9|That largely suffice before November, a snap poll shows 62% support for Mr Makran and only 38%.
+NEUT10|"For Miss Lepen, that's the kind of spread the market really likes to see."""

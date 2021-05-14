@@ -1,0 +1,31 @@
+NEUT0|"""Not so long ago when people had more time in space, they would read a daily newspaper, either on the way to work or when they got home."
+NEUT1|The newspapers would keep their politics on the opinion pages and their news coverage would be broadly neutral today.
+NEUT2|Of course, look very different.
+NEUT3|The majority of people still get their news from television.
+NEUT4|And newspapers, but more than 1/3 of people are getting it through their smartphones.
+NEUT5|News breaks at all times of the day and on the web first.
+NEUT6|So how to cut through all the noise?
+NEUT7|And how to tell what's real and what's fake?
+NEUT8|The first rule break out of your bubble.
+NEUT9|Being loyal to one source of news, a newspaper or website, television or radio is not going to keep you fully informed.
+NEUT10|Try to absorb all sides of the debate if you're a committed liberal, try the Daily Mail or Fox News.
+NEUT11|Or vice versa.
+NEUT12|Has the news actually happened?
+NEUT13|You may think this is a funny question, but keep your eyes out for the words.
+NEUT14|Could might, May, or threaten to in the opening paragraphs.
+NEUT15|But remember, not all warnings come true.
+NEUT16|How many sources can you spot the sign of a really trustworthy article is people who are willing to confirm the news and be both named and quoted.
+NEUT17|This holds true of everything from an eyewitness account of a disaster to a behind the scenes article about political intrigue.
+NEUT18|The next layer down is unnamed sources.
+NEUT19|People close to accompany maybe spokesman for that company, but it's up to you whether to believe them or not.
+NEUT20|Finally, if there are no quotes in the story at all.
+NEUT21|This should be a red warning side.
+NEUT22|It may be fake.
+NEUT23|The survey story is a common genre.
+NEUT24|There are plenty of news reports to tell you that 60% of people in Britain prefer cats to dogs or one in three people is scared of knife crime.
+NEUT25|What was the sample size and was the research commissioned by someone with an interest in its findings?
+NEUT26|Remember the old saw news is what somebody somewhere doesn't want you to print.
+NEUT27|Everything else is advertising.
+NEUT28|Nobody likes admitting that they're wrong.
+NEUT29|Newspapers tend to vary their corrections.
+NEUT30|"Make sure you read them so that you know when a mistake has been made."""

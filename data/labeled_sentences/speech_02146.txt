@@ -1,0 +1,9 @@
+NEUT0|"""There another step towards the reopening of the theme parks in Orlando?"
+NEUT1|Officials from Walt Disney World, Universal Orlando and SeaWorld will present their plans for reopening their parks to the Orange County Task Force on reopening in a meeting slated for tomorrow afternoon.
+NEUT2|Now this of course would potentially include dates that they would plan to reopen.
+NEUT3|Parks will need approval from Orange County's government before they can reopen, according to the governor, who did invite them to submit their plans this past Friday.
+NEUT4|All of this comes as today Walt Disney World takes its first steps to reopen.
+NEUT5|It just reopened part of its outdoor mall called Disney Springs with a sort of rolling opening of those retail outlets and restaurants.
+NEUT6|But a lot will hinge on what the government says about how these parks can reopen.
+BULL7|You see, Disney shares now up over 3 1/2 percent.
+BULL8|"Comcast shares up nearly 2% in SeaWorld shares of about 9%."""

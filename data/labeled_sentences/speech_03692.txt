@@ -1,0 +1,46 @@
+NEUT0|"""So with the celeration quarter for Netflix."
+NEUT1|Yeah, that's what it's looking like.
+BEAR2|I mean, we saw the stock go down way much into Q2 because they forecasted there would be a lot of slow growth and the reason being Kelly is that people are no longer stuck at home.
+BULL3|Lockdowns are starting to be lifted.
+BULL4|There's also some increased competition.
+NEUT5|We know new streaming services like Peacock have launched so consumers have options and they're no longer just stuck inside the TV.
+NEUT6|Young.
+NEUT7|What are your thoughts on the quarter and the company's share price performance this year?
+NEUT8|What's priced in?
+NEUT9|You know, I, I think the COVID-19 stay at home scenario is what's priced in.
+NEUT10|At this point.
+NEUT11|I think the major concern is what happens when these stay at home rules.
+NEUT12|Is I mean, we've run a number of surveys so far that shows that consumers are very adamant about staying with Netflix even after these stay at home rules East.
+NEUT13|So I'm pretty comfortable with where the numbers are right now, and I'm looking forward to seeing what happens next.
+NEUT14|Yeah, young.
+NEUT15|It was kind of sticking with that theme.
+NEUT16|One of the big debates in the market is about whether to stick with pandemic winners or not, because they've, you could argue.
+BULL17|Pulled forward a lot of demand.
+NEUT18|Or on the other hand, you could say no, this is kind of the new normal for the way that people consume content for Netflix.
+NEUT19|Throw on top of that, a possible price hike.
+NEUT20|Do you want to see them raise prices or do you think they would risk losing too many Subs over that?
+NEUT21|You know, I expect to see some kind of price hike over the next 6 to 12 months, and that's assuming that they do.
+NEUT22|Gran father and their current subscribers as well.
+NEUT23|I mean, I do think it's a fair concern about whether or price hike.
+NEUT24|Would you know, dissuade other people from joining the service?
+NEUT25|But what we're seeing right now, although I think partial part of it, is a pull forward.
+BEAR26|I think we're also seeing acceleration of trends that were happening even before covid people were already cutting the cord and switching from their traditional cable TV to streaming services, so I don't see this.
+NEUT27|As terribly unusual and a pull forward solely button acceleration as well.
+NEUT28|Yeah, what's your price?
+NEUT29|Target Young on the shares.
+NEUT30|I'm currently at 534 and that's 60 times my 21 EPS estimate of about 890.
+NEUT31|However, I think it's important to note that the five year historical multiple next 12 months is around 70 times and the 10 years around 120.
+NEUT32|So I think I'm still being pretty conservative at 60.
+NEUT33|Wow, it's wild that it can trade that way for as long as it can.
+NEUT34|And by the way the shares were 533, so just right below your target sear.
+NEUT35|The kind of larger question here for Netflix as well is how do they continue to fare amid so much competition.
+NEUT36|You know this is not five or ten years ago.
+NEUT37|There's nothing unique anymore about their offerings except forward that literal unique original series and that sort of thing they have.
+NEUT38|So how are they going to navigate this increasingly crowded landscape?
+NEUT39|Well, it's really crowded in the United States and Canada, so where they're going to look to growth is overseas in international markets, and they've been pretty clear about.
+NEUT40|That's what their ambitions are.
+NEUT41|But the other thing to think about with competition Kelly is that they don't just see other streaming services as competition.
+NEUT42|Reed Hastings has said, Fortnite Tip top other apps where you spend your time that is becoming their knew big competitors here in the United States and so, in order to innovate, they're not only going to have to optimize their programming, but they're going to have to make sure that they continue to be a mobile success, something that people can watch.
+NEUT43|When things do open up and lock down so people can watch on the road on their iPads, etc.
+NEUT44|Shepard Smith here.
+NEUT45|"Thanks for watching CNBC on YouTube."""

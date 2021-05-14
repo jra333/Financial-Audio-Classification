@@ -1,0 +1,13 @@
+NEUT0|"""Hello, welcome to today's technical analysis for July 25th, 2016."
+NEUT1|I'm Celina Nexus technical analyst at exam.com.
+NEUT2|Today will look at Euro USD on the daily chart.
+BEAR3|Urioste maintains a bearish outlook as its recent downside trajectory from the one point 11 area down to below 1.10.
+BEAR4|This favors further downside and the break below the critical one point.
+BULL5|10 Level last week supports the bearish case with scope to target the June low of 1.0909.
+BEAR6|Technical indicators are also highlighting the bearish bias.
+BEAR7|If we look at RSI, it's trending down.
+BEAR8|It's also below 50 and this indicates downside momentum in the market, so the key psychological level of 1.10 is now acting as a resistance level and above this level.
+NEUT9|There is strong resistance at one point 1090, and this is also where the 200 day moving average lies.
+BULL10|So this makes it a strong resistance level.
+BEAR11|A break above the July 5th high of one point 1187 and the key one point 12 level is required in order to see signs of a fading bearish trend.
+BULL12|"Thank you for watching and have a great day."""

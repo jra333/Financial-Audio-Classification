@@ -1,0 +1,11 @@
+BULL0|"""I would be delighted."
+NEUT1|To meet him anyplace.
+BEAR2|Warren Buffett was a vocal critic of Donald Trump during the 2016 presidential campaign over Trump's remarks about the Khans, the parents of a Muslim U.S. soldier who died in Iraq as well as Trump's refusal to release his tax returns.
+BULL3|You're only afraid if you got something to be afraid about, but since Election Day, Buffett's company Berkshire Hathaway has posted its best month of profits in six years.
+NEUT4|Berkshire Hathaway.
+NEUT5|Originally a textile company, is now a broadly diversified firm selling electricity cars.
+BULL6|And furniture through subsidiary companies as well as holding ownership stakes in insurance and financial companies like JP Morgan, which has gone up and Goldman Sachs as Wall Street analysts projected, the Trump administration will bring in higher interest rates and fewer regulations.
+BULL7|Berkshire's Holdings in financial institutions are boosting the company overall.
+BEAR8|A rise in stock prices can be seen as bets on coming growth in the US economy, but if that's not the case, as one industry analyst put it, if we would go into a very difficult time on the.
+NEUT9|Equity side Berkshire has proven repeatedly that they are a Fort Knox.
+NEUT10|"As much as he supported Clinton over Trump, Warren Buffett, the general of this financial, Fort Knox wouldn't leave his investments at the whim of politics as he told shareholders back in April, Berkshire would continue to do fine no matter which candidate was elected president."""

@@ -1,0 +1,11 @@
+NEUT0|"""Everyone, let's take for the Apple stock we can see here."
+NEUT1|It has formed the right kind of this red candle stuck between these two year my lines and there's no break out from here.
+BEAR2|And we can see from the warm volume is very low, especially in the past three days there's.
+BEAR3|Decreased volume, so it's not a good sign for Apple.
+NEUT4|The volume is too short, but it's very likely for it to.
+NEUT5|Make a study base here.
+NEUT6|That means the consolidation.
+BULL7|If that's the case, then there still possibility for it to go higher.
+BEAR8|But if the volume continue to decrease the price go down.
+NEUT9|That will be by the side.
+BULL10|"Thank you."""

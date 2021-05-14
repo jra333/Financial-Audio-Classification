@@ -1,0 +1,13 @@
+NEUT0|"""This is The Motley Fool Battle Royale where 8 popular stocks clash to determine the best investment for you over the next 12 months, let's go to the arena."
+BULL1|This first round matchup pits Teiva Pharmaceuticals the massive Israeli generic drugmaker against YRC Worldwide.
+BULL2|The American Trucking Company this is a compelling match up in that you have a very large company.
+NEUT3|$48 billion teba taking on what on the face of it is a small trucking company now, why do I say a small trucking company when in fact YRC Worldwide is quite a large trucking company that measures up to the Fortune 500.
+NEUT4|The reason is this YRC Worldwide.
+BEAR5|Has lost a lot of value an I mean a lot of value over the last few years, so the market capitalization of YRC Worldwide is down to less than $500 million.
+BEAR6|In fact, it's down to less than $300 million.
+BEAR7|This is a stock YRC Worldwide, which is reverse split itself that is declined from about 1005 years ago to just four today.
+NEUT8|Are you getting where I'm going with this?
+NEUT9|If I'm forced to pick one of these two stocks, which I am, it is after all, battle Royale.
+NEUT10|If I'm forced to pick one of these two stocks over the next 12 months.
+BULL11|There is no doubt in my mind that I would pick Tampa Pharmaceuticals, which is a generic drug maker with a solution for almost everyone is participating in all categories and this is a stock that I would certainly want to pick to advance in our battle Royale to the second round.
+NEUT12|"So Tayva move on."""

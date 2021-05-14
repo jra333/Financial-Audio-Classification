@@ -1,0 +1,27 @@
+BULL0|"""Hello friends, very good morning is taking you."
+NEUT1|From the banks and investing in stock market is a good idea.
+NEUT2|No, hear me out on this.
+NEUT3|I am Commando she professional trainer from the trading mine so today's tip of the day is never take two loans to invest in stock market.
+NEUT4|Yes, you should never take loans to invest either in stock market or any financial instrument you were.
+NEUT5|Investment should always come from whatever you earn which would not affect the investment has to be made to create additional source of income for you for better creation of your wealth.
+NEUT6|It's not then you take loan from somewhere and invest.
+NEUT7|So what I'm trying to say here is your investment should come from the source of your salary.
+NEUT8|For example, you earn 20,000 of his salary.
+NEUT9|All your expenses should go good, go first, then comes with insurances that comes your household appliances.
+NEUT10|Dance comes with kids education.
+NEUT11|At last a small part of the money, which remains the 1% or 2% of renters salary which remains.
+NEUT12|That should go into the stock market or any of your investments.
+NEUT13|Yes, firstly all savings has to be done.
+NEUT14|In the savings banks in there Aldi's in the FBS.
+NEUT15|In the various sources of insurances and every basic need has to be taken Cape and the last remaining part only has to go into the stock market, be 'cause that should not affect your living.
+NEUT16|Because stock market is not one directional move.
+NEUT17|There are ups and downs as well.
+NEUT18|The people, the investors who made money are the ones who looked at the big picture and he scared the stock market irrespective of the moment because they believe in the business.
+NEUT19|The profitability of the company, that is how you can win the market in case you take a loan.
+NEUT20|What happens is you are already running out of time.
+BEAR21|You need to pay your loans whereas your investment would have gone down.
+NEUT22|Then how do you pay your loans back?
+NEUT23|That is why I always invest only whatever you have never take loans to invest in stock market.
+NEUT24|So all I'm saying here is never take loans from a stock market PDF, free Trader, invest whatever you have.
+NEUT25|That much is more than enough to invest in stock market.
+NEUT26|"To make an additional source of income for your life, that's the Department is see you tomorrow."""

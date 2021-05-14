@@ -1,0 +1,15 @@
+NEUT0|"""Welcome to the FT market minute."
+NEUT1|Here's what we're watching in London on Tuesday morning.
+NEUT2|Well, there was another wobble and another occasion when it paid to buy the dip.
+BULL3|Some better China data today are helping global stock markets, currencies and sovereign bonds to be, after heightened volatility of recent sessions.
+BEAR4|Wall Street's 2.5 cents died on Friday, came on worries.
+BULL5|the Fed may not be data dependent after all and was determined to push through a rate hike this month.
+BEAR6|The market was not positioned for that, but this is the 500 finish on Monday at 1.5% after another Fed speaker could doubly.
+NEUT7|So it's all about the Fed then.
+NEUT8|Well, not quite.
+BULL9|In fact, US futures on Monday had already recovered a lot of ground before fed governor.
+NEUT10|Brainard's comments.
+NEUT11|Simply put, over recent years bulls have got used to being rewarded for buying any sell off, and they were doing it again.
+NEUT12|Some stage that will end.
+BEAR13|But when Meanwhile what the ongoing monetary policy uncertainty has done is pulled bond yields off their record lows.
+BEAR14|"Bulls, for example, are back in positive territory after falling to minus 20 basis points in July, but does make stocks marginally less attractive by comparison."""

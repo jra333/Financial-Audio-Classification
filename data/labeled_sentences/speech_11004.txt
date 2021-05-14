@@ -1,0 +1,36 @@
+NEUT0|"""Neo stock analysis and predictions, December 26th."
+NEUT1|In today's NEO stock analysis and predictions, two reasons are Apple and NIO collaboration is possible.
+NEUT2|All right.
+NEUT3|Let's get started.
+BULL4|Rumors of a collaboration between an Iowan Apple Inc are gaining momentum.
+BEAR5|Since Apple has announced its entry into the electric vehicle sectors, investors and spectators alike have been spinning rumors on the likelihood of Apple and NIO collaboration.
+NEUT6|An Apple analyst.
+NEUT7|David says says about the possibility of an Iowan Apple collaborating in some fashion.
+NEUT8|I have been studying Apple for many years and I always look at the maneuvers Apple makes when they're about to announce some big news.
+NEUT9|First, there are speculations and rumors, then Apple will come out with some promotional tool to fuel the rumor.
+NEUT10|Then there an announcement date of the final product.
+NEUT11|It looks like we are in the first Phase I think the likelihood of an Iowan Apple partnering is not out of the question.
+NEUT12|I would give it a 80% chance.
+NEUT13|Apples EV ambitions have had many transformations over the last six years.
+NEUT14|Apple initially planned to release an electric vehicle in 2006.
+NEUT15|It had to significantly scaled down to focus on their other Apple products.
+NEUT16|After all, auto production is a large business that requires a lot of upfront capital, Anna.
+NEUT17|Team solely focused on that aspect of the business.
+NEUT18|We speculate that Apple is trying to play catch up to Tesla with its autonomous driving technology and electric power capabilities.
+NEUT19|Thus the relationship with NIO is very sensible due to two factors.
+BULL20|One Anio will help Apple catch up to Tesla in electric technology and autonomous features to an IO.
+BULL21|Is Tesla strongest competitor when compared to others in the same field?
+NEUT22|They always say that the competitor of my competitor is my friend.
+NEUT23|According to this, a partnership makes the most sense since Tesla is so far of others in the same sector.
+BULL24|Anio is the only company that can possibly overtake or help Apple overtake Tesla's large hold on electric vehicle sector.
+BULL25|A collaboration could lay the groundwork for a dual path for Apple and NIO starting to overtake.
+NEUT26|Tesla is the most dominate player in the EV sector.
+NEUT27|Let's wait and see what happens.
+NEUT28|That's what's been happening this week in the world of Neo.
+NEUT29|Stock analysis and predictions.
+NEUT30|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now.
+NEUT31|So that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT32|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL33|We'd really appreciate it.
+NEUT34|Are you still watching and want more?
+NEUT35|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

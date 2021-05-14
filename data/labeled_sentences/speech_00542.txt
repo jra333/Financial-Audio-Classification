@@ -1,0 +1,12 @@
+NEUT0|"""Its stock o'clock welcome."
+BULL1|Tesla is closing in on an agreement to make electric vehicles in India and Indian factory could be used as an export based to other countries.
+BEAR2|Evie's account for less than 1% of India's annual car sales, Robin Hood, CEO admits shortcomings in their communication.
+NEUT3|Vladimir Tenev said so on the Olin podcast with Chamath Polly Hoppity a, the CEO, will testify before the house on Thursday.
+NEUT4|Clear crypto rules are urgently needed, according to an SEC.
+NEUT5|Official.
+NEUT6|More and more companies are embracing the new asset class.
+NEUT7|Regulation might be started by blockchain expert Gary Gensler.
+NEUT8|Likely the new president of the SEC and the stock market will be closed today.
+NEUT9|Traders in the US are celebrating Presidents Day.
+NEUT10|The holiday was established to recognize George Washington back in 1885.
+NEUT11|"Alright enjoy celebrating the president by."""

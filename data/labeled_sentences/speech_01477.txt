@@ -1,0 +1,7 @@
+BULL0|"""Berkshire Hathaway ramped up its stock repurchasing program in the third quarter, nearly doubling the record by back that it had purchased back in the second quarter."
+NEUT1|Warren Buffett's conglomerate bought back $9 billion of its own stock of that total, $6.7 billion was in Class B stock in two and a half billion dollars was in Class A. Buffett has said that he would buy back Berkshire stock only if he and Charlie Munger believe that it's selling for less than it's worth.
+BULL2|And if after the purchase the company would still be left with ample cash.
+BEAR3|The stock has underperformed the S&P 500 this year.
+BEAR4|You can see it's been down by about 5.7% SNP up by about 8.6%.
+NEUT5|Shepard Smith here.
+NEUT6|"Thanks for watching CNBC on YouTube."""

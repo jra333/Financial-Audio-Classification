@@ -1,0 +1,8 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instruments is the Netflix stock traded in NASDAQ under the ticker Netflix.
+BEAR3|Looking at the Netflix for our chart, we can see that it is currently traded at 473.76 dollars after his big downward movement.
+BULL4|If it holds its price above its support level around $460.00, we concede rich higher testing its first resistance level at around $483.
+BULL5|If the bullish momentum is strong enough, we could also see it tested second resistance around $490.00.
+NEUT6|Thank you for watching AAA trades intraday technical analysis from all of us.
+BULL7|"Here we wish you a successful and responsible trading."""

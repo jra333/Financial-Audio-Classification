@@ -1,0 +1,19 @@
+NEUT0|"""Hello this is Jim and we're going to make a prediction now based on what's happened so far using some of the systems that I Teach First of all, let's make sure that for the record, we see that this is a live chart and the date is what it is we're going to click update here and then as we do that, let's refresh the page and you can see the date here."
+NEUT1|10th of September, 2015, 1:48 PM.
+NEUT2|Is the market still open and you can also see this is a live chart by that yellow marker.
+NEUT3|There you don't get that if the market is.
+NEUT4|Closed so this is a live chart.
+NEUT5|This is this is the date today.
+NEUT6|To add to that I'm going to find a live website here we can go to such as Yahoo Finance.
+NEUT7|Now you can see the screen come up there and there it is again Thursday, September the 10th, 2015 so.
+NEUT8|Let's go back to our weekly chart here, which is main focus of the S&P 500 and what's happened.
+NEUT9|What was our first alert?
+NEUT10|Actually, our first alert was as I went on the record to tell students in writing that to stay out of the market because we had this sideways channel here going on.
+NEUT11|And that was a kind of wait and see signal.
+NEUT12|What then really triggered us into full bear mode using the systems we teach is this thing here.
+NEUT13|This was the market, the S&P 500 closing.
+NEUT14|Closing below the 70 week, the 70 week the 350 days the same thing.
+NEUT15|That's the red line that closed below that automatically switched us into bear mode from ball mode.
+NEUT16|And then you can also say the 200 day that which is also the fault line.
+BULL17|Turning over that there was a signal right away that we're now in a bear market.
+NEUT18|"So that was our official line then."""

@@ -1,0 +1,11 @@
+BEAR0|"""A melt up the final furious stage of a great bull market."
+NEUT1|Most bull markets don't die a slow death.
+NEUT2|Instead they end with a period of irrational exuberance where things can soar higher in value than anyone can imagine.
+NEUT3|It happened in the.com boom.
+NEUT4|It happened just before the Great Depression.
+NEUT5|It happened in the Japanese stock market in the 1980s and around the world in Russia.
+NEUT6|Hong Kong.
+NEUT7|Plenty of stories of it, and the most recent one was Bitcoin back in 2017 before this great bull market ends.
+NEUT8|I believe we will experience something similar to those booms and you'll want to be invested in the right stocks when that happens, and to be 100% transparent, I'm actually putting my own money on the line with this prediction just a few weeks ago I invested more of my own money into stocks than I've done in my entire life.
+NEUT9|Even more than I did in all of 2008 and 2009 when I put all of my investable assets into stocks.
+BULL10|"It may sound crazy, but this just goes to show you just how confident I am in the stock market today."""

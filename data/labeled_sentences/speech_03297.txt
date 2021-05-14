@@ -1,0 +1,32 @@
+NEUT0|"""When I say I looked at this and I said, what does this mean?"
+NEUT1|First ever AI cover?
+NEUT2|What does that mean?
+NEUT3|Well, Warren worked closely with us and a company called Fluid AI.
+NEUT4|You take a picture of that cover and a 3 dimensional image holograph of Warren pops up and he'll answer questions.
+NEUT5|Hi.
+NEUT6|I'm Warren Buffett and we're celebrating the 100th anniversary of Forbes magazine by answering your questions.
+NEUT7|Thanks to artificial intelligence, you and I can have a conversation.
+NEUT8|It'll ask away anything about business, finance or my personal journey.
+NEUT9|Ask me questions.
+NEUT10|Warren, what should I invest in?
+NEUT11|Invest in yourself.
+BULL12|I see people that can increase their potential 50% hotter percent 200% by simply being able to communicate better.
+NEUT13|I was terrified of public speaking when I was young I couldn't do it.
+NEUT14|It cost me $100 to take a Dale Carnegie course.
+NEUT15|Yeah, it changed my life.
+NEUT16|I proposed to my wife.
+NEUT17|Actually during the middle of the course.
+NEUT18|What do you think about Donald Trump?
+NEUT19|If I answer a question on politics, I'm going to make 50% of your man and I'm not interested in having 50% of humanity.
+NEUT20|What should I do to find out my passion in life?
+NEUT21|It's a terrific question.
+NEUT22|I get it all the time with students and still how do I find my passion and?
+NEUT23|I don't wanna take some luck in and take some persistence and you may not find it on your first job or your second job.
+NEUT24|One thing to do is to is to expose yourself through learning.
+NEUT25|After atrophy acquaintances, you make too many different aspects of life.
+NEUT26|Handsome white.
+NEUT27|Hey, which stock would you recommend I buy?
+NEUT28|It was easy for me because I. I never recommend specific stocks.
+NEUT29|That can get you in trouble, because I could change my opinion a month later and I wouldn't know how to tell you.
+NEUT30|I changed my opinion so I I stay away from recommending specific stocks.
+NEUT31|"I do recommend stocks as a group."""

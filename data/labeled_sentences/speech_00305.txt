@@ -1,0 +1,33 @@
+NEUT0|"""Moments ago, coverage from K USA 9 News in Denver."
+NEUT1|Two of their reporters describing what they've heard from eyewitnesses in Boulder.
+NEUT2|Here a bit earlier this afternoon, Steve, you've had the opportunity to talk with some folks who were inside the store and some family members and everybody obviously just has the same concern, which is the person I love safe.
+NEUT3|Absolutely, we we just heard maybe about an hour ago from Steven McHugh, his two granddaughters inside this building.
+NEUT4|Think about something as routine is going to get a COVID-19 shot.
+NEUT5|They were there with their dad to get the shot at the pharmacy here at the King's Supers.
+BEAR6|He says that they say that they've witnessed this shooting that they saw things happen, that they had to hide upstairs in an area away from this situation.
+NEUT7|I also have talked to a couple of employees who were inside this building.
+NEUT8|They obviously don't want to go on camera.
+BEAR9|This is a tough situation for them, but they talk about the frantic moment that this happened right around 2:31 employee was walking out just as the shooter was walking in and he says he saw out of the corner of his eye a flash and heard a bang and just started running.
+NEUT10|And if you think about it, I mean when we talk about supermarkets, we're talking about places that we're all very accustomed to.
+NEUT11|I heard Kim say earlier.
+NEUT12|You know you always go to your store.
+NEUT13|It's the place that you know, but even at your store.
+NEUT14|Who among us knows a second way out of our grocery store?
+NEUT15|You walk in and out the front door, and that's just the end of it.
+NEUT16|And and it's clear from just looking at it with our plane eyes that what happened here today.
+NEUT17|The shooting happened at the front door, so it happened through the one route of exit that everybody in the store would have known about.
+NEUT18|Yeah, who also knows where to hide inside of a grocery store?
+NEUT19|You think about all the open space?
+BEAR20|It's a tough situation.
+NEUT21|It's a large building that's part of the reason I think we still see police and we haven't heard much from police while we still see such a presence.
+NEUT22|Here is, there's a lot of crime scene to go through right now.
+NEUT23|And just to make sure that there still isn't an active threat inside that building.
+NEUT24|I'm not being disrespectful.
+NEUT25|I'm checking my local coverage there from our local reporters that K USA 9 News in Denver on the tragedy.
+NEUT26|Apparently that's unfolding behind them at the King Super Supermarket in Boulder.
+NEUT27|Police news conference has been delayed.
+NEUT28|I will say, NBC News cannot confirm any of the disturbing reports which are coming out of the area at this moment.
+NEUT29|We're waiting for police.
+NEUT30|Will know shortly what's happened and we'll have live coverage as the news continues.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

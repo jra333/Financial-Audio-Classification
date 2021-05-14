@@ -1,0 +1,41 @@
+BULL0|"""Welcome to market movers."
+NEUT1|I'm Rob black.
+NEUT2|Let's take a look at the business and money stories that you need to know.
+NEUT3|Today's top stories include be like Buffett.
+NEUT4|Amazon we discover a key metric and life on the links ain't what it used to be.
+NEUT5|Berkshire Hathaway, which is Warren Buffett's conglomerate.
+NEUT6|It's closed or regulatory filing recently that it sold its position in Exxon Mobil.
+NEUT7|It added to its stakes in IBM and Intel, Berkshire also disclosed new Holdings in some chairs of Liberty Media ticker, symbol, MCA and DaVita ticker symbol DVA which is a San Francisco based provider of kidney dialysis treatments.
+NEUT8|Some other Holdings of note include CVS Caremark.
+NEUT9|DIRECTV ticker.
+NEUT10|Symbol DTV company called they risk Verisk Analytics ticker symbol V RSC and Visa.
+NEUT11|I'm not telling you to go out and buy any of those names but I will say he's the most successful investor of all time.
+NEUT12|So try to study why he does this.
+NEUT13|Next up, Amazon the market starting to figure out how to look at Amazon.com.
+NEUT14|More of a Netflix kind of manner.
+NEUT15|We're looking for subscribers, Amazon's prime service, which is linchpin.
+BEAR16|For its efforts to keep customers loyal and a few long term profit, is attracted fewer than half as many members as they had thought.
+NEUT17|As of October 3 to 5,000,000 people have subscribed to Prime a program begun in 2005 that provides two day shipping for 79 bucks a year.
+NEUT18|Amazon need St 7 to 10 million, the next 12 to 18 months.
+BEAR19|The slower adoption of prime adds to concerns about Amazons grow.
+NEUT20|See when Prime Services are used.
+BULL21|Yeah, it does increase Amazon shipping costs, but it locks a customer in and it prods them to shop more after a couple years of Prime subscriber.
+NEUT22|Maybe spending 6-7 times as much as they originally were.
+NEUT23|It sounds goofy, but we have to keep watching those subscribers because more recurring revenue is what Amazon needs in order to get bigger tickets, purchases down the road.
+NEUT24|And finally golf declines.
+NEUT25|Life on the Lynx ain't what it used to be in the 90s and 2000s.
+BEAR26|Golfers sometimes drove real estate prices higher.
+NEUT27|For instance in California's Coachella Valley and other golf related residential areas like Las Vegas, Arizona, Florida, and elsewhere.
+NEUT28|But these are tough times and no one wants to pay to join a club.
+BEAR29|There's fewer golfers.
+BEAR30|Fewer people could pay the high amounts to buy into a club.
+NEUT31|Golf resort.
+BEAR32|Communities are bleeding money and members as the recession exposed vulnerabilities of the business model that created unbreakable linkage between golf and real estate.
+BEAR33|Fewer people are playing golf.
+NEUT34|And boomers don't have the time, money, or interest their parents did.
+BEAR35|Number of golfers in the United States has fallen by 13% in the last five years.
+BEAR36|The number of golf rounds played nationwide last year through November was down 3 1/2% from the previous year.
+BEAR37|Nationally, golf memberships have dropped by over 1,000,000 users since 1990s and golf resorts have responded by slashing 6 figure club memberships by as much as 70%.
+NEUT38|So those are the top stories that you need to know.
+NEUT39|Don't forget, tell friends.
+NEUT40|"Come back often I'm Rob black from market movers and I'll talk to you soon."""

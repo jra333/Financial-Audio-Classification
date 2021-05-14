@@ -1,0 +1,29 @@
+BULL0|"""The market seems to be betting on a deal that will probably get one."
+NEUT1|It won't be substantive becauses the big supply side structural issues are still not any that there's still no common ground.
+NEUT2|But if there is a deal, this will only really be a short term catalyst, right?
+NEUT3|Yes, actually in fact, what I think is that the market has already priced in a deal, so that has become the base case.
+NEUT4|So in fact, the reaction of the market to a deal would probably be very muted.
+NEUT5|On the other hand.
+NEUT6|If the talks were to fall apart right now, then the market could be in for a lot of volatility, so looking into the second half of the year, this issue on the trade conflict is going to remain with us.
+NEUT7|It's going to linger.
+NEUT8|It's not going to go away.
+BEAR9|Sentiment will continue to get knocked around by the headlines because the big structural issues remain.
+BULL10|Yes, yes, definitely.
+BEAR11|So actually, even if there were to be a trade deal between China and U as it doesn't really take out the fact that global demand is slowing down.
+NEUT12|So what you have right now is that I think.
+BEAR13|The market is on a sugar high and it's too optimistic on the US and the trade talks.
+NEUT14|Given all this continued uncertainty, how should we express this in investment strategy terms?
+NEUT15|Should we?
+BULL16|Lighten up on exposure to China.
+NEUT17|Possibly also the other trade exposed markets like South Korea and Taiwan.
+BULL18|So definitely So what we've already seen today is that once we have the reality of a slower growth in China, it doesn't really give much support for a stronger CNY.
+NEUT19|From here on.
+BEAR20|And in fact I think what happened earlier this week was that a dovish Fed has sparked too much joy in the Asian markets.
+BEAR21|An now the PMI numbers are saying that there is actually slower.
+NEUT22|Growth and without the growth there isn't much support from here on as far as other countries are concerned.
+NEUT23|I would definitely be very.
+BEAR24|Cautious of the countries that are very much dependent on trade and that is where I think the weakness in the Korean one will be coming from.
+NEUT25|Hey everybody, it's Hadley.
+NEUT26|Gamble from our new CNBC Middle East Bureau in Abu Dhabi.
+BULL27|Thanks for stopping by.
+NEUT28|"Now to watch more you can try one of the videos that just popped up on your screen and don't forget to subscribe."""

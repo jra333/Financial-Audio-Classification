@@ -1,0 +1,10 @@
+NEUT0|"""Hello, today I'm going to talk about my personal view or Singapore property trends in 2021."
+NEUT1|So the question would be, is it going up or is it going down?
+BEAR2|In my personal opinion, I feel that in 221 the price will go down.
+NEUT3|Simply because there will be clean measure by the government on HDB resale.
+NEUT4|There will be lesser government land sale which means there will be less and enlarging private property and task.
+BULL5|The resale would catch up for private property.
+BEAR6|The price will go down not because the actual price drop, but simply because there is lesser transaction.
+BULL7|Thanks for watching.
+NEUT8|If you like my video please like share and subscribe to my channel.
+NEUT9|"See you soon."""

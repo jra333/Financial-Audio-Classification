@@ -1,0 +1,19 @@
+NEUT0|"""My name's Tim Spehr and I'm from Hertfordshire."
+NEUT1|England's thinking in Ben Graham's book, the Intelligent investor.
+NEUT2|He spends the first couple of chapters discussing the level of the market and whether it was safer investment.
+NEUT3|I was wondering what you think of the market today.
+NEUT4|Well, we don't Charlie and I don't think about the market and I and Ben didn't very much.
+BEAR5|He I think he made a mistake to occasionally try and place a value on it.
+NEUT6|We look at individual businesses and we don't think of stocks as.
+NEUT7|As little items that wiggle around in the paper and that have charts attached to them, we think of him as parts of businesses and and it is true that currently we have great trouble finding businesses that we both like and where we like the management and that they an find them at an attractive price.
+NEUT8|So we do not find.
+NEUT9|Bargains in this market among the larger companies that are that are our universe.
+NEUT10|That is not a stock market forecast in any way, shape or form.
+NEUT11|We have no idea whether the market is going to go up.
+NEUT12|Today or next week or next month or next year.
+NEUT13|We do know that we will only buy things that we think makes sense in terms of the value that we receive for Berkshire and when we can find things the money piles up and when we find when we do find things we pile in.
+NEUT14|But the stock market.
+NEUT15|I know of no one that has been successful at and really made a lot of money predicting the actions of the market itself.
+NEUT16|I know a lot of people who have done well picking businesses and buying them at sensible prices, and that's what we're hoping to do, Charlie.
+NEUT17|How could you say it any better?
+NEUT18|"The question is whether you can say it better."""

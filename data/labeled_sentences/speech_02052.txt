@@ -1,0 +1,8 @@
+NEUT0|"""The program that we do with XL hybrids."
+NEUT1|We did a two year test before we actually went.
+NEUT2|Full commitment and presented that to senior leadership to show that the return was there and there are a lot of different ways to measure that return.
+NEUT3|You can measure through.
+NEUT4|Obviously just fuel is the biggest one, but also carbon emission reduction and then also the PR that we would get from this type of type of technology.
+NEUT5|More like a social license if you will.
+NEUT6|Of being able to promote having vans and trucks running around that are hybrids, it is something different that is not traditionally in this space.
+NEUT7|"And being a kind of a leader in that space."""

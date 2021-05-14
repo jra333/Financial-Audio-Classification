@@ -1,0 +1,33 @@
+NEUT0|"""Hi, I hope you love the previous exercise where we had practiced with the data spanning over 60,000 lines with more than a dozen columns."
+NEUT1|Well I'm using the same case study two, ask another question.
+NEUT2|We had the sales data working for us whereby in 2002, 2003 and 2004 the three years how much sales this particular company had made to its various customers globally.
+NEUT3|Now let's say I want to find a trend weather amongst the seven days.
+NEUT4|How have the sales been affected?
+NEUT5|Although this is a seven days running company, I want to see whether the maximum sales has been dispatched on Sunday or Wednesday or Thursday or Friday.
+NEUT6|Now to be able to do that, first you need to extract the day, which is Sunday, Monday, Tuesday, Wednesday.
+NEUT7|Now to be able to do that, I will be taking help of 1 formula called text.
+NEUT8|I'm going to give the heading as day but the formula that I will be using is called text.
+NEUT9|Let me optimize the window before I start working on it.
+NEUT10|There you go.
+NEUT11|Once I put the column in front of me clearly.
+NEUT12|Now I'm going to write a formula in the yellow cell it says equal to text.
+NEUT13|It asks for the date value which I'm going to pick from the sales date, and within a pair of double condition.
+NEUT14|I'm going to put four times DD.
+NEUT15|And that's it.
+NEUT16|Double condition closed.
+NEUT17|Closed the brackets enter.
+NEUT18|There's a formula which has been discussed in much detail in another lecture, but let me see the application in context of this data as a copy, paste the entire set of formula in the column in first of Jan 2002 is actually falling on a Tuesday.
+NEUT19|Now with this data in hand, let me quickly prepare a pivot table control A. Insert pivot table OK. And as usual, I'm going to right click on the grid area, activate one of the pivot table options, which allows me to go back to the classic pivot table layout once.
+NEUT20|Having done so.
+NEUT21|Now let me put the day in the row field.
+NEUT22|And thereafter let me put sales amount in the main action area.
+NEUT23|Now let me first optimize the format.
+NEUT24|And what I get is more or less the trend is consistent.
+NEUT25|So if you want to present this data in a very clear graphical format, you would use something called sparklines.
+NEUT26|Something I've already discussed in one of another video lecture sessions.
+NEUT27|So what I'm going to do is I'm going to place my cursor and anyone cell OK. And after having done so, I could insert that.
+NEUT28|Then I go to the section with school Sparklines.
+NEUT29|I'm going to click online.
+NEUT30|If I choose line and I choose the entire set of numbers.
+NEUT31|Please note I'm just using only 7 numbers right now, not the text, not the total as I press OK, you get a basic trend whereby the second month you have slightly higher sales compared to other sales of different days.
+NEUT32|"So this is a sparkline based inside cell chart, So what we saw was using a formula text how to extract the day, and then probably also using sparklines to visually present the data."""

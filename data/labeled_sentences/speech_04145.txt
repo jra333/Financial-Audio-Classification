@@ -1,0 +1,8 @@
+NEUT0|"""Hello Traders and market, the AAA trades, intraday technical analysis session."
+NEUT1|Today's instrument is the Amazon stock traded in the NASDAQ under the ticker AM ZN.
+NEUT2|Looking at the four hour chart, we can see it is currently trading at $3146.56.
+NEUT3|It supports and resistance levels are around $3112.00 and 3185 respectively where we can see the Fibbonaci retracement levels at 38.20% and 50% respectively.
+BEAR4|Today, if Amazon holds its price above the support level, we could see it testing again it's resistance level, otherwise it's might fall below its support level towards $3100.
+NEUT5|Thank you for watching AAA trades.
+NEUT6|Intraday technical analysis from all of us here.
+BULL7|"We wish you a successful and responsible trading."""

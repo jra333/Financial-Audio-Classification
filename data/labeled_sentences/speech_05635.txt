@@ -1,0 +1,13 @@
+NEUT0|"""There, the president was asked specifically about whether he believed that the Masters should cancel its scheduled event for this weekend."
+NEUT1|Set to, of course, take place at Augusta National.
+NEUT2|He said that that will be up to the Masters, but that in general he supports the decisions by for profit corporations, an groups to make their own decisions about whether they should be operating in states like Georgia.
+NEUT3|He said there are two sides to the debate.
+NEUT4|Obviously the one that he agrees with, that he believes the voting law that was signed by the Governor of Georgia passed by the Legislature is.
+BEAR5|Antithetical to the beliefs and views of voting in this country, but he said that also when events like that move out of a state like Georgia, that it is often the workers who make an hourly wage, you end up getting hurt by those decisions.
+NEUT6|So he said that whatever decision these corporations in Group decide to make, he will support.
+NEUT7|He also fielded one other interesting question about whether he has so far spoken to the president or the chair of the Federal Reserve.
+NEUT8|Rather, Jay Powell, he said that he is a yet to speak to chair Powell, since he has taken office in one of the reasons why he is yet to take that phone call or make that.
+NEUT9|Phone call is because he wants to be fastidious in his words and his dealings with both the Federal Reserve and the Department of Justice to try to strike a contrast with President Trump, who he said seemed to issue directives to those independent agencies, and he doesn't want to be seen to have his thumb on the scale.
+NEUT10|Sarah back to you.
+NEUT11|Shepard Smith here.
+NEUT12|"Thanks for watching CNBC on YouTube."""

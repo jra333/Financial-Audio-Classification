@@ -1,0 +1,31 @@
+BULL0|"""I'm 680 news senior business editor Mike Apple earnings in today from the world's biggest beverage company Coca Cola, showing the transition that the company is made from sugary drinks toward healthier options."
+BULL1|Moving along with consumer trends, it has been the fastest growing segment of Coca Cola's business.
+NEUT2|Whether it's flavored water offerings or soda, that does not include any sugar or calories and sell boost Coca Cola's bottom line in the third quarter to a profit of almost $2 billion in the recently hired CEO James Quincy.
+NEUT3|Also, dispelling some market rumors at Coca Cola was looking at the cannabis market space for cannabis infused beverages.
+BEAR4|Saying they're not interested in that at this point in time, there had been some speculation Coca Cola was talking to Aurora, Cannabis and others in Canada about some sort of deal Westjet's third quarter earnings showing a loss of altitude for profitability, $46 million.
+BEAR5|They still made a lot of money in the third quarter, but they was down 66% year over year, and WestJet dealing with higher costs.
+BULL6|Whether it's the fuel bill, which is up 37% compared to.
+BEAR7|Last year, the lingering effects of a pilots strike or just competitive forces in the marketplace and also spending more money to launch this year.
+NEUT8|The ultra low cost discount airline swoop.
+BULL9|Walmart wants to help consumers get in and out of the store faster in some US locations.
+NEUT10|It is testing some of its staff walking through the store with mobile payment options where if you've got one or two items you can check out right in the aisle where you're purchasing the good and bypass the checkout line at the front of the store and this has been a common complaint of big among big retailers.
+NEUT11|The weight that it takes to get through the checkout lines.
+NEUT12|They are saying this is just another competitive benefit against the likes of Amazon and others.
+NEUT13|No word yet whether this is coming to Canada.
+NEUT14|The richest man on the planet.
+NEUT15|Not quite as wealthy as he was.
+NEUT16|Just late last week, or really at the start of the month.
+NEUT17|But Jeff Bezos has set a record for the amount of market value his investments in his company have lossed over three days.
+NEUT18|$19 billion is the estimate.
+BEAR19|Estimated loss for Jeff Bezos on paper from the decline of Amazon shares from Friday last week of 10%.
+BEAR20|Now the stock is down 25% since the start of this month and the tech rout.
+NEUT21|Jeff Bezos still worth an estimated $125 billion Amazon meantime is worth less less than 800 billion in market value.
+BULL22|Far cry from the trillion dollar threshold that it reached in late September.
+BULL23|Under Armour, the athletic wear and equipment maker in with earnings today that actually showed a sign of strength after a year of reorganization and to compete against the likes of Adidas and Nike.
+BULL24|Under Armour shares up 25% today.
+BULL25|Best performance for that stock on Wall Street in about 2 years and a new definition of pizza delivery right to your door.
+NEUT26|Pizza Hut unveiling today.
+NEUT27|The deal with Toyota that will see modified Toyota Tundra pickup trucks with robotic pizza ovens.
+NEUT28|Right in the back of the vehicle to have those pizzas being made right on your doorstep.
+NEUT29|They say this is going to be the future of getting pizza delivered and at the best quality and as temperatures as well right now is just on the drawing board from the 680 newsroom.
+NEUT30|"I'm like Apple for City News."""

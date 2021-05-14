@@ -1,0 +1,24 @@
+NEUT0|"""But we've got the numbers out now and they are there a lot of numbers."
+NEUT1|But let's start with jobless claims because they're the ones that have been most important to the markets.
+BEAR2|900,000 still very, very elevated, but that comes in lower than the forecast for 900 and 35,000.
+NEUT3|This is probably the first week that's not completely distorted by Holidays, so it is a relatively clean read.
+BEAR4|And it does show that we're still seeing a lot of layoffs out there.
+NEUT5|Obviously we've had the caveat to how many people.
+NEUT6|Maybe fraudulently claiming or double claiming or something like that, but 900,000 is still a lot, adds urgency to the Joe Biden effort to try to keep the economy going.
+NEUT7|At this point.
+BULL8|The other big number of the day housing starts comes in at one million 669 thousand at an annual rate that's much better than the forecast.
+BEAR9|1.56 million, and so it does suggest that the housing industry remains on fire 5.8%.
+NEUT10|Gain their building permits.
+NEUT11|Go to 1.709 million.
+BULL12|The forecast was for 1608, so that's an increase of four and a half percent.
+BULL13|It does suggest real strength in the housing market.
+NEUT14|Mortgage rates still very very low.
+NEUT15|The interest rate sensitive sectors of the economy are responding and then the other number that is out.
+NEUT16|This hour.
+NEUT17|Philadelphia fed a big increase and you know in a strange way.
+NEUT18|This may be the one that the markets react to the most.
+BULL19|26.5 I agree.
+BEAR20|The last month was revised down to 9.1, so that's a major increase in the Philadelphia Fed index.
+BULL21|The new Orders index is at 30 versus 1.9 and the employment index rises to 22.
+BEAR22|Five versus 5.6 on the one hand, you've got the reflection of a economy that is still shedding jobs in jobless claims.
+BULL23|"But the Philadelphia Fed Index granted it's a small area, but it does suggest that there is some come back out there."""

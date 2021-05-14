@@ -1,0 +1,32 @@
+BEAR0|"""Better times are coming, but be prepared an ugly storm may follow."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+BULL2|Will you get the insights you need to help navigate these turbulent times after dreadful year of deaths and lockdowns, people will finally enjoy good times and some sense of pre pandemic normalcy.
+BULL3|The COVID-19 vaccines are working and becoming plentiful.
+NEUT4|Cautious health officials won't say it, but the pandemic will be virtually over by late spring or early summer.
+BULL5|Consumer savings are at record levels.
+BULL6|Cash balances will be boosted even more with a new round of stimulus checks of 1000.
+NEUT7|$400 per person.
+BULL8|Overall business balance sheets are strong.
+BULL9|Stocks are booming.
+NEUT10|People are eager to travel to eat out, go to sporting events, get together, and have a good time.
+BEAR11|The only Rd bumps are obtuse politicians and states like New York, California, Illinois, Michigan, and Nevada who drag their feet in opening up their economies and their schools.
+BEAR12|But political pressures growing on him to get with it and open up.
+NEUT13|But what happens when all this pandemic emergency money is spent by Washington?
+NEUT14|Here you should get worried.
+BEAR15|Very worried.
+BEAR16|The Biden administration is Mistakingly pushing policies that will deliver ever harsher blows to the economy.
+NEUT17|It's gratuitously raising the costs of energy by assaulting the production of oil and gas.
+BULL18|Not only will this make gasoline and heating oil more and more expensive, it will raise the cost of numerous other products, like plastics that have a high energy component in their production.
+NEUT19|It is giving free rein the government agencies to let loose an avalanche of new rules and regulations that will smother companies, especially small ones with extra expenses that will hurt their growth.
+NEUT20|Agriculture will be similarly.
+BEAR21|Damaged such a hailstorm of regulations during the presidency of Barack Obama severely slowed economic growth, very damaging for the future is the onslaught of new taxes President Biden hopes to enact later this year.
+BEAR22|The very scale of these increases will knock the wind out of the economy.
+BEAR23|What the White House can't grasp is the breadth of these taxes will squeeze the life out of an economy.
+NEUT24|It always does.
+BEAR25|Another very real possible disaster awaiting us is the Federal Reserve creating too much money.
+NEUT26|To pay for Washington's unprecedented spending, if the Fed doesn't respond the right way, we're in for inflation and a surge of growth, killing interest rates, taxes, inflation, smothering rules, and regulations all be self inflicted wounds.
+NEUT27|We can only hope that the Biden administration wakes up to these dangers sooner rather than later.
+NEUT28|I'm Steve Forbes.
+BULL29|Thanks for listening.
+NEUT30|Do send in your comments and suggestions and look forward to being with you.
+NEUT31|"Soon again."""

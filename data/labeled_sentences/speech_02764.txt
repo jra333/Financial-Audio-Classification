@@ -1,0 +1,38 @@
+BULL0|"""PayPal, which is a great innovation that happened in."
+NEUT1|So that's how we pay for things.
+NEUT2|That seems to me an area in which it hasn't been as much subsequent innovation other than Bitcoin, as it should be.
+NEUT3|In other words, quickly transferring money, especially to people you don't know or whatever it is to me.
+BEAR4|Maybe I'm wrong, far more difficult than it seems like it should be.
+BEAR5|Are you somewhat disappointed with the way PayPal then preceded, or you disappointed with the lack of innovation in the digital currency and environment?
+BULL6|Yeah, people has definitely.
+NEUT7|I mean it hasn't moved much since from when it was sort of bought by eBay.
+NEUT8|The the long term vision that I had for PayPal or sort of in and sort of finance was to to.
+NEUT9|Well, it sounds a bit strange like to convert the financial system from a series of heterogeneous.
+NEUT10|Secure databases to one database.
+NEUT11|Or well, not one database.
+NEUT12|And maybe they would be like a few more.
+NEUT13|The money is just a number in a database.
+NEUT14|That's what it is and it's.
+NEUT15|Primarily an information mechanism for labor allocation.
+NEUT16|And the current databases are not very efficient like there are.
+NEUT17|You know there are these old legacy mainframes that don't talk to each other very well, have for security and only do their dubash processing once a day.
+NEUT18|Are you glad PayPal is being spun off?
+NEUT19|This is probably the right move, and what would you do with it?
+NEUT20|Well, I think I think I converted into more of a full service financial institution, so you just you want to do.
+NEUT21|All the things that.
+NEUT22|A consumer you want to have all the financial services that somebody needs in one place, seamlessly integrated together an easy to use.
+NEUT23|And I really.
+NEUT24|Really care about the consumer.
+NEUT25|I think a lot of banks don't seem to care that much about the customer, so I think there's an opportunity to be like a really good bank effectively, but much more than what people think of it.
+NEUT26|Do you think Bitcoin will be disruptive in that way?
+NEUT27|And we now have the speculative currency.
+NEUT28|Will it be something that will be what normal consumers will use and will disrupt the banking industry?
+NEUT29|In my opinion, Bitcoin is that.
+NEUT30|I mean I think Bitcoin is probably a good thing, but it's essentially.
+NEUT31|It means things will be even.
+NEUT32|This probably quoted here and there, but the.
+NEUT33|It's like it's primarily going to be a means of doing illegal transactions.
+NEUT34|But that's not necessarily entirely bad, because I don't know if something should be, maybe shouldn't be illegal, so.
+BULL35|But a combination of Silk Road and Bitcoin will save us well.
+NEUT36|It will be useful for legal and illegal transactions, otherwise it would have no value as a use of for legal transaction 'cause you have to have a legal to illegal bridge.
+NEUT37|"I don't own any Bitcoin."""

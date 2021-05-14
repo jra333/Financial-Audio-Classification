@@ -1,0 +1,10 @@
+NEUT0|"""Here's what we're following across markets."
+BEAR1|As trading gets underway in London, sentiment has shifted back a touch with eurozone shares on the defensive after a solid session for Asia and Wall Street overnight broad dollar strength with China fixing its currency weaker by zero point, 5% is weighing on commodities sapping sentiment for equities about a profit taking after substantial gains since February.
+NEUT2|Or are we set for a sudden shift in the trend?
+NEUT3|Profit taking appears a logical call for now, but there are good reasons for caution.
+NEUT4|Don't forget the trigger for games this week.
+BULL5|Reflected relief that the likes of JP Morgan.
+BEAR6|Beat its lowered earnings estimate while China's trade data was not as bad as forecast Singapore.
+BULL7|Surprise easing today suggests prospects for global trade are not looking so hot and we could well see renewed volatility in currencies and other markets that certainly the case closer to home.
+NEUT8|With Sterling under the pump ahead of the Bank of England's policy meeting today, the rationale for selling the pound rests on one thing, and it's not economics.
+BEAR9|"It's the risk of voters spurning the EU in June."""

@@ -1,0 +1,23 @@
+NEUT0|"""This week we're taking a look at the Forbes 400, a list of the richest Americans from the past year."
+NEUT1|At #5, is Larry Ellison worth $72 billion?
+NEUT2|Larry Ellison built his wealth as the founder of Oracle, a database software and cloud company.
+NEUT3|He gave up his position as Oracle CEO in 2014, but still serves as chairman of the Board and Chief Technology Officer.
+NEUT4|In 2012, Ellison spent $300 million to buy nearly all of Hawaiian Island Lenae.
+NEUT5|So far he is built a hydroponic farm and a luxury spa there.
+NEUT6|At #4, is Warren Buffett worth $73.5 billion, known as the Oracle of Omaha, Warren Buffett is one of the most successful investors of all time.
+NEUT7|Buffett runs Berkshire Hathaway, which owns more than 60 companies, including insurer, GEICO and restaurant chain, Dairy Queen.
+NEUT8|He's also promised to donate over 99% of his wealth.
+NEUT9|So far, he has donated more than $41 billion to the Gates Foundation and his children's foundations at #3.
+NEUT10|Is Mark Zuckerberg worth $85 billion?
+NEUT11|Mark Zuckerberg earns his wealth running Facebook, which he founded in 2004.
+BEAR12|In June, more than 1000 advertisers joined a boycott to protest Facebook's LAX policing of hate speech.
+BEAR13|Ad misleading posts from politicians outside of Facebook.
+NEUT14|Zuckerberg and his wife Priscilla Chan are spending $3 billion in an attempt to end, cure or manage all disease by the year 2100 at #2.
+NEUT15|Is Bill Gates worth $111 billion?
+NEUT16|Known as one of the founders of Microsoft, Bill Gates has sold or given away much of his stake in the company and invested in a mix of stocks and other assets.
+NEUT17|In 2020, Gates also stepped down from the board of Microsoft to focus more on his philanthropic activities.
+NEUT18|In May 2020, the Gates Foundation said it would spend $300 million to fight the Corona virus pandemic funding, treatment detection and vaccines and at number one, is Jeff Bezos worth $179 billion?
+NEUT19|Amazon CEO Jeff Bezos tops the Forbes 400 for the third year in a row in 2019.
+BULL20|Amazon notched $280.5 billion in revenues and a record $11.5 billion in net profit.
+BEAR21|However, Amazon has faced criticism from US senators.
+BULL22|"And the general public for its treatment of warehouse workers during the coronavirus pandemic."""

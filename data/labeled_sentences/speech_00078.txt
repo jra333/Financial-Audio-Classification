@@ -1,0 +1,22 @@
+NEUT0|"""Leo's T7 sedan."
+NEUT1|It's the company's fourth model.
+BULL2|Neo is widely seen as being one of the top three electric vehicle companies in China.
+BULL3|Certainly seen as a challenger to Tesla.
+NEUT4|This car is going to be on the market from the first quarter of 2022, is going to be priced at about 70,000 U.S. dollars before subsidies.
+NEUT5|It does zero to 100.
+NEUT6|In about 3.9 seconds it's going to have an eventual range by the end of 2022, with a new battery of about 1000 kilometres more than 1000 kilometres.
+NEUT7|Again, according to Neo inside the car you got about 23 surround sound speakers.
+BULL8|You've got upgraded 5G.
+BULL9|You've got upgraded AI capabilities.
+NEUT10|You've even got massage chairs in the front, and the back of the car.
+NEUT11|They're trying to give you this as they describe it.
+NEUT12|Living room experience inside the vehicle.
+NEUT13|On the outside, you got Lidar.
+NEUT14|And you've got an 8 megapixel cameras surrounding the vehicle as well.
+BULL15|Getting closer to fully autonomous.
+NEUT16|It's not fully autonomous, but it does have autonomous capabilities and they are trying to encourage their customers to move on from the SVS that they've been producing and start looking at this new sedan in terms of the broader context of what's happening in the TV market in China.
+BEAR17|You've got, Tesla is come out, and it's slashed the prices of its model Y that has.
+BEAR18|Put some broader pricing pressure on some of the electric vehicle makers.
+NEUT19|Here, Neo and the CEO says it's not really affecting them.
+NEUT20|They don't see the model why the Model 3 as a direct competitor?
+BULL21|"This is more in line with Tesla's Model S, although near of course would say that this sedan, the 87 is a notch above what Tesla is offering."""

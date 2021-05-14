@@ -1,0 +1,3 @@
+NEUT0|"""Do you know about the world's biggest trade?"
+NEUT1|George Soros on 6 September 1992.
+NEUT2|"He took a leverage of $10 billion, short sold pound and made a profit of $1 billion."""

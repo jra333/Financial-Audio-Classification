@@ -1,0 +1,15 @@
+NEUT0|"""Everyone, let's take out the Apple stock we can see here today."
+BULL1|It has managed to bounce back to the positive and with a one point percent gain at the closing of the market.
+BULL2|So it shows signs of recovery.
+NEUT3|If we change the chart into daily chart we can see here we have formed a hammer pattern, a hammer in the bottom of a downtrend sometimes means we have some strength to bounce back.
+BULL4|So very likely for Apple stock from here to have a bounce back.
+NEUT5|And also we can.
+NEUT6|Notice that the volume for the training has been.
+BULL7|Increased significantly because it's nearly.
+NEUT8|Twice the volume.
+NEUT9|Compared to normal volume, so that means somebody already buying in at this price.
+NEUT10|But emitter make us if it's still below the yummy lines, there's four lines about this candle.
+NEUT11|That means there's a lot of pressure, so we need some.
+NEUT12|We need some new candles to confirm the short term bottom, so that means a hammer already gave us 50% of the possibility that is bottoming.
+BEAR13|We need another confirmation from the falling candles, but most of the time we got a hammer at the bottom of a downtrend.
+BULL14|"Thank you."""

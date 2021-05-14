@@ -1,0 +1,5 @@
+NEUT0|"""Hello everyone, let's take by the Apple stock we can see here today."
+BULL1|Apple has made a.
+NEUT2|Red candle, but this right cannot just sit above the EMI line, so there's still some supporting by this line.
+NEUT3|So as long as we keep it above this line, there still possibility to go higher from here and even retest the hung above.
+BULL4|"Yeah, I'm a resistance line, thank you."""

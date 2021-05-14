@@ -1,0 +1,32 @@
+NEUT0|"""On that notion that Steve was just talking about, it's so uneven, right?"
+BEAR1|And the data that Steve is talking about and the expectations are so uneven?
+NEUT2|How patient is the market going to be with the recovery?
+BULL3|The market has been incredibly patient and will continue to be patient because it feels that its back is covered by the Fed.
+BULL4|It feels that there's massive liquidity available, 24 financial assets.
+NEUT5|Having said that, Scott, the big test and I hope we don't get it.
+NEUT6|The big test is if you have bankruptcies.
+NEUT7|If you have capital impairments.
+NEUT8|If you have what?
+NEUT9|Steve just called structural issues, scars.
+BULL10|At that point, the market would be tested in a big way.
+NEUT11|Well, we already have bankruptcies and we're likely to get more, and it's it's hard to imagine an environment that doesn't have some scarring, right?
+BEAR12|Oh, you're going to definitely get economic scarring.
+NEUT13|The question for the marketplace is how much of that is translated into outright defaults and therefore loss of capital in a way that the Fed cannot save you.
+NEUT14|I worry about this, but the marketplace has been quite curious and you heard from Mike put the big tech theme aside, which has been a very strong theme.
+NEUT15|Put that aside and basically it's a stalemate.
+NEUT16|On the one hand, concerns about the fundamentals and fiscal policy.
+BULL17|On the other hand, very strong technicals because of the Fed and because of retail investors.
+NEUT18|That is the balance right now doesn't play.
+NEUT19|But as long as you have the Fed engaged to the degree in which it is that, that's not going away anytime soon.
+BULL20|I think we can both agree on that.
+BULL21|Here we are on the cusp of what we think is a new stimulus package.
+NEUT22|As long as those two dynamics remain in place, why wouldn't the market remain in a similar place that it's been?
+NEUT23|Those are the two most important forces.
+NEUT24|Correct, the question is not whether you have a stimulus package or what.
+NEUT25|I call a relief package rather than stimulus package.
+NEUT26|You will.
+NEUT27|The question is what's happening to people's willingness to spend and it's going to be really interesting when people get their $1200 checks this time around.
+NEUT28|Will they wash out like they did last time and spend it, or will they be more cautious because this virus has lasted a lot longer?
+NEUT29|The reason why economists are so divided, as Steve pointed out, is because there was.
+NEUT30|No agreement on how the household sector will react, and that's going to be a real test.
+NEUT31|"Scott in the weeks ahead is about willingness and not just ability."""

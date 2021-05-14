@@ -1,0 +1,36 @@
+NEUT0|"""Got breaking news on Ford Q4 sales figures."
+BEAR1|AUS sales down 98 in the final three weeks, or final three months of 2020.
+BEAR2|That's less than the 14% drop that analysts surveyed by Edmonds had anticipated.
+NEUT3|Jim will watch that.
+NEUT4|I gotta pay attention to Toyota to yesterday.
+BULL5|Their North American chief said they expect U.S. sales this year to exceed the record 16 million.
+NEUT6|Look, I gotta tell you, I think forge on fire.
+NEUT7|I think that Jim Farley's changed the mix the Bronco.
+NEUT8|You can't find what I mean.
+NEUT9|The dealers are essentially selling as soon as they arrive.
+NEUT10|I'm talking bout 6 state turn.
+BEAR11|It's very hard to keep stock of the F-150.
+BEAR12|There are many good things happening for that are being completely ignored by the market.
+NEUT13|Mostly the fact that they've decided to make money on what they sell.
+NEUT14|It's a big change.
+NEUT15|I know I sound like that.
+NEUT16|I'm being facetious, but no.
+NEUT17|This Broncos on fire and I think people have to recognize that Farley is a different kind of CEO.
+BULL18|There is a good market for autos David.
+BULL19|We know that this whole move out of this X urbanization, which continues because of the slow rate of the vaccine is good for autos, and I think some companies are doing better than others.
+NEUT20|But I say yes, Tesla's great, but don't denigrate forward because people like the Bronco people like the F-150 and there's a market for something else other than the Tesla.
+BULL21|Alright, so we're going to get to Tesla, which is of course going to open at a record high.
+NEUT22|You got this Adam Jonas note this morning.
+NEUT23|Jim 810 is the new price target.
+NEUT24|You'd say don't bother with that by Ford instead.
+NEUT25|No no no no.
+NEUT26|David David, I pledge allegiance to Tesla in the United States of America.
+NEUT27|No Teslas crime.
+NEUT28|Just saying that there's room for both.
+NEUT29|Oh my David Twitter now I just wanna know why did you?
+NEUT30|Why do you Twitter?
+BEAR31|Twitter is a nightmare.
+BEAR32|It really is sorry.
+NEUT33|I mean that's all I got on Twitter to wish Joe everybody so mean.
+NEUT34|Shepard Smith here.
+NEUT35|"Thanks for watching CNBC on YouTube."""

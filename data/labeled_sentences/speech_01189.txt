@@ -1,0 +1,43 @@
+BEAR0|"""Weather alert now the biggest snowstorm in years is headed for the Northeast, or that's what the meteorologists tell us."
+NEUT1|More than 65 million people in its path.
+BEAR2|Some cities could get were told as much as a foot of snow, some more.
+NEUT3|Forecasters say.
+BEAR4|With Blizzard like conditions in some areas, power outages possible.
+NEUT5|Janice Huff knows this stuff.
+NEUT6|She's tracking the snowstorm, chief meteorologist for NBC4, New York going to be quite a day tomorrow, huh?
+NEUT7|Oh yes.
+NEUT8|Yep, that's for sure tomorrow.
+NEUT9|Tomorrow night into Thursday as well.
+NEUT10|Our storm hasn't actually developed yet, but it's in the beginning stages over the Gulf of Mexico.
+NEUT11|And guess what?
+NEUT12|The Hurricane Hunters are getting in on the action?
+NEUT13|No, they're not tracking hurricanes right now, but a winter storm and they've been going to flying through parts of the Gulf of Mexico and the upper levels of the atmosphere gathering data.
+NEUT14|Because this is where the beginnings of the storm will be in that energy will be transferred along the coast.
+NEUT15|So they're not just hurricane hunters.
+BEAR16|Their winter storm hunters as well, and the difficulty with the forecast of the storm like this.
+NEUT17|These coastal storms nor'easters is all the different air masses warm?
+NEUT18|Air intrudes eventually into the storm in the upper levels of the atmosphere, and that way sometimes you get ice, like sleet ice pellets that bounce on the ground and anytime you get a mixture of rain, sleet and snow.
+NEUT19|That means your snow totals will be a lot less, and that all depends on the track of the storm where it forms and where it moves.
+BEAR20|If the storm takes more of a northern track, you get more mixing at coastal areas, even down towards DC you wouldn't get as much snow there, and it seems to be taking more of a northern track right now.
+NEUT21|If it takes a southern track now you get the cold air staying in place.
+NEUT22|And the snow that extends from New York City all the way down to DC.
+NEUT23|But this time it looks like it's going to hug the coast a little bit more, so we'll have that surface low developing tomorrow.
+BEAR24|Moving up the coast combined with high pressure to the North, a lot of wind, very strong winds in between heavy snow and coastal flooding.
+BEAR25|Likely minor to moderate flooding for shore areas.
+NEUT26|How much snow?
+BULL27|Well we've added to the totals?
+NEUT28|Now the computer forecasts are showing a whole lot more across central Pennsylvania, so places like Allentown.
+NEUT29|And State College could see upwards of two feet, maybe even 30 inch snowfall totals across central Pennsylvania by Thursday morning.
+NEUT30|Other areas, the Jersey Shore.
+NEUT31|The farther South you go, the less know you're going to see.
+BEAR32|Maybe less than an inch down towards Cape May, but as you go North, the snow starts to pile up.
+NEUT33|New York City right now is within the range of eight to 12 inches of snow and Boston.
+NEUT34|Same thing here up towards Albany, maybe 5 to 8 inches of snow expected for you and 12 to 8 inches.
+NEUT35|18 inches.
+NEUT36|That is for parts of Connecticut through the Lower Hudson Valley down towards Petersburg, VA. Washington DC.
+NEUT37|Right now in the range of maybe three to five.
+NEUT38|If you don't get too much in mixing with the ice, but also is going to be a big ice storm with this alot of sleet accumulation across parts of Pennsylvania and parts of Maryland, so the weather will be treacherous starting tomorrow night into Thursday morning, not advising people to be on the roads whatsoever, and there's a good thing this is happening.
+NEUT39|Late at night because most people won't be on the roads and will you have a white Christmas?
+NEUT40|Well, as a result of all of this snow, some of us will probably still have snow on the ground by then, but for a lot of us, especially places like New York City maybe not so much yet to get it up.
+BULL41|There might be good at it, Janice, thank you.
+NEUT42|"Shepard Smith here thanks for watching CNBC on YouTube."""

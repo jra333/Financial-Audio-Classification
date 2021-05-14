@@ -1,0 +1,11 @@
+NEUT0|"""Yes, that's right, Scott sources tell me that Bob Iger has been recommended for the role of ambassador to China."
+NEUT1|Now, obviously Eiger has been very involved in the content creation for Disney plus, we just heard from him Disney's Investor Day last week, a source close to the situation tells me that Bob is always expressed an interest in being in public service, but is not looking for something specific in the Biden administration.
+NEUT2|If something comes up that would use allies, his talent and experience and he would be open to it.
+NEUT3|But that he's not pursuing anything right now.
+NEUT4|So from what I understand this is a role that would be unlikely to be filled until after Biden's inauguration.
+NEUT5|There's also the question of what Biden's plans are for China policy, and it's my understanding that that would sort of have to be all sorted out first before any of the potential folks here in Hollywood who could be considered would understand what that would entail and whether or not it would be the right fit for them.
+NEUT6|Scott, Julia.
+BULL7|We appreciate the update there.
+BEAR8|Julia Borsten forced out.
+NEUT9|Shepard Smith here.
+NEUT10|"Thanks for watching CNBC on YouTube."""

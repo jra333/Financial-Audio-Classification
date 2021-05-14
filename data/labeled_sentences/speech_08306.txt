@@ -1,0 +1,35 @@
+BULL0|"""Hi and welcome to the bottom line."
+NEUT1|In this video, we're going to explore what a recession is and whether or not the next one could cause the US stock market to crash.
+BEAR2|It's important to understand that a recession is an economic term that refers to a general slowdown in economic activity.
+BEAR3|And it's usually defined as two consecutive quarters of negative GDP growth.
+BEAR4|Recessions are tricky to predict because they typically start before anyone knows they're happening.
+NEUT5|And end before economists have enough data to know that they're done.
+NEUT6|It's also worth mentioning that they're usually pretty short.
+BEAR7|Since the end of the Great Depression, there have been 13 recessions in the US, and nine of those lasted less than one year.
+BEAR8|While the effects of a recession often cause the stock market to fall, recessions don't cause stock market crashes.
+BEAR9|Stock market crashes are sudden drops of stock prices and their unusual events that are often driven by panic.
+NEUT10|In general, the stock market tends to follow the US economy.
+NEUT11|There are countries all over the world that are dealing with all kinds of economic issues right now.
+BEAR12|For example, China is experiencing its worst manufacturing output in more than 17 years at Germany's.
+BEAR13|GDP is shrinking.
+BEAR14|Meanwhile the UK is dealing with a laundry list of issues surrounding Brexit, and Italy is already in a recession.
+BULL15|Even with all of those problems, the US stock market has performed incredibly well.
+BULL16|Generally speaking, as long as the US economy is strong, then our stock market will be strong as well.
+BEAR17|Of course, when a recession does come along, the stock market tends to react negatively.
+BEAR18|The stock market's average return during recessions dating back to the mid 1950s has been negative 1.5%.
+BEAR19|But that doesn't mean that stocks get crushed during a recession.
+BULL20|In fact, the market actually posted gains during four of the last eight recessions.
+BULL21|It's also important to remember that stocks tend to perform very well in the years immediately following recessions.
+NEUT22|On average, the S&P 500 generates total returns of more than 15% in a year after a recession ends and 40% in a three year.
+BULL23|Following the economy's return to growth.
+NEUT24|So what should investors be doing as worries over recession rise?
+NEUT25|Because it's impossible to predict with accuracy when recession will occur or how long it will last.
+BEAR26|Trying to time a recession is generally a bad idea.
+BEAR27|Unfortunately, one of the biggest mistakes people make during a recession is to sell their stocks after the market has already fallen sharply because they expect it to fall even more.
+BEAR28|The stock market then starts to recover before people are ready to reinvest, resulting in them missing out on the market's recovery.
+NEUT29|The bottom line is that recessions are going to happen and they will most likely negatively affect the stock market, but those negative effects will probably be short lived, which is why you should invest in businesses that can make it through the tough times and then hang on to those investments for the long haul.
+NEUT30|Thanks for watching this video.
+BEAR31|Do you think the next recession will cause a stock market crash?
+NEUT32|Let us know in the comments.
+NEUT33|And if you like this video, click the thumbs up button and subscribe to our channel.
+BULL34|"It helps us reach more people, which allows us to make more awesome content."""

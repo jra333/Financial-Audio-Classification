@@ -1,0 +1,32 @@
+NEUT0|"""The company makes money, right?"
+NEUT1|Well, that depends on how you want to define it.
+NEUT2|On a free cash flow basis.
+BEAR3|Currently their free cash flow, negative.
+BULL4|That's something that they've told the street that they're going to be at peak burn this year and they are headed to a path to self funding.
+NEUT5|We don't necessarily think that's incorrect.
+NEUT6|We just think that it's going to take a lot longer or a little longer anyway to get to self funding then what the street is baked in.
+BULL7|So maybe the cash returns of this business or a little more modest than what the Bulls have previously.
+NEUT8|Except they do have positive EPS, right?
+NEUT9|And I'm right on that.
+NEUT10|That's correct, yes, and there is a difference here in the cash and the Prof. Button loss on the income statement which just comes down to their accounting and I think we say in the note we don't have a problem with the accounting per say.
+NEUT11|We just do think that people need to look at both when valuing a company at this subjective growth phase.
+NEUT12|So how does the but you point out as well which is really intriguing to me and I guess the core question is how does this company actually grow and deliver if it is losing money on every subscriber, you say $2.00 per month per subscriber.
+NEUT13|Am I quoting you correctly?
+NEUT14|Yep, that's correct.
+BEAR15|So the last couple of years Netflix has been losing around $2.00 per subscriber per month.
+NEUT16|So it's charging around $10 on a global basis for that streaming service.
+NEUT17|It's spending about 12 on that same subscriber, and I think the expectation is as it gets bigger.
+BEAR18|Some of those costs per subscriber will come down and you'll start to see this inflection point in the cash flow.
+NEUT19|Again, we don't think that necessarily can't happen, we just think it happens more slowly, and when it gets to a positive point, that positive cash is more modest than what a lot of our peers think, Steven, why does this matter?
+NEUT20|And I'm asking you this because Netflix has access to the capital markets right now easily, and so it can keep raising money.
+NEUT21|So doesn't it not matter until it can't any longer access capital markets?
+NEUT22|And I mean in your note you say where we could be wrong.
+BULL23|Maybe no one cares and we are seeing the stock trade higher today.
+NEUT24|Is that all part of this narrative?
+NEUT25|Here people are willing to overlook all of this because Netflix can still raise money.
+NEUT26|Yeah, I think I think there is certainly true to the fact that it's going to be able to raise money for a long time, but you know the market and the stock is always the addition of all the future cash flows and we're kind of saying hey, maybe those future cash flows are a little more modest than what you thought before.
+NEUT27|Life is harder for Netflix than it's ever been with Apple and Amazon, and now Disney and HBO being out there so you know, at what point?
+NEUT28|Maybe to the debt markets, decide they want to lend them less money, or lend the money at a higher price.
+BEAR29|If we see interest rates go up, that's another potential risk to the funding stream that Netflix has had.
+NEUT30|Good access to and.
+NEUT31|"We're not saying that all these things are going to come crashing down next year, but you know, this has been a high flying stock and at the end of the day, you know cash kind of rules everything around us, so that's what we're looking for."""

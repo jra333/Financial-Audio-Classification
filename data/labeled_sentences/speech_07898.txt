@@ -1,0 +1,19 @@
+BEAR0|"""What happened on Black Monday?"
+BEAR1|Black Monday or also called the crash of 1987, refers to Monday, October 19th, 1987, when stock markets around the world crashed, shedding a huge value in a very short time.
+BEAR2|The crash began in Hong Kong and spread West to Europe, hitting the United States after other markets had already sustained significant declines.
+NEUT3|Easy explained.
+NEUT4|Black Monday is perhaps the most famous trading day in Wall Street history.
+BEAR5|In one day, the companies of the Dow Jones Industrial average lost 22% of their value, or about $500 billion.
+NEUT6|And what is Dow Jones industrial average?
+NEUT7|Is a stock market index that shows how 30 large publicly owned companies based in the United States have traded during a standard trading session in the stock market?
+BEAR8|The reason for the market crash was that the supply of stocks suddenly far exceeded the demand for stock and investors, fearing that prices would continue to fall, panicked.
+NEUT9|However, the specific causes of the market crash are controversial and numerous.
+NEUT10|Each factor that affected the crash was only part of a larger web of influences, for example.
+NEUT11|A popular explanation for the 1987 crash was computerized selling, dictated by portfolio insurance hedges, an investment strategy where various financial instruments such as equities and debts and derivatives are combined in such a way that degradation of portfolio value is protected.
+BEAR12|Also a series of corruption and insider trading investigations continued to get headlines in 1987.
+BEAR13|On Black Monday, the heavy sell volume overwhelmed the New York Stock Exchange automated order system, and many traders simply gave up trying to execute trades for a time.
+BEAR14|These events created serious information gaps and delays, which further inflamed the panic selling.
+NEUT15|My IT matters.
+BEAR16|Black Monday was the biggest one day loss in the history of the Dow Jones industrial average and was a reminder of the power of the markets.
+NEUT17|It became an example of the power of the lack of investor confidence and the interrelation of global financial markets and economic factors for individual investors.
+NEUT18|"Black Monday became a prime example of the risks of short term investing and of the temporary nature of trends."""

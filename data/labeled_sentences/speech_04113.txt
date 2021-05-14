@@ -1,0 +1,29 @@
+BULL0|"""Welcome back to squawk."
+BULL1|Our executive edge, the largest foreign IP on a US exchange since Alibaba starts trading.
+NEUT2|It happens today.
+NEUT3|Coupang prices its IPO at $35 a share.
+BULL4|It's above the target range as with seems like every IPO these days that values the company at $60 billion fast growing e-commerce from dominating the South Korean market and it's had quite a journey to get to this moment.
+NEUT5|Coupang is an E Commerce giant in the largest market, not dominated by Amazon, Walmart or Alibaba.
+NEUT6|It was founded in 2010 by Bum Kim, who dropped out of Harvard Business School just six months in to start this company, I got the chance to visit Coupang headquarters and soul back in 2018.
+NEUT7|We started off with the group on type model.
+NEUT8|We did evolve eventually into a third party seller platform.
+BULL9|The consistent vein through all of those.
+NEUT10|Iterations through that evolution has been something a spirit that we've we often refer to in our motto.
+NEUT11|Let's create a world in which customers ask how did I ever live without coupon in its filing, Coupang said it generated nearly $12 billion in annual revenue for 2020.
+BULL12|That's a 91% increase year over year.
+BULL13|Net loss narrowed to 475,000,000 from 699 million in 2019.
+NEUT14|Coupang's end to end Logistics network called Rocket delivery.
+BEAR15|Promises next day or faster delivery for nearly all of its orders and more than 75% of those rocket deliveries are boxless among risk factors listed in the company's filing Coupang warned it could lose market share to our competitors if we do not innovate or compete effectively.
+NEUT16|Coping has is cut out for them.
+BULL17|Amazon is trying to make inroads in South Korea.
+BULL18|The market is growing very rapidly.
+NEUT19|One of Japan's biggest backers is SoftBank, which invested $1 billion in 2015.
+NEUT20|Another 2 billion in 2018, bringing its last private market valuation to $9 billion, and we can solve it for this market there.
+NEUT21|Going to be a lot of other markets.
+BULL22|And while campaigning has succeeded in the densely populated South Korea times, going to tell how it can perform in new markets, especially as we see some residents fleeing from pack cities to suburban areas in the pandemic.
+NEUT23|And we should also note the Kapanke was ranked number 2 on the 2020 CNBC Disruptor list, and later in the program we will talk with the CEO Live right here on CNBC.
+NEUT24|$60 billion valuation literally just weeks ago, people thought it would be a $50 billion valuation Anna year, year or two ago.
+NEUT25|It was half that so.
+NEUT26|Well, maybe welcome to 2021, but we're going to talk to him about where Coupang is going and where it's headed in just a little bit and 8:00 o'clock hour.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

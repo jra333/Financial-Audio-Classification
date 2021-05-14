@@ -1,0 +1,22 @@
+BULL0|"""Facebook, NASDAQ FB earnings for first quarter of 2020 have FB stocks soaring higher after hours Wednesday."
+BEAR1|This comes despite its diluted earnings per share EPS of $1.71, which is lower than Wall Street's estimate of $1.74.
+BULL2|However, the social media companies revenue of $17.74 billion comes in above analysts estimates of $17.48 billion.
+NEUT3|Let's take a more in depth look at the most recent Facebook earnings report.
+BULL4|Diluted per share earnings are up 101% from 85 cents during the same time last year.
+BULL5|Revenue for the quarter comes in 18% higher than the $15.08 billion in the first quarter of 2019.
+BULL6|Operating income of $5.89 billion, a 78% increase year over year from $3.32 billion.
+NEUT7|The Facebook earnings report also includes a net income of $4.9 billion.
+BULL8|That's a 102% improvement over its net income of $2.43 billion in the same period of the year prior.
+NEUT9|Mark Zuckerberg, founder and CEO of Facebook, said this in the earnings report.
+NEUT10|Our work has always been about helping you stay connected with the people you care about, with people relying on our services more than ever, we're focused on keeping people safe, informed, and connected.
+BEAR11|Facebook notes that the novel coronavirus is having an impact on its business.
+BEAR12|That includes less ad revenue.
+NEUT13|As a result, it isn't providing specifics when it comes to its 2020 outlook.
+BEAR14|What it does say, as it is seeing weaker ad revenue across all geographies.
+BULL15|FB stock was up 10.7% after markets closed on Wednesday.
+NEUT16|As of this writing, William White did not hold a position in any of the aforementioned securities.
+NEUT17|America's number one stock Picker reveals next 1000% winner.
+BULL18|Freakys found 41,000% or higher stock market winners.
+BULL19|He beat 650 of the world's most famous investors, including Bill Ackman and David Einhorn in a contest.
+NEUT20|And today he's giving away the name and ticker symbol of his next potential 1000% winner for free.
+NEUT21|"No credit card, email address or subscription required."""

@@ -1,0 +1,44 @@
+NEUT0|"""So what, what is the number one thing you should not do?"
+NEUT1|Oh well, I was going to say the number one thing you should know is actually know the ticker, right?
+NEUT2|It's FBF as in Frank B isn't boy, it's not face, it's not book the first, but you said the first thing you shouldn't do is buy at the open.
+BEAR3|A lot of these stocks will pop the open, but they end up lower over the course of the day.
+NEUT4|That's what we saw.
+NEUT5|What happened to LinkedIn?
+NEUT6|But we saw what happened to Groupon.
+BEAR7|Even Google that at certain points and they traded below its IPO price on the day its IPO.
+NEUT8|So you don't.
+NEUT9|After by the 2nd the market opens on May 18th or the 2nd Facebook starts to trade on May 18th, so that's the first thing.
+NEUT10|Don't pull the trigger right off the bat and there's no chance that you and I and individual investors are giving their hands on the actual IPO.
+NEUT11|We're not getting this thing.
+NEUT12|That's also all going to institutional investors or or big mutual funds that are already locked up with their brokers.
+NEUT13|Certain amount of shares mean yes.
+NEUT14|If you perhaps have $510,000,000 at Meryl Lynch or Morgan Stanley World, maybe Micro you throw your share too, but otherwise yeah, if you're Joe individual investor, you're probably going to have to wait a couple hours anyway.
+NEUT15|OK, so the next one use a limit order.
+NEUT16|What is a limit order?
+NEUT17|A limit order tells the market that you're willing to buy a stock only at a certain price you're not willing to take.
+NEUT18|What the price of the stock is trading at the moment.
+NEUT19|You can set the price as a stock never gets to that price.
+NEUT20|Then you never get the stock, but you can actually set, let's say Facebook was trading at $30 a share on that particular day.
+NEUT21|If you wanted to say I only want to buy a stock at 2950 if Facebook stock goes to 2950, your order gets filled.
+NEUT22|Otherwise, you don't get the stock, but this is away just in case Facebook's price does skyrocket and you decide you're looking at it at $30 a share, you put in a market order.
+NEUT23|Suddenly it's 32 or 33 and you weren't looking.
+NEUT24|You're stuck with the stock, just paid 10% more of.
+NEUT25|Now there were some issues with this limit order stuff, right?
+NEUT26|One is how long is the order valid for and the other is when you pay for the order, it's different.
+NEUT27|It costs you more to make that trade ban for a market order right?
+NEUT28|Yes, most of the commissions can be a little higher as well.
+NEUT29|And then that market order is set over only.
+NEUT30|At most the day, if I remember if I remember correctly.
+NEUT31|OK, so you might need to do it the next day.
+NEUT32|If you don't, that's right.
+NEUT33|What about other ways to to participate in the frenzy over Facebook?
+NEUT34|Like for instance, there are a couple of ETF's that track social media product, right it, you know, is that a good alternative investment if you don't want to risk the IPO frenzy?
+NEUT35|Most likely that they are so deluded with other technology names or by the time some of these IPO ETF's get Facebook.
+NEUT36|It's several months after the fact.
+NEUT37|So if you really want to buy Facebook just to vote and one of the things we suggest a small amount of money, we're not talking 100% of your portfolio.
+NEUT38|But a small amount to the actual stock and also most importantly, take don't be afraid to take profits.
+BULL39|I mean yes, there are all these great projections that Facebook could grow its profits 100% a year for the next decade or whatever.
+BULL40|But if the stocks up 80% in six months, take some money off the table.
+NEUT41|Nobody ever went by and I think it's a great.
+NEUT42|It's always always a pleasure.
+NEUT43|"Russell Plumbing of small."""

@@ -1,0 +1,9 @@
+BEAR0|"""Here's what we're watching as markets kick into gear on Tuesday, U.S. stock futures slipped as investors awaited Federal Reserve Chairman Jerome Powell's testimony in Congress on the health of the economy."
+BEAR1|Futures tide to the S&P 500 ticked down 0.5%.
+BEAR2|The benchmark stocks cage on Monday fell for a fifth consecutive day, its longest losing streak since last February.
+BEAR3|Contracts for the NASDAQ 100 retreated 1.5%, suggesting technology stocks will continue to lead the market lower.
+NEUT4|Read our full market wrap here.
+NEUT5|What's coming up earnings from Toll Brothers and XP or do after markets close.
+NEUT6|Fed chairman Jerome Powell will testify before Congress at 10:00 AM Eastern Time, providing an overview of the economy and monetary policy.
+NEUT7|It's the beginning of a two day testimony on Capitol Hill.
+NEUT8|"Watch the live stream here."""

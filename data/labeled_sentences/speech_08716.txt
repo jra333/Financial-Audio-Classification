@@ -1,0 +1,27 @@
+BULL0|"""Whether it's the versatility of trading, the same markets as Wall Street, or the lower initial investment, there are distinct benefits."
+NEUT1|Today, trading futures versus stocks here are just five reasons to consider day trading futures markets instead of equities.
+NEUT2|Day trading stocks requires a minimum account value of $25,000 to the pattern DAYTRADER rules.
+BEAR3|This can present a substantial financial limitation for day traders of any level through the use of margin futures.
+BEAR4|Traders can day trade with a significantly smaller account balance.
+NEUT5|Such as only $400 with ninjatrader brokerage margin often represents only a fraction of the total value of the contract, allowing futures traders to control a significant contract value with a smaller amount of capital.
+NEUT6|Please be aware that leverage also increases the associated risk and only risk capital should be used for trading.
+NEUT7|Liquidity is also essential for day trading any market, since it enables you to get in and out of trades with these volume in individual stocks can vary greatly from day to day, whereas many popular futures markets.
+BULL8|Experience high daily liquidity with index futures.
+NEUT9|Traders can participate in the same markets as Wall Street, S&P 500, NASDAQ 100, the Dow Jones Industrial Average and the Russell 2000 Index.
+NEUT10|Futures markets are also centralized and consolidated, whereas equities markets trade across dozens of exchanges.
+NEUT11|These factors make the volume data of futures markets much more meaningful to day traders.
+NEUT12|Additionally, when you sell a futures contract short, you're actually buying a contract to sell at a lower price in the future.
+NEUT13|Rather than borrowing to sell short, this helps level the playing field between bullish and bearish traders in futures markets.
+NEUT14|Futures markets trade nearly 24 hours a day, six days a week, allowing traders to conveniently manage positions anytime of day.
+NEUT15|In comparison, stocks and ETF's only trade 6 1/2 hours a day, five days a week as an entry point to Futures Trading.
+BULL16|Micro E Mini contracts provide new traders with a low cost opportunity to trade the same markets as Wall Street.
+NEUT17|At 110th.
+NEUT18|The contract size of E Mini futures, you can start small.
+BULL19|Limiting your financial exposure and if you choose to increase trade volume as you gain experience and further expand your risk management plan, Ninjatrader's award winning platform helps you uncover trading opportunities in place trades with precision.
+NEUT20|Analyze Micro E mini price and volume data through free advanced charting.
+NEUT21|Trade with live futures data in a free trading simulator until you're ready to enter the live market fast and focused order execution options include Superdome chart, trader and semi automated trading strategies.
+NEUT22|No programming required.
+NEUT23|Ninja Trader provides traders with a comprehensive suite of trading services, including clear savings for futures traders with deep discount commissions and low account minimums.
+NEUT24|Ninjatrader brokerage helps you keep your trading costs low with day trading margins at only $50.00 for micros, you can trade futures for less with ninjatrader ready to get started?
+NEUT25|Download the award winning Ninjatrader platform for free now.
+NEUT26|"Ninja Trader is always free to use for advanced charting, strategy backtesting, and trade simulation."""

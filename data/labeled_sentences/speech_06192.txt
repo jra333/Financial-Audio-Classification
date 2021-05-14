@@ -1,0 +1,34 @@
+NEUT0|"""The intrinsic value of work day is range between $8.19 per share and negative $21.85 per share."
+NEUT1|Good grief.
+NEUT2|How are these values calculated?
+NEUT3|Paying $8.19 per share represents the company's cash for every share issued and outstanding.
+NEUT4|They have $8.19 in cash and cash equivalents.
+BEAR5|Now on to this negative $21.85.
+NEUT6|This means based off the company's revenue and earnings that they would have to pay you $21.85 to facilitate an exchange of stock.
+BEAR7|This is simply a function of their net profit being incredibly negative.
+NEUT8|So off the bad guys I'd be doing you a disservice if I said, do not.
+NEUT9|If I said in anything other than that, please don't invest your money in work day.
+NEUT10|Everything that I've read from Benjamin Graham from Warren Buffett from the Valley Investment community as a whole.
+BEAR11|You don't invest in a company that has posted 10 plus straight years of negative net profits.
+BEAR12|So sad day for work day.
+NEUT13|Sorry, but I can't say anything anything different than please do not invest.
+NEUT14|There are, if you know them, you might have seen them at your own workplace.
+NEUT15|There are financial management, human Capital Management software vendor.
+NEUT16|Basically people use them to Clock in and out and manage HR stuff.
+BEAR17|So it's not looking good for work day.
+BEAR18|They don't even have a PE ratio that we can talk about because they're posting negative negative profits or they're posting losses.
+NEUT19|I should say net losses, so we'll just move forward.
+BULL20|Will save time here.
+NEUT21|We need to wait until these guys produce a.
+NEUT22|Produce a net profit before we can.
+NEUT23|Make some determination on this share price, but until then it's just steer clear of work day.
+NEUT24|So if you're looking at work days and investment, or do you need some alternative guys?
+NEUT25|Just put your money in an index fund.
+NEUT26|Don't don't waste time.
+NEUT27|Be defensive investor like myself is a lot of risk in putting your putting eggs in any individual basket specifically work day just based off of the financials that they've been posting time and time again net losses.
+NEUT28|So you want to put in this fun here?
+BULL29|Because look at this compared to work day, they've posted a return of 12.98% over the past ten years trailing.
+NEUT30|So put your money in here until Work Day gets its act together.
+NEUT31|Guys, if you got any value from this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance.
+NEUT32|So that way your investment performance is optimized.
+NEUT33|"Remember when your investment performance is optimized so as you well production, I will see you in the next video value investor stick around."""

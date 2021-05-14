@@ -1,0 +1,25 @@
+NEUT0|"""Amen, yes Sir, that's right."
+NEUT1|A significant story.
+NEUT2|Just posted here by the Wall Street Journal.
+BEAR3|Within the past couple of minutes on Wowway containing new allegations by the United States.
+NEUT4|On the record, this time that Wowway allows backdoor access to mobile phone communications around the world.
+BEAR5|This from the Wall Street Journal saying that the Chinese Telecommunications Company, which the US government has expressed concerns about in the past, can covertly access mobile phone networks around the world through back doors designed for use by law enforcement, the Wall Street Journal reported.
+NEUT6|Just in the past couple of minutes they say that intelligence shows that we always had this secret capability for more than a decade.
+NEUT7|Now the Wall Street Journal is sourcing U.S. officials on this.
+NEUT8|But importantly, they're also quoting the national Security Advisor on this on the record, Robert O'Brien over at the White House, saying in this article, we have evidence that Wowway has the capabilities secretly to access sensitive and personal information in systems it maintains and sells around the world.
+NEUT9|That's an on the record quote from the White House previously.
+NEUT10|The United States had expressed concerns about wild Way, but hadn't said specifically that they could prove this.
+NEUT11|Now they're going a little bit further.
+BEAR12|Of course, this is a flashpoint in relations between Washington and London after the Brits decided that they would allow Wow way to have access to their 5G network, even if in a limited capacity that set off what was reported to be a heated conversation between President Trump and Boris Johnson, the Prime Minister of the UK last week.
+NEUT13|Now the White House going a little bit further and accusing Wow way of allowing these secret backdoors.
+NEUT14|While we, of course denying the allegations, we will reach out to all parties concerned and bring you more as soon as we have it guys.
+NEUT15|Sort of it sort of helps make you understand a man why the US government has made waway such a priority in its national security and foreign policy relationships.
+NEUT16|Sure, the US has been pointing the finger at Wowway for years now, saying this is a potential problem now going a little bit further and saying specifically that it is a problem the United States saying U.S. officials in this article, now saying that they have been aware of this problem since observing it in 2009 in early 4G equipment.
+NEUT17|Not saying specifically what the back doors are though.
+NEUT18|Or explaining how they work necessarily, but this is fascinating.
+NEUT19|Sarah, when you put this alongside a major exclusive by the Washington Post just this morning, which exposed that for decades, the CIA had owned a major encryption company that was supposedly a private company.
+NEUT20|That company was selling encryption services for decades to some of the US is top adversaries in countries around the world, including Pakistan, India, Saudi Arabia and Argentina.
+NEUT21|All of that the Washington Post reported this morning was a front for the CIA, which was secretly cracking.
+NEUT22|All of that incription for decades and gaining intelligence on how those leaders communicated in what they thought were private communications.
+NEUT23|Put that story next to this one and you can see why the US might be concerned about another country potentially doing something very similar to the United States as the United States has been doing around the world for years.
+NEUT24|"According to the Washington Post, Amen, thank you."""

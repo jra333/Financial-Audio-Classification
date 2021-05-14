@@ -1,0 +1,19 @@
+BULL0|"""Welcome back to fast money."
+NEUT1|We've got a Bitcoin alert for you.
+NEUT2|Listen to what fed chair Jay Powell said about the crypto currency today.
+NEUT3|Crypto assets you know, there are highly volatile.
+NEUT4|See Bitcoin and therefore not really useful as a store of value, and they're not backed by anything.
+NEUT5|They're more of an asset for speculation, so they're also not particularly in use as a means of payment.
+NEUT6|It's more a speculative asset that's essentially a substitute for gold, rather than for the dollar.
+NEUT7|Brian Kelly what do you think?
+BEAR8|Yeah, I think 2017 called and wants its criticism back.
+NEUT9|That's what I think.
+NEUT10|I mean.
+NEUT11|These are old criticism Bitcoin that have been proven.
+NEUT12|It's just, it's ridiculous, but here's the good thing.
+NEUT13|Is the Fed does not see Bitcoin as a threat to the dollar.
+NEUT14|If you were worried that the Fed might see that and might do something, that's all you need to hear.
+NEUT15|It's all systems.
+NEUT16|Go for the Bitcoin.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

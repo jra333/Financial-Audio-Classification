@@ -1,0 +1,48 @@
+NEUT0|"""With the first presidential debate just a day away, we thought it was time to play a little political trivia."
+NEUT1|So how is President Trump connected to electric car makers?
+NEUT2|Tesla and Nikola?
+NEUT3|Let's bring in Yahoo Finance's editor in Chief Andy Serwer, who has the answer to that.
+NEUT4|Hey Andy, good morning I saw your story on our website about this over the weekend.
+NEUT5|So connect the dots for audience.
+NEUT6|What do all three have in common?
+NEUT7|Well, first of all, let's start off Alexis specifically with Tesla and Donald Trump.
+NEUT8|And go back to the 1940s.
+NEUT9|The invent the inventor Nikola Tesla died in 1943.
+NEUT10|The FBI was called in to vet his inventions to make sure there was nothing dangerous there that could fall into enemy hands.
+NEUT11|See electrical engineering professor of various teams.
+NEUT12|One named John Trump.
+NEUT13|Now it turns out that that John Trump is in fact the uncle of the President of the United States.
+NEUT14|So an interesting thing there.
+NEUT15|And by the way, he found out the Tesla's inventions, which included a purported death Ray, were not necessarily dangerous to society.
+NEUT16|But then, if you flash forward to today, you've got Tesla, the automaker named after this inventor Nikola Tesla.
+NEUT17|And in a way, Elon Musk is the intellectual descendant of Nikola Tesla, Futurista polymath and someone with a million inventions at his in his mind who sometimes emulates the President Alexis with Twitter but sometimes sparrs with him about, say, emissions standards and Chinese tariffs.
+NEUT18|So very interesting connection there, and there's more of course too.
+NEUT19|And he saw was reading your story over the weekend and I and I left with a sense.
+NEUT20|You know what Tesla is?
+NEUT21|The real deal, Nikola not proven that it could bring hydrogen to market.
+NEUT22|But Tesla two years ago?
+NEUT23|Who would have thought we would be in this position right now?
+NEUT24|That test would have this type of market cap that would be pushing out cars that like it is.
+NEUT25|Yeah, over $300 billion in market cap more than GM, Ford and Toyota combined with billions more to spare.
+NEUT26|And it's interesting again.
+NEUT27|Getting back to these connections Nikola Tesla.
+NEUT28|Of course.
+BEAR29|Tesla named after his last name, Nicola named after his first name and you talk about Nicola and the problems are having a lot of it has to do with the credibility of the founder and former CEO Trevor Milton, who stepped down last Sunday of week this.
+NEUT30|From yesterday before yesterday and a lot of it has to do with statements that he made Brian right, and in other words, we promise to do this.
+NEUT31|We're going to do this now.
+NEUT32|Musk is done the same things, but he's delivered not always and critics point out too well.
+NEUT33|You didn't do this.
+NEUT34|You didn't do that.
+NEUT35|On the other hand, there are a million Teslas on the road today, and there's zero Nikola trucks.
+NEUT36|Not saying that Nikola will never do it, but they have a way.
+NEUT37|A ways to go before they have that credibility.
+NEUT38|And then if you look at promises and making claims.
+NEUT39|Again, doesn't that tie back to the president because the president's done an awful lot of that too?
+NEUT40|Some people say it's just hyperbole.
+NEUT41|Some people say he goes too far, so that's sort of the world that we're living in right now, and it's sort of.
+NEUT42|It's interesting to see the connection there as well.
+NEUT43|Alright, interesting stuff there, Andy.
+BULL44|Thanks for bringing it to us.
+NEUT45|Hey investors, Zach Guzman here are you interested in learning more about the markets and getting the latest financial news?
+NEUT46|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT47|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

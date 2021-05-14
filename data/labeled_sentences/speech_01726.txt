@@ -1,0 +1,41 @@
+NEUT0|"""This question is on Berkshires intrinsic value."
+NEUT1|A substantial portion of the company's value is driven by operating businesses rather than the performance of the securities portfolio.
+NEUT2|Also, the values of previously acquired businesses are not marked up to their economic value, including GEICO, Midamerican, and Burlington.
+NEUT3|Northern, based on these factors is book value per share.
+NEUT4|Still, a relevant metric for valuing Berkshire well?
+NEUT5|It's got some relevance, but it's got a whole lot less relevance than it used to, and that's why I. I don't want to drop the book value per share factor, but the market value tends to have more significance as the decades roll along.
+NEUT6|It's a starting point, and clearly our securities aren't worth more than we're caring for carrying them for at that time.
+NEUT7|And on the other hand.
+NEUT8|We've got the kind of business as you mentioned, but we've got some small businesses.
+NEUT9|That are worth 10 times or so.
+NEUT10|You know what would hurry part?
+NEUT11|We've also got some clunkers too.
+NEUT12|I think.
+NEUT13|The best method, of course is just to calculate intrinsic business value, but it can't be precise.
+NEUT14|We know we, we think the probability is exceptionally high, that.
+BEAR15|120% understates it, although it was All in all insecurities.
+BEAR16|You know 120% be too high.
+NEUT17|But as the businesses have evolved as we built in.
+NEUT18|Unrecognized.
+NEUT19|Value at the operating business is unrecognized for accounting purposes.
+NEUT20|I think it still has some uses being kind of the base figure we use.
+NEUT21|If it were a private company.
+NEUT22|And ten of us here owned it.
+NEUT23|Instead, we just sit down annually and calculate the businesses one by one and and and use that as a base value, but that gets it gets pretty subjective when you get as many as we do, and so I think the easiest thing is to use the standards were using now.
+NEUT24|Recognizing the limitations in the Charlie.
+NEUT25|Yeah, I think equities.
+NEUT26|An insurance company.
+BEAR27|Upsetting shareholders equity in the company.
+NEUT28|Are really not worth the full market value because they are locked away in a high tax system.
+NEUT29|And so.
+NEUT30|I basically like it whenever.
+BEAR31|Marketable securities go down and our own businesses go up.
+NEUT32|Now we're working to that end.
+NEUT33|We've been working that way for.
+BULL34|30 years now or something like that, we've done a very good job too.
+NEUT35|Yeah.
+NEUT36|We have a lot of we've replaced a lot of marketable securities with unmarketable securities that are worth a lot more.
+BULL37|Yeah, and it's actually a more enjoyable way to operate to beyond that.
+NEUT38|Yeah, we know a lot of people we wouldn't otherwise.
+BULL39|Yeah, we will.
+BULL40|"Good people."""

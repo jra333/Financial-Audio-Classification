@@ -1,0 +1,24 @@
+NEUT0|"""Hi Scott, will Senate Democrats are out with a new framework for overhauling how companies foreign profits are taxed?"
+BULL1|They're calling for a dramatic increase in the international rate.
+NEUT2|Currently it's at 10.5%.
+NEUT3|President Biden has opposed raising it to 21%, but Senate Democrats said it's an open question whether the international rate should be the same as what they're discussing for the domestic rate, which is 28%.
+BULL4|Either way, this does move our tax system closer to that global minimum tax that Treasury Secretary Janet Yellen talked about this morning.
+NEUT5|The plan is backed by the chairman of the Senate Finance and Banking Committees.
+NEUT6|Ron Wyden.
+NEUT7|Sherrod Brown, along with Senator Mark Warner and the framework, would also get rid of the tax exemption that companies receive for building factories overseas and force them to calculate their taxes on a country by country basis.
+NEUT8|Instead of blending profits across borders.
+NEUT9|Now, Moody's Analytics broadly estimates that reforming the international tax Code could weigh $670 billion over the next decade.
+NEUT10|But Scott President Biden did talk to reporters as he returned from Camp David today.
+NEUT11|And he said he does not think that higher corporate taxes will hurt the economy back to you.
+NEUT12|Yeah, did see a headline.
+NEUT13|Also Elon.
+NEUT14|Relating to Senator Mansion perhaps not supporting a move back to 28% on the corporate rate as President Biden has suggested know anything about that.
+NEUT15|Yeah, what he said was that he would be supportive of a 25% rate instead of a 28% rate.
+NEUT16|He did indicate that he supported higher tax rates on high income earners, so this is part of those negotiations that are going to have to happen on Capitol Hill.
+NEUT17|And the administration is going to have to convince Senate Democrats to go along with that higher number.
+BEAR18|Or on the other hand, you know risk having this infrastructure package adds the deficit.
+BULL19|They were very clear about saying that they would be able to pay for this over a 15 year time frame.
+NEUT20|Take the corporate rate down to 25%.
+BEAR21|You're going to lose out on a lot of revenue, and that's going to mean higher debt and deficits.
+NEUT22|Yeah, big voice, though Senator Manchin, right, one of the so called kingmakers up on the Hill with the Senate so closely.
+BULL23|"And thanks so much."""

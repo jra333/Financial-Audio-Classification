@@ -1,0 +1,11 @@
+BULL0|"""Oil prices have risen over the last week to again reach around $50 a barrel after recent comments from OPEC and its de facto leader, Saudi Arabia have raised hopes for an output freeze as early as next month."
+NEUT1|Last week, OPEC announced that it would hold an informal meeting of ministers in September on the sidelines of an industry conference in Algiers.
+BEAR2|A few days later, remarks by Saudi Energy Minister Hollydale follow were accidentally released to the media indicating the Kingdom could participate in coordinated action to help balance the oil market.
+BEAR3|While some market participants have focused on this chatter about renewed attempts, perhaps for a production freeze after a failed attempt in April, others are fixated on Saudi production.
+BULL4|Although Saudi Arabia has said it is keen to cooperate with other producer countries and engage in dialogue, its own production has reached record levels.
+BULL5|As it makes an aggressive push for export market share.
+BULL6|Mr. Farley said the recent increase can be attributed not just a heightened oil use for power generation during Saudi's hot summer months, but also to increase demand from foreign buyers.
+BULL7|Data last week showed output hit 10.7 million barrels a day in July, and analysts are saying this could increase further in the coming months.
+BULL8|Saudi Arabia is stepping up its foreign sales amid growing competition from rivals such as Iran, Iraq and Russia.
+BEAR9|Mr. Farley in June said the Kingdom did not want to flood the market with Saudi oil, which would put a dampener on prices, and he sought to put his OPEC peers at ease.
+BULL10|"But the recent data and comments from the Saudi minister will only raise anxieties among those countries, keen to see a higher oil price."""

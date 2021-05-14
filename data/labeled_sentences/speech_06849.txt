@@ -1,0 +1,23 @@
+NEUT0|"""Conventional economics knows the cost of everything and the value of nothing."
+NEUT1|The convention is to talk about growing a bigger economic pie who doesn't want more pie?
+NEUT2|But why would you settle for pie when you could have?
+NEUT3|Layer cake with icing on it.
+NEUT4|The fundamental layer of the cake has got to be how the planet is doing, 'cause it's the source of all the raw materials.
+NEUT5|Then the next layer is how we take care of one another and it's on top of those two things that you can build a physical infrastructure and then on top of that is actually the economy that we usually talk about, none of which is possible without the previous layers.
+NEUT6|But we only ever talk about the top layer.
+NEUT7|The beginning of the 20th century starts with two wars in a depression at the end of it, people recognize that human development and security was incredibly important for well being.
+NEUT8|There was a really vigorous debate between does human development, create economic growth, or does economic growth facilitate human development.
+NEUT9|But around the beginning of the 1980s, the crime area public policy has been.
+NEUT10|Growing the economy, you give the people that know how to create wealth more money so they can create more wealth for everybody.
+NEUT11|Yes, they created more wealth, but they kept more wealth.
+NEUT12|We were told that there was some kind of organic reason for it rather than greed or the fact that wealthy people can change the rules and they do.
+NEUT13|They shield themselves from risk from financial risk, from social responsibilities because they're too important to be permitted to fail.
+NEUT14|And everybody else pays for their failures.
+NEUT15|But when they succeed, they don't share it.
+NEUT16|An argument for free markets without also robust public provisions is an argument for inequality.
+NEUT17|Free market fundamentalists are blind to the other layers that support them.
+NEUT18|What we have really learned is that my survival depends on your survival.
+BULL19|Building up the floor of supports will build up the economy better public services and paying people a living wage.
+BULL20|At the floor of the economy will boost the economy from the bottom up and make people more resilient for whatever happens to them.
+BULL21|Make them more willing to be innovative and entrepreneurial.
+NEUT22|"None of that is possible in a pie, so why would you settle for pie when you could have cake?"""

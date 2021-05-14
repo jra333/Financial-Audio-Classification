@@ -1,0 +1,49 @@
+NEUT0|"""No more eggnog."
+NEUT1|No more fruitcake.
+NEUT2|Let's talk about the business of getting healthy.
+NEUT3|Investor beat starts now.
+BULL4|Thanks for watching.
+NEUT5|I'm Chris Hill joined in studio by investor and health experts run Wow, we're going to take a step back because there's not a lot of news going on.
+NEUT6|Let's be honest, but let's talk about 2013 in general.
+NEUT7|You're an experienced investor, a lot of big stories this year when you think about 2013, what stands out to you?
+NEUT8|Well, I think what stands out to me is despite.
+BEAR9|Relatively high unemployment, relatively weak economic growth.
+BEAR10|A government shutdown, almost defaulting on our debt and the controversy surrounding Obamacare.
+BULL11|The stock market is up 30% this year.
+BULL12|An extremely strong year, a year where perhaps the data, if you just showed me the data, I would not necessarily guess that the market was up 30%.
+NEUT13|What do you say to people who take all of that and say, look, look at all the data?
+BULL14|The market still up 30% and therefore it's 1999?
+BEAR15|Again, we're headed to bubble territory.
+NEUT16|Well, I certainly do not think we're in bubble territory now.
+NEUT17|At least the valuations don't look that way, but I will give some credence to the thought that this is perhaps somewhat artificially induced by the Fed and their easing programs, and the fact that interest rates are zero and that we've been injecting $85 billion per month.
+NEUT18|Into the bond market.
+BULL19|So I think there's some credence to that theory we may be seeing an engineering of this kind of smooth takeoff where they're going to ease back on their paper spending, just as the economy picks up steam.
+BULL20|That would be the best of all circumstances, so stay tuned for 2014 or I'll on Musk from Tesla Motors made at least One Financial outlets list as CEO of the year.
+NEUT21|Who's your CEO of 2013?
+NEUT22|I'm a big fan of Jeff Weiner of LinkedIn.
+NEUT23|He is a purpose driven manager.
+NEUT24|He's running a transformation ULL company.
+BULL25|I think LinkedIn is a company to be admired.
+NEUT26|I think if we never, he's kind of foolish in the sense that he sets aside some time every single day just to think no matter what he sets that time aside and I really admire that it's hard to do when we're all so busy.
+BULL27|So I think he's doing great things and I think there's plenty more to come.
+NEUT28|You're a value investor though when you look at the performance of LinkedIn shares.
+NEUT29|Do you get a little nervous or do you think you know what?
+NEUT30|Based on what they're doing?
+NEUT31|This is a fairly valued stock.
+BULL32|Shares are up about 92% year to date.
+NEUT33|If that number is correct in my head, so it's been a great year were owners of it $1,000,000 portfolio?
+BULL34|We're proud to be, but we still think it's a buy.
+BULL35|Still good things to come all right.
+NEUT36|One thing you're watching in 2014.
+NEUT37|What's on your radar?
+BULL38|I don't love to make macro predictions, but I'm going to macro here and I'm going to say I think the economy continues to firm up.
+NEUT39|I think that allows companies with.
+BULL40|Great balance sheets.
+NEUT41|Really bloated balance sheets to lighten up a bit on the purse strings and start spending money on things other than share buybacks and dividends.
+BULL42|That bodes well for industrial companies.
+BULL43|I think they'll benefit from both a strengthening economy as well as companies increase in capital expenditures.
+NEUT44|Capital spending.
+NEUT45|So industrial companies are where I'm looking for companies like Caterpillar Deere.
+NEUT46|The smaller companies too like Lincoln Electric or Flowserve industrial companies, or where I'm looking for 2014 alright for Ron Gross.
+NEUT47|I'm Chris L. Thanks for watching.
+NEUT48|"We'll see you tomorrow."""

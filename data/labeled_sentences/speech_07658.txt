@@ -1,0 +1,29 @@
+NEUT0|"""I have a question about Microsoft."
+NEUT1|You have gotten into the tech world with buying Apple.
+NEUT2|You have Mr. Gates there.
+NEUT3|I've just wondering why you've never bought Microsoft.
+NEUT4|Well.
+NEUT5|In the.
+NEUT6|In the earlier years, it's very clear that the answer is stupidity, but the.
+NEUT7|But it.
+NEUT8|As since Bill was particular sellers joined the board but even.
+BULL9|Even earlier than that, because of our friendship.
+BEAR10|It would be, it just would be a mistake for Berkshire.
+BULL11|So by Microsoft, because of something happened a week later, a month later in terms of them having better earnings than expected or making an acquisition anything.
+NEUT12|Both Bill and I.
+NEUT13|Would incorrectly but would be would be a target of suggestions and accusations, perhaps even that somehow he had told me something, or vice versa, and I stay away from.
+NEUT14|I tried to stay away from a few things just totally because the the inference would be drawn that that we might have talked.
+NEUT15|I might have talked to somebody about something, so I've I've told I've told the follows that.
+NEUT16|Ted and Todd, for example, that they're just a few.
+NEUT17|Things that are.
+BEAR18|Off the list.
+BEAR19|Because they would be a lot of people that wouldn't believe us if something good immediately happened after we bought it.
+NEUT20|And of course we did buy a lot of stock.
+NEUT21|You can take six months to buy it or something of the sort.
+NEUT22|We just don't need it.
+NEUT23|But both that and my stupidity of costs a lot of money.
+NEUT24|It's a very.
+NEUT25|It's a good question and I think I think the answer makes sense, but Charlie.
+BULL26|Those part of the LG, the late conversion is better than ever.
+NEUT27|Down.
+BULL28|"You greatly improve yourself."""

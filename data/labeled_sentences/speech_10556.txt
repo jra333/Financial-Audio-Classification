@@ -1,0 +1,42 @@
+BULL0|"""Report he is the smartest CEO in America."
+NEUT1|He's also the most humble.
+NEUT2|He is brilliant.
+NEUT3|He's totally team oriented.
+NEUT4|I wish you were here right now.
+NEUT5|He would fit in with our group.
+NEUT6|He is just an incredible person.
+BEAR7|This stock has not acted well after reports.
+NEUT8|There is always someone who sees some sort of data point they don't like or says you know what this long as the arm deals hanging out there.
+NEUT9|It's not going too well or that it's now being inflated by crypto.
+NEUT10|I think they'll be very good about explaining how crypto is not important, but I have to tell you, Ray Trace is incredible.
+NEUT11|What he's done with video games.
+NEUT12|It may even, maybe even you know, even Ryan Cohen, another icon of a whole group of people and read it, will have to recognize that invidious the reason why people want to play video games at this next level.
+NEUT13|Stuff I gotta ask you something 'cause you know this when you just saw all the buys right, you saw 29 buys, you know that one of those people is going to lower the boom on it, no matter how great the quarter is.
+NEUT14|I know there and look and I owned it.
+BULL15|I used to own it and it's just it's had a nice run up 100% and as I mentioned earlier, I think on a relative basis I prefer other names that I can I can trust the valuation.
+NEUT16|I can trust my modeling and all that so it would be Broadcom as we mentioned before, an SPI and lamb for short of three.
+NEUT17|Largest for me, but there's nothing wrong with NVIDIA other than the valuation, right?
+BEAR18|And so it's a little vulnerable to big swings on the result.
+NEUT19|But you said it.
+NEUT20|I mean, it's gaming its data center.
+NEUT21|It's all the M&A that he has done to really build an empire.
+BEAR22|And oh, by the way, I think their auto exposure is is very underappreciated as well.
+NEUT23|So this is exactly the kind of game that, if you saw.
+BEAR24|If I saw this come down 10-15, maybe 20%, this one, I absolutely would buy back, so I don't want it to get lossed to a name that that farmer Jim throughout earlier that he owns.
+NEUT25|And I'd like your take on it.
+NEUT26|Cramer is Qualcomm, right?
+BEAR27|Qualcomm is so overdone now on the sell side.
+NEUT28|I mean, I thought it was.
+BEAR29|I thought that the the fabulous was worth maybe 30 points in decline.
+NEUT30|I never thought it would go down.
+NEUT31|50I, I just think that it's at a certain level.
+NEUT32|You just gotta say I will buy some Qualcomm.
+NEUT33|I want to go back to one that we talked about earlier today, which is Lam Research in many ways.
+NEUT34|This of course is the engine.
+NEUT35|You need lamb unique KLA 10 Core in order to be able to build to eliminate the shortage, an Lam was down earlier point today and that that was your chance and I think Lamb is now Tim Archer.
+BULL36|He's so good off to the races.
+NEUT37|I want to reiterate an XP.
+NEUT38|Please let our auto companies have the chips.
+NEUT39|I don't know where you're sending him but XP.
+NEUT40|Is the stock is going to go to 200 but not with me?
+NEUT41|"Not until they give Ford and GM the chips they need."""

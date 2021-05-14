@@ -1,0 +1,11 @@
+BEAR0|"""I know you and David bloomer like a bad episode of the Crown, so I don't want to get into the nitty gritty here, but David has been resilient."
+BULL1|Dollar David has been incredibly correct about resilient dollars.
+NEUT2|Does it finally break?
+BEAR3|Does HSBC Communale say finally we get weak.
+NEUT4|Dollar is everybody's almost hoping and praying for.
+BULL5|We've actually got a pretty stable dollar, which is still fairly strong, agreed, agreed in the camp.
+BEAR6|That suggests that the dollar is in terminal decline an I think you know, we've seen a lot of optimism regarding Europe, and that's important.
+BULL7|You can only be negative on the dollar if you think that there's an alternative out there and there was a lot of good news on Europe, particularly with the Recovery Fund and the immediate response to the crisis in the Central Bank working with governments to to backstop them affectively.
+NEUT8|But now?
+BEAR9|The realization that we still haven't got the recovery funds through and that Europe may be going back into basically recession in the final quarter of the year is starting to make people question actually on what kind of firm footing is Europe currently on at the moment.
+BULL10|"So know, broadly speaking, we're still more more positive than most on the outlook for the US dollar."""

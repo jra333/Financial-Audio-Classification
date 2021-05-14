@@ -1,0 +1,53 @@
+NEUT0|"""Let's just talk about how you think the market, because this is one of the big issues with a lot of specs and especially businesses like yours which are really such at this sort of edge of the envelope in terms of where things are, how should it investor today in your mind fairly, think about how to value your company."
+NEUT1|Meaning investors going to look at comps.
+NEUT2|They're going to say, what does this come parable to what?
+NEUT3|What kind of multiples should I put on this?
+NEUT4|How should I think about this?
+NEUT5|What do you tell them?
+NEUT6|Yeah, you know it's a great question and you know it.
+NEUT7|It's always tough for new types of breakthrough technologies 'cause there really isn't any direct one to one correlation with.
+NEUT8|You know any any other company that's that's historically been there?
+NEUT9|You know, I would say though, in terms of how to think about this is you take a look at this.
+NEUT10|This overall you know multi trillion dollar auto industry and you know probably around 1/2 a trillion addressable opportunity for us.
+NEUT11|And you know it clearly.
+NEUT12|Lidar autonomous vehicle software.
+NEUT13|Everything is coming more and more into prevalence.
+NEUT14|You know we've one as of late.
+BULL15|Every opportunity for production deal to be able to get designed in transition.
+NEUT16|This whole industry out of R&D.
+NEUT17|Get it into the real world in production and continue to accelerate.
+NEUT18|So that's that's the overall opportunity, you know.
+NEUT19|I think there's some great comps that have been out there and actually one of one of our partners.
+NEUT20|You know that we just recently announced Mobileye, you know, in terms of company that we're working with providing the LIDAR sensing systems for for their AV series solution.
+BULL21|I think they're actually great company.
+NEUT22|I mean, it was.
+NEUT23|It was really cool to see that even back in like in 17, I think they were.
+NEUT24|They required at you know like a 43 X you know revenue multiple of the business and you know we've been building up our our book here.
+BULL25|You know, we've expanded now for a forward looking order book of roughly 1.3 billion estimated business from all the different deals that we've had here.
+NEUT26|Also great long term how?
+NEUT27|How defensible?
+NEUT28|What kind of mode do you have around this?
+NEUT29|Technology, patents and the like at some point?
+NEUT30|Does the technology that you're building.
+NEUT31|Does it become commoditised?
+NEUT32|Do others figure out how to do it and do it just as well?
+NEUT33|You often have that in sort of, you know, consumer products effectively.
+NEUT34|I know this, I don't know if you put yourself out as a consumer product that some degree it becomes one.
+NEUT35|I actually, there's no, there's no question that a lot of products historically, particularly even in the hardware space, and This is why a lot of hardware products are associated with commodities.
+NEUT36|But but for this, it's just.
+NEUT37|It's dramatically different.
+NEUT38|You have to wonder why?
+NEUT39|OK, why the mobilizer?
+NEUT40|The N videos of this world you never become commoditised?
+NEUT41|You know over the source, and it just really comes down to very high IP.
+NEUT42|Close the different reasons we have pretty much one of the most insane modes that product probably out of out of any company you know at this stage.
+NEUT43|And really, we've actually built out, for example, talk about IP.
+NEUT44|And everything about the core technology?
+NEUT45|I mean, we've pioneered all these different core components and building it entirely from the ground up.
+NEUT46|We're not using off the shelf parts and commodity parts like other people have historically, and this is the whole point of how we were able to solve the problem, how we're able to solve the technology, the performance, the safety to economics, and we have the largest patent portfolio in the industry for the for the sensing systems that actually more than the other, you know, top five, you know, light R R&D efforts combined here as part of the overall portfolio, and on top of that, you know have the world supply the relevant team.
+NEUT47|We've locked up the key exclusives and even.
+BULL48|Actually acquired some of the relevant suppliers.
+NEUT49|The only ones in the world that can do some of these things.
+BULL50|So we're feeling really great.
+NEUT51|Shepard Smith here.
+NEUT52|"Thanks for watching CNBC on YouTube."""

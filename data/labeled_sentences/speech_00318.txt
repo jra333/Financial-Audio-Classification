@@ -1,0 +1,16 @@
+NEUT0|"""However, let's take a look at the Apple Store."
+NEUT1|Even though today we got the closing of the US market, but we can review what happened yesterday.
+NEUT2|We can see here is that it got a small green candle.
+BEAR3|It means a little bit advances 0.75% and this advance have a very small volume compared to yesterday.
+BEAR4|So in my opinion it short term there's not enough buying power from the volume, so it's hard for it to.
+NEUT5|Freak out.
+BULL6|Up to the Yarmouth so it's very exciting for short term in midterm agency.
+BEAR7|Apple stock has stucked in the trading range from the low here at the top of here, so it's never break out out of this trading range, so it lacks of momentum.
+NEUT8|If we change the charge into mid term.
+NEUT9|It's a weekly chart.
+NEUT10|Then we can see here we got very loose consolidation area.
+BULL11|Now we can see we have a.
+NEUT12|Red candle for this week and the volume is not too high, so it means the selling pressure is not too high.
+BEAR13|But as to the upside, we don't have enough volume to push it up, so it's very unlikely for Apple stock to make a new move.
+NEUT14|From here I cannot see anything from here, so I don't think it's a buy for Apple.
+BULL15|"Thank you."""

@@ -1,0 +1,6 @@
+NEUT0|"""Time now for the executive edge, and we have a couple of stocks to watch ahead of the opening Bell today."
+BULL1|Applied Materials shares rising following third quarter results.
+NEUT2|Atop forecast.
+NEUT3|The company also offering a fourth quarter outlook.
+BULL4|Above analyst expectations that stock up 3% right now and far fetched shares are surging this morning.
+BEAR5|"The online luxury retailer posting a smaller than expected loss for the second quarter revenue of nearly 365 million was well above forecasts that stock up a whopping 10% premarket."""

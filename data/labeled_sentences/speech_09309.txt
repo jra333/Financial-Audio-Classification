@@ -1,0 +1,30 @@
+NEUT0|"""Tesla is going back to the, well."
+BULL1|The electric carmaker is taking advantage of its surging share price by going back to the capital markets for the third time in ten months and raising as much as $5 billion of common stock.
+NEUT2|Yahoo Finance's Emily McCormick is here with more and Emily, by the looks of things.
+NEUT3|I'm taking a look at Tesla stock right now.
+NEUT4|It doesn't look like investors are loving this.
+NEUT5|That's right Alexis.
+BULL6|Well, we are seeing shares of Tesla actually back on the rise.
+BEAR7|In intraday trading we did see them off as much as 3.6% earlier in the day following the news of this $5 billion stock offering.
+NEUT8|Now that really is because shareholders are a bit concerned here about potential dilution, but I do want to highlight that Tesla's market capitalization is currently hovering at more than 600 billion at dollars.
+NEUT9|So this latest stock sale is only less than 1% of Tesla's overall value.
+BULL10|Now Tesla has been capitalizing on surging demand.
+BULL11|For its shares this year, after a run of 650% so far for the year to date, this is Tesla's third stock offering in 2020 alone, since it did raise $2 billion in February and $5 billion in September as well.
+NEUT12|So this final offering is going to bring the amount raised by Tesla to $12 billion in equity in 2020.
+NEUT13|Now, according to Bloomberg analysis, that represents more cash than 88% of S&P 500 companies have on hand.
+NEUT14|Right now and Tesla already had more than 14 1/2 billion dollars in cash and cash equivalents on its balance sheet at the end of its September quarter.
+BULL15|So really going to bolster here the amount of capital that Tesla has at its disposal.
+BULL16|Now I do want to highlight that even given the shakiness that we saw in Tesla stock earlier today, many analysts did say that this was a smart move and good timing.
+BULL17|By Tesla we had Dan Ives of Wedbush saying in a note this morning, he called the latest share sale quote a continued effort to build up its treasure chest.
+BULL18|And capital expenditure capabilities down the road.
+BULL19|We believe this is the smart move at the right time for Musk and Company.
+BULL20|After the parabolic rally and shares with the appetite strong among investors to play the transformation.
+NEUT21|O'll electric vehicle trend through peer play.
+NEUT22|Tesla over the coming years and quote now just taking a look here at Tesla's operating results and where this company actually stands.
+BULL23|Right now the company has been profitable over the last five quarters, but we have seen its cost actually rise so that actually extra capital could offer some padding now as it keeps building out new facilities.
+BULL24|As well as its production capacity, we did have Tesla saying in October that it planned to double its capital expenditure budget to as much as $6 billion in each of the next two years to help support some of those newer projects.
+NEUT25|And that includes building out those new facilities in Texas.
+NEUT26|An in Germany near Berlin.
+BULL27|So again, something here that could potentially help Tesla over the longer run when we think about the fact that there is just so much demand for the stock right now, Alexis.
+NEUT28|So much alright Emily McCormick.
+BULL29|"Thank you."""

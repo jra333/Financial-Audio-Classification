@@ -1,0 +1,21 @@
+NEUT0|"""Is the great revolution in financial markets unraveling well?"
+BEAR1|It certainly hit a snag to rewind a little so called retail traders have ago amateurs, often with no formal training in financial markets, have hit the headlines since they succeeded in outsmarting supposedly canny hedge funds that were betting against consoles.
+NEUT2|Retailer, GameStop, armed with free trading apps, often very sophisticated tools and online message boards that help them touch, meet and share and share ideas in massive numbers.
+BEAR3|They managed to fire up the share price of the retailer in January, crushing the funds that were betting against it.
+NEUT4|Some of them made a lot of money in the process, but in the great democratization of finances, some traders like to see it.
+BEAR5|It's not running smoothly.
+NEUT6|For some, it ended up as a quick way to lose a lot of money.
+NEUT7|A lot of the stocks that the retailers love.
+BEAR8|GameStop, cinema operator AMC former phone Giants, BlackBerry and Nokia have all plunged back down to Earth.
+NEUT9|These are, after all not generally seen as the hottest stocks in the market.
+BEAR10|Some of the brokers caterings this new army of retail traders have also really struggled to keep up with the flow.
+BEAR11|More recently, an apparent attempt to join forces and fire up the price of silver really missed the mark.
+NEUT12|It worked briefly, but it turns out the silver market is just too big for these small traders to take on, and the big negative bets that some retail traders thought was out there against Silver didn't really exist.
+NEUT13|Meanwhile, some of the really big winners from the stocks frenzy we've seen lately were actually the old guard of Wall Street.
+NEUT14|So much for the little guys sticking it to the man.
+NEUT15|What does this all mean?
+NEUT16|Well, it's really fired up for debate around how the riches of financial markets can truly reach ordinary people.
+NEUT17|Why should they be nudged out?
+NEUT18|Why should they not deploy the same sorts of aggressive tactics as hedge funds?
+NEUT19|Bonds as losses Mount for people who were treating markets like a game brokers and social media sites need to think carefully around who is promoting trade ideas, why?
+NEUT20|"And do retail traders really understand the risks are taking on?"""

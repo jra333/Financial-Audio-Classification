@@ -1,0 +1,31 @@
+NEUT0|"""Neo stock analysis and predictions, December 6th."
+NEUT1|In today's NEO stock analysis and Predictions, Wall Street looks to NIO stock.
+NEUT2|Alright, let's get started.
+BULL3|When speaking to several analysts about NIO, they give the company average price target of $49.01 with a 14% upside from Friday's closing price.
+BULL4|The upcoming inclusion of Tesla in the S&P 500 Index and NIO sales volume has drawn attention to the new energy vehicle sector in the US market.
+NEUT5|Although Tesla has been around longer than Nio, many Wall Street investors are turning their attention to NIO because Tesla has.
+BULL6|Simply become too expensive in a recent report, Goldman Sachs predicted that electric vehicles will account for 18% of new light vehicle sales worldwide by 2030, accelerating to 29% by 2035.
+BULL7|Goldman's rationale for this bold prediction is that electric vehicle consumption will accelerate due to large transition from fossil fuels to electric vehicles.
+NEUT8|In addition, a number of countries have recently proposed complete restrictions on the sale of fossil fuel vehicle within the next 5 to 10 years, which is another important factor in driving electric vehicle sales.
+BULL9|According to the Wall Street Journal, when doing some comparisons of the current EV leaders in the world, analysts give NIO a better future prospect than its competitor.
+BEAR10|Tesla Nio has risen 10.6% this year and analysts remain bullish on the stock for three reasons.
+BULL11|Strong new vehicle delivery figures in the third quarter, China being the largest electric vehicle market and the launch of two new models next year, as well as its entry into the European market.
+BULL12|NIO recently announced that it delivered 5291 vehicles in November, up 109.3% from the same month last year.
+NEUT13|An exceeding.
+BULL14|5000 units after October, the fourth consecutive monthly high for the brand.
+BULL15|The company has doubled year over year deliveries for the eighth consecutive month since April this year and has delivered a total of 36,721 units in the 1st 11 months of the year up 111% year over year along with strong sales, NIO is expanding its production capacity to meet the growing demand.
+BULL16|Last month, NIO founder and CEO William Li been said given the growing market demand for our vehicles, we are motivated to continue to increase our production capacity to even higher levels.
+NEUT17|Wall Street analysts expect the NIO to deliver 16,500 to 17,000 vehicles in the fourth quarter.
+BULL18|Goldman Sachs has upgraded its rating on NIO to hold from sell and raised its price target to $59 from $7.70.
+BULL19|The company's price target has been raised to $59.
+BULL20|In addition, with China's current charging infrastructure still incomplete, a faster battery exchange process will give users a better experience.
+BULL21|On Wednesday, hubs analyst Paul Gong also raised his price target on NIO from $16.30 to $55 while maintaining a hold rating of the analysts who currently rate NIO.
+BULL22|7 Rated a buy and four rated to hold the shift to all electric vehicles is accelerating and will be faster than we previously expected.
+NEUT23|Goldman Sachs analyst Mark Delaney wrote in a report.
+BULL24|Goldman Sachs is bullish on iOS businesses prospects, saying it could be more valuable than previously thought.
+NEUT25|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT26|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT27|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL28|We'd really appreciate it.
+NEUT29|Are you still watching and want more?
+NEUT30|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

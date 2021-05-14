@@ -1,0 +1,13 @@
+BULL0|"""Good morning, good afternoon and good evening."
+BEAR1|It's cold and trades back at you again.
+NEUT2|I wanted to get the video out to you as really quick as I was on my way home from work.
+BULL3|Actually, I saw that there had been a change in Civ share price and when I went and looked we were up over 11%.
+BULL4|In the after hours and it got me thinking, but this this is not normal guys right now as we're filming this were actually up 13 percent $4 right now in the after hours were at $35.60.
+NEUT5|That would be 9% up on the day that we now have 4 new institutions that have joined the party and then So what actually happened was over on the Bloomberg Terminal.
+NEUT6|It looks like the profile of CC Ivy got updated and the acquisition company.
+NEUT7|It looks like is now involved, which is Venrock, and its proposed to sell Lucid Motors Inc. To Churchill Capital Corporation.
+BULL8|The transaction was proposed on the 11th of January and the financial terms of the transaction are unknown, but it's 100% cash and obviously it shows a picture of the chart and it's gone up since then, so.
+NEUT9|We're here, dude.
+NEUT10|We did it.
+BULL11|We thanks guys for watching.
+NEUT12|"It's Colton trades go drop a like on this video and if you like what you see, subscribe alright guys, have a good day."""

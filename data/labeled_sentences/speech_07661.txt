@@ -1,0 +1,21 @@
+BEAR0|"""Everybody is treating Warren Buffett."
+NEUT1|As the financial guru, he has always been and they analyze.
+NEUT2|What he said in his last stockholder meeting, and they analyze what he said.
+NEUT3|Like he's an agile 50 year old.
+NEUT4|Well, Warren Buffett is 89 years old.
+NEUT5|You compare his 2020 annual meeting.
+NEUT6|The way he speaks.
+NEUT7|To wait, he speaks in his last.
+BEAR8|Videos around five years ago, there's a definite decline.
+NEUT9|People are not taking into consideration that Warren Buffett is a human being.
+NEUT10|Who may be in decline mentally?
+NEUT11|Right now, nothing against Warren Buffett for that.
+NEUT12|But you have to consider the man is not going to be sharp until he's 120 years old.
+NEUT13|Well, he may have symptoms of mental decline already, yet no ones taking that into account and trying to make decisions on what Warren Buffett is doing.
+NEUT14|I have Berkshire Hathaway stock.
+NEUT15|The B stock.
+NEUT16|But I just have it is.
+NEUT17|For fun I don't have a big investment, it's just a fun investment that I got because I wanted something different.
+NEUT18|But it keeps me aware of Buffett.
+BEAR19|I think he's a mental decline.
+NEUT20|"Nothing wrong with that, but that's what comes with age."""

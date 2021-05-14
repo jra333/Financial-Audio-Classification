@@ -1,0 +1,38 @@
+NEUT0|"""Find out the most important secret all the girls will never tell you."
+NEUT1|These gurus.
+NEUT2|What do they know?
+NEUT3|The following video changed the way I'm marketing on line.
+NEUT4|Investment is one of the biggest trends in the business industry at all times, and it certainly will not fade away for a long time.
+NEUT5|Investing in the right product, company or person can be pretty confusing because there are so many things to invest in, especially if you are beginner.
+NEUT6|It is not easy for you to get there.
+BEAR7|Investing in the wrong stocks can bring a huge loss.
+BEAR8|It is hard and difficult to make all the researches on our own to give the insiders information can be difficult and waste of time.
+NEUT9|The Motley Fool's stock Advisor Service has only one purpose to help you invest better.
+NEUT10|The Motley Fool was founded by David Gardner and Tom Gardner in 1993.
+NEUT11|The two brothers created Motley Fool to help people invest in the right stocks.
+NEUT12|Here is what you get every Thursday each month.
+NEUT13|1st Thursday, Tom presents one new stock recommendation.
+NEUT14|2nd Thursday, David Presents when new stock recommendation.
+NEUT15|3rd Thursday, Tom presents five of his favorite best stocks to buy now list.
+NEUT16|For Thursday, David presents five of his favorite best stocks to buy now list.
+NEUT17|That's right, Thursday is their favorite.
+NEUT18|You also get.
+NEUT19|A clear explanation of why they recommended each stock and the factors considered.
+NEUT20|A risk profile that explains the upside and downside of every stock pic.
+NEUT21|24/7 monitoring to let you know when they believe it's time to sell.
+NEUT22|For starters, they will tell you there 10 rock solid stocks that should be the foundation of your portfolio.
+NEUT23|24/7 access to their full library of reports and research.
+NEUT24|Market news updates that keeps you informed of all noteworthy news and trends in the investing world.
+NEUT25|The Motley Fool Stock advisor will give you the charts and show you where it is best to invest at the moment.
+BULL26|The company is loved by its users because of its transparency and simplicity.
+NEUT27|Their method is very easy to use and is perfect for beginners.
+BULL28|Motley Fool has helped out many investors and has given effective results.
+NEUT29|They also offer a 30 days money back guarantee policy.
+NEUT30|You can review all Motley Fool stocks to buy and even purchase them in those first 30 days and still receive a full refund if you are not satisfied with the program.
+NEUT31|Once you get to see what is inside this program, you will get to know everything about the top and best stock picks and how easy it is.
+BULL32|The Fool's brothers have worked hard to give its users an extraordinary service.
+NEUT33|I will help them to make the right picks.
+NEUT34|So if you are looking for the best stock advisor in the market, then you are at the right place.
+NEUT35|Visit the link in the description to get started.
+NEUT36|Cool right click the link in the description for pricing.
+NEUT37|"Ratings and reviews."""

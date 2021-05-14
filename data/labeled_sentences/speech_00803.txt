@@ -1,0 +1,30 @@
+NEUT0|"""What a difference January 2nd makes you remember this time last year by year?"
+NEUT1|What a difference?
+NEUT2|January 1st the last year look what's going on.
+BEAR3|The market was pricing in an earnings recession.
+NEUT4|Remember that phrase earnings recession that stocks were really cheap.
+NEUT5|Fast forward one year the opposite is happening.
+NEUT6|The recession didn't happen.
+NEUT7|The earnings recession certainly didn't happen.
+BEAR8|The economy is strong, but stocks have gotten a little bit on the expensive side.
+BULL9|So the issue is whether we can finally return to earnings growth after an essentially flat year.
+BEAR10|In 2019, most strategists are expecting mid single digit earnings growth which would take some pressure off the high multiple of the market has right now early reports from companies reporting at the end of November are mixed with big names like FedEx, Nike, Micron, General Mills and Carnival.
+BEAR11|Seeing first quarter earnings reduced by analyst.
+BULL12|A few others like AutoZone and Costco have seen their earnings estimates increased by analysts.
+BEAR13|Overall, I'd say the trend is a little bit lower than expected.
+NEUT14|Looking at risks in 2020.
+BULL15|The markets are at new highs because many believe the risk from trade and tariffs is lower, so there's a lower risk.
+BULL16|The risk from the Fed many believe is also lower as they will likely remain neutral.
+BEAR17|These had job growth, the risk from the US consumer also a bit lower, but there's some risks out there.
+NEUT18|Moderate risk, a lot of people bring up buybacks.
+NEUT19|We've been buying back stock for 10 years with a lot of companies, but a lot of people feel there may be a limit to how far we can go with that.
+BEAR20|The belief that global growth is bottoming and turning around is very high risk.
+NEUT21|Many believe it's unlikely.
+NEUT22|2019 It's going to be this bottom.
+NEUT23|In the global economy, that's been a big driver of the stock market, but things really changed in Europe, for example, and there's very few structural reforms there.
+NEUT24|Another issue that shows up a lot among strategists in the last week is wage growth concerns.
+BEAR25|Many believe wages will likely be higher in the years to come, putting some pressure on margins.
+NEUT26|Now you guys know that the stock market is a game of expectations.
+NEUT27|The thing that happened last year is we had very low expectations starting the year prices were lower, but now it's the opposite we have.
+NEUT28|High prices, high multiple, so the expectations are really high and Mike, you know it's always better to have lower expectations than higher expectations.
+NEUT29|"That's the thing that concerns me the most right now, yeah."""

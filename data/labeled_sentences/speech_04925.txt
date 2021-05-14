@@ -1,0 +1,18 @@
+NEUT0|"""Financial and investment advisory giant."
+BULL1|The Motley Fool has announced it will invest $5 million into Bitcoin, with the expectation that it will rise to $500,000, announced earlier today via A blog and Twitter post.
+NEUT2|The firm stated it won't be buying overpriced ETF's, but will be buying Bitcoin directly.
+NEUT3|Currently ranked 5th globally in the investing category according to similar web and with 87 million website visits a month, The Motley Fool outlined 3 core reasons behind the purchase that Bitcoin is a better store of value than gold.
+BULL4|It's an effective hedge against inflation and that it has the potential to become a transactional asset.
+NEUT5|The firm will be investing in Bitcoin through its 10X.
+BULL6|Real money portfolio is one of 40 assets which it predicts will provide a 1000% return over the next 15 years.
+BULL7|The firm has recommended the digital asset as a core holding to all its 10X members and has provided time for them to purchase BTC before The Motley Fool initiates its own purchase.
+NEUT8|Due to the long term commitment, the announcement explains that volatility is of little concern.
+BULL9|Should the company's prediction proved true, it will see Bitcoin passing $500,000 within the next 15 years.
+BULL10|The Motley Fool says it has a solid track record with its investments.
+NEUT11|The Motley Fool has so far named ten of the 40 investment picks for the 10X portfolio so far, with the others being cloud computing company Appian Corp. Swiss biotech firm CR I SPR therapeutics.
+NEUT12|Cyber security firm Crowd Strike e-commerce platform Etsy genetic testing platform fulgent ensure lemon date social media platform Pinterest mobile gaming platform skills and video communication firm Zoom.
+NEUT13|It is worth noting that many of these stocks have already been recommended in the firms.
+NEUT14|Other, more basic investment services.
+NEUT15|The advisory firm has been aware of cryptocurrencies for years.
+NEUT16|Now, with the 2017 analysis suggesting Bitcoins biggest competitor was not Ethereum but Litecoin.
+NEUT17|"Fun fact, the second most visited site users go to from The Motley Fool website is that of the Internal Revenue Services."""

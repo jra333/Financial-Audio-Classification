@@ -1,0 +1,25 @@
+NEUT0|"""Jump it."
+NEUT1|What's your stock pick at the moment?
+NEUT2|Alicia, my topic tonight is one of those South African businesses that shorts or very strong share price rise.
+NEUT3|The last two or three days, Al Viva.
+NEUT4|It is a PC hardware and software business.
+NEUT5|You might remember them as a distributor of the Pinnacle or Pro line range of PC's.
+NEUT6|They also bought Datacentrix which gives them more exposure into services.
+BULL7|And I've seen also, as more people now stay at home, they need to upgrade their PC's.
+BULL8|A lot of companies are using virtualization software, another work from home software, upgrading their systems and all of that is very good for Alva.
+NEUT9|It's very cheap at the moment on the face of it, it looks like they have a lot of debt, but that's actually ring fenced against their securitization book.
+BULL10|So at this price even offer quite a strong rise the last few days I quite like LP.
+NEUT11|OK mija.
+NEUT12|What's getting your attention?
+BULL13|Yes, well I'm going with a very conservative stance that I've been taken in the last couple of weeks and that is that we we like to be sort of higher in our cash position.
+NEUT14|We equally weighted in the rest of our assets, but we like to have a lot of cash on hand and the company that's sitting in the same area as we are is Berkshire Hathaway.
+BULL15|We know that Berkshire has a lot of cash.
+BEAR16|It is actually not rebounded as significantly as many of the other shades in the US.
+NEUT17|The Fang stocks and all those have actually done.
+NEUT18|Very, very well, even though I think that there's a lot of economic.
+BULL19|Berkshire's position particularly well to make use of their cash position and to capitalize on any further downturns in the market and to to buy into quality businesses for the long term.
+NEUT20|OK, let's leave it there.
+BULL21|Thank you both for having joined me this evening.
+NEUT22|Of course, Sir Jean Pierre Fester is with protein Capital Management and Mia Kruger from Krueger International as well.
+NEUT23|Juliet, I will be back tomorrow to take more of your stock related questions.
+BULL24|"Have a good evening."""

@@ -1,0 +1,37 @@
+BULL0|"""We are going to dig in."
+NEUT1|We've got Mike Novogratz Galaxy Investment Partners CEO with us.
+NEUT2|Mike.
+BULL3|Thanks so much for joining us.
+BEAR4|So you know why is Bitcoin falling today?
+NEUT5|If concern about inflation is rising, is it not the hedge against inflation that some had hoped it would be?
+NEUT6|Well, let, let let's put things in perspective, right?
+BULL7|Bitcoin is up almost 60% on the year with the SNP flat.
+NEUT8|There is some correlation to asset prices, right?
+NEUT9|Chairman Pal is easy with money.
+BEAR10|In asset prices, go up if Chairman Paul Flinches and people start saying, maybe he won't be as easy.
+NEUT11|That was the body language of his today, right?
+NEUT12|We're not going to be easier.
+NEUT13|And that means maybe we take things back.
+BEAR14|Earlier all asset prices are going to go down a little bit.
+NEUT15|The bigger story, though, the far far bigger story, is that in the last two months, Bitcoin and crypto and blockchain have become an institutional asset class.
+NEUT16|There is no debate anymore, and so from JP Morgan to tell their clients they should put 1 to 2% of their.
+BULL17|Net worth in Bitcoin is a staggering shift.
+NEUT18|Morgan Stanley getting involved.
+NEUT19|Goldman Sachs getting involved.
+NEUT20|All the tech companies getting involved and I can tell you from what we're seeing, the pipeline is deep and so we've had this secular shift where all of a sudden this is a thing.
+NEUT21|Now it's an asset class and everybody is short right?
+NEUT22|A few insurance companies have it in most dump, and so every once in awhile you have things called paradigm shifts in markets.
+NEUT23|We're in the middle of a paradigm shift and so.
+BULL24|Bitcoin is wildly outperforming gold, even though they're both hedging the same thing.
+BULL25|It's outperforming because we're in this once in a generational adoption of crypto.
+NEUT26|Banks are frantically trying to figure out how to get into crypto, not just because of Bitcoin, right?
+NEUT27|The commercial banks, the JP?
+NEUT28|Morgan's of the world make a fortune in cross border payments, right?
+BULL29|JP Morgan made $11 billion last year in cross border payments, and now they see stable coins coming.
+NEUT30|And they're like, oh, so you're going to see a monster.
+NEUT31|Investment in this space.
+NEUT32|We're seeing it in M&A.
+BEAR33|Lots of the infrastructure companies are being snapped up by tech companies.
+NEUT34|You're going to see it in Ma.
+NEUT35|You're going to see the new participants in in in Bitcoin funds.
+NEUT36|"In another crypto funds."""

@@ -1,0 +1,18 @@
+NEUT0|"""Well, we got some merger news to talk about right now."
+NEUT1|AMD acquiring Xilinx Price Tag is $35 billion.
+NEUT2|In total.
+NEUT3|You might remember that we've been talking about this potential deal now for a couple of weeks, so this was expected.
+BEAR4|You're looking at Advanced Micro down about 3 1/2% on that price tag.
+BULL5|Xilinx up about 12%.
+NEUT6|We're just going through this right now to look through exactly what the terms of the transaction are.
+BULL7|It'll bring together.
+NEUT8|It looks like what they're saying is to bring together 13,000.
+NEUT9|Years and collectively $2.7 billion in annual R&D investment.
+NEUT10|Interesting that they're making that point, but in terms of the exchange ratio, it will be 1.7234 shares of AMD common stock for each share of Xilinx common stock, and we will break that down.
+NEUT11|It's about $143 per share of Xilinx common stock.
+NEUT12|X.
+NEUT13|We could probably add to that that they're targeting $300 million of cost synergies within the next 18 months were within 18 months of that being the deal being done.
+BEAR14|Cost synergies a lot of times, that means layoffs.
+BULL15|They do say that the acquisition will be immediately accretive to margins to earnings per share, and to free cash flow.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

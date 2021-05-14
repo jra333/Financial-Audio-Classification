@@ -1,0 +1,31 @@
+NEUT0|"""You've been involved in media M&A over the years as we've talked about a little bit."
+NEUT1|How would you assess the most recent ones and how they're doing so far?
+NEUT2|Which is to say Time Warner and AT&T and Fox and Disney companies?
+NEUT3|You know a little bit more about.
+NEUT4|Try.
+NEUT5|Uhm?
+NEUT6|Well, AT&T.
+NEUT7|Did the right thing.
+NEUT8|To buy DIRECTV when they did.
+NEUT9|Anne.
+NEUT10|We know that they bought it I I use I was on the board at the time of DIRECTV.
+NEUT11|They bought it for 50 billion and now it's up for sale for 15 billion.
+NEUT12|So they like us.
+BEAR13|You're all become victims of traditional media.
+BEAR14|Problem that we have worldwide away.
+NEUT15|So from that point of view.
+NEUT16|Not so great.
+BULL17|The Time Warner, the Warner I should say yeah, content that they bought I think was a good move and they got a great guy.
+NEUT18|Jason Kilar a guy with a vision.
+NEUT19|To run it, and I think that they're doing some very interesting things.
+BULL20|I think they're going to come out really well with the Warner acquisition.
+NEUT21|In my humble opinion.
+NEUT22|And then Fox and Disney.
+NEUT23|Well, that's one that stunned me because Rupert doesn't sell anything.
+NEUT24|Me doesn't like to sell absolutely anything, and that one he realized it's a matter of too big to be small and too small to be big.
+NEUT25|So he really needed to make a move, either acquire which he did, try to acquire Warner because he realized you need more scale both the content and as well as a distribution level.
+NEUT26|So when he identified the fact that.
+NEUT27|You know there wasn't much for him to buy too.
+NEUT28|And this is my humble opinion, and Bob Eiger came to him with this offer.
+BULL29|He said, well, OK, I'll go the other way, I'll play I'll play the Disney card and I'm assuming he took stuff so he's doing alright over this.
+BULL30|"Doing alright?"""

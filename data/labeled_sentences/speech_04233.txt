@@ -1,0 +1,31 @@
+BULL0|"""We've been on quite a run."
+BULL1|We've had some good numbers.
+BULL2|The jobs numbers obviously propelling the market higher.
+NEUT3|Today.
+NEUT4|Looks like we may open down just marginally, but what are you thinking?
+NEUT5|What are you doing about all this right now?
+NEUT6|Yeah, no.
+BULL7|As you said Andrew, it's been a phenomenal market.
+NEUT8|In fact, really, since November of 2020 when we had the elections and the arrival of the vaccines, we've seen you know two real themes in the market.
+NEUT9|The first theme has been this rotation into value somewhat at the expense of growth.
+NEUT10|And the second team has really been the rise and breaks, so we've seen the 10 year Treasury yield go from .91% about 170 today.
+NEUT11|And So what is that done?
+BEAR12|Well, again, that's continued to put some pressure on parts of the corporate bond market credit markets, but also put some pressure on what we're calling longer duration asset classes like technology, parts of health care.
+NEUT13|I also put some pressure on what we call the bond proxy sectors like rates and utilities.
+NEUT14|Now, of course, as we're looking towards the real reopening here in the summer months.
+NEUT15|We're mindful of a couple things.
+BULL16|One, you know the this value rotation has had a nice run already.
+BULL17|In fact, if you look at sectors like energy financials and industrials, they're up 70%, about 40% and 30% respectively.
+NEUT18|Since that November time period, so you know they've had a great run, we do think there's another like to go as really see the reopening come through in the economic and earnings numbers, but we're getting a little bit more selective here.
+NEUT19|We're certainly looking at where our highest conviction.
+NEUT20|Lies and we're mindful of, you know, perhaps some tailwinds heading into the second half of the year?
+NEUT21|Mona, we're going to heartbreaking one Seck, but are there any any tech names anywhere?
+NEUT22|Any names you think that have been rotated out of that actually should be rotated back into?
+NEUT23|Yeah, you know, a couple of sectors that we like that are supported by the Biden administration.
+NEUT24|Clean energy.
+BULL25|First of all, they've had a tremendous rise and then a tremendous fall.
+NEUT26|We think it's a long term secular winner, and then, Secondly, an area like 5G, you know, part of the infrastructure package part of broadband.
+BULL27|Certainly something we think coming to the forefront this year.
+NEUT28|So those are two sectors that are kind of growth that we like.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,23 @@
+NEUT0|"""How can you size up the potential economic impact of the Corona virus on the world's second largest economy?"
+NEUT1|Yeah, that's very right.
+NEUT2|I think there's so much uncertainty at the moment it's very difficult to say for sure how long the impact will last and how big it will be.
+NEUT3|But the best way of kind of maybe trying to size up the impact is looking at what happened in 2003 in SARS when that spread across China and there as you mentioned, it was the tourism sectors, retail, restaurants, entertainment there all hit hard and what we found is that it knocked about one percentage point of Chinese GDP growth during that period.
+NEUT4|Now obviously depends on how much it spreads and stuff, but that's kind of useful.
+NEUT5|Ballpark figure, we think for what will happen this time around as well.
+NEUT6|And at that point 2003, the economy in China looked a little different than it does now.
+BEAR7|It looks a bit weaker right now, or at least weakening.
+BEAR8|Does that mean this could be worse?
+NEUT9|What about the fact that it happens during the Lunar New Year time when people are sort of used to celebrating spending, traveling, spending on entertainment?
+NEUT10|Does any of that get made up, or exacerbate the impact?
+BEAR11|Well, yeah, I don't think this could have happened at a worse time for China's economy.
+BEAR12|The economy was already quite week before this.
+BEAR13|The fact that it's happened over Chinese New Year means that there's a risk that the virus will spread a lot more.
+BEAR14|But also it means that the sectors that we're hoping on a big kind of bounce from the Chinese New Year spending also going to be hit quite hard.
+NEUT15|He said it's going to be impossible to tell for at least a couple of months how big the impact it will be until we get some more of the data, but it, but it feels as if it's going to be quite sizable based on sort of your study of this.
+NEUT16|Region of the world.
+NEUT17|You probably know that many are a bit sceptical when we get numbers, whether it's economic data points or otherwise.
+NEUT18|Do you feel that we can really trust the information that we're getting right now about the number of those infected and how they're dealing with the spread of this virus?
+NEUT19|I think you can have a lot more faith than you did in 2003, when the Chinese authorities were heavily criticised for being so quiet and trying to hush up the virus.
+BULL20|That certainly since the beginning of last week, the Chinese authorities have been commended for being so open and honest about the outbreak, and I would be very surprised now if they're still trying to hush things up.
+BEAR21|Obviously this summer known that people could be carrying the virus that we don't yet know about, so it seems very likely the numbers will shoot up over the coming months, but the Chinese are very little too.
+BEAR22|"Gained by being so quiet about this in terms of the data itself, we've got big kind of question marks over the reliability of the Chinese data anyway, but I don't think they'd be making any special effort to try and hush up the extent of the impact this is going to have on the economy."""

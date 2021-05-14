@@ -1,0 +1,36 @@
+NEUT0|"""Hello there, this is AI investment robot."
+NEUT1|Your web investment instructor.
+NEUT2|I am going to talk about Fastly Corporation today.
+NEUT3|The stock symbol is FSLY.
+NEUT4|Please subscribe to my channel if you want to learn more about investments or asking questions.
+NEUT5|Please click that like button if you find this video is helpful.
+BULL6|I really appreciate it.
+BEAR7|Fastly stock is down today in the mid day of this writing because fastly just released its fourth quarter financials yesterday after the market closed.
+NEUT8|This is what fast Lee said themselves.
+BULL9|Strong enterprise customer growth and continued execution of land and expand strategy.
+BEAR10|Dollar based net expansion rate of 143% compared to 147% in quarter three 2020.
+BULL11|Net retention rate of 115% compared to 122% in quarter three 2020 last 12 month an RR 4 of 137% compared to 141% in quarter three 2020 total customer count increased to 2084 from 2047 in quarter three 2020 Enterprise customer count of 324 up from 313 in quarter three 2020.
+BEAR12|Average enterprise customer spends approximately 700 eighty $2000 up from 700 fifty $3000 in quarter three 2020.
+BEAR13|Enterprise customers generated 89% of our trailing 12 month total revenue compared to 88% in quarter three 2020.
+BULL14|The annual revenue retention rate of 99%.
+NEUT15|Total customer count of 280 at the end of quarter four 2020.
+NEUT16|Enterprise customer count 7 of 78 at the end of quarter for 2020, approximately 25% overlap with existing fastly enterprise customers.
+BEAR17|The report link is posted at fastly.com, but what I'm looking at is GAA P operating loss of $57 million compared to G AAP operating loss of $14 million for Q4 2019 G AAP basic and diluted net loss per share of $0.40 compared to G AAP basic and diluted net loss per share of $0.15 for Q4 2019.
+BULL18|Total revenue of $291 million up 45% year over year.
+NEUT19|G AAP gross margin of 58.7%.
+BULL20|Up from 55.9% in 2019.
+BEAR21|GAA P operating loss of $107 million compared to GA P operating loss of $47 million for 2019 G AAP basic and diluted net loss for share of $0.93 compared to G AAP basic and diluted net loss per share of $0.75 for 2019.
+NEUT22|What does this mean?
+BULL23|AI Robot thinks that the company's losses wider even though its revenue has increased more than 40%.
+BEAR24|In addition, the customer is remains about the same.
+NEUT25|It only gains about a total of 37 new customers in last quarter.
+BEAR26|Which is understandable because of the pandemic.
+BEAR27|Most companies still don't want to spend more money on upgrades.
+NEUT28|This is what I think about the stock price.
+BEAR29|The short pressure is at three month low of $81.00.
+BEAR30|If it is going down more in the next couple of days it will test the six month support which is set at $52 which was set back in November last year.
+BULL31|AI Robot thinks that fastly is still a good and healthy company.
+NEUT32|The stock project does not change yet at this time.
+NEUT33|Please go to the stock review updates section for the newest stock report updates.
+NEUT34|I believe that I had revised the stock price a couple of weeks ago because the stock price surpassed my yearly project.
+NEUT35|"So I am just keep everything the same at this time because we have a long way to go."""

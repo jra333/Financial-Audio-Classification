@@ -1,0 +1,21 @@
+BULL0|"""Alibaba and Tencent remains China's top technology stocks, even as Beijing continues to ramp up regulatory pressure on its big Internet firms, says Jackson Wong of Amber Hill Capital."
+BEAR1|At this point I can't see any other stocks that can challenge their positions in China.
+BULL2|Wang, director of Asset Management at Amber Hill, told CNBC's Street signs Asia on Thursday, Alibaba and Tencent are still the benchmark among China's tech stocks, he said.
+NEUT3|Long's family and Amber Hill, both owned shares in the two companies.
+BEAR4|His comments come as Chinese tech stocks in Hong Kong lagged the other sectors so far this year.
+BEAR5|The top ten constituents of the Hang Seng index did not include a single tech stock at the end of the first quarter, according to a CNBC analysis using data from Refinitiv Eikon, a range of factors have contributed to the comparatively poorer performance of the tech sector, which makes up more than 42% of Hong Kong's benchmark index.
+BEAR6|One reason is that bond yields are rising and that hurts growth stocks like texts because they reduce the relative value of future earnings.
+BEAR7|Another concern is delisting threats from the US Chinese tech shares that are also listed in the US have taken a beating this year amid fears that an UUS law could stop the trading of securities that fall foul of Securities and Exchange Commission rules.
+BEAR8|Finally, China's regulatory crackdown on the sector has also spooked investors.
+BEAR9|The business empire of Alibaba's founder, Jack Ma suffered a huge blow last year when China pulled the plug on Ant Group's initial public offering and suspended what would have been the largest IPO in history.
+NEUT10|As the co-founder and Controller of Ant group, Alibaba does not appear to be the only Internet Titan that's being targeted, Reuters reported in March that $0.10 founder Pony Ma met with Chinese antitrust officials earlier last month.
+BULL11|Still, Tencent shares rose about 8% in the first quarter of the year.
+BEAR12|Alibaba, on the other hand, saw its Hong Kong listed shares dropped more than 5% in the same.
+BULL13|Both firms got off to a positive start in the second quarter.
+BULL14|10 cent stocks soared 7.21% while Alibaba shares in Hong Kong jumped 2.55% on Thursday, the last trading day before the long holiday.
+NEUT15|Trading starts again on April 7th.
+BEAR16|Looking ahead long acknowledged that political headwinds and potential regulatory rules ahead could really damage the profit outlook for the two Internet Giants that dominate China's tech space.
+BULL17|However, he expects some kind of compromise to be eventually reached on the regulatory front.
+NEUT18|Going forward, their valuations might not be, you know, 50 or 60 times of earnings still there, trading at around 30 times of earnings and they are at a very good position in China.
+NEUT19|Long said he was referring to price to earnings PE ratio, a measure of a company's stock price relative to its earnings.
+BEAR20|"A high PE ratio could indicate an expensive stock price compared to its earnings."""

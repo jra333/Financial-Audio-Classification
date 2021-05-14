@@ -1,0 +1,15 @@
+NEUT0|"""I'm a convert to The Motley Fool stock picks."
+NEUT1|I'm only going to do 10% or less My Portfolio right now in single stocks based on their picks.
+NEUT2|Want to show you some of the winners that have really paid off in the last three months?
+NEUT3|Not all of these in My Portfolio are there pics, but the ones that I'm going to show you are so Pinterest.
+BULL4|I've had this for about 3 months and will switch the view so you can see it's been up 61%.
+NEUT5|My return is 60% based on the date that I bought it, which was October 1st.
+NEUT6|That's crazy.
+NEUT7|It's less than three months of age 60%.
+BEAR8|Another one of their picks is Slack.
+BULL9|This one's up 39.24%.
+BULL10|My investments up 50% for the day that I actually purchased it, so this is unbelievable.
+BULL11|So I really have been impressed with their picks.
+NEUT12|Some of these like Zynga I got in late so I don't have that great of a return 3.58%, but all of them are in the positive.
+NEUT13|Now, if you want to try this out for yourself, go to Google, type in well kept well at Motley Fool.
+NEUT14|"Click on the 1st Link and if you can get 50% off by clicking on this link."""

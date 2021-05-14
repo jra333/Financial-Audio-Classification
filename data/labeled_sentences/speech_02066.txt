@@ -1,0 +1,13 @@
+NEUT0|"""Anna's just bought £3000 worth of Coca Cola shares."
+NEUT1|If she scrolls up from her portfolio will just show you what we've done and we click on Coca Cola.
+NEUT2|And you can see she scrolls up.
+NEUT3|Don't give us the details of the shares we've got.
+NEUT4|Return your investment, says 82.264413 shares at 2998.03.
+BEAR5|And the return so far is we're down 174 'cause it's a moving target, it's alive.
+NEUT6|New York is open and live now.
+NEUT7|We bought these about two or three minutes ago, so that's the big addition to the portfolio.
+BEAR8|We decided upon investing in Coca Cola because it's dumb down 10% on 52 weeks and I'm.
+BULL9|Convinced it will return to its original level once we start to come out of the lock down and things start picking up.
+NEUT10|So this is a good solid company which I've read on a lot of brokers and they recommended that their own research and we've put our money in a very, very safe bet, not about a very safe company, and we're looking to one take 10%, or at least 10%.
+NEUT11|When it reaches that, so until next time.
+BULL12|"Thank you for watching."""

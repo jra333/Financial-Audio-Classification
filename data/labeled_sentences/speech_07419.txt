@@ -1,0 +1,38 @@
+BULL0|"""The US wasn't the only one who's slowing down right now."
+BEAR1|I mean, obviously China has had some deceleration.
+BEAR2|Looks like Germany just barely missed a technical recession at the end of last year.
+NEUT3|Italy is also slow, so it's not only United States, but it's it's everywhere and it kind of looks and feels like to me late 2015 early 2016.
+BEAR4|You also had the same sort of concerns about slowdowns in China and what sort of effects that would have had big decline in oil prices.
+NEUT5|And you know, the cutbacks in the energy space here, so it kind of looks and feels very much like like that time based off an actual recession.
+NEUT6|At that point you think that happens this time too?
+NEUT7|Yeah, I do.
+BULL8|You know if you look at the underlying fundamentals of the US economy, they'd still remain pretty strong.
+NEUT9|You know, if you look at interest expense among businesses, it's not at a very, very high level.
+BULL10|The savings rate among consumers remains very high as well, but you certainly could have a lot slower growth here in the first part of the year.
+NEUT11|And if you go back to 2016, the Fed was on hold for that entire year and you know, Fast forward three years potentially could be looking at the same sort of thing.
+BEAR12|Oh, the numbers Steve just pointed out the weakness that we've seen in recent months that was.
+NEUT13|Numbers through December before you got to these concerns that we're facing right now with the government shutdown before you got to the Brexit kind of hitting a wall and before you even had us getting closer and closer to this countdown with the China trade talks, what does that mean?
+NEUT14|Where does that put us?
+BEAR15|It means that growth in the first quarter of this year is probably pretty weak, you know, or how weak well, so our official forecast at this point, and this was done a few weeks ago.
+BULL16|It's 2.2%.
+BEAR17|The 2.0 I said the risk of that is skewed to the downside right now.
+NEUT18|I mean are we are we talking a negative sort of number?
+BEAR19|I mean I think things have to get a lot worse in terms of the government shutdown.
+NEUT20|A big deceleration in China for us to get to those sorts of numbers, but I can handle that for sure.
+NEUT21|I wouldn't say for necessarily for sure we're going to crunch some of the numbers that we were talking about this earlier.
+BEAR22|We don't have a lot of those numbers right now because of the government shutdown, but you know, again, it seems like maybe the risk to that 2.2 is skewed to the downside.
+NEUT23|Is it possible that we end up?
+NEUT24|Just slowing, but that growth doesn't end up all that slow, and it's very hard to have this conversation now because it's one of those things where I don't know what the economy would have done without the government shutdown.
+NEUT25|But it seemed like in the normal course of action you have this slowdown that was happening and the market kind of freaked out about that.
+NEUT26|It was like, well, wait a second, we're going to slow down and that was what the economic forecasters had said all that all along was going to happen.
+NEUT27|You were going to Unit 4 in the second quarter and then you were kind of stepping down towards 3 and they were going to happen.
+NEUT28|That's not a bad outcome if you do 2 1/2.
+BEAR29|As a slowdown from what happened in 2018, is it?
+NEUT30|I mean, that's that's kind of a quote.
+NEUT31|Soft landing, you know, if you come in at 2 to 2 1/2%?
+NEUT32|Yeah, I don't think you would expect to stay at three or 4%.
+BULL33|You know the Fed hiked rates 100 basis points last year?
+BEAR34|That's going to have a slow death slowing effect on the housing market.
+BEAR35|Some of the fiscal stimulus is starting to wane in terms of their own government spending increases, and things of that nature.
+BEAR36|So to expect us to remain out of three or 4% number forever.
+BEAR37|"I just thought it was a little bit unrealistic."""

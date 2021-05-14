@@ -1,0 +1,15 @@
+NEUT0|"""Are you confused by money?"
+NEUT1|You would not be alone in wanting more, but you know how it works.
+NEUT2|Share Radio Guide you through the money maze.
+NEUT3|No calling programs, no endless and repetitive news.
+NEUT4|Just plain speaking.
+NEUT5|Common sense.
+NEUT6|I'm Simon Rosen for the big issues such as the economy and how politics affected I present.
+NEUT7|The bigger picture for how self financing everyday issues, Georgie Frost and Simon Lambert present.
+NEUT8|This is Money and for those who look to take the best from their investments.
+NEUT9|There's Motley Fool for an American perspective, alongside our review of the UK stock market, Vicki says presents share interviews, and Adam Cox explores the inner workings of our minds.
+NEUT10|Each week we send you comment on a key issue affecting us all, plus links and summaries for our recent programs, and in case all this sounds a bit serious, you can listen to reviews of gadgets and gizmos, movies and a huge library of output, including interviews with some extremely interesting characters.
+NEUT11|There's lots of value here.
+NEUT12|So take action now.
+NEUT13|Click on that sign up button and get your first month listening free.
+NEUT14|"This is Cher radio."""

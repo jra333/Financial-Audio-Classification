@@ -1,0 +1,20 @@
+NEUT0|"""Hi I am Anna."
+NEUT1|I come from www.ntv4x.com.
+NEUT2|Google Class C stock tests and upside line analysis.
+NEUT3|Httpntv4x.com news ID 41 EC 419-820-2010 forty 5:33 AM.
+BEAR4|After hitting a new record high at 1733 last Wednesday, the Google Class C stock tumbled on Thursday and Friday to test water slightly below the upside support line drawn from the low of March 23rd.
+BEAR5|Then the stock rebounded somewhat to finish the week above that line.
+BULL6|Thus, having in mind that investors managed to keep the Google stock above that line, we would consider the medium term outlook to still be positive.
+BULL7|That said, in order to get confident on a trend continuation, we would like to see a decent recovery above 1624 alevel defined as a resistance by the inside swing low of August 27th.
+BULL8|Such a move may invite more buyers into the game who may shoot for another test near the record peak of 1733.
+NEUT9|A clear break above that hurdle would take the price into uncharted territory and thus with no prior peaks and troughs to mark higher resistances, we would consider as the next possible target the psychological zone of 1800.
+BEAR10|Shifting attention to our short term momentum studies, we see that even though the RSI has ticked up, it remains below 50, while the MACD, although positive, runs below its trigger line.
+BULL11|These indicators detect a lack of upside speed a actually the RSI is showing downside momentum a, which adds more credence to our view of waiting for a move above 1624 before getting confident of another round of buying.
+NEUT12|What could change the outlook to a bearish one?
+NEUT13|Maybe a decisive dip below 1538?
+BEAR14|A barrier that provided resistance between July 27th NBSP in August 13th NBSP NBSP the price would already be below the pre mentioned up sideline and may drift ords the low of July 31st at around 1455.
+BEAR15|Another dip below 1455 may extend the tumble towards the low of June 29th at 1346.
+NEUT16|NBSP NBSP JFD bank.com one stop multi asset experience for trading and investment services NBSP.
+NEUT17|Subscribe our channel to receive the news as soon as possible.
+NEUT18|Thank you for watching Dot.
+NEUT19|"If you want to read real time news text messages to empty 5 expert advisors page at HTTPS m.memt5.expertadvisors."""

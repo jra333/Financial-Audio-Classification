@@ -1,0 +1,28 @@
+NEUT0|"""Take a look at this piece from the FT on Seth Klarman."
+NEUT1|Comparing investors to frogs in boiling water.
+NEUT2|Jim, he says with so much stimulus being deployed trying to figure out if the economy is in recession is like trying to assess if you had a fever after you after you just took a large dose of aspirin.
+NEUT3|Well, I guess it's also the scorpion and the frog.
+NEUT4|I mean, you get halfway there.
+NEUT5|Look these comments.
+NEUT6|I have meant respect for South Corner, but I often find that if you look back at what hedge fund managers have said, it's very different from what individual investors should be doing and.
+BEAR7|I'd say the vast majority of hedge fund managers have kept people out of one of the most amazing rallies I've ever seen.
+NEUT8|And it does not.
+NEUT9|It behooves them to start thinking, well, wait a second.
+NEUT10|Investors can earn as stupid as you think.
+NEUT11|Is it?
+NEUT12|1999 I, I don't know, but I will say this.
+BEAR13|I'm tired of denigrating the individual investor.
+NEUT14|I'm in contact with far more than than Seth Klarman.
+NEUT15|And I'm stunned and amazed at how much work they do and how well they've done.
+NEUT16|So I'm out of the game of trash in the little guy and the regular investor, David.
+BEAR17|They do so much work they're trying so hard and I really think that the market is going to hell thesis.
+NEUT18|Has made it so that people are in their change.
+NEUT19|I am Marx and angles when it comes to this stuff, not Marty Engels, Marx and angles.
+NEUT20|Well, there's an awful lot of them, and so they are having a great impact on the overall market and in particular names.
+NEUT21|And I think do they do do a good deal of research in some areas and then others?
+NEUT22|There's very speculative nature.
+NEUT23|Let's stop denigrating individual investor.
+BULL24|They've done terrifically.
+BEAR25|I really resent it.
+NEUT26|Shepard Smith here.
+NEUT27|"Thanks for watching CNBC on YouTube."""

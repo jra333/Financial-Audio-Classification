@@ -1,0 +1,12 @@
+NEUT0|"""The Journal according to sources is reporting that Salesforce has recently been in talks to buy Slack."
+NEUT1|Slack has a market value of about $17 billion, and Carlin John Slack has been one of these names.
+BEAR2|Yes, a work from home winner, but perhaps a relative underperformer.
+BULL3|We haven't seen the kind of gains that we've seen from some of the other darlings in this space, like Zoom and Datadog and Cloudflare, so it would be a very very big purchase for $17 billion.
+NEUT4|But John, we know that Salesforce has not been shy on the M and a front we've seen.
+BEAR5|A number of big acquisitions over the last few years that has really been working out for the company quite well shares this year up some 50% to slacks 40% yeah and Salesforce down right now on this news almost 3% is rebounding right now though as we speak you can see that little blip there at the bottom of the red line.
+NEUT6|Gotta remember that Salesforce looked at buying Twitter not too long ago.
+NEUT7|This would be an interesting more.
+NEUT8|Enterprise focused move and a little bit more on the communication and productivity front inside Salesforce as they've been building out a suite of cloud based productivity products.
+BEAR9|It would put them even more squarely in competition with Microsoft on that front as they are also battling with Adobe guys when it comes to the experience technology.
+NEUT10|Shepard Smith here.
+NEUT11|"Thanks for watching CNBC on YouTube."""

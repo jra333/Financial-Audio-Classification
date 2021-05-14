@@ -1,0 +1,45 @@
+NEUT0|"""I were talking about Walmart all day today."
+NEUT1|Certainly a stock related to that, that we're also thinking about his Amazon.
+NEUT2|For more on Amazon, let's bring in a swath Amador and professor at NYU.
+NEUT3|You Stern School of Business who focuses on corporate finance and valuation professor.
+BULL4|Thanks for joining us.
+NEUT5|So thinking about Walmart versus Amazon about the future of those two businesses back at the end of 2018, you took a look at Amazon, looked at the fundamentals of that business, thought it might be a little bit overvalued as anything in the last few weeks we've got new full year.
+NEUT6|Financials from Amazon.
+NEUT7|Have anything changed about your view of the company over that time?
+NEUT8|I think there's a lot of over reaction that happens with Amazon, both on the good side and the bad side.
+NEUT9|I mean, I don't see the Walmart story as being negative for Amazon to be quite honest, I don't even think Amazon is particularly a retail company anymore.
+NEUT10|I think it's a disruption platform.
+BEAR11|That said though, it's priced so richly and that's what always has trouble me.
+NEUT12|Is.
+NEUT13|People assume perfection with Amazon.
+BULL14|Anything less than perfection is a problem, so from that perspective, but maybe expectations have come down and maybe that will bring the prices to more reasonable level.
+NEUT15|But this is a great company.
+NEUT16|I mean, I don't think you can ever.
+NEUT17|You know, contest that it's just the pricing that is always bothered me.
+NEUT18|So how much does the pricing bother you?
+NEUT19|I mean, do you think that Amazon is a short here?
+BEAR20|Less so than it was in September of 2018 on his trading almost $2000.
+NEUT21|I mean, I estimated value and this is a very I mean with Amazon.
+NEUT22|Your estimate is always going to have a wide range on it of about 12 fifty 1250.
+NEUT23|For it it's I mean it's relative to that 1002 fifty 1632 looks high, but this is a company which can overshoot in both directions.
+NEUT24|The distribution of values huge, so at 1632 I would just say I won't touch the stock, but I'm not selling short at 1632.
+NEUT25|Now what about the cloud?
+NEUT26|Because I believe the.
+NEUT27|Amazon's earnings are now represented 50% of their cloud business.
+NEUT28|What do you think about that component?
+NEUT29|It's provided them at the cover.
+NEUT30|It's not going to be there end game.
+BEAR31|I mean, let's face it, the cloud business is ultimately going to become a competitive business with smaller margins.
+BULL32|But for the last three years, the profits that Amazon is made on their cloud businesses allowed them to cover up the lack of profitability in the rest of their businesses.
+NEUT33|And that's by design, because they're essentially still selling stuff at just above cost in the wrestler businesses.
+NEUT34|But having the cloud business has given them that protection against come against investors asking when are you going to make money?
+NEUT35|What do you think is the biggest challenge that Amazon faces right now?
+NEUT36|We've gone through a couple of them over the past several weeks.
+BEAR37|Lots of talk just said Brian Sozzi saying that they weren't in enough.
+NEUT38|They don't have enough of a brick and mortar presence.
+NEUT39|What is your take on that?
+NEUT40|I don't think any of those are even in the top ten list.
+NEUT41|To be quite honest.
+BEAR42|I think Amazon's biggest problem right now is it as a target on its back target on its back politically economically everybody wants to take Amazon down, and that's a dangerous place for a company to be when everybody wants to take you down.
+NEUT43|And I think that's going to happen in terms of regulations.
+BEAR44|"Laws mean you're going to see people squeeze Amazon in every conceivable way."""

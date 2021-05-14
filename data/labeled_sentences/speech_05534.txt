@@ -1,0 +1,12 @@
+BEAR0|"""The Pentagon reportedly pushing back on the Commerce Commerce Department's attempt to clamp down on hallway sells the Wall Street Journal reports."
+BEAR1|Commerce officials have now withdrawn proposed rules that would make it harder for U.S. companies to sell to while away the changes said to follow objections from the defense and Treasury Department's yeah, the rationale.
+BEAR2|When I read this story is that they are concerned that it would hurt the revenue of these companies so much that they would no longer be able to do the very research and development that we've been so upset that they haven't done in order to actually have our own 5G.
+NEUT3|Etc.
+NEUT4|It's a real dilemma actually.
+NEUT5|When we are a country that focuses on the private sector where China is very much involved in subsidizing what is waway, whether it's private sector public, you know who knows?
+NEUT6|I mean, it's fascinating that this debate continues.
+BULL7|It's incredibly interesting that Europe still has such a different position on it overall compared to the United States.
+NEUT8|If they are more willing to use wowway equipments, more willing and part of that is because it is already embedded to a certain extent in 5G and 4G networks that.
+NEUT9|A change would be prohibitively expensive or even impossible based on where the foundations have already come out, so it's not necessarily that they totally disagree with some of the intelligence that they've been given, but it's that they have basically no alternative and that they would proceed with Huawei, but try and impose all sorts of added security protections, because that's really their only option, so it's not really just simply a case of.
+NEUT10|Do we agree with you or not?
+BEAR11|"It's like, well, we haven't really got any options."""

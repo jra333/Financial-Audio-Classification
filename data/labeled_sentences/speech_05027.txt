@@ -1,0 +1,9 @@
+NEUT0|"""We also discussed the remarkable run for faang stocks less so, of course, in the past couple of days, I asked Hastings what he thinks about when he looks at the markets, and in particular the valuations of technology stocks, including Netflix."
+NEUT1|Well, from what I was reading, isn't that very SoftBank sort of driven?
+NEUT2|I'm not sure, but you know, I've really focused very little on the things I can't control, such as the markets and focus almost entirely on our employees.
+NEUT3|Our customers are series or films because that's a again an area I can have some impact.
+NEUT4|Do you buy stocks by the way?
+NEUT5|Index fund investor for at least a decade.
+NEUT6|That's it.
+NEUT7|So no Tesla for you.
+NEUT8|"Well, there's Netflix and then passive, so I'm very barbell."""

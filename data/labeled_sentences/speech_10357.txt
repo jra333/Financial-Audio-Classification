@@ -1,0 +1,53 @@
+NEUT0|"""So you're getting your stimulus check from the government, right?"
+NEUT1|I mean, what do you do?
+NEUT2|What do you do with it before we even talk about investing?
+NEUT3|You gotta plug some holes.
+NEUT4|Gotta pay off the credit card debt.
+NEUT5|Maybe you gotta make sure you get some health insurance.
+NEUT6|I know really boring advice, but those costs can each alive.
+NEUT7|Once that's covered, you should put most of what's left into a cheap index fund that mirrors the S&P 500 laps for retirement, and then finally, finally there.
+NEUT8|Sure, mad money.
+NEUT9|A fitting concept.
+BULL10|Given that today is indeed our 16th anniversary and otherwise sedately positive session.
+NEUT11|Download only advancing 175 points.
+NEUT12|I would trade it all over the place, but then nicely SNP gaining .65% and then ask that climbing 1.05%.
+NEUT13|Well, you're probably thinking why doesn't Cramer say start with individual stocks?
+NEUT14|Because if you qualify for stimulus check, you might not have enough money for cushion.
+NEUT15|I always tell you to put your first 10 grand into an index fund because you start picking stocks or assets like crypto currencies.
+NEUT16|Well, you know what I've been saying for a decade and a half.
+NEUT17|You gotta be diversified and that's what the Pope is about.
+NEUT18|Be diversified, but let's say you got that question.
+NEUT19|What's next, alright?
+NEUT20|Well, your choice of investments depends on where you are in life.
+NEUT21|And to a lesser extent, your own personality, which I can't tell you about.
+NEUT22|I mean, if you're young and you got a whole lifetime of paychecks ahead of you, you can afford to take one a lot more risk.
+NEUT23|Assuming you're comfortable with it.
+NEUT24|As you get older, you do need to be more cautious.
+NEUT25|It's just what life's about.
+NEUT26|In the old days, I would tell you to pick the stock of a company you knew and light, then read the Annual report listing the cops.
+NEUT27|Go look up any relevant articles and maybe do some buying if you like what you see.
+BEAR28|Very often, though, people would balk because the share price was too high.
+NEUT29|Meaning it costs too many dollars, and 'cause there's a lot of commissions these days, there is no longer a problem because we got fractional trading.
+NEUT30|You can buy a 10th of something like Tesla or Amazon, or output and no commissions.
+NEUT31|Now the younger you are, the more I am no more.
+NEUT32|I'm begging you to take an aggressive stance on something speculative.
+NEUT33|What does that mean?
+NEUT34|Let me give you textbook examples 'cause we've got them all over the place a year ago.
+NEUT35|Moderna was speculative, was a relatively untested biotech company.
+BULL36|Now we know they've had incredible success with their covid vaccine.
+NEUT37|You know what?
+NEUT38|I believe their RNA technology extends beyond this one.
+BEAR39|Virus stocks had a huge run.
+NEUT40|You know what I actually think?
+NEUT41|You can still justify owning a piece of it up here because management has staked out a series of vaccination efforts that could lead to being multiple blockbusters.
+NEUT42|But how about if you're older?
+BULL43|Well, then I think I switch gears mean yeah, I think I think you gotta try to talk like Johnson and Johnson Company long track record of paying dividends done some remarkable work with its own one shot Covid vaccine.
+NEUT44|Although not that it's necessarily a needle mover.
+NEUT45|Change doesn't have the radical upside or something like Moderna.
+NEUT46|In fact, they're not even trying to make money on the vaccine, but the company has a tremendous history of doing right by shareholders, managers capital well and developing new drugs.
+NEUT47|Don't miss a second of mad money.
+NEUT48|Follow at Jim Cramer on Twitter.
+NEUT49|Have a question?
+NEUT50|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT51|Shepard Smith here.
+NEUT52|"Thanks for watching CNBC on YouTube."""

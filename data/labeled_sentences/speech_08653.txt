@@ -1,0 +1,13 @@
+BULL0|"""Hey guys, welcome to trade stock."
+NEUT1|I did sell you PLD yesterday.
+NEUT2|Wasn't able to make a video yesterday.
+NEUT3|Just do and at the end of the time you can see that the stock was going up the nice trendline here, here, here bounce off the 50 day moving average here, here, here, here and here.
+NEUT4|So that's why I purchased it.
+BULL5|It did clear the resistance here, but you know I did make around almost like 480 bucks within a day and a half.
+NEUT6|So I just wanted to get out of it.
+NEUT7|I like this quick profits.
+NEUT8|You can still hold.
+NEUT9|I don't see why it should go down, but.
+NEUT10|Yeah, I just wanted to get out.
+NEUT11|Don't forget to subscribe right up in this corner here for all the watch alerts an any watch list as well.
+NEUT12|"Alright, let's make some money."""

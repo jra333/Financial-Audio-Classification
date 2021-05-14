@@ -1,0 +1,43 @@
+BEAR0|"""In 1980, the US economy went into a recession."
+BEAR1|Gotta mobile production dropped 37 and a half percent Wall Street reacted very badly, but that recession actually could have been predicted.
+NEUT2|If you were looking at a very specific type of line.
+NEUT3|You see, normally this line points slightly upward, like here in September 1977.
+NEUT4|But about a year later, it started pointing the other way, just slightly.
+NEUT5|And then not long after that boom, the 1980 recession.
+NEUT6|It happened again a few months later.
+NEUT7|The line curved downward.
+NEUT8|Then boom, another recession.
+NEUT9|It happened again in 1988.
+NEUT10|Again in 2000.
+NEUT11|And again in the mid 2000s.
+NEUT12|This line is called the yield curve and it's predicted every recession in the past half century.
+NEUT13|And that's why some experts freaked out when this happened.
+NEUT14|A recession warning.
+NEUT15|Inverted yield curve, an inverted yield curve, inverted yield curve.
+NEUT16|So what the hell is this line?
+NEUT17|It all starts with the US Treasury bond.
+NEUT18|A bond is basically an agreement saying if you lend the federal government say $100.
+NEUT19|They'll pay you interest while they hold on to your money until the date they agreed to pay you back, and the longer you let the government keep your money, the higher the interest rate.
+NEUT20|So you get more money.
+NEUT21|Next you need to understand that most people don't buy bonds from the government.
+NEUT22|They buy and sell them from each other in the secondary market.
+NEUT23|And the prices change based on how much demand there is for a bond.
+NEUT24|What what, what, what, what?
+NEUT25|This basically means that the amount of profit you can make on each bond changes every day.
+NEUT26|So the basic rule holds if you let the government keep your money for longer, you'll yield more money.
+NEUT27|Trace these bars on any given day and you get a curved line showing the yields of different bonds.
+NEUT28|Or what people called the yield curve and normally it points upward.
+NEUT29|Now, here's where things get more complicated.
+NEUT30|Let's say you're an investor and you have a hunch that an economic downturn is coming in the near future.
+NEUT31|If your hunch is correct, that means that if you buy a two year bond, you might get your money back in a bad economy, and there might not be anything good to reinvest in that makes a two year bond a lot less attractive to you.
+NEUT32|And if lots of other people think this way, then the demand for two year bonds plummets, so they start selling for cheaper.
+BULL33|But because the two year bond now costs less, it yields a better return relative to that low cost.
+NEUT34|And at the same time, investors who think a downturn is coming might think I'd rather invest in a 10 year bond that pays out way later when I think the economic downturn will be over so that bond gets more popular, but it also gets more expensive.
+BEAR35|So investors start yielding less money.
+BEAR36|And if enough investors are acting on this expectation, the yield on a long term bond which is almost always higher than a short term bond can actually dip lower.
+NEUT37|And if you draw that yield curve, you can see that it goes in the other direction, it inverts.
+NEUT38|In other words, when this chart looks like this, it means investors think an economic downturn is probably coming in the near future, and that's what's happening now.
+NEUT39|So is a recession coming?
+NEUT40|Not necessarily.
+NEUT41|But when we redesign the chart so we can see all the years on a single screen, it's pretty safe to say when the yield curve inverts.
+BEAR42|"It's not a good sign."""

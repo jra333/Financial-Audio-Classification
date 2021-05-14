@@ -1,0 +1,22 @@
+NEUT0|"""Marriage involves a legally defined set of rights and obligations, but unmarried cohabitation does not."
+BEAR1|This can result in unexpected and unwanted consequences in the event of a breakup, unless some planning is done.
+NEUT2|Consider keeping your assets separate, especially in the early stages of your cohabitation.
+NEUT3|Many people find it a good idea to keep separate checking accounts, even if they also use a joint account to pay household expenses.
+BEAR4|It's wise to drop an agreement that addresses each partners financial responsibilities.
+NEUT5|This will ensure that both partners are on the same page.
+NEUT6|Try to avoid contributing money to the purchase of assets like homes or cars and less.
+NEUT7|It's formally titled.
+BEAR8|In both of your names, it's probably a bad idea to buy a house together unless you have a degree of commitment on par with marriage.
+NEUT9|If the two of you decide to buy a house together, in most cases, fairness will dictate that you both should pay the mortgage.
+NEUT10|There are two very different options for ownership joint ownership with rights of survivorship and tenants in common joint ownership with rights of survivorship is typical for married couples.
+NEUT11|It means that if one of you dies, the other automatically becomes the sole owner of the property, regardless of whatever the deceased partners will might say.
+NEUT12|Being tenants in common means that each of you owns half of the House with either form of ownership.
+NEUT13|It's crucial for both partners to have a written agreement unlike married couples, unmarried couples can't file joint tax returns.
+NEUT14|If you and your partner have bought a house together with a mortgage loan, you will face the issue of who will get to claim the deductions for interest and property taxes.
+NEUT15|To do this, you must itemize deductions.
+NEUT16|One option is to split the deductions and half the other option is to allow one partner to claim all the deductions.
+NEUT17|If you're going with the second option and one partner earns significantly more, allow that person to claim the deductions, since they will benefit more.
+NEUT18|From extra tax savings, if you live with your partner, you may also claim head of household filing status.
+NEUT19|If you support a child and take child and dependent care credits.
+NEUT20|Your partner can also be claimed as a dependent provided you support most or all of their needs.
+BULL21|"Stay financially fit friends."""

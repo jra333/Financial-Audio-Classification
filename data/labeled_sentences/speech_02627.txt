@@ -1,0 +1,16 @@
+BEAR0|"""Lena, what happened to the 10 year in the US?"
+NEUT1|We're at 2.292 now.
+BEAR2|Is it being dragged lower by Italy for example, or is there something else going on here?
+BULL3|Vani I think the 10 year US yield is a key indicator to me.
+NEUT4|It is the new Vicks because he's a great gauge of where we are in the risk cycle where we are on the growth cycle where we are in terms of US fundamentals and where we are in terms of use versus global growth fundamentals is really the litmus test of market confidence.
+BEAR5|What we've seen now is the 10 year basically moving below the Fed Fund range range which which really means a decoupling between financial conditions in the US and the Fed's monetary regime towards a global list view.
+NEUT6|Yes, of course.
+BEAR7|The return to stress that we still have stressed to Europe's periphery through the return of political risk, as highlighted by this European elections, but also of course with the return of fiscal risk of credit risk back into European fixed income markets, is a destabilizer for portfolios that have very much counted on high yield performance this year to perform well.
+BEAR8|So in that respect I think the drop of the US Treasury yield is an indicator of growing uncertainty, heightened political risk international.
+NEUT9|But also I think an indicator of the health of the risk balance of buyside portfolios after.
+NEUT10|Let's face it, the first half of the first quarter this year.
+NEUT11|That really really very much wrote the thing.
+NEUT12|The checks for the rest of 2019.
+NEUT13|If we're lucky.
+BULL14|I think if we're lucky we're going to see some sideways training here, and no further escalation of risk.
+BULL15|"But it's quite clear now that we're past that cyclical peak for earnings and the cyclical trust for credit spreads, and that means that US 10 year yields are going to be very well supported here."""

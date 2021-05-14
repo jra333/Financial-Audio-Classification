@@ -1,0 +1,34 @@
+NEUT0|"""Either Jason Moser analyst with Motley Fool, One thanks for joining us for another edition of Ask a fool today, we're taking a question from Toby."
+NEUT1|Toby asks what is your foolish take on intraday trading or day trading?
+NEUT2|So Toby, if you followed us here at The Motley Fool for any amount of time, I'm sure you probably know for the most part, we don't really smile too brightly.
+NEUT3|On day trading.
+NEUT4|It's not something that we do.
+NEUT5|It's not to say that.
+NEUT6|You can't make money from day trading.
+NEUT7|It's certainly possible.
+NEUT8|There's no question there.
+NEUT9|However, what we try to look when we look at investing, we try to find the most sustainable way to be successful.
+NEUT10|When it comes to investing.
+NEUT11|When you look at day trading, it's almost the flip of a coin.
+NEUT12|It's kind of like gambling really.
+NEUT13|You just never really know what side the coin is going to come up, and so for us really, day trading simply doesn't seem like it's a very sustainable investing strategy.
+NEUT14|Therefore we don't do it.
+NEUT15|You think about the costs involved with investing.
+BEAR16|There are lot of frictional costs that come with day trading in particular.
+NEUT17|You're paying money every time you buy or sell a stock in the form of a Commission.
+NEUT18|An in day trading really implies a short term holding and you're going to pay over the course of time.
+BEAR19|Those short term capital gains taxes as well, and that can really be debilitating.
+BEAR20|We've we've seen many stories where investors didn't even take that in consideration, and then the tax bill comes and wipes them completely out.
+NEUT21|So really, it's just not a sustainable strategy.
+NEUT22|I think what you'll see with earnings season here coming up.
+NEUT23|Pay attention to earning season here because I think it's really interesting to note.
+BULL24|The companies that are doing really well.
+NEUT25|They can announce a great quarter and then the stock sells off the following day.
+NEUT26|It seems like it should be the opposite, but maybe there's a concern with the way the future looks for this company or whatever.
+NEUT27|My point is though that with earning season we see a lot of volatility and it's not always so obvious which way the stocks are going to go.
+NEUT28|And I think that's just another argument as to why day trading really a sustainable investing strategy.
+NEUT29|So follow us along here.
+NEUT30|Fool.com I think we have plenty of material out there to support the fact that long term investing is the more sustainable way to go about it.
+NEUT31|It's a lot of fun to you'll learn a lot in the process.
+NEUT32|This great question.
+NEUT33|"Thank you for asking it and For more information, make sure to check out full com."""

@@ -1,0 +1,24 @@
+NEUT0|"""Hello everyone, before moving onto the video we ask you to support us and subscribe to our channel please."
+BEAR1|Doge coin price shows a failure to hold above the bull flags breakout point at 0.055 dollars.
+BEAR2|This lack of buying pressure has caused a pull back into the consolidation zone.
+BEAR3|Now Doge faces a bearish outlook that could result in a steep correction.
+BEAR4|This lack of buying pressure has caused a pull back into the consolidation zone now.
+BEAR5|The ongoing sell off of the Litecoin prices because of the overall underperformance of the crypto sector in the past few days, most cryptocurrencies have fallen sharply after Janet Yellen criticized Bitcoin.
+BEAR6|Also a statement by Elon Musk that Bitcoin and ether were expensive turned many investors off.
+BEAR7|Litecoin price is also falling because of the rising Treasury yields in the United States and other developed countries.
+NEUT8|High yields tend to be a sign that investors have high expectations for inflation and interest rates.
+NEUT9|As a result, many investors are now moving from the relatively riskier assets, including technology companies.
+BEAR10|Turning to the daily chart C2 things first, the Litecoin price has formed an ascending channel and is currently near its lower side.
+BEAR11|Second, during the current decline, the price has remained above the 100 day EMA.
+BEAR12|It is also struggled to move below the 50 day EMA.
+BEAR13|Therefore, in the view, while there is a major risk of more weakness, the price is still in an overall bullish trend.
+BEAR14|Traders should watch out for any moves below the lower side of the channel at this week's low of $160.00.
+BEAR15|The next key danger point to watch is the 100 day EMA at $142.
+BEAR16|The next key danger point to watch is the 100 AM at $142.00.
+BULL17|If it moves below these two, it will send a signal that bears are in control and that more weakness could be ahead.
+NEUT18|Don't forget to subscribe to our channel and open notifications to learn more about gold dollar, Euro commodities.
+NEUT19|Bitcoin altcoin crypto currencies and other investment tools.
+NEUT20|In this video, reference is an opinion and is for information purposes only.
+NEUT21|It is not intended to be investment advice.
+NEUT22|Every investment and trading move involves risk.
+NEUT23|"You should do your own research while making a decision."""

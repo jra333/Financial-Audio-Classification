@@ -1,0 +1,26 @@
+NEUT0|"""We'll have those stories and more in just a moment, but we begin with the numbers that are getting a lot of attention across the world."
+NEUT1|You are looking live at.
+BEAR2|The Dow has been up and down for most of the morning.
+NEUT3|Certainly a big concern for investors and many of us with 401K's.
+BULL4|Thank you for joining us this midday I Mandisa Rd.
+BULL5|Good morning to you.
+NEUT6|I'm Sarah donche.
+BEAR7|Wall Street was thrown into a tailspin yesterday when the Dow plummeted more than 1100 points.
+NEUT8|Gentle tease.
+NEUT9|Kathy Hernandez joining us live from the University of Houston, where she spoke with an economics professor about all of this.
+NEUT10|Kathy good morning.
+BEAR11|Well, good morning, the Dow opened this morning, 567 points down, but it has started its recovery process even with the record lows.
+NEUT12|Yesterday, a professor here at U of H says no one should panic but as an individual investor we shouldn't be too worried.
+NEUT13|And a year and a half from now or so, the stock market is going to make up the loss.
+NEUT14|Most likely that's a word from longtime U of H economics professor Doctor Steven Craig.
+NEUT15|That was the opening Bell Tuesday, a day after a brutal day on Wall Street.
+BEAR16|The Dow tumbled the record 1175 points on Monday, the 4.6% plunge was the indexes worst day since August 2011 and knocked it into the red for the year.
+BEAR17|That drop is due to concerns over rising interest rates and wages and high inflation.
+NEUT18|Doctor Steven Craig says the main role in any investment just to be patient, which is hard when you have stuff like this at 5%.
+NEUT19|Oh no, but a year ago it still up, and so you know, that's where the patience comes.
+NEUT20|I.
+NEUT21|And Doctor Craig says another reason, maybe the tax cut from the federal government.
+BULL22|Just as the economy was starting to do well, many financial analysts had said this was coming.
+NEUT23|Window was unpredictable, will of course keep watching and keep you updated on air and online.
+NEUT24|It click2houston.com or putting live on the UH campus.
+NEUT25|"Kathy Hernandez KPRC Channel 2 news."""

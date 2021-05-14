@@ -1,0 +1,14 @@
+BULL0|"""In the latest Chinese Mega IPO, Postal Savings Bank of China raised over $7 billion Wednesday after pricing the deal toward the bottom of the proposed price range."
+BULL1|That makes the Chinese banks IPO the world's largest this year and the biggest since Alibaba's $25 billion offering two years ago.
+NEUT2|Big scale Postal Savings Bank takes deposits and makes loans through more than 40,000 branches across China.
+BULL3|From Losa to Beijing, its network is tide to the national Postal Delivery Service, giving it the widest reach among Chinese state banks.
+BULL4|Global backers, investors including JP Morgan, bought into China's Postal Savings Bank ahead of its IPO in a fundraising round.
+NEUT5|A slew of global investment banks are working on the IPO deal and will earn fees from arranging the offering cornerstone investors.
+NEUT6|The initial public offering itself has a decidedly more Chinese flavor.
+NEUT7|The bulk of the IPO's, $7 billion, is coming from big domestic Chinese firms who have ties to the Chinese government premium to peers.
+BEAR8|China's Big Four state banks all traded a discount to their book value.
+NEUT9|But Postal savings banks price its IPO above book value at 4.76.
+NEUT10|Hong Kong dollars per share.
+NEUT11|What's next?
+BULL12|China's Postal Savings Bank was able to pull off the world's biggest IPO with the help of friendly Chinese investors.
+NEUT13|"The big test will be whether Postal Savings Bank can keep its premium valuation and shares start trading in Hong Kong on September 28th."""

@@ -1,0 +1,32 @@
+NEUT0|"""The countdown is on to tomorrow morning and Facebook and one of the biggest public stock offerings in history."
+NEUT1|They're calling it Mardi Gras on Wall Street.
+NEUT2|But can the small investor really make a fortune?
+NEUT3|ABC Sharon Alphonsi outside NASDAQ right now, Sheriff.
+NEUT4|Well tonight we know the opening price of one of the most coveted stocks in years is going to be $38.00 and to give you a little perspective, that means tomorrow night at this time Facebook founder Mark Zuckerberg is going to be worth 7 times more than Oprah and 40 times more than Queen Elizabeth.
+NEUT5|He's a regular looking guy in a hoodie, but by tomorrow at this time Facebook founder Mark Zuckerberg could be worth a way beyond regular $20 billion.
+NEUT6|Millions of Facebook users are hoping to share in the windfall people like Jerome Cleary who's never bought a stock in his life.
+NEUT7|I've read things that say you should invest in companies you like or know, and I know this company very well, but he'll have to wait some 90% of the shares will be available only to the mega wealthy, even the 10%.
+BEAR8|Sold through discount brokers will be tough to get.
+NEUT9|Ameritrade is requiring customers have $250,000 in their accounts, Fidelity 500,000.
+NEUT10|The rest of us will get a chance to buy it later in the day as those lucky first buyers turn around and sell for a profit.
+BULL11|Some analysts think that $38.00 opening price could double or even triple in hours.
+NEUT12|So should we buy in?
+NEUT13|There's no way I'd buy Facebook tomorrow if I'm an individual investor first of all.
+NEUT14|The institutions have gotten there first, and we're getting their sloppy seconds.
+NEUT15|There are big questions about how Facebook will turn its huge membership into huge profits.
+NEUT16|One of the biggest advertisers.
+BEAR17|GM just pulled all its add $10 million worth saying the ads just don't work, but that hasn't dampened the Facebook frenzy with buyers.
+NEUT18|Hoping this stock is the next Apple.
+NEUT19|If you bought just 10 shares of it on opening day, your $220 would now be worth more than $44,000.
+NEUT20|10 Shares of Amazon worth more than $27,000 today.
+NEUT21|And if your grandmother picked up 10 shares of Johnson and Johnson back in the day, it would be worth more than $10 million today.
+NEUT22|So what do you do the night before you become a millionaire or one case a billionaire?
+BULL23|Well, Facebook, they're going to be working.
+NEUT24|And Diane, I know you've been to one of these events before.
+NEUT25|It's one of the 24 hour hackathons they called us basically an all night creative session where they stay off working on new ideas.
+NEUT26|That's where they came up with the idea for that like button, so that's what they plan to do.
+NEUT27|They're going to keep working through the night until the morning when Mark Zuckerberg rings the opening Bell.
+NEUT28|Facebook frenzy begins.
+NEUT29|Alright, that was me hiding behind the hackathon T shirt.
+NEUT30|I remember a lot of beer that was then there, going to be a lot more Kings tonight.
+BULL31|"Thank you, Sharon alphonsi."""

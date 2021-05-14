@@ -1,0 +1,19 @@
+BEAR0|"""Hassled sounding UK based broker."
+NEUT1|Has been trying to get clients excited by Odic a Japanese small caps specialist in home and office lighting.
+BEAR2|It trades below book value.
+BULL3|It shows a return on equity of 13.5% and offers a lovely 3.5% dividend yield in a negative interest rates world.
+NEUT4|That's three tix for odor lick.
+NEUT5|It's quite plausible that non Japanese investors the foreigners who represent 3/4 of daily trade on the Tokyo Exchange, will take the brokers advice.
+NEUT6|Aduli run a slide rule over the Prophet minnow.
+NEUT7|The bigger issue, as the market counts the many gashes in the ABBA Nomics project, is whether the Japanese themselves will take the bait.
+NEUT8|The broker is hardly alone in pleading Japanese stocks probably deserve a rethink.
+BEAR9|After a dismal start to 2016.
+NEUT10|There are various routes to the Japan oversold conclusion.
+NEUT11|You've got straight up optimists who see Japan as a slow burning profit scape of rising wages and virtuous circles.
+NEUT12|You've got chart watchers who track corporate profits against the yen since 1971 and proclaimed that since the formula is remarkably indifferent to the latter, the currency's role in the stock price is overdone.
+NEUT13|And you've got contrarians who look at the most recent Bank of America, Merrill Lynch Global Fund Manager Survey.
+BULL14|See the highest portfolio cash levels since 2001 and slap an unambiguous buy on risk assets like Japanese stocks.
+NEUT15|But the strongest argument for a rethink once all the negative interest rate induced ructions become an accepted part of the scenery.
+NEUT16|Maybe the negative interest rate itself and the havoc it is wreaking with the kind of conservative investment products that Mrs Watanabe had become used to.
+BULL17|The nurse was a stern reminder from the Bank of Japan that Japan has gone all in on the bet that it can break deflation and restore growth.
+NEUT18|"A huge part of that wager in now merges involves creating circumstances where the 3.5% dividend yields on Hodulik even when the stock market is having fits is absolutely irresistible to a Japanese saver."""

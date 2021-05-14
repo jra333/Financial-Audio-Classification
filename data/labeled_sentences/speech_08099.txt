@@ -1,0 +1,22 @@
+BEAR0|"""Once again, Brazil is gripped by crisis prosecutors accused President Michel Temer of running a criminal organization last week."
+NEUT1|The voters want him out.
+NEUT2|His approval rating is just 5%.
+NEUT3|He is clinging to office by the skin of his teeth.
+BULL4|And yet, Brazilian stocks are on a surge, up 22% in local currency terms this year and another 4 1/2% in dollars.
+BULL5|It's not just that the economy is returning to growth after a recession that knocked nearly 8% of GDP in 2015 and 2016.
+BULL6|Investors also believe Mr. Temer, despite the turmoil, is delivering on reform and in many ways they are right.
+NEUT7|His government has put a cap on public spending.
+NEUT8|It is streamlined labor laws.
+BULL9|It has brought in better governance at state companies, especially at Petrobras.
+NEUT10|The scandal stricken oil company.
+BULL11|This month it brought in a landmark reform of subsidized public lending, which promises to end a system that costs taxpayers 10s of billions of rials a year.
+BEAR12|And many argue has stymied investment and growth for decades.
+NEUT13|These are all big changes and all to the good.
+NEUT14|The problem is they do not address Brazil's fiscal deficit, just to balance its books.
+BULL15|The government needs to deliver a fiscal adjustment equal to about 6% of GDP.
+NEUT16|That is a massive task and nothing that has been done comes close.
+NEUT17|The spending cap notwithstanding, no spending has been cut, and very few, if any, cuts have been proposed.
+BEAR18|Politicians say their hands are tide because about 85% of the national budget is pre allocated by the Constitution.
+BEAR19|Investment has already been cut to the bone and even faster growth wouldn't help there because of the spending cap.
+NEUT20|The Constitution, of course can be changed, but nobody is proposing that and there is no appetite for it.
+BULL21|"That puts a big question mark over future growth and over investors optimism."""

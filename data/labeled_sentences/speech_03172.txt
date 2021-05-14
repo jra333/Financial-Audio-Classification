@@ -1,0 +1,22 @@
+NEUT0|"""Now we've just got the minutes from the Federal Reserve's last meeting and Yahoo Finance's Brian Chung has taken a first look, Brian."
+NEUT1|Break it down for us.
+NEUT2|Well, the minutes from the Federal Reserve's March 17th meeting are out, and it seems like Fed officials were really not all that close in that meeting to wanting to change anything in their policy stance, you'll recall that about three weeks ago, the Federal Reserve in that meeting held interest rates at near 0 and continue to press forward on its $120 billion a month.
+NEUT3|Pace of asset purchases.
+NEUT4|The Minutes saying that a number of officials, or rather the Epilepsy Committee at large, noted that a benefit of the guidance that it provided up until that point was that it didn't need to be re calibrated.
+NEUT5|Tin, or frequently in response to changing data or the evolving outlook.
+NEUT6|For that reason, the Federal Reserve didn't change much in the statement itself, and we did see that was despite the fact that a lot of the economic outlooks got brighter for the participants at large.
+NEUT7|Recall the dot plots, which showed some more optimism that maybe there could be a rate hike as soon as 2022.
+NEUT8|Although the median member of that committee still saw no rate hikes through the end of 2023, a few other things in this minutes that are worth watching things like.
+BEAR9|The participants saying that they still feel like the economy is far away from its longer run goals and number of them saying specifically on the labor market front with millions still on the sidelines, they don't see themselves as anywhere close to maximum employment as of right now on the inflationary front.
+BEAR10|Some interesting commentary saying that they do expect some short term pressures that could take inflation above its 2% target.
+NEUT11|There are a number of compositional effects and also supply chain related issues that could cause that, but they did say that they expect those to be.
+NEUT12|Transitory and they expect those factors to fade.
+NEUT13|In fact, some participants said they would expect that annual inflation measures would end up edging down in 2022, and that's another translation for saying that reserves not going to see inflationary pressures anywhere where it would be challenging or alarming enough for the Federal Reserve to try to move quicker on raising rates in any way.
+NEUT14|And then one last thing that's worth mentioning.
+NEUT15|Obviously, bond yields rising up since the beginning of this year was a hot topic added into that March meeting.
+NEUT16|The Federal Reserve officials saying that.
+NEUT17|They weren't really considering any sort of tightening or change to its monetary policy.
+NEUT18|In response to that, saying that the only thing that would make the move is if they saw quote disorderly conditions in Treasury markets, which some Fed officials said they saw as possibly jeopardizing progress, but only if they did see that so very interesting stuff on that front from the FOMC minutes, which just broke a few minutes ago.
+BULL19|Alright, thanks so much Brian Chung for breaking all of that down and so quickly too.
+NEUT20|As you mentioned, you were able to read through that in just about 5 minutes here and break that down for us.
+BULL21|"Thanks as always."""

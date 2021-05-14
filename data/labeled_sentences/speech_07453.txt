@@ -1,0 +1,11 @@
+BEAR0|"""Well, Tyler, the headlines that are moving the market lower from the Wall Street Journal, which says that China is now bulking at putting a specific dollar figure of agricultural purchases into the deal text."
+NEUT1|Remember this was supposed to be a goodwill purchase as part of a deal that was primarily centered on intellectual property protections and stopping China's practice of forcing technology transfers.
+BEAR2|But it appears that talks have hit a snag on these farm purchases.
+NEUT3|According to both US and Chinese officials.
+NEUT4|That are cited in this Wall Street Journal story, part of the Journal Story.
+BULL5|We do have confirmed in that is that the US had been asking China to make stronger commitments to stop an police.
+BULL6|These forced technology transfers and in exchange for doing that they would rollback some tariffs and that China had been bulking at that and had not necessarily in recent days been willing to make those specific commitments.
+NEUT7|But the Journal putting a pretty fine point on it, saying that China is bulking at some of these requests and specifically Tyler not committing to that dollar figure of agricultural purchases.
+NEUT8|Which President Trump said would be 50 billion.
+NEUT9|In dollars, that seems to be the priority of the president, and certainly something he hopes to secure first and foremost.
+NEUT10|"As part of this deal."""

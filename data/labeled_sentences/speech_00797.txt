@@ -1,0 +1,24 @@
+NEUT0|"""Alright, just after 10:00 o'clock here in New York City."
+NEUT1|On this Thursday morning, welcome to Yahoo Finance Live miles open here.
+NEUT2|Joined as always by Brian Sozzi and Julie ***** on this very a special addition of our two hour program inside the C-Suite.
+NEUT3|What's the count?
+NEUT4|7-8 guests, C-Suite guests coming up over the next or we're coming up over the next couple of hours.
+NEUT5|Already talked to four so far, few more coming up later on in this hour.
+NEUT6|Let's take a look first at what's happening in the markets today.
+NEUT7|We can see all three majors.
+BULL8|Are higher but off session highs not doing a whole lot, and as that continues to be the relative leader, Jerrod Blicker, talking earlier about we've seen in both the NASDAQ and the Russell two, and a lot of the leading as of late within the market.
+BULL9|But things do seem to be calming down just a little bit.
+NEUT10|After all the craziness we saw with GameStop, but it doesn't really mean there are no meme trades out there.
+NEUT11|Will get into that in just a minute.
+NEUT12|Do you want to talk a bit about what's happening in Bitcoin?
+NEUT13|But very exciting week as it always is for the cryptocurrency news out?
+NEUT14|Earlier today that BNY Mellon would begin basically holding Bitcoin and the quote that they gave to the Wall Street Journal is that they would treat it like any other assets.
+NEUT15|So I think a couple of different ways to maybe read that one.
+NEUT16|But my read on this story was certainly that they're getting questions from their high net worth individual clients about how they can buy Bitcoin, and this move seems prompted by that dynamic again, at least as far as I'm interpreting that story, and I think that's really going to be a big part of how Bitcoin becomes.
+NEUT17|A more mainstream Wall Street story is individuals saying I would like to own this.
+NEUT18|Please help me do that and we start to see some of the outlines.
+NEUT19|Their Fidelity is in the space a little bit already and now we see Mellon getting in the mix there.
+NEUT20|49 forty 7900 on Bitcoin and of course who could forget Elon Musk earlier this week putting billion and a half on Tesla's balance sheet over CEO Derek as of Shahe asked about buying Bitcoin on the call last night and I guess that's now a question.
+NEUT21|If you're the CEO of a tech or tech adjacent business, you will be.
+NEUT22|Asked when are you also going to buy Bitcoin?
+BULL23|"So certainly exciting times for all of those folks."""

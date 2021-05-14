@@ -1,0 +1,22 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|February 23rd.
+NEUT2|In today's NEO stock analysis and predictions, big company loads up on NIO.
+NEUT3|Alright, let's get started.
+BEAR4|Shares of NIO fell 6% in premarket and rose up back 8% at the end of closing on Tuesday.
+NEUT5|Although the stock was down, a big Corporation took time to load up.
+BEAR6|More on Nio Chase Bank to be specific, added more positions within NIO as the stock dip in premarket trading.
+NEUT7|According to Chase, an iOS dip was an opportunity to buy and buy they did without hesitation, although estimates the amount of the transaction was not disclosed.
+NEUT8|It is said that Chase added $3 million worth of positions within any.
+NEUT9|Chase has been a big fan of NIO for a long time.
+NEUT10|Several of their active exchange traded funds have substantial Holdings in the stock.
+NEUT11|It is said that Chase has almost 10% of their assets invested in the electric automaker.
+BEAR12|Early on, chase trimmed their positions in Nio's.
+NEUT13|It was just a penny stock at the time, but it seems that Chase has reversed their course and taking advantage of the share price declined to buy back some of the shares they once sold when the company became public last month, Chase bought more than 85,500 shares of NIO on Friday.
+NEUT14|Representing about zero point, 3% of the funds total assets.
+NEUT15|That's what's been happening this week in the world of Neo.
+NEUT16|Stock analysis and predictions.
+NEUT17|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT18|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL19|We'd really appreciate it.
+NEUT20|Are you still watching and want more?
+NEUT21|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

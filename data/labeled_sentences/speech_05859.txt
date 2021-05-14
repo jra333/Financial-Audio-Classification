@@ -1,0 +1,9 @@
+BEAR0|"""Problem affects empire."
+NEUT1|This is Chris taking a look at the S&P 500 and you can see that the S&P 500.
+BEAR2|Has rallied but gave back about half the gains in order to show a little bit of exhaustion an now I think 3000 ends up being a little bit of a floor, maybe down to about 2950.
+BULL3|This barrier here, I think offers plenty of support.
+NEUT4|Now if we give 2800 away.
+BEAR5|That's hugely negative, and it's probably a continuation of what we saw over here.
+NEUT6|We need an event for something like that to happen.
+NEUT7|I think in the short term is buying on the dips the potential event, though.
+BEAR8|"Beijing's being locked down in bits and pieces because of coronavirus infections yet again."""

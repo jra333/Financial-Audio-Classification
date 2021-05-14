@@ -1,0 +1,31 @@
+NEUT0|"""As a Reporter covering the Federal Reserve, I gotta question all the time about inflation."
+NEUT1|Even for my own father.
+NEUT2|Why does the Fed ignore food and energy prices?
+NEUT3|Well, let's take a look at that.
+NEUT4|the Fed is in charge of managing the nations money supply.
+NEUT5|It pumps dollars into and out of the economy.
+NEUT6|As consumers, we want to know that the value of our money is holding up the Fed pumps too many dollars in that dollar.
+NEUT7|In your wallet won't go as far.
+NEUT8|Because prices will start rising for everything.
+NEUT9|Think about all the goods and services that you buy over the course of a year, hamburgers.
+NEUT10|Gasoline clothes haircuts.
+NEUT11|It's a very long list and it goes on the government tracks all these prices and comes up with an index to see how they move every month.
+NEUT12|It's weighted by how much of your budget goes to these items.
+NEUT13|Garbage collection in most family budgets gets .271%.
+NEUT14|Doctors visits 5.8%.
+NEUT15|Keeping that roof over your head gets more than 30% of your annual budget, and food and energy make up 24% of the average family budget.
+NEUT16|That's a pretty substantial amount, yet sometimes you hear economists talk about inflation, excluding food and energy.
+NEUT17|Now, that seems strange, doesn't it?
+NEUT18|Everyone has to eat.
+NEUT19|We all have to go places.
+NEUT20|Why would economists ignore it?
+BEAR21|It's because food and energy prices are volatile.
+BEAR22|They get pushed around more than many other items by droughts.
+BEAR23|Or political mayhem thousands of miles away.
+NEUT24|Economists think they get a better sense of where inflation is heading in the long run.
+NEUT25|By looking past short run ups and downs, does the Fed ignore food and energy?
+NEUT26|It does look at these trends.
+BULL27|Actually, though, its official target is steady, 2% increases in consumer prices across all items, including food and energy.
+NEUT28|This idea that it ignores food and energy actually isn't right.
+NEUT29|So Dad and everyone else.
+NEUT30|"That's your inflation, 101."""

@@ -1,0 +1,10 @@
+NEUT0|"""Hello and welcome to this technical analysis video for Tuesday, April 2nd and Christina Barton, investment analyst, and today we will be looking at the British pound versus the US dollar."
+BEAR1|While the British Parliament is still struggling to find a majority for any alternative Brexit deal, so assuming into the daily chart we can see that pound dollar is trading back on the downside today after finding resistance around 1.31 yesterday at their side continues to fluctuate.
+BEAR2|Around each of 15 neutral mark suggest suggesting that the pair could follow a sideways move in the short term, but since the indicator seems to be weakening slightly, and given that the Mac D continues to stretch below its red signal line, any negative territory, we could say that the risk could be shifting to the downside of the market.
+BEAR3|Indeed, hits lower the 200 day moving average currently at one point 2974 could provide immediate support, while below that one point 29 and one point 2830 could restrict.
+BEAR4|Bearish action, however, the price slides below 1.28 and, more importantly, under one point 2772.
+BEAR5|Then the upward pattern in the medium term picture could come into question.
+BULL6|Otherwise, if the market resumes positive momentum then we could look for resistance initially at one point 31 or higher.
+BEAR7|The area between one point 3173 and one point 3256 could prove more difficult to get through, though only a rally above one point.
+NEUT8|33 could bring confidence for a bull market back into life, so those are from him.
+BULL9|"Thank you for watching and have a great day."""

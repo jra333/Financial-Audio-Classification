@@ -1,0 +1,27 @@
+BEAR0|"""Stewart, should investors, expect really wild swings in the S&P 500."
+NEUT1|Once once Tesla is added.
+NEUT2|You know our view is that the index level.
+NEUT3|It won't be a huge impact.
+NEUT4|We went through the process of saying you know what would S&P 500 realized volatility have been had?
+NEUT5|Tests have been a member for the last couple of years and frankly the impact was, you know, .1 ballpoints it was.
+NEUT6|It was a very small impact and the largest it got was was less than one one percentage point of volatility.
+NEUT7|So at the index level we don't think it's going to be as big an impact on volatility.
+NEUT8|How it impacts sector sector or index performance though.
+NEUT9|You know might be different than that.
+NEUT10|If you look at consumer, the consumer discretionary sector.
+NEUT11|For instance, if you would had Tesla as a member of that sector this year, that would have had a fairly significant impact on the realized volatility of the sector would have increased it by about a point and a half, and at some points as much as six points.
+NEUT12|And just for reference, that's on a base of about 25, so it could have a very significant impact at the sector level, though we don't expect it at the S&P 500 level to be to be disruptive from a volatility perspective.
+NEUT13|And so it's sort of a market mechanics question around Tessa.
+NEUT14|We keep hearing about how much money is going to move around that rebalancing.
+NEUT15|I'm curious how much is happening in advance through options.
+NEUT16|If you are seeing any of that activity on the part of institutions as they set up for that index change.
+NEUT17|Yeah, it's a great question and I know I've seen a lot of estimates out there in terms of in terms of the rebalancing.
+BULL18|I think the positive news is this was pretty well flagged.
+BULL19|You know there was some discussion that Tesla would get at it earlier in the year and they pre announced the addition this time so hopefully fund managers have had had enough time to to at least begin to get themselves rebalanced into it.
+NEUT20|It's also been a very popular thematic stock so you may have a lot of investors that have owned this outside of outside of benchmark anyway, so.
+NEUT21|You know, could it be disruptive a bit I?
+NEUT22|I guess it could be, but I think in this case the fact that it's so well flagged and this has been such a popular quote unquote theme stock.
+NEUT23|Hopefully it wouldn't be so bad from an options perspective, all of these large cap tech stocks, whether they be you, know Google, Amazon, Tesla, Facebook are very, very popular from an options perspective, both retail accounts as well as institutional account.
+NEUT24|So you know you've definitely seen at periods of time a lot of options flows into those stocks.
+NEUT25|I'm not sure if those are to re balance or if that is just your sort of natural.
+NEUT26|"You know, high volume, large cap, step tech stuff we're seeing on the option side, so I think my answer to that would be we probably seen a bit of it on the option side, I think we've probably seen a significant amount of it on the cash side, and if you put those two things together, hopefully the addition later December will be, you know, a modest impact as opposed to something that's a little more disruptive, especially since that does get you pretty close to the holiday."""

@@ -1,0 +1,17 @@
+BEAR0|"""Well, this cooking thrilled to have you anwer a little mystified, because I have to admit when I see a stock that sells arguably at four times earnings, I think either somethings wrong with the way the stock market looks at or something's wrong with Finance of America."
+NEUT1|So could you please tell us in the hottest housing market why your stock is so inexpensive versus the entire group?
+NEUT2|Well, I think that the market has yet to fully appreciate who we are.
+BULL3|We were designed to be a diversified consumer lending business that would deliver great customer experience and that would grow cycle resistant earnings and the way we put the company together was purposeful.
+NEUT4|We picked three diversified lending segments.
+NEUT5|We have the fee for service business that you mentioned and a portfolio management group.
+NEUT6|When you put that all together.
+NEUT7|And recognize that a third of our revenue comes from non mortgage.
+NEUT8|In the fullness of time, people will appreciate the structure and listen.
+NEUT9|I think that could happen as early as the first quarter.
+NEUT10|Don't miss a second of mad money.
+NEUT11|Follow at Jim Cramer on Twitter.
+NEUT12|Have a question?
+NEUT13|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT14|Miss something head to madmoney.cnbc.com.
+NEUT15|Shepard Smith here.
+NEUT16|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,47 @@
+NEUT0|"""Quantum scape stock ticker symbol QS."
+NEUT1|What's going on with this name so far today?
+BULL2|It's 6% up $47 levels.
+NEUT3|Let's have a look at the support resistance levels and I'll tell you what.
+NEUT4|What do I think about this name?
+NEUT5|I'm going to zoom out a daily chart to look at more of a bigger picture.
+NEUT6|What's going on with this team so far?
+NEUT7|It's afternoon Monday, one hour until market close.
+NEUT8|In this stock, the only thing I'm watching for this name at this moment right here right now is this trend line.
+BEAR9|This trendline acted as a support right here, and we slipped below this trendline two sessions back right here, and it's trying to fight to get over this level.
+BULL10|If this stock stays above this level, then it can resume this uptrend year to date.
+BEAR11|Definitely it's up a lot, but from its all time highs of 132, this stock is down a lot.
+NEUT12|It's 60 percent 70%.
+BEAR13|I don't know, but it's a big drop from its all time highs so.
+BEAR14|Short term ultra short term, this stock is down trending of course.
+BEAR15|It's a bearish looking chart so far.
+NEUT16|Let's have a look at the moving averages and then we'll take a look at the option activity.
+NEUT17|What's going on there so I will move to moving averages?
+NEUT18|Let's have a look at the moving averages since this is, I believe, a new IPO.
+BEAR19|It hasn't been out there for more than 200 trading sessions, so it is below its 50 day.
+NEUT20|Moving average.
+BEAR21|So that's not a good sign for the short term momentum.
+BEAR22|And also it's below its twenty day moving average.
+NEUT23|So which is right here at $53 levels?
+NEUT24|And also if we take a look at the.
+NEUT25|Magdy it just crossed below 0, which saying that pretty much momentum is to the downside and RSI, indicating that we might see more of a pullback if it's not saying that it's oversold, yet we are still way above 30, so let's have a look at the option market right now.
+NEUT26|What's going on today on Monday option today stats we can see there's not too much of activity we can see right here.
+NEUT27|Today's volume so far.
+NEUT28|28,000 calls were purchased and 10,000 puts, so that's the volume little bit more bullish activity and let's have a look at the orders.
+NEUT29|What people are buying, what people are coming into.
+NEUT30|So a lot of these short term $50 Kohl's $50 calls from March 12 so I can tell this.
+NEUT31|Most of these guys are day traders.
+NEUT32|Their short term it's going to expire this week so.
+NEUT33|Nobody is buying long outside of the for the momentum for the stock like to predict words heading in the next month or two, I usually look at like long dated option activity, especially like big big size buying.
+NEUT34|I don't see any big purchases going forward, so a lot of them I do see one right here, 100 contract.
+NEUT35|That's not a big size $50,000 order 65 calls right there.
+NEUT36|And then there is someone March 2650 Dollar Call right here.
+NEUT37|But there are not that many big orders to the upside.
+NEUT38|So those are the levels I'm watching for this name.
+NEUT39|For the rest of the March and this this trend line is a crucial level for this dog to get over.
+NEUT40|If it wants to push a little bit higher.
+NEUT41|But if it stays below this stock short term, this is a short right there.
+NEUT42|Especially EV.
+BEAR43|Stocks have been downtrending as well and this is following pretty much.
+NEUT44|All of those stocks, so thanks for watching and don't forget to like the video.
+NEUT45|Subscribe to the channel.
+NEUT46|"See you in the next video."""

@@ -1,0 +1,39 @@
+NEUT0|"""Alright, well let's take a look at the Apple stock."
+BULL1|You can see Apple has formed a small red candle after yesterday's.
+NEUT2|Small green candle.
+NEUT3|So there's nearly no change for the price and no change for the volume, so it still keeps there.
+BEAR4|As we can see from the news headline, that volume Buffett has trimmed his holding of Apple I think is the reason for many.
+NEUT5|Institution.
+NEUT6|To go short or only keep the holding rating for Apple stock, so it's also the reason for the stock to keep within this tree trading range for so long time we can see.
+NEUT7|If we draw a line here.
+BULL8|We can see it has kept in this trading area.
+NEUT9|For very long time.
+NEUT10|So now we can see from the.
+NEUT11|The chart that we are stucked in these trading area.
+NEUT12|Phone from nearly the early September.
+NEUT13|Still not nearly modern two months.
+NEUT14|So in my opinion from the volume we can see.
+NEUT15|It's not a setting, but.
+NEUT16|There is no.
+NEUT17|Increase for the volume so it's not buying.
+NEUT18|If we change the chart into mid term, that weekly chart.
+NEUT19|We can see it clearly here.
+NEUT20|After the.
+BEAR21|Yet last week's the volume.
+BEAR22|Shop decreased for this week.
+NEUT23|There's only.
+NEUT24|A small green.
+NEUT25|Scandal here for this week.
+BEAR26|So the volume is very low for this week.
+BEAR27|For such a low volume is hard for the price.
+NEUT28|To go higher from here.
+NEUT29|So in my opinion.
+NEUT30|In short term.
+NEUT31|Apple is very unlikely to regain the leader of the US stock market, so if Apple cannot be the leader.
+NEUT32|Other stocks from other sections, like the energy of the financial.
+BULL33|Is very unlikely to be a sustainable leader, so the US share market.
+NEUT34|Has no leader.
+NEUT35|In a sustainable way.
+NEUT36|So the only way for the market to advance is to rotation from sectors to sectors.
+BEAR37|So it's the reason for the volatile is very high in recent days.
+BULL38|"Thank you."""

@@ -1,0 +1,13 @@
+BULL0|"""Andrew OK, Facebook reports revenue increased more than 50% for the fourth quarter in a row, beat forecasts for revenue, earnings and monthly active users and the stock drop."
+NEUT1|So what's going on?
+BULL2|Well, First off, Facebook just keeps making money hand over fist $7 billion in 1/4 is not a terrible thing, and it keeps beating expectations quarter after quarter consecutively.
+BEAR3|The issue here is Facebook revised its guidance lower thanks to the ad markets going to be tougher.
+NEUT4|It's worried about it.
+NEUT5|It just thinks it's going to extract less money from ads at a time when it's also investing in engineers, so it's not looking good, and so is the key thing that it has to kind of find ways to monetize the new things.
+BULL6|It's doing.
+NEUT7|Oculus VR.
+NEUT8|Even Instagram, which is under penetrated, believe it or not, and other things.
+NEUT9|It's not quite like that.
+BEAR10|That would be more of a Google situation for Facebook.
+BEAR11|It's really just, you know, it's big Engine is going to slow down a little bit in the next quarter.
+NEUT12|"An investors don't like that."""

@@ -1,0 +1,19 @@
+NEUT0|"""Let's turn our attention to what happened or is happening over in European markets today."
+NEUT1|Oscar Williams Group joins us now live from the UK.
+NEUT2|For more on that Oscar.
+BULL3|Mars we're having yet another strong day here in Europe.
+NEUT4|Most major indices are in the green.
+BEAR5|We are seeing some tail off of mental momentum.
+BULL6|However, the Footsie 100 here in London is the best performer, but it's up just 1%.
+BEAR7|Most other major indexes across Europe seeing gains of more of around half a percent, which isn't notably lower than we've seen over the past two sessions over the sector rotation that is marked a lot of the last two days continues.
+BULL8|For example, here in London, British Airways owner IAG is top of the Footsie as traders bet that this vaccine will Herald a return to international travel on on the subject of the Pfizer Bio N tech vaccine.
+BULL9|We've had news today that the EU has signed a deal to buy up to three million 300,000,000 doses of the vaccine candidate Pfizer CEO, saying this is the largest order to date.
+NEUT10|I should also.
+NEUT11|Mentioned as well.
+BULL12|We've got Goldman Sachs turning very bullish on European equities today.
+BULL13|There Alice said in a note that they think earnings per share for the Euro Stoxx 600 could rise by 50% next year and another 12% the year after that.
+NEUT14|However, that would still only just take us to pre pandemic levels.
+BULL15|Still a good sign nonetheless.
+BULL16|Yes, bullishness indeed.
+NEUT17|And by the way that Goldenview extends to the United States as well, which we're going to talk about in just a moment, Oscar.
+BULL18|"Thanks so much."""

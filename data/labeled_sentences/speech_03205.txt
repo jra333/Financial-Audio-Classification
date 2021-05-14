@@ -1,0 +1,5 @@
+NEUT0|"""Let's get to the final trades here Jim, would you say I'm taking a simple Apple look?"
+NEUT1|It's on a tear, but it's going to keep going.
+NEUT2|I'm going to go with what I talked about earlier.
+BULL3|China Sea QQQ, alright, JJ not **** but Coca-Cola looks nearly 52 week high again.
+BULL4|"Doc, Archer Daniels Midland Adm bought alright thanks Rob thanks Jay for joining us that does it for us."""

@@ -1,0 +1,37 @@
+BEAR0|"""Sad news to get to this morning."
+NEUT1|For that we're going to Steve Liesman this morning.
+BEAR2|Steve yeah, Carl, the economics really in the policy community have lost a giant.
+NEUT3|I think it's fair to say Alan Krueger, the former CEA chairman under President Obama.
+NEUT4|Also in the Treasury Department, Princeton economics professor, passed away, according to Princeton University, we have this quote we just got from Jason Furman, former CEA chairman himself, who I think does a very good job of describing the importance of Alan Krueger.
+NEUT5|And the quote says he brought us into a there's there's a shot of Allen.
+NEUT6|The quote says he brought us into a new era of empirical economics instead of just looking at data.
+NEUT7|Regression's Allen looked at natural experiments, and by that everybody talks about the first thing, the 1994 study he did on minimum wages where he looked at two actual communities side-by-side, one in New Jersey, one in Pennsylvania, a paper that is still cited today during the recent scandal about.
+NEUT8|Admittance to college is people go back to a paper that Allen wrote about the returns to education.
+NEUT9|He's done a lot of work on the opioid crisis, an awful lot of work on whether or not Americans are coming back to work.
+NEUT10|He was a foremost labor.
+NEUT11|Economist Alan Krueger will be well, remember, there's the quote there from Jason Furman.
+NEUT12|He brought us into a new empirical economics, looking not just at regression of data, but natural experiments.
+NEUT13|And I can also give you one other bit you may not know Carl, which is that Alan has a book.
+NEUT14|Forthcoming or had has a book for coming in June called Rock Onomics.
+NEUT15|What rock'n'roll can teach us about economics and I actually participated for an interview in that book that I know Alan was very very excited about.
+NEUT16|Using rock'n'roll to teach about just regular economics.
+NEUT17|That's so cool.
+NEUT18|I mean, Steve, it's shocking he was so young.
+NEUT19|58 years and guest on business television.
+NEUT20|Yeah, and I think that, as you mentioned, the definitive piece is really about minimum wage.
+NEUT21|And whenever you know people make and it's become a partisan issue.
+NEUT22|But really, he wrote it as you said in economics paper about it.
+NEUT23|The case for why higher minimum wages better they looked at his piece, which showed that the net benefits outweighed the costs, say in the fast food industry.
+BULL24|If you go up to a certain level on minimum wage, it helps the low wage workers and it helps the overall economy.
+NEUT25|And what's so interesting is how he did that.
+NEUT26|He found a community to communities one and pent in New Jersey with the higher minimum wage and one in Pennsylvania without it.
+NEUT27|And that was a kind of breakthrough, an idea, and Sarah.
+NEUT28|I will say that people have written 4 Anne against that paper, but the importance of the importance of Kruger is that everybody has to cite that paper in their argument against it.
+NEUT29|It was the definitive paper, and he's done a lot more since then and was still going on and always very excited and inspired about his work.
+NEUT30|And the possibility of economics to inform public policy.
+NEUT31|Princeton does say that they'll release some information regarding a public celebration of his life.
+NEUT32|Steve, that's right at a future date.
+NEUT33|Yeah, so we'll look for that, Steve.
+NEUT34|Thank you, Alan Krueger.
+NEUT35|Dead at 58.
+NEUT36|"I'll be right back."""

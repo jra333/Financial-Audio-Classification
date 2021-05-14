@@ -1,0 +1,25 @@
+NEUT0|"""House Speaker Nancy Pelosi Reuters Yuri Griep is House Speaker Nancy Pelosi has up to $1,000,000 riding on Tesla's future success."
+BEAR1|The politician by 25 call options on shares in Elon Musk's electric vehicle company.
+BULL2|Pelosi also made bullish wagers on Apple and Disney, and purchased AllianceBernstein stock.
+NEUT3|Visit Business Insider's homepage for more stories.
+BEAR4|House Speaker Nancy Pelosi has placed up to $1,000,000 worth of bullish bets on Tesla stock.
+NEUT5|She revealed in a financial disclosure form last week, Pelosi bought 25 call options on Tesla stock with a strike price of $500 and an expiration date of March 18th, 2022.
+NEUT6|She, or more likely her husband.
+NEUT7|Paul Pelosi, who runs an investment firm spent between $500,001.00 in $1,000,000 on them on December 22nd, Read more Bank of America by these 31 unheralded stocks as the recovery's hottest trades of recent months continue to gain strength in 2021.
+NEUT8|The call options give Pelosi the right to buy 2500 Tesla shares at $500.00 each at any point before they expire in March 2022.
+BULL9|That may sound like a fantastic deal with shares in.
+NEUT10|Elon Musk's electric vehicle company, changing hands at about $850.
+NEUT11|On Monday, however, Pelosi will have paid a premium for the options so Tesla stock would have to climb before they become profitable to exercise.
+BULL12|Pelosi likely opted to buy long term equity anticipation security for leap options as they cost less upfront than buying Tesla shares directly while granting exposure to a stock that skyrocketed by about 700% last year.
+NEUT13|The $500 strike price means the options are.
+NEUT14|In the money and won't be worthless.
+BEAR15|Even if Tesla's stock price treads, water or falls by a few $100 by the time they expire, the purchases are legal, but have raised eyebrows.
+BULL16|Pelosi now has a financial interest in Tesla's success even as she's poised to play a key role in passing green initiatives that stand to help the automaker.
+NEUT17|The veteran politician also spent up to $500,000 for 100 call options on Apple stock with a strike price of $100 in an expiration date of January 21st, 2022.
+NEUT18|She plowed as much as $1,000,000 into 100 call options on Disney stock with a strike price of $100 and an expiration date of March 18th, 2022.
+NEUT19|Read more.
+NEUT20|Three investing heavyweights who oversee a combined $922 billion.
+NEUT21|Explain how the Democratic sweep in capital siege could shape the outlook for mega cap tech stocks and breakdown how to capitalize on the turn of events.
+NEUT22|Finally, Pelosi paid between $500,000 in $1,000,000 for 20,000 shares in Alliance.
+NEUT23|Bernstein she listed a total of $1.75 million to $3.5 million in security purchases on her disclosure form.
+NEUT24|"Pelosi has represented California in the House of Representatives since 1987, and as Speaker, she's second in the line of succession for the presidency after the vice president, she was the highest ranking female elected official in U.S. history, until Vice President Kamala Harris was inaugurated on Wednesday."""

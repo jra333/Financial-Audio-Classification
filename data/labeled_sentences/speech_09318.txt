@@ -1,0 +1,25 @@
+NEUT0|"""Earlier Brian was outlining some of the risks to 2021 performance for us, but as we know there is an awful lot of optimism out there, and our Emily McCormick is here with us now with one firm's bull case for stocks going into next year, Emily."
+NEUT1|Well, Julie of the Dozen 2021 market outlooks from Wall Street firms that I've compiled so far.
+NEUT2|Every single strategist believes that stocks are going to end next year higher than they are right now.
+BEAR3|That said, some firms are more bullish than others and the most bullish firm so far is JP Morgan.
+NEUT4|Now that firm has set a price target of 4400 for the S&P 500.
+BEAR5|They also see potential downside to 4200, but upside to as high as 4600.
+NEUT6|Now that base case assumption again.
+BULL7|4400 implies appreciation of about 18% for the S&P 500 from its recent closing high of a bit over 3700 from last Thursday.
+NEUT8|Now, for context, the median price target for the S&P 500 so far is 4150.
+NEUT9|Of those dozen strategists for 2021 and also for historical reference, JP Morgan did see the S&P 500 ending 2020 at 3400 in its call last year, and that had been right around the median of analyst estimates at that time.
+NEUT10|Now looking ahead to 2021 JP Morgan's upbeat assessment is really based on a handful of assumptions.
+NEUT11|Some of the key ones are that central banks, including the Federal Reserve, will continue to tilt toward easy monetary policy.
+BULL12|Vaccine distribution will go smoothly and that lawmakers in Washington will face a divided government scenario after those Georgia Senate runoffs in early January.
+BEAR13|So the outcome of those elections is still a possible downside risk here that JP Morgan had cited.
+NEUT14|But we will be getting some clarity on that within.
+NEUT15|The next month or so now, a key quote here from JP Morgan really sums up their outlook.
+NEUT16|The analysts wrote quote.
+BULL17|The equity market is facing one of the best backdrops for sustained gains in years after prolonged period of elevated risks, global trade, war COVID-19 pandemic US election uncertainty, etc.
+BULL18|The outlook is significantly clearing with the business cycle expanding and risks diminishing.
+BEAR19|Now they also added that they expect a quote market Nirvana scenario for equities with a melt up, especially happening in the first half of next year.
+BULL20|They said over the longer term gains maybe a little bit less pronounced in the second half of next year, as the Federal Reserve potentially starts to give guidance around tapering for some of its highly accommodative policies during this crisis.
+BULL21|Scenario here with the COVID-19 pandemic, but overall a lot of bullishness here for Wall Street as a whole, and especially with JP Morgan Julie.
+BULL22|Thanks Emily, appreciate it.
+NEUT23|I'm sure we will be talking much more about all of this as we get into next year and see how things hang out.
+BULL24|"Appreciate."""

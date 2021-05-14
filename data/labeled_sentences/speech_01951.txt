@@ -1,0 +1,20 @@
+BULL0|"""Welcome back everybody."
+NEUT1|The Wall Street Journal reporting that the CEOs of Chevron and Exxon Mobil talked about the possibility of a merger last year.
+NEUT2|The report says that chevrons Michael Worth and exons, Darren Woods spoke about the prospect after the pandemic began to negatively affect oil prices in April.
+BEAR3|The price of oil futures contracts, remember briefly, turned negative, meaning you'd have to pay somebody to take the oil away from you after supply vastly outstripped demand.
+BEAR4|That was slashed as people stayed at home.
+NEUT5|The Journal report says that the merger talks were preliminary and not ongoing, and guys I did reach out to both companies yesterday.
+NEUT6|They both declined to comment on this, but you have to imagine there were some interesting discussions that were taking place when you saw oil turn actually negative at that one point.
+NEUT7|Never seen anything like that and there was no scenario that anybody had run kind of forecasting something like that.
+NEUT8|It's just the state of the business, right?
+NEUT9|Makes sense, I guess in kind of a. I guess it's not sad if you if you if you're hoping for the end of fossil fuels, but the future does not look too bright and I don't know about dividend payouts and everything else and.
+NEUT10|I hope they don't stop.
+NEUT11|Yeah, producing it obviously because the transition is going to take longer than I think most people most people think, but yeah, but it's tough.
+NEUT12|And maybe, you know, together we've talked about mergers like this in the past where they're hanging on to each other.
+NEUT13|You know, trying to stay afloat?
+NEUT14|Certainly not a merger out of strength, but.
+BULL15|That's amazing though.
+NEUT16|Those two 'cause they are the product of how many previous mergers of love in that industry.
+BULL17|We just won the end.
+NEUT18|Shepard Smith here.
+NEUT19|"Thanks for watching CNBC on YouTube."""

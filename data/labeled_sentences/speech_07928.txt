@@ -1,0 +1,25 @@
+NEUT0|"""If you've just started selling, you're probably getting to know retail terms, one that will make a regular appearance is stockkeeping unit or SKU."
+NEUT1|And SKU is a product code that you can use to search and identify stock on hand from lists, invoices or order forms.
+NEUT2|It's a term commonly used when talking about inventory management.
+NEUT3|So now that you know what an SK you is, when is it most commonly used and what for?
+NEUT4|Let's go through some of the key use cases together.
+NEUT5|As you know SK, you is a term used in inventory management, so it shouldn't surprise you that you would use an SK you to track inventory.
+NEUT6|Any product that your business receives will need to be properly tracked.
+NEUT7|The SKU is used so you know exactly how much product you have wherever you stock your products.
+NEUT8|This could be a warehouse or storage room using SK use greatly helps you identify stock availability.
+NEUT9|Another important reason to use SK use is when your business needs to conduct stock takes which are used to record exactly how much stock your business holds.
+NEUT10|Your SK use help you identify actual stock levels in your warehouse to match the stock levels you've recorded, most likely in an inventory management system.
+NEUT11|Now you know the importance of SK use in relation to stock takes a crucial aspect of any business is the ability to identify and track inventory shrinkage, which is the number of items of business can't sell or is missing.
+NEUT12|The more detailed your inventory categorization with SK use, the easier it is to pinpoint where and even how stock goes missing.
+NEUT13|When stock levels are low, it's time to replenish your inventory.
+NEUT14|Adding an SK you to every variant of each product is good practice for identifying the quantity of the product you have on hand.
+NEUT15|This way, once you set a threshold limit alert within your inventory management system, you can make a new purchase order carefully setting your reorder points means you only order when you need minimizing inventory holding costs.
+NEUT16|Finally, using SK use to track product variance in detail plays a big role in helping you spot which product variants are your best sellers.
+NEUT17|This has a direct effect on your profit margins and is a crucial factor in aiding you with strategic product decisions that will help you grow your business.
+NEUT18|Now that you know the importance of using SK, use it's equally important to use it properly.
+NEUT19|A common practice is to split and SK you into parts.
+NEUT20|The first part could be used for product grouping, while the other part might be used to identify unique values like a date or color of the product.
+NEUT21|It's also best to use an alphanumeric system for your SK tracking to avoid any clashes with your spreadsheet or inventory management system, so that's it.
+BULL22|I hope you're now equipped with the knowledge and confidence to start managing your inventory using SK.
+NEUT23|Use as a tracking system.
+NEUT24|"As always for further information on all things inventory management and E Commerce, head over to the Trade Gecko website."""

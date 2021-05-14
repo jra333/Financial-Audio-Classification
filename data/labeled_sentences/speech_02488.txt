@@ -1,0 +1,16 @@
+NEUT0|"""Meantime, guys were watching Disney some reports about some petitions to delay or cancel the reopening of Disney World in Florida, this time for that, we'll turn to our Julia Borsten Hey Julia."
+BULL1|Good morning to Carl.
+NEUT2|Well over 7000 people have signed a move on Dot Org petition calling on Disney to delay opening the theme parks and resorts until COVID-19 cases are no longer rising and now the theme park, which employs about 70,000 people in Florida, had been planning a phase or it has been planning a phased reopening starting on July 11th.
+NEUT3|This petition is asking the company to reconsider the opening of the theme parks for now until it is no longer posing a risk of spreading covid to the working cast.
+NEUT4|In team members and their families and the guests.
+NEUT5|Now this comes after.
+NEUT6|On Friday we heard about push back to Disneyland reopening about a dozen unit unions that represent some 17,000 Disneyland employees here in California.
+BEAR7|They wrote a letter to California Governor Gavin Newsom last week saying they believe it is still unsafe to reopen the park.
+BULL8|We have reached out to Disney on this and on last week when we were talking about the pushback to the Disneyland reopening in Anaheim.
+BULL9|Disney shared some of the things that they're doing to ensure the safety of the park can also of the cast members, as well as the visitors, and they said they look forward to continue dialogue with unions on the extensive health and safety protocols.
+NEUT10|Following guidance from public health experts, which they plan to implement as they move towards the proposed phased reopening.
+NEUT11|Now Disneyland is opening a little bit later than Disney World.
+BULL12|Disney World is of course a much bigger property there, so we hope to hear more from.
+NEUT13|From Disney itself, on this pushback from their employees, but a really interesting conversation here.
+NEUT14|Obviously they want their cast members as they call their employees as well as their guests to feel safe.
+BULL15|"And this all comes as we've seen an uptick in those cases, particularly in Florida."""

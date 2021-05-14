@@ -1,0 +1,17 @@
+NEUT0|"""Risk parity has been one of the trendiest investment strategies in the world since the financial crisis was initially pioneered by Bridgewater, a massive US hedge fund group."
+BULL1|But its success, his bird even normally staid.
+NEUT2|Insurance companies and pension funds to adopt it.
+NEUT3|Bonds are typically less risky than equities.
+BULL4|That often means leveraging these investments to bring the risk adjusted allocation up to that of stocks.
+NEUT5|If you invest $10 in stocks and 10 in bonds, the portfolio risk is dominated by equities because stocks are much more volatile than bonds.
+NEUT6|But if you invest 5 bucks in stocks and 15 in bonds, the portfolio is more balanced and less prone to sharp movements.
+BEAR7|But the returns will be much lower because bonds are such a drag.
+NEUT8|However, if you invest $5 in equities and 15 in bonds and add a bit of leverage to the fixed income component, the portfolio should have almost the same return as the stock dominated one.
+NEUT9|But crucially with less risk.
+BEAR10|Most of the time, bonds in equity markets move in opposite directions, so if equities are doing poorly, then bonds will often bail out the risk parity fund.
+NEUT11|Commodities and inflation and debt often added to protect against inflation.
+BEAR12|Wellborn bets have worked incredibly well over the past three decades, but mathematically yields cannot fall much further, and the Federal Reserve is planning to raise interest rates soon, and that could cause some problems for bonds, especially if you add leverage into the mix.
+NEUT13|Moreover, when risk parity funds talk about risk, they really mean volatility.
+BULL14|So for the volatility of 1 asset class, say stocks jumps higher than the Fund is no longer balanced, so it starts reducing risk.
+BEAR15|So that means they can exacerbate market sell offs, which some analysts say happened in the August turbulence.
+BEAR16|"Risk parity funds obviously disagree, but the strategy has become increasingly controversial as a result."""

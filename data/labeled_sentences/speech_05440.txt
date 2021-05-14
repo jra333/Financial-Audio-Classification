@@ -1,0 +1,7 @@
+NEUT0|"""The April 19 trading days over for Wall Street and here is how it went."
+BEAR1|The S&P 500 index dipped 0.2% on Wednesday, dragged lower by energy stocks pummeled by routing crude oil prices, the S&P 500 Zenergy gate fell by 1.4% to close at its lowest level since September after an unexpected rise in US, gasoline stockpiles pushed oil prices back to near the 50 bucks a barrel mark again.
+NEUT2|West Texas Intermediate.
+NEUT3|The main US crude oil benchmark.
+BEAR4|Fell by three point 8% to 50.44 dollars per barrel.
+BEAR5|Weighed weighing down a lot of smaller shale oil companies in particular.
+BEAR6|"However, IBM was the biggest faller on Wall Street on Wednesday, tumbling by nearly 5% after its revenues fell for the 20th quarter in a row."""

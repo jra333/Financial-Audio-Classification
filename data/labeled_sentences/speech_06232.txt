@@ -1,0 +1,38 @@
+BULL0|"""Stocks took a big hit, Covid cases, reportedly on the rise."
+NEUT1|Should you worry?
+NEUT2|Should you panic, the answer is surprisingly, no.
+NEUT3|I'm Steve Forbes, and this is what's ahead.
+NEUT4|We give you straight talk and what you should be on the lookout for so you can better navigate these turbulent times.
+BEAR5|Well, we all know what happened to the stock market, went down sharply and people are wondering what's happening with the economy.
+BULL6|Actually with the economy, the news is actually good.
+BEAR7|Weekly claims were down for 10 weeks in a row now.
+BEAR8|Continuing unemployment games down, that's another good sign.
+BEAR9|Auto sales up new business activity up housing activity is up, So what about the covid?
+NEUT10|Are we going to have another dreadful.
+NEUT11|Like we had in March?
+NEUT12|The answer is no.
+NEUT13|We're not going to have a national shutdown.
+BULL14|We're better prepared this time the hospitals are ready, the tests are there.
+NEUT15|We've also learned you don't put covid patients into nursing homes, or if they are in nursing homes, you get them out into a hospital or a special care facility.
+BEAR16|Thousands died unnecessarily.
+NEUT17|That's not going to happen again.
+NEUT18|So why then did stocks take such a hit?
+BULL19|Well, for one thing, stocks have been up so much in recent weeks, up 4050%.
+BULL20|The NASDAQ was at a record level.
+BULL21|Economy is still a long ways from where it was in February, so pause was actually natural.
+NEUT22|It's a natural thing when you have that kind of a sharp rise that reserve Chairman Jerome Powell looks so Dauer giving a bad outlook for 2021 and 2022.
+NEUT23|Larry Kudlow, chairman of the National Economic Council, joke that Jerome Powell should perhaps take some media training.
+NEUT24|Learn to loosen up a little bit.
+NEUT25|Another factor uncertainty about the election.
+NEUT26|What kind of economy we have in January will be pursuing policies of high taxes and heavy burdens on individuals and businesses.
+NEUT27|Or we're going to go in the opposite direction.
+NEUT28|Those uncertainties are going to be bearing worn more on stock activity in the months ahead, but bottom line, don't panic.
+NEUT29|Don't sell out if you have your retirement funds and stocks.
+NEUT30|Keep them there.
+NEUT31|Make those monthly, quarterly, or annual payments into your retirement funds into a low cost.
+BULL32|Index fund and overtime you'll do just fine.
+NEUT33|Don't let events guide you.
+BULL34|You stay steady and you will do well.
+NEUT35|I'm Steve Forbes.
+BULL36|Thanks for listening.
+BULL37|"We look forward to your comments and I look forward to speaking with you soon again."""

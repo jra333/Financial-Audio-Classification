@@ -1,0 +1,26 @@
+NEUT0|"""Adoring WHO China study on the origins of COVID-19 says that the virus was probably transmitted from bats to humans through another animal, and the lab leak was extremely unlikely as a cause."
+NEUT1|The Associated Press reported on Monday.
+NEUT2|The reported findings match what WH officials have said in the past about their conclusions following a Jan Feb visit to China.
+NEUT3|However, many questions remain unanswered and the team proposed further research in every area except the lab leak hypothesis, the AP reported.
+NEUT4|Citing a draft copy it had obtained.
+BULL5|The Indian rupee has registered more than 4% gains so far.
+NEUT6|This fiscal year.
+BULL7|In the backdrop of sustained foreign fund inflows and the RBI sexist policy maneuvering which ensured a solid year for the Indian currency despite headwinds on the Econonmic front.
+BULL8|According to experts, the rupee is expected to average around 73.50 to 74 in FY22 as despite a vaccine.
+BEAR9|The COVID-19 frenzy still persists and is likely to continue to grapple the foreign exchange market experts add.
+BEAR10|FY21 has been a rollercoaster ride for the local unit due to coronavirus.
+NEUT11|Encouraging the younger generation to take charge and own the future of the planet.
+BULL12|Pepsico's former CEO Indra Nooyi has said the youth have begun to shape the response to climate change and water security through the innovative thinking an appetite for risk.
+NEUT13|Newest test that the magnitude of the combined challenges are much too great and the need for solutions is so urgent that there should be no territoriality for ideas on water and climate security, she said every individual of the younger generation can be part of the solutions that are so desperately needed.
+BULL14|Phone manufacturers have urged the centre to push the five year production linked incentive scheme time frame by a year.
+NEUT15|In a letter to the government, the India cellular and Electronic Association proposed that the FY20 2021 be considered as zero EO or year of preparation with no incentive handed out for any incremental production this year, to compensate for disruptions due to the COVID-19 pandemic that delayed the production output.
+BULL16|Dragging it behind stipulated targets as per ICAO's letter dated March 4th.
+NEUT17|Incentives should begin from F five 2022 and end in FY20 6 instead of F525 with no other change in the scheme.
+NEUT18|Keeping the yearly expenditure envelope unchanged, the econonmic Times reported.
+NEUT19|Shipping traffic through Egypt.
+BEAR20|Suez Canal resumed on Monday after the giant container ship, which had been blocking the busy waterway for almost a week, was re floated the canal authority said the 400 meter long ever given became jammed diagonally across the southern section of the canal in high winds early last Tuesday, halting traffic on the shortest shipping route between Europe and Asia, approximately 30,000 cubic meters of sand were stretched to refloat the two like 24,000 ton container ship and a total of 11 tugs and two powerful see tags were used.
+NEUT21|To pull the ship off.
+NEUT22|The Reserve Bank of India's upcoming digital currency, which will use a private blockchain platform, will reduce the transaction settlement processes.
+NEUT23|The digital currency will be like cash and give the central bank tighter control over it.
+NEUT24|RBI's private blockchain platform will be like the Unified Payments interface on which government and private companies can build their own apps.
+NEUT25|"While there have been initial discussions on the issue, the final decision to start the work on it hasn't been taken yet."""

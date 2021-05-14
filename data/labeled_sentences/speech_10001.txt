@@ -1,0 +1,29 @@
+NEUT0|"""Think Walmart in 1980, Apple in 2004 and NVIDIA in 2016."
+NEUT1|What do they all have in common?
+BULL2|All three stocks form the same chart pattern before climbing to new Heights in the market.
+NEUT3|It's called a Cup with handle base and by learning to spot this pattern when it's forming, you could be prepared to get in early on the next batch of major movers, the Cup with handle base is called just that because it's chart action.
+NEUT4|Looks like a teacup, but to be a proper base it also has to fit a few criteria.
+BULL5|The stock should run up at least 30% before forming this particular base and then it should start selling off.
+BEAR6|That decline could be anywhere from 15% to 30% from the stocks high.
+NEUT7|Eventually, the stock finds a bottom or floor of support before climbing again.
+NEUT8|That happens when fund managers or other institutional investors stop selling their shares and shift back into buying mode, picking up shares and sending the stock higher.
+NEUT9|From there, a handle starts to form.
+NEUT10|A proper handle starts forming in the upper half of the base and is at least five trading days long.
+NEUT11|Typically in light volume.
+NEUT12|So why is all of this selling off important?
+BEAR13|Well, it means that less committed shareholders are being shaken out of the stock.
+NEUT14|Investors who may be bought at the end of the prior uptrend, Ann are now just happy to cut their losses and break even once those less committed investors around the stock has room to run the shares encounter resistance as they form a handle and this testing ground is where we'll be able to calculate a new buy point.
+BULL15|Assuming the stock keeps climbing higher that by point is $0.10 above the high point of the handle, the by range extends 5% above the original by point, but it's best to get in as close as possible to the entry price.
+NEUT16|I'll told a Cup with handle should be at least seven weeks long for it to count.
+NEUT17|Occasionally you'll see them for in as short as six weeks.
+NEUT18|Let's look at a real life example of a Cup with handle base between January and March of 2016.
+NEUT19|Leading graphics chipmaker NVIDIA formed a Cup with handle base.
+NEUT20|Here's the prior uptrend, an here's where NVIDIA pulled back to form the base.
+NEUT21|It found a bottom in early 2016, then worked on the right side of the pattern.
+BULL22|Here's the handle as you want to see volume was light, meaning large investors weren't selling aggressively, plus its relative strength line was Eddie 52 Week high.
+BEAR23|As the stocks started to take off.
+BULL24|That's a bullish sign of market leadership.
+NEUT25|Exactly what you want to see on a breakout.
+NEUT26|On the daily chart you can see how NVIDIA shares Clear Day 3316 entry point in heavy volume.
+BULL27|After that break out NVIDIA search over 600% in just two years, forming additional bases along the way and offering entry points for new investors.
+NEUT28|"Of course, not every stock will behave like NVIDIA, but recognizing these chart patterns is crucial to learning when certain stocks may be on the cusp of making a major upward move."""

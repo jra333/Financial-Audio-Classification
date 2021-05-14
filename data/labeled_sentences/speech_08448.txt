@@ -1,0 +1,13 @@
+BULL0|"""Hey guys, how you doing?"
+NEUT1|It's got some ripplex RP updates today so we'll start with this.
+NEUT2|This comes from Jeremy Hogan's Tweet and his law company Hogan and Hogan, who's been following the case of the SEC against report.
+NEUT3|He said that the SEC has some important issue to explain to the court.
+NEUT4|So essentially what happened was Jeremy Hogan.
+NEUT5|I found a document where the SEC clearly state that ripples XRP was a cryptocurrency and not a security.
+NEUT6|Stop being interesting ones, fighting court Speaking of which, there is a court date today.
+NEUT7|That's the next stage discovery hearing.
+BULL8|Then we have this prominent crypto analyst says XRP to reclaim the top three spot after major bullish breakout.
+BULL9|As we all know, XR peas on the up at the minute having a bit of consolidation right now but waiting to move again when alert that X 73 million XRP by two of Ripple odl corridors.
+NEUT10|These were in Ukraine and in Australia.
+NEUT11|So that's a lot of people using it for its actual utility and use case.
+NEUT12|"Again, kind of goes against it being a security as it has real life utility."""

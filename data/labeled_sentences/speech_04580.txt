@@ -1,0 +1,13 @@
+NEUT0|"""Hi, it's Amelia today I'm gonna show you what the stock market is in under one minute brought to you by our rich journey."
+NEUT1|A stock market is where people buy and sell stocks and bonds.
+NEUT2|Businesses need money to grow.
+NEUT3|Some businesses sell shares, also known as stocks.
+NEUT4|Stocks are units of ownership.
+NEUT5|In a company, a person who buy stocks in a company is called a shareholder.
+NEUT6|Shareholders own part of a company.
+NEUT7|The price of a single stock can be from under $10 to more than 300,000.
+NEUT8|The prices of shares constantly go up and down when shareholders invest in the stock market, they hope they can buy this stock.
+NEUT9|At a lower price and then sell it at a higher price.
+NEUT10|People who hold on to stocks longer than most to about 15 years or more are more likely to succeed in stock markets, so that's it.
+NEUT11|That's the end of my one minute video about stocks.
+NEUT12|"If you want to see more of these one minute videos, don't forget to like subscribe and join the journey."""

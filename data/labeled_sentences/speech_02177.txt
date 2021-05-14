@@ -1,0 +1,31 @@
+BEAR0|"""Welcome to charts that count after a horrendous final week of February in which fear of the coronavirus gripped global markets."
+BULL1|the US stock market has rallied back over the last four days, suggesting at least tentatively that investors may be back in risk on mode.
+NEUT2|But let's decompose the rally schematic, Lee the red line.
+NEUT3|Here is the path of the S&P 500.
+BULL4|Showing the progress of the broad market, it has risen 5% over the past four days.
+BULL5|Again, pretty furious progress over a short period of time.
+NEUT6|However, look at the components of the index that are leading the rally.
+NEUT7|This one is managed care stocks.
+NEUT8|These are the privately owned health care stocks that Senator Bernie Sanders had promised to eliminate.
+NEUT9|The outstanding showing by Joe Biden in the Super Tuesday.
+BEAR10|Primary polls sent those stocks roaring by 15%.
+NEUT11|The next broad leader of the market rally.
+NEUT12|Utilities.
+BULL13|These are up 7%, again faster than the wider market.
+NEUT14|What are utilities to investors?
+NEUT15|The ultimate safe haven high yields stability.
+NEUT16|A port in a storm.
+NEUT17|Now what is underperforming?
+NEUT18|Let's start with.
+NEUT19|Banks.
+BEAR20|Bank stocks have not risen at all over the past four days, while the rest of the market has rallied so furiously.
+BEAR21|As the sector has suffered a kind of double whammy, the feds 50 basis point cut to interest rates, threatens to compress their profit margins and at the same time they are economically sensitive, so investors worried about future growth in the economy will sell them off.
+BEAR22|Finally, the Red line is 10 year bond yields, which have continued to fall while stocks have risen and even after a little rally in the last day still remain near the all time lows of a couple of days ago.
+NEUT23|What does this mean?
+NEUT24|Maybe several things, but none of them good.
+BEAR25|Certainly such low bond yields suggest that investors are worried that the Federal Reserve, faced with further weakening in the economy, may have to cut rates yet again.
+BULL26|They also suggest No Fear among investors that growth is going to push inflation up.
+NEUT27|What then have we seen over this.
+BULL28|A rally in the stock market, but one that has been led by political relief and by investors seeking safety in their choice of sectors.
+BEAR29|Economically sensitive stocks, on the other hand, making very little progress and bond yields strongly, indicating that investors do not see growth ahead.
+NEUT30|"What we have in some is a risk off rally."""

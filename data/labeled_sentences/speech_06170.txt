@@ -1,0 +1,27 @@
+NEUT0|"""The intrinsic value of Autodesk is range between $8.27 per share and $7.35 per share."
+NEUT1|How are these values calculated?
+NEUT2|Paying $8.27 per share represents the company's cash for share issued and outstanding.
+NEUT3|They have $8.27 in cash and cash equivalents, paying $7.35 per share represents the company's price per share based on its earnings, and I'm sure you can see that this is supposed to be the high end.
+BEAR4|However, this value was in fact lower than this value.
+BEAR5|Which means that the company has more in cash than they earn per year, which is not good.
+NEUT6|So, paying 735 represents the fractional payment.
+NEUT7|We'd all have to pay for the company's next 20 years of median historical earnings.
+NEUT8|This is a conservative way to value a company which is different from the price journeys ratio, which will take a look at in a second.
+NEUT9|But my question is what are they trading at today?
+NEUT10|Well, they're currently trading at a large and huge massive price of 262 and 61 cents, which is not justified if you take a look at the price to earnings ratio down here that Google so kindly provides us 160.89 that is incredibly large, which just further abets the conclusion.
+NEUT11|Our suspicion that they are overpriced because you know $7.35 versus $262.00.
+NEUT12|We're talking factors larger here.
+NEUT13|Now I understand Autodesk is a really cool program.
+NEUT14|For those of you that don't know, it's it's a software that you know it's like a 3D software.
+NEUT15|They offer a suite of range of products that help people create in construction engineering manufacturing.
+NEUT16|There's media, animation, Entertainment, Cool Company, but just the price is too big so we have to park their money somewhere else somewhere.
+NEUT17|Where are we?
+NEUT18|Get a similar return low risk.
+NEUT19|We maintain safety of principle an with an ample margin of safety.
+NEUT20|You can achieve that using the Vanguard 500 index fund, and I think if you been watching my videos by now you understand the reason why we want to park your money here until this price drops beneath this price and it's just because of, well, it's low risk, low risk and look at the return 12.9 percent, 10 year trailing the beta on this.
+NEUT21|The variance on this growth is low, so this is where we want to park their money guys.
+NEUT22|Now if you got any value to this video, make sure to subscribe to my channel so you.
+NEUT23|Continue to gain insight on how to analyze business performance so that way your investment performance is optimized.
+NEUT24|Remember when your investment performance is optimized?
+NEUT25|So was your wealth production value.
+NEUT26|"Investors will see you in the next video stick around."""

@@ -1,0 +1,27 @@
+NEUT0|"""Stock market magic here."
+NEUT1|So if you are a beginner and don't know what stock to buy, this is probably my number one beginner stock.
+NEUT2|I would recommend investing in and this is a Coca Cola.
+NEUT3|Now Coca Cola currently is trading for about $48.00 per share.
+NEUT4|I actually have 20 shares of it right now.
+NEUT5|My average prices are right around $40.
+NEUT6|An if we look down here, we can see the.
+NEUT7|52 Week high was at about $60.00 and 52 week low was right about $36.00.
+NEUT8|So right now it's training or right in the middle about there an the dividend yield.
+NEUT9|Right now if you buy it at $48.00 is a 3.482.
+BULL10|So I like the stock because it's a pretty safe play.
+NEUT11|Overall, Coca Cola's been in business for many, many years and they've been paying their dividends for many, many years there.
+NEUT12|What's known as a dividend aristocrat?
+NEUT13|Which means their dividend has been increasing every year an what they do is every quarter you will get a dividend based on how many shares you own.
+NEUT14|It's usually around like let's say $0.50.
+NEUT15|Per share.
+NEUT16|Somewhere in that mark.
+NEUT17|So if you had one share every quarter, you would get $0.50 for a total of $2.00 at the end of the year.
+NEUT18|If you had, let's say, 10 shares, you'd get $5 every quarter.
+NEUT19|So you'd have $50 at the end of the year, and it's just a relatively safe stock.
+NEUT20|It doesn't have the highest dividend yield out there, but it's a.
+NEUT21|It's a very non risky stock, so I definitely recommend it for beginners.
+NEUT22|And if you're new to investing, you can sign up below using my link and you'll get a free bonus stock.
+NEUT23|And this is for using Robin Hood.
+NEUT24|This is a stock market broker app.
+NEUT25|It's free to use.
+NEUT26|"And it's there's no Commission for buying or selling stocks, so hope this helps out."""

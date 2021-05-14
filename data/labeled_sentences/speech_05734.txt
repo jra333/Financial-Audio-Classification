@@ -1,0 +1,27 @@
+BULL0|"""It's a first in world football."
+NEUT1|How high is the likelihood of scoring a goal in this specific situation?
+NEUT2|How to teams change their tactics?
+NEUT3|The new Bundesliga match fax powered by a WSA created live during matches through machine learning, artificial intelligence and innovative cloud technology.
+NEUT4|Expected goals or X goals help to calculate the likelihood of scoring feet shots in the game.
+NEUT5|The machine learning algorithm was trained by analyzing more than 40,000 shots on goal and can precisely determine the goal probability of all different kinds of shots.
+NEUT6|The calculation considers the distance and angle to the goal pressure from opposition defenders and the goalkeeper's position.
+NEUT7|Speeds of the player at the moment he shoots is also crucial, as is the question of whether it's shot or header a special case and example alike.
+NEUT8|The penalty kick here, the gold probability is 77%.
+NEUT9|Each case is unique, but expected goals allows every chance to be objectively evaluated.
+BULL10|In this example, Robert Levandowski's pass increases the goal probability considerably because Tiago has player shot on goal and is standing centrally.
+NEUT11|Oh, how easy today make that look.
+NEUT12|The goal probability therefore refers to a very specific shot X goals, on the other hand, is the sum of several goal probabilities.
+NEUT13|This makes it possible to calculate player or a teams possible goals in a match, which allows the efficiency to be newly evaluated.
+NEUT14|Average positions using 3.6 million data points collected during a Bundesliga match.
+NEUT15|The actual average positions of all players can be calculated.
+NEUT16|The average positions of a team provide answers to a fascinating set of questions during a batch.
+NEUT17|Does the team position itself in an attacking or defensive formation?
+NEUT18|Is the game played more in the center of the pitch or on the wings?
+NEUT19|Take the top clash between RB, Leipzig and by and mention, for example, the game is characterized by a fast pace.
+NEUT20|Pricing in this example, like cigarette, is central position with a man over and end up with a good chance to score.
+NEUT21|Let's look at the lineups compared to the starting lineup.
+NEUT22|The average positions show Leipzig are very compact and concentrate on the center.
+NEUT23|It looks similar situation with the buying players, but on average they are set up in a slightly more attacking formation and further apart.
+NEUT24|Tactical changes made weather in possession or not scan in this way be identified during the game, creating completely new possibilities for match analysis and evaluation.
+NEUT25|This is only the start of the new technological Innovations Bundesliga match.
+NEUT26|"Facts powered by a WS."""

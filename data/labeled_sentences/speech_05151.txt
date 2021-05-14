@@ -1,0 +1,18 @@
+NEUT0|"""Joining us to discuss on the CNBC news line is Piper Jaffray senior research analyst Michael Olson."
+BULL1|Michael thanks for joining us today.
+BULL2|I was surprised to see that you actually believe that domestic subscriber growth for Netflix will be up 6%.
+NEUT3|That's higher than that.
+BULL4|Then the consensus, and perhaps also higher than what Netflix itself forecast.
+BULL5|Why'd you think Netflix is able to grow its US subscriber base when it has so much more competition now?
+BULL6|Yeah, when we look at the near term the combination of something we call our Netflix Navigator analysis which basically looked at Google search trends along with our analysis of YouTube trailer views for Netflix content that was released in the quarter, both point to Q4 subscriber upside for both domestic and international.
+BULL7|So despite an onslaught of these new streaming services, we do expect Netflix will continue to capture, you know, a significant portion of traditional content dollars as they do migrate towards streaming.
+BULL8|And we think that also post solid near term results.
+NEUT9|Now interesting, we had this comment from the CEOs Cineworld Big theater chain, saying that Netflix has become the way Netflix handled the release of Martin Scorsese's The Irishman left him with meaningless box office income.
+NEUT10|Curious what you thought about this comment.
+NEUT11|I mean, clearly Netflix isn't releasing this kind of a movie to generate box office revenue, but instead to drive people to subscribe.
+NEUT12|Do you think the way they handled the Irishman worked for Netflix?
+NEUT13|Do you think they would be smart to try to generate more box office revenue?
+NEUT14|Netflix is really looking to make its content available to its subscribers, and they're also periodically going to provide a different experience for certain films that they believe have something to offer on the big screen and could be especially in award contender like the Irishman or others.
+NEUT15|We don't really expect this to change in any significant way going forward that we do think the company's primary goal is to just drive subscriber revenue, not box office revenue.
+NEUT16|So this behavior by Netflix should remain.
+BULL17|"Fairly consistent, I would think versus what we've seen today."""

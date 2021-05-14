@@ -1,0 +1,20 @@
+NEUT0|"""What's up ****** *******?"
+NEUT1|Today I would like to review the market performance of Vine Therapeutics.
+BULL2|What an absolute **** show it has been.
+NEUT3|When I first entered my position in this stock, it was trading at a little under $3.
+NEUT4|I purchased about 340 shares but not long after the stock went through a four to one reverse split.
+NEUT5|This is a company consolidation of total available shares which will leave you with one share for every four that you hold.
+NEUT6|This left me with 85 shares at an $11.68 cost average to compensate for having fewer shares in my possession.
+BEAR7|However, the value of Vine plummeted after the split and we have now been stagnant in the $7.00 range.
+NEUT8|Looking back, I never had an actual reason to purchase this stock.
+NEUT9|I had only heard about it because popular YouTuber trays trades made a video about it.
+BULL10|It was also given a 100% buy rating on Robin Hood, so I bought it.
+BEAR11|After reviewing Trey's video again, I realized that he actually said he was not buying this stock and I completely misinterpreted him.
+NEUT12|I was probably busy scrolling through wallstreetbets on my phone and not paying attention.
+NEUT13|I have a tendency to do that.
+NEUT14|I think it's pretty funny that this was my outcome.
+NEUT15|If I did the bare minimum amount of due diligence, I probably would have known about the reverse split.
+NEUT16|At this point I am not willing to sell my shares at a loss, so I will continue to hold while browsing StockTwits to chat with other bagholders in denial.
+NEUT17|An fuel.
+NEUT18|My confirmation bias?
+BULL19|"I am bullish on Vine, but not because I believe it has value, but rather because I want it to so I can break even and buy more shares of AMC."""

@@ -1,0 +1,12 @@
+NEUT0|"""Based on your reporting and your perception, how is Amazon sort of risen to this occasion where there's so much demand for delivery of groceries and basics now?"
+BEAR1|Well, it's not an overnight success.
+NEUT2|They've been investing in moats for years, and this, I think, of these as a Moat.
+NEUT3|This is a convenience mode of delivery mode of pricing mode and ability to know what people want mode.
+NEUT4|So this is all stuff they've been investing in.
+NEUT5|Jeff Bezos invests in things, and so you know, even if they are more costs now spending money for later is the smartest thing you could do.
+NEUT6|This is this stock is going.
+NEUT7|If it's not, it could be one of the first trillion dollar companies you know.
+NEUT8|As Scott Galloway is talked about on pivot, this they're building for the future as they always have been doing and they understand that this is the time to to invest.
+NEUT9|And this is the time to win and I don't think anybody is going to be able to catch them as I think about it going forward.
+NEUT10|It's really hard to imagine a competitor to them in this space and the people they've attracted to them now through this crisis have been is going to be a massive.
+BULL11|"This is a massive move for them."""

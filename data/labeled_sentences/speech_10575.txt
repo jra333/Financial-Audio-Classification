@@ -1,0 +1,40 @@
+NEUT0|"""Covid relief covid cases."
+NEUT1|Covid S covid vaccine.
+BEAR2|When you hear the litany you think this market only cares about COVID-19, yet the action today Dow 424.70 sinking .35%, NASDAQ declining 7 basis points, had nothing to do with Coke.
+NEUT3|And everything to do with Tesla's admission to the S&P 500 close of trading.
+BEAR4|That means the whole index needs to be rebalanced to make room for stock.
+NEUT5|That just won't quit.
+BULL6|Including today were tested closed up $39.00.
+NEUT7|For awhile now, Wall Street's been fixated on the gyrations of high flying super stocks and it doesn't get more high flying than Tesla darn things already up 70% since we learned was going to join the SP, but to make room for Tesla and S&P and the SP index funds.
+NEUT8|Well, the other commands had to be sold today.
+NEUT9|Usually new interests the SNP are so small, but Tesla is one of the ten largest companies in America by market cap.
+BEAR10|So the impact reverberated throughout the whole market.
+BULL11|We keep coming back to Tesla because it's captivated a whole generation of investors who don't mind paying up for $650 billion technology company.
+NEUT12|That happens to make cars.
+NEUT13|I think the evolution of Tesla stock, not the company, has changed the character of the entire stock market.
+NEUT14|I think it's most important story in years.
+NEUT15|Sure, we've seen this trajectory before under the leadership of Jeff Basis, Amazon is taking over the world.
+NEUT16|Netflix became a national pastime, right?
+BULL17|And we've celebrate what CEO Reed Hastings had done.
+NEUT18|But we've all the way.
+NEUT19|But Tesla takes that same story in Christ.
+NEUT20|Between 11, it's become the ultimate love, the product by the stock stock with a Legion of adoring fans.
+NEUT21|Again.
+NEUT22|Amazon and Netflix have the same dynamic, but you don't see people worshipping Bezos are now.
+NEUT23|You'll see my worship, Hastings from Netflix, even though I think they should know they worship.
+NEUT24|Elon Musk and white Tesla is a bit of a lottery ticket that paid out for a huge number of people.
+NEUT25|You just have to believe rallies been so visible that it spawned a new generation of investors who want individual stocks, not index funds because index funds can't give you such returns.
+NEUT26|Personally, I'm a big believer in the car.
+NEUT27|The stock in the man behind it.
+NEUT28|You don't have to like Elon Musk.
+NEUT29|I mean the guy called me a simulation, but you should respect his ability to make money for you.
+NEUT30|I bet Tesla has more upside as must keeps meeting and beating his targets.
+BULL31|I'm thrilled the stock is made so many people, so much money.
+BULL32|And I'm ecstatic that it's helped a generation a new whole new generation fall in love with stock picking like I did in 1979.
+NEUT33|Now, once the index funds finished selling everything else to make room for the $650 billion behemoth, I'm betting the Santa Claus rally resumes.
+NEUT34|Don't miss a second of mad money.
+NEUT35|Follow at Jim Cramer on Twitter.
+NEUT36|Have a question?
+NEUT37|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

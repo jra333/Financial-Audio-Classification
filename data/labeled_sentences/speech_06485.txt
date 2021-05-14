@@ -1,0 +1,21 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xm.com."
+NEUT1|Today will be looking at NZD USD on the four hour chart.
+BULL2|So zooming in we can see that Kiwi bulls resurfaced, overtaking the resistance of Zero Point 6268 and the 50.
+NEUT3|Simple moving average on the four hour chart.
+BEAR4|However, the rally which commenced on October 1st off a multi year low of 0.62, soon came to a halt.
+BULL5|At the lower boundary of the Chaco Cloud presently at Zero Point 6298, the short term oscillators suggest that positive momentum is picking up.
+BEAR6|Despite this, the negative signals from the 100 and 200.
+BULL7|Smas, as well as the restricting ichimoku cloud warn traders to be cautious if the sellers retake control, initial support could come from the 50.
+BEAR8|SMAD ahead of the zero point 6268 support slightly lower.
+BEAR9|The Tenkan Sen and kindreds and Lions could apply some friction before retest of the 2015 low of Zero Point 6235.
+NEUT10|If selling orders further, pick up the more significant support region of 0.62 to zero point.
+BEAR11|6194 could come into focus framed by a psychological number and a level not seen in more than 10 years.
+NEUT12|In the positive scenario, moving through the Chamaca cloud.
+NEUT13|The 100.
+BEAR14|S MA and the neighboring resistance of Zero Point 6320 could challenge the Bulls surpassing this.
+BULL15|The rally may extend to the Zero point 6340 level, which is the 23.6 fever Nachi.
+NEUT16|Retracement of the down leg from Zero Point 6789 to 0.62 and when the 200.
+BULL17|Smas lies climbing above the Zero Point 6360 Swing could open the door for the swing peak of Zero Point 6440.
+BULL18|Five overall NZD USD remains bearish in the bigger picture, while in the short term a close above Zero Point 6316 is required to turn the short term bias from neutral to bullish.
+NEUT19|That's it from me.
+BULL20|"Have a great trading day."""

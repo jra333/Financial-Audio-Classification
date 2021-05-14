@@ -1,0 +1,35 @@
+NEUT0|"""Data Group Chairman and Chandrasekharan at Tata Motors annual General Meeting yesterday announced that the company was targeting to achieve near 0 debt in three years from now let's do a 3 point analysis to find out how will the company really achieve this one."
+NEUT1|What's the current financial situation of Tata Motors?
+NEUT2|Well, if you see the company's net automotive debt stands at 48,000 crore rupees.
+NEUT3|That's a huge amount.
+BEAR4|Now the June quarter was a washer quarter for the domestic business.
+BEAR5|Which was already facing a huge stress because of the general economic slowdown as well as the subsequent liquidity crunch.
+BEAR6|Now the problems actually got compounded during the reported quarter because of the pandemic, which actually halted all production that time.
+BEAR7|The JLR business also was severely affected by COVID-19 as well.
+BEAR8|Now the company actually reported a consolidated net revenue of thirty 1983 crore rupees, which is down 49% from last quarter sales and down 40.
+BULL9|8% from last year.
+NEUT10|Same quarter sales of 61,000.
+NEUT11|Four ₹67,00,00,000.
+BEAR12|It was yet another quarter when the company actually reported losses.
+BEAR13|In fact, the loss widened to 8000.
+NEUT14|Four ₹38,00,00,000 in Q1.
+NEUT15|Tata Motors hasn't paid dividends to its shareholders for last four consecutive years.
+BULL16|Now, though there are early signs of recovery for the passenger vehicle segment.
+NEUT17|The overall outlook for both the domestic as well as JLR.
+NEUT18|Business still remains quite cautious to how will the company achieve its debt free goal.
+BEAR19|Well, group chairman Entra Shaker and said that debt reduction will be among the five priorities for the flagship firm, which has actually seen significant erosion in shareholders wealth over the last five years.
+BULL20|Now he also said that sharpening the brand portfolio enhancing sales, enhancing service experience and sustainable mobility will be some areas that will be the company's top priority is going on from here.
+BULL21|Now the company has already taken steps to reduce debt.
+BULL22|Chandra also said that this includes making the company free cash flow positive by FY22.
+NEUT23|Now the group will also look to unlock the investments in the North noncore businesses as well.
+BEAR24|Now over all the investments of the group have already reduced by 50% during this fiscal year.
+BULL25|And in general also said that they will continue to manage this tightly even going forward three.
+NEUT26|What should be investors strategy on the stock then?
+BULL27|Well, the stock price has definitely searched 9% today.
+BULL28|Post the positive news flow equity analysts, however, believe the company really has a tall task ahead.
+NEUT29|We did speak to Rajesh Agarwal, who's the head of research at AM Capital.
+BULL30|He said that while the management is quite strong, looking at the current situation, the capital raising.
+NEUT31|Not be easy for the company going forward.
+NEUT32|He also said that we need to look for a clear road map from the company as to how it is planning to cut this huge debt on the books.
+NEUT33|Now.
+NEUT34|"Once things really start move moving on the ground, the stock could actually be definitely a multibagger in the long run and that's what Rodgers believes investors strategy therefore should be of wait and watch till we get better clarity on the progress of the management's plan."""

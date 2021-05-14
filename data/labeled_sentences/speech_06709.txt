@@ -1,0 +1,12 @@
+NEUT0|"""Hello, welcome to today's technical analysis for November 30th, 2015."
+NEUT1|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at the euro versus U.S. dollar on the daily chart.
+BEAR3|Euro USD maintains bearish bias training below the key 1.06 level and momentum is quite negative as the daily RSI is below 15.
+BEAR4|Bearish territory has been there since mid October.
+BEAR5|Furthermore, the Tenkan Sen Kijun Sen Lines and negatively aligned while prices remain below Leeteuk.
+BEAR6|Cloud and below the 200 day moving average.
+BEAR7|So all these highlight the underlying weakness that has been the overriding theme of 2015 as the key support level of 1.05 comes into focus, there is potential for test of a 2015 Lo posted back in March and this comes in at 1.04.
+NEUT8|Sixty one a break below.
+BEAR9|This would confirm the bearish trend that began back in April 2014.
+NEUT10|The high one point 3992.
+BULL11|"Thank you for watching and have a great day."""

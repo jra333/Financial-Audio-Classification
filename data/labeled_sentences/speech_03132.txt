@@ -1,0 +1,6 @@
+BEAR0|"""The FDIC is pushing for a shakeup at Citigroup and CEO Vikram Panda is among those who might be pushed out."
+NEUT1|That's according to the Wall Street Journal.
+NEUT2|The paper says Jerry Grundhofer was approached by federal officials about taking over the top job at City Bronto for is.
+NEUT3|The former US Bancorp CEO who's now on Citigroup's board.
+NEUT4|The FDIC is concerned about cities.
+BEAR5|"Lack of senior executive executives with commercial banking experience and that includes Pendant, a former investment banker."""

@@ -1,0 +1,19 @@
+NEUT0|"""This is Alan Farley."
+BULL1|Amazon.com has been one of the strong stocks in the stock market in the last 10 to 15 years.
+BULL2|Zooming hiring a magnificent rally that followed the speed increases of the Internet.
+BULL3|The rally topped out initially in the summer of 2018, putting a lid right above 2000.
+NEUT4|The stock then entered a correction, which has taken the shape of an ascending triangle.
+BEAR5|The pandemic offered a unique opportunity becauses it forced many retail operations to close down all around the world.
+NEUT6|So Amazon took a fair share market share from that.
+BULL7|From those shutdowns, increasing its earnings power, it broke out in the second quarter and has posted just impressive gains going ballistic.
+NEUT8|Now the problem with ballistic is that.
+BEAR9|It hits very extreme overbought readings very very quickly and you could see that this stochastic.
+NEUT10|It's a monthly stochastics come all the way back to the level it was that created reversals in 2003.
+BULL11|Another reversal in 2013, another one in 2016 and this is about as high as the stochastics ever gotten.
+NEUT12|So we have to keep an eye out for reversal in an Amazon in the coming weeks.
+NEUT13|Also if you take a look at this Bollinger band.
+NEUT14|The price bars.
+BEAR15|These monthly price bars from now it's stretched up to three standard deviations 100% outside the top Bollinger Band.
+NEUT16|Now this is also a very blatant cell signal even though timing is very difficult with it.
+NEUT17|'cause its monthly bars.
+NEUT18|"But it does tell us that the Amazon run is probably going to come to an end soon, perhaps at the 3000 level, perhaps a little bit about 3000, and you don't really want to be a shareholder buying up here if you can only gain another 100 or 200 points before a correction that could go all the way back to say 2500 or 2000."""

@@ -1,0 +1,32 @@
+NEUT0|"""Hey, where are the top places to visit in England?"
+NEUT1|OK, Google search.
+NEUT2|Hey, how about this about this?
+NEUT3|Which should I buy for the trip?
+NEUT4|Anything I go for review?
+NEUT5|Hey.
+NEUT6|Do you know how to cook fried rice?
+NEUT7|Oh my God, no, you can just Google search.
+NEUT8|Hi, do you also use Google often right?
+NEUT9|If Google is so well known, have you wonder how they make money and issue can own a part of this business.
+NEUT10|Come let me share more with you, right?
+NEUT11|Google's founder in 1998.
+NEUT12|Starting with a simple idea of a better search engine on the Internet.
+NEUT13|And till today we are still using Google search engine.
+NEUT14|Not not just this, Google also have other products and services that we commonly use such as Gmail, Google Map, Chrome browser, YouTube, Google Drive, just to name a few, right?
+NEUT15|So how does Google makes money right?
+NEUT16|Google allow businesses to display ever distance on their platform or networks or platforms and charge them advertising fee right?
+NEUT17|In 2018 about 85% of Google revenue comes from advertising fee.
+BULL18|Right, so looking at Google Financial track record for the past ten years is revenue and profit have been growing consistently.
+NEUT19|You know, year that also translate to a healthy earning per share growth year on year as well in business for more than two decades, Google has been very conservative with death.
+NEUT20|Keep it at a very low level so if you have invested 100 shares in Google back in 20 oh, nine at an average price of $200 per share, there's a thought about $20,000 or invest each attack this 100 till today by doing nothing.
+BULL21|Like the share price went up from 200 to $1250 in 2019 and that means you're $20,000 investors who have grown to 135 thousand.
+NEUT22|Wow, there's 100 and $5000 profit, or 6.25 times of your investment.
+BULL23|Wow, with the investment return, I'm sure you will make some difference to a life.
+NEUT24|So here is just another great company that you that is right under your nose and could have made you good money.
+NEUT25|If you know how to identify good assets in your daily life.
+NEUT26|I hope you find this video interesting.
+NEUT27|Please give that ends up if you like this video and if you have not subscribed.
+NEUT28|Subscribe to our channel.
+NEUT29|Do remember to also turn on the notification Bell so that you will miss on our next video right?
+NEUT30|Once again, thank you for watching and I will see you in the next video to show you another company right under, you know.
+NEUT31|"See you."""

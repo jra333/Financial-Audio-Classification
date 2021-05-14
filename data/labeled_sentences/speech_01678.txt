@@ -1,0 +1,23 @@
+BEAR0|"""When the markets are surrounded by uncertainty, muted earnings scenario and less triggers for a clear breakout, it gets quite difficult for investors to select stocks for investment."
+NEUT1|Let's do a 3 point analysis to find out if coal India could be a good pick.
+NEUT2|Right now.
+BEAR3|One a good bargain at current valuation, while earnings growth remains elusive at 33% correction in the past one year has brought coal India below its historical valuations.
+NEUT4|Coal India, which is sitting on a cache of close to 33,000.
+BULL5|Rupees or 27% of its market cap.
+NEUT6|It is trading at 7.2 times its FY21 estimated earnings in 2019.
+NEUT7|Twenty it is expected to earn profit of close to 18,000 crore rupees.
+NEUT8|Anna Cash Bank of close to 32,000 crore rupees.
+NEUT9|Two.
+NEUT10|What does the financial picture really tell us?
+BULL11|Well during the quarter ended June, the company reported a marginal 3.6% growth in its sales.
+BEAR12|Lower volumes has been a sticky issue.
+BULL13|Although production has been just steady, the volumes under the fuel supply Agreement or FSA accounting for 85%.
+BEAR14|The sales volumes was also flat due to lower production and offtake and lower contribution from the E auction volumes.
+BEAR15|A drop in demand and also in realizations well apart from the core business.
+BEAR16|The cash levels have actually declined and the other income has also fallen.
+BULL17|Now the company also has been taking measures to reduce costs like shutting down of the old mines and these things are yielding good results and are also driving profitability, partly offsetting the concerns about the revenue growth.
+BULL18|In Q1, despite marginal growth in sales, the company actually posted a bit growth of 15% year on year in addition to lower tax depreciation during the quarter helped the company report 22% growth in net profits.
+NEUT19|Three, what should investors do right now?
+NEUT20|Well, in the current environment when demand is contracting and coal prices are falling along with coal, India's own sticky issues of coal production, one should have little expectations in terms of growth.
+NEUT21|However, we do not see much downside.
+BEAR22|"From here, now growth could be flat or marginal from here as well, which means investors have nothing or very little to lose at the current valuations."""

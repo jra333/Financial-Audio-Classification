@@ -1,0 +1,49 @@
+NEUT0|"""How you feeling about Tesla?"
+NEUT1|You driving test out their cash?
+NEUT2|You know look I, I keep thinking about that unbelievable scoop that you got, of which I with with Larry Fink.
+NEUT3|I think it's going to be the most important thing we talk about for.
+NEUT4|I don't know how long.
+NEUT5|Certainly not just today and I keep thinking well.
+NEUT6|Isn't Tesla electric vehicle?
+NEUT7|Isn't that the kind of thing that if you're wanting to be in Larry Larry Fink's dictum you would sell GM and Ford, which aren't doing enough versus Tesla, even though they're trying.
+NEUT8|But Tesla is the ultimate.
+NEUT9|Larry Fink.
+NEUT10|Stock and Larry seem very emotional at a certain moment.
+NEUT11|Is that just?
+NEUT12|My imagination?
+BEAR13|Or was he really choked up at one point?
+NEUT14|Andrew, I think he's emotional about it, but I do think he insisted and I I believe him that this was something that took.
+NEUT15|I mean in terms of making this decision was 12 month process he was writing this letter.
+NEUT16|It changed a lot and I think it really was much more about frankly, the clients, the science and what he thinks is about to happen in terms of a a huge rotation in the market.
+NEUT17|Now that rotation, by the way may take five years may take a decade, may take longer, but I think he's trying to get.
+NEUT18|Ahead of it and we just had Ralph Nader say that Jamie Jamie Diamonds fault codes, JP Morgan still invest in fossil fuel companies.
+NEUT19|I mean, you think we need to dive now?
+NEUT20|I know, I know.
+NEUT21|I look.
+NEUT22|I think they have to be there.
+NEUT23|We had Mike worth on last week from Chevron.
+BULL24|I think Mike is saying, listen, we're totally cognizant of what we have to do and we are doing our best.
+NEUT25|I had parsley energy on Friday.
+NEUT26|They are convinced that there's a lot more than every oil company can do.
+NEUT27|So I just think it's just being a better citizen.
+NEUT28|I don't think it's.
+NEUT29|You just fossil fuels.
+NEUT30|As Mike were said 3040 years, you're going to be in fossil fuel, so you don't want to write it off like you think the price earnings multiples going down.
+BULL31|Remember, when oil was a $26, these stocks were substantially higher than they are now.
+NEUT32|So if you think about it, I think it'll matter piece of this that you know we talked about it in the context of fossil fuel companies in energy companies.
+BEAR33|I think this is going to be hitting companies across the board.
+NEUT34|I think we're going to see lots of conversations about companies trying to get to carbon neutral.
+NEUT35|Obviously.
+NEUT36|We've seen Amazon and others talk about that idea.
+NEUT37|Sometimes even trying to get to carbon negative, but that's going to come at a cost.
+NEUT38|Well, I don't know.
+NEUT39|I mean Clorox benador he is.
+NEUT40|If you want more compensation.
+NEUT41|If you work at Clorox, you have to come up with sustainable ideas and he is rewarding managers who do and he is not rewarding those who don't.
+NEUT42|So I think it's entirely possible that if you're clever enough, you can do both.
+NEUT43|And remember the Earth is the stakeholders we learned from Marc Benioff and you have to be thinking about that at all times.
+NEUT44|This liar think just catching up with what others are doing.
+NEUT45|No, I think he's going to set a standard, but I do not think in the end that.
+BEAR46|It's going to matter if you missed by a few pennies.
+NEUT47|If you are protecting the earth.
+BULL48|"I really believe that."""

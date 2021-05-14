@@ -1,0 +1,7 @@
+NEUT0|"""Hello Traders and market, the AAA trades, intraday technical analysis session."
+NEUT1|Today's instrument is the Netflix stock, which is traded in the NASDAQ under the ticker NFLX.
+NEUT2|If we look at Netflix for our charts, we can see that it's currently trading at $497.97.
+BULL3|Netflix is expected to report earnings today if the market's anticipation is positive, then today we should expect its price to test its resistance level at around $499.50 and if able to pass that level then to rise toward its next resistance level.
+BEAR4|Otherwise its price could fall toward it supports level located around $485.
+NEUT5|Thank you for watching AAA trades intraday technical analysis from all of us.
+BULL6|"Here we wish you a successful and responsible trading."""

@@ -1,0 +1,23 @@
+NEUT0|"""Let's get back to that unemployment report."
+BEAR1|Jeff Smith joins us now from Washington DC and we expected it to be bad.
+BEAR2|It was bad.
+NEUT3|It could have been a lot worse though, because of the way they measure it, right?
+BEAR4|Jess, right in a kind of this, we're expecting to see about 22 million job losses, but the US economy did lose 20.5 million jobs in April, the unemployment rate spiked to 14.7% and the unemployment rate rose by 10.3 percentage points from March to April.
+BEAR5|Which is the biggest month over month increase in the history of the series, the labor force participation rate dropped to 60.2%.
+BEAR6|That is the lowest since January of 1973 and the number of people who are working part time jobs because their hours have been cut or they can't find a full time job nearly doubled to 10.9 million in April.
+BEAR7|And looking at some of the sectors that saw the biggest job losses, leisure and hospitality lost 7.7 million jobs.
+BEAR8|That's a 47% decrease from the month prior.
+BEAR9|Most of those job losses were in restaurants, in bars, education and health services, shed 2.5 million jobs, professional and business services last two point 1,000,000.
+BEAR10|Retail also lost two point 1,000,000 in manufacturing last more than a million jobs.
+BULL11|Average hourly earnings rose by $1.34 to $30.01.
+BULL12|That's a 7.9% increase year over year.
+BEAR13|That does reflect the substantial job losses that we are seeing among lower wage earners.
+NEUT14|And there were also some revisions for the month of February and March.
+BEAR15|Both were revised downward by 200 and 14,000 jobs total, and you 6 finally the broadest measure of unemployment came in at 22.8%.
+NEUT16|Hey, investors, Zack Guzman?
+NEUT17|Here?
+NEUT18|Are you interested in learning more about the markets and getting the latest financial news?
+NEUT19|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT20|Get the latest up to the minute market analysis.
+NEUT21|Big interviews in the world of finance and information on how to manage your money.
+NEUT22|"Every day, wherever you are."""

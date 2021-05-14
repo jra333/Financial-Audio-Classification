@@ -1,0 +1,26 @@
+BULL0|"""The Business Growth Fund is an unlikely success story."
+NEUT1|Back in 2011 when this small company private equity fund was set up by Britain's five big banks under pressure from the British government, it looked like another desperate attempt to distract the public from the financial crisis and the credit crunch it had caused.
+BEAR2|Many dismissed it as a SOP.
+BULL3|But four years on and the BGF financed by £2.5 billion of capital from the banks is starting to make an impact.
+NEUT4|More than £500 million has been invested in more than 100 companies, investing between 2:00 and £10 million of pop in a broad range of companies up and down the UK.
+BULL5|The BGF is playing a growing part in supporting the country's economic turn around Stephen Welton, the BGF's chief executive is proud of what the fund has achieved from 3 investments that we made in 2011.
+BULL6|We've now supported over 100 companies in the UK.
+NEUT7|We have now invested over half a billion pounds into UK smaller companies.
+BULL8|Of which £250 million have been in the last 12 months, and in the most recent quarter ending March 2016, we've invested over £70 million, so there's a massive inflection as we start to support many companies across the UK and 100 companies that we support today will be 200 companies in the near future, and that is really exciting.
+BULL9|And it demonstrates the demand that exists and the potential not just for BGF, but fundamentally for UK small companies to become the medium companies.
+NEUT10|The larger companies of the future.
+NEUT11|Sen Ox, an ATM servicing company was one of the BGF's earliest investments.
+BULL12|The £3 million equity injection it received has helped it evolve from an unsophisticated micro business that cleaned cash machines into a high tech operation.
+NEUT13|Specializing in everything from marketing, through ATMs to security of the cash inside the machines.
+NEUT14|Stand up, chief executive Clive Nation used the BGF money to buy up related businesses and take on new staff.
+NEUT15|Yes, well, the business had started from fairly modest roots.
+NEUT16|Ann and we've grown the business over the years by our own money investing in new projects and and buying some small businesses.
+BULL17|But we've reached the stage where we really needed some significant investment in order to achieve the next stage of our development.
+NEUT18|All of the other private equity houses will have some form of plan, but.
+NEUT19|PDF genuinely don't have.
+NEUT20|They really want to mirror a match, but the management want to do as the BGF has scaled up.
+NEUT21|It now employs 100 people at 8 regional offices.
+BULL22|Its rate of investment has grown exponentially.
+NEUT23|In the last quarter alone, it invested £70 million.
+NEUT24|Some of the companies that is backed, such as Senex, are invisible business to business operations that are nonetheless crucial to the operations of big multinationals.
+BULL25|"The business is now generating enough income to cover its operating expenses, but its long term fortunes will only be evident over the coming years as its portfolio companies matures, company owners sell or float their businesses and it gets cash back on its investments."""

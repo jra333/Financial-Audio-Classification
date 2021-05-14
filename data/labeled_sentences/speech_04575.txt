@@ -1,0 +1,39 @@
+BEAR0|"""We've been talking this morning about how earnings expectations have been coming down pretty drastically."
+NEUT1|7.8% is now the expected number for the S&P 500.
+BEAR2|That's down from 10.1% just about three months ago.
+NEUT3|So what happens?
+NEUT4|I have these expectations come down far enough.
+BEAR5|I think they come down pretty far.
+NEUT6|We're looking at about 9% for the year we overestimated.
+NEUT7|We were up into the mid teens.
+NEUT8|If you go back to June and and so are looking towards 2019, the realization is that the tax cuts are built in right now.
+NEUT9|How much organic growth are we getting from here?
+BULL10|And we got a little bit ahead of ourselves.
+NEUT11|The big question is going to be will the street be satisfied with a high single digit number?
+NEUT12|Whether it be the 9% or the seven, six that you're you're quoting on here.
+NEUT13|The peas forward.
+BEAR14|Not bad 14.6 for 2019, which is a tickle S than historical numbers, so the earnings.
+NEUT15|Hopefully you know, week from Monday starts the big banks.
+NEUT16|We get down to them and the guidance and the question is, does this street except single digits after the 20% plus, which was mostly tax inspired.
+NEUT17|Josh a lot of this comes down to what the economy looks like based on what you see from leading economic indicators.
+NEUT18|What do you think we're headed into?
+NEUT19|Well, we've got a divergent here between the economic data which the preponderance of which suggests the economy is doing well, and the fundamental sound.
+NEUT20|And the markets which are sending a much less upbeat message and I think until we get some resolution of that conflict.
+NEUT21|the Fed, for example, is going to be watching to see how that plays out.
+NEUT22|Markets are important signal and also contributor to the economic outlook, but they're not the only ones.
+NEUT23|Yeah, but what about if you look at housing or other week indicators that we've seen?
+BEAR24|So we've seen some weak ones.
+NEUT25|Housing is an area that both being affected by the tax situation and a little bit earlier in the year by higher interest rates, but now interested to come down a little bit and other fundamentals for houses to look OK, the consumer.
+BULL26|Consumer labor market still looks strong.
+BULL27|The private sector doesn't seem over its keys the way it was heading into the last couple of downturns, so I think the fundamentals are still good.
+BEAR28|But I do think growth is going to be a little bit weaker.
+BEAR29|I don't think it was on a sustainable trajectory in unemployment rate cannot continue to fall indefinitely, so that's going to be an important contributor to pick one very quick point, which is 9% is fantastic.
+NEUT30|Sure, earnings growth, although we're talking about economic context right here, you do 3% real 2% inflation.
+BULL31|5% underlying growth.
+BULL32|Let's say for example, you talk about four percentage points on top of underlying growth, which means increasing, not mean that the market is going to reward it because we were looking at 24% growth this past year and so it stuck.
+NEUT33|Right now.
+NEUT34|I know I'm just saying that if you get 9% growth, you should be laughing all the way to the bank on the other piece of it is the markets are much more sensitive to the global growth picture versus U.S. economic growth through that sort of concerns are rife there.
+BEAR35|A lot of uncertainty about what's going on in China.
+NEUT36|It's a black box.
+BEAR37|The trade negotiations, you know how that plays out, clearly weighing on the market.
+BULL38|"So if we could get some resolution there, I think that would be a big positive."""

@@ -1,0 +1,33 @@
+NEUT0|"""Well, first of all, penny stocks are typically companies that are low price per share."
+NEUT1|Does that mean they trade for pennies now?
+NEUT2|I sometimes would describe a penny stock a stock that might be trading at $1.73 per share.
+NEUT3|That's 173 pennies, not just one or not just well for the most part, we're talking about very small companies that probably don't have many shareholders, probably for a good reason, and these are stocks that typically we avoided The Motley Fool because we know that most penny stocks never get to be dollar stocks.
+NEUT4|A lot of them are dodgy enterprises where somebody is trying to hype it up or get you excited over a short term period to own shares that you may have a hard time eventually selling to anybody else who would want to buy him away from you.
+NEUT5|So penny stocks a phrase with a negative connotation.
+NEUT6|Here at The Motley Fool, yes, there is the rare story of the home run Penny stock or the stock we all should have owned that started in pennies, but that is a rare story.
+NEUT7|So have you ever bought a penny stock?
+NEUT8|I think every investor should buy one penny stock.
+NEUT9|Don't put much money but have the experience I did.
+NEUT10|It's an education.
+NEUT11|I was 19 years old, year was 1985.
+NEUT12|I bought a company called Interlab Robotics.
+NEUT13|You tell me if that's not an exciting name you betcha.
+NEUT14|How do I find out about the company?
+NEUT15|The Wall Street Journal?
+NEUT16|There was a little blurb about how enter lab robotics China based Inter Lab Robotics had a $40 million contract with the Chinese government.
+NEUT17|I assumed it was for, wouldn't you robots?
+NEUT18|I don't know.
+NEUT19|I bought it was at 1930 seconds back then.
+NEUT20|Of course stocks were traded in fractions, not in dollars and sense, so I bought for 1930 seconds.
+NEUT21|Imagine my joy a month later when I opened up the paper and it was at 2330 seconds.
+BULL22|It's about a 20% return in 30 days.
+BEAR23|It started to go down.
+NEUT24|I remember briefly 1730 seconds.
+NEUT25|I think I remember a 530 seconds moment.
+NEUT26|Zero 30 seconds is not a good investment.
+NEUT27|That's where Interlab Robotics played out for me.
+NEUT28|Sometime in that crazy youthful year of 19, I learned an important lesson that is avoid penny stocks.
+NEUT29|Unless you really understand the business.
+NEUT30|Unless you know what the robots are.
+NEUT31|Unless you visited the factory in China, unless you can depend on the Chinese government to fulfill its $40 million robotics contract.
+NEUT32|"Don't invest in penny stocks."""

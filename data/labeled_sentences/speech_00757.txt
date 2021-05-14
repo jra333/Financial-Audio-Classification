@@ -1,0 +1,11 @@
+BULL0|"""We're looking at Tesla shares surging in after hours trade because it will now be added to the S&P 500."
+NEUT1|Tesla will be the biggest ever new member of the benchmark Index.
+NEUT2|And keep in mind this is a company with a market value of $390 billion.
+NEUT3|In fact, Tesla is so large that the index compiler has not yet decided whether to add the company in phases or in its entire T. No decision yet.
+NEUT4|Also on who Tesla will replace because obviously there are 500 companies.
+NEUT5|Someone else will need to get booted out to make room for Tesla, but there is time because the change will not take effect until December 21st.
+NEUT6|Now for Tesla membership in the S&P 500 is validation of its business model.
+NEUT7|It managed to string together five quarters of profit and it's now a blue chip, which will mean a lot of money coming into the stock through those passive index funds that track the SMP.
+NEUT8|The biggest story is the moment they happen from around the globe.
+NEUT9|Subscribe to Bloomberg.
+NEUT10|"Quicktake now for insight in an instant."""

@@ -1,0 +1,13 @@
+NEUT0|"""You're here to celebrate the Financial Times 125th anniversary."
+NEUT1|How does it feel to have just run the Bell at the New York Stock Exchange?
+NEUT2|Pretty exciting please.
+NEUT3|At the market finished up, I'm pretty superstitious, but it was a big moment.
+BULL4|Great moment.
+NEUT5|What is the Financial Times is key points of success of being in business for 125 years?
+NEUT6|Yeah, well nowadays when you think about businesses lasting for that long, it's obviously a big challenge and I think one of the key things is to stay close to your audience and your customers and our customers are business.
+BULL7|People have gone global so we've gone very global, hence the fact we're here today and what is now our biggest market and also to stay flexible to adapt.
+NEUT8|So obviously there's been a lot of change in technology and disruption, so you have to stay as nimble and as a child as he can and to meet the needs of our customers however they want to take their news.
+NEUT9|And what's next for the Financial Times?
+NEUT10|I hope you know that 125 years of success, but you know, we will keep on core to everything we do is the quality and integrity of our journalism.
+NEUT11|So that's one thing that you can absolutely take for granted.
+NEUT12|"So however, people take their news, whether it's through mobile, through whatever device, through PC's, the quality of our global journalism is something that will always guarantee."""

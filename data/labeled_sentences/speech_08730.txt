@@ -1,0 +1,18 @@
+NEUT0|"""What do you think the future of Bitcoin is like?"
+BULL1|I think that very easily we could see Bitcoin going up to 50,000 by the end of this year.
+NEUT2|We have our analyst sat next to crunching the numbers, doing very substantial research and it is just the hell over right.
+BEAR3|It's the helping coming up because you know the the rewards for miners are dropping.
+BULL4|Last time this happened, Bitcoin rallied 4000% and it's been an incredible assets uncorrelated to the overall market.
+NEUT5|It delivers systematic.
+NEUT6|Asymmetric returns and the only thing that we have seen close to anything like this has been the rise of the US dollar against the Reich Mark in the 1920s, where you saw $1.00 being exchanged for five right marks in the early 1920s to $1.00.
+NEUT7|Big exchange for four billion reichmarks, so you know if it follows this trend, there's a long way to go.
+NEUT8|For my, I mean, I actually I live.
+NEUT9|I didn't experiment where I lived on Bitcoin for a couple weeks back in 2012 when it first hit $1000 and people thought that price was insane.
+NEUT10|Absolutely ridiculous to pay $1000 for this digital token.
+NEUT11|Of course, now we're seeing it trade a little more than 7000, but.
+NEUT12|It's not any easier now in 2020 to spend Bitcoin on the street than it was back in 2012.
+NEUT13|It wasn't easy.
+NEUT14|Why don't you think it's picked up as a method of payment?
+NEUT15|Well, that's a very good question.
+NEUT16|I mean, the initial idea was we're going to pay for coffees with Bitcoin, but obviously that has failed to materialize the finger narrativ.
+NEUT17|"Now that is much more persuasive is that Bitcoin is the new gold."""

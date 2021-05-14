@@ -1,0 +1,12 @@
+NEUT0|"""Now what in the world happened to zombie?"
+NEUT1|I know a lot of people are wondering they were like, oh, it's only up tickets going up to, you know, $142 is going to get to 150 soon.
+BEAR2|I was one of those people but it started to fall down with the market.
+BEAR3|It's currently down 10%.
+BULL4|Hopefully we could see something good in the after hours market.
+BEAR5|But you see this, it really tanked from that 130 mark or 132 mark all the way down to.
+BEAR6|A low of 123 currently sitting at 126 down basically 10%.
+NEUT7|It's not really a great move for it, but just know that it is a down market, so it's not just because people are selling off anzam, it's because more people are selling then buying because most people don't want to buy in a down market.
+NEUT8|That's where you're going to see consistently.
+NEUT9|Throughout, you know different stocks that you look at today, so don't think of this as a horrible situation foersom.
+BULL10|I think of this as a positive.
+BULL11|"It gives you an opportunity to buy more."""

@@ -1,0 +1,22 @@
+NEUT0|"""Welcome to the Lupin Limited stock analysis video."
+NEUT1|In this video we would look at fundamentals of Lupin Limited and important financial reissue.
+BEAR2|Lupin limited current price is 1112.00 exchange minus 9.48% lower than previous close its 52 Week highs 1749.8 and 52 week Low is 1112.6 companies earning per share is 56.6 and its price to equity ratio is 20.1.
+NEUT3|Star cast book to price ratio is 3.8 Lupin Limited.
+NEUT4|Return on equity is at 22.8%.
+BEAR5|Company had 4253.34 revenue in Q416 as compared to 4482 point 9,00,00,000 in Q316.
+BEAR6|Company seems to be facing challenging growing revenue in last few quarters, which is a big negative.
+BEAR7|Revenue has gone down quarter round quarter with minus five point 1% in current quarter and 4.5% in previous quarters.
+BEAR8|Ralph, it has declined in last few quarters, which is not positive for the company.
+BEAR9|Current quarter profit is 380.2 as compared to 643.1 roller in previous quarter.
+BEAR10|Profit growth rate has been negative in last few quarters.
+BEAR11|It has grown minus 39.95% in last quarter compared to minus 4.39% in previous quarter, which is a concern.
+NEUT12|Profit margin is the ratio of net profits revenues profit margin in view.
+BEAR13|416 is 8.94 as compared to 14.12 and 316.
+BEAR14|Operating profit for the company and you 416 is 781.374 as compared to 1215.83 roller in Q316L built in Q416 is 518.674 as compared to 1042.574 in Q316.
+BEAR15|Operating profit margin for the company in Q416 is 18.37% as compared to 27.12% in Q316.
+BEAR16|Ebbett margin in Q416 is 12.19% as compared to 23.26% in Q316.
+NEUT17|Company has 7177.54 dead.
+BULL18|It has increased liability of 144.84 companies in person to cover aggression is 25.41.
+NEUT19|Finally, here is a summary of few positives and negatives based on these analysis points we have calculated the rating for Lupin Limited.
+NEUT20|Heroes rating on a scale of 10 for Lupin Limited.
+BULL21|"Thanks for watching this video."""

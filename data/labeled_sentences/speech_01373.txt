@@ -1,0 +1,22 @@
+NEUT0|"""Well, this time it's not the Bank of Japan with the bazooka that busy 'cause already out there."
+NEUT1|It's the government that is pumping about 10 percent, 10% GDP into the economy.
+NEUT2|But the Bank of Japan is doing is saying we're backing it up.
+NEUT3|Whatever it takes, we take it, we buy it.
+NEUT4|And now refining the ways of getting liquidity into the market, supporting banks with credit lines to ** ES having getting in more collateral, buying more corporate bonds.
+NEUT5|All that will help to get the economy out.
+NEUT6|To have the helicopters fly.
+NEUT7|To what extent will it help Martin?
+NEUT8|And based on the announcements we're getting through today?
+NEUT9|I mean, does this change your forecast for growth at all?
+NEUT10|Yes, it us.
+BULL11|The difference between Japan and many other countries is well.
+BEAR12|We didn't have a full lockdown Golden week.
+NEUT13|Now this week starts early, 2 two days early because the government say please please stay at home.
+NEUT14|This is what we do.
+NEUT15|As you can see and the economy is reacting to that our growth.
+BEAR16|Forecasts for about minus 6% this year actually stays for a month.
+NEUT17|The reason is, well, the economy is not in full lockdown.
+BEAR18|It is hurting.
+NEUT19|But with all the liquidity of coming from the government.
+NEUT20|And basically stable operation at a lower level.
+BULL21|"It should be able to muddle through."""

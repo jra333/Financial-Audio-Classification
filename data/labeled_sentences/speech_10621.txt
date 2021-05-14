@@ -1,0 +1,27 @@
+NEUT0|"""I do want to get to that Bernstein call on Zoom later."
+NEUT1|Jim they go to 611 on their target.
+NEUT2|They were way below where it is right now, but zoom minutes year on year.
+BULL3|It shouldn't be surprising, but it's still astounding up 30X.
+NEUT4|I mean, that's a reflection of our daily lives.
+NEUT5|Of course.
+NEUT6|What's happened over the last eight months?
+BULL7|Look, Zoom is a remarkable company.
+NEUT8|There was competition look ringcentral's, competition, Webex, Cisco competition.
+NEUT9|They they didn't work because Zoom is business to business.
+NEUT10|And business to consumer.
+NEUT11|That's highly unusual.
+BULL12|Earth Yuan is an amazing executive, is an exuberant individual.
+NEUT13|He is.
+NEUT14|He's a 24/7 soul who is thinking every minute about how to make zoom into something even bigger.
+NEUT15|How about this?
+NEUT16|How about what he did with DocuSign?
+NEUT17|You watch zoom and you can sign a deal.
+NEUT18|How smart was that?
+NEUT19|I believe he's going to start getting most will start seeing things that make it so that zoom can be worldwide translation like you have with Google.
+BULL20|It's a remarkable product.
+NEUT21|And it's working now is this?
+BEAR22|Is this fastly a company that underperformed after being hyped up $20 by by forces that are unknown?
+NEUT23|No, this is a company that it's very hard to value 50 times sales.
+BEAR24|It's very hard to value because the sales which zoom is hard to value or fast heart.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

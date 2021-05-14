@@ -1,0 +1,32 @@
+NEUT0|"""Alright, let's get to it."
+NEUT1|First Dean, you are stepping up to new role.
+NEUT2|I think your young fellow, I think you have many more years ahead of you.
+NEUT3|Why now?
+NEUT4|Well, a gym.
+NEUT5|I've been at this a long time.
+NEUT6|I've been at the helm of Ultrix for 23 years.
+BULL7|It has been a long emotional journey.
+NEUT8|I know the journey for the company is not over with.
+NEUT9|We are less than 1% penetrated into the Tam that we've identified as a $50 billion Tam.
+BULL10|And I'm confident that Mark Anderson is the guy to fill my shoes and take it forward.
+NEUT11|OK, so Mark cyber security we we talked to Palo Alto all the time.
+NEUT12|As you know and have for 10 years.
+NEUT13|How is that?
+NEUT14|Synergistic with what you're doing now at hours?
+BULL15|Well thanks a lot for having me on Jim and I definitely appreciate it.
+NEUT16|It's gonna be a long time fan and watch her.
+NEUT17|Yeah listen.
+NEUT18|I think what I loved about Palo Alto Networks was the mission right?
+BEAR19|To prevent successful cyberattacks in it at all tricks, I think we've got an equally compelling mission where your customers are struggling with the vast amounts of data that are swirling around their business.
+NEUT20|And you know, those that can command control of that data and deliver you know insights to drive data driven decisions are really separating themselves.
+BULL21|Well, from the losers and and I love the fact that you know, especially we get a chance to, you know with our platform up skill workers.
+BEAR22|You know people that have lived a miserable existence of banging your head against the wall with the local spreadsheet application.
+NEUT23|We get to allow them with a simple drag and drop to really make the data.
+NEUT24|Saying an preparing for advanced analytics.
+NEUT25|Don't miss a second of mad money.
+NEUT26|Follow at Jim Cramer on Twitter.
+NEUT27|Have a question?
+NEUT28|Tweet grammar hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT29|Miss something head to madmoney.cnbc.com.
+NEUT30|Shepard Smith here.
+NEUT31|"Thanks for watching CNBC on YouTube."""

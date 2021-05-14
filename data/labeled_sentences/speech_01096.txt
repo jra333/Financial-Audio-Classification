@@ -1,0 +1,26 @@
+NEUT0|"""There's two factors here we really look at coin shares is we look at sentiment and sentiment."
+NEUT1|Really drives demand.
+NEUT2|And as you alluded to, a lot of the interest in Bitcoin is coming from institutions.
+NEUT3|When we look at trends on the trading side on the structured product side where we operate and manage 4 billion in assets for our clients, a lot of the inflows are coming from institutions for allocating through publicly listed exchange traded products or funds there.
+NEUT4|Is retail participation, but it's nowhere near what we saw in 2017.
+NEUT5|I think what we are seeing where we are seeing the retail participation is in things like Doge Coin, another sort of smaller market cap crypto currencies that lend themselves more to meme ification.
+NEUT6|And you know what we call meme coins or mean stocks.
+NEUT7|You look at game, GameStop and AMC, but really, what's driving Bitcoin in my view, is the fundamental shift in sentiment Ray Dalio's talking about it.
+NEUT8|Black rocks.
+NEUT9|Allocating to it guggenheims, allocating all of the major allocators are now getting in.
+NEUT10|But how long can this last?
+NEUT11|I mean, how long can this bullish sentiment surrounding cryptocurrencies last when you have the likes of Janet Yellen who just got confirmed as Treasury Secretary in one of the first things she said is that there will be more regulation that the cryptocurrency industry should should get ready for.
+NEUT12|Yeah, absolutely.
+NEUT13|I mean look, I think Janet Yellen's comments were fairly nuanced.
+NEUT14|There's an alphabet soup of three letter agencies that already regulate the Bitcoin industry.
+NEUT15|I think there's sort of this misconception that Bitcoins unregulated, which is certainly false.
+NEUT16|We spend a lot of time on compliance in our organization, but look, I think what is happening is in 2020 it was a risk for investors to allocate to Bitcoin in 2021.
+NEUT17|It is a risk to not allocate to Bitcoin, and it's not just investors.
+BULL18|If corporations, MicroStrategy is soaring in on the back of its allocation to Bitcoin, it has more than doubled its Treasury reserves due to its allocation.
+NEUT19|They just hosted an event with over 1000 corporate treasurers in attendance and also I think we now have nation states starting to seriously look at what role Bitcoin could potentially play in the future of their economies.
+NEUT20|So it's not just institutions and retail, it's also corporations.
+NEUT21|It's governments.
+NEUT22|It's the whole world.
+BULL23|And I'm really excited.
+NEUT24|Shepard Smith here.
+NEUT25|"Thanks for watching CNBC on YouTube."""

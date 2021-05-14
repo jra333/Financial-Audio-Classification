@@ -1,0 +1,15 @@
+BULL0|"""Good morning guys."
+BULL1|Good day today.
+NEUT2|Busy morning, I've quite a few trades.
+NEUT3|I'm currently up here on my chase this morning.
+NEUT4|As I said yesterday, I want to buy today with all the cash I have.
+NEUT5|I bought a Sam nine 1390 square, came back down to 220 which is the place I wanted.
+NEUT6|I got it at two 2186.
+BULL7|Disney at one 7174 with Netflix going up so much after earnings, I expect great things with Disney Plus numbers 2.
+NEUT8|Lucky Martin at 340 black wax at 7:40.
+NEUT9|And I dated someone, but that's only 96 and sold at 8588.
+NEUT10|Quick part for right there.
+NEUT11|And here's what I saw.
+NEUT12|McDonald's at 2:15, an Costco at 363.
+NEUT13|An I turn it more Facebook at 272.
+NEUT14|"Death for now."""

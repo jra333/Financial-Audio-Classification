@@ -1,0 +1,30 @@
+BEAR0|"""But there is breaking news and it has to do with with 12 to 15 year olds."
+BULL1|Thanks Jason.
+NEUT2|Meg tirrell.
+BEAR3|Thanks sorry.
+NEUT4|Thank you Meg.
+NEUT5|What's up?
+NEUT6|Well Joe, Pfizer has been testing its vaccine down to age 12 and they have the 1st results from that trial.
+NEUT7|Today in about 22112 to 15 year olds.
+BULL8|They show that their COVID-19 vaccine was 100% effective in preventing disease in 12 to 15 year olds.
+BULL9|Now that 100% efficacy is shown because there were 18 cases among kids in the placebo Group, 0 cases for those who are on the vaccine.
+BULL10|Pfizer saying this was well tolerated.
+NEUT11|Albert Bourla, the Chairman and CEO Pfizer saying quote we plan to submit these data to the FDA.
+NEUT12|As a proposed amendment to the Emergency use authorization in the coming weeks and other regulators around the world with the hope of starting to vaccinate this age group before the start of next school year, guys and this of course, follows last week when the company dosed the first participants going down to age 5 next week.
+NEUT13|They say they plan to start dosing ages two to five guys, so really starting to move into kids here, potentially a vaccine for back to school in the fall guys.
+NEUT14|OK, make that.
+BULL15|It's great if you combine that with the news that which I think we all hope that vaccinated people couldn't spread the disease, but that's still as we get more data points on that.
+NEUT16|I mean, if you're not.
+NEUT17|You can't get infected and you can't.
+NEUT18|The vaccine or the virus can't reproduce in your system.
+NEUT19|It's hard to imagine how you could be contagious, but seeing the actual results that that seems to be the case.
+NEUT20|It just looks like there's some light at the end of this long long tunnel that that we've been on, Meg.
+NEUT21|I'm going through.
+BULL22|Yeah, the studies have been really good.
+NEUT23|The real world studies are showing these vaccines really work well, and of course they're running a study in college students to really get an answer to that question, Joe, do these vaccines prevent transmission?
+NEUT24|It's the Moderna vaccine, but they're running it to see if can we really stop wearing masks.
+NEUT25|How confident can we be that these vaccines will prevent us from transmitting this disease?
+NEUT26|I talked with Doctor Fouchy about it earlier this week.
+NEUT27|He's excited about that study.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

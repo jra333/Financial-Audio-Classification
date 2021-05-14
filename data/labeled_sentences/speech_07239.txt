@@ -1,0 +1,38 @@
+NEUT0|"""If you're buying stocks you want yield, you want growth."
+NEUT1|There's a simple tradeoff between these two captured in this formula, R = y + G. Your total return on a stock portfolio or on one stock is equal to the yield you're getting it, plus the growth you're getting from it.
+NEUT2|That's assuming that multiples don't change, which they tend not to do over long periods of time.
+NEUT3|And let's look at this trade off in the context of a couple of popular blue chips.
+NEUT4|One of them is Verizon that has a pretty fat yield that's been running between 4 and 5% a year.
+NEUT5|It has a smaller growth rate.
+BULL6|I don't expect much growth from this stock, maybe 2 to 3%.
+NEUT7|If you add those together, you'll find your total return on.
+NEUT8|That stock is probably going to be around 7%.
+NEUT9|Let's take another one, Pepsi ticker symbol PEP.
+NEUT10|That one has a smaller yield.
+BULL11|You don't get as much cash right now up front, but the company is building more, it's growing more.
+BULL12|It's getting more sales.
+BULL13|It's building faster than that phone company, so that one might combine a yield of two to 3% with a growth rate of four to five.
+NEUT14|Add those two together, and what do you get out of that stock?
+NEUT15|Around 7:00 this is what the moral of this formula is.
+NEUT16|Jam today or Jan tomorrow there's no way to find a stock which has a fabulously high yield.
+BULL17|An also a lot of growth.
+NEUT18|And if you're going to get a lot of growth, you're not going to get much current yield.
+NEUT19|And I'm going to take two more examples to illustrate this.
+NEUT20|These are both extremes.
+BULL21|AutoZone is an auto parts retailers done very well over the years.
+NEUT22|The yield is zero.
+BEAR23|It's a big fat 0, but that doesn't mean you get poor with this stock.
+BULL24|No, you could have done very well with it.
+NEUT25|You see all of the earnings that are making from those mufflers and other parts are being plowed back into shrinking the sharebase by buying in shares and making your shares more valuable.
+NEUT26|In that case you got a zero percent yield and a lot of growth.
+BULL27|I expect more than 7% a year from that one.
+NEUT28|Another extreme would be a high yielding stock that doesn't have any growth.
+BEAR29|In fact it's got shrinkage in its future.
+NEUT30|That would be Annaly mortgage.
+NEUT31|The yield is upwards of 10%.
+NEUT32|Does that mean you're going to make temper sent from this?
+NEUT33|No.
+NEUT34|Look up the stock and value line and will say you know what we predict.
+BEAR35|A 3% annual shrinkage in the dividend.
+NEUT36|So you're getting a + 10 Anna minus three and your total return from that stock.
+NEUT37|"Well, if you're lucky, it's going to be around 7:00."""

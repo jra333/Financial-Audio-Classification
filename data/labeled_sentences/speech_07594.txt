@@ -1,0 +1,26 @@
+NEUT0|"""Investors are better face up to a colossal question."
+NEUT1|What will higher interest rates mean for bonds, stocks and commodities?
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead where you get the insights you need to better navigate these turbulent times.
+BULL3|Interest rates remain at low levels, but not for long.
+NEUT4|Here's why smart investors will start readjusting their portfolios in the face of levels of interest rates not seen in a generation to deal with the economic damage done by COVID-19 lockdowns and dislocations.
+BULL5|Congress pass relief measures totaling trillions of dollars to finance this spending.
+NEUT6|The Federal Reserve has been creating money out of thin air on a gargantuan level.
+BULL7|Unfortunately, our central bank has been printing too much, which is why gold, the best barometer of monetary misbehavior, has gone up 50% since March.
+BEAR8|While you've seen spectacular rises in Bitcoin and other cryptocurrencies, why commodity prices are climbing while consumer prices are inching up, but price inflation has been largely held back because people and businesses.
+BULL9|Are holding on to their savings and cash because this deadly pandemic is still very much with us.
+BEAR10|But by late spring and early summer, this crisis will be over as 10s of millions of people will have been vaccinated and consumers thoroughly sick and tired of restrictions will let loose on an avalanche of spending.
+BEAR11|This will put pressure on prices.
+BULL12|But Congress is ready to do more government spending on a monumental scale.
+BULL13|Our new President, Joe Biden has proposed another so-called stimulus bill, totaling $1.9 trillion, with promises of even more spending measures to come after that.
+NEUT14|the Fed will be printing money as never before to pay for this unprecedented government spending.
+BULL15|This guarantees more inflation on a level not seen for decades.
+NEUT16|Unfortunately, our central bank still believes in a long discredited theory called.
+NEUT17|The Phillips curve, which posits that to get economic growth, you must have some inflation to lower inflation, you must create more unemployment.
+BULL18|The Federal Reserve has a target of 2% inflation, but it's indicated it would accept temporarily an even higher level.
+NEUT19|This means that is inflation, heats up, the Federale continued to Stoke the flames instead of tamping them down, and when it realizes it has an unmistakable crisis on its hands.
+BEAR20|Its only recourse given its mistaken belief in the Phillips curve, will be to try to suppress economic growth and create higher unemployment by raising interest rates.
+BEAR21|This won't sit well with Washington politicians.
+NEUT22|Of course, the new Biden Administration Congress and the Fed might wake up now to the dangers and not give in to the itch to spend more and print more money.
+NEUT23|Unfortunately, that's not likely so investors take note a big economic and political storm lies ahead.
+NEUT24|I'm Steve Forbes.
+BULL25|"Thank you for listening to send in your comments and suggestions and I look forward to being with you soon again."""

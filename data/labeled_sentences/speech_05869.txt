@@ -1,0 +1,7 @@
+BEAR0|"""From FX Empire, this is Chris taking a look at the S&P 500 weekly chart and you can see that we have pulled back a bit from the 50 week MA and it does look like we're running out of momentum."
+BEAR1|I think that if we get below 2800 it opens up the door down to 2640.
+BEAR2|At this point, I do think we're running out of momentum, and with that being the case, a pullback makes quite a bit of sense, as valuations will have to come down.
+NEUT3|Most businesses are going to be running on at best 50%, and that's going to be across the board.
+BEAR4|A lot of customers simply are not coming back, so you know to get above 3000, it's going to be difficult.
+NEUT5|If we do, then we'll probably go to the highest but.
+BULL6|"Wow, it's got a lot of work ahead of it to do that."""

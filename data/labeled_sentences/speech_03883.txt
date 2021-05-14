@@ -1,0 +1,43 @@
+NEUT0|"""Hi, I'm Sonia with The Motley Fool and with me is David Kuo and we're here today to talk about saving and investing."
+NEUT1|Now David, can you tell us why it's really important to understand the difference between saving and investing?
+NEUT2|It is probably easiest on you ever give you an example of the difference between saving and investing.
+NEUT3|If you taken 1000 pounds and put it into a savings account back in 2002.
+NEUT4|How much do you think you would earn in interest at the end of 10 year.
+NEUT5|Not a lot.
+NEUT6|Not a lot.
+NEUT7|1127 pounds to be precise.
+BEAR8|That's very disappointing.
+BEAR9|It is quite disappointing now if you take £1000 and you put it into a stock market index tracker back in 2002, that money would have grown to over £2000 after 10 years.
+NEUT10|I'm feeling better already, so you should sign.
+NEUT11|Yeah, and that is the difference between investing and saving.
+NEUT12|When you're investing, you're hoping that you want your money will grow quickly.
+NEUT13|Over a long period of time, but with saving, you are just simply putting that money away so that you can probably sort of access it quite quickly and you have to learn the difference between the two.
+NEUT14|Savings are money that you need in the short term and investing is money that you can afford to put away for the long term.
+BEAR15|OK, so any savers who have shunned the market in the last 10 years have essentially missed out on doubling their money.
+NEUT16|Well, I can understand why some people shun the stock market because the stock market can be a very volatile place to have your money.
+NEUT17|Take for instance, you know ten years ago the Footsie was sitting at around 4200 points, then it charged up all the way to 6700 points, then it plunged to 3200 points, and today it's settling around 5700 points.
+NEUT18|And is that it is that expansion and contraction of your money that many people don't like and that is one of the reasons why they shun the stock market.
+NEUT19|I mean to see it fall from 6700 to 3200 is enough to give anybody the heebie jeebies you could get some Peace of Mind though from investing in funds, right?
+NEUT20|Well, you know some people don't like to manage their own money, so therefore they say I'll give them the responsibility to a fund manager.
+NEUT21|But bear in mind that the Fund manager will want to earn a fee out of it, and that fee will eat into returns.
+NEUT22|So over the last 10 years when you were doubling your money as that is approximately a 7% return that you're getting on your investment, take off another 2% in fees.
+NEUT23|You'd only end up with 5%, so bear in mind that if you give your money to a fund manager, he will want to earn a fee.
+NEUT24|OK, can you give us some examples of some companies that have beaten the stock market?
+NEUT25|I can.
+NEUT26|It's a very important point you made there Sonya because within the index there would be some companies that will have outperformed the market.
+NEUT27|Now one of those companies is Burberry BRBY.
+NEUT28|Now in the case of Burberry, it is returned 500% over the last 10 years.
+NEUT29|I mean another company is Sabs Miller and the beer maker.
+BULL30|They've also returned 500% over the last 10 years.
+NEUT31|One third one yes, please OK. Another company would be Rolls Royce.
+NEUT32|Nice boring company.
+NEUT33|They make aeroengines.
+NEUT34|They go inside the airplanes.
+BULL35|Now they've returned about 460% over the last 10 years.
+NEUT36|So you can see there's a lot of choice there.
+NEUT37|You have beer makers, you have retailers.
+BULL38|You have engineering companies, so lots of companies in there that could boost the return from your stock market investing.
+BULL39|So thank you, David.
+NEUT40|I think the moral of the story really then is if you're a saver and you've covered all your personal expenses and have some extra cash, then why not put towards a stock market?
+NEUT41|I mean, the sooner you start, the better, right?
+BULL42|"I couldn't put it better myself so yeah, thank you for watching."""

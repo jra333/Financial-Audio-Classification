@@ -1,0 +1,31 @@
+NEUT0|"""How to spot a recession."
+BEAR1|Most economists only see a recession in the rearview mirror after it's already started, although some economists watch the equity markets in every swoon in the equity market, they're worried about a recession and then it rarely happens.
+NEUT2|And then, of course, there's the.
+NEUT3|Inverted yield curve.
+BEAR4|It is a superb measure of future recessions, but it has a real big problem timing when the yield curve inverts short term rates higher than long term bond yields, it can mean a recession is coming in six months.
+NEUT5|12 months, maybe two years, and if rate policy's change in that time, the recession may not occur at all.
+NEUT6|That's what's happened in the US, by the way, the feds change direction so the yield curve may not be even in signaling.
+BEAR7|A recession is coming.
+NEUT8|So what do we look at for shorter term indicators, one of the best ones is to look at high yield debt.
+NEUT9|Now if you think about high yield debt, it's it's often viewed as an option.
+NEUT10|So if you own a stock, it's like owning a call option on the assets of the company.
+BULL11|The stock goes up.
+NEUT12|The call option goes up if you own debt.
+NEUT13|It's like owning a put option on the assets of a company.
+NEUT14|So if the company goes South and is not making money anymore, the high yield debt.
+BEAR15|Interest rate is going to go up so when high yield debt interest rates go up, your put option is losing money.
+BEAR16|The debt's not doing well, and it's a signal.
+NEUT17|A recession could be coming so we watch high yield debt spreads against government bond spreads, but they have to rise significantly.
+BULL18|A small rise in high yield debt interest rates is no big deal, but a big rise watch out.
+NEUT19|Now people also look at the jobs market.
+BEAR20|All recessions have a lot of job losses.
+BEAR21|The thing about it is that companies get in trouble.
+BEAR22|They're not making money and then they cut jobs.
+BEAR23|So jobs are a lagging indicator, but if you are looking at jobs and you're thinking about a US recession, you can watch the weekly new unemployment claims.
+NEUT24|That's the most recent data.
+NEUT25|And by the way, if a recession happens, that data turns South really fast.
+NEUT26|You will know it in just three or four or five weeks.
+NEUT27|Because it just gets worse and worse and worse, so that's what we watch first.
+NEUT28|The high yield bonds.
+NEUT29|Then we watch the jobs and hopefully we can see this before it's coming.
+NEUT30|"I'm Blue Putnam chief economist CME Group."""

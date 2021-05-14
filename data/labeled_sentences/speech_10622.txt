@@ -1,0 +1,9 @@
+NEUT0|"""Everyone, let's take the weekly chart of the Apple stock."
+NEUT1|We can see it has made another red candle and below the two young male lion.
+BEAR2|These two young line nearly got a death cross, so it's still bearish for Apple stock.
+BEAR3|In weekly chart emitter we can see we have this long uptrend from there.
+NEUT4|29th 27th of March.
+NEUT5|It's last year, so it's nearly one year after the channel.
+BEAR6|Here is very likely for it to make another consolidation area, but for now, we can see the law here is lower than the Lord has made of last week, so it's still bearish emitter, so we should be very careful about the Apple stock price.
+NEUT7|Here is bearish.
+BULL8|"Thank you."""

@@ -1,0 +1,28 @@
+BULL0|"""The Federal Reserve is ready for liftoff."
+BULL1|After holding its benchmark federal funds rate near 0 for seven years, the US Central Bank has signaled it will begin gradually raising interest rates, citing the strengthening of the economy.
+NEUT2|So who wins?
+NEUT3|And who loses when rates rise?
+NEUT4|Let's start with the winners.
+BEAR5|Banks have been yearning for the Fed to raise rates to stem the decline in their net interest margin.
+NEUT6|An important measure of banks profitability.
+NEUT7|The interest rates banks charge on.
+BULL8|Many loans are directly tide to the feds target rate so they will immediately earn more interest on those items, thereby boosting the bank's bottom line.
+BULL9|Higher rates will also strengthen the US dollar, but there's also growing consensus that the dollar's biggest gains may already be in the rearview mirror.
+BULL10|The greenback has appreciated over 20% against other currencies since July 2014, in anticipation of a rate hike.
+BEAR11|A strong dollar is a positive for consumers buying goods or traveling overseas, but the flip side is that a strong dollar ends up hurting American exporters.
+BULL12|Life insurers have been the biggest cheerleaders for a sustained rise in interest rates.
+NEUT13|Most insurers earn substantial income from investing premiums, and they typically favor high quality bonds whose yields have plummeted in recent years amid extended low interest rate conditions.
+NEUT14|Now for some losers in an environment of higher rates.
+BEAR15|A rising dollar in the wake of a rate hike could weigh on oil prices by making Dollar traded oil more expensive for buyers using foreign currencies.
+BEAR16|It also would hurt U.S. oil producers by making oil production more expensive in the US than for companies using weaker local currencies.
+BEAR17|And gold is expected to struggle once the US central bank hikes rates as the precious metal doesn't pay interest and cost money to hold, thereby making it less appealing than other havens like Treasury bonds.
+NEUT18|Rate sensitive stocks such as consumer staples, telecoms, and utilities are those with high dividend yields.
+BULL19|These companies have been popular with investors over the last few years for generating steady income.
+BULL20|But with rising rates, bond yields are now poised to become more attractive to investors looking for other relatively stable places to park their money.
+NEUT21|And here's a draw when it comes to higher rates.
+NEUT22|In general.
+BEAR23|Higher mortgage rates, Pert home affordability as potential buyers can't spend as much on a home to get the same monthly payment.
+BEAR24|But contrary to that logic, a hike in short term interest rates doesn't spell trouble for the housing market, at least not yet.
+NEUT25|Short-term rates have an indirect relationship to mortgage costs, which are still near historically low levels.
+BULL26|The Fed is expected to hike rates gradually and in small increments, and that could potentially spur prospective buyers to lock in a home loan.
+NEUT27|"Now instead of later."""

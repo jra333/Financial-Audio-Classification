@@ -1,0 +1,17 @@
+NEUT0|"""Hello and welcome to today's technical analysis."
+NEUT1|It Wednesday, August 16th among rosariocurrencyisaksen.com.
+NEUT2|Today will be looking at the US dollar, which is the Canadian dollar on the daily chart.
+NEUT3|So as we can see, U SD card has arisen in the previous 10 out of 12 trading place.
+BULL4|The pair also recorded a one month high of one point 2777.
+NEUT5|In yesterday's trading.
+BULL6|Additionally, notice that the RSI indicator has risen considerably in recent days, hinting to positive momentum in the in the short term.
+BEAR7|If the price advances, air resistance area could be formed by yesterday's higher one point on December 27 and the Upper Bollinger Band are on point 2802.
+NEUT8|A break above would shift focus to the area around the current level of the 50 day moving average.
+NEUT9|At one point.
+BEAR10|2873 is an additional barrier to the upside.
+NEUT11|Even the price instead the clients support could come around the Middle Bollinger line.
+NEUT12|This is a 20 day moving average line or point 2602.
+BULL13|If this is violated, additional support is expected to come around, expected to come from the July 2725 1/2 model or one point 2715 and their lower Bollinger band around point 2401.
+BEAR14|Concluding with the medium term picture, it is bearish as a result of the significant declines over the last three months.
+BEAR15|Additionally, the period quoted a bearish cross on July 12th, when the 50 day moving average move below the 200 day one.
+BULL16|"As for today, thank you very much for watching and have a great day."""

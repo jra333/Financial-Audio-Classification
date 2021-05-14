@@ -1,0 +1,35 @@
+NEUT0|"""I was listening to Ben Bernanke, formula former Fed chair, of course saying it's not like the depression."
+BULL1|This isn't going to last for 12 years, but he did say if all goes well in a year or two we should be in a substantially better position.
+NEUT2|Do we have to start thinking about things over that kind of time horizon?
+NEUT3|Well, I think it's I think that's right.
+BULL4|We do believe it will get out of this and the recovery will be quite strong.
+BEAR5|But the dip in the meantime is pretty significant.
+NEUT6|I mean to give a scale of it we're looking at.
+BULL7|USG DP porting by 6.2%.
+BULL8|This year, 9% across the eurozone and globally.
+BEAR9|A contraction of 1.8 and that's in GDP terms and we're expecting earnings to fall by about a third in the US and by 45% across the eurozone by over 20% across Asia.
+BEAR10|These are very big numbers relative to even other recessions.
+NEUT11|The financial crisis and and others.
+BEAR12|But because this is affectively a stopping of demand.
+BULL13|From which there should be a recovery, so long as there isn't too much second round effect damage in the economy during the period of lockdowns, we would expect quite a strong rebound after so earnings picking up next year by 50% plus in the US and Europe, and alongside that some improvement in dividends.
+NEUT14|And it's that improvement into the future, but the market is not yet really reflecting particularly the dividend story.
+BULL15|But we do expect to see global growth next year, rising by over 6%.
+NEUT16|It won't take us back to the starting levels, but I do think that that's a prospect which will trigger.
+BEAR17|We think quite a strong rebound in equities, but from a lower level than they are currently.
+NEUT18|Peter, how can that be when you have companies and consumers around the world that are now that they're getting no income, no revenues, and getting loaded up with debt that has strings attached.
+NEUT19|I mean on the other side of this crisis, they're going to come out.
+NEUT20|They're going to come out with more debt than it.
+NEUT21|Probably they've ever had before.
+NEUT22|How does that has that drive in the economy?
+NEUT23|Well, I think again we need to be careful making a distinction between rates and levels of growth.
+BULL24|So from a very, very low base, effectively you have large parts of Maine economies in in multiple join doing nothing at all as you get some relaxation of mobility, demand should pick up and you should get quite a strong growth rate, but the you won't get back to the previous trend rate of growth for a very long time and that would be true for profits as well.
+BEAR25|So even though, for example, we expect earnings per share having fallen 45% across Europe this year to give an example and a 50% rise next year, even by the end of the year after that, the actual level of earnings per share would still be below the peak that it reached back in 2007.
+NEUT26|So I think there's a difference being the growth rate from a very low base and then the sort of pace of growth thereafter.
+NEUT27|But he would point on on taking on decks, which is true for many companies.
+NEUT28|And of course the governments themselves.
+BULL29|I think this does serve as well to demonstrate the importance of the value attributed to companies with strong balance sheets that at least will be in the position to be able to generate stable cash flows and pay dividends into the future.
+BULL30|These companies are benefiting on a relative basis.
+NEUT31|That's true in the credit market as well as the equity market.
+NEUT32|And while that's understandable in a time of.
+BEAR33|Great uncertainty in a recession.
+BULL34|"We still think that would be true coming out of this for the reasons that you suggest."""

@@ -1,0 +1,16 @@
+NEUT0|"""Talk us through the strategic value of such a deal."
+BULL1|Sure, thank you for having me so Aetna is.
+BULL2|They've got some of the highest rated Medicare plans in the industry, and so they also have exited largely the Obamacare plans for 2018, so their profitability is improving and their medical loss ratio, which really just measures how much they spend on health care costs.
+BULL3|They've managed that better than all their peers over the past three years.
+NEUT4|So it's a business.
+BULL5|It's very strong.
+BULL6|They've managed their portfolio, so it's a very strong business for CVS to get in if they want to get in the health insurance business.
+NEUT7|Jason, if the merger were to happen, would there be any equivalent companies that would then offer the same combination?
+NEUT8|This sort of vertical integration, that is CVS, Aetna would.
+NEUT9|Not quite, because at has its government exposure is a little bit different than most of its peers.
+NEUT10|Probably a similar one would be Anthem, but Anthem has a little bit larger commercial exposure, so there's not quite a exact same corollary other than Aetna, so that might be why Aetna is being mentioned.
+NEUT11|They were actually mentioned back in 2015 as a target by United Health, and that didn't end up coming to fruition because AT and of course tried to then turn around and.
+NEUT12|Purchase Humana so they've been mentioned as a takeout target a couple of times before Jason, to what extent do you think that the political landscape has influenced this potential deal?
+BULL13|Sure, so I do think that's had some impact.
+BEAR14|I think, at least on the benefit Manager side with CVS and even Walgreens, there's been a lot more in the spotlight on drugs and drug pricing, and I think you're seeing a little bit of a slowdown on that front, so there might be pressure there.
+NEUT15|"But there's also a lot of cash on the sidelines, and so I think that companies are trying to figure out what to do with that, and so that might be part of what's driving this as well."""

@@ -1,0 +1,31 @@
+NEUT0|"""Will Congress restrict or ban the short selling of stocks?"
+BEAR1|That would be a big mistake.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead.
+BULL3|Will you get the insights you need to better navigate this turbulent world?
+BEAR4|Congress may well assault or ban short selling as a result of the GameStop Robin Hood short selling caper that dominated the news several weeks ago and still simmers today.
+BEAR5|An attack against the practice for short selling would initially win applause short sellers make money when stocks go down.
+BEAR6|The bigger the decline, the bigger their profits.
+NEUT7|They're about as popular as sharks and hyenas, but as counterintuitive as it may sound, the practice has a legitimate place in the investing universe.
+NEUT8|And indeed in other parts of the economy, the big thing is the to condemn an overvaluation of particular stocks and assets, thereby helping curb excess speculation.
+BEAR9|Back in 2007, hedge fund manager John Paulson concluded that the white hot subprime housing mortgage market was grossly overvalued and decided a shorted Wall Street thought he was nuts.
+BULL10|He nonetheless arranged the short turns out he was spectacularly right.
+BEAR11|The housing market bubble burst.
+BULL12|He did well, but in the larger scheme of things, his action prevented a dangerously overvalued market from becoming even more of a bubble.
+NEUT13|Here's how short selling works.
+NEUT14|Let's take stocks.
+NEUT15|A short seller investor examines a company and concludes that its condition and future prospects don't warrant the current stock price.
+NEUT16|Then that investor borrow shares of stock in that company, paying a fee to do so, and sells them with the hope of buying them back at a lower price.
+NEUT17|If the price goes down, that investor can only realize a gain by buying back those borrowed shares and returning them to the lender.
+BEAR18|But if the stock price goes up, that short seller loses.
+NEUT19|In fact, there are no limits on losses.
+NEUT20|In short, selling if you invest $10,000 in a stock, the most you can lose is that $10,000 but say short seller wants to short 1000 shares of a stock selling for $10.
+NEUT21|He borrows those shares, sells them taking in $10,000.
+BULL22|But the stock instead goes up to $25.
+NEUT23|The short seller must pay $25,000 to buy back the shares to return them to the lender, experiencing a loss of $15,000.
+BEAR24|Individual day traders using so-called online bulletin boards to gin up buying enthusiasm sent certain stocks, most notably GameStop to the Moon delivering crushing losses to various institutional short sellers.
+NEUT25|This is why short selling is highly risky, and why, contrary to news media hype is a very small part of the investing world, but often scapegoated when things go bad.
+NEUT26|Congress should simply stand aside.
+NEUT27|I'm Steve Forbes.
+BULL28|Thanks for listening.
+NEUT29|Do send in your comments and suggestions.
+BULL30|"And look forward to being with you soon again."""

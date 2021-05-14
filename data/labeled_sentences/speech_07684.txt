@@ -1,0 +1,36 @@
+NEUT0|"""My name is Sam Rainer from Fort Lee, NJ."
+NEUT1|And my question concerns.
+NEUT2|Your comments this week about the recession.
+BULL3|And the stock market going up so significantly in April.
+NEUT4|Can you expand on where the market is going from here?
+NEUT5|Well, I could expand, but I couldn't answer.
+NEUT6|They.
+NEUT7|With Charlie and I haven't the faintest idea where the stock market is going to go next week, next month, or next year.
+NEUT8|We never talk about it.
+NEUT9|You know it never comes up.
+NEUT10|Our directores will tell you that that they've never been to directors meeting where the subject of the direction of the stock market.
+NEUT11|We're not in that business.
+NEUT12|We don't know how to be in that business.
+NEUT13|Obviously if we could guess successfully, a high percentage of the time where the stock market was going to go, we would do nothing but play the S&P futures market with their win.
+NEUT14|Any reason to look at businesses and stocks?
+NEUT15|So it's just not our game we don't think.
+NEUT16|What we see when we look at the stock market is with these thousands and thousands and thousands of companies priced every day and we ignore 99.9% of what we see.
+NEUT17|Although we run our eyes over them.
+NEUT18|And then every now and then we see something that looks like it's attractively priced to us as a business.
+NEUT19|Forget about the word stock.
+NEUT20|So when we buy a stock we would be happy with that stock.
+NEUT21|If they told us the market was going to close for a couple years now, we look to the business.
+NEUT22|It's exactly the same way as if you were going to buy a farm a few miles here outside of Omaha he would not get a price on it every day and you wouldn't ask.
+NEUT23|You know whether the yield was a little above expert expectation this year.
+NEUT24|Down a little bit, you look at what the farm was going to produce.
+NEUT25|Overtime you'd look at the expected yield.
+NEUT26|Should look at expected prices of the cloud, taxes, the cost of fertilizer and you would evaluate the intelligence of your purchase based on what the farm produced relative to your.
+NEUT27|Surprise.
+NEUT28|Quotes would have nothing to do with it.
+NEUT29|That's exactly the way we look at stocks.
+NEUT30|We look at them as businesses.
+NEUT31|We make judgments about what the futures of those businesses will be an.
+NEUT32|If we're right about that.
+NEUT33|In those judgments, the stocks will take care of themselves, Charlie.
+NEUT34|I know nothing Dad.
+NEUT35|"He's been practicing for weeks."""

@@ -1,0 +1,7 @@
+NEUT0|"""When you have demand, when the other guys are closing plants 'cause they don't demand what it says is you're not selling what they're selling, you're making something entirely different from what they're making, and I know that we had Mr. Jackson from AutoNation."
+NEUT1|And yeah, they're selling a lot of pickup trucks with one 50s.
+NEUT2|Whatever this man is selling technology, and I think that he's talking about fully assisted.
+NEUT3|And then he's talking about driverless.
+NEUT4|I mean, it's just he's thinking so much bigger.
+NEUT5|David, he's a big thinker.
+NEUT6|"He makes us look like lilliputians"""

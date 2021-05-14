@@ -1,0 +1,37 @@
+NEUT0|"""OK, so here's the deal."
+NEUT1|Here's my prediction.
+NEUT2|Today is what January 25.
+NEUT3|Yes, January 25, 2021 according to Billy.
+BEAR4|Facebook is going to miss their numbers.
+BEAR5|Missed their estimates on Wednesday when they report they're going to miss their numbers.
+BEAR6|And their stock is going to drop.
+BEAR7|You wake up on Thursday morning and Facebook stocks going to be down 10%.
+NEUT8|Or more now, hope so.
+NEUT9|We're going to play this on Friday.
+NEUT10|In either, we're going to say Billy was right or Billy look at Facebook stock is higher.
+NEUT11|You were wrong.
+NEUT12|What's your prediction?
+NEUT13|Smith?
+NEUT14|You think I'm right, man.
+NEUT15|I I have a hard time not getting emotional with this one just because I.
+NEUT16|Right here on Facebook Live right now.
+NEUT17|I wouldn't say that last thing you want is taken down I. I hope that it goes.
+BULL18|I hope that they go down with the actions that they've been taking.
+BEAR19|I would hate to see that they've done all the things they have recently and it just continues shooting up like a rocket that is just.
+NEUT20|So so I understand you don't want him to be rewarded for doing bad things exactly.
+NEUT21|Course I agree with that, but here's here is.
+NEUT22|Here's some good information.
+NEUT23|Don't hurt yourself, but cause.
+NEUT24|You want somebody else to be punished.
+NEUT25|I'd love to see him be punished as well, but I'll tell you two things.
+BEAR26|Yes, I'm in a short position in my stocks on Facebook, 'cause I'm expecting them to go down.
+NEUT27|But here's the rest of my prediction.
+NEUT28|I think they're going.
+BEAR29|I think they're going to go down 20%.
+BEAR30|Because they're going to miss that down over a lot of revenue they lossed in in December, however.
+BEAR31|In January, I know for a fact that revenue has picked back up, so their first quarter will be better if it drops.
+BEAR32|If it drops 20%.
+NEUT33|I'm buying big time and I'm going to ride that way back to the top like they're going to make money.
+NEUT34|I want to make money off of him.
+NEUT35|I don't want.
+BEAR36|"I don't want to sit back and say, man, I wish they weren't making money."""

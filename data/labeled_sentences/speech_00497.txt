@@ -1,0 +1,34 @@
+NEUT0|"""The intrinsic value of Equinix is ranged from $8.85 per share to $29.88 per share."
+NEUT1|How would these values calculated paying $8.85 per share represents the company's cash for every share issued and outstanding?
+NEUT2|They have $8.85 in cash and cash equivalents.
+NEUT3|How about the high end paying?
+NEUT4|$29.88 per share represents the company's price per share based on its earnings, a price of $29.88 per share represents the fractional payment we'd all pay for the company's next 20 years of median historical earnings.
+NEUT5|This is a conservative way to value a company using future earnings, which is slightly different from the result should get if you calculated Equinix is price to earnings ratio, said Equinix Equity I.
+NEUT6|Now what are they trading at today?
+NEUT7|$750 and some change, which is huge.
+NEUT8|So I would say 100% this is not justified by their earnings nor their cash account.
+NEUT9|Look at the PE ratio down here.
+NEUT10|We can always use technical analysis to abet our fundamental analysis.
+NEUT11|And these figures just don't make sense, so what's the alternative?
+NEUT12|Well, we need to find an investment vehicle with similar return, similar risk.
+NEUT13|We need to one promote safety of principle and two.
+NEUT14|Make sure that if we do execute a purchase that we are getting an ample margin of safety.
+NEUT15|And what better way to do those two things, then invest in a Vanguard 500 index fund.
+NEUT16|So this is the alternative until this price here.
+NEUT17|749 now it's 749 with $0.93.
+NEUT18|Goes to this somewhere along these lines here.
+NEUT19|I mean it doesn't have to necessarily go beneath 2988, but my gosh 749 just seems very large.
+NEUT20|And mind you, when this price goes down to beneath $29.88.
+NEUT21|Then, and only then, will we begin a further fundamental analysis.
+NEUT22|A deeper analysis.
+NEUT23|You know it's not, not simply that we would execute a trade.
+NEUT24|Then I'm not going to trade my cash for piece of the pie of Equinix until I'm certain that the industry that they're in is heading in an excellent direction that the product that they have lined up or are in line with my values and in line with the company's values.
+NEUT25|And, you know, we want to have some sense of what's going on here if we are going to purchase a piece of the pie at Equinix.
+NEUT26|Remember having owner centric perspective?
+NEUT27|Even though we're only buying fractional shares of the company, you need to think like the owner like you're purchasing the whole thing.
+NEUT28|That's the way you win.
+BEAR29|So guys, until that price the price drops to an acceptable range or within range, at least in accordance with our intrinsic value calculation.
+NEUT30|Subscribe to my channel so you can continue to gain insight on how to analyze business performance so that way your investment performance is optimized.
+NEUT31|Remember when your investment performance is optimized?
+NEUT32|So would you?
+NEUT33|"Well production, I'll see you next video value investors stick around."""

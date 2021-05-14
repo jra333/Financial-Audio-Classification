@@ -1,0 +1,51 @@
+BULL0|"""Now we're looking at some stocks that are up today."
+NEUT1|What do you got?
+NEUT2|I've got 5:00 AM today David and let's start with one that we've talked about a few times here recently and that's Fannie Mae.
+BEAR3|This up it's down.
+NEUT4|Yeah, this is an actually.
+NEUT5|That's really the story of what it was today when I was looking at the stock this morning.
+BULL6|It was up 10%.
+BULL7|I went back and checked it again a few minutes later it was up 1% and then it was up two or three percent.
+NEUT8|So this is bouncing all over the place today.
+BULL9|But it was pretty clear, at least from the morning trading that it was up.
+NEUT10|More than the market so you know what we've seen here.
+NEUT11|There were a couple of reports.
+NEUT12|There was one in the Wall Street Journal talking about hedge funds betting on Fannie Mae preferred.
+NEUT13|These aren't the preferred that FMA or not their preferred's as the common.
+NEUT14|But we've got these stories about hedge funds betting on the preferred.
+NEUT15|The idea is that Fannie Mae and Freddie Mac eventually come back to the private markets and that would that would pay off for those betting on it.
+NEUT16|However, in a separate Wall Street Journal article, I like the way they put it.
+NEUT17|Ultimately, this is a political bet, not a financial one.
+NEUT18|Personally, I'm more on the mind of making financial bets, not political ones.
+NEUT19|I never want to have to rely on the thinking of Congress or the President to have the sole outcome of an investment.
+NEUT20|The next this is actually a group.
+NEUT21|This is the next 4.
+NEUT22|This is a group.
+BULL23|It's the mortgage rates are more residential was up 1.6% when I was looking at it.
+BULL24|Hatteras up 1.2%, Annaly Capital and American Capital Agency, both up a half percent.
+NEUT25|When I was looking at those of all been been hurt recently, right?
+BEAR26|Those have all actually been down.
+NEUT27|Funny note on armor.
+NEUT28|It certainly wasn't has nothing to do with Cramer.
+NEUT29|Jim Cramer on this one.
+NEUT30|He he commented on the Mad Money Show yesterday.
+NEUT31|This one is too hard.
+NEUT32|I don't know what the Fed will do.
+BULL33|Honestly, I kind of agree with Cramer, but the gains today so we're looking at.
+BEAR34|There were a couple of disappointing economic reports.
+BEAR35|Jobless claims jumped to 360,000.
+BULL36|They were expected to jump, just not quite that much.
+BEAR37|Housing starts for April were down 16 1/2%.
+BEAR38|Again, they were expected to fall not that much.
+BEAR39|So you've got some weak signs for the economy at the same time, the price index.
+NEUT40|So when we talk about price index inflation, yadda yadda.
+BEAR41|Seasonally adjusted for April down 0.4%.
+NEUT42|Again, that was softer than expected, so put this all together and you've got a Journal headline today that says Treasury sore after disappointing data.
+NEUT43|So basically I think people are looking at this.
+BULL44|Investors are looking at this and expecting that this will convince the Fed to continue monetary accommodation.
+BULL45|This is, you know, this is a good thing right now for the mortgage rates because this keeps their funding costs low even though their asset returns are falling in their spreads.
+NEUT46|Are tightening their rather than a quick reversal exactly one of the big concerns over the mortgage rates right now is when that reversal happens.
+NEUT47|What will happen to their spreads?
+NEUT48|I mean, will they even stay positive?
+BULL49|So to the extent that the Fed keeps rates low, it's at least a short term positive for them.
+NEUT50|"So I think that's what we're looking at here with these great moving on."""

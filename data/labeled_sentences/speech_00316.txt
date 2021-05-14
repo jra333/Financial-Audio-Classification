@@ -1,0 +1,17 @@
+NEUT0|"""Mr. Gill, you're the only retailer."
+NEUT1|Investor involved in his GameStop situation.
+NEUT2|Our panel today.
+NEUT3|Why I don't know, but you are.
+NEUT4|Yet, members on the committee have hardly asked you any questions.
+NEUT5|We've heard from a lot of by the companies and funds involved in this event, but we've barely heard from the people that made this happen.
+NEUT6|Is there anything you would like to add to this hearing that you haven't been able to add yet?
+BULL7|Given that we're past the four hour mark on this year I appreciate that congressman I do.
+NEUT8|I don't have anything to add at this time, just that I would be the first to acknowledge that investing in stocks and options is incredibly risky, and it's so important for people to do their own thorough research before investing.
+NEUT9|But that said, I tend to agree with you that folks should be able to freely express their express their views on a stock, and they should be able to to buy or not buy a stock based on those views that they may have.
+NEUT10|Mr. Gill on that note.
+NEUT11|So how would you feel if these brilliant people that are asking you these questions today decided that that you should not take the risks that you get your man?
+NEUT12|Restart for decision man.
+NEUT13|What do you think about that?
+NEUT14|I would probably ask for an explanation congressman and to try to understand their viewpoint as to why they might think that, and perhaps we'd be able to talk through it.
+BULL15|Right, I appreciate it.
+BULL16|"Mr. Bill, I think we need to value the right of the individual to make decisions for themselves, and it's fantastic to see so many people getting involved and participating in the greatest financial markets in the."""

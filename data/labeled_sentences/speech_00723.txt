@@ -1,0 +1,35 @@
+NEUT0|"""So let's talk about Tesla."
+NEUT1|Then you said that you were only going to buy the dip.
+BEAR2|Are you going to continue to buy the Tesla dip now that it's dipping even lower?
+NEUT3|Yes, we can buy a stock up to 10% of our portfolios, and that's certainly in the ETF's.
+NEUT4|We were report our Holdings at the end of every day, so anyone can see that.
+BULL5|And yes, we have been building whenever we can.
+BULL6|Now we built up to 10% last week, so the stock behaved in line with our portfolio, so again we can't buy anymore here.
+BEAR7|If it were to deteriorate at a rate.
+BEAR8|Beyond that of our other portfolio, so drop below that 10%.
+NEUT9|We would then have the latitude to buy more of course.
+NEUT10|Now you've said you're going to put out a new Tesla price target.
+NEUT11|The market is anxiously waiting for that.
+NEUT12|When are we going to see that?
+NEUT13|Can you give us an idea of what the target will be?
+NEUT14|Well, it's going to be in.
+NEUT15|I'm going to say a couple of weeks we're getting.
+NEUT16|Compliance is helping us cross our T's dot our eyes and do everything we should do before we before we send it out.
+NEUT17|But the two things that have happened to Tesla since our last projections are one.
+BULL18|It has increased its market share when we put out our original $4000.
+NEUT19|Price targets the equivalent of $800.
+BEAR20|Now we thought that that Tesla share would drop from 17%.
+NEUT21|This is share of the electric vehicle market global electric vehicle market from 17% then to 11%.
+BULL22|Instead its share increased as others with wonderful brand names started increasing.
+NEUT23|The number of electric vehicles in in their companies so that.
+NEUT24|That was a big big wake up in the United States.
+NEUT25|I think Tesla through the third quarter at least was still 80% of all electric vehicles sold in the United States.
+NEUT26|So pretty stunning.
+NEUT27|The second thing that has happened is autonomous.
+NEUT28|Are the probability that Tesla gets autonomous right?
+BULL29|We believe has increased from the 30% that we had in our base case in our last model, so.
+NEUT30|But what's interesting about autonomous is the margins.
+NEUT31|In autonomous, the gross margins are in that 80% range.
+BULL32|The margins for electric vehicles alone are in the 25 to 30% range.
+NEUT33|This is a five year projection, so the model changes completely.
+BULL34|"If Tesla gets autonomous right, and we think it will OK."""

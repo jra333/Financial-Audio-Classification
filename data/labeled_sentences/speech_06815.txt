@@ -1,0 +1,36 @@
+NEUT0|"""Let's start with your earnings in the stock reaction."
+BULL1|You know the stock was up this morning on your beat for the quarter.
+NEUT2|What's turned it around?
+NEUT3|What feedback are you hearing from investors?
+BULL4|Good to see you make well, I really don't know.
+BEAR5|I haven't heard anything from their investors yet, so I don't know why there was initially a positive and then negative reaction.
+NEUT6|So we gotta ask them.
+NEUT7|But right now I have no information on what they're thinking.
+NEUT8|One thing I'm hearing from the investor community is about cash flow.
+BEAR9|Do you think that you know what you said on the call in terms of cash flow perhaps being under expectations might be contributing a little bit to the disappointment there.
+BULL10|I wouldn't think so, because we really had a good strong cash flow last year with more than two billion, and we're predicting this year.
+BULL11|Also a strong cash flow of more than two billion.
+BULL12|And as you know, we're sticking to our target for the end of 23 of having you know, net debt reduction so that we will have a ratio between net and EBIT are below 3 times, so I think we have a very solid development on our debt.
+BEAR13|We reduced it by $10 billion over the last three years, so we continue to drive down dead.
+NEUT14|Well, one very bright spot in Tampa's business and really just for the world is Tim's involvement in the distribution of the COVID-19 vaccine in Israel.
+NEUT15|You are Israel's partner there for the distribution and logistics, and Israel has administered more doses per capita than any other country in granted, it is a small country with centralized healthcare system, but you know, tell us about what the fact that so many Israelis and 80% of people over 65 you know has meant for the.
+NEUT16|You know optimism around the economy there.
+NEUT17|How you're thinking about a major business operating in Israel.
+BULL18|Yeah, so we're very proud to be the partners that taking care of all the justics with the vaccines in Israel.
+NEUT19|So we pick them up in the airport taking child Big Logistics center and then we sort of the change the packs so that the pack sizes matches the needs in any of the 404 hundred vaccination centers around Israel.
+NEUT20|And then we make sure that the right quantity gets to the right center at the right time.
+BULL21|So this has been an extremely exciting time in Israel now in terms of the future.
+BULL22|Then of course it's difficult to predict exactly when and other people have been vaccinated to really drive down the number of cases and the number of deaths, but I would expect that over the next two months you will see a significant improvement in the situation as well due to the very very high levels of vaccination.
+NEUT23|There's of course the ethical and practical question.
+NEUT24|What happens to people who are not volunteering to be vaccinated?
+NEUT25|That's a residual risk in Society of course, if not everybody gets vaccinated.
+NEUT26|How are you looking at that as the leader of a major company that makes products that are essential for people?
+NEUT27|Medecins?
+NEUT28|Would you mandate that your employees get the COVID-19 vaccine?
+NEUT29|I would strongly recommend it.
+NEUT30|I don't think I would mandate it.
+NEUT31|I don't think forces the way sort of to get people to understand that it's really beneficial for all of us for all of society.
+NEUT32|If everybody gets vaccinated, you get by far the biggest effect of vaccinations.
+NEUT33|If everybody gets them and you could say not getting it is really not showing a lot of solidarity with the people at risk in the rest of the population.
+NEUT34|Shepard Smith here.
+NEUT35|"Thanks for watching CNBC on YouTube."""

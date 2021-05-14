@@ -1,0 +1,9 @@
+NEUT0|"""Go ahead, skip this out."
+NEUT1|Those fat cat Commission takers wouldn't want you to see it.
+NEUT2|They wouldn't want you to see how they bathe in a bathtub made of gold, filled with gold.
+NEUT3|Even the sink plug is gold.
+NEUT4|How they make paper planes with money?
+NEUT5|Wipe themselves with money.
+NEUT6|Your money, your money, your money because you are paying for things that should be free.
+NEUT7|Introducing Zero Commission stock trading by trading 212.
+BULL8|"Join the revolution with the UK's number one trading app."""

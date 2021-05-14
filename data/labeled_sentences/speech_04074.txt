@@ -1,0 +1,15 @@
+BEAR0|"""In its three days of trading, Facebook stock has dropped 18% from its $38.00 issue price."
+NEUT1|For the thousands of.
+NEUT2|Investors that bought it.
+BEAR3|The IPO that's bad enough.
+BULL4|But one analysis of its earnings prospects suggests it could get a lot.
+BEAR5|Worse, more like $10 a share.
+NEUT6|Setting aside the hype and a cultural phenomenon that is the online networking site, Facebook would be fairly priced at $9.59, according to the smattering of Wall Street estimates analyzed and modeled by Thomson Reuters Starmine.
+BULL7|Data from 6 brokerages modeled by Starmine forecast the companies estimated annualized earnings growth over the next 10.
+NEUT8|Years at 10.8%.
+BEAR9|That's almost exactly the mean for the technology sector and far below the 24% growth rate.
+NEUT10|Implied by the current stock price.
+BULL11|Some analysts, however, see the stock returning to the $40 per share level it traded at last week.
+BULL12|Investors are looking for much more growth than the analysts covering the company, said Greg Harrison, corporate earnings.
+NEUT13|Research analyst at Thomson Reuters.
+NEUT14|"Starman's intrinsic value estimate incorporates analysts estimate."""

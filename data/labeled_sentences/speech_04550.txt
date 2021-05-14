@@ -1,0 +1,31 @@
+BULL0|"""Bruce, you notice been hugely valuable about the micro details of the consumer recovery."
+BULL1|Is the consumer recovering enough to give you optimism on economic growth?
+BULL2|Well, I think the consumer recovery is giving us optimism.
+BULL3|We're getting a strong initial phase of the rebound in growth, and I think that has already sparked a big gain in more May and June, and it's going to spark a rebound in industry in the summer months.
+BEAR4|As inventories have been drawn down very heavily through the last few months.
+BEAR5|Our view, though, is that the recovery is going to be incomplete, so that as we move through summer and fall, the pace will moderate and we're going to be left with a pretty strong initial phase.
+BULL6|Followed by moderate growth.
+BEAR7|That leaves us with still high unemployment and levels of activity, which are unfortunately quite a bit lower than we would have thought at the start of this year.
+NEUT8|Blend your comment of high unemployment.
+NEUT9|What kind of statistic is that?
+NEUT10|Whether it's you three or it's the all in U-6 statistic, what is the state of unemployment rate in America?
+BEAR11|Well, the number right now is in low Levins and we think on Friday it's going to move to something around 10.4% I think from here on the going is going to be somewhat slower.
+BEAR12|We think we're going to end the year a little bit below 10% and we're going to end next year.
+NEUT13|If we're right, that's a long ways away.
+BEAR14|Still above 7% that is obviously incomplete.
+BEAR15|There's a lot of people who have left the workforce that are not coming back there.
+BEAR16|A lot of people who are discouraged or working part time.
+NEUT17|So there's a lot of under utilization, labor and put this in in some broad context.
+BEAR18|We think we're going to have more slack a year from now than we had at the bottom of the global financial crisis, so this is a huge problem of the recovery and one of our views that I think is important is, we think policy has managed the crisis extraordinarily well, but we don't think policy is going to manage the expansion quite as well, and that's a big part of the problem.
+BULL19|And it's also a part of the reason why we think Europe overall is going to outperform the US over the next year.
+BULL20|But Bruce outperform even if Europe doesn't really talk with one voice.
+NEUT21|And actually this recovery fund was only for the pandemic.
+BULL22|Well, I think the primary reason Europe is going to outperform is because it has done a better job of controlling the virus and there are some outbreaks now, but I think they're in a better position to get back to something more normal, and I think we're going to see that in the data in the next two or three months.
+NEUT23|I think the second thing is the US is providing more stimulus, but it's doing it in a stop and go fashion, and the difficulty of getting a package through.
+BEAR24|At this point we're still really not quite out of the crisis mode I think is indicative of how hard it is going to be to prevent.
+NEUT25|A lot of significant size in 2021 in the US, the US problem on policy I think is not about getting the deal in the next week.
+NEUT26|I think that's very likely.
+BEAR27|I think the problem is about where we are a year from now in terms of fiscal policy turning tight.
+NEUT28|But Bruce, I mean, we also have an election coming.
+NEUT29|So how will fiscal fiscal policy be different under a Biden administration than a second Trump administration?
+BULL30|"Well, I think from a macroeconomic point of view, there's a lot of differences in terms of the content, but from a macro point of view, if we were building in a Biden victory that also had the Democrats taking the Senate, we would have more stimulative policies, but I think that still is a shift that is modest relative to the problems of holding on to what roles are given the huge stimulus this year that is being delivered in temporary doses."""

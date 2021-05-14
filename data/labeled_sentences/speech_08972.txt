@@ -1,0 +1,32 @@
+NEUT0|"""If I look backward, as you well know, Tesla accounts for almost a fifth of the return that you have generated in that five year time span."
+NEUT1|Which of your current Holdings Kathy do you think will supply the biggest lift in the next five years?
+NEUT2|Tesla is still in the running, but I would have to say.
+NEUT3|The biggest upside surprises are going to come from the genomic space, and that's because the convergence of DNA sequencing artificial intelligence and gene therapies.
+BULL4|Importantly, CRISPR gene editing are going to cure disease.
+NEUT5|That convergence is going to cure disease.
+NEUT6|Now we have real science and technology surfacing the mutations in our genomic profile and.
+NEUT7|And as they surface those mutations, what do we see?
+NEUT8|We see the earliest manifestations of disease.
+NEUT9|And now with the combination of artificial intelligence and gene editing, were able to both anticipate diseases and cure them.
+NEUT10|Potentially, bathe, thalassemia?
+NEUT11|We're seeing at sickle cell disease.
+NEUT12|We even think it will work in diabetes, which is where most the if you look at the largest category of spending.
+NEUT13|Year to year in healthcare.
+NEUT14|It's diabetes.
+NEUT15|Kathy, another surprise for me in your portfolio Attribution is that almost none of your performance, just 20 points out of 600 points is from Apple, Microsoft, Amazon and Facebook.
+NEUT16|The four biggest contributors to the S&P 500 over the same.
+NEUT17|What about them doesn't make the grade for Kathy wouldn't for Ark?
+NEUT18|Well, we're not saying they'll be bad stocks at all.
+NEUT19|In fact, they've been very good stocks and they were a part of our portfolios in the early days.
+NEUT20|But as they were scaling into the trillion dollar category, we believed that our that our research would be focused better on the next set of fangs.
+NEUT21|And I don't mean fangs meaning in the Internet age, we actually think the next things are in the genomic age, and if you'll notice our flagship portfolio, the largest exposure is health care.
+NEUT22|For that reason.
+NEUT23|What would make you reconsider?
+NEUT24|Investing in those stocks, what wouldn't encourage us to move back into that ilk of stock is is, you know, a continuation of what we're seeing now so that some of our valuations become stretched beyond our minimum hurdle rate of return.
+NEUT25|So our minimum hurdle rate of return for any stock entering our portfolio is 15% at a compound annual rate over the next five years, so that's the doubling.
+NEUT26|Over five years.
+NEUT27|We're not there yet.
+NEUT28|But if we were in the low 20s, which is much more than a doubling over five years.
+BEAR29|But if we started seeing more and more of our stocks lose that return expectation and drop below 15%, we would move back towards some of the fangs and Microsoft because we would be treating them essentially as cash like instruments for for our strategy.
+NEUT30|So what we do is as a bull market extends, we do move into.
+NEUT31|"More cash like equities you know they would be the less volatile stocks and certainly the things and Microsoft fit that and we would do that increasingly."""

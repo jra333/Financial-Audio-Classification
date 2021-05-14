@@ -1,0 +1,10 @@
+BEAR0|"""In the aftermath of the global financial crisis, China's manufacturing and export dependent economy crumbled and the ruling Communist Party panicked."
+BULL1|Party leaders estimated they needed to sustain a minimum annual growth rate of 8% if they were to contain political unrest that could threaten authoritarian rule.
+NEUT2|The solution was to unleash what economists have called the greatest example of monetary easing in history.
+BULL3|An enormous wave of easy loans channeled through the state owned banking system.
+BULL4|In absolute terms, China's total debt has ballooned from around $6 trillion at the time of the financial crisis to nearly $28 trillion by the end of last year as a percentage of GDP, total debt has risen from 140% to almost 260% over the same.
+BULL5|There is no question that the Chinese economy was saved in the short term by the government's decision.
+NEUT6|To open the credit floodgates.
+BEAR7|But that is resulted in an economy addicted to borrowing.
+BEAR8|An afflicted with serious asset bubbles.
+BULL9|"The ultimate test will come when Beijing eventually attempts to wean the country off this debt dependence."""

@@ -1,0 +1,27 @@
+NEUT0|"""The Chinese remember or Chinese yuan is very sensitive."
+BEAR1|Developments in the trade war intentions ease as they did at the end of 2018 and into early 2019.
+BULL2|The Chinese currency tends to appreciate.
+BEAR3|When tensions escalate, which they did in May 2019 as prospects for a trade deal evaporated, the Chinese currency depreciates.
+NEUT4|Interestingly, there are both psychological an hidden policy agenda limits as to how far the currency might appreciate or depreciate, depending on what's going on in this intense trade war environment.
+BULL5|When the Chinese have felt a deal was possible, they have been willing to allow market pressures to appreciate their currency to around 6.7 to the dollar, and this happens as market participants have expressed expectations that a deal may allow for the tariffs to be totally removed.
+NEUT6|Now, a stronger currency makes Chinese exports more expensive, and this comes on top of the US imposed tariffs, so currency appreciation only happens when it looks like a deal can occur and the tariffs will go away.
+BEAR7|By contrast, and this is what's happening now when the US ratchets up, the pressure on China and prospects for a deal fall apart.
+BEAR8|Market participants tend to take the view that the US imposed tariffs will be permanent and that contributes to depreciation pressure on the Chinese currency.
+BEAR9|What has been come apparent from the data is that when the trade war escalates, the Chinese currency heads towards 7 per U.S. dollar.
+NEUT10|Is the seven per U.S. dollar a ceiling?
+NEUT11|Well, yes, it looks like it.
+BEAR12|The ceiling may well exist because the Chinese authorities do not want their currency to depreciate so much that it would make an already bad trade relationship.
+BEAR13|Worse.
+NEUT14|What we do know about boundaries in financial markets, however, is quite interesting.
+NEUT15|We are big believers in what's known as Goodhart's law, which is the economics version of the Heisenberg Uncertainty principle.
+NEUT16|According to the late Professor Goodhart, when a central bank targets Ametric market, participants change their behavior thord the metric and the timeline and volatility pattern or the metric changes.
+NEUT17|When applied to the apparent boundary or ceiling of the Chinese currency at 7 per U.S. dollar, we have two observations based on goodhart's law.
+BULL18|First, if the ceiling is ever breached, the currency may well move fast and far above the old ceiling.
+NEUT19|It's like pressure building up on a boiling water.
+NEUT20|When you release that pressure, it's quite an explosive action.
+NEUT21|2nd.
+BULL22|While the pressure is building, but the ceiling has not been breached.
+NEUT23|Observed market volatility can be extremely low, even though the future risks are rising rapidly.
+NEUT24|The message is clear.
+NEUT25|Be especially aware of risk management complexities when boundaries are present.
+NEUT26|"I'm Blue Putnam chief economist CME Group."""

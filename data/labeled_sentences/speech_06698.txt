@@ -1,0 +1,17 @@
+NEUT0|"""Hello and welcome to technical Analysis here the exam.com."
+NEUT1|It's May 29th, 2018 and Christina Barton is investment analyst and today will be looking at the euro versus the US dollar on the daily chart.
+BEAR2|So Euro dollar has started a week under pressure today breaking the one point 16 key support and touching a fresh six month low at one point 1565.
+BEAR3|But we can see that the market has deviated further below the chin McLeod and all it's moving.
+BEAR4|Average lines by which to which shows that this downtrend is not likely to end, at least in the near term, while if you look at the momentum indicators down here, we can say that the next moving prices could be on the downside, and this is because the market hasn't shown yet any sign of turning up to cross above its red signal line.
+BEAR5|But there is also trapped in bearish territory below 30 and is negatively sloped, but as long as the other side trends in oversold area below 30, we cannot exclude any upside corrections.
+BULL6|If the price now hits lower, immediate support could come at one point, 1553.
+BEAR7|Here this is a low from November 7th and the lowest level reached since mid July.
+BEAR8|Therefore it should be in focus because any substantial close below from here could trigger further losses, probably towards the bottom of this channel.
+NEUT9|Seen at one point 15 while even lower, the next target could come at the one point 14 psychological level and on the flip side, if the market bounces up.
+BEAR10|Resistance could come at the upper bound of the channel at 1:00, 0.17, then if this level fails to hold the focus could shift to the 20 day moving average currently at 1:00, 0.18, 19, while even higher.
+NEUT11|The price could touch 1.19, 20, which has been frequently tested in the past, both as our resistance and support finally looking at the medium term picture.
+BEAR12|The bearish outlook has strengthened since the price continues to post losses below its longer.
+NEUT13|Time frame moving averages are.
+BEAR14|These are the 50 day in the 200 day moving averages and in the medium term the negative sentiment is not expected to change unless we see the price breaking above one point 2153.
+BEAR15|This is the bottom of the range recorded between mid January and end of April, so that's all from me.
+BULL16|"Thank you for watching and have a great day."""

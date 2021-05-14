@@ -1,0 +1,42 @@
+BULL0|"""So they had the strongest grocery sales in the most in nine years."
+NEUT1|What was the main driver of that?
+NEUT2|Yeah, that's absolutely right.
+BULL3|They've really been working to refresh their grocery offering, refresh the fresh food actually in their grocery offering.
+BULL4|Their sales were up the best sales for grocery in nine years that fed into a really good post for comparative sales.
+NEUT5|Take a look at the Bloomberg here.
+BULL6|I've got a G chart for you, which shows Walmart posted its largest sales growth in a decade.
+BULL7|At Walmart, same store sales over 4 1/2 percent there today and analysts have hailed it as a banner quarter and a lot of them have pointed towards grocery.
+BULL8|It's an area they've really been aggressively defending themselves against.
+NEUT9|Amazon after Amazon bought Whole Foods, Walmart has the biggest share of the grocery aisle, about 25.6%.
+NEUT10|Amazon doesn't even make the top five of the US gross is just yet.
+NEUT11|They've.
+BULL12|As I said, they've been refreshing refreshing their food offerings.
+NEUT13|But they've also be really been focusing.
+NEUT14|On click and collect that's online orders that you can then pick up in store and CEO Doug Mcmillon saying they were aggressively pursuing that strategy.
+NEUT15|You can now click and collect in 1800 at Walmart stores across the US.
+NEUT16|You might remember that Amazon only just recently announced that they would be offering that service in some of their whole food stores, right?
+BULL17|Walmart has clearly been very aggressive.
+NEUT18|They have this click and collect.
+NEUT19|They have curbside pickup.
+NEUT20|But how does this compare to Amazon's offerings in terms of what they offer?
+NEUT21|I mean, we're still waiting to hear a lot more about what Amazon.
+NEUT22|Are going to be doing with Whole Foods.
+NEUT23|Of course.
+NEUT24|One of the things that a lot of analysts were saying when Amazon reported earnings earlier in the season was at Whole Foods.
+NEUT25|Wasn't really mentioned.
+NEUT26|A tall.
+BULL27|And when it comes to Walmart and E Commerce, which is obviously another area where you can see a direct comparison between the two, you mentioned that they saw e-commerce growth of 40% at last quarter and that was compared to the second quarter of last year, where Walmarts or e-commerce growth of more than 60%.
+BULL28|So the fact that they returned to 40% on a bigger base suggests, and that's a more impressive result for Walmart.
+NEUT29|One other winner here is the Walton family.
+NEUT30|Their their biggest shareholders in Walmart.
+NEUT31|The wealthiest family in America, and they just became a whole lot wealthier and today's stock move putting $11.6 billion.
+BULL32|In addition, in additional wealth for the Waltons.
+NEUT33|What about challenges in the back half of the year?
+NEUT34|Was there any discussion about concerns around tariffs or changing consumer sentiment?
+NEUT35|That hasn't tariffs is something that and warmer and a number of retailers say they are watching their slightly.
+NEUT36|They're concerned because it creates uncertainty, but there's not a lot that's been that massively effects consumer product right now.
+NEUT37|One of the things that Walmart is trying to do, or looking at very closely is at the cost of household items.
+BEAR38|So transportation and labor costs are sort of pushing up the price of household items, like paper towels like diapers and things like that, and obviously one of the things that.
+NEUT39|Walmart is known for its low prices and they don't really want to have to pass on those increase costs to their customers.
+BULL40|'cause obviously if they did, that also creates another opportunity for Amazon who can also offer at all.
+BULL41|"Can also try and beat them on price there."""

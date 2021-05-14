@@ -1,0 +1,27 @@
+NEUT0|"""Long before Forbes magazine, the flagship of Wall Street, called to Do a profile on you, how do you see the future for Stratton Oakmont?"
+NEUT1|One word?
+NEUT2|Diversification.
+BULL3|Thank you so much.
+NEUT4|I have more than enough.
+NEUT5|A total ******* hatchet job.
+NEUT6|This conniving little **** look at this the Wolf of Wall Street.
+NEUT7|They come look.
+BULL8|Your hair looks good.
+NEUT9|Jordan Belford sounding like a kind of twisted Robin Hood who takes from the rich and gives to himself and his merry little band of brokers read that freedom.
+NEUT10|Listen, there is no such thing as bad publicity sweetheart.
+NEUT11|Look great, you're in a huge magazine.
+NEUT12|Give me a minute.
+NEUT13|Forbes made me a superstar.
+BEAR14|Every day dozens of money crazed kids beat a path to my door.
+NEUT15|If we hired him, they dropped straight out of college overnight and spent whatever allowance they had on a new suit from Stratton, Taylor.
+NEUT16|I mean, we're literally putting clothes on these kids backs, and here comes this **** *** sniffing around.
+BEAR17|But you know, every time someone rises up in this world, there's always going to be some ******* trying to drag him down.
+BULL18|Within months we doubled in size, moved to even bigger offices.
+NEUT19|It was a madhouse agreed fest with equal parts cocaine, testosterone and body fluids.
+BEAR20|It got so bad I had to declare the office and **** free zone between the hours of nine and seven.
+NEUT21|But I'm telling you that did not actually the madness started on our very first day when one of our brokers bend Jenna Christeson the elevator by getting a ******* from a sales assistant.
+NEUT22|Her name is Pam and her credit.
+NEUT23|She did have this amazing technique with this wild twist and jerk motion.
+NEUT24|About a month later in the honey and I decided to double team or on a Saturday afternoon while Wise route shopping for Christmas dresses.
+NEUT25|Eventually Ben married her, which was pretty amazing considering she blew every single guy in the office.
+NEUT26|"The president killed himself three years later."""

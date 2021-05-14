@@ -1,0 +1,29 @@
+NEUT0|"""We have the day trader in the House with us today."
+BULL1|Thanks so much to Mike Shore prosper trading coming on our show today.
+NEUT2|Transfer me.
+BULL3|Yeah, it's great to have you here.
+NEUT4|You are a big day traders.
+NEUT5|We talk about a lot on this show and I love it because these are very fast trades for some more sophisticated traders Sir.
+NEUT6|So you are taking a look at Netflix.
+NEUT7|Yeah, So what we had Netflix is we actually had.
+NEUT8|If you're looking at an hourly chart, we had a break out.
+NEUT9|And So what I'm looking for is a pull back to what was resistant to now being support that that.
+NEUT10|Level is at 3475 issue.
+NEUT11|I'm looking to the May 3 9395 call spread that should be trading about $1.25 or so.
+NEUT12|If I get $1.25, I'm getting it three to one on that train.
+NEUT13|It'll be a Bang Bang either.
+NEUT14|You know you're going to be right right away or it's a quick out, but you do have some stops in place, basically because it's an options trade.
+NEUT15|Absolutely.
+NEUT16|I mean we the risk is already defined, but as soon as if we do get pulled back through that support, I'm out.
+NEUT17|Is there any correlation between what's happening with Disney?
+NEUT18|And what's happening with Netflix shares these days.
+NEUT19|It's always going to be the, you know, the fight on that content.
+NEUT20|Quite frankly it's it's kind of hard to figure out because it's it's not something that happens like in a day.
+NEUT21|It's something that obviously production goes on for a while, but that's definitely the two people that are slugging it out.
+NEUT22|How did you find this trade?
+NEUT23|It was simply on a technical break up that I run scans on every day.
+BULL24|Good to have you here.
+BULL25|Thanks so much with the Trader tax for heavenly.
+BULL26|Hope that trade works out.
+NEUT27|Check out business firstdayim.com to find out where to see our entire show.
+NEUT28|"And don't forget to like follow and share business first day, yeah?"""

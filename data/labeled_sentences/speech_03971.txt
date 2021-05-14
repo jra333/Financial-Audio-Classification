@@ -1,0 +1,21 @@
+NEUT0|"""A bull flag is a common price pattern that forms when a security temporarily pulls back during an upward trend."
+NEUT1|In this video will discuss how to identify a bull flag pattern, how it's used to determine potential buy signals, and price targets, and the risks and goals of using this price pattern in your trading.
+NEUT2|Let's start with how to identify a bull flag pattern.
+NEUT3|This pattern forms in a time of consolidation, which makes this a continuation pattern.
+NEUT4|This means that when the price breaks out of the pattern, it's likely to continue in the same direction it was heading before the pattern begins.
+NEUT5|When a stocks price rises from a low point to a high point, or in other words from the bottom of a support area to the top of resistance area, the initial movement represents the flagpole in the pattern and is followed by a pullback that creates diagonal support and resistance levels.
+NEUT6|These diagonal levels create the patterns flag.
+NEUT7|Typically, the pullback should not retrace more than 50% of the upward movement.
+NEUT8|Bull flag patterns can come in many sizes, but will typically pull back at least three periods.
+NEUT9|So if you're looking at a daily chart, the minimum pullback would be 3 days, and if you're looking at an hourly chart, the minimum pullback would be 3 hours.
+NEUT10|The pattern is complete when the price closes above the original diagonal resistance level and finds a new level of support.
+NEUT11|This breakout point is typically seen as a buy signal.
+NEUT12|Once the stock has broken through resistance, it's important to confirm the move.
+NEUT13|To do this, look for higher than average volume as the stock breaks through resistance higher than average volume is important because it means the stock's price may be more likely to continue upward after identifying the bull flag pattern, you can determine sell signals by setting a price target.
+NEUT14|A typical price target for a bull flag pattern is equal to the height of the initial upward movement.
+NEUT15|In other words, the price target is usually approximately the height of the flagpole.
+NEUT16|Some investors use the resistance breakout as the starting point to measure the price target, while more conservative investors may set the price target from the support level.
+NEUT17|As with any price pattern, bull flags aren't guaranteed to break out as expected.
+BEAR18|There is a risk the stock's price could fall through support instead of reaching its price target.
+BULL19|For this reason, investors can set a stop loss to try to prevent further losses in case the price doesn't continue upward despite the risks.
+NEUT20|"Bull flag patterns may help you identify potential buy and sell signals."""

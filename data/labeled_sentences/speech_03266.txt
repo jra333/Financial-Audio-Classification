@@ -1,0 +1,23 @@
+NEUT0|"""Hello and welcome back to the notes coming to you for the next few days."
+NEUT1|From here in Tokyo.
+BEAR2|Now I'm feeling a little embarrassed about this because my arrival in Japan's capital has overlapped with a dramatic.
+BEAR3|You could almost call it a crash for the Japanese stock markets.
+BULL4|The Nikkei 225 spell, almost 4%.
+BEAR5|Today, it's down more than 20% from its peak last August in a true fresh bear market.
+NEUT6|Now what's going on?
+NEUT7|Obviously a lot of that is also.
+BEAR8|Because there have been similar sell offs elsewhere in Asia, Hong Kong sold off almost as much.
+NEUT9|But if you take a look at the Japanese economy, it's actually not that exposed to China.
+BEAR10|It shouldn't be damaged by the serious falls in the oil price in other commodities.
+NEUT11|Because of course Japan is a commodity importer.
+BEAR12|Some people talk about the recent strengthening of the yen, which is all part of the great weakening of other commodity currencies.
+BEAR13|But again, if you take a look at this index of the yen against a trade weighted index of five other big currencies, you can see that it really hasn't strengthened all that much of late.
+NEUT14|It's still very much more competitive.
+NEUT15|Then it was a few years ago.
+BEAR16|If you take a look at where the damage has been done during this bear cycle, you can see that the worst performing sector in the topics down more than 1/3 is the marine shipping.
+NEUT17|The marine transport sector World Trade has very much to do with this.
+NEUT18|The one sector that's up, incidentally is a purely domestic sector, which is fisheries?
+BEAR19|The Japanese appetite for sushi remains untouched broadly.
+NEUT20|If you take a look at the scale of the setting that we've seen, I've talked to people today have even used the word capitulation.
+NEUT21|If you look at the amount of cash that is still bound up on Japanese balance sheets, and if you also take a look at projections for earnings which are looking for gains of in the double digits for the next year, very different from what you see in the US.
+BEAR22|"Yes, this does look as though it's overdone, but given the scale of the of the sell off around the world, it would still perhaps be dangerous to jump in just now."""

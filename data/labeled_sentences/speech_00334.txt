@@ -1,0 +1,31 @@
+BULL0|"""Hey Jay, you guys don't have any specific news this morning and yet your stock right now is up by about 13%."
+BEAR1|We've talked an awful lot about GameStop and the other companies that have seen Red.
+BULL2|It kind of really boost their shares and go after short holders.
+NEUT3|Are the shorts in those stocks that are heavily shorted.
+BEAR4|You guys had a pretty significant short, I think as of the end of the year was 30% or something.
+NEUT5|Why is your stock up this morning?
+NEUT6|What do you think about what's been happening with with read it?
+BULL7|Yeah, it's an interesting week and as we have come out as as.
+NEUT8|Newer company to the public markets.
+NEUT9|I think there's always going to be a little bit of a tendency for sure for the shorts to show up, but I'll remind everybody between myself and our founder Dan Gilbert and our leadership team.
+NEUT10|We own 95% of rocket companies because we feel so strongly about our ability to grow.
+BULL11|We've been growing for 35 years.
+BULL12|We've shown consistent ability to grow and be profitable in any kind of market cycle.
+NEUT13|And so I think the more we tell our story, the more we explain to folks the platform that we're building.
+BULL14|You'll see our stock continued to do the right thing.
+NEUT15|The other important component and you just pointed this out.
+NEUT16|We got a lot of retail investors in our stock.
+NEUT17|It's one of those stocks that people understand.
+NEUT18|They get a mortgage.
+NEUT19|They know the experience.
+BULL20|They're familiar with rocket companies and Quicken Loans, and so I think what you're seeing is there participating at a higher rate than some other companies, and I think that bodes well for our stock.
+NEUT21|Are you happy to see the retail traders chase out the shorts?
+BEAR22|Well, like I mentioned, I feel really sorry.
+NEUT23|I've been here 25 years.
+NEUT24|I know all the things that we're doing.
+NEUT25|I understand the power of the platform.
+NEUT26|I understand the profitability were able to drive and so you know my advice would be that this is not a stock that you want to be short in.
+NEUT27|You might want to rethink your position if that's if that's how you're playing it.
+BULL28|We've got a great track record and a lot of exciting things we're working on.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

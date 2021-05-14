@@ -1,0 +1,25 @@
+NEUT0|"""Time for unusual activity, Doc."
+NEUT1|What do you got for us?
+NEUT2|Well, Scott, as Jim said, it's become a verb.
+NEUT3|Zoom ZM is the symbol.
+BEAR4|Of course it is come way down from 500 all the way down to that low 300 level.
+NEUT5|They raised about $1.75 billion.
+NEUT6|I believe Scott the middle of last month and they did it at about that three forty 360 level.
+BULL7|The stock has zoomed since then Scott and is back over 400 to about 414.
+BULL8|We saw them coming in again, buying upside calls.
+NEUT9|These calls expire next week at the 4:30 strike, so next week, February 12430.
+NEUT10|I was already in zoom calls.
+BULL11|I added to it on this buying which was even bigger than what we saw in the middle of last month.
+BULL12|I think this one might be a blowout quarter form Scott and I just love the way the stocks performing today.
+NEUT13|I want to talk to you about a few other names as well.
+BULL14|Snap and Pinterest have both hit new all time highs today.
+NEUT15|You've sold calls in SNAP in forward in Pinterest, talk to me, cash in cash, and in some nice games, OK?
+NEUT16|Yeah, and the they are all three great companies.
+NEUT17|I'm sure Jim and Joe and Liz would probably hold on to all three, but I had short term call Scott that were going to be expiring anyway in the case of SNAP.
+BEAR18|It looked like it was going to be a bad move because the stock looked weak in the after hours has turned around and of course moved higher and I said I'm going to take that gift and cash out forward.
+BEAR19|We just had multiple weeks worth of upside call buying took off the short term calls in there.
+NEUT20|Yeah, during the day today as it pushed towards 12.
+NEUT21|And Lastly Pinterest I can't say enough nice things about Pinterest.
+BULL22|The traders of the options of Pinterest have been spot on.
+NEUT23|It's like they have tomorrow's newspaper today.
+BULL24|"I followed him in the stock, hit a new all time high like you said and the options just let me take that profit today, Scott."""

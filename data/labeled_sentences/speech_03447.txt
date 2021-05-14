@@ -1,0 +1,32 @@
+NEUT0|"""I may be new to investing, but that's because I'm 20 years old."
+NEUT1|The thing is, people in my generation are innately tech savvy, so many of the technologies that my parents learned as adult or already common by the time I was born.
+NEUT2|As for investing, I will never need a financial advisor because I already do it all myself.
+NEUT3|I started investing in crypto when I was 18 with a couple $100 and I've actually done pretty well.
+NEUT4|I add in little bits of money as I can and make my investment decisions by doing a lot of research.
+NEUT5|On Twitter and Reddit, Google and all over the Internet and by setting indicators on tradingview, my phone is pretty much constantly going off with notifications about updates on stocks and coins.
+NEUT6|An alerts that I set on charts because all of us gens Ears or zoomers are between the ages of nine and 24 years old.
+BULL7|We are already interested in things like green tech and crypto which have been doing very well for all investors.
+NEUT8|We're super aware of the social and environmental consequences that everything has, an aren't just concerned about the bottom line.
+BULL9|Plus we already understand diversification.
+NEUT10|So basically zoomers aren't making all the same mistakes as the generations before us.
+NEUT11|That said, it's totally fine if people prefer to be more traditional and old school when it comes to how they invest an what they invest in is just not for us.
+NEUT12|Of course, with the exception of precious metals, gold and silver are pretty much common sense at this point.
+NEUT13|One kid, Brandon Fleysher, invests in metals a lot and keep super diversified portfolio.
+NEUT14|He is 17.
+NEUT15|Started at 13 and has tripled his money.
+NEUT16|Another guy, Eric Feynman, is now 20 and worth $4.5 million.
+NEUT17|He started at age 12 with $1000 of Bitcoin.
+NEUT18|By the time Eddie's villain was 15, he had already saved up $12,000 from teaching tennis lessons and invested it all in crypto.
+NEUT19|He started with the basics but got super integrating all coins.
+NEUT20|He is now an 18 year old millionaire.
+NEUT21|The privileges of each new generation may not exactly be fair to the last generation.
+NEUT22|But the point is that we continue to learn and evolve from them.
+NEUT23|A lot of our millennial cousins got financially screwed, so a lot of us, around 10% of us are already saving with an eye on retirement.
+BEAR24|Some economists in trading experts are fully convinced that we screw things up and trade too much like we're playing video games.
+NEUT25|Unfortunately, GameStop, Fang, DD, Network Group, and Hertz proved to have some truth in it when young traders turn them into mania.
+NEUT26|Stocks for no real reason.
+NEUT27|Burton G Malkiel, Princeton economist.
+NEUT28|Is one of these experts who finds our ways detrimental to the markets?
+NEUT29|The thing is, those situations don't define us, we just invest differently and we have our own trading styles.
+NEUT30|We totally understand technology and are great multitaskers and researchers.
+NEUT31|"We are the largest generation and like it or not, while there's a lot that we can of course learn from you, there is also a lot that you can learn from us."""

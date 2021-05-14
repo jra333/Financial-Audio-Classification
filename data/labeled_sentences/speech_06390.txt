@@ -1,0 +1,21 @@
+NEUT0|"""Well, they're talking about 150 billion, total 100, and 32150, so I think it could be quite substantial and the reasons are fairly sound."
+NEUT1|First of all, the volatility of the Chinese Treasurys are about 1/6 of the volatility of the US government bonds.
+NEUT2|And second thing is, there's a very significant decoupling in terms of hedging between the Chinese bond market and the global bond market.
+BEAR3|The problem is that there's a question among the heaviest users of the Russell Index, which is the Japanese investors.
+NEUT4|About the convertibility that you want.
+NEUT5|What happens if there's a Black Swan event in China and suddenly there's a blow up, either a financial blow up or that affects people's views of the market?
+NEUT6|Or the rates change.
+BEAR7|Then a lot of money is going to flow out in China is not really prepared to deal with that.
+NEUT8|There may be some problems going ahead with the amount of capital going in and the last point I'll make is that I find it very amusing.
+BEAR9|It is a time of rising tensions with China and the rest of the world.
+BEAR10|So much capital is flooding into the country.
+NEUT11|When you say that you don't think that China is necessarily prepared to be able to deal with an event that could lead to a mass outflow of funds, but would they be willing to let that happen?
+NEUT12|And would they therefore perhaps scramble pretty quickly to try and put a stop to it?
+NEUT13|Well, they would have to let the funds go out, but what they probably would do if there was a massive exodus of, say, $100 billion, something quite significant, which is unlikely, but possible.
+NEUT14|They would probably come up with various rulings of why they have to delay the actual flow over a period of time to avoid having any significant impact on the domestic market.
+NEUT15|In China.
+BEAR16|The problem with that is a lot of investors may not be too happy, so it's it's a risk for China.
+NEUT17|For as they gradually include their financial system in the global financial system, it's a risk.
+NEUT18|Which reminds me a lot of what happened with the state reform back in the 90s under Jurong Ji.
+BEAR19|It was a huge risk and caused a lot of problems internally, but they managed to figure that out.
+NEUT20|"Now they're trying to do the same thing, only on global financial flows, so we'll see how that happens."""

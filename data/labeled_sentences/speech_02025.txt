@@ -1,0 +1,20 @@
+NEUT0|"""Just start maybe with a kind of a synopsis of the last 10 years."
+NEUT1|What are the lessons we've learned and where are we right now and the post financial crisis world?
+NEUT2|Well, this is a great time to ask that question because it seems pretty clear.
+NEUT3|To those of us who are expert.
+NEUT4|Who may know nothing, never forget that.
+BEAR5|That we're going into an era much lower returns than we've been accustomed to in the past, and.
+NEUT6|How how that will play out, nobody knows.
+NEUT7|I would be in the camp of saying the market is significantly not grossly, but significantly overvalued.
+NEUT8|And assuming that's correct, there are only two things that can happen.
+NEUT9|You can have a long period of very low returns or a great big drop in the market, 30 percent, 40%, even 50%, and then get back to the good returns of the good old days.
+BEAR10|That's a hard way to do it, but it seems almost inevitable returns will be lower some what.
+BULL11|In this 35 years or so, but we've had the greatest bull market in recorded history, with the S&P 500 growing at 12% a year.
+NEUT12|Which means, mathematically speaking, simply enough that if you started with the S&P 535 forty years ago, you now have $60.00 for every dollar you started with, and so it's not genius, it's the market and you kind of wonder.
+NEUT13|How the mutual fund industry is held itself together against the onslaught of indexing, and I think the answer to that is in this great bull market.
+NEUT14|If you had a 10% return, which is roughly what the average fund is giving you, you got 40 times your money instead of 60.
+NEUT15|Well, nobody's looking at the 60, and they're saying any manager that can take my dollar or make take my $10,000 and turn into $40,000.
+NEUT16|Is my friend forever, and he's a genius.
+NEUT17|And he's actually fallen way short in the market, so one of the lessons is I think, or one of the messages.
+NEUT18|Perhaps more importantly, is you know the trees don't grow to the Sky, and I'm really quite confident about that.
+NEUT19|"Confidence in this business is a dime a dozen."""

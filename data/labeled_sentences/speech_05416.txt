@@ -1,0 +1,44 @@
+NEUT0|"""Michael, I'll start with you just on off the back of Rick's comments there."
+NEUT1|I mean how much we've seen yields move in the last couple of weeks.
+NEUT2|Is the data on the economy matching that in the same sort of level of a bearish tone as the bond market movers?
+BEAR3|I don't think so far the data is matching that, but I think some of the four looking indicators are sending a cautionary signal, and I think something we're getting really concerned about here is capital spending.
+NEUT4|And last week we saw some of the data on capital spending that predated some of the intensification of the trade war.
+BULL5|Already look pretty soft, that's probably not going to get helped much by what we're seeing with business sentiment lately, so I'd say the spot data we have right now suggests an economy that's still growing.
+NEUT6|You know, at or above trend, though there are a few cracks showing up again, not in the household sector.
+BEAR7|Consumers look fine, but it's really businesses in our business is going to lose caution.
+BEAR8|I'm confidence, and that shows up in weaker capital spending and potentially hiring.
+NEUT9|So do you think you know the bond market is picking up something here that you know there are some cracks in the facade that the bond market may be discerning here?
+BEAR10|Whether there's cracks in the growth outlook, Tom or what you but you have been bullish on the US market.
+NEUT11|Ann has had sort of even.
+NEUT12|I mean, I've seen you tweet and repeat the idea that the US can be a safe haven even when you do have these trade and growth concerns heat up.
+NEUT13|Have you changed your view at all?
+NEUT14|No, we haven't.
+NEUT15|You know, I do think that there's some reasons to not be too bearish.
+NEUT16|You know, among them being the US is the safety trade.
+BULL17|And as Michael pointed out, there's some real resilience and dynamism in the US economy.
+BEAR18|But of all the parties affected by this trade war.
+BEAR19|I kind of think Jamie is the front end of like CEOs beginning to cry Uncle and I think that that ultimately puts some pressure on the US to maybe come to a resolution sooner.
+BULL20|I think there's probably a lot more commitment on the China side to endure more pain on that front though Tom.
+BULL21|Would you say that the political side is in back come round to support the president more clearly on his hard line, which perhaps gives him a little more wiggle room to continue to push hard?
+NEUT22|Yeah, that's right.
+NEUT23|I think from a political perspective I think the Democrats and Republicans in Congress support.
+BULL24|What Trump's doing, and I think that's helped, embolden him on a hard line.
+NEUT25|But I think what's changing is I think CEO's are just going to start to get in line and start to notice their book to bills.
+BEAR26|Getting hit.
+BEAR27|Conditions are slowing financial conditions tightening.
+NEUT28|These are things that ultimately raise a lot of risk about what it means for is.
+BEAR29|Michael said capital spending, but also hiring in this who's hiring happens and consumer confidence will weaken Michael.
+NEUT30|You've recently adjusted your sort of call or expectation for the Fed.
+NEUT31|What do you think the Fed is going to do this year and why you changing your mind?
+BEAR32|So we've always thought they'd be on hold this year.
+BULL33|We thought there was some small chance they would hike next year.
+BULL34|Now I think the risks are looking more balanced between the next move being a hike or a cut we've always felt they would.
+NEUT35|Even even with this new inflation framework, they're looking at that.
+BEAR36|They still probably would only cut if they felt that growth were deteriorating to something like trend growth or even below trend growth.
+BEAR37|I think that risk has really grown in the last few weeks when we look at some of the data.
+BEAR38|Q. I'm sorry.
+BULL39|The second quarter looks like it's going to come in.
+BULL40|We have it penciled in around 1% GDP growth.
+BEAR41|We obviously want to average that somewhat with the first quarter, but that is getting you a little bit dangerously close to trend growth, and I think in that environment the Fed may feel that you know some extra stimulus may be needed for the economy.
+BEAR42|So I do think you know it still looks to me like the Fed is on hold.
+BULL43|"That's certainly the message they've been sending in the last few weeks, but I think the odds of the next move being cut have increased as we've seen some of this business caution evident in some of the surveys that we've gotten recently."""

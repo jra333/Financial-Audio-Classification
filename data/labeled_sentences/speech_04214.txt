@@ -1,0 +1,48 @@
+NEUT0|"""So before diving into the individual sectors in stock, the headline was risk."
+BEAR1|Sentiment is softening.
+BEAR2|People are taking risk off the table, the RNA continues an 11 month trend of being under the average from when we started this index.
+NEUT3|What's interesting is you hit, I think, on the most interesting part of it, risk may be a people may not be taking as much risk, but the fact that they're going into six month in less fixed income.
+NEUT4|In fact, 70% of what we've had put in a fixed income last month was in six months and less terms.
+NEUT5|And like like 80% essentially yeah 80% one year and so I think that people are looking for that.
+BULL6|Sell off to get back in what continues to be strong under no real change in is these dividend paying stocks with low interest rates.
+BEAR7|This low people are looking for both capital appreciation as well as a dividend 'cause they feel they're having a tougher time getting it elsewhere.
+NEUT8|So when they are looking at equities, what names are they buying?
+NEUT9|Or did they?
+NEUT10|Sure yeah, I found a couple of interesting related ones in my opinion.
+NEUT11|Disney and Roku Roku.
+BEAR12|Having the big sell off, and so you know the last two weeks of the month, our clients were bigger buyers of that name after it started its big sell off.
+NEUT13|And I think when you look at the streaming space and in one of the cells being Netflix, so I think people have gone from I want to own the producer of the content too.
+NEUT14|I want to own the provider of the content or the distribution network.
+NEUT15|I guess I should say of the content a little bit more with Roku now, Disney is both the producer and the distributor.
+NEUT16|But I I think that that's something that we're seeing that's really interesting is people are trying to figure out who's going to be the winner in this streaming world.
+NEUT17|Why did Apple stand this?
+NEUT18|Apple Standard stood as a cell again, which you know, you and I talk about this every month, and we continue to see that story still remains.
+NEUT19|Our number one held stock.
+BULL20|It's really interesting when Apple got to 200 we saw strong sellers this month.
+BEAR21|If you look at the chart of September, you see that Apple went back and forth around 2:20 so much and our clients every time it got over 220 were pretty heavy sellers of Apple.
+NEUT22|So I find it really interesting that I see that as sort of a synthetic representation of how people feel about China.
+NEUT23|There more nervous, they get about the outcome of China.
+NEUT24|I think many retail investors are playing it through what they do with their Holdings in Apple.
+NEUT25|Then you're nodding.
+NEUT26|Does all this make sense to you?
+NEUT27|Well, it's funny.
+NEUT28|I'm shocked that Apple is actually approaching that all time high again when you think about last fourth quarter the holiday season that Apple had, where was the shortfall?
+NEUT29|It was in China.
+NEUT30|When you think about the nationalist fervor that we have right now.
+NEUT31|You know, Apple's market share for smartphones in China.
+NEUT32|Is 6 1/2 percent their number five behind four local brands.
+NEUT33|And when you think about all of the talk that we've had about this, you know, nationalistic fervor.
+BULL34|I just don't see how they put up a good quarter in China, even though they have these brand new phones, especially when there are competitors in China locally that have 5G phones.
+NEUT35|So to me, I think there's a lot of risk at Apple's approach.
+NEUT36|Is 233.
+NEUT37|Where do you stand down on the Roku Netflix debate?
+BULL38|Well, I think JJ made up a great point.
+NEUT39|When you look at not only the aggregators of distributors, but the ones who own the content.
+NEUT40|Look at Comcast and.
+BULL41|A T&T, both up 30% on the year near the agencies.
+BULL42|Not near all time highs but near 52 week highs.
+BULL43|Disney was up 30%.
+BULL44|Now it's up 20%.
+NEUT45|I think.
+NEUT46|Investors, despite all that debt that those three companies have are buying into this vertical platform.
+NEUT47|"The delivery and the content."""

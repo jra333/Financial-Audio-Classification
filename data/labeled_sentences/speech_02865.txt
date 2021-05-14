@@ -1,0 +1,8 @@
+BEAR0|"""The euro has dipped below $1.05, hitting a 12 year low."
+BEAR1|The single currency has now fallen by 12% against the dollar since the start of the year and may soon reach parity.
+BEAR2|This slide is the result of divergent paths taken by the US Federal Reserve and the European Central Bank, which reflect different economic conditions in the eurozone and the US.
+BULL3|The ECB has launched a program of quantitative easing to stave off the risk of deflation in the eurozone.
+BULL4|Meanwhile, strong economic data are prompting the Fed to consider rate hike, perhaps as early as June.
+BEAR5|The result is investors are dumping euros to buy dollars in the hope of making higher returns.
+BULL6|Eurozone governments hope a cheaper euro will boost experts, but economists say there is no guarantee a lower exchange rate will foster sustained economic growth.
+NEUT7|"Exporting companies may choose to keep prices abroad unchanged, opting for higher profits rather than competing for market share."""

@@ -1,0 +1,27 @@
+NEUT0|"""Now Disney is separating the groups that create content from a new group."
+NEUT1|That's going to be focused on distributing content.
+BULL2|They say this will enable more nimble decision making about how content is released.
+NEUT3|Here's what Disney CEO Bob Jacob JPEG told me about why he's making this move right now.
+NEUT4|Covid accelerated the rate at which we made this transition, but this transition was going to happen anyway because essentially what we want to do is separate out the folks who make our wonderful content based on tremendous franchises from the decision making in terms of where the prioritization is in terms of how it gets commercialized into the marketplace.
+BULL5|Disney shares moving higher this morning, up over 3% on Disney, saying that digital distribution and Disney plus our top priority theater stocks.
+BEAR6|Though tumbling on this news and am ceasing its cash, will be depleted by the end of this year or early next.
+NEUT7|If these trends persist.
+BULL8|We are tilting the scale pretty dramatically towards our direct to consumer platforms.
+BULL9|We're going to be increasing our investment in content that's going to fuel the machines in direct to consumer.
+NEUT10|Loop capital upgrading Disney to by saying quote no investor will disagree that the future, or arguably the present is all about streaming and sacrificing current profits to be better positioned for streaming is the correct move.
+NEUT11|Now Needham is more cautious warning quote that Disney streaming services monetize Disney's Fabulous Content at a steep discount to linear TV and theatrical releases.
+NEUT12|Therefore, a strategy which prioritizes streaming feels economically risky to us will, of course, learn more about this strategy at an Investor Day, which Disney has just scheduled.
+NEUT13|For December 10th guys, yeah Julie, I think important.
+BEAR14|Always distressed here.
+BEAR15|They're still losing money on this.
+BULL16|I mean, it's a great.
+NEUT17|It's an enormous investment for Disney that continues and I guess some analysts are wondering is this going to change the way they report those losses?
+NEUT18|You have any insight at all?
+NEUT19|Well, look, I think we'll learn a lot more about not only whether or not this is losing money or how much money is losing, but also how many subscribers Disney plus has.
+NEUT20|Now the last number David we have on Disney Plus is 60 million subscribers.
+BULL21|They hit that target much earlier than anticipated, but I think there are questions about how much they've been actually been able to grow those subscriber numbers after scaling them so quickly.
+BULL22|So I think we'll get more earnings.
+NEUT23|And then of course get more when they do that Investor Day in December, but.
+NEUT24|I think they will likely have to reorganize the way they report these revenues now that they've restructured the company so much.
+NEUT25|Shepard Smith here.
+NEUT26|"Thanks for watching CNBC on YouTube."""

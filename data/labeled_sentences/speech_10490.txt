@@ -1,0 +1,47 @@
+BULL0|"""Welcome back on Friday David."
+NEUT1|We were talking about the prospect of MNA heating up this year and sure enough we gotta deal in semis.
+NEUT2|Yeah, we've got a large deal in semis.
+NEUT3|Of course you know that there's been some talk about a big chip deal.
+NEUT4|We got it Analog Devices and it was announced this morning, some reporting on it late yesterday.
+NEUT5|Buying maximum .63 shares of ATI for each share.
+NEUT6|If you want to do the math at home, it gets you to about a 20 over $20 billion deal based on the equity value, there will see what analog does.
+NEUT7|Of course, Jim in the early going here, they're talking.
+NEUT8|I think about what 275,000,000.
+BULL9|Overall cost synergies.
+NEUT10|Overtime yeah, there it is 275,000,000 cost synergies by the end of year two.
+NEUT11|An accretive to adjusted EPS adjusted EPS in 18 months subsequent to closing, we're going to be talking to ATI CEO later this hour gym, but what's your take on the deal itself?
+NEUT12|Of course, a large one.
+BULL13|We can see the premium being paid, resulting in maximum stock price going up before we start.
+NEUT14|Traders Analog Devices knows how to acquire they bought linear, which I thought was going to be tough to deal.
+NEUT15|And what I spoke to the company when they did that.
+NEUT16|They did, they really combine the companies from record time.
+NEUT17|Given what's really extraordinary about this deal?
+BULL18|When people say that the markets overvalued alright, well, Maxim was only up 4%.
+NEUT19|It was at its high though an when you see companies that get bid at the high even though they had, but they did not great quarter and this next quarter.
+NEUT20|What's going to be worse?
+NEUT21|What it says is, be careful.
+NEUT22|If you hate this market because Vince saw value in maximum batteries.
+NEUT23|Car batteries value in healthcare.
+NEUT24|A lot of value in Internet of Things.
+BULL25|This is that there's a competitive world in the analogue between Analog Devices and Texas Instruments, and I think this puts them in better position in Texas Instruments in terms of what I call industrial ameryka technology, which has been weaker.
+NEUT26|If autos come back, this thing is a horse.
+BULL27|And I mean they can now compete with the likes of Texas Instruments when it comes to R&D spending.
+NEUT28|Yes, which is very important.
+NEUT29|In three years they always say three years to get the deal done, David.
+NEUT30|It'll be two years.
+NEUT31|They always under they always under promise.
+NEUT32|They pay you pod when you say when you want to make clear when you say get the deal done, you mean integrate the generate to deal with profit so that we sit here and raised when we raise numbers I think will be in.
+NEUT33|I'm sorry to be imprecise, but it'll be 2 years from now.
+NEUT34|One of the most important things and we're going to talk about that with this with Tesla.
+NEUT35|Battery management.
+NEUT36|They're going to own the EV electric vehicle drivetrain and they can creep up into the actual battery.
+NEUT37|Well, we all we do is we talk about much of the time everyone when you're on vacation, they talked about Musk.
+NEUT38|Well, Evie is really just must, but TV is going to be everybody.
+NEUT39|That's a good business for them.
+NEUT40|They also do a Maxim's got this great health care business.
+NEUT41|Anybody who's who is trying to figure out whether they have Covid uses a pulse oximeter.
+NEUT42|An pulse oximeter is maximum.
+NEUT43|So that's a very good business.
+BEAR44|Great health care business, and even though they're not going to have a sequential decline because of kovik.
+BEAR45|The company is still getting a bit.
+BULL46|"And they did raise their third quarter fiscal guidance as well, Carl."""

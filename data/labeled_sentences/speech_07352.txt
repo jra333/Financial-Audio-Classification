@@ -1,0 +1,9 @@
+NEUT0|"""Introducing the Daily FX equities section, Understanding the stock market and how it works."
+NEUT1|As part of daily affects education, understanding the stock market delivers an introduction to equities through indepth, easy to navigate content, using a guided approach we utilized for core modules.
+NEUT2|Covering a range of topics from how to pick stocks to the largest ETF's.
+NEUT3|The user can easily follow their progress as well as navigate to other parts of the module at their own pace.
+NEUT4|Stock Market Basics explores the type of stocks to consider, how the economic cycle impacts equities and much more.
+NEUT5|Researching and valuing stocks covers topics like earnings season, market value ratios, and stock market liquidity.
+NEUT6|Build knowledge on fundamentals, technicals, and psychology and discovered the essentials of ETF's.
+NEUT7|Understanding the stock market is an ideal first step to learning about and analyzing equities.
+NEUT8|"So begin your stocks education with daily effects today."""

@@ -1,0 +1,18 @@
+NEUT0|"""My recommendation is stocks for the long run by Jeremy Siegel."
+NEUT1|Jeremy Siegel is a professor at Wharton Business School, University of Pennsylvania, and when you look at it, it does have a certain textbook look to it.
+NEUT2|The 4th edition on the front cover, right?
+NEUT3|Is that correct?
+NEUT4|Actually?
+NEUT5|And there's a 5th edition that just came out a year ago, but what's great about this book is it is not just an investing book, it's a history book.
+NEUT6|It's an economics book.
+NEUT7|There is sort of a textbook Y feel to it, but Jeremy Siegel writes in a way that the average person can understand some of these contexts.
+NEUT8|He goes back to the returns of various asset classes back all the way to 18102 and then it comes all the way through the big events.
+NEUT9|The great depressions, the wars and the recent addition as even includes the Great Recession and the main point of all of this is that over the long wrong stocks are actually the least risky asset class becauses one of the big risks we all have when we're trying to accomplish financial goals.
+NEUT10|Are we going to have enough money?
+BULL11|And is the money we does the money we have is going to keep up with inflation in the short term year to year.
+NEUT12|You don't know what's going to happen, but over the long run, historically stocks have beaten cash, beaten bonds, being real estate and beaten inflation.
+NEUT13|So I think part of this book is just inspiration, especially in the times when the market is down to look at this and say.
+BULL14|Over the last 200 years, if you can just hold on through even parts like the Great Depression where stocks went down 90%, even those who held on an still added a little bit to their portfolios over the coming years made out much better than in any other asset class zero.
+NEUT15|And actually I first learned this as an audiobook, so I highly recommend those best if you busy parents were spending a lot of time in the car driving kids around.
+NEUT16|Get it as an audiobook.
+BULL17|"It's a great way to get it in snippets so you're not getting overwhelmed by all the information, but I think it'll convince you to be a longtime stock investor."""

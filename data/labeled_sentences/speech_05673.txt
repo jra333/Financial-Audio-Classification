@@ -1,0 +1,41 @@
+NEUT0|"""OK, so let me just set this up one more time."
+NEUT1|I've never invested before.
+NEUT2|I have no idea about how to go about it.
+NEUT3|Can I download an app?
+NEUT4|Do I need to go to Fidelity or some other company?
+NEUT5|Well, you know.
+NEUT6|I mean, if you have a job, you might have a workplace savings plan like a 401K, or if you're in the government is called a 403 B.
+NEUT7|So if you have a plan at work, the no brainer thing is to just start there.
+NEUT8|Many times your employer will match a certain percentage of your contribution.
+NEUT9|And if you don't take advantage of that, you're just essentially giving away money that's coming to you, and after a while you know the effects of com, pounding and continuous contributions add up, and you've got some commas in your account balance, you know, But let's say I want to invest in, say, Snapchat.
+NEUT10|Yeah, how do I do that?
+NEUT11|Well, now if you want to invest in a single stock, it's not advisable like for building a long term financial plan.
+NEUT12|But people do like to play with bottle rockets and firecrackers too.
+NEUT13|'cause it's fun.
+NEUT14|So if you, let's say like Snapchat, you thought it was going to be really cool.
+BULL15|Go up a lot and it did on its first day of trading.
+NEUT16|What you could do is you could set up an account with an online broker like Charles Schwab or Fidelity or Etrade.
+NEUT17|You do have account minimums that vary, but generally you can get in for about 500 bucks minimum, so you send them a check or you wire them some money or your PayPal it or whatever you do.
+NEUT18|These days you get your money into etrade or TD Ameritrade or whatever the broker is.
+NEUT19|There's one called Robin Hood.
+NEUT20|Actually they only operate on the iPhone and the Android.
+NEUT21|No desktop application as of yet, but there.
+NEUT22|Totally free, otherwise you pay about 5 bucks or so.
+BEAR23|Fidelity recently lowered their commissions to 495 per trade.
+NEUT24|Everybody else went down, so now you're paying between about $5 and $8.00 at online brokers for buying and selling stock.
+NEUT25|Let's say I inherit money that's not going to happen.
+NEUT26|So let's say that I did, and I want to make wise investments.
+NEUT27|Is it prudent to go and see somebody, talk to them and have them distribute my funds in a particular way?
+NEUT28|Or am I better just using an app?
+NEUT29|The argument for having a broker who charged you a lot of money was he was worth it.
+NEUT30|He understood the secrets of Wall Street only.
+NEUT31|He could speak to this demon dragon and tamed the thing for you.
+NEUT32|But over time as technology improved and communications and the Internet spread, people learn that they could probably replicate the same experience if they just followed the same ideas that their advisor was going by.
+NEUT33|But if you're a person who just refuses to believe that they can understand finance and investing, you probably should work with some kind of an advisor, some people.
+NEUT34|Like to have a hands on approach, they read the papers that they were up on information they think they can beat the market.
+NEUT35|Maybe they can, maybe they can't.
+NEUT36|You know there's been research done out of Princeton back in the 1970s.
+NEUT37|Burton Malkiel a random walk down Wall Street classic book saying that essentially throwing darts at a stock page from the newspaper would give you the same kind of performance as a skilled money manager.
+NEUT38|And if you do nothing else, if you track the market and you pay minimal taxes, and if you pay minimal fees.
+BULL39|You're going to do just fine.
+BULL40|"OK, thanks, John, this late enough yeah."""

@@ -1,0 +1,14 @@
+BULL0|"""It's stuck o'clock welcome."
+NEUT1|Wallstreetbets trader Keith Gill likely bought 50,000 more shares of GameStop.
+NEUT2|Gil still sees potential in the future of the stock.
+BULL3|He finds it an attractive investment at this price point.
+BEAR4|JP Morgan says the market liquidity for Bitcoin is falling.
+BEAR5|This means even small flows can have a large price impact that could lead to the risk of wild price swings.
+NEUT6|Boeing told airlines to stuff flying at 777 aircraft on Saturday.
+BEAR7|One of the planes had an engine failure after takeoff.
+BEAR8|The debris from the plane was scattered across several neighborhoods.
+BEAR9|An stocks are retreating as the Treasury yields are going up.
+BULL10|The 10 year Treasury yield went up to 1.37%.
+BULL11|This is close to the highest level since February 2020.
+NEUT12|Alright stay safe.
+NEUT13|"Bye bye."""

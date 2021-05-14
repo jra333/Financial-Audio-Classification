@@ -1,0 +1,25 @@
+NEUT0|"""Ripple price technical analysis."
+BULL1|XRP slash USD bearish U turn.
+BEAR2|Key highlights Ripple price extended declines and moved below the $1.80 support against the US dollar.
+BEAR3|Yesterday's highlighted crucial bearish trendline with current resistance at $1.85 is still in place on the hourly chart of the XRP slash USD pair data source from Kraken.
+BEAR4|The price continues to move down and it could soon break the 1.60 loty for more losses.
+BEAR5|Ripple Price faced a lot of selling pressure against the US dollar in Bitcoin.
+BEAR6|XRP slash USD could accelerate declines and it may soon test or break the $1.50 level.
+BEAR7|Ripple price decline.
+BEAR8|It seems like the current bearish pressure is here to stay on Ripple price below $2.00 against the US dollar.
+BEAR9|The price was under a lot of pressure and it moved below the $1.80 in $1.70 support levels.
+BEAR10|The downside move is strong and the price is now below the $1.65 level.
+BULL11|Recently there was a recovery from the 1.6062 dollar swing low with a break of the 23.6% Fib retracement level of the last decline from the $2.38 high to $1.60 low.
+BEAR12|However, the upside move was kept by the $2.00 handle.
+BULL13|Moreover, the 50% Fib retracement level of the last decline from the $2.38 high to $1.60 low also acted as a resistance.
+BULL14|More importantly, yesterday's highlighted crucial bearish trendline with current resistance at $1.85 is still in place on the hourly chart of the XRP slash USD pair.
+BULL15|It may continue to act as a strong barrier for buyers above $2.00.
+BEAR16|As long as the price is below the $2.00 handle, it remains at a risk of more losses below $1.60.
+BEAR17|A break below the $1.60 level could open the doors for a test of the $1.50 level.
+BEAR18|Below the $1.50 level, there is a chance in extension towards the $1.40 level.
+NEUT19|Looking at the technical indicators.
+BEAR20|Hourly MACD D. The MACD for XRP slash USD is now placed in the bearish zone.
+NEUT21|Hourly RSI relative strength Index the RSI for XRP.
+BEAR22|Slash USD is heading lower towards the 25 level.
+BULL23|Major support level $1.50.
+BULL24|"Major resistance level $2.00."""

@@ -1,0 +1,23 @@
+NEUT0|"""Let's dive a little bit deeper into the action right now with our markets reporters."
+NEUT1|Abigail.
+NEUT2|What are you watching?
+NEUT3|You know, remain?
+NEUT4|Let's take a closer look at a chart that we've been looking at a bunch over the last week or so.
+NEUT5|And especially today in different ways.
+NEUT6|And it's making the point that August, even the third quarter shaping up to be risskov what we're looking at here.
+NEUT7|These are all futures.
+NEUT8|So in purple we have the E mini futures on the S&P 500 and yellow.
+NEUT9|We have gold futures in white we have Treasury futures, and in blue we have yen futures.
+NEUT10|That is actually the yen to the dollar futures and we see in the month of July all were basically.
+BEAR11|Latta up a little bit, then after that Fed meeting stocks went lower.
+BULL12|We see gold shooting higher, the other havens bonds, and the yen also trading higher.
+BEAR13|Now, of course, lots of trade uncertainty in here overall, but right now you can see over the third quarter, the S&P 500 down about 1 1/2% gold futures up 9.4%.
+NEUT14|The havens have it certainly in the third quarter and August 2 renita, which is shaping up is in fact at this point risk off.
+BEAR15|Abigail, I'm taking a look at Work Day, which had a pretty terrible day and is down about 10% for the month.
+NEUT16|Take a look at this chart to look at the monthly action now.
+BEAR17|This is all despite two quarter second quarter results.
+BULL18|That beat analyst estimates and amid raising its full year outlook for subscription revenue.
+BEAR19|So where was the disconnect in markets while results were generally seen as strong, it was at least two up one firm upgrading the stock by the way, however, the second half of the year.
+NEUT20|Is actually seen as being a riskier period now.
+NEUT21|This all fits into what we're seeing in technology stocks in August, with work down to performing.
+BEAR22|"It's also seeing the NASDAQ 100 lower, as well as the S&P 500 infotech index and the software and Services Index also down."""

@@ -1,0 +1,45 @@
+NEUT0|"""You know there are two parts of this narrative."
+NEUT1|Think about it.
+NEUT2|One is, this is inherently going to keep becoming less about how many iPhone units is Apple selling.
+NEUT3|But Johnny how we going to monetize this 1.6 billion iPhones that are out in the wild right now in an install base right?
+NEUT4|On the services side, the way we kind of frame this is listen the average iPhone user spending about $62.00 a year on iPhone services, right?
+NEUT5|Compare that metric to what you spend on in Netflix, in Palatine, and Amazon Prime.
+NEUT6|All these other things.
+BULL7|This number could easily keep growing, and as long as it keeps going through.
+BULL8|Install base growth an from new services being offered.
+NEUT9|Meeting services alone can grow mid teens for the next 4-5 years bearable, so he quickly I think the narrative there is air pods, despite the fact that you know, we see them fairly often.
+NEUT10|It has a less than 10% attach rate to iPhone users.
+NEUT11|Seems truthful.
+NEUT12|Watch by the way to extend that number can get about 20% tax rate.
+NEUT13|You should see these businesses grow high teens as you go forward, and that's kind of a big team of less about iPhones.
+NEUT14|More about monetization of it's always.
+NEUT15|Now that's interesting.
+NEUT16|So where does that leave people who've been trained over the years to react to every incremental headline about supply chain about production growth, about the marginal improvement in the camera product, offering an?
+NEUT17|And?
+NEUT18|What about the concern that we that we used to have at least about margins, and that is that they're not as robust, and they're not as transparent about services margins than they have been on product.
+NEUT19|Yeah, I mean as an Alice I would love for Apple to be more transparent on a whole host of things, but you know, I wish for a lot of things that don't come true.
+NEUT20|I feel you know where does that leave people that model this on my iPhone units.
+NEUT21|And by the way, I still wanna model iPhone units.
+NEUT22|It becomes a lot less relevant as we go forward, right?
+NEUT23|I I feel like the model we should all be running is.
+NEUT24|How is the iPhone install based tracking versus our iPhone units selling and I think that metric has to change in terms of what is important.
+NEUT25|The other part by the way, to to the point you mentioned.
+BULL26|Service is inherently invariables have higher than corporate margins, which means not only the growth screwing to the install based monetization, but this could drive margins and EPS a lot faster than what people are seeing historically out of them.
+NEUT27|Good morning, it's Deirdre.
+BEAR28|I know you're talking a lot about services but there's a lot of early some uncertainty there, especially movement on the regulation front in terms of payments in the App Store.
+NEUT29|Just recently, Arizona House passed a bill that would allow developers to avoid that so called Apple Tax.
+NEUT30|How do you build that into your case?
+NEUT31|Do you think this is a risk or something that you know will kind of Peter on like we've sort of seen regulations over the last few years?
+NEUT32|It's a great question, and so Levi had to poke a bear thesis into our entire narrative.
+NEUT33|It is can regulation undermine you know everything you said.
+NEUT34|In addition to think about all the issues they've had with the Google licensing deal as well, right?
+NEUT35|So I think what can happen from a regulatory basis could actually be a big risk or a risk on this narrative as you go forward now on the Apple Tax.
+NEUT36|Other services tax, right?
+NEUT37|We've got a gun and said, hey, if they took that 30% take rate down to 10%?
+NEUT38|That would imply that all EPS couldn't get impacted by 70%, right?
+NEUT39|And so that's the kind of had been working with.
+NEUT40|Our assumption would be that you know Apple is probably has the least amount of regulatory risk and big tech as you go forward.
+NEUT41|And as you said, these things might just either along for a longer time than be a material headwind.
+NEUT42|This is our whole pregnant.
+NEUT43|Shepard Smith here.
+NEUT44|"Thanks for watching CNBC on YouTube."""

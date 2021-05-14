@@ -1,0 +1,33 @@
+NEUT0|"""Let's cut right to the chase."
+NEUT1|Here Rajiv your company is saying that customers don't buy products.
+NEUT2|They buy solutions.
+NEUT3|What is the new Tinix solution to the customers problem?
+NEUT4|Yeah look, our customers are doing a few things as part of their journey.
+NEUT5|They're all transforming themselves digitally.
+NEUT6|They are moving to the cloud and they're figuring out how to enable their distributed and remote workforce.
+NEUT7|All of these are going to continue as we come out of covid.
+NEUT8|They've all accelerative during Covid, and as we come out of it, they're going to continue.
+NEUT9|We have a cloud platform that works for our customers and does exactly these three things.
+NEUT10|We enable the remote workforce by delivering virtual desktops and a remote work.
+NEUT11|We enable their journey to the cloud and provide this cloud platform to run their modern and existing applications wherever they like to run it on and so we are in the heart of enabling our customers on these journeys and our customers are looking for this type of a platform solution that will help them with their journey.
+NEUT12|But now I think that all sounds terrific.
+NEUT13|It's the way I want it to be, but we've had new tennis on several times.
+NEUT14|Actually a bunch of times, and I find that there have been some business transitions that have that really kind of confused me.
+BEAR15|Frankly, that some of them obviously ill advised.
+NEUT16|How do we know that that is past us, that it's rearview mirror?
+NEUT17|Yes, of course Jim.
+NEUT18|Just to give you a history here.
+NEUT19|Yeah, we started out by selling an appliance and then move to a perpetual software model.
+NEUT20|Today we're in the heart of moving to a subscription model.
+BULL21|That transition is well underway.
+NEUT22|At this point, all our business is largely shifted to subscription term offerings.
+NEUT23|What we have yet to experience is the renewals coming out on the other side of that equation we've been selling mostly new contracts at this point and as you know, our customers love us right?
+NEUT24|We have an NPS score of 90 and so renewals as they start consuming should start kicking in as well.
+BULL25|So this growth in new business as well as the renewals kicking in will drive both continued growth for us and profitability.
+NEUT26|Don't miss a second of mad money.
+NEUT27|Follow at Jim Cramer on Twitter.
+NEUT28|Have a question?
+NEUT29|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT30|Miss something head to madmoney.cnbc.com.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

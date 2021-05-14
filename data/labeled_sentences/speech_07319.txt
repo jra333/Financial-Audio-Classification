@@ -1,0 +1,12 @@
+NEUT0|"""This was quite a story out of the Wall Street Journal saying that the United States is really trying to pressure allies not to buy things from Waway anymore."
+NEUT1|Yes, and their primary concern is that as we move into 5G technology that this type of network might be more vulnerable to cyber security attacks.
+NEUT2|Currently under the system, the Telecom Equipment Towers are somewhat separate from the actual traffic for the data that flows through a different type of system, but 5G will move that closer together, bring some of those data traffic functionality.
+NEUT3|See the equipment which waway makes, so they're primarily putting pressure on countries like Germany.
+NEUT4|Italy in Japan that have U.S. military bases and there's concerns about you, know the traffic that might flow through those because the majority of it does actually go through commercial networks.
+NEUT5|Super sensitive information that goes on specific satellites, but a lot of this data goes through the network, so when I use.
+NEUT6|Brick is fascinating that they're leaning on.
+NEUT7|You mentioned Germany, Japan.
+NEUT8|I mean, these are countries that the US isn't exactly the best relationship highs that it's ever had before.
+NEUT9|No, it's definitely not, and so it's going to be interesting to see how these other countries respond to this.
+BEAR10|You know, we do not have the best trade relationship with some of these US allies right now, given the fact that we have slapped a number of different tariffs on them from the steel and aluminum tariffs to the threats to tax European cars.
+NEUT11|"So it will be very interesting to see how they respond to this."""

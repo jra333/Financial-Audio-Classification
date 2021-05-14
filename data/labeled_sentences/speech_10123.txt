@@ -1,0 +1,6 @@
+NEUT0|"""Well, I'm not terribly data driven, rather impression, but I think it's important to watch unemployment."
+NEUT1|I think that's the job creation that's the most important single thing.
+NEUT2|And then of course, we'll be watching earnings as they come through.
+NEUT3|Most predictions for earnings are kind of softening, and we want to see if that's what happens.
+BULL4|Well, for the year ahead, it's great news for Oak Tree and its peers because I think that there is continuing an increasing interest in alternative investments.
+BEAR5|"Most institutional investors have given up on accomplishing the goals, their goals in terms of returns just from stocks and bonds, which means they need alternatives."""

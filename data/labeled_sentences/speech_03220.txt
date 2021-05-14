@@ -1,0 +1,17 @@
+NEUT0|"""It is time now to go around the horn for the final trade will start with you."
+NEUT1|Tim Seymour.
+NEUT2|Yeah again back to Home Depot.
+BULL3|This has been a stalwart, I think it's one of the best management teams out there.
+BEAR4|The underperformance is an opportunity.
+NEUT5|I think the guidance is conservative.
+NEUT6|I think you can go there.
+NEUT7|General Mills.
+BULL8|Disney Plus was the most downloaded app in America in the fourth quarter by a long shot.
+NEUT9|The stock is consolidated for the past two months.
+BULL10|I think we're getting close to a level where it starts to again move higher.
+NEUT11|Yeah, I love Carters technical work on the staples, I would just wouldn't be buying Proctor for the breakout here.
+NEUT12|Given that valuation, given how far it's come in the last year's whipping it right away or Guy Damiani was a wonderful guest.
+BULL13|Great booking by you from important conversation that we had station.
+BULL14|Yep, and Bristol Myers had a tremendous run since the summer.
+BULL15|I think there's further room.
+NEUT16|"The upside?"""

@@ -1,0 +1,55 @@
+BULL0|"""Good morning, believe nation."
+NEUT1|Today's messages share the credit over to you.
+NEUT2|Michael Bloomberg.
+NEUT3|I wake up every morning.
+NEUT4|You never wanted to beat your competition.
+NEUT5|No, I want to be successful.
+NEUT6|You said teammates versus competition, right?
+NEUT7|Yeah, but but I mean, I've Salomon brothers all those times you work with other people.
+NEUT8|One of the ways.
+NEUT9|Incidentally, Stephanie, to really get ahead is to give credit to somebody else when I say oh I didn't do it, Lloyd did that and he involved me.
+NEUT10|Let me tell you, I'm telling everybody it's me as well, but I've now made a friend Anne.
+NEUT11|You respect me because I've shared the credit and if you say no me, me, me, I I nobody likes you.
+BEAR12|And nobody respects you and they think you are exaggerating everything.
+NEUT13|But to the extent you give credit to else was the thought of are they exaggerating?
+NEUT14|Doesn't even come up.
+NEUT15|I really love this message because I think as entrepreneurs we're offering on the front lines, right?
+NEUT16|We're offering doing the glorious, glamorous part of the business right?
+NEUT17|We do a lot of the crap stuff as well, right?
+NEUT18|We do a lot of behind the scenes, you know, 800 hour work week.
+NEUT19|Stop that nobody sees.
+NEUT20|But we also get to do the frontline stuff.
+NEUT21|The glamorous stuff, the stuff that gets attention, right?
+NEUT22|We're the ones who are in the media were the ones getting the praise from the customers.
+NEUT23|You know, the best part of my day is waking up and doing the YouTube comments and seeing the praise that comes from you guys on the videos.
+BULL24|It makes me feel good.
+NEUT25|It makes you feel like what I'm doing is important.
+NEUT26|I think a challenging in building a team is that your team doesn't always get to see that stuff, right?
+NEUT27|The programmer was working on your website.
+NEUT28|Does he get to see that material?
+NEUT29|That's coming out?
+NEUT30|You know the people who are engineering your product?
+NEUT31|Do they get to see the results from the customers often?
+BEAR32|It's unknown, so there's this huge disconnect.
+NEUT33|And when people can feel like the work that they're doing is important and valuable and is helping improve people's lives, then they're much more connected to your business.
+NEUT34|And I've always tried to be conscious of involving my entire team in the things that I'm doing and let them know that their work adds value and has meaning.
+NEUT35|One of the things that I do is every Friday I look through some of the more special comments that have come in from the YouTube channel ones at somebody's shares.
+NEUT36|Just a life changing story about how our videos are really helping them.
+NEUT37|Through some really tough moment in their life, how it helped them believe in themselves, how to launch something amazing.
+NEUT38|Or it could be somebody actually thinking the team and saying, hey I want to thank you and your team for all these videos that you're making.
+NEUT39|I find one comment every week and then I scheduled to go to my team on Monday so they start their day with a warm common coming from the team.
+NEUT40|And I think it's great because a lot of the people who may have worked in other jobs before.
+NEUT41|They've never seen that kind of recognition or praise or wariness, and they feel like.
+NEUT42|They're disconnected from what the mission of the businesses, because they're just focused so much on the code or the back end processes.
+NEUT43|And so I think it's super important to share the credit.
+NEUT44|Involve your team.
+NEUT45|Let them know what they're doing is important, and it not only makes them feel good in value and a part of the team, I think it makes you feel good too.
+BULL46|Like I love sharing stuff with my team London over that they contributed to something really meaningful and important.
+NEUT47|So the question of the day today is, how do you share the credit?
+NEUT48|Or do you share the credit?
+NEUT49|Leave it in the comments below.
+NEUT50|I'm going to join in discussion.
+BULL51|Thank you guys so much for watching.
+BULL52|Have an amazing day.
+NEUT53|Continue to believe and I'll see you again tomorrow morning for another shot of espresso.
+NEUT54|"We go."""

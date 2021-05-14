@@ -1,0 +1,18 @@
+NEUT0|"""Do you frequently buy and sell stock in the same security and any day?"
+NEUT1|I miss Roger grow it, grow asset and today we're here to talk about roundtrip stock trading, which is illegal in the United States.
+NEUT2|If you buy stock in one day and sell it the same day, you may be viewed as doing roundtrip stock trading.
+NEUT3|If you do it four times in a week, you may be viewed as a stock trader.
+NEUT4|Examples, if you were to buy shares four times in the company and then sell it once during the week, you may viewed, you may be viewed as having done.
+BEAR5|A round trip stock sell that is not a good thing.
+NEUT6|How do you get around that?
+NEUT7|Well if you have at least $25,000 in cash in your account, you're not subject to any of the rules.
+NEUT8|Other things that might trigger it well if you frequently in any day buy and sell and buy and sell and buy and sell.
+NEUT9|Boy, you know those compliance people are going to be all over your case quick now.
+NEUT10|Why care?
+NEUT11|It's because many investors make their legitimate investment decisions based upon the volume.
+NEUT12|In a stock in any day or.
+NEUT13|And if the reason that you're buying and selling and buying and selling is not to make money but to inflate the value, then you are doing something that the Securities and Exchange Commission deems as illegal.
+NEUT14|So be careful if you're buying and selling a lot to get around it.
+NEUT15|Keep $25,000 in cash.
+NEUT16|I'm Roger.
+BULL17|"Grow across it management and thank you very much for spending time with me."""

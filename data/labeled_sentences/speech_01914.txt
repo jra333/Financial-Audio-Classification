@@ -1,0 +1,28 @@
+NEUT0|"""Hello everyone, before moving onto the video we ask you to support us and subscribe to our channel please."
+BEAR1|Chain Link is holding tight to the uptrend after the recent rejection at the all time high.
+BULL2|Defending support above $20 played a crucial role in rejuvenating the ongoing uptrend.
+NEUT3|Link is dancing at $28.00.
+NEUT4|At the time of writing as bulls pushed for gains beyond $30.
+BEAR5|On the other hand, on chain metrics suggests that chain link is on the verge of a massive breakout.
+NEUT6|Tying $70.00.
+NEUT7|Network growth remains one of the critical factors used to understand cryptocurrency projects and their price action.
+BULL8|According to sentiment, new addresses joined Chainlinks protocol have rallied incredibly in the past few weeks.
+BULL9|Links network growth has improved consistently from roughly 2400 addresses per day in November to approximately 6700.
+BULL10|On February 9th, representing a 64% rise in 90 days.
+BULL11|This growth occurred alongside the surge in price.
+BULL12|Therefore, if it continues, chain link could be on the road to massive all time highs.
+BULL13|Chain Link recently broke out of an ascending triangle, suggesting that it was ready for a 38% upswing to $35.
+NEUT14|This pattern is bullish and usually results in a breakout target measured from the triangles, highest to the lowest point.
+NEUT15|The breakout takes place above the X axis, currently working as support.
+BULL16|In the meantime, the bullish narrative has been validated by the Relative Strength Index RSI on the four hour chart.
+NEUT17|The technical indicator measures the strength of the trend and identifies overbought and oversold areas.
+NEUT18|For now, Link is not overbought but can be said to be at the helm as the RSI makes its way into the region.
+NEUT19|It is essential to realize that chain link above its former all time means that it is in price discovery.
+NEUT20|In other words, nearly 100% of links addresses are in profit.
+BEAR21|Therefore the token is at the risk of losses, mostly due to holders selling to profit.
+NEUT22|For instance, the Holder distribution by sentiment shows that the whales holding between 100,000 and 1,000,000 link have begun offloading their tokens dot from February 3rd.
+BEAR23|These addresses have dropped from 283 to 265, representing a 6.4% decline.
+BEAR24|The volume moved by these whales is massive and could hamper continued price growth and perhaps force a correction.
+NEUT25|Don't forget to subscribe to our channel and open notifications to learn more about gold dollar Euro commodities.
+NEUT26|Bitcoin altcoin, cryptocurrencies, and other investment tools.
+BULL27|"Have a nice day and I wish you prosperous days."""

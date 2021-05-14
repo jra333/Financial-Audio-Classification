@@ -1,0 +1,14 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 and you can see that the."
+NEUT1|3200 level as difficult.
+NEUT2|It was previous support.
+NEUT3|This is an explosion based upon the John's number.
+BULL4|Coming out better than anticipated and now we are above the 3100 level.
+BULL5|Pullbacks at this point are probably needed in order to pick up a little bit of.
+NEUT6|You know there's value on these dips.
+NEUT7|This is a market that is going to overshoot itself, and that is what it does.
+NEUT8|It did it on the way down.
+NEUT9|Why wouldn't it do it on the way up?
+BEAR10|I think volatility is going to be a major problem for quite some time, so while this has been a very bullish move.
+NEUT11|Especially on Friday.
+NEUT12|You need to find value.
+NEUT13|"You just can't chase it up here."""

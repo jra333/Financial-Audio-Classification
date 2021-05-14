@@ -1,0 +1,16 @@
+NEUT0|"""Hello and welcome to another technical analysis here at xm.com."
+BEAR1|Today we're looking at USD CAD on the daily chart so zooming in we can see that the loonie is pushing off multi year lows but seems to be incapable of shaking off the bearish tone which has grasped the pair for nearly a year starting back in March 2020, benchmark aligns negative.
+BEAR2|Tempo has somewhat eased while the diving super moving averages are dictating their bearish picture.
+BEAR3|Taking a glimpse at the short term oscillators, we can observe a slide stalling endowment momentum if sellers resurface.
+BEAR4|Initially they will need to slide under the immediate multiyear lows of one point 2624.
+BULL5|Successfully diving under these near 33 month lows.
+NEUT6|Macy Sellers Target the respective traps of one point 2527 and one point 2450 from April and February 2018.
+BEAR7|Should the plunge accelerate, the Bears could target the one for 2378 barrier from January 2018.
+BEAR8|In the event buying interest increases, the Bulls may face early upside friction from the red Thinkings in line.
+NEUT9|At one point 2725 and the Blue Kits in line at one point 2789 ahead of the one point 2834 high.
+BULL10|Stepping over this resistance, the 50 day SMAD looming overhead at one point 2866 could kept by his attempts to challenge their chemical cloud and the one point 2955 peak pushing high into the cloud.
+BEAR11|The key one point 3033 obstacle could prove to be a heavy border.
+BEAR12|Curbing advances in the pair.
+BEAR13|Summarizing, USD CAD retains a steady downtrend bit below the one point 2834 mark and the Smas a shift above the clouds upper surface at one point 3033 may breathe some optimism into the pair, while a dip under one point 2624 may see further deterioration unfold.
+NEUT14|That's it for me.
+BULL15|"Have a great trading day."""

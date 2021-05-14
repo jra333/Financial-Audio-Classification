@@ -1,0 +1,12 @@
+NEUT0|"""Hello, welcome to today's technical analysis for October 30th, 2015."
+NEUT1|I'm Celina necklace technical analyst at xm.com.
+NEUT2|Today we will look at the euro versus British pound on the daily chart.
+BEAR3|Euro GBP closed below the daily Chipokae cloud for a second day.
+BEAR4|After falling below it on Wednesday, technical indicators are giving in an increasingly bearish signal.
+BEAR5|The market is below the 200 day moving average and if we look at the RSI, it's below 50 in bearish territory right now.
+NEUT6|Tenkan Sen Line, which is the red line, has crossed below the Kijun Sen Line, and this is also very signal.
+NEUT7|Prices are now testing a critical Fibonacci retracement level of 61.8 and this comes in at Zero point 7143.
+BEAR8|A break below this level would open the way for another leg down towards the 76.4% fib annachi and this would be at zero point 7053 to the upside from current levels.
+BULL9|A move past Wednesday's high of 7249 would bring the market.
+BULL10|Back to neutral Oubreak above 7492 is required in order to see resumption of the uptrend that started from Zero Point 6935 back in July.
+BULL11|"Thank you for watching and have a great day."""

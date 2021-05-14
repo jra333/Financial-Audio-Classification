@@ -1,0 +1,22 @@
+NEUT0|"""So today we're taking a look at Netflix."
+NEUT1|Many, you are probably very familiar with this company and possibly our subscribers too, considering they have nearly 183 million subscribers to their streaming video service.
+NEUT2|Currently, Netflix is worth almost $217 billion.
+NEUT3|That's valuing each subscriber at nearly 1500.
+NEUT4|So what do we think of Netflix stock?
+NEUT5|Well, Netflix reported what normally would be considered a book quarter after the market closed on Thursday, but these aren't normal times.
+BULL6|The company had a record number of second quarter subscribers.
+BULL7|Making it the second highest quarterly growth in Netflix history revenue also hit an all time high topping 6.1 billion up nearly 25% year over year, and marking the first time quarterly revenues had surpassed the six billion milestone.
+BEAR8|It wasn't all good.
+BEAR9|However, Netflix reported earnings per share of $1.59, about 12% lower than both management and analysts had anticipated.
+BEAR10|The stock initially slumped as much as 8% on the news before recovering slightly and ending the day down 6 1/2%.
+BEAR11|Netflix cautioned the record subscribers was likely a pull forward of subscribers that would have joined later on in the year with the COVID-19 pandemic and people staying at home likely gave Netflix an early boost in the second quarter.
+BEAR12|So Netflix, once a pioneer in the streaming video service space, is now facing much more intense competition from the likes of Disney, HBO and of course, Hulu.
+BULL13|We think this is going to challenge Netflix from growing their subscriber base, considering the content of Netflix is somewhat inferior to other products on the market, we think there's a good chance people will start.
+NEUT14|Spending their income on other streaming services.
+BEAR15|This doesn't mean that will necessarily drop Netflix, but with the economy having a rough year we could see if people are faced with the choice.
+NEUT16|They may say goodbye to Netflix over another, such as Hulu.
+BEAR17|We don't believe there is a lot of growth available to Netflix in the face of increasing competition and lack of new regions to expand to.
+BEAR18|With that said, our one year price target for the stock is $450, so currently we're expecting this talk to decrease in value over the next year.
+BULL19|We think it's approximately 10% overvalued at the moment.
+NEUT20|That's our show for today.
+NEUT21|"Let us know what you think of Netflix in the comments below."""

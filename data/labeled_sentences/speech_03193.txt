@@ -1,0 +1,24 @@
+NEUT0|"""Hello everyone, before moving onto the video we ask you to support us and subscribe to our channel please."
+BULL1|Filecoin Price rose 115% between February 8th and 10th.
+NEUT2|Since then, Phil has been consolidating in an ascending parallel channel.
+BEAR3|The lack of momentum has caused the price to move sideways and signals of bearish breakdown shortly.
+BEAR4|A reduction in bullish momentum, combined with the recent sell off has pushed Filecoin Price to consolidate near the parallel channels lower trendline.
+NEUT5|The parabolic stop and reverse and the Super trend indicator have simultaneously flashed a cell signal on February 15th.
+BEAR6|Hence, a four hour candle stick close below the immediate support at 43 dollars confirms the bearish thesis and indicates the start of a downtrend supporting filecoin's.
+BEAR7|Dire Outlook is the bearish divergences between the price and the on chain volume.
+BEAR8|Bearish divergences formed when the price forms a higher high while the volume drops.
+BEAR9|In this case, fills on chain volume has dropped approximately 12% to $3.20 billion between February 10th and 15th, while the price saw 12.5% increase.
+BULL10|Hence, this on chain metrics suggests that Phil is primed for a correction.
+BEAR11|Although a shortage of social presence could be bullish from a counter sentiment perspective, a complete absence could be interpreted as an investor's own interest in Filecoin's prospects.
+BEAR12|Therefore, a breakout from the parallel channels, lower trendline would likely take fell towards the support barrier around $38.00.
+NEUT13|A confluence of the 54 hour moving average in the Super Trend Indicators recent by signal.
+BEAR14|However, a continuation of selling pressure here would push Phil down by 10% towards $35.
+BULL15|While things seem to be extremely bearish for file going an increase in buying momentum could push the price towards the ascending parallel channels.
+NEUT16|Upper trendline at $53.
+BEAR17|However, a four hour candle stick close above this resistance barrier would invalidate Phils bearish thesis and push the coin towards the next supply barrier at $60.00.
+NEUT18|Don't forget to subscribe to our channel and open notifications to learn more about gold dollar, Euro commodities.
+NEUT19|Bitcoin altcoin crypto currencies and other investment tools.
+NEUT20|In this video, reference is an opinion and is for information purposes only.
+NEUT21|It is not intended to be investment advice.
+NEUT22|Every investment and trading move involves risk.
+NEUT23|"You should do your own research while making a decision."""

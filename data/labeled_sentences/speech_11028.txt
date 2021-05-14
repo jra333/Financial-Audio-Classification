@@ -1,0 +1,24 @@
+NEUT0|"""Neo stock analysis and predictions, December 15th."
+NEUT1|In today's NEO stock analysis and predictions, why NIO stock is up today.
+NEUT2|Alright, let's get started.
+BULL3|An IO was moved higher Tuesday due to a successful secondary offering and bullish sentiments from 2 Wall Street analysts.
+NEUT4|Anio stated on Monday that it planned to have a secondary offering of shares when NIO announced this plan, the stock was oversubscribed, meaning that the investment banks and investors were willing to pay for NIO stock at the current price or more.
+BEAR5|Investors alike looked at NIO share offering as a discount for the stock NIO.
+BULL6|Shares are up today because investors are looking that bigger picture instead of the current lows in price due to the stock offering.
+NEUT7|Investors know that NIO is only doing this to raise capital in order to beat its rivals.
+BEAR8|In fact, too bullish sentiments were spoken of Nio by Wall Street analysts.
+NEUT9|First Daiwa analyst Kelvin Layer initiated a buy rating and a price target of $59.
+BULL10|Lau thinks Nio is a distinguished pick among the emerging set of upscale electric vehicle makers in China.
+NEUT11|He thinks the company will reach sales of about 140,000 vehicles by 2023.
+NEUT12|Second, Deutsche Bank analyst Edison.
+BULL13|You also had positive things to say about Anio when he reiterated his buy rating.
+BULL14|He states that NIO is among a group of four emerging Chinese electric vehicle makers that is destined to conquer China's huge new vehicle market.
+BULL15|You continues to state, I think NIO is the leader of the group, and that it could become China's next iconic auto brand.
+BULL16|NIO is the leader among the domestic challenges to Tesla in the premium segments.
+BULL17|The added funds from this stock offering will make the company an even stronger bet.
+NEUT18|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT19|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT20|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL21|We'd really appreciate it.
+NEUT22|Are you still watching and want more?
+NEUT23|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

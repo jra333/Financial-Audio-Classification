@@ -1,0 +1,31 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|December 15th.
+BULL2|In today's NEO stock analysis and predictions, an IO will double its current price.
+NEUT3|Alright, let's get started.
+BULL4|Neo is up almost 1254% this year, and that is incredible.
+BULL5|In the past six months, NIO stock is up 558% due to record deliveries and high customer demand.
+BULL6|During an iOS Q3 report, the company announced that their sales grew by 146% year over year to $628.4 million and were up 22% over Q2.
+BULL7|Moreover, deliveries were up 18.1% over the prior quarter to 12,206.
+BULL8|NIO has delivered thirty 6721 EV's which is 111.1% above what the company produced last year.
+BULL9|In fact growth is now accelerating.
+NEUT10|Here is what Nio CEO William Bin Li said about its production capacity.
+BULL11|NIO is in the process of accelerating the production capacity expansion in December 2020 to accommodate the increasing order growth when we do the calculations of delivered electric vehicles we see that NIO has made a quarterly revenue of 600.
+NEUT12|$66.60 million.
+NEUT13|Therefore, we can the average the ASP of every vehicle to be $54,613.
+BULL14|We can assume that next quarter the company should produce 15,902 electric vehicles to give the company a total revenue of $2.2 billion.
+BEAR15|Thus, for 2021, in iOS, revenue is set to explode.
+BULL16|The electric boom is set to increase by 50% next year, which gives NIO a delivery growth to 10% per month.
+BULL17|This works out to a 33% growth quarter over quarter.
+BULL18|In addition, the ASP should increase at 0.5%.
+NEUT19|Quarterly conclusion when we look at Nio's future forecast we see that NIO stock will be worth a great deal more than its present price within the next few months.
+BULL20|Analysts predict that nio's market capitalization will be about 24% or 25% of Tesla's right now that implies it will rise to $143.25 billion, IE 25% by $573 billion.
+NEUT21|NIO stock should be worth 2.395 times its present price by next year.
+NEUT22|This is seen by dividing the forecast 2021 market cap of $143.25 billion by its present market cap of $59.8 billion.
+BULL23|In addition, this implies NIO stock will rise to $100.54 over the next year.
+BULL24|So investors should hold long and strong nio's growth is set to continue with a growth trajectory of 140% over the next year.
+NEUT25|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT26|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT27|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL28|We'd really appreciate it.
+NEUT29|Are you still watching and want more?
+NEUT30|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

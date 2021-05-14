@@ -1,0 +1,30 @@
+NEUT0|"""Hello, this is Alexander Green, chief investment strategist of the Oxford Club, and today I want to talk to you a little bit about the so called Tech Wreck that's taking part of the market."
+BEAR1|As we all know this year when the coronavirus arose, the market went into a tailspin starting in February.
+BEAR2|Bottom Down on March 23rd, it was the fastest bear market in history and that morphed into the fastest bull market in history of stocks.
+NEUT3|Took more than a 50% rebound, but a lot of investors don't know is actually a relatively small 25.
+NEUT4|Stocks in the S&P 500 or responsible for almost all of this year's gain, and most of those were the big technology companies.
+BULL5|Now there's good reasons for those stocks have done so well, because there's been a huge shift from brick and mortar retailers to E Commerce.
+NEUT6|That's nothing new, but it accelerated that trend to service or in companies in away from hospitality and entertainment and travel, and so that you have some distinct winners in the technology sector.
+NEUT7|But it's important to remember that there's a difference between a great company.
+BULL8|And a great buy when it comes to the stock market.
+NEUT9|For instance, Netflix is selling for approximately 90 times earnings.
+BULL10|Netflix, a clear winner, says people are staying home.
+NEUT11|But is the company worth 90 times its trailing earnings?
+NEUT12|With all the competition out there that remains to be seen where Amazon, the E Commerce leader?
+NEUT13|Purely surely the most dominant player in retail right now is trading for 120 times earnings.
+NEUT14|And then of course in a category all by itself.
+NEUT15|There's Tesla, which after the big correction tech stocks, is still selling for 9.
+NEUT16|100 times earnings.
+BEAR17|Well, you know there's an old saying that price is what you pay, but value is what you get and I think a lot of investors are going to wake up with some very ugly statements they're getting from their broker because these stocks they're great companies, but they're not terrific buys at the moment.
+NEUT18|If you if you're buying in the hold of 1020 thirty years, go ahead and pay too much as people did in the late 90s when there was an Internet bubble that was very similar to what's happening to some names now.
+NEUT19|But as an investor, you need to keep in mind.
+NEUT20|That there's a strict set of criteria you need to follow as far as what you buy, and a strict set of criteria you need to follow.
+NEUT21|As far as when to sell, and it's hard to make the case that these tech Giants, even after the haircut they've gotten recently, are great buys at the current moment, so I want to put out kind of a word of caution.
+NEUT22|I'm not a market timer.
+NEUT23|I'm not an economic forecaster, but I do look at value and it's just hard to believe that these high flying tech stocks represent any kind of value at these levels, so be careful.
+NEUT24|Feel free to sign up for my Free E letter.
+NEUT25|Liberty through wealth.
+NEUT26|Where I'm talking about what's happening in the market.
+NEUT27|Every week with stocks, bonds, interest rates, currencies, commodities, politics, everything that might affect your portfolio.
+NEUT28|Again, it's completely free.
+NEUT29|"Just click on the link below and I look forward to talking to you again soon."""

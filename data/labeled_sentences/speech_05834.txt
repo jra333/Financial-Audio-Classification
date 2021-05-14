@@ -1,0 +1,19 @@
+NEUT0|"""Yesterday we brought you the news of the breakup between Amazon Berkshire and JP Morgan's health venture efforts behind Haven."
+BEAR1|Some were surprised to see that those efforts were coming to an end, considering how much has been made of that.
+NEUT2|We took a few a few months to even learn the name and what was really going on between the partnership.
+NEUT3|But Yahoo Finance is Anjali Kimani has been discussing the move with some experts and a lot of people might not have been surprised Anjali to see it come to an end with not real.
+NEUT4|Change not coming from even what some could consider some of the most powerful companies here behind the effort.
+NEUT5|Yeah, we've heard so many different reasons why some ranging from the fact that the regulatory structure of the healthcare industry is such that it makes it really easy for the health system to sort of stay at anything or anyone that tries to disrupt it just doesn't have the numbers really to do so.
+BEAR6|There are no major disruptors in this sector for that reason, and we know that at the beginning there was a lot made of the fact that Amazon had already disrupted the retail industry to such a degree that they probably had an idea of getting into it.
+BEAR7|Some even our fault.
+NEUT8|The person who was appointed CEO doctor Atul Gawande, who has a really good reputation as a speaker and healthcare policy thinker, but maybe not so much on the part of being a manager.
+NEUT9|Some of the experts said so.
+NEUT10|It seems like there are multiple reasons why this seemed to be doomed to fail from the start.
+NEUT11|According to these experts.
+NEUT12|But as it stands right now, you know the companies do say that they have learned at least a lot.
+NEUT13|We know that Doctor Go on days in touch with the president.
+NEUT14|Incoming President Joe Biden and so all of that put together seems like there might be at least some learnings that will eventually come out, hopefully, but it seems like right now all signs point to this isn't really a space that can really get much done outside of regulatory revamping, or at least some major unified market push.
+NEUT15|Because of the way that payments are set up in the way that the networks are already set up, it's very hard even for large companies like the the three that that joined up.
+NEUT16|To do much damage, so that's where it stands right now, and you know it was really like you said.
+NEUT17|There was a lot of optimism that something could be done about cost, but some are saying that really the Trump administration and there was sort of loosely defined policies and mandates are doing more to contribute to the conversation and push the conversation forward, again relying on the incoming administration to pick up the pieces and actually make it a much stronger effort right now back.
+NEUT18|"Yeah, one of those most complicated systems in America, the healthcare system of course, and nothing coming from that partnership between Amazon, Berkshire, JP Morgan will see what happens in the new administration there, but I'm really appreciate the update on that."""

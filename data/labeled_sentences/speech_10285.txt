@@ -1,0 +1,19 @@
+NEUT0|"""So who does win the race to 10?"
+NEUT1|Let's get to the head to head comparison.
+BULL2|Right now Ford sells for roughly 10 times next year's earnings estimates much cheaper than GE at more than 20 times earnings.
+NEUT3|Given that theories are depressed, you could look at the other metrics, but she is much more expensive on a cash flow basis to those other two metrics that we're looking at.
+BULL4|In short, Ford is a much clearer value play, and I also think it has a better story.
+NEUT5|Sure, GE score aerospace business will come back eventually.
+NEUT6|Before its core auto market is coming back now and the F-150 is going to go electric in a couple of years.
+NEUT7|Right now the family trying to meet the man used prices are through the roof plus fours.
+BULL8|Got more momentum.
+NEUT9|It's also much closer to the finish line.
+NEUT10|Bottom line.
+NEUT11|Longer term.
+BULL12|I think both Ford and General Electric are headed back to double digits, but if you only want one one of these Robin Hood favors in your portfolio, I would go with pork.
+NEUT13|Don't miss a second of mad money.
+NEUT14|Follow at Jim Cramer on Twitter.
+NEUT15|Have a question?
+NEUT16|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

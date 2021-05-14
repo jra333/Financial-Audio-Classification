@@ -1,0 +1,30 @@
+BULL0|"""The government is set to report a massive 33% gain in GDP."
+BEAR1|Obviously that comes after an incredible decline when Covid shut economy down all over the place.
+NEUT2|But it is a number that will quickly become part of the political debate about the recovery.
+NEUT3|Steve Liesman is here to explain what the number really shows about the rebound and Steve.
+NEUT4|Maybe what it doesn't show too.
+BULL5|That's right, Becky, the largest ever increase in GDP expected to be reported this morning.
+BEAR6|And that's going to follow the largest ever quarterly decline.
+NEUT7|And it comes in Mr Resurgent coronavirus and a hotly contested president presidential election that will quickly incorporate this number as part of the debate.
+NEUT8|Here's the story.
+BULL9|GDP did rebound faster than expected, it's been helped by strong government spending.
+BULL10|It's become easy fed policy and of course helped by underlying economic straight that was already in the economy before this virus started the recovery.
+BULL11|According to most economists, expected to continue.
+NEUT12|Are Ellen Zentner Morgan Stanley writes.
+BULL13|While the recovery has been uneven, gains in economic activity had been increasingly broadening out.
+NEUT14|That's really important.
+BULL15|Strong household spending has propelled growth to this point, but there was also a powerful rebound in equipment spending in the third quarter.
+NEUT16|That's important.
+BEAR17|The service sector, however, remains hardest hit.
+NEUT18|Part of the economy.
+BULL19|Take a look at the CNBC rapid update, which actually they boosted the outlook for this quarter because yesterday's trade data.
+NEUT20|There's 30.6 OK, I guess.
+BEAR21|It's down a little bit 30 -- 32% for the second quarter up, six for the fourth quarter, 5.4 for the first quarter and overall.
+BEAR22|In other words, you're not going to get it all back because you're down 30 and up 30.
+BEAR23|It's still going to be for the year down 3.8%, and still challenges ahead from the spread of the virus uncertainty of the election and the current lack of additional stimulus job as well as from RSM rights policy makers should focus on the size of the economic gap that is left.
+BEAR24|Small firms and the poor and working class struggling.
+NEUT25|To keep up.
+NEUT26|The number will play directly into the presidential election later today.
+NEUT27|We might be calling this thing gross domestic politics joanot gross domestic product.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

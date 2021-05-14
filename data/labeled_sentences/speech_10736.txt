@@ -1,0 +1,43 @@
+BEAR0|"""We want to talk about what could be a growing housing crisis as we approach August when a lot of the measures that have been put in place eviction delays and delays on paying rents will expire."
+BEAR1|The reason we mentioned this 3.8 million homeowners have sought mortgage relief and according to the latest data, almost 10% of renters have missed or only made a partial payment.
+BULL2|Usually it's about 5%, so that number is growing.
+BULL3|May not expect it to be better.
+NEUT4|Bringing into this discussion.
+NEUT5|My partner Julie ***** as well as Julia LaRoche and Brian Chung.
+NEUT6|Julie ***** what do you do with this?
+BEAR7|'cause there's this movement nationwide and maybe quote cancel rent.
+NEUT8|Well there are municipalities and and some banks are doing this right, and certainly we've seen that increase in mortgage forbearance requests, which I know is something you're also watching where if you have a mortgage you call the bank and say, can you put off my payment this month and tack on to the end of the mortgage?
+NEUT9|What I'm really curious about as we continue to watch this phenomenon is the ripple effects right?
+NEUT10|Because you have two kind of ripple effects.
+NEUT11|If people aren't aren't.
+NEUT12|Spending on rent?
+NEUT13|What kind of effect does this have on their spending?
+NEUT14|How are people prioritizing their spending?
+NEUT15|What are they spending on and what aren't they spending on?
+NEUT16|And the other question is, what is this going to mean for the companies and entities that own these buildings?
+NEUT17|If you're talking about apartment buildings in particular, there are a number of large, publicly traded real estate investment trusts that own them.
+NEUT18|Equity residential, I believe, is the largest of those, but there are a lot of private investment corporations that have invested heavily in real estate over the past several years.
+NEUT19|Who holds that?
+NEUT20|And what is the ripple effect going to be among those entities?
+NEUT21|If some of it also in pension funds or in other types of of Holdings as well?
+NEUT22|So there I think they're going to be a lot of questions about all of this.
+NEUT23|Yeah, and then guys think about it.
+NEUT24|We just had David servos from Jefferies the chief market strategist on this program and he was talking about, you know, maybe what the Federal Reserve can do and I'd love to hear Brian Chung's thoughts on this.
+NEUT25|But specifically, servos was pointing out.
+NEUT26|If you go back to the last crisis.
+NEUT27|Yes, a totally different prices, but there was this kind of perception and I guess perception of the Fed that they were bit more Wall Street focused than Main Street focused and servos.
+NEUT28|Who is an alumni of the Federal Reserve himself, said, you know one of the ways they can.
+NEUT29|Kind of repair.
+NEUT30|That image is to focus more on Main Street, specifically with the residential mortgages.
+NEUT31|So right I would be curious what you think and if that's something that the Fed might actually act on.
+NEUT32|Yeah, I mean, there was a lot of chatter.
+NEUT33|Julia a few weeks ago about whether or not the Fed would set up a tent liquidity facility to specifically deal with Morgan services, so we have to keep in mind that as these landlords are unable to collect on any sort of rent, it all ripples up right and they need to pay back the person that actually underwrote the mortgage.
+NEUT34|In many cases, the bank that actually underwrote it shops it off to some other.
+NEUT35|Mortgage servicers to a non bank like for example rocket mortgage right which is owned by that privately owned company Rock Holdings owned by Dan Gilbert, so there's a lot of concern about all the different moving players there, yes, so you also have to consider the FHF a right the their role in all of this with Fannie Mae and Freddie Mac, and how those companies have quasi companies.
+NEUT36|If you will have been in conservatorships ever since 2008 and 2009, there now left holding the bag.
+NEUT37|If those mortgage servicers can't collect on those mortgage payments, so.
+BULL38|JFK on their part has tried to do a some efforts to increase liquidity in the area by actually allowing companies they announced this about two weeks ago.
+NEUT39|They said that a servicer can advance four months of missed payments on the loans, and then after that they'll have no further obligation to advance any sort of scheduled payments.
+NEUT40|So it seems like there is some risk taking from the government on that end, but again, still questions about whether not the Federal Reserve needs to provide their own facility.
+NEUT41|There's a lot of waffling down in DC between the Treasury, the FHFA, the private mortgage servicers, and then the Federal Reserve to try to figure all that out.
+NEUT42|"A very complicated stories you can understand."""

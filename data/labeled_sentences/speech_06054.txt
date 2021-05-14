@@ -1,0 +1,5 @@
+NEUT0|"""Yes, I will do one magic now I will just put this ball here."
+NEUT1|It doesn't go and see.
+NEUT2|It's a magic.
+NEUT3|Would you do?
+NEUT4|"Put on it."""

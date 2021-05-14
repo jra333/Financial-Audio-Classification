@@ -1,0 +1,19 @@
+BEAR0|"""You know, if you look at GDP and if you can imagine maybe a 5% contraction in GDP."
+BEAR1|If that happens in one quarter, you know the GDP numbers are going to be pretty scary because you know they're reported an annual rate, so it gives really amplified.
+NEUT2|If it happens all at once, right?
+NEUT3|But we do anticipate you know the situation.
+NEUT4|Bottoming out and probably late April May and then slowly building, but I think there's a concern that you know when you come out the other side.
+NEUT5|You know, as you get towards the end of this year.
+BEAR6|Here at a level of economic activity that is lower than we're starting in now, obviously you know the key point of all this is that there's uncertainty.
+BEAR7|We really don't know how bad things were going to get efforts by the Fed to ensure liquidity efforts by Washington to help ease the pain.
+BULL8|Those things are very, very important to sort of lessen the damage and they may actually help in the eventual recovery.
+BEAR9|Yeah, this is just such a different kind of downturn than we've seen in recent times.
+NEUT10|Scott, so.
+NEUT11|To me, the big news from the administration today is this idea from secretary minutiae that they're going to try to get checks in households hands within two weeks time.
+NEUT12|How far can that go towards helping this be a shallower downturn?
+NEUT13|Or was there some other announcement that you thought was more significant in that regard?
+BEAR14|Well, we've heard talk of payroll taxes and payroll cutting payroll taxes doesn't do any good if you've lost your job, the consumers are, they haven't lost their job or just more likely to spend the money or save the money rather than spend it.
+NEUT15|But if you can target the money to those that need it most, that obviously is what you want to do.
+NEUT16|But it's very, very difficult.
+NEUT17|So it's just simply easier to just give everybody money an those that need it will will be able to buy food and make mortgage payments.
+NEUT18|"Things like that."""

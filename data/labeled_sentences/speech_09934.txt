@@ -1,0 +1,47 @@
+NEUT0|"""Alright, so polls are one way of trying to figure out who's going to win."
+NEUT1|Watching the markets are another.
+NEUT2|They're pretty good at predicting elections sometimes too.
+NEUT3|Joining us right now is Ryan Dietrich.
+NEUT4|He is senior market strategist at LPL Financial Research.
+NEUT5|Ann Ryan.
+BULL6|The markets been pretty calm at this point.
+NEUT7|Do you think they're predicting one side or the other winning?
+NEUT8|Well, we think it's a lot closer.
+NEUT9|Maybe what the polls say.
+NEUT10|You know you think about right now.
+BULL11|Since August 3rd, the S&P is up over 7%.
+NEUT12|You guys, when you go back in history since the Great Depression, when the SNP's up that much three months before an election, the incumbent president has neverlost.
+NEUT13|There are three for three.
+NEUT14|Winning now, I know that's a small sample size and we get it.
+NEUT15|2020 is much different than when you consider the fact that you know real per capita incomes up this year pretty good.
+NEUT16|Now I know it's 'cause of the cares act.
+NEUT17|So put it.
+NEUT18|Put a big disclaimer next to that.
+BULL19|Also, U.S. dollar a week U.S. dollar historically is better for the incumbent.
+NEUT20|Already to win, so you got all these things.
+NEUT21|Factoring with that big GDP number, we're likely going to see.
+NEUT22|We think it's maybe closer to a coin flip that what you know, what a lot of people think.
+NEUT23|Kinda like maybe four years ago.
+NEUT24|It's closer than what the experts are saying.
+NEUT25|If you kind of pay attention, account with the market is telling us in the economy in our view.
+NEUT26|Which is why you are saying that you're taking a barbell approach to this.
+NEUT27|What does that mean?
+NEUT28|Absolutely, you know barbell approach means stick with who got you there and also who might take over the economy does better.
+NEUT29|First off look at technology, look at, you know communications.
+NEUT30|Those are where the earnings are coming from.
+NEUT31|I mean this upcoming earnings season.
+NEUT32|That's where a lot of the growth is going to come from.
+NEUT33|So we still like that.
+NEUT34|Look at technology it yesterday, right?
+NEUT35|Huge day obviously.
+NEUT36|And again, that's more he could say.
+NEUT37|Maybe even more pro President Trump, like the other side of things, is kind of the cyclical value all here.
+NEUT38|Cyclical value.
+NEUT39|We really like those materials.
+NEUT40|We really like industrial, so those would take us a major leadership of the economy, opens up and does better the second half or.
+NEUT41|Better next year, that group can do well everyones to pick a favorite sector really.
+NEUT42|Maybe kind of do that barbell approach is a really nice way for your average investor.
+BULL43|Probably have some nice gains.
+NEUT44|Next 12 to 18 months.
+NEUT45|Shepard Smith here.
+NEUT46|"Thanks for watching CNBC on YouTube."""

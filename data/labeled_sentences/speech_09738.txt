@@ -1,0 +1,13 @@
+NEUT0|"""Thin Screener it's free."
+NEUT1|Penny stocks.
+NEUT2|It's free OTC.
+NEUT3|It's free.
+NEUT4|Highest volume to lowest volume.
+NEUT5|Click on the ticker Black Dragon Under 1 penny.
+BULL6|Selling off today 13% so we know it's pulling back nothing then baby bump our highs war .003.
+BULL7|Right now we're 50% off those highs by here back to the old highs gives you 100% profit highest to lowest volume U.S. markets U.S. markets AM EXC ANF click on the ticker and we can see big up run so we had a flat market jump up giving us a baby bump.
+NEUT8|Came up to resistance at $4.50, so now we have to wait for it to come down to this $2.25 before getting into the trade.
+NEUT9|Take it back to the old highs.
+NEUT10|That's a Screener I'd like to use for penny stocks.
+NEUT11|What do you like?
+NEUT12|"Leave a comment and tell me."""

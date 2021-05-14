@@ -1,0 +1,37 @@
+BULL0|"""As terms of medical news, we got Florida with 15,000 plus over the weekend."
+NEUT1|More than being offset of course by this fast track Pfizer Biontech news how you seen it right now?
+NEUT2|Jim oh, you know people want to go and actually read the article.
+NEUT3|The interview with Albert Bourla because this is not what you now.
+NEUT4|Everyone is very excited about everything these days.
+NEUT5|But I do think that you have to understand that he says listen.
+NEUT6|It's basically it's free to some extent.
+NEUT7|He says we're not going to give it away to governments were going to charge governments.
+NEUT8|A very very nominal value, so I don't know how much they're going to end up making, but he just says listen, we're kind of throwing a billion at it, and if it doesn't work, we're going to write it off.
+BULL9|I did not find this as reassuring as others.
+NEUT10|I love the time frame, but I also do not like, hey, you know what?
+NEUT11|We're going to make a lot of the vaccine if it works great.
+NEUT12|If not, what we're just gonna write it off.
+BEAR13|That's not what you want to hear, and it could be a big write off.
+NEUT14|OK, I'm using a new term for Pfizer.
+NEUT15|I think the rolling the dice.
+NEUT16|He says we will throw it out with the FDA rejects it, he said.
+BEAR17|We're just going to have to write it off and call it a day.
+NEUT18|Call it a day.
+NEUT19|I don't want to do you want to be part of the 30,000 people who are might be calling in today?
+NEUT20|David would I would you take that little virus?
+NEUT21|I'll give it to you and if it doesn't work, you know why?
+NEUT22|Don't you just call it a day over there?
+NEUT23|No, that's probably not the route we're going to go or not.
+NEUT24|The route that I would want to go.
+NEUT25|But to your point you do need.
+NEUT26|Large scale trials where you can prove the safety of the drug at or the vaccine amongst the very large group, because when you're giving it to, potentially in what may end up with hundreds of 1,000,000 if not even more billions of people you want to make sure you're not giving him anything.
+NEUT27|Jim, we are very focused on that.
+NEUT28|'cause we on the vaccine on the antivirals that are available now, and hopefully ones that will be available soon that will act earlier and onset of the virus.
+BEAR29|Jim, because it doesn't appear that our mitigation efforts are going particularly well in certain parts of the country.
+NEUT30|No, and they did throw Doctor Fouchy under the bus.
+NEUT31|We had commentary about this this morning.
+NEUT32|Look people if you have the science and you're trying to interpret the science well, hey, you can get it wrong, but obviously he's under pressure from the president.
+NEUT33|The one thing that was seen this creeping into the numbers for the first time.
+NEUT34|Carl is people are talking about when we get the vaccine.
+NEUT35|Now that's something that Pfizer said.
+NEUT36|"It's not if but when."""

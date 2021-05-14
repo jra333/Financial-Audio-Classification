@@ -1,0 +1,7 @@
+NEUT0|"""Hello, I'm recording this video to introduce my trading strategy for Coca Cola Company ticker is KO."
+BEAR1|I made a focus for this stock for July and if you have this stock in new portfolio you should decrease the amount of stock and expect it will be trending down and especially with the risk rising on the 6th July.
+NEUT2|If you are interested in this scenario, just contact me.
+NEUT3|This is the exact.
+NEUT4|Scenario and you can see the dynamics of the stock.
+NEUT5|So to buy more shares or identify trading at the images, visit my site for more insight and subscribe to my channel.
+BULL6|"Thank you."""

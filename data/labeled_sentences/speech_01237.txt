@@ -1,0 +1,27 @@
+BEAR0|"""No other company has had the kind of years Dumas had made a global pandemic that has shuttered huge swaths of the economy driven millions out of work and forced the term social distancing into the national lexecon."
+NEUT1|The video chat service has become a lifeline for everyone from friends and families to schools and businesses.
+NEUT2|While the company debuted in 2012 and launched its IPO in 2019, it was 2020 that quickly made the firm the kind of household name.
+NEUT3|Few other companies have managed to become like calling a web search.
+NEUT4|Googling video chatting has become zooming.
+NEUT5|People now zoom with their friends rather than Skype or FaceTime.
+NEUT6|And rather than asking friends to get a drink, people ask, want to zoom all of this from an app that wasn't even designed for regular consumers.
+NEUT7|I have to say.
+NEUT8|So I joke.
+BEAR9|I think I have ulcers from that time period.
+NEUT10|To be honest.
+NEUT11|Just here responding to the demand.
+BEAR12|It's very humbling.
+BULL13|It's an honor and privilege to serve the world an I am so proud of what zoom has been able to do.
+BULL14|We are very humbled and proud of the opportunity that we've been given during this time to support connection in the community, but the transition hasn't been an easy one.
+BEAR15|The company faced criticism early in the pandemic due to security issues resulting in so called.
+NEUT16|Zoom buttons still zoom is managed to become the kind of app used by everyone from teens and adults trying to keep their social lives afloat while social distancing all the way to members of government and zoom school has become a phrase that parents across the world are using as they continue dealing with school closures as early as March 6th, Zoom began lifting the 40 minute limit on free basic accounts for K through 12 schools in Italy and Japan and by request in the USA Week later, the company proactively lifted the limit on account.
+NEUT17|For 60,000 US schools, zoom classes quickly became the norm as school systems transition from in person learning to remote learning with city and state lockdown orders put in place.
+NEUT18|It is most recent quarter.
+BULL19|The company saw year over year revenue growth of 367%, but the number of customers who spent more than $100,000 in the past 12 months growing 136% year over year and investors have been watching Zoom.
+BULL20|Stock prices skyrocketed in the last year, jumping 465%.
+BULL21|From $71.90 a share in January to $406.31 a share as of December 1st and I would have loved to say that we landed perfectly.
+NEUT22|Obviously we didn't.
+NEUT23|Nobody has planned this pandemic and I think the biggest benefit for zoom that you're seeing in the user base is that we do provide that human connection when we desperately need it most the number of users that began piling into the platform through the pandemic can't be understated.
+NEUT24|While Zoom doesn't share individual user numbers, it did announce that daily meeting.
+BEAR25|Disappoints skyrocketed from 10 million in December 2019 to 300,000,000 in April 2020.
+BULL26|"The incredible growth and seeming overnight transformation of the video chat service to one that is being used by individual consumers, small businesses and community groups alike is why we've chosen zoom, as Yahoo Finance is 2020 company of the year."""

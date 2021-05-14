@@ -1,0 +1,23 @@
+NEUT0|"""One of the tricky things about asset Bubbles is that they cannot be conclusively identified while they still exist."
+NEUT1|Only once a bubble has popped can we be sure that it was ever there at all.
+NEUT2|There are, however, two necessary, if not sufficient, conditions for the existence of a bubble.
+BEAR3|The first is an accelerating increase in prices that forces valuations near historical highs.
+BEAR4|The second is increasingly speculative and insane behavior among investors.
+NEUT5|In the US stock market, we clearly have that first box ticked.
+NEUT6|Here is the NASDAQ index, which is heavily weighted towards technology.
+BEAR7|The sector where valuations have been the frostiest.
+BULL8|It has risen 40% this year despite the small matter of a global pandemic.
+NEUT9|And in accompanying weak economy, crazy behavior, there's plenty of that going around too.
+BEAR10|Perhaps the ****** example of investor insanity is a barely profitable electric car company that has seen its share price octuple this year.
+NEUT11|Here is a chart of Tesla shares.
+NEUT12|There was a two day.
+NEUT13|A couple of weeks ago in which Tesla added the entire market value of the Ford Motor Company twice over.
+NEUT14|Or how about the rocketing price of an asset that, depending who you talk to.
+NEUT15|May have no underlying value at all.
+NEUT16|The cryptocurrency Bitcoin, now the argument that there is not a bubble in the American stock market, is that stocks have to be so expensive because government bond yields are so low.
+NEUT17|That is to say, while stock prices are high, the premium that investors receive for owning stocks as opposed to bonds is actually at the low end of the historical range.
+NEUT18|Here is a chart of the 10 year inflation adjusted or real yield.
+NEUT19|The great investor, Jeremy Grantham says that justifying the high prices of stocks by pointing to historically low bond yields is nothing more than justifying one asset bubble by reference to another.
+NEUT20|He may have a point, but the fact remains that the Federal Reserve can keep bond yields low simply by buying more and more Treasurys That is, unless inflation spikes and the situation gets out of the Fed's control.
+NEUT21|The question of whether we have an asset bubble in the US stock market is nothing more or less than the question of whether we have been too complacent about the possibility of inflation.
+NEUT22|"If you own stocks, keep a close eye on the prices of everything else."""

@@ -1,0 +1,19 @@
+NEUT0|"""They said it would never happen and that if it did happen that it wouldn't last long, but negative rates no longer exist in the realms of theoretical thought experiments over the course of the last few years, 11 separate countries have joined the ranks of negative yielding bond issuers."
+NEUT1|Making this strangely counter intuitive and value destroying scenario of financial reality.
+BEAR2|A world where lenders pay borrowers to borrow feels distinctly looking glass if not absurd.
+NEUT3|But the fact is bringing it about, uh, quite explainable in the aftermath of the 2008 financial crisis, central banks took extraordinary actions.
+NEUT4|The most obvious example being quantitative easing, often described as money printing, that unleashed a flood of liquidity into the system and turn safe government bonds into premium and scarce real estate.
+NEUT5|At the same time.
+NEUT6|More regulations were introduced demanding that commercial banks place more money in safe government investments such as U.S. Treasury bills and German bonds.
+BEAR7|This has left investors fighting tooth and nail over those assets, driving prices up and some yields all the way into negative territory.
+BEAR8|There is an effect not enough safe places to store liquid iti.
+NEUT9|But really, what everyone wants to know is whether there's any limit to how negative bond yields can go.
+NEUT10|According to economists like Paul Krugman, there are limits.
+NEUT11|Eventually, he argues, it makes more sense to pay to store bundles of cash and bolts than to accept a charge for lending them.
+NEUT12|But even then, a more profound problem remains.
+NEUT13|It touches on the time honored concept of opportunity costs for those not prepared to lend their money out.
+NEUT14|This is because, Uninvested capital, whether stored inexpensive volts or negative yielding securities decays rather than grows overtime.
+NEUT15|This is a problem when the only alternative is investing capital and risky ventures.
+NEUT16|Why?
+BEAR17|Because it implies some capital will never tably Bemis allocated, or lost dodging negative rates essentially may not be that easy.
+BEAR18|"It seems for the financial system to be rebalanced properly, some amount of cash is going to have to burn whether we like it or not."""

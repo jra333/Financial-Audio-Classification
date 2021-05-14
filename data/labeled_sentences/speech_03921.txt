@@ -1,0 +1,58 @@
+NEUT0|"""Yeah, I think winners are forever."
+NEUT1|If you have a winning stock, hold onto it forever and a lot of people make the mistake of thinking that gotta take a gain.
+NEUT2|You know I bought Apple at 400.
+NEUT3|I'm going to sell it at 600.
+NEUT4|I'm smart.
+NEUT5|No, that's not smart.
+NEUT6|That's dumb.
+NEUT7|And the reason it's dumb is that when you sell a winner, you have to share your winnings with the IRS.
+NEUT8|And I don't like to share my winnings with the IRS.
+NEUT9|The smart thing is to hang on to winners and sell off your losers.
+NEUT10|Listen to Warren Buffett.
+NEUT11|Warren Buffett was smart about this and he said.
+NEUT12|Things like the best holding period is forever.
+NEUT13|Course stocks only go up, and he's also been known to say things like I got richest fastest by sitting on my **** and the reason is he doesn't like to share his games with the tax collector either.
+NEUT14|This is what it means to sell something that's going up.
+BULL15|I'm going to assume that you're making 8% a year on year growth stock on your Berkshire Hathaway, your Apple, whatever it is, may you be so lucky.
+BULL16|So you start out with $10,000 and that's growing at 8% a year.
+NEUT17|Now, how fast is something double?
+NEUT18|At a rate of 8%, it takes 9 years to double.
+NEUT19|So what happens if you hang on for a really long time, like the amount of time you should have been holding Berkshire Hathaway or Apple 36 years?
+NEUT20|Let's just suppose you hang on for a really long time, 36 years, you're 8% a year game, which means it went from 10,000 to 10,800 the first year and kept going 8% is going to double once, twice 3 * 4 times.
+NEUT21|And that gives you $160,000.
+NEUT22|That's Mr smart.
+NEUT23|You hang on to your stuff forever.
+NEUT24|Now Mr dumb.
+NEUT25|He's got the same 10,000 he's starting with.
+BEAR26|He's making the same Y percent, but he's got a little problem.
+NEUT27|He likes to sell his winners, so after a year he sells his 8% stock.
+NEUT28|He pays up 1/4 of it, a 25% tax rate to the IRS.
+NEUT29|And what does he got left?
+BULL30|He's got a 6% return.
+NEUT31|How long does it take for something to double at a 6% rate?
+NEUT32|It's a whole lot longer, well somewhat longer.
+NEUT33|Instead of nine years, it's 12 years.
+NEUT34|So how many doubles does he get?
+NEUT35|Over a 36 year holding period, you buy it.
+NEUT36|When you're 30, you sell it when you retire.
+NEUT37|At 66, he gets only three doubles, his $10,000 turns into $80,000.
+NEUT38|So you thought it was a small thing to pay income tax on your gains when you sold them after only a year, it's a big thing.
+NEUT39|It's a 2 to one difference in what you've earned.
+NEUT40|So what does it mean to buy and hold?
+NEUT41|If you're a smart growth stock picker like the famous trials Amen, he started in the 1960s.
+NEUT42|He finally hung up his shingle.
+NEUT43|Retired at the young age of 87 a few years ago, and if you looked at his list of stocks that had some extraordinary performers on their Huawei because he's been doing it for so long, why else?
+NEUT44|Because he hung on to his winners.
+NEUT45|As an example, one of his winners was ADP.
+BULL46|ADP is up 41,800%.
+NEUT47|Forty 1000% for this stuck.
+NEUT48|He held it for 40 years.
+NEUT49|Delhaize is another one.
+NEUT50|It started out in Almonds stock report's Food Lion stores.
+BULL51|It turned into a big winner.
+NEUT52|Limited brands you know about limited, they have fabulous retailing.
+NEUT53|And you could have made a lot of money in that, but only if you held on forever.
+NEUT54|So does it come down to the best holding period.
+NEUT55|Is holding forever.
+NEUT56|Just hang on to your winners.
+NEUT57|"Don't share your gains with the tax collector."""

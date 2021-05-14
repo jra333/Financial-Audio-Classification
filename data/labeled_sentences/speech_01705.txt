@@ -1,0 +1,8 @@
+BULL0|"""Asian markets continue their rollercoaster ride."
+BEAR1|After last week's Brexit vote, after hitting its lowest level on Friday in more than 30 years, the British pound fell further against the US dollar along with the euro.
+BEAR2|In Asian currencies, the Japanese yen remained volatile after hitting its strongest level since November 2013.
+BEAR3|On Friday, investors consider the currency a safe haven, but there is growing speculation that the Bank of Japan could intervene to halt its appreciation.
+BEAR4|The Chinese Yuan, on the other hand, fell to its weakest level against the US dollar.
+BEAR5|Since late 2010, stocks in Japan rebounded after getting slammed last week, as the Nikkei stock average rose, Hong Kong's Hang Seng index fell.
+BULL6|While the Shanghai Composite Index, the Korea Composite stock price Index, and Australia's SNP SX 200 rose.
+BEAR7|"Trading is expected to remain volatile this week as investors continue to factor in the implications of the Brexit vote and how the UK will go forward in its relations with Europe."""

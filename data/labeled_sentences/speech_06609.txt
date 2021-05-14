@@ -1,0 +1,15 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|For September 18th, 2015.
+NEUT2|I'm Celina Nicholas technical analyst at xm.com.
+NEUT3|Today we will look at gold on the daily chart.
+BULL4|Gold is found strong support at the key 1100 level and as consistently closed above it for the past week after reaching a high of 1135.16, prices are expected to consolidate around this level in the near.
+NEUT5|Term.
+NEUT6|As long as gold remains above its 50 day moving average.
+BULL7|It would find strong support here.
+BEAR8|An upside momentum would likely hold, but any move higher would find resistance at the 100 day moving average.
+BEAR9|This comes in around 11:52 and also the downtrend line is providing a barrier to the upside.
+BEAR10|In the bigger picture, gold is looking bearish, specially if prices remain below the key 1200 level and also if prices remain below the 200 day moving average.
+NEUT11|Prices are currently below the downtrend line, but if they break above it.
+BULL12|The upside momentum could accelerate to tests at 1200 level.
+BEAR13|However, if prices break below the multi year low of 1071 nineteen the bearish trend would likely strengthen and resume.
+BULL14|"Thank you for watching and have a great day."""

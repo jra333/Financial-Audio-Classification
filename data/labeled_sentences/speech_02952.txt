@@ -1,0 +1,24 @@
+NEUT0|"""Generally you set a price for a stock $38.00 in this case that is supposed to create enough demand that the stock goes up the early stage."
+NEUT1|Investors get to sell that stock, their happy, the investors are happy because they get the stock in a good price and we all live happily ever after.
+NEUT2|This is not what you expect to happen.
+BEAR3|Trading started really late.
+BEAR4|There seems to be some technical problem at the NASDAQ more than 500,000,000 shares were traded by the end of the day.
+NEUT5|Just to give you some perspective on a normal day, Microsoft will trade fifty million shares.
+NEUT6|Apple will trade 25 million.
+NEUT7|This is 5.
+NEUT8|100 almost 600,000,000 shares.
+BEAR9|So there's a logjam an it just everything didn't workout properly.
+BEAR10|The stock ended up going down almost to where it started.
+BEAR11|$38.00, and the only reason it didn't go further is because the syndicate of investment banks that offer these stocks on behalf of the company that would look really, really bad for them.
+BEAR12|They need future business, so you never want an IPO going lower than the offer price so you know they were buying late in the day to prop up the stock.
+BEAR13|Without that, if this wasn't an IPO day, this would have gotten a lot lower.
+BEAR14|This is the worst week for markets in all of 2012.
+NEUT15|Never an ideal time to have an IPO, but that's not something Facebook could have controlled.
+BEAR16|I think there's been a great deal of scrutiny about Facebook.
+NEUT17|We've been covering it endlessly and that has caused people who were excited to get into the stock to sort of take some time and say maybe I don't have to rush into this thing.
+NEUT18|Let's see how it goes.
+NEUT19|Let's see if in fact the stock can make money and now it's a bit of a wait and see.
+NEUT20|I mean, if it doesn't skyrocket on day one, why do I have to rush to get in?
+NEUT21|I can still invest in it if it's a good investment next week.
+BEAR22|Or next month so I don't take this as an, you know, an overwhelming backlash about Facebook.
+NEUT23|"I would say to you, if you were an IPO, this is not how you'd want your first day to go."""

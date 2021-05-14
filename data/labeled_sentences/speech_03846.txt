@@ -1,0 +1,26 @@
+BEAR0|"""Both bonds and stocks have been on bull runs of historic duration."
+BULL1|Bonds have been rising with occasional interruptions for 40 years.
+NEUT2|Stocks for 11.
+NEUT3|But what we might call the third major asset class commodities has not been joining the fund, at least not in the last decade.
+NEUT4|But that is beginning to change.
+BULL5|Since they bottomed early in the pandemic, all kinds of commodities, energy, materials, food have been rising steadily.
+BULL6|Here is a chart of copper oil and soybeans, all of which show 60 percentage point increases since their spring lows.
+BULL7|There are some good reasons for these price increases.
+BEAR8|A decade of low commodity prices means that producers have not invested in capacity crimping supply.
+NEUT9|Once the vaccination process is over, commodity stocks that have been allowed to dwindle will have to be rebuilt.
+BULL10|Fiscal stimulus if as promised, it is spent on infrastructure, will increase demand for commodities too.
+NEUT11|Green infrastructure, for example, requires a lot of copper.
+BEAR12|And finally, the US dollar has been weakening.
+BEAR13|And as it does, investors expectations of future inflation have gone up.
+NEUT14|Investors buy commodities and Commodity Futures as a hedge against future inflation.
+NEUT15|So all of this has a certain logic.
+NEUT16|But these days we never any asset pops.
+NEUT17|You have to ask is this a bubble with rates at historic lows and money sloshing around markets every rally is suspect.
+NEUT18|The price of silver, for example.
+BULL19|Took an oddly sharp jump this summer and since then has been popular with the very same retail investors who have pushed the shares of GameStop to bizarre highs.
+NEUT20|GameStop, though, was easy to see through.
+NEUT21|There was never much there but hype and hope.
+NEUT22|The price of silver and other commodities are more akin perhaps to US tech stocks.
+NEUT23|There is enough of a fundamental story there to justify high prices.
+NEUT24|But how high?
+NEUT25|"Commodity prices, in other words, look less like a bubble than an excellent set up for one."""

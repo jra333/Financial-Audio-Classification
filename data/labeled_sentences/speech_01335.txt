@@ -1,0 +1,5 @@
+BEAR0|"""Ladies and gentlemen, you cannot believe this, my friends."
+NEUT1|If you are wondering whether I'm crazy, no, I'm not crazy.
+NEUT2|This is happening every single day.
+NEUT3|My friends this is unbelievable.
+NEUT4|"Who?"""

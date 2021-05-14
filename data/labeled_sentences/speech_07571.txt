@@ -1,0 +1,12 @@
+NEUT0|"""So according to re code, Walmart plans to launch a new subscription service later this month called Walmart Plus."
+NEUT1|Consider it like their competitor to Amazon Prime.
+NEUT2|It will cost $98 a year and have perks like same day, delivery of groceries and general merchandise discounts on fuel at Walmart gas stations and early access to product deals.
+NEUT3|That's according to multiple sources telling Recod it's going to launch this month later this month, but it's not clear if it's going to be on a regional level or on a national level.
+BULL4|You can see the share spiking up here, about 3 1/2% so Walmart.
+NEUT5|Looking to be competing directly against Amazon Prime guys back to you.
+BULL6|Eric, thanks for that.
+NEUT7|I wonder there's a bit of irony in the timing expected to launch later this month.
+NEUT8|Of course, July is when Amazon's Prime Day typically takes place, which is a blockbuster shopping holiday that's been delayed a few times this year.
+BULL9|Also, one of the biggest knocks against Amazon Prime or its future growth, rather, is that maybe we're reaching a saturation point here in the United States because it is such a strong program, so I wonder if there's room for families and consumers to buy on to another kind of subscription, Carl.
+NEUT10|Yeah, we'll see $98.00, so that's going to be worth watching as Amazon.
+BULL11|"As we said earlier, hit a new all time high."""

@@ -1,0 +1,17 @@
+BEAR0|"""The FTC is reportedly seat weighing seeking an injunction against Facebook over how its apps interact."
+BEAR1|This, according to report in the Wall Street Journal, saying that the FTC is looking to potentially seek to block Facebook from enforcing its policies around integrating the back end of its apps.
+NEUT2|Now, Mark Zuckerberg has said that they were looking to make Facebook Messenger WhatsApp?
+NEUT3|Instagram messaging all of the communication services that Facebook has.
+NEUT4|Integrated in the back end and make them encrypted with end to end encryption.
+BEAR5|This report says that they're trying to borrow that trying to bar Facebook from further integrating the apps that feather federal regulators might look to unwind as part of a potential future breakup of the company.
+NEUT6|This, according to a source cited in this Wall Street Journal article, we have reached out to Facebook.
+NEUT7|We have not heard back from them yet.
+NEUT8|The FTC.
+NEUT9|We've also reached out to in this article here.
+NEUT10|The FTC declined to comment, but what this is really about here.
+BEAR11|As you see, Facebook shares down over 2%.
+NEUT12|Is that Mark Zuckerberg has said the future Facebook is encrypted messaging and that is all about integrating all these different apps, some of which they've acquired and then grown.
+NEUT13|The question is, would this very deep integration of all of these systems be problematic?
+NEUT14|Should there be antitrust action against Facebook going forward?
+BEAR15|So real questions about the future of this company could look like, especially as it pushes to integrate these apps as you're speaking there, Julie, you can see the stock is down $4.30 about 2%.
+NEUT16|"That may be algorithmics trading because whenever you see injunction, antitrust, future breakup in news stories or headlines, the algoz cell, now an ASK questions later."""

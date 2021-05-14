@@ -1,0 +1,21 @@
+BEAR0|"""The last decade of easy monetary policy has led to an infamous bubble in everything."
+NEUT1|So what still cheap out there in the market today?
+BULL2|Commodities while stocks are at their most expensive level in 150 years in the US, commodities are as cheap as they've been by a number of measures for the last hundreds.
+NEUT3|Some of that is natural and structural.
+BEAR4|Over the last 200 years, in inflation, adjusted commodity prices have actually been trending downwards, because every time they get too high and you see a spike.
+NEUT5|People switch to a different, cheaper technology.
+BULL6|There are more energy efficiencies that kick in and we might actually start to save energy.
+NEUT7|So are we at that kind of tipping point?
+NEUT8|Today?
+BULL9|We've already seen some commodities like gold for example, go up as investors.
+NEUT10|Look for a safety asset amidst all the quantitative easing and easy money that's still out there.
+NEUT11|What would it take for commodities in other areas, industrial commodities, oil to start to spike?
+NEUT12|Well, if you start to see the dollar go down, which many people?
+NEUT13|Think it will in the next year for a variety of reasons.
+NEUT14|The deficit political risk you would start to see commodities move the other direction.
+NEUT15|They always move inversely to the dollar.
+BEAR16|If that happened you could see more political turbulence Petros.
+NEUT17|Ours would be embolden an you might see more nationalism in emerging markets where the poor spend the majority of their income on food and fuel.
+NEUT18|Now things could go the opposite direction in the years ahead as the US becomes more energy independent.
+NEUT19|But I doubt we're in a permanent bear market for commodities yet.
+NEUT20|"Watch this space."""

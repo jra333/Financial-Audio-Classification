@@ -1,0 +1,38 @@
+NEUT0|"""I'm processing, but I would buy it where I don't own it."
+BEAR1|In accounts you know it's 20 times what next year's earnings, and I don't think there's much chance that they're going to disappoint the levels that have been reset.
+BEAR2|The thing that's kind of caught me off guard Tyler is I would have expected the market to really have taken it in the neck overnight.
+BEAR3|I looked at futures this morning expecting to see him just fall apart.
+NEUT4|Didn't happen.
+NEUT5|So there's a message here and that is that.
+BEAR6|This market, which I think I've been worried about in terms of valuation.
+BULL7|Is behaving in a very resilient way.
+NEUT8|The damage is compartmentalized.
+NEUT9|Tim, the same question to you in the accounts in which you hold Facebook.
+NEUT10|Would you be adding today holding as you as you reassess or what?
+NEUT11|Well, I think the story for Facebook.
+NEUT12|This is really one about disclosures, and I think it's a governance issue and so yes, I own the stock.
+NEUT13|But you know, I wonder how they're dealing with personal data and that to me is a factor that you think about what is their product, what do they create?
+NEUT14|It's our data.
+NEUT15|And how are they handling that?
+NEUT16|And I think ultimately think of it.
+NEUT17|The way a widget comes off an assembly line yesterday they told us they have to go back onto the assembly line actually.
+NEUT18|Build structure around the security side.
+BEAR19|Things that maybe tell us the product isn't fully built or that we have been overpaying for the product, so I think this is a existential moment.
+NEUT20|We could have said that though on the heels of the Cambridge Analytica fallout and yet you still held Facebook.
+NEUT21|So why now?
+NEUT22|Is there a governance problem when there wasn't a governance problem before?
+NEUT23|When they let those developers have access to data, Leyva said whether I own Internet for second because I think there's been a problem for a long time.
+NEUT24|I think the reality is that.
+NEUT25|If you think about the security aspects of Facebook, but the disclosure of what management has been telling us about their core product, I'm not sure we've really heard.
+NEUT26|Sounds like you're backing away from it.
+NEUT27|Yes, back to your original question.
+NEUT28|What do you do with it today?
+NEUT29|I don't think you need to do anything.
+NEUT30|I don't think you need to dive in there.
+NEUT31|And again, Facebook tells us where community an we're sharing, and I don't think they've been terribly forthcoming in terms of their approaching.
+NEUT32|You're going to hold it.
+NEUT33|I'm holding this stock for now.
+NEUT34|Hey there, thanks for checking out CNBC on YouTube.
+NEUT35|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT36|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL37|"Thanks for watching."""

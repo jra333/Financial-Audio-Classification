@@ -1,0 +1,46 @@
+BULL0|"""We're seeing excitement around the services story."
+BULL1|We're seeing excitement around the wearables category.
+BULL2|As noted, up 54% and I think Tim Cook mentioned something interesting on the conference call about, you know we look back on Apple years from now.
+NEUT3|We might actually determine that one of their biggest contributions was to health care, and I think what's interesting about that comment is that it really signifies the importance around the watch in the accessories category as being for lack of a better term.
+NEUT4|Really, the growth driver, the growth engine over the next 5 and 10 years for Apple.
+NEUT5|So I think we know where their companies where the company is going.
+BULL6|Services and wearables are really knocking the cover off the ball and investors are excited.
+BEAR7|Yes, we've had a profit dip.
+BEAR8|This is not the first time this has happened with Apple.
+NEUT9|It probably won't be the last time.
+NEUT10|As long as iPhone is 50% of the company, but that is that is changing and I think investors are rewriting the stock rightly so as a as a higher growth business looking out over the next few years.
+NEUT11|Listen Jason, it's early here.
+NEUT12|It's even earlier.
+NEUT13|There are later there depending on your perspective out in Salt Lake City.
+NEUT14|But you know, I'm easily confused anyway, especially at this hour, because here's my question.
+BEAR15|We had profit fall for fiscal quarters in a row.
+NEUT16|It's the first time that's ever happened in Tim Cook's watch.
+BULL17|But yet again, the stock up 60%.
+NEUT18|Why are you and other investors willing to look past what is arguably a slowing iPhone business?
+NEUT19|So Brian is I mentioned, those other factors are important.
+BEAR20|Yes, profit has slowed down, but again, you know the metric that it slowed down four quarters in a row under Tim Cook is notable, but there are there have been so many, so many areas along the way where we could have said well, for example, iPhone revenue slowed in total revenue is down 15% in 2016 when we had a pivot to the iPhone 6 and the bigger screen and I remember people that I'm wringing their hands and I felt the Apple stock was around 90 and people were saying.
+BEAR21|Growth is dead in iPhone is dead.
+NEUT22|And how can you own this company without growth?
+NEUT23|Well, you need to look through these periods in their tough to do.
+NEUT24|I certainly recognize that, but you have to look through these periods of slowing profit growth to see what's happening.
+NEUT25|What's coming down the Pike and what excites investors.
+BULL26|What excites us personally, is that the growing services business comes with higher margins.
+BULL27|We're talking 64% gross margins relative to about 3038% on the iPhone device.
+NEUT28|So what we see is growth ahead.
+NEUT29|What we see is a company with 200 billion in cash.
+NEUT30|What we see is a company that's well run in a brand that just continues to resonate with consumers across iPhone.
+NEUT31|Airpods watch home.
+NEUT32|I mean this is there really just hitting the cover off the ball outside of iPhone?
+BULL33|And by the way, next year we're going to get 5G and I think that's going to be a real needle mover for the iPhone device lineup, so there's a lot to like on the stock.
+NEUT34|OK, so what's the?
+NEUT35|By the way, Jason, I remember we talked a lot, you know, back in the past, are you still a Twitter shareholder?
+NEUT36|No, we're no longer Twitter shareholder.
+BULL37|Unfortunately, it's actually done quite well since we sold it, we did.
+NEUT38|We did OK in it, but we no longer own it.
+NEUT39|Well, does this move by banning political ads?
+NEUT40|Then make you rethink about owning the stock in any way.
+NEUT41|No, I don't think it's material to why we would take an investment in Twitter.
+NEUT42|I think it's interesting.
+NEUT43|I think it's certainly a debate that needs to be happening in this country regarding what constitutes free speech on the political front.
+NEUT44|Whether we're talking about ads, marketing, or actual free speech.
+NEUT45|"Certainly Facebook and Twitter are going to have an interesting and very open discourse around that, so we'll be watching from the sidelines most likely."""

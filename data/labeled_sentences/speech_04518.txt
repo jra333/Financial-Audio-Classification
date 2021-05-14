@@ -1,0 +1,38 @@
+BEAR0|"""I did say, however, coronavirus remains a big concern for Shanghai Disneyland, which remains closed."
+NEUT1|Let's bring in Jim Stewart, CNBC contributor from the New York Times and Larry Haverty from LJH.
+BULL2|Investment advisors are very good afternoon to you both.
+BULL3|Thanks for joining us, Jim.
+BULL4|I want to kick off with those Disney plus subscriber numbers.
+BULL5|Clearly better than the market.
+NEUT6|Expected 26 and a half million.
+BULL7|Plus I think we're hearing another 1.5 since the end of the quarter.
+NEUT8|How impressed are you by those numbers?
+BULL9|I'm I'm very impressed by those numbers.
+BULL10|I mean everybody got excited when they initially said we were going to get 10 million and now they've more than doubled that when you consider there.
+NEUT11|Roughly, you know 38 million households in the US with children 18 and under.
+BULL12|They've gotten already very impressive chunk of those in extremely short period of time, so I think their execution on this has been phenomenal.
+BEAR13|The after a few of minor glitches in the beginning, the people are apparently a very, very happy with the.
+NEUT14|Performance of the thing.
+BULL15|So I'm very impressed.
+NEUT16|By the time, I'm surprised that the market has been as tepid in its reaction, but I do think some people I'm hearing from people you know that are looking at the mathematics of this whole business and it is a little sobering.
+NEUT17|They were getting under $6 a subscriber and these companies, their rivals, Netflix, Amazon.
+NEUT18|They're spending billions on original programming and you take $6 a month times 2220, two 2325 million.
+NEUT19|You're not getting.
+NEUT20|All that much revenue, and I think the question is going to be when is this going to make money?
+BULL21|Maybe bar in the future and is it going to make up for the erosion in the traditional cable revenue streams?
+NEUT22|Larry, what do you think?
+NEUT23|I think it's more or less game set and match here that Disney Plus is a brilliant investment strategy.
+NEUT24|You have to look at the world.
+NEUT25|This is a global company and I frankly don't know how high up is.
+NEUT26|The company has a history of once.
+NEUT27|It's in the market raising prices.
+NEUT28|So I think to some extent you've got an introductory special, but what you're dealing with here is a company and it's not appreciated by the market.
+NEUT29|It has in mind bogglingly low cost of debt so that Disney's financing Disney Plus at probably somewhere by my calculation around 2% after tax.
+NEUT30|And if you look at that as their financial burden, the thing over time is going to be a Grand Slam home run.
+NEUT31|And remember what this is in it's great simplicity is that it just gives Disney the chance again to sell the library.
+BULL32|And they've just expanded the library by picking up the Fox Library.
+BULL33|So I think it's a brilliant strategy, executed brilliantly financially, and the latter clearly underestimated by the market.
+BEAR34|Now it's going to affect earnings near term, and the virus is going to affect earnings near term next three months could be cloudy, but the company has enormous firepower to buy stock.
+NEUT35|They've always bought stock, probably around 10 times running rate Ebadi.
+BULL36|I think now with rates lower the.
+NEUT37|"Maybe there's 10% risk before the company takes massive share repurchase, so if you're sceptical about this thing, you might have fun for the next hour or two or month or two, but you aren't going to have fun over a period of 123 or four years because this is just a stock where based on the brand quality and the financial quality the management you have to own it."""

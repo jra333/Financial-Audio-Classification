@@ -1,0 +1,5 @@
+NEUT0|"""However, let's take like the Apple stock we can see on the weekly chart."
+NEUT1|Apple has formed the inverted hammer followed indecision doji pattern, so in weekly chart we can see here shows some bottom sign for the Apple stock.
+BEAR2|But one thing we need to pay attention to the well still below the two year my lines and these two year my lines nearly formed a Red Cross so it's not a good sign.
+BULL3|So if if we can bounced back above this yummy line that will be perfect.
+BULL4|"Thank you."""

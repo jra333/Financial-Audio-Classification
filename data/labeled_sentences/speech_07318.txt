@@ -1,0 +1,60 @@
+BEAR0|"""The US government is going to slash its AIG stake in half."
+NEUT1|Polvino joins us my market sub cohost colleague Ralph.
+NEUT2|How you doing good morning to you?
+BEAR3|Good morning good yeah, pretty good news yeah, so this is going to be, I believe the 5th sale of AIG, the governments taking energy, they've impairing the stake down about 50% right now.
+BEAR4|They're hoping to maybe cut that under 20% depending how the sale goes.
+NEUT5|Planning on selling 18 billion worth of AIG shares.
+NEUT6|So is this something we announced?
+NEUT7|By the way?
+NEUT8|I just curious because when you say we're going to sell this much stock, doesn't that.
+NEUT9|Well, maybe hammer the stock in advance or people have been expecting to.
+BULL10|They've been slowly paring down the state.
+NEUT11|This has been a plan all along.
+NEUT12|They know this, so the stock.
+BEAR13|Actually I think it's down a little bit today, but it's not doing so bad, but it's up 47% this year.
+BULL14|So I mean, as the government's been selling stock the stock has been going up so I think normally that might be the case, right?
+NEUT15|But in case like this, where it's a government?
+NEUT16|Took him under receivership.
+NEUT17|They're trying to get him back on their own 2 feet.
+NEUT18|It's actually taken as a good sign, so that's what you don't see the stock.
+NEUT19|OK, let's talk more broadly about the markets this morning.
+BEAR20|They are off slightly slightly a little weakness here in the US.
+BEAR21|Stock futures down we're only down about 20, you know, not a huge number dollars down a little bit.
+BULL22|The euros up, euros up almost 128 this morning.
+NEUT23|Actually big news.
+NEUT24|Not huge news with the biggest piece of news we have right now.
+NEUT25|Some data out of China.
+NEUT26|An important exports.
+BEAR27|Imports were down much sharper than expected.
+BEAR28|Bad sign for countries like Australia, Brazil.
+BEAR29|Anyone who wants to send their their goods over to China, especially the commodities countries bad sign their bad sign for the global economy.
+BEAR30|So that's kind of put a weaker tint onto everything coming after Friday's jobs report Stew.
+BEAR31|I mean, it's just one more one more bad sign thrown on there, so that's what you're seeing here.
+NEUT32|That's what you're seeing.
+BEAR33|This is going to be a very squirrelly week.
+NEUT34|You got a lot going on, so it's Monday.
+NEUT35|What do people have to look forward to?
+NEUT36|You have an FO two day FOMC meeting this week, you know?
+NEUT37|Speculation just rampant that they are going to announce something.
+NEUT38|Don't know the size of November Yankee.
+NEUT39|The Federal Government Committee, and basically, they may we may get QE 3 right?
+NEUT40|I mean this is there after the after the weekly meeting where they set rates.
+NEUT41|Rates are at zero.
+NEUT42|Those aren't going to change, but this is where they will announce any kind of stimulus programs if they're going to announce one lot of speculation that they will announce one don't know yet, obviously, but we'll find out.
+NEUT43|You also have a German court ruling.
+NEUT44|This is a highly, highly anticipated court ruling.
+NEUT45|Describe that briefly.
+NEUT46|It's kind of.
+BEAR47|It's kind of confusing people with very good German Supreme.
+NEUT48|This is a German constitutional court.
+NEUT49|This is apparently just the preliminary ruling to they're going to rule on whether the European bailout Fund matches not matches up that support work.
+NEUT50|But you know whether it's consistent with the German Constitution.
+NEUT51|Yeah, it's an issue of sovereign because what happens if it isn't they go back to the drawing board if they if the court rules against the bailout funds they say they contravene German constitutional law then everybody goes back to the drawing board.
+BEAR52|It would actually be a huge mess.
+NEUT53|I don't think anyone really expects it, but it's a possibility.
+NEUT54|I mean it is actual possibility.
+NEUT55|Now of course you and I both know the rule of law stormed out and thrown out the window in 2008.
+NEUT56|So who cares?
+NEUT57|But this court might care.
+NEUT58|I mean, no one's really cared about the law for five years.
+BEAR59|"This court might care, and if they do care, it's going to be a big mess in Europe."""

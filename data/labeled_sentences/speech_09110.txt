@@ -1,0 +1,37 @@
+NEUT0|"""Welcome back to the ticker or want to chat a new Quinnipiac poll showing Democratic nominee Joe Biden widening his lead over President Donald Trump in a new national poll, also spelling a bad hit for President Trump on the economy in his handling of that and for more on that, we're joined by Yahoo Finance's Rick Newman Wreck."
+NEUT1|Obviously a lot of people based on the way the last election went might not want to put too much weight on Poles, but this is a pretty sizable lead.
+BULL2|Yeah, 15 points for Joe Biden nationally.
+NEUT3|In that latest Quinnipiac poll.
+NEUT4|That is more than Hillary Clinton led by at this point in 2016.
+NEUT5|And you're right to be skeptical of these polls.
+NEUT6|But since 2016 pollsters, they know what went wrong in 2016.
+BEAR7|They under weighted lower educated voters in swing states in 2016, they just didn't count them enough.
+NEUT8|They have adjusted their methodology since then.
+BULL9|So in addition to this national poll by Quinnipiac in a variety of other polls, Biden leads by loaded mid single digits in most swing states.
+NEUT10|So at this point.
+NEUT11|The election is Biden's to lose but look.
+NEUT12|We still have more than three months ago and a lot can happen.
+NEUT13|Yeah, like it always happen, that's for sure.
+NEUT14|But the one thing that we have seen kind of turn here as even President Trump's strong suit and a lot of these polls the handling of the economy.
+NEUT15|Also taking a hit and this one when we look at that.
+BEAR16|His approval rating on the economy slumping to August 2017.
+BEAR17|Lowe's approval now just at 44% compared to 53% disapproval.
+NEUT18|But on that front, Moody's Analytics also out with a new look at who's going to win this election.
+NEUT19|And that also doesn't necessarily point into the positive for President Donald Trump.
+NEUT20|Right, Moody's analytics?
+NEUT21|They thought Trump would win in February when they did this analysis.
+NEUT22|This is not a poll.
+NEUT23|This is an election model.
+NEUT24|They look at the unemployment rate changing the unemployment rate during the election year and some other factors they thought Trump would win back in February.
+BEAR25|Just because the unemployment rate was so low at around 3.5%, now at 11.1% and it's still going to be high on Election Day when this happened to Jimmy Carter in 1980 and George HW Bush in 1992, they both lost.
+BEAR26|Carter got absolutely creamed in 1980 amid a recession.
+NEUT27|And they've now Moody's Analytics is now changed their forecasts instead of Trump winning.
+BULL28|They think Biden could win with 308 electoral votes.
+NEUT29|If turn out is average.
+BULL30|But if turn out is high the way it was in the 2018 midterms, Biden could win in a landslide.
+BULL31|He could win all the six swing states.
+BEAR32|They're really important here, plus one or two more like Ohio, so things are not going right for President Trump right now.
+NEUT33|And you wonder how turn out might be impacted by everyone working from home too.
+NEUT34|Or perhaps maybe not working at all.
+NEUT35|But Rick Newman bringing us the latest on that front.
+BULL36|"Appreciate you breaking that down."""

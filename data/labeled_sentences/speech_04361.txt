@@ -1,0 +1,51 @@
+NEUT0|"""Of course you broke this story Greg back in April."
+NEUT1|Jamie Dimon on the call said he wished he'd, you know, I've been reading newspapers to pay attention that he was referring.
+NEUT2|Of course, to your story.
+NEUT3|Now, let's jump in here.
+NEUT4|Let's talk a little bit about how did Bruno Iksil earn this nickname caveman, right?
+NEUT5|So we all know him as the whale, meaning that he got so big people refer to him as the London Whale he was buying so much corporate betting on corporate health.
+NEUT6|Basically, and he bought.
+NEUT7|You got so big in the market and derivatives markets that people can do well.
+NEUT8|Before that, the end of last year, he actually made a different kind of bet and one in which people were very dismissive on Wall Street and they called him a caveman 'cause he was basically betting is very bearish bet against junk bonds, but basically betting that there would be a default in a matter of months and it seemed like free money from people on the other side of the hedge funds and they kept coming and he kept selling against them.
+NEUT9|And then he ended up winning out $450 million or so in just a matter of months.
+NEUT10|We have a full screen coming up here that shows some of the bets that he made now.
+NEUT11|What's interesting here is.
+NEUT12|We're talking about a bank taking bets that Kodak Digicam are.
+NEUT13|Some of these are corporate names that he thought was going to go bankrupt.
+NEUT14|My big question is, how does that qualify as a hedge?
+NEUT15|What are they doing?
+NEUT16|Question making these bets?
+NEUT17|You can make an argument that, well, there long credit as a bank, so there were short credit through this junk bond trade, but it was more of a short term bet because it was expiring December 20th, so they had to really have some offsetting risk that was going to expire.
+NEUT18|December 20th was really.
+NEUT19|Impossible and looked very much like a bet rather than a hedge, and I think as this story develops, Greg is that we're seeing that we're not talking.
+NEUT20|Everybody talks about the $2 billion loss because that's the thing that affects JP Morgan's bottom like.
+NEUT21|It talks about the safety of banks.
+NEUT22|The reality is, is that this kind of training has been going.
+NEUT23|This guy who's been doing this for years.
+NEUT24|He's been taking these enormous bets on either sides.
+NEUT25|Actually, we don't we.
+NEUT26|Actually.
+NEUT27|This is one of the key issues we only hear about it when there's a blow up.
+NEUT28|The reality is, is that the risk is being taken over long periods of time in different and you know he makes 450,000,000 here.
+BEAR29|He loses 2 billion here all of a sudden it's a problem and Greg men talk about this.
+NEUT30|You you mentioned?
+NEUT31|Of course in your story that some of these bets that people thought were really risky.
+NEUT32|Kodak, Dynegy America, American Airlines, they actually worked out and that may have helped empower him to take some of these other risky bets.
+NEUT33|Yeah, that's exactly right.
+NEUT34|My understanding my from my reporting is that he was so good and his group did so well that people like Jamie Dimon and the rest of the top executives.
+BEAR35|JPMorgan got really confident, maybe overconfident.
+NEUT36|There's a little bit of hubris that these guys can keep making lots and lots of money for the bank, so we're going to give him a long leash.
+BEAR37|It ended up costing them.
+NEUT38|And, you know, at this point it's much more than two billion were thinking it's more like 3 billion who could get past four billion, so it could get more dangerous.
+NEUT39|But the point is a good one that was four years after the crisis when we as taxpayers had to step in and bail out or prop up bank after bank.
+NEUT40|So do we want our banks doing these kinds of trades?
+NEUT41|Yeah, now I gotta wonder, is Jamie Dimon returning your calls yet?
+BEAR42|Hi Jamie Diamond, I don't want to get into the reporting process, but there has been a shift.
+BEAR43|They were very dismissive of our initial story.
+NEUT44|They said hey we know about these trades.
+NEUT45|Jamie knows all these trades.
+BEAR46|Don't worry Greg and now there's a different view than hey we should have been more concerned so you know better late than ever as a taxpayer I would argue, but it's it is a little worrisome that they had this group.
+NEUT47|That said, it's only been only the last few years.
+NEUT48|So you had said forever.
+NEUT49|It's actually just presents 2006 or so when Jamie and the bank transformed this group into one that was just buying.
+NEUT50|"Treasuries and mortgages to do another kind of things like CDs and junk bonds."""

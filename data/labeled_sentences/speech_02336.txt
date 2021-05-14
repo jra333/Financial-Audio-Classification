@@ -1,0 +1,13 @@
+NEUT0|"""The politically acceptable alternative might be for the ECB to print money to buy gold, call it QE, heavy perhaps."
+NEUT1|Price of Gold, which is as I said, the blue line denominated in euros.
+NEUT2|We obviously saw if they did this.
+BEAR3|German Conservatives would find it hard to object to the idea of building up Europe stockpile of the precious metal, those trying to find a way to expand the balance sheet would have created a lot of new money.
+NEUT4|Ultimately, the ECB could create as much as it likes.
+NEUT5|Is the price of gold can in theory rise indefinitely.
+BEAR6|There would be some undesirable side effects.
+NEUT7|Buster Rhymes fans find chunky gold necklace is a lot more expensive.
+NEUT8|For example, jewelry in general of course would probably shift to other metals.
+BEAR9|That would be an unwanted boost to the gold mining industry too, and renewed recycling of old gold.
+NEUT10|Relatively speaking, all of these side effects are quite small.
+BULL11|Buying gold wouldn't help the banks the way that the ECB hopes absu and bond purchases might, but it would boost the money supply, expanding base money without too much in the way of detrimental side effects.
+NEUT12|"Even so, the idea sounds so barmy, it's hard to see anyone at the ECB endorsing it."""

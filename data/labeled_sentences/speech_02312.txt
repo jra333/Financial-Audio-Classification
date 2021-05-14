@@ -1,0 +1,44 @@
+NEUT0|"""Brent Burke is here with the market timing Academy and I'm here with our weekly stock analysis."
+NEUT1|Today is July 21st.
+BEAR2|We're coming off of a another somewhat rotten day here in the stock market.
+BEAR3|Concerns over the economy again.
+NEUT4|But today we're going to highlight a good story.
+BULL5|Apple Computer, Apple last night announced incredible earnings.
+BULL6|Earnings per share soared 78%.
+NEUT7|They absolutely knocked the ball out of the park.
+NEUT8|They sold the check these numbers out.
+NEUT9|They sold 3.5 million computers, 8.4 million iPhones and 3.2 million iPads.
+NEUT10|They are absolutely not going to cover off the ball and the change in the way that we that we really are adapting to technology nowadays.
+NEUT11|And so let's look at a couple of things using our IBD stock analysis.
+NEUT12|You can see Apple has a composite rating of 99.
+NEUT13|The best you can have if we go through the composites, you've got a relative strength rating.
+NEUT14|Putting them at 4th or an 89.
+NEUT15|You've got the earnings per share rating at 99, which again puts them in the best category in the SMR rating at an A, which puts them in the best category so.
+NEUT16|All positives right here now here's something interesting.
+BULL17|Though the accumulation distribution rating is an E, they're actually the worst in the group, so one of the best companies out there.
+BULL18|Nobody seems to care about if we just look at a couple of things right here, the the earnings per share obviously was up just huge as we just talked about the last three quarters up 69% earnings per share.
+BULL19|Revisions are going up there surprising earnings, all positive positive news.
+BULL20|The return on equities over 2730.5 and so.
+NEUT21|Again, without going into the details, look this stock, really just fits all the criteria for a company that you're going to want to load the boat with.
+NEUT22|Let's take a look here at the charts and talk a little bit about where some of our buy points might be.
+NEUT23|OK, So what we've got here is the daily chart for Apple going from January through the Today, July 21st.
+NEUT24|You can see again here.
+NEUT25|This stock has been in a major uptrend all the way through here, OK, and what we've got is the stock coming out of a nice Cup with handle base right through here and starting a new uptrend.
+NEUT26|I'm going right through here.
+NEUT27|OK, so you've got just a really powerful moving stock.
+NEUT28|But here's the interesting thing.
+NEUT29|If you're not in this company, or you're not in this stock, we're going through a really interesting flat base right through here, which means that we can start looking for some buy points which you want to do is you want to watch for the volume to be big right?
+BULL30|Through here, as the company starts to break out to new highs.
+NEUT31|But technically you have two by points here.
+NEUT32|You can be buying off of a bounce on the 50 day moving average, which is right here, or what you can do is you can buy this on a breakout, which will be right up around the $280 mark.
+NEUT33|One thing to keep in mind is keep an eye on the stock market.
+BEAR34|Right now we are in a confirmed uptrend, but man, it feels awful fun.
+NEUT35|We out there it's like people want to sell right now.
+NEUT36|So the bottom line, Apple fits all the criteria that we look for in a company, especially the new product feature.
+BULL37|What they're coming out with with this iPad is truly going to change technology, and so Apple is a is a major by Canada candidate in our opinion.
+NEUT38|We already own it and so we're holding it and we're looking to add to it.
+NEUT39|But if you really want to follow the breakout rules, you're going to want to stay in an uptrend with the market and buy this stock as it crosses back through this high right here.
+NEUT40|This is Brent Virkus with the market timing weekly stock analysis July 21st.
+NEUT41|If you want more information on our company, visit www.markettimingacademy.
+NEUT42|We've got some pretty cool stuff.
+BULL43|"Good luck with everything and make some money in this market."""

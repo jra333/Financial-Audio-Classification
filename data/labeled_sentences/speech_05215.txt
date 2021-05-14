@@ -1,0 +1,17 @@
+NEUT0|"""In a media deal with the Health Evaluation Investors Business Daily has been sold to Wall Street Journal parent News Corp for $275 million, a daily newspaper from its founding in 1984, IBD shifted to weekly print frequency in 2016, but long before that had focused on offerings beyond news print, about 90% of its revenue is based on digital subscriptions, with circulation of around 100,000, according to the announcement of the deal founder."
+NEUT1|William O'Neill, a pioneer in financial circles, linked IBD with his company, O'Neill Capital Management, using it to amplify his philosophy on business and markets.
+NEUT2|Most of the company's revenue comes from its portfolio of research and analysis products.
+NEUT3|Its new site through ten 8,000,000 average monthly unique visitors in February.
+BULL4|According to Adobe Analytics, the company also has teamed with Techno Metrica Market Intelligence on IBD Tipp political polls.
+NEUT5|Based in LAIBD was created with the aim of offering a more data driven iaccessible alternative to the New York based WSJ emission O'Neill would inveigh about during newsroom visits rather than the incumbents high toned, meticulously crafted a heads and thousand word features about blue blood fund managers, IBD prized readability and quantitative insights.
+NEUT6|The paper is highly detailed.
+NEUT7|Stock tables studied by a numerology obsessed mathematician in Darren Aronofsky's debut film.
+NEUT8|Pie were printed in such small type that the company gave subscribers a magnifying glass ruler as a promotional gift.
+BULL9|But the wealth of proprietary data also earned a wide following and proved valuable to News Corp. News of the transaction whose price tag exceeded those for many storied magazines and newspapers comes during a period of surging interest in information by retail and individual investors.
+NEUT10|In the deal announcement, News Corp, whose executive chairman's, Rupert Murdoch?
+BULL11|Described IBD's high margin, profitable and rapidly growing.
+NEUT12|It will be run by News Corp S Dow Jones unit.
+BULL13|But as a standalone business with its workforce of about 130, continuing to be based in LA, IBD will greatly enhance our expertise in finance with compelling digital coverage, unique tools and high yielding services, we will be able to cross sell and upsell with Dow Jones Financial products and provide specialist insights for a knowing business audience.
+BULL14|News Corp CEO Robert Thompson said Dow Jones and the Wall Street Journal reported record profits in the last quarter and I have no doubt that IBD savvy digital products and journalism will significantly bolster profitability at the Dow Jones segment.
+NEUT15|William Scott O'Neil, the son of the founder who is CEO of O'Neill Capital Management and IBD, said the company remains focused on educating and empowering investors.
+BULL16|"We can't think of a better place than News Corp and Dow Jones to take investors business daily into its next phase of growth and create even more value for our loyal subscribers, he said."""

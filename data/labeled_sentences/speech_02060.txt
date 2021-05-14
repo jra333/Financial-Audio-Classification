@@ -1,0 +1,53 @@
+NEUT0|"""Shut up and sit down."
+NEUT1|I'm now recorded live from the sunny Southern California coast.
+NEUT2|This is options uncensored.
+NEUT3|Everybody I'm Steve.
+NEUT4|Welcome to options Uncensored will make an option straight open.
+NEUT5|Closer expiration holdall another day.
+NEUT6|These are real trades reporting real time all unedited.
+NEUT7|Good Tuesday afternoon.
+NEUT8|This is Tuesday, February 9th 2021.
+NEUT9|Right now we're looking at Coca Cola with about 5 minutes to go.
+NEUT10|Coca Cola is another one of my favorite companies ever.
+NEUT11|You see I've got shares over here on the side.
+NEUT12|We're going to sell a put with three days to expiration, and we're going to pick the 48 strike.
+NEUT13|Go ahead and we'll change this to sell or sell one expiration this week at 48 and it's a put an will go with the ask, actually.
+NEUT14|You've got to ask 20 preview that order and go ahead and send that.
+NEUT15|You can see the orders open here.
+NEUT16|On the left cell one.
+NEUT17|Put.
+NEUT18|At 20 instead, orders open here.
+NEUT19|This should get filled Coca Cola very liquid stock, very highly traded, everybody owns Coca Cola in their portfolio.
+NEUT20|I mean, this is probably going to be an example of one of the lowest risk trades you'll ever see me make.
+NEUT21|You have the stock goes up tomorrow.
+NEUT22|This will be worthless and I'll just collect my $20 and go even at it by Friday's expiration.
+NEUT23|Same thing if it's out of the money.
+NEUT24|I've got my 20 bucks I move on.
+NEUT25|If it goes down and then I'll get assigned 100 shares of Coca Cola.
+NEUT26|Nothing wrong with that.
+NEUT27|I mean, Coca Cola's dividend is 3.29%, so if I'm holding Coca-Cola indefinitely, I'll get that 3.29%.
+BULL28|That's way better than any bank or bond goodbye, so that's one perk.
+BULL29|The global economy is reopening so.
+NEUT30|That's that's one thing to look forward to, and this is a global company you can go to South Africa, go to China.
+NEUT31|You can go to anywhere in this planet.
+NEUT32|You'll find Coca Cola.
+NEUT33|And as the things do reopen.
+NEUT34|As you know, restaurants reopen bars, reopen entertainment.
+NEUT35|In general, cruise ships, comedy clubs, casinos, everybody has Coca Cola on their gun.
+NEUT36|If you order a Jack and Coke, there's coconut.
+NEUT37|If you go to movie theater, you've got Coca Cola.
+NEUT38|So there you go.
+NEUT39|Orders filled.
+NEUT40|At the 48.
+NEUT41|Very very easy trade.
+NEUT42|Will come back tomorrow morning.
+BULL43|Hopefully will close this out if it's a win.
+BULL44|It's a win for the loss by Friday.
+NEUT45|I'll have more Coca Cola shares.
+NEUT46|Nothing wrong with that.
+NEUT47|You got any questions or comments?
+NEUT48|Leave them below.
+NEUT49|Don't forget to subscribe and I'll see you tomorrow morning.
+NEUT50|Thank you very much for watching this video if you're interested in following along with Steves daily trades.
+NEUT51|Hit the subscribe button like the video and ring the notification Bell.
+NEUT52|"Follow along until next time this was options uncensored."""

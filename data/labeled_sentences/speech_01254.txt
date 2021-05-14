@@ -1,0 +1,12 @@
+BEAR0|"""Asian markets were in turmoil as the UK voted to exit the European Union."
+BEAR1|The British pound plummeted to its lowest level against the US dollar in around 30 years as investors fretted about the consequences for the UK economy.
+BULL2|The Japanese yen surged to its highest level against the US dollar since late 2013 with the Greenback at one point worth under 100 yen.
+BEAR3|Japanese policy makers are less than thrilled as they are hoping to boost the country's export.
+BEAR4|Reliance Economy Asia stock markets were hammered to Japan's Nikkei stock.
+BEAR5|Average, suffered its worst one day fall in five years.
+BEAR6|While shares in Hong Kong and Australia fell sharply too on the corporate front, the UK's decision to leave the EU clouds its status as an investment destination for many companies.
+BEAR7|Nissan has the most exposure in the UK among Japanese car companies, and it shares fell along with those of Toyota and Honda.
+BEAR8|India's Tata Motors also saw its shares plunge elsewhere.
+BEAR9|Hong Kong CK Hutchison, one of the UK's major investors, fell as did Samsung Electronics, South Korea's biggest stock.
+BEAR10|The UK vote to leave the EU is the latest sign of deep concern.
+NEUT11|"Many share around the world about globalization."""

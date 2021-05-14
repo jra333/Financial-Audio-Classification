@@ -1,0 +1,18 @@
+BULL0|"""After angering many users and being accused of hypocrisy over the GameStop saga, Robin Hood has still managed to raise billions in additional funds to protect its business from a cash crunch situation."
+NEUT1|Two sources told Forbes.
+BULL2|The trading app secured an additional $1 billion in funding over the weekend.
+NEUT3|On top of the $1 billion it raised last week and was in talks to raise even more.
+NEUT4|Robin Hood has since confirmed that it raised a total of $3.4 billion in recent days.
+NEUT5|The big injection of capital is largely coming from existing investors.
+BULL6|And despite its PR challenges, Robin Hood still hit record download numbers.
+BEAR7|In the past few days on January 28th when the app placed restrictions on buying new shares of GameStop AMC an others Robin Hood was downloaded 700,000 times and account cancellations were about 11,000.
+NEUT8|The sources say on Friday, January 29th, Robinhood hit about 1,000,000 downloads in a single day.
+NEUT9|Comparatively robinhoods download numbers for the entire month of December 2020 were around 800,000.
+BEAR10|Per Forbes sources, Robin Hood's decision to limit trading on certain stocks received harsh criticism across the board, even across the political aisle.
+NEUT11|The move created a general feeling that what should be a free market really had one set of rules for hedge funds and another set of rules for retail investors.
+BEAR12|It was also accused of doing the exact opposite of its mission statement to democratize finance the company claims the move was necessary because it was running low on cash.
+NEUT13|Robin Hood says it typically has to post collateral for its traders activity.
+BEAR14|Because that activity was so large concentrated an speculative it's clearing houses demanded extra collateral which created a cash crunch that led to the trading freeze.
+BEAR15|The battle over GameStop continues.
+NEUT16|According to Ihor Doocy Nowski of Market data firm S3 Partners short interest in GameStop is now $11.20 billion, with almost 58 million shares, which makes up 113% of its tradeable shares.
+BEAR17|"Shares shorted have declined by just 8% despite the billions that have already been lossed Whether Robin Hood users will trust the app to live up to its own name over the long run remains to be seen."""

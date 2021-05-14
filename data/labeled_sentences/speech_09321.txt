@@ -1,0 +1,12 @@
+NEUT0|"""All right Doc unusual, what do you got for us?"
+BEAR1|Louisiana Pacific Scott LPX big buying out in February at the 37 strike.
+NEUT2|This is a housing play because that's what they deliver on Scott.
+NEUT3|I'll probably be in these at least through January.
+NEUT4|I love the housing sector second one real quick.
+NEUT5|Take a look at Cody.
+NEUT6|I don't know if another Kardashian is going to do a deal with them or what the story is Scott, but they are buying the heck out of the December 6 calls.
+BULL7|Stock is moving higher.
+BULL8|These calls have already doubled on the day and how about that?
+NEUT9|So no Scott.
+BULL10|That was up 400%.
+BULL11|"Yeah, on the option side overnight."""

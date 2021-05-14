@@ -1,0 +1,57 @@
+BULL0|"""Hello guys."
+NEUT1|A lot of people try to speak about prediction in stock market.
+NEUT2|It you know, prediction.
+NEUT3|Anyone can predict.
+NEUT4|OK. For example, I tell you OK. Facebook is today.
+NEUT5|Let's say it is at $132 OK. Now by the end of the year 2017, what will be so you can predict can say 151 thirty, 140 or 100 or $60.00 or $200.
+NEUT6|OK, this is just predictions now.
+NEUT7|In my strategies we don't use predictions we use.
+NEUT8|Criteria to search for our stocks and we buy them by this signal.
+NEUT9|We just buy them.
+NEUT10|OK, and we try to select the stocks according to our.
+NEUT11|Criteria selection Now when we select a stock.
+NEUT12|It has two things to do.
+NEUT13|Either it goes up tomorrow it goes down.
+NEUT14|If it goes up, we leave it.
+BEAR15|If it goes down we have stop loss to take care of this stock because it is not a good stock.
+NEUT16|OK, so we don't predict we don't say tomorrow the stock will do that and that because the future no one knows the future.
+NEUT17|OK, we know the past.
+NEUT18|We know the past and we know today.
+NEUT19|Well, when the stock is but we will never know where the stock will be in tomorrow, because tomorrow maybe we will.
+NEUT20|We will die so we never see what's going to happen tomorrow so no one knows what will happen tomorrow.
+BEAR21|Maybe there is bad news baby.
+BULL22|There is good news.
+BULL23|Maybe the stock has the company has an excellent news and you will see start going so up.
+BEAR24|And maybe the stock goes down and you will lose a lot of money because of bad news.
+NEUT25|So no one knows.
+NEUT26|So predicting is just wasting time.
+NEUT27|OK just wasting time because you will never get anything from predicting.
+NEUT28|But for our strategies we use a signal.
+NEUT29|And when we buy.
+NEUT30|A stock.
+NEUT31|We buy it buy signal and we sell it by signal.
+NEUT32|It means if if the stock goes up for many days or many weeks and then we see that the stock doesn't give no money no more.
+NEUT33|It stops giving money.
+NEUT34|So we get rid of it and we take the profit and that's it.
+BULL35|OK, and you told me oh and if it comes back it goes up OK. We buy it again.
+NEUT36|So the people are always.
+BEAR37|Having problem in buy and sell.
+NEUT38|Something you don't like.
+NEUT39|You said it you buy another one.
+NEUT40|So what's the problem?
+NEUT41|OK. Smoked.
+NEUT42|When you buy, you think that you are right.
+NEUT43|OK, when you see that you are right, it means the stock is making money for you.
+NEUT44|This is when you are right.
+NEUT45|If the stock is taking your money, you are wrong and you should say to yourself I am wrong.
+NEUT46|That's why we use a stop loss stop loss.
+NEUT47|It is just to remind us that we are wrong.
+NEUT48|That's it.
+NEUT49|But you need to exit the trade before you have a big loss.
+BEAR50|As I told you before, big losses.
+NEUT51|It is a problem for any trader, either big trader or small trader or beginner or anyone.
+NEUT52|Even if a hedge fund or mutual friend, when we have a big loss.
+NEUT53|It's a big thing.
+NEUT54|OK, so don't put yourself and don't trap yourself into bad things.
+NEUT55|OK, so thank you very much for watching if you have more questions just ask.
+BULL56|"Thank you."""

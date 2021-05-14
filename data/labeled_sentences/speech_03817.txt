@@ -1,0 +1,46 @@
+NEUT0|"""Some big succession news this week in big Tech."
+NEUT1|Jeff Bezos handing over the reins at his company to a WS chief.
+NEUT2|Andy Jassy, who's going to become Amazon CEO in the middle of this year?
+NEUT3|Does this signal atop an Amazon shares?
+NEUT4|That's the question.
+NEUT5|The morning Gianforte joins us with this week's.
+NEUT6|On the other hand, Andrew.
+BULL7|Yes, this signals a top for Amazon.
+NEUT8|Who knows, maybe the whole market.
+NEUT9|It's not a knock on Andy Jassy.
+NEUT10|Just look at a 25 year chart of Microsoft.
+NEUT11|You see that spot where the stock peaks in late 1999.
+NEUT12|Bill Gates stepped down as CEO 2 weeks later.
+NEUT13|It's like these CEOs of juggernaut companies have a sixth sense, but about Amazon itself.
+NEUT14|Jeff Bezos has been the constant at this company since it was founded.
+BEAR15|Is facing challenges to its dominance across multiple business lines in retail.
+BEAR16|It turns out Walmart, Target and Best Buy weren't so easy to beat in digital first marketplaces, Shopify and Etsy represent a stubbornly persistent class of competitors that Amazon can't muscle.
+BULL17|And in devices, Amazon's services strengthen.
+NEUT18|Cheap pricing weren't enough to break into the smartphone business or.
+BULL19|Even grow significant share in the tablet market and in cloud, Microsoft, Google and others are mounting strong challenges.
+BEAR20|All of this happening as Amazon stock along with the rest of the market has gotten extremely expensive Andrew.
+BEAR21|So you're saying that Amazon is in decline now?
+NEUT22|Well, on the other hand, let's not be too hasty here.
+NEUT23|I think I just made an argument for why Andy Jassy's antitrust defense is pretty strong, and the future of Amazon is too.
+NEUT24|I mean, yes, the timing of the handoff from Gates to bomber was rough, but maybe a better comparison to Amazon is Apple under Tim Cook.
+BULL25|Cook was a trusted Lieutenant to Steve Jobs, who brought a level of discipline and logistics vision that Apple desperately needed.
+NEUT26|Andy Jassy has done something similar in growing a WS inside Amazon.
+BULL27|Healthy companies develop leaders internally and execute CEO transitions while maintaining and strengthening the culture.
+BULL28|As for how Amazon's competing, well, we've seen the company building out delivery that competes with UPS and FedEx advertising that competes with Google and Facebook Cloud that continues to lead despite the industry mounting strong challenges from the toughest rivals in the world.
+NEUT29|Andy Jassy coming in as CEO, isn't a sign of a top in Amazon.
+NEUT30|It's Amazon moving from strength to strength.
+NEUT31|OK, but the big question for investors that are watching all this John is what about the valuation?
+NEUT32|How do you think about that?
+NEUT33|Yeah, I mean you guys were just talking to Charmaine Mossavar Rahmani from Goldman about that.
+NEUT34|I mean I know what she said and clearly she's the expert on this, but I can't help.
+NEUT35|It makes me feel a little weird when we get the multiples that we have even on the likes of Apple and Amazon.
+NEUT36|And it's like well compared to the market this isn't.
+NEUT37|I mean, compared to the market?
+BEAR38|All of these took a 20 or 30% haircut.
+NEUT39|Would anybody say well that valuation is crazy?
+NEUT40|I mean, with Apple Trading at what is it around 35 times right now?
+NEUT41|Amazon way?
+NEUT42|Above that I don't know.
+BULL43|But Amazon is still pretty strong.
+NEUT44|Shepard Smith here.
+NEUT45|"Thanks for watching CNBC on YouTube."""

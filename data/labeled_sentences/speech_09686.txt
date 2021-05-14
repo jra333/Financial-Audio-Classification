@@ -1,0 +1,30 @@
+NEUT0|"""Yeah, look, I think not."
+NEUT1|Not worried at all.
+NEUT2|This is a normalization.
+BULL3|It seems very likely that 10 year yields will go up significantly more easily.
+NEUT4|I would think breaking the 1 1/2% level there may well be just a taking of breath in equity markets as that happens, but fundamentally this is a normalization.
+BULL5|It's a sign of growth, it's healthy.
+NEUT6|If we look at the forward yield on the S&P Giles, it's only 1 1/2% if we get the 10 year Treasury yield beyond 1 1/2 percent.
+NEUT7|What are the implications for the S&P?
+NEUT8|An interest in owning equities?
+NEUT9|I think to my mind the normality is equities.
+NEUT10|Your total return is based on dividends and of course on future capital growth and therefore it's completely normal that you you have a a lower a lower dividend yield.
+BULL11|You can still have a a higher potential total return on equities, so as I say I think as you have that kind of crossover.
+NEUT12|Yes, I think the equity market.
+NEUT13|We'll take breath.
+BULL14|There certainly can be a modest set back, and in fact, last week you saw a little bit of that.
+NEUT15|In in stock markets, Ann and I think the other thing is clearly Trump quote.
+NEUT16|Out of the growth stocks into the into the value stocks didn't really happen.
+NEUT17|Maybe there is a bit more of that coming up.
+BEAR18|Maybe the tech stocks do pause for breath themselves and do underperform the general market a little bit.
+BEAR19|We heard that news about Caterpillar as an example of a stock that will clearly benefit from recovery, so I think that's all part of the story here, but the idea that there's going to be a really major reset of equity prices, I just don't buy it.
+BULL20|The trending stocks is still up for this year.
+NEUT21|Johns though as we talk about some normalization, there's a fear out there that you have seen pockets of bubbles, whether that's in the crypto space from Bitcoin to the specs of these special vehicles were using listings take place.
+NEUT22|Do you think some parts of these these markets away from the technology thing where we have seen that rapid acceleration as well?
+NEUT23|Do you think Bitcoin Inspecs could see some impact if there's a sort of letting out of the hot air or the excess in markets around this normalization phase?
+NEUT24|In in crypto and Bitcoin, it's quite natural to have setbacks of 1020% bitcoins.
+BEAR25|Already seen that once this year and highly likely will get that kind of temporary set back again, but I would not see that breaking the trend.
+BULL26|I think the trend in Bitcoin remains strongly upwards, and that's all to do with greatly increased institutional interest, which has been.
+BULL27|Very big these last several months, but is still only just beginning.
+NEUT28|There are lots and lots of institutional investors still who want to get into Bitcoin and I think when you do get those small setbacks in response to it to perhaps a little bit of concern about the higher rate interest rates, you will actually see that being used as a buying opportunity.
+NEUT29|"And again, I think Bitcoin in the year from now."""

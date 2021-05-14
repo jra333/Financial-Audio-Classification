@@ -1,0 +1,31 @@
+NEUT0|"""So based on the few assumptions on how the outcome would look like, I'm going to device a strategy based on Putin calls on how we will go about this."
+NEUT1|So since we're selling, Putin calls that we would benefit if nothing happens.
+NEUT2|Now we're playing against the idea that the volatility is exceptionally high.
+NEUT3|And we would assume that it would not soar again on the direction.
+NEUT4|So based on the beds.
+NEUT5|So I'm making a few bets here and looking at how to implement that using the put call.
+BEAR6|The first batter is a dangerous where it's a directional bet that I generally don't take, but I'll take the limited bed out of that, which is that Amazon is coming down by 5 to 10% in the coming next two to three months.
+BEAR7|That's my bad one, and suppose my bed too, is that I'll short volatility if it crosses 50%.
+NEUT8|How would I implement these two ideas using the derivative market, so two, if the volatility increases more than 50% implied volatility, which means that option prices are higher and people are willing to pay higher prices, which we also saw in the chart when we set that.
+BULL9|The volumes of option have increased, so if you see here the option market is selling a lot of.
+NEUT10|Put in call.
+NEUT11|So I would have shot, put and call.
+BEAR12|I would short a put and call either for a month duration or too much duration if I'm short on the stock within, which means that I believe that it would come down.
+NEUT13|I will sell more calls because if it comes down then I'll get the call premium.
+NEUT14|So short calls with a majority of 25%, so this is how I would benefit from.
+NEUT15|Maya those bags.
+NEUT16|Now if you have some.
+NEUT17|Different kind of outcomes.
+NEUT18|You could implement that using so one bat is that all the risk is gone and no more spikes remain and the speed at which the implied volatility is going to come down as it's lower in the market.
+NEUT19|People are scared for nothing.
+NEUT20|Then I would go short on volatility.
+NEUT21|So this is the same as what was happening in the implied volatility since the risk increased a lot in recent times.
+BEAR22|So we saw that the implied volatility reached 40% for nothing.
+BULL23|There was no war, no outrage, but the Chinese bubble increased.
+NEUT24|The implied volatility implied volatility.
+BEAR25|It's still very high, 27, as low as we compare it to the past.
+NEUT26|Earlier it went to 25 in October 14.
+NEUT27|I'm not sure what was happening that time.
+NEUT28|And in the last five years, such a high implied volatility means 25 was observed only when we have the euro crisis.
+NEUT29|The Greece crisis.
+NEUT30|"In 2011"""

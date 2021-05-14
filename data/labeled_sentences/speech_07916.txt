@@ -1,0 +1,25 @@
+BULL0|"""A growth stock is a stock that is expected to perform at an above average rate relative to the market."
+NEUT1|One thing to note is that a growth company typically has some sort of competitive advantage which justifies their potential upside.
+NEUT2|This can be a new product or some sort of proprietary patent or international expansion plan or capability, or perhaps there even an above average service provider.
+NEUT3|Most growth stocks tend to be newer companies and are introducing some innovative product or technique and is expected to have a significant impact on the business in the future.
+NEUT4|Thank Amazon or Netflix.
+BEAR5|They introduced brand new ways of doing business and disrupted a longstanding status quo.
+NEUT6|Another thing to note is that not all growth stocks are those companies that are new and upcoming.
+NEUT7|There are exceptions.
+NEUT8|Some characteristics to look for in growth stocks?
+NEUT9|One they don't usually pay a dividend.
+NEUT10|Two, they typically have a very loyal customer base and three there is something unique about their product offering.
+NEUT11|Many questions are needed to be asked and answered when considering between growth and value or income stocks.
+NEUT12|How much are you willing to pay for it?
+NEUT13|Do you believe the growth is possible, and do you think it will continue?
+NEUT14|A ratio you want to pay attention to when selecting between these types of stocks is a PE ratio.
+NEUT15|For example, before I recorded this, Amazon's PE ratio is about 275.
+NEUT16|Compare that to the Dow Jones industrial average of about 25, where your typical value stock might be closer to 10 or 15, or 20.
+NEUT17|Growth stocks tend to have very high PE ratios, and it's something you can use to determine if the stock is a growth, stock or value.
+NEUT18|Stock growth stocks are those that are expected to generate substantial capital gains.
+NEUT19|And extend to be overvalued in the market and the question is will they continue to grow at a rapid rate?
+NEUT20|Typically investors will hold a combination of both growth and value stocks.
+NEUT21|Trying to capitalize on the benefits of both investment types.
+NEUT22|If you have any questions about the world of investing, any suggestions on videos, please post in the comments below.
+NEUT23|And please subscribe as we continue to update with new videos every week.
+BULL24|"Thank you."""

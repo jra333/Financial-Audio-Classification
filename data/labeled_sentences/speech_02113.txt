@@ -1,0 +1,15 @@
+NEUT0|"""I'm Christy Duffy for SmarTrend news."
+NEUT1|Coca Cola is reporting its second quarter earnings before the opening Bell on Wednesday.
+BULL2|The company posted in EPS of $1.06, which topped the street estimate of $1.03.
+BULL3|Revenues for the company rose by 4.8% year over year to $8.67 billion, slightly under the consensus estimate of 8.7 billion.
+BULL4|Coca Cola also reported second quarter volume growth of five percent, 2% growth in North America and 6% growth internationally, CEO Muhtar Kent said, quote, I am pleased with the performance of our company, where we once again delivered a solid quarter of growth with consistent, profitable results.
+BULL5|Inspired by our 2020 vision and fueled by our strategic marketing innovation and focused execution, it is clear, however, that the state of the global economy remains uncertain in many regions affected by ongoing deficit concerns in Europe.
+BEAR6|Recent downward revisions to China's economy and weaken consumer confidence.
+NEUT7|Looking forward to the balance of the year.
+BULL8|We remain cautious yet confident in our ability to deliver our 2010 plan while continuing our efforts to achieve our 2020 vision through consistent, long term, profitable growth.
+BEAR9|SmarTrend currently has Coca Cola in an uptrend since 2008.
+BEAR10|Smart Trend subscribers, trading Coca Cola and using our alerts outperform the stock by 39%.
+NEUT11|We're monitoring these developments and will alert subscribers to any change in trend.
+NEUT12|I'm Christy Duffy for smartphone news.
+NEUT13|For more on how you can subscribe to our smart Trend Alert system visit our website.
+NEUT14|"Tradethetrend.com also received more news, market analysis and earnings updates by subscribing to our YouTube channel trade that red."""

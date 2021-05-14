@@ -1,0 +1,15 @@
+NEUT0|"""Hello everyone, today I'm going to be talking about why Neo stock was trading up yesterday but before we get excited."
+NEUT1|If you like what I'm saying, if you live with me please consider subscribing as give me a thumbs up as I really would appreciate it and without further ado let's get started.
+BULL2|Shares of Chinese electrical vehicle maker Neoware trading higher on Friday after a Wall Street analyst initiated coverage of the company with a bullish note.
+BULL3|Neo shares were up about 5089 percent from Thursday's closing price.
+NEUT4|An unknown Friday morning, Nomura analyst Martin Hinge initiated coverage of Neo with our rating of Buy and price target of 80 between $30, hence wrote that he likes Neo for its Tesla like Top Down Approach to Project Contents.
+NEUT5|Neo like Tesla started with a premium product like ESA Three row luxury SUV V, followed by more consumer friendly models.
+NEUT6|The five passenger E S6 an E C6 crossovers.
+NEUT7|The idea is that the profits from the more expensive models will help fund the development of more affordable models overtime.
+BULL8|Henge also knows that Chinese consumers are willing to pay.
+BULL9|Price is compareable to those of a familiar European luxury cars models for Neos, which he feels shows that Neo has successfully established itself as kredible AB scale auto brand.
+NEUT10|The analysis also regards Neos batteries as a service program as a revolutionary concept.
+BULL11|That lowers upfront costs.
+BULL12|Create a revenue stream for NEO overtime and provide a competitive advantage versus traditional recharging.
+NEUT13|That's it for today.
+NEUT14|"I hope you enjoy the video until the next time we see you next."""

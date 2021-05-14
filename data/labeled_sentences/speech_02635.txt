@@ -1,0 +1,19 @@
+BEAR0|"""In the last few days of February, in the first few days of March, stocks and bonds began heading in the same direction, both falling at first and then later on starting to rebound."
+NEUT1|Now, the idea that stocks and bonds prices can head in the same direction may come as a surprise to some people who've been in the market say since 1998, but the idea that stocks and bonds can have a positive correlation would not be a surprise to people who've been in the markets.
+NEUT2|Earlier than that, especially in the 1970s and 1980s and the early 1990s, now the stock bond correlation tells you something about what investors fear most when the correlation is positive.
+NEUT3|When stocks and bonds tend to move in the same direction with that seems to indicate is investors are primarily concerned about the risk of higher inflation.
+BEAR4|However, when stock and bond correlations become negative as they have been for most of the time since 1998.
+BEAR5|In almost all of the time at least up until the last few days since the global financial crisis in 2008, with that indicates this negative correlation points to a fear of deflation.
+NEUT6|Financial distress in economic downturn, and default on debt.
+NEUT7|Now, part of the reason why and the correlation changed, had to do with falling rates of inflation as we move from high inflation in the 70s and early 80s to much lower levels of inflation by the mid to late 1990s.
+NEUT8|The correlation began to flip and the event that triggered it was Russia defaulting on its debt in August 1998, and then triggering the collapse of the highly leveraged hedge fund long term Capital Management that seemed to wake investors up to this other set of risks.
+NEUT9|On the downside that inflation was no longer the primary concern.
+BEAR10|But since the global financial crisis, the correlation has been consistently negative.
+BULL11|But now that the economy is starting to revive with vaccines economic stimulus.
+BULL12|And tremendously high savings rates among consumers, inflation fears, fears are resurfacing.
+NEUT13|So one question.
+NEUT14|Investors may wish to ask themselves is what happens to financial markets if that correlation turns back positive.
+BEAR15|If the correlation turns back positive, it has really big implications for portfolio managers.
+NEUT16|In a positive correlation environment, where stocks and bonds tend to be moving in the same direction, it's harder to achieve diversification than it is in a negative.
+NEUT17|Correlation environment where they're moving opposite one another, and therefore hedging one another as such, were we to flip back into a positive correlation environment where stocks and bonds begin moving at tandem, investors may have to seek out additional sources of diversification for their portfolios.
+NEUT18|"I'm Erik Norland, senior economist with the CME Group in London."""

@@ -1,0 +1,24 @@
+NEUT0|"""I want to talk headlines with Steve Forbes, Chairman of Forbes Media."
+NEUT1|Steve first up oil.
+BEAR2|Now we've seen spikes in oil in the past, but we have never seen.
+NEUT3|And energy industry in the United States like we have now, partly because of deregulation, partly because of what's been happening with fracking.
+NEUT4|Everything.
+BEAR5|And that, I think, is tempering concerns about the future of oil.
+NEUT6|Here it is.
+BULL7|And long term we should do even better, specially for allowed to build pipelines and be able to move this stuff, especially liquefied natural gas overseas.
+BULL8|So we are in a good position, but I think the markets are finally waking up to the severity of that Iranian.
+NEUT9|Let's_Iranian attack.
+NEUT10|On the Saudi oil fields, by the way, the administration just confirmed to Fox News that indeed it was from Iran that the drone attack did not come from the South, which is where Yemen in but came from the North, which is where Iran is, and we have to take appropriate action.
+NEUT11|In response.
+NEUT12|David, what would that be striking either their facilities, especially the refining facilities they have to import a lot of refined product that would help the.
+NEUT13|General move to put real economic pressure on Iran.
+NEUT14|Do that or go after the Republican guards who are the terrorist organization in Iran.
+NEUT15|All right, let's talk about General Motors.
+NEUT16|We haven't seen his strike in awhile in that territory, but the interesting thing is that this strike comes at a moment because of Donald Trump's policy.
+NEUT17|So I would argue his tax policy's his deregulatory policies, where the worker is King.
+BULL18|In this market, you have more jobs than job seekers in this market, and that helps the UAW.
+BULL19|Position, are they in a better position than than management?
+BULL20|Here they are temporarily, but we have a very very competitive industry out there, so if they get a very rich deal by golly, other competitors are going to do well.
+NEUT21|Remember many of the manufacturing plants in the US.
+BEAR22|David Automotive are in non union states especially in the South Tennessee and other areas so that that's going to change the dynamic in the past of GM was on strike was a huge thing.
+NEUT23|"Today the markets just roll with it."""

@@ -1,0 +1,44 @@
+NEUT0|"""Hey traders, Todd Gordon here with tradinganalysis.com."
+NEUT1|This is for CNBC's Trading nation.
+NEUT2|Cheers.
+NEUT3|We're going to work in Amazon.
+BULL4|We like Amazon and alongside it showed very good relative strength.
+BEAR5|However, I have my concerns about this recovery rally.
+NEUT6|We are positioned on the short side in prior videos here in the trading nation on SP Y.
+BEAR7|An Facebook too too short positions were carrying, but Amazon showing some pretty good relative strength.
+NEUT8|So in the event that this was just another.
+BEAR9|Kind of taper tantrum Part 2 in the face of rising interest rates and we are headed to new highs.
+NEUT10|Amazon is pretty good so I'm the daily student.
+NEUT11|This is 180 minute chart.
+NEUT12|We have Amazon in the red and green candles and I've overlaid the QQQ here in yellow.
+BULL13|Now you can see that the NASDAQ QQQ is has not yet taken out those highs.
+NEUT14|We have done about a 3/4 retracement of what we've lost since January 26th but we can see that Amazon is kind of knocking on the door here to a breakout moment you see.
+NEUT15|A little bit of what we call an inverse head and shoulders kind of almost a Cup and handle kind of pattern to get a left left shoulder ahead and then a very small little right shoulder here, which it will suffice.
+NEUT16|And it could be the launching pad that we need to take this up to.
+BEAR17|1500 volatility continues to be very escalated in this market.
+NEUT18|I don't want to pay for volatility.
+NEUT19|I want to sell volatility.
+NEUT20|Combine that with our bullish view of of Amazon.
+NEUT21|I'd like to sell puts and create a put spread so heading over to the option chain here.
+NEUT22|We're going to be selling in the March 29 options.
+NEUT23|We're going to be selling the 1440 put.
+NEUT24|We're then going to be purchasing the 1430 put altogether.
+NEUT25|That $10 spread.
+NEUT26|We're going to take in a credit of about $4 depending on where you're executed in the time you see this video.
+NEUT27|So if you right now the markets are quoting me that I'll take in about $395 for this $10 spread, which gives me a risk of $605.00.
+NEUT28|OK, now I shouldn't have to take that full $605.00 risk if you take this all the way into expiration.
+NEUT29|We are going to put a stop loss on this trade, so let's go ahead and I will execute the trade here trying to get about $4.
+NEUT30|And that trade is now working.
+NEUT31|Now back to the chart.
+NEUT32|Where do I want to start to exit this trade?
+NEUT33|Well, it seems to be that there's a nice statement made by the market here on this candle stick right here.
+NEUT34|So if the market begins to break, just that about 1440 below 1440, I'm going to say the trade is no longer valid and we want to get out the purpose for being this trade is that Amazon is going to take us clear through to 1500, but if we start to breakthrough those loads, let's go ahead and get out of the trade.
+NEUT35|Contain the risk otherwise.
+NEUT36|Looks like Amazon might be the way to take us through if this little taper tantrum is just a tantrum and we are heading to new highs, that's going to be trade first CNBC trading nation on Todd Gordon.
+BULL37|Good luck in that trade.
+NEUT38|Be sure to follow us at Trading Nation on Twitter for updates to this trade, as well as all the other markets that our traders are watching.
+NEUT39|And we'll see you guys in the next video update.
+NEUT40|Hey there, thanks for checking out CNBC on YouTube.
+NEUT41|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT42|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL43|"Thanks for watching."""

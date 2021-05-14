@@ -1,0 +1,11 @@
+NEUT0|"""Get up, put it on and you put it on."
+NEUT1|They all feel.
+BEAR2|But like the spring business owners in Muskoka Cola ignore you.
+NEUT3|Is that for you?
+NEUT4|Not so much.
+NEUT5|A bullet I'm watching you.
+NEUT6|I'm good my God Coca Cola.
+NEUT7|You have to move and I love you.
+NEUT8|Can you put it on the computer?
+NEUT9|Chicopee visit.
+NEUT10|"They feel like their size, full size for how surprised."""

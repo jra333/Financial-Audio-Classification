@@ -1,0 +1,34 @@
+NEUT0|"""I'm turning attention to 1 stock in particular Tesla."
+BULL1|There's a report from a test delete that shows the Model 3 with 100 kilowatt per hour battery pack would have over 400 mile range and that is some really exciting news.
+NEUT2|But of course Elon Musk, the CEO of Tesla is not a huge fan of leaks, so I cannot imagine how he may be reacting to this news quite soon.
+NEUT3|Our own Emily McCormick joins us now to discuss the details Emily, can you share us some more details about this electric report?
+NEUT4|Yeah, absolutely.
+NEUT5|So the website electric did report today a leak showing that Tesla has Model 3 vehicles with 100 kWh battery packs, which could result in awkward 400 miles of range.
+NEUT6|Now this isn't the first time that we've heard of these battery packs.
+NEUT7|There was a similar leak of this code for this hundred kWh battery pack in late December from a Tesla hacker who said that Tesla potentially had the capability to produce these vehicles, but it wasn't immediately clear at that time whether those actually.
+NEUT8|Were produced at Tesla's facilities.
+BULL9|Now again, that still remains to be seen here, as we know now the the Tesla capabilities that we have at this point are 75 kilowatt per hour packs in the long range Model 3, which provides over 300 miles of range, so this would potentially be a big step above that.
+NEUT10|Now I did reach out to Tesla specifically for comment on this.
+NEUT11|Did not hear apply, so something to potentially keep an eye out just in terms of future configurations of the Model 3 and Tesla models.
+BULL12|And of course, Emily shares of Tesla are actually up today 4.5% sitting at around 977 bucks on Friday, though Tesla did get a double downgrade from both Goldman Sachs and Morgan Stanley, leading to a little bit of skepticism.
+NEUT13|But as we know, this tends to be the case for such a hot high flying stock.
+NEUT14|Can you share some more details in some of the main takeaways, in your opinion, from both of those notes?
+NEUT15|Absolutely.
+NEUT16|So just taking a look at the notes.
+NEUT17|What I think really struck me was that it wasn't necessarily a bearish view overall on the long term profit.
+NEUT18|Aspect of Tesla.
+BEAR19|It was more of a reflection of the fact that Tesla stock has run up so quickly and just so much in relation to the broader market.
+BEAR20|So, for example, taking a look at this Goldman Sachs note this was a downgrade of the stock to neutral, again, necessarily because of those longer term prospects.
+BEAR21|But because the stock had traded above, Goldman's already upwardly revised 12 month price target of $950 per share.
+NEUT22|Of course, that stock is trading just around $179 mark right now.
+NEUT23|Now that analyst said.
+BULL24|Quote, While Tesla has long been inexpensive stock and we recognize that valuation has expanded for the entire market, we believe that there is a higher bar for Tesla's fundamentals than for other stocks in our coverage.
+BEAR25|Given Tesla's Premium absolute multiple along with this historically high volatility, now he also pointed to a number of mixed signals from Tesla recently, including its recent price cuts up around 5 to 6% on the Model 3 SNX vehicles in the US, which Wall Street tends to take as a sign of weakening demand for these vehicles.
+NEUT26|At the same time, there has been there have been some green shoots.
+NEUT27|If we think about stimulus efforts for electric vehicles in Europe as well as Teslas made deliveries in China, which tripled relative to April and then finally I do want to highlight that note from Morgan Stanley.
+BEAR28|This was a downgrade of the stock to underweight with a price target of $650 per share, so quite a significant downgrade relative to where the stocks trading now and what Jonah said in his note is that quote we highlight risks to Sino U.S. trade near term demand capital needs.
+NEUT29|And tech competition as the key bear vectors we think deserve more attention in the market, so some similar points that both Goldman Sachs and Morgan Stanley brought up.
+BULL30|But for now, Tesla stock still is on the rise, at least for today.
+BULL31|The stock is up about four point 7% now.
+NEUT32|Melody.
+BULL33|"Thanks so much for the breakdown, Emily."""

@@ -1,0 +1,11 @@
+BEAR0|"""After a disastrous year for its business as the coronavirus pandemic forced workers away from the Office of Legal battle with its founding CEO and a failed IPO attempt in 2019, we work announced Friday that it had agreed to go public as part of a SPAC merger with folks Acquisition Corp."
+NEUT1|The deal was first reported by The Wall Street Journal and will include an investment of $483 million from Vivek Ranadive Facebooks.
+NEUT2|Another $800 million will come from Insight Partners and funds managed by billionaire Barry Sternlicht, Starwood Cap.
+NEUT3|Group Fidelity management.
+NEUT4|Centaurus Capital and BlackRock.
+BEAR5|We work attempted a public listing in 2019, withdrew its plans amid concerns from investors over the company's precarious finances, thanks to its breakneck pace of expansion and the resignation of its erratic founding CEO Adam Neumann, Neumann reached a legal settlement with SoftBank Wework's largest shareholder, last month after Newman suit SoftBank, for attempting to back out of a $3 billion deal to buy his shares and those of other employees.
+NEUT6|After the failed IPO.
+NEUT7|$9 billion, including debt.
+BEAR8|That's how much we work would be valued as a result of the SPAC deal, the company said it's a huge decline from he works 2019 valuation of $47 billion after a round of private investment from SoftBank Special Purpose acquisition companies or specs are shell companies designed to bring private companies public without the hassle of a traditional initial public offering?
+NEUT9|A spec is created by investors with the intention of purchasing and merging with a private company, which it then lists on a public exchange.
+BULL10|"Specs surged in popularity last year as they attracted a number of high profile investors, including former venture capitalists and Facebook executive Chamath Palihapitiya, who raised $4.3 billion / 37 months with six packs listed on the New York Stock Exchange, Forbes reported last November."""

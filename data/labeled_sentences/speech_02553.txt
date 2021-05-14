@@ -1,0 +1,13 @@
+NEUT0|"""To stay up to date with latest videos and trending news stories, make sure to subscribe the channel by clicking the button below this video."
+BEAR1|The Supreme Court on Monday ordered a dispute over former President Donald Trump's ability to block his critics on Twitter to be tossed out, bringing the battle over.
+BEAR2|Mr Trump's Twitter account to a close as he is no longer in office and has since been banned from the platform, the High Court vacated a decision from the second US Circuit Court of Appeals against the former president and sent the case back to the lower court with instructions to dismiss it as mood.
+BEAR3|The New York based Second Circuit found Mr Trump's decision to block 7 users from interacting with his twin.
+NEUT4|Account was unconstitutional as the space associated with the former president's account was a designated public forum.
+NEUT5|In an opinion concurring with the court's decision to throw out the case, Justice Clarence Thomas said.
+BEAR6|The dispute highlights the principle legal difficulty that surrounds digital platforms, namely that applying old doctrines to new digital platforms is rarely straightforward.
+NEUT7|As Twitter made clear, the right to cut off speech lies most powerfully in the hands of private digital platforms.
+NEUT8|Thomas wrote the extent to which that power matters.
+NEUT9|For purposes of the 1st Amendment in the extent to which that power could lawfully be modified, raise interesting, and import.
+BEAR10|Questions this petition unfortunately affords us no opportunity to confront them.
+NEUT11|The Justice Department, however, asked the Supreme Court in January to dismiss.
+BEAR12|"The case is moved, noting Mr. Trump was sued in his official capacity and would be leaving office."""

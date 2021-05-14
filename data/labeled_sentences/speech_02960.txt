@@ -1,0 +1,7 @@
+BULL0|"""Shares of the social media giant Facebook rose up to 10% after the company reported first quarter earnings that beat revenue expectations."
+BEAR1|Despite an initial slowdown in advertising sales during the coronavirus.
+NEUT2|The revenue mainly come from the advertising, which was $17.4 billion.
+BULL3|Facebook reported revenue of $17.7 billion, up nearly 18% from the last year.
+NEUT4|Which way to Wall Street expectations of $17.4 billion.
+BEAR5|The company disclosed earnings per share of 1.71 dollars, slightly lower than the expected one point $75.
+BULL6|"Facebook recorded 2.99 billion monthly users across its various apps, including its main app, Instagram, Facebook Messenger and WhatsApp, which was up from 2.89 million in the previous quarter."""

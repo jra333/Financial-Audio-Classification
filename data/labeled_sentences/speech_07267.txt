@@ -1,0 +1,19 @@
+BEAR0|"""President Trump plans to temporarily suspend immigration into the US to protect American jobs."
+BULL1|States are quickly burning through their funds to payout unemployment claims.
+NEUT2|Some were asking for help.
+BEAR3|International stocks drop after some US crude oil futures plunged below 0 for the first time.
+NEUT4|Hi, I'm Jason Bellini with the latest reporting on the coronavirus crisis from the Wall Street Journal, President Trump tweeted that because of the invisible enemy that is the coronavirus, he plans to sign an executive order to temporarily stop immigration to the US while providing few other details.
+NEUT5|He said the goal is to protect American jobs.
+NEUT6|Administration officials said the order wouldn't make substantial changes to current policy because nearly every form of immigration has been paused, including.
+BEAR7|Processing visas, the order is likely to face legal challenges.
+BULL8|New York has asked the federal government for a $4 billion loan with no interest to help ensure the state continues to pay unemployment benefits.
+BEAR9|States usually tap their unemployment trust fund balances to pay regular benefits, but nearly half of states have logged.
+BEAR10|Double digit percentage declines in their balance since the end of February before the pandemic shut down the economy and triggered a record 22 million people.
+BEAR11|Filing for unemployment.
+BEAR12|Massachusetts has used up about half of its available funds and California's balance dropped nearly 40%.
+NEUT13|It's $1.9 billion in mid April.
+NEUT14|No state has run out of money, but officials are already planning for the possibility.
+BEAR15|Global stocks dropped today after some oil prices fell below 0 for the first time on Monday, may oil contracts briefly dropped below minus $37 per barrel, meaning that some investors could be paid money to receive oil.
+BEAR16|Some storage facilities are overwhelmed as demand has fallen drastically with lockdowns in many countries.
+BEAR17|We report that Saudi Arabia and other OPEC members are now looking to possibly cut oil production sooner than the May date.
+BULL18|"They had agreed upon with the US and Russia."""

@@ -1,0 +1,19 @@
+NEUT0|"""I want to get back to dots go guys, because if the Fed leaves the dot plot the same is it hawkish?"
+NEUT1|Is a dovish?
+NEUT2|You guys have opposing views?
+NEUT3|Steven your call.
+NEUT4|Well I think the dots are likely to drift up.
+NEUT5|I don't know that the median dot for 2018 changes.
+NEUT6|I think my view is that the feds gonna end up moving four times next year, but I'm not sure that that's going to be reflected in the median dot just yet.
+NEUT7|So if they leave it as such though, you think that would be dovish to what you're looking at on the economic landscape.
+NEUT8|A you know a little bit.
+NEUT9|I think it you know it makes sense from the Fed standpoint to kind of hold their fire a little bit.
+BULL10|As we move through this transition to a new chair, but I certainly would expect to see a move upward in some of the individual dots versus September.
+NEUT11|If you look at some of the developments in the economy, strong growth, the unemployment rate dropping tax bill, probably passing, and even inflation seems to have bottomed out and maybe starting to creep higher.
+NEUT12|So you would think at the margin that the dots would be moving higher rather than lower.
+NEUT13|Tim, do we?
+NEUT14|What do you say?
+BULL15|You know, I agree that on the margin you would expect in that direction, but I don't expect the median dot to move higher just yet.
+NEUT16|I think that it's a little bit early in the.
+NEUT17|In the process.
+BULL18|"I think they little like a little bit more confidence on inflation, and I also think you have a problem with the issue of the terminal dots, is that if they start raising the near term dot safer 2018, they're going to be really moving up more quickly to to neutral than I think they're comfortable with."""

@@ -1,0 +1,49 @@
+NEUT0|"""So if the first biggest mistake people make is selling their winners, the second biggest mistake they make is not selling their losers."
+NEUT1|You should get rid of losing positions, and it's not just because they might keep going down, which they might know.
+NEUT2|The reason is because when you sell a loser, you get the IRS to share your pain.
+NEUT3|You get to write it off.
+NEUT4|You take a capital loss.
+NEUT5|You buy something for 100 bucks, it goes to 60 bucks.
+BEAR6|You got a $40 capital loss and it's nice to have capital losses.
+NEUT7|Well, to report on your tax return, you don't want to have stocks that go down, but they do sometimes go down and when they do.
+NEUT8|You want the IRS to share your pain, So what do you do with a capital loss?
+NEUT9|Let's make it a little bigger than $40.
+NEUT10|Let's be realistic.
+BEAR11|You lost a couple $1000.
+NEUT12|One of the things you can do with a capital loss is to use it to absorb other income.
+NEUT13|You can write off your capital losses at a rate of $3000 a year against things like your salary.
+NEUT14|Now again, I'm not trying to lose money.
+NEUT15|I'm trying to make money, but when I do have a stinker, I do want to be able to sell it, take the capital loss, have the IRS share the pain.
+NEUT16|And a $3000 deduction against my salary depending on what state I'm living in is easily going to be worth $1000.
+NEUT17|What do you do with loss is bigger than $3000?
+NEUT18|There's something else you can do.
+BEAR19|You can have a capital loss carryforward.
+BEAR20|Let's suppose you lose $10,000 on the Apple stock.
+BEAR21|That instead of going up, went down $10,000.
+NEUT22|You take 3000 off this year.
+NEUT23|7000 gets carried forward.
+NEUT24|You can use that next year.
+NEUT25|You can use another 3000 the year after that.
+NEUT26|Suddenly your $10,000 of pain isn't so painful because you're getting the tax collector to share it with you.
+NEUT27|You might have some gains somewhere that you can't avoid taking.
+NEUT28|For example, you decide to move, you use up your house exemption and you still got a capital gain left.
+NEUT29|You might have 50,000.
+NEUT30|You might have 100,000.
+NEUT31|You want to shelter.
+BEAR32|Having a capital loss carryforward is not a bad idea.
+NEUT33|It will absorb some of that game.
+NEUT34|It could save you a lot of money you don't want to be buying high and selling low.
+NEUT35|That's the way to get poor.
+NEUT36|You don't want to be whipsawed.
+NEUT37|You don't want to buy Apple at 600.
+NEUT38|Sell it at 400 to get your $200 deduction, and then watch it go right back up to 600.
+NEUT39|So what do you do about that?
+NEUT40|What you should do is reinvest when you're selling.
+NEUT41|After a bear market in other stocks, not exactly the same ones, but similar stocks and help those come back up that way.
+NEUT42|If the market goes down and then rebounds, you're back where you started, except for one little thing you're telling the IRS.
+BEAR43|You poor you telling the IRS you lossed $200.
+NEUT44|In fact, you may be breaking even, or you could even be making a mint whi, 'cause you're not selling your winners.
+NEUT45|You're just selling your losers.
+NEUT46|You're reinvesting, you're avoiding buy high and sell low.
+NEUT47|But you're claiming tax deductions.
+NEUT48|"I like tax deductions."""

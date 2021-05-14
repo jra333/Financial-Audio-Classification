@@ -1,0 +1,15 @@
+NEUT0|"""Hello and welcome to today's technical analysis for January 19th, 2015."
+NEUT1|I'm Celina, Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at Euro JPY on the daily chart.
+BEAR3|Euro JPY continues to extend lower and it remains bearish below the daily Jamalca cloud.
+BEAR4|The market continues to move below the 200 day moving average, while the tank and Sennenki Johnson lines are both negatively aligned and pointing downwards.
+BEAR5|All of these factors are reinforcing the underlying bearish momentum.
+BEAR6|There is scope for further losses to 134.
+NEUT7|Thirteen now, this is the October 2014 low reaching this point would mean that the market would trace retrace the entire move that was made from this low of one 3413.
+NEUT8|Two one 4976.
+BEAR9|To the upside, currently the 140.00 level is a strong resistance level, but a daily close above one 3747.
+NEUT10|This is a 78.6% fibo Nachi retracement level of that uh plug.
+BEAR11|This would delay it further slide.
+BEAR12|However, the daily or recite is still in oversold levels and that's below 30 and this would suggest some pause in the downside momentum.
+NEUT13|But overall the outlook for this.
+BULL14|"There is bearish thank you for watching and have a great day."""

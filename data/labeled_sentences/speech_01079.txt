@@ -1,0 +1,30 @@
+NEUT0|"""We're in the trading floor of vanguards."
+NEUT1|Fixed income desk.
+NEUT2|Can you describe the process of what our traders go through throughout the day to make moves for our clients?
+NEUT3|Sure, so traders are going to be given orders from portfolio managers.
+NEUT4|They're going to take those orders and the first thing we're going to do is look at the liquidity in those markets to see how they should go about implementing the strategies.
+NEUT5|They have many different tools that their exposure that they can use to execute.
+NEUT6|And they need to go about and find the most appropriate and best way to implement those strategies without having a tremendous amount of impact or having a ton of cost to our shareholders.
+NEUT7|So is there a lot of movement they monitoring different funds?
+NEUT8|And what does that look like?
+NEUT9|There's a tremendous amount of movement throughout the day, and all of the different markets typically were segregated in different areas of expertise, so you're going to have an FX trading desk handling all the FX orders.
+NEUT10|You'll have a fixed income desk handling the bond executions, and then you'll have another desk handling all the derivatives executions, and that way those traders can specialize in the different asset classes.
+NEUT11|'cause ultimately they want to be able to execute in a way that limits the amount of impact and limit the amount of costs that it takes to trade.
+NEUT12|So how many funds might want trader be monitoring throughout the day?
+NEUT13|It depends on this different by desk.
+NEUT14|We like to set up our traders with the portfolio manager, so in that situation it might be a very custom desk where it's just emerging market bonds in other functions like FX, those currency traders are handling all of the currency needs for the entire organization.
+NEUT15|So coming from equities, fixed income even from our international sites and that way those traders are just specializing.
+NEUT16|On that specific asset class.
+NEUT17|When many people think about Vanguard, they think about indexing.
+NEUT18|So can you talk a little bit about our active trading strategy?
+NEUT19|Sure, as one of the largest active portfolio manager in the world, a tremendous amount of the trading that is done here is for the active portfolios very similar to trading for index portfolios with the main differences.
+BEAR20|Portfolio managers are trying to outperform the benchmarks.
+NEUT21|Therefore traders tend to be more aggressive and the urgency is much higher when trying to get active orders done.
+NEUT22|Ultimately, cost still matter and the lower amount of cost that we could have went raiding.
+BULL23|The better it is for our shareholders at the end of the day, there's a tremendous amount of collaboration throughout the different desk.
+NEUT24|A lot of what happens in the fixed income market affects the currency market affects the equity market, so there has to be a lot of interactions between the traders and also with our screens, we get a tremendous amount of information delivered to us daily, and we gotta decipher what that information means and how it's going to impact.
+NEUT25|The securities that were trading.
+NEUT26|So how does the work that our traders are doing throughout the day impact our investors goals?
+NEUT27|So ultimately, costs matter in returns of portfolios.
+NEUT28|All the traders here, including the traders around the globe, have our shareholders best interests at heart.
+NEUT29|"We want to keep the trading costs at a minimum to give our investors the best chance of success."""

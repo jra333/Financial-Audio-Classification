@@ -1,0 +1,11 @@
+NEUT0|"""Hello so to search any stock on this Telegram bot we need to enter the stock symbol as per NSE."
+NEUT1|So if we just want to search in this town Unilever and as usual if we put a QL.
+NEUT2|Will get a message like this that the stock symbol is not as parenthese and will have to re enter the stock symbol to fetch data.
+NEUT3|So to search the stock symbol for Hindustani liver.
+NEUT4|What you have to do is just go to Google.
+NEUT5|And search for actual share.
+NEUT6|And then you'll see something like NSE and over.
+NEUT7|Here you'll find the stock symbol, so just copy this.
+NEUT8|And then go to our Telegram bot and just paste the stock symbol over here.
+NEUT9|And then you will be able to fetch data for that particular stock.
+NEUT10|"So just follow this process if you don't know the stock symbol for any script which is listed on NSE."""

@@ -1,0 +1,32 @@
+BEAR0|"""What's going on guys?"
+NEUT1|Welcome back to investing matters.
+NEUT2|Today I'm going to be giving you guys 10 great dividend stocks to add to your portfolio and I'm not going to be going into too much detail on the actual stocks so you guys can just get the info you need and get on with your day.
+NEUT3|So let's get right into it.
+NEUT4|It's a number we got U.S. bank where they get a dividend yield of 4.23.
+NEUT5|We get Cisco dividend yield 3.08.
+BULL6|Yeah, Vanguard Dividend appreciation ETF.
+NEUT7|They've got a dividend yield of 1.78.
+NEUT8|Now this is.
+BULL9|I know it's more expensive one, but they have much more consistent returns than most dividend stocks.
+BULL10|OK, we got another global X super dividend USATF.
+NEUT11|This is a little bit cheaper, more volatile, but it does have an 11.09 dividend yield which is pretty high, but it's a little bit risky just because it's more volatile.
+NEUT12|Yeah, we got Procter and gamble.
+NEUT13|You've definitely used their products.
+NEUT14|$119 but the dividend yield of 2.57 this is going to be a pretty guaranteed dividend.
+BULL15|They're pretty consistent company.
+NEUT16|I would get JPMorgan Chase with the dividend yield of 3.52.
+NEUT17|How we get Exit Essex Property Trust this is another more expensive one, but again they are more consistent.
+BEAR18|With a lower dividend yield 3.26.
+NEUT19|That we get.
+NEUT20|Wells Fargo.
+BULL21|This is a pretty good one.
+NEUT22|Dividend yield is 7.43.
+BULL23|AT&T, this is another pretty consistent one.
+BULL24|It's a lot higher dividend yield 6.8.
+NEUT25|And then last up we get Coca Cola.
+NEUT26|This is another pretty guaranteed one.
+NEUT27|All the food ones usually are pretty guaranteed.
+NEUT28|It's got a dividend yield of 3.46.
+BEAR29|Hi guys, I know we ran through those pretty quickly.
+NEUT30|I just wanted to give you guys a no nonsense video on some good dividend stocks.
+NEUT31|"If you did enjoy the video, I'd really appreciate if you smash the like button an maybe join Robin Hood using the link in the description, thanks."""

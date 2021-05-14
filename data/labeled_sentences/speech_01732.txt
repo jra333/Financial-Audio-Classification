@@ -1,0 +1,30 @@
+NEUT0|"""Hello everybody, welcome to World TV on demand.com."
+NEUT1|This is Harold with World TV on demand.com.
+NEUT2|Check out my website.
+NEUT3|Hey Warren Buffett just bought back a billion dollars in buybacks of his own stock.
+NEUT4|Because everything keeps getting sold off.
+NEUT5|So I'm not telling you to buy, sell, or trade any stock, but you need to be talking to your stock broker.
+BEAR6|'cause today the stock market is down again right now is down 321 while making this video.
+BEAR7|But it was down.
+NEUT8|Four 500 points earlier today.
+NEUT9|And that means.
+NEUT10|From the last couple of weeks.
+BEAR11|The Dow Jones has lost like 2000 points, it might have gained and went up and down just a little bit, but as you can see from the chart, it's almost 26,000 and now we're 24,000 and it's been lower than what it is right now.
+NEUT12|So all these buybacks is not helping the stock market, and you need to be paying attention.
+NEUT13|I don't know if this is true or not, but look at the stock market for Netflix.
+NEUT14|I mean, they've been buying back 175,000,000 a 108, million, 149 million buyback, 57 million, fifty one million.
+NEUT15|I mean, they've been hundreds of millions of dollars by back in their own stock to prop up their stock.
+NEUT16|And people keep selling it and they keep buying it back.
+NEUT17|So I mean you gotta be careful with all this going on.
+NEUT18|This is a fake market.
+NEUT19|And Warren Buffett is right up there with the top dogs.
+NEUT20|If he's not the top dog, I don't know who he is.
+NEUT21|But when your stock goes down in the Dow Jones goes down, and a billionaire like Warren Buffett buys a billion dollars buyback of billion dollars.
+BEAR22|People you gotta be paying attention because something's wrong with the stock market.
+NEUT23|It cannot stay where it's at.
+BULL24|So this is Harold with World TV on demand.com bringing a great video.
+NEUT25|Make sure you call your broker check on your stock.
+NEUT26|Make sure that you have a stop on your stock so you don't lose it all.
+NEUT27|So give me a thumbs up.
+NEUT28|Subscribe to the video and I have another one for you soon.
+BULL29|"You guys have a great day."""

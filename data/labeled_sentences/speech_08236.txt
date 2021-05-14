@@ -1,0 +1,14 @@
+NEUT0|"""Fund managers used to be measured solely by their returns, but in 1952 an economist called Harry Markowitz published a groundbreaking paper that said risk should be taken into account when judgments on performance are reached."
+BULL1|Markowitz used volatility as a proxy for risk, and so with stocks more volatile and bonds equity, investors should expect better returns.
+NEUT2|That theory underpins modern investing.
+NEUT3|In 1990, Markowitz, one and Nobel Prize academics have been building a way to measure volatility by tracking options, which are part of the derivatives market and allow investors to buy or sell an asset at a defined time and price.
+NEUT4|Their efforts led to the VIX Volatility Index created for the Chicago Board Options Exchange in 1993.
+NEUT5|VIX aims to measure the expected volatility of the US stock market over the next 30 days as implied by options prices.
+BEAR6|If investors expect fluctuations to average 1% today for the next month, the VIX level is about 20.
+NEUT7|Roughly, its long run average.
+NEUT8|The VIX is also called the fear gauge because it's used as a proxy of what traders believe is going to happen in markets.
+BEAR9|If it reads over 20, the VIX implies that they worry about bigger than normal swings.
+NEUT10|The VIX is just a number.
+NEUT11|Investors cannot trade the VIX itself, but since 2004 they can trade derivatives contracts based on the index.
+BULL12|Since 2009, they've been exchange traded funds based on these derivatives available to retail investors, and that left more investors badly exposed to February's bouts of volatility, as well as providing a reminder of one of the most important investment sayings.
+NEUT13|"Buyer beware."""

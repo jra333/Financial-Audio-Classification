@@ -1,0 +1,24 @@
+NEUT0|"""Neo stock analysis and predictions, September 7th."
+BEAR1|In today's NEO stock analysis and predictions, NEO stock soars after 60 minutes.
+NEUT2|Alright, let's get started or recent 60 minutes.
+NEUT3|Neo News report has the electric car company stock on the rise today, the 60 Minutes report focuses on how the car company is working to become more of a lifestyle brand in China.
+NEUT4|This includes offering several different perks to owners of its electric vehicles.
+NEUT5|The Neo News report mentions that owners of the company's electric cars gained the benefit of access to a special club.
+NEUT6|These locations are called Neo Houses and are located in various large cities in China.
+NEUT7|The Neo houses are only open to owners of NEO vehicles.
+NEUT8|They also offer special classes such as espresso making and flower arrangement.
+NEUT9|There are also car showrooms as well as rooms set aside for business meetings.
+NEUT10|The goal of creating these special neo houses as to offer upper middle class Chinese customers a lifestyle change.
+NEUT11|It will also acts as a status symbol for owners of the vehicles and creates a special community of NEO owners.
+BULL12|The Neo News report notes that this is appealing to customers that are looking for just such a change.
+NEUT13|According to the 60 minutes Neo News report.
+NEUT14|There are also other benefits for Chinese car owners to pick the companies cars.
+NEUT15|This includes rebates and the waiving of license fees from the Chinese government.
+NEUT16|There is also a special social app for Neo owners that include other benefits.
+NEUT17|Among these is the ability to signal for a charge if the vehicle's battery is dead.
+NEUT18|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT19|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NEO stocks and predictions.
+NEUT20|If you enjoyed this edition of NEO stock analysis and predictions, please hit the like or share button.
+BULL21|We'd really appreciate it.
+NEUT22|Are you still watching and want more?
+NEUT23|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

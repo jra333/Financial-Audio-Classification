@@ -1,0 +1,17 @@
+BEAR0|"""So in Canada, still unemployment rate of 10.2%."
+BULL1|David, we did see the hourly wage go up by 6% in the last report which came out the same day as the US Jobs reports.
+NEUT2|Should the Bank of Canada do more?
+NEUT3|It's willing to tweak.
+NEUT4|Quantitative easing, but in actual fact it seems like what it meant was pare that back when it can.
+NEUT5|Well, there's no reason for the bank to really do anything right now, and I thought it was actually very well written press statement.
+BULL6|They made it very clear if anything that this reopening phase in the economy and the stimulus that's been provided both monetary and fiscal, is actually produced a better economic rebound than they had anticipated.
+NEUT7|But it's really the forward guidance that's important.
+BEAR8|I mean they paid homage to the fact that the reopening phase is strong and that you know things are encouraging, but that's the rearview mirror they describe the really the outlook is being one of protracted, an uneven recuperacion.
+NEUT9|Those are their words, the use of word recuperation twice and recuperacion means that you know you're, you know you might be out of the.
+BEAR10|Surgery room, but you're still in Sickbay an they say right out that they expect the outlook to be slow and choppy and then inflation is going to rain below target.
+NEUT11|So they stand on guard to do more.
+NEUT12|There's no reason for me to do more right now.
+BULL13|I mean, I know that we talk right now a lot about monetary policy, but the fiscal stimulus in Canada as a share of GDP has been about double what it's been in the rest of the world.
+NEUT14|So that's one of the key reasons why the bank doesn't have to do anything right now.
+BULL15|The fiscal stimulus has been absolutely overwhelming, to the point where people are actually making more money now, an aggregate.
+NEUT16|"But then they were before the pandemic and the lockdowns."""

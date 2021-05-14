@@ -1,0 +1,40 @@
+BULL0|"""Hi Larry, gains power cycle trading."
+NEUT1|In this video I'm going to show you a really great way to trade markets intraday so you know we have a lot of market uncertainty Trump's tweeting.
+NEUT2|This Trump's tweeting that trade war stuff like that.
+NEUT3|A lot of times you get a little bit hesitant about taking trades overnight.
+NEUT4|You know, swing, trading etc.
+BULL5|But it still leaves you a lot of great opportunities with the volatility that we have in the market.
+NEUT6|For some intraday trades, especially on the on the particular stocks that are really moving.
+NEUT7|So what you want to do is find those stocks that are moving that have liquid ITI and then jump on him for the ride.
+NEUT8|For an intraday trade.
+NEUT9|So here's an example.
+BULL10|Of Amazon UCSB spin on a huge massive move up, it's got earnings coming tomorrow so you know, typically that you know it tends to trade into higher into earnings.
+NEUT11|And So what you want to do is look like focus in today on something like an Amazon.
+NEUT12|It could be in anything, Amazon, Netflix, Google, etc.
+NEUT13|But find one of these that has big potential intraday moves and then look and focus on it for an intraday setup.
+NEUT14|So let's take a look at Amazon.
+NEUT15|So one great way to look to trade these using an opening range.
+NEUT16|OK so this is an opening range indicator that.
+NEUT17|Velop an what we look for is an opening range high and loaded to trade up on and then this is what we call volatility squeeze.
+NEUT18|So you see here, this is a two minute time frame right here and a 5 minute time frame, so we're having multiple squeezes.
+NEUT19|We have a 5 minute squeeze and then a two minute squeeze so this is what I call a potential for Max break out when you have a volatility squeeze inside of an opening range and when you break that opening range high you can get some pretty explosive potential moves up.
+NEUT20|So here we had that really nice move out of the five minute squeeze right here that came about 10:30 Central.
+NEUT21|And you can see it went from 1836 to the prior day's high right here at 1840.
+NEUT22|Then it consolidated again.
+NEUT23|And here was another trade setup right here to break out on the two minute time frame for a move higher off of that volatility squeeze from the two minute.
+BULL24|So we had a number of opportunities here to get in.
+NEUT25|You could have gotten in right here at 1836, or you could have gotten in here when it triggered back above the prior day's high, and then it traded all the way up to you can see all the way up here to as high as 1852 so.
+NEUT26|A great way to do this then, is also by using options.
+NEUT27|So here would be the option trade setup that you could have done here on that break of 1840 on Amazon.
+NEUT28|So what you can do is you by the, you know the strike, the 1840 strikes.
+NEUT29|So here's the 1840 Strike Amazon for this week's Expiration 27 July.
+NEUT30|So you could have could have picked that up here as it was breaking out for 4345 per option contract.
+NEUT31|So and then you can see now with the trading up here at 1848 that contracts up, it's at 48.
+BULL32|45 So it's up $460.00 on that one contract.
+NEUT33|OK, so the other cool thing though.
+NEUT34|You can do then to neutralize your risk.
+NEUT35|If you wanted, you could actually convert this then to a call debit spread and you could sell like the 1850 strikes.
+NEUT36|So $10 wide you can see it's going at 4260.
+NEUT37|You could sell that right now.
+BULL38|And that would reduce your risk down to $85 and you can hold on to this trade as they call debit spread into tomorrow's expiration and potentially even make more money.
+NEUT39|"So a lot of different ways that you can trade in today, but I wanted to share this idea with you."""

@@ -1,0 +1,29 @@
+NEUT0|"""Steve, what's your view on the markets going forward?"
+NEUT1|I mean nobody knows exactly which way this is going to go, but you know, obviously I know you're still a huge Holder in Microsoft.
+BEAR2|Microsoft has managed to stay above that $1 trillion market cap, but even Microsoft hasn't been immune to these huge ANAN and volatile swings.
+NEUT3|What do you see in the bigger macroeconomic picture?
+NEUT4|An for big tech?
+NEUT5|Again, not not necessarily prognosticator, but at the same time I think it's fair to assume the markets will stay volatile.
+NEUT6|I think the markets will stay depressed if you will for some time.
+NEUT7|I think tech specifically from a PNL perspective, depending on where you are intact, is likely to get hit less if you will.
+NEUT8|Certainly software services, Microsoft Office Azure.
+NEUT9|For the ones I love.
+BULL10|Amazon's AWS Zoom will continue to get used, maybe even at a higher rate.
+NEUT11|During this time.
+NEUT12|This time of crisis.
+BULL13|One thing I've been watching Zoom is a competitor of Microsoft Teams, and I notice zoom stock is almost been countercyclical during this time, and certainly is one of the few stocks that's moved up as we see more and more people work from home.
+NEUT14|So look, the president is speaking very optimistically about reopening the economy, reopening the economy potentially by Easter.
+NEUT15|You've got health experts who are saying that's just far too soon.
+NEUT16|Who's right?
+NEUT17|Well, in general I believe in something that scientists, if you will, but I do think there's a good point here.
+NEUT18|There's really a three step cadence that we need to see.
+NEUT19|Number one we have to do the things with urgency that the scientists tell us to do to hit the flattening of these curves.
+NEUT20|Number two, we really do have to take care of people economically.
+BEAR21|Right now the economic hardship is too punishing and then number three.
+NEUT22|We can't forget.
+BULL23|We do need to restart the economy.
+NEUT24|It's getting the cadence of those things right.
+NEUT25|That's so important, and I think it the gate if you will needs to be with the scientists, tell us on the front end.
+NEUT26|We're giving people the money.
+BULL27|Thank goodness the Democrats and Republicans have been able to agree on that, but we've got to be ready, ready.
+NEUT28|"Not Russia, be ready for that third step, which is to reignite the economy."""

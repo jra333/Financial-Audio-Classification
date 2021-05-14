@@ -1,0 +1,15 @@
+BULL0|"""Finding a coherent explanation for Monday's market rebound is about as rewarding as trying to decipher the logic."
+NEUT1|In Connie West Twitter feed right now.
+BULL2|Just as the US rapper sees no reason to explain why he is this generations, Walt Disney prices in global markets are bouncing around with very little provocation on Monday, investors ignored news that Japan's economy is shrinking and poured their money into equities, sending the nikai index up 7.2%.
+BEAR3|U.S. markets were closed for a public holiday, but there was similar exuberance on show elsewhere.
+BULL4|China's currency had one of its biggest one day rallies and Europe's Stoxx 50 index rose 3.5% after the horror show of early February.
+BULL5|This makes for a strong start to the week, but it's hard to see why.
+BEAR6|The only explanation on off from banking analysts is that perhaps the sell off last week went just too far.
+BEAR7|If that is the case, then the turn around may be a short lived as January's investors still did not believe that the European Central Bank can hit its inflation target of less than 2% in the next decade, regardless of central bank intervention.
+NEUT8|That's troubling enough, but at least it's transparent.
+NEUT9|What is more difficult to predict is the effect that global sovereign wealth funds are having.
+BEAR10|Oil exporting countries are being blamed for turbulent trading because their wealth funds are selling down Holdings.
+NEUT11|But because few wealth funds report Holdings, it's hard to be precise.
+NEUT12|JP Morgan estimates that the fund sold $160 billion worth of assets last year.
+BULL13|If oil prices average at $35 per barrel, he estimates they will sell double that in 2016 and on Monday.
+BULL14|"Prices for Brent still had not managed to breakthrough $34 per barrel."""

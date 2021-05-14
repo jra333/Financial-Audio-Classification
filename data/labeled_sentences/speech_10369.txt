@@ -1,0 +1,45 @@
+BULL0|"""Intel looks to open around 48 and a half, threatening to get close gym too."
+NEUT1|It's summer time, low, set back in late July as via video.
+BEAR2|As we said earlier, goes to an underperform with the target of 45 data center.
+BULL3|Again, yeah, now I know you have Bob Swan on later, which will be very good because frankly I think he got a pass on the conference call in part because he's regarded as being a total gentleman.
+NEUT4|Which he is but the missing the data center when you read all the analyst comments.
+NEUT5|There being very kind.
+NEUT6|The real issue here was competition.
+BULL7|It was AMD with the better mousetrap.
+NEUT8|It's NVIDIA coming into the data center and as much as Bob Swan would like to say, you know what, it's the.
+NEUT9|The margin compression is something you need to worry about.
+BEAR10|I think they have to worry greatly because I think they've underspent on product and overspent on buying back stock.
+NEUT11|Their capital allocation is not that good.
+BEAR12|This was a very bad quarter and there were there were reasons to to expect that it would be a great one, David sometimes.
+NEUT13|You get a quarter and the analysts aren't expecting much and they just don't get even what they're expecting.
+NEUT14|Yeah, I think it's a gym.
+NEUT15|There had been some expectation 'cause remember it was last quarter when they came up with these with this manufacturing issue on the was at the seven nanometer next Gen, they couldn't do the seven and a half to 7.
+NEUT16|They didn't give anybody anything on whether they're fixing that.
+NEUT17|Did they know?
+NEUT18|And the analysts did not rebel if they started.
+NEUT19|Initially, it started saying you listen, you haven't explained the gross margin gross margin, but again.
+NEUT20|Mr. Swan, because he is an eloquent, good man, and you'll find this car when you interview him.
+NEUT21|He was not held to a standard that I would have expected.
+NEUT22|Very little mention of his Mobileye initiative automobile.
+NEUT23|He does not have inference chips.
+NEUT24|You know the inference chip is really rather amazing that one of the reasons I like Jensen and what he's done.
+NEUT25|The remarkable job he's done invidious when you get into a Mercedes and David.
+NEUT26|You listen this 'cause you're not going to do this, but if you go to Mercedes and you say, oh man, is it hot in here the air conditioning goes on, that's inference.
+BEAR27|Wow, Intel does not have inferential chips, no, but there's an A lack of clarity.
+NEUT28|I'm reading a bit of a note here.
+BEAR29|They did downgrade the stock this morning.
+NEUT30|They were the principle downgrader yeah, but they say there's no clarity on when it decisions can be made in terms of their exploring options to use.
+NEUT31|You know other companies to make these seven anytime wants me very badly right?
+NEUT32|Or go completely fabulous, or for how long.
+NEUT33|It's also not clear if any foundry has either the spare capacity to make Intel's multiple.
+NEUT34|Transistors with the desire to help a competitor only for a small time frame, so there's no shortage of issues here in there, no.
+NEUT35|And remember, Intel was the primary creator of the great foundries, right?
+NEUT36|The fabs, I mean, I went to, I've been I was when I was in Intellij Hawk.
+NEUT37|I went to a fabulous fab in Israel that had no people because it was the Sabbath.
+NEUT38|And then I went to a beautiful one in Ireland and it was then a carbon copy of others.
+NEUT39|Carl, I always regarded Intel at one point.
+NEUT40|As the greatest manufacture we had in this country, now people are saying they should outsource it.
+NEUT41|I, I wonder Jim, at what point did you stop being an Intel aholic?
+NEUT42|It's been when they stopped when they stopped having engineers and scientists run the company and went with salespeople and financially.
+NEUT43|Shepard Smith here.
+NEUT44|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,20 @@
+NEUT0|"""Neo stock analysis and predictions, February 26th."
+NEUT1|In today's NEO stock analysis and predictions, most important thing to watch for in Nio's earnings report.
+NEUT2|All right, let's get started.
+BEAR3|There are a number of factors that have been affecting the stock market as of late, from GameStop to high yields to Biden stimulus plant.
+BEAR4|There has been a big market sell off this week as we turn the chapter from this very volatile.
+BULL5|We look forward to earnings reports from multiple companies, but especially Anio.
+NEUT6|Anio is expecting a big earnings report on Monday afternoon.
+BULL7|Anio has delivered a record number of units for the past six months, and analysts do not expect the trend to stop anytime soon.
+NEUT8|An iOS unit sales for the quarter were undisclosed when the company reported fourth quarter deliveries.
+NEUT9|Meanwhile, the most important aspect of the report for NIO stock is specific to the company's gross margin.
+BULL10|Investors will be laser focused on gross margin, which turned positive in the second quarter.
+BULL11|An improved nicely in Q3.
+BULL12|Given that NIO stock is still valued at 30 times revenue, the company will show further progress in Q4.
+BULL13|Above expectations margin could be the kind of performance needed to stem the selling.
+NEUT14|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT15|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT16|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL17|We'd really appreciate it.
+NEUT18|Are you still watching and want more?
+NEUT19|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

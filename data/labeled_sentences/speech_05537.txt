@@ -1,0 +1,14 @@
+BEAR0|"""A speculation runs rampant on Wall Street and High Beta assets."
+BULL1|Feast on daily gains a one point 30% return may seem like leftovers, but keep in mind PepsiCo pays a 4.09 dollar annual dividend, a 2.89% yield as of yesterday's close, and its valuation is backed by strong fundamentals in the most recent quarter.
+BULL2|Q3 PepsiCo came out with a four point 2% organic.
+BULL3|Revenue growth that offset a zero point 3% decline in Q2 due to COVID-19.
+BEAR4|Moreover, North American beverage sales outperformed flipping from a 7% decline in Q2 to 6% growth in Q3.
+BULL5|Pepsico's diversification strategy was a huge advantage over competitors with Frito Lay and Quaker products accounting for more than 50% of Pepsico's revenue and more than 65% of its earnings breakfast and snack sales helped ease the Corona virus induced beverage slump.
+BULL6|PepsiCo has a five year beta of 0.57 and if volatility strikes, the company's non cyclical nature should provide more cover on the downside.
+BULL7|Furthermore, the stock has risen by more than 36% since the March lows, providing a solid return with much less fundamental risk.
+NEUT8|The company stock closed at 141.43 dollars on the 12th of January 2021.
+BULL9|Over the last 12 months it is risen by 4%.
+NEUT10|Morningstar rates its fair value estimate for the company at $140.00 and considers the stock fairly valued.
+NEUT11|Consider buying at 112 and selling at $175.
+NEUT12|FactSet Records a 12 month target price between 135 and $169, according to FactSet.
+NEUT13|"9 analysts have a buy rating two or overweight, and 10 have a hold rating."""

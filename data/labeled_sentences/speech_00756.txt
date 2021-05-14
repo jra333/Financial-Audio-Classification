@@ -1,0 +1,18 @@
+NEUT0|"""It's not a major position for us, but in our view the companies likely to go bankrupt can't tell you exactly when, but that's pretty much the arbara thesis on it."
+NEUT1|So when you see that they've lowered the price of what is likely to be their their most volumus vehicle in the future to 35,000, is that something that concerns you?
+NEUT2|Given that it might use that more cash building it than than it makes profit wise, given that the cutting price.
+NEUT3|I mean, it doesn't seem that there's a way for them to be profitable on selling the car at 35,000.
+NEUT4|And there are also signs that demand is really not there anymore for the higher priced Model 3's Model S Model X is and kind of doubt that even for this stripped down version of the Model 3 it's there, so I think, but at least look the from my perspective, one of the good things about last night's announcement was the company.
+BEAR5|Probably only had a Rake FD violation there instead of the usual kind of 10 B 5 lying about something issue.
+NEUT6|Phil jump in Carson, Iowa.
+NEUT7|Quick question for you.
+BEAR8|You do not believe that there is enough demand there that demand is slowing up.
+NEUT9|What is that based on?
+BEAR10|Is that just based on a gut feeling based on the fact that they are now lowering the price on this vehicle as well as the Model S and the Model X?
+NEUT11|Or do you have other data?
+BEAR12|Anything that you can point to and say look there is no doubt that they are slowing down in terms of demand.
+BEAR13|So lowering the prices, especially to points where it seems like they're losing money on some of the cars, I'd say is a giveaway.
+NEUT14|Also, it's the delivery times.
+NEUT15|If you go on the website, the anticipated delivery times for the cars now are pretty short, so seems like they're probably not building new cars to satisfy that demand, but rather pulling cars out of existing inventory stockpiles, and those stockpiles are pretty well chronicled on the Internet.
+NEUT16|With lots of photos of parking lots brimming with Teslas, so that's why we.
+BEAR17|"We also think that there's there's a demand issue here."""

@@ -1,0 +1,7 @@
+BEAR0|"""PepsiCo announced today that net income in the first quarter was flat versus a year ago as the company was able to raise prices to make up for rising ingredient costs."
+BULL1|The company earned 1.13 billion, or $0.71 per share versus 1.14 billion, or $0.71 per share, in the same period last year, excluding one time items, the company earned $0.69 per share, beating expectations of $0.66 per share.
+BULL2|Revenue grew by 4% to 12.43 billion, mostly due to price increases.
+BEAR3|She has a lower by .36% in early trading rival Coca Cola today announced that it is seeking its first stock split in 16 years.
+BULL4|The proposed 2 for one split is in line with the plan by the company to double revenue during the decade.
+BULL5|The split would increase the number of shares to 11.2 billion from 5.6 billion shares are about even in early trading.
+NEUT6|"This is leoma saferpassfail.com taking you behind the ticker."""

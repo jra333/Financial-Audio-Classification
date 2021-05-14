@@ -1,0 +1,19 @@
+NEUT0|"""Today, television and Internet seem to be our main sources for information and learning."
+NEUT1|As you are well aware, that was not always the case and at one time the newspaper was the center hub for information on a community state, an international level.
+NEUT2|Today's event revolves around one of those influential papers, but unlike other sources, this one is still very prevalent in modern day society.
+NEUT3|Stick around and I'll tell you all about it.
+NEUT4|If there's one thing that America is known for, it is our aggressive nature towards business development and commercialism.
+NEUT5|This is definitely a worldwide trend, however, as millions of people consume products for multi billion dollar companies every single day is our Apple iPhone episode that was posted a few days ago, ringing a Bell?
+BULL6|Yet due to our immense love for products and goods, the world stock market is a booming fiasco full of stock traders and buyers looking to make a little money off of businesses growth.
+NEUT7|And decline in order to take full advantage of said stocks, you need a resource to tip you off on business and financial news, right?
+NEUT8|That's where July 8th of 1889 comes in.
+NEUT9|On this day, the Wall Street Journal was first published by Dow Jones and Co.
+NEUT10|The original Journal contains stock and bond information for the New York Stock Exchange, but the current Journal covers United States and international business news.
+NEUT11|Believe it or not, the worldwide daily circulation for this paper is roughly 2.4 million copies.
+BULL12|Her date that's more than USA TODAY is 1.7 million copies per day, which is still a very impressive figure.
+NEUT13|Another fun fact for you is that this paper has never once ceased production since its inception, and it has received the Pulitzer Prize 35 times over its lifespan.
+NEUT14|Thanks for stopping by for today's episode.
+NEUT15|Be sure to share it with your friends on Facebook, Twitter, Google plus, Instagram Vine.
+NEUT16|You get the idea, and you can also use the links below to visit our social media sites.
+NEUT17|If you want to stay in the history loop, be sure to click the subscribe button to your right.
+NEUT18|"And be sure to come back tomorrow to see what Jeremy is up to."""

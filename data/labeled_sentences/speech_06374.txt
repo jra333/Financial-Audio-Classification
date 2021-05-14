@@ -1,0 +1,25 @@
+NEUT0|"""Shares of Mattel which owns Barbie Matchbox Hot Wheels, American Girl Ann Fisher."
+BULL1|Price are looking pretty battered but they might be a good deal for your portfolio if you're a value minded investor who appreciates a rich dividend.
+BEAR2|The El Segundo Company might have investors feeling like they left their wallet there over the past three years.
+BEAR3|Shares are down 15% while rival Hasbro is up about 100% just since the beginning of the year.
+BEAR4|Shares of Mattel, or down 5% Hasbro is up more than 25%.
+BEAR5|The reason for the trouble with Mattel declining sales over the past four years.
+BEAR6|One big loss was the frozen franchise from Disney.
+BEAR7|They lost it to Hasbro and lately the loss of the Disney Cinderella.
+BEAR8|Another Princess dolls sales of Barbie decline for the past four years.
+BULL9|But in the past year they did turn higher so analysts expect revenue for 2017 at Mattel to rise 6.14% to $5.8 billion.
+BULL10|Earnings per share should be up.
+BULL11|38% to $1.46 per share.
+BEAR12|That gives the stock a forward PE of 17.6 times earnings, 12% below its 20 average PE over the last five years.
+NEUT13|One nice thing about Mattel is its fat dividend.
+NEUT14|It pays out $0.38 per share or $1.52 per year at current prices.
+NEUT15|That's 5.9% dividend yield on this stock.
+NEUT16|If that kind of yield you get paid very well to wait for price appreciation in the future when the market sees that Mattel has made the turn.
+BULL17|And is producing consistently higher revenue and profits for 2017 analysts expect Mattel to produce $1.46 in earnings per share.
+BULL18|That's 38% above what it did in 2016.
+NEUT19|Some big risks to consider with Mattel, or the fact that only 55% of its sales are in the United States.
+BULL20|That means 45% of sales are outside the US and subject to a stronger dollar.
+BULL21|The dollar appreciated strongly against other world currencies in the past year, although it has moderated since January 1st.
+NEUT22|Another risk is simply that kids will not like Barbie dolls like they have in the past.
+NEUT23|That can't be all that bad.
+NEUT24|"Top Mattel officers, including the CEO, President, and Chief Financial Officer were all big buyers of Mattel stock in the past month."""

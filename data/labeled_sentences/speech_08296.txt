@@ -1,0 +1,26 @@
+BEAR0|"""There's been a huge row over Labour's tax and spending plans this week."
+BEAR1|The Conservatives say they'll blow a £1.2 trillion hole in the nation's finances, creating a tax bombshell.
+BEAR2|Labour dismisses.
+NEUT3|This is nonsense.
+BULL4|It says higher tax will pay for day-to-day spending on things like more nurses and doctors.
+NEUT5|And it will only borrow for higher capital spending, some £55 billion a year for transport.
+NEUT6|Broadband green energy, hospitals and schools.
+NEUT7|That's a lot more more than doubling current public sector investment plans.
+BULL8|It's also a lot higher than the Conservatives promise.
+BULL9|Labor plans would raise government investment back to levels last seen in the 1970s.
+NEUT10|That's over 4% of national income, raising some big questions about whether Britain can finance this borrowing and whether it be well spent.
+NEUT11|We sought to find out how investors in British government debt might react.
+BEAR12|The Chancellor Sajid Javid says they'll run scared he was talking about labor, creating an economic crisis within months.
+NEUT13|But on the financing question, the government bond market doesn't appear terrified.
+BULL14|The UK government can borrow for 10 years at a cost of only nought .75% a little up from a month ago, but still extremely low.
+NEUT15|We also talked to many people in the market.
+NEUT16|The main view was that investors would be willing to finance Labour.
+NEUT17|All the Tory plans very cheaply.
+NEUT18|For example, Mark Dowding, chief investment officer at Blue Bay Asset Management, summed up the views saying there was a once in a generation opportunity for a big.
+NEUT19|Fiscal expansion, but you shouldn't think that because bond investors are prepared to fund big spending.
+BULL20|They think it's a good idea.
+BEAR21|Many we spoke to thought pushing so much money out of the door so quickly would lead to waste and bad investments.
+NEUT22|The bond market isn't full of vigilantes at the moment, ready to push politicians around.
+NEUT23|They're happy to finance Labour's plans, even if they think the proposals won't work, and there's a simple reason why they believe.
+NEUT24|Even if the plans are nuts.
+BULL25|"They'll still be repaid with at least some interest."""

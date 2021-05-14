@@ -1,0 +1,26 @@
+BEAR0|"""Another rough week for NVIDIA."
+BEAR1|Third quarter revenue came in lower than expected.
+BEAR2|Invidia also lowered guidance for the fourth quarter and shares down close to 20% on Friday and Erin NVIDIA had a bad October and things are looking worse now.
+BEAR3|Yeah, this was a really terrible quarter.
+BEAR4|A lot of the headlines are blaming cryptocurrency, which is a big deal year ago for them.
+NEUT5|But really the bigger story is that management just screwed up so a year ago people were buying their GPS left and right.
+NEUT6|You know trying to get in on the crypto mining craze predictably, that demand went away, but retailers had raised prices and they were very slow to bring prices back down, and those same chips that people were buying for cryptomining are also what is used for gaming PC S and gamers were not buying those chips at higher prices, so it just turns out that they weren't selling the same number of chips at the same rate, but for whatever reason, management thought it was OK to continue manufacturing lots of new chips.
+BEAR7|And so it turns out that that people were asking questions about inventory the past couple of quarters and management keeps on saying it's fine.
+BULL8|This is good, but looking now you see OK.
+BULL9|Inventory is built up 70% over the past nine months, and essentially they're not going to be manufacturing many new of these gaming chips at all.
+BEAR10|An next quarter they're actually getting for a revenue decline, which you know, two quarters together growing 40%.
+NEUT11|And for that to turn from that positive to negative people didn't see this coming, so the stock market has this right by slamming it.
+BEAR12|So when I mentioned that October was bad for NVIDIA, it was bad for other chipmakers to Western Digital Micron technology, that sort of thing.
+NEUT13|But it sounds like you are.
+NEUT14|You're being pretty specific about this group of management.
+BEAR15|Yeah, I mean they just messed up on inventory and this is a management team that like has done a phenomenal job over the past few years of tapping into sources of demand demand like writing tons of talent, so I expect that the tailwinds are still there and that they'll get through this, but it makes the near term.
+NEUT16|Impact on the business.
+NEUT17|Very rough so you don't.
+BEAR18|From your perspective, you don't think that this you think this is more of a short term inventory mismanagement versus they're seeing weaker end demand in any other markets.
+NEUT19|It's mainly that, but I do think that there still is a little bit of question of OK going through all this.
+NEUT20|What type of growth rates will we see on the other side?
+NEUT21|And so I do think there is concern there.
+NEUT22|I have some concern there, but the tailwinds themselves aren't going away.
+NEUT23|You gotta remember though when it comes to like building up oversupply in regard to inventory.
+NEUT24|Again, in the near term you have to question how that plays out on pricing too, because if they had to start liquidating some of that inventory now, I think that Nvidia's got a pretty strong hand when it comes to technology and what they're producing, but it's still potentially.
+NEUT25|"I mean, they could have to resort to some pricing to move that stuff, which plays out on that bottom line."""

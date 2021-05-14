@@ -1,0 +1,39 @@
+BEAR0|"""Fourth quarter profits for Apple up 41% compared to a year ago, but shares of Apple falling 6% on Friday after iPhone sales came in flat year over year."
+BEAR1|Jason, lot of grousing among Wall Street analysts about this.
+NEUT2|Once everybody just take a step back, let's just keep things in context.
+NEUT3|Urocanic bears will try to frame this quarter and the information we glean from the corner and do some.
+BULL4|Earth shattering move that shows that Apple's best days are behind it.
+NEUT5|And I mean that's just not the case.
+BEAR6|I mean, I think the big noise that's being made is that management is going to stop reporting unit sales for iPhones, iPads, Macs.
+NEUT7|You know when you want to steer your identity away from being primarily a phone company?
+NEUT8|I mean, this is a logical decision.
+NEUT9|Hey, let's not worry about being so granular, and I think management's point on the call is actually right in that today a unit of sale is less relevant for them.
+NEUT10|Then it was in the past.
+NEUT11|I mean, if you look at iPhones alone, there are a lot of different models now, so I mean you've got enough models to accommodate a very big market.
+NEUT12|It's not necessarily indicative of the health of the business because they're also selling iPads and Macs, but even more so, the services side of the business.
+NEUT13|And there is something to be said for the wearable side of the business as well.
+BEAR14|So there are witnessing some pricing pressures in emerging markets.
+NEUT15|Not terribly surprising.
+NEUT16|Average selling prices are not going to go to the moon and they also made the point that they released the most expensive line of phones here 1st and in the cheaper line of phones is going to be coming out this quarter and it was the opposite last year so that average selling price that was so high this quarter.
+BEAR17|Reasonable to assume it'll probably be a little bit lower than a little bit lower next quarter, but at the end of the day these guys are selling millions and millions of iPhones.
+NEUT18|I don't think that's going to stop, if anything.
+BULL19|Maybe we see a little bit of time between replacements now because phones are better and we're getting more time out of the phones that we buy, but they still got quite the loyal customer base.
+BEAR20|And I think that things are going to be OK. Yeah, I think there are probably a lot of disappointed analysts out there who will no longer get quarterly unit data.
+NEUT21|Because hey, we're all paid to opine on a quarterly basis about the health of Apple and all the other companies we follow.
+NEUT22|But for shareholders, I don't really think it matters.
+NEUT23|I'd love to see that data released on an annual basis, so we can kind of, you know, calm down on a quarterly and just look at things annually, but I'm not actually sure they're even going to do that, so I would encourage them maybe to give U.S. data on on a yearly basis and I will say on the flip side of this, because they are focusing the business more on the services aspect they are going to give us a little bit more information in regards to that, so we're not only going to get the revenue that the services segment generates, but also the costs involved with that revenue.
+NEUT24|So we'll be able to see.
+NEUT25|How profitable that is and start looking ahead to see how profitable it can one day become.
+NEUT26|Can we also just mention that Apple has more cash on its balance sheet than all but ten companies on the planet?
+NEUT27|I mean, the size of all but ten companies on the planet.
+BULL28|It's just a remarkable number.
+NEUT29|I know we talk about it every quarter, and it's never.
+NEUT30|It's not surprising, but it's still just remarkable to me.
+NEUT31|I mean, the bottom line is with this, and I think investors really this is what they want to know is what do I do?
+NEUT32|Is this a problem?
+NEUT33|Is this a crisis?
+NEUT34|Do I need to sell my Apple shares?
+NEUT35|Absolutely not.
+NEUT36|I mean, this is just a good Business Today.
+NEUT37|As it was yesterday before they announced these results.
+NEUT38|"So if you're a shareholder in Apple, you need to hang on to those shares knowing that you're an owner of one of the most important companies in the world."""

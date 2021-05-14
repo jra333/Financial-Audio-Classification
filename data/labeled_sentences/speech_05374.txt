@@ -1,0 +1,31 @@
+NEUT0|"""John Lanski is here."
+NEUT1|Moody's chief capital markets economist, Big Guy important guy, aren't you?
+NEUT2|OK, we don't cover foreign economies much on this program.
+NEUT3|Why is 4% growth in Japan important?
+BULL4|Well, why it's important for us is because one of the reasons why we expect the economy in the United States to grow by only 2% over the next 10 years is because of unprecedented demographic change.
+NEUT5|The aging of the US economy.
+NEUT6|What wait?
+NEUT7|Wait, wait, wait, that's one of the reasons why we're only gonna get primary reason.
+NEUT8|The labor force roaming only one half of 1%.
+NEUT9|That's where the old people and not enough young people waited.
+NEUT10|Again, wait a minute.
+BEAR11|Japan has the most extreme demographics and anybody at some point we look at the United States we call a Japan like Japan was supposed to grow by only 2% this quarter instead of rose by 4% for the entire year.
+NEUT12|The experts are looking for only one point, 3% growth.
+NEUT13|What a big surprise.
+NEUT14|Better yet Japanese.
+BULL15|The Japanese economy grew by 4%, despite the fact that exports shrank in the latest quarter and that we think of Japan is being an export powered economy.
+NEUT16|What's going on?
+BULL17|Consumer spending grew, I think, in excess of 3% real business investment spending took off and infrastructure spending government spending was up by 20%.
+NEUT18|That's the news.
+NEUT19|There is the Japanese people are spending money again.
+NEUT20|Think about it after 25 years almost, they took my daughter, but tremendously high savings rates, so they have a lot of money to spend.
+NEUT21|I would imagine so the whole world is fired up.
+BULL22|Maybe the world is growing.
+BULL23|That's good news for us.
+NEUT24|Is that absolutely we're seeing higher base metals prices?
+BULL25|That's an indication of faster World Economic growth.
+NEUT26|Real fast North Korea no rockets fired, no shots fired.
+NEUT27|Now I'm not going to say calming down by any means, but that is good news for the market is definitely the war.
+BULL28|Yeah, perhaps diplomacy will prevail, and so that's what the markets thinking, so we could fully recover, and more so this week over the last week self over 100 points I'll take that will take that.
+NEUT29|Well, we're not smiling.
+NEUT30|"Line right here."""

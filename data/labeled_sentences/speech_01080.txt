@@ -1,0 +1,28 @@
+NEUT0|"""Matt, I know that you say you are cautious on some recent high Flyers, namely Apple, NVIDIA, Tesla, Google."
+NEUT1|What do you think people should do if they're holding these stocks right now?
+NEUT2|I mean, do they take some chips off the table?
+NEUT3|Yeah, I think they do.
+NEUT4|I mean the just the the huge moves they've seen over the last couple of months.
+BEAR5|I mean videos up just in the last three weeks is up.
+BEAR6|33% is just an unbelievable move here.
+NEUT7|We all see what's going on in Tesla.
+BEAR8|Of course an Apple and Microsoft and a lot of these stars have become very very overbought on a technical basis based on their relative strength index.
+BEAR9|Their weekly and daily RSI numbers are gone.
+NEUT10|The levels that are usually followed by pullbacks.
+NEUT11|So I think you know it doesn't mean you have to sell all of your Apple or all of your Microsoft.
+NEUT12|But maybe it raise a little cash there and look for a dip in these names because they've been the big high Flyers when the market, I mean markets are going up in a straight line are not normal and healthy.
+BEAR13|That doesn't mean we're going to submit run into a bear market or recession, but we are getting ripe for a pullback.
+BEAR14|And those stocks will come down the most.
+BULL15|And if you've got a little cash on the sidelines, you're going to be able to take advantage of.
+BEAR16|Maybe there's a baby getting torn up with the with the bathwater a little bit.
+NEUT17|And again, is that my point is that this is not like 19999 all over again, where a lot of lousy companies were.
+NEUT18|Sign these are good companies and their stocks should do fine over a very long term basis, but even the best companies in the world stocks and and the companies can be different sometimes.
+BEAR19|And these ***** I've gotten ahead of themselves both an evaluation an on a technical basis and I think they could come down 15 or 20% over the next few months.
+BEAR20|And that's going to scare people.
+BULL21|And if you have some cash on the on the sidelines, you'll be able to take advantage of it.
+NEUT22|Hey investors?
+NEUT23|Zack Guzman?
+NEUT24|Here, are you interested in learning more about the markets and getting the latest financial news?
+NEUT25|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT26|Get the latest up to the minute market analysis.
+NEUT27|"Big interviews in the world of finance and information on how to manage your money every day, wherever you are."""

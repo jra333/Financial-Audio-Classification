@@ -1,0 +1,24 @@
+NEUT0|"""Let's review the metrics that are commonly used incomparable company analysis."
+NEUT1|We always have to factor in the industry and the lifecycle of the company when we're picking the multiples that are appropriate.
+NEUT2|Generally speaking, we've already covered the main multiples, so let's review what they are.
+NEUT3|Let's start with enterprise value multiples.
+NEUT4|These are used when we want to value the entire business at the top of the income statement.
+NEUT5|We've got EV to sales.
+NEUT6|Moving down a bit further, we've got ivita ebada.
+BULL7|And down still further, we've got EV to EBIT.
+NEUT8|Recall that sales, EBITDA, and EBIT are all before interest on the income statement and hence their enterprise value multiples.
+NEUT9|Conversely, we've got equity value multiples like price to earnings.
+NEUT10|Price to book value.
+NEUT11|And price to cash flow.
+NEUT12|Generally speaking, the earlier stage the business is, the higher up the income statement you're going to be for your denominator.
+NEUT13|So EV to sales is very commonly used with early stage companies, whereas PE earnings being at the bottom of the income statement is used with more mature later stage companies that have steady earnings.
+NEUT14|Let's look at an example of a calm stable that's been completed.
+NEUT15|So here we have some companies that are listed on the left.
+NEUT16|The company names are followed by market data.
+NEUT17|This section includes the company's share price, its market capitalization and its enterprise value.
+NEUT18|That's typically followed by financial data.
+NEUT19|An financial data includes what we need for the ratios, so it's our revenue or sales ibadah, an earnings in this example.
+NEUT20|Then we can take the numerator, which is the market data divided by the denominator, which is the financial data and we get our valuation ratios.
+NEUT21|Below that you'll notice there's an average Anna median.
+NEUT22|The average in the median are likely what will be used to value the company that's in question.
+NEUT23|"We will take those multiples and multiply them by the financial data for the company we're trying to value to arrive at the equivalent of the market data for the company we're trying to value in the coming sections, we're going to build a table like this together in Excel, step by step."""

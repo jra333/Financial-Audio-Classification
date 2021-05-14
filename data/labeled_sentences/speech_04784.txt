@@ -1,0 +1,30 @@
+BULL0|"""Hello and welcome back to the note."
+BEAR1|Well, we started off this week with some really horrible news out of China on the economy and so of course what followed was an emphatic bounce across world markets led by China.
+NEUT2|Go figure.
+NEUT3|Here is the bad news.
+BEAR4|In one chart Chinese imports down some 9% year on year.
+BEAR5|Chinese exports were down almost exactly as badly.
+BEAR6|This is worrying because China has been the world's consumer of last resort for a long time now.
+NEUT7|If its imports from the rest of us in our back to where they were three years ago, that's consistent.
+BEAR8|Not really with a hard landing, but with something much worse.
+NEUT9|So why the bounce?
+BULL10|Well, we have promises of action to deal with this from authorities, and there is a belief still, that China really does have the ability to stimulate its economy out of trouble.
+BULL11|As a result, you saw the Shanghai composite enjoy a very strong.
+BEAR12|Rally, it's now up more than 10% from its low of last week, even if it's still down very significantly from its high for the year, which was only in June and across in the US.
+BULL13|You've seen the S&P have a good day.
+NEUT14|You've seen Apple Rally very significantly, which matters to a lot of people.
+NEUT15|Some of that is down to the new Warren Buffett's deal.
+BULL16|Big deal by Warren Buffett and always boosts confidence, even though through a large extent, as Warren Buffett is, an opportunity is not a market timer for the time he's actually done a deal.
+BEAR17|The opportunities are lost.
+NEUT18|For the others, I don't quite understand why he has that effect, but he does ask for commodities most directly affected by China.
+BULL19|You saw a rally in industrial metals and you saw Brent crude get back above $50 per barrel for having spent a week below that level.
+NEUT20|Now is all of this bounce a true ticker type bounce?
+NEUT21|There is nothing.
+NEUT22|Markets do better than bounce or is it a dead cat bounce?
+NEUT23|I think ultimately all of this.
+BULL24|Is built on the supposition that the Chinese authorities are able to stimulate the Chinese economy out of its evidenced difficulties.
+NEUT25|Weather what kind of a bounce this is will ultimately depends on whether the market is right that the Chinese or authorities can do that.
+BULL26|Sergey, we've had a big deal today from Warren Buffett and Berkshire Hathaway.
+NEUT27|One of their biggest ever deals.
+NEUT28|His book Precision Castparts tell me a bit about the deal.
+NEUT29|"Yeah, so this came together over the weekend, essentially."""

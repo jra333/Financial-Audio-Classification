@@ -1,0 +1,20 @@
+NEUT0|"""Alright, last question."
+NEUT1|The Senate goes Democrat, so now I'm trying to figure out if you're anti Mars.
+NEUT2|Do you say you know what we're going to have more customers than we even thought?
+NEUT3|Now that we have a unified government doesn't work like that, Sir.
+NEUT4|I will tell you this, there's no better friend to the fuel cell industry over the last 20 years, and Senator Schumer and boy he's in charge of what legislation gets to the gets to the floor and I think it's going to be a great time for the hydrogen fuel cell industry and beat in New York Company.
+NEUT5|We couldn't be lucky to have such a great senator.
+NEUT6|Well, I gotta tell you everything you said is come true, except for much bigger people.
+NEUT7|Say anybody comes here.
+NEUT8|So he talks a big game.
+NEUT9|Know any martial livers?
+NEUT10|A bigger game anymore?
+NEUT11|Doesn't see your plug power.
+BULL12|PLU G graduation Sir on that great thank you.
+NEUT13|Alright bye now see you.
+NEUT14|Don't miss a second of mad money.
+NEUT15|Follow at Jim Cramer on Twitter.
+NEUT16|Have a question?
+NEUT17|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT18|Shepard Smith here.
+NEUT19|"Thanks for watching CNBC on YouTube."""

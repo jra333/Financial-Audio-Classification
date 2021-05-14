@@ -1,0 +1,25 @@
+BULL0|"""When stocks in a struggling video game store go up by almost 800% in one week, Wall Street takes notice."
+NEUT1|Savvy members of a Reddit board buying shares in GameStop shocked experienced traders, according to Stephen Gandel, senior Reporter for CBS Money Watch by buying it in a group they've been able to take these short sellers off guard and they have to then race around and try to find the shares, of which there aren't many.
+NEUT2|This is an Apple.
+BULL3|And that's driven the stock from $4 all the way up to 350.
+NEUT4|The Redditors making money off of GameStop are taking advantage of normal stock market behavior called a short squeeze, and that's when a lot of people on Wall Street short sell a stock.
+NEUT5|And what that means is that they've sold the stock that they don't own, betting that it's going to go down in price.
+NEUT6|But the problem is when it goes up, they have to buy those stocks.
+NEUT7|Those shares that they don't have to closeout their position.
+NEUT8|Despite being unusual, this is all completely legal.
+NEUT9|There are strict Wall Street rules against large investors, hedge funds, institutions, banks getting together and coordinating buying stocks.
+NEUT10|But because this is individual investors, there's nothing particularly wrong with it.
+BULL11|Now that the people on Reddit have proven they can drive up a stock when working together, Gandle believes this may just be the beginning.
+NEUT12|It started with game stock, but it's moved on to some other companies, some that have been hurt by the pandemic, others that are ailing retailers or doc or technology names from the 1990s.
+NEUT13|So there's AMC, the movie theater, there's BlackBerry.
+BEAR14|There's Nokia among retailers.
+NEUT15|Once people are looking at our bed, bath, and beyond, even blockbuster.
+BEAR16|The bankrupt video chain.
+BEAR17|Overall Gandle says this stock market behavior will not do much to the average American.
+NEUT18|It's not going to have a major effect.
+NEUT19|People have talked about.
+NEUT20|This democratization this taking over the hedge funds as a way to solve inequality.
+NEUT21|It's just a tiny tiny.
+NEUT22|It's a.
+BEAR23|It's less than a drop in the bucket for Inside Edition digital.
+NEUT24|"I'm TC Newman."""

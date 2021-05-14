@@ -1,0 +1,14 @@
+BEAR0|"""I am still working through my way, working my way through this 64 page lawsuit that the Justice Department has filed against Google and in which the Department alleges that Google's anticompetitive behavior has been going on for years."
+BEAR1|It's still going on, and in fact it might be getting worse in the complaint, the Justice Department writes that Google has entered into exclusionary agreements, including tying arrangements and engaged in anticompetitive conduct to lock up distribution channels and block rivals.
+NEUT2|The Department says that Google has taken a page from Microsoft.
+NEUT3|Play book in order to sustain its monopolies and even instructed employees not to use words like tie, Crush, Kill, Bundle or even market power in any public or private communications.
+BEAR4|The complaint says that Google has refused to diverge from this anticompetitive path and that even as the Department was investigating the company, Google entered into agreements with some distributors that were even more exclusionary than the ones that they had.
+BEAR5|Replaced now Google has responded to the department's complaint in an initial email in which they said today's lawsuit by the Justice Department is deeply flawed.
+NEUT6|People use Google because they choose to, not because they're forced to or because they can't find alternatives.
+NEUT7|They said they will have a Fuller statement out later today, but Meanwhile, as significant as the Department of Justice is, lawsuit is it is not the final word on this company.
+BULL8|We have now heard from 7 states.
+NEUT9|That say that they're going to be continuing their own investigation of Google that includes New York, Colorado, led by Democratic Attorney Generals, as well as some Republican state attorneys general, including Nebraska.
+NEUT10|In Utah.
+NEUT11|They say they expect a decision in that investigation within a matter of weeks, and eventually they could consolidate their case with the Department of Justice.
+NEUT12|Shepard Smith here.
+NEUT13|"Thanks for watching CNBC on YouTube."""

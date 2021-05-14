@@ -1,0 +1,18 @@
+NEUT0|"""Disney World is now open again and open kind of open visitors were back in the Magic Kingdom and Animal Kingdom over the weekend."
+BULL1|Even as new covid cases cases were spiking in Florida to big step for the company that relies heavily on revenue from its theme parks.
+NEUT2|Julia Borsten joins us now with more.
+BULL3|We always thought wow, what a great business model.
+NEUT4|You know they don't have cable or broadband and they've got all this other great stuff and so I don't know anymore.
+NEUT5|Then it turned into a perfect storm, right Julia?
+NEUT6|Certainly an just remember Joe, that they opened this weekend as Florida reported more than 15,000 new cases on Sunday.
+BEAR7|That was a Daily Record for any US state.
+BEAR8|This is Disney welcomed thousands of visitors to the start of its phase reopening of Disney World after the closure of its domestic parks reportedly cost the company about a billion dollars in this past quarter, Disney's Parks Chairman Josh Tomorrow in an interview from the park said people were following the rules and were wearing masks.
+BEAR9|Disney would not say how many people had admitted there were some reports of a bottleneck, and getting into the park, but the grounds reportedly did not feel crowded.
+NEUT10|An rate wait times for the rides were short.
+BEAR11|I asked tomorrow whether he's considering re closing the parks due to the spike in viruses, but he hears what he said.
+NEUT12|And it looks like we we do not have the sound bite, but he did not answer specifically.
+NEUT13|He said that they've designed the process so they can put the right protocols in place.
+BEAR14|They could expand and shrink the number of visitors they're letting in, 'cause they're not letting people buy tickets at the gate.
+NEUT15|You have to pre reserve those tickets, but he did not say specifically whether they are considering re closing the parks.
+BULL16|He did also say they're very pleased with bookings for later this year and into next year and then just this morning, Goldman Sachs initiating coverage.
+BEAR17|"Of Disney with a buy rating saying that they expect the parks in the studio segments will fully recover post covid and it synergies with directly consumer are underappreciated."""

@@ -1,0 +1,46 @@
+NEUT0|"""Interesting, there's Barry Diller."
+NEUT1|He knows what he's talking about on streaming, and he says look, nobody is going to derail Netflix.
+NEUT2|There still number one and will stay number one.
+BULL3|I think our next guest tech analyst, Beth Kindig, will agree with that Beth.
+NEUT4|Welcome to the program.
+NEUT5|It's good to see you here is Barry Diller saying nobody is going to dethrone Netflix as the number one streamer.
+NEUT6|You make your case because I think you agree with him.
+NEUT7|You know I do, and I don't want to get the critics.
+BEAR8|Like you know, Netflix has a huge debt load.
+NEUT9|It bleeds free cash flow to the tune of three and a half billion a year.
+NEUT10|Those things we know about the market is very vocal on.
+NEUT11|If you look at Netflix though, I mean they have such a wide margin, they're leading every which way you look at this.
+NEUT12|They have 87% of the ODT households in the United States outside the United States.
+NEUT13|They have 70% of the English speaking countries, 55 to 65% of non English speaking countries.
+BULL14|OK, this is a phenomenal lead.
+NEUT15|And then if you look even further beyond the subscribers and you go to the top 20 most stream shows last year, Netflix had 17, Disney's Marvel had two, and Hulu had one.
+NEUT16|Amazon Prime is not even anywhere on that list.
+NEUT17|So no matter which way you look at this, Netflix is in the lead by a very wide margin.
+NEUT18|OK, one more thing, as I understand it, Netflix is now creating original content in the language of the markets that they're reaching.
+NEUT19|So they're doing foreign language.
+NEUT20|Original material and they can target it.
+NEUT21|I mean, Netflix has the ability to target individuals with what Netflix thinks they want to see.
+BULL22|I can see how that's a really big plus for them internationally.
+NEUT23|Yeah, and that's where a lot of that content bill comes in.
+NEUT24|Is that, you know they are spending 15 billion a year.
+NEUT25|They say this is going to be their peak year.
+NEUT26|A lot of it comes into that international content and it creates a huge Moat.
+NEUT27|Really, the only contender you know, take, take all of those companies, all those streaming services.
+NEUT28|Really, the only contender in that area is going to be Disney and to be honest the real headwinds that Netflix faces if you take the lead Netflix has and you add actual broadband penetration across all of these geographies.
+BULL29|Netflix would have many more subscribers than what it has now.
+BEAR30|The biggest headwind Netflix has is broadband penetration, so the majority of the world right now doesn't have broadband and those that do don't have fast enough speeds to have OT streaming.
+BEAR31|So I mean, that's actually a bigger headwind for Netflix, which is going to be solved overtime.
+NEUT32|OK, real fast.
+NEUT33|Do you have a price target for Netflix?
+NEUT34|It's right around around two 9300 at the moment.
+NEUT35|You see, I'm actually, you know I do this.
+NEUT36|I do this for a living on my on my site.
+NEUT37|And I actually think you should let the market beat up the company a little bit.
+NEUT38|I think the market is going to do it, whether it deserves it or not.
+NEUT39|I would say try to get in a little bit lower than where it's at now and then hold for the long term.
+BULL40|Got it, but thanks for joining us.
+BULL41|We appreciate it.
+NEUT42|See you later.
+BULL43|Thank you Stuart sure thing.
+NEUT44|Pay attention to that big ball.
+NEUT45|"'cause we've."""

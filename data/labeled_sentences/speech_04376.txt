@@ -1,0 +1,17 @@
+NEUT0|"""The Japanese stock market in March 2017 says one trader in a spooky voice is like boarding the Mary Celeste strewn around the decks assigns the ship should be hopping with activity."
+BULL1|The Topix index at a 14 month high identifiable value stocks in abundance, comfortably positioned yen.
+BULL2|Fresh legalization of casinos in the bag at a run of record share buy backs up in the staterooms, lie invitations to recent investor events hosted in Tokyo by Daiwa.
+NEUT3|Mr Hohensee LSA on board jamborees that allow brokers to reheat the AB anomic story and excite foreign fund managers with a 38% of Japanese topics.
+NEUT4|Companies that are trading below tangible book.
+NEUT5|The impending debate on labor reform and a coming review of the stewardship code, all of them dependable party pieces when there was still wind in the ABBA Nomics sales.
+BEAR6|And yet there is silence or in dealing room terms are still extending stretch of unusually low volumes.
+BEAR7|Last week was especially striking, but over the past three weeks, daily volume in TSE First Section shares have fallen below the psychologically important two trillion yen mark in more sessions than it has been above.
+NEUT8|Overseas investors have been.
+NEUT9|Net sellers throughout that time, to the tune of 78 billion yen.
+NEUT10|The favored explanation is that everyone is hiding somewhere in the rigging, waiting until Thursday for interest rate decisions from both the Fed a big moment for global markets and the Bank of Japan.
+NEUT11|Almost certainly less so.
+BEAR12|But if the moment should pass without producing any sustained pickup in volumes from either domestic or foreign buyers, say analysts, the explanations for such becalmed interest in Japanese stocks could start to turn quite bleak.
+NEUT13|As it happens, there is a note pinned to the mast from Mizuho's chief equity strategist Masatoshi Kikuchi, who frames that bleakness into uncomfortable sentence is large cap stocks, he says.
+BEAR14|Are underperforming because of a general lack of growth stocks and a dearth of bold restructuring stories among value stocks.
+NEUT15|This in turn results from the limitations of the labor market and low governance standards.
+BEAR16|"He writes simultaneously explaining the eerily empty ship and the struggle that brokers have been having passing Japan off as a credible, reform minded play on global growth and domestic reflation"""

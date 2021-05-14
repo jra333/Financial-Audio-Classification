@@ -1,0 +1,20 @@
+NEUT0|"""Hello everyone, let's take a look at the Apple stock price."
+BEAR1|We can see from this daily chart here I performed a red candle with a huge volume jump up so we can see this candle has a lower low compared to the previous candles and now it's formed a perfect downtrend from here.
+NEUT2|So with the large volume we can see somebody is selling and also somebody is buying but it's.
+NEUT3|Definitely not a bottom side because there's no study here.
+BEAR4|So if we look for the moment American see here is very negative also.
+BEAR5|So in my opinion, Apple stock will go further down.
+BEAR6|And if Apple stock go further down we can see.
+BEAR7|The whole US share market will go further down, and it's already formed.
+NEUT8|Top here top pattern.
+NEUT9|So if we change the.
+NEUT10|The pattern into weekly chart.
+BEAR11|We can see it clearly that it's already 3 weeks drop from the top and this top has a. Hi.
+NEUT12|Lower high upper tail and a long lower tail.
+BEAR13|It means a lot of pressure upset and also we can see from this chart that last week the volume is jumps high compared to.
+NEUT14|The week before that, so it means somebody hope this is bottom but hope.
+NEUT15|Not realize the real world.
+BEAR16|So if we think in the future that the price needs at least to drop here because it's just the beginning of the.
+NEUT17|Option here.
+NEUT18|So in my opinion Apple need to go down to 99 first if we can find any flaw before you go study.
+BULL19|"Thank you."""

@@ -1,0 +1,14 @@
+NEUT0|"""Hello well, I think the Apple stock we can see here today."
+NEUT1|It had formed a huge red candle.
+NEUT2|This red candle followed the hammer pattern.
+NEUT3|It has involved the hammer 'cause we said yesterday.
+NEUT4|Sometimes we have a hammer at the bottom of the down track but it followed by another down candle.
+BEAR5|So that means there still further down for the store.
+NEUT6|It's very likely for Apple stock to go.
+NEUT7|Below this.
+NEUT8|A candle and to retest the 200 yard line is shorter and emitter we can see.
+NEUT9|Here's, disclose, disclose, disclose.
+NEUT10|So it's very.
+NEUT11|Farrish we have formed around top it's very.
+NEUT12|Very.
+BULL13|"She met him to thank you."""

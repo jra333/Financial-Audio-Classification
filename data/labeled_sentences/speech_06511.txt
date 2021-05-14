@@ -1,0 +1,18 @@
+BULL0|"""I think it's unquestionable that there's room for both snowflake and redshift to be very successful and grow to be very, you know, a lot larger than both of them are today."
+NEUT1|You know we launched redshift back in 2012, and it was the first data warehouse built for the cloud, and it continues to be the largest data warehouse in the cloud, and you know, and then Snowflake built a data warehousing offering as well that's also strong offering and largely runs on top of a WS.
+NEUT2|And we work just as hard for Snowflake.
+NEUT3|As we do in trying to make it easy for people to use redshift and from our perspective, if customers want it run.
+NEUT4|A snowflake for their data warehouse on top of a WS were just as happy with that as if they're willing to run redshift on top of us.
+NEUT5|And so I think there's these are very, very large market segments.
+BULL6|John and there's such a large transition happening right now from on premises data warehouse providers to cloud data warehousing providers that there's room for.
+NEUT7|A lot of companies to be successful.
+NEUT8|The world is wide enough for redshift and snowflake.
+NEUT9|We also talked about.
+NEUT10|Zoom and it's continued reliance on a WS that's a WS by the way, and not Oracle for the cloud services.
+NEUT11|Take a listen.
+NEUT12|Their CEO, Eric Yuan, has said this multiple times.
+NEUT13|He said it in their earnings call in June that they would have really had a hard time getting through the early surge of the pandemic without relying very significantly in a WS, you know, and then he just said it again in a press release today that you know where they named a WS is their preferred cloud provider that the significant majority of their cloud infrastructure runs in a WS, and so we, you know, the majority of what they do.
+NEUT14|The overwhelming majority of what they do in the cloud is run on top of a WS.
+NEUT15|Lot more from our exclusive with Andy Jassy all Hour, including a partnership between a WS, an Apple and.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,8 @@
+NEUT0|"""Come on, let's take the Apple stock we can see here."
+NEUT1|It hasn't made a decision.
+BEAR2|Red candle and drop below the 120 days year may just say that seriously.
+BEAR3|As long as we keep below these two yummy line, there's a possibility for it to drop further down.
+NEUT4|For today's sign we can see it.
+NEUT5|Try to retest.
+NEUT6|The Lord has made here women six very likely for you to retest the low to mid.
+BULL7|"Batman 621 thank you."""

@@ -1,0 +1,23 @@
+NEUT0|"""Hello everyone, before moving onto the video we ask you to support us and subscribe to our channel please."
+BEAR1|The Cosmos price has been pressured this week.
+BEAR2|It is trading at $18.80 which is 30% below its all time high of $26.73 but is 95% above its lowest level this week at $9.85.
+BEAR3|Doge coin price surged nearly 300% in less than 10 days from January 30th to February 7th, after which Doge consolidated forming a series of lower highs and lower lows.
+NEUT4|The meme coins price action from January 30th to February 24th is known as a bull flag pattern.
+BULL5|This technical formation is a continuation pattern and forecasts a 75% upswing, which is the flagpoles height added to the breakout point at 0.055 dollars.
+BULL6|On February 24th, Doge Coin Price signaled a bullish breakout from this set up.
+BEAR7|After a 12 hour candle stick closed above 0.055 dollars, however, the volume didn't align with the break out, the sellers seize the opportunity and strong arm Dodge back into the consolidation which has resulted in a flipped bullish scenario on its head.
+BEAR8|Adding credence to this bearish outlook as the price dip below the short and mid length exponential moving average ranging from 0.041 dollars to 0.043 dollars.
+BEAR9|IMAP model shows that nearly 86,500 addresses purchased a whopping 20.70 billion doge between 0.050 dollars to 0.055 dollars due to the fake out, these investors are out of the money, so any bullish momentum will be absorbed by these market participants who want to break even.
+BEAR10|IMAP cohorts show relatively feeble support at 0.0481 dollars, where nearly 41,000 addresses purchased roughly 944 million doge.
+BEAR11|If Doge coin Price manages to slice through this demand barrier, a 20% pullback to 23.6% Fibbonaci retracement level at 0.037 dollars seems likely.
+BEAR12|However, a sudden spike in selling pressure due to unforeseen events causing a 12 hour doge coin price candle stick close below 0.037 dollars will spell trouble for the meme coin and result in a 40% crash to 0.022 dollars.
+BEAR13|It is worth noting that a 12 hour candle stick close above the 50% Fibonacci retracement level at 0.055 dollars would reignite the 75% upswing from a bull flag pattern to 0.0956 dollars.
+BEAR14|In the interest of brevity, doge coin price has dipped under support at 0.055 dollars opening up the possibility of a steeper correction.
+BEAR15|Transactional data shows investors who purchased 20.70 billion doge from 0.050 dollars to 0.055 dollars or under water.
+BEAR16|A breakdown of the critical support barrier extending 0.048 dollars and 0.043 dollars will lead to a 10% to 45% correction.
+NEUT17|Don't forget to subscribe to our channel and open notifications to learn more about gold.
+NEUT18|Dollar Euro commodities, Bitcoin altcoin, cryptocurrencies and other investment tools.
+NEUT19|In this video, references and opinion is for information purposes only.
+NEUT20|It is not intended to be investment advice.
+NEUT21|Every investment and trading move involves risk.
+NEUT22|"You should do your own research while making a decision."""

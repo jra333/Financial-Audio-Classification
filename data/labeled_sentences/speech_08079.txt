@@ -1,0 +1,30 @@
+NEUT0|"""With Amazon, which is perhaps the most eye catching one here because you think they should be bidding for Tick Tock."
+NEUT1|A lot of people say, come on with Trump and Jeff Bezos relationship and antitrust concerns already.
+NEUT2|You think that's really likely or possible?
+NEUT3|Yeah, yeah, it's it's.
+NEUT4|It's interesting right after the hearing a few weeks back.
+NEUT5|You know, even Google's Fitbit acquisition is now in full investigation in Europe, and so there is this sentiment that big tech can't make any deals.
+NEUT6|But if you look at it from a fundamental perspective, Amazon is probably the perfect fit for Tick Tock.
+NEUT7|They've got about 20.
+NEUT8|Left to make a deal, you're absolutely right.
+NEUT9|It's probably not the choice Trump had in mind when I think he sent out the executive order.
+NEUT10|But Amazon is the number three player already in digital advertising behind Google and Facebook.
+NEUT11|This would absolutely be an acid that fits really well in their portfolio that already includes Twitch Fire TV.
+NEUT12|We've already seen Tick Tock over the last month or so.
+NEUT13|Real integrations with Fire TV and with Alexa, and they've got the computing data security that was really the primary issue on Prem here in the US that meets the requirements and so.
+NEUT14|You know what?
+NEUT15|Well, typically I'd say Amazon's not really a big acquirer generally, but if they can get this asset, say 5060 cents of the dollar, it's certainly worth a phone call.
+NEUT16|I'm sure they'd love it.
+NEUT17|I'm just skeptical that it could happen for so many reasons, not least that it's already one of the biggest and most powerful companies.
+NEUT18|And again, without that relationship with the White House that maybe Oracle has, or at least Microsoft doesn't have antagonistically you have a lot of other ideas in here though, and I think people would really like to hear them.
+NEUT19|You think that Facebook should look at buying Twilio?
+NEUT20|Interesting, you think Google should look at buying eBay?
+NEUT21|You know again I I just wonder how much dealmaking, especially involving anything like a well known company.
+BULL22|These big tech players can realistically expect to do in the next few years are going to be lucky if their past deals aren't undone.
+NEUT23|I think that's a very fair assessment, you know, and I think as we looked at it, you know we tried to find potential targets that might be effectively outside of the regulatory purview, because it wouldn't necessarily go in the areas where their apps is strongest, and so you know, we picked the eBay, which is a legacy asset.
+NEUT24|It's been around forever, you know the reason why we liked it as a potential, you know.
+BULL25|Is we are our view is Amazon is now actually the leader in product related searches in the USI think our numbers come in that 60% of product related searches start on Amazon and we know that Google is very serious about doing more in e-commerce.
+NEUT26|They hired over Bill ready from PayPal.
+NEUT27|They've been enticing the suppliers and the sellers to come onto the platform with free product listings, effectively offering zero commissions on sales.
+NEUT28|And So what they really need is something to bring the consumers along for the ride, and so it may be a bit tangential to the core areas.
+NEUT29|"Where I'd say regulators are really looking at which is on that advertising business."""

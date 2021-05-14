@@ -1,0 +1,29 @@
+NEUT0|"""Yesterday during a virtual speaking event that I give to the 92nd St Y in Manhattan got issue."
+NEUT1|Question is this the end of index investing?
+NEUT2|My answer was yes.
+NEUT3|While index funds will never really go away, I think we're looking at the end of the conventional wisdom that index funds are the smartest way to invest.
+NEUT4|For many years, we've been told that savvy investors should stop trying to beat the market and Simply put their money in a cheap index fund that mirrors the SP 500 long time that was very solid advice, you know, I preach it.
+NEUT5|But you know?
+NEUT6|He that's not the world we live in anymore.
+BEAR7|The pandemic is rendered vast.
+BEAR8|Swaths of the market UN investable.
+NEUT9|It's very obvious what's not working right now beyond a trade.
+BEAR10|So when you buy an index fund that mirrors the S&P 500, you're getting a whole lot of bad with the good.
+NEUT11|That's always been the case, it's just right now.
+BEAR12|The band is incredibly bad.
+NEUT13|By that.
+NEUT14|Would you want to put your money in an index with airlines or oil producers?
+NEUT15|Restaurants with half the seats taken out so they can pass muster?
+NEUT16|Consider this when you zoom out beyond the SNP, and you look at all the major averages.
+NEUT17|They each tell a vastly different story.
+BEAR18|Yes please the middle the packets down 12% for the year at the end of last week down.
+BEAR19|Joshua's are down 16.7 Russell 2000 small cap down 26% brutal on the other hand, the NASDAQ composite was only down 3.8% and get this the NASDAQ 100, the hundred largest non financial stocks.
+NEUT20|And as think tech think about deck actually a .6% when you think about it these disparities make tons of sense.
+NEUT21|The NASDAQ 100 is a lot of exposure to COVID-19.
+NEUT22|Then the Dow, the SP in a positive way.
+NEUT23|It's very tech heavy, only big companies so no small cap exposure like the hideous Russell 2000 is a tough time to be a small company.
+NEUT24|Don't miss a second of mad money.
+NEUT25|Follow at Jim Cramer on Twitter.
+NEUT26|Have a question?
+NEUT27|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT28|"Miss something head to madmoney.cnbc.com."""

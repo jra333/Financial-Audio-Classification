@@ -1,0 +1,10 @@
+NEUT0|"""Alright, well let's take out the Apple stock."
+BULL1|We can see Apple has made new high on Friday and also this new high has higher than the former height made several days ago and it higher than that.
+BULL2|High on the 29th of December.
+NEUT3|So actually we gotta record new hide.
+BEAR4|This means is very bullish for Apple stock Now.
+NEUT5|So if we change chart into weekly chart we can see it clearly.
+NEUT6|Here we got a huge green candle and this green candle with a high higher than the height made on the.
+BULL7|The falls of September, so it's a very important sign for Apple stock.
+BULL8|And I mean here is very bullish and very likely for it to go higher from here.
+BULL9|"Thank you."""

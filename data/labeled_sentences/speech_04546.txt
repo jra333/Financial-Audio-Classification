@@ -1,0 +1,37 @@
+NEUT0|"""Josh, what is your last chance train?"
+NEUT1|I want to.
+NEUT2|I want to put the spotlight on Berkshire Hathaway B shares.
+NEUT3|We don't really talk about this stuff that often.
+BULL4|Yeah, it's approaching a major breakout point.
+BULL5|I think it gets above 225 that has been resistance.
+NEUT6|Stock has been consolidating for all of 2018 an all of 2019.
+NEUT7|And here we are back at the upper end of that range.
+NEUT8|Notably company now has, I think, $130 billion in cash on its balance sheet and a lot of people would look at that and say even if there is a market event.
+BULL9|Even if there is a correction into whatever the case may be, Berkshire is now in the best cash position it's ever been in.
+NEUT10|This is precisely the type of financial company that could actually take advantage of a storm in the market, so it's an interesting stock from both perspectives.
+NEUT11|So BRK B.
+NEUT12|Keep an eye on that as it breaks into 25.
+NEUT13|There are no sellers.
+NEUT14|Nobody is down in the stock.
+NEUT15|I think it's pure Blue Sky from there, so do you see?
+NEUT16|This is more of a defensive play longer term then.
+NEUT17|I mean, it's not really defensive in the in the sense of like a bond being defensive.
+NEUT18|Yeah, like it will trade lower eye on the fact that there's they have so many different types of businesses like this is the type of stock it's got.
+NEUT19|Some pro cyclical aspects to it.
+NEUT20|They own a railroad.
+NEUT21|But then it's got this huge cash hoard.
+NEUT22|It's got AAA credit.
+NEUT23|It's got the ability to take advantage of a market storm, and I think if you think about it from both perspectives, it makes a lot of sense to be an investor.
+BEAR24|You talked about the banks starting to sort of Peter out earlier.
+NEUT25|Can Berkshire still break out if the banks pull back as Inquisition in the banks?
+NEUT26|Now it's in, it's in the it's in the financial sector trades, more like an insurer.
+NEUT27|So I don't mean because of correlation, I mean because they hold such big positions in JP Morgan, U.S. bank or Wells Fargo Bank.
+NEUT28|Huge and huge investments across the financial sector.
+NEUT29|I think the way to think about I'm talking bout a tactical trade.
+NEUT30|So the way I would say it is you got a 76 RSI on Berkshire Hathaway, which most people would say is short term overbought.
+NEUT31|I would disagree.
+NEUT32|I think it could be in the 70s on a breakout.
+NEUT33|I think it should be slightly overbought.
+NEUT34|The last time Berkshire traded within RSI North of 70.
+NEUT35|You have to go back to less September so more than a year so I would stay with this one as it breaks through.
+NEUT36|"I appreciate that argument that it's acceptable to the banks, but it's a conglomerate and there are a lot of other moving parts to this story."""

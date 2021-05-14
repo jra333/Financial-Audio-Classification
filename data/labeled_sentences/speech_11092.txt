@@ -1,0 +1,26 @@
+NEUT0|"""Neo stock analysis and predictions, January 9th."
+BULL1|In today's NEO stock analysis and predictions, Anio will grow more this year.
+BULL2|Alright, let's get started in the near term, Neo continues to garner investors attention.
+BULL3|Given mark earnings growth, Neo operates in the premium electric vehicle market.
+NEUT4|The company designs and jointly manufacturers and sells smart and connected premium electric vehicles driving innovations in next generation technologies.
+NEUT5|They also participate in autonomous driving and artificial intelligence.
+BULL6|Rounding out 2020 earnings Neo on November 17th reported above consensus third quarter results thanks to strong deliveries and margin improvement revenues for the company climbed 146.4% year over year and 21.7% sequentially, $666.6 million.
+BEAR7|This compares to the year ago revenue of $262.47 million.
+BULL8|NEO also issued a strong fourth quarter outlook.
+BEAR9|Levels of sentiment were extraordinarily tight for this study as traders and investors expressed in near equal weighted confidence for both TV makers.
+BULL10|51.3% of traders and investors believe shares Neo will grow more than Tesla by 2022.
+BULL11|Many respondents agreeing electric vehicle makers in general, will continue to garner investors although narrowly.
+BULL12|So respondents expressed excitement for Neo, given many confirmed product announcements and rumors that will be addressed at the company's annual Neo Day event.
+NEUT13|Neo is on track to announce a few launches at Neo Day, including its first sedan.
+NEUT14|This would be the company's fourth mass produced model with speculations suggesting it will likely have a coupe design like the Audi A7.
+NEUT15|It is also believed the company could start mass manufacturing the model by the fourth quarter of 2021.
+BULL16|Neo is expected to announce A-150 kWh battery pack that will likely increase the range of it CVS to over 900 KMS and upgrade.
+NEUT17|Tinyos advanced Driver Assistance System platform named NT 2.0 is also expected to be unveiled at the event.
+NEUT18|It will likely feature LADAR technology.
+NEUT19|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT20|If you haven't subscribed yet.
+NEUT21|Make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT22|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL23|We'd really appreciate it.
+NEUT24|Are you still watching and want more?
+NEUT25|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

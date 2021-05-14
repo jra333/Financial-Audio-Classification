@@ -1,0 +1,47 @@
+BULL0|"""Hey Sean Hathaway here have a great weekend coming up."
+NEUT1|Happy Friday to everybody you have see fights on Saturday.
+NEUT2|Lots of playoff football Sunday.
+NEUT3|Monday is a holiday for a bunch of people and then Tuesday we've got the Netflix earnings call, which is a really big deal if you've been following this whole streaming wars.
+NEUT4|This, you know, hashtag streaming wars is kind of a new concept.
+NEUT5|Yesterday, NBC just announced Peacock.
+NEUT6|I'm guessing a lot of people in my sister and her Peacock, and I'm guessing like 0 people outside of the United States have ever heard of Peacock, but that's generally how I would summarize the streaming wars.
+NEUT7|So we have all of this discussion of the apples in the Disney's and the Amazons and the HBO Max and the Hulas and blah blah blah blah.
+NEUT8|But nobody watch is this stuff outside the United States.
+NEUT9|Now there is competition outside the United States, but Netflix is really the big boy on the block and really has global infrastructure and global global streaming.
+BULL10|So I think the whole competition against Netflix is a little bit overblown, but this quarter is going to be a little bit of the proof is in the pudding, so Netflix guided to 7.6 million Subs growth in Q4.
+NEUT11|Now keep in mind last Q4.
+NEUT12|So a year ago it was they had 88.8 or 8 something.
+NEUT13|So they've actually said below.
+NEUT14|So I think that they're actually under guiding.
+BULL15|I think they're going to surpass surpass that number.
+BEAR16|Their stock price has been.
+BEAR17|Has been hindered largely due to a Q2 miss on domestic Subs like the first ever decrease in domestic Subs for the company, but that was in the face of price increases globally and so I think that that gets a little discounted in the news, but nevertheless missed their growth forecast in Q2.
+NEUT18|And then we've got this whole environment streaming or so.
+NEUT19|This is actually a really important earnings call for them so people will say well as Netflix done growing is there is their growth.
+NEUT20|Going to slow.
+NEUT21|Here's how I think about it broadly.
+NEUT22|A lot of people are going to disagree with me, but this is how I think about First off.
+NEUT23|You can think in terms of global broadband households, big round numbers.
+NEUT24|Maybe there's a billion and Netflix has 160,000,000.
+BULL25|That means they've got a 16% penetration globally.
+NEUT26|Definitely room for growth there, but what if I was to say it's actually bigger than broadband?
+NEUT27|Households would have looked at like Facebook Daily Subs 'cause I definitely a goal.
+NEUT28|Could be that everybody on Facebook uses Netflix again.
+NEUT29|Kind of random, but that's two and a half billion.
+NEUT30|Daily users of Facebook, so that would tell me then that Netflix has a 6% penetration.
+NEUT31|Now have a look at the markets.
+NEUT32|They forget about broadband households.
+NEUT33|I want every single person that's got a cell phone in their hand.
+NEUT34|While I just read that there's like 9 billion cell phones in the world, there's only seven and a half billion people.
+NEUT35|So let's just go down and say, OK, well on average, every every person's got a cell phone.
+NEUT36|So if you look at the global population 7 half billion and say that's your goal, well now you'd say Netflix only has about a 2%.
+NEUT37|Penetration so.
+BULL38|Long and short of it is, I think there is a ton of room for growth here.
+NEUT39|I think they're going to figure it out.
+BULL40|They're going to continue to grow.
+NEUT41|Everyone else is going into streaming.
+NEUT42|Not a big deal, by the way, if you don't go into streaming, you go out of business.
+NEUT43|So expect more people to go into streaming.
+NEUT44|And I think Netflix goes to $500 in the next 12 months.
+NEUT45|That's my call.
+NEUT46|"Have a good one."""

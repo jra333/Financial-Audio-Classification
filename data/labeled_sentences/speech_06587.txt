@@ -1,0 +1,12 @@
+NEUT0|"""Hello everyone and welcome to another technical analysis video here."
+BEAR1|The exam.com is Tuesday, March 16th at Christina Bethany investment analyst taking look at Euro Yen on the daily chart and we can see that the pair has been struggling to grow within the 130 area despite taking up too and you 29 month high of 130.40 yesterday.
+BEAR2|The momentum indicators below the chart justify the consolidation in the market.
+BEAR3|The other side has reversed to the downside but is still above its 70 over both mark.
+BEAR4|This acoustics have negatively crossed each other above 80 in the Magdi also seems to be losing momentum towards the red signal line, so the indicators reflect some question about the five week old appreciation in the market, but I wouldn't be very much worried about any downside correction unless the price violates the one month old support around the written consent line.
+BEAR5|Currently at 129.60, in which case I expect another step lower, likely towards the 20 day moving average.
+NEUT6|Why slightly below the 129 level?
+NEUT7|The area around 228.40 quid once again restrict price movements as indeed a few weeks ago.
+NEUT8|Now if the price was to sustain strength above 130, the focus will initially turn to the 131 level and then up 232.
+BULL9|So overall you're again could become more sensitive to downside movements in the near term, but unless the price drops below 129.60, I think buying pressures may remain in place, so that's all for your again today.
+NEUT10|Thank you for watching.
+BULL11|"Have a great day."""

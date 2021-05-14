@@ -1,0 +1,28 @@
+NEUT0|"""Welcome back to opinion Journal."
+BEAR1|I'm Mary Kissel, we told you last week about an effort at the Republican National Committee to boycott NBC and CNN if they went ahead with some laudatory films.
+NEUT2|Documentaries about Hillary Clinton, Potomac Watch columnist Kimberley Strassel, joins now from Washington with an update icim.
+NEUT3|So the RNC voted to go ahead and not to hold let these networks.
+NEUT4|Air the Republican debates.
+NEUT5|Is this a good idea?
+NEUT6|You know, I think what this is Mary, is Reince Priebus, who is the chairman of the RNC?
+NEUT7|He's put his finger on the right issue, which is in fact biased moderators who are involved with Republican primary debates.
+NEUT8|The way he's going about it isn't necessarily the wisest course.
+NEUT9|What he's done is isn't effect.
+NEUT10|Open himself up to accusations that he is in some way censoring what these networks can put out there as a sort of price of their being able to work with the RNC on these primary debates.
+NEUT11|There is a.
+NEUT12|There is a certainly a more targeted way to do this, which is to simply demand a little bit more involvement of the RNC on their part a little bit more control over who's moderating these debates when they actually happen.
+NEUT13|Yeah, you're not going to convince Rachel Maddow or Chris Chris Matthews to be sympathetic to the Republican Party.
+NEUT14|Should the RNC be concentrating on if this isn't the best way to spend their time?
+BULL15|Well privacies get getting a lot of attention for this and a lot of applause among Republicans because he has actually addressing a huge problem for the Republican Party.
+BEAR16|There were way too many debates in this last presidential cycle, and Moreover you had, you know, a lot of mainstream media left leaning moderate Are's who wanted to focus those debates on issues that don't really matter to the public, and caricatures, Republicans, and it puts him in a bad light.
+NEUT17|So you know, we had all of these debates talking about whether or not, for instance, Newt Gingrich.
+NEUT18|Agreed with the concept of open marriage or whether or not Republicans might ban contraception.
+NEUT19|Things that was just totally out of left field and also were not what the public wanted to hear about.
+NEUT20|So the RNC's goal here ought to be limiting the number of debates that take place and making them more effective in part by making sure that there are moderators involved who are interested in actually getting the answer questions asked and answered that matter to the voting public came about 30 seconds left the RNC had.
+BEAR21|A lot of problems though.
+NEUT22|Funding getting out the vote mechanisms, is Reince Priebus addressing those issues too.
+NEUT23|Yeah, this is all part of a huge attempt that privacy and other people are at the RNC are doing to completely rejuvenate the party.
+NEUT24|And you know one of these side issues of this very useful for him is that simply by talking about this network issue it has allowed him to get a lot of attention focused on some of those other things like putting more people out in the field for get out the vote or revamping their technology to sort of keep pace with the Democrats.
+NEUT25|So there's going to be a lot more you're going to hear on that front in the coming months.
+NEUT26|OK will stay tuned.
+BULL27|"Watch columnist Kim Strassel thanks so much."""

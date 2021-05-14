@@ -1,0 +1,19 @@
+NEUT0|"""On money matters now."
+BEAR1|This morning, another Corona virus vaccine reaches a key goal and Disney will most likely report a grim financial quarter.
+NEUT2|Today Jane King joins us live from New York with those stories and more in this morning's Money Matters report.
+NEUT3|Good morning, Jane.
+BEAR4|Hi Bruce and Jenkin morning as Disney will be out with its quarterly earnings today and it has been hit harder than many companies by the pandemic.
+BEAR5|Of course the theme parks, cruise lines, movie studios all shut down for months now.
+BULL6|On the other hand it did have really good timing in terms of its streaming service.
+NEUT7|So it launched about a year ago and so that was of course a lot of people finding themselves watching that as they were forced to stay at home so investors will hear what Disney has to plan when it can regroup and fully open.
+NEUT8|Again, well now it's moderna's time to be in the spotlight.
+NEUT9|Pharmaceutical company says it will release its data on a covid vaccine in the coming days.
+BULL10|There's optimism that this will be a successful vaccine.
+BULL11|It uses the same technology as Pfizer, and health experts say the world will need covid vaccines from several companies to be able to control the virus.
+BULL12|Will Americans are drinking more this year and hard seltzer's help feel that trim, iws, our drinks market analysts say that overall, alcohol volumes are about 2% higher this year.
+NEUT13|Can cocktails were also popular?
+NEUT14|And what is topping kids holiday gift list this year?
+NEUT15|Well, Red Rooster says overall kids want Legos bones.
+NEUT16|Nintendo Switch and Roblox game.
+NEUT17|So boys, especially younger boys like Legos, girls, wanted phones like from New York.
+NEUT18|"I'm Jane King Becky recent and girls love."""

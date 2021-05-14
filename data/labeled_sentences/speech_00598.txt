@@ -1,0 +1,8 @@
+NEUT0|"""Welcome to tradingstock.com."
+NEUT1|Today I bought more shares of Alibaba so now I own about 450 of these shares I've been watching this since June.
+NEUT2|As you could see that it's formed a sending triangle, so you had a higher lows right through here and then you had a huge resistance around like 180 Mark so 1234567 times to try to break this resistance and just failed.
+NEUT3|So you could think of this a sending triangle as like a spring so the stock is basically just kind of winding up all through here.
+BULL4|And finally it broke through resistance on huge volume not overbought.
+BULL5|So I do have one 450 of these shares I expect it to go up to 200 before year end.
+NEUT6|I may be wrong but I don't see why this stock should not go back up so hopefully we all make money on this.
+NEUT7|"Then let's see."""

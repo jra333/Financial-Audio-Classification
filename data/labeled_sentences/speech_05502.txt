@@ -1,0 +1,24 @@
+NEUT0|"""Palantir stock analysis and price prediction December 21st in today's Palantir stock analysis and price prediction."
+BULL1|Palantir stock was up 10% today.
+NEUT2|Alright, let's get started.
+NEUT3|Shares of government data analytics company, Palantir NYSE PLT.
+BULL4|Our stock shot up to close nine point, 8% higher Monday after the company announced that the US Army will be exercising an option to extend its partnership on the Army Vantage data analytics platform and for even a bit more money than the original contract was worth.
+BULL5|One year ago, the Army Hyatt Palantir to work on Vantage under a potential four year contract awarding the company a $110 million contract for the first or base year, with the potential for contract renewals at one year intervals for three years afterwards.
+BULL6|Today, the defense contractor confirmed that the Army is exercising at least the first of these options and awarding Palantir an additional $113.8 million for the work the Army has been using Vantage to make data driven decisions in the fight against COVID-19 notes.
+BULL7|Palantir with the pandemic still ongoing.
+NEUT8|It makes sense that the army would re up its contract at least for 2020.
+BULL9|If the software continues to prove useful, the company could be awarded at least two more option renewals, bringing the total value of the four year contract to as much as $458 million.
+NEUT10|Further renewals after the four year term would also not be out of the question.
+NEUT11|All that would require is a new contract award.
+BULL12|So Palantir could theoretically be looking at an even longer revenue stream, but even absent such an extension, today's news secures for Palantir, a significant chunk of its total revenue stream.
+NEUT13|$1 billion over the past 12 months, according to data from S&P Global Market Intelligence.
+NEUT14|That could have ended at the end of this year.
+BULL15|Now investors can rest certain that it will at least continue if not grow through the new year.
+NEUT16|That's what's been happening this week in the world of Palantir.
+NEUT17|Stock analysis and price prediction.
+NEUT18|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to all investments right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of Palantir.
+NEUT19|Stock analysis and price prediction.
+NEUT20|If you enjoyed this edition of Palantir, stock analysis and price prediction, leave a comment and please hit the like or share button.
+BULL21|We'd really appreciate it.
+NEUT22|Are you still watching and want more?
+NEUT23|"Check out last week's Palantir Stock analysis and price prediction by checking out our Palantir playlist."""

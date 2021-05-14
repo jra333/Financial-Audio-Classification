@@ -1,0 +1,31 @@
+NEUT0|"""Tesla competitor Lucid Motors is going public through ASPAC."
+BEAR1|It's combining with Michael Klein's Churchill Capital, the stock selling off after spiking recently on expectations for a deal.
+BEAR2|Leslie Picker joins us right now with more and selling off is putting it lightly that stocks down by more than 36% Leslie.
+NEUT3|Yeah, that's right.
+NEUT4|Becky Churchill Capital Four or CC Ivyann lucid Motors making it official last night.
+BULL5|After months of investor anticipation.
+NEUT6|So why isn't the market cheering?
+BEAR7|Well, part of it is disappointment in the way the deal is structured to finance the merger.
+NEUT8|Civ sold $2.5 billion at $15 a share to a small group of investors.
+BEAR9|Now that's nearly 74% below the closing price of C Civ yesterday, making the new investment quite dilutive to those who already owned the stock.
+BULL10|While shares plummeted after the news was announced, they have gained significantly.
+BULL11|They've received an onslaught of attention in recent months from the retail crowd, which helped build up the shares by nearly 500% on speculation that it would merge with Lucid.
+NEUT12|Now the company is led by Peter Rawlinson, who's Tesla's former chief engineer of the Model S with Lucid.
+NEUT13|He's looking to build what they call a luxury EV brand.
+NEUT14|The deck actually says Tesla is quote innovative, but not luxury.
+NEUT15|Lucid says its production for its flagship model is slated to begin in the second half of this year and is projecting more than $2 billion in revenue next year.
+NEUT16|C Civ.
+NEUT17|Is the 4th iteration of banker Michael Klein's series of Sparks, the $24 billion merger, if approved, is expected to close in the second quarter when the ticker will convert from CC Ivy to lcid guys.
+NEUT18|Leslie, you've been watching a lot of these specs.
+NEUT19|What does this tell us about the risks that it presents for retail investors who are buying in?
+NEUT20|I think that these pipes these private investments in or.
+NEUT21|I'm sorry, public investments in private equity.
+NEUT22|There's something that I think a lot of people don't understand.
+NEUT23|We did a story on this about a month ago, but they can be quite dilutive, especially if you look at a company like this one where the stock has gained *** toppled.
+NEUT24|You know, in the last few months or so, purely on speculation that this deal will get signed, and then these investors see this news come out showing that you know certain investors.
+NEUT25|Some prior investors like the Saudis who anchored this pipe.
+BULL26|Another new investors were able to get their equity so much cheaper and then causing some dilution to those who already owned the company.
+NEUT27|You know, for those who are really excited to own lucid, I saw I was kind of looking at some of the Reddit forums on this last night and people were saying, you know now we're going to own a lot less lucid than we thought we were going to own, and I thought that was a perfect way to kind of encapsulate how these deals are structured and what it means for the people who have been kind of championing them.
+NEUT28|You know, for months until the deals been announced.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

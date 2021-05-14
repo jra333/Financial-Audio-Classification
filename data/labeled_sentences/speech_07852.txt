@@ -1,0 +1,31 @@
+BEAR0|"""Mike, it's great to hear from you again and do you think the market here has temporarily found a bottom?"
+BULL1|Hi Kelly, thanks for having me.
+BULL2|You know, I do think that risk assets have temporarily found a bottom, but whether that's sustainable is largely going to depend on whether policy makers continue to get traction on some of the reflationary policies that have been put into place.
+BEAR3|And also the news flow of the pandemic itself, which has been worse very recently.
+NEUT4|Unfortunately right?
+NEUT5|So we have just today this study.
+NEUT6|I don't know if you've seen it from the Saint Louis fed.
+BEAR7|That suggests we could have fifty million people out of work and a 32% unemployment rate, which is worse than the Great Depression.
+NEUT8|What is?
+NEUT9|Sort of, and they admit it's a back of the envelope calculation.
+NEUT10|It's not super scientific, but what do headlines like that suggests to you?
+BEAR11|Yeah, I mean you know these numbers seem to get scarier and scarier with forecasters almost trying to one up one another in terms of scary numbers.
+BEAR12|But the US economy is essentially come to a sudden stop here, along with much of Europe.
+BEAR13|So we're going to see some very nasty numbers.
+BEAR14|We don't have a lot to go on so far, probably jobless claims, which soared last week is the first line in what's likely to be a continuation of a raft of pretty negative numbers.
+NEUT15|Even if you adjust that claims figure for the size of the labor force overtime.
+BULL16|It was about 60% above previous record highs.
+BEAR17|You know, the unemployment rate peaked at about 10% at the end of the Great Recession, so you know the jump in claims that we've seen, and it's probably going to get worse from here.
+BEAR18|Could be consistent with 16% unemployment, so I wouldn't necessarily write off any of these scary numbers.
+NEUT19|But the key is, how quick do we recover.
+NEUT20|Eventually, the pandemic will end right?
+NEUT21|Even the Black Death ended.
+NEUT22|The Spanish flu ended, so pandemics do not last forever.
+BULL23|We have to have policies in place that are strong enough for a V shaped recovery so we can get back to full health without another lost decade for the labor market.
+NEUT24|And you think the Fed could communicate that by saying it's going to get GDP back on its previous growth trend, we can probably show the chart illustrating this, but do you think that would ever work as a communication message to the entire country?
+NEUT25|I think it would help because one problem central banks face not just the Fed, but even more acutely in Europe and in Japan is a lack of credibility in terms of policy staying in place long enough to actually vault inflation and economic growth back to where they would have been before these shocks have hit, and so it sort of looks like you end up in a liquidity trap pushing on a string, but really that's simply because markets know full well that central banks have historically.
+BULL26|Pulled back before there's any real inflation, so in this case I think it could help policy makers get more traction and fiscal policy.
+NEUT27|You know, there's a lot of emphasis on that now.
+BULL28|If we wanted to be more effective, I think if the Fed did communicate a level path target, whether it be for inflation or inflation, plus real growth, nominal GDP, that could be quite helpful in ensuring AV shaped rebound after what's like likely to be a pretty brutal recession.
+NEUT29|Hopefully it's short lived, right?
+BEAR30|"But like you said, keeps us from turning a temporary slowdown into maybe a permanent loss of wealth."""

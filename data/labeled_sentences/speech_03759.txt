@@ -1,0 +1,19 @@
+BEAR0|"""Almost immediately after the vote to leave the European Union, Sterling took a pounding on the foreign exchange markets against the US dollar."
+BEAR1|It's fallen to a 30 year low from about $1.50 to less than $1.30, about a 13% full against the countries that Britain trades most, with the false being a little bit less, but not much less.
+BEAR2|About 11% full, and that is again an extremely large full.
+NEUT3|On international currency markets.
+NEUT4|Let's first look at the impact on inflation.
+BEAR5|Normally you would expect a full in the value of Sterling to raise import prices.
+BEAR6|Imports get more expensive, but how much well, a 10% fall in Sterling on the old Bank of England's Ready Reckoner rule of thumb would expect to raise prices by two to 3%, but there's reasons to think it might be worse than that this time around.
+NEUT7|Because what happened in 2000 and seven 2008 was that there was more pass through from.
+BEAR8|Import prices into actual prices that British people had to pay, and that's because the companies in the UK were under pressure, so they couldn't take it out of margins or have lower profit margins.
+BEAR9|They actually had to pass it on to consumers and at a time when there's huge uncertainty over the UK economy outside the EU, it's likely that companies again will be squeezed, so they might again have to pass it through to people.
+BULL10|So the two to 3% rise in prices.
+BEAR11|That means people are worse off, might be bigger.
+BULL12|Normally the good thing about a fool in the currency is that it helps trade it boosts exports and cuts imports.
+NEUT13|When you've got a trade deficit like the UK has, that mitigates any other problems in the economy.
+BULL14|But there's again reasons to think that it might not be so beneficial this time round because let's look back at 1992 when Sterling also fell very rapidly then the Bank of England could cut interest rates and there was lots of employment, so there's lots of room to grow.
+BEAR15|At the moment interest rates are only nought .5% no real room for big cuts there and we've already got full employment so there isn't the same room.
+NEUT16|And if you think about what companies might do they will.
+NEUT17|They aren't likely to locate in the UK so they can export to Europe because there's so much uncertainty about what the trading links with Europe is going to be.
+BULL18|"So the normal ways that are falling Sterling can boost exports just aren't there this time around."""

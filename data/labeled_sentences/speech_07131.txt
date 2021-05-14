@@ -1,0 +1,19 @@
+NEUT0|"""So I think I think the word rebound probably is, is misleading, and to be honest, one of the good things out of as an analyst out of what's happened the last few months is we now sauce all sorts of alternative data to measure what's going on in different economies, so we're less reliant on things like the PMI, which kind of optical issues around how you treat the 50 level, but but things like, you know, coastal ship volumes and and traffic congestion and cinema attendance and restaurant bookings, and all of these indicators are saying."
+BEAR1|China is is trying to gradually normalize its economy, but the the pace of improvement is much, much slower than the pace of slow down through January and into February.
+BEAR2|And China is probably still only back to 75% of normal capacity.
+BULL3|OK, and this comes at a time to where we've been discussing the threat of a possible second wave.
+BEAR4|And even if you don't get a second wave of cases, there's also this negative feedback loop coming from the downturn outside of China.
+NEUT5|What will the impact there be?
+NEUT6|Yeah, look, I think this term second wave in a way is misleading.
+NEUT7|I mean the the data from previous epidemics suggests actually the first wave never completely disappears, it's just that you re open social contact too quickly.
+BULL8|And I think if you look at you know China and Korea for instance, that seem to have done a pretty good job.
+BEAR9|Once they recognize what was going on in terms of enforcing social distance, they still haven't been able to get the number of new cases back to zero, certainly not for any extended.
+NEUT10|And so while that remains the case, I'd be very surprised if there's any.
+NEUT11|Broad effort to open the economy and you're absolutely right that the issue for China is one of timing.
+NEUT12|In fact, dealing with this virus is very much a domestic issue for very for every country, being able to benefit from a recovery very much as a global issue, 'cause it's hard to see how we're going to do that.
+NEUT13|While places like India and other highly populous countries are much earlier in this this unfortunate process.
+NEUT14|Hi, I'm Emily tannan.
+NEUT15|Thanks for watching CNBC.
+NEUT16|You can check out more of our videos by clicking on the boxes on the screen.
+NEUT17|And don't forget to subscribe to the channel for more.
+BULL18|"Thanks for watching."""

@@ -1,0 +1,6 @@
+BULL0|"""Well, big pay packages may be about to make a comeback on Wall Street."
+NEUT1|That's according to the Wall Street Journal, which reviewed analyst estimates.
+NEUT2|Now the report says that Goldman Sachs is on track to pay close to $700,000 per employee this year.
+BULL3|That's nearly double the firms average last year and slightly higher than the 661 thousand per employee Goldman paid out in 2008.
+BULL4|The journals is Morgan Stanley's average payout is likely to be higher than last year's 200 and 62,000.
+BULL5|"For both banks, some of the most lucrative packages are being offered in businesses that are improving such as junk bond trading."""

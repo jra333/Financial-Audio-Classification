@@ -1,0 +1,20 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|February 1st.
+NEUT2|In today's NEO stock analysis and predictions, NIO expands new stations.
+NEUT3|Alright, let's get started an IO build.
+NEUT4|7 new battery swap stations in January and plans to build 12 more before February 12th of this year.
+NEUT5|Nio mentioned their plans when they released their January delivery figures on Monday.
+BULL6|The company delivered 7225 vehicles in January, which is 352.1% jump from last year's numbers.
+BULL7|This is another record high for NIO, as they are expected to expand their reach within the Chinese market even further this year.
+NEUT8|Last month an IO built 179 battery swap stations 101 super charges 820 supercharges and created access to 360,000 third party charging posts.
+NEUT9|As of January 21st 2021, Anio customers enjoy free lifetime offsite recharge service and 12 free annual offsite recharge services.
+NEUT10|As of January 24th, NIO announced that consumers who order ES 8 E 6 and E C6 will enjoy a free lifetime battery swap benefits.
+NEUT11|Those who choose to charge their vehicles via charging pile will receive.
+NEUT12|More free battery swap services per month.
+NEUT13|Those who wave the home charging option will have the 1st 6 battery swap service fees waived each month in August and IO launched a free lifetime battery swap service policy to address customers mileage, anxiety and charging convenience.
+NEUT14|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT15|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT16|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL17|We'd really appreciate it.
+NEUT18|Are you still watching and want more?
+NEUT19|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

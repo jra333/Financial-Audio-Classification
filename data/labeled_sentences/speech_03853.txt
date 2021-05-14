@@ -1,0 +1,45 @@
+NEUT0|"""Apple CEO Tim Cook at yesterday's virtual event revealing the iPhone 12."
+NEUT1|All four of the company's new models support faster 5G networks, but is that enough to entice consumers to shell out $1000 or more for some models joining us now is Tim Long, senior research analyst at Barclays and we ask that question.
+BULL2|3/4 times already.
+NEUT3|This morning Tim about whether that's enough an I think we've got a firm, maybe.
+NEUT4|Maybe for some, maybe not for others, but where are you?
+NEUT5|Should I run out and get one now if I if I can scrape up 1100 bucks?
+BEAR6|Well, we're probably we've been a little bit.
+BULL7|Thanks for having me.
+BEAR8|We've been a little bit more sceptical on the iPhone side for the last few years here.
+NEUT9|It's been spent time since they've had a real hit.
+NEUT10|Remember the the ten was supposed to be a super cycle as well.
+NEUT11|We didn't really see it, so we've seen a lot of changes as far as customers willingness to pay really.
+NEUT12|Since that iPhone 10.
+BEAR13|So there's been a lot more mixing down.
+NEUT14|And of course, now the really the new feature here is 5G and it's.
+NEUT15|It's really, you know, when we have a new technology we struggle with.
+NEUT16|Is it worth the cost?
+NEUT17|Are there applications?
+NEUT18|What's it going to do to my battery?
+NEUT19|What is the coverage look like?
+NEUT20|So we do think you know the the key benefit for them.
+NEUT21|You probably heard this from some of the other analysts.
+NEUT22|Is that the install base is very old, so we are due for an upgrade cycle.
+NEUT23|It's been several years as I said, since we've had one, so it's just getting out of brass tacks.
+NEUT24|That is the stock.
+BULL25|Fairly priced here.
+NEUT26|Is it where the ecosystem and the services?
+NEUT27|You know that we think of with Apple.
+NEUT28|Is that enough to support where it is right now?
+NEUT29|If it's a sort of a medium warm supercycle, whatever you want to call it?
+BEAR30|Yeah, we do struggle a little bit with the valuation.
+BEAR31|Our target is showing some downside.
+BEAR32|I mean we, you know technically have seen a little bit of a disconnect between what's going on with actual fundamentals and the valuation.
+BULL33|I know everyone is is very positive on services and wearables and these new iPhones.
+NEUT34|But in reality you know the last three years, 80% of earnings growth has come from tax rate and buyback.
+BEAR35|So we we really haven't seen fundamental strength at the company.
+NEUT36|But like I said.
+NEUT37|This is a new cycle and we'll see how it plays out.
+BULL38|There is an opportunity here to up sell a lot because as I said, it's been five.
+BEAR39|We're still 20% below iPhone unit peak of five years ago.
+BULL40|So it's it's been awhile along time coming so there's definitely scope for the upgrades here.
+NEUT41|But we think it's still, you know, given how much the valuation is moved and the fundamentals really haven't.
+BEAR42|We struggle a little bit with the stock price here.
+NEUT43|Shepard Smith here.
+NEUT44|"Thanks for watching CNBC on YouTube."""

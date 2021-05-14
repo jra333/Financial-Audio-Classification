@@ -1,0 +1,5 @@
+BEAR0|"""Netflix what's going on with Netflix if you watch the news recently, you see that Netflix is trying to crack down on sharing."
+BULL1|If Netflix can successfully stop people from sharing passwords, they're going to get more customers because more people will be forced to subscribe, which would ultimately boost up their revenues, which will have a positive effect on its stock price.
+NEUT2|Do you think this will work?
+NEUT3|Do you think the stock price will go up?
+NEUT4|"Let me know in the comments."""

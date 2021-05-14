@@ -1,0 +1,46 @@
+BULL0|"""With the arrival of the new year, everyone wants to get in shape, lose some weight, and with their finances into shape."
+NEUT1|So where should you put your money in 2016?
+NEUT2|I'm Jack cartereditorbarrons.com I'm here with Kathy Roeser, a financial advisor for Morgan Stanley, based out of Chicago, where at the Breakers for this Barron's top Women Advisors conference tell me, just in general, what are the first things you worry about when putting together an asset allocation for a client first?
+NEUT3|Prevalent issue for clients is really thinking about how much risk they can tolerate.
+BULL4|We're coming up with some very wonderful years, especially in the United States and I think people with the new year have to look at how much risk they can tolerate in their asset allocation strategy.
+NEUT5|We are going into the eighth year of a bull market.
+NEUT6|These things can't go forever precisely and so for most of our clients, what we do at the beginning of the year is that we look at where they are in their stage of their life, where they're moving.
+NEUT7|Are they in building towards retirement?
+NEUT8|Are they pre retirement or they living retirement?
+NEUT9|And through that you need to go back and say am I OK with my strategy?
+NEUT10|The building retirement person can definitely take more risk on they have more time.
+NEUT11|They consume more volatility pre retirement.
+NEUT12|Start getting really concerned with that sequence of returns and the volatility of that market going up and down and then finally living in retirement all about.
+NEUT13|How do you produce income?
+NEUT14|Let's start with that more aggressive portfolio.
+NEUT15|Can you give me a sense of what your Morgan Stanley asset allocation is right now?
+NEUT16|Equities spawns alternatives.
+NEUT17|Our view going forward is that we are overweighting equities were underweighting bonds and Cash Cash is cash today.
+NEUT18|And then there's the alternative space.
+BULL19|But within the equity markets I would say we are cautiously optimistic on the United States again, 8th year of a great market.
+NEUT20|It's the low risk way of participating in the rebound in the world economy.
+NEUT21|If you have a little bit more after tune and you wouldn't be taking on more risk in Europe and in Japan.
+BEAR22|So we have an overweight in Europe and Japan and emerging markets.
+NEUT23|It's still a mixed bag in emerging markets, so that would be taking on the most level of risk.
+NEUT24|They certainly haven't done well, but presumably one of these days that's going to be the place to be.
+BEAR25|Just because valuations are lower there, but maybe not quite yet, not quite yet, not quite yet.
+NEUT26|And what about in the bond market?
+BEAR27|Obviously rates are low, bonds is been it's 33 year bull market there.
+NEUT28|That's gotta turn around at some point.
+NEUT29|How you position your bond portfolio.
+NEUT30|So I would say we're in a bear market for bonds.
+NEUT31|It has begun.
+BEAR32|It's begun hurting and so we think that you should be short to intermediate on your bond exposure.
+NEUT33|We would be in tax freeze if you're in the right tax bracket toward that.
+NEUT34|Municipal bonds and investment grade bonds.
+NEUT35|And then we're underweighting the emerging markets.
+NEUT36|I'd be very cautious there as well as the international markets now.
+NEUT37|One more question for people who are in that distribution drawdown phase.
+NEUT38|Obviously in Cummiskey they're trying to replace the income 'cause they're not working anymore, so they're using their portfolio to do it.
+NEUT39|So where do you get income in that low rate world?
+NEUT40|It's a challenge and I've been doing this for almost 30 years and I've never before had this issue of how do you produce that income.
+NEUT41|I do think you have to rethink your mindset of where you're going to get that income from, but I think it's about balance and so some people might say I'm going to buy the highest yielding stocks that can be really dangerous when the Fed starts to raise rates.
+NEUT42|So I think again balance in a mix between the bonds and the stocks higher yielding stocks in the United States as well as in Europe and Japan.
+NEUT43|And then having that intermediate bond exposure in the portfolio.
+BULL44|Thanks very much.
+BULL45|"Thank you, Jack."""

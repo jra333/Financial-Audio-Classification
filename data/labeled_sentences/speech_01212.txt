@@ -1,0 +1,7 @@
+NEUT0|"""Well, it's time now for this morning's movers and shakers."
+NEUT1|They are two of the best known mutual fund managers and they're urging investors to stick with the strategy that didn't work this year.
+NEUT2|Donald young men and Bill Miller told investors that 2010 was the year to buy large cap U.S. stocks.
+BULL3|Now that didn't pan out Yacktman so focused fund trail that 75% of its peers this year.
+BULL4|Millers Legg Mason Capital Management Value Trust have finished at 98% behind 98% rather of its rivals.
+BULL5|Now, Miller is best known for beating the S&P 500 a record 15 years in a row through 2005, smiling and Midcap stocks almost doubled the return of his S&P this year.
+BULL6|"Still, Jackman Anne Miller are making the same case for next year as they did for this one that big companies are undervalued compared with smaller one."""

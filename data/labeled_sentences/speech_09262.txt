@@ -1,0 +1,15 @@
+BULL0|"""The world is wonderful news agenda, new breaking news."
+NEUT1|Bloomberg, Goldman Sachs to set up cryptocurrency trading desk rumors have been swirling for awhile, but according to Bloomberg, Goldman Sachs will be setting up a cryptocurrency trading desk by the end of June 2018.
+NEUT2|Bloomberg cites unnamed sources from inside the firm.
+NEUT3|At present, the investment bank is trying to determine how it will maintain custody of the digital assets, according to the report, the move positions Goldman Sachs had become the first large Wall Street firm to make markets and.
+NEUT4|Cryptocurrencies conservative but open minded Goldman Sachs CEO Lloyd Blankfein has previously maintained a cautious, better open minded approach to digital currencies.
+NEUT5|Blankfein recently said Bitcoin is not for me, but there is a lot of things that there weren't for me in the past that have worked out very well.
+NEUT6|If it was 20 years forward and it worked out, I could tell you why it worked out, but based on everything that I know, I am not guessing that it will work out.
+BULL7|The firm made headlines earlier this month by saying they will clear Bitcoin futures contracts for their clients, which is an important step for such a usually conservative firm.
+NEUT8|However, Goldman did insist that at least some of its clients maintain an account with enough funds to cover the full value of the Bitcoin futures they traded.
+BEAR9|Some customers left the firm as a result, Goldman Sachs in Primator, the investment bank, is seen as one of the most elite on Wall Street.
+NEUT10|The firm's executives often retired to take powerful positions within the US government.
+NEUT11|Current Treasury Secretary Steve Mnuchin and former Secretary Hank Paulson both had high positions at Goldman with the State Investment Bank giving their imprimatur to Bitcoin and other digital currencies.
+NEUT12|It's almost certain that other Wall Street institutions will follow, as did the opening of Futures Trading on comedians.
+NEUT13|Bo.
+NEUT14|"This move further legitimizes the cryptocurrency asset class."""

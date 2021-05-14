@@ -1,0 +1,29 @@
+NEUT0|"""So what propelled you to sell things more than books?"
+NEUT1|We after books, we started selling music and then we started selling videos and then I got smart and I emailed 1000 randomly selected customers and asked them besides the things we felt today, what would you like to see us self and that answer came back incredibly long, tailed the way they answered.
+NEUT2|The question was with whatever they were looking for at that moment.
+NEUT3|So like ever one of the answers was.
+NEUT4|I wish you sold windshield wiper blades because I really need windshield wiper blades and I thought to myself we can sell anything this way and then.
+NEUT5|So then we launched electronics and toys and many other categories over time and the vision became because you read the original business plan.
+NEUT6|It's just books.
+NEUT7|Your stock.
+NEUT8|At one point I think went to $100 but then it went down to six or something like that at the peak of the Internet bubble our stock peaked somewhere around $113 and then after the Internet bubble.
+BEAR9|You know busted open our stock went down to six.
+BULL10|It went from 113 to 6 in less than a year.
+NEUT11|So my annual shareholder that year starts with a one word sentence and that one word sentence is the word Ouch.
+BEAR12|So most of those Internet companies ofthe.com era are out of business.
+BULL13|Yeah, you survive.
+NEUT14|What was that that made you to survive and virtually the rest of them are gone?
+BEAR15|Whole period is very interesting because the stock is not the company and the company is not the stock and so as I watched the stock fall from 113 to 6 I was also watching all of our internal business metrics, number of customers, profit per unit.
+NEUT16|Everything you can imagine defects etc.
+NEUT17|Every single thing about the business was getting better and fast and so as the stock price was going the wrong way, everything inside the company was going the right way and.
+NEUT18|I you know, so I wasn't we didn't need to go back to the capital markets.
+NEUT19|We didn't need more money.
+NEUT20|The only reason you know a financial bust like the Internet bubble bursting is makes it really hard to raise money.
+BULL21|But you know, we already had the money we needed, so we just needed to continue to progress.
+NEUT22|Wall Street kept saying.
+NEUT23|Well, Amazon's not making any money, they're just getting customers where the profits where the profits and Wall Street kept beating you up on that and your response was I don't really care what you think Amazon was.
+NEUT24|You know people always accuse us of selling dollar bills for $0.90 and said, look, anybody can do that and grow revenues.
+NEUT25|That's not what we're doing.
+BULL26|We always had positive gross margins.
+NEUT27|It's a fixed cost business.
+BULL28|"And So what I could see is that from the internal metrics is that at a certain volume level we would cover our fixed costs and the company would be profitable."""

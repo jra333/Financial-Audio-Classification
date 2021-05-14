@@ -1,0 +1,15 @@
+BEAR0|"""The price of Facebook stock tumbled some 8.5% today and has since tumbled almost another 8% in after hours trading this Thursday afternoon."
+NEUT1|As at the close of the market on Thursday, July 26, 2012.
+BEAR2|Shares of Facebook stock are off by an incredible 29% since its IPO in May.
+NEUT3|The IPO price was $38.00 a share and today's close left Facebook shares at 26.84.
+BEAR4|Even though Facebook exceeded earnings, its second quarter loss of $157 million and the price of Zynga stock was unfortunately way too much for investors.
+BEAR5|And if after hours trading is any indication of where the price of Facebook stock may end up tomorrow, we could see a record low price for the social network on Friday.
+BEAR6|Also bad news for Facebook partner Zynga as its poor quarterly results spooked investors and they sold off in a big big way on Thursday.
+BEAR7|Zynga stock lost a staggering 37%, or 1.90 points, to reach its lowest level ever.
+BEAR8|Facebook makes 15 to 18% of its total revenue from Zynga Games, and that was the reason for the steep drop.
+BEAR9|Social network users are experiencing gaming fatigue and the reality of gaming is that they are not long term high dollar spenders that keep the company alive far into the future.
+NEUT10|Gaming is a fad, and any particular game can see an enthusiastic following, only to lose that support in a very short time.
+BEAR11|And that is not good news for investors.
+BEAR12|When Zynga gets pummeled Ann is providing Facebook 15 to 18% of its revenues, investors get spooked.
+BEAR13|Facebook stock was way overvalued from his IPO anyway.
+NEUT14|"Next week will certainly be very interesting for the price of this social network."""

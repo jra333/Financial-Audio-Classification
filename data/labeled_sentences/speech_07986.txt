@@ -1,0 +1,29 @@
+NEUT0|"""Today we're going to talk about Paul Volcker now."
+NEUT1|He passed away this week, but we're going to discuss his legacy and what's relevant to today.
+NEUT2|Mr Volcker was president of the US Federal Reserve back in the 70s and 80s, and at the time inflation was crazy high.
+NEUT3|This red line is the 12 month percentage change in inflation.
+NEUT4|So what that means is in this year.
+NEUT5|Inflation was almost 14% higher than it had been the year before, and that means that prices were going up really, really, really quickly, and that's part of the reason that President Jimmy Carter actually appointed Paul Volcker to be the President of the US Federal Reserve, and what he did was to raise interest rates.
+NEUT6|Really, really high in order to bring down inflation.
+NEUT7|Because remember, when interest rates are higher, it's more expensive to borrow money.
+NEUT8|But what that did?
+BEAR9|Is that it pushed the US into a recession?
+NEUT10|So this blue line here is the GDP.
+BEAR11|Now, as you can imagine, folks were really mad at Paul Volcker.
+BEAR12|Interest rates were almost as high as 20%, which meant that things like housing construction stopped.
+NEUT13|People didn't want to buy cars.
+BEAR14|People lost their jobs, and the GDP sunk below zero.
+BEAR15|People were really upset, including lawmakers and American citizens in general.
+NEUT16|But Mr. Volcker didn't relent, he stood by his decision to keep interest rates high because he knew it was important.
+NEUT17|To bring inflation down, and he was justified, because that's exactly what happened.
+NEUT18|As you can see.
+NEUT19|Here Anne, one of the things that Mr. Volker is credited with, is that if you look over the course of this chart.
+BEAR20|Inflation has never been as high as it was during that.
+NEUT21|And so he gets a lot of credit for sticking by that difficult decision.
+NEUT22|Even though people were really upset with him, the reason that that is so important is because he restored credibility to the Fed.
+NEUT23|Now when financial institutions don't believe that the rules enforcers are going to actually enforce the rules, then they have no incentive not to act in a risky way.
+NEUT24|Which is what happened in 2008 during the financial crisis, and you can see the GDP sync here during that time period.
+NEUT25|Another one of Paul Volcker's legacies was the Volcker Rule, which came into effect after the 2008 crisis as part of the Dodd Frank Act, which ended proprietary trading for banks, an today inflation.
+NEUT26|As you can see, is not as high as it was really, not facing the same problems that he faced when he was the Fed president back in the 70s and.
+NEUT27|80s, but in fact it's the opposite problem, which is that the Fed would like it if inflation was just a little bit higher, since its target is 2%.
+NEUT28|"All in all, I think that the most important lesson from this time period is that it's important for regulators to have courage to do what is necessary, even if that means being unpopular for a little while."""

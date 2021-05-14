@@ -1,0 +1,7 @@
+NEUT0|"""And let's take out the Apple stock we can see here."
+NEUT1|This green candle means we have bounce back, but it's not enough.
+NEUT2|We only got very.
+NEUT3|Week comes back here, so it's still bearish for me so we can see here.
+BEAR4|We stuck between these two line and even struggle with the second year.
+BEAR5|My life very bearish.
+BULL6|"Thank you."""

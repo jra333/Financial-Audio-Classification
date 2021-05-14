@@ -1,0 +1,25 @@
+BEAR0|"""For those investors out there who are watching us this morning who have cash on the sidelines, who are waiting, thinking that there's a bottom, or they're trying to pick the bottom, which is almost an impossible task to begin with."
+NEUT1|What are you telling them they should be doing?
+NEUT2|So I say you're not going to be able to pick the bottom whatever cash you have divided over 5 installments, so the notion of averaging into the market and.
+NEUT3|Make sure if you really want to go in at this point, I wouldn't, but if you really want to go at this point, do a fifth now.
+NEUT4|A 5th next month.
+NEUT5|I know it's not very sophisticated, but no one can tell you for sure how these dynamics are going to evolve.
+NEUT6|We simply have not seen this before.
+NEUT7|Hey Mohammad, can I can we go back to that point?
+NEUT8|You were just making the idea that this is going to become a liquidity issue for a lot of companies that are out there.
+BEAR9|I don't think we've spent enough time on this and I think that's kind of like the ugly undercurrent that's rolling through all of this.
+BEAR10|We may have seen this initial drop off in this initial sell if we can get back to normal quickly.
+BEAR11|Maybe some of these businesses are OK, but I think there are a lot of companies that have taken on debt.
+BEAR12|A lot of things that have happened an with this sudden stoppage.
+NEUT13|It changes the picture for everything.
+BULL14|You're absolutely right, Becky.
+NEUT15|So there's two groups of company.
+NEUT16|Broadly speaking, there are those that have access to debt, and they are taking on a ton of that.
+BULL17|We've had record investment grade issuance.
+BULL18|We've even had some high yield issues and they're building a ton of cash buffers, which they should.
+BEAR19|But when they come out there, earning power is going to be less so their creditworthiness is going to be weaker.
+NEUT20|And on the other side we have companies want Fortunately do not have access to.
+BEAR21|Loans or to that issuance and for them illiquidity problem will become a solvency issue, which means a reversible shock will become a permanent capital impairment shock.
+NEUT22|So wherever you look we're going to have to price in a different post crisis landscape and that's one of the four things that as yet markets haven't got their arms around.
+NEUT23|They will.
+BEAR24|"But unfortunately it means lower valuations from here."""

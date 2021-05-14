@@ -1,0 +1,12 @@
+NEUT0|"""Hello everyone, get your free share at 33.com, the first free platform on UK."
+NEUT1|You can just go on the application following the link in the bio and you can get one free share.
+NEUT2|As you can see I have already 2 free shares in My Portfolio.
+NEUT3|You don't pay nothing for them, just need to register to invest £2.00 that is the minimum on a random company and you will see that your portfolio will go up.
+NEUT4|I just started My Portfolio yesterday, investing £9.
+NEUT5|I saw that is a very cool platform, so I invested 20 more and right now I'm already up 14 P. This is even more than putting your money in the bank.
+NEUT6|So just pick the right companies, do your own research and follow the link in the bio to receive free shares for each friend you refer by following the link in the bio, I will receive one fresher and you will receive an fresher.
+NEUT7|Don't make my mistake to go and download the app without clicking the link in the bio because I didn't get my first fresher as our federal.
+NEUT8|I just download the app and then got these two features by referring to other friends.
+NEUT9|So click the link in the bio.
+NEUT10|Download the application, invest £2.00 in a random company for example Tesla and then.
+NEUT11|"He will get your free shirt in."""

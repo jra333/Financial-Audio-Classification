@@ -1,0 +1,26 @@
+BULL0|"""MSC Eyes Index of Stocks most exposed to China has caught investors attention."
+BEAR1|It has done surprisingly well of late before the Communist Party's five yearly Congress ended the Department head of the People's Bank of China warned that over optimism on the markets could lead to a sharper correction.
+BEAR2|Later, it was seen as a clear signal that China intended to embark on the painful process of reining in its credit.
+BEAR3|And was hardly a sign for investors to rush back into China.
+BULL4|Nonetheless, Chinese shares have raced ahead.
+BULL5|Investors seem unambiguously happy about recent events in China.
+NEUT6|Let's hope there right?
+BEAR7|Data released by the International Monetary Fund has raised eyebrows in the bond market bond buying by the Bank of Japan and the European Central Bank is set to exceed new issuance over the next five years that pushes private investors out of those markets and leaves only the US as a substantial source of highly rated sovereign debt.
+NEUT8|According to the IMF's findings of the $1.5 trillion of debt issued by advanced economies since 2010.
+BULL9|2/3 has been bought up by official purchases.
+BULL10|The trend has implications for pricing in a wide range of other assets as sovereign bonds act as a benchmark in other markets.
+BULL11|The pool of sovereign and corporate bonds trading with the yield below 0 is back in their $11 trillion turning round from a recent dip.
+NEUT12|According to data from Bloomberg Barclays indices.
+BEAR13|This may well mark atop as the European Central Bank slows its pace of bond buying as the global economy shows signs of accelerating for bond investors.
+NEUT14|The big question remains, how long can inflation pressures remain moribund?
+BULL15|As labor markets tighten and economies gain altitude.
+BULL16|Bull markets thrive on liquidity and thanks to central banks buying up bonds, there's no shortage of money sloshing through the global financial system.
+BULL17|Indeed, the latest Bank of America Merrill Lynch Monthly survey of investors reveals a record high of investors saying that they are taking above normal levels of risk in their investment.
+BEAR18|With US equities and credit sitting at lofty levels in what some are doubling the Icarus trade, the measured pace of Federal Reserve rate tightening is not presenting a headwind.
+NEUT19|For now, liquidity remains the key driver of the bull run, and in that context money supply among other financial and credit indicators warrant close watching says analysis from Longview economics.
+BEAR20|Emerging markets are showing signs of weakness after a barnstorming run for much of the year as the dollar has rebounded beyond pressure on EM currencies.
+NEUT21|We're seeing an interesting divergences between buns and share.
+NEUT22|Price is a firmer dollar has not, and I shares exchange traded fund known as EEB, which tracks the JP Morgan am Bond Index.
+NEUT23|In contrast, I shares his EM equities ETF known as EEM.
+BEAR24|Has defied expectations to follow the bond ETF lower?
+NEUT25|"How long can EM equities ignore the weakness we're seeing in bonds and currencies markets?"""

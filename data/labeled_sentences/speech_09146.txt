@@ -1,0 +1,18 @@
+BULL0|"""Bitcoin news greetings everyone."
+NEUT1|Listening to our best Bitcoin newsletter today.
+NEUT2|India's crypto ban is coming honders to be given transition period.
+BEAR3|Bloomberg, an anonymous Indian official, has claimed the country's parliament will soon introduce a blanket bank on crypto assets and give Honduras three to six months to liquidate an anonymous source claiming to be a senior Indian Finance Ministry official has claimed that the use of crypto assets will soon be completely banned in the world's second most populated country.
+NEUT4|Speaking to Bloomberg, the source claimed that the use of cryptocurrency in all its forms will be banned under a new law expected to soon be introduced in the parliament.
+NEUT5|Transacting with crypto via foreign exchanges will also be prohibited.
+NEUT6|Crypto investors are expected to be given a three to six month transition period to liquidate their Holdings after the new law comes into effect, the source said.
+BEAR7|The official emphasized that crypto assets have been targeted by Indian as lawmakers due to their lack of backing from the Reserve Bank of India.
+NEUT8|Or RBI in January Indian S Parliament introduced the cryptocurrency and regulation of official digital currency Bill 2021 for discussion during the ongoing parliamentary sessions on the Country S budget.
+NEUT9|The bill S purpose was described as creating a facilitative framework for a central bank digital currency issued by the RBI and to prohibit all private cryptocurrencies in India.
+NEUT10|Soft Vishwa, not the co-founder and CEO of major Indian cryptocurrency exchange Unocoin.
+NEUT11|Told Bloomberg, the local crypto industry are anxiously waiting for details to come out to determine their next course of action.
+NEUT12|If government goes ahead with banning all cryptocurrencies except the one backed by the state, it will not make sense to continue our business in India.
+NEUT13|But we'll have to wait and watch.
+BULL14|In March 2020, Indian S Supreme Court overturned the RBIs.
+BEAR15|April 2018 blanket ban on local banks, providing services to businesses dealing with crypto, effectively legitimizing crypto currency companies across the country.
+NEUT16|However, the Indian Ministry of Finance proposed legislation that would again ban crypto assets nationwide in June 2020.
+NEUT17|"The newsletter is over goodbye and see you in the following newsletters."""

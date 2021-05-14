@@ -1,0 +1,39 @@
+BULL0|"""Hey John, Penny stocks are the newest frontier in this recent retail trading boom."
+BEAR1|These are shares of smaller companies that trade at less than 5 bucks and they're not available on the New York Stock Exchange or NASDAQ over the counter markets where they do trade have been on fire this year.
+BULL2|In February, trading volume on so-called OTC markets was up 2000% from a year ago, topping $1.9 trillion.
+BULL3|The Penny Stock rally comes alongside a lot of new hype.
+NEUT4|In names like GameStop, cryptocurrencies like Doge Coin and the new NFT frenzy, there are some common threads among these investments.
+NEUT5|First, they lack the fundamentals.
+NEUT6|That Wall Street often cares about.
+NEUT7|They tend to be correlated more with hype on social media and a get rich, quick mentality.
+NEUT8|Analyst.
+NEUT9|Call me with, tell me with some of these momentum trades, and because shares of these penny stocks are thinly traded, meaning they have low volume, they tend to be susceptible to bigger market moves.
+NEUT10|That also makes them ripe.
+NEUT11|For fraud, this used to be done over good old-fashioned cold calls.
+NEUT12|Jordan Belford, AKA The Wolf of Wall Street, is the most famous recent example.
+NEUT13|In recent decades and Twitter and Reddit are now being called the 21st century venue for some of these scams.
+BEAR14|The SEC, Meanwhile, is taking notice shutting down more than 20 penny stock tickers for quote suspicious trading in late February, and the agency has gone after a few individuals for pump and dump schemes, including one California trader.
+NEUT15|Who they say used his Twitter account OC millionaire to pump up the price of a company that hasn't done business in five years.
+BEAR16|He allegedly raked in nearly $1,000,000 after that stock jumped 4000% John back to you.
+NEUT17|So to what extent is this really read?
+NEUT18|I just want to be clear like when you say read it.
+NEUT19|A lot of people think Wallstreetbets.
+NEUT20|I'm not sure that Wallstreetbets is really a part of this at all, but there are lots of different pockets of people you know.
+NEUT21|Hyping up ideas on social media, an often with disclaimers because they know that they can get into hot water.
+NEUT22|Big time there are different Reddit threads.
+NEUT23|I mean read it as part of it.
+NEUT24|There's also Twitter.
+NEUT25|There's also different stock forums, but there are.
+NEUT26|It's not just Wall Street bets.
+NEUT27|There are entire forums completely dedicated to penny stocks and they have disclaimers saying.
+NEUT28|By the way, this is an investment advice, but we've seen that you know, a lot of these themes, whether it's blockchain or cryptocurrency spilling into penny stocks.
+BULL29|So you see, with the rise of blockchain's, Bitcoin even has gone to near 60,000.
+NEUT30|Some of these penny stocks anything with the name blockchain in it, and some of the other themes, like electric vehicles in clean energy.
+NEUT31|You see this hype around it, so there just seems to be a correlation.
+NEUT32|But you're right, it's not all entirely read it, yeah?
+NEUT33|Takes me back to the.com days where everybody was just putting a.com on the end of something.
+NEUT34|We'll see where it goes by.
+NEUT35|Or definitely beware Kate Rooney.
+NEUT36|Thank you.
+NEUT37|Shepard Smith here.
+NEUT38|"Thanks for watching CNBC on YouTube."""

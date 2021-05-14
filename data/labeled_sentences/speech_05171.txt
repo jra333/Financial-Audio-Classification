@@ -1,0 +1,33 @@
+BEAR0|"""Democrats are pushing a new bill that would contaminate and corrupt future elections in America."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+NEUT2|We get the insights you need to help navigate these turbulent times.
+BEAR3|The integrity of future elections in this country is under assault.
+NEUT4|Congressional Democrats are determined to pass a bill with the innocent sounding name of for the People Act of 2021.
+BEAR5|Don't be fooled, it is the most blatant assault ever on the honesty of our electoral system.
+NEUT6|Among its many awful provisions, this bill would force voter registration.
+NEUT7|Every state would have to automatically register voters.
+NEUT8|Based on names and state and federal databases such as State, Department of Motor Vehicles, Welfare officers, food Stamps, Medicare, Medicaid and many more, people not here legally, we automatically register if there on one of those databases.
+BEAR9|This means enormous duplication of names, an opportunity for fraud.
+NEUT10|It would ban voter ID.
+NEUT11|You must have some form of identification to board a plane.
+NEUT12|Get a drivers license, open a bank account and countless other activities.
+NEUT13|Why shouldn't the state be allowed to require?
+NEUT14|Valid ID to participate in the most sacred exercise in democracy that bill would mandate same day.
+NEUT15|Voter registration without ID.
+BEAR16|This move is ripe for enabling ineligible individuals to vote.
+NEUT17|Would for states to have online voting, registration and open invitation for hacking and fraud.
+NEUT18|Restrict states from using the US Postal Services national change of address system to verify addresses of registered voters.
+NEUT19|States would be barred from using undeliverable election Mail as a reason for challenging.
+NEUT20|The eligibility of a voter.
+BEAR21|The bill would stop states from comparing voter registration rolls to remove people who may be registered in more than one state.
+NEUT22|The legislation would also ban absentee ballot requirements for the signature, witness or other forms of notarization to ensure that the ballot is from an eligible voter would compel states to count ballots cast by voters outside their assigned precincts.
+NEUT23|Another invitation for fraud would mandate states allow the registration of 16 and 17 year olds theoretically.
+NEUT24|They couldn't vote until they're 18 without ID or other safeguards.
+NEUT25|You know they'd be underage voting.
+BEAR26|Before states permit ballot harvesting, whereby campaign workers can pick up absentee ballots from people with no independent oversight, this has been a big source of election abuse, specially in California.
+NEUT27|The Democrats legislation restricts state legislatures from drawing lines for congressional districts and instead leave that up to so called independent commissions which no surprise in states where it's used, such as New Jersey and California favor the Democrats.
+NEUT28|The bill has other horrors that would restrict free speech, assault the independence of the judiciary and encourage political abuse is from the IRS.
+NEUT29|Let's hope this bill is deep sixed.
+NEUT30|I'm Steve Forbes.
+BULL31|Thanks for listening to send in your comments and suggestions.
+BULL32|"I look forward to being with you soon again."""

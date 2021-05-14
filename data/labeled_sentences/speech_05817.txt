@@ -1,0 +1,29 @@
+BULL0|"""So Anthony, just this morning you announced the addition of 14 million new accounts in 2020, an increase in 55% in streaming hours in the fourth quarter."
+NEUT1|The big question with the stocks gains is really can you sustain this kind of growth or is it really just due to the pandemic?
+NEUT2|No, I mean I think streaming is definitely here to stay.
+NEUT3|There's no doubt about that.
+NEUT4|The you know, we've always believed that all TV is moving to streaming and we're well into that transition.
+BULL5|But there's still a long way to go, you know, fifty million active accounts is a great milestone for us.
+NEUT6|We're super excited about that, but there's a billion broadband households around the world, and they're all going to get their television through streaming.
+BULL7|So you know, there's a lot of room to keep growing in the streaming business.
+BEAR8|You also reported this morning survey results that said that you believe 1/3 of households have cut the cord.
+BULL9|You think that number will increase to 1/2 of households by 2024?
+NEUT10|How does that impact your guidance for how big you believe the addressable market is for Roku and how do you take into consideration the fact that there's still a lot of competition in this space from Google, Apple, Amazon, etc.
+NEUT11|Yeah, so in terms of the cord cutting, you know that's obviously a big phenomenon in the United States, we're seeing a lot of consumers cutting the cord.
+NEUT12|You know, I think, but I think that's just going to keep continuing.
+NEUT13|I mean, obviously, you know, we believe all TV's going to be streamed eventually.
+NEUT14|No one's going to watch TV the way they traditionally have watched it over cable or satellite and it'll all be screaming so that so I think the numbers we're seeing in cord cutting just show that that's happening and it's going to continue to keep happening.
+NEUT15|That's in United States in other countries around the world, you know, pay TV is just not as big and so streaming is a.
+NEUT16|Is the new phenomenon for them, but they're also switching streaming in terms of competition.
+BULL17|I mean, we've been competing with big companies since we started Roku.
+NEUT18|I mean, you, you know, and we've been competing very successfully, and I think there's a few reasons for that.
+NEUT19|One is that we're just incredibly focused on streaming.
+NEUT20|It's all we do every day we come in and we work on building the best streaming platform for consumers and for our advertisers and for our content publishers and for our TV partners such as a big focus for us.
+NEUT21|We also have built the only purpose built software platform for TV.
+NEUT22|So our competitors all use software designed for mobile and they've ported TV.
+NEUT23|Where is we've built something from the beginning just for TV and that has lots of advantages, including things like better constructeur for, you know, for manufacturers, and you know, advertising built in intrinsically and promotion built in intrinsically in a better experience for customers.
+NEUT24|And so there's just a lot of reasons for it, and so we're, you know, I'm very.
+NEUT25|I mean, we take our competition very seriously.
+BULL26|Obviously there are big companies, but I think the results show that we're competing very successfully.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

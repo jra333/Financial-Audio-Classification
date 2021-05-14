@@ -1,0 +1,27 @@
+BULL0|"""We're showing the shares of Disney and now pretty much the highs of the day."
+BEAR1|There were just over $130 a share for the first time since February.
+NEUT2|On news.
+NEUT3|This hour that third points.
+NEUT4|Dan Loeb has taken a new position in the second quarter in Disney along with Amazon, Alibaba and JD Pete.
+NEUT5|I'll go to you first for your final trade as we continue to reflect on this news.
+NEUT6|We're learning an awfully well known investor and a really good one at that.
+BULL7|Taking a new position in Disney and very high on that company's prospects.
+BULL8|Especially as it relates to that streaming opportunity which he calls the biggest ever for that company.
+NEUT9|Right, and that's obviously the focus that everybody was looking at, and that was the interpretation.
+NEUT10|And that's why the stock went where it was.
+NEUT11|The interesting thing was on Monday, Scott.
+NEUT12|They were buying a call spread that was about $5 out of the money at the time.
+NEUT13|All that really means is somebody was speculating that the stock actually could get up towards 128.
+NEUT14|Here we are now we're at 1:30.
+NEUT15|So what I liked and why I'm using Disney as my final trade is they're buying next weeks 132 strike calls so you know what you can't fight him.
+NEUT16|You got to join him, and it looks like it's going higher.
+BULL17|Yeah, appreciate that Brenda quickly from you please.
+BULL18|Yep.
+NEUT19|You're looking to diversify away from technology.
+BULL20|Honeywell is a great high quality industrial company with a diverse revenue stream.
+NEUT21|Farmer Jim.
+BULL22|Alaska Airlines doesn't need the government support, but it will benefit from it.
+BULL23|OK, that stock up so slightly, Josh.
+NEUT24|Lastly to you.
+BEAR25|Store capital earnings are out.
+BULL26|"They are performing very well now collecting 85% of rents up from 65 in April."""

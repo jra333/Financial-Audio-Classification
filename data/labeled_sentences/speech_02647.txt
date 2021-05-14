@@ -1,0 +1,18 @@
+NEUT0|"""We are analyzing and evaluating several of the more interesting data anomalies from the pandemic induced shutdown."
+BULL1|First, the index of hourly wages increased to an 8% inflation rate from 3% earlier in the year.
+NEUT2|Wage inflation, not really.
+BEAR3|When millions of lower paid workers lose their jobs, they are no longer included in the wage calculations, so the weighted average tilts toward higher paid workers.
+BEAR4|Even if everyone received the exact same wages as the previous month, the wage index goes up.
+NEUT5|There is no wage inflation.
+NEUT6|For our second example, we look at the savings rate.
+BULL7|Savings rate went from 8% earlier in the year to 33%.
+NEUT8|Wow, why did the savings rates soar?
+NEUT9|Well, various government transfer payments to individuals were received.
+NEUT10|Those are the checks that were sent to individuals, and then there were increases in unemployment insurance.
+BULL11|Personal income went up.
+NEUT12|But during the pandemic induced shutdown there were not as many places to spend money and many individuals in these tough times wanted to save every penny they could.
+BEAR13|Expenditures went down so a personal income goes up and expenditures go down well.
+BULL14|The savings rates soared.
+NEUT15|Very careful interpreting data during this pandemic Europe.
+BEAR16|We are far from equilibrium and there are many data anomalies that need special consideration.
+NEUT17|"I'm Blue Putnam chief economist, CME Group."""

@@ -1,0 +1,20 @@
+BEAR0|"""Some breaking news regarding Berkshire Hathaway."
+NEUT1|Juliette LaRoche has those details for Australia.
+NEUT2|That's right, Shawna Warren Buffett's 13 F has just crossed providing insight into the Oracle of Omaha's fourth quarter stock pics, and he took a new stake in Verizon.
+NEUT3|Keeping my Verizon is the parent company of Yahoo Finance.
+BULL4|He snapped up 146.7 million shares and this is a new position.
+NEUT5|China at the end of the year.
+NEUT6|This position was valued at around 8:00.
+NEUT7|Point $6 billion.
+NEUT8|Some other new stakes that Buffett added in the quarter include Chevron, also EW Scripps and Company and just give you a bit more insight here into buffets moves.
+BEAR9|He did exit JPMorgan Chase and also PNC Financial Services trim some positions in Wells Fargo also trimmed his stake in Apple by about 6%.
+NEUT10|That's what I'm seeing here.
+BULL11|Also, looks like he got out of Barrick Gold that was a new position.
+NEUT12|That he took in a, I think, but I think believe it was the second quarter of 2020.
+NEUT13|Exited Barrick Gold.
+NEUT14|Also, you know trimming some steaks across GM US Bancorp?
+BEAR15|Also trim some shares there as well.
+NEUT16|So the big news here of course, is a lot of folks were wondering what his new positions are and just to emphasize, it's Verizon 146.7 million shares.
+NEUT17|I'm looking at the stock price in the after our session.
+BULL18|It's about 2.5% higher.
+NEUT19|"Shawna Adam."""

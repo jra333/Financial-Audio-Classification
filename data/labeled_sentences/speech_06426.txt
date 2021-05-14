@@ -1,0 +1,15 @@
+NEUT0|"""Later this year, the UK's Debt Management Office will sell a 30 year index, linked Gilt."
+NEUT1|Apart from pension funds, who on Earth would buy it after all at current yields?
+BULL2|Not a single one of the UK's existing inflation protected bonds actually protect against inflation and prices which move inversely to yields, have already enjoyed spectacular gains this year.
+NEUT3|Normally you would buy a linker if you thought inflation was going to rise.
+BEAR4|That is exactly what investors did in 2008 when Sterling fell sharply during the financial crisis.
+BULL5|Inflation picked up as imports became costlier and Link's prices rose.
+BEAR6|Sterling has fallen again recently.
+BULL7|Largely, although not exclusively, because of the Brexit vote, inflation expectations are once again rising.
+NEUT8|The fact that the starting point is different yields are negative across the curve does not seem to have put investors off, and you could still make money in linkers, at least in relative terms.
+NEUT9|This chart shows why it's the break even rate.
+NEUT10|The difference between yields are nominal and index linked bonds for five year maturities.
+NEUT11|It's currently around 2.6%, so if you thought inflation was going to be more than that then you'd buy index linked bonds and sell nominal ones.
+BEAR12|We cannot of course know what inflation will be in the future or whether the pound will fall any further and we may fail to correctly estimate the so-called pass through rate.
+NEUT13|That quantify's the effect of a weak currency on inflation.
+NEUT14|"But one thing we have learned, especially since 2009, is that, however surreal conditions in the bond market may look, they can always get still more surreal."""

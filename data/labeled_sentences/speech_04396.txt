@@ -1,0 +1,29 @@
+BULL0|"""You've made your name in the bond and bonds."
+NEUT1|Do you like to think about stocks a lot or no?
+NEUT2|It's all wrapped together really.
+NEUT3|It's all it's kind of a puzzle.
+NEUT4|You have to sort out and the inputs are commodity stocks, bonds, currencies, real estate.
+NEUT5|I found that to help manage bonds, it was important to try to understand the whole picture and put it all together and in so doing, you know it's sort of led to thinking about currencies.
+NEUT6|I mean, I've been a dollar bull.
+BULL7|Since like 2009 or something, remember, and I think the dollar is weak in the near term, but I think the dollar is going much higher.
+NEUT8|I think there's going to be a strong currency, not a weak one.
+NEUT9|Looking forward multiple years.
+NEUT10|So I always kind of included that you know, we've decided whether we're going to non dollar denominated bonds in our bond portfolios and we're all dollar denominated.
+NEUT11|Now I wish I hadn't been the last few months, but it's been the right move again, looking further down the road.
+NEUT12|I just look for signs of, well, sort of irrational exuberance to use the phrase it's been around awhile in various markets.
+NEUT13|This.
+NEUT14|Telltales that risk might be at an amplified level, and that's one of the reasons why I look at some of these.
+NEUT15|These odds docs you know, like where they just seem so incredibly highly valued.
+NEUT16|The one that like most.
+NEUT17|Perplexed by and, I've never never been long and never been short it.
+NEUT18|Is Amazon how everyone is so willing to wait that they're going to be a Walmart one day?
+BULL19|They're going to finally have a profit margin of some significance and they're finally going to make some money.
+NEUT20|And people are certainly patient with that.
+NEUT21|With it's, I don't know what the P is.
+NEUT22|Its way up there and you know all they need to do is get some earnings, but they never get any.
+NEUT23|And yet people are completely comfortable because the stock price is just.
+BULL24|It's just been flawless in terms of its performance.
+NEUT25|It just seems to me that watching that I'm not drinking move on that, but I'm watching that to see if that kind of patience and belief in this business model and it's kind of a metaphor for all of these.
+BULL26|I mean, Amazon clearly is in better shape than some of these that have aren't making any money, but I think if Amazon has a sentiment shift, it's going to probably be an important one relative to that entire kind of highly valued momentum sector.
+NEUT27|And so I can watch it every day.
+BEAR28|"In a mystified by its its Superman like characteristics."""

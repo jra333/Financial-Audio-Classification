@@ -1,0 +1,15 @@
+NEUT0|"""However, let's take a look at the Apple stock."
+NEUT1|Here is the charge that they charge in last Friday, so we can see at the end of the market as it approached closed market.
+BEAR2|We can see the ceiling is very heavy here with great volume.
+NEUT3|So it's on Friday if we change the chart to the daily chart.
+NEUT4|We can see here.
+NEUT5|It formed a red candle and this candle has a upper tail, so it can be called adagio at all and with.
+BULL6|Comparably larger volume.
+BEAR7|So in my opinion, is still bearish for the Apple stock and in neutral we think the Apple stock need to retest the low.
+NEUT8|Here 103 is very likely for the Apple stock to take the.
+NEUT9|Retest of the supporting.
+BEAR10|If so, the whole U.S. market will go down because I pull is the former leader of the market and if we checked the whole picture here we can see the bounce back from this law is not enough, it's only stopped here.
+BEAR11|So it's a bearish sign for the whole market is still likely for the whole market to form a secondary hard here, so it's.
+NEUT12|One head.
+BEAR13|Secondary high so is still bearish for the whole market.
+NEUT14|"Don't go back too soon."""

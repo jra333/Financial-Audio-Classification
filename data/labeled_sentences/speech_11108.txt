@@ -1,0 +1,16 @@
+NEUT0|"""Neo stock analysis and predictions, January 15th."
+NEUT1|In today's NEO stock analysis and predictions, why NEO stock is not moving?
+NEUT2|All right, let's get started.
+BEAR3|Financial stocks all around are falling as investors assessed the details of President elect Joe Biden's $1.9 trillion spending bill that includes $350 billion in state aid.
+BEAR4|Anio is currently down 5.75%, Tesla is down 0.56%, Lee Autos is down 5.39% and expenses down five point.
+BEAR5|Or 6% the S&P 500 index are down 0.4% as of 11:36 AM in London after rising as much as zero point 2% earlier, the NASDAQ index is also down 0.51%.
+NEUT6|Analysts say that Biden stimulus check is there isn't a big deal for Nio's.
+NEUT7|This pullback will go away as soon as the markets stabilize.
+BEAR8|This pullback is unlikely to affect the long term bull run for NIO in any significant way.
+NEUT9|This is the time to buy more NIO stock while it is still on sale.
+NEUT10|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT11|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT12|If you enjoy this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL13|We'd really appreciate it.
+NEUT14|Are you still watching and want more?
+NEUT15|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

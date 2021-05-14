@@ -1,0 +1,33 @@
+NEUT0|"""Is gold now passe no longer relevant in this age of cryptocurrencies?"
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead.
+BULL2|Will you get the insights you need to help navigate these turbulent times?
+BULL3|Bitcoin and other cryptocurrencies have rocketed to the moon.
+BEAR4|Commodities are rising sharply and stuck into see Set records day after day, but gold it has been dead in the water for months, leading a lot of observers to declare that the yellow metal is no longer a shield against excess money.
+BEAR5|Printing a victim of high tech currencies.
+NEUT6|The skeptics are wrong.
+NEUT7|There are sound reasons why gold has been the best store of value for 4000 years.
+BULL8|More reliable than any other commodity, including the new electronic varieties.
+NEUT9|Here's why gold is rare, but not too rare.
+BULL10|The gold supply grows, averaging an increase of nearly 2% a year despite advances in mining technology, that average is held, which is not true of other metals such as silver or copper.
+NEUT11|The supply Bitcoin, in fact, is fixed.
+NEUT12|It can't be destroyed.
+NEUT13|It can't be consumed.
+NEUT14|Every oz that's been mind is still in existence, which means you don't have supply shocks as you would say with wheat.
+BEAR15|If there's a drought that sends the price up sharply.
+NEUT16|Gold is easy to store and transport, unlike oil, it can't be hacked.
+NEUT17|For centuries countless attempts were made to replicate the yellow metal in the laboratory, which was called alchemy.
+NEUT18|The alchemists always failed, which is a contrast to diamonds which can be artificially created.
+NEUT19|So why hasn't the price of gold surged recently?
+BULL20|Critics overlooked that the yellow metal went up around 50% between summer 2019 and the summer of 2020.
+NEUT21|Since then, banks have been holding lots of cash, as have consumers, but that is about to change big time.
+BULL22|The Biden administration is determined to shovel out the $1 trillion from previous pandemic relief measures that remains unspent.
+NEUT23|It'll soon try to ram through Congress.
+NEUT24|Another COVID-19 bill of almost $2 trillion.
+BULL25|Now that number might be trimmed, but it will still be a whopper.
+NEUT26|The White House wants to follow that with an additional $3 trillion for infrastructure, and it wants the Federal Reserve to print the money to pay for all of this, which the Fed seems all too willing to do.
+BEAR27|As this tsunami of cash floods through the economy in the second half of this year and going into next year, inflation will surge and so will the price of gold.
+NEUT28|Of course, Washington may try to prevent a serious inflation by, say, jawboning banks to reduce the volume of new loans by the Fed paying high interest rates on banks excess reserves, but don't count on it.
+NEUT29|Washington seems oblivious to the coming danger.
+NEUT30|I'm Steve Forbes.
+BULL31|Thanks for listening.
+BULL32|"Do send in your comments and suggestions and look forward to being with you soon again."""

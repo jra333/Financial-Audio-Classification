@@ -1,0 +1,20 @@
+BEAR0|"""Life is moving at a faster pace than ever before, making it hard to get recognized."
+NEUT1|Which is why so many businesses break the bank before getting off the ground.
+BULL2|The new TV show America Ingenuity will help businesses stand out from the crowd while entertaining and bringing audiences together with their new take on crowd funding.
+NEUT3|To make this possible, American Genuity has brought on two TV legends Kevin Herrington and Ford Riley.
+NEUT4|Kevin Harrington is the inventor of infomercials.
+NEUT5|He's the as seen on TV pioneer, whose genius of marketing has generated billions of dollars in sales, making him the billion dollar man.
+BULL6|Celebrity host Ford Riley has helped launch over 1000 products, making her Queen of information her irresistible marketing presence has helped other Peoples product sale to the tune of over $1 billion.
+BULL7|Buzz is building over Kevin and Forbes.
+NEUT8|Starring in America ingenuity.
+NEUT9|So much so that entrepreneurs showed up at their first production meeting, hoping to talk to them about the next big idea.
+NEUT10|How beautiful is that?
+NEUT11|That doesn't kill the flower.
+NEUT12|It doesn't kill the flower.
+NEUT13|Cutting copper, don't call cops.
+NEUT14|We're going to put it out to all America, but I'll tell you what I'm in.
+BULL15|Yeah, I like it.
+NEUT16|What I love is that the crowd right?
+NEUT17|And everyone in America now gets to be the shark so they get to vote on whether or not they want to be involved.
+NEUT18|Billion dollar duo therein are you?
+NEUT19|"Did you hear that?"""

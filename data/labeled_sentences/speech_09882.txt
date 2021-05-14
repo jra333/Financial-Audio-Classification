@@ -1,0 +1,27 @@
+NEUT0|"""Hi this is Samir from investexcel.net."
+NEUT1|In this video, I'll demonstrate how you can get regularly updated dollar spot prices straight into Excel spreadsheets.
+NEUT2|This technique uses excel's web query functionality.
+NEUT3|I'll stop against the date tab.
+NEUT4|And taking on from web.
+NEUT5|This brings me to the new blood Prairie window.
+NEUT6|In the address bar, I'll paste in the URL and click on go.
+NEUT7|This brings me to this page from the Yahoo Finance websites.
+NEUT8|This page lists gold spot prices.
+NEUT9|In this table I have the previous close the open as well as the bid and ask prices.
+NEUT10|If I click on this arrow on the top left corner of this table.
+NEUT11|This table gets highlighted.
+NEUT12|Online click on imports.
+NEUT13|Excel now asks me where I want the date to be located in my spreadsheets.
+NEUT14|Let's say I'll have it filled in himself, A1.
+NEUT15|Let's click on properties.
+NEUT16|I cannot edit the properties of that query.
+NEUT17|This option lets me change the refresh rate of the web query.
+NEUT18|Let's say I want this web query updated every minute.
+NEUT19|I'll check on OK and OK again.
+BULL20|Excel when connecting Yahoo Finance and brings him my gold spot prices.
+NEUT21|As specified in the right query properties, this data will update every minute.
+NEUT22|If I want to change the refresh rates, all I need to do is drag select this range of cells.
+NEUT23|Right click.
+NEUT24|And select data range properties.
+NEUT25|And then go back to the Web Pro Properties menu.
+BULL26|"Thank you for listening."""

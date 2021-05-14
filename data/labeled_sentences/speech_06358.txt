@@ -1,0 +1,14 @@
+NEUT0|"""Here's what we're watching with the Global trading day up and running in London."
+BULL1|Equities are marching higher in Europe as earnings season heats up.
+BEAR2|Wall Street, hovering near a record peak after it closed last night.
+BEAR3|The dollar is shedding early gains, while gold is flatlining.
+BULL4|Sovereign bond markets somewhat becomes firmer.
+BULL5|Oil prices are good news for energy shares while eurozone financials are also higher.
+BEAR6|Failing to follow the slide we saw overnight for U.S. banks, sector rotation remains a key aspect of trading as investors await further development.
+NEUT7|There are many political when they look at the US, UK and Europe.
+BEAR8|The recent pullback in U.S. Treasury bond yields is seen by some as suggesting a degree of doubt is creeping in over the ability of Donald Trump to drive his expansive fiscal plans through Congress.
+NEUT9|Still others are betting big on Trump.
+BULL10|Hence a pronounced rally we're seeing in junk rated debt as investors anticipate stronger growth, deregulation and tax reforms.
+BEAR11|While you are small caps remain below their record set in early December.
+NEUT12|The message from junk investors is keep the faith.
+NEUT13|"In the Trump trade."""

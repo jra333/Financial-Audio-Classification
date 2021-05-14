@@ -1,0 +1,26 @@
+NEUT0|"""Neo stock analysis and predictions, January 12th."
+BULL1|In today's NEO stock analysis and predictions, Anio shares will always bounce back.
+NEUT2|Alright, let's get started today.
+BEAR3|NIO shares slipped 1% in premarket trading due to its offering of 1.3 billion in convertible notes.
+BULL4|A Citigroup analyst also gave an Iowan neutral rating but raised their price target by 47% to $68.30.
+BEAR5|The Citigroup analyst gave an Iowan neutral rating based on concerns of NIO competing with Tesla.
+BEAR6|In the Chinese market, the analyst believes that Tesla's price cuts will affect an iOS deliveries in popularity.
+NEUT7|This, however, is furthest from the truth.
+BULL8|Let's see why an iOS catalyst one last year when Tesla cut its prices, NIO was still able to exceed record delivery expectations as well as become a trusted brand amongst consumers.
+NEUT9|In fact, an iOS backorders exceed over 30,000 for all their model vehicles.
+NEUT10|It takes more than a month for a customer to obtain a new NIO vehicle because the demand is so high.
+NEUT11|To to meet the demand of its customers.
+BULL12|NIO has increased their car production capacity up to 15%.
+BULL13|An IO has decided to do this in order to meet the ever continuing request amongst their consumer base.
+NEUT14|Three Anio is still projected to take 40 to 45% of China's EV market in the next 5 to 10 years as well, take over 30 to 40% of Europe's EV market for an iOS, knew ET7 sedan has already acquired over 40,000 backorders since Nio Day.
+BULL15|This number is set to increases.
+NEUT16|This year goes along.
+NEUT17|This is just a few of the catalysts that will push in IO ahead of Tesla.
+BULL18|So despite what Citigroup says, Nio will always bounce back from this small pullback.
+NEUT19|This an iOS convertible notes are just setting an IO up for more future growth.
+NEUT20|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT21|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT22|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL23|We'd really appreciate it.
+NEUT24|Are you still watching and want more?
+NEUT25|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

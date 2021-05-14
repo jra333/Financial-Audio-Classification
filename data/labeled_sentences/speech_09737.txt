@@ -1,0 +1,20 @@
+NEUT0|"""How are black Box shares another financials?"
+NEUT1|How are they doing the pre market?
+NEUT2|Let's find out with John Ehrlichman, John and Betty's analysts digest this deal.
+NEUT3|So just gave us the contents in the performance of BlackRock shares so far this year.
+BULL4|By the way, that's a stock that's up more than 100% since the March lows, so we're continuing to track their shares of BlackRock in the premarket this morning.
+NEUT5|Right now down, slightly right, that 180 level.
+BULL6|Currently Bank of America, the most active name, as it typically is those shares are up 1 1/2 percent.
+NEUT7|Don't forget they own a stake in BlackRock.
+BEAR8|It's diluted as a result of this deal, but still more than 1/3.
+NEUT9|PNC out of Pittsburgh has about a 2526% stake.
+BEAR10|Meanwhile, Goldman Sachs, Morgan Stanley, JP Morgan all in focus this morning, all moving lower in the pre Market Bank of America, cutting its estimates for the second quarter for the bottom line performance.
+BEAR11|For these names, it's now expecting a loss.
+NEUT12|By the way, for Morgan Stanley.
+NEUT13|This related to the TARP repayment plans and Speaking of TARP, M and I, the biggest bank in Wisconsin, one of the most active names in the pre market.
+BEAR14|Currently off more than 2% that banks saying it will sell $400 million worth of stock.
+NEUT15|To help repay TARP funds and finally also under pressure.
+NEUT16|This morning, Hartford in the insurance space.
+BEAR17|Those shares off more than 1 1/2% this morning.
+NEUT18|That company said it would accept up to 3.4 billion in bailout funds, also saying it will sell as much as 750,000,000 in stock.
+BULL19|"Betty, OK, John, thanks so much."""

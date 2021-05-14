@@ -1,0 +1,23 @@
+NEUT0|"""Over the past 125 years, Wall Street has been the financial engine for the United States and much of the world these days, Wall Street is more of an industry than a place, but in 1889 it all happened on the street itself."
+NEUT1|And that's where three men named Dow Jones, an bergstresser transformed their financial newsletter business into a daily newspaper.
+NEUT2|The four page Wall Street Journal.
+NEUT3|Debuted on July 8th, 1889, for two cents a copy.
+NEUT4|The news was catastrophic in 1929 between the Black Thursday sell off on October 24th and Black Tuesday on October 29th.
+BEAR5|The stock market lost over $26 billion, ending a decade of post war optimism and roaring 20s excess.
+BEAR6|The Wall Street Journal reported that extraordinary shrinkage in values resulted in severe impairment of speculative Holdings.
+BEAR7|The crash ushered in the Great Depression, affecting all western industrialized countries for a decade to come.
+NEUT8|Creating political and economic order was the aim of the Bretton Woods Conference.
+NEUT9|When the Second World War was still underway, the New Hampshire meeting in July 1944 was attended by 730 representatives from 44 Allied nations.
+NEUT10|They hammered out agreements that led to the establishment of the International Monetary Fund and later the World Bank.
+NEUT11|Big question on Wall Street this morning.
+NEUT12|Which way was the New York Stock Exchange going to go?
+NEUT13|It's likely those delegates could never have imagined the forces that would lead to another Black day on Wall Street in 1987.
+BEAR14|The stock market crashed yesterday.
+BEAR15|Read the lead article in The Wall Street Journal on Tuesday, October 20th, reporting that the Dow had points 23%, a crash made worse by automated computer trading.
+BULL16|But over the next decade, the tech boom helped propel Wall Street to new Heights, sending the Dow soaring over 10,000 in 1999.
+NEUT17|The longest bull market on record smashes a historic barrier.
+NEUT18|Read the Journal headline.
+BULL19|The milestone marked the astonishing success and giddy exuberance of the US economy with a record share of Americans participating in the market, will continue to closely monitor the situation in our financial markets and consult with my economic advisors.
+BEAR20|Less than 10 years later, however, the bubble would burst, this time tide to an overheated housing market in September 2008, after what the Journal called one of the most tumultuous weekends in Wall Street's history.
+BEAR21|AIG Lehman Brothers and Merrill Lynch were brought to their knees, setting off the 2008 financial crisis that shook the American financial system to its core.
+BULL22|"The effects reverberated around the world and are still being felt today."""

@@ -1,0 +1,36 @@
+NEUT0|"""How to know what stock to buy?"
+NEUT1|This is the most important question you ever ask an investor.
+NEUT2|The catch is that you're the only one that can answer that question for yourself because of someone else answers it for you.
+BEAR3|You may end up losing a lot of money if you don't understand why they chose that stock.
+NEUT4|There are several ways to decide what's documents by and two major analysis that can be performed to reach that decision.
+NEUT5|The 1st is a technical analysis in a technical analysis, you have to study a company based on their price and volume.
+NEUT6|Volume is a number of shares of a particular stock that is being traded in the stock market.
+NEUT7|During a particular.
+NEUT8|The volume let's you know how interested investors are in buying and selling the shares of a company.
+NEUT9|Demand and supply.
+NEUT10|The higher the volume, the greater into the interest in the stock, and vice versa.
+NEUT11|To reduce your risk in the stock market, the minimum amount of volume you should be looking at is $20 million.
+NEUT12|A technical analysis often done to help investors determine patterns to help predict what the future price will be.
+NEUT13|The bamboo app has a technical analysis on the information page.
+NEUT14|There you can see the history and statistics of the company.
+NEUT15|The past price performance, the volume, and what other analysts think about the stock.
+NEUT16|The second analysis you can do is a fundamental analysis.
+NEUT17|It involves studying a company based on anything that can affect the price of the stock, either economic or financial factors.
+NEUT18|Warren Buffett encourages every investor to also do some form of fundamental analysis to begin a fundamental analysis.
+NEUT19|You stop by a using Google to search for companies within a particular sector you're familiar with or interested in.
+NEUT20|For example, if you type companies in this.
+NEUT21|Technology sector and Google it will bring out a list of available companies and from there you can choose the ones that interest you.
+NEUT22|In addition, you can use a stock Screener to filter by market capitalization, dollar volume, industry, or sector.
+NEUT23|The next step is to study the financial ratios like earnings per share, price, earnings ratio, debt equity ratio, return on equity, ET C. For companies that pick your interest, we talked about them in each of the previous lessons.
+NEUT24|Research each company.
+NEUT25|I have a proper understanding of the company, what they do.
+NEUT26|How they make money and possible competitors within the sector or industry.
+NEUT27|The next step is to study the financial reports of the company so you can look at the balance sheet, income statement, cash flow statement and finally analyze the company's future prospects based on your research and the numbers after you're done doing all of this, you will be much more comfortable with the stocks in your watchlist, and you just might be confident enough to finally via one.
+NEUT28|However, if you want to bypass some of this research, or you just don't want to miss out on the action while you get ready, you can buy an ETF of a sector that really interests you.
+NEUT29|You can also buy an ETF of the entire market, for example the Vanguard S&P 500 ETF.
+NEUT30|That being said, before going ahead to buy any stocks, the basic and most important thing to note is that one they must align with your long term financial goals, so they must correspond with the time horizon.
+NEUT31|That's the number of years you want to stay invested.
+NEUT32|Four and three.
+NEUT33|They must fit your risk appetite.
+NEUT34|The stock market is high risk and therefore you want to make sure you are aware of the risks involved in investing in each stock and you are comfortable with that level of risk.
+NEUT35|"The risk can only be ascertained after doing the analysis we've just mentioned."""

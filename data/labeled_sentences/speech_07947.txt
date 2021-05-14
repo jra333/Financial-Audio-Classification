@@ -1,0 +1,20 @@
+NEUT0|"""Fundamental analysis is an approach to identifying investments by examining data like financial statements and economic reports to help determine a businesses value in health."
+NEUT1|Fundamental analysis plays a huge role in our financial markets, portfolio managers, analysts, credit agencies, banks and many other investors rely on this type of analysis to help them understand an asset's value.
+NEUT2|But it wasn't always that way in the early 20th century, speculation was a widespread approach to stock investing.
+NEUT3|Many would invest in companies based on rumors or stock tips without considering the company's financial.
+NEUT4|State, then in 1934, two Columbia Business School professors named Benjamin Graham and David Dodd wrote a book called Security Analysis.
+NEUT5|The book made a clear distinction between investing and speculating, arguing that investors should think of buying stocks as owning a piece of the business itself.
+NEUT6|Therefore, investments should be based on thoughtful, thorough analysis of the businesses value and managerial performance.
+BULL7|Stocks should return adequate profits to compensate investors for their risk.
+NEUT8|With that perspective, Graham and Dodd argued that investors shouldn't be too concerned with the stock markets day-to-day fluctuations.
+NEUT9|Instead, they said that investors should spend their time analyzing the financial state of potential investments.
+NEUT10|If an asset is available or priced lower than what an investor determines, the company's value is, it's likely to be a suitable investment.
+NEUT11|Sound familiar?
+NEUT12|That's fundamental analysis.
+NEUT13|The book actually wasn't that influential at first, but overtime, Graham and Dodd's theories gained traction.
+NEUT14|Graham built on the ideas in security analysis.
+NEUT15|In another book called the Intelligent Investor, which laid out the basics of what is now known as value investing.
+NEUT16|Today, fundamental analysis is a standard approach to managing a portfolio.
+NEUT17|In fact, some of the most successful investment managers in history have credited Benjamin Graham and David Dodd for pioneering their approach.
+NEUT18|Companies financial statements are as complex as they've ever been that can make it challenging for individual investors to choose investments based on the financial state of a company.
+BULL19|"Fortunately, we have more tools at our disposal to help us."""

@@ -1,0 +1,9 @@
+NEUT0|"""Businesses need the right product in the right place at the right time."
+NEUT1|If there is no product in place when your customer comes to buy it, you lose the opportunity to sell.
+NEUT2|Seller Mobile's advanced Forecast algorithm gives you data to measure stock performance.
+NEUT3|Evaluate the last sale and shows potential for future sales growth.
+BEAR4|For these reasons, are lost sales analysis tool provides you with relevant information that is key to fixing mistakes made in past inventory management, so future demands can be met are lost.
+NEUT5|Sales component is an invaluable tool that is rarely offered by others with our tool.
+NEUT6|Find the right balance to reduce product shortages without having to overstock your items.
+NEUT7|Learn more, make smarter decisions and plan for the future.
+NEUT8|"With our last sales analysis tool, seller Mobile is the best way to manage your inventory so you can prevent loss due to out of stock."""

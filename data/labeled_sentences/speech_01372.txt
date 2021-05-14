@@ -1,0 +1,7 @@
+BULL0|"""Welcome to the world in 60 seconds from first FT, The Bank of Japan's cut interest rates to minus nought point 1% from plus nine point 1%."
+NEUT1|The surprise move to negative rates is to combat deflation.
+BULL2|The central bank said it would cut interest rates further into negative territory if necessary, shares in Tokyo rose 3% on the news.
+BEAR3|Amazon share price tumbled 13% after it reported weaker than expected profits for the fourth quarter.
+BULL4|Sales surged 26% to take them past $100 billion for the year.
+BEAR5|For the first time in its history, but profits were a third lower than Wall Street expectations and the Dolorian Motor Company, which hasn't made one of its signature gull winged cars in more than 30 years, is planning to build several 100 new replicas.
+BULL6|"It's been helped by a change in legislation that helps low volume production stainless steel car featured in the 1980s back to the future movie with more stories for you at ft.com/firstFT."""

@@ -1,0 +1,36 @@
+BULL0|"""Good morning, Brian."
+NEUT1|So what are they predicting?
+NEUT2|I guess for the globe, but also for the US.
+BULL3|Good morning Alexis.
+NEUT4|A few green shoots in the International Monetary Fund's World Economic Outlook released earlier this morning.
+BULL5|But keep in mind this is far from a full recovery.
+BULL6|So the IMF saying this morning that it was actually slightly upgrading its outlook for where we would end the year 2020.
+BEAR7|They were originally forecasting global GDP contracting by 4.9% in the year 2020.
+BEAR8|That was back in their last forecast in June.
+NEUT9|But as of the update this morning, they've.
+BULL10|Slightly improved that forecast to a contraction of only four point 4% and the markup they say was due to stronger than expected recoveries in several large economies, including here in the United States.
+BULL11|They originally said in June that the US was expected to contract in GDP by about 8%.
+BULL12|They improve that quite largely to a contraction of four point 3% for the year 2020.
+BULL13|They were saying that improvement in the United States is due to government transfers supporting household incomes translation, the economic impact payments that were part of that.
+NEUT14|Cares Act passed back in March.
+BEAR15|In addition to things like unemployment insurance, but the IMF does warn that the recovery ahead will still be quote long, uneven and uncertain.
+BULL16|The IMF saying that for 2021 it is indeed the case that they do expect to rebound.
+BULL17|Global GDP projected to increase by 5.2% with a three point 1% rebound in the United States.
+BEAR18|But those are actually slight decreases in revisions downward from where they saw the rebound in June, which means that they could see the case for a more slow recovery.
+NEUT19|In the next year.
+NEUT20|Right?
+NEUT21|Doesn't that outlook for next year and it's good to hear that we might return to some growth next year, but doesn't that stuff hinge on stimulus absolutely?
+NEUT22|And that's exactly what we heard from the Chief economist.
+NEUT23|That's IMF sadki to go pee now.
+NEUT24|She had a blog post that was also posted this morning and she was saying that really the crisis is going to lead quotes cars in the medium term.
+BEAR25|They worried that there's going to be uncertainty with investment that is going to come from businesses and governments themselves in addition to unemployed workers facing difficulty of returning to jobs.
+NEUT26|And, Gopinath said that really, it's.
+NEUT27|On these governments to try to prioritize income support things like cash transfers, wage subsidies, unemployment insurance like we've had here in the United States through the CARES Act and Gita.
+BULL28|Gopinath also saying that countries and governments can afford to do this with interest rates around the world.
+NEUT29|Solo the central bank in the United States.
+BULL30|Obviously with interest rates backed up to near 0 so it could be cheaper to provide this type of income support as we get through this recovery.
+NEUT31|The IMF reminding everyone that this is still at first a health pandemic, and that.
+NEUT32|In order to curb the real or to make sure that the economy can rebound that you have to curb the spread of the virus first.
+NEUT33|So that really being a priority emphasized in that World Economic Outlook report this morning.
+NEUT34|Alright?
+BULL35|"Brian Sean, thanks for breaking down the report for us."""

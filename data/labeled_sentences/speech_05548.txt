@@ -1,0 +1,28 @@
+NEUT0|"""New York is potentially the next Detroit and I've been talking about this for a couple of years."
+BEAR1|You know, we once dominated the automobile industry and Detroit was the global center of the automobile industry and we lost our dominance because the quality of our products, our merchandise deteriorated.
+BEAR2|People lost trust in the brand.
+BEAR3|I think the same thing is going to happen in the capital markets with investment banking with investment brokerage services, I think Wall Street is going to lose its role as the global financial center to other centers around the world.
+BEAR4|For the same reason, I think that we've our reputation has been destroyed.
+BEAR5|We have spread bad investments throughout the world.
+NEUT6|This entire global financial crisis outside the United States is the result of bad investments that were sold by US firms to foreign banks and foreign governments, and I think in the future deals, real banking deals are going to be 1 by competitors to US firms, and I think if our industry is going to survive, it's going to be on a much smaller scale.
+BEAR7|And I think the compensation levels on Wall Street are going to shrink commensurately.
+NEUT8|I think people are going to earn.
+NEUT9|Maybe you know 80% less, 90% less than what they used to.
+NEUT10|How will the investment firms on Wall Street, Goldman Sachs, Citigroup, JP Morgan eventually make profits again?
+NEUT11|I don't know they're gonna have to figure that out.
+BEAR12|I mean, I think they're still going to lose money for a while and they have a lot of bad debt on their balance sheet, but ultimately they will make money if they don't go broke and they'll have to make money the old fashioned way.
+NEUT13|It's not going to be from proprietary trading or securitization.
+NEUT14|It's going to be from traditional asset management brokerage and advisory services, consulting, investment banking.
+BULL15|But again, I think they're going to find a very competitive world.
+NEUT16|I think there are other brokerage houses in Asia and Europe.
+NEUT17|There are going to be formal competitors now that don't have all this baggage and all this bad reputation.
+NEUT18|And remember these firms.
+NEUT19|Reputation and trust.
+NEUT20|That's their main asset, and without that they don't really have anything.
+NEUT21|They're real accumulated capital.
+NEUT22|The savings are abroad, and all the best investment opportunities right now.
+NEUT23|All the new production is happening abroad, so why should the world outsource their capital allocation to New York?
+NEUT24|Why not allocate the capital where it's being generated?
+NEUT25|You know why should the Chinese save their money and then have a Wall Street investment firm allocate those savings back to a Chinese company?
+NEUT26|It would make sense.
+NEUT27|"To do that stuff locally."""

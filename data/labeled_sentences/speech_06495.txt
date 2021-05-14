@@ -1,0 +1,10 @@
+NEUT0|"""Hello, welcome to today's technical analysis for February 5th, 2016."
+NEUT1|I'm Celina, Nicholas, technical analyst at xm.com.
+NEUT2|Today we will look at the Euro STOXX index on the daily chart.
+BEAR3|So the EU 50, also known as the Euro Stocks index, is following in a descending channel since December of 2015, falling from a high of 3522 points down to love 2832 in January this year.
+BEAR4|For mid January, market fell to key level and this was at 2969 which is a September 2015 low an there was a failed attempt to rise higher one meeting strong resistance at the 21 day moving average and this is also the top of the channel line.
+NEUT5|This the resistance comes in around 3050.
+BEAR6|Our size in bearish territory now and this adds to the bearish case a break below.
+BEAR7|2832 would see more losses towards the 2777 area.
+BEAR8|This would be the low from 2014, so the overall outlook is bearish moment and especially if the market remains below the 200 day moving average.
+BULL9|"Thank you for watching and have a great day."""

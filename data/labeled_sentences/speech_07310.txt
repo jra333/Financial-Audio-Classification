@@ -1,0 +1,30 @@
+NEUT0|"""The Justice Department's antitrust complaint is expected to span both Google search and advertising businesses, and look at the way the two have been intertwined."
+NEUT1|In order for Google to maintain its dominant market position, now we are waiting for the Justice Department to start a call with Deputy Attorney General Jeffrey Rosen and reporters in just a few minutes where we hope to learn a little bit more about the scope of this complaint, particularly the agreements that Google might have struck with mobile phone manufacturers.
+NEUT2|Over preloading its search engine as a default setting as well as the theory of consumer harm that they're pursuing is.
+NEUT3|This looks to be potentially one of the defining antitrust cases of this generation.
+NEUT4|Now what we also do know is that 11 states are signing on to to the Justice Department's complaint.
+NEUT5|All of them are led by Republican attorneys general, including Texas, Florida and Arkansas, and already we're even hearing from Republican lawmakers like Senator Josh Hawley.
+NEUT6|Who said that the Justice Department suit is just a first step and that he will continue to seek legislative solutions to end the tyranny of big tech?
+NEUT7|So guys, we are expecting to hear from Sundar Pichai next week when he testifies before the Senate Commerce Committee.
+NEUT8|We will hear how he responds to some of these allegations from the Justice Department and hopefully learn a little bit more on what exactly their complaint will be.
+BEAR9|I mean the allegations potentially serious here abusing a market power illan.
+NEUT10|Do we have a sense yet of what they're going after as far as penalties and a resolution?
+NEUT11|Not just yet, Sarah.
+NEUT12|We're still waiting for the complaint to go live in the court filing system.
+NEUT13|So once we were able to dig through that, we might have a little bit more information, but obviously from a political standpoint, what we have heard from lawmakers on both sides of the aisle is the potential of breaking up companies of making them divest certain assets or sort of having a new glass steagall for big tech.
+NEUT14|Even so, those are some of the potential legislative solutions clearly beyond the scope of what a antitrust settlement could be at this point.
+NEUT15|But right now we're waiting to find out exactly how the DOJ is going to be making its case against Google.
+NEUT16|Obviously this is out of the administration and you mentioned a number of Republicans attorneys general where the Democrats Elan have we heard any reaction an what does it mean?
+NEUT17|If we get a change in power in the election in two weeks.
+NEUT18|Those are all really good questions, Sarah.
+NEUT19|I think it is notable that no Democrats so far have signed onto the suit.
+NEUT20|What I have been told by two sources is that the Justice Department required State AG society good faith commitment before they were allowed to even read the full complaint.
+NEUT21|So I would expect.
+BEAR22|That would mean that many Democrats felt like they didn't want to sign on to something that they had not read yet, and there was some concern that other issues such as section 230 liability SHIELD.
+BULL23|Some of those other ancillary concerns could perhaps be brought into this broader antitrust fold, and that would raise red flags for Democrats.
+NEUT24|Of course, this does mean that Democrats state AGS could continue their own investigation and potentially file their own lawsuits.
+NEUT25|Republican state attorneys general could still conduct their own investigation and file their own lawsuits, so this is certainly not the end of the line for Google.
+NEUT26|But the Justice Department taking this step is an important.
+BEAR27|And notable an perhaps risky maneuver for Google itself.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

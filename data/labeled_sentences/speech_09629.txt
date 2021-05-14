@@ -1,0 +1,23 @@
+NEUT0|"""That's right, we're watching the latest play out on the election front."
+NEUT1|Kick things off here.
+NEUT2|In the second hour, Yahoo Finance's Jessica Smith, 'cause we are now just hours away from getting that first poll closing in Georgia, a key swing state to be watching.
+NEUT3|Jess, what do you see in play out?
+NEUT4|Yeah, right now the presidential candidates are making their final appearances as Americans go to the polls to cast their votes.
+NEUT5|Former Vice President Biden is in Pennsylvania.
+NEUT6|He's heading to Philadelphia.
+NEUT7|Obviously, Pennsylvania is a very important state in this race.
+NEUT8|President Trump is going to Virginia, and then he'll come back to the White House where he's expected to be holding an in person watch party with about 400 people indoors, polls across the country are open.
+NEUT9|Obviously that people are out casting their votes.
+BEAR10|But election officials are warning about the absentee ballots that it might take some time to get those all tallied.
+NEUT11|So we know there was a record amount of early voting leading up into the Election Day.
+NEUT12|About 100,000 people cast their votes before Election Day, according to the United States election Project.
+NEUT13|We'll see if that record early vote turns out to be a record turn out.
+NEUT14|Overall, polls do start closing in some parts of Indiana and Kentucky at 6:00 o'clock tonight.
+NEUT15|And then about every half an hour or every hour, we will see more polls close.
+NEUT16|So maybe we'll start getting some results.
+NEUT17|Then up until the final polls closed in Alaska at 1:00 AM Eastern, of course, as I mentioned, many people have voted by Mail this year, so the results of this election may take a little bit longer to get.
+NEUT18|Will see.
+NEUT19|It all depends on how the math shakes out of.
+NEUT20|As these candidates try to reach 270 electoral votes to win the White House.
+NEUT21|But key states like Michigan and Pennsylvania could take a few days.
+NEUT22|"Before we see those final results."""

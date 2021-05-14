@@ -1,0 +1,18 @@
+NEUT0|"""I also asked Bill how he thought that investors should think about investing in green stocks and what kinds of returns they should expect."
+NEUT1|Here's what Bill had to say.
+NEUT2|When I invested in Impossible Foods or beyond meat or quantum scape, you know I was doing that just to help their role in climate.
+BULL3|Now it looks like you know those will be 3 very successful companies and so you know I'll have more money to put into the top areas of climate.
+NEUT4|Things like cement and steel breakthrough energy ventures is in 40 companies and so far you know there.
+BULL5|Making progress, and even though some will fail, looks like we'll have, you know, quite a few successes there, and so you have to be willing to take high risk.
+NEUT6|But if you do it in a tasteful way, the green economy is going to have you know more of them more than one Tesla.
+NEUT7|Tesla CEO Elon Musk was recently on Joe Rogan's podcast and speculated that Bill Gates was shorting Tesla stock, so I asked Bill Gates to set the record straight.
+NEUT8|I think what Elon stumbled Tesla is fantastic.
+NEUT9|It's you know, probably the biggest single contribution to showing us that electric cars are part of how we solve climate change.
+NEUT10|And now he's got a carbon removal challenge.
+NEUT11|So we need more Elon Musks.
+NEUT12|We need one for steel and cement and all the different categories.
+NEUT13|So you're not sure Tesla stock just to work clear?
+NEUT14|Yeah, I'm not.
+NEUT15|I don't talk about my investments, but I think he should be very proud of what he's done.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

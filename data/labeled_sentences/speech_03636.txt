@@ -1,0 +1,41 @@
+NEUT0|"""Hello Friends, welcome to episode 12 or stock market technical analysis."
+NEUT1|I'm other there from mostly bearish so as of now in the playlist stock market technical analysis we have covered these topics in the previous episode we spoke about engulfment candle.
+NEUT2|So today we're going to be talking about harami pattern.
+NEUT3|Is a Japanese name which means pregnant and this is not the meaning in Hindi.
+NEUT4|So let's get to it.
+NEUT5|You'll understand why it is called that.
+NEUT6|Let's take a look at how the pattern looks, why it is called that.
+NEUT7|An on chart.
+NEUT8|What are the effects of the pattern?
+NEUT9|So what you see right now on your screen?
+NEUT10|So this pattern is called a harami pattern.
+NEUT11|OK, So what you see here is a bullish harami and what you see here is a bearish harami.
+NEUT12|So for a bullish harami, the prior candle should be big.
+NEUT13|An off red color where there is selling pressure whereas the next scandal is a small candle and it is of the opposite color that will be green.
+NEUT14|So this might show that interest of buyers in this scandal.
+NEUT15|So if the trend is downwards and you see this, there might be.
+BULL16|An interest in buying an you can see a reversal in the trend, whereas bearish harami pattern.
+BEAR17|If you see this the trend was upwards.
+NEUT18|There is a big green candle where the buyers are pushing the prices up and then there is some kind of a gap and then sellers push.
+BEAR19|The price is a little down.
+NEUT20|This is called the bearish harami and harami being a Japanese word which means pregnant.
+NEUT21|The main reason is because of the shape of the candle how it looks.
+NEUT22|So I hope this is clear.
+BEAR23|This can indicate a reversal in the trend for the specific time frame that you're watching.
+NEUT24|So now let's take a look at the charts to understand better.
+NEUT25|So on this chart you can observe how bullish harami pattern looks.
+BEAR26|So if you look here, there's a selling pressure.
+NEUT27|There is a big red candle followed by this buying candle.
+NEUT28|So this whole setup can be assumed to be a bullish harami.
+BULL29|The prices from here in short term frame did go up.
+NEUT30|Now let's take a look at bearish army pattern.
+NEUT31|So if you see these prices the prices were moving up and then after that there is a red candle.
+BEAR32|If you see here this can be considered to be a bearish harami pattern and if you see the prices started dropping from there.
+NEUT33|So I hope today's candle stick pattern is clear.
+NEUT34|We saw the candle how it looks, why it is given the name like that and even on charts.
+BULL35|I hope you guys enjoyed today's video.
+NEUT36|Make sure you give it a thumbs up if you liked it.
+NEUT37|Do share it with your friends and family and make sure you subscribe.
+NEUT38|If you haven't yet.
+NEUT39|I make short videos about precise content and precise topics in a format so that learning in long term becomes easier.
+BULL40|"Thank you so much for watching my videos."""

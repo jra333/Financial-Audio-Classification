@@ -1,0 +1,25 @@
+NEUT0|"""What is up everybody?"
+NEUT1|This is stock market education and today we're going to be talking about Delta stock and whether or not it's a buy.
+NEUT2|Let's get into it.
+BEAR3|Delta, the airline company that has fallen and can't get up.
+BEAR4|I mean really, this is looking really bad for airline companies over the next couple of quarters.
+NEUT5|I mean, look at the stock chart.
+BEAR6|It is tanked 50% in a matter of weeks, and looking at the stochastics we can see that the stock has stayed in this oversold level for a couple weeks now and when we look at the five year price chart you can see that the price hasn't been this low since 2016, making it an extremely interesting by and the CV situation is severely hurting airlines.
+BEAR7|I mean, look at the financial impact or worst case scenario, is that revenues could decline by 70% in April and May and declined 60% in June with gradual improvement afterwards, which is why the stock has been dramatically going down.
+BULL8|If there's any good news about the current situation, is that oil price completely tanked so oil will be cheaper airlines, which will help them save about a billion dollars next quarter.
+NEUT9|Also Delta and many other airlines aren't going to have as many flights, which means that they're not going to use as many airplanes.
+BEAR10|Which means that they're not going to have to use as much gas as they usually do, which will save them about another $500 million when we look at their numbers, we can see that Delta has a PE ratio of 4.63, which is really low.
+NEUT11|Usually the airline stocks trade at Pease around 8:00 to 12:00, so this is an extremely cheap sector at the moment.
+BULL12|You can also see that they pay a dividend of 4.5%, or $1.61 per share, and they should have no problem increasing that dividend in the future because they have a payout ratio of about 20%.
+BULL13|And looking further into Delta, we can see that their intrinsic value is about $69.17, which is a $38.12 increase from its current price, or 122% guys.
+NEUT14|It's not every day where you have a dividend stock who is more than 50% undervalued and pays a four and a half percent dividend yield when you look at their earnings estimates, you can see that they have an estimate of 5.28 for 2020 and they have an estimate of 7.17.
+BEAR15|For 2021 or a percentage increase of 36% and I can guarantee you that Delta won't be hitting their earnings estimates this year due to so much uncertainty.
+BULL16|So this percentage increase will probably be even higher than 36%.
+BEAR17|If I had to guess, when we look at how many shares are being traded by insiders, we can see that over the past three months there have been 5400 shares bought compared to 137 thousand shares sold, which shows even more that this stock is being oversold.
+BEAR18|However, over the past 12 months there have been 5.4 million shares bought compared to only 400,000 shares sold, which indicates that the current sell off is short term and is not indicative of the stock's performance.
+NEUT19|Right now there are so many undervalued stocks to choose from, Delta is a great stock to buy if you're looking for an undervalued dividend stock to hold for the next three to five years out.
+NEUT20|Warren Buffett once said something like be greedy when everyone else is fearful.
+BULL21|Speaking of Warren Buffett, he began increasing his stake in Delta during the sell off.
+NEUT22|And Warren Buffett has an average cost per share of $46.40 for Delta, so it would be pretty cool to get a dramatically better average cost per share than Warren Buffett.
+NEUT23|Thank you guys for watching the video, like and subscribe.
+NEUT24|"If you enjoyed the video and want to see more videos like this one and have a good one, bye."""

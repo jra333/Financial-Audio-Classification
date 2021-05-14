@@ -1,0 +1,35 @@
+NEUT0|"""So I want to get straight over to CNBC headquarters to hang out with our friend Jim Cramer."
+NEUT1|See what he's thinking about before this market opens into Jim.
+NEUT2|It does appear that it is going to open down.
+NEUT3|Is this just a breather and and what do you make of what's happening in the market?
+NEUT4|And then I don't even I. I'm trying still even a day later.
+NEUT5|I know we talked about Bitcoin yesterday, but trying to make sense of where this is all headed.
+NEUT6|Well, look, I think it's a worldwide were catching here.
+NEUT7|There's need some more good news.
+NEUT8|We don't have it.
+NEUT9|We still want to know about stimulus, but the variance the vaccine variants that we're having trouble with I think are very much on people's minds.
+NEUT10|Look, I happen to think that that Bitcoin is exciting.
+NEUT11|It's something we can talk about endlessly.
+NEUT12|Their promoters of it.
+NEUT13|They don't seem to be a lot of sellers of it.
+NEUT14|We're going to hear from PayPal and analyst meeting coming up about how it's begun to be mainstream, but I just think that in the end you have to have some sort of hedge on it.
+NEUT15|'cause if you take it and it goes down, I think that you're going to end up saying why did I use?
+NEUT16|Bitcoin, when I could actually transact in dollars, but as far as a way to be able to have a pastiche of things that you should do your cash with, I'm all for it.
+BEAR17|I think it's almost irresponsible not to include it.
+NEUT18|Every treasurer should be going to boards of directors, is saying should we put a small portion of our cash in Bitcoin?
+NEUT19|It seems to be an interesting way to hedge against the rest of the environment.
+NEUT20|Nice hedge against Fiat currency.
+NEUT21|But that's the question, is it?
+NEUT22|Is it really a hedge or is it?
+NEUT23|Is it fundamentally actually tide to the quote unquote market right now and we've seen when the markets gone down but it's gone down as well?
+NEUT24|Well, I believe in gold as a way to hedge.
+NEUT25|I believe in selling calls against certain stocks is a way to head, so I'm much more a traditional and so I think that it's just a piece of the puzzle.
+NEUT26|Think the company should invest big.
+NEUT27|I mean I think the Tesla put a lot of money in it.
+NEUT28|That was I don't have that level of conviction, but I own Bitcoin.
+NEUT29|I've owned Bitcoin for some time as an alternative that I used to always say I own some gold on some cash.
+NEUT30|Now I say owned some cash and some Golden own some Bitcoin.
+NEUT31|It's a little inflated for day, but there's still plenty of people think it's going to 100,000 Novogratz was on everywhere saying it's going to 100,000.
+NEUT32|All I know is I think it's an alternative to having cash position where you make absolutely nothing.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

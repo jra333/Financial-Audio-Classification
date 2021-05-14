@@ -1,0 +1,21 @@
+BULL0|"""The first half of this year was a boom time for investors in China."
+BULL1|The country was opening up its markets, an increasing access to its financial system.
+NEUT2|Banks and investment firms.
+BULL3|Hired analysts attract Chinese stocks.
+BULL4|Credit Suisse said it was doubling the number of stocks it covered to 300.
+NEUT5|Hedge funds made big plans to attract investors in private equity firms were sitting on a pile of investor cash ready to invest.
+NEUT6|They were betting on a huge opening up of the Chinese financial system.
+BULL7|Foreign investors were going to get new access to the country stock, bond and currency markets.
+NEUT8|Which are some of the biggest in the world?
+NEUT9|The world has changed a lot since then.
+BEAR10|The Chinese market is down nearly 40% and the small cap market where lots of investors made a fortune is down by more than half.
+BEAR11|That's hurt.
+NEUT12|Performance of hedge funds.
+BULL13|They are still up three point 3% for the year now, but they were up 26% at the end of May.
+BEAR14|With that kind of performance, it's going to be very hard to raise cash from investors.
+BEAR15|The bigger issue has been China's effort to prop up its market and crack down on people.
+BEAR16|It believes we're pushing shares down.
+NEUT17|That shows that Chinese markets don't operate like markets do in the West and won't look like that anytime soon.
+BEAR18|For now, banks and investors are not saying whether they're going to scale back their business anytime soon, but analysts say it's going to be very hard to attract new cash to these markets.
+NEUT19|At some point.
+BEAR20|"Anyone who's expanded is going to have to scale back."""

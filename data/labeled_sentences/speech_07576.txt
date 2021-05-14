@@ -1,0 +1,7 @@
+NEUT0|"""Walt Disney Company, New York Stock exchange symbol DIS has been initiated as a hold at Needham."
+NEUT1|The stock closed yesterday at $30.70.
+BEAR2|On December 9th 2009 on volume of 9.2 million shares below its average daily volume of about 12 million shares.
+BEAR3|Walt Disney is currently above its 50 day moving average of $29.00 and a dime and above its 200 day moving average of $24.60.
+BULL4|Smart turns bullish on shares of Disney and our subscribers received an upturn alert.
+BULL5|On March 23rd, 2009, at a price of $18.33, which, as of yesterday's close December 9th, has returned 67.5% to date.
+NEUT6|"Trade your way to success today with SmarTrend click below to claim your free 14 day trial of SmarTrend today."""

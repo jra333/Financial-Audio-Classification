@@ -1,0 +1,17 @@
+NEUT0|"""Hello everyone, let's take a look at the Apple stock."
+NEUT1|In your student time, you can see yesterday's form the green candle here and the high is higher than last candle.
+BULL2|So it has shown a steady here.
+NEUT3|So in my opinion.
+NEUT4|Apple has break.
+NEUT5|Out of the downturn here so we can see the volume here.
+NEUT6|This red candle has a.
+BULL7|Bigger volume compared to the candles before, so this means somebody already buy in here.
+BEAR8|So after that these two green candle shows smaller.
+BULL9|Volume but already make a new high.
+NEUT10|So in my opinion the upper resistance is just the 20 days Ma is here, it's the 114, so if it break out of here then it can make a base here and very likely.
+NEUT11|It will.
+BULL12|Break out from here because in my opinion the volume has said something.
+BULL13|Here we can see the volume is comparably higher than the euro we can see here.
+NEUT14|The euro volume is here, and these two green candle, all bigger than the.
+BEAR15|No more volume, so somebody is buying, so this should be short and bottom for Apple stock.
+BULL16|"Thank you."""

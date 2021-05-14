@@ -1,0 +1,39 @@
+NEUT0|"""Mad Money Lightning round is brought you by TD Ameritrade member Sapc."
+NEUT1|It is time is something like.
+NEUT2|Shares of Baba.
+NEUT3|And then the Lightning round is over.
+NEUT4|Are you ready skate gang on the line with Jeff in California chef?
+BULL5|Mr Kramer, thank you for taking my call.
+NEUT6|I'm interested your opinion of Ford.
+NEUT7|I get this.
+NEUT8|Many of you may have to hold yours.
+NEUT9|I don't want you to own forward.
+NEUT10|I want you to own the stock of Tesla.
+NEUT11|I actually think one I'm not saying one say from the other.
+BEAR12|I'm saying they both have just OK balance sheets, but once got more I'm sorry.
+NEUT13|OK, I want to go to Dylan Odell Dillon in Arkansas, Dylan, hey, Jim, thank you for everything that you do.
+NEUT14|I'm a 25 year old investor is just think about adding Facebook to my long term portfolio.
+BULL15|I am going to approve of that.
+NEUT16|I do think that Facebook should get a little bit more involved with the people who use it.
+NEUT17|So you have some passwords because he is hated by both parties about Mikan, Wisconsin MC.
+NEUT18|Hi Jim, this is my first time calling.
+NEUT19|Just wanna say I love your program.
+NEUT20|Thank you.
+NEUT21|I'm interested in the Raytheon.
+NEUT22|I like Raytheon.
+BULL23|That's emerged with Technologies is a winner.
+NEUT24|I need $10 / 10.
+NEUT25|Kramer yeah.
+NEUT26|I was wondering if the best way to play oil is midstream.
+NEUT27|What do you think of Shell midstream like Shell, Midstream Partners?
+BEAR28|But that group is just so forlorn.
+NEUT29|I will brace that because it is run by a good company.
+NEUT30|I need to go to.
+NEUT31|I needed not could anybody and that ladies and gentlemen.
+NEUT32|The conclusion of a lightning round.
+NEUT33|Is sponsored by TD Ameritrade.
+NEUT34|Don't miss a second of mad money.
+NEUT35|Follow at Jim Cramer on Twitter.
+NEUT36|Have a question?
+NEUT37|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT38|"Miss something head to madmoney.cnbc.com."""

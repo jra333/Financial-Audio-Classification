@@ -1,0 +1,40 @@
+NEUT0|"""I always wanted to be rich, so let me go back."
+NEUT1|I'm 22 years old, newly married and already a money crazed little ****.
+NEUT2|So what do I do?
+NEUT3|I go to the one place on Earth that befit my high minded ambitious.
+NEUT4|You are lower than pond scum.
+NEUT5|You got a problem with that.
+NEUT6|Jordan no, no problem at all good because that is what you are.
+NEUT7|Pond scum.
+NEUT8|Your job is connector, which means that you will be dialing the phone over 500 times a day trying to connect me with wealthy business owners and until you pass your series seven that is all you're going to ******* be doing.
+NEUT9|Sit, sit.
+NEUT10|Just so you know it, last year I made over $300,000.
+NEUT11|Yeah, the guy you'll be working for.
+NEUT12|He made over 1,000,000.
+NEUT13|$1,000,000.
+NEUT14|I can only imagine what a ****** *** that guy must be.
+NEUT15|Jordan Belfort.
+NEUT16|Yeah yes, Sir.
+BULL17|Mark Hanna, pleasure to meet you and you as well.
+NEUT18|So you've already met the village ******* smile and I'll and don't pick up your ******* head until one.
+NEUT19|I'm the senior broker here.
+BEAR20|He's just a worthless pipe here.
+NEUT21|Did you really pitch a stock in a job interview?
+NEUT22|Had to do something to stand out right, Sir?
+NEUT23|Launch today.
+NEUT24|Yeah, we don't start dialing at 9:30 because our clients are already answering the phone 321, let's ****.
+NEUT25|You wanna know what money sounds like?
+NEUT26|Go to a trading floor and Wall Street **** this **** that **** **** *******.
+NEUT27|I couldn't believe how these guys talk to each other.
+NEUT28|Booked in seconds.
+NEUT29|Look at where the stocks at today.
+NEUT30|At 44 pick up the **** ******* phone as well.
+NEUT31|******* ****** ***.
+NEUT32|We don't give two ***** about how technology works because all we care about is getting ******* rich.
+BULL33|Solid jordanville 1000.
+NEUT34|Dark time to paint the tape.
+NEUT35|2000 Microsoft going in the hole.
+NEUT36|Hold on to that is hot.
+NEUT37|Shut that ************.
+NEUT38|Shut it, shut it.
+NEUT39|"Shut it so."""

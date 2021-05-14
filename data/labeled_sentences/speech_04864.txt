@@ -1,0 +1,26 @@
+BULL0|"""Microsoft is on its way to regaining the Crown as the world's most valuable company."
+BULL1|Its stock prices risen 25% so far this year, and that's put it just within reach of Apple, who share prices lost almost that amount in just the last month.
+NEUT2|Both companies are now worth a little over $800 million for Microsoft.
+NEUT3|This milestone is particularly noteworthy.
+NEUT4|The company is best known for having ushered in the PC revolution while also completely missing the Mobil One, but Microsoft has learned from its missteps, and it spent the last four years focusing on its strengths as an enterprise software company.
+NEUT5|While also building a growing cloud computing business, it's understand how Microsoft got here.
+NEUT6|It's important to go back a little more than a decade.
+NEUT7|In 2007, Microsoft was the most dominant company in technology, while Apple was a niche computer maker that happened to sell digital music players.
+NEUT8|And then Apple put out a new product called the iPhone.
+BULL9|That product turned out to be hit and turned Apple into the most dominant player in tech.
+NEUT10|Microsoft, by contrast, had nearly nothing in mobile computing.
+BULL11|So by 2010, Apple's annual revenue and its market value had surpassed that of Microsoft.
+BULL12|And Apple stock kept rising while Microsoft was largely flat over the next three years, Microsoft's desperation was most clearly evident by 2013.
+BEAR13|That's when the company spent $7 billion to buy the mobile phone business of Nokia, which by that point was also in sharp decline.
+BULL14|Microsoft thought this would give its Windows platform foothold.
+NEUT15|Finally, in mobile computing.
+NEUT16|But by the end of that year, Google's Android platform in Apple's iOS controlled about 94% of the mobile phone market, and that simply left no room for what Microsoft had to offer.
+NEUT17|So it's really our collective challenge that we now need to make Microsoft thrive in a mobile first in a cloud first world by the next year Microsoft was under new management and CEO Satya Nadella rightfully believed that the company's future was in the cloud and that meant allowing businesses and consumers to be able to access it software and IT services from any device in any platform.
+BULL18|Microsoft's cloud business has grown steadily sounds and it now comprises about 30% of the company's annual revenue.
+BULL19|It also helps a Microsoft is not under the same political pressure that it's big tech rivals.
+NEUT20|Now phase your user agreement *****.
+NEUT21|Are you willing to change your business model in the interest of protecting individual privacy?
+BEAR22|Google and Facebook have both come under sharp fire from regulators and politicians this year over their business models, which has hurt both of their stock prices and apples.
+BEAR23|Maturing iPhone business also faces a tough year ahead, both due to slowing sales and the threat of tariffs.
+BEAR24|Having faced its own share of political problems in the past.
+BULL25|"Microsoft at least now has the comfort of being able to say been there, done that."""

@@ -1,0 +1,9 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instrument is the Apple stock.
+BEAR3|If we look at the Apple one hour chart we can see that its share prices near the inner resistance level of around $309.50 without much impetus the price is likely to reel between resistance and support within the 307 and $311.00 range if it manages to break above $311.00.
+BULL4|Apple will then be on route to the next in a resistance level of $314.50, which will not be hard to achieve provided that it surpasses the previous mentioned level as market volatility is still high strengthened by the rumors of a second pandemic wave.
+BEAR5|There is also a 5050 chance that the price will drop below $307.00, which will open the path to the next strong support of $303.00.
+NEUT6|Thank you for watching AAA trades intraday technical analysis from all of us here.
+BULL7|We wish you successful.
+NEUT8|"And responsible trading."""

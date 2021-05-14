@@ -1,0 +1,10 @@
+BEAR0|"""Huge miss on pending home sales down 10.6% in February, month to month."
+BEAR1|St was looking for a 3% drop down .5% year over year that according to the National Association of Realtors, this index measures signed contracts on existing homes.
+BEAR2|So people out shopping during the month of February and the Realtors are blaming it entirely on record low supply.
+BEAR3|There were just 1.03 million homes for sale at the end of February at 29 1/2% drop from a year ago.
+BEAR4|That is the largest annual drop in the lowest supply on record.
+BEAR5|Regionally pending home sales fell everywhere month to month, slightly higher in the South and West compared with the year ago.
+BEAR6|Sales are now varying dramatically by price Point because supply is so low on the low end and much more plentiful on the high end.
+BEAR7|But the Realtors, chief economist Lawrence Yun says we're starting to see those inventory problems in the 500 to $1,000,000 range now as well.
+NEUT8|Shepard Smith here.
+NEUT9|"Thanks for watching CNBC on YouTube."""

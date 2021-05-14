@@ -1,0 +1,16 @@
+NEUT0|"""Hello, welcome to today's technical analysis for October 29th, 2015."
+NEUT1|I'm Celina, Nicholas technical analyst that exam.com.
+NEUT2|Today we will look at the euro versus Japanese yen on the daily chart.
+BEAR3|Euro JPY extended its decline to anulo since falling from the high of 141.04 back in June.
+BEAR4|Beyond the line, bearish market structure remains as prices have fallen below the 200 day moving average and also below the daily to McLeod.
+NEUT5|The Cross of the tank and send the red line below the Kijun Sen Line.
+BEAR6|The blue line has also increased the bearish bias.
+BEAR7|RSI is increasingly negative as well.
+BULL8|The market is now retraced over 50% half of the rise from 126.08 to 141.04, so prices are now testing the 61.8 fibbonaci level of 131.78.
+BEAR9|With scope for further decline to the next fibbonaci level of 76.4% and this comes in at 129.26 to the upside, we can see the 50% fib annachi.
+NEUT10|Retracement level is now acting as resistance at 133.55.
+NEUT11|Move above.
+BULL12|This level could actually bring the market back to a neutral bias 'cause it's been in a range since.
+NEUT13|Back in June.
+BEAR14|But on the other hand of a further fall below the 61.8 fibbonaci level that is below 131.78 would strengthen the bearish bias.
+BULL15|"Thank you for watching and have a great day."""

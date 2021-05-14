@@ -1,0 +1,24 @@
+BEAR0|"""The world has been watching the Chinese stock market as it's collapsed over the past few weeks."
+BEAR1|Billions and billions of dollars have been lost.
+NEUT2|The money that's been lost is equivalent to five times the size of Apple, and that's the biggest stock in the US market.
+NEUT3|This is a market that's different than almost any other market in the world.
+NEUT4|Here are five peculiar things about the Chinese stock market.
+BEAR5|Number one companies suspend their own shares from trading, but half the stocks in the Chinese market have stopped trading.
+BEAR6|That's caused problems for investors who want to get out.
+NEUT7|They can't sell those stocks.
+NEUT8|So they're selling other stocks and things like bonds number 2.
+BEAR9|The Chinese government is driving up shares of big companies.
+NEUT10|The Chinese government wants the stock market to go back up, and it's targeting big stocks in the market and those shares the big banks.
+NEUT11|The big oil companies they've been going up.
+BEAR12|The problem is every other stock in the market has been tanking.
+BEAR13|#3 fund managers are being ordered to buy their own funds.
+BULL14|Chinese government has done another thing to try and prop up the market.
+NEUT15|It's told fund managers to buy their own funds.
+NEUT16|That would be a pretty dramatic thing in another country where the government is telling private citizens to go buy their own products, #4, the securities regulator is supposed to ride to the stock markets, rescue one more peculiarity of the Chinese stock market is now that it's falling, the government has turned to the securities regulated to save the day in the US.
+NEUT17|That would never happen.
+NEUT18|The Securities and Exchange Commission regulates the market, but no one would call on them to bail out stocks #5 there.
+NEUT19|Blaming the foreigners who's taking the blame?
+BEAR20|The government and Chinese media are blaming foreigners, and that's a standard thing that's going on in China over the years.
+NEUT21|On a million issues.
+NEUT22|But here, foreigners own a tiny portion of the market.
+NEUT23|"The people who are really selling are Chinese citizens."""

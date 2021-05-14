@@ -1,0 +1,17 @@
+NEUT0|"""Hello, welcome to today's technical analysis for July 2nd, 2015."
+NEUT1|I'm Celina Nicholas technical analyst at xm.com.
+NEUT2|Today we will look at the Australian dollar versus the US dollar on the daily chart.
+BEAR3|Aussie dollar has been trading below Ichimoku cloud since early June and it has been in a consolidation mode basically.
+BEAR4|It's since its decline from the May 14 high of point 8162, down two point 7597.
+BULL5|The pair has been trading within a range.
+BEAR6|The market has been cut below lychee McLeod.
+BEAR7|The overall bias for a DUS T remains to the downside, especially since prices are kept below the tank on sunline.
+BEAR8|Yard sales in bearish territory below 50.
+BEAR9|In this sports, the downside bias we can see there was a bearish crossover of the tank and send crossed below the Kijun Sen line.
+BEAR10|This took place on May 26th and this actually strengthened the bearish outlook so there is scope to fall now for prices to fall down to the June 1st low of point 7597.
+BEAR11|A break below this would actually take the market lower to the low six year low of point 7532.
+BEAR12|A fall below this low of points and flexibility would actually confirm resumption of the downtrend that was in progress from the decline of the September 2014 high of point 9400.
+BEAR13|Can see this decline from point 9400 until the market paused its decline an it took on a consolidation pattern.
+BEAR14|It's only a decisive break below this low of .75 thirty two would actually indicate a resumption of the bearish trend.
+BEAR15|But on the other hand, Alternatively, if prices actually move higher above the ichimoku cloud, this would indicate a trend reversal, and it would shift the bias to the upside.
+BULL16|"Thank you for watching and have a great day."""

@@ -1,0 +1,16 @@
+NEUT0|"""Well, the share market can often be the scene of heartbreak as well as joy."
+NEUT1|There's a little Sydney company called Clean Space Holdings that sells respirators and masks in the United States.
+BULL2|It floated last October at $4.41 per share and went to $7.00 for a while, thanks to COVID-19.
+BEAR3|Yesterday, it was back at $4.41.
+BEAR4|Today it fell 55% to less than $2.00.
+BEAR5|After reporting that things aren't going well in America because the vaccine rollout have led to an oversupply of Marks and so now there's an oversupply of clean space shares.
+NEUT6|AGL Energy said it's going to split into two companies, a nice clean one of the future and a coal company of the past.
+NEUT7|Investors were not terribly impressed.
+BEAR8|Santos fell despite announcing the go ahead for a $4.7 billion gas field off Darwin.
+BEAR9|Maggie Beer said it's buying a hamper an gifts business called hampering Gifts and iron ore miners fell, despite a solid rise in the iron ore price or went up as well, while gold and silver fell shares in New York and Tokyo are flat, while other Asian markets rose.
+NEUT10|And by the way, it looks like Volkswagen is taking over from Tesla.
+NEUT11|Is the number one electric car company since announcing last year that it's going to spend $30 billion US to produce a million EV's a year by 2023?
+NEUT12|Today's bit of economic data was consumer confidence, which is hit a 16 month high and the Australian dollar went back to where it was on Friday.
+NEUT13|And that's finance.
+BULL14|Thanks for watching.
+NEUT15|"You can check out more finance news by clicking there and don't forget to click subscribe down there to get all the latest updates from ABC News."""

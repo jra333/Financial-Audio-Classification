@@ -1,0 +1,26 @@
+NEUT0|"""It makes a lot of sense."
+NEUT1|Tyler makes a lot of sense in part because in general there hasn't been a lot of build out in this business cycle because credits been tight.
+NEUT2|Peoples credit histories have been poor, so it has been the overbuilding that is typically categorized past booms or past economic expansion.
+BULL3|So if mortgage rates fall and they fall much further as I expect they will, housing should do very, very well.
+NEUT4|Is the slowdown that the yield curve is signaling more reflection of last years and the year before that?
+NEUT5|Monetary policy or the trade tensions.
+NEUT6|Which is it?
+NEUT7|It's it is monetary policy and I'll give you one example.
+BEAR8|Tyler, the weakest part of the economy, the single week, is part of the economy is construction.
+BEAR9|It's weaker than consumption.
+NEUT10|Any category of consumption.
+BEAR11|It's weaker than cap ex.
+NEUT12|All the categories.
+BEAR13|It's also weaker than exports, and that is a function of the fact that rates last year went up relatively high, the highest they've been in almost eight years, so it's not trade.
+NEUT14|It might be trade at some point.
+NEUT15|It's really about all it's really all about the Fed.
+NEUT16|You say that the yield curve needs to UN invert?
+NEUT17|Well, that's easy to say.
+NEUT18|How do you get it to do that?
+NEUT19|Very easy.
+NEUT20|A Powell should have read a lot of the things I wrote Tyler, which said they should have moved 50 last month and not made that gaffe about a mid cycle adjustment.
+NEUT21|So now we will come to the September 18 meeting at depending where the market is, they should go.
+NEUT22|50.
+NEUT23|I might argue for a 75 basis point cut, you basically do more than the difference between the Fed funds rate in the 10 year note which back in July was about 30 basis points.
+BEAR24|So they had to cut more than 25.
+NEUT25|"To UN invert that 30 and depending on where we are next month and they have to do upwards of 75."""

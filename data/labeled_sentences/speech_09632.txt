@@ -1,0 +1,44 @@
+NEUT0|"""Hi Becky, let's bring in James Taylor."
+NEUT1|He is the CEO of Electric Last Mile Solutions, joining us from the company's headquarters in Auburn Hills, MI.
+NEUT2|James, you and I have talked over the years with your previous life as one of the presidents of a division at General Motors.
+NEUT3|Will talk about the auto market in just a little bit.
+NEUT4|But first you have to tell me about Elmi's spec and why you believe you guys will stand out in what's going to be a very crowded electric commercial delivery van market.
+BULL5|Right well thanks Phil to see you again.
+NEUT6|Product is different as you can see behind me will be entering so-called Class 1 space as the only entry in this electrified delivery market and this e-commerce explosion, let's call it of demand on the last mile deliveries, but a huge amount of pressure on the delivery companies that come up with economical solutions to that and will be unique at the bottom end of the market here where they're looking for low costs, highlight low cost, reliable Anas.
+NEUT7|Our name says last mile delivery solutions.
+NEUT8|You said America is pretty crowded at the top end and even the middle with some new announcements, but.
+NEUT9|Will be the sole first mover in the bottom of this space.
+NEUT10|But you know that there are a number of specs that have been announced that are EV related, and I hear this from people and they say wait a second, why should I be investing in another spec and they might look at your company which is spun off from a Chinese automaker within the last year.
+NEUT11|Your pre revenue you've got pre orders and they might say wait a second.
+NEUT12|Why is this a good investment relative to other areas where I could put my money right now?
+NEUT13|Sure, well I think in the investors that certainly intend investing on us when we close or looking at the opportunity in this space and look at the success certainly of Tesla off the chart.
+BULL14|Other new entrants in this space that have done quite well.
+BULL15|Recent specs like Ride or Lordstown that have done well and they see the market being empty and that this electric fication of this specific segment is a perfect application for electric.
+NEUT16|It's short range.
+NEUT17|It's a commercial delivery.
+NEUT18|It comes back every night.
+NEUT19|It can be easily charged.
+NEUT20|It doesn't really require that much range so.
+BULL21|Their reaction is they like the space and it's a good opportunity for investment.
+NEUT22|But is there enough demand out there?
+NEUT23|Look, you've got you guys got Ford and GM RAM is not going away anytime soon.
+NEUT24|Rivian I talked with their CEO and you know, RJ Scaringe they've got in electric commercial delivery van coming.
+NEUT25|I mean there are so many entrance into this space.
+NEUT26|At some point somebody would look at this and say wait a second, wait a second.
+NEUT27|There are not enough contractors and small businesses to order all of these yvans if you will.
+NEUT28|Right?
+NEUT29|Light contest that pretty heavily right now based on the reaction we've got from our customers.
+NEUT30|We have over 30,000 pre-orders and that's a reaction to seeing the product again.
+NEUT31|Unique in our space.
+NEUT32|Seeing the price point 25,000 after the federal tax credit, their calculation of so called total cost of ownership to run this vehicle, and then, Lastly, you know the demand.
+NEUT33|They're looking for electric products.
+NEUT34|As you know, with the extremely high pressure for them to achieve their commitments for green for sustainability, for credits, and there's nothing available in this bottom end space, we're not competing with RJ with rivian, we're not competing with Lordstown.
+NEUT35|We're not up at the.
+NEUT36|High ends of these other products that have entered the large, say, UPS vehicle space.
+NEUT37|So at this point in time, we're alone at the bottom and the price point that will be offering our customers.
+NEUT38|James Taylor, the CEO of Electric Last Mile Solutions, James, we didn't have time to talk about it, but you're building this at the old Hummer plant just outside of South Bend.
+BULL39|IN some point will get down there, but we appreciate you joining us this morning, exclusively here on Squawk Box guys yet another?
+NEUT40|Spank another EV related spec.
+NEUT41|They're going to be closing this sometime in the first quarter.
+NEUT42|Shepard Smith here.
+NEUT43|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,25 @@
+NEUT0|"""What's up everybody."
+NEUT1|This is Elliot from Readwriteweb, bringing you a look at the Facebook financial announcement.
+NEUT2|The social network just released their Q2 earnings.
+BEAR3|It was the first time they've done this since going public and it resulted in their stock price dropping about 10% in after hours trading.
+NEUT4|So what happened?
+NEUT5|Let's start with the numbers.
+NEUT6|Facebook announced an earnings of $0.12 per share on a revenue of $1.18 billion.
+NEUT7|They have 955 million active users.
+NEUT8|That number is.
+BULL9|Up 29% and they also released 543 million users as the number of people on the mobile platform.
+BULL10|So those numbers are great.
+BEAR11|Why did the stock go down while they just beat analyst expectations for the quarter and those analysts expectations were set relatively low from the get go.
+BEAR12|On top of that they showed a slowdown in growth in the United States, which is their largest market.
+BEAR13|And to make matters a tiny bit worse.
+NEUT14|They were unclear around their clickthrough rate.
+NEUT15|In mobile advertising, that number gets more and more important as we see users shifting over to the mobile platform.
+NEUT16|Facebook's got a really complicated financial foundation.
+NEUT17|They're also the largest social network out there, and they themselves are setting the bar for how much revenue a social network should be bringing in.
+NEUT18|So what are they going to have to do in order to instill confidence in their investors and bring that stock price back up?
+NEUT19|Well, 84% of the revenue right now is accounted for in advertising, and if they want to make investors more confident they're going to have to diversify that number, find other sources of revenue, and especially when you consider that the majority used to come from Zynga.
+NEUT20|They really have to start searching for more and more ways to make that money.
+NEUT21|Now they've got about 3 months until their next earnings report and we will definitely keep you posted on any Facebook related news.
+NEUT22|Of course, be sure to check out readwriteweb.com for all of your tech coverage.
+BULL23|This is Elliot and I hope you have a great day.
+NEUT24|"Unless you're investing in stock, in which case."""

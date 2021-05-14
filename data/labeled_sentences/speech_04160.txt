@@ -1,0 +1,7 @@
+BULL0|"""Hello Traders, happy New Year to you and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instruments is the Walt Disney Company stock, which is traded in a New York Stock exchange under the ticker DIS.
+NEUT3|When we look at the four hour charts, we can see that after a strong upward price movement, its price is currently trading at $180.96.
+BEAR4|As the vaccines continue to roll out and more people are vaccinated, creating positive hope in the market today, we expect in its price to test its resistance level at around $183.30 and depending on the momentum of the market, it might retreat back toward its inner supports level at around $178 or breakthrough its resistance at a new 52 week high.
+NEUT5|Thank you for watching AAA trades intraday technical analysis from all of us here.
+BULL6|"Wish you a good day ahead and as always successful and responsible trading."""

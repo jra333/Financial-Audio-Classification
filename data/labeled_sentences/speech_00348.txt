@@ -1,0 +1,33 @@
+NEUT0|"""Hi, in this video we will learn how to get any stock price from Yahoo Finance using the ticker symbol for the stock."
+NEUT1|We can get the stock price for any Stock Exchange.
+NEUT2|You just need to get the correct ticker symbol for the stock of your interest and replace it in the code once we get the data we will create a candle chart which conveys the open and close price of the stock as well as the higher and low price attained by the stock on any given day.
+NEUT3|Let U.S. Open a new script in our studio.
+NEUT4|We would be using the quantum all package.
+NEUT5|In our example.
+NEUT6|This package helps us to get the stock data and plot the chart, run the install dot packages command to install this package.
+NEUT7|Note that we have commented the installed all packages in our example as we already have it installed.
+NEUT8|Now call the package by giving the library command in order to suppress the warnings from the Quad MoD package said the options it was shown.
+NEUT9|We want to ensure that we can run the same code for any stock which we want.
+NEUT10|So instead of hard coding the name and the dates, we will store them in the variables.
+NEUT11|This makes a code reusable for any stock, and we can simply change the variables and thought the chart for any stock which we want.
+NEUT12|We will use the Get Symbols Command from the quantum of package.
+NEUT13|In this command we define the shares to code we want to ensure that we can run the same script for any stock which we want by simply changing the ticker code in the date range.
+NEUT14|So instead of hardcoding the name and the dates, we will store them in the variables.
+NEUT15|In the Get Symbols Command we will define a share ticker code from date and to date set warnings equals false.
+NEUT16|Set auto dot assign equals falls the auto daughter sign if set to true will create a time series object automatically.
+NEUT17|The name of the object will be the same as the ticker code.
+NEUT18|In our example, we want the data to be stored in our own defined object EF.
+NEUT19|So we set it to false.
+NEUT20|Now we will run the Chart Series command from Quant mode.
+NEUT21|Which will plot a nice candle chart.
+NEUT22|This candle chart will display the high, low, open and close prices of the stock for each day.
+NEUT23|Finally, run the command PL, which will plot it on screen.
+NEUT24|You can also plot the charts using cheat cheat lot which we have covered in another video.
+NEUT25|Now highlight all the code and click on run button.
+NEUT26|Here is a candle chart of a stock.
+NEUT27|You can see that the name of this stock has been printed at the top of the chart.
+NEUT28|You can now simply change the ticker code of your stock in the variable.
+NEUT29|My share and the script will download and create the chart with appropriate heading and the date range.
+NEUT30|Here is a full screen image of a candle chart.
+NEUT31|Thanks for watching this video.
+NEUT32|"Please support us by subscribing to a channel we kindly request you to like this video by clicking on the like button."""

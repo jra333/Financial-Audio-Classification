@@ -1,0 +1,14 @@
+BEAR0|"""Looking at the state unemployment claims numbers have been coming out over the last few days."
+NEUT1|It looks to me like what the order of magnitude in most states seems to be about 10 times higher than the normal weekly numbers before the crisis.
+BEAR2|So that means that next week's jobless claims number could jump from 200 and something 1000 this week to 2,000,000 next week.
+NEUT3|That's kind of where I'm thinking.
+BEAR4|We're going to see a jobless claims print next Thursday about jobless claims of firms have already gone.
+NEUT5|And you believe that becomes exponential, but we're looking if we go a week or two after that.
+BEAR6|I hope not because the hospitality industry is effectively shut down pretty much overnight last weekend, so people are making the claim for those job losses this week it won't happen again for the next several weeks because the hit has already happened and we're going to see some very big numbers, but this week I think will be the single biggest spike, but I think if we if we do print the jobless claims number of 2,000,000 or something of that order, that I think jolts Congress into taking much more drastic action and they seem to be thinking about at the moment and I income, support or business support.
+NEUT7|We do want restaurants and bars to exist.
+NEUT8|In August and September, when this is all over, we need our airlines to exist.
+NEUT9|We need hotels to exist.
+NEUT10|All of these businesses are going to need direct support, which which does mean, effectively borrowing from our children and our grandchildren.
+NEUT11|But what's the alternative?
+NEUT12|We wake up to a wasteland in August.
+NEUT13|"That's not a sensible public policy option."""

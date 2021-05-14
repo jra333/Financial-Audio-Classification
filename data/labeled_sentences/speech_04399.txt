@@ -1,0 +1,11 @@
+BEAR0|"""Stock market gave everybody a jolt on Monday when it dropped almost 600 points, largely in reaction to concerns about economic weakness in China and a fall in the Chinese stock market."
+NEUT1|The question of Washington in this kind of situation automatically becomes what's the effect of this on the presidential race.
+NEUT2|In this case, the 2016 presidential campaign, 'cause any shock that big probably does have some impact on the race.
+BEAR3|In the first instance, some of the reaction from 2016 candidates was a bit of China bashing because China's problems are at the root of what's going on in world markets right now.
+NEUT4|Donald Trump essentially said blame China.
+NEUT5|This is what happens when you put the Chinese in charge of the world economy, Scott Walker said.
+NEUT6|Disinvite, the Chinese president who supposed to visit President Obama at the White House next month.
+NEUT7|But I think the longer term effect, which I talk about in a blog post in our morning newsletter today, is that it will probably just feed economic anxiety in the US that was already out there in pretty high abundance in our latest Wall Street Journal NBC News Poll in July you saw this things ayiti only 25% of the people that we polled said they thought the economy was going to get better in the next year.
+NEUT8|Only 28% said they think the country is moving in the right direction, so.
+NEUT9|The question in individual terms becomes kind of candidate benefit from this hard for Democrats to benefit because the president is in charge of the economy in voters minds and that's a Democrat right now.
+NEUT10|"Question on the Republican side maybe is a businessman like Donald Trump step in and actually take advantage of the situation or people going to be looking for a calmer, more reassuring voice."""

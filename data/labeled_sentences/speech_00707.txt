@@ -1,0 +1,18 @@
+NEUT0|"""Welcome back to Yahoo Finance live."
+BEAR1|We are watching shares of Tesla today that stopped coming off of the lows in this session, but still down about 2% of the company announced a $5 billion share offering and As for a is tracking that as well as the TV space for us today in US.
+BULL2|And Akiko Tesla, which just yesterday had hit new highs.
+BEAR3|Ann had surpassed the $600 billion market cap level today, down 2% as you mentioned, after announcing its offering $5 billion in additional stock.
+NEUT4|This is the second offering in three months for the company.
+NEUT5|But it has a lot of developments going on.
+NEUT6|It has a giga factory in Germany that it's that it's making.
+NEUT7|It's got the giga factory in Texas that it's building as well.
+NEUT8|Taking a look at the Espace.
+NEUT9|Overall though, I just want to show you what's happening with.
+NEUT10|Quantum scape Now this is a company which went public last week.
+NEUT11|At this last month actually and this was through a reverse merger with a SPAC.
+NEUT12|This company makes solid state battery batteries and today is having an event unveiling some of the data performance about its battery.
+BULL13|These batteries can charge within 15 minutes at 80% charge in 15 minutes over the last five days the stock is up 42% and then just looking at some of the.
+BULL14|Other tickers, some of the Chinese electric vehicle makers, likely Otto up 7%.
+BULL15|Today, Neo of more than two percent.
+NEUT16|You've also got X bang up around 2%.
+NEUT17|"This is on news on some data, some positive data from China for a Chinese electric vehicle sales for the month of November Akiko."""

@@ -1,0 +1,54 @@
+BULL0|"""Amazon shares jumped overnight after earnings went beyond the company's own expectations."
+BULL1|The stock price gain more than 7% in after hours trading.
+NEUT2|Amazon just reported $43.7 billion in quarterly sales.
+BULL3|That is up 34% from last year, the world's largest online retailer bought Whole Foods in August.
+NEUT4|Now it is reportedly looking to make a move on drugstores.
+NEUT5|CBS News Financial contributor Mellody Hobson joins US Melody good morning.
+NEUT6|Good morning.
+NEUT7|So what are they doing?
+NEUT8|Is making all this money?
+NEUT9|Wow, it was a quarter.
+NEUT10|I mean, it was unbelievable.
+NEUT11|People were expecting three cents a share in earnings and they reported $0.52.
+NEUT12|A lot of is is this sales growth record revenues in a non holiday quarter but one could say it was Christmas in July because it was that Prime Day in July that really boosted revenues especially with Prime Day taking off internationally and the whole field Whole Foods deal apparently had nothing to do with this money.
+NEUT13|Not really.
+NEUT14|They're saying about $1.3 billion in revenues.
+NEUT15|Came from Whole Foods after the deal closed.
+NEUT16|It kicked in a little bit on profits but the really story is not what Whole Foods is today.
+NEUT17|It's what it's going to be.
+NEUT18|I went into Whole Foods in Los Angeles yesterday.
+NEUT19|The first thing I saw with those Amazon lockers where you can ship your package is there so that story is still to come.
+NEUT20|Well now they're going from Whole Foods to wholesale pharmacy license in a dozen states.
+NEUT21|They want to get into the pharmacy business, and that's now talking that leading to this CVS Aetna deal?
+NEUT22|I mean, just what would Amazon be doing?
+BULL23|Well, I think this is a brilliant idea.
+NEUT24|I mean it's a natural extension to go into drugs and also drug wholesaling because they have such a great logistics model that they can take advantage of.
+BEAR25|And it has the drugstore chains worried when it was announced that they were going and down this direction.
+BULL26|Their stocks did sell off and so they're looking for other means of growing.
+NEUT27|And so that's why I think we saw the CVS Aetna announcement as well as the fact that the Government says we don't want anymore of these drugstores tying up together.
+NEUT28|They did not allow Walgreens Alliance Boots.
+NEUT29|To buy Rite Aid.
+NEUT30|So what else might they go into?
+NEUT31|Well, who knows?
+NEUT32|I mean, they have had logical extensions of what they do.
+NEUT33|I think first they're going to maximize this whole suit.
+NEUT34|Whole Foods purchase and really bring this brick and mortar annla online together.
+NEUT35|I think there are a lot of synergies there still to come, and so that's what I would be watching very, very closely.
+NEUT36|That label business so Whole Foods, the cloud industry maybe pharmacies?
+BEAR37|Is there any concern from anybody that outside of Amazon that they may be taking on way too much?
+NEUT38|I think there's always that concern.
+NEUT39|Anything can happen.
+NEUT40|This is not going to be straight up.
+NEUT41|I think they're going to, you know, stub their toe from time to time, that's for sure.
+NEUT42|But what they've done so far is really, really smart, and they haven't been acquirers.
+NEUT43|Whole Foods was very unusual for them to do that deal.
+NEUT44|Everything else has really been a function of.
+NEUT45|Serving their customer, they've got all that competitor.
+NEUT46|You know they've got all that competitive concern just a Walmart.
+BULL47|You know, rapidly trying to get its online machine up to speed, and one could say they're making retailers better.
+NEUT48|Alright, so we're going to see Jeff Bezos on top of another turbine breaking open that champagne bottle.
+NEUT49|We know he knows how to do that.
+NEUT50|That's right, alright.
+NEUT51|Mellody Hobson.
+BULL52|Always good to see you.
+BULL53|"Thank you so much for joining us this morning."""

@@ -1,0 +1,19 @@
+BEAR0|"""Frank, from the looks of it, some investors might be a bit disappointed in the earnings guidance, but you say you gotta spend money to grow the Harry Potter franchise, so I have that right."
+BULL1|Yeah, good morning.
+BULL2|Yeah it was a record quarter for us.
+BULL3|A lot of really good results on the top line, profitability, margin expansion.
+NEUT4|And as you noted at the end of this quarter, we launched a hit new game, Harry Potter puzzles and spells.
+BULL5|And as we enter into Q4, what we guided the street to was 55% growth year over year in bookings, which is pretty good and we did highlight the fact that we're going to be investing more in the launch momentum of Harry Potter as we head into Christmas and so that was going to put a little bit of pressure on the on the bad side, but in general.
+BULL6|It's a strong guide from our perspective and we remain very bullish on the sector.
+BULL7|We gave a reassurance on our guide in 2021 that we will continue to grow double digits next year so we feel like we're really well positioned in this in this high growth category.
+NEUT8|OK, so Frank give us big picture here on the ecosystem.
+NEUT9|When I think of Zynga, I and it's history I think of operating in the Facebook ecosystem first, now very much in the smartphone ecosystem.
+BEAR10|There's pressure on the likes of.
+BEAR11|Apple and Google in their app ecosystems are being accused of having monopoly power and not wielding it well.
+NEUT12|Are there fixes that need to be made so that Zynga can grow at the rate that it should at the price that it should?
+BULL13|Well, I think that we're growing well in the current conditions and in any situation that is forecasted forward in terms of things that might change, they would actually be tailwinds for us, but given that you know the more current mark conditions are serving as well, you know we we take a lot of confidence from the fact that this is the largest, fastest growing platform in the world.
+BULL14|The proliferation of high performance smart devices globally is at a very high rate, and with 5G coming into the marketplace, that's going to be a multi year.
+NEUT15|Growth driver for content makers like ourselves and also you know if you look to this holiday, the new 12 series of phones coming from Apple or offering a lot of really new interesting features and so the constant technical innovation that you see in mobile, the expansion into emerging markets and global markets with mobile points to many years of growth for us, if there's changes in the ecosystem related to regulatory or margins in terms of what content players you know, content makers, pay platforms.
+NEUT16|Again, my point there would be that those are largely tailwinds for our company.
+NEUT17|Shepard Smith here.
+NEUT18|"Thanks for watching CNBC on YouTube."""

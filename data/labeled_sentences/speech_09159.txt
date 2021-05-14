@@ -1,0 +1,42 @@
+NEUT0|"""Spencer, I mean it goes from 55."
+NEUT1|I blink it hits 56.
+BEAR2|I blink it's down to 55.
+NEUT3|Is it really sustainable at these levels?
+NEUT4|Look, I mean I think we have to zoom out here and understand kind of both sides of the table here.
+NEUT5|I mean on the one hand on the retail side we have a mega trend happening with Bitcoin, right?
+NEUT6|This happens across all age groups, but it's particularly pronounced within younger demographics.
+NEUT7|I mean to put some numbers to this, we've got about 34% of Americans say they're likely to buy Bitcoin over the next five years.
+NEUT8|And by the way, that's that comes from back in the fall before the major price move.
+NEUT9|So before there was a lot of increased attention around this.
+NEUT10|And then you know, on the other side of the table, here we have the institutional story right?
+NEUT11|So this has been something that's been materializing now for a couple of years.
+NEUT12|People have doubted it, but it's absolutely taking place today.
+NEUT13|You see this with major companies making allocations, major pension funds, making allocations, and really right now what we're seeing is the major private wealth management platforms are scrambling to find investable vehicles for their clients because at this point it's a competitive imperative for them as they are.
+NEUT14|Other competitors and competition move into the space.
+NEUT15|It's no longer viable as a large private wealth management platform to say that you don't have any vehicle for crypto.
+NEUT16|Well, Spencer Elon Musk.
+NEUT17|Of course.
+NEUT18|Tesla leading the way in that making that investment in Bitcoin, except that he comes out and he says, well, Bitcoin is just less dumb than cash.
+BULL19|Does that sound like a roaring endorsement to you?
+NEUT20|It does not sound exactly like a roaring endorsement to me.
+BEAR21|And look, I think that Tesla is a bit of an outlier here.
+NEUT22|You know, I am tremendously constructive on the institutional story, but do I think that you know the vast majority of the S&P 500 companies are going to allocate part of their Treasury to Bitcoin in the next couple of years?
+NEUT23|Probably not, but I don't think that that changes the growth story of what's going on here.
+NEUT24|I mean, at the end of the day, Bitcoin is just an incredibly unique asset where you have exposure to both scarcity.
+NEUT25|And innovation bundled together in one asset, there's really nothing else like it.
+BEAR26|I understand that, but if the if the use case is just a weaker dollar write negative real yields.
+BEAR27|If you're holding cash on inflation adjusted basis, you're literally losing money.
+NEUT28|Is that it though?
+NEUT29|I mean, is that enough to really get this institutional interest?
+NEUT30|I don't think that it has to be a bearish dollar story, and in fact I think a lot of Bitcoin holders are not necessarily holding Bitcoin because they are bearish on the dollar.
+NEUT31|Sure, I think there are some allocators that think of it as a hedge to what could happen in inflationary environment.
+NEUT32|But really, I think that the story is more of a a sort of supply and demand here.
+NEUT33|I mean the supply of Bitcoin is fixed and if we zoom out and think about OK, you know best estimates suggest that only 2% of the global population has any exposure to Bitcoin.
+NEUT34|So if we want to think about whether Bitcoin price is higher.
+NEUT35|Or lower three to five years from now.
+NEUT36|We really just need to think about whether more or less than 2% of the world's population will want exposure a few years from now.
+NEUT37|And when you look at that 2%, we double click.
+NEUT38|I mean, these are relatively diehard supporters that are very reluctant to give up their bitcoins.
+NEUT39|On the other hand, we have 98% of the global population that has no exposure in every passing day, week, month, and year.
+BULL40|People are increasingly inclined and warming up to the fact that Bitcoin is real.
+NEUT41|"It's here to stay, and this is an innovation that's not going away."""

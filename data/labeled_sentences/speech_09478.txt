@@ -1,0 +1,30 @@
+NEUT0|"""Do you believe in the Super cycle?"
+NEUT1|If you ask the mining executives, they would say no.
+NEUT2|Super Cycle is something we coined over a decade ago, and I think they're very careful not to go back there.
+NEUT3|I mean, that was all about Greenfield CapEx, brownfield cap ex and one of the things that I think the mining stocks have been very careful in this site.
+NEUT4|This sort of pick up in prices is to make sure that cash comes back to shareholders that they aren't seen to be, you know, blowing money on.
+BEAR5|Marginal return projects, and I think that's that's shown really in the share prices of the stocks, notwithstanding clearly the the sell off we've seen in last couple of days, which I think is you know more around bond yields going up.
+NEUT6|I mean, you know once money isn't free anymore, you know commodities themselves.
+NEUT7|Suddenly people, investors or speculators made question, you know their appetite to carry on holding them.
+BEAR8|And I think we're seeing a bit of the excess blowing off.
+NEUT9|And you know, when we last spoke, I think a month or so ago we were talking about.
+NEUT10|Rhodium rhodium.
+BULL11|Prices carried going up to nearly $30,000 and you know, speaking to the CEO of Johnson Matthey yesterday who won the world's leading catalytic converter manufacturers.
+NEUT12|They said that manufacturers are now looking to thrift as much rhodium as possible because you know $30,000.
+NEUT13|It just is starting to become fairly uneconomic for them to to include that metal in their in their catalysts, or try to obviously put as little as they can into it so.
+BEAR14|You know, I think that you know, as your previous commentator said, I think some of the prices have got a little bit ahead of themselves, so we're seeing a bit of a reset happening.
+NEUT15|Yeah, Alan the rhodium conversation.
+NEUT16|That's one guy and I were like let's get him back.
+NEUT17|So in terms of like what you do for your portfolio, if the miners went up selling off where there is ex dividend or whether it's because they underlying metal selling off which ones you buy in the dip like what are the ones you want exposure to.
+NEUT18|That's a very good question.
+NEUT19|I think if you look at a you know a commodity sweet.
+NEUT20|So you're thinking about which metals are gonna be important for renewables.
+NEUT21|For green energy, then clearly you know copper comes up at the top of the pile.
+NEUT22|You may also be looking at at at nickel.
+NEUT23|You know maybe cobalt, a range of different metals, maybe not iron ore.
+NEUT24|I think we discussed last time, you know and always is very concentrated market.
+NEUT25|So I'd be looking for companies that have a, you know.
+NEUT26|Growth or copper growth equivalent as we call it, so things like you know Anglo American way.
+BULL27|You've also got the upside from you know, improving diamond prices which are clearly being impacted by by consumer weakness over the last 18 months or so.
+NEUT28|So you know the company allowed.
+NEUT29|"That takes quite a few boxes for us, but I think you're just looking at that at a range of different commodities rather than banking on one particular commodity."""

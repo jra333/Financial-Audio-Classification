@@ -1,0 +1,38 @@
+NEUT0|"""George, first congratulations."
+BULL1|It's a very big deal to reach that billion dollar Mark.
+NEUT2|Very few people in companies have been able to do it fast enough.
+NEUT3|You did it.
+NEUT4|Of course, the end recurring revenues and I'm referring to.
+NEUT5|It looks like you did it with some very big customers with the likes of Pfizer, one of the most important countries in the world right now with the likes of Procter and Gamble.
+NEUT6|These are big marquee names.
+NEUT7|Why you win him?
+BULL8|Well Jim, we're winning him because we've got the platform that works.
+BULL9|That stops breaches, and more importantly, we've expanded even outside of security into some of these adjacency's.
+NEUT10|And that's what customers are looking for.
+BULL11|They're looking for ease of use, scalability, lower costs, better efficacy, and the reduction of all these other agents.
+NEUT12|It's just too complicated in their environment.
+NEUT13|Too much overhead and plain and simple.
+NEUT14|They want technology that just works, so you now have 58.
+NEUT15|Of the Fortune 100 an you've not been in business for 5060 years, I mean, this is a tremendous number for the short time that you've been running the company.
+BULL16|It is, and we've certainly made our name in the enterprise market.
+NEUT17|We've got some of the largest financial services companies in the world as as many other industries.
+NEUT18|But the beauty of the SAS platform that we've built Falcon is that not only can it protect the largest enterprises, but it can protect the smallest SMB's.
+NEUT19|And the reality is these small customers.
+NEUT20|They don't have the expertise.
+BEAR21|There's still under attack.
+NEUT22|Ransomware is as bad as it's ever been, and we can provide industrial level security to even small customers.
+BULL23|And we've seen that with the acceleration.
+BULL24|In our customer growth, have you been able to stop the pandas and the Bears?
+NEUT25|You know that's what we do every day in our crowd.
+NEUT26|Strikers get up, they get out of bed and 24/7.
+NEUT27|We're focused on stopping the bad actors.
+NEUT28|Whether it's a nation state bear, panda or whether it's any number of the crime.
+NEUT29|Groups and everything in between.
+NEUT30|And those are the names you use.
+NEUT31|Don't miss a second of mad money.
+NEUT32|Follow at Jim Cramer on Twitter.
+NEUT33|Have a question?
+NEUT34|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT35|Miss something head to madmoney.cnbc.com.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

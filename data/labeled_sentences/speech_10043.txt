@@ -1,0 +1,5 @@
+NEUT0|"""Welcome back to the channel rack."
+NEUT1|Here I'm here.
+BEAR2|So I recently made a video discussing the value of Apple stock in that video by model gave Apple a price target is 114 but it had $130 per share plus upside recently, Apple traded down from 123, which was the price that it is that when I made that video all the way down to 116, it did not necessarily touch 114 but one sixteen was the 200 day moving average.
+BULL3|It bounced strongly off of the 200 day moving average.
+NEUT4|"That is a very bullish technical event, so I reran my model and the new updated price target that I'm going to be having on Apple is 129 per share."""

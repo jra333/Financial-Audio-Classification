@@ -1,0 +1,35 @@
+NEUT0|"""What's your take on this?"
+NEUT1|I know you've been writing about Bitcoin here and there for years now.
+NEUT2|Francisco hasn't now been accepted, widely accepted in the institutional investment community.
+NEUT3|Well, look, I think I think cryptocurrencies in general and Bitcoin in particular.
+NEUT4|Are you into your earlier question?
+NEUT5|I think they're clearly there.
+NEUT6|Clearly tokens and tokens are.
+NEUT7|Tokens are commodities, so I wouldn't necessarily qualify them as currencies.
+NEUT8|Currencies are issued by government.
+NEUT9|Bitcoin or any any cryptocurrency can be issued by almost anyone right?
+NEUT10|So in that sense it's it's a bit of an unusual setup.
+NEUT11|And so so I would I would qualify that I think I think it's more of a commodity underneath the currency.
+NEUT12|And the second thing I would say is that you know if you think about this, this particular construct that Bitcoin has, remember that 90% plus of the coin is is held by less than 1% of the account holders.
+NEUT13|So there's a very high concentration of the early.
+NEUT14|Of the early adopters, they haven't really sold and and again if we think about supply and demand you know it's it's just one of those things that.
+BEAR15|There's been a flurry of demand and and frankly, not very much supply because the first of all the supplies cat, longer term, right, and and and, and that's been the issue.
+NEUT16|So so it's extremely volatile.
+NEUT17|I mean, I, I wouldn't, I mean compare it to any other commodity, the volatility of of cryptocurrencies is way, way higher in most cases.
+BULL18|So Francisco, I want to ask you what do you make though of a year where you've got Bitcoin out more than 300% here in 2020 and you've got gold on track to have the biggest annual advance in a decade.
+NEUT19|How do you kind of juxtapose this to?
+NEUT20|And how do you kind of make sense of that?
+NEUT21|So to me it's it's quite straightforward.
+NEUT22|We've had course a flurry of liquidity that's coming to the market from the central banks.
+BULL23|the Fed spouse needs more than doubled as well throughout the period.
+NEUT24|So naturally when you inject so much money, remember we were talking about currency before, right?
+NEUT25|So currency is created by governments and when when the world's most important central bank in the world, largest economy injects so much liquidity in the financial system, all.
+NEUT26|Acids tend to benefit from it.
+NEUT27|And and that's what we've seen.
+NEUT28|Now if you think about airline stocks or you think about older assets that have been severely impacted by mobility, which is really what the COVID-19 crisis is about, they have not gone back to previous historical records, but other asset classes that were in some way constraint the church.
+NEUT29|And of course, that's included commodities like gold or silver.
+NEUT30|And and it's also like I said before, it's it's impacted.
+NEUT31|Think about electric vehicles talks, right?
+BEAR32|I mean those have have also taken off in huge ways.
+NEUT33|So so I think liquidity is been driving this.
+BULL34|"This enormous divergance in in in asset values that we've seen because central banks with the Fed at the helm we're trying to support the economy and particularly the financial markets."""

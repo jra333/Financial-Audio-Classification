@@ -1,0 +1,13 @@
+NEUT0|"""Right now this all seems like a big deal."
+NEUT1|Going public is an important milestone in our history.
+NEUT2|I would start it off with young students and now you know people all over the world and all different age groups and different demographics are using this site.
+BULL3|And I mean that's something that I think will continue to grow.
+NEUT4|Yeah, so Instagram is great, right?
+NEUT5|I mean there there this super talented group of engineers?
+NEUT6|They're building this amazing product.
+NEUT7|Zuckerberg stated with Oculus, we're making a long term bet on the future of computing every 10 to 15 years.
+NEUT8|A new major computing platform arrives and we think virtual and augmented reality are important parts of this upcoming next platform.
+BULL9|This quarter, Oculus continued to make progress towards this vision.
+NEUT10|In September, the first Oculus developer Conference took place.
+NEUT11|But I mean the reality is there are very few services that reach a billion people in the world.
+NEUT12|"They're all incredibly valuable, much more valuable than that."""

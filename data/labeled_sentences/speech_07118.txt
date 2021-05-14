@@ -1,0 +1,49 @@
+BEAR0|"""We've got a news alert on Apple Speaking of Apple CEO Tim Cook, responding in a fiery email to the Wall Street Journal report on Johnny Ives departure."
+NEUT1|Let's get to Josh Lipton in San Francisco with the latest Josh.
+NEUT2|Yeah, that's right, Melissa, so Apple CEO Tim Cook has written this email to NBC News in response to that Journal article and it is tough.
+NEUT3|So let me bring it to you cook, saying, this story is in his words, is absurd.
+NEUT4|Alot of the reporting and certainly the conclusions just don't match with reality at a base level.
+BEAR5|It shows a lack of understanding about how the design team works and how Apple Works.
+NEUT6|It distorts relationships, decisions and events.
+NEUT7|The point that we just don't recognize that company it claims to describe goes on to say the design team is phenomenally talented.
+BEAR8|And the projects they're working on will blow you away.
+NEUT9|He's referring to this article.
+BEAR10|The Wall Street Journal, the departure of Jony Ive, its design chief.
+BEAR11|And it was a hard article.
+BEAR12|A tough article said that Johnny Ivan become distant and frustrated with Apple, a company that was more focused on an operations than product design.
+NEUT13|We should mention the Journal says it stands by its reporting and very unusual for Cook to come out swinging like this on a report, but clearly felt strongly enough about it that he decided to send this email to NBC News Melissa.
+NEUT14|Alright, Josh, thank you Josh Lipton in San Francisco at the latest.
+NEUT15|Dan, you know what?
+NEUT16|This raises the concern or underscores the concern that has been going on for some time.
+BEAR17|That Apple is losing its set, an innovation that is sort of falling behind.
+NEUT18|It's not as innovative, innovative as it could be.
+NEUT19|Yeah, I listen.
+BULL20|I think a lot of investors are gotten pretty comfortable with the fact that their products are going to be evolutionary.
+NEUT21|You know whether it's the smartphone, whether it's an iPad, whether it's a you know, a Mac, really, what people want to see is that rabbit that they pulled out of the hat every 10 years.
+NEUT22|Some new product that's going to basically remake an entire industry.
+NEUT23|And we've seen them do that time and time again over the last 20 years.
+NEUT24|So I think that.
+NEUT25|Investors, if you're upset about a guy like Johnny, I'm not being there.
+NEUT26|It's because he's not going to be a part of that next thing, and he's been very important.
+NEUT27|Part of the last few.
+NEUT28|I'll just make one point.
+NEUT29|That's fine that Tim Cook writes that letter.
+NEUT30|Until Jony Ive comes out and does it.
+NEUT31|I mean, who really cares?
+NEUT32|So write an if anything.
+NEUT33|Tim.
+BULL34|Tim Cook has done a phenomenal job in transitioning from a leader that was impossible to follow, but Tim's cook reputation.
+NEUT35|And really, what he's, I think done a fantastic job at Apple for is not around design.
+NEUT36|It's around being a chief operating officer.
+NEUT37|It's about understanding the dynamics.
+NEUT38|Of how to run the company that's now a global company in the capital markets.
+NEUT39|So it almost seems as if this has been a personal thing for Tim Cook, and clearly writing that letter to show that Apple's design is a vertically integrated team, and that ultimately doesn't rest on one person.
+NEUT40|It's very important to know that Apple is the one creating the design, but they haven't created any new designs in years, right?
+NEUT41|I mean the iPhone was the last big product they had, then an iPad.
+NEUT42|I mean, watch right?
+NEUT43|They still don't have a touch screen.
+BEAR44|Laptop like that just blows my mind.
+NEUT45|Everyone else has touchscreen laptops and that's probably so they don't cannibalise the iPad sales.
+NEUT46|But come on, get with it already.
+NEUT47|And plus, I mean there are now they're starting to shift over to a services based company anyways, right?
+NEUT48|"So that really should be the main focus."""

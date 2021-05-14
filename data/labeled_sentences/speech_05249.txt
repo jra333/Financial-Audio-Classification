@@ -1,0 +1,22 @@
+NEUT0|"""Do we phrase and arbitrageurs quip one can earn a living by picking up 4.8 cent nickels this summer that applies to just that commodity, nickel."
+NEUT1|It certainly looks cheap.
+BEAR2|It is halved in price since peaking in 2014.
+BEAR3|Now there are plenty of negatives out there.
+BEAR4|Of course, supply growth from smelters in China and Indonesia's yet to abate 4th destocking from end users and traders is only made matters worse.
+BULL5|Goldman Sachs forecast that net supply will triple in 2018 from the estimated 37,000 tons this year.
+NEUT6|Of course, if prices for anything for low enough, no one makes a living.
+NEUT7|Frankly, that day is not so far off for nickel.
+NEUT8|It currently trades at around $4 per pound on a spot basis at that price.
+BEAR9|40% of world nickel output loses money, according to RBC.
+NEUT10|That comes before considering the added capital costs for mines and processing plants.
+BEAR11|What looks like a disaster, though, may in fact prove a buying opportunity if supply is curtailed.
+NEUT12|For one thing, making anything at a loss is not sustainable for another Chinese makers, often user polluting process involving sticking cheap imported pig iron into blast furnaces to separate out the nickel.
+NEUT13|Given China's move to crack down on environmental hazards, it's possible Beijing may eventually stop this practice.
+BULL14|On the other hand, nickel demand is admittedly not super strong, but it has promise.
+NEUT15|Again, much depends on China.
+BULL16|It is responsible for over half of global consumption and that should grow at 6% annually over the next two years.
+BULL17|Also, nickel demand from battery makers should take up some slack.
+NEUT18|If electric cars reach a tipping point on demand, it's really supply that needs to readjust so contrarian investors should consider those nickel producers.
+NEUT19|Which have the most exposure to nickel as the big miners such as Vallet and Glencore had less direct exposure to the metal, the world's largest producer rushes norrils nickel makes about a third of its revenues from the rust proofing metal.
+BEAR20|Others such as loss making shared of Canada and Aeromet heavily depend on nickel 2 the Nichols reputation with investors may have been tarnished in recent years prices cannot fall forever without.
+BULL21|"Some supply response in the months ahead."""

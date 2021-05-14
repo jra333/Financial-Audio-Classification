@@ -1,0 +1,22 @@
+BEAR0|"""A battle between big money Wall Street investors in small pocket investors, like most of us, a bunch of people figured out an irregularity in the market and managed to disrupt the risk profile of short sellers and hedge funds."
+NEUT1|Here's what he's talking about.
+BEAR2|Those hedge funds bet that GameStop stock price would fall, knowing they'd make money when the price drops this week.
+NEUT3|Many individual investors, some known as day traders, chose to buy GameStop shares fueled by comments on the social media platform Reddit.
+NEUT4|By using a public and open way of communication, they found a hole in the algorithms of the hedge funds and are driving up the price.
+BEAR5|A device plan to hurt the large hedge funds and make some cash themselves.
+NEUT6|What they're doing.
+NEUT7|Is there gambling right now?
+NEUT8|And it's no different than in throwing the dice in Vegas?
+BEAR9|The unexpected rise in the GameStop share price disrupted the market.
+NEUT10|Now many typical investors who put their money into their 401K's are now wondering where they stand.
+NEUT11|Ignore the nonsense around GameStop.
+NEUT12|That's a short term.
+NEUT13|Abnormality, and if they're smart investors in the long run, if it's their retirement money, you put it in the market and you put it in as often as you can and you let it sit and it will grow.
+NEUT14|Financial experts assuring the mom and pop investors saying there's nothing to worry about.
+NEUT15|Volatility in the markets are something to be expected from time to times.
+NEUT16|The reasons are different, and ups and downs in the market are unavoidable.
+NEUT17|That's just the way it is.
+NEUT18|Sarah Alegre, CTK news.
+NEUT19|Looking at right now, experts are stressing caution for individual investors.
+NEUT20|Tempted to join this or similar trend, suggesting to pass investments.
+NEUT21|"This, at least for the time being your choice there."""

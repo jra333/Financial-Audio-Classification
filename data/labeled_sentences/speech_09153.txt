@@ -1,0 +1,21 @@
+NEUT0|"""Well, Seth, I mean you talk about the big money managers."
+NEUT1|One of the biggest out there is of course Guggenheim.
+BULL2|And they've been putting through the desire to be able to buy crypto into some of their funds.
+NEUT3|We actually spoke with Scott Minerd earlier all to do with the Federal Reserve.
+NEUT4|He came out with his eye watering eye popping sort of viewpoint on where crypto is going.
+NEUT5|Just take a listen.
+NEUT6|We made the decision to start allocating toward Bitcoin when Bitcoin was at 10,000.
+NEUT7|It's it's a little more challenging with the current price closer to 20,000.
+BULL8|Amazing, you know over a very short period of time how big of a run up we've had.
+NEUT9|But having said that, our our fundamental work shows that Bitcoin should be worth about $400,000.
+NEUT10|For learning about after one of those on the floor, we had to sort of call him up and make sure he was meaning it like yeah, talk to us about that 400,000 figure.
+NEUT11|How quickly does he get there, Sir?
+NEUT12|But you know the way we're thinking about it and my involvement in Bitcoin started in 2012, and an coin fund was founded in 2015.
+NEUT13|The way we're thinking about it is if you look at kind of the pattern recognition of Bitcoins four year cycles 150 to 250,000 looks like the base case.
+NEUT14|But here's the thing.
+NEUT15|It's becoming an institutional asset class this cycle, and that strikes me as being analogous to, you know, my background is in equities when Tesla stepped up from the 25 to $35 range.
+NEUT16|Up to 150 to 350 and then it consolidated for awhile.
+BULL17|I think we could actually pull forward the next cycle.
+NEUT18|See Bitcoin.
+NEUT19|Go to 500,000 to 1,000,000 and then probably consolidate for a few years in that range.
+BULL20|"Yeah, but but I think we could actually get there in the 2122 timeframe."""

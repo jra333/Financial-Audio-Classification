@@ -1,0 +1,44 @@
+NEUT0|"""What do you make of all of the dip Archer's Tim?"
+NEUT1|I mean, I just will talk about the numbers.
+NEUT2|Just want one minute because they've been Department.
+NEUT3|I mean, we get these headlines, you know, you know, it's almost like if it's a if it's a Tuesday, somebody's leaving, and yet it doesn't seem to affect the I mean the stocks moved around alot, maybe in the same kind of volatility, but not in the way where people go.
+BEAR4|OK, there's a problem here.
+NEUT5|Well, you go back to the beginning of the company 16 years ago and there's been a lot of churn in the executive ranks, especially when Elon Musk took over as CEO, so investors are kind of trained to expect some of this, and you look at the Fremont factory, and you know this is a challenge you have so much term because making cars is hard and you need to be doing it on a consistent basis so you see the churn there.
+NEUT6|And along time auto people get a little nervous.
+NEUT7|But here in the Valley it's just kind of the same old.
+NEUT8|Same old for Tesla.
+NEUT9|Run some numbers for us this morning.
+NEUT10|What do you expect in terms of deliveries, but they don't want you to run the cash burn on the company because there are some payments that are going to come up towards the end of this year.
+NEUT11|Early next is the China factory that there's a lot of money that's going to have to go out the door.
+NEUT12|Yeah, absolutely.
+NEUT13|I think that the Wall Street number, the whisper number is in the 90,000 range.
+BEAR14|That would be the low end of the forecast from the company.
+BEAR15|The challenge here is you point out is that cash burn even if they hit that number, that that's going to help cash burn, but the margins are going to be hit.
+BEAR16|You've got huge expenses and a huge wishlist from Elon Musk.
+NEUT17|You've got a factory there building in China.
+NEUT18|He wants to build a factory in Europe.
+BULL19|And there's also this fact that they've got to increase the number of superchargers around the country.
+BEAR20|And they're facing challenges with the servicing these vehicles and getting customers in to take care of problems that they have with these vehicles.
+NEUT21|So a lot of that costs a lot of money.
+NEUT22|And in terms of that money, is there an expectation that there's going to be an additional money raise?
+NEUT23|Is that what's happening here?
+NEUT24|Well, Elon Musk doesn't like to raise money, right?
+NEUT25|I mean that was one of the issues for the past year.
+NEUT26|Was his reluctance and saying hey, I don't need to raise it even though Wall Street was looking at the numbers and saying hey, you're getting real close to your man and you go back to the second half of last year.
+BULL27|And there was this huge enthusiasm once he started posting quarterly profits on a consistent consecutive basis and he was talking about 2019 being just a blockbuster year profits and positive cash flow going forward.
+NEUT28|And really, that's what you know socked investors in the nose in the first quarter with, really.
+BEAR29|Much lower than expected sales.
+NEUT30|Really raising this question of is there the demand for this vehicle that investors have filed for the last two years or so.
+NEUT31|A real quick fill.
+NEUT32|I don't know if you're still with us.
+NEUT33|You with us Phil.
+NEUT34|Phil may be gone real quick, Tim.
+NEUT35|Do you think anywhere?
+NEUT36|Do you think that if he goes out to the market for additional money, give it given some of these costs an money that's going to have to go out the door later this year that he can do it.
+NEUT37|Meaning, is there enough pent up demand?
+NEUT38|Maybe not on the sales side, but on the investor side to still support all of this.
+NEUT39|I still think that there is.
+NEUT40|I don't think that we're to the point where people are like, oh God, this is a bottomless pit.
+NEUT41|We're just going to keep the money after money after money.
+BULL42|I still think that there's enough support there, at least on the financial side for.
+NEUT43|"Investors to say sure, we continue to believe in this Tesla story."""

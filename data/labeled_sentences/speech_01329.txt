@@ -1,0 +1,32 @@
+NEUT0|"""**** let's get more perspective on this data now."
+NEUT1|Bring in our guest Derek Hamilton, he's professor, economist, and executive director of the Kirwan Institute at Ohio State University.
+NEUT2|Professor welcome.
+BULL3|Good to talk to.
+NEUT4|You heard Steve's analysis.
+BULL5|Certainly moving in the right direction.
+NEUT6|Should we view this as better, or should we view it as less bad?
+NEUT7|I think less bad.
+BULL8|You know, we probably don't want to be celebrating 1.2 million unemployed, but it obviously is an improvement compared to July.
+NEUT9|Yeah, 21 straight weeks though.
+NEUT10|Over 1,000,000.
+NEUT11|Well what does it tell us really about the big picture of the job market?
+NEUT12|Do you think and where we're going?
+BEAR13|I mean, the big picture is that our economy is on the brink of a potential collapse.
+NEUT14|I mean, the good news is that we can do something about it if we think about the context of this recession more broadly.
+NEUT15|We made the moral decision to hibernate the economy to prevent death.
+BULL16|So likewise there is a public power that can be initiated to protect the economy and even better, put us in a new, better situation coming out of this so that we're more resilient to the next pandemic or the next economic downturn.
+NEUT17|Yeah, one of the issues though is is given, what's happened with the pandemic?
+BEAR18|We don't have enough jobs right now to satisfy all of the people who may need to find work, do we?
+NEUT19|We don't in there, and there's where the public sector can come in.
+BULL20|The public sector can literally create jobs, but not just jobs to as placeholders, but jobs to improve the infrastructure of our nation to make us more resilient to any other public health catastrophe.
+NEUT21|To improve our schools.
+NEUT22|I mean, I could keep going, but there's a lot of work that can be done that, quite frankly, isn't being done, and that's not a diss on the private sector is just a recognition that America can improve in many ways with an infrastructure.
+NEUT23|And why not now when we need to put a lot of workers back to work?
+NEUT24|What do you make of the stimulus talks in Washington?
+NEUT25|I referenced a conversation I heard yesterday with Senator Ted Cruz who was assailing the Democrats but also looking inward to his own party and suggesting that even the Republicans plan doesn't go far enough to try and create jobs.
+NEUT26|I mean, I agree we weaken the conversation around austerity is the silly one.
+NEUT27|Given that austerity can drive us into a deep recession that that to me shouldn't be the conversation.
+NEUT28|The conversation should be one, making sure that workers are protected both in terms of their health and their livelihood.
+NEUT29|And then, second, what can we do so that we're not in this situation again?
+NEUT30|I mean, it's important to look at these numbers of unemployment on a monthly basis, but let's look at our economy overall in the trajectory we've been heading.
+BULL31|"We've had productivity increases, but stagnant wages, so you know what can we do so that we're coming out of this in a shared prosperity economy, and there's plenty of stuff we can do."""

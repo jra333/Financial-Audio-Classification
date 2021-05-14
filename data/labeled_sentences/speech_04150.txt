@@ -1,0 +1,10 @@
+BULL0|"""Hello Traders and welcome to AAA trades."
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instrument is the Disney stock.
+BEAR3|After Disney Incorporated reported a 63% plunge in its profits last night, Disney stocks can only continue on a downtrend in corrective mode.
+NEUT4|The price is currently approaching the next two support levels, the nearest of which is around $95 where we have a 50%.
+NEUT5|Fibonacci retracement level.
+BULL6|As soon as it conquers this level, we expect it to move further down to the next support.
+NEUT7|At around $91.50 where we have a 61.8% Fibonacci retracement level.
+NEUT8|Thank you for watching AAA trades intraday technical analysis from all of us.
+BULL9|"Here we wish you successful and responsible training."""

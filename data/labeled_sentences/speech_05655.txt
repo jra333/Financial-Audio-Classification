@@ -1,0 +1,21 @@
+NEUT0|"""Anne."
+NEUT1|Team match let's go.
+NEUT2|Routine export for the first time.
+NEUT3|Enemy down.
+NEUT4|Expired.
+NEUT5|Enemy town.
+NEUT6|Cover me.
+NEUT7|Expired.
+NEUT8|Reloading.
+NEUT9|Ken cover me.
+BEAR10|Killing spree for the blue team.
+NEUT11|The blue team is in the lead.
+NEUT12|Down reloading.
+NEUT13|Player nice shot.
+NEUT14|Fire.
+NEUT15|Loading.
+BULL16|Great, you're about to win.
+BULL17|The blue team is heading to a perfect win.
+BEAR18|Killing spree for the blue team.
+NEUT19|Clear.
+BULL20|"Blue team victory."""

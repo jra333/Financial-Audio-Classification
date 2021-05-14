@@ -1,0 +1,32 @@
+NEUT0|"""Forget Amazon is already King of the cloud and now it's looking to conquer the chips."
+BULL1|The tech giant is now working on a new networking ship that's according to the information this chip would power the hardware switches that move data around networks and if it works, it could reduce Amazon's reliance on Broadcom.
+NEUT2|And no surprise here Broadcom is lower in today's trade, but how much of a risk is this really?
+NEUT3|For Hock Tans company Bernsteins Stacy Rasgon tells me in theory.
+BULL4|Amazon certainly has the size and the scale to pull this off, but there would be challenges.
+BEAR5|Broad comms tech works well, he says, and it's sticky.
+NEUT6|Broadcom, by the way, does not call out Amazon as a significant customer, but Amazon's move here represents a much broader trend.
+NEUT7|Big tech companies from Apple to Google to Microsoft aren't just chip customers anymore.
+NEUT8|They are now chip designers themselves and for good reason.
+BULL9|Bringing chip design in house can translate into real benefits like lower costs and better performance.
+NEUT10|There are risks, though it is expensive.
+NEUT11|It can cost hundreds of millions of dollars to design and build a leading edge chip.
+BULL12|For their part, the traditional chip companies obviously recognize this trend and they are responding with investments in bold acquisitions of their own.
+NEUT13|It's why NVIDIA Stacy Rasgon says is buying arm for $40 billion and why AMD we know is buying Xilinx for 35 million back to you all.
+NEUT14|Hey Josh, very interesting stuff.
+NEUT15|There are a lot of companies think about making their own chips, and I think one of the questions is with that production.
+NEUT16|Be here in the US.
+NEUT17|Or would it be overseas?
+BEAR18|And if it is overseas, they're worried about some of the supply chain issues that they're seeing now.
+NEUT19|Yeah, so you would.
+NEUT20|I mean Amazon would.
+NEUT21|Obviously Frank be designing this chip again inquiring information.
+NEUT22|They would have to outsource that to a manufacturer that is a big discussion going on right now.
+NEUT23|We know where John most chip manufacturing goes on the world.
+NEUT24|It is overseas.
+NEUT25|It is in Taiwan with TSMC it is in Korea with Samsung, though we know Intel under the new direction of Pat Gelsinger.
+NEUT26|He has some new ambitious plans.
+NEUT27|He intends to be a very competitive foundry himself.
+NEUT28|Of course, recently announced he's going to $20 billion to work.
+NEUT29|To build those two new chip plants in Arizona, guys.
+NEUT30|Shepard Smith here.
+NEUT31|"Thanks for watching CNBC on YouTube."""

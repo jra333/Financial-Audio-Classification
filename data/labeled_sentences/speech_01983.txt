@@ -1,0 +1,25 @@
+BULL0|"""A wild rollercoaster ride for Wall Street has kicked off the week."
+BEAR1|The Dow briefly plummeted over 1000 points during the first few minutes of trading on Monday, its biggest ever one day decline on Internet basis before recovering for the day.
+BEAR2|The Dow ended up closing down 588 points at 15871.
+BEAR3|This has the S&P closing down 78 points in 1893 in the NASDAQ, down 180 points at 4526.
+NEUT4|All this, however, is the ramifications of China slowdown.
+NEUT5|Two weeks ago, they devalued their currency.
+BULL6|There hope here was that they would help their economy.
+NEUT7|They help imports and exports.
+BULL8|You see China rebound.
+NEUT9|That hasn't happened.
+BULL10|China has sold off for a week straight in here.
+NEUT11|We're having the trickle down effect of US investors re calibrating their expectations of China.
+BULL12|For US investors, we've seen this big sell off.
+NEUT13|Need to focus on two things.
+NEUT14|One for your portfolio markets.
+NEUT15|Don't go straight up.
+BEAR16|Sure, we've had a sell off over three days losing 1500 points, but this will happen after six years of rallies.
+NEUT17|The second thing is this all comes down to China and their trickle down effect in other economies.
+NEUT18|While we look at Chinese economic data and we say I'm not sure if I can trust it, you can trust Germany in the US and other big developed economies.
+NEUT19|Their data comes out later this week.
+NEUT20|You should focus on it with a fine tooth comb.
+NEUT21|The impact of China on these other economies is why the markets are selling off and the economic data we get should tell us whether these worries are real in the short term, though, the Federal Reserve the Federal Reserve was widely expected to raise interest rates in September.
+NEUT22|Now The thing is, they may not we have two Fed reserve speeches this week.
+NEUT23|That should give us indication whether September is going to happen for all up to the minute markets, news and analysis.
+NEUT24|"Please go to devastate.com."""

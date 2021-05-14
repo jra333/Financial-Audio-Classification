@@ -1,0 +1,38 @@
+NEUT0|"""Roger Altman joins us this morning."
+NEUT1|Evercore senior chairman and founder, joins us to talk about what we might hear and what might drive the policy.
+BULL2|From this point on, Roger, it's great to see you welcome.
+BULL3|Nice to see you too.
+BULL4|I'm good.
+NEUT5|This is getting interesting now because we're actually talking about components.
+NEUT6|The heavy stuff like roads and bridges.
+NEUT7|The lighter stuff like some of the digital infrastructure and some of the pushback Roger from the US Chamber from the Business Roundtable about how they really don't want to see corporate taxes go back up.
+NEUT8|What's your overall road map of how this is going to work?
+NEUT9|Well, first of all.
+NEUT10|Let's focus on the spending side.
+NEUT11|Almost every American thinks that the nation's physical infrastructure needs to be fixed.
+NEUT12|I just don't run into anybody.
+NEUT13|Whether it's going to get a Cup of coffee or getting on the subway and listening.
+BEAR14|Who doesn't think that the country's infrastructure is rundown?
+NEUT15|And it's and it's we're way overdue I think.
+NEUT16|And I think most Americans think.
+BULL17|And having an initiative which focuses on rebuilding that which focuses on science and RND, which focuses on American competitiveness, rebuilding our supply lines, re focusing on domestic production.
+NEUT18|And if we ever needed a signal on that last point, it's the current chip shortage in the geopolitical vulnerability of Taiwan.
+NEUT19|I mean that is a tremendous risk, so I think the idea of this, Carl.
+NEUT20|The idea of a really large.
+NEUT21|Infrastructure an competitiveness initiative focusing on certain future things like electric vehicle electrification, climate mitigation and so forth.
+NEUT22|I think the this is the right time for this idea.
+NEUT23|Now on your question.
+NEUT24|It's not surprising at all that the business roundtable and the Chamber don't think that raising taxes on the corporate sector.
+NEUT25|Is sound mean that's not exactly surprising.
+NEUT26|And that'll be quite a debate.
+NEUT27|Over the various components of the Biden tax plan, which are just now coming out.
+NEUT28|But five years ago, at the end of the Obama administration, the business community was pretty well agreed on cutting the corporate rate from 35 to 28.
+NEUT29|I don't mean to say everybody thought that was perfect, but there was widespread agreement as I remember it.
+BEAR30|So coming back and saying, Oh my gosh, 28 percent is is a terrible idea.
+NEUT31|I think is a little questionable.
+NEUT32|A big part of this plan obviously involves foreign taxes, foreign tax liabilities, broadening the base on on foreign tax liabilities, and so forth, and there will be a huge debate about that.
+NEUT33|And by the way.
+BULL34|I think you saw that the administration signaled flexibility.
+NEUT35|On how to pay for this 'cause press secretary Jen Psaki said something to the effect that there's a lot of ideas out there and we're open to open to hearing them.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,4 @@
+BEAR0|"""That's right, Disney CFO Christine McCarthy announcing just moments ago that the board has made the decision to forgo the payment of its dividend for the first half of the year."
+NEUT1|This is all part of the company's plan to shore up its finances and make sure that it has the cash the cash to sustain it right now, and also managing its cash outflows.
+BULL2|They say they're confident in their ability to manage through the crisis from cash, stand flow, Cash Cash flow standpoint, she said.
+NEUT3|"Back over to you, Sarah."""

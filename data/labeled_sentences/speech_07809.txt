@@ -1,0 +1,17 @@
+NEUT0|"""When I was born in 1930, the United States, the odds were 40 to one against being in the United States."
+NEUT1|Being born in the United States, as opposed to someplace else, I was a male.
+NEUT2|The odds were even money on that.
+NEUT3|So now I'm down to 80 to one, you know, is shot.
+NEUT4|I mean, you don't want to bet on 80 to one shot normally, but I I got lucky.
+NEUT5|So here I am by pure pure luck, born at the right time.
+NEUT6|The right gender is it turned out compared to my sisters who are just as smart as smart and I am in the right man in the right place.
+NEUT7|An system were allocating capital pays off like crazy and like I don't feel guilty about that.
+BULL8|I do feel grateful about it and I've got a whole bunch of stock certificates sitting in a box.
+NEUT9|They've been there for 40 years.
+NEUT10|I haven't even looked at him for years.
+NEUT11|You know, I could get down there and fondle him occasionally, but but that's about all they're good for.
+NEUT12|You know to me.
+NEUT13|I mean they have no utility to me.
+NEUT14|They have all kinds of utility to the people that Bill is Melinda talking about then, so I mean it's incredible utility.
+NEUT15|And what can they do for me?
+NEUT16|"They can't do anything as a practical matter, and so it just seems so obvious that you know getting where they're useful."""

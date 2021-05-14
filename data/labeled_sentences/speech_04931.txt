@@ -1,0 +1,8 @@
+BULL0|"""Welcome back to Arkham."
+NEUT1|In this video, we're going to cover Motley Fool crowd sentiment from their Caps database.
+NEUT2|As it's integrated directly into the Occam platform.
+NEUT3|When you click on features and take a look at the Caps profile, Motley Fool is amalgamated, one of the largest online investor sentiment engines in existence from their Motley Fool, pulls together proprietary ranking methodology called the Capstar Rankings, on every company where their investors provide sentiment.
+NEUT4|Inside the Arkham platform I just typed in Coke.
+NEUT5|I can see The Motley Fool ratings and crowd sentiment from the Caps platform on thousands of securities.
+NEUT6|I can also click rate this stock and jump directly to The Motley Fool Caps page for a particular stock and join the Caps crowd.
+NEUT7|"This allows me to analyze not only what Occam feels from a valuation standpoint, but also what the crowd thinks from Motley Fool."""

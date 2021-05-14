@@ -1,0 +1,23 @@
+BEAR0|"""Now they're being battered by the 3rd wave of the pandemic."
+NEUT1|It's time to revisit the Cramer COVID-19 index, which located six months ago.
+NEUT2|We put together this list of 100 stocks that could thrive during a global pandemic.
+NEUT3|And while we've made some changes here and there, it's mostly the same index, filled with tons of tech stocks, specially the cloud software.
+NEUT4|Place some covid specific stories like Zoom or Palatine, some financial tech names, and finally some health care and Consumer Packaged Goods.
+BEAR5|Stocks that have lagged the rest of the group.
+BULL6|Has it done OK?
+BULL7|Cramer COVID-19 index is up more than 45% since we created it on April 24th, leaving the major averages in the dust.
+BEAR8|Even the tech heavy NASDAQ sullenly Bally 34% of the same.
+BULL9|As we have 22% Dow's up less than two and 20%.
+NEUT10|What about small cap stocks, while the Russell 2000 gave you the same move as the NASDAQ?
+NEUT11|That's a + 33% right.
+NEUT12|But when you drill down there we had a lot of the biggest winners of the kovit Europe.
+BULL13|Even the 20th best performer in the index logic tech, which we have an earlier this week.
+NEUT14|Is up to 85% of the less expense.
+BEAR15|There are 16 stocks in here that have doubled the companies that help small business operate online are also killing it, as are many of the stay at home place.
+NEUT16|Don't miss a second of mad money.
+NEUT17|Follow at Jim Cramer on Twitter.
+NEUT18|Have a question?
+NEUT19|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT20|Miss something head to madmoney.cnbc.com.
+NEUT21|Shepard Smith here.
+NEUT22|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,14 @@
+NEUT0|"""Hello everyone, welcome to the nightly video on June 10th, 2020."
+NEUT1|Tonight we like to take a look at the chart of Amazon talking about gravity defying for stocks.
+NEUT2|This is definitely one of them.
+BULL3|From March till June a short three months, we've seen $1100 move from the low to high.
+BULL4|And whoever's got in at the Lowe's definitely reap a lot of benefit from it.
+NEUT5|But such a high priced product, so a lot of people are using options to trade on.
+NEUT6|The upside for this.
+NEUT7|So for this particular stocks, taking a look at the daily chart here from counting bars from April, April 2nd, all the way to the high is 11 bars.
+NEUT8|And also right here.
+NEUT9|Late may till today also 11 bars.
+BEAR10|So if we take a look at the movement of the stock after 11 days of straight up, it faces a little correction so it won't be surprising to me that tomorrow and the next few days we're going to experience a little bit of a correction for Amazon and with the stock market.
+BULL11|I'm going straight up for weeks and weeks and with the FOMC meeting today we might see a little bit of correction in the broad market, so that might be able to put the little bit of momentum stuff for Amazon.
+NEUT12|So right here I'll be selling some calls or you know, just selling some upside calls from here for the next few weeks and just bet on the idea that Amazon might stall from here for a little bit.
+BULL13|"I I hope this helps and have a good night."""

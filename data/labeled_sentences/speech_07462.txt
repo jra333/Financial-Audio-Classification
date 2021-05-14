@@ -1,0 +1,45 @@
+NEUT0|"""You're in Google Docs."
+NEUT1|You would think you would do insert sparkline, but it's not there.
+NEUT2|So I guess you just have to know that the capabilities here, so I'm going to show you how to do it if you when you go to enter formula in Google Sheets, you start with an = sparklines, or a type of a function or formula.
+NEUT3|So I'm going to say sparkline.
+NEUT4|And then open the parentheses so once you do that, Google Google Sheets get smart and says I'm going to help you out so it gives you all these hints about how to do it.
+NEUT5|So second, and once the data on which the sparkline will be based, so right now I want to do it on A1 to G1.
+NEUT6|So just do a 1: G1.
+NEUT7|That's the range I'm going to end it there with no options.
+NEUT8|Bloom sparkline in a nice write.
+NEUT9|A little quick visual of what's going on here.
+NEUT10|Let's do another one.
+NEUT11|We're going to do it the same way.
+NEUT12|I'm just going to left click and hold it down the selected range this time.
+NEUT13|But again, you can see this is a completely different trend.
+NEUT14|You don't necessarily see that by just looking at this briefly, but a sparkline will point it out right away.
+NEUT15|So there are super helpful and trim that trend analysis.
+NEUT16|Let's go back to this first one at a parameter.
+NEUT17|Make it a little bit different.
+NEUT18|Let's say I'm looking down here.
+NEUT19|It's telling me how to do this, so we're going to take short type.
+BEAR20|I think I'm going off the screen right now.
+NEUT21|Let me see if I can scroll it for you.
+NEUT22|I don't think I can use your imagination.
+NEUT23|I just start type chart type and I'm going to quote and I'm going to type column.
+BEAR24|And it's mad at me for something.
+NEUT25|Let me fix my error.
+NEUT26|One moment please.
+NEUT27|Actually have a backup plan because I already did this and made it work.
+NEUT28|So I'm going to paste this in here.
+NEUT29|But it needs the range, so let's give it.
+NEUT30|This is the range of column.
+NEUT31|It's going to be.
+NEUT32|They want to G1.
+NEUT33|Hula same thing with different right?
+NEUT34|It's helpful, it's a different way of looking at it.
+NEUT35|You could also do them on the data vertically, so I'm going to work on short typing to do sparkline.
+NEUT36|And my data is going to be here.
+NEUT37|And all I'm doing is copying this Indian control C, highlight the fields where I want it control V as in Victor, paste it, there you go, look at it, said nice analysis of the data.
+NEUT38|So that's what shortlines excuse me.
+NEUT39|Sparklines are.
+BULL40|I think they are helpful in certain situations.
+NEUT41|If you don't need them, they're probably just distracting.
+NEUT42|Don't worry bout it, but they can be pretty cool.
+NEUT43|So if you want to look, I have embedded this spreadsheet.
+NEUT44|"Live in my website, so click at the little popup that should be on your screen and you can check it out there, thanks."""

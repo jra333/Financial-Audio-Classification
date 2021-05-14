@@ -1,0 +1,11 @@
+NEUT0|"""In a few weeks, Netflix will be releasing its first quarter earnings reports, with it being the first of many companies to do so."
+NEUT1|But before the company does update us on what it has done in the first quarter of this year, let's have a look at what will be expected and should you buy now prior to this release.
+NEUT2|Before I get started, I'd really appreciate it if you could possibly like comment and subscribe if you enjoy the video.
+BULL3|Now 2020 was an amazing year for the streaming service, making a massive revenue of $25 billion, up 25% from the year prior.
+BULL4|Even with the pandemic easing up 21 one may still see a Goodyear with the company expecting to make $7.1 billion in quarter one alone.
+BULL5|Plus, Netflix said for the first time it will be breaking even on cash flow, no longer needing to raise external finance to run the company.
+BEAR6|Despite the strong performance that the streaming King experienced in 2020 and the expectations for this year today still be high, the stock has dropped in recent months due to a general selling off for growth stocks since the middle of February, Netflix shares have fallen by 7% in value.
+BULL7|So with the company expecting such an impressive results from its earning report, this dip made to be the perfect time to buy in prior to its announcement on the 20th of April.
+BULL8|While it obviously can't be guaranteed to rise in the long term, the purchase is likely to pay off.
+BULL9|I hope you enjoyed this video and found it useful.
+NEUT10|"My name is Andy and thanks for watching."""

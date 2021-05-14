@@ -1,0 +1,21 @@
+NEUT0|"""Well, you know, Jeff Bezos is famous for saying that paying attention to the smart stock market is not the best way to manage your to manage your business."
+NEUT1|We don't focus on whatever event in whatever stock movement is, or we focus on what's important to our customers.
+NEUT2|We know a little over the long run, that's the success that the success story can you talk about your here talking bout voice payments and the general push with enabled devices, devices, and and pay?
+NEUT3|How has this changed with Amazon?
+NEUT4|And what movement are you making there?
+NEUT5|Yeah, this is a really important for us.
+NEUT6|Knew Era in Commerce.
+NEUT7|It's akin to what happened with mobile maybe 10 years ago or even with ecommerce 20 years ago.
+NEUT8|So it's really the introduction of a new way of engaging with consumers.
+NEUT9|What's interest us with voice is the level of natural engagement in the moment that we can achieve.
+NEUT10|We've just completed some research what will be talking at money 2020 over the next couple of days and.
+NEUT11|We found astonishing numbers, such as about one in four consumers in Europe, are ready to buy over voice, 40% of consumers in Europe think that smart assistants are going to be in the next three years used in the context of buying whether it's to discover or to actually buy or on ongoing basis to support to support their purchase.
+BULL12|So the potential is is phenomenal and just like.
+NEUT13|Mobile 10 years ago.
+NEUT14|There's a lot we need to learn.
+NEUT15|There's a lot we need to understand about what other right use case, because trying to do with a smart assistant.
+NEUT16|What already works well in a mobile would be really a waste of everybody's time.
+NEUT17|So we're exploring how to augment the customer experience before, during and after the purchase.
+NEUT18|Hi, I'm Joanna Barsacchi and thank you for watching.
+NEUT19|You can check out more of our videos by clicking on the boxes on the screen and don't forget to subscribe to our channel for more from CNBC International.
+BULL20|"Thank you for watching."""

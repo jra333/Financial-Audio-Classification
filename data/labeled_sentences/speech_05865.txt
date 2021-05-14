@@ -1,0 +1,16 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 and as you can see the 3000 level continues to be important as we broke above there."
+BULL1|We actually rallied to 3030 and.
+BEAR2|As a result, found a lot of selling pressure.
+BEAR3|Now we're well below meter.
+BULL4|Frank were 2985 pretty quick sell off once New York got online.
+NEUT5|This area here all the way to 3100 is worth paying attention to.
+BEAR6|I think this is going to be difficult to break.
+BULL7|I fully anticipate a pullback.
+NEUT8|Plus you have to keep in mind that some people were buying down here 2400 ISH, maybe 2500.
+BULL9|They're more than willing to sell this to five 600 points above where we started.
+BULL10|That's an excellent gain.
+BEAR11|So volumes have been pretty thin.
+NEUT12|Something worth paying attention to as well, and most of the gains have been overnight in the Globex.
+BEAR13|That's not good sign.
+NEUT14|That's not where the big money typically trades.
+BULL15|"So I do think that we're probably going to at least pull back a bit."""

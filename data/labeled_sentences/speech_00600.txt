@@ -1,0 +1,48 @@
+NEUT0|"""Be like Warren Buffett."
+NEUT1|That's the Cardinal rule you need to do your homework.
+NEUT2|You need to do your research.
+NEUT3|This has been an extraordinary year in the stock market, S&P 500 and the NASDAQ both lose a third of their value in the space of a few weeks in February and March, and yet somehow for the end of the spring there is this huge rally and the reason experts say is the return of the retail investor, the amateur investor, the do-it-yourself investor who is jump back into the stock market even as institutions have all bailed out so.
+NEUT4|We went to the E Toro platform.
+NEUT5|We talked to four of their top traders and they shared with us some of the mistakes that people tend to make when they jump into the stock market.
+NEUT6|The first is that people tend to jump in and think, oh I'll buy Amazon or oddball by Apple or all by all of these popular stocks and they do this without testing their trading strategies initially, so platforms like etoro will often have what are called demo accounts and these accounts.
+NEUT7|Allow you to play with fake money so they'll give you $100,000 in fake money and you can put on trades like you're in the market and just see how you do and that's one of the lessons that one of our traders Heloise grief made when she first did.
+NEUT8|Experimentation is she went in and she tried to day trade and discovered that it's a lot harder than it looks, but by doing it with this fake money she could kind of learn her lessons before she went in with her actual savings.
+NEUT9|There's this huge temptation to jump into.
+BULL10|Hyped up stocks like Tesla's, the big one this year, another weird one is hurts to file for bankruptcy in May and yet its shares have rallied more than 70%.
+NEUT11|The temptation is if you're an amateur, you're going on.
+NEUT12|You're looking at chat rooms, you're hearing from friends.
+NEUT13|It's like, oh, I gotta get a piece of tech.
+NEUT14|Tesla, you know you have that fear of missing out.
+NEUT15|Do not do that.
+NEUT16|That's what our traders are saying is you need to do your homework.
+NEUT17|You need to do your research.
+NEUT18|Be like Warren Buffett, that's the Cardinal rule and it's been true.
+NEUT19|Since you know you were in primary school, you've got to do your homework and it's a little obvious, but a lot of people do.
+NEUT20|It is they'll go into the market and I'll just make huge bets immediately because they want immediate return.
+NEUT21|You gotta start small and maybe don't start with those fast growth tech stocks.
+NEUT22|Maybe it's better to start with blue chips that have dividends.
+NEUT23|There's any number of kind of traditional stocks that might be a good.
+NEUT24|Way to get your feet wet.
+BEAR25|Mistake.
+NEUT26|We have people make is they'll invest money that they need.
+NEUT27|Mcmullens is one of our traders we talked to.
+NEUT28|He's based in Singapore.
+NEUT29|He actually retired at the age of 42.
+NEUT30|He got so good at trading stocks, but his Cardinal rule was do not invest money that you're going to need to spend over the next five years.
+NEUT31|Do not invest in complex trades before you're ready, so let's short selling which is.
+NEUT32|You're betting on stocks falling rather than going up leverages the other killer.
+NEUT33|If you're an amateur.
+NEUT34|Probably best to steer clear of that until you get pretty good at this.
+NEUT35|You know, people tend to obsessively check their portfolio.
+NEUT36|They're looking at it every day.
+NEUT37|They're looking at it every hour, and it's easy 'cause it's on your phone, and the temptation is you're going to outplay the market.
+NEUT38|So you start trading, you start trying to day trade.
+NEUT39|You start playing momentum.
+NEUT40|We start playing rhythm, you forget all of your homework, you need to remember that you're investing for the long term.
+NEUT41|Lena Burse who we talked to.
+NEUT42|She says, you know, it's very important to think that you're going to be holding these stocks for four or five years out.
+NEUT43|The other investors we talked to all kind of said the same thing.
+NEUT44|That's a classic.
+NEUT45|Warren Buffett rule that don't obsessively check your portfolio.
+NEUT46|This is Ed Robinson.
+NEUT47|"I cover wealth and finance for Bloomberg News."""

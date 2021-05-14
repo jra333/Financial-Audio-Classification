@@ -1,0 +1,3 @@
+BEAR0|"""You think you're too busy to invest online?"
+NEUT1|With etoro you just log in, pick a stock, set an amount, and it rained.
+NEUT2|"Toro."""

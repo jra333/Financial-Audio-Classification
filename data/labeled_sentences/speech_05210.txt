@@ -1,0 +1,14 @@
+BULL0|"""New York State just legalized marijuana, and there may be some very big capital markets progress here that would bring in a whole new wave of investors."
+NEUT1|Governor Andrew Cuomo signed the bill on March 31st, 2020 legalizing the recreational drug for adult use.
+BEAR2|Cuomo says that the state does need marijuana reform and recreational legislation to help with its budget shortfall.
+NEUT3|The new bill also Expunges previous marijuana convictions, but you can't find marijuana from your local dispensary just yet.
+NEUT4|It could take more than a year to stand up the new industry.
+NEUT5|The regulations and licenses for a legal marijuana market need to be created and distributed.
+NEUT6|You know this is a really strong economic issue as well as a social issue, and so I think we're really getting to the tipping point of where the states are starting to fall in terms of cannabis legislation.
+NEUT7|It's not just the US, it's also around the world low level marijuana violations like smoking in a public place will be finable offenses treated similarly to littering in other infractions.
+BEAR8|Marijuana still remains illegal at the federal level, which could cause headaches for some companies looking to take advantage in the New York law.
+NEUT9|You can't sort of downplay the importance of a state like New York, passing adult use legislation.
+NEUT10|But you know, we'd love to see the Safe Act make its way through Congress and be a cannabis related piece of legislation that actually gets gets implemented.
+BULL11|The New York market has the potential to bring in $350 million per year for the state in tax revenue, according to estimates from the governor's office.
+BULL12|Again, this is an industry that is the fastest growing industry in America, increased to 320,000 plus full time employees.
+BULL13|"In the industry last year, that's up 32%."""

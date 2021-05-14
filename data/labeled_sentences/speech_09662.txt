@@ -1,0 +1,34 @@
+BEAR0|"""So we're getting whipsawed here."
+NEUT1|There's a whipsaw going on.
+NEUT2|Are we all going to be at home for the next couple of months because of covid, and if So what does that mean to stocks?
+NEUT3|Or is the market supposed to lookout 12 months and forget about what's happening right now?
+NEUT4|In which case you're supposed to rotate out?
+NEUT5|Which one do you do right now?
+BULL6|Good morning Angela, that there is a struggle.
+NEUT7|Certainly this weekend.
+NEUT8|This week can be defined by the record amount of inflows that are going into equity funds, according to a Bank of America report this morning, you've got the highest recorded equity inflow on record.
+NEUT9|So Andrew, I think right now for the market in the near term there is this challenge where stimulus is the focus and the Federal Reserve beats on December 15th and December.
+NEUT10|16th and the expectation would be that the size of its balance sheet which sits right now it's $7.2 trillion, the equivalent of 33.9% of US GDP.
+NEUT11|That is going to have to grow to build this bridge to the other side.
+NEUT12|So I think what investors need to do with that is that they need to give strong consideration to the established growth stocks that have gotten us here, not so much the emerging growth stocks, but the established growth stocks and technology itself.
+NEUT13|I would not be paring back allocations to those stocks.
+NEUT14|They're going to be incredibly important in the solution building that bridge that gets you to 2021.
+NEUT15|So let's talk about what you think those established text data.
+NEUT16|Let's name some names.
+NEUT17|Well, they begin with the clear leaders and those being the apples and the Amazons and the Microsoft's got a very good earnings report from Cisco last evening.
+NEUT18|I think it extends beyond the Big 5 its sales force and you think the multimedia job?
+NEUT19|But do you think the multiples hold up?
+NEUT20|I mean, that's that's gotta be the argument to hold those stocks right this minute is that the multiples don't go down, they actually go up.
+NEUT21|Right, so let's let's think for a second about the relevancy of these company.
+NEUT22|On the other side, on the other side, the Chairman Powell cited it yesterday.
+NEUT23|We're going to have a new economy or certainly a different economy than the one that we previously enjoyed before.
+NEUT24|COVID-19.
+NEUT25|I think you would agree with that.
+NEUT26|Tell me the dominance, the importance of these companies in that new economy.
+NEUT27|Does it diminish?
+NEUT28|Absolutely not.
+BULL29|It actually increases.
+BULL30|It accelerates even further.
+NEUT31|So we are continuing to push more and more to this technology oriented economy, and these companies they are so integral in that economy.
+NEUT32|Shepard Smith here.
+NEUT33|"Thanks for watching CNBC on YouTube."""

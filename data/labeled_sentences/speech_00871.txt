@@ -1,0 +1,24 @@
+NEUT0|"""Leading through exams, stock trading broker trade limited."
+NEUT1|Award-winning broker, this company offers a wide range of investment products and offers services including private equity, real estate, hedge funds, CFD's, forex trading, stock index and foreign exchange broker.
+NEUT2|Regulated and licensed in multiple jurisdiction.
+NEUT3|Trade Effects Limited is fully licensed and regulated in UK, Cyprus and Singapore with an online trading platform that empowers you to invest across globe in financial markets, which includes Forex, CFD, cryptocurrency stock trading and decentralized exchange broker.
+NEUT4|TaylorMade trading packages.
+NEUT5|We understand that each customer has their own unique financial needs.
+NEUT6|Therefore, our dedicated professional traders service allows you earn on the forex market without having to make trades yourself by activating your trade FX limited account with the purchase of our double edge trading packages, CFD trading package, investing in contract for difference, CFD offers traders an opportunity to profit from price movement without owning the underlying asset dot trading.
+BULL7|CFD's offers several major advantages that have increased the instruments enormous popularity in the past decade.
+NEUT8|Earn 30% of your trading deposit in 10 trading days.
+NEUT9|Minimum deposit of $600, maximum deposit of $1000 withdrawal.
+NEUT10|Fully automated Mt four trading package investing are empty for trading robot software.
+NEUT11|To make an unending profit.
+NEUT12|Earn 56% of your trading deposit in 14 trading days.
+NEUT13|Minimum deposit of $1000.
+NEUT14|Maximum deposit of $5000 withdrawal.
+NEUT15|Fully automated digital marketing package.
+NEUT16|Investing in technology and marketing of digital channels.
+NEUT17|Advertising and promotion of electronic products and services.
+BULL18|Dot Digital Marketing is growing due to its effectiveness in engaging clients.
+BULL19|Dot Digital Marketing is growing at a great speed.
+BULL20|And with great speed comes great opportunity for you to make great earnings from this package.
+NEUT21|Earn 56% of your trading deposit in seven trading hours.
+NEUT22|Minimum deposit of $5000 maximum deposited, $15,000 withdrawal fully automated.
+NEUT23|"Kindly visit website to check all available trading packages and their benefits."""

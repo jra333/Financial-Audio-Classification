@@ -1,0 +1,21 @@
+NEUT0|"""You spoke about Sydney airports."
+NEUT1|Obviously travel stocks.
+NEUT2|Travis Fox is one of the questions asked.
+NEUT3|One of the questions asked throughout the presentation.
+NEUT4|Where do you see travel stocks going?
+NEUT5|If there is a vaccine work, we do open up.
+NEUT6|How do you look at it?
+BEAR7|Yeah, we, we've avoided the point here.
+NEUT8|End of the sector, if that makes sense.
+NEUT9|So you know things like a webjet webjet almost went belly up during this environment.
+NEUT10|They had to had to raise a fair bit of money.
+NEUT11|So you know, webjet.
+BULL12|Send us some of those kind of travel stocks you know they've started to rebound flight centre only got $10.
+NEUT13|It's about $13.00 now, but to me there is still a fair bit of risk around those over the next three to six months, so we'd rather play it through, you know, a Sydney airport through some of those, you know the Transurban through some of those bigger infrastructure plays at this point in time until we're comfortable that because the problem that we have here in Australia is that while most of the rest of the world is opening up here in Iowa State.
+NEUT14|So trying to get a handle on when a vaccine will be effective enough to allow our borders to open, which is what you need for those travel stocks to perform is very, very hard to tell.
+NEUT15|Now that could be 3 months.
+NEUT16|That could be nine months.
+BEAR17|It could be, you know, 15 months if it's closer to 12 months than three months, then they stocks have a pretty tough time ahead of them.
+NEUT18|So we we would rather play it more conservatively at this point in time until you are really confident that the borders are going to open up.
+NEUT19|Accent Daniel take note selling my flight center we.
+NEUT20|"Not personal advice."""

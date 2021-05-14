@@ -1,0 +1,9 @@
+NEUT0|"""From the FT in London, here's what's catching our eye in the markets today."
+NEUT1|Buckle up.
+NEUT2|It's going to be a busy week with the UK budget and a string of central bank decisions from the US, Japan, UK, Switzerland and Norway.
+BULL3|Markets clearly still have faith in their central banks.
+BULL4|Stocks are hovering around 10 week highs, with Japan's Nikkei up one point 7% today, good going, while Germany's DAX just got through 10,000 for the first time in two months.
+BEAR5|So while the euro is still up at over 111 against the dollar after the ECB decision last week, a thumbs down to the central Bank's package of measures.
+BULL6|Other markets suggest it's been welcomed with open arms.
+BULL7|Bonds have also got their mojo back somewhat with eurozone bond prices picking up across the board off the beaten track.
+BEAR8|"Egypt has just conducted a massive devaluation of its currency, taking the official dollar rate from 773 against the pound to 885 rate rises likely lie ahead to stabilize the market, which been hit by a drought of dollars."""

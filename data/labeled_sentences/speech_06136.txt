@@ -1,0 +1,50 @@
+BULL0|"""Quite a year on Wall Street since the start of 2009, the Dow is up 20%, the S&P 500 gained 25% and the NASDAQ has added 45%."
+BULL1|The numbers are even more impressive if you look at the multi year lows reached on March 9th.
+NEUT2|So what's behind the recovery?
+NEUT3|What's ahead in 2010?
+NEUT4|We want to ask Steve Forbes, President and CEO of Forbes Incorporated and Co, author of How Capitalism will save us.
+NEUT5|Steve good morning.
+NEUT6|I'm going to be with you.
+BULL7|Thank you, really appreciate it.
+NEUT8|What is the most important driving factor in pushing the stock market back to a level of recovery?
+NEUT9|Most important happened in March from those lows were reached in Congress.
+NEUT10|Did something that didn't get much notice, which is change a bank regulation and how banks value their capital before it looked like the whole system was going to go down.
+BEAR11|Most of the losses were book losses, not actual cash losses.
+NEUT12|When that was changed in March and April and everyone realized the world's not coming to an end.
+BULL13|The market started to recover and so we've had a very good recovery, specially considering what happened in the year before.
+NEUT14|However, before we get too giddy with the champagne right, we have to put it in context.
+BULL15|When you take especially the lousy value of the dollar right now, most other markets around the world have done better than us.
+NEUT16|But hey, take take the nice game.
+NEUT17|Let's take a look at right.
+BEAR18|On the other hand, we're still looking at 10 plus percent unemployment.
+BULL19|You see this rise in the stock market, and there's a sense of relief for people with 401K's and everything else and.
+NEUT20|And retirement investments.
+BEAR21|But on the other hand, there's not a recovery on Main Street.
+BULL22|Is this a precursor, or will we ever see better times again, in so much of the rest of the economy, I think we will will get a recovery next year.
+NEUT23|It's not going to be that kind of a real bounce back you normally get after the kind of fall we had late last year and early this year.
+NEUT24|But again, you're going to take what you were going to take.
+NEUT25|What you can get, right?
+NEUT26|But the three things to watch out for one is the dollar.
+BEAR27|The weak dollar is a real dampener on business investment.
+NEUT28|We've got to get rid of that weak dollar, right?
+NEUT29|Number two big issue on taxes.
+NEUT30|Taxes in it if their tax cuts of 2003 expire at the end of the year, big debate coming up on that right.
+NEUT31|And then there's an issue out of our immediate hands, and that is the Middle East, Israel, Iran.
+BULL32|That's probably going to come to a conclusion or climax this year, 'cause it certainly can drive up oil prices along.
+NEUT33|Have all sorts of consequences.
+NEUT34|Negative consequences.
+NEUT35|Let's go back to the economy itself, because the economy that collapsed was based 70% on consumer spending.
+NEUT36|That's not a sustainable economic model.
+NEUT37|Is there something else out there that can replace what didn't work before?
+BEAR38|Well, the consumer side went on a binge in part because the Federal Reserve's weak dollar policy meant was printing too much money, which distorted economic activity we had a binge in housing instead of a more normal activities.
+BULL39|Now, if the Fed gets a stable dollar again, which is quite capable of doing, we've done it before.
+NEUT40|This is not something new you'll start to see more traditional business investment expanding existing businesses.
+BEAR41|Inventories are still very low.
+NEUT42|Starting new businesses, there's a lot of innovation waiting to come.
+NEUT43|This is we had in the early 90s.
+NEUT44|Alright, so happy days are almost here again.
+NEUT45|Just make a few positive changes.
+NEUT46|Maybe Washington taking a vacation yearlong that little bit.
+NEUT47|Do some good to Steve Forbes.
+BULL48|Thank you so much.
+BULL49|"Thank you."""

@@ -1,0 +1,13 @@
+NEUT0|"""In the slew of economic data, what matters to you?"
+BEAR1|What matters is that we're seeing that consumer spending is pulling back or slowing down at a time when we should be ramping up.
+BEAR2|And that's because of the surge in covid cases, we've been much less of the declines and the blow because of the surge in covid cases has been much less than in the past.
+NEUT3|There's three key reasons for that that I think we need to keep framed in the economy today, and that's one is mitigation measures by states have not been as severe California an outlier there where their cases have overwhelmed hospitals now?
+BEAR4|Two is that we're coming off a lower base.
+NEUT5|Remember, you know as we look at these unemployment claims, they're still disastrous, but off of an idea that we've already had such huge losses out there, that's important to remember as well.
+BULL6|And it mitigates the declines from here on out.
+BEAR7|I think the other important issue is we've seen a shift in consumer behavior is not only are they less skittish than they were in the spring, before we ever had lockdowns where they pulled back ahead of that, they've been actually somewhat jubilant in the.
+NEUT8|Response to the vaccine we're seeing in behavioral economics, a study that shows that people are actually more risk taking because a vaccine is out there, even though that is making contagion worse.
+NEUT9|And what we really worry about now is what's going to happen in the wake of the Christmas holiday and how much travel we see and what that does to cases through the worst of the winter, which are supposed to Crest in January.
+BEAR10|So that's a really important thing is that we still have momentum, but we are losing momentum at a critical time.
+NEUT11|And you know, we have to step back before she steps back before we get forward again.
+NEUT12|"An unleashes pent up demand."""

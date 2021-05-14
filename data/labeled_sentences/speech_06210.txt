@@ -1,0 +1,18 @@
+BULL0|"""U.S. stock index futures rose in overnight trading on Tuesday after White House chief of Staff Mark Meadows said that House Speaker Nancy Pelosi and Treasury Secretary Steven Mnuchin have made good progress on stimulus talks before adding that they still have a ways to go before an agreement is reached."
+BULL1|Futures contracts, tide to the Dow Jones industrial Average rose 124 points, indicating a more than 100 point rally at the open on Wednesday.
+BULL2|S&P 500 futures traded 0.5% higher.
+BULL3|While NASDAQ 100 futures advanced 0.6%.
+NEUT4|Following Pelosi and Mnuchin's meeting on Tuesday, Meadows told CNBC's closing Bell.
+BULL5|Then on Wednesday, and that he hopes to see some kind of agreement before the weekend.
+BEAR6|Mnuchin and Pelosi's conversation Tuesday continued a desperate attempt to hash out an agreement before the November 3rd election, Democrats and the Trump administration have struggled for months to overcome fundamental disagreements over additional stimulus measures, including the dollar amount.
+BULL7|As the economy continues to feel, the burden of the coronavirus pandemic stocks have been trading based on lawmakers perceived progress.
+BULL8|Or lack thereof, and on Tuesday finished the session higher after Pelosi told Bloomberg TV that she's optimistic about a potential aid deal.
+BULL9|The Dow Jones Industrial Average finished the session 0.4%, or 113.37 points higher at one point during the session, the 30 stock average had been up more than 300 points, the S&P 500 gained zero point 5% to end the day at 3443.12.
+BULL10|While the NASDAQ Composite Advanced Zero Point 3% to close at 11,516.49, the back and forth political discussions on the stimulus deal and continued election uncertainty give us extra justification for short term market uneasiness, said David Bahnsen, chief investment strategist at the Bahnsen Group, which overseas $2.5 billion in client assets.
+NEUT11|Very few market actors actually doubt that some fiscal relief bill is coming.
+NEUT12|The question is purely when.
+BEAR13|And of what composition he added, a slew of companies reported quarterly earnings after the Bell on Tuesday, most notably, Netflix shares of the streaming giant slipped more than 6% after the company missed earnings estimates and reported fewer than expected subscriber additions.
+BULL14|On the other hand, shares of SNAP jumped more than 23% after the company reported a surprise earnings beat, looking ahead to Wednesday, Biogen AutoNation Bakerhughes and Abbott Labs are among the names set to report ahead of the opening Bell.
+NEUT15|After the market closes, Tesla will release its third quarter results with CSX Las Vegas Sands and Chipotle Mexican Grill.
+NEUT16|Also undeck.
+NEUT17|"Subscribe to CNBC Pro for exclusive Insights and analysis and Live Business Day programming from around the world."""

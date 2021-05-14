@@ -1,0 +1,23 @@
+BEAR0|"""Markets are not kind to theories."
+NEUT1|For example, a lot of people like this theory.
+NEUT2|When stocks are expensive, they will get cheaper.
+BEAR3|Alas, it has not worked out this way for the last half decade or so in the US market, the cyclically adjusted price to earnings ratio, which historically has been a pretty good measure of when stocks are expensive, has been stuck at stubbornly high levels.
+NEUT4|You know what this calls for?
+NEUT5|A theory.
+BEAR6|One theory is that valuations are staying so high because corporate profitability is also high, but competition should always force profit levels back towards the mean, and when that happens stock valuations will fall too.
+NEUT7|Well, look at this profit margins.
+BULL8|Do appear to be reverting to the mean and yet the market is still high.
+NEUT9|We're going to need another theory, here's one.
+NEUT10|The incremental buyer of shares in recent years has been.
+BEAR11|Companies themselves and this is keeping valuations up, so in the share buybacks decline, so will valuations.
+BEAR12|Well, growth in buybacks at S&P 500 companies has slowed in the last year or so and in the second quarter buybacks took a big step down.
+NEUT13|And yet the market remains high on to the next theory.
+NEUT14|This one.
+NEUT15|Is still working, thank goodness it says that stocks are expensive because central bank policy is suppressing interest rates, forcing investors out of bonds and into stocks.
+NEUT16|And the US Fed did just decide once again to hold fire on a rate increase.
+BULL17|Now, admittedly, it is an awkward fact that historically there have been sustained periods in which rates and valuations rose together.
+NEUT18|But until we are forced to abandon the theory, that right now low rates explain high valuations.
+NEUT19|That is until rates and stocks rise together again.
+NEUT20|This theory is going to have to do the others.
+NEUT21|Just keep falling over.
+NEUT22|"Robert strong Lex."""

@@ -1,0 +1,34 @@
+NEUT0|"""Are you want to trade in US generating market from India?"
+NEUT1|Yes, it's possible.
+NEUT2|I'm going to show you how.
+NEUT3|So first of all, you want to get proper knowledge in stock market, specially in derivatives which includes trading technique, risk management and of course the most important thing is money management and you want to open a trading account with the US stock broker.
+NEUT4|So I'm going to show you how to open account with the US broker.
+NEUT5|It name is liberal.
+NEUT6|So first thing first I'll give a link in my description box you just want to click on it and download the app.
+NEUT7|Name is Apple.
+NEUT8|After you download completed and when you open it first time.
+NEUT9|The interface is something like this.
+NEUT10|And why do you want to do?
+NEUT11|You just want to click on this middle button name open account, then again click on open account.
+NEUT12|Now you have to sign in.
+NEUT13|You can sign in by clicking on G button by clicking on the button.
+NEUT14|After you complete your sign in again, you want to click on open an account, then again click on open an account.
+NEUT15|Now it was asking to set a login password.
+NEUT16|Look OK, then set a strong password and done it.
+NEUT17|Then after again you want to click on open an account.
+NEUT18|After that you land on application page.
+NEUT19|Now simply fill this form after filling this form, click continue.
+NEUT20|Then fill your employment status.
+NEUT21|And click on continue.
+NEUT22|Now you have to fill your financial information.
+NEUT23|After that click on continue.
+NEUT24|Now we have to select your ID card an ID number and a clear pic of your ID card.
+NEUT25|After that you got this page and let me tell you you don't want to do anything with this.
+NEUT26|You just want to click on continue.
+NEUT27|And then click on Tiger.
+NEUT28|Then answer the question and continue.
+NEUT29|Now this is the last step.
+NEUT30|You want to sign it and save it.
+NEUT31|Then click on iaeger.
+NEUT32|Submit and wait for one week.
+BULL33|"Thank you for watching."""

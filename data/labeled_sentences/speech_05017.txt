@@ -1,0 +1,43 @@
+NEUT0|"""Let's take a look at the stock of Netflix."
+NEUT1|Who's a big?
+BULL2|11% today.
+NEUT3|But what can we expect going forward?
+BULL4|Do you think we can continue this run all the way back up to the all time highs?
+NEUT5|Let's take a look and use some technical analysis tools to just check this out.
+NEUT6|Let's take a look first.
+NEUT7|At the four hour chart for Netflix.
+NEUT8|As you can see.
+NEUT9|Back in July, we had the all time high at 575.
+BEAR10|And it kind of dipped after that kind of bouncing around in channel before today.
+BULL11|Obviously jumping up 11%.
+NEUT12|What can we expect going forward?
+BULL13|Obviously we kind of jumped all the way up into this next channel, so potentially we can see run up all the way to the 560 mark before we see another level of resistance.
+NEUT14|So that will be the next point going forward the next couple days.
+NEUT15|Let's jump into a lower timeframe to potentially see.
+NEUT16|What are the ranges that we can expect going forward?
+NEUT17|As you can see now here's the 30 minute chart for Netflix.
+NEUT18|We pretty much were trading in a channel before the day and pretty much it's exploded.
+BULL19|Actually actually had a pretty good run through the entire day.
+NEUT20|Before hitting this high of 550, really.
+NEUT21|449 pretty pretty close enough, but then it's going to kind of dipped into the channel.
+BEAR22|It kind of dropped down quite a bit into after hours.
+NEUT23|But going into tomorrow.
+BULL24|What can we expect so potentially we're going to see a bounce back up up.
+NEUT25|Above this, there might be consumed consolidation here.
+NEUT26|Do to 11% moves.
+NEUT27|Pretty pretty lot.
+NEUT28|Pretty big, pretty big move actually.
+NEUT29|Let's turn some of these back on.
+NEUT30|So potentially we might see a reversal up with this, so we might see the Fibonacci extension, so that's what I did here.
+BEAR31|It might might drop back down to some of these levels, so we might see the.
+BULL32|536 level or even a 527 level and gives back some of its gains they got today, but potentially that still.
+BULL33|Even out to be a pretty good gain over the course of two days so.
+NEUT34|Potentially, we might.
+NEUT35|We might head back down.
+BEAR36|I think this level might be a little bit too small if it heads down, I'd be kind of concerned if it if it serves trailing down that it's probably going to hit one of these of these other two.
+NEUT37|Recess air supports.
+BULL38|However, if it does keep bouncing back, I think five 60s tenant within reach 2 so.
+BULL39|I think Netflix for long hauls pretty good stock so I wouldn't bet against us going forward.
+BULL40|Good luck to all who's in this for the long haul.
+NEUT41|Thanks guys for watching but remember to like and subscribe for any more technical stock analysis.
+NEUT42|"Also you can drop a comment for any specific stocks you want me to take a look over."""

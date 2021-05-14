@@ -1,0 +1,41 @@
+NEUT0|"""OK, so you just heard that Warren Buffett has put another billion dollars into Bank of America stock."
+NEUT1|What do you do?
+NEUT2|Hi, I'm Stevenson Kawski leading educator on how to trade the financial markets.
+BULL3|So I saw the news buffets big on Bank of America increasing his position.
+NEUT4|I think he now owns somewhere between 5 and 10%.
+NEUT5|Of all the outstanding stock, so I thought, well, why don't I go?
+NEUT6|Take a look.
+NEUT7|So how about we pull up a chart on Bank of America and then we'll take a look at some of the fundamentals and see why he might be so bullish on this position.
+NEUT8|So this is the last six months.
+NEUT9|And what do we see?
+NEUT10|Boy, Bank of America?
+NEUT11|Was trading.
+BULL12|Down here around 26 subsequently has moved up.
+NEUT13|Kind of going sideways now, but we want to look for areas of resistance.
+NEUT14|You know that's up around 30 and now the stock is trading for 2959, but Bank of America has been a $50 stock in the past.
+NEUT15|So why is Warren Buffett so excited?
+NEUT16|Well, first of all, if you look at the earnings very, very steady on this stock, their forecasted earnings growth rate is about 9% a year.
+NEUT17|If we go into the dashboard.
+NEUT18|I'll tell you what he loves about this.
+NEUT19|Sink basin, nice little dividend, 2.4% so when money in the bank only earns half a percent, 3/4 of a percent and interest rates look like they're coming back down again.
+NEUT20|We can get almost 2 1/2 percent with this stock.
+BULL21|Pretty good.
+NEUT22|Couple of other metrics.
+NEUT23|I would like for you to look at.
+NEUT24|The PE ratio on the S&P 500 right now is around 21. the PE ratio on this doc is a little over 10, so it's cheap and the price the PG that's the P divided by the earnings growth rate.
+NEUT25|Anything less than two is considered pretty good value.
+NEUT26|This is 1.17, so you could buy this stock outright or another way to be able to play this is you could do covered calls.
+NEUT27|Against Bank of America.
+NEUT28|So you could sell somebody the right to buy this stock from you at some specified price.
+NEUT29|So let's say for example.
+NEUT30|Let's go to options you wanted to give somebody the right to buy your stock for $30 a share within the next 28 days.
+NEUT31|You could pick up $0.62 a share by doing that.
+NEUT32|So now you reduce the cost of your trade to under $29.00 per share.
+NEUT33|And then if the stock doesn't go above 30, that option expires worthless.
+NEUT34|You keep the money and you can just do it again and do it again and do it again.
+NEUT35|I live by some pretty basic rules in life.
+NEUT36|Here is one of am I call it good enough for Warren?
+BULL37|Good enough for Steven.
+BULL38|Bank of America to next time have an awesome day.
+BULL39|God bless.
+NEUT40|"Be talking to you soon bye for now."""

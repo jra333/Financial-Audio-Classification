@@ -1,0 +1,6 @@
+NEUT0|"""I thought I would bring that perspective to the topic."
+BEAR1|Today is the issue of Pandemic.
+NEUT2|Preparedness an if there's one message that I want to leave with you today based on my experience and you'll see that in a moment.
+NEUT3|Is that there is no question that there will be a challenge to the coming administration in the arena of infectious diseases, both chronic infectious diseases in the sense of already ongoing disease.
+NEUT4|And we have certainly a large burden of that, but also there will be a surprise outbreak, and I hope by the end of my relatively short presentation you will understand why history and the history of the last 32 years that I've been the director of N IID will tell the next administration that there's no doubt.
+NEUT5|"In anyone's mind that they will be faced with the challenges that their predecessors were faced with."""

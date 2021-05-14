@@ -1,0 +1,12 @@
+NEUT0|"""First of, the stock market panic."
+NEUT1|And my opinion is over.
+NEUT2|It had to come.
+BEAR3|Speculation had become crazy.
+NEUT4|Like an appendix operation.
+NEUT5|It's a good thing to have it over with.
+NEUT6|I have been buying stocks since the crash, said in on Tuesday.
+NEUT7|And I've been urging everybody else also to buy.
+NEUT8|Every time America is had a panic.
+NEUT9|Fortunes have been made by those who had backbone enough and money enough.
+NEUT10|To go in and buy stocks at when the excitement was at its height.
+BULL11|"I am quite sure that stocks bought during the worst of this panic will also yield fortunes."""

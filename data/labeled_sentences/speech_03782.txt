@@ -1,0 +1,36 @@
+NEUT0|"""So here at The Motley Fool we get a lot of people who are interested in in some of the ideas that we propose."
+NEUT1|They want to buy a stock, but there's that first hurdle of actually knowing how to buy a stock in the 1st place.
+NEUT2|So I'm here to help investors understand what are some of the steps that you can go through to purchase your first share so there's a couple ways you can buy shares.
+NEUT3|You can buy them from a company directly, but that's a little bit more labor intensive, and if you want to buy multiple shares of different companies, you have to run around to each one and your record keeping gets a little bit more complex.
+NEUT4|You can work with a full service brokerage like a Morgan Stanley, but you're going to pay a lot more forward and.
+NEUT5|We're doing yourselfers here at The Motley Fool, so we go with the discount brokerage approach.
+NEUT6|Some of the most popular ones include TD Ameritrade Schwab, Etrade, Fidelity mostly just discount brokerage firms will require about 500 to $2500 in order to open an account.
+NEUT7|Some will actually let you open with a 0 balance, but eventually believe it or not, you have to fund that account if you actually want to buy shares.
+NEUT8|So once you find the discount brokerage firm that works for you, and the ones that I mentioned all will offer relatively the same service at relatively the same fees.
+NEUT9|What you have to do is you have to find the companies or tickers that you're most interested in.
+NEUT10|Some of the most actively traded companies today include Apple Bank of America and Ford.
+NEUT11|Now, depending what company you may be interested in, once you do your research and you maybe settle on the investment idea that you feel confident and you decide that you want to buy shares, you have to find their ticker symbol.
+NEUT12|This will generally be a three or four letter symbol for Apple.
+NEUT13|It's AAPL for Bank of America is BACS forward.
+NEUT14|Their ticker symbols actually just F. So once you find this ticker symbol you can go to your discount brokerage firm.
+NEUT15|Whichever one you may have settled with, and you can either go online and purchase shares that way.
+NEUT16|Or you can call them directly.
+NEUT17|Generally, this is very prominently placed on most of these brokerage firms websites.
+NEUT18|You can see somebody will say trade or buy and sell or what have you and once you go through that interface, you'll input the ticker symbol for the stock you've identified and how much of it you want to buy.
+NEUT19|So you have to determine your allocation whether you want to spend $100, five, $100,000 or whatever value you settle on, you put in the ticker symbol and you determine how many shares you want to buy and what you want to do is.
+NEUT20|Let's say you find a company you like and you decide you want to put $1000 into this company and their shares trade for about $25.
+NEUT21|You divide 1000 by 25 to determine how many shares you should be buying, so you'll input the number of shares and then you can click trade.
+NEUT22|Now.
+NEUT23|At this point there's a couple of different trades you can place.
+NEUT24|You can place stop loss orders and limit orders, but generally speaking for the everyday investor, you and me, we're going to be looking for a simple market order, and that just means you give me the shares at the most current market price.
+NEUT25|Now you're not quite done yet, though.
+NEUT26|There's one more consideration, and those are the trading fees.
+NEUT27|Most of these brokerage firms will charge about 7 to $11.00 every time you want to buy.
+NEUT28|Or sell shares of a stock.
+NEUT29|Now is a foolish rule of thumb.
+NEUT30|You should try and keep these trading fees to about 2% or less of your overall allocation.
+NEUT31|Now when you're making that 2% calculation, whether you're trading fees 795 or 1095, remember that you actually have to count it twice because you want to count the fee to both buy and sell the stock.
+NEUT32|So as a general rule of thumb, keep those 7 to $11.00 fees, times 2 less than about 2% of your overall allocation, and you're off to the races to have more of your investing questions answered.
+NEUT33|Make sure to tune into our.
+NEUT34|Investing series channel on YouTube.
+NEUT35|"Thanks for watching and I'll see you on full com."""

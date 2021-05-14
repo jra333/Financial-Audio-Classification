@@ -1,0 +1,10 @@
+BULL0|"""May 15th is in the books on Wall Street with the S&P 500 closing at a new record high."
+BULL1|The index closed above 2400, having flirted with new highs for almost a month.
+BULL2|The NASDAQ Composite also closed at a record high.
+BULL3|It marks a boost after last week's poor end.
+BULL4|It comes as oil prices rallied strongly on the news that Russia and Saudi Arabia are supportive of extending OPEC production cuts through to March 2018.
+BULL5|It increases pressure on other countries to follow suit when OPEC meets later this month.
+BULL6|Energy stocks so big gains on the day as did financials and materials sectors in bond markets.
+BULL7|Benchmark 10 year Treasury yields, which move inversely to price inched higher.
+BULL8|Investors still expect a rise in interest rates when the Fed meets next month, but rates remained oscil an inflation continues to fall as concerns over the recent wanna Cry virus circulates an ETF that tracks cyber security companies saw big gains.
+NEUT9|"The ETF aptly has the ticker hack and that's a New York minute."""

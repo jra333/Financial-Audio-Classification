@@ -1,0 +1,4 @@
+NEUT0|"""So what's up with Facebook stock?"
+NEUT1|I sunk a trainload of money in the IPO and I am taking a bath thisisa.com CON all over again.
+BEAR2|The IPO was too high.
+NEUT3|"It is a bunch of suckers getting duped into being a part owner and Facebook, but not looking at the money side of it."""

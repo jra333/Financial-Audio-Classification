@@ -1,0 +1,2 @@
+NEUT0|"""There's 1.8 billion, 1.8 billion, eight ounce servings of Coca Cola product sold every day."
+NEUT1|"Now, if you take 1 penny and get one penny extra, that's $18 million a day."""

@@ -1,0 +1,35 @@
+NEUT0|"""And that's one time, no promotions which I love."
+NEUT1|I do love the seasonal stuff you're doing.
+NEUT2|I didn't know that you could do it that you could put it like that.
+NEUT3|So we're doing Easter stuff and you're making good money on it.
+NEUT4|Yeah, I mean, imagine.
+NEUT5|We can't wait.
+NEUT6|Some people get vaccinated and we can invite our friends and family back into our homes and cook for them and have a cocktail party.
+NEUT7|Can you imagine those parties in the fall if we get to do that?
+NEUT8|What they're going to be like?
+NEUT9|And we're going to be right there.
+BULL10|We have some of the most inspiring product assortments coming for the Holidays and Easter, you know, is off to a great start.
+BULL11|And that's always a very important indicator, and I think I think more people are going to be able to celebrate Easter together this year.
+NEUT12|But let's wait till the fall.
+NEUT13|Can you imagine?
+NEUT14|But one last question, how about your people coming back into the store so?
+NEUT15|Vaccinate, am going to help.
+NEUT16|What you are requiring people and how can you get the stores fully staffed like they were.
+NEUT17|We, I mean, our people never left so there there there and there totally motivated and we're taking as good care of them as we as we can.
+NEUT18|In terms of vaccination.
+NEUT19|We're hoping people get vaccinated.
+BEAR20|Both our customers and our employees and we're giving them little incentive to do that.
+NEUT21|But you know, honestly.
+NEUT22|The store traffic's coming back and the truth of the matter is last year.
+BEAR23|Unfortunately, yesterday was the day we closed, then we closed until the beginning of May closed stores closed so traffic was coming back.
+NEUT24|We're looking at how do we come?
+BEAR25|2019 'cause you can't look at 2020 because it stores were closed during this.
+NEUT26|I think people don't realize the upside we have in retail.
+NEUT27|We talk about E Commerce and that will be our growth.
+NEUT28|But this retail recovery is a big part of the story as well.
+NEUT29|Don't miss a second of mad money.
+NEUT30|Follow at Jim Cramer on Twitter.
+NEUT31|Have a question?
+NEUT32|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT33|Shepard Smith here.
+NEUT34|"Thanks for watching CNBC on YouTube."""

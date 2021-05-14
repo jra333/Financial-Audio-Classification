@@ -1,0 +1,50 @@
+NEUT0|"""So the other the other kind of aspect to share prices is so we covered the global economy."
+NEUT1|We covered internal things, sometimes share prices are higher than like the book value of the company.
+BULL2|Because people see enormous room for growth, and we're really talking tech stocks here.
+NEUT3|That's something that happens a lot with them.
+NEUT4|So for example, Amazon right now we looked it up this morning.
+NEUT5|It's PE was 462 this morning, correct?
+NEUT6|Yeah, I think that's what we saw.
+NEUT7|I mean, that's a pretty big PE.
+NEUT8|That's huge.
+NEUT9|That's so much like what's the typical one for a bank like 18 or something.
+NEUT10|Yeah, I think the S&P 500.
+NEUT11|I think that the average.
+NEUT12|PE ratio definition right now is like 20 or 21 right?
+NEUT13|And of course like things vary by industry, but 462 is high regardless of what industry you're in, but a lot of people see a lot of potential in Amazon, so they're willing to pay a premium for those stocks despite there not being like the present.
+NEUT14|Perhaps value for them, right?
+NEUT15|And just to clarify, one thing is not so much that the stocks their market capitalization are higher than their book value.
+NEUT16|It's really what we're talking about here.
+NEUT17|Is on it, you're on a continuum in terms of what you're paying for a stock and what your PE ratio tells you.
+NEUT18|This is the way you can kind of think about it.
+NEUT19|If your PE ratio is 20, that means you're paying $20.00 for every $1.00 of current earnings in that company, right?
+NEUT20|So if your PE ratio is 5, then you're paying $5 for every single dollar, so the higher the PE ratio, the more speculative the stock.
+NEUT21|And in Amazon's case, right?
+NEUT22|Amazon isn't.
+NEUT23|It's not like Amazon is a speculative company, right?
+NEUT24|I mean, we were talking about this before, I mean like.
+NEUT25|Gaby, you buy at Amazon for all time.
+NEUT26|I bought it on Amazon all the time.
+NEUT27|The issue at Amazon is that their success and their gross and their growth and their revenue is not reflected in their bottom line.
+NEUT28|'cause what?
+NEUT29|Bezos does an Bezos is gotta be?
+NEUT30|I mean, like on the short list of best CEO's in the country.
+NEUT31|And this is one of the reasons is that he is taking all of that money.
+NEUT32|They're earning and he's recycling that back into growth.
+NEUT33|And that's why it's not hitting the bottom line.
+NEUT34|And that's why their PE ratio is so high.
+NEUT35|Yeah, but let's yes, yes, you're absolutely right.
+NEUT36|Sorry, I kind of like transition into the next thing without acknowledging the fact that you're super right on that gotta put you to sleep.
+NEUT37|No, I was actually.
+NEUT38|I was actually thinking of another tech stock which kind of highlights.
+NEUT39|The the risk perhaps, would be the right word, which is GoPro.
+NEUT40|When it first went public, its PE was insane.
+NEUT41|Chairs are super expensive and I have it pulled up on my screen.
+NEUT42|Right now there are currently trading at $11.13 a share and their pee is 9.12.
+NEUT43|So that's one of the things that you that you do sometimes see with these companies with these huge P values or with that seemed to have like be a little bit in terms of stock price.
+BEAR44|Overvalued is that sometimes they do go down.
+BEAR45|That is a danger with these.
+NEUT46|Yeah and the other thing that I think is a great example.
+BULL47|I'm glad you brought their PE ratio up because what that also shows us is that you know in a case like GoPro versus an Amazon there is much more going on behind the PE ratio so.
+NEUT48|Yes, the PE ratio is a good entry to get an idea of what's going on, but then you really gotta look at, you know, was beyond you know in Amazon's case is cash load Gopro's case.
+BEAR49|"It's probably I would say how I would catch that is that their problem is that they are over relying on a single type of product that they're selling."""

@@ -1,0 +1,15 @@
+NEUT0|"""Hi, I'm Rob and today I'd like to introduce you to the stock of the week like every Sunday."
+NEUT1|Please watch the video until the end, then I'll tell you how you can win something worth $720.00.
+NEUT2|But before that I'll show you the stock of the week.
+NEUT3|This week I picked Intel for you.
+NEUT4|As you can see, Intel has an average growth rate of 10% and a dividend of 2.5%.
+BULL5|The risk analysis shows us that Intel is a solidly growing company over the last five years I am now buying Intel in three batches.
+NEUT6|The first batch now and the next batch.
+BEAR7|If Intel falls 10% more once Intel returns to its fair value, you can expect a 46% increase in the share price.
+NEUT8|OK, now we come to the mentioned competition.
+NEUT9|I am currently planning another series of videos.
+NEUT10|For which you can write me in the comments below, which stocks I should analyze for you?
+NEUT11|One of the comments will win one full year of top graphs.
+NEUT12|Premium membership worth $720.
+NEUT13|If you liked our stock analysis, please leave us a like and subscribe to our channel so you don't miss any of our stock analysis in the future.
+NEUT14|"And if you want to do your own stock analysis, try our software for free at topgraphs.com."""

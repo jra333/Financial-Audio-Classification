@@ -1,0 +1,28 @@
+NEUT0|"""The first thing to understand is that Bitcoin's energy footprint, which can be easily measured."
+NEUT1|It's a very transparent system, is different from its carbon intensity, right?
+NEUT2|So it depends what kinds of electricity inputs are being used to mind that Bitcoin?
+NEUT3|So if let's say, Bitcoin was purely hydropower, which it's not, then the carbon intensity would be minimal.
+NEUT4|Now if you look at what the best estimates have we're looking at somewhere around 40% renewable energy.
+NEUT5|That is used to mine Bitcoin roughly 60% non renewable, so it's a mix.
+NEUT6|I think it's a greener industry than many because of the unique sort of idiosyncratic characteristics.
+NEUT7|The fact that Bitcoin can be mined anywhere, whereas electricity is typically only produced near population centers.
+NEUT8|So that removes interesting constraint.
+NEUT9|But certainly Bitcoin does have an energy footprint now.
+NEUT10|A lot of people correlate that with Bitcoin transactions and try and calculate the energy outlay of individual transactions.
+NEUT11|Which I would say is not the most relevant comparison, because it's actually the issuance of new bitcoins, which is the thing that induces minors to burn that energy for the most part.
+BEAR12|And so once that issuance tails off and it is declining every four years, it gets cut in half.
+BEAR13|That energy outlay declines.
+NEUT14|Nick, we've seen a a trend out of celebrities, and even Elon Musk talking about doge coin.
+NEUT15|What is your view on that particular cryptocurrency?
+NEUT16|Those coin is of a playful project.
+NEUT17|It's a fork of Bitcoin rather ancient fork Bitcoin.
+NEUT18|It was actually the first cryptocurrency I ever used that was my introduction of cryptocurrency back in 2013.
+NEUT19|It was envisioned as a playful currency that had faster transaction times and could be used for tipping.
+NEUT20|It was really entertaining and fun back then.
+BEAR21|Today it's less.
+NEUT22|So now we're seeing a lot of people just using it as a vehicle for speculation.
+NEUT23|We're not actually really seeing people adopt it for its intended usage, which is sort of cheap quick transactions, and so I think it's lost a little bit of that playful spirit.
+BEAR24|It's had the developers have abandoned it.
+NEUT25|It hasn't it's codebases and really seen any meaningful update in years.
+BEAR26|Now its original creator has left, so it's sort of an empty husk really, and somewhat disconcerting to see Elon Musk so enthusiastic about it, because, unfortunately.
+BEAR27|"A lot of retail punters are going to lose money on dash coin in the long term because there's really not much there in terms of interesting technology and the only thing you can really do is be zombified and stick around and be an empty shell for people sort of expectations and for their entertainment."""

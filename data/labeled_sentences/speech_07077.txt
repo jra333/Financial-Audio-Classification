@@ -1,0 +1,12 @@
+NEUT0|"""In corporate news, at Third Point, as Joe mentioned, at the top of the show, led by Dan Loeb looking to replace the entire board, not just one or two, everybody a Campbell soup according to the latest report in The Wall Street Journal."
+NEUT1|Last night, news of the fight could be announced as soon as today.
+NEUT2|Third Point has been pushing for a sale of the company.
+NEUT3|They face a tough hurdle, though the descendants of Campbell soups founders own about 40% of the shares, and Third Point is teamed up with one of the descendants, George Strawbridge.
+NEUT4|Together the firm Strawbridge own about 8% but the other two found the other two family members own more than 3%.
+NEUT5|On the other end of it right, it's the first proxy fight for Third Point in five years.
+NEUT6|Take a look at shares of Camel.
+BEAR7|Right now they are relatively unchanged this because Campbells decided to sell aspects of the company instead of just selling out right, and they're frustrated with that for years.
+NEUT8|For the past decade.
+NEUT9|You would always hear rumors that Campbells was both going to be a target or was going to sell it was I mean they were always supposed to be involved and they never.
+NEUT10|They never worry in part because of the family and the question is whether the company unfortunately has don't use word evolve, but I'll use it has had the challenges it's had as much as it's had over the past couple of years and I think that's really led to Dan Loeb looking at this and thinking there's an opportunity.
+NEUT11|"Whether there is or not will have to say."""

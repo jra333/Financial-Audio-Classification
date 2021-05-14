@@ -1,0 +1,31 @@
+NEUT0|"""The intrinsic value of at last scene is range between $2.64 per share."
+BEAR1|An negative $1.59 per share.
+NEUT2|How are those values calculated?
+NEUT3|Paying $2.64 per share represents the company's cash for sure issued and outstanding.
+NEUT4|They have $2.64 in cash and cash equivalents.
+BEAR5|Fair enough, but let's deal with this negative number here.
+NEUT6|So this means that atlasi and would have to pay you $1.59 per share in order to make a transaction of stock occur.
+NEUT7|This is simply a function of their negative well.
+BEAR8|Their net losses.
+BEAR9|They have a median net loss for the time they've been public in the amount of negative $20 million, which is not good.
+NEUT10|Typically we want to see a company post 10 years straight of net profits before we make a decision to invest, so we're not even looking at the share price yet, and we're already suspicious.
+NEUT11|What's the share price?
+NEUT12|$187.00 with $0.52.
+BEAR13|Not good, this is incredibly overpriced.
+NEUT14|They don't even have a PE ratio guys, so we would stop here.
+NEUT15|I mean there are an Australian company, their software developers, project managers, but the numbers are just not there to justify really.
+NEUT16|We're not even justified in diving deeper into a fundamental analysis of it last year until they get their numbers together so well.
+NEUT17|If you're looking at an investment in atlasi and or you're looking at something different, I never want to leave my viewers out to dry, so I always suggest an alternative.
+NEUT18|And the alternative that's safe one is Vanguard 500 index fund, so it has a similar return as stocks.
+NEUT19|Look at that 10 year return of 12.98%.
+NEUT20|You know it mitigates risk.
+NEUT21|It maintain safety of principle with an ample margin of safety.
+NEUT22|It hits all, then all the checkboxes that Benjamin Graham advocates in his book Securities Analysis and the Intelligent Investor.
+NEUT23|So I would do that until they start posting some net profit numbers.
+NEUT24|You know, anything other than those net losses.
+NEUT25|That's that's really the first step for any any public company in my opinion.
+NEUT26|Guys, have you gotten evaluated this video?
+NEUT27|Make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance.
+NEUT28|So that way your investment performance is on.
+NEUT29|Itemized.
+NEUT30|"Remember when your investment performance is optimized so as you're well, production, I'll see you in the next video value investors."""

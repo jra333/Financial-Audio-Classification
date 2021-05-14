@@ -1,0 +1,30 @@
+NEUT0|"""Some say this is not yet over and you seem to be one of those people that says that it could even be going up to 5%."
+NEUT1|Does this go in contrast to what the finance Department has said that it's a temporary update?
+NEUT2|Do you feel that there's still a lot of upside risks there?
+NEUT3|Well, it's really driven by supply side factors that need more than anything else.
+NEUT4|First, we have the storm damage of the damage to some of the perhaps some of the agricultural production that lead to higher prices of food and other agricultural products is number one and #2.
+BEAR5|We have also the higher pork prices brought about by the African Swine fever that reduced part supplies.
+NEUT6|So, and apparently we have a external factors that are much that are beyond our control or exogenous factors.
+BULL7|I lead by the higher global commodity prices, especially grains, including food like a weed.
+NEUT8|Maybe in corn among others, as well as higher metals prices, other other minerals and other major global commodities there.
+NEUT9|Now bring up an average of the highest levels in six to seven years.
+NEUT10|So those are factors beyond their control.
+NEUT11|But those factors that cannot be addressed by.
+NEUT12|Bing Supply side in nature.
+NEUT13|They cannot be addressed by monetary policy.
+NEUT14|The next question is.
+NEUT15|With this supply side factors lead to second round inflation effects, so so as a matter of prudence, it would take a few weeks to months.
+NEUT16|And assess if there would be increases in the prices of other affected goods and services in the economy, especially if there if this would translate to higher transport fares, higher wages, and of course, everything as follows.
+BEAR17|Worried are you about the oil prices now breaching A60A barrel?
+BULL18|This was something you know before this whole COVID-19 pandemic were in the oil prices, you know were beneficial in terms of our deficit.
+BULL19|Now it's going back up.
+NEUT20|To what extent have we already priced that in when we're looking at the targets of inflation this year?
+NEUT21|Well, there is another factor that in that third factor that I've mentioned in terms of categorizing these supply side.
+NEUT22|But first we should win the first tool.
+BULL23|Supply side factors like the storm damage on agriculture and an ASF in reducing the purchase price for those two factors are could be temporary nature that can be better addressed by non monetary measures by way of increasing local supply.
+NEUT24|That's a bottom line whether by way of increasing portation of pork cheek another big products.
+NEUT25|As well as the price ceiling with the price tag for 60 days and let somebody that so and at the same time also increase our local production and that's what is sourcing in other provinces in vision for Portland, new harvests and the planting season for for crafts and other agricultural products, but this third one, this global factories excelled in this class.
+NEUT26|So it's a question also whether or not the businesses have the pricing power to pass on the horse, would they absorb who they are?
+NEUT27|Basketball so much.
+BEAR28|But given the relatively low demand or there's a chance that some of these producers or or or manufacturers may also just absorb it and they have narrower margin so those are the dynamics now.
+NEUT29|"That's why it's supply side revenger."""

@@ -1,0 +1,33 @@
+BEAR0|"""Are we back in bad news?"
+NEUT1|Is good news land or is the market come unglued from reality and that's the big question.
+BEAR2|If your day where we got a really ugly employment report, this brings number nonfarm payrolls down 140,000 December.
+BULL3|Most economists were expecting an increase.
+NEUT4|Yet those green all over the place.
+BULL5|They only edged up these seven points.
+BULL6|SMB, advanced .55%, and the NASDAQ gained an amazing 1.03%.
+NEUT7|Maybe the market saw this week this coming.
+BULL8|How can we have job growth when Kovitz running?
+BEAR9|Wild causing a half a million layoffs in leisure and hospitality sector alone.
+BEAR10|Unfortunately, doing such a poor job distributing vaccines that you can't expect to rebound anytime soon, which brings me back to the bad news, is good news thesis.
+BEAR11|Every disappointing jobs number like this one makes it more likely will get another round of government stimulus checks to help cushion the blow.
+NEUT12|Still, let's not lose sight of the key takeaway.
+BULL13|Well, this economy has some pockets of strength.
+NEUT14|Things like home building, a host of commodities keep going higher.
+BEAR15|We've also got mass unemployment thanks to an increasingly deadly pandemic.
+NEUT16|That means that Federal Reserve needs to keep interest rates low to help spur hiring.
+NEUT17|When you combine the slower economy with a dovish fed, you get a situation where stocks.
+BULL18|Yes, I know this term is is kind of old hat to you now, but they're the only game in town versus bonds most certainly, and that means you'll get some prolong moves higher like the incredible run in Tesla, which bolted to another 8% today.
+BULL19|To yet another new high as one analyst after another concedes that the company is doing better than expected an as the S&P 500.
+BEAR20|Index funds are forced to buy the darn thing at ever higher prices thanks to its inclusion in the index.
+BULL21|Tesla keeps chugging higher.
+NEUT22|Plus the seemingly unstoppable stock serves as an umbrella covering the whole electric vehicle coordinate seems like one of those stocks created every day.
+NEUT23|I can't blame anyone for trying to find the next Tesla here, although I'd rather stick with the original Tesla.
+NEUT24|A bird in the hand is worth 2 in the Bush.
+NEUT25|Burn in the Bush is a legitimate hydrogen fuel cell play like plug power.
+NEUT26|More on that later.
+NEUT27|Don't miss a second of mad money.
+NEUT28|Follow at Jim Cramer on Twitter.
+NEUT29|Have a question?
+NEUT30|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC Miss something Ed to madmoney.cnbc.com.
+NEUT31|Shepard Smith here.
+NEUT32|"Thanks for watching CNBC on YouTube."""

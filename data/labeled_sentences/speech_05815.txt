@@ -1,0 +1,38 @@
+NEUT0|"""We're going to calculate the stock price for Rogers Communications."
+NEUT1|And the first thing we need is the market cap.
+NEUT2|Which is 29.3 billion.
+BEAR3|And stock price 57 spot 70.
+NEUT4|So to figure out the shares outstanding, you just take the market cap divided by the stock price and that gives you 508 million shares outstanding.
+NEUT5|Next is free cash flow and the best way to calculate the value of a company is to estimate future free cash flow and discount that back to today's dollars.
+NEUT6|That's exactly what we're doing in the video.
+NEUT7|OK, and next we need net net income, which is the profit and loss for a given year.
+NEUT8|And we use four years of financial data.
+NEUT9|And revenue is last.
+NEUT10|And now that we have all the inputs, we need to figure out the capital structure of this company so we know what to discount cash flows by.
+NEUT11|So let's get the interest expense.
+NEUT12|That's the interest on the debt, that's 800,000,000.
+NEUT13|And to figure out how much debt they have, let's go to the balance sheet.
+NEUT14|In the liability section, we need the current debt.
+NEUT15|And the noncurrent that.
+NEUT16|So the current debt is 2.2 billion.
+NEUT17|And the long term debt is 16 billion.
+NEUT18|So they pay 4.39% on their debt, but that is tax deductible, so the interest payments are so we need to figure out the effective tax rate.
+NEUT19|So the income before tax is 2.8 billion.
+NEUT20|And the income tax is 700,000,000.
+NEUT21|So the effective tax rate is 26%.
+NEUT22|So when we discount the interest payment, the cost of debt is 3.25%.
+NEUT23|Now we need the cost of equity and.
+NEUT24|We just can pull the beta.
+BEAR25|It's a really low beta .28.
+BEAR26|That's one of the lowest I've seen, so the equity is 4.47.
+NEUT27|We use the CAPM model to figure that out and across the debt is 3.25%, and when you blend those together, you get 4% and that's a weighted average cost of capital.
+NEUT28|That's what we're going to discount the future cash flows by.
+NEUT29|So we calculate the future cash flows for years and we did a terminal value which is all the years after year four and when we discount that back to today's dollars, we get a value of the company at $58 billion.
+NEUT30|And when you divide that by 508 million shares, you get a stock price of $115.00.
+NEUT31|Even though it's trading at $58.
+NEUT32|So this is considered by is trading at half of intrinsic value.
+NEUT33|So it is harder to value smaller companies or in companies that don't have consistent earnings.
+NEUT34|So you do have to make some assumptions and.
+NEUT35|And you'll see some analysts saying that.
+NEUT36|The stock is by other analysts say the stock sell, but each analyst used their own model in their own assumptions, but you never see them model.
+BULL37|"This is my model in my opinion, so thanks for watching."""

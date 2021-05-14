@@ -1,0 +1,50 @@
+NEUT0|"""Alright, welcome back to answer some of your questions."
+NEUT1|Now Joe.
+NEUT2|I come to you first from Nick in New Jersey.
+NEUT3|Everybody good alright AbbVie?
+NEUT4|I bought Abby at $69 about two months ago.
+NEUT5|This distance thing is really difficult.
+NEUT6|I don't want to sell, but would like to add more.
+NEUT7|Is that a good idea?
+BEAR8|Sure, 52 week high today I clearly missed it when it was down at 69.
+NEUT9|It's a name that I had owned previously.
+BEAR10|I was conflicted at the time because I owned in Big Pharma.
+NEUT11|I had Abbott Labs and I had Eli Eli Lilly.
+NEUT12|Rather, it's both 150 to 175 billion market cap size, but this stock is breaking out Courtney and John.
+NEUT13|It's dear to their hearts.
+NEUT14|Illinois based an it's a name that I should have gotten back in.
+NEUT15|I missed it.
+NEUT16|OK, next court from Jake and Wisconsin fundamentals is seemingly loose term.
+NEUT17|I often hear on CNBC what are they exactly?
+NEUT18|Good question.
+NEUT19|What are fundamentals?
+NEUT20|So that's actually the easiest way to think about it is that's what actually the stock is based around, right?
+NEUT21|It's the actual growth of the stock.
+NEUT22|It's the revenues.
+NEUT23|It's the profitability.
+NEUT24|Those are the fundamentals.
+NEUT25|When you talk about quants there solely looking at the numbers alone.
+NEUT26|When you're looking at fundamentals, it's the qualitative assessment of the company couple.
+NEUT27|Generally with the quantitative assessment.
+NEUT28|OK, John Adjarian coming to you now from Salmon Albany, NY.
+NEUT29|Is Netflix a stay at home stock that will continue to perform as states reopen?
+NEUT30|Sam, yes it is, and yes it will.
+BEAR31|I think Sam today just minutes ago we had unusual activity at the 500 strike, which means somebody betting that the stock that's 470 some odd dollars a share goes through 500 in the short term.
+NEUT32|By next Friday judge.
+NEUT33|So yes, I would hold it and I'm looking for more upside there.
+NEUT34|Kevin O'Leary from Gordon, Seattle.
+NEUT35|Should I take profits in Tesla?
+NEUT36|Good question?
+NEUT37|Or is there more room to run?
+BULL38|Tesla bigger market cap now than Toyota.
+NEUT39|Yep, Tesla is a name that I have been in for almost a year now.
+NEUT40|I bought it around last July when it was downgraded around 20-30.
+NEUT41|My attitude about stocks like this, which clearly when you talk about fundamentals are stretched valuations.
+NEUT42|But you know people that believe in a brand around electric cars and Tesla has proven that they can make them are sticking with the stock that I have sold.
+BEAR43|Tesla as recently as yesterday because it keeps bumping up in the portfolio.
+NEUT44|It's in a 5% weighting.
+NEUT45|The stock is relentless in terms of its increase, so by selling it at 5% and I'm talking about a little investment philosophy here.
+NEUT46|I'm taking plenty off the table while I still stay in the name.
+NEUT47|I just generally never let a name get past 5% and Tesla has been doing that every week.
+NEUT48|And so I've been selling and selling and selling and selling and one day when it corrects.
+BEAR49|"Hopefully I will have, you know, taken enough off the table that I simply won't care."""

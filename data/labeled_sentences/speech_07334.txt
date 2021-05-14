@@ -1,0 +1,41 @@
+NEUT0|"""Simon play today."
+NEUT1|I'm alerting you CPA United communication partners.
+NEUT2|The reason I'm going to alert this is because we just broke wedge.
+NEUT3|This is a stock that usually trades strong during November and December.
+BULL4|If you look at the last move in November in December, the stock rallied from .05 all the way up to .029.
+NEUT5|If you look today, the stock is currently trading above point.
+BULL6|Above 3,000,000 three million in volume, it's training.
+NEUT7|Above all the moving averages.
+NEUT8|If we look at this arrow here, you have a pivot break of .008.
+NEUT9|I want to tell you a little bit about this company if you look here.
+NEUT10|The company has not changed its share structure since 2017.
+NEUT11|It's got a couple of.
+NEUT12|Products and they work directly with Weber.
+NEUT13|Netflix, which is one of their biggest.
+BULL14|Biggest client OK. That's very attractive, and anytime that you are hearing Netflix, the stock will rally right.
+NEUT15|Couple of facts on you CPA.
+BULL16|You have huge revenue growth.
+NEUT17|15 million in sales for 2017, eighteen 19 and 20.
+BULL18|To check their filings, net profit is positive.
+NEUT19|No dilution since 2012 and insiders own 75% of their OS 17 million quarter one in 2018.
+NEUT20|So this is a revenue producing company.
+NEUT21|Now let's take a look at.
+NEUT22|Their share structure.
+NEUT23|It is paid current.
+NEUT24|Right now I want to just go over a little bit of what the volume is doing.
+NEUT25|Right now you're having 7,000,000 in volume for the day.
+NEUT26|The average 30 day volume is 300 and 25,000, and your daily range today is 44 to 59.
+NEUT27|Now it's over.
+NEUT28|Share shops are authorized shares is only two billion.
+NEUT29|It's been updated.
+NEUT30|You're not seeing shares being diluted and your floor flow is 318,000,000.
+NEUT31|That's why it moves so easily.
+NEUT32|OK, now we're gonna go back to the chart to go back to the chart if you look here.
+NEUT33|Look for two consecutive closes, two consecutive weekly closes above .008.
+BULL34|That's going to make a move all the way up to .029 for path least resistance.
+NEUT35|Right now your strongest support right now is currently at .0046.
+BULL36|No for this stock to close strong today.
+NEUT37|If we look at the Mac, these going from negative to positive, you gotta Polish diversions with a Mac D and the distribution line costs, and you're on balance.
+BEAR38|Volume has been consistently and now flagging for the last couple of weeks.
+NEUT39|This is a stock that I feel will break out.
+BULL40|"It's got a low risk high reward return with the perfect setup fees, I take area."""

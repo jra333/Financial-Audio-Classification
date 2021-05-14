@@ -1,0 +1,5 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the Nat gas markets, and as you can see."
+NEUT1|The gap underneath.
+BULL2|Is probably going to offer a bit of a floor at $1.65.
+BULL3|The 50 day Ma and the dollar $0.85 level is resistance, so if we can break above there then it opens up the possibility of a move to $2.00.
+NEUT4|"We are making a series of higher lows and I think that is something worth paying attention to, so I like buying short term pullbacks in order to pick up value or the breakout."""

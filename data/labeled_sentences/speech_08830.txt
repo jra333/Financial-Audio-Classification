@@ -1,0 +1,19 @@
+BULL0|"""Pretty upbeat outlook from Alibaba."
+NEUT1|I know you're not a huge fan of investing in China stocks, but what is your take away from some of those numbers?
+NEUT2|We heard you know what?
+BULL3|Again, you know when a company says itself that it's going to grow 48%?
+BULL4|That's intriguing to me because that is unbelievable growth versus everybody else, including Amazon, which going 27% retail.
+NEUT5|But my problem is still in China.
+BEAR6|I mean, I look at Baidu last night and I do miss the quarter and but they missed the quarter because of medical ads that had to be pulled because of government regulations.
+NEUT7|And I'm sitting here saying I've got so much on my plate too.
+NEUT8|I have to think about something like that.
+NEUT9|Ali Bobby.
+NEUT10|Does a major RA rise?
+NEUT11|Got all the analysts there?
+NEUT12|He's got all the answers.
+NEUT13|If you really think he's got all those answers, then go buy Yahoo.
+BEAR14|OK, because you've got the rest of Yahoo value to pretty much zero and you have a couple of buyers like at ATT and Verizon.
+NEUT15|It might be interested.
+NEUT16|So my takeaway is if you really believe go by Yahoo.
+NEUT17|Notice I am not saying I believe 'cause.
+NEUT18|"I'm not going to recommend a Chinese stock 'cause life's too short."""

@@ -1,0 +1,29 @@
+NEUT0|"""Cardano price prediction for the end of July."
+NEUT1|I'm Capri the Cyborg and welcome to October talks before we begin.
+NEUT2|Nothing said on this show should be taken as financial advice, newcomers and returning guest please like and share this video with everyone you know Now my October hands.
+NEUT3|Let's begin.
+NEUT4|Today's video is sponsored by Kiwi Pool.
+NEUT5|Staking minting blocks since 2019.
+NEUT6|Proudly owned and operated by a kadono ITN OG on bare metal with cloud backup.
+BULL7|Earn great rewards while contributing to decentralization with Kiwi K iwi truefire, Truffle and Rahman Cardano stake pools by Kiwi pools.
+NEUT8|Taking all our links are in the description below.
+BULL9|Cardano has rallied around 400% in 2020.
+BEAR10|The community is strong and the team building Cardano is resilient, although it is far from its all time high of $1.33.
+NEUT11|Many speculators and industry experts see the potential for more.
+BULL12|Growth Ryan Fang, the co-founder and Chief Operations Officer of Anchor, a firm that provides cloud solutions for blockchain applications, says the price rally has been tremendous as it broke two resistance levels.
+BULL13|We have been watching Kadono from more than a year with their development since the testnet till the main at the network has emerged a lot and the price rally has proved the strong market sentiment of the project and the trust community has got on the project.
+BULL14|The full decentralization of the Cardano network is eminent.
+BULL15|And smart contracts coming shortly after more investors are joining the Cardano ecosystem every day, the positive sentiment will continue to drive the price upward.
+NEUT16|I personally see the price reaching $0.17 by the end of July.
+NEUT17|Bears will try to push the price down, but the Bulls will overtake them.
+NEUT18|Now let's transition.
+NEUT19|It's time for comment of the day.
+NEUT20|To participate, you must leave a remark in the comment section below.
+NEUT21|I choose a random comment to react to.
+NEUT22|I give it a thumbs up or a thumbs down if you subscribe to my YouTube channel then click the notification Bell, you have a better chance of getting picked.
+NEUT23|The chosen one is eagle great.
+NEUT24|It reads nice Capri.
+BULL25|I am pleased you like it.
+BULL26|I hope you come back for more now.
+NEUT27|This concludes the video.
+BULL28|"Thank you for watching goodbye."""

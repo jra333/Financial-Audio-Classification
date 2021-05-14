@@ -1,0 +1,26 @@
+BULL0|"""So far US growth has held up."
+BULL1|We've seen dollar strength this year.
+BEAR2|Yes, we saw a bit of dollar weakness yesterday, but you know, we mentioned some of the calls from Wall Street.
+NEUT3|David Cawston at Goldman Sachs saying if we get 10% on all on all those Chinese imports, that level of tariffs 10%.
+BEAR4|We could see the S&P 500 drop into a bear market.
+BEAR5|How vulnerable is US growth to an escalation in a trade war?
+NEUT6|It would have to be a major escalation by trade war to get that.
+NEUT7|I'm not sure that what you've mentioned the 10% tariff on all Chinese imports would really be.
+BEAR8|That trigger, if that were to be seen as the start rather than the end of it if it were to be seen as the start of something more pernicious after 10%, comes 1520% or so on, then of course it would be a very disruptive thing.
+NEUT9|In the US.
+NEUT10|We have the interesting phenomenon that the US economy seems to be largely isolated, insulated from what's going on in the trade sphere, because they have this strong domestic stimulus.
+NEUT11|Coming from deregulation, tax reform and tax cut.
+BEAR12|So as the US does not really feel the consequences of the trade and disturbances, unlike other countries, the US probably would not be that much affected if this goes on the bit further it would hurt the US, but probably not bad enough to have a bear market start on it.
+BEAR13|Alright, so wouldn't hurt the US enough for a bear market there.
+NEUT14|What about China?
+NEUT15|How insulated China?
+NEUT16|Chinese, of course, but it comes to the trade relationship with the US.
+BULL17|Pretty exposed yes, but for China they have the means to still re stimulate the economy if they want to and have to.
+NEUT18|They don't really want to.
+BULL19|They want to reduce leverage.
+BEAR20|They have learned the lessons of recent years, but if forced into doing it they would probably reopen the credit tips rather than let growth fall, decelerate so much that the economy that the people would notice a significant deterioration and get unhappy with the ruling party is what you've said about the US.
+BULL21|In China, the reason why a lot of Wall Street is actually still pretty positive on global growth for the rest of this year and next year, despite the escalation in trade tensions and what's been happening in emerging markets, we have a number of issues, crises, problems here and there, and there they all add up to being something, but they don't add up to really offset the strong domestic fundamentals in many parts of the world, we have a strong U.S. economic performance and likely to go on for another, say roughly two years.
+BULL22|We have the eurozone being basically in good shape.
+NEUT23|Little problem here and there.
+BULL24|We have China as discussed able to re stimulate the economy if needed and with these three major regions likely to enjoy decent growth again next year.
+BEAR25|"I don't think the world economy is heading for a very negative surprise in 2019 or at the end of this year."""

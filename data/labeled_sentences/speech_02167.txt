@@ -1,0 +1,4 @@
+NEUT0|50 Apple USA stock indexes market.
+NEUT1|Just open before 10 minutes.
+NEUT2|Please make use of this prediction.
+NEUT3|Please ask remake channel.

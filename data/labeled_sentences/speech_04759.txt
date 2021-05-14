@@ -1,0 +1,30 @@
+NEUT0|"""This follows on from the last two videos looking at market failure in financial markets market failure."
+NEUT1|There are four of them.
+NEUT2|We've looked at asymmetric information.
+NEUT3|Moral hazard.
+NEUT4|Now going to look at speculation and market bubbles.
+NEUT5|These can often occur within financial markets, becauses a lot of the action going on in financial markets is to do with speculation.
+NEUT6|We said at the very beginning that the reason we have financial markets is partly to provide services to consumers.
+NEUT7|And firms and also to government.
+NEUT8|But also there's a lot of speculation that goes on because people know that they can make money out of buying and selling and doing other activities within financial markets.
+NEUT9|So speculation and market bubbles or reason that the whole market can fail.
+NEUT10|These are where people think that the price of something is going to go up, and so they keep on buying it and buying it, and that creates a bubble and usually bubbles then pop.
+BEAR11|And that's the problem.
+NEUT12|This can happen in any kind of market.
+NEUT13|We've had instances in the UK, for example in the financial crisis we saw a.
+BEAR14|Market bubble which developed in the housing market and this.
+NEUT15|Was in part the crisis developed because of the securitization of mortgages which I addressed in the not last video, but the one before.
+BEAR16|But also you can have issues with market bubbles as we did in the housing market, where everybody thinks that the price in this case of houses is just going to go up and up and up the way that the market failed.
+NEUT17|Here the financial market firstly was that banks continued to give loans to people to be able to buy houses, even if.
+BEAR18|They were quite a risky person to give the loan to and they might not be able to make their mortgage payments every month.
+NEUT19|If, for example, interest rates went up or something went wrong with their job, but this was encouraged by banks lending to people that perhaps they shouldn't have been lending the money too.
+NEUT20|So this meant that lots of people could then get a mortgage and they could go out and buy a house as more people are buying houses and more people thought that that price of houses would go up and up more people kept buying them.
+NEUT21|This then meant that house prices went up significantly, but then when there was a change, ultimately in this case probably the trigger was an increase in interest rates.
+NEUT22|In America.
+BEAR23|This meant then that many people could no longer make their mortgage payments, and this meant that the bubble popped because suddenly demand for houses went down and the supply of houses went up as people had to start selling their houses because they couldn't make their mortgage payments.
+NEUT24|This is also happened.
+NEUT25|In history, in many other instances, another example is Tulip fever.
+NEUT26|This happened in the Netherlands in.
+NEUT27|I don't know.
+NEUT28|Sometime ago a couple of 100 years ago when people were thinking that the price of Tulip bulbs was going to go up and up and up, they became very popular and the price of a Tulip bulb became something like the price of a house and everybody thought the price would continue to go up.
+NEUT29|"But then one day it crashed and the bubble popped."""

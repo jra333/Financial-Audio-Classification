@@ -1,0 +1,26 @@
+BULL0|"""Buoyed by surging stock markets in the US and China and a proliferation of IPOs in reverse mergers, called Spag sees more than 200 newcomers joined the ranks of Forbes list of billionaires in 2020."
+NEUT1|Nearly one fourth of them made their fortunes in healthcare.
+NEUT2|They range from China's first vaping billionaires to the richly paid founder of an E Commerce firm in the UK to the husband and wife behind an electric car company that has yet to produce a car and aims to take on Tesla.
+BULL3|Despite the pandemic, the IPO market was hot in 2021.
+BEAR4|Driver was the sharp increase in listings of special purpose acquisition companies or SPAD sees Esentially blank check companies looking to acquire a business.
+NEUT5|Nearly 250 SPCS went public in 2020.
+NEUT6|According to Spock Insider, one of those on December 3rd led to Luminar Technologies founder and CEO Austin Russell, becoming the world's youngest self made billionaire at age 25.
+NEUT7|Russell and Optics Wiz came up with the idea for his automotive sensor company when he was just 17 and studying physics at Stanford.
+NEUT8|Traditional IPO's with Sky high valuations drove other new fortunes.
+NEUT9|The three cofounders of restaurant delivery service door Dash Tony Xu, Stanley Tang and Andy Fang all became billionaires on December 9th when their company listed its shares on the New York Stock Exchange and shares surged from the $102.00 IPO price to $189.00.
+BULL10|Generous rounds of venture capital funding also helped.
+NEUT11|Meant new billionaires in 2020.
+NEUT12|The most high profile of them are Vlad Tenev and Baiju Bhatt.
+NEUT13|The Co founders of no fee stock trading app Robin Hood which has attracted millions of mostly millennial traders with the claim of democratizing finance.
+BEAR14|It's been a rocky road as Forbes reported in an investigation over the summer.
+NEUT15|Here are ten of the most notable new billionaires in 2020.
+NEUT16|Net worth $15.30 billion.
+NEUT17|Source of wealth vaping devices.
+BULL18|Chen, age 45 has written a wave of demand for vaping devices, shares of vaping device makers, more international Holdings which he founded in 2009, have more than doubled since listing on the Hong Kong Stock Exchange in July.
+BEAR19|China's move to ban on line sales of E cigarettes in late 2019 hasn't been a deterrent.
+NEUT20|It's more international, makes vaping devices and components for customers including RELX one of China's biggest brands as well as Japan, Tobacco, British American Tobacco and US firm.
+NEUT21|Enjoy Chen owns about 34% of smaller international.
+NEUT22|The company's vice general manager, Shang Xiao Ming, owns about 5% a stake worth about $2.3 billion net worth $3.60 billion.
+NEUT23|Source of wealth biotech Bansal.
+BULL24|One of 50 new healthcare billionaires in 2020 is CEO of Boston Area biotech firm Moderna, which achieved the remarkable feat of rapidly producing a vaccine to treat COVID-19 on December 18th, the company received emergency use authorization from the US Food and Drug Administration.
+BULL25|"Just days after the Pfizer bio and tech team got approval for its Corona virus vaccine."""

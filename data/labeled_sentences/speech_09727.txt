@@ -1,0 +1,23 @@
+NEUT0|"""Shannon, you're up first."
+NEUT1|Estee Lauder we're talking about the consumer coming back.
+NEUT2|This is prestige beauty products.
+BULL3|I think that there's going to be a lot more opportunity to be shopping in person, which benefits this company, and I love the opportunities in China as well.
+NEUT4|Alright, the man and his tractor supply farmer, Jim.
+NEUT5|Well, somewhat related General Motors and I know I did it yesterday.
+NEUT6|I'm not just doing it because Steve is on.
+BULL7|It's clearly breaking out from a consolidation over the last two months.
+NEUT8|Just take a look at the chart.
+NEUT9|You'll see why.
+NEUT10|Why do you have a comment on GM, which I presumably you're still in?
+BULL11|Yeah, I would just say you're welcome, Jim.
+NEUT12|More like the other way around, more like the other way around.
+NEUT13|Final trade.
+NEUT14|Steve Weiss.
+NEUT15|Vuzix they report the quarter on Monday.
+NEUT16|Don't pay attention with the bottom line is listen for what they say on the order book on new product.
+BULL17|So I think it will do quite well from this level.
+NEUT18|Alright, what do you have for me?
+NEUT19|Joe T. Morgan Stanley.
+NEUT20|In September of 2000 was a $91.00 stock.
+BULL21|It's going back there alright.
+NEUT22|"Good weekend everybody."""

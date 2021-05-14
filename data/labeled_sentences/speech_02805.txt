@@ -1,0 +1,5 @@
+NEUT0|"""Hi friends, equity valuation, the Walt Disney Company."
+NEUT1|The objective of this technical note is to understand how equity analysts usually value public companies taking the Walt Disney Company as a case study.
+NEUT2|We provide a detailed explanation of our valuation of Disney using the discounted cash flow DCF method and some common multiples.
+NEUT3|The case solution.com is the number one destination for getting the case study and analyzed.
+BULL4|"Thanks for watching this video."""

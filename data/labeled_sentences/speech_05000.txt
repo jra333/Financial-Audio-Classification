@@ -1,0 +1,18 @@
+NEUT0|"""Well, Jeff Bezos has said he wants customers to be able to use Alexa wherever they are, and now it looks like the Voice Assistant could be moving into your kitchen."
+NEUT1|Dan even your car.
+NEUT2|CNBC has learned that Amazon has plans to release 8 new Alexa powered devices.
+NEUT3|The devices include a microwave oven, an amplifier, a receiver, a subwoofer, and an in car gadget.
+NEUT4|According to sources, some of the devices will also have Alexa built in, while others require an echo device.
+NEUT5|The product signal Amazon's move into home appliances.
+BULL6|Going head-to-head with companies like Sonos and GE.
+NEUT7|Even though both of these companies already have their own Alexa Link devices, Sonos has an amplifier and subwoofer that works with Alexa.
+NEUT8|While GE has a microwave that's connected to Alexa now, Garmin has a dash Cam that works with Alexa in the car and just today.
+BULL9|Audi announced it will be getting a full Alexa integration for its E Tron SUV V. Amazon has also shown its interest in the connected home space through some of its recent deals.
+NEUT10|Earlier this year, Amazon acquired the Smart Doorbell maker ring.
+BULL11|It also partnered with home builder Leonard to include 2E speakers in certain new homes and provide visits by Amazon technicians.
+BULL12|The companies efforts come as competition is heating up in the smart speaker category.
+BULL13|Amazon dominated the market early, but one research firm reports that the Google Home beat Amazon Echo shipments in Q2 shipments this year.
+BEAR14|That was a second quarter in a row.
+BULL15|Meantime, industry analysts say the news is notable because it shows that.
+NEUT16|Potential for what started out as a smart speaker platform and turned it into a completely different way of interacting with the devices we use everyday.
+NEUT17|"So stay tuned, Morgan."""

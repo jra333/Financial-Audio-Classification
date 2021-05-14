@@ -1,0 +1,46 @@
+NEUT0|"""Welcome to Trading Nation on Brian Sullivan today."
+NEUT1|Let's take a look at stocks that are trading in extended territory that is trading double digits above their 200 day moving averages.
+NEUT2|Those names include Netflix, Boeing, Wynn Resorts, an NVIDIA, among others.
+NEUT3|Any of these gone too far, too fast, or they still a good deal for your investments.
+BULL4|Mike Binger with gradient investments and Craig Johnson, with Piper Jaffray, I mean Craig, I pointed out actually that recently there's already 10 stocks that are more than 20% up.
+BULL5|In the S&P 500 in 2018, so a lot of stocks are well above moving averages.
+BULL6|These stocks double digits above their 200 day moving averages.
+NEUT7|Does any of them look like it still has more juice left in the tank?
+BEAR8|Well, Brian, that's one of my chief concerns about this entire market right now, and again, you know that we've been very bullish on this tape.
+BULL9|We got a little bit of a tactical kind of pullback opportunity.
+BEAR10|I think that's coming because so many of these stocks are extended.
+NEUT11|And from my perspective, just looking at the Dow, nearly 20% of the Dow or 20% of the weight, I should say of the Dow is well extended above an almost parabolic looking chart.
+NEUT12|So that's a cautionary thing in terms of the names we mentioned here, Wynn Resorts would be the one if I had to buy.
+NEUT13|Any of these stocks?
+NEUT14|Again, I don't like buying parabolic stocks, but that would be the one because I still am not back at all time.
+BULL15|New highs.
+BULL16|I still have more than 50 points that I could go before I could go back to the old highs and I am seeing some relative strength supporting a further move higher here from these levels.
+NEUT17|But again this is a market for me to be taking profits, not putting fresh money back to work.
+NEUT18|Brian.
+NEUT19|OK now putting fresh money back to work Mike, you're more of a value guy.
+BEAR20|I mean these stocks have been hot.
+NEUT21|I hope you've owned some of them for your clients.
+NEUT22|Would you own any of them now?
+NEUT23|I would frankly not own any one of the four that you just listed off at this current time.
+NEUT24|We've owned him in the past.
+NEUT25|I just think there are two extended.
+NEUT26|There are two parabolica of price movements, but I do think that you can own similar companies that have the same growth profiles that much better valuations.
+NEUT27|For example, we would we would own and we do own Las Vegas stands sands instead of Wynn Resorts.
+BULL28|We own JTX who just had a great quarter the other day.
+NEUT29|Instead of bowing an we own Facebook.
+NEUT30|Google instead of owning Netflix there they have the same growth rates, much cheaper valuations, and they actually generate cash versus burn it.
+NEUT31|So right now I went on any of those things and as far as NVIDIA goes, I think there's way too much hype there.
+NEUT32|As far as crypto mining, currency, artificial intelligence and automated driving to buy NVIDIA up here, I think you're just playing with fire, but you kind of recommended Las Vegas Sands on the slide for you.
+NEUT33|Did you not, Mike?
+NEUT34|I I kind of recommended Las Vegas Sands and I kind of record recommended United Technologies and Facebook and Google too.
+NEUT35|Alright, well there you go.
+NEUT36|We got names you don't like and a couple of names that you do.
+NEUT37|Mike and Craig.
+BULL38|Thank you both very much.
+NEUT39|As always check out the live version of Trading Nation on CNBC's Power Lunch.
+NEUT40|I'll see you there as well.
+NEUT41|Take care.
+NEUT42|Hey there, thanks for checking out CNBC on YouTube.
+NEUT43|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT44|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL45|"Thanks for watching."""

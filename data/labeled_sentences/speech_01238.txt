@@ -1,0 +1,40 @@
+NEUT0|"""Alright, zoom video."
+BEAR1|Those earnings are out pretty much repeat across the board as expected.
+NEUT2|Four Q revenue coming in at 882 million decimals for 811.
+NEUT3|That's when you look at it on a year over year basis.
+BULL4|That's a 369% jump in revenue.
+BULL5|Similar story for with regards to their EPS numbers as far as their forecasts that growth is going to moderate.
+BULL6|Looking for about 153% growth in revenue for its fiscal Q1.
+NEUT7|That number is 900 to 905.
+NEUT8|That's the range they're giving their.
+NEUT9|The street estimate there Taylor and Caroline was for 829.
+NEUT10|Let's get into it with Amine Bensaid of Bloomberg intelligence.
+NEUT11|And I mean it's pretty incredible to think about such high performance of the stock.
+BULL12|Such high expectations.
+BULL13|And yet it seems like they've managed even beat those.
+NEUT14|Absolutely, and also as you mentioned, when you look at the growth outlook and their guidance for not only the first quarter, but this year, it's almost double consensus that around 40% and yet fully person is significant drop from 300% that happened in a new solution will year, but I think consensus was looking at a much lower number and a higher moderation, so I think that's going to be the key focus here for these companies, explain how they can and what they can do to maintain a turn and have us you know a significant revenue.
+BULL15|Growth even post pandemic.
+NEUT16|Post pandemic, the competition is probably going to be people going back into their office rather than the rivals that are out there.
+NEUT17|But talk to us about how it competes with the Google mean, or indeed the teams coming from Microsoft.
+NEUT18|Are people continuing to remain latched on to zoom?
+NEUT19|A very good question.
+NEUT20|Also, I think it's a divided in two ways.
+NEUT21|It's the large customers or the enterprise customers, which is the focus of the zoom is trying to achieve.
+NEUT22|They have, you know, a better chance of getting a higher penetration in there and that's why doing like Roman mentioned earlier, probably sometime in May, but the other side you know, like schools.
+NEUT23|I think the churn is probably going to be higher on that level, so it's really just what the company decides to do to pursue that growth.
+NEUT24|Either building their own product specially in the collaboration space.
+NEUT25|Versus the Microsoft support work.
+NEUT26|Or you know, doing more image capture to quickly capture that growth rate?
+NEUT27|I am curious so when we talk about, I mean look a company like this doesn't need necessarily to continue growing at 100 plus percent or whatever it's forecasting now going into Q1.
+NEUT28|I mean, at some point the moderation has to come in there.
+NEUT29|What do you think is going to satisfy investors there?
+BULL30|Do you think that they will be satisfied with say a 30% growth rate as long as they're getting some type of maybe margin expansion?
+NEUT31|I mean, what's next for investors to look for beyond just revenue growth?
+NEUT32|That's very good question.
+NEUT33|I think it's going to focus on today's earnings call, which is.
+NEUT34|What are the plans of the company?
+NEUT35|He is going to pursue through not maintain the growth because I don't think anyone is expecting them to mention the 300 percent 200% growth rate.
+NEUT36|But what other plans they're trying to do to better position themselves basically post pandemic.
+BULL37|So like I mentioned, I think maybe emanate could be a logical way to either improve their exposure in the cupboard collaboration space or the content centered space as it's been rumored.
+NEUT38|Otherwise, I think you know just having plans either just building up there.
+BULL39|"One product, but that I think it's going to take longer to achieve."""

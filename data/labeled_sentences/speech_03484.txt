@@ -1,0 +1,22 @@
+NEUT0|"""Marina, good to see that then, so any clues as to what's up 'cause these computer glitches then?"
+BEAR1|Well, there's been no official explanation so far for what's turning out to be a day of tremendous technical malfunction and inconvenience in the United States.
+BEAR2|This circumstance is leaving many wondering if the widespread glitches at different companies are somehow connected.
+BEAR3|Now, business froze at the New York Stock Exchange at 11:32 Eastern Standard Time when technical problems halted trading, the exchange released a statement saying, in part, we're currently experiencing a technical issue that we're working to resolve.
+NEUT4|Quickly as possible.
+BEAR5|Now this Stock Exchange outage is being called the most severe since the Nasdaq's blackout in 2013.
+BEAR6|However, the Stock Exchange is just one of many victims in what may turn out to be a hack attack against you as companies a few hours before the exchange went down, United Airlines computer system malfunctioned, causing all flights to be grounded.
+BEAR7|Additionally, the Wall Street Journal's homepage online stop functioning around the same time that the New York Stock Exchange went down.
+BEAR8|So far, the Department of Homeland Security says there's no sign of malicious activity at the New York Stock Exchange or with the earlier outage experienced by United Airlines.
+BEAR9|But clearly this indicates that there are some major vulnerabilities within the US companies, and it comes coming when it comes to their cyber security systems.
+BEAR10|You mentioned that it was an inconvenience.
+BEAR11|It's possibly hugely embarrassing as well because the US invests lots and lots of money into cyber security.
+NEUT12|So how are these glitches still possible?
+NEUT13|Well, it's no secret that the US is extremely concerned about cyber security.
+BULL14|Earlier this year, the Obama administration requested $14 billion in its 2016 budget proposal to strengthen the weaknesses in America's security and infrastructure.
+BEAR15|But even with a massive amount of money being allocated to this issue, these technical problems indicate that it takes only a few glitches to take down one of the world's most important stock exchanges.
+BEAR16|An entire airline, and the website of a national newspaper, these electronic vulnerabilities.
+NEUT17|Aren't just a problem for Americans, we should mention.
+NEUT18|Keep in mind that much of the world's Internet traffic travels through the US, so America's cyber vulnerabilities could have global consequences and it shows at least these examples so far show that even if you throw a few billions at an increasing problem, that may not be enough to combat the problem.
+NEUT19|So far, though, we should_this has not been deemed separate hack attack attacks or widespread hack attack, but it does show that U.S. companies are.
+BEAR20|Very vulnerable in the cyber world and even with all this effort that Washington is putting towards combating the problems, these vulnerabilities still exist and they and the consequences can affect not just Americans but citizens around the world.
+BULL21|"Marina, thank you very much for the update and really important here in New York."""

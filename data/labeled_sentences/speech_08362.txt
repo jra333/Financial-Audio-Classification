@@ -1,0 +1,12 @@
+NEUT0|"""The Wall Street Journal is talking about the newest Mega deal in the media and that makes Time Warner Cable."
+NEUT1|Today's chart of the day.
+NEUT2|Now, it wasn't long ago that we got word that Comcast was abandoning its plan to buy smaller rival Time Warner Cable now and other players back in the mix.
+NEUT3|The Wall Street Journal reporting that Charter Communications could potentially make a play to buy out the cable giant.
+NEUT4|Now on background.
+NEUT5|Comcast bid value Time Warner Cable at $158.82 a share.
+NEUT6|This Trump charters bid back in 2014.
+NEUT7|At $132.50 a share, so it looked like Once Upon a time that Comcast was going to be the likely suitor, which were now, of course, is been upended.
+NEUT8|As Comcast is left the negotiating table and charter is back in play, the Wall Street Journal says that the deal could value Time Warner Cable as high as $170 a share, according to people familiar with the matter.
+NEUT9|Now, FCC Chairman Tom Wheeler says just because regulators were opposed to the Comcast Time Warner deal doesn't mean that all future cable deals are doomed.
+NEUT10|And that is why Time Warner Cable is today's chart of the day for the street.
+NEUT11|"I'm joined us."""

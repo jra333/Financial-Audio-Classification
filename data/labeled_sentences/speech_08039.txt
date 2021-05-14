@@ -1,0 +1,26 @@
+NEUT0|"""Investors want to know Snowflake's IPO date."
+NEUT1|The cloud based data management company revealed its plans for a public listing in an SEC filing.
+NEUT2|The filing suggests that Snowflake is gearing up to go public while the regulatory filing discloses the company's financial performance.
+NEUT3|It doesn't reveal everything investors may want to know about snowflakes IPO plan.
+NEUT4|When can I buy Snowflake stock Snowflake plans to raise about $2.7 billion in an IPO?
+NEUT5|The company's IPO date hasn't been set.
+NEUT6|That could happen in the next few months.
+NEUT7|Snowflake allows customers to store and manage their data over the cloud.
+BULL8|The company's sales in the first six months of fiscal 2020 ended July 31st more than doubled to $242 million, compared to $104 million in the first six months of fiscal 2019.
+NEUT9|What is Snowflake stock price and ticker symbol Snowflake plans to list on the NYSE under the ticker symbol snow.
+NEUT10|The company plans to offer 28 million shares in the range of $75 and $85.
+BULL11|For share, the company will likely have a market capitalization of about $22.3 billion, up from a valuation of $12.4 billion at the time of its last funding round in February.
+NEUT12|Goldman Sachs, JP Morgan, Morgan Stanley Allen and Co, and Citigroup or the under writers for the offering source.
+NEUT13|I stock Warren Buffett's Berkshire Hathaway plans to invest in Snowflake, Warren Buffett's Berkshire Hathaway plans to acquire $250 million worth of Snowflake shares, or 3.13 million shares at.
+NEUT14|$80.00 per share.
+NEUT15|Berkshire Hathaway agreed to acquire an additional 4.04 million shares from an unnamed stockholder in a secondary transaction.
+NEUT16|The company's stake in Snowflake would be valued at about $550 million when the stock goes public, according to a CNBC report, the Berkshire Hathaway investment is atypical for the company.
+BULL17|Warren Buffett has built a reputation as a value investor who has made high profile bets on conglomerates.
+NEUT18|However, he does not make all the investing decisions himself and leans on lieutenants such as Todd Combs and Ted Weschler, especially when it comes to tech stocks.
+NEUT19|What is Berkshire Hathaway's stock price today?
+BULL20|In premarket trading on Wednesday, September 9th, Berkshire Hathaway stock was up about 0.3% at $218.50.
+BEAR21|The stock fell by Zero point 2% on September 8th and closed at $217.80 with a market capitalization of $520.5 billion.
+BEAR22|Berkshire Hathaway stock has fallen by 1.8% in the last five days, while it has risen by three point 3% in the last year.
+BEAR23|The stock is trading 6% below its 52 week high of $231.60.
+BULL24|Incense and 36.6% above its 52 week low of $159.50 year to date.
+BEAR25|"The stock has fallen by three point 8%."""

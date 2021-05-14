@@ -1,0 +1,13 @@
+NEUT0|"""Hi Jason Moser with The Motley Fool, you know often I get the question from investors."
+NEUT1|Should I invest in gold?
+NEUT2|You know, I personally, I'm not the biggest fan of gold.
+NEUT3|You know when we look at gold as a decent hedge for your portfolio, especially in inflationary times there are number of different ways to gain exposure to it.
+NEUT4|But ultimately I would not actually make gold anymore than a 3 to 5% position of my overall portfolio.
+NEUT5|If even that some of the problems I have with gold.
+NEUT6|If you look at gold it's not a cash generating.
+NEUT7|Asset and what I mean by that is if you look at stocks, stops or instruments of companies and those companies make money and if those are good companies that make money and grow their sales will over time they grow those sales.
+BULL8|The stock price appreciates.
+NEUT9|Maybe they spit out some dividends but their cash generating gold is just a commodity that basically fluctuates with supply and demand and it doesn't do much other than maybe serve purposes, jewelry or a good paper weight.
+NEUT10|Perhaps then I've always said you know, if you gave me a bar of gold today, I'd sell it and go buy stocks and that's all to say that I don't own any gold in My Portfolio.
+NEUT11|So it's understandable if you want to own a little bit.
+NEUT12|"I wouldn't own very much of it, and For more information, make sure to check out full com."""

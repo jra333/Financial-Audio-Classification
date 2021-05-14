@@ -1,0 +1,29 @@
+BULL0|"""But based on how it's trading now, the stock market does look to be at ease with with a Biden victory."
+NEUT1|Even a clean, Democratic sweet.
+BEAR2|But we've been here before and it was the wrong take in 2016.
+BEAR3|The polls had it wrong in the experts also had the market reaction wrong.
+NEUT4|Let's see what it's predicting now.
+BULL5|The SNP is risen in recent weeks along with the value of a contract predicting a Democratic clean sweep.
+BULL6|As markets appear to be more comfortable with Democratic control.
+NEUT7|But predicting how the market will react after the election based on how it behaves before, well, that worked out pretty badly in 2016.
+NEUT8|Here are some headlines that we pulled up a CNBC story setting a forecast by Wedbush.
+BEAR9|Look for a 50% crash in stocks at President Trump.
+BEAR10|One barons quoting for money managers predicted a swift sell off, and a careful academic study by two well regarded economist estimated a 10 to 15% sell off in global stocks.
+NEUT11|Well, guess what?
+NEUT12|They were all correct.
+BEAR13|For about 3 hours, stocks crashed overnight as you remember, during the 2016 election and rallied pretty much for the next 14 months during the Trump presidency, I went back and read these articles to try to figure out well what mistakes were made while there was overestimation in the economic or the negative economic impact of the trade war that did come to pass later on.
+BEAR14|Also, immigration policies and the overall atmosphere policy uncertainty also a big overestimation of the potential for deficits to impact the economy from.
+NEUT15|The tax cuts Underestimations will perhaps the tax cut economic effects and deregulate the impact of deregulation from the Trump administration also.
+BEAR16|Experts, probably over underestimating their own biases.
+NEUT17|Of course things are different.
+NEUT18|This time.
+BEAR19|There's the covid pandemic.
+NEUT20|The markets positive take on coming stimulus from Democrats and maybe even from Republicans.
+NEUT21|And of course, a Fed pledging easy monetary policy for years.
+NEUT22|But you just have to exercise caution here.
+NEUT23|How the market seems to trade before an election may not tell you how it's going to trade afterwards.
+NEUT24|And Joe, my thing I hated most was that academic study which looked very careful try to show.
+NEUT25|How the market reacted to a win in the debate, it looked like the market was really concerned with the Trump victory.
+NEUT26|Well, as you know about 3:00 AM on the evening of elections and the election, that changed entirely.
+NEUT27|Shepard Smith here.
+NEUT28|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,16 @@
+NEUT0|"""Kim Kardashian West is joining the Forbes list of billionaires."
+BULL1|Forbes says that the 40 year old's net worth is up in part thanks to her beauty line KKW and also because of her shapewear line skims her sister Kylie Jenner is dropped off the billionaire list.
+NEUT2|The 23 year old is known for her Kylie cosmetics line.
+NEUT3|Her current net worth is estimated at around $700 million Joe.
+BULL4|Awesome, what a country.
+NEUT5|There's still some things.
+BULL6|Still, I was still trying and God bless him.
+NEUT7|What a family but I'm still trying to figure it all out.
+NEUT8|Almost famous for being famous, almost famous for being famous right.
+NEUT9|Almost you get famous then you use the fame to do things and then you become more famous and it's kind of cool.
+NEUT10|Kind of cool.
+NEUT11|It's probably too late for us to try that.
+NEUT12|Cosmetics Andrew.
+NEUT13|Lot of money in cosmetic wear line.
+NEUT14|Shepard Smith here.
+NEUT15|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,21 @@
+BEAR0|"""As the US China Trade War heats up, investors are growing more and more worried that its effects could be bad news for the markets."
+BULL1|But there may be a trade in here that presents a potential opportunity in the midst of it all.
+NEUT2|The blue line we're looking at on this chart represents the Russell 2000 Index.
+NEUT3|The red line on this chart represents the S&P 500.
+NEUT4|Both lines are indexed to 100 going back 20 years.
+NEUT5|Now the companies in the S&P 500 are the biggest companies in the US and in order to get that big, a lot of them had to expand their operations overseas.
+NEUT6|So we call those kind of companies multinationals.
+NEUT7|Companies in the Russell 2000 are the 2000 small cap companies.
+NEUT8|They're actually the smallest 2000 within the Russell 3000, so there small cap companies, which means that they probably do most of their business in the US, which makes them domestic companies.
+NEUT9|So these two indices are not perfect proxies, but in general we're looking at multinational companies versus domestic companies over this 20 year.
+BULL10|You can see that the domestic companies outperform the multinationals.
+NEUT11|One potential reason for this might actually be technical, which is that the investing tools we use may be biased toward the small cap factor and therefore push up the prices of those small cap companies, but.
+BULL12|If you look at this period since the financial crisis, you'll also see the domestics outperform one potential reason for this is that compared with other advanced economies, the US economy had a stronger recovery from the financial crisis.
+NEUT13|A lot of people contribute this to the quantitative easing that was done by the US Federal Reserve, which was quicker and more substantial than that of other countries.
+NEUT14|But if you look in more recent years like the last five years, even the last year.
+BULL15|And you indexed these two lines to 100, just in the more recent period, the multinationals would outperform and this is also true since the presidential election.
+BULL16|But we may see signs that this is turning around.
+BEAR17|John Buttars from FactSet recently put out research that said in the first quarter of 2019 companies in the S&P 500 that did 50% or more of their business outside of the US saw a 12.8% decrease in their earnings.
+BULL18|Meanwhile, companies that did 50% or more of their business inside of the US saw a 6.2% increase in their earnings.
+BEAR19|So the trade war may exacerbate the divergences between these two groups an even though multinationals have been the more favorable trade in recent years.
+BULL20|"It could be that it's time for domestics to outperform, and that presents a potential opportunity for investors."""

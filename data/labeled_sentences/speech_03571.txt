@@ -1,0 +1,14 @@
+NEUT0|"""I'm Maribel aber for SmarTrend news."
+NEUT1|Tomorrow marks the six year anniversary of Google's IPO.
+BULL2|The AP reports that notwithstanding the company's share price being down about 20% this year, it's up 389% since its IPO listed on the NASDAQ stock market.
+NEUT3|Google was started in 1996 by Stanford PhD students Sergey Brin and Larry Page as part of a research project.
+BULL4|They received $25 million in venture capital funding.
+NEUT5|And five years later, Google went public.
+BULL6|The IPO provided Google with 23 billion in market cap by October 2007.
+NEUT7|Google stock price hit $700.00 a share.
+NEUT8|The company has come a long way from being a basic search engine business with products on its dashboard like Google Maps and Google News.
+NEUT9|The AP reported that CEO Eric Schmidt commented in a recent techonomy conference that Google is now acquiring an average two companies a month.
+NEUT10|I'm Maribel aber for SmarTrend news.
+NEUT11|For more news and market analysis.
+NEUT12|Subscribe to our YouTube channel.
+NEUT13|"Trade the trend and also visit our website tradethetrend.com for more headlines."""

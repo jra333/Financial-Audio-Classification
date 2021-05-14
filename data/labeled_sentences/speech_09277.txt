@@ -1,0 +1,23 @@
+NEUT0|"""Economist David Rosenberg says he made a career by not following the herd and his bond forecast could be considered."
+NEUT1|The latest example.
+BEAR2|According to the Rosenberg Research president, this year's rate yield shock surrounding the benchmark 10 year Treasury note is temporary.
+BEAR3|This bond market is so radically oversold, Rosenberg told CNBC's Trading Nation on Friday we're going to peel back to 1%.
+BEAR4|The 10 year yield ended the week at 1.41%.
+BULL5|It's now up 55% so far this year, and as around 52 week highs the yield moves inversely to debt prices.
+BEAR6|The overwhelming fear on Wall Street is, the jump is due to inflation rather than a temporary demand surge linked to the economic recovery.
+BEAR7|The problem I have with that view is that all this stimulus is temporary in nature and rolls off next year when we face the proverbial fiscal Cliff, Rosenberg wrote in a recent note.
+BEAR8|Yet Rosenberg won't completely rule out a run to 2% that would be on a huge technical overshoot, he said.
+NEUT9|A 2% move in the 10 year note I'll tell you would be the same as 3% plus.
+BEAR10|In late 2018, it's something that you want to buy, even though he expects inflation jitters to subside, he still sees trouble for the stock market.
+NEUT11|Rosenberg, who served as Merrill Lynch, is top North American economist from 2002 to 2009, has been known for his bearish calls.
+BEAR12|Right now, Rosenberg's negative on big Tech and Mega cap growth stocks.
+BEAR13|However, he doesn't consider rising rates as the main reason why the tech heavy NASDAQ, which declined 5% last week, has been under pressure.
+NEUT14|The reality is that most of them actually peaked out and started rolling over several months ago, just under the weight of their own overvalued excess, said Rosenberg.
+BEAR15|The market groups on his watch list or autos and housing because pent up demand during the coronavirus pandemic has been dramatically pulled forward.
+BEAR16|In housings, case Rosenberg is concerned it will ultimately get hit by excess supply in the labor market.
+BEAR17|He predicts it will suppress wage growth, which will prevent inflation from accelerating.
+BEAR18|Rosenberg warns the Impact would spell affordability problems with home price to income ratios near 2006 bubble levels.
+BEAR19|We could end up with at least a 15% decline in stock prices and in housing prices, which is even more important, noted Rosenberg, that would be a pretty significant negative shock on assets and create what we used to call the negative wealth effect on spending.
+NEUT20|It's a scenario he calls quite possible.
+NEUT21|And one that would put inflation jitters on the back burner.
+NEUT22|"We're not going to be hearing the bond bears talking about inflation much longer, Rosenberg said."""

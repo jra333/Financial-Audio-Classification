@@ -1,0 +1,9 @@
+NEUT0|"""From the FT in London, these are today's big market themes."
+BULL1|The yen is still fizzing with the rally now, listing amongst the biggest of the last 10 years.
+BEAR2|Policy makers are twitchy with cabinet ministers, sugar once again saying they're watching with vigilance, but traders continue to test official resolve data on Friday showed that speculative bets on the yen and now at 8 year highs your move Bank of Japan, but with the dollar still in retreat and a dovish fed, it's hard to see what it can really achieve.
+NEUT3|Similarly, buns are off to the races.
+BEAR4|Again almost exactly a year since the last major rally ended in tears.
+NEUT5|This really reflects expectations that the ECB will not stand idly by while inflation expectations struggle.
+BULL6|But the chorus proposition is growing louder with German Finance Minister Wolfgang Scheibler.
+BEAR7|Not exactly a fan of easy policy at the best of times, even pointing the finger at the ECB for the rise of right wing politicians in Germany and breaking right now Sterling is suddenly shooting higher after the drop against the euro hit a wall.
+BULL8|"The Euros now back comfortably under 81 Pence, leaving the pound nearly nought point 7% higher against the dollar too."""

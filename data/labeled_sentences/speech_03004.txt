@@ -1,0 +1,3 @@
+NEUT0|"""To view the full article, click the first link in the description below."
+NEUT1|To view the full article, click the first link in the description below.
+NEUT2|"To view the full article, click the first link in the description below."""

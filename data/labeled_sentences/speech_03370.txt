@@ -1,0 +1,33 @@
+NEUT0|"""I'd like to talk about an area that our audience definitely cares about."
+NEUT1|That would be mergers and acquisitions.
+NEUT2|Elizabeth Warren, who's been mentioned as a frequent potential running mate for you, have said that she's completely opposed to any deals going through right now.
+BEAR3|Whether that be with big companies with hedge funds with private equity and then Amy Klobuchar who's actually been asked to undergo the vetting process to be a potential running mate for you, have said that she's had problems with the owner.
+NEUT4|By the way, Grubhub teaming up.
+NEUT5|Well, that's what we've read or heard in the news, but let's just call them potential running mates because they were there.
+NEUT6|I just wonder what are your thoughts on deals at this time?
+NEUT7|Do you think they should be banned?
+NEUT8|And are there mergers and acquisitions that bother you?
+BULL9|Well, I think that what we should do is we should take hard looks at it real hard looks until decide whether or not it's likely to increase competition and reduce competition.
+NEUT10|And you know what I, I'm not making that judgment now.
+NEUT11|What I'm saying is I'd have the antitrust Department of my administration take a hard look at whether or not these mergers increase the prospect of of growth increase the prospect of competition increased the prospective employment or not, and but I'm not going to make a blanket judgment on that right now.
+BULL12|But it's the idea of increased increased labor or increased increased employment.
+NEUT13|That would be your measure that you'd be looking at all of these through.
+NEUT14|Increasing competition competition doesn't limit competition, does it?
+NEUT15|Is it in fact go against the notion of the antitrust laws we have?
+NEUT16|That's what I'd be looking at.
+NEUT17|Mr Vice President, just following up on that issue.
+NEUT18|Elizabeth Warren has talked about trying to break up Amazon, a company that so many Americans have become so reliant on and provide essential services during this pandemic.
+NEUT19|Would you seek to break that company up?
+NEUT20|I think Amazon should start paying their taxes.
+NEUT21|OK, I don't think any company I don't give a damn how big they are.
+NEUT22|The Lord Almighty should absolutely be in a position where they paid no tax to make billions and billions and billions of dollars.
+NEUT23|Number 1 #2.
+NEUT24|I think that companies should be in a position where they start paying their employees a decent wage and protect their employees and so that's the whole notion of this is are you playing the game fairly like it was set up long before?
+NEUT25|What's the capital system all about the capitalist system, but everybody doing the having a dealing fairly and dealing straight up with the American people and with their employees were not investing nearly as much as we should be doing in a whole range of areas.
+NEUT26|You know that study that was done by the University of Massachusetts in 2004 to 14 corporate America?
+NEUT27|And I come from the corporate capital of the World Delaware and I'm not anti corporate, but here's a deal.
+NEUT28|We idea that they made.
+NEUT29|Several trillion dollars and all the studies show that 54% went to buy back their stock 37% to make sure their their stockholders got rewarded, leaving 9% for research, development raises employment, etc.
+NEUT30|Come on man, that's not the capitalist system.
+NEUT31|You know.
+NEUT32|"You know Friedman is not alive and well, but he seems to be running the show here."""

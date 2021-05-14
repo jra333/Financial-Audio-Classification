@@ -1,0 +1,22 @@
+BULL0|"""After closing down almost 600 points on Monday, the Dow has surged over 300 points on Tuesday, echoing a rally in Europe."
+NEUT1|So is the global market less concerned about troubles in China?
+NEUT2|Well, no.
+BULL3|Just because we've had one big rally.
+NEUT4|Doesn't forget the fact that markets sold off for two weeks after China devalued its currency.
+BEAR5|And let's not forget, China also fell significantly today.
+BULL6|We've only had a bounce back in the United States in Europe 24 hours after the big sell off.
+NEUT7|Two things.
+BEAR8|One, you could actually have some tax loss carryforwards.
+NEUT9|If you have big declines in some of your portfolio, you can take the losses and sell and take those losses in your portfolio and carry them forward for future games.
+NEUT10|The second thing is you need to look at your portfolio and make sure it was bulletproof, where their big things that you held that closed so we saw some worries about exchange traded funds.
+BEAR11|We saw some worries about JP Morgan and Home Depot and other large conglomerates following 20%.
+NEUT12|If these things impacted you, you probably need to make some changes.
+NEUT13|Now the other thing to worry about is the calendar.
+NEUT14|All of this has happened during a low volume environment.
+NEUT15|But it is no accident.
+BEAR16|The last time the market crash was September 15, 2008, when Lehman Brothers went out of business.
+NEUT17|So if you're looking at the counter, you say oh come September traders are going to come back to their desks, then they may sell.
+NEUT18|Is your portfolio ready for that?
+NEUT19|All of this happened in a low volume environment.
+NEUT20|What happens when there's a high volume environment?
+NEUT21|"For more up to the minute on markets, news, and analysis, please go to debbiej.com."""

@@ -1,0 +1,9 @@
+NEUT0|Hello Traders and welcome to AAA trades.
+NEUT1|Intraday technical analysis session.
+NEUT2|Today's instruments is the Walt Disney stock.
+BEAR3|If we look at the four hour charts we will see that is trading just above its support level of $110.76 today.
+BULL4|If Disney managed to hold its price above the support level of around $109.40 then we should expect his price to reach its resistance level of around $116.00.
+BEAR5|If failed to maintain its price above the level of around $109.
+BEAR6|Then we should expect his price to fall down close to the next support level of around $104.00.
+NEUT7|Thank you for watching AAA trades intraday technical analysis from all of us here.
+BULL8|We wish you successful and responsible trading.

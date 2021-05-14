@@ -1,0 +1,24 @@
+NEUT0|"""Hello, my name is Alex and I like represent to my analysis of Walt Disney Company."
+BULL1|Walt Disney is a growing consistently profitable multimedia Corporation that creates, distributes and commercializes content with wide array of brands and franchises.
+NEUT2|Let's fight segments.
+NEUT3|We do networks and parks together, generate most of the group revenue and income at the same time.
+NEUT4|His networks and the growing consumer product segments that the most profitable geographically, the largest operations are in the US, trailed by Europe and Asia over the last 10 years.
+BEAR5|These news earnings per share Evergreen fast and the stock price feeling a steep rally this year.
+BEAR6|Value in Disney now, however, may prove challenging task hold basic scenario enterprise Plaza 21% downside.
+NEUT7|These contrasts sharply with the target prices of equity research teams and scenario implied by the market price at the core is a fundamentally different view of the company's growth and profitability going forward.
+BEAR8|Indeed, the upward trends in CF ROI and investment suggested where the company has been developing does not fit well into the maturity hypothesis used in the basic called scenario.
+NEUT9|Take a closer view.
+NEUT10|We should assess the company in a deeper level and apply the three driver Flex model.
+NEUT11|To do this, let's see how the margins.
+NEUT12|The sales growth and, as it turns, are expected to change one of the major factors behind the market.
+BULL13|Optimism is Disney's decade long margin expansion.
+BULL14|The main drivers of this expression has been the network segment and with its strong ESPN and Disney Channel brands, the company should be able to preserve and reinforce it Premier position.
+BULL15|Further, boost should come from the synergies realized by the parks and consumer goods division from the vast Star Wars franchise.
+BULL16|Moreover, there should be little resistance to margin growth through reinforced network business within a heavy long way to go to catch up with the industry median.
+BULL17|These factors in mind is reasonable to assume that they beat the margin will continue to expand indicator similar to historic.
+BULL18|Although acid turns have declined recently, this has mainly been a result of temporary factors and should improve later on.
+BULL19|A major source of sales growth is Disney's new ventures like the Netflix partnership and expansion into the emerging market supported by the firm's relatively low payout ratio.
+BULL20|Finally, with the recent revision of the US GDP growth, there comes a hope that the company's key geography will outperform and business Asian forests will graduate exposure to the robust local markets.
+BULL21|Altogether, these facets warrant the use of the corresponding historical median synflex put together in hotfix for driver Model 2 assumptions of increasing margins and stable sales, growth and asset turns.
+NEUT22|Will the 10% upside to the current $50 price strong fundamentals driving future growth serve well to explain the market optimism of course to fulfill the expectations Disney will have to address the risk, such as the threat from the Internet business is the natural limits to growth and their competitive pressure.
+BULL23|"Regardless, we can conclude that Disney has the potential to perform with the current trends in profitability and revenue continue as expected."""

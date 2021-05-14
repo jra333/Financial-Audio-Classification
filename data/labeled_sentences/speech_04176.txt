@@ -1,0 +1,28 @@
+BEAR0|"""The Federal Reserve has signaled it's going to cut rates further, and of course, it's already cut 25 basis points."
+NEUT1|If you're the Fed, how do you not disappoint investors?
+NEUT2|Given what the markets priced in?
+NEUT3|Yeah, the problem is the market once more than the Fed seems willing to deliver I think anyone who is looking at a model will always be looking at the point estimate and then the standard error around that point estimate and when you're looking at some of the economic data.
+NEUT4|It hasn't moved all that much.
+NEUT5|What's moved as the financial market data like the yield curve and other things, so for Fed officials who look at real economic data.
+NEUT6|It's not looking way off in some of the models that they would estimate and without getting several standard deviations away from what you thought it's hard to change your mind so I think that's why the Fed is institutionally biased ago.
+NEUT7|A bit slow here, so if they look at market data they can look at the financial conditions.
+NEUT8|For instance, would a 50 basis point cut?
+BULL9|Changed financial conditions to a point where they would say OK, that's enough.
+NEUT10|We've done what we need to do.
+NEUT11|I don't know that we know that even I think it would go quite a bit in that direction, but what does the market expect after 50 basis points?
+NEUT12|And I think the Fed wants to be careful to not lead the market further than they're willing to go, especially with some of these conferences where there could be a lot of topics discussed.
+BEAR13|So it's a situation that set up to disappoint this week.
+NEUT14|But Don, how problematic is a higher dollar and and is that the lens that we should be looking at fed with?
+NEUT15|That's a great lens in terms of the currency affecting financial conditions.
+NEUT16|Also, indicators like the yield curve do matter.
+NEUT17|They matter more to certain individuals than other individuals.
+NEUT18|But while you can use a lot of the global flows to explain a flat yield curve, it's still hard to get to an inverted yield curve and not say something is wrong just because the.
+NEUT19|Future is more uncertain than the present.
+NEUT20|You would expect a curve to look a certain way, so an inverted curve is still signaling something is wrong, and I think what it's signaling right now is that there's policy action that needs to happen.
+NEUT21|It's just a question of the speed with which that's going to happen.
+NEUT22|Does that mean very quickly done that they're actually looking at the inverted yield curve and will try and reverse line?
+NEUT23|So they're certainly looking at it.
+NEUT24|It's a signal.
+BEAR25|It's not the only signal, and the problem is some of the hard economic data, like retail sales like consumer spending still look OK.
+NEUT26|So A50 basis point cut would be considered some sort of emergency item and without an emergency like a financial crisis or some negative GDP print something of that sort.
+NEUT27|"It's hard to do that preemptively."""

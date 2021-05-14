@@ -1,0 +1,20 @@
+BULL0|"""Shares of Twilio up big this week."
+BEAR1|The cloud computing company crushed expectations for the third quarter and shares of Twilio up more than 30%.
+BULL2|Not bad, Jeff.
+NEUT3|When you consider this company still is not profitable, awesome.
+BEAR4|It's a $9 billion market cap now.
+NEUT5|And as Jason was talking about App Ication baby maybe basically making a content into apps, Trello is making communication into apps.
+NEUT6|It let's programmers easily put communication capabilities into any software that's out there using an API.
+NEUT7|So.
+NEUT8|That's what they're doing.
+NEUT9|Their biggest customers are WhatsApp and Uber.
+BULL10|So anytime you use them to communicate with the other party or using Twilio's cloud and software, yeah, Chris revenue was up 68%, an almost even more impressive is dollar based net expansion rate of revenue, which was 145%.
+NEUT11|That means where they earned a dollar from a customer a year ago, they earned $1.45 this time because usage is growing their offering more and more products on top of what they offer.
+NEUT12|An it's a phenomenal story where where they're growing customers they're growing revenue because of that, but then they're also growing revenue usage based on usage as well.
+NEUT13|So when you look at the cloud computing space and you've got yes, I mean, this is impressive.
+NEUT14|The growth that we know has it's close to 10 billion in market cap.
+NEUT15|That's a fraction of companies that they're competing against in Microsoft Amazon with a WS, etc.
+NEUT16|Is this company that you feel like has a little bit of a Moat?
+NEUT17|Or is someone going to come in at some point and just make them a big offer?
+NEUT18|I do believe they have a good moment because they years ago set up and the CEO Jeff Lawson worked at Amazon before Twilio, along with a few other startups that did well but years ago they set up worldwide or network of communications that by signing agreements and whatnot so that you can use their services anywhere and that's tougher to do then it sounds like and then their software is years ahead of other people and it's really programmer driven.
+BULL19|"Because it's it allows you to customize it exactly how you want it, and that creates a stickiness too, so I think they're in a giant industry and they have a great lead and I think they could maintain much of it."""

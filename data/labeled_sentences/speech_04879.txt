@@ -1,0 +1,26 @@
+NEUT0|"""Now let's do something interesting."
+NEUT1|Let's calculate the equity investor internal rate of return of buying the shares at the current market price right now.
+NEUT2|Anne holding them all the way until December 31st, 2028 and taking into account the stock based compensation dilution or increased share count that's occurring over that time period.
+NEUT3|So in order to do that.
+NEUT4|Let's refer to the current share price here.
+NEUT5|That's our starting point and then our ending point is going to be this value here, because we assume that there are no dividends or actual cash flow payments along the way.
+NEUT6|You would simply buy the shares right now and then sell them on December 31st, 2028, assuming that you could sell them for 3649 per share.
+NEUT7|Now let's calculate using xir.
+NEUT8|What that rate of return would be.
+NEUT9|So here are the values that you get.
+NEUT10|And here are the dates that you use.
+NEUT11|For the cash flows.
+NEUT12|And you get a seven and a half percent IR.
+NEUT13|Now, if you want to check the math on the internal rate of return and make sure you understand it properly, let's actually reverse engineer it here.
+NEUT14|Let's take this number as our initial investment, so that's our starting point and let's see if we get a compound annual growth rate that gets us to 3649 at the end of the period.
+NEUT15|In order to do that, all we have to do is take the prior.
+NEUT16|Multiply it by 1 plus this growth rate, which we're going to put in brackets.
+NEUT17|So here's the growth rate.
+NEUT18|Multiplied by this year, frack amount because the first one is not a full year of COM.
+NEUT19|Pounding is just a very small amount.
+NEUT20|The rest will be a full year of com pounding so just make sure you have that taken into account.
+NEUT21|So there's the number and now fill it all the way to the end.
+NEUT22|Annual notice that you get the exact same number at the end.
+NEUT23|The difference though, between these share prices and these ones is that we've essentially smoothed it out in this reverse engineering approach, where we say it's just going to be a seven and a half percent return every year consistently.
+NEUT24|This cash flow model does not take that same approach, it just base it on the intrinsic value overtime, but you can see here and have confidence that if you are to buy at 1755, hold for 10 years and sell at 3649, you are going to have a seven and a half percent internal rate of return for your investment.
+NEUT25|"We're going to do sensitivity analysis shortly, so you can see the range of IR as you might earn from buying at different prices and from changes in other assumptions."""

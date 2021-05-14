@@ -1,0 +1,27 @@
+NEUT0|"""Apple stock predictions."
+BULL1|Apple trades past $500 as tech giant hits fresh record highs ahead of stock split less than a month after topping $400 per share and days after crossing the $2 trillion level for market value.
+BULL2|Apple is set to open at a fresh record high of more than $500 per share ahead of its four for one stock split on August 31st.
+BULL3|Apple Inc. AAPL get report shares jumped higher Monday, topping the $500 mark for the first time ever as tech stocks continue to lead Wall Street towards fresh record highs just days after crossing the $2 trillion level for market value for the first time in history.
+BULL4|Shares are set for a fresh record high of more than $500 per share heading into the Monday session as the world's most valuable tech company extends its year to date, gain past 70% over the last four quarters.
+BULL5|Apple has generated 6% year on year revenue growth, 12% year on year earnings growth and 24% year on year.
+BULL6|Free cash flow growth.
+BEAR7|Despite iPhone revenue declining 1% year on year in the same.
+NEUT8|Said Morgan Stanley, analyst Katy Huberty, who carries an overweight rating with the $520 price target for the stock.
+BULL9|In our eyes, these results_the strength of Apple's broad ecosystem of products and services.
+NEUT10|I changed from past years where Apple was more reliant on the success of the iPhone to drive growth.
+BULL11|These results also demonstrate the increasing engagement and stickiness of Apple's customer base and as a result, we increasingly believe that Apple should be valued like a technology or consumer platform rather than a more cyclical hardware company, she added.
+BULL12|Apple shares were marked 3.5% higher in early trading Monday to change hands $515.05 each or move that would extend the stocks three month gain to around 61.5% and value the Cupertino, CA based company at around $2.2 trillion.
+NEUT13|Apple now accounts for around 7% of the S&P 500 total market capitalization and is worth more than the combined value of the benchmarks 200.
+BEAR14|Smallest companies, according to Reuters data and reporting the stocks impact on the Dow Jones industrial average, however, is set away next week after the group announced a four for one stock split that will take effect on August 31st Mondays.
+BULL15|Premarket gain for examples adds around 92 points to the Dow, based on its current share price in premarket trading.
+BULL16|A similar gain of $100.80 per share when the split becomes effective on August 31st.
+NEUT17|It had only 23 points to the price weighted average.
+BEAR18|Apple shares past the $400 mark on July 31st after it posted blowout third quarter earnings in the face of Pandemic triggered store closures and supply chain disruptions.
+BULL19|Apple said earnings for the three months ending in June, the group's fiscal third quarter Rose 25.9% from the same period last year to $2.58 per share, well ahead of the $2.05 per share.
+BULL20|St Consensus Forecast Group revenues rose 13.4% to a street beating $59.7 billion, Apple said.
+BULL21|With gains in every geographical region and across all product lines.
+BULL22|IPhone revenues rose 2% from last year to a forecast beating $26.4 billion, despite the COVID-19 headwinds.
+BULL23|Thanks in part to a solid debut for the $399 iPhone SC, which was launched earlier this year.
+BULL24|iPad and iMac sales Meanwhile rose 22% and 31 percent, respectively, as work from Home shift powered computer purchases services revenues were pegged at $13.2 billion, just shy of Apple's recent record and up 15% from last year.
+BEAR25|Apple declined to offer a near term profit forecast given the uncertainty around the world in the ongoing COVID-19 impact.
+BULL26|"It noted that it expects to see continued gains for the iPhone despite likely delays of a few weeks for its iPhone 12 launch in September."""

@@ -1,0 +1,16 @@
+NEUT0|"""Hello and welcome to this technical analysis video here dixon.com."
+NEUT1|It's Wednesday, July the 17th and today will be looking at the Australian dollar versus the US currency in the four hour chart.
+BEAR2|So zooming into the chart now we can see a bearish doji candle stick on the top of this rally and near the previous peak of oh point 7046 which is signaled that the market may come under selling and that is what we have seen later on.
+BEAR3|The price declined and broke below the 20.
+BEAR4|Moving average suggesting more downside.
+BEAR5|The weakness in the RSI and then Mcadie down here are also assigned that the parent may continue to lose strength in the short term in case we close comfortably below the OH point 70 level, then we might see support probably going down to oh point 6965 and oh point 6950 power the 200.
+BEAR6|Moving average happens to be falling lower and below the lower bound of HMO cloud.
+BULL7|The next challenge could emerge around the previous low of 69.
+NEUT8|Nine on the upside, now the 20.
+NEUT9|In May could act as resistance once again before the focus shifts up to the OH point 7046.
+NEUT10|A top.
+BULL11|If the price manages to clear these peaks over here, breaking this range bound, trading and turning the outlook back to bullish rally mix may next head towards the OH point 7068 level, which is the 50% Fibonacci of the steep download from oh Point 7392 two.
+BULL12|Open 6745 and a key barrier in previous years.
+BULL13|After their up we could also look for resistance near oh point 7150.
+NEUT14|So that's all from me.
+BULL15|"Thank you for watching and have a great day."""

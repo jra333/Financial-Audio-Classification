@@ -1,0 +1,38 @@
+NEUT0|"""It's not an exclusive interview."
+NEUT1|Is Daniel Schreiber Lemonade CEO and co-founder?
+BULL2|Thanks so much for joining us.
+BULL3|Good to see Daniel.
+NEUT4|Please be with you.
+NEUT5|Thank you.
+NEUT6|So I guess at essence in this debate that's been spotted the last couple of weeks.
+NEUT7|Is the valuation multiple that your company enjoys and a lot that rests on the level to which people believe you are totally reinventing the insurance market or not?
+NEUT8|What do you say to the critics that say lots of other existing insurance companies are using tech and data and AI in a similar way to you?
+BEAR9|Well, I think those who have been investing in the company and as you said, the stock has been out some 5X since our IPO.
+NEUT10|Believing in the thesis that insurance may be the most destructible industry on the planet.
+NEUT11|And I think there's a bit of pattern recognition going on here.
+NEUT12|You know we saw in recent years we saw how people's writing moved from paper to digital and how music mute from cassettes and CDs to streaming and MP threes and have Phil moved from chemical.
+NEUT13|To digital again, every time an industry saw its substrate shift from analog to digital, you saw a few things happen.
+NEUT14|You saw customers get an amazing experience for a fraction of the cost.
+NEUT15|You saw explosive growth, any sort changing of the guard, and I think there is a case to be made that insurance is going through something similar that an industry that has been.
+NEUT16|Around for hundreds of years and done in a particular way with brokers and with paper is finding it shifting through companies like Lemonade onto a digital substrate and suddenly you see explosive growth.
+NEUT17|You know we just hit a million customers four years after founding it took USAA, which is an incredible company 47 years to get that same milestone.
+NEUT18|And when you see that kind of 10X change, there's a case to be made that this is a change in kind that amount a change in degree that amounts to a change in kind.
+NEUT19|Last week in fact, sorry, 10th of January to be precise.
+NEUT20|Your your co-founder and CEO issued a defense of the stock price in response to the short sellers, then fairly quickly deleted those those tweets.
+NEUT21|Well, why did he delete them?
+NEUT22|So I I think so.
+NEUT23|I wasn't defending the stock price, we actually take very little interest in our day-to-day stock price.
+NEUT24|This is a multi year indeed multi decade journey.
+NEUT25|We're on insurance companies can last for hundreds of years and certainly doing what we're going to try and do is not going to be done in quarters or months.
+NEUT26|So the short term price of the stock was not of interest to him.
+NEUT27|It's not particularly interesting to me either, really, with an eye on the long term when he was taking umbrage at was people who are doing less than deep analysis.
+NEUT28|And in order to drive stock in order to.
+NEUT29|If the short selling in order to drive returns there, there producing reports that he felt weren't weren't compelling.
+BULL30|He deleted it because honestly, we've just found an outpouring of support by investors by the community at large.
+BULL31|And overall, we couldn't be more grateful to the investor.
+BULL32|Community has continuously double down on lemonade believed in the future, and I think with good reason, you know if you look at our most recently published results, you saw that our business doubled in size, even as our losses per dollar sold hard.
+BULL33|You're seeing an acceleration of the business.
+NEUT34|You're seeing customer satisfaction levels, NPS levels that are equivalent to a Tesla on Apple, which is unheard of in insurance.
+NEUT35|So as we see this flywheel spin faster and faster and that feedback loop of more data digital substrate, better consumer experience feed on itself, I think more and more people are believing that there is something worth looking at very seriously.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,56 @@
+NEUT0|"""Are we worrying too much about political risk?"
+NEUT1|Is all the talk about Trump and Brexit and European elections drowning out the quiet improvement in the global economy with me to discuss this?
+NEUT2|Is Valentine van Nieven house and from the Dutch fund NN Investment partners Valentine are investors.
+NEUT3|Do you think getting now used to all this political risk?
+NEUT4|I do think there is.
+NEUT5|There is a sense of getting used to it.
+NEUT6|I mean, we've had we have Brexit.
+NEUT7|We had Trump last year.
+NEUT8|But don't forget we had a whole European crisis before that.
+NEUT9|You know, having a big impact.
+NEUT10|So yes, investors are getting used to it, but still sometimes exaggerating the degree of importance.
+NEUT11|Show me in your first chart how we are kind of missing the point about the global economy.
+NEUT12|Well, you know what I tried to point out here is that in the blue line you see assessments of policy and political uncertainty jump up and down, but it's really only when it's in combination with the deterioration in the underlying economy that becomes a problem for markets.
+BULL13|And if you look more recently you actually see the data surprises have moved up and thereby compensated a lot for the political uncertainty on the back of Trump and Brexit.
+NEUT14|Which didn't translate into economic drama.
+NEUT15|These this would be really more problematic if we were in a recession or getting close to recession, and that there will be a whole different ball game.
+NEUT16|That's the point, you know.
+NEUT17|We've seen that it after Lehman.
+NEUT18|We've seen it in the euro crisis when really, the economies we're heading into a recession and you had a lot of political insurgency.
+NEUT19|That's when markets get concerned.
+NEUT20|OK, chart.
+NEUT21|#2 is about how investors are pricing in political research about this.
+NEUT22|Yeah, because I mean, it doesn't mean that markets are complacent and ignoring the political risks that are out there.
+NEUT23|It's just.
+NEUT24|Other things are more important.
+NEUT25|The global economy is the most important.
+NEUT26|What you see here is that the spread in the blue line.
+BEAR27|Sorry the evolution of Mexican peso Korea, one in a joint index has been very sensitive to the election of Trump, so they weakens a lot went wrong, but it was.
+NEUT28|It was chosen and then came back a little bit little bit because eventually the protectionist measures measures that we feared Trump would install, have not yet been installed, and might not happen.
+NEUT29|So how do we weigh up the underlying strength of the global economy?
+NEUT30|Give us a bit of perspective.
+NEUT31|In your next chart about how good this economy is looking, well I think what is being overlooked sometimes by discussing all this political drama is that the global economy is in its best state in the last 10 years.
+NEUT32|When you look at where unemployment rates are.
+BEAR33|For example in the Red Line, G3 unemployment rates, UKUS Europe and Japan, it's been dressing lower.
+BEAR34|It says its lowest level since 2009.
+BULL35|Also, inflation is finally picking up the level of activity.
+NEUT36|Is all combined.
+BULL37|Clearly the best state of the global economy we've had in the last 10 years, and that's providing a lot of support.
+NEUT38|For risky assets like equities, despite all the talk about protections and this is still a globalized economy, isn't it that it is in more globalized economy than ever?
+NEUT39|And what is really important?
+BEAR40|There obviously is also what is happening to global trade and that is also an element which has been surprisingly weak in recent years.
+NEUT41|We've not seen a lot of business investment and not a lot of global trade.
+BULL42|And now also there we're seeing signs of life grow.
+BULL43|Global trade is jumping up.
+NEUT44|You see it in the red line on the graph, but also in business investment indicators clearly moving up and the last couple of months.
+BULL45|Next to stronger consumption that provides a lot of help for growth in 2017.
+NEUT46|Just finally Valentine.
+NEUT47|Therefore, what is the prospect still of political risk derailing all this great growth?
+BULL48|Well, at least you can say that these solid underpinnings in a global economy require a really strong shock.
+NEUT49|The Dutch economy dash elections would never even if they were different, would never create that shock.
+NEUT50|You need a very strong shock.
+NEUT51|You cannot ignore political risk, but please balance it a bit better well.
+NEUT52|Miss what is actually happening in the economy.
+NEUT53|Valentine even even hide.
+NEUT54|Thank you very Much Ado.
+BULL55|"Thank you."""

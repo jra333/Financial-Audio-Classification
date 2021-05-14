@@ -1,0 +1,18 @@
+NEUT0|"""Joining us now on the phone is Anthony Jacumba, analyst with Loop Capital and answer."
+BEAR1|You have suspended coverage.
+NEUT2|Why is this hard to value in the current environment?
+NEUT3|Will be more specific.
+BEAR4|I dropped coverage and then the reason I dropped coverage is because well, partially because the yeah the fundamentals have completely disconnected from the stock price.
+NEUT5|I mean this is a stock that when I drop coverage my price start with $10 and so the fact that it's trading at these levels to me is nonsensical, quite frankly.
+NEUT6|What are the fundamentals of this business?
+NEUT7|What do you expect will learn tomorrow?
+BULL8|So I think we're going to hear tomorrow that failed trends definitely improved in the fourth quarter, as did profitability, but that was totally to be expected, right?
+NEUT9|We have these new video game consoles, typically the PlayStation Five, the Xbox series X&F that came out in November.
+NEUT10|If GameStop could not make money with new consoles coming out and everyone cooped up in their homes, they were never going to make money.
+BEAR11|But we knew from the holiday sales results at the holiday sales were disappointing.
+BEAR12|I think that games up has lost a bunch of share so.
+BULL13|We will see some improvement, but it doesn't mean that the core underlying fundamentals of business are significantly better, but digital discrimination trend has not gone anywhere.
+BULL14|Anthony, thanks so much for joining us.
+BULL15|We appreciate you helping on the phone with that brief preview for tomorrow's earnings.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

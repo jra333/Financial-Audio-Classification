@@ -1,0 +1,23 @@
+BULL0|"""President Trump over the weekend tweeted that he should be credited with what he called one of the best economies in the history of our country."
+NEUT1|Here for an update on the Trump economy is Michael McKee, he's Bloomberg, International Economics and policy correspondent.
+BULL2|Well, guy said president is presiding over one of the best economies that we have had.
+NEUT3|But does that mean he gets credit or does that mean he is going to be re elected?
+NEUT4|That's a problem that political scientists will debate between now and November of 2020.
+NEUT5|Here are some of the data that we are looking at.
+BULL6|The growth rate for the economy has been strong.
+BEAR7|It's picked up in recent quarters because of the tax cut, but when you put it in perspective, when you look at it over a historical period of time, this has been one of the weakest periods that we have seen.
+BEAR8|Now is that the president's fault we came off of the greatest recession since the Great Depression, and it took a long time to rebuild from that which may not have anything to do with Donald Trump.
+NEUT9|But the feelings of the voters are going to matter.
+NEUT10|Do they really feel this is a strong economy?
+BEAR11|One of the president's arguments is that the unemployment rate is at near record lows and that is true.
+BEAR12|But if you look at the chart, President Obama saw the unemployment fall rate fall further faster than Donald Trump.
+NEUT13|Now the president has been in office a much shorter time than Barack Obama was, so could it keep going?
+BEAR14|It's possible some Fed officials think we could get down to 3/5 or even closer to three.
+BULL15|Maybe that would help the president when it comes time to run for reelection.
+BULL16|Now you can say that the president has had a stronger recovery in his two years than Obama did.
+NEUT17|But Obama of course was coming off of the Great Recession.
+NEUT18|But here's where the spending came for.
+NEUT19|Donald Trump, mostly in government spending.
+NEUT20|Remember that big spending bill for defense exports as people tried to buy stuff ahead of the Trade Wars business at households?
+BEAR21|Still very weak.
+NEUT22|"Does that suggest Americans aren't giving Donald Trump credit?"""

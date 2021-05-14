@@ -1,0 +1,34 @@
+NEUT0|"""Alright, it's that time."
+NEUT1|Let's answer your questions, Jim.
+NEUT2|I'm starting with you and it's from Henry in guess where?
+NEUT3|Philadelphia Kids got horse sense Henry in the hometown.
+NEUT4|By the way, Henry's Henry's youngster.
+NEUT5|I'm a 14 year old stock investor and I want to get into an industrial company.
+NEUT6|What do the traders think about you and P?
+NEUT7|OK, listen me Henry.
+NEUT8|I think that she knows is the best of the cheese steaks and I think that you and P is the best the rails and I think you are dead spot on.
+NEUT9|And I like the way you I like the way you roll and you've got it.
+NEUT10|So let's stick with Union Pacific.
+BULL11|There's a great note today.
+NEUT12|Just raising raising guides I got.
+NEUT13|I gotta tell you there is nothing like a 14 year old kid from Philly who is obviously going to be the richest person in the world right now and by the Sixers, when when when that when those fantastic hedge fund managers?
+NEUT14|Joni yeah.
+NEUT15|Alright love it.
+NEUT16|Thank you for the question Henry.
+BULL17|We really appreciate that.
+NEUT18|Alright Next up Stephanie link.
+NEUT19|Rich in Michigan.
+BEAR20|Sorry bout your basketball team yesterday.
+NEUT21|I'm a long term investor.
+NEUT22|What stocks look promising in cyber security?
+NEUT23|What do you think stuff?
+NEUT24|I own for tonight I like it.
+BULL25|It's a $250 billion total addressable market for the space, so you can't go really wrong, but it's doing a good job and new products, new partnerships and their long term total revenue target is 17% growth with margin expansion in Billings of 5 billion.
+NEUT26|So I like that one a lot.
+NEUT27|OK Joey, do you from rolling in New York?
+NEUT28|Chewy, what do you think?
+NEUT29|What do you like to pop in the stock?
+NEUT30|Love love the pets earnings surprise.
+NEUT31|Profitable surprise here, but I'm playing pause the ETF, PA WZ.
+NEUT32|You get fresh pet Pets at Home Zoetis little bit more diversification.
+NEUT33|"Chewy stories good, but that's the way I prefer to play it."""

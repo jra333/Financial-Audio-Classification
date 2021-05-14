@@ -1,0 +1,10 @@
+BULL0|"""I'm Christy Duffy for smart Trend News, Bloomberg News reported Thursday that Coca Cola, the world's largest beverage maker, plans to buy Russian juice producer OAO Nadon juices to step up its challenge against PepsiCo in the country."
+NEUT1|The acquisition from UK Private equity Fund, Lion Capital needs to be approved by regulators Vladimir Crabs Job, a Moscow based spokesperson for Coca Cola, said by phone today.
+NEUT2|The price of the deal was not disclosed.
+BULL3|Coca Cola is vying with PepsiCo.
+BULL4|To expand, in a market that Euromonitor International estimates was worth $3.2 billion last year, PepsiCo is Russia's largest juice producer with a 30% market share.
+NEUT5|According to Euromonitor, followed by Coca Cola, Hellenic bottling, bottling with 20% share and know Don's market share is 14 1/2 percent.
+NEUT6|I'm Christy Duffy for smart try news.
+NEUT7|For more on that make sure you subscribe to our YouTube channel trade.
+NEUT8|The trend.
+NEUT9|"You can also find more on all those companies on our website and that's www.tradethetrend.com."""

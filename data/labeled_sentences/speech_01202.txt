@@ -1,0 +1,40 @@
+NEUT0|"""So let's talk a little bit about specifically what XL fleet does."
+NEUT1|Obviously I think if we look back from a market standpoint at 2020, it's really been the year of the electric vehicle, least from an investor enthusiasm standpoint.
+NEUT2|You are in this space, but you do things a little bit differently than some of the other EV names that we've gotten familiar with this year that actually build out their own vehicles.
+NEUT3|Talk to us about the business model.
+NEUT4|Yeah, we are a fleet electrification company and we're really working directly with the end customers to come up with the right solutions that meet their needs.
+NEUT5|And that starts with the electric powertrain that's going into these vehicles and our our total focus is on that electric powertrain, and all the controls and software.
+NEUT6|So that's the battery motor inverter controls.
+NEUT7|And that's what we've been selling into the market with our hybrid product.
+NEUT8|So our focus is the electric powertrain portion of the hybrid vehicle and we don't have to deal with all the other challenges of making a vehicle.
+BULL9|There's obviously a tremendous amount of capital needed to do that, so we're very capital efficient.
+NEUT10|And we can use that same supply chain.
+NEUT11|That same technology that we developed to go to a plug in hybrid, which we've already launched, and we're going to our second generation plug in now and will be introducing our all electric products in 2022.
+BULL12|So we have a really good core technology that we can build off of.
+NEUT13|That's a very capital efficient way of investing in commercial vehicle electrification.
+NEUT14|Yeah, I mean, that certainly lays out the timeline there.
+NEUT15|But companies still very small, right?
+NEUT16|At least from a revenue standpoint, I think 2020 forecasted revenue of 21 million, 2020 175,000,000, but then 2024 forecasted one point.
+NEUT17|4 billion.
+NEUT18|How do you get to that number?
+NEUT19|What is your expectation in terms of some of those different levers that you just laid out for growth?
+BULL20|Well, we're growing extremely quickly.
+BEAR21|We're tripling our revenue in the middle of a pandemic, and I think we would have.
+BULL22|We could have done more without the pandemic, so we have a great pipeline going into 2021 and we also have a very good platform to build off of and introduce a lot more technology and product offerings.
+NEUT23|To date, we've raised about 70 million before we had this back transaction, so we had a high growth business influence application off about 70 million, but with this transaction we now have about 350,000,000.
+NEUT24|On the balance sheet as well as the public currency of our stock.
+BULL25|To do really, really accelerate the growth, introduce more products in parallel.
+NEUT26|Develop more products at the same time, so this industry is really taking off and we started, you know, 11 years ago and it definitely was a bit early, but we really saw demand picking up from customers in the 2018-2019 timeframe and then obviously the public markets really picked up on this in the June July timeframe of this year.
+BULL27|So I think we're in a tremendous position to continue the leadership role that we have.
+BULL28|In the US market to also expand internationally so we have international expansion, all electric product.
+NEUT29|Our Excel Grid program which we we launched.
+NEUT30|It's a whole new division.
+NEUT31|We announced that a couple of weeks ago.
+NEUT32|We've got tremendous interest from customers and some really big projects that we're working on so that you're talking about a trillion dollar global industry when you look at the new vehicle procurement in commercial fleet, as well as the energy that those vehicles used, you add in the charging infrastructure.
+NEUT33|And it's just.
+BULL34|Tremendous opportunity and it's just getting started.
+NEUT35|Less than 1% of new vehicles sold in the commercial fleet in the US right now.
+NEUT36|Have any level of electrification were clearly leading shipping hundreds of units per month right now?
+BULL37|So we're in a great position to really expand with this with the market, which is clearly has a lot of demand.
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

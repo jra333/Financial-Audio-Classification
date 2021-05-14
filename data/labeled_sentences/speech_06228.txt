@@ -1,0 +1,29 @@
+NEUT0|"""Investors enjoy this bull market."
+BEAR1|Trouble is coming.
+NEUT2|Hello, I'm Steve Forbes and this is what's ahead.
+BULL3|Will you get the insights you need to help navigate these turbulent times?
+BULL4|The stock market is still assuming that the damage the Biden administration and the Federal Reserve is beginning to inflict on the recovering economy will be limited in coming months.
+NEUT5|That happy assumption will be exploded.
+BEAR6|Congressional Democrats have announced they plan to ram through enormous tax increases that will damage both the economy and the stock market, especially next year.
+BULL7|Moreover, the Fed is on its way to firing up an inflation of a size not seen since the 1970s.
+BULL8|Optimist point to consumers record savings, which will be boosted even more with those $1400 checks coming from Uncle Sam.
+BULL9|All that cash will make for sizzling retail sales and travel outlays that gigantic wave government spending, which will be cascading right into 2022, will keep the economy's engines roaring ahead even if some taxes are increased.
+BEAR10|The Bulls believe any rise in consumer prices will be short lived worries about rising interest rates are overdone.
+NEUT11|They assure us the Federal Reserve will make sure the price of money will stay low with astonishing nonchalance.
+NEUT12|Federal Reserve Chairman Jerome Powell has dismissed any worries about future inflation, implying the Fed can control inflation like a light switch or faucet.
+BEAR13|But unhappy experience shows that inflation, once it gains momentum, is difficult to curb interest rates will rise.
+BEAR14|Our central bank is underestimating the amount of money printing.
+NEUT15|It'll soon be engaging in the Treasury Department will be issuing literally trillions of dollars in bonds to finance Washington's unprecedented peacetime spending.
+NEUT16|Who will buy the bonds?
+NEUT17|Not foreign governments like China or Japan, as was the case years ago, not government agencies.
+NEUT18|Especially Social Security, the days of big Sir plus is there are over not banks which are already loaded with excess reserves and are looking for ways to boost loans to earn money.
+NEUT19|That leaves the Fed to do the heavy lifting, conjuring up money out of thin air on a scale never seen.
+NEUT20|In peacetime, a surefire inflation formula.
+NEUT21|Compounding this mess or those upcoming tax increases on capital gains businesses.
+BEAR22|Higher incomes, gasoline, car mileage, energy, an inheritance is these taxes will be especially damaging to small enterprises.
+NEUT23|The Elizabeth Warren Bernie Sanders wealth Confiscation scheme may also emerge.
+BEAR24|Larry Summers Treasury Secretary under Bill Clinton and Chief economic adviser to Barack Obama, is blasting Biden's policy's here as the most reckless and more than 40 years.
+BULL25|The US economy has fundamental strengths coming out of the pandemic, but it won't be able to withstand the egregious financial and monetary abuse is about to hit it.
+NEUT26|I'm Steve Forbes.
+BULL27|Thanks for listening.
+BULL28|"Do send in your comments and suggestions and look forward to being with you soon again."""

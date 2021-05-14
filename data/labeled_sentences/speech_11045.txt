@@ -1,0 +1,25 @@
+NEUT0|"""Neo stock analysis and predictions, February 26th."
+NEUT1|In today's NEO stock analysis and predictions, an iOS earnings report, what to expect?
+NEUT2|Alright, let's get started.
+NEUT3|An IO is slated to release fourth quarter 2020 results on March 1st after the closing Bell.
+BULL4|The EV maker Maker's Quarterly results are likely to reflect the favorable impact of rising demand for the S6 model.
+NEUT5|The company's 5 Cedar high performance premium smart electric SUV V, which forms a major chunk of the automakers overall deliveries.
+BEAR6|In the last reported quarter, Anio incurred a loss of $0.12 per share on revenues of $666.6 million.
+NEUT7|Cash and cash equivalents totaled $2.8 billion as of September 30th, 2020.
+BEAR8|The company delivered 12,206 vehicles in third quarter 2020, including 8660 S 6 is 3530 S eights and 16 E. C6 is vehicle deliveries skyrocketed 154.3% year over year.
+BULL9|Stabilization of the coronavirus pandemic in China led to high vehicle sales in the third quarter.
+BULL10|Revenues generated from vehicle sales amounted to $628.4 million, representing an uptick of 146.1% from the corresponding quarter of 2019.
+BULL11|Nio strong vehicle delivery count is likely to have driven sales during the to be reported quarter Anio delivered 17,353 vehicles in the December quarter, exceeding the upper end of the guided range and skyrocketing 111% year over year.
+NEUT12|Total fourth quarter 2020 deliveries comprised 7574 S 6 is 4873 S 8 and 4966 is soaring.
+BULL13|Demand for ES6ES-8 and EC6 models is expected to have buoyed the companies.
+NEUT14|Fourth quarter revenues.
+BULL15|Markedly, NIO delivered 7007 vehicles in December alone, setting a new monthly record.
+BULL16|The reported figure reflected a whopping rise of 121% year over year, comprising 2493 S 6 is 2009 esates, the Companies 6 Cedar and seven seater Electric SUV respectively, and 2505 E C6 is 5 seater premium electric coupe SUV V while surging deliveries are likely to have added in iOS top line escalating research and development.
+BULL17|R&D as well as selling general and administration costs have helped operating profits in the December quarter.
+BULL18|In fact, the company's operational inefficiency has been doing great over the last several quarters, a trend that most likely continued in the quarter to be reported as well.
+NEUT19|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT20|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you in your business on the leading edge of NIO stocks and predictions.
+NEUT21|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL22|We'd really appreciate it.
+NEUT23|Are you still watching and want more?
+NEUT24|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

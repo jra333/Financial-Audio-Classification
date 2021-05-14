@@ -1,0 +1,17 @@
+NEUT0|"""Hello everyone and welcome to this technical analysis video here."
+NEUT1|The exam.com is choose the September 24th and today will be looking at the euro versus the British pound.
+BEAR2|So looking at the daily chart we can see that the breach of the 50% Fibonacci of the applet from 8472 point 9323 stretch the six week old downside move towards a four month low of 8785 on Friday and also the price has been pushing efforts to change direction.
+NEUT3|This week the flat 10 consent and.
+BEAR4|And the weakening RSI over here, which remains well under its 50 neutral mark, suggests that the bias is bearish to neutral.
+BEAR5|The fact that we are also located at the lower part of this a descending channel is another discouraging sign, looking for support levels.
+NEUT6|Now if we cross under the 200 day moving average and the 61.8% fibo Nachi for 8796, the focus will reasonably turn to the bottom of this channel currently seen around 8750, which if violated.
+BEAR7|Trigger a sharp downfall towards the area between Oh Point 8675 and oh point 86.
+BULL8|On the flip side, if we run above the middle band of the channel and more importantly close above the 50% Fibonacci, four point 8897, we may likely see a stronger resistance at the top of the channel in case this proves easy to overcome, the pair could rally up to oh point 90 half 50.
+NEUT9|If the 90 mark is breached as well.
+NEUT10|Why slightly higher?
+BEAR11|We also expect the 23.6% Fibonacci four point 9122 to block upside movements.
+BEAR12|Finally, regarding market markets performance over the past three months, the outlook has shifted from neutral to slightly bearish after the break below the 50% Fibonacci.
+BEAR13|Other weakness in the 50 day moving average is more evidence that the risk has turned to the downside in this medium term timeframe.
+NEUT14|So that's all from me.
+NEUT15|Thank you for watching.
+BULL16|"Have a great day."""

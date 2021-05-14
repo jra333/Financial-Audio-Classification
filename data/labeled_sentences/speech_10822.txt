@@ -1,0 +1,42 @@
+NEUT0|"""Bell joins us now."
+NEUT1|Legendary Emerging markets investor mark Mobius.
+NEUT2|He's a founding partner of Mobius Capital Partners.
+NEUT3|Hey Mark, I'm looking at.
+NEUT4|Things change quickly and I'm looking at your notes and in our notes here, we say Mobius recently decided the lows aren't in.
+BEAR5|We haven't hit the absolute bottom yet, which was a change in your perspective, but I look at the data on that and that was on April 14th, so we've got another week under our belt now and we're probably 30% or so off the lows.
+BEAR6|You still think we go back to new lows?
+NEUT7|Not all markets but but most markets have not seen a bottom based on.
+BEAR8|Fundamentals continuing to decline globally because of the virus.
+BULL9|So I think what you've seen is an incredible recovery, and you know if you define a bull market as a 20% rise with in a new bull market.
+BEAR10|But I don't think so because I think at the end of the day of the earnings hit on so many companies around the world, not only in emerging countries, but in developing countries has not really sunk in an once those earnings hits come out, then people will have some second thoughts.
+BULL11|Nevertheless, you know, we've been buying as I mentioned.
+BULL12|A few weeks ago we figured it was a good time to be starting to buy, but reserve some cash outside so that when the market corrects again, we can come in again.
+BEAR13|So I expect another correction because this recovery has been almost too fast, so we gotta keep some powder dry.
+NEUT14|Let's put it that way.
+NEUT15|We always talk about depth of something an and duration.
+BEAR16|It was a one quarter hit.
+NEUT17|I would imagine that multiples could stay.
+NEUT18|You know it could could rise, and you could sort of look beyond that quarter.
+NEUT19|Almost like you know, suddenly we're adding five trillion on.
+BEAR20|We used to think a trillion dollar deficit in a year was bad.
+NEUT21|We had five trillion on to do all these things and it's like, well, it's a one shot deal.
+NEUT22|We will deal with it later.
+NEUT23|So I think you must be.
+NEUT24|At least predicting it's not a one quarter hit to earnings, it's either two quarters 3/4 or.
+NEUT25|Or it takes a long time to even get a little bit back so that it goes out a year.
+NEUT26|'cause if it was just a quarter mark, I would say that that you shouldn't be concerned about what the E is in the equation for where stock prices are.
+BULL27|Exactly, yeah, I agree completely.
+BEAR28|That's why we I really probably underestimating the impact.
+NEUT29|Don't forget a lot of companies going to go under, and I've been telling my Alice is look at the balance sheets very, very carefully.
+NEUT30|Look at the Z score.
+BULL31|Make sure we're in companies that have strong balance sheets because it's going to be tough for recovering from this.
+NEUT32|It's not going to be easy.
+NEUT33|So how many quarters, then, are you an?
+NEUT34|We only get we only get parts of it back in in serial fashion.
+BEAR35|I guess you get you know earnings go down 50% whatever.
+NEUT36|Then we get 30% back then we get you know 35% back.
+NEUT37|Anyway, we only got about 20 seconds left Mark.
+NEUT38|I think we get catch your drift but you figured this is going to be a year at least before things get anywhere close to back.
+NEUT39|I think so.
+BEAR40|I think it's going to be a year because a lot of these countries are looking at extending the lockdowns, so depends on where you are.
+NEUT41|"Of course it varies from one country to another, but yeah, I think at least year."""

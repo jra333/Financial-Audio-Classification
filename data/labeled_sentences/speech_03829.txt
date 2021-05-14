@@ -1,0 +1,25 @@
+NEUT0|"""And you have something interesting on your mind."
+NEUT1|Well, Speaking of happy Friday, you have something interesting in your mind, although ultimately I'm not sure how happy it is, but a bond smile.
+NEUT2|What does that mean?
+NEUT3|And I know it has something maybe to do with risk aversion?
+NEUT4|Yes, this is what we have coined.
+NEUT5|The term of this.
+BEAR6|This air pocket in the Treasury yield curve all the way down to the three year at 1 7/8% and a lot of people think that is a sign that investors think there's a recession.
+BEAR7|We take the view really, that it's really a sign of extremely high risk aversion, which is of course very popular to talk about, and we think, increasingly, that's reflected in this dip in the yield curve because there's so much money in the world.
+BEAR8|A little bit afraid to be in stocks, understandably with, you know, the big correction we had in December.
+NEUT9|Well, what happened last month?
+BEAR10|The big downdraft 6% of SP 500.
+BULL11|But for us this is one of the key sentiments indicators showing a little bit of actual support for the stock market.
+NEUT12|Climbing that wall of worry.
+NEUT13|Very interesting Matt indeed.
+NEUT14|So let's now bring the VIX into it.
+NEUT15|What is the VIX telling you you want to go toward stocks?
+NEUT16|Or do you want to be risk averse there?
+NEUT17|Well Vicks is a little high at 16 but understandable given the seemingly randomness of the market.
+NEUT18|You know you wake up on a Sunday night and there's a presidential tweet about the trade war markets down heavy the next day.
+NEUT19|So we've had these extremely random events, so that's kind of a part of life.
+BEAR20|But the Vicsik 16 backing off slightly today in a quiet market shows somewhat higher.
+NEUT21|The reality is the markets a lot quieter than that, but people just don't buy into a VIX.
+BEAR22|Down at 12, like we had earlier in the year.
+NEUT23|OK, Matt and super quick your trade on Amazon.
+NEUT24|"Amazon take advantage of a Miranda ring stock, big big company, but a lot of headwinds political sell the 1720 strangle out next year in June, $300 in your pocket of big return with the stock range bound."""

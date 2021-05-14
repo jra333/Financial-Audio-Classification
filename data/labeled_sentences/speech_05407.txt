@@ -1,0 +1,46 @@
+NEUT0|"""All right, let's talk politics a little bit."
+NEUT1|Politics on the market.
+NEUT2|You might think you know sort of conventional wisdom, right?
+NEUT3|That the Republican candidate would be better for the stock market Mark Hulbert tells us that might not be the case.
+NEUT4|Let's take the contrarian argument on this one, mark.
+NEUT5|Yeah, I I wrote a column based on the views in this regard above, Norman falls back.
+NEUT6|He's a guy who's been around for decades.
+NEUT7|He used to run something called the Institute for Econometric Research.
+NEUT8|Had a number of different advisory services and he often takes an unconventional view of these things.
+BEAR9|It was something that I had to hold my breath and doing 'cause I got a huge number of negative comments of why I would even write about this in the 1st place.
+NEUT10|People think that you know that you can't even talk about this without being partisan.
+NEUT11|All he's trying to do if I.
+NEUT12|Read him correctly is say hey guys, let's just take a look at that assumption and it turns out that his argument is that even if you believe and there people disagree on this.
+BEAR13|But even if you believe that the Republican agenda will be good for the economy long term, there's a lot of pain that you're going to have to go through.
+NEUT14|1st.
+BEAR15|And indeed, you almost risk going into a Japan like deflation for a long, long time.
+NEUT16|If anything goes wrong in the process.
+NEUT17|So the stock market only looks at several years, if indeed it starts looking at the probability.
+NEUT18|Something like that it could go down a long ways first, even if it eventually starts discounting a much better future.
+NEUT19|And I mean, let's let's break down some of the things he says.
+NEUT20|He talks about taxes, right?
+NEUT21|I mean obviously, Romney talked about lowering taxes.
+NEUT22|Mixed bag there, though it's not such an easy.
+NEUT23|It's not an easy deal.
+NEUT24|Well, that's right.
+NEUT25|He says that, uh, three things cut spending cut taxes and get rid of Ben Bernanke at the Fed.
+NEUT26|Sort of the three pillars of the agenda, the one that is the most positive for stocks is cutting taxes.
+BULL27|'cause that will increase the after tax return for stocks.
+NEUT28|But as you point out, it turns out that you can over exaggerate that because it's only lowering the statutory rate.
+NEUT29|If you look at the statutory rate on corporate taxes, for example, hardly any corporations pay anywhere close to that right now, and so.
+NEUT30|It may not have the impact that on paper it superficially looks like it might have right.
+NEUT31|And I mean Ben Bernanke.
+NEUT32|You know, I can't imagine you could get a central banker would actually be **** ** the banks, so I don't know what getting rid of Ben Bernanke is really going to do.
+NEUT33|Well, that's right, you know.
+NEUT34|Basically, Norm Postbacks comment is that you need to tread carefully on this.
+NEUT35|It's a big gamble.
+NEUT36|Let's say that you make one mistake and you're going through this three point agenda, and there is another financial crisis, and there is a real worry that there's a meltdown.
+NEUT37|Are you willing to create sort of a financial Armageddon in the process of trying to wean the patient off of the addiction to death, which is what many people would say is our economies reflection right now?
+NEUT38|But you know, you can perhaps kill the patient in the process of getting him off his addiction, and that's his worry.
+NEUT39|Yeah, all right.
+NEUT40|We have to leave it there.
+NEUT41|More.
+BULL42|Thank you very much.
+NEUT43|And obviously you know the real contrarian thing is.
+NEUT44|You also didn't say that in Obama election be so great for the stock market either, but that's for another column, mark.
+BULL45|"Thank you very much."""

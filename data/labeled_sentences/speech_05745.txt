@@ -1,0 +1,18 @@
+BEAR0|"""Kelly, a WS, has been seeing a widespread outage for over an hour."
+NEUT1|A WS, of course, is Amazon's massive cloud business that powers many companies, websites and operations at large companies in impacted include NYC Transit, SiriusXM Radio Ring, and Adobe Cloud.
+NEUT2|The list, so Kelly is long and growing.
+BEAR3|The longer that this outage lasts for some, though, like Roku, which is also affected operations, they're still running like streaming, but they may be delayed.
+BEAR4|WS spokesperson tells US quote Kinesis has been experiencing increased error rates this morning in our US East, one region that has impacted some of its own KWS services.
+NEUT5|They're working towards a resolution, and we will certainly bring you any developments as we get them back to you.
+NEUT6|But dear, just to clarify 'cause you showed, for example of a transit.
+NEUT7|Customer there I mean are we talking about this disrupting travel or is this more of a back office issue?
+NEUT8|Yeah, it's unclear at the moment, but it does look like for many of these companies.
+NEUT9|It's more of a back office issue, so as the consumer or user you may not necessarily see it.
+NEUT10|I'm not sure what the case is specifically for NYC Transit, but you can imagine that heading into a holiday weekend.
+BEAR11|This would not be good news, but these outages are not completely uncommon.
+NEUT12|They're usually resolved fairly quickly, but this has been going on for over an hour.
+BEAR13|Wow, I'm getting worse.
+NEUT14|Like you said as it does wow.
+BULL15|OK, sure, thank you.
+NEUT16|Shepard Smith here.
+NEUT17|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,36 @@
+BEAR0|"""Facebook shares down 14 percent, $23.00."
+BEAR1|The stock was as low as 2228.
+BEAR2|This morning, shares are just getting hammered almost relentlessly.
+BEAR3|After yesterday's disappointing earnings and almost bizarre conference call.
+NEUT4|And that's what we're going to focus on right now, 'cause we all know the earnings have disseminated the numbers, but let's see what that conference call at 5:00 PM.
+NEUT5|So I'm here with David Benoit Deal Journal Blogger.
+NEUT6|Who was your liveblogging it?
+NEUT7|On your way, you know I help little bit I threw in a little bit you and me and grocer.
+BEAR8|That was a very strange conference call Ann.
+BEAR9|I don't think investors came away feeling very good about it.
+NEUT10|Yeah, I think in some ways there are kind of two, I think faults here one was.
+NEUT11|I think the analyst just kind of stuck to asking very like questions about how to model the future that the normal investor you know everyday investor.
+NEUT12|Which is what Facebook was all about.
+NEUT13|These big kind of retail investors just no one got an answer out of.
+BULL14|Is this a quarter that you know is going to improve or we're going to see anything in the future?
+NEUT15|We really learned they were really very few, even in tough questions, hard questions.
+NEUT16|I mean nobody came out and said give us an out, give us an outlook, give us guidance, tell us what there were no real numbers for investors to gauge right?
+NEUT17|There weren't even questions like how should we think about revenue in future, which is something you hear a lot where it's kind of like a way an analyst will ask for guidance.
+NEUT18|And executives are usually pretty willing to at least give thoughts about right.
+NEUT19|You know their their emotions about the future right now.
+NEUT20|One thing they did talk about was the user base.
+NEUT21|How many users they have in there it is.
+BULL22|You can see that their overall the monthly active users rose to 955 million daily active users.
+NEUT23|552,000,000 mobile mobile is interesting to keep an eye on that one 543 and you know looked at their mobiles a big deal for them, right?
+BULL24|They were optimistic sounding about mobile but again with no good numbers with no good projections or plans.
+NEUT25|All you got yesterday was Mark Zuckerberg.
+NEUT26|Kind of talking extemporaneously about what they're thinking about, right, exactly, and even kind of a lot of the call and actually kind of a stunning amount of the call was spent talking about this sponsored stories, which is where they sell to GM.
+NEUT27|Well, not to GM here anymore.
+NEUT28|Yeah, they sell to Applebee's in advertisement that shows up in your news feed on your mobile phone.
+NEUT29|It's the only way they can sell an ad on mobile.
+NEUT30|Except that they also kept saying it's very early.
+NEUT31|It's a very small part of our revenue.
+BULL32|It's doing well.
+NEUT33|It's making a million a day, which doesn't sound like that's certainly not, you know, kind of numbers that will get you in 8090% PE ratio or a $90.00.
+BEAR34|They did not do very well yesterday.
+NEUT35|"That conference call notes there first, but not a very good one."""

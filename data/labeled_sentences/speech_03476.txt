@@ -1,0 +1,16 @@
+NEUT0|"""Hi I'm David Gardner and I'm a conscious capitalist."
+NEUT1|I'm the co-founder of The Motley Fool, DC Born and bred and we're doing a series during this special time where we each kind of share out something that we're doing at our business that we feel like is working and then through sharing it with you.
+NEUT2|Maybe you do it at your business and everything would be better for your employees and I hope you do the same back to me.
+NEUT3|So we're doing 2 quick things.
+NEUT4|I want to share at The Motley Fool.
+NEUT5|The first is that we have a volunteer team that's doing checkins.
+BEAR6|With every single one of our employees, so we have about 450 employees of The Motley Fool, and every single one of them has gotten multiple checkins over the course of the last 48 weeks.
+NEUT7|Just seeing how they're doing, and it seems like such a simple thing, but clearly, and I'm an employee myself, I feel valued and I recognize the benefits of hearing and checking in with all of our employees, so that's a simple thing that a lot of us can do.
+NEUT8|A second thing is we've always done Pizza Day, the final Friday of every month at The Motley Fool, and while it's not possible to have pizzas at Fool HQ these days.
+NEUT9|It has been possible to have a lottery each month with 50 winners who get a pizza delivered as a surprise to their door that day.
+NEUT10|Well, are you a business in the greater DMV and are you doing something that you'd like to share out?
+BULL11|We'd love to hear from you.
+NEUT12|Conscious capitalism, DC.
+NEUT13|Make a video like this one.
+NEUT14|Send it our way.
+BULL15|"Thanks and full on."""

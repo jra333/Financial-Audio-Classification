@@ -1,0 +1,43 @@
+NEUT0|"""What's the window for an upgrade opportunity?"
+NEUT1|How do you define that?
+NEUT2|Yeah, I would define that as loser customers that based on our analysis have not upgraded 3 1/2 years.
+NEUT3|Now if I go back to the last two cycles, that was about 25 to 28% in the install base.
+NEUT4|Now it's 40%.
+NEUT5|And that's really why the pent up demand there over the next 12 months with this 5G phone.
+NEUT6|I view it as going into the Cupertino Hall themes is super cycle.
+NEUT7|Some people might say damn, it's like buying a Ferrari and over only driving it around Manhattan.
+NEUT8|I understand lots of people are stupid enough to do that, but if you have a 5G phone that can't access 5G, what's the point down?
+NEUT9|Yeah, I'm looking into that point.
+NEUT10|I would view it as over the next 369 months.
+BULL11|5G is is on its way to get into primetime special in the US.
+NEUT12|And obviously Verizon and everything I've done the millimeter wave and from an install based perspective it's the most transformation.
+BULL13|O'll technology upgrade that we've seen from Apple since 2014 with the iconic iPhone 6.
+BULL14|With that pent up demand, I think this is enough potentially.
+BULL15|To exceed that peak year, 231 million iPhone units.
+NEUT16|And if that does happen, well, we're looking a year from their $175 stock.
+NEUT17|Dan, I know that 30 days isn't a big deal, but the launch of this phone is a month later, typically to what we would expect going into the holiday season.
+NEUT18|What does that mean for where you think these numbers will fall?
+NEUT19|Yeah, obviously it moves it out a bit, but I think the key here the line in the sand is ahead of holiday season going into holiday season into next year.
+BULL20|Of course, there's still some supply issues coming out of Asia, but if I look at based on our checks, we'd seen unit in terms of pent up demand as suppliers grown up about 10 million, you know, called almost 15% over the last 6 to 8 weeks.
+BULL21|That's a positive T label.
+NEUT22|See new and Apple ports numbers later this month, but it all comes down to China.
+NEUT23|China is the wind pin of growth.
+NEUT24|For this to be a super cycle.
+NEUT25|What happened yesterday with China?
+NEUT26|Dan with the streaming issues?
+NEUT27|What was your read on that?
+NEUT28|I mean my read that was, you know, a retaliatory issue that we started during the streaming a live webcast you saw throughout China.
+BEAR29|Many of the social media platforms took that down and I think that's also why the stock acted negative.
+NEUT30|Given this cold tech war between US and China where Apple stands, I view is more of a noisemaker, although it does speak to the tensions, it all comes down to 60 to 70 million iPhones.
+NEUT31|Or when they're up for the opportunity in China.
+NEUT32|And I think that's going to get some rain right manually to wrap things up down, if I might.
+NEUT33|On the multiple you and I have talked many times the importance of China.
+NEUT34|We've talked about the importance of the services business and now it just feels like we're going old school again.
+NEUT35|The re rating is about the hardware down.
+NEUT36|Can you speak to that?
+NEUT37|I think it's a great point because for now the hearts and lungs, the key to the upgrade cycle, is putting that iron fence around the install base.
+NEUT38|That's what iPhone 12 is going to do in this super cycle.
+NEUT39|Then the next leg, the 1/2 punch, is the further monetization of data service aside, but at least over the next 369 months we get back to old school in terms of the Super cycle.
+NEUT40|And if this is what I believe it can be, I think it's amends really.
+NEUT41|The next 2-3 years of growth for Apple.
+BEAR42|"Despite you know the heat is continuing the heat."""

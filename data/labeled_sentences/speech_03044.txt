@@ -1,0 +1,12 @@
+NEUT0|"""Normally it's 18,000 per night."
+NEUT1|It's a 6000 square foot residence.
+NEUT2|There's many Art Deco influences throughout, so the billiards room has a Persian influence with stained glass and wood tiles.
+NEUT3|The dining room is a bit more contemporary in the library, of course, is quite spectacular.
+BULL4|In addition, we've had great VIP stayed here from John F Kennedy to Mick Jagger to Mikael.
+NEUT5|Gorbachev, they actually filmed the rock here on the balcony when Sean Connery said he wants to get his haircut at the Fairmont suite.
+NEUT6|They brought him here and they filmed here on the patio so it's going to include six tickets to some of the most highly sought after VIP parties here in the city for the days leading up.
+NEUT7|$150,000 will go to the 50 fund which is a charity that goes to fight poverty here in San Francisco.
+NEUT8|It also includes transportation in a luxury coach down to the game in the coach will.
+NEUT9|Also have a Fairmont bartender and chef so it really will be a tailgate party on wheels once you arrive at the game.
+NEUT10|Will have 22 tickets for Gold Suite at the stadium so it really will be the luxury VIP experience for the game.
+BULL11|"I think we're really convinced that someone is going to take us up on it and buy the suite."""

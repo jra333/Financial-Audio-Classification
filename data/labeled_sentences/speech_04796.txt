@@ -1,0 +1,20 @@
+NEUT0|"""Well, I would say one thing up front."
+NEUT1|I think some of the those executions like the OECD you know that they need some time off to update.
+BULL2|So I think what we have been doing of course taking into account the very latest news on the vaccines and that is, you know, for the last few weeks basically finding out that we have efficacy rates are much higher than was expected.
+NEUT3|You know over 90% rather than maybe you know 60 or So what people expected and that seems to move everything a bit forward with regard to.
+BULL4|When you protect vulnerable populations and by what time do you reach something akin to herd immunity, meaning you can then open the economies, the return to normalcy and that is, in our view, a big boost to growth next year starting from the second quarter or so.
+NEUT5|I've got a question about the inflation outlook because there is a debate going on amongst economists about what all this means for the inflationary outlook come 2021.
+BEAR6|There's a case for things being deflationary and remaining in a disinflationary trends because of the excess capacity in the system.
+NEUT7|But then equally there's another side saying that all of this pent up demand the huge amount of excess savings in the system.
+BULL8|Household savings at multi year highs could bode well for inflationary dynamics come 2021.
+NEUT9|Where do you stand on that debate?
+NEUT10|Well, you know both points are actually true, and this is probably why you end up somewhere in the middle in in the following sense that labor markets are recovering.
+NEUT11|But you know, we still have very high unemployment, so there's undeniably a lot of slack in the system, and that means that you know when you comes to core inflation in the underlying drivers you know through wage, wage costs, etc.
+NEUT12|That was unlikely to happen in the short run, meaning even next year it will take several years really to come back.
+NEUT13|On the other hand, what we've already seen in some markets like the US is.
+BEAR14|Did you see some goods inflation?
+NEUT15|If a lot of people suddenly by certain goods you know you see impact in that regard.
+BULL16|And we do think we're going to have a gradual improvement of inflation, but not enough.
+NEUT17|And I think that is crucial, not enough to bring central banks on the plan with regard to tightening.
+NEUT18|And I think This is why markets are quite optimistic, and rightly so that you have an environment whereby growth comes back, inflation stays relatively muted and you have central banks continuing.
+BULL19|"To support the recovery and and tightening is still far out."""

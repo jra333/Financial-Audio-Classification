@@ -1,0 +1,9 @@
+NEUT0|"""From FX Empire, this is Chris taking a look at the British Pound Japanese Yen."
+BEAR1|You can see that we pulled bank a bit during the trading session.
+BEAR2|Little bit overbought condition, but I think what we're seeing here is a potential kind of profit taking situation.
+NEUT3|I don't necessarily think that you should be a seller, but I think 150 is probably going to be support.
+BULL4|This area here was previous resistance, so that could also be support.
+NEUT5|No interest in shorting.
+NEUT6|Really not until we break down below 145 and I just don't see that happening anytime soon.
+NEUT7|So let this thing pull back off a little bit of value in the next few sessions.
+BULL8|"I anticipate we'll probably see a turn around."""

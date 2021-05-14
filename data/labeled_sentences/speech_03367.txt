@@ -1,0 +1,22 @@
+BEAR0|"""We read the distressing numbers that you provided in your note."
+NEUT1|There's a wonderful story in this morning's depressing story in this morning's New York Times, by Ron Lieber, talking about the disparities in income between African American households and white or non African American households.
+BEAR2|Even more alarming, I think, is the disparity in wealth net worth?
+NEUT3|What specifically could the Fed do to address or redress these discrepancies?
+NEUT4|Yeah, so the most obvious is there how they conduct monetary policy.
+NEUT5|And so today when I was listening to the to the announcement of what they're going to do and their forecast for the future.
+NEUT6|Basically what I'm hearing is from their standpoint, this is.
+NEUT7|This is what they're setting.
+NEUT8|The speed limit of the economy to be, and so on.
+BULL9|One hand, it was positive to hear that there that they're aiming to keep rates low.
+BULL10|Zero to the top 25% you know through 2022 and you know and that will allow communities that need to be billed that were to say, hit by alluding that they can hopefully get, you know, borrow at cheaper rates.
+NEUT11|It also just allows the economy to run for longer pace, because I mean focusing on the unemployment rate is great, but we also have to focus on the employment population ratio.
+NEUT12|50% for women, women of color, even white women.
+BEAR13|But it fell below 50% or so.
+NEUT14|So letting the economy run with these low interest rates and while in Bob being data dependent and looking for signs of inflation, the longer we can do that, the longer we can.
+NEUT15|That's what the Fed can do to help to ensure a balanced recovery of recovery that all Americans experience and and a recovery where Blacks don't have to wait ten years before their incomes.
+NEUT16|You know, we, we retouch their their their incomes during the at the peak of the peak or the start of the Great Recession and then the second thing that they can do is on the lending market, right?
+BULL17|Is providing providing lower cost loans and opportunities for Hbcu's or or even land grant institution states that needs that they have to do deferred maintenance because they've been they've been pushed back due to the pandemic, so it's so it's one.
+NEUT18|It's the monetary policy.
+NEUT19|Calling us what that speed is going to be, and if you look at that 4% unemployment rate, the 8% unemployment rate forecast.
+NEUT20|If you go by the sort of rules of thumb that the black unemployment rate typically isn't around 2:00 to 1:00 ratio, you're looking at then possibly in an 8% unemployment rate it a ten 1211% unemployment rate for African Americans going forward as as the economy recovers.
+NEUT21|"But again though, focus on this focus on that employment population ratio, 'cause we gotta get back to work."""

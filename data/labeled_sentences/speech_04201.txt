@@ -1,0 +1,32 @@
+NEUT0|"""Hello and welcome to the ticker on trend prediction engine."
+NEUT1|The only place where you can get the daily odds of success before you trade you might be wondering what are the odds of success.
+NEUT2|Aria uses a proprietary trend analysis algorithm to make signals.
+NEUT3|Odds of success is the AI's level of confidence.
+NEUT4|The stock will go up or down.
+NEUT5|Take her on is an SEC registered financial advisor with experts ranging from CNN money commentators to veteran independent traders.
+NEUT6|So what is the trend prediction engine?
+NEUT7|The trend prediction engine is stick around proprietary.
+NEUT8|A I power technology which analyzes and identifies stock trends in real time.
+NEUT9|Unlike other sites ticker on gives you the data to verify your trading strategies.
+NEUT10|The trend prediction engine can be accessed from the main page and is free to try for 30 days.
+NEUT11|The best way to get there is to simply click on artificial and human intelligence and select the trend prediction engine under the end of Day tab when you first sign up for the trend prediction engine you'll see a few options.
+NEUT12|Instant search.
+NEUT13|Advanced search.
+NEUT14|Daily alerts, bookmark trends, trend prediction stats and subscription info.
+NEUT15|Instant Search is the most basic you type.
+NEUT16|In this talk you're interested in an array.
+NEUT17|I will tell you the odds of success for that stock to be bullish, bearish, or neutral.
+NEUT18|You can set the confidence level, which is also known as the odds of success.
+NEUT19|Advanced Search is where it gets more interesting.
+NEUT20|Here you can find stocks, ETF's, mutual funds, currencies, crypto's or penny stocks.
+NEUT21|For this video we will look at stocks.
+NEUT22|Now that we've selected our medium, let's set the confidence level.
+BULL23|60% is a decent confidence level, but we want to make our odds even better.
+NEUT24|So let's go up to 70%.
+NEUT25|Now let's select when we want to see movement, and whether we want stocks going up or down.
+NEUT26|Now that we have the results, we can look through them and find what stocks we like.
+NEUT27|We can select the stocks were interested in, and find out all the recent news about them.
+NEUT28|We can also look at the summaries for them or look at them in the Screener if we want to say the stocks for later date, we can add them to the bookmarks.
+NEUT29|If you ever need more information, click on trend prediction types and stats to keep track of your subscription.
+NEUT30|Click subscription info.
+NEUT31|"Thank you for watching and please feel free to contact us if you have any questions."""

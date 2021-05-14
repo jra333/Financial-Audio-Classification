@@ -1,0 +1,24 @@
+BEAR0|"""Pfizer shares came under pressure late in yesterday's trading session after a WSJ Wall Street Journal report shed light on the company's shifting vaccine forecast."
+NEUT1|Meg Tirrell, here to set the record straight.
+NEUT2|Anybody who's confused needs to listen in, maybe even DVR it and watch it again.
+NEUT3|Hi, Meg.
+NEUT4|Good Morning Joe.
+NEUT5|So these headlines came across yesterday, essentially explaining what was a change that Pfizer had made in its projections for 2020.
+NEUT6|Supply of its COVID-19 vaccine at least a month ago.
+NEUT7|So this was a change that we observed between September and November in projecting 1st 100,000,000 doses being available by the end of 2020 of Pfizer and Biontech's vaccine.
+BEAR8|And then in November they cut that down to 50 million, and that really came.
+NEUT9|We think in a release on November 9th when they presented their 90% efficacy results.
+NEUT10|They are still projecting 1.3 billion doses of vaccine being available globally next year.
+BEAR11|Now Pfizer telling us there were a few factors that impacted the number of doses available this year.
+BULL12|They said they are scaling up this vaccine at a pace that's unprecedented.
+NEUT13|They noted that the scale up of the raw material supply chain took longer than expected and then also their clinical trial read out later than they had initially projected, requiring it to focus additional efforts on clinical trial production.
+BULL14|They do say quote modifications to our full scale production lines in the US and Europe are now complete.
+NEUT15|And finished doses are being made at a rapid pace.
+BULL16|We are confident in our ability to supply at a pace of approximately 1.3 billion doses by the end of 2021.
+NEUT17|They also did confirm fifty million doses available in 2020.
+NEUT18|I also checked in with Monsef Slowy, the Chief advisor to Operation Warp Speed to see if he had heard of any new changes to the projections they've been giving most recently.
+NEUT19|And he said quote there is no change to their commitments to the US, and I haven't been informed of any issues.
+NEUT20|So guys, this is really a story that explained why there was that change between September and November.
+NEUT21|But in terms of all of the projections that are going out now for how much vaccine will be initially available from Pfizer, there is no change.
+NEUT22|Shepard Smith here.
+NEUT23|"Thanks for watching CNBC on YouTube."""

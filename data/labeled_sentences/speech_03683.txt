@@ -1,0 +1,38 @@
+NEUT0|"""Joanna so Tim Cook has talked about privacy being a generational bedrock for a long time."
+NEUT1|Do you think at this point that is stopped being sort of a marketing line and they are now voting with their feet?
+NEUT2|I think it's both.
+NEUT3|I definitely think it's both one of the things they introduced today or updated today was this day in a life of your privacy or in day in the life of your data.
+NEUT4|And it Maps out so well how these apps are taking our data and just tracking us in many ways that many consumers were not aware of.
+NEUT5|But it also then recommends a lot of Apple products that are safer and are more respectful of our privacy, which is absolutely true, but is a big marketing point for Apple products.
+NEUT6|Huh?
+NEUT7|Interesting sure.
+NEUT8|How does it move the needle overall and how we talk about privacy within tech at large?
+NEUT9|For example, I've seen some reporting that suggests that Android tracks you at a multiple rate of some Apple apps, but until they move, do we actually get anywhere as a whole?
+NEUT10|And do you think they followed to some degree?
+NEUT11|Look, I mean what Apple does is absolutely industry-leading that they may only have half the operating system smartphone operating system market share in the United States.
+NEUT12|But it's the most important half an I'll give Apple credit for, basically saying that our privacy status quo is broken, that this habit that everyone has gotten into of following us everywhere we go online and often in the real world.
+NEUT13|To it, it's no longer OK. And, you know, credit to them for trying to make people.
+NEUT14|More aware of what's happening, even if people feel intuitively that something is amiss that they're being tracked, Apple deserves some credit for kind of laying out the details.
+NEUT15|And as Joanna said, right.
+BULL16|There's also a business benefit to Apple from doing this to surpass credit plus self interest.
+NEUT17|Yeah, you guys are putting it kind of generously schira you say there's a business incentive, Joanna, he's called it a marketing point.
+NEUT18|Some might just call it straight up hypocrisy here, right?
+NEUT19|Let's not forget about the 8 to $12 billion a year that Apple gets from Google.
+NEUT20|And This is Money derived from exactly the kind of advertising practice that Tim Cook is speaking out against.
+NEUT21|So Joanna paint that side of this argument for us, and I know we can give Apple some credit, but.
+NEUT22|It's really still sort of using that data for its own benefit too.
+NEUT23|It is an.
+NEUT24|There's actually no saying that this won't hit that side of the business, right?
+NEUT25|I mean, the fact is they do have this partnership with Google.
+NEUT26|They do that search is powered by Google on the iPhone, though I really do think that there was going to be a loosening of that in the next number of software versions.
+BEAR27|I just, I just think that that's a distance that's going to happen, but this is going to hurt that side of the business.
+BEAR28|This is going to hurt the ad tech side of the business, and whether Apple actually benefits directly from that?
+NEUT29|I mean, there's that remains to be seen.
+NEUT30|But either way, I think Apple understands and.
+NEUT31|All of the major tech players understand that this is a hit, but I also don't think that these most of these companies are betting that this is it right?
+NEUT32|Like to me, this is one step.
+NEUT33|It's whack a mole fight in terms of privacy, we've seen this for a number of years, whether it be web cookies.
+NEUT34|Will there be other types of tracking Apple or or the privacy tools?
+NEUT35|Try to clamp that down and then they become other ways of tracking us that become other ways of getting user data to push those ads, or those personalized ads.
+NEUT36|Shepard Smith here.
+NEUT37|"Thanks for watching CNBC on YouTube."""

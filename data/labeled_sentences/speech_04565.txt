@@ -1,0 +1,17 @@
+BULL0|"""Welcome back to squawk."
+NEUT1|We do have some breaking news this morning now from the Justice Department and Big Trunk.
+NEUT2|Big tech companies need to be taking note.
+NEUT3|Elon Movie joins us with the details Elon.
+NEUT4|Well, Andrew, the Wall Street Journal is reporting that the Department of Justice is preparing proposed legislation that would remove the liability protections that tech companies have on their platforms if they are facilitating or soliciting content that violates the law.
+NEUT5|That includes online scams, trafficking, illicit drugs.
+NEUT6|It would also remove their liability shield if they're involved in Child Exploitation, ****** abuse, terrorism or cyber stalking.
+NEUT7|And this is really.
+NEUT8|Sort of the culmination of an effort that Attorney General Barr began earlier this year during a forum on Child Exploitation, and he talked about the concerns that he had that essentially the Department was unable to go after bad guys on these platforms, and that they were essentially giving over their ability to protect Americans to a profit seeking firms.
+BEAR9|He said that some of these firms are purposefully blinding themselves to illegal conduct.
+NEUT10|On their services and that the Department of Justice will be taking steps in order to try to curtail that now it's important to know that obviously, the Justice Department cannot unilaterally do this.
+NEUT11|This is something that would require approval from Congress and the Republicans in Congress have proposed some similar ideas.
+BEAR12|It's likely that he could get some backing from someone like a Senator Lindsey Graham or Senator Marsha Blackburn, who have also expressed concerns.
+NEUT13|About some of the content on these platforms, particularly from the Child Exploitation angles.
+NEUT14|So what we're seeing here is the Department of Justice ramping up the fight against big tech and raising this in the framework of a national security or law enforcement concern.
+NEUT15|Whereas the White House had previously brought up these issues as potentially bias conservative bias against Conservatives, they are now putting this in a different framework in one.
+BULL16|"That might gain a little bit more traction on Capitol Hill."""

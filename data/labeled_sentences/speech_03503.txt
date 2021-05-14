@@ -1,0 +1,52 @@
+NEUT0|"""Jeff, tell us about General Motors record year, last year and earnings record profit of 7.6 billion."
+NEUT1|That's huge for this company.
+NEUT2|Remember they went they along with Chrysler went into bankruptcy in 2009, got bailed out by the US government, had to rebuild themselves and already $7.6 billion profit for 2011 and GMA 7.2 billion in the US alone last year.
+NEUT3|Wow, that's that's pretty good good, yeah, but it's not all.
+NEUT4|It's not all champagne and roses, right?
+BEAR5|I mean in Europe they've got a lot of big problems.
+NEUT6|It turns out in South America there also were not profitable, which I don't know if that was a surprise surprise to me.
+NEUT7|But the Europe situation needs to be resolved, right?
+NEUT8|They need to make some big decisions there.
+BEAR9|I don't know if the numbers though were any worse than expected this morning, but in general there are problems in Europe, right?
+NEUT10|Exactly, I mean, that's where most of the conference call is now.
+NEUT11|Focusing on is that they need to really do some heavy restructuring in Europe and try and deal with the problems over there.
+NEUT12|Remember, they decided to hang on to Opal after trying to sell it at one point.
+BEAR13|So what we're hearing now on the call is that they're going to be talking to unions over there trying to find ways to cut capacity to reduce costs.
+NEUT14|So they yeah, they're not out of the Woods yet by any stretch, and Europe couldn't really dragonmount cheer.
+NEUT15|Now you know Jeff.
+NEUT16|I mean look, you alluded to it before.
+NEUT17|This is a company that went into bankruptcy a couple of years ago.
+NEUT18|Came out of that a smaller company.
+BEAR19|They shed a lot of brands, they lost a lot of work.
+NEUT20|I mean there physically, a smaller company.
+NEUT21|Why are they so profitable now?
+NEUT22|What's driving?
+NEUT23|Are they selling more cars?
+BULL24|They are selling more cars, but most importantly is they got rid of a lot of the costs that were dragging them down.
+NEUT25|Remember they moved a lot of their retiree costs off the books and those retiree health care costs usually took money right off the top of any car they sold.
+BULL26|So moving that off the books, closing dealerships, you know increasing the profitability while cutting some of these extra costs that were dragging them down is really kind of giving them the ability to start filing away some cash.
+NEUT27|Now the question is can they get up on there?
+NEUT28|Eat here and get running in all parts of the world.
+NEUT29|As you can see they're doing it in the US but Europe.
+NEUT30|Yes, Latin America, which was kind of a surprise.
+NEUT31|You still need to get going.
+NEUT32|Check the stock price is having a nice game that we showed the chart earlier.
+BEAR33|It's up about 4% before the market opened though shortly after the numbers came out it was down a little bit.
+NEUT34|Two or three percent.
+NEUT35|What accounts for the turn around?
+NEUT36|What are people talking about in the market?
+BEAR37|I really think that it's this pressure that GM is kind of calling out a 911 on its European operations and is going to deal with it pretty quickly here.
+NEUT38|I mean, the GMC CFO saying we gotta get in there.
+NEUT39|We got to make changes now right away and the fact that they are talking to unions.
+NEUT40|Is a big deal right there.
+BEAR41|So and then we had yesterday too that GM is not is going to end pension payments to some of its salaried employees here in the states, so that's all kind of playing into this fact that GM is kind of taking these things serious now and they're going after it alright quickly.
+NEUT42|Jeff, what do?
+NEUT43|What is the company looking for in 2012?
+NEUT44|I haven't heard any forecasts of as yet, so we're still waiting to hear on that, and that could be coming out from the call still today.
+BULL45|So, but profit is still going to continue.
+BEAR46|It's whether or not how much Europe is going to drag them down and remember, Europe is still going through its own economic problems over there, so whether or not that continues to GM further back is a big question.
+NEUT47|But I say all that to and remember it.
+NEUT48|GM, Chrysler, Ford.
+NEUT49|All this is going to play in also.
+NEUT50|Into the Republican primary, we have the candidates here in Michigan today.
+NEUT51|"So interesting."""

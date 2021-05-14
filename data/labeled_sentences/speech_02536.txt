@@ -1,0 +1,13 @@
+BULL0|"""Hello everyone."
+NEUT1|Before moving onto the video, we ask you to support us and subscribe to our channel please.
+BULL2|Best performing the in cryptocurrency doge coin has surged again in the past 24 hours, touching 0.084 dollars and potentially forming a double top in the short term, it seems that the digital asset is poised for a short term correction before another potential leg up.
+BULL3|On the one hour and 4 hour charts, the TD sequential indicator has just presented to sell signals which had a lot of credence to the Bears.
+BULL4|Additionally, Doge coin price has topped out at around 0.084 dollars again, which is a critical resistance barrier.
+BEAR5|On the four hour chart, Doge got rejected several times in the past 24 hours from the resistance level at 0.084 dollars and can easily dive towards six cents, which is the 26 Emma support level.
+BEAR6|The social volume of doge coin is spiking again, which is usually a good indicator of upcoming corrections.
+BULL7|This adds even more credence to the bearish outlook.
+BULL8|However, since Tesla announced the purchase of $1.5 million worth of Bitcoin and potentially other digital assets in the future, Doge Bulls have a lot of momentum.
+BEAR9|Climbing above the resistance level at 0.084 dollars would be a massive breakout from an ascending triangle on the four hour chart with a price target of 0.147 dollars.
+NEUT10|Subscribe to our channel and open notifications to learn more about gold dollar, Euro commodities.
+NEUT11|Bitcoin altcoin crypto currencies and other investment tools.
+BULL12|"Have a nice day and I wish you prosperous days."""

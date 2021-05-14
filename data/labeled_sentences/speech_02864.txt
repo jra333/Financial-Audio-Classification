@@ -1,0 +1,23 @@
+NEUT0|"""Live from the world's capital markets."
+NEUT1|Here are the latest financial headlines brought to you by Europe FX.
+NEUT2|Good morning and thank you for joining our daily Outlook and today will cover the changes in the Australian dollar and U.S. dollar pair.
+NEUT3|Greg will be sharing insights from our trading desk.
+BULL4|The Aussie dollar pair has added two point 4% in the last three sessions.
+BULL5|The Arosi has shot up into positive territory.
+BEAR6|The euro dollar pair has fallen .2% in the last session.
+BEAR7|Stochastic is losing steam and is now giving a negative signal.
+BEAR8|Facebook stock has lost one point 3% in the last session.
+BEAR9|This stochastic RSI transitioned into the oversold zone.
+BEAR10|The price of crude oil has fallen 3.2% in the last session.
+BEAR11|The ADX has receded into the negative zone.
+NEUT12|Coming up, today's major financial news.
+BEAR13|Oil prices fell 2% despite a record deal among oil producers to cut the rapid rise in supply.
+BULL14|The Sterling strengthened after Hawaii warned the UK of making a U turn on the 5G technology implementation plans.
+NEUT15|The Japanese yen may rise if the IMF's report on the virus hit global economy, sours risk appetite and now let's review some of today's World Economic events.
+NEUT16|The US, NFIB small business optimism will be released at 1100 GMT.
+BULL17|The Australian nabz business confidence at 2:30 GMT.
+NEUT18|The Australian Nabz business survey at 2:30 GMT.
+NEUT19|the US Export price Index at 1330 GMT.
+NEUT20|the US import price Index at 1330 GMT and the US Redbook had 1355 GMT.
+BULL21|We hope that you've enjoyed today's market outlook on behalf of all of us.
+BULL22|"Here we wish you a productive trading day."""

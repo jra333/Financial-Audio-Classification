@@ -1,0 +1,22 @@
+NEUT0|"""Tesla just out with production and delivery numbers for the first quarter and Phillip Bo joins us."
+NEUT1|Now with this breaking news, Phil.
+BULL2|Andrew, the numbers of for deliveries for Tesla in the first quarter, far exceeding expectations, the company delivering just under 100 and 85,000 vehicles now.
+NEUT3|Remember, that's not just in the United States, that's worldwide, so global sales for the first quarter of 100 and 84,880 vehicles.
+BULL4|That's an increase of 109% compared to the first quarter of last year.
+NEUT5|The consensus, by the way, was for deliveries of 174 thousand.
+NEUT6|The overwhelming majority of these vehicles.
+NEUT7|The Model 3 and the Model Y.
+NEUT8|They don't break it down by country in terms of how many were delivered in the US.
+NEUT9|How many in China or how many in a region like Europe.
+BULL10|But they do note that there was strong reception to the Model Y in China that should not be a surprise as they have ramped up production in China.
+BULL11|We have seen sales and deliveries increase there.
+NEUT12|The big question now what happens to the consensus estimate for full year deliveries?
+NEUT13|It currently stands at about 831 thousand.
+NEUT14|We do not have an official guidance from Tesla at this point.
+NEUT15|Will that change when they give their Q1 earnings report?
+NEUT16|Will they say look, we expect to deliver 900,000 vehicles this year.
+BULL17|Some have suggested a million vehicles this year, but make no mistake, this Q1 delivery number much stronger than expected.
+NEUT18|Again, Tesla delivering just under 100 and 85,000 vehicles in the first quarter.
+NEUT19|The consensus estimate was for 174 thousand vehicles to be delivered.
+NEUT20|Shepard Smith here.
+NEUT21|"Thanks for watching CNBC on YouTube."""

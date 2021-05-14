@@ -1,0 +1,35 @@
+BULL0|"""Hello ladies and gentlemen Davis here Hope you're doing well."
+BULL1|Hope you're staying safe out there in this crazy market on January 29377 calls.
+NEUT2|What I went with today.
+NEUT3|This is a one minute chart now.
+NEUT4|I always trade off the five minute chart.
+NEUT5|I don't bother looking at a million charts to make one tray in order to best teach this.
+NEUT6|Now I need one minute chart and the reason for that is fairly simple.
+NEUT7|The exponential moving average lines.
+NEUT8|I use three an 8 exponential moving average lines.
+NEUT9|Those are weighted toward recent price action so they're going to move around all the time.
+BEAR10|And the reason I went with calls today, as wild as this market is, you know, markets are up about 1% right now, but they might close down 2%.
+NEUT11|Who knows, we'll find out, but you're going to see this candle right at the open.
+NEUT12|This was taking place on a 5 minute candle too, but do you see this long tail and increasing buying volume right off of 376?
+NEUT13|That's a strike price or a mental support level.
+NEUT14|So I had that to work with at the opening Bell.
+NEUT15|Then we start seeing.
+BULL16|Increasing bind volume.
+BULL17|I had three and 10 exponential moving average line crossover on my chart, which as I've mentioned in previous videos is a sign of possible bullish things to come.
+NEUT18|So I bought calls.
+BULL19|We had this pre market high here which I saw as a resistance level.
+NEUT20|I wanted to sell to close my calls in a manner that I wasn't needing a pop of this nature 'cause I just wasn't going to get aggressive in this market here and I needed to match this resistance level in order to do so.
+NEUT21|Right at all, right?
+NEUT22|I'm going to leave my cursor right where it is.
+NEUT23|You see how it's right around 377.
+BEAR24|That's another strike price.
+NEUT25|So I wanted to sell to close right there.
+NEUT26|Got in when I had my crossover.
+BULL27|An increase in buying volume got out when it was time to sell to close in to strengthen.
+BULL28|Glad I did.
+NEUT29|Otherwise I might have been part of this wish washy but that was my very quick trade for today.
+BULL30|Little bit of a crazy market yes, but hope you're managing risk over staying disciplined.
+BULL31|Hope you're staying safe man.
+NEUT32|Some wild stories about.
+BULL33|Platforms and stuff like that regarding certain stocks which just went haywire lately, so I hope you're staying safe and happy Thursday.
+NEUT34|"Ladies and gentlemen."""

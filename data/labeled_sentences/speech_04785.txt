@@ -1,0 +1,11 @@
+NEUT0|"""December the 19th is in the books here on Wall Street."
+NEUT1|Here's the New York minutes.
+BEAR2|Now it's been a day of horror and bloodshed in Berlin and in Ankara, but of utter, For some reason in international markets, strong day for bonds are perfectly adequate day for stocks.
+BULL3|And if we take a look at how you would have fared if you would bet against volatility at the beginning of this turbulent year and put everything into the US stock market, you can see that you have done fantastically.
+NEUT4|The ultimate trade you would think would only work during events of great com.
+NEUT5|Now, one very important turning point does appear to be in reach.
+BEAR6|However this year what we should be seeing here is how value stocks have done compared to growth stocks when growth underperforms, it tends to be because growth is no longer regarded as a scarce commodity.
+BULL7|You can see genuine optimism there.
+NEUT8|As for the rest of this quiet week, we will be getting new home sales data for the US tomorrow.
+BULL9|They are recovering, but if you take a look at a Realtors expressions of optimism for the future, you can see that's almost back to its peak.
+BEAR10|"Before the crisis, it's possible that's now been overdone, and that's the New York Minute."""

@@ -1,0 +1,31 @@
+NEUT0|"""Let's bring up the chart right now."
+NEUT1|I just brought this up.
+NEUT2|We'll get this out Jamila on GTV going a bit.
+BEAR3|This is just the dollar from the Lehmann low which is generally a stronger dollar.
+NEUT4|But I think Laura a lot of people don't know the room to move that the dollar has to get back to true dollar strength.
+NEUT5|How strong is a dollar right now?
+BULL6|It's actually relatively speaking and we've had incidences where it's been significantly stronger than it is right now.
+NEUT7|So what we're seeing is sort of this tug and pull between a lot of the fundamentals that typically drive dollars.
+BULL8|Like interest rate, differentials relative growth differentials, but the investment flows of course, but what people don't appreciate is the fact that with US growth now significantly outpacing the rest of the developed world and the US with a lot more room to tighten, there's room for the doctors room for the dollar to go up without crisis.
+NEUT9|Is that the right idea?
+NEUT10|I think it's all with the dollar.
+NEUT11|It's always about speed and volatility, so if the dollar does a steady climb, it's obviously much less disruptive, but.
+NEUT12|Foreign exchange is that market which can really surprise when things move.
+NEUT13|You're looking at 810% moves within several weeks or even or even less.
+BEAR14|That gets more disruptive, especially for companies that are, you know, reliance on larger international supply chains than they have been in the past.
+NEUT15|Laura, good morning guy in London.
+NEUT16|If I take a look at the CFTC spec dates, the market is incredibly long dollars right now and I've got this chart here now.
+NEUT17|Normally, the CFCS CFTC data kind of matches the Bloomberg Dollar Index really quite nicely.
+NEUT18|It ain't at the moment the dollar is going sideways, yet the market is incredibly long of dollars, or at least the spec positions are incredibly long.
+NEUT19|How does that one end?
+BEAR20|You know, this has been a conundrum, really.
+NEUT21|All of 2017 as well.
+NEUT22|We saw.
+NEUT23|Interest rate different.
+NEUT24|All the things that typically support the dollar really not giving the dollar the benefit that we've seen in the past.
+BULL25|We actually saw a huge move in the opposite as all of the G7 central banks held their interest rates steady at extraordinarily low levels and the US gained more traction and raising rates.
+NEUT26|And we really didn't see the dollar respond, so something is there's some investment.
+NEUT27|There's some sort of global.
+BEAR28|Or trepidation about the dollar.
+NEUT29|And I think we just have to respect the fact that it's not following.
+NEUT30|"Demand."""

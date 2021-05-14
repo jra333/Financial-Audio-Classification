@@ -1,0 +1,9 @@
+BEAR0|"""It's hard to know where to look today."
+BEAR1|US Doctor Bullish News from reaching a record.
+BULL2|High Oil is sitting happily above $51.00 a barrel, and the European Central Bank has begun its long awaited bond buying program.
+NEUT3|Now, if you were to simply focus on oil price and the giddy Heights of the S&P 500, you might argue things look reasonably Rosie.
+BULL4|The resilience of a crude prices.
+BULL5|Certainly helping power stocks higher US energy stocks have led the pack over the last month with a 5.6% jump.
+BULL6|But it's not just a perkier crude price powering stocks higher.
+BEAR7|Incredibly low level of bond yields, and in the case of Europe and Japan, negative yields is making stocks look attractive even at these levels, and even when you're in earnings growth in the US is slowing.
+BULL8|"European government bonds are once again in strong demand this morning with the yield on the 10 year German Bund, a benchmark for the whole of eurozone market, fully ever closer to the 0 mark with stocks near record highs and many bond markets already sitting at them, they're reluctant buyers everywhere today."""

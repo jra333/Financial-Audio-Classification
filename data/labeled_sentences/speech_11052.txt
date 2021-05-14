@@ -1,0 +1,28 @@
+NEUT0|"""Neo stock analysis and predictions February 2nd."
+NEUT1|In today's NEO stock analysis and predictions.
+NEUT2|What's next for Nio?
+NEUT3|Alright, let's get started.
+BEAR4|Although NIO is currently down 2.39% due to short sellers taking profits from Nio's, good news of increased deliveries and planned expansion, analyst expect an IOTA rally after this sell off.
+NEUT5|Why you may ask?
+BULL6|NIO recently announced that they have broken another deliveries record in January, an IO sold 7225 units.
+BEAR7|Which has caused analysts from JP Morgan and Nomura to raise their price targets to $80.00 conjunctively.
+BULL8|In fact, China's top investment banks eicc states Nio's production, is a capacity with strong consumer demand ahead of the Chinese New Year that falls on February 12th.
+BULL9|An iOS deliveries are up 352.1% year on year and three point 1% from December, marking the seventh consecutive month of record.
+NEUT10|Monthly sales.
+NEUT11|The flagship mid size SU VS8 delivered 1660 units the mid size SUV S6 delivered 2720 units.
+BULL12|And the coupe SUV C6 delivered 2845 units, setting a new high for this model analyst expect a rally of NIO to happen soon due to the continued climbing.
+BULL13|Sales comes from the increased consumer acceptance of electric vehicles, stronger product competitiveness, expansion of brand influence and appeal, and efficient customer acquisition due to excellent user experience and word of mouth effect.
+BULL14|In addition, an IO has upgraded their OS system with 150 new features and 304 optimized features.
+BULL15|NIO has so far achieved.
+BULL16|47 iterations in total, an IO build.
+NEUT17|7 new battery swap stations and plans to build 12 more battery swap stations.
+NEUT18|So far an IO has a total of 200 battery swap stations.
+BEAR19|Analysts state this week is a short term sell off before NIO rallies.
+BULL20|Thus it is good to focus on an iOS forward earnings from their premium smart driving services, new sedan and autonomous driving software.
+NEUT21|See ICC, specifically remains unchanged on nio's earnings forecast and maintains its $85 price target, which is a 49%.
+NEUT22|Upside, that's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT23|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT24|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL25|We'd really appreciate it.
+NEUT26|Are you still watching and want more?
+NEUT27|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

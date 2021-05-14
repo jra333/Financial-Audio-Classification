@@ -1,0 +1,27 @@
+NEUT0|"""Neo stock analysis and predictions."
+NEUT1|December 1st.
+BEAR2|In today's NEO stock analysis and predictions why NIO stock is down today?
+BEAR3|Alright, let's get started shares of NIO at trading lower on today amid a broad sell off of EV stocks and despite good sales results in an upgrade from a longtime Wall Street skeptic Goldman Sachs as of 10:30 AM Eastern Standard Time today.
+BEAR4|Nio's American depositary shares were down about 6.4% from Monday's closing price.
+BEAR5|Anio was just one of a group of EV stocks that were trading lower on Tuesday.
+BULL6|Most of them have had strong bull runs in recent months.
+BULL7|This retreat is momentary, so investors should not worry for the long term as NIO is set to bounce back after this short sell off NIO stock will bounce back soon because of two pieces of good news.
+BULL8|First, it reported its November deliveries before the US markets opened on Tuesday and they were strong.
+BULL9|5291 vehicles delivered in November and you monthly record and assigned that demand for the company's upscale electric SUV.
+BULL10|Vis has continued to be strong after its impressive third quarter second.
+BULL11|Nio's recent results have 1 /, a longtime Wall Street, Goldman Sachs.
+BULL12|In a new note on Tuesday morning, Goldman Sachs analyst Fei Fang upgraded NIO to neutral with a price target of $59, saying that Nio's success in increasing its vehicles range its batteries as a service program and the positive effects of revamped Chinese government incentives seem likely to keep its sales growing for a long time.
+NEUT13|An upgrade to neutral may not sound like much, but Fang had previously rated Nio's stock as a cell with a price target of just $7.70.
+NEUT14|This is a big change for Goldman.
+BULL15|Anio is in the midst of accelerating.
+BULL16|It's a production capacity as it continues to generate record deliveries.
+BULL17|That capacity increase will allow an iota produce about 7500 vehicles per month.
+BULL18|The company last upgraded its production line in September, boosting monthly output from around 4000 to roughly 5000.
+BULL19|Nio's demand is already outpacing that increase.
+BULL20|CEO William Bin Li said that he is aiming to have its production line and its supplies up to that speed before the end of December.
+NEUT21|That's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT22|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT23|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL24|We'd really appreciate it.
+NEUT25|Are you still watching and want more?
+NEUT26|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

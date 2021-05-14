@@ -1,0 +1,12 @@
+BULL0|"""I am hungry and Simran."
+NEUT1|I am the head of Asia Equity strategy for Societe Generale.
+NEUT2|From this equal, what I think has been important has been the trade negotiation between US and China.
+NEUT3|We have a lot of talk of whether there is a truth or not truth and what I think is in the first sentence.
+BEAR4|There is no really aware about Zar some friction and there will be some friction.
+BULL5|We see that there has been some objective of reducing the trade deficit by 200 billion U.S. dollar.
+BEAR6|But that is going to be very difficult to do because the US is even not exporting $200 billion to China now.
+NEUT7|And more importantly, the core of the strategic rivalry between the US and China is about industrial policy about the China industrial policy.
+NEUT8|And then we could talk more of backwards and a trade war on which I would not expect any concession over the next week I will look at the.
+NEUT9|Inclusion of China onshore equity into MCI international indices.
+NEUT10|It's going to add 0.4% to China in MSI emerging, so that is not big, but what I think is going to change is the perception that investor have on China equity.
+NEUT11|"So pool of liquidity on which equity investor will have access is just huge."""

@@ -1,0 +1,16 @@
+NEUT0|"""Helping Barack Obama with his golf score was not one of the reasons Janet Yellen gave for why the Federal Reserve is going to proceed cautiously with future interest rate rises."
+BEAR1|That was just a mad thing that Donald Trump said last year when he accused the Fed chair of keeping rates low at the behest of a president who wants to be out playing golf and doesn't want to see a bubble bursting.
+BEAR2|Miss Yellen's dovish remarks on Tuesday showed her concern not with Mr. Obama, but with financial markets and markets responded to her remarks.
+BEAR3|In predictably straightforward fashion, by sending equities higher, with the exception of U.S. bank stocks, the S&P 500 banks index fell sharply on Miss Yellen's remarks and although rebounded on Wednesday morning that see sawing suggests a complicated debate about how investors should think about this sector.
+NEUT4|This year, banks have traded as if as a proxy for year end rate expectations.
+BEAR5|They went down as skepticism was growing that the Fed would follow through.
+BULL6|With all those 2016 rises.
+NEUT7|It had predicted in its official projections.
+BEAR8|And the sell off Kris Jenner in February when markets were implying that there may be no rate rises at all this year and long term rates had fallen.
+BULL9|With the deteriorating outlook for the global economy in China, low rates narrow the available margin between banks, cost of borrowing, and the interest that they can charge on lending now because the gloom over the long term economic outlook has lifted somewhat since February and Miss Yellen's promise this week of lower rates for longer is likely to have the effect of steepening the yield curve and helping bank profitability.
+BULL10|Hence that rebound on Wednesday morning.
+BEAR11|The biggest banks in the US may catch other tailwinds to shareholders, and analysts have begun debating strategic options for improving returns.
+NEUT12|The well connected analyst team at CBW has suggested that Citigroup should break itself up and at least one significant shareholder at Bank of America has told its chief executive that they believe the company should separate the retail bank from the investment banking and wealth management arms.
+NEUT13|Now, these are isolated calls for now, but if they take hold, then bank investors may have more to consider than just the likely level of US interest rates at the end of the year and the end of the Obama administration, when of course the president will be tending to his golf score.
+NEUT14|Full time.
+NEUT15|"Stephen Foley for the Financial Times."""

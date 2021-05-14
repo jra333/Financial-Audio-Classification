@@ -1,0 +1,11 @@
+NEUT0|"""Forecasting with Facebook stock fortune telling."
+NEUT1|Hi this is Doctor ETF.
+NEUT2|My channel is where I predict stock and it predictions with mysterious Oriental fortune telling rather than scientific analysis down Nasta forecast weekly and monthly and paid service.
+NEUT3|I predict many items for recommended by analysts through mysterious Oriental fortunate telling and select only good ones that is cross validate.
+NEUT4|More information is provided by signing up for a paid membership via email.
+NEUT5|Facebook stock prices are three months forecast from Julie to September.
+NEUT6|The closing price on Julie 20th 2020 was $245.00, the result of divination is that a young Bud of a flower grows and someone tramples it.
+NEUT7|It is advantageous for Facebook stock owners to sell stocks.
+BEAR8|Facebook stocks are expected to drop sharply in August.
+BULL9|87 to 94 it is advantageous to sell Facebook shares in early August to realize profits become rich with smart investment.
+BULL10|"Thank you."""

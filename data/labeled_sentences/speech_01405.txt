@@ -1,0 +1,13 @@
+BULL0|"""Six Philippine companies made it to Forbes Global 2000 list of the world's largest public companies."
+NEUT1|The list ranks international firms based on sales, profits, assets and market value.
+BULL2|BDO Unibank climbed to 1000 eighteenth spot this year with assets at $57 billion in market value of $11.2 billion.
+NEUT3|Also on the list are ** Investments Corporation, top Frontier Investment Holdings, the biggest shareholder of San Miguel Corp, Ayala Corp, Metro Bank, and JG Summit Holdings.
+BULL4|Topping the list for the seventh straight year.
+NEUT5|Is the industrial and Commercial Bank of China the only firm exceeding the 4000 trillion dollar mark in terms of assets?
+NEUT6|Placing second?
+BEAR7|Was JP Morgan Chase and Co, which booked higher profit cut profits rather due to tax cuts.
+NEUT8|All these 61 countries represented on the list.
+BULL9|the United States is home to the largest number, but for the first time ever trying to make the most appearances in the top ten, its five entries best.
+BEAR10|the US is for after Berkshire Hathaway tumbled out of the top rankings.
+NEUT11|Banking and finance are the most represented industries.
+NEUT12|"On that list."""

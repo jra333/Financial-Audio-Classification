@@ -1,0 +1,40 @@
+NEUT0|"""Next question comes from, oh, It's another Allison, but this one has two Ells in Florida."
+NEUT1|How much should I have an international stocks?
+NEUT2|I think the frequently accepted recommendation is about 30 to 40% of portfolio or even up to 50%.
+BEAR3|But this week there was a long and heated thread on the bug.
+NEUT4|They're always heated on the Bogleheads forum.
+NEUT5|Aren't they challenging this?
+NEUT6|The title of the thread was it's not enough to mumble stay the course.
+BEAR7|International investing has been a disaster.
+NEUT8|Would you be able to comment on this?
+NEUT9|So first of all, let's start with.
+NEUT10|Since this was playing off the Bogleheads forum what Jack Bogle says and I just recently heard an interview, the Bogleheads conference was recent happened recently and he made some comments about international investing so.
+NEUT11|He's one of those people says it's not really necessary.
+NEUT12|When you look at the long term returns of US versus international, there's no evidence that international outperforms US over the long term.
+BULL13|Plus US is a more stable country.
+NEUT14|We have a pretty good, highly regulated securities market, so you don't have to work quite so much about fraud.
+BULL15|Plus around 40% of the revenues from companies in the S&P 500 come from overseas ventures, so you're still getting some international diversification there.
+NEUT16|So.
+NEUT17|If you're going to Jack Bogle, it's hard to argue too much with Jack Bogle.
+NEUT18|Just stick with U.S. stocks.
+NEUT19|That said, when he was running Vanguard NIA since retired, they had international funds and they still have international funds, and one of the reasons are there are time periods when international stocks outperform US happened in the 80s, happened in a good part of the 70s, happened in the first decade of the 2000s, and jasons wagon, the Wall Street Journal wrote an article saying like, it's pretty tough now from a valuation standpoint.
+NEUT20|To ignore international stocks, they're about half the valuation of U.S. stocks.
+BEAR21|Of course, we've been saying this for years, and international stocks still other than in 2017, have underperformed U.S. stocks over the last five years or so.
+NEUT22|So I would say.
+NEUT23|You have to be comfortable with the volatility of international stocks.
+NEUT24|I have about 2025% of my 401K in international stocks.
+NEUT25|But you don't have to have it.
+NEUT26|One thing I will say though, is that one of the.
+BEAR27|The way that was phrased in the bogleheads is that international investing has been a disaster.
+NEUT28|It's not really been a disaster over the long term.
+BEAR29|International stocks have underperformed U.S. stocks a little bit.
+NEUT30|But it really depends on what time period you're looking at.
+NEUT31|Then I would add also those.
+NEUT32|If you're buying individual stocks, as can be some extra trading costs for some of your brokerage is when you buy international companies.
+NEUT33|I work mostly on our Canadian operations, they have ideas through all our services.
+NEUT34|And saying that's an easy market 'cause it's pretty familiar with us and trying to cross the border.
+NEUT35|There's other ones where there's unique things in accounting and stuff that are a little bit different and more difficult to comprehend.
+NEUT36|So I would say like I don't think you need to, but if you have an interest and you want to find great companies, why would you not look everywhere for those but you don't have to?
+NEUT37|You can do very well Berkshire Hathaway and Warren Buffett have very little of their capital they're trying to buy more international companies and he's been trying for years.
+BULL38|He's done pretty well with just kind of mostly sticking to EU.
+NEUT39|"Market."""

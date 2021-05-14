@@ -1,0 +1,18 @@
+NEUT0|"""Hello, welcome to today's technical analysis for February 22nd, 2016."
+NEUT1|I'm Celina Nicholas technical analyst, edxm.com.
+NEUT2|Today we will look at the British pound versus U.S. dollar on the daily chart.
+BEAR3|Gbpusd opened with a gap lower at the open of Asian trading on Monday.
+BULL4|It opened at one point 4261 as the markets reacted to news over the weekend regarding a Brexit.
+NEUT5|On Friday, the pair closed.
+NEUT6|At one point 4394.
+BULL7|The pair has retraced more than 76% of the up leg from one point 4078 to one point 4667.
+BEAR8|This was the January 21st to February 4th Rise, so now we're below the 76.4 fibbonaci.
+BEAR9|It was acting as support early this morning, but since then prices have dipped slightly below it.
+BULL10|Right now we could see that this testing of support.
+BEAR11|And weakening of the sport level could open the way for another move.
+BEAR12|Lower to retest the low of one point 4078.
+BEAR13|This is Johnny 21st low technical indicators are highlighting a bearish bias.
+NEUT14|Could see on the daily chart the moving averages or negatively aligned.
+BEAR15|So the 5050 days below the 100 and 200 day moving average is your style so it's below 50 and the Mac D is below 0 so these are all bearish signals.
+NEUT16|Meanwhile, we can keep in mind that resistance is at the 61.8 Fitbit Nachi at 1.43 zero four.
+BULL17|"Thank you for watching and have a great day."""

@@ -1,0 +1,47 @@
+BULL0|"""We also want to bring you up to speed with the situation on airline stay."
+NEUT1|In particular, investment in airlines from 1 Warren Buffett who told our editor in Chief Andy Serwer recently.
+NEUT2|He wasn't looking to sell the airlines and yet over the weekend we learned he had done just that or at least sold some of his stake in some of the major airlines.
+NEUT3|Adam, you have been watching what the Oracle of Omaha has been up to you.
+NEUT4|Yeah, I remember that interview that Andy Serwer did because what Buffett said and I wrote up the article on this.
+NEUT5|Was quote I won't be selling airline stocks and then he went on to say quote well it's going to be tearable.
+NEUT6|I've always felt a pandemic would happen at some time, but then he predicted that quote.
+NEUT7|It won't stop the progress of the country or the world when it comes to stocks, Mr. Buffett or at least Berkshire Hathaway has sold.
+NEUT8|He had large shares.
+NEUT9|Remember in Delta and Southwest according to filings with the SEC.
+NEUT10|Berkshire has sold nearly 13 million shares of Delta they took in about $314 million and roughly 2.3 million shares.
+NEUT11|Of Southwest for about $74 million.
+NEUT12|Those sales, by the way Julie took place last week.
+NEUT13|Now Berkshire previously owned.
+NEUT14|It was almost a little over 11% of Delta and a little over 10% of Southwest.
+BULL15|Now the airline stocks right now, you should know nowhere near where they were a year ago, but American is trading higher.
+NEUT16|United Tire, Southwest desire.
+BULL17|JetBlue is higher.
+BULL18|And yes, Delta is trading higher and that on top of huge service cuts they announced to the New York City area over the weekend.
+NEUT19|Julie hey Adam I I have a question.
+NEUT20|It's Rick about the time lag here.
+NEUT21|I mean, Warren Buffett changes his mind as market conditions change and sometimes we don't know about what he's buying or selling until we get the filings right.
+NEUT22|I think that's the 13 F which is quarterly.
+NEUT23|So can you just give us a sense of the timing here?
+NEUT24|He said these sales were last week.
+NEUT25|When do we know when he was last bullish when he said he was bullish on the airlines in February?
+NEUT26|As this crisis was happening, he told Andy Serwer and I wondered the quote.
+NEUT27|I won't be selling airline stocks, but at that point Delta had not fallen.
+NEUT28|I'm going to give you a Delta has been in the last 52 weeks.
+BULL29|Delta has traded between us.
+NEUT30|Wanna make sure I pulled up the right ticker here?
+NEUT31|Delta has traded between 19 bucks and $63 in change and it roughly the time that Buffett was saying he would not sell air.
+NEUT32|Adult, you know.
+NEUT33|Airline stocks.
+NEUT34|Delta was trading at roughly $44 a share, so no pardon.
+BEAR35|He sold low.
+NEUT36|He sold low he, you know, but we don't know what he's bought.
+NEUT37|Yeah, we don't know until he tells us, tells us, or until there's another filing.
+NEUT38|So TBD on that one and please keep it here.
+NEUT39|Will keep you posted on that.
+BULL40|Thank you Adam.
+NEUT41|Appreciate it.
+NEUT42|Hey investors.
+NEUT43|Sack Guzman?
+NEUT44|Here are you interested in learning more about the markets and getting the latest financial news?
+NEUT45|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT46|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

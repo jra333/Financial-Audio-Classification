@@ -1,0 +1,13 @@
+NEUT0|"""Warren Buffett is in line for a top ten stake in Goldman Sachs."
+NEUT1|This is what's news on WSJ live on Joanne Poe, the Oracle of Omaha is on pace to get nearly 2% of Goldman Sachs, thanks to the soaring value of the warranty, holds an investment bank Goldman and Berkshire Hathaway are amending their agreement from an investment Mr Buffett made at the height of the financial crisis.
+NEUT2|Berkshire received warrants to purchase 43.5 million shares of Goldman at $115.00 each until October 2013.
+NEUT3|Under the new terms of the pack this fall, Berkshire will receive Goldman shares instead of the cash difference between Goldman stock price.
+NEUT4|And Berkshires exercise price.
+BEAR5|This will put Mr Buffett stake in the company at close to 2%, making him the 9th largest Holder of Goldman, according to FactSet and Cypress orders its banks to remain shut until Thursday amid fears that those institutions will be overrun by customers trying to extract their money after a bailout deal was reached Monday.
+BEAR6|The island nation stock market will also remain closed Wednesday.
+BULL7|All but the nation's two biggest banks had been preparing to open today and on the economic front US home prices edging up 110th of a percent in January.
+BULL8|Making the year on year gain to 8.1%.
+BULL9|That's the fastest growth in more than six years, according to the S&P case.
+NEUT10|Shiller report.
+BULL11|Meantime, durable goods surging in February, buoyed by demand for transportation equipment like airplanes, orders jumping 5.7%, reversing January 3.8% drop, will keep you posted on the latest news developments throughout the day.
+NEUT12|"And what's news on WSJ live."""

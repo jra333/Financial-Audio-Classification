@@ -1,0 +1,44 @@
+NEUT0|"""Well, we're expecting something with a four handle, which is a nice big number and four."
+NEUT1|Could you ever conceive that a year and a half ago, two years ago?
+BEAR2|I absolutely could have, because the quarterly numbers are pretty volatile and we've really juice the economy with fiscal policy, so the underlying trend is already been moderate.
+BULL3|Build in some fiscal fan on top of that, and you've got some real momentum here.
+BEAR4|The job market obviously closing in on full employment, so we see a four handle.
+NEUT5|Maybe 4.5 is the estimate I'm hearing most commonly.
+NEUT6|Just for the record, because tomorrow they're going to be people saying this is never happened before.
+NEUT7|It's happened before we had a couple of quarters 2014 where we had about four and a half 5222 quarters in a row.
+NEUT8|I think the real way to understand the underlying trend in GDP is to look at the year over year number.
+BULL9|I think that's going to be around 3%, which is still a very nice number.
+NEUT10|OK, but here's the question.
+NEUT11|Michael, is it sustainable long term?
+NEUT12|Well, I don't.
+NEUT13|I don't think quarterly annualized GDP growth rates of 4.2, four point 5% are sustainable.
+NEUT14|No?
+NEUT15|I mean, I think Jerrod has it basically right.
+BULL16|You know we see quarterly GDP spike from time to time, even if you look at the underlying trend, this is still impressive.
+NEUT17|It is not all due to exports.
+NEUT18|There seems to be some pretty solid underlying growth here that can't be explained by one off factors like like exports or inventories or something like that.
+NEUT19|You know, some of this is the tax cut some of this is the increase in discretionary spending, and some of this is an underlying economy.
+BULL20|That's quite healthy at this point well.
+NEUT21|Let me ask question about the tax cuts have all of that.
+BEAR22|We've seen all of all of the impact yet no.
+NEUT23|The estimate would be something like adding about a half a point to GDP growth this year and next year.
+NEUT24|Now, after that.
+NEUT25|Some of the fiscal impulse goes the other way it sort of starts to fade a bit.
+BEAR26|And there the expectation is for GDP growth to come down a bit, but this year and next year you can count on the tax cuts in the discretionary spending Michael mentioned to add somewhere North of half a point to GDP growth.
+NEUT27|An I guess Michael, we now are left with the question of what could potentially change the story a little bit right?
+NEUT28|We came into this year thinking wow, the main risk in the economy might be that it's going to be too hot and then you had the trade concerns.
+NEUT29|Interest rates went up a little bit, So what are you looking for out there?
+NEUT30|If it's whether it's changing fiscal policy, the Fed anything like that, that might act as a headwind.
+BEAR31|Well, I think there are a number of headwinds that a lot of them are are policy driven.
+NEUT32|We don't yet know how sevir our tariff regime will be if it becomes too severe than I would expect to see the Fed try and counter that we don't yet know many, many things about about economic policy.
+NEUT33|We don't know.
+BEAR34|So far it's been kind of confusing that businesses and financial markets don't seem to be reacting to some of this policy uncertainty, and some of the you know.
+NEUT35|Policy that's actually been enacted, you know, like like the tariffs, for example, they don't seem to be excessively concerned about, you know, returning to very large budget deficits year after year at some point are investors going to decide that those things are troubling?
+NEUT36|I'm not sure.
+BEAR37|I've been puzzled by by their behavior so far, so I think that there are headwinds in the future from President Trump's policy.
+BEAR38|Potential headwinds from the Fed, potential headwinds from investors, and I think.
+NEUT39|Time will tell how those things will play out.
+NEUT40|Hey there, thanks for checking out CNBC on YouTube.
+NEUT41|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT42|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL43|"Thanks for watching."""

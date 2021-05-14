@@ -1,0 +1,14 @@
+NEUT0|"""Want to earn extra income trading stocks but aren't sure where to start our smart stock trade software takes the guesswork out of stock trading no matter what your experience level."
+NEUT1|Smart stock trade can help you trade U.S. stocks without spending hours studying stock fundamentals or technical indicators.
+NEUT2|Smart stock trade is designed to monitor swing trading which is based on a strategy of buying stocks at low prices and selling them quickly when the prices rise.
+NEUT3|It's fully automated.
+NEUT4|Built-in algorithm generates.
+NEUT5|Accurate stock alerts and removes time-consuming manuals and complicated stock chart analysis processes.
+NEUT6|You'll receive swing trade alerts as well as entry prices, strengths and profit, and stop lost targets for the stocks that interest you.
+NEUT7|Smart stock trade also notifies you about overbought and oversold conditions, so you can stay on top of trend reversals and react wisely if the trade goes differently than expected.
+BULL8|Our BACKTESTED data provides a remarkable swing trade return on your investments.
+NEUT9|You can use our smart stock trade report to buy and sell within your own trading platform.
+NEUT10|Keeping full control of which trades you execute.
+NEUT11|You pay no monthly subscription fee and you can receive unlimited stock alerts using our simple paper stock formula.
+NEUT12|To view complete guides, use free tools like our stock price Calculator and learn more about smart stock trade.
+NEUT13|"Visit www.smartstocktrade.com and follow us on Facebook and Twitter."""

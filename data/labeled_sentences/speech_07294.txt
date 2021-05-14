@@ -1,0 +1,30 @@
+NEUT0|"""Here's how to give Americans a big pay raise."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where we give you the insights you need to help navigate these turbulent times as we celebrate the Long Labor Day weekend.
+BULL2|Let us consider 2 easy but stupendous ways to give working Americans a big boost in their wages.
+NEUT3|Adopt the flat tax and remove stifling restrictions on health savings accounts.
+BEAR4|A flat tax for throat are insanely complex and corrupt federal income tax code.
+NEUT5|All 10 million words of it, and attendant rules and regulations and replace it with a single rate, with generous deductions for adults and children of family of forward pay.
+NEUT6|No tax on their first $52,800 of salary and no tax on savings, which would help them accumulate more money for college retirement, vacation, or starting a business.
+BULL7|Everyone would enjoy tax cut.
+NEUT8|Anna much happier life.
+NEUT9|The IRS tells us we spend some 6 billion hours a year filling out tax forms and experts estimate we.
+NEUT10|The people spend $300 billion or more a year complying with this monstrous code.
+NEUT11|Imagine if we'd had a flat tax 20 years ago, and that 100 plus billion hours and literally trillions of dollars spent on this code had instead gone for developing new products and services and new medical devices and cures for diseases.
+NEUT12|How much better off?
+NEUT13|All of us would be what an immoral, monumental waste of resources and brainpower over 30 countries have successfully adopted a flat tax high time we did it too.
+NEUT14|Now the second big thing we should do is get rid of restrictions on health savings accounts Hsas and thereby let patients have more control of their health care decisions at less cost.
+NEUT15|Hsas lets you set aside money tax free in a special account that you own to pay for qualified medical expenses.
+NEUT16|Many employers offer these and put money into them on behalf of employees.
+BEAR17|Trouble is, Hsas are hobbled by all sorts of unnecessary restrictions.
+NEUT18|Such as not being able to use your money to buy over the counter medicine's restrictions and how much you or your employer can deposit tax free, should be sharply eased.
+NEUT19|You should also be allowed to set up an HSA, say, even if you don't have a health insurance policy.
+BULL20|Americans are paying more out of pocket for medical expenses than ever before, greatly enhancing Hsas would help big time.
+NEUT21|Indiana, for example, offer state employees a high deductible health insurance option.
+NEUT22|With Hsas the state deposits each year the entire deductible into the workers.
+NEUT23|Ahsa whatever was leftover is rolled over result.
+BEAR24|Health insurance costs are down 35% and outcomes are better than what they were under traditional plans.
+BULL25|These two ideas would make next year's Labor Day weekend a joyous one indeed.
+NEUT26|I'm Steve Forbes.
+NEUT27|Thank you for listening.
+NEUT28|Do send in your comments and suggestions.
+BULL29|"I look forward to being with you soon again."""

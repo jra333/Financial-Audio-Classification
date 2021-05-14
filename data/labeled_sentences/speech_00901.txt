@@ -1,0 +1,12 @@
+NEUT0|"""What is a pump and dump scheme?"
+NEUT1|Pump and dump is a scheme that attempts to boost the price of a stock through recommendations based on false, misleading or greatly exaggerated statements.
+BEAR2|Hundreds of social influencers on YouTube, Tik T.O.K, Wallstreetbets swarm, the Internet with stories of excessive potential gains, an unknown stock HCMC stock preceded to move up, a 3000% move.
+NEUT3|And the pump was on and they kept pumping it and pumping it.
+NEUT4|YouTube channel trays trays with 151 thousand subscribers came out.
+BULL5|Hand touted HCMC has a nice bye.
+NEUT6|If you're not familiar with the play, I don't think it's too late, right?
+BEAR7|We're going to if you took this Youtubers advice and bought the stock, you would be down 60 to 75% in no time while we expect the stock to run up right.
+BEAR8|If you took this Youtubers advice and bought the stock, you will be down 60 to 75% in no time as it sits right now.
+NEUT9|My friends, I think that you could buy this at the very very top and if you hold this until February 26th, you probably still be up hundreds of percent.
+NEUT10|He's not your friend.
+NEUT11|"I don't think it's too late for you to get it."""

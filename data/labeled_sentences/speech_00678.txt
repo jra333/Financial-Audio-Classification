@@ -1,0 +1,12 @@
+NEUT0|"""According to a report by The Verge on Wednesday night, Apple Incorporated will use Tesla Incorporated battery packs to store energy from a solar farm in Northern California."
+NEUT1|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to growing wealth and hit the Bell icon so you can get our videos in very first moments.
+BULL2|Even your little help will really work for us to grow.
+BULL3|Earlier in the day, Apple announced a renewable energy storage project near its solar facility in Monterey County, South of San Jose that will store about 240 MW hours of energy, enough to power about 7000 homes.
+NEUT4|While the announcement did not mention Tesla, a Monterey County planning official confirmed to The Verge that Apple will use 85 Tesla lithium ion a capax for the project, which will help power Apple headquarters in Cupertino, CA.
+BULL5|In a statement, Apple said the Alifornia Flats project will be near the largest battery projects in the country and will support its older farm that generates 130 MW hours and supplies all of Apple renewable energy in California.
+NEUT6|The project will store excess energy generated during the day and distribute it as needed.
+BULL7|Last July, Apple pledged to be 100% carbon neutral by 2030.
+BULL8|Apple added Wednesday that more than 110 of its manufacturing partners around the world are moving to 100% renewable energy for production.
+NEUT9|Lisa Jackson, Apple vice president for environment, policy and social initiatives, said in a statement.
+BULL10|We are firmly committed to helping our suppliers become carbon neutral by 2030 and are thrilled that companies he joined the span industries and countries around the world.
+NEUT11|"If you enjoyed this video, leave a comment below and please hit the like or share button, we'd really appreciate it."""

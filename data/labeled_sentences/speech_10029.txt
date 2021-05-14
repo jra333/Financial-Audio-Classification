@@ -1,0 +1,23 @@
+BEAR0|"""It would be nearly impossible to find someone who doesn't know about Apple."
+BULL1|Its products have created an army of fans around the world who reliably buy up the latest releases.
+NEUT2|But in addition to spending money on Apple products, anyone can buy shares and own a piece of the tech giant.
+BEAR3|More than 20 years ago, Apple shares were worth about $3 per share, and in 2012 the price per share had skyrocketed to nearly $600.
+NEUT4|If you would have invested $1000 in Apple stock when it debuted, it would now be worth over $1,000,000 today.
+BULL5|Aside from minor fluctuations, Apple has shown consistent growth in revenue and profits over the past ten years.
+NEUT6|Nevertheless, despite such a remarkable story, if you decide to trade Apple shares, you need to be careful.
+NEUT7|Staying up to date on the latest events, news and announcements from tech companies is important as these developments often spill over to Apple impacting Apple stock price.
+NEUT8|For better or worse.
+NEUT9|So what do you need to know to trade Apple stock?
+NEUT10|First, let's look at what the split is over the past decade, Apple shares have been so popular that the corporation's market value has experienced record growth several times over, leading Apple's executives to conduct what's known as a split.
+NEUT11|When the original shares split into several parts.
+BEAR12|To decrease the overall value of each share.
+NEUT13|If you had owned one share of Apple before the split, you would now own 4 after the split.
+NEUT14|It does not change the value of the stock or the company could simply makes it easier for more people to own Apple shares.
+NEUT15|Apple chose to split its stock recently because its shares reached such Heights that buying them became impossible for ordinary investors.
+BULL16|This causes investment outflow, which in turn affects the overall performance of the company in the latest split, Apple organized a one to four split, which opened up new opportunities for those who have not yet acquired shares in the company.
+BULL17|After this event, apples capitalization rose to $2.237 trillion.
+NEUT18|As a result, trading Apple today is more accessible than ever before.
+NEUT19|Will you be buying or selling Apple at a time like this?
+NEUT20|Let us know in the comments and don't forget to subscribe to our channel for the latest information on the biggest market movements, go to libertyx.com in the video description and start trading Apple and other assets with over 200 instruments or open a free demo account to hone your skills.
+BULL21|We hope to see you there.
+BULL22|"As always, thanks for watching keep the volatility in your favor."""

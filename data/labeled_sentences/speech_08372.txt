@@ -1,0 +1,9 @@
+NEUT0|"""Negotiators from the US and China are in talks over future in person negotiating rounds as the two countries near the end of trade talks, which the Treasury Secretary said would was entering its final stage, the Wall Street Journal is reporting that the US Trade Representative Robert Light Heiser is set to travel to Beijing the week of April 29th, followed by a trip by the Chinese envoy back to Washington."
+NEUT1|The week of May fit.
+NEUT2|The Journal also reporting that a deal could be signed as soon as late May.
+NEUT3|Or early June.
+NEUT4|Now this lines up with what we've been reporting here on CNBC.
+NEUT5|Earlier this morning, we told you that our sources said that one potential date that China was looking at for a potential summit was unexpected trip by President Trump to Japan at the end of May, where he's expected to greet Japan's incoming emperor, who will be thrown or Crown, Dan will ascend to the throne on May 1st.
+BULL6|China is looking at that travel to the Asia Pacific region as one potential opportunity to get the president to stop over there.
+NEUT7|But the Wall Street Journal.
+NEUT8|"Also, reporting that late May early June is the time window that we're looking at for a potential deal to be signed."""

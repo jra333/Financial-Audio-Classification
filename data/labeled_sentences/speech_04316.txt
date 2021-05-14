@@ -1,0 +1,11 @@
+BULL0|"""Even as technology stocks have realized, some selling pressure recently by certain measures, they're still trading at high valuation."
+NEUT1|Many market observers point to Shopify or Zoom video communication when analyzing the evolution in the technology space.
+BEAR2|Both stocks have realized some selling pressure over the past month.
+NEUT3|However, they still maintain lofty price to sales levels, providing a form of reference.
+NEUT4|The current NASDAQ 100 index price to sales measure is 4.4 * 2021 sales.
+NEUT5|Another tech proxy.
+BEAR6|Palantir Technologies, which has experienced a drop in price to sales from 40 in January to 19.5 still could be viewed as trading at a high valuation.
+BEAR7|Another headwind for growth stocks in the tech sector appears to be the rising interest rate environment as interest rates rise, market participants tend to discount growth stocks.
+BULL8|Future value with many tech stocks still exhibiting lofty price to sales ratios and interest rates continuing to rise.
+BEAR9|Some market observers feel that tech stocks.
+NEUT10|"In general, are still trading at high valuations."""

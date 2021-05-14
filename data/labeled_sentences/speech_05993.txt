@@ -1,0 +1,44 @@
+NEUT0|"""Is now the time to like Facebook?"
+NEUT1|You can tell me a lot more about Facebook than I can tell you.
+NEUT2|At the same time, what do we know about Facebook?
+NEUT3|We know that it's it's a giant in the world of social media, really.
+NEUT4|One of the they call them, the fangs, the Great Four of the of that world, that space in investing.
+NEUT5|But Facebook connects people, but it also connects merchants to people.
+NEUT6|It connects you with your friends and your family.
+NEUT7|But it also.
+NEUT8|Influences in in both in a small way an in a large way.
+NEUT9|What we think what we buy and what we say.
+NEUT10|Facebook's had something of a rollercoaster ride since the pandemic crisis struck in February, March 2020.
+NEUT11|Let's have a look at the chart and see what it says.
+BULL12|You can see it was trading up around $220 a share.
+BEAR13|It plunged to about 1:50 a share and now it's had a big rebound at the same time.
+BEAR14|While it's rebounded, there have been calls to boycott Facebook that Facebook is somehow.
+NEUT15|Not as acceptable socially, politically or otherwise as people think it might be.
+NEUT16|Do I think Facebook belongs in your stock investing portfolio?
+BULL17|Facebook has a lot of attractive qualities in terms of generating revenue, has a lot of cash on hand.
+BULL18|It's a well managed.
+NEUT19|You may not like what Facebook does.
+NEUT20|You may not like what your friends post on Facebook.
+NEUT21|You might not like a lot of things about Facebook that doesn't take away from the fact that it's got a hold on both the the stock market world but also the economic world.
+NEUT22|One of the reasons not to on Facebook I would put at the top of the list for not owning Facebook.
+NEUT23|It sells at 34 times earnings.
+NEUT24|34 times earnings means you give them $34 of your investment capital and they give you $1.00 of earnings in return.
+NEUT25|That's a big number of big multiple, and while Facebook may have some monopoly qualities, that makes it a very expensive stock, what are the reasons to own Facebook?
+NEUT26|I would say the reason to own Facebook is it's something of a monopoly.
+NEUT27|At this point you may not like what monopolies represent in a capitalist world.
+NEUT28|Stifle competition?
+BEAR29|Facebook certainly could be accused of stifling some of its competitors.
+NEUT30|Maybe not in a legal sense, but perhaps in a economic or a moral sense.
+NEUT31|At the same time, that provides a lot of revenue, advertisers everyday people in your lives are working as Salesman for Facebook.
+NEUT32|To sum it up, Facebook represents an opportunity for investors, but maybe not at these prices.
+NEUT33|At $238.00 a share.
+NEUT34|Maybe too rich for your blood.
+NEUT35|I think in the volatility of the virus world you may see Facebook at 180.
+NEUT36|You may see Facebook at 160 and you may see Facebook at 400.
+NEUT37|Stay tuned.
+NEUT38|It'll be a wild ride.
+NEUT39|That's all the time we have today on the investment advisor.
+NEUT40|I'm your host.
+NEUT41|Matthew Stevenson.
+NEUT42|Remember, money can take care of you.
+NEUT43|"It cannot take care of itself."""

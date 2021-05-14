@@ -1,0 +1,22 @@
+BEAR0|"""The New York Stock Exchange will temporarily close its famous trading floor on Monday, switching to all electronic trading after two people tested positive for the coronavirus."
+BEAR1|The Dow closed below 20,000 yesterday, nearly erasing all its gains since President Trump took office.
+NEUT2|CBS News business analyst Jill Schlesinger joins Us Chill good morning.
+BEAR3|We've got a trillion dollar stimulus package on the table and the market still is incredibly unsettled.
+NEUT4|Why?
+NEUT5|Well, there are a number of things that are playing into this.
+NEUT6|Obviously, just uncertainty about how deep and long this period of economic standstill will persist, and I think from the investor perspective, while the deals are on the table, there is a sense growing that a trillion dollars as big a number as that is.
+NEUT7|It may not be enough.
+NEUT8|We're hearing just, you know, some of the details coming out.
+BEAR9|But really, a lot of the economists that I speak to their very worried that we're already starting a recession.
+BEAR10|That next quarter that we could see a contraction in this economy of 10 to 15% guys.
+BEAR11|The worst contraction in the by quarter.
+BEAR12|During the financial crisis was down by about 8%, so this would be seismic over the next 90 days Jill I saw an interview with a man this morning who said when you hear you're losing your job, you just have to rethink your life was really very touching to hear how upset he is and we all understand that what's the potential for future job losses?
+BEAR13|Well, unfortunately economists again.
+NEUT14|They're really guessing, so I'm going to throw numbers out there.
+NEUT15|They're going to sound horrible, but we don't know, so I'm going to just frame it that way.
+BEAR16|There are some economists I speak to who say they believe there will be 3,000,000 job losses just by this summer that we could see the unemployment rate spike probably may or be around 678 percent.
+BULL17|You remember, in the Great Recession, we topped out at 10%.
+NEUT18|Now on the good news front, a lot of those same economists believe that as soon as the virus levels peak.
+NEUT19|And start to diminish.
+BULL20|We'll see people come back to work, and that would be great news.
+BULL21|"All right, Jill, thank you very much."""

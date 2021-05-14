@@ -1,0 +1,8 @@
+NEUT0|"""And let's take a look at the Apple stock."
+BULL1|We can see Apple has managed to gain today at nearly two point 8% if we change the charge into daily chart, we can see here we gotta Dodge pattern.
+NEUT2|It means a indecision pattern.
+BULL3|Even though we have got a new high here.
+NEUT4|So in my opinion sometimes when we have a doji pattern on the top of the advance trend, so it will be very careful and it's very likely for it have a short term top here.
+BEAR5|So in my opinion, the volume is a little bit larger than the normal normal amount, so it's very dangerous for Apple stock.
+NEUT6|And here show some distribution already.
+BULL7|"Thank you."""

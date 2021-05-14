@@ -1,0 +1,15 @@
+NEUT0|"""Another one that I wanted to point out here."
+BEAR1|We had a lot of big movers today and it's costs costs is huge.
+NEUT2|I said it that every time I look into 'cause I always underestimate its value.
+NEUT3|Always underestimate where it can go.
+BULL4|It moved from an open of $15.90 up to a high of $26.
+BULL5|It's up basically 50% today, 49 or it just hit 50% right now, but it's up 50% today and it looks really good.
+NEUT6|There were a number of times where you could have got in for a swing trade.
+NEUT7|Most people are not going to label you as paper hands if you're getting into costs and making some moves as a swing trade or a day trip.
+NEUT8|So, but it is looking like they do make some major moves in.
+NEUT9|Next time I see them go low, I'm going to get in again, but I don't know if they will.
+BEAR10|They seem to fluctuate, but you know up 50%.
+BULL11|It's absolutely phenomenal.
+NEUT12|You see the growth that it did have in the beginning of the day and then all of the fluctuation throughout.
+BULL13|So hopefully we see some more good news as the day goes on.
+NEUT14|"But we'll see."""

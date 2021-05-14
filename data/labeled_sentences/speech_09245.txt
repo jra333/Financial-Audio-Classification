@@ -1,0 +1,37 @@
+NEUT0|"""Let's dive deeper into today's action with our market supporters and we'll get started with Abigail, you know, Scarlett."
+NEUT1|I'm thinking about that reversal that you all were just talking about.
+BEAR2|We had a reversal yesterday so some choppy market action on the week, especially around those momentum stocks.
+BULL3|An all of this when we put around the 50 day moving average earlier, we've came pretty close to breaching that short term momentum indicators.
+NEUT4|So take a look at this 1 1/2 year chart of the S&P 500.
+NEUT5|Basically arrange that all the uncertainty around the macro factors stock stuck in this giant range.
+NEUT6|And then there's some more narrow ranges specifically between.
+NEUT7|The 200 day moving average in blue.
+NEUT8|Those are the longer term buyers an in yellow.
+BEAR9|Their short term buyers we see last year that the S&P 500 for a period of time stuck in between those moving averages then making it above the 50 day moving average.
+NEUT10|But once below and then the 200 day moving average.
+BEAR11|Once that was sliced, a really, really ugly fourth quarter.
+NEUT12|This year though you can see that there are periods of time where we've been above the 50 day moving average, but it's really been that range in between the short term moving average in the longer term moving average where stocks have been above that 50 day right now.
+NEUT13|Well Donna, it's the 200.
+NEUT14|That's key, but.
+NEUT15|There does seem to be some reason here to think we could go back down into the range between the two as investors continue to remain uncertain about the macros out there.
+BULL16|Vildana, thanks Abigail.
+NEUT17|I'm looking at Vanguard Europe ETF.
+NEUT18|That's VGC.
+BEAR19|About 1/4 of its Holdings are in British companies and if we take a look at the flows, will see that investors withdrew about 177 million from the fund as chances of a no deal Brexit were increasing last week, it was the largest with withdrawal from the fund this year.
+NEUT20|And it's not the only concern that investors have with the Europe ETF.
+BEAR21|We also have slowing growth in Germany.
+BEAR22|We have political tensions in Italy.
+NEUT23|An investor I spoke with said it's just so hard to allocate money there.
+NEUT24|But looking ahead Mike, we do have the ECB meeting later this week and officials are supposed to unleash a very large stimulus package.
+NEUT25|Will be worth watching Mike thanks.
+NEUT26|Hold on.
+NEUT27|I'm looking at the TLT which is the ETF that tracks Treasury bonds maturing in 20 years or more.
+BEAR28|It's really getting hit today, pretty hard down almost 2% over the past two days.
+BEAR29|It's down about 3 1/2% now that's the steepest decline for this ETF since the aftermath of the 2016 presidential election, when President Trump was elected.
+BEAR30|There are likely some new investors feeling the pain in this route because the ETF has seen inflows for seven straight weeks, including more than a billion dollars last week.
+NEUT31|And like a lot of the stock market.
+BULL32|It's a story about the reversal in momentum by the end of August, this fund was up.
+NEUT33|More than 12%, that's the big over 20 days.
+BULL34|That's the biggest gain over 20 days since 2011, so obviously it's goes hand in hand with the bearishness in the Treasury market that we're seeing yields up across the board as investors are having second thoughts about how aggressive central banks will be.
+NEUT35|the Fed in particular.
+NEUT36|"But also the ECB heading into this week's meeting."""

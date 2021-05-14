@@ -1,0 +1,29 @@
+BEAR0|"""Investors have no doubt heard about the trade tensions between the US and China."
+BEAR1|Both countries are locked in a power struggle as they impose new tariffs on goods imported into their countries.
+NEUT2|But determining exactly what a trade war between the US and China means for the stock market or either country's economy is difficult to predict.
+NEUT3|To understand its significance, it's worth taking a closer look at what the US and China are fighting about.
+NEUT4|Whether or not it should change your current investing strategy.
+BEAR5|So why are the US and China imposing new tariffs on each other back in 2017, the US began looking into China's trade policies and decided that the deficit between the amount of goods coming into the US from China compared to the amount being exported to China was too great.
+BEAR6|U.S. government then imposed billions of dollars in tariffs on some Chinese goods coming into the US.
+BULL7|And in return, China issued its own round of tariffs on some US imports.
+BULL8|The two countries have held talks trying to resolve trade tensions, but they haven't resulted in any long term trade solutions.
+NEUT9|So why exactly does this trade war matter to investors when new tariffs are applied to products?
+NEUT10|It's not the countries that actually pay for them.
+NEUT11|The companies that sell the products pay the additional costs up front, and then they usually pass the expense on to their customers.
+NEUT12|For example, prices on some electronics that are manufactured in China and then exported to the US.
+BEAR13|Could rise as a result of the tariffs which could cause certain device prices to rise.
+BEAR14|If that happens, sales from the US tech companies could fall.
+BEAR15|Not only that, but the higher cost of devices would likely cause Americans to curb their spending and rising tariffs on US goods being exported to China means that companies in that country could increase their prices as well.
+BEAR16|And Chinese consumers could suffer in the same way that US consumers are China and the US have two of the biggest economies in the world and the International Monetary Fund has warned that it all out trade war between them.
+BEAR17|Could hurt the global economy.
+BEAR18|Because of this trade war, tensions between the US and China cause some volatility in the stock market.
+NEUT19|But that doesn't mean that investors should panic and sell their stocks.
+NEUT20|The trade negotiations aren't finished yet, which means that selling stocks before any trade deals are made is just selling based on fear.
+BULL21|Keep in mind that over the long term, the stock market has produced some strong returns even in the face of wars depressions.
+NEUT22|Recessions and other negative events.
+BULL23|In fact, the current trade war is actually creating some new investing opportunities as investors flee the market.
+BULL24|It's pushing some share prices down and allowing savvy investors to ****** up companies at bargain prices.
+NEUT25|There's still a lot of uncertainty about what will happen with the US and China trade negotiations, but the one thing that investors should remember is that, for the most part, it's best to stay the course with their investments and be on the lookout for bargains.
+NEUT26|Thanks for watching this video.
+NEUT27|Don't forget to like it and they would comment below.
+NEUT28|"And click the subscribe button to get more videos like this from The Motley Fool."""

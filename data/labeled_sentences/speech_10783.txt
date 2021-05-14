@@ -1,0 +1,12 @@
+NEUT0|"""Many companies and people have been trying to predict investment prices for a very long time."
+BEAR1|However, they don't always make money and can end up losing hundreds of millions of dollars.
+NEUT2|Artificial intelligence will change the way people invest forever.
+NEUT3|I create a model based on an LS, TM or a long short term memory cell and LSTM similar to an RN or recurrent neural network.
+NEUT4|And iron and is based on the way humans learn, and the only difference between LS team and an RNN is then Alice team retains memory better with this model was trying to predict Google's future stock price.
+NEUT5|To start, I cleaned and reshaped my data using Scikit and Numpy.
+NEUT6|The neural network I created has four LST on layers and an output layer.
+NEUT7|He uses something called dropout regularization to prevent overfitting the optimizer I used was Adam and the loss function I used was mean square error.
+NEUT8|Once I finish building the neural network, I use Matplotlib to plot Googles real stock price and is predicted stock price.
+NEUT9|The model was very good at predicting trends in Google stock price, even unexpected ones with AI.
+NEUT10|Major unexpected bubbles like the housing bubble in 2008 can be predicted and prevented.
+NEUT11|"AI is the future of finance and is already being implemented in companies all around the world."""

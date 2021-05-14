@@ -1,0 +1,13 @@
+NEUT0|"""With an epidemic was predictable."
+BEAR1|Naseem was a pandemic preventable.
+NEUT2|No, it was at this the whole point.
+NEUT3|Of course it was preventable and we've known from, you know, Giant 26 when we issued our warning that effectively you should kill it in the egg if you can and act very quickly.
+NEUT4|And of course people ignored it, except perhaps just a tiny bit.
+NEUT5|The Trump administration, by closing travel from China or restricting it in some ways.
+NEUT6|So it was.
+NEUT7|Not a Black Swan and it was a white Swan.
+BEAR8|I'm so everything that people who say it's a Black Swan.
+NEUT9|We have had Black Swan.
+NEUT10|September 11 was definitely Black Swan.
+NEUT11|This was the white Swan and it's no excuse for Companies Corporation not to be prepared for that.
+BEAR12|"And definitely no excuse for governments to not be prepared for something like this."""

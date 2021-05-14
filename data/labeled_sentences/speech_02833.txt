@@ -1,0 +1,34 @@
+BEAR0|"""Unfortunately, President Biden's infrastructure plan has serious flaws."
+NEUT1|Hello, I'm Steve Forbes and this is what's ahead where you get the inside.
+NEUT2|She needed to help navigate these turbulent times.
+BULL3|It's counterintuitive, but President Biden's just unveiled infrastructure program could end up hobbling the American economy more than helping it.
+NEUT4|It goes far, far beyond the traditional mix of money for highways, bridges, ports, airports, dams, and transit systems.
+BULL5|For instance, it earmarks $300 billion to assist American manufacturing.
+BULL6|In reality, the private sector here is doing remarkably well.
+NEUT7|Output at or near record levels as the pandemic proceeds.
+BULL8|In fact, Biden's big tax increases on businesses will slam manufacturers.
+NEUT9|Washington will be taking money away from these companies that could be used to upgrade and expand their enterprises.
+BULL10|Biden's proposed tax hikes will make the US less competitive.
+BULL11|Our corporate rate, federal and state combined would once again be just about the highest in the world.
+BEAR12|That and other business tax changes Biden wants will repel overseas investors from setting up facilities here, and despite what the President says, give perverse incentives for American companies to invest abroad.
+NEUT13|And what the president is doing here is just a foretaste of more economy killing tax increases to come.
+NEUT14|The Biden plan also proposes $213 billion to make housing, among other things, more affordable.
+NEUT15|Yet what makes housing so unnecessarily expensive and much of the country is government regulation.
+NEUT16|One small example is a solar power requirement in California that adds $9000 to the cost of a house.
+BEAR17|Far worse is the time-consuming hurdles and mandates to get a housing project.
+NEUT18|Approve.
+BULL19|Compare Texas with California, a project in the Lone Star State can get greenlighted in a matter of weeks.
+BEAR20|Versus literally years in the Golden State, Texas's population is expanding rapidly while California stagnates yet prices for compareable housing in Texas remains so much smaller than in California.
+NEUT21|The president's plan wants to spend 10s of billions of dollars on 500,000 electric vehicle charging stations.
+NEUT22|Come on, man is our president likes to say.
+NEUT23|Did Washington have to subsidize the building of gasoline stations?
+NEUT24|Of course not.
+NEUT25|If there is a real and growing desire for electronic vehicles, investors will gladly build those charging stations and do so at a fraction of the cost.
+NEUT26|Will get with government involvement.
+NEUT27|Unfortunately, the White House ignores a key reason why government infrastructure projects are so costly and that is like housing.
+NEUT28|There are unnecessary, time-consuming hurdles to get anything done.
+NEUT29|A bridge that could be built in two years can now take 10 years.
+NEUT30|The private sector, which owns about 2/3 of the country's infrastructure, knows how to efficiently build and maintain it.
+NEUT31|No crisis there, except when government interferes.
+NEUT32|I'm Steve Forbes.
+BULL33|"Thanks for listening to sending your comments and suggestions and look forward to being with you soon again."""

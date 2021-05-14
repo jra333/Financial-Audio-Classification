@@ -1,0 +1,24 @@
+BEAR0|"""Here we see Facebook shares falling pretty dramatically after hours."
+BEAR1|Now down about nine and a half percent, the company reporting revenue that fell light of expectations revenue had been projected to be 13.36 billion, Q2 revenue coming in at three 13.23 billion and its earnings per share two cents better than expected at $1.74.
+BEAR2|Analysts had been expecting $1.72, but the daily active users and the monthly active users.
+BULL3|Also lighter than expectations, monthly active users 2.23 billion for the quarter.
+NEUT4|It was expected to be 2.25 billion daily active users, 1.47 billion.
+BULL5|That's a little lighter than the 1.49 billion expected.
+BULL6|We are still seeing the same ratio of daily active to monthly active users, so 66% of monthly active users check Facebook daily, so that's in line.
+BEAR7|But because of those slightly lighter daily and monthly, active users were seeing.
+NEUT8|Average revenue per user.
+BULL9|Two cents better than expected at $5 in 97 cents.
+NEUT10|Mark Zuckerberg.
+BULL11|His quote in the release here saying our community and business continued to grow quickly.
+BULL12|We are committed to investing to keep people safe and secure and to keep building meaningful new ways to help people connect.
+NEUT13|Now in terms of that investment, they're making in safety and security.
+NEUT14|We see that capital expenditures for the second quarter were 3.46 billion.
+BEAR15|That's a little bit heavier than the 3.5 billion expected an headcount.
+NEUT16|Is now 30,275?
+BULL17|That's an increase of 47% year of year.
+BULL18|Of course the company continues to invest in more people to help address those issues like election integrity stock.
+BEAR19|Now down over 9%.
+NEUT20|Hey there, thanks for checking out CNBC on YouTube.
+NEUT21|Be sure to subscribe to stay up to date on all of the day's biggest stories.
+NEUT22|You can also click on any of the videos around me to watch the latest from CNBC.
+BULL23|"Thanks for watching."""

@@ -1,0 +1,33 @@
+BULL0|"""Hello everyone and welcome back to the channel."
+NEUT1|As you probably know, a few days ago Netflix released the earnings for the fourth quarter and for this reason I decided to make a video to analyze the company together before starting.
+NEUT2|Remember to subscribe to the channel to do lose the next updates and the next videos and hit the like button if you want to support me to create other contents, remember that these are not financial advisor, so do your research before to invest your money.
+NEUT3|Netflix said needs no introduction.
+NEUT4|It is a very famous company.
+NEUT5|They provide an entertainment service through their platform.
+NEUT6|They offer a library of movies, documentaries and TV series, and they profit from the user subscription.
+NEUT7|Netflix was founded in 1997, initiated Business model was very similar to Blockbuster and they were focused mainly on DVD sales or rental.
+BULL8|Netflix was much smaller compared to Blockbuster, but by adapting to the changing market they destroy the competition with the introduction of streaming media today, Netflix as a market capitalization of 200.
+BULL9|$48 billion and is leading the industry even if the competition is getting tougher because many other companies like for example Amazon are expanding into the entertainment industry a few days ago, Netflix released the last quarter financial reports and the shares price jumped up to $593.00, making new all time high.
+NEUT10|But let's take a look at some numbers.
+BULL11|The last quarter has been very positive.
+BULL12|The company added 8.76 million paid subscribers.
+BULL13|Meeting was set, forecast revenue increased in 2022, almost $25 billion, so an increase of approximately 24% compared to 2019.
+BULL14|Net income increased strongly from 1.86 billion to 2.76 billion, an increase of approximately 48% year over year.
+NEUT15|Let's move on to the balance sheet, the financial position.
+NEUT16|It's a bit risky.
+BULL17|We can see that the company increased the depth over the past years up to $16 billion.
+NEUT18|And this adapter is very high compared to the equity long term liabilities exceed the short term assets, but they're covered by the long term assets.
+NEUT19|Considering that the company is growing, this become a bit less relevant.
+BEAR20|But if the business same future will have problems, everything could become more risky.
+NEUT21|What are the main risks of investing in Netflix?
+NEUT22|From my point of view, the main risk is the competition.
+BULL23|The main competitors are Amazon, Disney and Apple, and even though Netflix are is leading the market, the competitors are great companies with great managements.
+NEUT24|And with a lot of resources, so this is definitely something to watch out.
+NEUT25|Another major risk, as we have already seen before, is that the company has a very high depth.
+NEUT26|Let's take a look at the price action.
+NEUT27|The shares are trading at $562.00 while I'm recording this video.
+BULL28|The long term trend is positive and this is not a surprise considering the good fundamentals we come from.
+NEUT29|This long consolidation in a range between 458 and $472.
+BULL30|After the company released the earnings, the price jumped above this resistance and they decided to open a long position.
+NEUT31|After this small pull back with a stop loss below this loss.
+NEUT32|"I hope you enjoy the analysis and if you did, please click like button and remember to subscribe to the channel to the lose the next content and see you all in the next video."""

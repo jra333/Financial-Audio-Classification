@@ -1,0 +1,22 @@
+NEUT0|"""I mean the big debate."
+NEUT1|I guess going back the past couple of months then how much has the retail investor had to do with his rally?
+NEUT2|How much do they have to do with the massive gains that we've seen over the last couple of months?
+NEUT3|And of course the Robin Hood trading app that has become a favorite here amongst many retail investors.
+NEUT4|May she got some breaking news regarding Robin Hood within the last hour or so.
+NEUT5|Jerrod Blicker joins us now with a little bit more on this injured from my understanding, Robin Hood is now facing an SEC probe over its high speed trader gales.
+NEUT6|What can you tell us at this point?
+NEUT7|Yeah, so just a little bit of background Robinhood sells its order flow.
+NEUT8|Those are its customers, order orders to firms like Citadel, Sigma 2 virtual financial is another big one and maybe one or two others and they get compensated nicely for that.
+NEUT9|That's a huge part of their revenue.
+BEAR10|So now they're facing an SEC civil fraud investigation over their failure to fully disclose practice of selling clients orders to some of these high speed trading firms is coming by the way of Dow Jones an it's supposed to be in the late stages.
+NEUT11|Of the investigation.
+BEAR12|So sources are saying Robin Hood could face a fine as high as $10 million, and this is a firm that was founded by two guys who got their start really cut their teeth at the high frequency trading desk in Wall Street so they know the ends and outs, and some have even speculated that they designed the Robin Hood product to extract the maximum revenue because the Robin Hood traders orders are more valuable than just about anybody else is they tend to be concentrated in smaller, more volatile stocks, and those are the stocks that pay more when they sell their order.
+NEUT13|Low and in addition there are some other factors that people talk about when they when Robin Hood joins the discussion.
+NEUT14|There's a lot of pejoratives about the traders and I'm not going to make any statement like that.
+NEUT15|I think anybody getting into the market now and and trying to learn about stocks is a great thing, but this is a probe into maybe not disclosing to their customers that their order flow is going to be sold.
+NEUT16|It's not went on the merits of whether that's right or wrong, but if there's a disclosure issue and they face a $10 million fine.
+BEAR17|Could see some investor lawsuits as well.
+NEUT18|And certainly interesting, and we also want to bring up the fact that I think it was about a week ago that Robin Hood made the announcement that they're bringing on 2 new Chief compliance officers as they deal with some of these complaints from not only investors, but then also, of course that regulatory scrutiny that we're talking about today.
+NEUT19|Hey investors, Zach Guzman here are you interested in learning more about the markets and getting the latest financial news?
+NEUT20|Well then click right here to subscribe to our Yahoo Finance YouTube channel.
+NEUT21|"Get the latest up to the minute market analysis big interviews in the world of Finance and information on how to manage your money every day, wherever you are."""

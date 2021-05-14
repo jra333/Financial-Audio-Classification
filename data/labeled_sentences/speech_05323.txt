@@ -1,0 +1,14 @@
+NEUT0|"""Neo stock analysis and predictions, December 26th."
+NEUT1|In today's NEO stock analysis and predictions, Apple manage are spotted at Anyo HQ.
+NEUT2|Alright, let's get started recently and Apple Manager was spotted at NIO headquarters sometime this week.
+NEUT3|No one knows what was the basis of their conversation was, but some say it had to do with collaboration ventures, says a Silicon Valley source.
+BULL4|Apple recently announced that they will be building a car to compete with Tesla.
+BULL5|Apple has hired more engineers to build out their Apple ICAR and software for their autonomous vehicle.
+BULL6|It is rumored that Enyo and Apple will collaborate on autonomous driving technologies, since NIO is the leader in that field connecting the dots.
+NEUT7|An Iowan Apple may work on further projects besides Autonomous Drive.
+NEUT8|Some say they may come together as one cooperation time will only tell that's what's been happening this week in the world of NEO stock analysis and predictions.
+NEUT9|If you haven't subscribed yet, make sure you click the subscribe button at the bottom right and subscribe to financial health right now so that next week you'll get the inside scoop on the latest developments to keep you and your business on the leading edge of NIO stocks and predictions.
+NEUT10|If you enjoyed this edition of NEO stock analysis and Predictions, Leave a comment and please hit the like or share button.
+BULL11|We'd really appreciate it.
+NEUT12|Are you still watching and want more?
+NEUT13|"Check out last week's NEO stock analysis and predictions by checking out our Neo playlist."""

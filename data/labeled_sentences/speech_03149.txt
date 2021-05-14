@@ -1,0 +1,30 @@
+NEUT0|"""Can I ask you about the first Fed meeting then for the year?"
+BEAR1|Today is what we have in the backdrop more evidence that the US economy has been losing steam, but then hope still around this rebound later this year as a vaccine should take effect.
+NEUT2|What's aligned.
+NEUT3|Expect Jay Powell to talk about or to strike when it comes to this economic story for 2021.
+NEUT4|So it is a heavy consensus that the message won't change.
+NEUT5|This meeting, after all the last meeting they updated their forward guidance on asset purchases.
+NEUT6|There won't be any talk around tapering until we've seen that substantial progress.
+NEUT7|Well, I guess outline that's unlikely to appear until the summer at the earliest.
+BULL8|I think later on in the year then it becomes quite interesting if the economy does reopen, then we see what potentially could be the extremely rapid rebound supported by huge amounts of cash on deposit.
+NEUT9|From the household sector, the Fed may have to start to rethink its guidance later in the year.
+NEUT10|Just on the point around tapering, it's quite extraordinary.
+NEUT11|We talk about many of the challenges that lie ahead and what we're seeing economically that some investors are very much focused on.
+NEUT12|Whether tapering signals doesn't start to happen this year, give us a sense of what the Fed would need to see in for how many months to be confident that they could start talking about withdrawing stimulus.
+NEUT13|So I'll say this, the two objectives his pickup in inflation.
+NEUT14|I think that's coming in the spring just through base effects.
+NEUT15|But more importantly the labor market.
+BEAR16|So we did see several million new jobs created between now and then before they would like to consider the tapering approach.
+BEAR17|And without employment rate coming down, there probably close to 5% area.
+NEUT18|But that would be.
+NEUT19|And then measure substantial progress and to begin the discussion around tapering team.
+BEAR20|As we as we look at the moves that we're seeing around the fixed income market, 5 year tips yields fell.
+BEAR21|We're now at the lowest on this tips yield since April 2014.
+NEUT22|What does that imply in terms of the markets view on inflationary pressure?
+BULL23|So real yields are extraordinarily low, but this is something that the Fed would welcome is helping prevent people, creates easy financial conditions that we have seen, that the break even rates start to move higher over the last few months.
+BULL24|And that's also a welcome development.
+NEUT25|So one of the key objectives from the Fed is to raise inflation expectations.
+BEAR26|They've been running below levels consistent with meeting their target in the medium to longer term.
+NEUT27|So if you re Kathy their statement, this is something they're looking at extremely carefully.
+BULL28|Not only do they want to see actual inflation up.
+NEUT29|"10% but also they won't see the anchoring of inflation expectations around that 2% figure as well."""

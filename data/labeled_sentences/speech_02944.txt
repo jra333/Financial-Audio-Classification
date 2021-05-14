@@ -1,0 +1,11 @@
+NEUT0|"""Tesla's new price target is now confirmed."
+NEUT1|Our converse just came up with a blog and their price prediction for Tesla in 2025.
+BULL2|Last year they had estimated that Tesla would hit 7000 per share, or 1400, adjusted for its five for one stock split.
+NEUT3|Right now Tesla is going for $654.00 and their new price target is 3000 by 2025 and the worst case scenario is 1500.
+NEUT4|And if they exhibit their expectation is going to go to 4000.
+NEUT5|To get to this price focused, they used Monte Carlo Morrow, the Monte Carlo simulation is known for its high accuracy companies like IBM Use a Monte Carlo simulation due to their accuracy over the long term predictions.
+NEUT6|So when are you going to buy Tesla?
+NEUT7|Are you going to buy here?
+NEUT8|Here.
+NEUT9|Here or here, the choice is yours.
+NEUT10|"Follow for more."""

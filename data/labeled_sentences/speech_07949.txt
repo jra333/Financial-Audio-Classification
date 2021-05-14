@@ -1,0 +1,19 @@
+NEUT0|"""When McDonald's launched the Big Mac in 1967, it costs just $0.45, but the same Big Mac now costs $3.99."
+NEUT1|Why?
+NEUT2|The answer is inflation to see how fast prices are rising everything from the price of a leg wax to the cost of a bottle of whiskey are closely monitored by statistical bureaus.
+NEUT3|These changes in prices are entered into a Calculator.
+NEUT4|An outcomes one single percentage number.
+NEUT5|The rate of inflation and this number helps government set welfare payments.
+NEUT6|And helps you decide how much to ask your boss for a pay rise in a stable economy, prices usually go up steadily overtime by one or two percent a year, but sometimes things get out of hand in 2008.
+BULL7|Prices in Zimbabwe doubled every 24 hours.
+NEUT8|The government printed more and more money before long, everyone was a trillionaire.
+BEAR9|Things got so bad that the country ran out of paper to print all the banknotes.
+NEUT10|Once an inflationary spiral like this begins, it's almost impossible to get out of, and governments must either devalue their currency or ditch it altogether.
+NEUT11|This is what happened in Germany in the 1920s, so is inflation bad?
+NEUT12|Not so fast.
+NEUT13|A small amount of inflation is usually seen as a good thing.
+NEUT14|It helps keep an economy growing, and it also staves off the threat of deflation and a bit of inflation is good news if you're in debt, just ask anyone who took out a mortgage on a low interest rate before a property boom.
+BEAR15|But it's bad news for savers, just as inflation eats into debt, it also eats into savings 100 pounds stashed in your Piggy Bank will buy you less in five years time then it will today.
+NEUT16|If your income isn't keeping up with prices, you're getting poorer for one of the most important concepts in economics.
+NEUT17|It's also one of the simplest.
+NEUT18|"Inflation is just the average rate that prices are rising."""

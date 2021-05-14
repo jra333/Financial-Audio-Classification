@@ -1,0 +1,6 @@
+BEAR0|"""Silver futures continue to coil sideways as investors wait to see how future policy's impact the supply and demand table we've seen countries like China already take more of a greener initiative and look to boost solar demand where a large component of solar panels is silver, we should continue to see how mining input has been negatively impacted due to the coronavirus and the restrictions around social distancing."
+NEUT1|Those social distancing measures.
+BEAR2|Had impacted the supply that's available and would demand continuing to increase.
+NEUT3|We do expect coming into 2021.
+BULL4|We should see a new breakout high in the silver market.
+NEUT5|"Continue to monitor any new policies and procedures that new governments may roll out going forward."""

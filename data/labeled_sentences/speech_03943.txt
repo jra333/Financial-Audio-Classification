@@ -1,0 +1,20 @@
+NEUT0|"""Hi today I will show you how you can read the article from The Economist without any subscription."
+NEUT1|So go to Google and search by.
+NEUT2|Economist.com OK.
+NEUT3|So this is economist.com even more.
+NEUT4|There is a limitation to rate article from The Economist in every week.
+NEUT5|So like I'm going to this one.
+NEUT6|OK, this is artikkel.
+NEUT7|Or no, they're asking for a subscription, but I want money so, but I want to read these articles.
+NEUT8|So what can I do?
+NEUT9|Just go back.
+NEUT10|And.
+NEUT11|Open link in Incognito window.
+NEUT12|Article is opening.
+NEUT13|Y'all, this is artikkel.
+NEUT14|So.
+NEUT15|Yeah, there is subscription asking so just log in.
+NEUT16|Do you know the email you have my account so fast all you have to open an account here in accounts so I have an account so I'm just logging in.
+NEUT17|OK, so this is the article, so now this way you can write any article from The Economist without any charge without any subscription.
+NEUT18|Thank you.
+BULL19|"Thank you so much."""

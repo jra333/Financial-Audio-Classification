@@ -1,0 +1,39 @@
+NEUT0|"""Yes."
+NEUT1|Now is Aneesh Chopra president of Care Journey, former chief technology officer under President Obama?
+BULL2|It's good to have you here.
+NEUT3|How strong of a case do you think the government has when it comes to proving that Google abused its monopoly power here over search and search ads?
+NEUT4|Well, there's really 2 cases to consider.
+NEUT5|One is the filing that the Justice Department made today on a narrower set of harms around the search sort of promotion.
+NEUT6|If you will.
+NEUT7|And for there, there are a lot of allegations that are serious, but my eyes and attention are on the broader set of accusations that are in the house.
+NEUT8|Antitrust hearing report and is likely the basis of the state AG's, whose work is still underway.
+NEUT9|So today's actions, while important, I think, are only one of maybe a larger message to evaluate in terms of the seriousness of the charges.
+NEUT10|What does it all add up to a niche?
+NEUT11|Well, we have rules on the books and the rules are meant to make sure that we have fair competition.
+NEUT12|We have expert agencies who are on the task to make sure that the rules are followed.
+NEUT13|What we saw today is that the Justice Department is taking some action, but that a bipartisan group is going to take other action.
+NEUT14|And the bottom line is this.
+NEUT15|If you believe in fair and open markets, you want these proceedings to move forward and you want all the facts to be adjudicated under the rules that we have in place.
+NEUT16|And that process is working.
+BULL17|So I have confidence.
+BULL18|That the outcome will be better for the American people.
+BEAR19|So do you have confidence that this is going to lead to some form of reprimand for Google?
+NEUT20|So what normally happens in a scenario like this is that the attorneys general.
+NEUT21|For example, if they take a broader set of harms to consider beyond the narrow scope from the Justice Department, there may be a discussion about settlement or remedies, and so obviously the the sort of nuclear option would be some form of breakup, but a more pragmatic one may be agreed upon behaviors that would result in more competition, and that's likely the likeliest outcome.
+NEUT22|Here is some form of negotiation around.
+NEUT23|Remedies that will make sure there is more competition in the search market.
+NEUT24|I need do you regret during the Obama administration that that you guys weren't tougher on these kind of companies, especially Google and Facebook, and allowed them to become so large and so powerful, which makes it almost more difficult now to figure out how to regulate them.
+NEUT25|We had a very thorough investigation that the Federal Trade Commission, which did explore all of these accusations of harm.
+NEUT26|They had expert there, just their justification at the time had been that the evidence did not merit action.
+BULL27|I had faith in the FTC's research at the time, and I have faith in the process that's underway today.
+NEUT28|Facts change.
+NEUT29|Markets emerge.
+BULL30|Search through mobile devices has vastly exceeded what you would normally think of as desktop search.
+NEUT31|And so the definition of the market itself.
+NEUT32|Is also evolving I I believe we had the right judgment then and I believe the similar processes will render the right judgment now, even if the actions will be different.
+NEUT33|What do you make of the timing of all this so close to an election?
+BEAR34|Look, I think you have to discount the actions because the team that's filed these accusations today from the Justice Department may not be around in a few months and so I could imagine the markets reacting in a manner that this may not be the team that's going to carry the suit forward, but I would say anyone who thinks that these are not serious charges keep an eye out on the bipartisan 7 state coalition because that group is going to take serious charges and they're going to be here long after the election.
+NEUT35|So that's why I think there is a viable sort of active.
+NEUT36|A program that we should be mindful of that will have market impact.
+NEUT37|Shepard Smith here.
+NEUT38|"Thanks for watching CNBC on YouTube."""

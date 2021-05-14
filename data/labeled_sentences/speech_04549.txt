@@ -1,0 +1,29 @@
+BEAR0|"""So I think the disruptive events of the virus are pretty significant and broad based, and it's also spreading around the world."
+BEAR1|So what we're seeing now is a enormously large economic shock spread over February in China March in April in the US, in Western Europe and elsewhere.
+BEAR2|And it looks to us like the global economy overall will be contracting in the second in the first half of the year, and I would emphasize, recessions are about the depth of the shock, the breath, and also the duration of it, and the first two we have.
+NEUT3|We have a very big shop.
+NEUT4|And it's spreading across the world.
+NEUT5|What we don't think is we're going to have the duration of the shock we think we will be rebounding around the middle of the year.
+BEAR6|And hopefully that means that we're not going to have the consequences, particularly on labor markets, that we normally get with the recession.
+NEUT7|I'm curious what you base your forecast on weather it's channel checks or whatever it may be because we have yet to hear.
+NEUT8|We don't know how many cases there are going to be here in the United States.
+NEUT9|We don't know the impact it will have on various industries.
+NEUT10|The only barometer we have right now is the stock market.
+NEUT11|We don't get.
+NEUT12|Earnings reports for another three weeks when we will presumably hear what the impact has been so far.
+BULL13|An hopefully we can get some forward guidance at that point.
+NEUT14|Then we get a better sense of where this is going and how bad it may be, but I'm curious what you're basing years on right now, Bruce.
+NEUT15|Not that I'm questioning it, I'm just curious where it's coming from.
+NEUT16|It's appropriate to question, and it's appropriate to note that forecasting is forecasting it's it's looking into the future.
+NEUT17|I think what we're basing it on is the sense of what has been happening in terms of the containment containment messages.
+NEUT18|Measures the social distancing activities that have taken place.
+NEUT19|The fear factors, and we've seen it play out in China.
+BULL20|We're seeing it play out in Europe and we're starting to see it build in the United States.
+NEUT21|So the looking at the entertainment industry, the travel industry looking at what might be happening just over March in April.
+BEAR22|That's enough with modest spillovers to the rest of the economy to produce a contraction in US and in global GDP.
+NEUT23|As we go through that.
+NEUT24|The magnitude of it and how long it lasts, how the virus plays out.
+NEUT25|How effective the policy's are?
+NEUT26|These are all things that were actually taking a reasonably positive view, looking out three to six months.
+BEAR27|But I think there should be little doubt that we're going to get hit very hard here in terms of what happens in March and April, and what that means for GDP growth.
+BULL28|"Alright, Bruce, thanks for joining us today."""

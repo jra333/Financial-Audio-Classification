@@ -1,0 +1,30 @@
+BULL0|"""You've raised a couple of billion dollars, but shares are already up over 70%."
+BEAR1|The investor, Bill Gurley, has been screaming from the rooftops that there's something wrong with this process.
+BULL2|Air BNB up 100% on opening day.
+BULL3|Same with DoorDash Poshmark 150%.
+NEUT4|Do you at all feel like you left money on the table here?
+NEUT5|So the way I look at this is we feel that we priced the way we were all comfortable.
+NEUT6|We are running a business and we understand that we need to show up and operate an.
+BULL7|Had earnings and beat earnings and an we feel that we made the right decision and the framework of of these valuations.
+NEUT8|People are subscribing to the long term and I think that's the right way to look at it.
+NEUT9|We are building something for the long term.
+NEUT10|You're not joining us on our journey today just for tomorrow.
+BULL11|You are signing up for our very long road ahead of us to try and make relationships healthier and more equitable, and to build a brand that resonates not just with women but makes.
+NEUT12|Connections better for everyone and so you know the the folks that have joined us on this journey.
+BULL13|To date I am grateful for them and we're really excited for everything that lies ahead.
+BULL14|So the app has thrived in the lockdown.
+NEUT15|You already had video on there.
+NEUT16|You added things like voice chat, fun games, virtual badges.
+NEUT17|But how does the growth story change as we come out of the pandemic?
+BEAR18|Are you at all concerned people are just are going to be tired of talking to each other on line and they're going to want to meet in person?
+BULL19|So we think that we are well positioned on both sides of this pandemic.
+NEUT20|You know, this pandemic has proven that loneliness is is not the way we were designed to live.
+NEUT21|We were designed to love and to be loved and have healthy and and equitable relationships and community.
+BULL22|Not just love, relationships and so we feel like we're very well positioned to continue to serve our community during this challenging time with video and at home.
+NEUT23|Features like you suggested, audio, video games and others coming soon.
+BULL24|But on the other end of this, we feel that we're well positioned to thrive in the sense that people have seen the true benefit of online dating.
+NEUT25|It's unlikely to, you know, ever revert back to how it was.
+NEUT26|People recognize that being able to bypass this law of needing to be at the right place at the right time to meet that person, you can.
+NEUT27|You can have that now through our product, and you can get to know each other and make sure that there is chemistry and make sure that there is a connection there before you go and put yourself.
+NEUT28|At risk, meeting a stranger, and so this adds such a layer of accountability and safety to people's quest of finding relationships.
+NEUT29|"Whether that's for something romantic or otherwise."""

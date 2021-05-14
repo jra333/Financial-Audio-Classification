@@ -1,0 +1,17 @@
+NEUT0|"""Hello, welcome to today's technical analysis."
+NEUT1|It's Monday, December 5th, 2016.
+NEUT2|I'm Celina Nicholas technical analyst at xm.com.
+BEAR3|Today will look at the euro versus the dollar on the daily chart so euro USD tumble to 20 month low early on Monday to touch 1.0505 prices.
+BULL4|Consequently bounced Tier 2 retraced.
+BEAR5|Most of the morning's losses, but the overall bias is still bearish.
+BEAR6|After breaking below the key 1.07 level and back in mid November, the market reached oversold levels.
+BEAR7|We saw RSI fall below 30, so that's in oversold territory now and that's quite a bearish signal, and this huge drop led to consolidation in the market.
+NEUT8|So we're seeing now a neutral bias in the near term.
+BULL9|Overall, we the bearish price is still in place.
+BEAR10|Strong resistance is at 1.07, so any rallies are expected to be capped at this resistance level.
+BEAR11|If there is a successful break above this resistance, we'd see another key resistance area 1.08 fifty and 1.09, and these are the October and June lows respectively.
+NEUT12|So it's quite an important resistance zone, which would have to be surpassed.
+BEAR13|In order to take immediate pressure off the downside, but if there is further decline and at break below 1.05, this would open the door for deeper decline towards 2015 low of 1.04.
+NEUT14|Sixty one.
+BULL15|Thank you very much for watching.
+BULL16|"Have a great day."""

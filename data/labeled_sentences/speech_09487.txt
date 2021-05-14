@@ -1,0 +1,22 @@
+BEAR0|"""More setbacks for Astra Zeneca as we've got more European countries halting the rollout of that vaccine."
+NEUT1|But you've also got Canada recommending its use, so walk us through the specifics of number one.
+NEUT2|What the health concerns are and how valid health experts say they are.
+NEUT3|Yeah, it's a pretty complicated situation when you're looking at sort of the concerns amid a pandemic, and so that is where scientists are coming in and saying these reports of blood clots, which is what is spurring the halt in administering Astra Zeneca vaccine over in Europe, or should not be too much of a concern, but they are still waiting to go through the process and review.
+NEUT4|They don't see the exactly link being that because of the vaccines the blood clots occur.
+NEUT5|We saw this a similarly when the FDA was, for example, looking at Pfizer and Moderna's vaccine and.
+NEUT6|There were discussions about bells palsy being a potential side effect or what was happening with reports in the real world about side effects like that.
+NEUT7|So it does depend on the individual and that's something that's exactly what health experts are holding on to for right now.
+NEUT8|Meanwhile, we're waiting for the decision to come out of the European regulatory body.
+NEUT9|Majority of the countries in Europe are either halting or suspending altogether.
+BEAR10|The administration of Astra Zeneca's vaccine, and we know this is the second time the company has had a snag.
+NEUT11|The first was concerns about.
+NEUT12|Administering this vaccine in elderly individuals 65 and older, some of the same countries that are now pausing previously were defending the vaccine.
+BULL13|Despite the blood clots, but now they've all banded together and just waiting for those results.
+NEUT14|Canada, now saying that even though it did authorize that vaccine for the general public last month, they are now going to open it up for 65 and older based on clinical data that they have previewed, and say that it's safe for them.
+NEUT15|So a lot of course, going on to keep track of.
+NEUT16|Meanwhile, here in the US, we're also looking at just how vaccines are rolling out in the age groups there, we know that some some states have already opened up to the general public, and now we're adding Ohio to that list, which just today said they're going to allow 16 and older to be vaccinated.
+NEUT17|So lot going on in the vaccine world.
+NEUT18|Yeah, and just the optics of 17 countries pausing that Astra Zeneca vaccine.
+NEUT19|Not great, but EU health experts still stressing as you pointed out there the blood clotting events, not necessarily large than what they've seen in the larger general population, but it is still when you think about Astra Zeneca's share of vaccines in EU about a fifth of those in the vaccine pipeline.
+NEUT20|So pretty substantial.
+BULL21|"If those do remain paused in terms of catching up where we are, but anjalika money appreciate you bringing us then."""

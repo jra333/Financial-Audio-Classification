@@ -1,0 +1,36 @@
+NEUT0|"""The winners and losers."
+NEUT1|This is a deal Journal feature on the blogging and see if they were going to bring it here though now with Dave Benoit, I guess winners and losers of the week winners and let's get right to it.
+NEUT2|Who's the big winner this week?
+NEUT3|So we're giving Tim Cook, the bacon CEO, Apple CEO.
+NEUT4|Apple is always aware but but Tim Cook, especially right?
+NEUT5|Yeah, and not always a winner in the last week, you know they've been there stocking going down.
+BEAR6|People were getting a little nervous.
+NEUT7|The iPhone going to keep selling right?
+BEAR8|So nervous ahead of the earnings report, like 50%.
+NEUT9|The earnings report to come in poorly questions would have started coming in about Tim Cook.
+NEUT10|He would have been under a lot more pressure, so earnings came in great Tim Cook smelling like a rose.
+BULL11|This week is a big winner.
+NEUT12|I think it.
+BULL13|I think it looks pretty good for him.
+NEUT14|Who's a big loser?
+NEUT15|You know.
+NEUT16|I think this we're going to give it to Goldman Sachs, Goldman Sachs, not to pick on them again but but to pick on them.
+NEUT17|But the Lloyd Blankfein charm offensive didn't work this week, so the guy all over the place.
+NEUT18|Yeah, he did a lot of TV appearances.
+BEAR19|I went a little flat, I think in.
+NEUT20|This morning now the Journal reports again that their bankers are involved in investigations.
+BEAR21|No ones been accused of wrongdoing yet.
+NEUT22|But being probed about insider trading and related to Raj Rajaratnam and whether or not this turns out to be a, you know, more charges or any involvement.
+BEAR23|It's definitely just kind of a hangover look.
+NEUT24|Several good thing to see your name splashed across the top of the front page of the Wall Street Journal is like the harder Goldman with insider program.
+NEUT25|Sometimes it's a good thing.
+NEUT26|The harder problem did this Reporter Goldman tries to.
+NEUT27|You know, get itself in a better position PR wise and seems to go in the opposite direction exactly they every every step.
+NEUT28|They take their something comes out from, you know another angle and hits him in the face.
+NEUT29|Good thing that makes so much money alright quickly without getting into it.
+NEUT30|Who else is on the list?
+BULL31|This so this week we're also giving winners to Nestle for its big purchase from Pfizer for infant nutrition.
+NEUT32|And another loser we're giving to Wall Street banks in general, the big bankers.
+BEAR33|Colleagues on reported earlier this week that banks are actually going to start cutting banker jobs, not just traders, but but the people that do the deals, which is which is a change of pace.
+BULL34|All right, David, thank you very much.
+NEUT35|"You can see that on the deal Journal block folks, winners and losers a week."""

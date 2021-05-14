@@ -1,0 +1,17 @@
+NEUT0|"""Hello, welcome to today's technical analysis for August 22nd, 2017."
+NEUT1|I'm referred by John currencyanalystericsson.com.
+NEUT2|Today we will look at the US dollar versus the Canadian dollar on the four hour chart.
+BEAR3|Dollar Loonie is showing little sign of ending the current bearish run that began on August 15 with the pair hitting a two week low of one point 2546.
+BEAR4|Earlier today this low is just below the 61.8% Fibonacci retracement level of the Julii.
+BEAR5|Till two August uptrend from one point 2413 to one point 2777, technical indicators remain in bearish area with the Mac D deep below 0 and still declining.
+BEAR6|However, the Stochastics are in oversold territory and percentage.
+BULL7|The blue Percentage D line is attempting to cross above the percentage K line, suggesting a possible easing of the downside momentum.
+BULL8|Should we see an upside, push resistance will likely come from the 50% Fibonacci.
+NEUT9|Retracement level of one point 2595, followed by the 38.2% Fibonacci level at one point 2638.
+NEUT10|Further up, we have the 250 for our moving averages County at one point 165 and one point 2668.
+BEAR11|These could stand in the way of prices reaching the 23.6% Fibonacci level at one point 2619.
+BEAR12|If the pair fails to hold above today's support level of one point.
+BULL13|2552 further losses would lead the way toward the 78.6% Fibonacci level of one point 2491 of break below this mark would clear the way to towards Julies two year low of one point.
+NEUT14|2413.
+BEAR15|A breach of this level would signal a resumption of the longer run down trend that began in May and would reinforce the bearish outlook in the medium term.
+BULL16|"Thank you for watching and have a great day."""

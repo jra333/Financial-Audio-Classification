@@ -1,0 +1,16 @@
+BULL0|"""International Monetary Fund on Tuesday raised its growth forecast for Indian economy by 100 basis points to 12.5% for fiscal year twenty 2122."
+BULL1|In its latest edition of World Economic Outlook, IMF said it expects India's GDP to grow 12.5% in FY22, the highest among emerging and advanced economies.
+NEUT2|GDP growth for FY23 is pegged at 6.9%.
+BULL3|Billionaire Gautam Adani Sports two energy conglomerate, has become India's third group to cross $100 billion in market cap, which shares of four of its six listed companies soaring to an all time high on Tuesday.
+NEUT4|The total market cap of Adani Group 6 listed companies at the close of trading yesterday was rupees 7.84.
+NEUT5|Lacked raw or $106.8 billion, according to Stock Exchange data.
+BULL6|COVID-19 is spreading at a fast pace with an increase in the intensity of the pandemic and the next four weeks are going to be very critical, the center said yesterday, as it stressed on people's participation to control the 2nd wave of the contagion.
+BEAR7|The 10 districts with the highest number of new cases are poonai Mumbai, Honey, Nagpur, Nasik, Bengaluru, Urban, Oranga Bath, Emma Duggar, Delhi and Dirk.
+BEAR8|The University of Oxford said yesterday it had paused a small UK trial testing the COVID-19 vaccine.
+BULL9|It developed with Astra Zeneca in children and teenagers as it waits for more data on rare blood clotting issues in adults who received the shot.
+BEAR10|The trial disruption is the latest blow to the vaccine.
+BULL11|Once hailed as a milestone in the fight against the pandemic.
+BULL12|President Joe Biden has announced that he's bumping up his deadline by two weeks for states to make all adults in the US eligible for Corona virus vaccines.
+BULL13|But even as he expressed optimism about the pace of vaccinations, he warned Americans that the nation is not yet out of the Woods when it comes to the pandemic.
+BULL14|The country's leading electric 2 Wheeler maker, Hero Electric, aims to train over 20,000 roadside mechanics across the country over the next three years to deal with any issue its customers might face as part of its plans to instill confidence in buyers who opt for the green mobility, according to a top company official, the Gurgaon based firm, which sold around 53,000 electric 2 Wheelers, last fiscal to lead the vertical, also aims to set up around 20,000 charging stations.
+BULL15|"Across the country over the next two years to ease range anxiety issues."""

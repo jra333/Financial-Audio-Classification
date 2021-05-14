@@ -1,0 +1,35 @@
+NEUT0|"""Had you thought about being a public company before you were approached by Eli and Keith?"
+NEUT1|Yeah, we were beginning to explore how we may want to enter the public markets.
+NEUT2|Kind of leverage the the energy that's in the public markets for this kind of space.
+NEUT3|And like Eli, I had never heard of us back up until being, you know, catching up with Eli and hearing about his back.
+BULL4|And yeah, it was just an amazing opportunity to leverage as a vehicle to go public.
+NEUT5|Yeah, it's it's funny.
+NEUT6|I mean, it just makes me laugh about you know all of these people.
+BULL7|You and others, even you know very well in successful long term investors are first learning in some respects about this brave new world that we've entered into with specs.
+NEUT8|We have a couple of indices here in which we track this back activity.
+NEUT9|You know, once it's formed and once it does a deal which is interesting in, in and of itself, what's the practical application?
+NEUT10|What can you tell our viewers, Eric and really, the investing public?
+NEUT11|That's who our viewers are about what this company does.
+NEUT12|Why they should be an investor in what semaphor is going to do in the future?
+NEUT13|Yeah, it's really.
+NEUT14|It's really all about you know the way I think about it is AI driven standard of care, you know.
+NEUT15|So AI is the standard of care.
+NEUT16|How do we harness all of the information that technologies like next Gen sequencing can produce on patients?
+NEUT17|Integrate that with the medical records around patients in partnership with patients in partnership with the position compute on those data derived the most meaningful, accurate insights.
+NEUT18|And then a way to communicate that.
+NEUT19|Back to position and patient in a way that facilitates clinically actionable decision making, so it's how to tie all the pieces together.
+NEUT20|Whether it's the the generation of the data, the interpretation of the data, that conveying of that information, and the standard of care to improve outcomes for all.
+NEUT21|What are you going to use the money for?
+NEUT22|So the money, yes, so the proceeds.
+NEUT23|That's all it's going to be.
+NEUT24|How can we move bigger, better, faster, like we, you know.
+NEUT25|So we have a standardized genomics platform that for health systems, can standardize the use of genomic information across the spectrum of disease.
+NEUT26|An information platform that, again facilitates integration of that data and insights derived from that data and conveying it to physicians and patients in a meaningful way.
+NEUT27|So it's about like what are the gaps in this platform?
+NEUT28|How do we want to fill out the genomics platform?
+NEUT29|With additional technology that we now have the, you know the fuel to go out and acquire as opposed to build on our own.
+BULL30|How do we enhance our ability to acquire and manage and scale harmonized data across multiple health systems and so on?
+NEUT31|So it's all going to be how to how to accelerate in increase adoption, the rate at which we can drive into health system again in partnership with physicians and patients, to provide more holistic solutions.
+BULL32|So I appreciate the time that you've spent with us.
+BULL33|Congrats to you.
+NEUT34|"On the deal today."""

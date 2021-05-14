@@ -1,0 +1,34 @@
+NEUT0|"""The intrinsic value of fine surface ranged between $0.68 per share and $28.83 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $0.68 per share represents the company's cash for every share issued and outstanding.
+NEUT3|They have $0.68 in cash and cash equivalents, paying $28.83 per share represents the company's price per share, based on its earnings, a price of $28.83 per share represents the fractional payment.
+NEUT4|We'd all have to pay for the company's next 20 years of median historical earnings, and this is a conservative way to go about valuing a company using earnings.
+NEUT5|And this is different from its price to earnings ratio.
+NEUT6|So the question becomes well, in my mind there's two questions.
+NEUT7|First, what the hell does fiserve do and #2 what are they trading at?
+NEUT8|So to answer the first question, find serve as a global provider of financial services tech and I it says here, at least according to Wikipedia, that companies clients include banks, thrifts, credit unions, etc.
+BEAR9|Most importantly, $98.35 seems unjustified.
+NEUT10|An let's, let's get some help from some technical analysis here, will look at its price to earnings ratio.
+BULL11|7488 is much higher than Benjamin Graham's suggestion of no greater than 20.
+BEAR12|So because of these two, well, really all these signals we're going to hold off on our investment of five serve, because it would be unreasonable to do so.
+NEUT13|They just add a range $98.00, and some change is much higher than.
+NEUT14|What we calculated for the high end which is $28.83.
+NEUT15|So what to do?
+NEUT16|I always look at these things as far as the decision to invest or not in the form of a choice.
+NEUT17|A binary choice.
+BULL18|So if the cases we either a invest in fiserve or be investing some alternative I know a couple of folks on YouTube's have suggested that I present an alternative and I definitely took their advice and I believe that the alternative that offers a similar return with similar risk, all while maintaining safety of principle in an ample margin of safety.
+NEUT19|Can be found with an investment in Vanguard 500 index funds an I'm only choosing this because Warren Buffett chose this same fund to beat out the hedge fund guys in New York in 2008.
+NEUT20|He didn't start winning until four years later and he ended up officially winning in 2018, which I find incredibly impressive simply because all he did was purchased and do nothing.
+NEUT21|And I mean look at this 10 year return.
+NEUT22|13% that is excellent, so this is where I would park my money if I were you guys, if you were considering an investment in Fiserve.
+NEUT23|And you saw this video.
+NEUT24|I would instead invest in Vanguard 500 until until this price here.
+NEUT25|Goes beneath $28.83 then it would be reasonable to invest in Pfizer if but until then take a look at this index fund here and I'm I'm not getting paid to say this.
+NEUT26|Vanguard is not paying me.
+NEUT27|I have no relationship with Vanguard other than the fact that I know that Warren Buffett chosen.
+NEUT28|I trust Warren Buffett.
+NEUT29|And I think you guys should choose this Vanguard 500 index fund as opposed to fiserve.
+NEUT30|At this time guys, if you got any value from this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance so that way your investment performance is optimized.
+NEUT31|Remember when your investment performance is optimized, so is your wealth production.
+NEUT32|I will see you in the next video value.
+NEUT33|"Investors stick around."""

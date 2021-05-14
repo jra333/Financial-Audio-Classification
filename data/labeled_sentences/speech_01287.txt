@@ -1,0 +1,30 @@
+BEAR0|"""Big movements and inpixon stock price on Thursday, moving 10.85% between high and low."
+NEUT1|Updated on February 25th, 2021.
+NEUT2|Sell candidates since 2021.
+BEAR3|Zero 2 to 23 loss minus 4.35%.
+BEAR4|The Inpixon stock price fell by minus 8.33% on the last day Thursday 25th February 2021 from $1.44 to $1.32 during the day.
+BEAR5|The stock fluctuated 10.85% from Adelo at $1.29.
+BULL6|Two, a day high of $1.43.
+BEAR7|The price has fallen in six of the last 10 days and is down by minus 21.89% for this.
+BULL8|Volume has increased on the last day by 307 thousand shares, but on falling prices this may be an early warning and the risk will be increased slightly over the next couple of days.
+NEUT9|In total 9 million shares were bought and sold for approximately $12.19 million.
+BULL10|Given the current short term trend, the stock is expected to rise 54.49% during the next three months.
+BEAR11|And with a 90% probability hold a price between $2.04, an $3.78 at the end of this three month period, dot signals and forecast here are few to no technical positive signals at the moment the inpixon stock hold cell signals from both short and long term moving averages, giving a more negative forecast for the stock.
+BEAR12|On corrections up there will be some resistance from the lines at $1.62, an $1.50 a break up above any of these levels will issue by signals.
+BEAR13|A cell signal was issued from a pivot top point on Thursday, February 11th, 2021, and so far it has fallen, minus 43.10%.
+BEAR14|Further fall is indicated until a new bottom pivot has been found.
+NEUT15|Furthermore, there is currently a cell signal from the three months moving.
+NEUT16|Average convergence.
+BEAR17|Divergent Macd D volume rose on falling prices yesterday.
+NEUT18|This may be an early warning and the stock should be followed more closely.
+BULL19|Dot support risk and stop loss inpixon find support from accumulated volume at $1.28.
+BULL20|And this level may hold a buying opportunity as an upwards reaction can be expected when the support is being tested dot.
+NEUT21|This stock may move very much during a day.
+NEUT22|Volatility an with a very large prediction interval from the Bollinger Band.
+BEAR23|This stock is considered to be very high risk during the last day the stock moved 14 cents between high and low or 10.85% for the last week the stock has had a daily average volatility of 15.70% DOT IOR recommended stop loss.
+BEAR24|We hold a negative evaluation for this stock.
+NEUT25|No stop losses set.
+NEUT26|Dyess Inpixon stock a buy.
+BEAR27|The Inpixon stock hold several negative signals, and despite the positive trend, we believe Inpixon will perform weekly in the next couple of days or weeks.
+BEAR28|Therefore, we hold a negative evaluation of this stock current score minus 4.031 predicted opening price for inpixon of Friday, February 26, 2021.
+NEUT29|"The predicted opening prices based on yesterday's movements between high low and the closing price dot fair opening price."""

@@ -1,0 +1,18 @@
+NEUT0|"""This is your stock market news for December 1st."
+BULL1|Hello guys and welcome back.
+BEAR2|Now the US stock markets closed lower on Monday as concerns mounted over surging COVID-19 cases across the United States and investors sentiment also took a hit you to a weak set of economic data.
+BEAR3|Now all three major stock indexes ended the day in red.
+BEAR4|Now, looking at the benchmarks performance, the Dow Jones industrial average dipped 0.9%.
+NEUT5|Closing at 29,638.
+BULL6|Snapping its gains from Friday.
+NEUT7|Notably, 11 components of the 30 stock index ended in green, while 19 finished the day in red.
+BULL8|Now the Blue chip index has become green at 3.9% year to date.
+BEAR9|One of the major losers of the Dow was The Travelers Companies in the TR V. As it slid 3.6%.
+BEAR10|Not travellers has a Zacks rank #3, which is a hold and of course the tech heavy NASDAQ composite closed the day at 12,100 and 9874 cents down zero point 1%.
+BEAR11|Now this is on the back of weak performance by large cap technology stocks snapping its four day winning streak.
+BEAR12|Now, Meanwhile, the S&P 500 fell 0.5%, closing the day at 3621.
+BULL13|Dollars and $0.63 reversing its gains from Friday.
+BEAR14|The energy sector, now the energy Select Sector SPDR and the financials Select Sector SPDR lost 5.5% and 21% respectively.
+BEAR15|Now we should note that nine out of 11 sectors of the benchmark index closed in the negative zone and only two closed in the green.
+NEUT16|Thank you very much watching that.
+NEUT17|"Was your stock market NEWS UPDATE until the next video, bye."""

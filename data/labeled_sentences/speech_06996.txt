@@ -1,0 +1,26 @@
+BEAR0|"""Fools retirees are often reluctant to take money out of their retirement accounts even after they stop working because they've been taught for so long that they should keep that money in the tax deferred account as long as possible."
+NEUT1|But there's actually a smart reason why once you retire, it actually makes sense to go ahead and take that money out sooner rather than later.
+NEUT2|In some cases, my name is Dan Caplinger.
+NEUT3|I'm the Motley Fool's director of investment planning, and today I want to talk about the shocking retirement income strategy that can actually save you.
+NEUT4|Thousands of dollars on your taxes.
+NEUT5|Now we all know that in retirement planning, tax deferred accounts are our best friend.
+NEUT6|It keeps us from having to pay taxes on the income that those assets generate throughout our lifetimes.
+NEUT7|We don't have to pay taxes, so we take the money out of those IR A's and 401K accounts after we retire.
+NEUT8|But once you retire, it really is smart to take a look at your tax situation and see if it makes sense to get that money included on your tax returns.
+NEUT9|Sooner rather than later, and the reason is pretty simple during your karere many people have a lot of money coming in as income that boosts them into high tax brackets and so it's not unusual for people to spend their careers in the 2528 thirty.
+NEUT10|Three, even 35% tax bracket.
+BEAR11|But then to see that income drop in retirement and reduce them into the 10% or 15% bracket.
+NEUT12|And so if that's happening to you, it really makes sense.
+NEUT13|To consider getting money into your tax return, going ahead and paying tax sooner rather than later.
+NEUT14|As long as you can get that preferential rate of around 10% to 15% now, you may ask, why not wait?
+NEUT15|If even if that's going to be around, why not wait and pay that lower amount later?
+NEUT16|Well, the reason is that eventually the IRS forces you to start taking money out of those IR A's and 401K's at age 70 and a half.
+NEUT17|You have to start taking required minimum distributions an if you have saved up until that point.
+NEUT18|You may find that the amount that you have to take out is high enough that it's going to push you up into higher tax brackets again, and so really it makes sense to use those years before you have to take required distributions out of.
+NEUT19|I raise and 401K's and use them to your advantage to pay lower tax rates.
+NEUT20|Now, just because you take them out doesn't mean you have to spend them.
+NEUT21|You can turn around and invest them into taxable accounts using low cost ETF's index ETF's like the Spider SMP 500, the Vanguard total stock market index.
+NEUT22|And keep that money available, but still accelerate the tax and get those lower rates and so something to pay attention to is you're considering your retirement planning is sometimes paying tax sooner than later gets you that lower rate and saves you money in the long run.
+NEUT23|Now for more on retirement planning and making sure you don't pay any more in taxes than you have to be sure to stay tuned to fool.com for more ideas.
+NEUT24|My name is Dan Caplinger.
+BULL25|"Thanks for watching and full off."""

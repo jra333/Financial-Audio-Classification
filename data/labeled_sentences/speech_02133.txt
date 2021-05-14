@@ -1,0 +1,22 @@
+NEUT0|"""Let's take a look at some specific names."
+BEAR1|Facebook, for one, had a tough start at the beginning of the year.
+BULL2|Momentum stocks were sold out, but it rebounded nicely.
+NEUT3|It's out doing his peers.
+NEUT4|So why are you concerned about Facebook's rise?
+BULL5|Yeah, so Facebook of course doing very, very well this year up about 40% year to date and it's had a recent sell off.
+BEAR6|But it's made back a lot of that loss already.
+NEUT7|And in fact the technical indicators and a variety of fronts are showing.
+BEAR8|Facebook is being very very weak in the short term.
+BULL9|Short term being the next two to six weeks, but longer term intermediate in the long term we see a lot of strength in Facebook.
+NEUT10|So for investors looking to get a position in a stock like this, they may look for some weakness in the coming weeks to get that.
+NEUT11|Get that order in.
+BULL12|But many analysts are saying that you know Facebook is really got finally gotten that mobile business down Pat.
+NEUT13|It's probable, whereas for example Twitter is not profitable.
+NEUT14|So what does the market have wrong?
+NEUT15|Well, I think sometimes just a case of the market not having it wrong, but the price just getting a little bit ahead of itself.
+BULL16|So we think the fundamentals on Facebook are very good.
+BULL17|The stock has had a great run, but it just seems to have gotten a little bit ahead of itself.
+NEUT18|Based on the technical analysis indicators right?
+NEUT19|Then the way you see it, how much could it fall?
+NEUT20|That's that's a good question, and you know, we tend to look at things like what's the next level of support for Facebook.
+BEAR21|"But certainly you know 5 to 10% fall back in the price of the stock would not be unusual."""

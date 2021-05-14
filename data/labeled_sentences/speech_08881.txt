@@ -1,0 +1,5 @@
+BULL0|"""After a stock on the move update here, one of the stocks we've been seeing move in today's session that would be AMC shares popping right now North of a 24% pop after that theater chain noted that they would be opening locations in Los Angeles, 2 locations being open to start with."
+BULL1|Hopes that they will expand to all of their California theaters, 56 of them by the end of the week as well.
+NEUT2|Barring approvals in those other municipalities.
+BULL3|But a big pop here for one of those meme stocks we've been covering.
+BULL4|"Finally catching a boost on fundamentals as theaters reopen."""

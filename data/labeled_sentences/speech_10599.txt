@@ -1,0 +1,9 @@
+NEUT0|"""Alright, well let's take the Apple stock we can see here."
+NEUT1|Apple had formed a small red candle, but this red candle is the first candle we closed below that 120 days year.
+NEUT2|My line.
+NEUT3|So it means in midterm this talk has gone into a bear market, so we need to pay attention to the.
+NEUT4|Continuous development of the law.
+NEUT5|Because here the law is still.
+BEAR6|Higher than an automated on the 23rd of February, weather is very dangerous if we make another new law that means the stock will continue to drop to the 200 year.
+NEUT7|My life.
+BULL8|"Thank you."""

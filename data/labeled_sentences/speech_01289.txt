@@ -1,0 +1,43 @@
+BEAR0|"""Diane PX is overvalued compared to its price of $1.98 per share, has well below average safety and is currently rated a hold."
+NEUT1|Recommendation rec.
+NEUT2|Hold rec reflects the cumulative effect of all the vector vest parameters.
+NEUT3|Working together.
+NEUT4|These parameters are designed to help investors buy safe undervalued stocks rising in price.
+BEAR5|Dot value Ekeren price $1.00 point 98 current value $0.00 point 81 INPX has a current value of $0.81 per share compared to a price of $1.98 per share.
+NEUT6|This stock is currently overvalued.
+NEUT7|Value is computed from forecasted earnings per share.
+NEUT8|Forecasted earnings growth, profitability, interest and inflation rates.
+BEAR9|Dot upside potential relative value RV very pors.
+NEUT10|RV is an indicator of long term price appreciation.
+BEAR11|Potential inp X has an RV of 0.49 which is very poor on a scale of 0.0 to 2.0.
+NEUT12|This indicator is far superior to a simple comparison of price and value because it is computed from an analysis of projected price appreciation three years out.
+NEUT13|AAA corporate bond rates an risk safety relative safety Rs very pores is an indicator of risk.
+BEAR14|Inp X has an Rs rating of 0.33 which is very poor on a scale of 0.0 to 2.0.
+NEUT15|Rs is computed from an analysis of the consistency and predictability of a company's financial performance, debt, debt equity ratio, sales volume, business longevity, price, volatility and other factors.
+NEUT16|Dot timing relative timing.
+NEUT17|RT very goob DRT analyzes a stocks price trend.
+BULL18|INPX has a relative timing of 1.37, which is very good on a scale of 0.0 to 2.0.
+NEUT19|RT is computed from an analysis of the direction, magnitude and dynamics of a stocks price movements day over day, week, over week, quarter, over quarter and year over year.
+BULL20|If the trend dissipates, RT will gravitate toward 1.0 overall rating value.
+NEUT21|Safety timing VST fairest is the master indicator for ranking every stock in the vector of this database.
+NEUT22|Inp ex has a VST rating of 0.91.
+NEUT23|Which is fair on a scale of 0.0 to 2.0.
+NEUT24|VST is computed from the square root of a weighted sum of the squares of RV Rs anarti stocks with the highest VST ratings have the best combinations of value safety and timing dot stop stop price stock price $1.00 point 4 two stop is an indicator of when to sell a position.
+NEUT25|Inp ex has a stop of $1.42 per share.
+NEUT26|A stock stop is computed from a 13 week moving average of its closing prices.
+NEUT27|And is fine tuned according to the stocks fundamentals.
+BEAR28|CI comfort index very poor.
+NEUT29|See is an indicator which reflects a stock's ability to resist severe and or lengthy price declines.
+BEAR30|Inp X has a PSI rating of 0.26, which is very poor on a scale of 0.0 to 2.0 size based solely upon his stocks.
+NEUT31|Long term price history.
+BULL32|GRT earnings growth rate.
+BULL33|GRT reflects a companies one to three year forecasted earnings growth rate in percent per year.
+BULL34|Inp X has a forecasted earnings growth rate of minus 7.00%.
+BEAR35|Vector Vest considers to be very poor DPS earnings per share.
+BULL36|EPS stands for leading 12 months earnings per share.
+NEUT37|Inp X has a forecasted EPS of minus $6.12 per share vector.
+NEUT38|Vis determines this forecast from a combination of recent earnings performance and traditional fiscal and or calendar year earnings forecasts.
+NEUT39|Dot P price to earnings ratio.
+NEUT40|Required to buy $1.00 of earnings.
+NEUT41|INPX has a P of minus 0.32.
+NEUT42|"The average P of all the stocks in the vector of his data."""

@@ -1,0 +1,17 @@
+NEUT0|"""Billionaire George Soros is fund."
+NEUT1|Manage is about $30 billion for Soros and his family.
+BULL2|But the progressive leaning Soros took nearly a billion dollars in losses recently, thanks to the stock market rally spurred by Donald Trump's surprise presidential election, Soros returned to trading at his fun last year, lured back by the opportunities to profit from what he saw as coming economic troubles.
+BEAR3|The Wall Street Journal's Gregory Zukerman, an Juliet Chung report that Soros was cautious about the market going into November.
+BEAR4|And became more bearish immediately after Trump's election, the stands proved to be a mistake, as the stock market is rallied, an expectation that Trump's policies will boost corporate earnings and the overall economy.
+BULL5|Over the past three months, the S&P 500 index has increased by more than 6%.
+BEAR6|As a result, some of Soros is trading positions in curd losses approaching $1 billion.
+BEAR7|People familiar with the fund say, adding that he adjusted his positions and exited many of his bearish bets late last year.
+NEUT8|Avoiding further losses.
+BULL9|That said, Soros is broader portfolio, performed better bringing in profits before an after the election from long held investments in sectors, including financials and industrials.
+BULL10|They say those gains helped Soros Fund management gain about 5% on the year, but Mr Trump's election has heard huge profits for others.
+NEUT11|1 clear example is Stanley Druckenmiller Soros, his former deputy who helped sorrow score $1 billion in profit betting against the British pound in 1992.
+BULL12|Sources say Druckenmiller anticipated the markets recent climb and racked up sizable gains.
+NEUT13|Druckenmiller left.
+NEUT14|Soros is firm in 2000 and now invest his own money, taking a different stance on the presidential election days before the election, he predicted that if Hillary Clinton emerged victorious, the stock market would likely rally initially, but then fall, and the opposite effect in the case of a Trump win.
+BULL15|These trades have paid off, as Druckenmiller's firm has scored gains of more than 10%.
+NEUT16|"In 2016"""

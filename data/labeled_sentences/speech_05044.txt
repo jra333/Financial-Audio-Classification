@@ -1,0 +1,41 @@
+BULL0|"""You just updated your expectations."
+NEUT1|Your forecast for E Commerce tell us the kind of acceleration that you're anticipating.
+BULL2|Yeah, thanks for having me on.
+BULL3|We published our 4th annual e-commerce Disruption report yesterday and in it we significantly raised RUSE Commerce forecast.
+BULL4|We now expect USE Commerce growth of 48% year over year in 2020.
+BULL5|Obviously a massive acceleration given the kovid demand.
+BULL6|With that e-commerce penetration rises to 17% of total retail sales.
+BULL7|That's a 5% penetration jump of versus last year, and it's really a big change because you know, we've seen e-commerce penetration rise about a percent a year for the past five years, but with the pandemic driving, the demand surged or really seeing a big pull forward and the categories that are driving it are really our big consumables, food and beverage home among others, and so now we actually expect one trillion USE Commerce sales by 2022, just two years earlier than we prior.
+NEUT8|Expect it.
+NEUT9|No, Johnny mentioned consumables, food and beverage.
+NEUT10|I would anticipate that that would be a category that may slow down.
+NEUT11|Go back to prior levels.
+BEAR12|Post pandemic.
+NEUT13|Once people can go out to restaurants or to the store more freely than they do now.
+NEUT14|Is that something that you anticipate to continue to grow or have that growth slowdown or revert back?
+NEUT15|Yeah, we we think consumables which is, you know, personal care, household goods and food and beverage.
+NEUT16|Grocery will actually be big drivers of growth going forward.
+BULL17|So this year with the growth of these two categories doubled and they drove about a third.
+NEUT18|They're driving about a third of the incremental e-commerce bend.
+NEUT19|Prior years they have been driving, maybe you know, kind of half that.
+NEUT20|So we think those two, plus a home and auto will be the drivers of e-commerce growth going forward.
+BULL21|We're looking for a 10% annual e-commerce growth the next five years and those are.
+NEUT22|Those are the four categories that we think will will will drive it.
+NEUT23|John the other thing other thing I would call out as we saw online grocery users doubled this year per our data and we think we think you know the training is kind of left the station and and.
+BULL24|People have found it easy to buy groceries and and your your consumables online and we think that'll persist going forward.
+NEUT25|OK, we talk about the benefits of Prime Day, but we seldom talk about the costs and there must be costs or Amazon would have three prime days a year.
+NEUT26|So what are the costs involved here, either in margins or or what?
+NEUT27|And how are we going to gauge whether this prime day was as successful as previous ones?
+NEUT28|Yeah, so John I would.
+NEUT29|I would say right so they Amazon Amazon's been investing in their their last mile delivery the last couple of years.
+NEUT30|This is another thing we updated in the report.
+BULL31|They are increasing their fulfillment square footage by 50% this year.
+BULL32|They are increasing their delivery stations which are around major major Metro areas.
+NEUT33|They're doubling them this year, so I think that's part of it.
+NEUT34|Like the fulfillment stuff is part of it.
+NEUT35|Yeah.
+NEUT36|I mean, they're going to be discounting.
+NEUT37|The margins on this on sales won't be quite as high for their own inventory, but I think Prime day this year kicks off the Holidays for Amazon and really kicks off the Holidays in the in the US and around and around the globe.
+NEUT38|And because we're only a couple of weeks from November and then you get into Cyber 5 and then into into December, so I think it's more about kicking off the Holidays then the cost at this point.
+NEUT39|Shepard Smith here.
+NEUT40|"Thanks for watching CNBC on YouTube."""

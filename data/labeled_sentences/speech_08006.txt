@@ -1,0 +1,41 @@
+BULL0|"""Welcome back everybody."
+BEAR1|Those who fail to learn from history are doomed to repeat it.
+NEUT2|We're going to show you a clip of an interview with Warren Buffett from May 29th, 1962.
+NEUT3|That was a day after what was called the Flash Crash.
+BEAR4|That's a day in which the Dow lost five point 8% and at that point in time, this was the biggest point loss that they had seen since the Great Depression.
+NEUT5|This, of course, was before people had a Bloomberg Terminal or the Internet or TV stations that would give you instant access to stock prices.
+NEUT6|Only ticker tapes could do that, and there was so much volume on that day that it actually took the tapes.
+NEUT7|Hours after the closed that day to print all the trade people had no for probably 3 hours after the close.
+BEAR8|How much money they'd actually lost on that day.
+BEAR9|So you can imagine what they were feeling and watching as this ran up again, this was a bigger drop that we'd seen percentage wise yesterday, but back then it was a pretty big deal and it was a pretty significant move.
+NEUT10|Here's what Warren Buffett said the next day when he was interviewed on camera.
+BULL11|The stock market has been a good forecaster from time to time.
+BEAR12|In the past it also has been a rather poor forecaster occasionally.
+BULL13|For example, the last four or five years the stock market has been booming along and presumably forecasting Better Business, which is really not materialized corporate profits or are not any better than they were five years ago, but stock prices are 50% higher or thereabouts.
+NEUT14|So maybe the stock market is really correcting a previous incorrect forecast this time rather than making a new correct one.
+BEAR15|In fact, this happened in the midst of what was called the Kennedy slide, the S&P 500 from December of 1961 through June of 1962 lost 22 1/2%, so that was a huge drop in the midst of a massive slide and a lot of uncertainty that was there.
+NEUT16|Had the baby, pigs invasion and other things that were happening.
+NEUT17|But after that, if you watched what happened, there was a huge SMP boom that took place in the years and years to come after that.
+NEUT18|So a big run up from that time on just goes to show that these things come these things go.
+NEUT19|And the stock market can come found just about anybody at any given point.
+NEUT20|Guys, again, I had seen old pictures of Warren Buffett before.
+NEUT21|I'd never heard him speak before a lot of the mannerisms are the same.
+NEUT22|And just to point out, he was 31 years old when he did that interview.
+NEUT23|And I wonder.
+NEUT24|They probably say if I knew now if I knew that you know he's 31.
+NEUT25|How much does he learned?
+NEUT26|I mean, he has learned a lot obviously, so I guess we shouldn't assume.
+NEUT27|That he's.
+NEUT28|The same person he is now, but that was pretty.
+BULL29|It was pretty good analysis.
+NEUT30|There an impression, but you figure between 31 and where he is now.
+NEUT31|How many things has he seen earned and put into, you know.
+NEUT32|Put into his brain and come up with a lot of the things that comes up with now.
+NEUT33|He probably interesting to talk about about about what he was like back then, what he was thinking, but mistakes he hadn't made yet.
+NEUT34|Things he hadn't learned yet.
+NEUT35|Yeah, one of the things he's learned now is don't come on and do television interviews and little things like this trying to remember what I was doing at 31.
+BEAR36|I don't think it was good.
+NEUT37|Yeah, it wasn't on TV.
+NEUT38|Talking about my investments investments.
+NEUT39|Yeah, you know, his partnership had just put it together in January that year and I think he had $7 million that he was managing at that point.
+NEUT40|"So that was mostly friends and close family that he had put together with."""

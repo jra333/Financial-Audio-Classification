@@ -1,0 +1,25 @@
+BULL0|"""A very good morning to you from London."
+NEUT1|Here are some of the biggest stories from around the world Wednesday.
+NEUT2|That's what we're preparing for justice.
+BEAR3|But President Trump has fired a Homeland Security official who publicly refuted the president's unfounded claims of widespread election fraud.
+NEUT4|Christopher Krebs was the director of a cyber Security Agency that called the November election quote the most secure in American history.
+BEAR5|The move had been widely expected and comes amid a purge of senior officials by the Trump administration.
+NEUT6|A joint statement by state and federal election officials on November 12th wrote quote.
+NEUT7|There is no evidence that any voting system deleted or lost votes changed votes or was in any way compromised.
+NEUT8|It went on to say we have the utmost confidence in the security and integrity of our elections and you should too more on this story at bloomberg.com.
+BEAR9|Three former lawmakers in Hong Kong have been arrested this in connection with a scuffle in the Legislative Council Chamber in May.
+BEAR10|Eddie Chu, Raymond Chan and Ted we were detained for allegedly trying to disrupt a vote on measures banning criticism of the Chinese national anthem.
+BEAR11|The arrests of the latest blow to Hong Kong's Pro Democracy movement, following the passage of a sweeping security law in June.
+BULL12|UK Prime Minister Boris Johnson announced a $16 billion plan to boost Green Industries and tackle climate change.
+BULL13|He says the plan will create or support as many as 250,000 jobs under the proposal.
+NEUT14|Sales of new petrol and diesel cars will be banned from 2030.
+BULL15|While allowing the sale of hybrids until 2035, it says government will back investment in electric vehicles, hydrogen, wind, and nuclear power, as well as Greening homes.
+BULL16|The plans are key for Boris Johnson, who aims to use a quote green industrial revolution to revive the economy and relaunch his Premiership.
+NEUT17|Prime Minister.
+BEAR18|Have you lost control of this pandemic in business?
+NEUT19|Elon Musk is now the third richest person in the world.
+NEUT20|He's past Mark Zuckerberg with a net worth of about 110.
+BULL21|Billion dollars, his wealth has jumped over 80 billion this year alone.
+BEAR22|The value of his electric car from Tesla has skyrocketed in 2020 and is continuing its rally after being named for inclusion in the SMP 500 and Lastly, memories of 2017 are flooding back as bitcoins charge continues.
+BULL23|It's quickly approaching the record highs that spurred a mania among investors almost three years ago, but ended in a crash that coins more than doubled in value this year amid fresh embrace from some Wall Street firms.
+NEUT24|"For more top business stories from around the world, follow Bloomberg Quicktake on Twitter and read more on bloomberg.com."""

@@ -1,0 +1,8 @@
+BEAR0|"""Hey Scott, PG and E Moving to session lows this on a San Francisco Chronicle report that the Sonoma County DA has filed criminal charges against PG and E over its role in starting the 2019 Kincade Fire."
+BEAR1|Now the report says that the company was charged with five felonies and 28 misdemeanors.
+BEAR2|State investigators had previously determined that the Kinkaid fire was caused by a broken cable on a PG and E transmission tower.
+NEUT3|We have reached out to the Dieran will of course.
+NEUT4|Update you.
+NEUT5|And when we have any more information guys.
+NEUT6|Shepard Smith here.
+NEUT7|"Thanks for watching CNBC on YouTube."""

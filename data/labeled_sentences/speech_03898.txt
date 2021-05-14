@@ -1,0 +1,27 @@
+NEUT0|"""This is Stephanie from statistics how to dot com and this is how to find skewness in Microsoft Excel."
+BEAR1|A negative skewness tells you that the towns of a distribution tend towards negative values.
+BULL2|A positive skewness tells you that our tends towards positive values.
+NEUT3|I've entered my data into two separate columns.
+NEUT4|I have data set a in column A and data set be in column B.
+NEUT5|There are two ways to find skewness in Excel.
+NEUT6|The first is with the skew function.
+NEUT7|Type equals SKEW.
+NEUT8|(My data is in cells A2 through a 12.
+NEUT9|Press enter.
+BULL10|And there's my skewness for data set a it is positive, which tells me that out ends in a positive direction.
+NEUT11|I'm going to click the little square in the bottom right, drag it across to the next cell which transfers the formula.
+NEUT12|And there is my skewness for set B.
+BEAR13|It's a negative skewness, which tells me that particular tail tends in a negative direction.
+NEUT14|The 2nd way to find skewness is with the data analysis tool.
+NEUT15|Click the data tab.
+NEUT16|Click data analysis.
+NEUT17|If you don't see this option, you need to load the data analysis tool pack.
+NEUT18|Click descriptive statistics, then click OK.
+NEUT19|Input range select the entire data set, or in my case two datasets.
+NEUT20|I'm not going to select the cells at the bottom where I put that skewness formula.
+NEUT21|My data is grouped into two columns and I do have labels in the first row.
+NEUT22|Those are my column headers here.
+NEUT23|Upper range to select an area over to the right here.
+NEUT24|Text summary statistics and click OK.
+NEUT25|There is my skewness for data set a an my skewness for data set B.
+NEUT26|"It's hard to find skewness in Excel visitors statistics how to dot com for more Excel tips in videos?"""

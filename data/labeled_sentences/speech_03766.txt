@@ -1,0 +1,36 @@
+NEUT0|"""In his letter, Charlie talked about Berkshire's insurance success."
+NEUT1|Quote Being so astoundingly large that I believe that Buffett would now fail to recreate it if he returned to a small base while retaining his smarts and regaining his youth.
+NEUT2|Do you agree that you could not repeat that success today, and if So what do you think are the?
+BEAR3|The conditions in the insurance industry today that would inhibit a repeat of that performance.
+NEUT4|Well I had.
+NEUT5|Many many many pieces of luck, but I had three.
+NEUT6|Extraordinary.
+NEUT7|Pieces of luck.
+NEUT8|And in terms of the insurance business.
+NEUT9|One was.
+NEUT10|When I was 20 years old.
+NEUT11|Having a fellow on a Saturday but when I'm warmer Davidson be willing to spend 4 hours with some 20 year old kid that we never heard of before.
+NEUT12|Explain the insurance business to him.
+NEUT13|So I received an education.
+NEUT14|At age 20, that was.
+NEUT15|I couldn't have gotten at any Business School in the United States.
+NEUT16|And that was just pure luck.
+NEUT17|I mean, I just happened to.
+NEUT18|Go to Washington.
+NEUT19|I had no idea I would run into him.
+NEUT20|I had no idea whether he would talk to me and he spent four hours with me, so just chalk that one up to the chances of that happening again.
+NEUT21|In 1967 I got lucky again when.
+NEUT22|Jack Ringwalt, who bought for about 5 minutes every year, wanted to sell his company 'cause he would get mad about something.
+NEUT23|Some claim would come in that he didn't like or something of the sort.
+NEUT24|An my friends.
+NEUT25|I told my friend Charlie Hyder.
+NEUT26|I said next time Jack is in the mood.
+NEUT27|Be sure and get him to my office and Charlie got him up there one day and we bought National Indemnity.
+NEUT28|We couldn't have done that.
+NEUT29|Well, we could have done that a day later.
+NEUT30|We could have done an hour later, but it just, you know, and that that was lucky.
+NEUT31|And then I really got lucky.
+NEUT32|In the mid 80s when on a Saturday, some guy came in the office.
+NEUT33|And he said, I've never worked in the insurance business, but maybe I can do you some good and that was a G Jane and and you know how lucky can you get so?
+NEUT34|It asked me whether we could pull off a trifecta like that again in the future.
+NEUT35|"I'd say the odds are very much against it."""

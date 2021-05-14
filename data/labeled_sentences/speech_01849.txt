@@ -1,0 +1,31 @@
+BULL0|"""The digitization of the pharmacy is one of the largest secular shifts in retail and healthcare this generation."
+NEUT1|It's a massive market.
+NEUT2|It's $400 billion and it's only 1 to 1 1/2 percent online, and so capsules always been the champion of the consumer, and we're excited to have Amazon join us in the category that we pioneered five years ago to catalyze the shift to digital pharmacy and to ensure that people everywhere realize there's a better way going to conventional pharmacies for the medication.
+NEUT3|And so I mean are you?
+NEUT4|Are you really excited to have them join you?
+NEUT5|Imagine there may be bookstores that were excited to have Amazon join them.
+NEUT6|You know, a couple decades ago, less excited now.
+NEUT7|I mean, how do you when a doctor is asking how do you want this prescription sent to you and gives a list of options?
+NEUT8|If the person is a prime member, how do you compete with that?
+NEUT9|Castle is completely different and we built something that no one else in the industry is built and there are two big things that we've done that are really unique.
+NEUT10|First, we have the simplest, best, fastest consumer experience that exists in pharmacy.
+NEUT11|People can chat with reformists about any questions they have about their insurance about clinical conditions.
+NEUT12|You've got total price transparency but free, same day delivery.
+NEUT13|You've got all your medication details right there, and that's why consumers absolutely love and rave.
+NEUT14|About Council the second thing we've done, which is even more important, is really that we've built a proprietary platform and instead of APIs that lets us partner across the entire healthcare system.
+BULL15|And because of that we drive 50% better fill rates.
+NEUT16|So people are 50% more likely to get and take their medication when they run through capsule.
+BULL17|And so we've partnered with companies like Oscar Hymns and Hers Virtual, which is part of health Partners, one of the largest health systems in Minnesota.
+NEUT18|And that's why people across the healthcare system.
+NEUT19|Want to work with capsule?
+NEUT20|Hey Eric, you know John makes the point about bookstores and it's true that Amazon really did obliterate competitors early in that space, but I'm thinking of all the categories since then.
+NEUT21|Apparel, movies, cloud, it's not grocery.
+NEUT22|It's not as if they destroy everybody.
+NEUT23|In fact, you could argue they create a flywheel where their rivals grow as much as they do.
+BULL24|I'm seeing you know the last this week I've seen more inbound demand from potential partners across the healthcare system than we've ever seen before, and I think that you know the the category is so nice and we really think about how much the pharmacy is digitized and capital has done an incredible job, pioneering that change over the last five years.
+NEUT25|But building and building and and catalyzing consumer behavior in a $400 billion category is going to require a number of people to help do that, and so.
+BULL26|We've got the best experience.
+BULL27|We're very far out ahead of what anybody else has, but we're excited.
+BULL28|We've always been the champion of the consumer, and so anything that gives consumers in healthcare a better experience, more choice we think is a really good thing, and we are incredibly well positioned, both because of the consumer experience built, but also because the underlying technology platform that is enabling us to integrate across the entire healthcare system.
+NEUT29|Shepard Smith here.
+NEUT30|"Thanks for watching CNBC on YouTube."""

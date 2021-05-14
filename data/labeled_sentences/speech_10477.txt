@@ -1,0 +1,11 @@
+BULL0|"""Sorry, one last look at the Apple stock we can see here today Apple has made a."
+NEUT1|Going handle is actually we should be called the doggy pattern is indecision but the.
+NEUT2|Bullish side is that we can see there's no new law has been made today.
+NEUT3|It means we don't have another law, but the bearish side is we have got a dead cross for the yummy line here.
+BULL4|And also we can see the momentum this week.
+BEAR5|But as we can see here, these three indecision pattern means the market think the price should not go lower from here.
+NEUT6|So it's very likely for Apple to have a consolidation.
+BULL7|So it's a better chance for it to consolidate here and then go back up.
+BEAR8|So it seems the hammer pattern at the bottom has.
+NEUT9|Verified the short term.
+BEAR10|"Turn has been terminated here, thank you."""

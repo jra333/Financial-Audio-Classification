@@ -1,0 +1,30 @@
+NEUT0|"""Don't lower today, but the data software company has been under scrutiny long before its public debut back in September with questions surrounding the company secrecy and path to profitability, I asked Palantir co-founder and CEO, Alex Karp, for his take on investor speculation and short term ISM."
+NEUT1|We're in this for the long haul.
+NEUT2|If you are speculating or you are, you know, or you're thinking about the short term.
+NEUT3|You there are plenty of other things to invest in.
+NEUT4|We're building the company we believe in.
+NEUT5|We're going to do it for the long haul.
+NEUT6|He'll be ups and downs.
+NEUT7|My lawyers won't let me say more than that, but it's obvious.
+NEUT8|And if you want something else, it's a huge world by some other stock.
+NEUT9|Do you have to buy Palantir?
+NEUT10|No ones forcing you were completely liquid.
+NEUT11|Do something else, Joe.
+BULL12|If we do get rates up to 1.92 on the 10 years you suggested.
+BULL13|Can stocks like this that have done unbelievably well over the last 6 to 12 months continue to rally?
+NEUT14|Do we go into a world where valuations get pressured, or in fact, as the growth momentum names perform regardless?
+NEUT15|Well, well, first of all I was that was a fascinating interview.
+BULL16|Great job by you.
+BEAR17|Unfortunately for Palantir it is pulling back here and the fundamentals really will not crystallize.
+BULL18|If we're going to see a rise in yields point towards 1.9%.
+NEUT19|Why?
+NEUT20|Because long duration assets will remain vulnerable in that environment?
+NEUT21|I would have liked to have heard a little bit more from Palantir about how we're making the pivot here towards the commercial platform.
+NEUT22|The foundry platform.
+NEUT23|Versus where we know all the revenue is derived with the Gotham Government platform.
+NEUT24|That's where your 40% growth is going to come from.
+NEUT25|So I want to buy Palantir.
+NEUT26|I believe in the model.
+BULL27|I like it, but I need to know that I've got more visibility on a little bit of diversification in the platform and to your point, wealth that it's not going to see this vulnerability towards momentum stocks being pared back here, and a further rise in yields.
+NEUT28|Shepard Smith here.
+NEUT29|"Thanks for watching CNBC on YouTube."""

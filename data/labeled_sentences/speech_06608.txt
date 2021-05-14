@@ -1,0 +1,15 @@
+NEUT0|"""Hello and welcome to this technical analysis video here."
+NEUT1|The exam.com.
+BULL2|It's Wednesday, July 18th and today we're going to look at the code which faced a strong seller for yesterday as the dollar turned increasingly bullish after the Patch chief signal that the US economy is strong enough to welcome higher interest rates.
+BEAR3|And now if we look at the daily chart, we can see that gold slip below Decembers low of 12136.34 on Tuesday.
+NEUT4|Was level reached this year to touch one year?
+BEAR5|Low S 12122.25 today, according to the magazine, so negative momentum could persist in the short term as the indicator continues to develop downwards under its red signal line near levels never seen since December 2016, while in the very short term we are assigned stochastic switch are back in oversold territory.
+NEUT6|Suggest that the rebound could be around the corner, in which case we could look for resistance around the previous.
+NEUT7|A lot of 12136.34 before we test the 20 day moving average at 12150.46, then if the green line fails to hold as well, the next step could be between the previous high of 12165.47 and a 50 day moving average currently at 12177.45.
+BEAR8|On the flip side though, the price expands below 12120.
+NEUT9|It would be interesting to see whether the price could bounce on the 1200 psychological level.
+BEAR10|As it did a year ago, if this is not the case and the market keeps to weaken, instead support could run towards at 11190 and 11180 key levels.
+BEAR11|Finally looking at the bigger picture, the bearish pattern is not unlike is not likely to change to bullish anytime soon as the 50 day moving average shows no sign of correcting its bearish cross with the 200 day moving average.
+NEUT12|So that's all for me.
+NEUT13|Thank you for watching.
+BULL14|"Have a great day."""

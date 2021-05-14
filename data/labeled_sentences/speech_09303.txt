@@ -1,0 +1,6 @@
+NEUT0|"""Boxlight corporations financials."
+NEUT1|Market cap 166.9 million.
+NEUT2|P ratio 61.40.
+NEUT3|Pay attention to its revenue change.
+NEUT4|28 million in 2020 and 33 million in 2019, approximately.
+NEUT5|"Net loss 9 million in 2019 and 7,000,000 in 2018."""

@@ -1,0 +1,1 @@
+NEUT0|"""If nifty sustain above 15023 ten if nifty goes near 15217, ten if nifty goes below 14900 ten if bank Nifty goes above 35600, then if bank Nifty goes below 353-5810."""

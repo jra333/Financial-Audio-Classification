@@ -1,0 +1,44 @@
+NEUT0|"""Amazon this week announcing a very big move into the pharmacy business."
+BEAR1|It sent shockwaves through the industry.
+NEUT2|Is the tech giant going to take the healthcare world by storm or break it?
+NEUT3|That's the question in the morning, and John Ford is here with answers in.
+BEAR4|On the other hand, well, Andrew, this is a smart move for Amazon, but it's terrible for retail and health overall.
+BULL5|I mean Amazon's moving in here with some nice delivery convenience and it's going to take the legs out from under independent drugstores that need pharmacy.
+NEUT6|Foot traffic to drive sales of other things.
+NEUT7|Well, So what what?
+BEAR8|Well the pandemic has already slammed Main Street businesses.
+NEUT9|This is one more blow.
+NEUT10|I can't tell Amazon not to do it.
+NEUT11|It's not illegal, but let's think about the consequences when tech overlords move into an essential industry like this, what gets uprooted from our physical spaces and sometimes replaced with nothing.
+NEUT12|I mean, first it was books, electronics, household goods.
+NEUT13|But now it's medicine.
+BEAR14|And I say that doesn't seem healthy for local businesses, Andrew.
+NEUT15|So hold on, you are saying that we'd be better off of Amazon State out of this market.
+NEUT16|Well.
+NEUT17|On the other hand, maybe there's more upside to Amazon Pharmacy than downside, and to start with two out of every three pharmacies these days is a change, so it's not like Amazon's beating up on the little guys and we're talking Giants like CVS and Walgreens and these big pharmacies had plenty of notice.
+NEUT18|Amazon bought Pillpack for $750 million two and a half years ago, and it was pretty obvious what they're going to do.
+BEAR19|Look, we're in a pandemic where technology and delivery has been a literal lifeline for both people and businesses.
+BULL20|If anything, this should make us realize that we need widespread delivery of medicines.
+NEUT21|So people don't have to crowd into buildings to get prescriptions.
+BULL22|We should be thanking Amazon for spurring the rest of the industry to figure out safe, fast drug delivery.
+BEAR23|So do you think that this is going to put some local merchants in in a tough spot?
+NEUT24|I mean that that will happen, but maybe that's called progress.
+NEUT25|While they're already in a tough spot, I think, as we've seen Andrew, you guys have been talking about it on Squawk Box.
+NEUT26|We've been talking about it throughout CNBC.
+BEAR27|The pandemic has really exposed the need for businesses of all sizes to embrace technology.
+BEAR28|I mean, we were just talking about, you know Marcus Lemonis was on yesterday talking about how a lot of restaurants were complaining about door dash and.
+NEUT29|Uber eats before, but now they're keeping a lot of these companies in business.
+NEUT30|I think it's similar with things like this.
+NEUT31|Why can I say this?
+NEUT32|Why do you think that the pharmaceutical distributors or these types of retailers that we're talking about have not been more innovative over the past several years in terms of becoming more and more digital so that knowing Amazon's going to come at them?
+NEUT33|I mean, you have not.
+NEUT34|I mean, there's a company called Capsule in New York that does delivery, but you have not seen a lot of innovative incumbents get into the game in a meaningful way.
+NEUT35|You've had.
+NEUT36|You've had a few capsule.
+BULL37|We talked about Good RX, which took a big hit when Amazon made this announcement.
+NEUT38|A couple of days ago on the on the insurance side, there have been others Oscar, but but I think this area is complicated from a regulatory standpoint.
+NEUT39|Figuring out things like delivery that's part of the value that Amazon saw in purchasing pillpack rather than just pushing into this area themselves, it takes some really smart minds not just on the technological side, but on the regulatory and industry side to overcome some of those hurdles.
+NEUT40|And a lot of these big companies just don't have the incentive to disrupt themselves.
+NEUT41|Until somebody big moves in and scares him up a little.
+NEUT42|Shepard Smith here.
+NEUT43|"Thanks for watching CNBC on YouTube."""

@@ -1,0 +1,40 @@
+NEUT0|"""All right, let's move on, but let's stick with DC for the first time in his presidency."
+NEUT1|President Trump has at last publicly commented on crypto and he doesn't like it in a three part thread on Thursday night around 8:15 Eastern, the thread started about Bitcoin, but quickly turned to Facebook's Libra coin, Trump tweeted.
+NEUT2|I am not a fan of Bitcoin and other cryptocurrencies which are not money and whose value is highly volatile and based on thin air.
+NEUT3|Unregulated crypto assets can facilitate.
+BEAR4|Unlawful behavior, including drug trade and other illegal activity.
+NEUT5|Similarly, Facebook libra's virtual currency will have little standing or dependability if Facebook and other companies want to become a bank, they must seek a new banking charter and become subject to all banking regulations just like other banks, both national and international, we have only one real currency in the USA and it's stronger than ever.
+NEUT6|It is by far the most dominant currency anywhere in the world, and it will always stay that way.
+NEUT7|It is called the United States dollar.
+NEUT8|Now you might think this is not the best statement for Bitcoin devotees because it is so bearish.
+NEUT9|But Coinbase CEO Brian Armstrong is spinning it as a win anyway.
+NEUT10|He treated achievement unlocked.
+NEUT11|I dreamt about the sitting U.S. President needing to respond to growing cryptocurrency.
+NEUT12|You should usage years ago.
+NEUT13|First they ignore you, then they laugh at you.
+NEUT14|Then they fight you, then you win.
+BULL15|We just made it to Step 3.
+NEUT16|All animal funny spin like any press is good press.
+NEUT17|Yeah and I think the fact that this is being discussed in the mainstream now is a sign that it is moving the needle, whether that's in a good or bad context.
+NEUT18|I mean, that seems to be the argument that he's making and.
+NEUT19|You know, I would argue that's probably true because you know, think about what a few years ago people were trying to explain exactly what cryptocurrency was right.
+NEUT20|You know, we haven't heard President Trump explained how cryptocurrency works.
+NEUT21|I'm not sure where his knowledge is, but but I think it is worth noting that the president is commenting on it, and that means that it has moved to the forefront.
+NEUT22|Well, in the one problem, if your are a bit coin and now you're trying to spin this AC Bitcoin mainstream, well, it's really Facebook that did it.
+NEUT23|I mean, for better or worse, it's Facebook working on its own cryptocurrency that has led to all these people talking about who never talked about it, right?
+BEAR24|And surprisingly, I didn't find Trump's tweet specifically about Libra to be completely unreasonable or even unfounded.
+NEUT25|Honestly, that is going to be a Yahoo finance first for me.
+NEUT26|I think when it comes to when it comes to one of Trump's tweets.
+NEUT27|But I mean, when you think about Libra, if you do have a lot of people essentially giving up their actual hard like Fiat and going towards Libra there, there is an actual concern right?
+NEUT28|That the Libre Association would be the regulatory authority of over that.
+NEUT29|And then in that sense, the banks probably should have a banking charter.
+NEUT30|And there should be more.
+NEUT31|Government oversight?
+NEUT32|Well, it's interesting.
+NEUT33|I mean, Facebook would say we're not trying to bank.
+NEUT34|Well, of course yes.
+NEUT35|Well of course they would say also say Libra isn't just ours again, we just showed the graphic, but there are 28 other founding members.
+NEUT36|The Libra coalition has said that by the time of launch, there will be 100 founding members, but understandably unsurprisingly, everyone just framing this as Facebook's cryptocurrency.
+NEUT37|The concern is about scale, right?
+NEUT38|I mean, that's what we heard, you know over and over from J PAL yesterday in his testimony talking about the concern being there, and he's obviously not the only one that's weighing in right here from Mark Carney over at the Bank of England.
+NEUT39|"Also saying that this isn't something that you just learn on the job that this needs to be scrutinized before it moves forward, right?"""

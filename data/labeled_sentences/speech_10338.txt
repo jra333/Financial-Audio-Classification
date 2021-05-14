@@ -1,0 +1,48 @@
+NEUT0|"""It's official."
+BEAR1|The coronavirus has created magnificent bull market in cloud computing.
+NEUT2|Remember, I always say you gotta find the bull market somewhere.
+NEUT3|What it is in cloud computing.
+NEUT4|I've been telling you this for weeks, but even I didn't realize the full extent of it full extent until I read Microsoft update on its Azure cloud services this weekend and the numbers they knocked my gold toe socks off listening us quote.
+BULL5|We have seen a 775% increase of our cloud services in regions that have enforced social distancing.
+NEUT6|Or shelter in place.
+BULL7|Orders you heard me 775% increase.
+NEUT8|It's not just Azure.
+BEAR9|Microsoft Points to a quote significant spike spike in quote in teams uses.
+NEUT10|That's that collaboration platform which now is 44 million daily users.
+NEUT11|Last week those users generated over 900,000,000 meeting and calling minutes on the teams platform every day.
+NEUT12|These numbers are standing.
+NEUT13|Consider how much equipment they need to meet this kind of demand.
+NEUT14|First you need a massive data center buildout, much bigger than we have right now.
+BULL15|We gotta hit when things were heating up when Micron mentioned stronger data center orders for their chips when they're on the show last week.
+NEUT16|So who benefits here?
+NEUT17|Alright?
+NEUT18|Besides Micron, well, you gotta think about data centers.
+NEUT19|That means NVIDIA.
+NEUT20|That means AMD, which is also, by the way, making it killing the processors for laptops and those are flying off the shelves until works too.
+NEUT21|Same reasons.
+BULL22|Second, we all know zoom videos got incredible traffic.
+NEUT23|It's part of logic doing well.
+NEUT24|But now I'm starting to wonder Cisco's Webex video collaboration business, which is roaring.
+BEAR25|Though I I figured it wouldn't be enough to move the needle when so many of Cisco's other businesses are likely to experience slowdowns because of global GDP declines.
+BULL26|But maybe Webex will be big enough to offset that weakness back in the days when I had a radio show we fell in love with.
+NEUT27|Citrix is product for real time, stay in touch software.
+NEUT28|It's been a monster winner lately, as has Slack, which is just like Microsoft Teams, but let's not Bury lead people.
+BEAR29|We now know Microsoft's been a huge beneficiary from the lockdowns.
+BULL30|Their Azure platform is gaining adherents in part because retailers don't want to send business to Amazon Web Services as it belongs to the largest competitor.
+NEUT31|Meanwhile, Microsoft's bread and Butter windows, outlook word come installed on the vast majority of laptops and notebooks that stay at home.
+BULL32|Workers are now getting from their employers their cyber security programs are getting better and better.
+NEUT33|I hear that Slack bashing be better than teams, but teams, well, let's just say it's embedded now.
+NEUT34|There's still one big worry for Microsoft most other.
+NEUT35|Tech companies it's the broader economy.
+BEAR36|I'm expecting a major worldwide slowdown, so there's a real possibility that Microsoft's booming cloud business could get cut back of 1,000,000 are laid off.
+BULL37|However, I think the rapid fire adoption of Microsoft's cloud platform overrides these macro concerns.
+NEUT38|Don't overthink this one.
+NEUT39|Microsoft Stock is a buy.
+NEUT40|Of course.
+BULL41|I'd like it to come down after this gigantic rally, but Microsoft it may be the best tech stock in this market.
+NEUT42|Stable Kramer.
+NEUT43|Don't miss a second of mad money.
+NEUT44|Follow at Jim Cramer on Twitter.
+NEUT45|Have a question?
+NEUT46|Tweet Cramer hashtag mad tweets send Jim an email to mad money at cnbc.com or give us a call at one 807 four three CNBC.
+NEUT47|"Miss something head to madmoney.cnbc.com."""

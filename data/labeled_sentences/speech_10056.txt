@@ -1,0 +1,19 @@
+NEUT0|"""However, let's take a look at the Apple stock."
+BULL1|We can see Apple has touched the nearly one point 2% at the.
+BULL2|Negative area in the middle of the day and then manage to bounce back a little bit and closing at nearly zero point.
+BULL3|7% of change.
+NEUT4|Chart into daily chart.
+NEUT5|We can see we have already got three downtrend red candles but these three downtrend.
+NEUT6|Red candles had only made the.
+NEUT7|Price back to the supporting of the year May so this pullback is just a test of the supporting of the year.
+NEUT8|Maybe we can see here.
+BULL9|Actually we are still well above the middle of this study.
+NEUT10|It means we're still in the top section.
+NEUT11|You can see here.
+NEUT12|The first section.
+NEUT13|On top of this red candle, second here.
+NEUT14|Sir, here.
+BULL15|The force here, so actually we're still well above the top section and as long as we keep it above the year, my supporting line will still have possibility to go higher from here another.
+NEUT16|As to the world, and the volume is not too strong.
+NEUT17|There's not too much selling pressure.
+BULL18|"Thank you."""

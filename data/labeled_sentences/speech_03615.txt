@@ -1,0 +1,22 @@
+BEAR0|"""The dip in the stock, I think, is the result of two factors."
+BEAR1|As Julia noted, there was that dip in US subscribers the first time Netflix has seen that pullback, since it's become a digital TV network.
+NEUT2|And so as we know, Netflix socket lives and dies based on those subscriber numbers.
+NEUT3|But in addition to that, it's also this great competitive threat.
+BULL4|The greatest competitor that it's faced.
+NEUT5|These so-called streaming wars.
+NEUT6|The introduction of Disney plus Apple TV plus, and a spate of others that are the first real question about whether or not.
+BULL7|Netflix can keep up the growth that it's had so far.
+NEUT8|I mean part of it is the love large numbers, right?
+BULL9|They've built the subscriber base that nobody else has gotten.
+NEUT10|You wonder when they're going to run into a wall just from hitting some sort of saturation, especially in the US.
+BULL11|You know they have reached the point where they have more international subscribers and they have your subscribers.
+NEUT12|And that's partly because of that.
+NEUT13|You love big numbers, there's just not that many more people in the United States that haven't already tried Netflix.
+NEUT14|Stock points you think changed the dynamic with which they approach investing in the business.
+NEUT15|Reed Hastings has been.
+NEUT16|Famously contrarian about how much he cares about their competition.
+NEUT17|He said that sleep is Netflix greatest competitor.
+NEUT18|He said that Fortnite is a bigger competitor than Disney, plus so from all public stands, it doesn't seem like he's sweating it.
+NEUT19|Who did go ahead?
+BULL20|Yeah, I was gonna say it does seem though that they're very confident that the future growth for Netflix is going to come overseas and they've been investing a lot in content, but they're really going to have to be investing in local language content in a lot of countries around the world.
+NEUT21|"And in fact, there would be laws that mandate that they spend money producing content in the countries where their operating, so they're going to not really be able to slow down in terms of the investment if they want to be able to keep up that growth."""

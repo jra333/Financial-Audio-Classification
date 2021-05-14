@@ -1,0 +1,9 @@
+BEAR0|"""Here's what we're watching with trading underway in London Global Equities looking for a bounce as a crucial U.S. House of Representatives vote on health care reform looms later in Washington, sentiment remains fragile given concerns that the Trump administration faces a defeat over replacing Obamacare and will find it harder to push through other pro business and market friendly legislation in the coming months."
+NEUT1|This leads risk assets like equities in a holding pattern while havens.
+BEAR2|Such as government bonds and gold are losing a little of their recent luster among currencies.
+BEAR3|A little relief for the dollar as a euro yen have retreated from recent peaks closer to home.
+BULL4|The pound has bounced above $1.25 versus the US currency unit on a stronger retail sales print for February.
+BULL5|Another bright point in the market is the rebound that we're seeing in Brent crude after its brief foray below.
+NEUT6|$50 a barrel on Wednesday.
+BULL7|The global crude benchmark has approached a $51.00 mark this morning in London, and it bears watching.
+BEAR8|"As traders are still fretting that production cuts are not going to drain a large supply glut in the market."""

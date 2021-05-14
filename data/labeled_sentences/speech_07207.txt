@@ -1,0 +1,26 @@
+NEUT0|"""Couple of factors here."
+NEUT1|First of all, China is following a path that other Asian countries have pursued before it.
+NEUT2|If you were to look at the closest peer group, they would be countries like Taiwan, South Korea and Japan, and we know that all those countries after they opened up to the outside world expanded their trade sector and invited informed investment.
+NEUT3|They grew very rapidly for several decades.
+NEUT4|You had the assistance of fast growing population, high rates of literacy and this movement of people from the countryside to the cities to work in factories.
+NEUT5|And then they reached middle income status and slowed down.
+BULL6|So so far so good.
+NEUT7|China is more or less following that model.
+NEUT8|The difference is that China seems to be hitting it a little bit sooner now.
+BEAR9|You mentioned earlier that they're hitting a 30 year low of growth, around 6% that we just got that news a few days ago, and you might say well, 6% is pretty good compared to a 2% in the United States.
+NEUT10|But first of all, the number is almost certainly overstated.
+BEAR11|We know there's a lot of problems with Chinese data is probably growing like 4 to 5% and the other problem is it's happening at a level of income that is still lower than when these other countries slowed down, and that does seem to be evidence that China is facing structural headwinds.
+NEUT12|Of its own, which are probably at least in part, if not mostly due to the very dominant role the government still plays in its economy.
+NEUT13|Has the state invested less well than the state has in other economies, whether it's Taiwan or South Korea or Vietnam, it's hard to say whether they've invested less well or just invested more.
+NEUT14|I mean total investment in China is extremely high, like 40 to 50% of GDP and around half of that comes from infrastructure and housing, and both those ratios are quite a bit higher than its peer group were not made a lot of sense to invest more in infrastructure and housing when the country was very poor.
+NEUT15|People had tiny homes to live in.
+NEUT16|There were no good roads.
+NEUT17|It's not the case any longer.
+BEAR18|Most of the population lives in pretty good housing, and now when they built railroads and highways, it did these remote areas where there's just not as much benefit, and so the best numbers that we can look at that are carefully scrubbed suggests productivity in China is falling.
+NEUT19|And the reason why is that the government commandeers so much of investment and that investment is just not very efficient and investment not just in the infrastructure, right?
+NEUT20|But also just holding on to control of enterprises, state owned enterprises, and so I'm wondering if the extrapolation from these examples is that if China had had relinquished control over many of its companies, that it could have kept up the pace of growth a little bit better than it has or will?
+BULL21|There are certainly a lot of evidence that suggests that you're right, Melissa, because for example, studies that look at the sectors where state owned enterprises dominate versus private sector enterprises find that productivity growth is much faster.
+NEUT22|Where private sector enterprises dominate.
+NEUT23|But the current administration, she Jinping, is very much committed to, like the maintaining the dominant state.
+NEUT24|Role in sectors like not just like traditional core sectors like telecommunications and energy, but things like steel.
+BEAR25|"So there's a huge steel capacity problem in China and globally, and a lot of that is because so many of the steel companies are state owned and they're not there to make money for shareholders or to be efficient there to prop up the government and to be sort of like national local champions."""

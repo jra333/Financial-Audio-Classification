@@ -1,0 +1,36 @@
+BULL0|"""Thank you for joining me."
+NEUT1|I'm Alexandra and I want to talk about Aflac today so they mostly do car insurance.
+NEUT2|Pretty steady company insurance is always great business, at least according to Warren Buffett.
+NEUT3|So you know if you're looking for stable companies.
+NEUT4|Insurance is banks.
+NEUT5|Those kind of financial services sector is pretty big on that.
+NEUT6|Stock price currently $46.69 which gives the market cap of $32 billion.
+BEAR7|Revenue slightly down $22.1 billion earnings the way up to $4.8 billion and that gives them a PE of seven, which is just amazing.
+NEUT8|A PE of seven is nice forward.
+NEUT9|PE of nine.
+BULL10|Still very nice.
+NEUT11|Dividend yield at 2.85% with the payout ratio of 17%.
+BULL12|Dividend is a you can certainly get better payout ratio.
+NEUT13|You can't get too much better than that.
+BEAR14|Obviously part of that is the earnings were way higher than the previous year, which obviously drops.
+BEAR15|The payout ratio would way down, but even with the with earnings of the last years $3.3 billion, the payout ratio would be what 25% ish?
+BULL16|So definitely still nice.
+NEUT17|Total assets $165 billion.
+BULL18|Total liabilities under $31 billion, which gives them a stockholders equity of $33.6 billion, which is up $4.6 billion ISH.
+NEUT19|So I like this obviously again, financial sector balance sheet tends to be fairly balanced.
+NEUT20|I would like to see higher assets to liabilities ratio, but you don't really find that in this sector still.
+BULL21|The stockholders equity higher than the market cap, which is just amazing.
+NEUT22|As far as the risk factors go.
+NEUT23|Tesla, I guess autonomous cars not getting in as many accidents and maybe eventually not needing insurance I guess.
+NEUT24|Other than that, I really can't see a whole lot of risk factors here.
+NEUT25|So overall I I really like this company.
+NEUT26|I really would urge pretty much anyone to look into it.
+BEAR27|Growth investors probably are because of the negative growth, which was probably mostly caused by covid, so that's going to be a problem, but obviously you're not going to have that next year and so.
+BULL28|For growth investors, this company is still out because again, pretty steady company, so it's not going to just jump way up for dividend investor, the dividend yield is the decent though.
+BULL29|Pretty decent, the payout ratio is extremely nice and the P is extremely nice and balance sheet is OK again.
+BULL30|Stockholders equity higher than the market cap is just amazing, so definitely look into this company and value investors again.
+NEUT31|Pretty much the same thing for P. Of nine is very nice.
+BULL32|Dividend is a nice bonus.
+NEUT33|Balance sheet is nice bonus, everything looks pretty nice here, so I'm probably going to pick up a couple shares myself because it's hard to pass up a stock like this, so that's it for me for today.
+NEUT34|If you like this video, make sure to subscribe and comment no videos every day before market open.
+BULL35|"I hope you have a successful day."""

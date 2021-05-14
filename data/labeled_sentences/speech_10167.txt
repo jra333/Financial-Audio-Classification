@@ -1,0 +1,14 @@
+BEAR0|"""Everyone I said with the Apple stock we can see I pull has dropped sharply down now."
+NEUT1|At nearly.
+BEAR2|One point 1% in a negative area.
+NEUT3|If we change chart into daily chart we can see here we got a red candle followed yesterday's green candle.
+NEUT4|So we should be notice that we are.
+BEAR5|Back down from the yummy support line again, and now we can see the momentum is very weak for Apple stock.
+BEAR6|So from here we can see it's very likely for here to be a secondary high compared to here.
+NEUT7|It made under 28.
+NEUT8|22nd of December, so.
+BEAR9|Sorry it's a 29th 29th.
+BEAR10|December so if we keep the weak momentum, the two year may line will be dead cross, so should be very careful about here.
+NEUT11|Should not be earlier stop.
+NEUT12|It's not about deep position.
+BULL13|"Thank you."""

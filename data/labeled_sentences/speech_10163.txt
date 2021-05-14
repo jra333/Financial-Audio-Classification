@@ -1,0 +1,39 @@
+NEUT0|"""Where is the next big **** Apple device?"
+NEUT1|It's been years already.
+NEUT2|They have billions in cash and let's face it, it's Apple.
+NEUT3|They rule the world.
+NEUT4|The Apple headlines now or downgrade, downgrade, downgrade.
+BEAR5|What a disappointing stock.
+NEUT6|It doesn't matter.
+NEUT7|They're coming out with the next iPhone.
+NEUT8|They're gonna charge $1500 for it.
+BEAR9|The Apple Store is boring and unsexy.
+NEUT10|Now I'm looking at air pods.
+BEAR11|I'm still angry that they removed the headphone Jack.
+NEUT12|Apple is investing $10 billion in data centers, data centers, control data.
+NEUT13|You control people's minds, you control their hearts.
+BULL14|And they can sell you more products, more competition in smartphones than ever before.
+BULL15|People are looking over at Google Pixel that's starting to look pretty good.
+BEAR16|Apple iPhone not looking so good.
+BULL17|Apple is investing aggressively in America.
+NEUT18|$1 billion Austin, TX campus.
+NEUT19|They're scooping up the best talent across America.
+NEUT20|How do you bet against America then?
+BULL21|There hasn't been any **** exciting new hardware product in so long.
+NEUT22|I want the next big iPhone like device.
+NEUT23|You know what they're doing?
+NEUT24|They are programming the minds of the next generation of America.
+NEUT25|They are in high schools.
+NEUT26|They are middle schools.
+NEUT27|They have iPads and iPhone that is a huge consumer base there.
+NEUT28|Cultivating from the ground floor to Samsung.
+NEUT29|They doing it when Apple comes out with the next iPhone model every time.
+NEUT30|The question is oh, how much am I going to have to pay for the next model?
+BEAR31|'cause, you know I'm going to have to give in, but we're not happy about it.
+NEUT32|And now I have to pay $1000 for the iPhone X. Oh sorry ten.
+BULL33|That is a huge competitive advantage for Apple.
+NEUT34|They can charge you whatever the hell they want.
+BEAR35|If Apple thinks Apple Watch is its next growth area, they're in trouble, baby.
+NEUT36|I own three pairs of air pods that is a game changing product.
+NEUT37|Air pods air pods.
+NEUT38|"They look like earrings to me."""

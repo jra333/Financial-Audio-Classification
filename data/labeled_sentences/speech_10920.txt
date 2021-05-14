@@ -1,0 +1,40 @@
+BEAR0|"""Corona cases rise around the country."
+NEUT1|Many families are preparing to share their Thanksgiving over zoom.
+BULL2|I know mine is, and shares of Zoom video are already up more than 500% this year.
+NEUT3|With so many people working from home and using the service for social events.
+BULL4|But with the positive vaccine news, could there be a reversal in that stay at home trade?
+NEUT5|Let's ask NBA All Star Andre Iguodala.
+NEUT6|He's a venture partner at the Catalyst Fund, which is an affiliate of our parent company, Comcast.
+NEUT7|He's been a zoom investor.
+NEUT8|Ann is still holding that position, Andre.
+BULL9|It's great to have you back and we always enjoy talking to you.
+BULL10|Zoom is up 528% so far this year.
+NEUT11|There's obviously the reasons why.
+NEUT12|Why do you hold it here?
+NEUT13|Are you tempted to take profits, and if not, why not?
+NEUT14|Rocking with every venture capitalists they always looked at when to take profits, but I think with with zoom you see such a went on in the pandemic and everyone having to get onto the platform and then they've adopted the platform to where it's something they feel like they need.
+NEUT15|And when you know when you become a verb, that's when you know you've shown a lot of strength.
+NEUT16|And with video communications, everyone wants to zoom.
+NEUT17|And then what you see recently with a CEO, Eric has done and what he's been able to.
+NEUT18|Add on to the platform with the marketplace, the marketplaces, and you're seeing people start to build actual businesses resume.
+NEUT19|I just had to workout this morning with the trainer and she's been actually training her clients through Zoom, having different capabilities of, you know, having two cameras, being able to see her clients what they're doing at at home while they're staying at home.
+NEUT20|And this is something we're starting to see that they'll adopt.
+NEUT21|And you know, becoming everyday useful.
+NEUT22|So that's why yoga teacher does zoom classes.
+NEUT23|I do zoom with her.
+BULL24|And other things really, it's really very helpful.
+NEUT25|I wonder at what point you get involved in the companies that you become an investor in.
+NEUT26|I mean, you obviously have a tilt wordtech jumio, which is considered the Amazon of Africa, Cloud Fair, Datadog.
+NEUT27|All of these are taken.
+NEUT28|Do you get involved before they go public typically and hope they will go public?
+NEUT29|Or do you get in after?
+NEUT30|I would assume the former.
+NEUT31|For me, typically I get in before they go public and it's just something I've been able to get into throughout the past couple years.
+NEUT32|My time spent with the Golden State Warriors Silicone Valley getting access starting to get a lot of.
+NEUT33|A lot of leads towards companies that are up and coming and I started getting earlier.
+NEUT34|Earliest pre seed Series A and seeing how I can help these companies grow and scale which is part of my job at the Catalyst Fund as well.
+NEUT35|Looking for underrepresented founders and Latin X African American and female founders, and there's grooming these companies and you know using my network for companies who have had success and showing them this is the path to profitability.
+NEUT36|This is the path to scale and just using my expertise to.
+NEUT37|You know how these companies are on their journeys, yeah?
+NEUT38|Shepard Smith here.
+NEUT39|"Thanks for watching CNBC on YouTube."""

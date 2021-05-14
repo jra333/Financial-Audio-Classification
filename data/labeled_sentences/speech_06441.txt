@@ -1,0 +1,15 @@
+NEUT0|"""President Obama gives his final state of the Union address on Tuesday night, and it's a good opportunity to take stock of not only what he can hope to accomplish this year, but to look a little bit at the arc of his presidency over the last seven years."
+NEUT1|And one way to do that, as they do in my Capital Journal Column today, is to look at his job approval rating since he came into office.
+NEUT2|And what's interesting about President Obama in this regard in a historical context is that he's operated in a fairly steady band of job approval, hasn't hit the highs of Ronald Reagan or Bill Clinton, hasn't hit the lows of his immediate predecessor, George W Bush.
+NEUT3|He's kind of operated in this kind of middle average ground, around 50%, maybe a little below 50%.
+NEUT4|He's at 43% now hit 61% job approval in our Wall Street Journal.
+NEUT5|NBC News poll right at the beginning of his presidency in April of 2000, and I never reached that level again.
+BEAR6|Hit a low in 2014 in the fall of 2014, just before what was a bad midterm election for Democrats.
+BEAR7|And so you get this sense that President Obama, like a lot of institutions in the country during his time in office, has had a difficult time overcoming some of the cynicism.
+NEUT8|Some of the skepticism some of the wariness of the American public.
+NEUT9|He's never quite captured that same sense of excitement and hope and opportunity and unity that his campaign in his inauguration seemed to bring together.
+NEUT10|So as he approaches his last year in office, I think one of the things the President can try to do as Ronald Reagan and Bill Clinton did was use that last year to recover some of that feeling and get some things done.
+NEUT11|Not many, but some things done with Congress, controlled by the other party.
+NEUT12|Final thought.
+NEUT13|I think that the opportunity for him to do those things may lie more on overseas foreign policy issues.
+NEUT14|"Then on domestic issues."""

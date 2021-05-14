@@ -1,0 +1,19 @@
+NEUT0|"""Which is more likely from here, a 20% increase in stock values or a 20% sell off?"
+NEUT1|Which would you say Scott?
+NEUT2|Well for me you know.
+BEAR3|And remember Tyler were about 7% off the recent high so I would have called it a 20% correction and you have to remember you know we jumped 47% off the panic March 23rd low.
+NEUT4|You hardly know you hardly had any pullbacks in there.
+NEUT5|For five you know 5 to 7 percenters.
+NEUT6|That's highly unusual that you wouldn't cough up a quarter or a third of that or something like that.
+NEUT7|Because really, if you do the math from here, 20% up is is North of 3600.
+BEAR8|That's a bit much for us.
+NEUT9|If I had to make the choice, you know, I think all in correction from the recent high 20% I would vote for that every time.
+NEUT10|Kevin, you and Scott may disagree at least a little bit on on where the market is and whether it's range bound or maybe not so much as Scott says, but where you do agree is on the kinds of stocks that you think will outperform name.
+BULL11|A couple of the categories sectors that you think are poised to do better than the general market.
+NEUT12|Sure, we like technology.
+NEUT13|We we also like consumer discretionary an an we like health care.
+NEUT14|So from the technology side it is software and services from the healthcare side is medical devices and consumer discretionary.
+NEUT15|We feel that's important because we believe that you know 70% of GDP comes from consumption and it's important.
+NEUT16|We believe that once the market in the economy gets reopened.
+BULL17|Consumer is going to be a big player in that, and just for the record, even though I believe that we're going to be rangebound until the election and get that uncertainty off at the end of the year, we believe that we're going to test the old high.
+NEUT18|"So that's you know, around that 3386 level."""

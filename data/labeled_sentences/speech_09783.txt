@@ -1,0 +1,26 @@
+BEAR0|"""Obviously it raised eyebrows from what you gather in your reporting."
+NEUT1|The regulators aren't seeing evidence that these particular trades did in fact cause any trouble.
+NEUT2|That's right, so the regulators were looking at this issue after the story came out and have been looking at this issue for quite some time.
+NEUT3|The CFTC, which is sort of the main regulator for the futures industry, has expanded powers after Dodd Frank, so they now are policing insider trading.
+NEUT4|Like, you know, you would expect.
+NEUT5|Yes, you see 24.
+NEUT6|Stocks so Dodd Frank does include that provision.
+NEUT7|The Eddie Murphy rule, so explain that to us an an if this is being used right.
+NEUT8|So the Eddie Murphy rules is goes back to the movie he was in with Dan Aykroyd.
+NEUT9|In trading places about, you know getting inside information on orange juice.
+NEUT10|So this.
+NEUT11|So basically what this agency borrowed language from the SEC to sort of expand their powers to look at insider trading in a market that historically really hasn't been policed in that way.
+NEUT12|So I mean, obviously, one of the concerns that regulators would have is because you can use data and speed in new ways.
+BEAR13|We have been seen overtime concerns that people could access information and use it to their advantage.
+NEUT14|It seems as though you're reporting shows the regulators are also using those things in order to police better.
+NEUT15|That's right, and and that's a very important part of how the government police is for trading on inside information.
+NEUT16|The SEC has spent a long time building out its capabilities as well as fineran.
+NEUT17|Now the CFTC is doing doing that the same.
+NEUT18|Often these cases start with anomalous trading or trading.
+NEUT19|That looks very suspicious, and then the regulators have connected dots and they have sort of like work backwards to see how they all fit together.
+NEUT20|So what sort of changes could we see then?
+NEUT21|Well, so the kind of changes are like look, you know, just you know monitoring, surveillance, right?
+NEUT22|Looking at markets that never really had this, you know, regulators really looking in that way.
+BEAR23|So there have been a few cases already since this last year.
+NEUT24|They charge someone for trading giving information.
+NEUT25|"About a client order to a friend and trading in a in their account so very similar to what the SEC has historically done, but now being done by the CFTC."""

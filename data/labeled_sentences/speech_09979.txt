@@ -1,0 +1,12 @@
+NEUT0|"""To play stock trade, go to trade."
+NEUT1|If there are multiple sub accounts, select the sub account where you want the trade to be in.
+NEUT2|Enter the ticker or the name of the company.
+NEUT3|Select stocks from the dropdown menu.
+NEUT4|Click on go.
+NEUT5|Select the trade type.
+NEUT6|This can be buy, sell, sell short.
+NEUT7|Enter the quantity of shares.
+NEUT8|Enter the price.
+NEUT9|The price can be market limit stop or stop limit.
+NEUT10|If we limit or stop order is chosen, the duration of the order can be a day order or good to cancel.
+NEUT11|"Click preview and then trade to finalize the order."""

@@ -1,0 +1,29 @@
+NEUT0|"""We do have some breaking news to bring you on Tesla right now."
+BEAR1|The company cutting its workforce by 7%.
+BULL2|It's part of an effort to lower cost so the company can sell the Model 3 sedan at a lower price.
+NEUT3|According to a memo from Elon Musk that was viewed by the Wall Street Journal and seems to have been passed around overnight.
+BEAR4|The memo also said that unaudited results for the final three months of the year indicate Tesla made a lower profit than in the third quarter.
+BEAR5|Now you're going to look you're seeing there Tesla shares down about 7%, almost seven and a half percent.
+NEUT6|On that news, we should say, by the way, they've got about a month to get that stock to about $360.00 a share.
+NEUT7|Maybe it's 365.
+NEUT8|I don't know if you know the number Mike, but it's somewhere in there.
+NEUT9|Where or otherwise they're going to be on the hook for about $2 billion of debt that they have to pay.
+NEUT10|Use cash as opposed to be able to convert the stock so there's a real move.
+NEUT11|I think right now to try to try to make things work.
+BEAR12|They've also lowered.
+BULL13|They not only going to lower the price of the Model 3, they're also dealing with they've actually now raised the price.
+NEUT14|Effectively, the Model S 'cause they've gotten rid of the lowest, lowest price version of that.
+NEUT15|They're doing lots of little things.
+NEUT16|The question is, are you playing?
+NEUT17|Are you playing for a month?
+NEUT18|That's the question.
+BEAR19|Many are ill, and the stock.
+NEUT20|This is one of those times where I hate to say manipulating the stock price, but getting the stock to a certain price within this month matters a lot.
+NEUT21|There's a lot of really saying here that's going to make the stock move higher if you're manipulating the stock.
+NEUT22|It's not working unless it translates into a guy getting a low bar.
+NEUT23|Well, a guy to hire.
+NEUT24|Demand because you have lower price models and because you can maybe say that you're going to be profitable because you increment adjusting.
+NEUT25|He's trying to please.
+NEUT26|I'm saying that all of a sudden the stock price, like in a very acute yeah specific day, actually matters.
+BEAR27|Now the stock price is below that threshold.
+NEUT28|"They've said they're going to half and half stocking cash, so it's not either all stalker, all cash, but it's still significant amount of cash that they would have to raise, and you know must letter is now up there and he he refers to the fourth quarters, eking out a tiny profit with all of the effort that I put."""

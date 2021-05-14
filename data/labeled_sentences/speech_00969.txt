@@ -1,0 +1,42 @@
+BULL0|"""Hello hi so we had your fourth quarter results."
+NEUT1|What do they tell you about how you're positioned for the next 12 months?
+NEUT2|Right, so I want to first talking about how we target to service our customer and especially in the last two years with the loud very revolutional their service way to our customer.
+NEUT3|We connect the national used car supply as a one market.
+NEUT4|Previously the Beijing customer just about Beijing used car and the lower tier city just by lower tier used car.
+BEAR5|But the problem is a supply and demand is quite unbalanced so.
+NEUT6|In past several years, we really pay some attention on how to make the digital transparency digital.
+NEUT7|The experience online and the national wider logistic and aftersales the standardize and when we build all of infrastructure today we can enable people buying used car online.
+BULL8|So the last the Q4, the report shows a very strong growth on our cross region business and I think that's also the main target.
+BULL9|In next 12 months, yeah, we want to force is this and we forecast for this business to have a four time growth in 2019.
+BULL10|Four times growth OK yes, you said and in terms of results revenues were up.
+BEAR11|They beat estimates, transaction volume increased, the losses narrowed and margins though were squeezed.
+NEUT12|I just wonder in terms of the share price.
+BEAR13|'cause we're down about 60% since you listed.
+NEUT14|Are investors just miss reading this story?
+BEAR15|Are you being caught up in the trade tensions?
+NEUT16|What's going on there?
+NEUT17|I think of from a entrepreneur view.
+NEUT18|Yeah, we are.
+NEUT19|Especially I'm more focused on the long term gross.
+NEUT20|Yeah, I believe that is a short term market behavior and.
+NEUT21|But the market, the market?
+NEUT22|How can I focus is I focus on how to deliver?
+BULL23|Yeah our goal, just as you say, we beat the revenue.
+BULL24|We beat the bottom line and we management or financial risk and we begin our cash and very strong gross.
+BULL25|But I think the market behaviors.
+NEUT26|I'm short term market behavior is not the key that's I will go into attention given those stronger revenues are you getting closer?
+NEUT27|Do you think to profitability?
+NEUT28|Is that something we might see this year?
+BULL29|Yeah, I believe last Q4 the results shows very strong trend.
+BEAR30|We go into the profitability and we narrow 62% yeah over the loss in 2017 we loss 580 million RMB in the 2017 Q Four quarter last quarter we only lost 224 and you can also say we just reduce our sales and marketing as a percentage of our revenue from 99% in Q4 2017.
+BULL31|261% in Q4 2018.
+BULL32|Yeah, that's a very strong.
+BULL33|The significant data indicate shows that we're going the right way to go to the profitability.
+BULL34|We saw 11% growth in the used car market in China last year and how much demand you expect to see this year?
+NEUT35|I think are on a 15 percent 15%.
+NEUT36|Yeah we we go.
+NEUT37|She ate with a lot of the industry guys.
+NEUT38|Yeah, I think that that's a common forecast for used car and you have a you have a partnership with Taobao, Alibaba's platform?
+NEUT39|Are you looking for additional partnerships?
+BULL40|Yeah, we're working very close in past several years, and I believe also in future we wanted to use our the Super supply chain ability can also serve towels customer and we can.
+NEUT41|"Tabletop customer they can also buy the used car, goes through Tomball Channel."""

@@ -1,0 +1,29 @@
+NEUT0|"""Let's start with 100 vaccinations in 100 days, which is that President Biden is committed to."
+NEUT1|Is that going to happen or not, Larry?
+BULL2|He's gonna over perform significantly on that promise.
+NEUT3|It's we're almost at a million a day and there's every reason to believe we can ramp up in the future.
+BULL4|We will do substantially better than 100,000,000 vaccines in 100 days.
+NEUT5|Let's talk about that.
+NEUT6|US treasurys.
+NEUT7|We heard from Janet Yellen again at her confirmation hearing.
+NEUT8|They're considering at least the duration.
+NEUT9|Are we going to have a 50 year U.S. Treasury bond before the demonstration is over?
+NEUT10|That's a long time we're not going to have it anytime soon because Janet's gonna learn what all her predecessors who thought about this learned that doing that would be a major gift to all the fixed income trading desks at all.
+NEUT11|The hedge funds at the expense of taxpayers given the way it's likely to be priced, it would turn out to be a major set up for arbitrage opportunity so it won't happen anytime soon.
+NEUT12|And finally, we had a remarkable moment, right?
+NEUT13|The very end of the week with a company named GameStop.
+NEUT14|That they actually had to stop trading twice during the day at shot way up, I mean, way, way up and apparently is because there was sort of an army of Reddit users who all Marshall together to go against the short seller.
+BEAR15|And basically I couldn't see any change in the underlying company at all as social media going to really do damage not only to our political system but to our market system.
+NEUT16|I suspect our market system will survive social media, but God, this points up the need for as we used to say in the Treasury in the 90s, a regulatory system is modern as the markets and there's always need to regulate bucket shops and to regulate various ways in which retail investors are taken advantage of and we're in a situation where there are where it's an old theme and and.
+NEUT17|Old story, but their new ways of doing it, so I'm glad that we're having an administration and a set of financial regulators.
+NEUT18|I was glad about the appointment of people like Michael Bar at the Controller of the currency that will Gary Gensler at the SEC.
+NEUT19|That will be committed to regulating where regulation is necessary, but very briefly, at the end.
+NEUT20|I must say I'm surprised.
+NEUT21|I thought if there was going to be a regulatory body, that social media would be the FTC.
+NEUT22|It could be maybe Department of Justice, the trust.
+NEUT23|Maybe it'll be the SEC actually has to regulate social media.
+BEAR24|Look, I think there are a whole set of issues that are outside my expertise on.
+NEUT25|You know, inflammatory tweets on monopoly power in social media platforms in privacy issues that are the FTC's remit.
+NEUT26|But when I look at things like what happened, it read it today.
+BEAR27|That's a kind of dysfunctional market, and I think that's something the SEC is going to have to.
+NEUT28|"Pay a lot of attention to."""

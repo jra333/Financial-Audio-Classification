@@ -1,0 +1,12 @@
+NEUT0|"""Fireman, let's take a look at the Apple stock."
+BULL1|We can see Apple today advance to 0.6.
+NEUT2|Percent and if we change chart into daily chart, we can see here we got another.
+BULL3|Advance right doji pattern with a new high here.
+BULL4|So in my opinion we are well above the second stage.
+NEUT5|Here is the top of the second stage.
+NEUT6|Here is the.
+NEUT7|Top of the first state, so first stage.
+BEAR8|Second stage we are well about the second stage and in the third stage, but in the Thursday we got two doji pattern already and also here is a little bit overbought in short term.
+BULL9|So it's very likely for Apple to pull back a little bit in shorter, but in mid term we are in a clearly afternoon channel and from.
+BULL10|Early November to today, the Action Channel kept intact so you mid term Apple stock will go higher.
+BULL11|"Thank you."""

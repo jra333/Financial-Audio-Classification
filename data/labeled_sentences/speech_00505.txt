@@ -1,0 +1,34 @@
+NEUT0|"""The intrinsic value of Kraft Heinz is range between $1.62 per share and $27.88 per share."
+NEUT1|How were those values calculated?
+NEUT2|Paying $1.62 per share represents the company's cash.
+NEUT3|So for every share issued and outstanding they have 162.
+NEUT4|When cash and cash equivalents paying $27.88 per share represents the company's price per share based on its earnings.
+NEUT5|So a price of 2788 per share represents the fractional payment that we pay for the company's next 20 years of median historical earnings.
+NEUT6|Now this is a conservative way to value a company.
+NEUT7|It's different than the price to earnings ratio, but let's take a look at what they're trading at today.
+NEUT8|So Kraft Heinz Company is currently trading at a price of $30.62 per share.
+BEAR9|We got a bad signal down here.
+BEAR10|Priced earnings ratio is a dash, it's nonexistent, negative, zero.
+BEAR11|This means that they're posting net losses most recently, which is really concerning.
+BEAR12|You don't want to see that, and that's really tough to see, especially from a company that I really like.
+NEUT13|'cause I gotta say, I love their ketchup.
+NEUT14|I'm sure a lot of you guys do, so I wanted to see something a bit more favorable here for Kraft Heinz, specially 'cause I know the value that Warren Buffett places on these food companies.
+NEUT15|Companies that are really their mainstays in the American public and the American.
+NEUT16|The average Americans home.
+NEUT17|So you know, this price is a little bit out of range.
+NEUT18|It could change, could change over the quarter.
+NEUT19|I keep your eye out for Kraft Heinz, it might just be due to the unfortunate recent kovid and the certain depressions that covid.
+NEUT20|Economic depressions at it's placing in certain industries, so maybe that's the case, maybe not, but I'm not want to speculate.
+NEUT21|We have our signals, we know what to do.
+NEUT22|They're overpriced at this time, so we should put our money.
+NEUT23|Don't leave it in the bank, put it in Vanguard 500 index fund.
+NEUT24|Warren Buffett likes is fun too.
+NEUT25|Same funny.
+NEUT26|Used to be that the hedge fund guys in a bet from 08 to 18 you got low variance here on this curve.
+NEUT27|Look at that growth rate and 10 year trailing is returns 12.98%.
+NEUT28|So put your money here until Kraft Heinz Company starts posting some profits.
+BULL29|But also this price becomes a bit more favorable.
+NEUT30|So guys, if you got any value to this video, make sure to subscribe to my channel so you can continue to gain insight on how to analyze business performance.
+NEUT31|That way your investment performance is optimized.
+NEUT32|Remember when your investment performance is optimized?
+NEUT33|"So with your wealth production, I'll see you in the next video value investors."""

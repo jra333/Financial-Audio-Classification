@@ -1,0 +1,40 @@
+NEUT0|"""Now, in terms of this cut, should the RBA have perhaps waited until the Fed moved later this month?"
+NEUT1|Yeah, that's a good question.
+NEUT2|I think given what we know.
+BEAR3|I mean, I think the Fed signaled that they're going to cut rates.
+BEAR4|I think the RBA is anticipating the Fed will cut rates and I think we're seeing in a slowly like a quarter nuxated response from central banks around the world.
+BEAR5|So the RBA meeting came up I. I guess they were convinced they were going to cut rates I want month ago.
+NEUT6|They're still up in the air about whether they would need to.
+NEUT7|So once they are convinced, there's no reason to wait, go for it and they moved and mean, as you mentioned, the market was fully priced for 1/4 point move.
+BEAR8|Not all economists thought they were going to cut today.
+BULL9|I didn't think they were going to move, but the markers are actually pricing in a little bit of a chance of a 50.
+NEUT10|And I think why the Aussie bounce was because the market there was some price that they might go by 50.
+NEUT11|But I don't think they were going to go that far.
+BEAR12|'cause that risk scaring the horses so 25 today and maybe 25 in a few months time.
+NEUT13|The best way to go realistically though in terms of addressing the impact that the coronavirus is like having the economy, is it even necessarily that the RBA cutting today is going to have that much of an impact?
+NEUT14|Isn't it more to do with the physical response that we might see tomorrow?
+NEUT15|I think that's going to be important.
+NEUT16|I mean, I think we're in a situation where we need to do something to sort of bolster confidence or support confidence, even if it's the share market.
+BEAR17|I mean, I think as we saw last week, there was a risk that if central banks don't step in at least talking about offering support, the markets could just feed on themselves.
+BEAR18|You know, you just get this negative spiral in the equity market, 'cause we all know the the news on the economic front is going to be pretty bad.
+NEUT19|At least the next few weeks if not months and so.
+NEUT20|The Fed and the RBA of just putting grain in the grain and the machine that sand in the machine to sort of least give people who want to short the market and slam the market something to think about.
+BULL21|So if anything, it may not stop the market declines, but it may.
+NEUT22|Sort of, you know, slow the market declines.
+NEUT23|Hi David, it's Matt here in Singapore.
+NEUT24|Is this the start of more coordinated central bank action?
+NEUT25|From right around the world you're just talking about the Fed, but are we going to see other moves from the likes of the ECB and BOJ as well?
+NEUT26|And how aggressive do you think any monetary policy changes from these central banks will be?
+BULL27|Yeah, look, I think we will.
+BEAR28|I mean obviously the problem around the world is that many central banks already have interest rates at like 0 and I think the evidence from Japan and Europe is that negative interest rates aren't that helpful.
+NEUT29|I mean what they probably will announces some you know, renewed QE quantitative easing buying up debt.
+NEUT30|I mean whether that.
+NEUT31|Again I think what we the game we're playing at the moment.
+NEUT32|It's not so much that lower rates can directly help stimulate spending, but it's the indirect psychological impact on on.
+NEUT33|If markets and investors and consumers think that the central banks are aware of the risks and are trying their best to sort of support the economy, you know that's better than nothing.
+NEUT34|So it's really a cycle psychology game at the moment, rather than I think, further moves necessarily directly contributing to growth because it is getting pretty tenuous that they can actually offer much support at the moment.
+NEUT35|But just in answer your question, yes, I think we will see maybe not coordinated and that they all do it at once overnight, because they obviously the RBA went today.
+NEUT36|Maybe the Fed?
+NEUT37|You know some talk.
+NEUT38|the Fed could go as early as tonight, but possibly they may still wait for their meeting to move and probably by 50.
+NEUT39|"And I think central banks around the world may go at their next appointed policy meeting rather than you know all at once overnight."""

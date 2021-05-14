@@ -1,0 +1,41 @@
+NEUT0|"""In a world where almost every investment option has been going up for seven years, how do you find value?"
+NEUT1|I'm Jack cartereditorbarrons.com.
+NEUT2|I'm here with Jeffrey Knight, Global head of Asset Allocation at Columbia Threadneedle.
+BULL3|Great to have you here, Jeffrey.
+NEUT4|Let's talk briefly about your overall view of the market you've been watching as everything you invest in gets a little pricier.
+NEUT5|Well, I think we've had an intentional policy by central bankers since the crisis.
+NEUT6|To target asset price reflation as a mechanism for kindling animal spirits, whatever.
+NEUT7|So we have seen appreciation and every kind of asset class that we invested in.
+NEUT8|Stocks, bonds, commodities, credit markets, you name it.
+NEUT9|That's led you to what you call a barbell approach, where you've got sort of the safety assets on one end and then some risk assets where you see a little more return on the other end.
+NEUT10|You listed small cap stocks, commodities, and emerging market stocks.
+NEUT11|Can you explain that?
+NEUT12|Thinking?
+NEUT13|Sure, thematically, I think investors have.
+NEUT14|Taking the cue and sort of taking the bait of the of the policy makers, but only gradually.
+NEUT15|So first that meant I'll buy safe bonds next.
+NEUT16|Then I'll buy a little bit more aggressive bonds with investment grade corporates and they've worked their way out on the risk curve.
+NEUT17|And then every time we have a temporary set back, that process sort of begins again or get set back so it hasn't quite reached to the same extent those assets that are farthest out on the risk curve that it has those that are more at the belly or at the front end of the risk curve.
+NEUT18|And so to the degree that there's any relative value.
+NEUT19|That's where I think it resides.
+BEAR20|And their price earnings ratios or whatever measure using are a little bit lower compared with those other assets.
+NEUT21|That's right in our expected returns are two to 3% higher for those assets, but of course they're more volatile, and so we have to pay attention to how do we balance that off in the context of a risk managed portfolio?
+NEUT22|Speaking of which, how should investors get access to these?
+NEUT23|One way is the fund you run.
+NEUT24|Well, one way is to is to look for a fund where there's somebody like me looking after the balance of investments in risky and safe assets, and so on.
+NEUT25|An asset allocation fund, I mean the one that I would draw attention to is the Columbia adaptive Risk Allocation Fund, which we've developed over the last few years.
+NEUT26|Which which invest in all these things, but does so in an active and careful way and how you done, and we've done.
+BULL27|We've done quite well this year.
+BULL28|We're up right around 10% even after the recent volatility storm.
+BULL29|We've had a nice participation when the markets have been strong, and we've done well, and protecting those games or the markets have been weaker for the investor, who's more of a DIY person, maybe they already have a big allocation to say commodities or something.
+NEUT30|What do you recommend?
+BULL31|It's an exciting time, I think, to be a DIY investor because we have so many choices in ways to gain exposure to these to these areas we have mutual funds.
+NEUT32|We have exchange traded funds.
+NEUT33|We have individual securities and I think what investors should take to pay attention to is.
+NEUT34|Where is it worth the expense to get professional active management?
+NEUT35|I think asset classes like high yield bonds or emerging market stocks are expensive to replicate, and active management has a strong track record in those areas, but there are other areas that can be.
+NEUT36|We can gain exposure very accurately and efficiently at very low expense like.
+BULL37|Investment grade rate sensitive bonds, which I think is is the right choice there.
+NEUT38|So pay attention to expenses and pay attention to the value proposition.
+BULL39|Thanks very much, Jeff.
+BULL40|"Thank you."""

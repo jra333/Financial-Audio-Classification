@@ -1,0 +1,15 @@
+NEUT0|"""Good morning, here are today's market headlines brought to you by I Forex."
+NEUT1|The US pending home sales will be released at 1400 GMT.
+NEUT2|The Swiss UBS consumption indicator at 600 GMT.
+NEUT3|The UK mortgage approvals at 8:30 GMT.
+NEUT4|The UK Consumer Credit at 8:30 GMT.
+NEUT5|the US MBA mortgage applications at 1100 GMT and the US EIA crude oil Stock Exchange at 1430 GMT.
+BEAR6|The US stocks were well off session lows on Monday as investors sought bargains after a rough start on Wall Street following the defeat of Trump's first major legislative action.
+BEAR7|As US auto sales have peaked, the competition to finance car loans is set to intensify and drive increased credit risk for auto lenders.
+BEAR8|The euro continues making fresh gains as traders positioned themselves massively short and the US dollar weakens.
+BULL9|Netflix shows mild gains on the intraday levels and although we see the SMAD providing positive pressure, the RSI remains neutral.
+BEAR10|The Aussie shows some bullish bias approaching the critical resistance at 0.764, the SSI remains inconclusive.
+BEAR11|The Dollar yen pack clearly resumed its negative trading and succeeded in breaking 110.85 level and in settling below it, which supports the continuation of a bearish trend.
+BEAR12|The price of crude oil shows a slightly bearish bias this morning, moving away from the 48.37 level to keep the negative pressure dominant on the intraday and short term trading.
+NEUT13|We hope you enjoy today's market review.
+NEUT14|"See you next time."""

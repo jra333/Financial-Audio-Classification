@@ -1,0 +1,32 @@
+NEUT0|"""And we're joined now by Alexia Quadrini media analyst at JP Morgan."
+BEAR1|Looking at the reaction in the stock, Alexia, it's been a grind but a grind higher grind back.
+BEAR2|I think we got as low as about $85 and now back over 120.
+BEAR3|Still quite a distance from one 153 from the highs.
+BEAR4|Have you had an outperform the whole time?
+BULL5|I know this is one of your favorite picks, and you've reiterated that, but did you have an outperform through through the last two or three months?
+NEUT6|Yeah we did.
+NEUT7|We have absolutely did have an outperform all the way down and then now halfway back we just, you know, we don't change ratings every in every few weeks.
+BEAR8|I mean obviously if we have the the knowledge of what happened, sort of March with the market, maybe we would have lowered our rating and says that this is what the pandemic going to drive all the stocks we cover.
+NEUT9|We probably would have lower ratings and lots of stocks for the intermediate term, but we really tried to stress our long term view on Disney from the beginning.
+NEUT10|You know we basically said in our notes that we published while the stock was going down.
+BEAR11|You know this this company is going to push through this, and if you're in this for the long haul while the near term, there might be pressure on the stock.
+NEUT12|If you're in this for the long haul, you know this is this is a true overweight would have been hard to get it of the given that I mean I think of our parent Comcast.
+NEUT13|You've got that cable, sort of that solid business underneath and Disney has streaming, but other than that I mean you look at the what, the how they try to mix of assets.
+BEAR14|It's been very, very difficult for what covid is affected.
+NEUT15|Almost every part of the business.
+NEUT16|The Shanghai reopening.
+NEUT17|Can you compare that directly to what we can expect in this country?
+NEUT18|'cause that's a blueprint, but is it?
+NEUT19|Can you replicate what happened in Shanghai with the way Americans behave?
+NEUT20|Do you think I think you said it the right way?
+NEUT21|I think it's a blueprint, right?
+NEUT22|It's not.
+NEUT23|I'm not a perfect match, but it's definitely a blueprint and I think in a way they're much better off and some other other theme parks here in the US, right?
+NEUT24|Because they have done it in another country.
+NEUT25|Maybe not exactly the same, but very close to the same.
+NEUT26|And then not only that, they've also had two months right there, going two months between the opening of Shanghai and the opening here.
+NEUT27|So they've had two months and say, OK, this is what Shanghai looks like.
+NEUT28|This is what we look like here at Disney World.
+NEUT29|This is how we're different and this is how we're going to make adjustments.
+NEUT30|I mean, people behave a little bit differently in the US right than they do in China, so it's not going to be perfect.
+BULL31|"Perfectly analogous, but I think it's a very, very helpful benchmark."""

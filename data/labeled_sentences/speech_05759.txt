@@ -1,0 +1,33 @@
+NEUT0|"""Explain why you're so concerned about these areas and how much more at risk you think they are to coronavirus."
+NEUT1|My biggest concern is the infrastructure issue and so because part of it is the health care infrastructure that there's no access to hospitals.
+NEUT2|Things like that.
+NEUT3|So when outbreak comes out then they're not going to be able to tackle this virus, but then you bring up a good point about working from home.
+BEAR4|A lot of these rural communities don't even have the broadband infrastructure to do that, so even people move out there.
+BEAR5|They're not going to be able to work from home, and so there's all these infrastructure issues are going to cause problems, right?
+BULL6|Although if there's enough of a demand, I mean, that could finally get the broadband infrastructure to expand, you know, kind of following that demand.
+NEUT7|But let's go back to the core issue about the spread of coronavirus.
+NEUT8|You mentioned Iowa is the meat packing plants and so forth.
+BEAR9|But every state that has reopened has so far seen a lower R0A lower sort of spread of coronavirus than it had prior to the lockdowns.
+NEUT10|Do you see any evidence that you know that reopening is is intensifying the spread of coronavirus in rural America?
+NEUT11|Yeah, because when we talk about rural America, one things we have to understand is that it's not a monolith that Iowa, Georgia, Mississippi, even central California.
+NEUT12|There's all these different parts of rural America, so you look at tribal communities in New Mexico.
+BEAR13|They are having huge outbreaks at the level of big cities.
+NEUT14|You look at Southwest Georgia, Mississippi, Alabama.
+BEAR15|There also having huge outbreaks.
+BEAR16|So at a state level it may not look like it may look like that is, you know, it's actually getting lower, but we look even deeper and specifically focus on rural communities is actually getting worse.
+NEUT17|Understood and I know I listen.
+NEUT18|I grew up in a pretty world community, so I definitely know what you mean about you.
+NEUT19|Know health care support.
+NEUT20|Although I will add even in that community they've had basically no outbreaks or hospitalizations of Corona virus.
+NEUT21|But there's something else to balance this against, 'cause I know that you're concerned about these reopenings and say we should even have a national shutdown.
+BEAR22|Again, the damage from that, including the death toll and the health toll, could be terrible for these rural, rural communities.
+BEAR23|You know, this is a population, as you know, that tends to be sicker.
+NEUT24|Older, you know, more vulnerable.
+BEAR25|We've already seen people having to postpone routine medical checkups.
+BEAR26|People who might have cancer or diabetes and chronic conditions not able to get the care they need.
+NEUT27|Isn't it more urgent that the economy reopens in order for them to get that care?
+NEUT28|And to make sure that those jobs that support those communities don't go away?
+NEUT29|I think this is a place where the policymakers can really step in and actually help out with these reopenings.
+BEAR30|So when I think you have to think about is that you know when we reopen, you know people may not come back because it may still be worried about the outbreak and so we can reopen the economy, but people may not be able to come back, so policy makers put more money into relief programs to help out with businesses to help out with people who are on layoff.
+BEAR31|'cause we have huge layoffs.
+BEAR32|"We also have decrease in retail sales and so policymakers can step up and make the environment much more safer."""

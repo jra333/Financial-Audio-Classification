@@ -1,0 +1,35 @@
+NEUT0|"""Stock markets are closed this morning for Independence Day, but when trading resumes on Monday, the Dow is expected to open above 17,000 for the first time."
+BULL1|That thanks to a surge after yesterday's better than expected employment report, the economy added 288 thousand jobs in June.
+BULL2|It was the fifth straight month of gains of above 200,000.
+BEAR3|The unemployment rate fell to six point, 1%, the lowest since 2008.
+BULL4|President Obama trumpeted the numbers Thursday.
+BULL5|It gives you a sense that the economy has built momentum that we are making progress.
+BEAR6|We've now seen almost ten million jobs created over the course of the last 52 months.
+NEUT7|Max Wolff is the chief economist at Citizen Dot VC, a financial advisory firm.
+NEUT8|Max good morning.
+BULL9|Thank you for having me is the economy building momentum here Max.
+BULL10|Yeah, so the part we measure particularly is, but it's unambiguously good news.
+NEUT11|You have to celebrate every bit you get, especially after that long, cold winter we had both economically and physically this year.
+NEUT12|So when you hear the idea of momentum though, then it leads to this question about the long term unemployed.
+NEUT13|There are still around 3.1 million of them WHI.
+BULL14|Aren't they benefiting well?
+BEAR15|So we're seeing those numbers fall, but probably mostly 'cause these people are falling out of the account and out of the economy, which is terrible, but it's a tough job market, and we've done a lot of studies and we know the following.
+BEAR16|If you've been out of work along time, you get kind of discriminated against and it gets that much harder to get back into the labor force.
+BEAR17|That's one, and two your skills run off your less fresh.
+NEUT18|You don't know the new software.
+NEUT19|You don't know the new techniques.
+BEAR20|So you get kind of shunned and you're also losing some of that magic that helps you get over the hump in a competitive job market and be the selected candidate.
+BEAR21|And under these, these job numbers, which were encouraging, we still have real no substantial wage growth, do we?
+BEAR22|I mean, it's been like we're basically where we were last year, up 2%, but that's about inflation.
+NEUT23|So it's a great point and obviously depends on what you think of as substantial.
+BULL24|The average American got a whopping $1.38 raise across the month of June as possible.
+BEAR25|They were underwhelmed even by that lordly some.
+BEAR26|Especially if you filled up your gas tank once even part of the way, and then you lossed your entire raise so we haven't seen actually any wage growth in over six years here now.
+BEAR27|And that's really beginning to weigh on people.
+NEUT28|'cause that's how you dig out, especially after a long rough Patch we had there coming out in 2008, right?
+NEUT29|So it's it's good news, but it's not exactly like people are feeling.
+NEUT30|Most people probably only know the economy got better from reading it.
+NEUT31|I think I think when some people read it or see it on your CBS This Morning, some of the folks I think see it as a talk.
+BEAR32|So I think there's a lot of folks left behind here, they say.
+NEUT33|I want to see if my paycheck exactly Maxwell.
+BULL34|"Thank you so much, thank you."""

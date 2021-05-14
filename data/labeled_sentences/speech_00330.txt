@@ -1,0 +1,12 @@
+NEUT0|"""Everyone, let's take a look at the Apple stock."
+NEUT1|We can see here after the open market.
+BEAR2|It tried to make a new high, but it has failed and dropped very quickly.
+NEUT3|Till the closing on the market.
+NEUT4|So it's very very site for the Apple stock.
+NEUT5|So at closing on market it has nearly closed at the low point and if we change the chart into daily chart.
+NEUT6|We can see here we got another small Dodge.
+NEUT7|This model G has tried to break out from the facts and MA and 20 days in May but has failed with strictly between the lines we can see here.
+BEAR8|Clearly we stuck between the lines and also if we compare the volume we can see the volume is very weak for Apple stock, so it means there's nobody buying no buying power so it's still a barrier sign for Apple stock.
+NEUT9|In my opinion in current situation.
+NEUT10|There's actually no momentum in Apple stock you shouldn't consider to hold it or buy it at this moment.
+BULL11|"Thank you."""

@@ -1,0 +1,14 @@
+NEUT0|"""Alright, let's take a look at the Apple Store."
+BEAR1|You can see it dropped at first and then bounced back and nearly closed at the high point of the day.
+NEUT2|If we change chart into daily chart, we can see.
+NEUT3|Here today.
+BULL4|It has formed another green candle with a new high.
+BULL5|With a new high compared to yesterday and also we can see this kind of has a longer tail, it means a lot of.
+BULL6|Buying power supported pushed prices back up.
+NEUT7|But this kind of pattern sometimes can be seen as a hammer.
+NEUT8|A hammer on the top is a selling side.
+NEUT9|So we should be careful here.
+BULL10|But in mid term we are still in uptrend channel for Apple stock since we have break out from the hail here.
+NEUT11|So as long as we keep it above the top end of this candle.
+BEAR12|I think we still got a bull market for Apple stock.
+BULL13|"Thank you."""

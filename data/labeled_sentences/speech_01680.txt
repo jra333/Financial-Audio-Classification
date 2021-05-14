@@ -1,0 +1,13 @@
+NEUT0|"""From the FT in London, here's the latest on markets."
+BEAR1|Bond market types are a miserable bunch at the best of times, but they're getting particularly nervous now.
+BEAR2|Yesterday saw a heavy drop in bond prices, described by Rabobank as a bloodbath.
+BEAR3|Some of it was led by the UK, where surprisingly robust economic growth figures helped to dim expectations of more easing from the Bank of England, and hammered gilts back down to where they were at around the time of the Brexit referendum.
+NEUT4|Remember, for this market?
+BULL5|Good news.
+BEAR6|Is bad news today.
+BULL7|The drop is extending further help by surprisingly upbeat inflation readings from some parts of Germany an from Spain.
+BEAR8|Austria's super long dated 70 year Bond issued this week is among the casualties offering a reminder that when the market creeks the long end really suffers.
+BEAR9|Some are wondering whether this is the beginning of the end of the decades Long Bull Run in bonds, but we've had a number of these scares before and they've come to nothing.
+BEAR10|Stocks are also feeling the nerves vibes.
+NEUT11|Meanwhile, watch Turkey where the currencies hit.
+BEAR12|"Another record low, partly on grim tourist arrival data."""
