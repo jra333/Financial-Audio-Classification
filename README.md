@@ -8,9 +8,35 @@ We trained our data on four baseline models:
 - Support Vector Classifier (SVC) x2
 - XGBoost
 
-And two neural netowrks for deep learning:
-- Custom CNN
-- HyperResNet
+And a few neural netowrks for deep learning:
+- Tested: ResNet50, VGG16, EfficientNetB0 and B7
+- Tested: 4 unique architectures from scratch
+
+### Table of Contents:
+- **Approach**
+    - Notebooks:
+        - [Ensembling](https://github.com/jra333/Financial-Audio-Classification/blob/main/Dataset%20Ensembling/dataset_ensembling.ipynb)
+        - [EDA](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA%20_Augmentations/exploratory_data_analysis.ipynb)
+          - [Augmentations](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA%20_Augmentations/datasetsplit_augmentations.ipynb)
+        - [Baseline Models](https://github.com/jra333/Financial-Audio-Classification/blob/main/Baseline%20Modeling/features_baseline_modeling.ipynb)
+        - [Deep Learning](https://github.com/jra333/Financial-Audio-Classification/blob/main/Ext.%20Modeling%20(Deep%20Learning)/extended_modeling(deep%20learning).ipynb)
+- **Findings**
+    - [Report]
+- [**Future Work**](https://github.com/jra333/Financial-Audio-Classification#future-work)
+
+
+## Results
+
+
+## Future Work
+
+This project is ongoing. Current focus is:
+
+- Restructure ensembled data (possibly collect more)
+- Revise augmentations
+- Improve CNN accuracy 
+- Clean model pipelines and dataloading flow
+
 
 For a more detailed explanation, read the report here: 
 
