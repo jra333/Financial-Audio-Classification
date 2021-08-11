@@ -23,7 +23,7 @@ And a few neural netowrks for deep learning:
     - [Deep Learning](https://github.com/jra333/Financial-Audio-Classification/blob/main/Ext.%20Modeling%20(Deep%20Learning)/extended_modeling(deep%20learning).ipynb)
 - **Findings**
     - [Results](https://github.com/jra333/Financial-Audio-Classification#results)
-      - [AUG 2021](https://github.com/jra333/Financial-Audio-Classification#(AUG-2021))
+      - [AUG 2021](https://github.com/jra333/Financial-Audio-Classification#aug-2021)
     - [Report](https://github.com/jra333/Financial-Audio-Classification/blob/main/FinancialAudioSentimentClassification(report).pdf)
 - [**Future Work**](https://github.com/jra333/Financial-Audio-Classification#future-work)
 
