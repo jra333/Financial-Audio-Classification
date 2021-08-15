@@ -21,11 +21,11 @@ Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, 
 
 ### Table of Contents:
 - **Approach**
-    - [Ensembling](https://github.com/jra333/Financial-Audio-Classification/blob/main/Dataset-Ensembling/dataset_ensembling.html)
-    - [EDA](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA-Augmentations/exploratory_data_analysis.html)
-      - [Augmentations](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA-Augmentations/datasetsplit_augmentations.html)
-    - [Baseline Models](https://github.com/jra333/Financial-Audio-Classification/blob/main/Baseline-Modeling/features_baseline_modeling.html)
-    - [Deep Learning](https://github.com/jra333/Financial-Audio-Classification/blob/main/Ext-Modeling-DeepLearning/extended_modeling_deepLearning.html)
+    - [Ensembling](https://jra333.github.io/jra333/Financial-Audio-Classification/Dataset-Ensembling/dataset_ensembling.html)
+    - [EDA](https://jra333.github.io/Financial-Audio-Classification/EDA-Augmentations/exploratory_data_analysis.html)
+      - [Augmentations](https://jra333.github.io/Financial-Audio-Classification/EDA-Augmentations/datasetsplit_augmentations.html)
+    - [Baseline Models](https://jra333.github.io/Financial-Audio-Classification/Baseline-Modeling/features_baseline_modeling.html)
+    - [Deep Learning](https://jra333.github.io/Financial-Audio-Classification/Ext-Modeling-DeepLearning/extended_modeling_deepLearning.html)
 - **Findings**
     - [Results](https://github.com/jra333/Financial-Audio-Classification#results)
       - [AUG 2021](https://github.com/jra333/Financial-Audio-Classification#aug-2021)
