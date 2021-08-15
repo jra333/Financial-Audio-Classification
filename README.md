@@ -21,7 +21,7 @@ Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, 
 
 ### Table of Contents:
 - **Approach**
-    - [Ensembling](https://jra333.github.io/jra333/Financial-Audio-Classification/Dataset-Ensembling/dataset_ensembling.html)
+    - [Ensembling](https://jra333.github.io/Financial-Audio-Classification/Dataset-Ensembling/dataset_ensembling.html)
     - [EDA](https://jra333.github.io/Financial-Audio-Classification/EDA-Augmentations/exploratory_data_analysis.html)
       - [Augmentations](https://jra333.github.io/Financial-Audio-Classification/EDA-Augmentations/datasetsplit_augmentations.html)
     - [Baseline Models](https://jra333.github.io/Financial-Audio-Classification/Baseline-Modeling/features_baseline_modeling.html)
