@@ -21,15 +21,16 @@ Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, 
 
 ### Table of Contents:
 - **Approach**
-    - [Ensembling](https://github.com/jra333/Financial-Audio-Classification/blob/main/Dataset%20Ensembling/dataset_ensembling.ipynb)
-    - [EDA](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA%20_Augmentations/exploratory_data_analysis.ipynb)
-      - [Augmentations](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA%20_Augmentations/datasetsplit_augmentations.ipynb)
-    - [Baseline Models](https://github.com/jra333/Financial-Audio-Classification/blob/main/Baseline%20Modeling/features_baseline_modeling.ipynb)
-    - [Deep Learning](https://github.com/jra333/Financial-Audio-Classification/blob/main/Ext.%20Modeling%20(Deep%20Learning)/extended_modeling(deep%20learning).ipynb)
+    - [Ensembling](https://github.com/jra333/Financial-Audio-Classification/blob/main/Dataset-Ensembling/dataset_ensembling.html)
+    - [EDA](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA-Augmentations/exploratory_data_analysis.html)
+      - [Augmentations](https://github.com/jra333/Financial-Audio-Classification/blob/main/EDA-Augmentations/datasetsplit_augmentations.html)
+    - [Baseline Models](https://github.com/jra333/Financial-Audio-Classification/blob/main/Baseline-Modeling/features_baseline_modeling.html)
+    - [Deep Learning](https://github.com/jra333/Financial-Audio-Classification/blob/main/Ext-Modeling-DeepLearning/extended_modeling_deepLearning.html)
 - **Findings**
     - [Results](https://github.com/jra333/Financial-Audio-Classification#results)
       - [AUG 2021](https://github.com/jra333/Financial-Audio-Classification#aug-2021)
-    - [Report](https://github.com/jra333/Financial-Audio-Classification/blob/main/FinancialAudioSentimentClassification(report).pdf)
+    - [Report](https://github.com/jra333/Financial-Audio-Classification/blob/main/FASC(report).pdf)
+    - [Presentation](https://github.com/jra333/Financial-Audio-Classification/blob/main/FASC(presentation).pdf)
 - [**Future Work**](https://github.com/jra333/Financial-Audio-Classification#future-work)
 <br>
 
