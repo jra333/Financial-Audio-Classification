@@ -1,8 +1,0 @@
-BULL0|"""2020 is going to be a year of many challenges in sparkling waters business, which is experiencing a strong momentum in light of the evolving consumer trends."
-NEUT1|Yesterday, the Swiss behemoth Nestle unveiled the upcoming debut of Poland Spring Water in containing the same caffeine quantity of a Cup of coffee in February will be the turn of functional water.
-NEUT2|Nestle pure life plus behind the array of new entries.
-BEAR3|There is the slow but inexorable decay of bottled water as consumers are becoming increasingly concerned about the impact of plastic on the environment, Nestle is preparing for a challenging time since it is going to face an unexplored market and yet contested between the major juggernauts such as Coca Cola.
-BEAR4|In November, Coca Cola announced the rollout of flavored Waters Aghs on the 2nd of March in the US, declaring war to the longtime leader in the category LAQUA, which is now facing a steady decline in sales.
-BULL5|Nestle stock closed at 103.88 CHF on the 10th of December 2019, over the last 12 months, it has gained 25.04% Morningstar rates its fair value estimate for the company at 88 CHF and considers the stock overvalued.
-NEUT6|Consider buying at 70.40 CHF and selling at 110 CHF.
-NEUT7|"FactSet Records a 12 month target price between 91 and 122 CHF out of 26 analysts surveyed by FactSet 14 have a buy rating on the stock 8 hold, two underweight and two cell."""

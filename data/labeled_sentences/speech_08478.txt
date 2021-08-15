@@ -1,6 +1,0 @@
-NEUT0|"""Fisher Sandler Richmond bankruptcy attorneys specializing in Chapter 7 and Chapter 13 bankruptcy."
-NEUT1|Call 804-664-3643 today or visit www.fishersandlerlaw.com to schedule your free consultation.
-NEUT2|Now offering phone, virtual or in office consultations.
-NEUT3|Our call center is available 24 hours, seven days a week.
-NEUT4|Fisher, Sandler, home of the Zero down bankruptcy.
-NEUT5|"Call today 804-664-3643."""

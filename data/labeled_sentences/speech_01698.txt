@@ -1,5 +1,0 @@
-NEUT0|"""It is official."
-NEUT1|The Coinbase IPO is set to launch on April 14.
-NEUT2|This is very big news for the crypto space and I'm expecting a lot of coins to start pumping right now all the way until the IPO is officially released.
-NEUT3|I will be making a full video on my YouTube channel showing you guys how to invest in the coin based IPO, so make sure you subscribe to my channel and stay tuned for that video dropping tomorrow.
-NEUT4|"Also, like follow through the next video, peace out."""

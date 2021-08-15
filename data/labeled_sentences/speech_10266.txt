@@ -1,8 +1,0 @@
-NEUT0|"""Alright, let's talk about the Apple stock."
-BULL1|We can see Eiffel opened high, dropped sharply down, and managed to bounce back and close at the neutral position.
-NEUT2|If you change charging the daily chart, we can see here we got a red candle disrupt, kind of followed the.
-NEUT3|Big doggie pattern so it means indecision and awake side.
-NEUT4|So here I see is a very.
-BEAR5|Dangerous sign Falby 'cause even though we break out with a new high but we can form with a weakness site so please don't play some money or place your position here because there's no clear direction.
-NEUT6|Confirmed by the market is very likely it's a job and very likely to break out, but for now there's no direction confirmed, so hold your money.
-BULL7|"Thank you."""

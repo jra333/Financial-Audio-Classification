@@ -1,9 +1,0 @@
-NEUT0|"""Hey there, in this short I'm going to let you in on 3 great division Orissa crap stocks."
-NEUT1|Let's get started.
-NEUT2|The first corner looses Coca Cola ticker KO which is currently priced at $48.99 and has a 3.43% dividend yield.
-NEUT3|The next corner list is Johnson and Johnson ticker symbol JNJ on the NYSE.
-NEUT4|It's currently at $158.46 as a dividend yield of 2.55% and the last sock on her list is Procter and Gamble ticker symbol PG.
-NEUT5|It's currently at $123.53 and its dividend yield similar to Johnson and Johnson's at 2.56%.
-NEUT6|Well, that concludes our dividend aristocrat list.
-NEUT7|If you enjoyed, make sure to subscribe and like as a help with the channel.
-NEUT8|"Thanks for watching and I'll see you in the next one."""

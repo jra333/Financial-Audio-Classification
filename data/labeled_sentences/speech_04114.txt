@@ -1,9 +1,0 @@
-NEUT0|"""For the US economy 2021 is shaping up as a tale of two halves."
-BEAR1|Reading rapidly, the economic damage in labor market challenges will hit hard at the beginning of the year as we come to the end of 2020, only about 60% of the jobs lost to the pandemic have been recovered.
-BULL2|That picture may change dramatically as 2021 progressive pent up demand for social interaction.
-NEUT3|Restaurants, tourism, concert, theater, sports events.
-BULL4|Once it is safe to partake of these activities, it will mean that jobs in these sectors are likely to come back strongly.
-NEUT5|What will the prospects of the pattern of a week starting a strong finish mean for fiscal and monetary policy?
-NEUT6|Fiscal policy is pointed toward another round of stimulus, but the politics remain uncertain as to how much money might be provided and how it would be spread around fed guidance.
-NEUT7|On the other hand, is much clearer.
-BULL8|"the Fed is committed to a steady stream of asset purchases and near 0 rates for the foreseeable future."""

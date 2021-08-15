@@ -1,6 +1,0 @@
-NEUT0|Amazon is opening a pop-up clinic in Seattle to administer covid vaccines.
-NEUT1|The clinic at Amazon Seattle HQ plans to administer 2000 vaccines to eligible members of the public.
-BULL2|Amazon has appealed to President Biden for its frontline workers to get priority access to the vaccine.
-NEUT3|The company said it's ready to administer doses to its workers as soon as they are made available.
-NEUT4|Shepard Smith here.
-NEUT5|Thanks for watching CNBC on YouTube.

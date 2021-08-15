@@ -1,9 +1,0 @@
-NEUT0|"""Read it legitimately."
-NEUT1|Shut down.
-NEUT2|The stock market is not going to believe this.
-BEAR3|Check it out guys in suits thought that GameStop stock was going to crash so they all rallied together in bed against it will bend of Reddit users, also known as Wall Street.
-BEAR4|Bets came along and ruined their plans.
-NEUT5|They all got together and they push the stock up.
-NEUT6|There were so many of them that they literally doubled the stock in a day.
-BEAR7|This causes suits to lose millions of dollars.
-NEUT8|"Put the plus to stay up to date."""

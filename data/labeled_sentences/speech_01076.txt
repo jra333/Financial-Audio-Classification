@@ -1,8 +1,0 @@
-NEUT0|"""What is the best stock trading app?"
-NEUT1|My choice is eternal, but why?
-NEUT2|You can trade stocks with zero percent Commission crypto currencies, ETF's, indices, currencies and commodities, eternal offers, free insurance up to 1,000,000 and eat arrows.
-NEUT3|Social Network has 20 million users where you can interact, share ideas and trading strategies on eternal.
-NEUT4|You can invest in ready made investment portfolios that utilize that.
-NEUT5|Vance algorithms on AI to leverage the wisdom of the crowd.
-NEUT6|Or you can copy the trades of talented, experienced and professional investors automatically.
-NEUT7|"Join Now at copytradingfirm.com or Link in Bio."""

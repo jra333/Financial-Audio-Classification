@@ -1,3 +1,0 @@
-NEUT0|"""How much bigger is the bond market than the stock market?"
-NEUT1|According to some estimates, the global bond market has more than tripled in size in the past 15 years and now exceeds $100 trillion.
-NEUT2|"By contrast, S&P Dow Jones indices value of the global stock market at around $64 trillion."""

@@ -1,8 +1,0 @@
-BEAR0|"""U.S. stocks looking set to take a tumble."
-BEAR1|This Wednesday morning here at the New York Stock Exchange on the combination of bond yields, falling again and rising trade tensions between the US and China yesterday, the 10 year Treasury note yield touching a 19 month low on Tuesday while in the forex market, the euro dollar sees its key resistance one 1175 the British pound U.S. dollar pair that's under pressure while the dollar yen is under pressure as well.
-NEUT2|Now the US dollar Canadian dollar pair sees the bias remain bullish and that's in focus.
-BULL3|As the pair has rebounded above its strong horizontal support at one 3475 and remain supported by its 50.
-BULL4|Moving average long positions above one 3475 are favored with targets at one 3520 and one 3545 and extension onto the Bitcoin dollar that's under pressure with a pivot point at 8688, and gold sees the continuation of a rebound, and that's in focus gold breaking above a declining trend line and should post further advance long positions above 1280.
-NEUT5|Fifty our favorite with targets at 1287 and 1289 extension.
-BULL6|Well, silver intraday Caesar rebound expected.
-NEUT7|"Don't forget to follow trading Central on Twitter and other social media networks for all of your forex market updates and for trading central Web TV from the New York Stock Exchange on this or Wednesday morning, I'm James's winning."""

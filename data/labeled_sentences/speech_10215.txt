@@ -1,6 +1,0 @@
-BULL0|"""Said Japan's government raised its assessment of the economy for a second straight month and this is after industrial production."
-BULL1|Rose and exports improved.
-NEUT2|The context.
-NEUT3|Here is the government's move.
-NEUT4|Follows a similar raising assessment by the Bank of Japan yesterday.
-BULL5|"You want to keep in mind Japan's Nikkei 225 was one of the only Asian markets to gain in overnight trading, at least in the Asiapac region, rising 0.9%."""

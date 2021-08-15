@@ -1,7 +1,0 @@
-NEUT0|"""Dating at Bumble saw its shares soar and it's Thursday IPO making 31 year old CEO and co-founder Whitney Wolf, heard the world's youngest self made women billionaire her 11.6% stake in the company was worth $1.5 billion at the end of trading Thursday."
-NEUT1|And to top it off, Wolf Herd is also the youngest female CEO ever to take a company public in the US.
-BULL2|Shares of the stock opened at $76, much higher than its initial IPO price of $43 per share.
-NEUT3|As a result of the public offering, the Austin based company raised $2.2 billion.
-NEUT4|Most of the funds raised in the offering will be used to purchase or redeem shares from its pre IPO owners, namely private equity firm Blackstone, which own nearly 91% before the offering and we've heard.
-BULL5|Bumble is the second biggest dating app to go public ever after match groups 2015 IPO, Bumble reported $417 million in revenue in the first nine months of 2020, up from $363 million over the same timeframe in 2019.
-NEUT6|"At $76 a share early Thursday afternoon, bumble's market cap was $8.6 billion."""

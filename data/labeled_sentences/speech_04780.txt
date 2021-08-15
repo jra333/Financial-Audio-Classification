@@ -1,9 +1,0 @@
-NEUT0|"""Hi everybody, it's Dave Aquino at base camp trading."
-NEUT1|This is a free video for Tuesday, February 2nd.
-NEUT2|So we're looking at the S&P 500.
-BULL3|Not a bad day, up 1.39%, but the big thing is the markets are waiting for earnings after the Bell.
-NEUT4|In Amazon and in Alphabet, so they didn't do badly at all pre market.
-BULL5|But now since we're looking at the pre market numbers Amazon is up over 43 points and after market trading and alphabet.
-BULL6|Is actually a much stronger over 122 points, so looking at this market action, it bodes well for a continuation move higher in the overall S&P 500, and definitely potentially a strong open or a bullish open in the NASDAQ in the morning and looking for me to continue higher to easily break.
-BULL7|3850 on its way to retest the high at 3870.
-BULL8|"Again good news out of both of those companies, and I think because of their market weighting in the S&P 500, definitely have a chance to push the markets higher tomorrow, thanks."""

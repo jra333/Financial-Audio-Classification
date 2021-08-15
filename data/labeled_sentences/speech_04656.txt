@@ -1,9 +1,0 @@
-NEUT0|"""Viewers this video is about."
-NEUT1|Amazon distribution strategy case solution and analysis.
-NEUT2|The paper attempts to describe a brief description of the company along with the problems faced by Amazon.
-NEUT3|The paper also attempts to provide the case analysis of the company through the detailed description of the company's business model for Amazon Europe.
-NEUT4|Furthermore the paper provides the various alternatives which shall be discussed to address the problems faced by the company.
-BULL5|While last year, the paper provides the best solution amongst the alternatives suggested.
-NEUT6|This is just a sample of partial work.
-NEUT7|Please place the order on the website to get your own, originally dunkhase solution.
-BULL8|"Thanks for watching this video."""

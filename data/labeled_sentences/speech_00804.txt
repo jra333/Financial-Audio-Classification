@@ -1,4 +1,0 @@
-BULL0|"""Hey there, thanks for checking out CNBC on YouTube."
-NEUT1|Be sure to subscribe to stay up to date on all of the day's biggest stories.
-NEUT2|You can also click on any of the videos around me to watch the latest from CNBC.
-BULL3|"Thanks for watching."""

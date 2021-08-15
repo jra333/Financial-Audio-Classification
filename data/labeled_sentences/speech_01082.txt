@@ -1,3 +1,0 @@
-BEAR0|"""The GameStop stock has had quite the ride and maybe you're left wondering what to do if you lost money."
-NEUT1|There's something called tax loss harvesting where investors can use losses to offset gains in the market that reduces taxes owed, and if you don't have gangsta offset, you can use that money to offset taxes on your ordinary income.
-BULL2|"Having losses can be useful and can make your situation less bad."""

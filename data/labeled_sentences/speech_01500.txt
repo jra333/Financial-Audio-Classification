@@ -1,7 +1,0 @@
-NEUT0|"""A T&T is a stock that should be a staple in your portfolio."
-BULL1|I give it an A in categories like it's levered free cash flow margin and profitability.
-NEUT2|The fundamentals of this company or great at its current price.
-BULL3|The company expects to generate free cash flows $26 billion in 2021 with a payout ratio of 50% built upon management's guidance of at least 26 billion of free cash flow in 2020.
-BEAR4|The company is refinanced more than $60 billion of debt at historically low rates and reduced its amount of debt coming through.
-NEUT5|That's due by 2025 by about $30 billion.
-BULL6|"I think this talk is going to hit $40 and ask for the DCF, but to break above $30, ATT needs to post accelerated subscription growth of HBO Max,"""

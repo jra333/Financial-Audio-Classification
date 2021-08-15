@@ -1,9 +1,0 @@
-BULL0|"""For long phases of 2015, Japan's Topix index traded in lockstep with China's CSI 300, sometimes matching the action on Shanghai, with only a few minutes delay."
-BEAR1|For much of January this year, the topics CSI 300 correlation became, in the words of 1 market strategist, perversely close on a year to date, global comparison, drawn by analysts last week.
-BULL2|It turned out that topics in Shanghai shares were 66% correlated.
-NEUT3|Uncritically, when it comes to international correlation between the CSI 300 and global markets, the topics is near the top of the list behind the Hang Seng, of course, but ahead of Brent crude, the MSC.
-NEUT4|I'm emerging market index, and even the GCI commodity index.
-NEUT5|So this week with the Hong Kong and mainland Chinese markets closed for the New year holiday, it was always going to be a fascinating control experiment on what Japan would do without distraction from the world's second biggest economy in the event Japan's dealing rooms, sourced their dismay globally and panicked over the European banks sell off.
-BULL6|But having shown its markets can misbehave without China.
-NEUT7|The next question for Japan is whether at the end of the week it chooses to recouple with the neighbor or stick with its new source of risk of triggers in Europe.
-NEUT8|"Lee Lewis in Tokyo."""

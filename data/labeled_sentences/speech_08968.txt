@@ -1,9 +1,0 @@
-BULL0|"""It's once again flirting with $20,000."
-NEUT1|Can you put a price on your level of bullishness?
-BULL2|We are extremely bullish.
-BULL3|Our confidence in it has gone up since 2017 because what we saw as as it dropped from 20,000 to below 4000, it actually got in well into the threes.
-BULL4|I think in 2019 was that Bitcoin's share of the crypto asset ecosystem moved from the low 30% range in terms of value network values into the low 70% range.
-NEUT5|And what did that tell us?
-NEUT6|That confirmed in our mind that Bitcoin is the reserve currency of the crypto asset ecosystem, so it is the reserve crypto currency, which is a very important role.
-NEUT7|It's the flight to safety currency.
-NEUT8|"It is Bitcoin's technology or bitcoins blockchain is the most secure of any other blockchain, and so it makes sense that Bitcoin would be the reserve currency of the crypto asset ecosystem."""

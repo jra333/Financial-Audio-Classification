@@ -1,6 +1,0 @@
-NEUT0|"""With eye chart top you can identify precise trends, scans and calculate stock charts."
-NEUT1|Simply search for the relevant stock name and tap to choose next.
-NEUT2|Set the from date and two date that you would like to analyze.
-NEUT3|Now you have a chart generated for the stock.
-NEUT4|And dates you set here you can easily calculate a target price for your stock.
-NEUT5|"Get started with eye chart top today on your Apple or Android device."""

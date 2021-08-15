@@ -1,4 +1,0 @@
-NEUT0|"""We're just getting some headlines about MGM."
-BEAR1|Of course, the casino owner saying that 18,000 of its employees who had been furloughed, which implies that they could be called back at some point have now been informed that they are permanently separated, IE that they have indeed been fired.
-NEUT2|So that's 18,000 employees of MGM.
-BULL3|"Their shares, by the way, are trading higher by about 4% right now."""

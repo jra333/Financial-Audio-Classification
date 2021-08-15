@@ -1,9 +1,0 @@
-BULL0|"""From my fax empire, this is Chris taking a look at the supermarket and you can see that we have rallied a bit during the trading session on Thursday, but."
-BEAR1|We're still stuck between 24 and 25.
-NEUT2|The 200 day MA and the 50 day Ma and.
-NEUT3|At this point in time, we have to pay close attention to the idea of yields affecting the market.
-NEUT4|That being said.
-NEUT5|You know Friday is Good Friday, so it's not going to be very liquid.
-NEUT6|There will be some electronic trading.
-NEUT7|I wouldn't read too much into the into the session, but those are your 2 levels were 25.
-BEAR8|"Probably going to try to grind towards 26 if we break 24 going to look towards 22."""

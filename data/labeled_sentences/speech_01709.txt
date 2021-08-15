@@ -1,8 +1,0 @@
-BULL0|"""Hello, welcome on the chart is a witch pattern so there is a 75% chance BRL will rise 14.6 cents from a price crossover above the upper trendline."
-NEUT1|The rise is derived from the high minus the low of the wedge and the time frame the rise will occur in his the time frame the pattern spends.
-NEUT2|The stock breaks out of the pattern before or when the trend lines cross has the upper trend.
-NEUT3|Line is not crossed.
-NEUT4|The maximum time frame before the crossover is between February 21 and March 21.
-BULL5|There is a 75% chance of CSC will rise over 80% within 28 days in a maximum time frame of two trading days from today.
-NEUT6|Information about crossovers and support points are in the description.
-NEUT7|"Make money."""

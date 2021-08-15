@@ -1,6 +1,0 @@
-BULL0|"""Disney stock might go higher."
-NEUT1|Stephen Sears writes in this week's edition of Bearings that Disney is more than likely still in the early stages of monetizing content through their streaming platforms.
-BULL2|This should make Disney stock more attractive.
-BEAR3|Despite the recent rally, Disney shares remained weak compared with the S&P 500.
-NEUT4|Subscribe to the stock market info.
-NEUT5|"Dot com."""

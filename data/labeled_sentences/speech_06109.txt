@@ -1,8 +1,0 @@
-BULL0|"""XLM has been trading inside a tightening range since the beginning of March, and it is now ready for a breakout."
-BULL1|There is only one key resistance level that separates Stellar from new highs at $0.50.
-NEUT2|On the 12 hour chart, Excel M has established a descending triangle pattern with its resistance trendline formed at $0.42.
-BEAR3|The digital asset formed an uptrend on the 12 hour chart which gives bulls the upper hand.
-BULL4|A breakout above $0.42 should quickly drive the XL M price torda high of $0.50, a 20% move calculated using the height of the pattern as a reference point.
-NEUT5|There will be practically no barriers above $0.42 for stellar.
-BEAR6|On the other hand, a rejection from the upper boundary of the pattern will most likely push Excel M down to the lower trend line at 0.356 dollars.
-BEAR7|"Losing this key support level will drive stellar torda low of $0.28."""

@@ -1,9 +1,0 @@
-NEUT0|"""May 12th is in the books."
-NEUT1|This is the New York Minute you are.
-BEAR2|Starks failed to gain traction as investors digested and ugly batch of results from retailers and mixed economic data.
-BEAR3|The S&P 500 slid .2% on Friday, taking its weekly drop 2.4%, while the Dow ended the day point 1% lower and was off .5% over the week both snapped their three week winning streaks.
-BEAR4|However, the NASDAQ composite ended the day in the Black Department.
-BEAR5|Stores continue to be punished on Friday after JCPenney became the latest to post disappointing results.
-BEAR6|However, thanks to the influence of Amazon and Netflix that are also included in the retail group, the S&P 500 retail sector Rose .2% elsewhere yields on the US 10 year Treasury fell 6.3 basis points to 2.32% on Friday following a batch of disappointing U.S. economic data.
-BEAR7|A key US inflation gauge cooled in April while retail sales rose less than expected last month.
-NEUT8|"Painting a muddy picture of the US economy is the second quarter started."""

@@ -1,8 +1,0 @@
-BULL0|"""A big question for Netflix as it faces coming competitors is how content from its high cost content deals will pay off with subscribers."
-NEUT1|Hit TV producer Ryan Murphy's new series The politician launches on Netflix Friday.
-BEAR2|Now this is the first product from its recent spate of deals with TV creators now reviews so far are mixed about a 60% positive rating from 16 critics on Rotten Tomatoes.
-NEUT3|But the real question is what viewers think now, Netflix Lord Murphy over from Fox, where he's created hits including Glee, American Horror Story, American Crime Story.
-NEUT4|Nip tuck no.
-BULL5|Netflix is reportedly paying Murphy $300 million for five year exclusive deal, considered the priciest deal in TV history.
-BULL6|Netflix also has inked deals with other top TV producers, Game of Thrones David Benioff and DB Weiss, and reported $200 million deal in Shonda Rhimes behind ABC's hit Scandal and Grey's Anatomy from $150 million, among other deals now, the pressure is on for shows like the politician to draw subscribers after last quarter.
-BULL7|"The companies to domestic subscriber numbers dipped so this will be really an interesting one to watch, especially as we get the next quarter's earnings and sometimes they actually release viewer numbers, or at least a sense of how well the show is doing."""

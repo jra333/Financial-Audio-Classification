@@ -1,9 +1,0 @@
-NEUT0|"""So did you hear the E Commerce giant is getting into electric vehicles?"
-NEUT1|That's right, Alibaba Alibaba is launching an electric sedan with wireless charging under a new brand name together with state owned SAIC Motor to sedan unveiled under the brand name.
-NEUT2|I am for intelligence in Motion features a new solid state battery from ATL.
-NEUT3|Pre-orders are expected to start in April.
-BULL4|The stock jumped 5%.
-BULL5|The other reason for the jump was due to a Wall Street Journal report that the US government is expected to allow Americans to continue to invest in Alibaba, Baidu and Tencent.
-NEUT6|They were among a dozen companies that were examined for possible inclusion in the Department of Defense is list of firms that support China's military.
-BULL7|the US no longer intends to add the three firms, so if you got in with us a week ago, you already up 6% since the past two weeks.
-BULL8|"I anticipate much larger gains ahead as this is a fundamentally sound company like share and subscribe for more."""

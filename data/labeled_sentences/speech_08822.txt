@@ -1,8 +1,0 @@
-NEUT0|"""Opening indication for air BNB."
-NEUT1|We were all asking is it going to be as nutty as yesterday for door Dash and the answer initially seems to be yes indeed it is 145.
-NEUT2|The initial indication there were not getting that indicate that opening range that we would if it was opening on the NYSE.
-NEUT3|I believe that's because it's going to be opening on the NASDAQ so again there 1:45 is the opening indication.
-NEUT4|After the IPO at $68 and then I also wanted to mention what is going on with crude oil prices today because we're seeing an extension of the rally.
-BULL5|There it's up more than 3% and it's on track to close at its highest level since March 3rd, above $47 a barrel.
-NEUT6|So if you think the enthusiasm in risk assets is limited to IPO's you would be wrong.
-NEUT7|"At least in today's session."""

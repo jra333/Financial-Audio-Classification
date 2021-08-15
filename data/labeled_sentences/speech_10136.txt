@@ -1,3 +1,0 @@
-NEUT0|Make up.
-NEUT1|So you know.
-NEUT2|Not yet.

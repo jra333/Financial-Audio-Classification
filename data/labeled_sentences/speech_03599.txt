@@ -1,8 +1,0 @@
-BEAR0|"""So in what some are calling the Copyright decision of the century in Google versus Oracle, the Supreme Court has sided with Google."
-BEAR1|This is a case that involved Google copying some code related to Oracle's software in an API.
-NEUT2|Now a lot of people are saying that this means APIs are not copyrightable.
-NEUT3|That is not actually true.
-NEUT4|The Supreme Court didn't reach that decision.
-NEUT5|Instead, it focused on the more narrow question of whether Google's use of this API code was fair use and the Supreme Court said that in this particular case, this was considered fair use that.
-NEUT6|Google was only using a small part of the implementing code that was used for other purposes and went through all the other fair use factors and found in Google's favor, so we'll see what repercussions this has and how this affects the copyrightability of software.
-NEUT7|"Will you have to do a fair use analysis anytime you take someone elses code will see and I'll see you in court."""

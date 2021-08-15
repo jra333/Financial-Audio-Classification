@@ -1,1 +1,0 @@
-NEUT0|"""If Nifty opens above 15100, then if NIFTY goes below 14950, then if bank Nifty opens above 36006 then if bank Nifty goes below 35600 then."""

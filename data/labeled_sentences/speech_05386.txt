@@ -1,7 +1,0 @@
-NEUT0|"""Welcome back to the channel."
-NEUT1|Racki Ryan.
-NEUT2|Here last week I made a video about NVIDIA stock.
-NEUT3|My model gave NVIDIA stock price target of $533 per share.
-NEUT4|Yesterday NVIDIA hit $533 per share and at the time that I made the video and video is only trading at $505 per share.
-NEUT5|So I reran my model and the updated price target for NVIDIA is $572 per share.
-NEUT6|"So if you enjoy videos about stocks, make sure to subscribe."""

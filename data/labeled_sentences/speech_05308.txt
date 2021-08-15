@@ -1,5 +1,0 @@
-NEUT0|"""Difference this is one more example how my prediction is accurate."
-NEUT1|See, this is a lap trend.
-NEUT2|Low predictive value 29554.
-NEUT3|See the graph.
-NEUT4|"29546"""

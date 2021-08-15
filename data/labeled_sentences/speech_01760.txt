@@ -1,7 +1,0 @@
-NEUT0|"""637 time now for your business headlines."
-NEUT1|Let's check in with a look at the Dow Jones Industrial Average flat today.
-BEAR2|Yesterday, the Dow fell more than 200 points after news broke of the GDP plunging 33%.
-NEUT3|Coca Cola is turning to alcohol, but not for this weekend now says it's going to introduce a hard seltzer drink in the US next year.
-NEUT4|It will be an alcoholic version of its Topo Chico Sparkling water brand.
-NEUT5|It has been decades since Coke sold alcoholic products.
-NEUT6|"In the United States."""

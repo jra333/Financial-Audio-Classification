@@ -1,7 +1,0 @@
-BEAR0|"""Oil prices have had a volatile start to the year with the global Brent benchmark dropping below $35 a barrel for the first time in more than a decade."
-BEAR1|The seemingly relentless rise in global production has overshadowed geopolitical upheavals in big oil producing countries such as escalating tensions between Saudi Arabia and Iran.
-BEAR2|The most powerful members of OPEC and clashes between ISIS militants and guards near Libya's biggest oil ports.
-BULL3|Still robust production from the US and high output from OPEC countries has been in focus.
-BEAR4|Saudi Arabia, the groups de facto leader and largest producer has said it is reluctant to cut output without the help of other large oil players such as Russia and Iran, for fear of losing market share and revenues.
-BULL5|All the while, Iran seeks to regain the oil production and exports that it lost while under economic sanctions linked to its nuclear program.
-BEAR6|"The breakdown in relations between Saudi Arabia and Iran reduces the chance of any cooperation over oil policy which has been bearish for the oil market."""

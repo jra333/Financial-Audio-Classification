@@ -1,8 +1,0 @@
-BULL0|"""Warren Buffett, Jeff spent more than $5 billion in both 4 pharmaceutical stocks that all payout a nice high dividend yield."
-NEUT1|The first one he bought was Pfizer.
-BULL2|This company just released news that their vaccine is 95% effective, which may lead to some huge upside momentum, and they pay a dividend yield of four point 2%.
-NEUT3|The second one is Merck.
-NEUT4|They're trading for over $80.00 a share right now with a 3.2% dividend yield.
-NEUT5|#3 Avi.
-NEUT6|A super high yield different company that currently pays out more than five point 2% current dividend yield in #4 is Bristol Myers ticker bmy up close to 10% this year and they have a 2.9% dividend payment.
-NEUT7|"Warren Buffett just bought these four big Pharma stocks that all pay a huge dividends and they're definitely worth taking a look at."""

@@ -1,8 +1,0 @@
-NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500."
-BULL1|You can see that we pulled bank just a bit early in the trading session, but really at this point looks like we're going to continue to see buyers on dips.
-NEUT2|No need to fight the overall trend.
-NEUT3|Of course the stock market is completely divorced from economic reality, but you know.
-BEAR4|Everybody's been complaining about that since we were down here.
-NEUT5|So with that you can be correct in your economic assessment or you can be profitable.
-NEUT6|Those are your two choices here.
-BULL7|"Buying on dips continues to work with 3200 being massive support."""

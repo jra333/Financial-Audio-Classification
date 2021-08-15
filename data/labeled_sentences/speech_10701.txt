@@ -1,9 +1,0 @@
-NEUT0|"""Savannah Guthrie in New York."
-NEUT1|The moment the entire country has been waiting for after a very close race, NBC News now projects that Joe Biden has won the Keystone State Pennsylvania and its twenty electoral votes, and that means we can now project that former Vice President Joe Biden has been elected president of the United States.
-NEUT2|He is president elect.
-NEUT3|Joseph Robinette Biden at 77 years old.
-NEUT4|Chuck will turn to you.
-NEUT5|This map is is real, interesting one.
-NEUT6|Not necessarily the path that anyone thought would have unfolded, but here we are.
-BULL7|Here we are look, we got just enough vote in an order to call Pennsylvania, even if it may slip into a recount.
-NEUT8|"We think there's just the mathematically nearly impossible for the for the order of finish to change in Pennsylvania."""

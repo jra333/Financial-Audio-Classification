@@ -1,9 +1,0 @@
-BULL0|"""Hello everyone, welcome back to Wolf analyst."
-NEUT1|Today we're going to discuss about the inverted head and shoulders pattern formed in the stock Asian paints.
-NEUT2|When the price action makes a lower peak at the center and two higher peaks to the left and the right of it is called as the head and shoulders pattern.
-NEUT3|The distance between the peak of the head and top of the neck is called an incline measurement.
-NEUT4|We can use this measurement to project a high probability target for the stock Asian paints at around 2800 levels.
-NEUT5|Entry can be taken now, as the neckline has already been broken and the price is coming back to test the neckline again.
-NEUT6|So the stop loss can be placed at the previous law made by the chart that gives the level around the 2390 and the profit is a 2800 levels, giving us a net risk reward ratio of 1.7.
-NEUT7|That's all for today.
-BULL8|"Thank you."""

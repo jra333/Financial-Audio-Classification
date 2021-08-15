@@ -1,8 +1,0 @@
-NEUT0|"""Here's my case for dumping Disney."
-NEUT1|Or maybe not buying their stock at all.
-BEAR2|They just laid off 20,000 workers and are planning a reorg.
-BEAR3|Now that's not a reason Justin inevitability of the corporate world and Elizabeth Warren is skewering Disney execs for reckless spending on share buybacks and ridiculously high eggs.
-BEAR4|That compensation will hanging their frontline workers out to dry at 65 million a year.
-NEUT5|Plus shares.
-BEAR6|Eiger is overly compensated and widely criticized for IT support companies that value employees as much as their shareholders and call execs right now.
-NEUT7|"That's not Disney."""

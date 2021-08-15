@@ -1,2 +1,0 @@
-BULL0|"""The new trading week didn't get started on a particularly impressive foot."
-BULL1|"Even with the intraday recovery effort, the S."""

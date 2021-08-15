@@ -1,9 +1,0 @@
-BEAR0|"""Prosecutors in Brazil are reportedly planning to file criminal charges against Veil over that deadly collapse of a dam in January."
-NEUT1|The lead investigators.
-NEUT2|That's what lead investigators told The Wall Street Journal now reportedly.
-BEAR3|Investigators have gathered enough evidence to affirm that veil employees were involved in the operation of the mind and knew that the dam was unsafe.
-BEAR4|As soon as this report hit, we did see shares avail move lower.
-BEAR5|They've now trading just around the flatline, but we should point out that since that dam collapsed in late January, shares avail.
-BEAR6|Are down about 9%.
-BULL7|Certainly a developing story.
-NEUT8|"Brian for now, back to you."""

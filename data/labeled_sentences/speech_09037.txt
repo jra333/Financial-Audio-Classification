@@ -1,9 +1,0 @@
-NEUT0|"""Some money market views."
-BULL1|Today, a camel, Mahajan of Bank of Baroda says with decent forex inflows during the past one month, the rupee has performed better than other currencies.
-BEAR2|He says despite or 1.71% rise in the dollar index it depreciated.
-NEUT3|That is a dollar repeat.
-BEAR4|Depreciated only zero point 8%.
-NEUT5|He expects the USD INR to trade in a range of 7125 to 7155 for today.
-BEAR6|And on the bonds, Mahajan says the loo IIC numbers one and three of fixed rate report 5.15 by the RBI is likely to keep the bond yields lower.
-NEUT7|He expects the 10 year benchmark bond yields to trade in a range of 6.38 to 6.45% for the day.
-NEUT8|"OK, let's talk about the globe."""

@@ -1,7 +1,0 @@
-BULL0|"""Facebook Inc. Made a market splash on Friday as its executives including CEO Mark Zuckerberg, Rang the opening Bell at the NASDAQ, signaling the beginning of the day's trade and the company's debut on the stock market."
-NEUT1|Facebook shares will begin trading at around 11:00 AM when it's set to become the first US company to be worth more than 100 billion U.S. dollars.
-NEUT2|At its debut, the Bell was rung remotely by Zuckerberg and his executives at their California headquarters.
-BULL3|This week Facebook increased the size of its initial public offering by almost 25% to 421,000,000 shares or a 15% stake in the company a day after hiking its target price range, about 14% more than half of the proceeds of the IPO will go to existing shareholders.
-BEAR4|The more bullish had expected Facebook to price at $40 a share over the Nasdaq Composite Index fell by more than 2% on Thursday.
-NEUT5|Facebook has 33 under writers for the IPO, led by Morgan Stanley, JP Morgan and Goldman Sachs Marissa Christian.
-NEUT6|"Every times TV."""

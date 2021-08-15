@@ -1,8 +1,0 @@
-NEUT0|"""Hi this is lead from affects empire."
-BULL1|Silver gained significant upside momentum and this test in the yellow highs at $19.00 RSI is not at extremely overbought levels so there is more room to develop additional momentum in case Silver manages to get.
-BULL2|Above $19.00 it will head towards the next resistance level at 19.50.
-BEAR3|Silver has already visited this territory back in the previous year, but quickly fell below $19.00.
-BULL4|This time silver has better chances to develop solid upside trend above $19.00.
-NEUT5|On the support side, the nearest support level is located at the previous resistance below 18.50.
-BEAR6|A move below this level will take silver to the next support at the 20 in May at $18.00.
-BULL7|"Have a nice day and good luck."""

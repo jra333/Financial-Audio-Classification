@@ -1,6 +1,0 @@
-NEUT0|"""On the next CEO, Mark Cuban is best known as the owner of the Dallas Mavericks, but he continues to tap into his entrepreneurial spirit by seeking out new ventures."
-NEUT1|Artificial intelligence dwarfs the Internet in terms of the impact it could have on the global economy.
-BEAR2|Cuban thinks he's cracked the code on how to provide affordable health care to Americans.
-NEUT3|What if Uncle Sam would?
-NEUT4|Affectively loan you money for any of your health care that you could not afford.
-NEUT5|"Join host Lee Cullum for CEO Friday at 7:30 on KERA."""

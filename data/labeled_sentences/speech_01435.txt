@@ -1,5 +1,0 @@
-NEUT0|Every single day.
-NEUT1|I'm going there.
-NEUT2|Gray every single day.
-NEUT3|Something bad?
-NEUT4|Miles away.

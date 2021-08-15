@@ -1,8 +1,0 @@
-NEUT0|"""Trading stocks is like trying to see through a pitch dark window to the next day."
-NEUT1|How do you know which stock is going to trade at a higher or lower price?
-NEUT2|If only you could see through two tomorrow, that's where next candle comes in.
-NEUT3|Developed by a team of top tier hedge fund traders, we provide you with a price target and its probability for the next day, week or month.
-NEUT4|You just choose any U.S. stock in our propriety algorithm, tells you the target price and its probability.
-NEUT5|It's completely free for a limited number of daily stock forecast.
-NEUT6|While our premium subscribers receive unlimited searches as well as targets for indices, commodities such as gold and oil, an ETF's as well as our proprietary correlation indicator.
-NEUT7|"Next candle com turn knowledge into profit."""

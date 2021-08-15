@@ -1,9 +1,0 @@
-NEUT0|"""Hello Traders and welcome to today's intraday technical analysis."
-NEUT1|Today we will be analyzing Facebook.
-BEAR2|As we can observe on the Facebook stock for our chart, we can see the stock has been consolidating in sideways movement between the 184 and 170 area.
-BULL3|We believe it will continue its sideways movement and further downward direction is possible.
-NEUT4|We will be looking to enter the stock at approximately the 169 area.
-NEUT5|Which consists of the 30.2518 retracement level 2 inside trendlines as well as a major support.
-BULL6|We believe this area will act as a strong support and we will most likely observe further upward movement to at least the 100 and 8425 area.
-BULL7|Thank you for watching our intraday technical analysis from all of us here at AAA trade.
-BULL8|"We wish you successful and responsible trading."""

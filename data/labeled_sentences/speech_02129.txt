@@ -1,4 +1,0 @@
-NEUT0|"""All right, people, we're going to kind of show you."
-NEUT1|What I think of Coca Cola being a little less white, just a little bit less white, right?
-NEUT2|My life.
-NEUT3|"I'm living."""

@@ -1,8 +1,0 @@
-NEUT0|"""Popular trading app, Robin Hood is said to have filed confidentially for a US IPO in a Bloomberg scoop, we first reported this might happen weeks ago."
-NEUT1|I also recently sat down with Robin Hood, CEO and co-founder Vlad Tenev and asked him about the path to going public without committing.
-NEUT2|At that time.
-BULL3|He voiced confidence in the company from the point of view of investors.
-BULL4|Clearly this is a business that requires capital an think we've shown that we have a variety of means the to capitalize the business, and we see a huge growth opportunity ahead of us.
-NEUT5|The biggest stories the moment they happen from around the globe.
-NEUT6|Subscribe to Bloomberg.
-NEUT7|"Quicktake now for insight in an instant."""

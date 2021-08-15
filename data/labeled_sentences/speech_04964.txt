@@ -1,5 +1,0 @@
-NEUT0|"""This prediction is for Japan Yen, 1000."
-NEUT1|See the highest value 2379 Target 2376.
-NEUT2|You can take the graph our desires you.
-NEUT3|Here.
-NEUT4|"For 380"""

@@ -1,8 +1,0 @@
-NEUT0|"""Hey everyone, welcome back to this cryptocurrency prediction video today."
-NEUT1|We're going to do prediction on Cardano coin now.
-NEUT2|The price of the Cardano coin is ₹77.00 and from last seven days guys.
-BEAR3|The graphs tell us that the prices have been very down and down, so my prediction is guys it's no best time to buy your caderno coin now be 'cause you can see in the year of the prices has been launched from last seven days and the price may now go up at any time.
-NEUT4|So now it's 76.92 rupees.
-NEUT5|So it's the best time to buy your caderno coin now when the price goes more than ₹85, you can sell your candor new coin.
-NEUT6|So it's my prediction that it's the best time to buy your card on account now.
-NEUT7|"So invest your money at your own risk goodbye."""

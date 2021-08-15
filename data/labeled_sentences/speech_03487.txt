@@ -1,3 +1,0 @@
-BEAR0|"""The global economic recovery from the crisis originated by the coronavirus pandemic may take as much as five years."
-NEUT1|The World Bank's chief economist Common Reinhard said on Thursday.
-BEAR2|"Brain Heart said the pandemic caused recession will last longer in some countries than in others, and will exacerbate inequality's as the poorest will be harder hit by the crisis in rich countries and the poorest countries will be harder hit than richer countries for the first time in 20 years, global poverty rates will rise following the crisis, she added."""

@@ -1,4 +1,0 @@
-NEUT0|"""You can buy a house, yeah, but not at home with money you can buy o'clock but not time with money."
-NEUT1|You can buy a bed yeah but not sleep.
-NEUT2|Yeah.
-NEUT3|"With money you can buy food but not appetite with."""

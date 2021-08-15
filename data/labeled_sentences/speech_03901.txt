@@ -1,9 +1,0 @@
-NEUT0|"""In this video I'm going to show you how to find the dividend history of any stock, so you're going to want to start at Google and type in either the ticker symbol or the name of the company that you are looking to research."
-NEUT1|So in this case we're going to Coca Cola.
-NEUT2|So let's type in KO and then type in dividend history and you can see it comes up right here.
-NEUT3|So we're going to click that and then it will bring up the search results and the first two here is NASDAQ common dividend com.
-NEUT4|These are probably the two best websites, the ones that I look for and most companies or stocks will be listed on these websites, so we're just going to click NASDAQ.
-NEUT5|And I'll show you what that looks like.
-NEUT6|It just looks like this and this will basically show you all of the dividend payout dates and how much they were.
-NEUT7|So they've curious exactly what they're paying out per share, whether you want to look at the most recent ones or even farther back, you can do that and see if it's increasing decreasing.
-NEUT8|"However, you want to use it, but that's how you can easily and quickly find the dividend history of any stock."""

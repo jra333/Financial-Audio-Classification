@@ -1,5 +1,0 @@
-NEUT0|If Nifty goes near 1513015150 ten.
-NEUT1|If nifty goes below 15090 ten.
-NEUT2|If back nifty goes above 370-5010.
-BEAR3|If bank Nifty goes blow.
-NEUT4|Please 7000 then.

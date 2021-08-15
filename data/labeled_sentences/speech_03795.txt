@@ -1,6 +1,0 @@
-BULL0|"""Facebook's top line revenue source coming in at #1."
-NEUT1|Senator, we run ads.
-NEUT2|They see me rolling, they hating, patrolling in trying to catch me ridin dirty.
-NEUT3|Right in there.
-NEUT4|Music.
-NEUT5|"Spank"""

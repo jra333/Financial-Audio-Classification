@@ -1,3 +1,0 @@
-BEAR0|"""SmarTrend identified a downtrend for Covanta New York Stock exchange symbol CVA on January 28th, 2010 at $17.99 in approximately 2 weeks."
-BULL1|Covanta has returned 4.8% as of today's recent price of $17.13.
-NEUT2|"Parade your way to success with smart trend for more news and market analysis like this, click below."""

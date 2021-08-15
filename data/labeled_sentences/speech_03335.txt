@@ -1,6 +1,0 @@
-NEUT0|"""What began with Eduardo Facory's parents in 1993?"
-NEUT1|Laid the groundwork for his revolutionary creation of the leading group holding Credi Financia invest or CFI a sister branch of Credi Financia.
-NEUT2|20 years later, CFI has executed over 2,000,000 trades for thousands of satisfied customers around the world today.
-BULL3|And armed with an impressive portfolio, CFI continues with a clear vision.
-BULL4|Its expansion to include branches in Beirut.
-NEUT5|"Lanika a man Dubai and London."""

@@ -1,7 +1,0 @@
-NEUT0|"""Alright, well let's take by the Apple Store."
-NEUT1|We can see here.
-NEUT2|Apple has made a red candle.
-NEUT3|It's a shooting star pattern, actually based a long upper shadow.
-BEAR4|That means a lot of selling pressure, but the constructive signs that we are closed about year may lines supporting.
-BULL5|So as long as we keep it above the year my line, there's still hope for us to make the consolidation area in in this level.
-BULL6|"Thank you."""

@@ -1,9 +1,0 @@
-NEUT0|"""Welcome to charts that count the single most striking thing about stock markets in 2020."
-BEAR1|Was that they rose relentlessly, interrupted only briefly by a steep decline in the spring, despite the fact that it deadly pandemic was sweeping the globe, this apparent contradiction raises deep and troubling questions about the relationship between capital markets and the real economy, and about the relationship between economic growth and the welfare of actual human beings.
-BEAR2|But we know part of this story has to do with interest rates, partly because of central bank activism and partly because of radically diminished expectations for growth.
-BEAR3|Long term interest rates crashed as the pandemic took hold, and they have only slowly recovered from there.
-BULL4|All else equal, lower long term interest rates means a lower discount rate on and therefore a higher value of the future cashflows from stocks.
-NEUT5|And that meant that the biggest trade by far of 2020 was buying those companies that had the biggest cash flows far out into the future, and that meant tech stocks which saw their values double from their March lows.
-NEUT6|So the big question for 2021 is whether these rising interest rates and improve performance by cyclical value stocks is the beginning of a true regime change.
-BULL7|Within markets after years of falling interest rates and market leadership by groethe tech stocks.
-NEUT8|"The answer to this question will depend very much on how smoothly the vaccination process goes and on how much pent up economic demand will be released when all of us after a very challenging 2020 get back to living a normal life."""

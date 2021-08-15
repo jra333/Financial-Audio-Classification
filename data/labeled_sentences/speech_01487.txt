@@ -1,9 +1,0 @@
-NEUT0|"""Warren Buffett taking over once again."
-NEUT1|The billionaire investors Berkshire Hathaway is buying aircraft parts maker Precision Castparts for $37.2 billion.
-NEUT2|The conglomerates biggest deal yet.
-NEUT3|Precision Castparts makes equipment for aircraft power and industrial companies with some high profile clients, including General Electric, Boeing, and Airbus, but but says he's betting on a boom in aerospace manufacturing, driven by airlines.
-NEUT4|Berkshire, which is already the company's largest stockholder with a 3% stake, will pay $235.
-NEUT5|A share in cash for all of Precision Castparts shares.
-NEUT6|That's a 21% premium over Friday's closing price as part of the agreement, Precision Castparts will become a unit of Berkshire while keeping its name, an headquarters in Portland.
-BULL7|The companies expect the deal to close in the first quarter of 2016 upon shareholder and regulatory approval, shares of Precision Castparts are soaring on the news, up nearly 20% in Monday's session, while Class A shares of Berkshire Hathaway are moving lower still, the stock has risen more than 8% over the past year.
-NEUT8|"In New York I'm Croome Fukushima for the street."""

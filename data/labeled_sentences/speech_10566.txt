@@ -1,6 +1,0 @@
-NEUT0|"""Alright, well let's take the Apple stock we can see here."
-BULL1|Apple has bounced to 5% in the day and back up the T like the first yummy line.
-BULL2|So it's a healthy side so we can see here in the 120 year mainline their strong support.
-BULL3|So in mid term we have managed to go back up to the uptrend in short term as long as they keep the board first yummy line, there's still hope that we can manage to retest the resistance of the 20 days.
-NEUT4|Yummy.
-BULL5|"Thank you."""

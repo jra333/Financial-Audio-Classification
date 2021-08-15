@@ -1,7 +1,0 @@
-BULL0|"""My success so far has been somewhat mind-blowing to myself and what I've realized is that I can talk myself out of doing things I should do like overthinking, and I can talk myself into things I shouldn't do."
-NEUT1|And I've realized that maybe it's just a repetition of failures and successes that ultimately, after go with my gut, and that's something that you develop overtime.
-NEUT2|What I'm getting with founders, I'm thinking about their ideas and I'm thinking about you know who are they as people and what I'm really trying to figure out is again, in the seed world.
-NEUT3|There's so much risk, and so you really only can choose a couple of different things.
-NEUT4|But what I tell people who want to get into venture capital is that you will know if you like it well before you know if you're in a good at it.
-NEUT5|'cause it takes 5678 years and I'm in my 10th year now of doing this on my own.
-NEUT6|"And these are just long cycles of feedback which is difficult."""

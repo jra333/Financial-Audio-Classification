@@ -1,8 +1,0 @@
-NEUT0|"""Alright, let's take like the Apple stock we can see here today."
-NEUT1|Apple has formed a green handle.
-NEUT2|This green candle just stopped at the year.
-NEUT3|My life, so it's still something we need to be cautious because if we are stopped below this line, that means will continue the downtrend and retest the 200 days year may line.
-BULL4|So today's signal tells us even though we gotta reverse sentiment for short term.
-BEAR5|But in mid term there still bearish because we're still below this year.
-NEUT6|My life.
-BULL7|"Thank you."""

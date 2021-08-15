@@ -1,9 +1,0 @@
-NEUT0|"""Hello and welcome to today's technical analysis for July 23rd, 2015."
-NEUT1|I'm Celina, Nicholas technical analyst at xm.com.
-NEUT2|Today we will look at the New Zealand dollar versus the US dollar on the daily chart.
-BULL3|Kiwi dollars consolidating between support at Zero Point 6560 and resistance at Zero Point 6650 after bouncing off 6 year lows of Zero Point 6496 and that was reached on July 16th.
-BEAR4|We look at our site still in bearish territory.
-BULL5|It's below 50 but it's pointing upwards, so it's suggesting some consolidation in the near term.
-BEAR6|But if we look at the overall trend, we can see that Kiwi Laurel Kiwi dollar is quite bearish and has fallen from point 7743 down two point 6496 prices are in the lower half of the Bollinger bands and they're falling.
-BEAR7|Market also is below 200 day moving average, so this also highlights the bearish bias as long as prices remain below the key psychological level of 0.770 hundred, bearish trend will likely remain intact.
-BULL8|"Thank you for watching and have a great day."""

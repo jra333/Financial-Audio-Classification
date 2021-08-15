@@ -1,6 +1,0 @@
-NEUT0|"""Think of the happiest things."
-NEUT1|It's the same as having wings.
-NEUT2|To the stars beyond the blue.
-NEUT3|There's Neverland, waiting for you when you leave the world behind, you can fly.
-NEUT4|You can fly, you can fly.
-NEUT5|"Just."""

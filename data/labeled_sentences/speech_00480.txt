@@ -1,6 +1,0 @@
-NEUT0|"""Hello everyone, let's take a look at the Apple stock we can see here today."
-BEAR1|The Apple stock has closed at the high point of the day around.
-NEUT2|5.2% so it's a very bullish sign for Apple stock if we change chart into daily chart.
-NEUT3|We can see here we get a break out from the.
-BULL4|Consolidation area and you high or 127 so this breakout is very important for us because it has well above the formal high on here, so it's very bullish for Apple stock and we can see continuous uptrend from here.
-BULL5|"Thank you."""

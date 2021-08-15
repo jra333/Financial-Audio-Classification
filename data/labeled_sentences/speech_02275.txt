@@ -1,9 +1,0 @@
-NEUT0|"""Dark pools and networks that allow traders to buy or sell orders without running the risk of the traders will work out what is going on and put the price up or down."
-NEUT1|That dark because the price is revealed only after the trades being done.
-NEUT2|Trades done on public exchanges had the light of full transparency.
-NEUT3|Investors like them as a way to trade large blocks of shares without moving the market.
-BULL4|About 40% of trading in US equities is now executed off exchange up from 16% a few years ago.
-BEAR5|However, the size of trades executed has shrunk rapidly in that time.
-NEUT6|Many orders are about 200 shares.
-NEUT7|Big investment banks such as Goldman Sachs, Credit Suisse, Barclays and UBS run them, but there are independent ones owned by companies like Liquidnet and ITG.
-NEUT8|"They enable big investors to secure competitive prices so people they are investing for like pensioners don't lose out but there are potential conflicts of interest with banks who can also send their customers orders to a dark pool."""

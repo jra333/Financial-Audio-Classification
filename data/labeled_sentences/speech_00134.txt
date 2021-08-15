@@ -1,6 +1,0 @@
-BULL0|"""Hey Bow Tie Nation doing an Apple stock price analysis in one minute here we go like most tech stocks, this has had an amazing run up 74% over the last year."
-BULL1|Even after that 16% dip in the recent sell off, analysts have an average target of $151.00 a share which would be 34 times the expected 2021 earnings of $4.45 a share over this year.
-BULL2|Now shares have averaged 20 times on that price to earnings basis over the last five years, so that would be closer to about $90.00 a share.
-BULL3|So maybe a little overvalued here.
-BEAR4|The Nikkei Asia reported last week that Apple cut its orders for iPhones from suppliers by 20% on weaker demand for the 12 mini series and that chip shortage could further hit production numbers.
-BULL5|"So Apple is going to need to release some news on its September product refresh cycle soon or expect some big consumer spending to keep up those momentum so investors need to be cautious here."""

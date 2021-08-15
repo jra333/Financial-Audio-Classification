@@ -1,6 +1,0 @@
-BEAR0|"""Now this is tragic man."
-BEAR1|Investors, just like you could lose 10s of thousands of dollars on their 401K to hidden fees.
-NEUT2|Thankfully E trade has low cost investments and no hidden fees.
-NEUT3|But you know, if you're still bent on blowing this fat stack of cash, there's a couple ways you could do it.
-NEUT4|My love.
-NEUT5|"Or just go to E trade and save it, boom."""

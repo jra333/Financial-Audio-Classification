@@ -1,9 +1,0 @@
-BEAR0|"""Crude prices are crashing again with U.S. oil futures falling below $50 a barrel this week, entering into a bear market is national Brent crude futures also fell to their lowest level in nearly four months."
-NEUT1|So why is this happening?
-BEAR2|Well, the short answer is that there's just too much oil around, but a range of other factors also contributed to the current slide in prices from the Greek debt crisis, the Thorin relations with Iran, a strong U.S. dollar, and the slide in Chinese equity markets.
-BULL3|So are we going to see a recovery while the tea leaves are hard to read on this one?
-BULL4|Near term does not allot suggests that we're going to see a rebound.
-BEAR5|Supply remains plentiful and the slowdown in China are raising concerns about demand.
-NEUT6|Longer term, though consensus still seems to point to a rise in prices over the coming years, so what's next?
-BEAR7|Well, something has to give market watchers still obsessively watching US recount data to see if there's any sign of slowdown in production there next week.
-NEUT8|"Big oil is going to give it second quarter results, which could give us some insights into how they see the current downturn as well."""

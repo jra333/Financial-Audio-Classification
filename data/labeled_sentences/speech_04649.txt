@@ -1,2 +1,0 @@
-NEUT0|"""This is the prediction applicable for nostoc 100 cells."
-NEUT1|"Today, 50 April 2021."""

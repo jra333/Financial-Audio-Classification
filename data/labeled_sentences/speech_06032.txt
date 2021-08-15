@@ -1,9 +1,0 @@
-NEUT0|"""This is smartfriend news."
-BULL1|I'm Sarah Hasham Morris shares of Coca Cola Enterprises traded 4.2% higher yesterday, closing at $25.40.
-BEAR2|The stock has been drifting higher over the past nine trading days and it's currently trading in a technical uptrend.
-BULL3|The call volume yesterday was 10,803 contracts which is 8 times the average daily volume of 1384.
-NEUT4|Usually high call volume is an indicator that many investors are looking for higher prices.
-BULL5|In the near future, smartphone is bullish on shares of Coca Cola Enterprises and our subscribers were alerted to buy on February 25th, 2010 at $17.45.
-BULL6|The stock has risen 45.6% since that alert was issued.
-NEUT7|This is smart.
-NEUT8|"Trying news I'm Sarah Marshall Morris."""

@@ -1,6 +1,0 @@
-BULL0|"""Welcome back to Squawk Alley."
-NEUT1|Some headlines coming out the Wall Street Journal right now regarding lift.
-BULL2|That lift is expected to price it shares above the target range for its initial public offering a sign of strong investor demand ahead of the ride, hailing services debut, which is expected on Friday, according to the Journal, likely to price the stock above that previously targeted range between 62 and $68 per share, according to sources familiar, and that it is unlikely to be as high as $80.00.
-NEUT3|So we're gonna be getting more details around all of that when those shares do price late on Thursday, but John of course this is highly anticipated IPO on Friday because it's expected to start what is going to be a tidal wave of these multi billion dollar tech unicorns coming to market.
-NEUT4|Yes indeed, quite a few.
-NEUT5|"We continue to watch that."""

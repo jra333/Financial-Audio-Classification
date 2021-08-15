@@ -1,8 +1,0 @@
-NEUT0|"""Stock setup of the week."
-BULL1|Here guys we have Disney is on this uptrend and it's coming back to a previous ceiling of previous resistance area.
-NEUT2|So I'm going to place my FIB extension tool an once I do that I get my price target.
-NEUT3|So above that green line we make that push to two.
-NEUT4|Oh 141.
-NEUT5|On the options chain, I want to target that, so I'm going for a month out.
-NEUT6|I'm going to be in this trade for awhile and I want that one 9750.
-NEUT7|"I'm going to be in the money at."""

@@ -1,8 +1,0 @@
-BEAR0|"""Here's what we're following across markets with the trading week at the halfway Mark Chinese share market volatility has returned with a bang prices in Shanghai and Shenzen tumbled without warning in afternoon trading before trimming losses."
-BEAR1|Still, it's the worst day for Chinese shares in seven weeks, and a sign that the recent rally for many risk assets may have reached limit the crucial market to watch, however, is that of the currency, true, the renminbi has been behaving well of late the recent period of currency relief, however, may turn if Sharon Bond market stress.
-BULL2|Rises in China.
-BEAR3|Risk aversion has pushed Japanese bond yields further into negative territory.
-BEAR4|While the yen has also appreciated ahead of next week's Bank of Japan meeting, the headache is pounding for policy makers.
-BULL5|A bigger development for market sentiment and one that will likely drive asset prices.
-BEAR6|Today is the latest swing in the oil price, a strike which curtailed production in Kuwait, Opec's fourth largest producer this week has ended.
-BEAR7|"That's not oil prices lower with the US benchmark back below $40 a barrel."""

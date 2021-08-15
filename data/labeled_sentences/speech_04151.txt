@@ -1,9 +1,0 @@
-BULL0|"""Hello Traders and welcome to AAA trades."
-NEUT1|Intraday technical analysis session.
-NEUT2|Today's instrument is the Disney stock.
-BULL3|If we look at the Disney 4 hour chart we can see that after a strong upward movement above the price of the $100 towards the $110 the price is currently correcting to the new support level of around $104.00.
-BULL4|If it maintained its price above the $104.00 we were expecting the price to reach approximately.
-NEUT5|The $110 price level and then the $120.00 where we have two financial retracement levels of 50% and 61.8% respectively.
-BEAR6|If it failed to maintain its price above $104.00, we are expecting the price to reach the next support level of approximately $95 where we have the Fibonacci retracement level of 23.6%.
-NEUT7|Thank you for watching AAA trades intraday technical analysis from all of us here.
-BULL8|"We wish you successful and responsible trading."""

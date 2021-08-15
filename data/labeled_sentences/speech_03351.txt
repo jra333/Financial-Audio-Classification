@@ -1,8 +1,0 @@
-NEUT0|In the last episode we set the rules for an experiment to test the Theta 45 algorithm and forecast the next closing price for Facebook.
-NEUT1|I will compile the results for the entire trading week.
-NEUT2|But this was their forecast for day one of the experiment using the six day model and this was the forecast using the 21 day model.
-BEAR3|The market is now closed and the result of day one is that Facebook closed up 3.43% at $308.91.
-BULL4|The Theater 45 model forecasted the correct direction in price and was within the 95% probability range in the six day model and well within the 70% probability range in the 21 day model of course.
-NEUT5|One measurement doesn't make an experiment.
-NEUT6|So this is tomorrow's forecast for the closing price of Facebook using the six day model and this is tomorrow's forecast using the 21 day model.
-NEUT7|Be sure to subscribe and click that notification Bell so you don't miss the conclusion of this experiment and download the Theater 45 app from the App Store to forecast any stock.

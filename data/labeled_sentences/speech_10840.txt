@@ -1,8 +1,0 @@
-NEUT0|"""Matthew Stafford talked with reporters about the trade after 12 years with the Lions."
-NEUT1|He was asked for the moment it finally hit him to make all this move feel real.
-NEUT2|You know, honestly, yesterday or two days ago, whenever it became official was it was a big day.
-NEUT3|You know that was kind of like the point of no return and and you knew that it was going to, you know the trade is going through and I was going to be a Rahman.
-NEUT4|And Europe is obviously going to be a Detroit Lion and and you know, that was a that was a big moment.
-BULL5|You know, I was happy to do that.
-NEUT6|That video that I got to do for the you know for the lines that organization and those you know teammates, coaches, front office and ownership mean a lot to me, always will.
-NEUT7|"The people that were there were fans of me when I was there are people that I'll appreciate and know and love for a long time."""

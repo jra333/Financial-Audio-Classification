@@ -1,7 +1,0 @@
-NEUT0|"""What have you learned from Warren about business?"
-NEUT1|Well, I learned them a massive amount because I've gotten to talk to Warren about how he thinks about businesses pricing, competition.
-NEUT2|But the value of stability is, so the whole way I approach my schedule the way I think about business opportunity, your schedule.
-NEUT3|He still uses a little handwritten booklet.
-NEUT4|Hey, but he has a good schedule.
-NEUT5|He keeps his time free.
-NEUT6|"It is a good example for people of only doing those things that are absolutely critical."""

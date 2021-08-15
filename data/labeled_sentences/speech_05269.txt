@@ -1,1 +1,0 @@
-NEUT0|"""If 50 goes above 14950, then if nifty goes there 15217, then if nifty goes below 14900 then if bank Nifty goes above 35065 then if bank Nifty goes below 34646 then."""

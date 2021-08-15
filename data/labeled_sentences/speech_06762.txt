@@ -1,9 +1,0 @@
-NEUT0|"""These are the three things you should do as a teenager."
-NEUT1|Number one.
-NEUT2|Start learning about the finances, economy and taxes irrespective of your field.
-NEUT3|Science, science, student, Student, Hoya art student number two.
-NEUT4|Start managing your own budget feature here.
-NEUT5|Part time job career Yahoo Pocket money Maria.
-NEUT6|Try to manage your own budget and of course save some bucks.
-NEUT7|Saving isn't enough.
-NEUT8|"Learn about stock markets at the early age and start investing your money in the stock market."""

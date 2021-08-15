@@ -1,9 +1,0 @@
-BEAR0|"""Coca-Cola reported revenue that met analysts expectations for its fourth quarter, but the company plans slowing sales growth in 2019."
-BEAR1|Revenue above analysts estimates came in at $7.6 billion, down from $7.51 billion in the year earlier.
-BULL2|On an adjusted basis, earnings per share for the quarter were .43 dollars, up 9% from the 2017 when there was a loss stemmed from a tax reform legislation.
-BEAR3|According to the company, the organic revenue is expected to increase approximately 4% in 2019 below the 5% growth rate achieved in 2018.
-BEAR4|The management's lackluster outlook for 2019 disappointed analysts and sent its stock plummeting 8.4% to 45.59 dollars on the 14th of February.
-BULL5|In the last 12 months, shares rose 1.81%.
-NEUT6|Morningstar's Fair value estimate for the stock is $49.00.
-NEUT7|FactSet reports a 12 month target price between 44 and 61 U.S.
-NEUT8|"dollars."""

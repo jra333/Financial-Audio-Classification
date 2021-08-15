@@ -1,9 +1,0 @@
-NEUT0|"""To stay up to date with latest videos in trending news stories, make sure to subscribe the channel by clicking the button below this video, an Iranian flag vessel was hit with mines in the Red Sea."
-NEUT1|The semiofficial Tasnim news agency reported on the same day that Iran and world powers, including the US, met in Austria for nuclear talks.
-BEAR2|The New York Times reported that Israel attacked the ship.
-NEUT3|The service has been based in the area for several years, according to Tasneem, and often deploys Iranian commando boats that are used to ****** commercial vessels.
-NEUT4|It was in the waterway on Tuesday when the limpet mines exploded, the report said, without saying where it got the information.
-BEAR5|Iranian officials haven't yet acknowledged the incident, Tasneem added.
-BEAR6|It was in the southern part of the Red Sea off the coast of Eritrea, according to tracking data compiled by Bloomberg, Israel notified the US that its forces had struck the sevis at about 7:30 AM local time, the New York Times reported, citing an unidentified American official.
-NEUT7|The Israeli government opposes the 2015 nuclear accord and doesn't want the US to abandon sanctions on the Islamic Republic without a new deal that addresses stare.
-NEUT8|"Guns, ballistic missile program and regional proxy forces."""

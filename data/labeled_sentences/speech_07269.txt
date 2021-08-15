@@ -1,3 +1,0 @@
-BULL0|"""It's great to have you."
-NEUT1|Anyway, Jeff.
-NEUT2|"Short I think we met before."""

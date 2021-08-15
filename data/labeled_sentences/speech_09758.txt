@@ -1,3 +1,0 @@
-BEAR0|"""SmarTrend identified a downtrend for Foster Wheeler NASDAQ symbol FWLT on January 27th, 2010 at $30.41 in approximately 3 weeks."
-BULL1|Foster Wheeler has returned 8.9% as of today's recent price of $27.70.
-NEUT2|"Trade your way to success today with SmarTrend click below for more news and market analysis."""

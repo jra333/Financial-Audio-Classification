@@ -1,9 +1,0 @@
-NEUT0|"""Part of your book that I really like where you say the new paradigm is, financial markets are always wrong, right?"
-NEUT1|There are always wrong.
-NEUT2|The difference between the perception and the reality that you want to talk to that I'm making a rather really quite stunning assertion that our global financial system is based on a misconception.
-NEUT3|About how financial markets operate right now, there's still a dominant belief that market tends towards equilibrium and the deviations from that equilibrium are random.
-NEUT4|They follow a Bell curve, you know, the normal Dist distribution, and you can calculate the risks, and you can allow for standard deviation from.
-NEUT5|And the average and you can then based on that you can create financial instruments and you can actually base your investment strategy on that.
-BULL6|The misconception is strengthens the trend and also strengthens the misconception until until the divergences between reality.
-NEUT7|And perception becomes so great, that is no longer.
-NEUT8|"Mean can no longer be maintained, but people then realize that there's a moment of truth when people realize that this isn't working, but there's still carry on until the trend is actually reversed, and then you have it going the other way."""

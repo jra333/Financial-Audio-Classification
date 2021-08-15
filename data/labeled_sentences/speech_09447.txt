@@ -1,8 +1,0 @@
-BULL0|"""2019 six in the markets are good, the Dow is up 2%."
-BEAR1|NASDAQ up 4% Remember this as Citigroup reminded clients last night, first five trading days of the year were often perceived as indicative of the way January goes.
-NEUT2|And as January goes, so goes the S&P 580% of the time.
-NEUT3|That's going all the way back to 1929.
-NEUT4|So as January goes, so goes the year and is the first five days of January goes, so goes January.
-NEUT5|All that means is if you believe it.
-BULL6|Could be a very good year for stocks.
-NEUT7|"Would like to wrap up with this."""

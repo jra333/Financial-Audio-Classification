@@ -1,8 +1,0 @@
-BULL0|"""Welcome back to the final round."
-BEAR1|We have some breaking news here in Air BNB's plans to go public.
-NEUT2|Jereb liquid has more Jerry yeah the headline is Airbnb has confidentially filed with the SEC to go public at submitted and S1 registration statement that will remain under wraps until they're close to going public.
-NEUT3|So usually it takes at least four to six weeks for the SEC to conduct its review of a company.
-NEUT4|This is a very large one so it could stretch longer.
-NEUT5|I would say at the very very.
-NEUT6|Earliest we would get maybe at the end of September that probably stretching into October and possibly as early as as late as early November.
-NEUT7|"These processes go back and forth, and when we do have more information and we can pour through the filings and the financials, we of course will be on top of that."""

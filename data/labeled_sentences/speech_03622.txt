@@ -1,5 +1,0 @@
-NEUT0|"""This is Ryan."
-NEUT1|He owns a jewelry business.
-NEUT2|He was stuck on the old way of trying to grow with Facebook ads, relying on agencies trying to do it himself.
-NEUT3|Since switching to the new way, he went from doing 26 K in a month to 173 K in a month in 30 days.
-NEUT4|"Click the link below this video to see way more case studies and see how this all works."""

@@ -1,7 +1,0 @@
-NEUT0|"""Let's get down."
-NEUT1|Hey guys, this is my head from auction.com today.
-NEUT2|I'm going to show you earnings to be spread for Netflix or Netflix is going to report their next week and everything their stock is going to rally about piety then select.
-NEUT3|Expire date as October 30 by 560 call.
-NEUT4|Cell fire car.
-NEUT5|Cost of these trade is 1000 dollars 348 and the Max profit will be $2000.
-NEUT6|"Six hundred 654 trade safe."""

@@ -1,2 +1,0 @@
-NEUT0|"""If Nifty goes above 14770, then if nifty goes below 14680, then."
-NEUT1|"If bank Nifty goes above 34360 ten if bank Lifti goes below 33400."""

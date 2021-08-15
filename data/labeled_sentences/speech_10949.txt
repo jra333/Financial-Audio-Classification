@@ -1,2 +1,0 @@
-NEUT0|"""If Nifty goes near 14760, then if nifti goes below 14680, then if nifty goes above 14840, then if bank Nifty goes above 34400 then."
-BEAR1|"If bank Nifty goes below 33400 then."""

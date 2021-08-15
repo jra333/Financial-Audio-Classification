@@ -1,4 +1,0 @@
-NEUT0|"""Well, I think culture really is about how you embed the idea that you're chasing your attacking throughout the whole group of people that you've assembled."
-NEUT1|And I think the core of that really is passion and a sense that together you can do more than you can do apart so that team dynamic is very important.
-NEUT2|One African proverb I quote a lot is if you want to go fast, you can go alone.
-BULL3|"If you want to go far, you must go together and that means getting the right team together focused on the right priorities and having the passion to really pursue that over over the long run."""

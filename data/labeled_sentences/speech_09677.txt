@@ -1,8 +1,0 @@
-NEUT0|"""So stock number one is going to be Apple ticker symbol AAPL."
-BEAR1|Here the three reasons why I love Apple for a long term investment and it's kind of surprising that his down almost 7% so far in 2021 number one.
-NEUT2|It's the largest U.S. company out there being a $2 trillion company.
-BULL3|There is some security when it comes to investing in larger companies because if things go poorly in the overall economy or with the stock market, Apple will be relatively safe compared to the overall market because it has lower volatility and some of the high Flyers that we saw in 2020 #2 last quarter applesauce and very impressive numbers and one of the things that really stuck out to me is that iPhone sales outpace Samsung for the first time since quarter four of 2016.
-BULL4|The iPhones have been a dominant force in the smartphone market, but seeing them finally outperformed, Samsung is a very impressive move, and seeing that we're making the switch in the 5G, I think this puts Apple in a great spot going forward and then number three.
-BULL5|We have fantastic growth opportunities with the Apple Car at this point.
-BULL6|It is still years away, but it gives some long term growth potential of the company and all the success that we've seen with TV's in the past year.
-BULL7|"I think Apple releasing the Apple car will be huge momentum driver, especially for revenue growth in the future."""

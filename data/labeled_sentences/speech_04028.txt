@@ -1,8 +1,0 @@
-BEAR0|"""This is the worst day of my life."
-BEAR1|My account just got hacked and I lost over $200,000.
-NEUT2|I am completely devastated but I think I know who's responsible for this.
-NEUT3|The girl's name is April.
-NEUT4|Her last name is Fools.
-NEUT5|Got you guys, but on a serious note, turn on 2 factor authentication and never share your private keys with anybody like follow.
-NEUT6|See in the next video.
-NEUT7|"Peace L."""

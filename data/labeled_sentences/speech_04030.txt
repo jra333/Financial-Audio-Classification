@@ -1,7 +1,0 @@
-BEAR0|"""And there's a report in the Wall Street Journal about Disney Channel losing subscribers."
-BEAR1|Yeah, I think that's important because I think Disney has had an unlucky streak here that was punctuated oddly by a New York Post story suggesting that Verizon might by Disney, which is really kind of wreck Verizon's balance sheet.
-NEUT2|I questioned, by the way, putting out a note today in action alert about Alphabet.
-NEUT3|I think people who are watching who's please check your email or going to a lot of things had a lot of things to say on Monday, but I think that Disney.
-NEUT4|Disney is the last thing Verizon can do after just bit off Yahoo where I don't even think there's anything going there.
-NEUT5|Bob Eiger has been a Teflon man when it comes to both ESPN and it comes to to this children's network, in part because the amazing work he's done with themes theme Park San with movies I don't know when ESPN is going to start being able to count what's going on in your cell phone, but I think when they do, you realize that maybe the costs are coming down and it's not as negative.
-NEUT6|"I remain long term, a supporter of the stock of Disney."""

@@ -1,6 +1,0 @@
-NEUT0|"""As you can see here, Facebook is undisputed."
-NEUT1|Bleed, the most used social media platform in the world with 53.5 billion monthly minutes used in home an at work.
-BULL2|Stacking you guys finished.
-NEUT3|Here you can see that face Myspace used to be the most popular platform, but after its decline Facebook filled the vacuum by getting most users in the world.
-BEAR4|However, as you can see here, Facebook has scored the lowest satisfaction in social media customers by getting 5364 in 2010 and 66 in 2011.
-NEUT5|"How you doing that way?"""

@@ -1,5 +1,0 @@
-NEUT0|"""Frontline Systems offers XL miner analysis tool pack as a free app for Excel online and Office 365 available in the office App Store, an If free add-on for Google Sheets available in the Chrome Web Store."
-NEUT1|This new tool makes it easy for users to perform statistical analysis of the same types available in the analysis toolpak, adding that has been part of Microsoft Excel for many years.
-NEUT2|The 20 functions in Excel Minor analysis tool pack include sampling descriptives, statistiques analysis of variance, ANOVA correlation, and covariance forecasting via exponential smoothing, moving averages, linear regression, and logistic regression, random number generation using the Mersenne twister for your analysis, and statistical tests such as the F test T test.
-NEUT3|The test each function reads data from an.
-NEUT4|"Writes results to the spreadsheet in user selected cell ranges."""

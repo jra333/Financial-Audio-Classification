@@ -1,8 +1,0 @@
-NEUT0|"""Well, the background for this story is that Beijing has been concerned about check Mas empire for a while this began last year when the company took a look at Ant Group."
-BEAR1|That's the big Financial Holdings company they were concerned about some of the financial practices that the company was engaging in, and they put a stop to its planned IPO, which would have been the biggest of all time.
-NEUT2|In addition to that, Beijing is beginning an antitrust investigation into Alibaba, the Big E Commerce platform.
-BEAR3|So as part of this overall crackdown on Jack Masz Empire, they're taking a close look at the media assets that Alibaba has accumulated over the years, and really, the triggering point was when one of Ali Baba's senior executives got in trouble and the gossip about his alleged affair spellbound on his social media.
-BEAR4|That quickly got cleaned up, and some of those posts got removed and that raised concern in Beijing because Beijing sees that control over the media as its sole domain, they don't want a private company going in there and having any kind of influence over media properties within the country.
-NEUT5|The biggest story is the moment they happen from around the globe.
-NEUT6|Subscribe to Bloomberg.
-NEUT7|"Quicktake now for insight in an instant."""

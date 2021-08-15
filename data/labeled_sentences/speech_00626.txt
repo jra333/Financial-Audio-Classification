@@ -1,8 +1,0 @@
-NEUT0|"""Hey this is can I have one more stock to share with you?"
-NEUT1|This is Chloe's oncology as we can see, this is a weekly chart here.
-BULL2|Last year it went up towards the end of the year.
-BEAR3|It went up and then after that it settled down.
-BEAR4|It came down and looks like it has a cool down around $5 but for the past four weeks it has been making higher lows and higher highs which is good and even the volume is is picking up.
-NEUT5|I think hopefully next week it might hit $10 which will be its resistance if it holds $10 and if it doesn't.
-NEUT6|I mean if it breaks about $10, I think it will test $15.00.
-NEUT7|"So that will be my target for this stock so hopefully will make some money on this one."""

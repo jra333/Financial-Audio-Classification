@@ -1,4 +1,0 @@
-NEUT0|"""Nifty goes near 14436 then."
-NEUT1|If Nifti goes below 14436, then.
-NEUT2|If bank Nifty goes near 34646 then.
-BEAR3|"If bank Nifty goes below 34646 then."""

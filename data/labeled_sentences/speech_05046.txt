@@ -1,7 +1,0 @@
-NEUT0|"""Netflix in 2011 case solution."
-NEUT1|This case is about strategy and execution.
-BULL2|Reed Hastings founded Netflix to provide a home movie service that will do a better job satisfying customers than the traditional retail rental model.
-BULL3|But as it encountered challenges, it underwent several major strategy shifts, ultimately developing a business model in an operational strategy that were highly disruptive to retail video rental chains.
-BULL4|The combination of a large national inventory, a recommendation system that drove viewership across a broad catalog and a large customer base made Netflix a force to be reckoned with.
-BULL5|Blockbuster, the nation's largest retail video rental firm, was initially slow to respond, but ultimately rolled out a hybrid retail online response in the form of Blockbuster Online.
-NEUT6|"You can order individually solved case solutions without any plagiarism at thecasesolutions.com number one and case study solutions."""

@@ -1,9 +1,0 @@
-BULL0|"""The US House of Representatives has unanimously approved legislation that would allow for the listing of Chinese companies unless they meet auditing standards in the United States, the Wall Street Journal reported Wednesday."
-NEUT1|The legislation passed the Senate with bipartisan support in May and will next go to the desk of the outgoing President Donald Trump, who is widely expected to sign it into law.
-NEUT2|Chinese companies, along with their auditors, will have three years from the passage of a law to be compliant.
-NEUT3|But the US bill provisions before delisting can be carried out.
-BEAR4|A spokesperson from Neo told Baron Dot the company was aware of the situation and has become compliant over the past few months, Neo shares dropped to $38.00 a share due to rumors of delisting causing a great buying opportunity for new NEO investors as well as current NEO shareholders who wish to add more shares to their portfolio.
-NEUT5|As of this morning, Neo shares are in the green trading at $46.80 per share share my name is D'amico.
-NEUT6|This is invest start start.
-NEUT7|Thank you for watching.
-NEUT8|"Please like and subscribe."""

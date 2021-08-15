@@ -1,8 +1,0 @@
-BULL0|"""Well, let's move onto room because things are not looking that much better there."
-NEUT1|Let's get a read on the current stock price.
-BEAR2|That's down 15% after hours and it has to do with a very mixed report.
-BULL3|So they did manage to beat on revenue for the fourth quarter that came in at 405.8 million.
-BEAR4|Estimate was for slightly lower 401.8 million, but they adjusted loss per share wider than estimates $0.44 when the street was estimating $0.37 and then on there.
-BEAR5|Student, then on their forecasts, they're seeing adjusted loss per share of 61 and 68 cents.
-BEAR6|Estimate loss from share loss per share was much lower 37 cents.
-BULL7|"They did manage to beat on their first quarter forecast."""

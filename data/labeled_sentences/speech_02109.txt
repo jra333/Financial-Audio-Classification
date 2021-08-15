@@ -1,6 +1,0 @@
-NEUT0|"""Here are three reasons why I like Coca Cola stock."
-NEUT1|They've been paying dividends for over 58 years.
-NEUT2|Current rates at 3.4.
-NEUT3|They have over 500 different brands, including Fanter, Smartwater Costa Coffee and even some milk brands.
-BULL4|They also have some of the best advertising in the world.
-NEUT5|"Please subscribe for more."""

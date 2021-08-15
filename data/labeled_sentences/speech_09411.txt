@@ -1,6 +1,0 @@
-NEUT0|"""Something that Apple News Plus the subscription service will be 999 a month."
-NEUT1|And it's not just going to include all those magazines that were part of the texture app that it bought, but also some newspapers including the Wall Street Journal and the Los Angeles Times, as well as some digital subscriptions such as this Kim.
-NEUT2|So this can be all part of this Apple News Plus service.
-NEUT3|Asking it launch today.
-NEUT4|It's also going to be rolling out in Canada pretty soon as well as in the UK is as as well as Australia and we the next markets.
-NEUT5|"That Apple News Plus is me rolling out too with customized recommendations as well as full access to all these magazines and it will be available for families or the whole idea that is 999, but your whole family will be able to use it."""

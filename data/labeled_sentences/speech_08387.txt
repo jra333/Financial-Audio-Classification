@@ -1,8 +1,0 @@
-NEUT0|"""As we begin with a developing story, Raytheon and United Technologies are in late stage talks to merge."
-NEUT1|That's according to a report from the Wall Street Journal.
-NEUT2|The merger would give one of two sons and major employers Raytheon exposure to the commercial aerospace sector.
-NEUT3|It would be an all stock deal.
-NEUT4|The companies have a combined market value of nearly $166 billion, with United Technologies being twice Raytheon size, according to the report.
-NEUT5|United Technologies CEO Greg Hayes.
-NEUT6|Would lead the combined company, while Raytheon CEO Thomas Kennedy would become chairman.
-NEUT7|"The deal would be announced as early as Monday and we have reached out to Raytheon for response to this report."""

@@ -1,9 +1,0 @@
-BEAR0|"""Here's what investors are watching in London this morning as equities retreat and commodity prices continue falling."
-NEUT1|Two markets matter for guiding investor sentiment at the moment.
-BULL2|The oil price and the performance of the US dollar, a big rebound in oil and broad dollar weakness of late, has bolstered risk appetite in general, notably in emerging markets.
-BEAR3|Now we're seeing black gold retreat with Brent crude easing back further from $40 a barrel and set to test its hundred day moving average.
-BEAR4|Warningly for the Bulls oil failed to reach its 200 day moving average during its recent rebound.
-BEAR5|This morning Brent is below $39.00.
-NEUT6|So what are the dollar expectations affirmed that the US Federal Reserve will avoid sounding hawkish on Wednesday?
-BEAR7|Hence the big rally we've seen this month across emerging markets and for other major currencies, but thanks to lower oil and metal prices, we are seeing commodity currencies slipping this morning.
-NEUT8|"Much, therefore, rests on the tone of the Fed policy statement, and especially what Janet Yellen says in her press conference tomorrow."""

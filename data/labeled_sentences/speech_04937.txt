@@ -1,9 +1,0 @@
-BEAR0|"""Do you have financial problems?"
-NEUT1|Watch the following video and find out how I solved mine.
-NEUT2|Looking for a way to get started investing, or maybe you're a seasoned investor looking for new ideas at The Motley Fool.
-NEUT3|We've got something for every investor from stock picking services like stock advisor and rule Breakers, to model portfolio services like Supernova, an $1,000,000 portfolio.
-NEUT4|We seek out great companies to invest in for the long term and our services span a variety of investing strategies including high growth, dividends and options.
-NEUT5|Check us out at start.fool.com, The Motley Fool.
-BULL6|Helping the world invest better.
-NEUT7|Please call us or click the link below.
-BULL8|"We look forward to being of service to you."""

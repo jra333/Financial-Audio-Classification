@@ -1,8 +1,0 @@
-NEUT0|"""But I want to switch topics to Google an Oracle, something the Supreme Court with their ruling over a Copyright dispute that there's two tech companies had give us an update on that."
-BEAR1|Yeah, Oracle was trying to Sue Google for as much as $9 billion, basically saying that it stole portions of Oracle's Java code when it built Android.
-BEAR2|Now Google had loss twice at the appellate level in this ongoing battle with more than a decade.
-BULL3|But at the Supreme Court level, Google ended up winning.
-NEUT4|According to the Supreme Court, Google's use of the Java code was considered fair use, so basically they were allowed to use that in the implementation.
-NEUT5|Of Android, and essentially it was foundational or or a piece of code that really helped things.
-NEUT6|Kind of move wasn't necessarily able to be copywritten or copy righted by the company itself, and it was under fair use.
-BULL7|"So Google is is winning here and the Electronic Frontier Foundation says it's a huge win and it could reverberate across Silicon Valley as well as other industries for years to come."""

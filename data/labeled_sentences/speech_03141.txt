@@ -1,8 +1,0 @@
-NEUT0|"""May 3rd is in the books on Wall Street after the Fed gave Bonds."
-BEAR1|Little to think about and equities were guided by earnings week results for Apple on Tuesday set the tone for the technology sector going into Wednesday and drove outsized declines for the tech heavy NASDAQ composite compared to its peers in Monster Retreat from record highs for the NASDAQ, which is outperform this year as technology stocks have soared in bond markets.
-BULL2|Treasury yields, which move inversely to price, edged higher into the afternoon after the Federal Reserve opted to leave.
-NEUT3|Interest rates unchanged.
-BULL4|It is raised expectations for an increase in interest rates at the Fed's meeting in June.
-BEAR5|Earlier in the morning, an advisory committee to the US Treasury said that they saw little evidence for demand for ultra long bonds.
-BULL6|The government is currently analyzing whether it should increase the maturity of its debt issuance beyond the current 30 year threshold.
-BEAR7|"The dollar strengthened in the New York afternoon oil traded flat and gold sank lower and that's in New York Minute."""

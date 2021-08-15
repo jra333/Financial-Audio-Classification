@@ -1,4 +1,0 @@
-BEAR0|"""Sarah Match Group CEO Mandy Ginsberg is stepping down, according to report in the Wall Street Journal."
-NEUT1|Shar Dubey is currently match group president and former Tinder CEO and will be assuming the role of CEO on March 1st and Mandy Ginsburg will be stepping down to focus on her health and this article details that this of course comes ahead of match groups, full spin-off from Icy shares dipping as much as 3% earlier.
-BEAR2|Now down a little bit less than 2%.
-NEUT3|"Guys back over to you."""

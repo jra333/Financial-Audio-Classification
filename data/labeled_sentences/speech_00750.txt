@@ -1,6 +1,0 @@
-BULL0|"""Welcome back to Squawk Box."
-BULL1|Tesla taking advantage of its surging stock price in a just released SEC filing, Tesla said it planned to sell $5 billion in shares quote from time to time in an app, the market offering a Tesla set to join the S&P 500 later this month, and its stock is up as we talked so much about 667% this year, but taking advantage of the moment another $5 billion.
-NEUT2|If you ever thought this company was going to run out of cash.
-NEUT3|Happy if you can keep selling shares at the rate that they're going that that won't be an issue for a very, very long time, if ever.
-NEUT4|Shepard Smith here.
-NEUT5|"Thanks for watching CNBC on YouTube."""

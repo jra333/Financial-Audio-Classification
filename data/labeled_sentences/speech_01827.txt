@@ -1,4 +1,0 @@
-NEUT0|Can I buy stock before the market opens?
-NEUT1|The exact time window during which you can buy or sell stocks in the premarket session depends on your broker.
-NEUT2|A few brokerages don't offer premarket trading at all.
-NEUT3|The NASDAQ allows premarket trading as early as 4:00 AM ET so there are many possible time windows brokerages can offer.

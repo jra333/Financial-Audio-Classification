@@ -1,4 +1,0 @@
-BEAR0|"""SmarTrend identified a downtrend for iShares Dow Jones US Telecommunications Sector Index Fund, New York Stock exchange symbol Iyz on January 22nd, 2010, $18.87 in approximately 3 weeks."
-BULL1|This fund has returned 3.4% as of today's recent price of $18.22.
-BULL2|Parade your way to success with smart trend.
-NEUT3|"For more news and market analysis like this, click below."""

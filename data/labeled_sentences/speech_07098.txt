@@ -1,6 +1,0 @@
-BEAR0|"""Those found guilty of naked short selling can be fined up to 100% of the order amounts starting today."
-NEUT1|The Financial Services Commission in Korea has announced the revised bill on short selling, making it possible to impose criminal penalties and fines for naked short selling.
-BEAR2|Market traders caught using this method of illegal trading will have to pay a fine up to their order amount and could face imprisonment for more than a year or penalties of three to five times the amount of the unfair profit.
-NEUT3|Short selling is a trading strategy in which investors sell borrowed stocks at particular prices.
-BULL4|Investors achieve gains by repurchasing the stocks at lower prices.
-NEUT5|"Short selling without boring stocks is referred to as naked short selling, which is deemed illegal."""

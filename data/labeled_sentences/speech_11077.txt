@@ -1,6 +1,0 @@
-NEUT0|"""Everyone, let's take a look at the Apple stock."
-NEUT1|We can see from the daily chart here.
-BULL2|It has breakout from the consolidation with very huge volume.
-BULL3|It's a very clear sign for the Apple stock to go higher from now, and it's very possible for the stock for breakthrough, for new high.
-NEUT4|So hold tight and let's see the whole U.S. market will follow the Apple stock to go higher.
-BULL5|"Thank you."""

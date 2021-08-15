@@ -1,9 +1,0 @@
-NEUT0|"""Given what we've seen on Bitcoin and other financial assets like where are we right now?"
-NEUT1|How should central banks look at this?
-NEUT2|With central banks, it's especially central banks in their regulatory role need to pay attention to what's happening.
-NEUT3|In the same way that they pay attention to what's happening in financial markets generally as the as the UK authorities said a few weeks ago.
-NEUT4|You know, if people want to invest in Bitcoin that will be prepared to lose all their money, that's certainly my view.
-NEUT5|Uhm, I. I I personally I'm not sure why people invest in those sorts of assets, but they see them as assets clearly and they see them as investments.
-NEUT6|Our role is to make sure that consumers are protected.
-NEUT7|And that's why I see that as the main role.
-NEUT8|"I don't see financial stability issues at the moment arising from Bitcoin itself are worrying more about consumers making the right choices."""

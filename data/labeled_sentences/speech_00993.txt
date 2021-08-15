@@ -1,5 +1,0 @@
-NEUT0|"""Thoughts on Virgin Galactic?"
-NEUT1|One of my favorite stocks to own right now.
-NEUT2|If you go back to February, the stock was sitting at $37 based on hype alone, according to their latest investor presentation within the next 100 days.
-BULL3|They plan on flying thousands and thousands of people to space to be completely honest, I think there's going to be some delays, but by May 2021, I believe the stock should hover above $40.
-NEUT4|"Of course, I'm just some ground tecdoc"""

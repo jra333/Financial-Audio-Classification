@@ -1,8 +1,0 @@
-NEUT0|"""I'm Christy Duffy for smart trend news."
-BULL1|Coca Cola Company, an Coca Cola Enterprises, announced early on Thursday morning that they have entered into a definitive agreement where Coca Cola Company will acquire Coca Cola Enterprises North American business, which consists of about 75% of US bottler, delivered volume and almost 100% of Canadian bottler delivered delivered volume.
-NEUT2|Essentially non cash deal is valued at about $12.9 billion, which includes equity and debt assumptions.
-BULL3|The acquisition is expected to generate operational synergies of approximately $350 million /, 4 years for the Coca Cola Company and are anticipated to be accretive to EPS on a fully diluted basis by 2012.
-NEUT4|I'm Christy Duffy for SmarTrend news.
-NEUT5|For more updates on that story, make sure you're subscribed to our YouTube channel trade.
-NEUT6|The trend.
-NEUT7|"You can also find more stock market news on our website and that's www.tradethetrend.com."""

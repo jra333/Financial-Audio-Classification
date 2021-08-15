@@ -1,2 +1,0 @@
-BEAR0|"""Hey guys I'm trying to upload getting their stock analysis video but due to poor Internet connectivity I think it wouldn't be applied today."
-NEUT1|"Oh, but by tomorrow morning it worked or did so."""

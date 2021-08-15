@@ -1,3 +1,0 @@
-BEAR0|"""SmarTrend identified a downtrend for CG technologies NASDAQ symbol S IGA on December 10th, 2009 at $7.50 in approximately 2 months."
-BULL1|E.g Technologies has returned 18.8% as of today's recent price of $6.09.
-NEUT2|"Trade your way to success today with SmarTrend click below for more news and market analysis."""

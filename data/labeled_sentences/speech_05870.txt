@@ -1,7 +1,0 @@
-NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 weekly chart."
-BEAR1|You can see then the 3000 level and the 50 week MA both come into play and there seems to be a lot of resistance here that could pull back to the 2800 level is going to continue to be.
-BULL2|Likely there's a lot of support there, but once we get on this 200 point range, we've got at least another hundred points, probably 200.
-NEUT3|That's conventional technical analysis now assist to go in the short term.
-NEUT4|It's probably once, if we're in this range, is probably better off to trade these shorter term candle sticks.
-NEUT5|Daily for our that type of thing, but once we get out of this range and the market decides whether or not you know the economy is getting better or worse.
-BULL6|"Then we'll finally see a bigger move."""

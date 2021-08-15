@@ -1,7 +1,0 @@
-BEAR0|"""Unless take the Apple stock, we can see here today, it formed another right candle and dropped back below the year."
-NEUT1|My life so.
-BULL2|Yesterday we got a breakout.
-BULL3|Today we confirmed with the failed breakout, so we retested 120 days.
-NEUT4|Yummy if we can keep above 120.
-BEAR5|There's still hope for it to make consolidation, but if we drop below this line it will be very very bearish for the Apple stock.
-BULL6|"Thank you."""

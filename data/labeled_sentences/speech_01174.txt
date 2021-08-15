@@ -1,7 +1,0 @@
-BULL0|"""Bitcoin futures continued to push through $15,000, targeting it's old all time highs."
-NEUT1|This is 3 major reasons.
-BULL2|We're starting to see a lot of institutional demand.
-NEUT3|We already saw square put 1% of its total assets in Bitcoin, which is about $50 million.
-BEAR4|We're seeing a supply crunch out there, not as much Bitcoin is going to be mind because of the limited supply.
-BULL5|So what's out there is being bid up as we get closer to those all time highs and 3rd is finally that technical breakout.
-BEAR6|"Once we got through the 11,500 mark, it seemed that it was a rush just like other asset classes like gold and Silver, we start to see people chase it on that fear of missing out that this is their last chance to get Bitcoin at these lower prices."""

@@ -1,3 +1,0 @@
-NEUT0|"""Boston has an update for us Julia."
-NEUT1|Sarah Disease new CEO Bob Chapek announcing that Shanghai Disney will open on May 11th, saying they will open it using social distancing, use of masks, temperature screening, another contact tracing and early detention detection systems.
-NEUT2|"They're doing this based on interest in the park adjacent to their sort of a mall adjacent to the park, and they were seeing interest there so the that park is opening on May 11th will be listening for more details on when the rest of the parks are set to reopen back over to you."""

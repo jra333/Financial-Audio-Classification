@@ -1,8 +1,0 @@
-BEAR0|"""Facebook results showing signs of strain Wednesday as it grapples with fallout from the massive Cambridge data scandal in the first full quarter."
-BEAR1|Since the revelation, 87 million Facebook users had personal data shared without their permission, growth and monthly active users came in below.
-BEAR2|Analysts forecasts there was a noticeable falling European users, 3,000,000 disappeared in the biggest drop ever due, in part to new European Union rules, forcing changes to Facebook's.
-BEAR3|Privacy terms, and that wasn't the only disappointment.
-BEAR4|Quarterly sales at $13.2 billion also failed to live up to Wall Street expectations, and a shocking forecast wiped out roughly $150 billion in stock market value in after hours trading.
-BEAR5|A complete reversal from the record high set during the regular session, the world's largest social network has been under nonstop scrutiny by government agencies in several countries and the subject of a delete.
-BULL6|Facebook campaign not just for the breach but for claims it helps promote hate speech and can be manipulated for political gain in an effort to win back public trust, Facebook has pledged to spend more to improve content and security that spending is hitting the bottom line.
-BEAR7|"Spending grew faster than ad sales in the last quarter, leading to the weakest uptick in revenues in three years."""

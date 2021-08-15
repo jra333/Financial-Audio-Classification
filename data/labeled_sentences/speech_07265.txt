@@ -1,7 +1,0 @@
-BULL0|"""April 12 Trading Day is now over and it's been an unexpectedly interesting one for U.S. markets."
-BEAR1|The SP 500 continued where it left off on Tuesday, trading nervously with low volumes.
-BEAR2|Trump talking about resurrecting Republican health care plans rather than pivoting to more market friendly areas like tax reform, hit industrial and financial stocks.
-BEAR3|The nervousness was also apparent in the VIX index, a gauge of short term expected volatility the VIX has been staggeringly tranquil for most of 2016, but this week it has stood on Wednesday went above the 16 mark for the first time since November, but Trump's latest interview shook up markets later in the day.
-BEAR4|U.S. President said that the Fed Chair, Janet Yellen, wasn't necessarily toasts when her term ends in 2018 and said that the dollar was getting too strong now that poured more fuel on the US Treasury bond rally.
-BEAR5|Pushing the 10 year yield down to fresh post election low or 2.24%, the greenback also reacted.
-BEAR6|"Mr Trump's comments with the Dxy dollar index tumbling by 0.6% the most since mid March."""

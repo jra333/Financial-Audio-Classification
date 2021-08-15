@@ -1,9 +1,0 @@
-NEUT0|"""Friday, February 24th is in the books."
-NEUT1|This is the New York minute.
-BULL2|U.S. stocks ended higher for the 5th week in a row, even as Treasurys and Gold also gained amid uncertainty over US monetary policy.
-BULL3|On Wall Street, the Dow Jones industrial average closed up for the 11th straight day, the longest such stretch since 1987, and it was led by the retailer Walmart.
-BULL4|The broad S&P 500 index also rose fractionally on Friday.
-BULL5|Investors bid up Treasury bonds as doubts grew as to whether the Federal Reserve would raise interest rates at its meeting next month.
-BEAR6|The yield on the 10 year Treasury, which moves inversely to its price, was down 6 basis points at 2.32%, the lowest point since mid January.
-BULL7|The dip for Treasury yields helped gold research its upward momentum, rising $7.00 to 1258, announce the highest since just after the US election in November.
-BEAR8|"Brent crude oil lost 1% to about $56 a barrel after data showed that drilling rigs in the US rose above 600 and that is the New York Minute."""

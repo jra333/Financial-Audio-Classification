@@ -1,7 +1,0 @@
-BULL0|"""On Monday, the exchange extended trading hours for the stock, foreign exchange and derivatives market by 30 minutes with the hope of invigorating the local market."
-BEAR1|But in fact, in the week since the changes were introduced, the total value of trades made on Korea's main index, the Cosby has actually fallen.
-NEUT2|The cost.
-BULL3|We saw an 8.7% dip, but the smaller, more tech oriented caused extra way more than 12% rise of far cry from expectations that longer trading hours more in line with foreign markets would boost the value of transactions by.
-NEUT4|526 percent but according to Korea Investment and Securities, a local financial services company.
-NEUT5|It's too soon to draw conclusions.
-NEUT6|"It recommends at least one month of close monitoring to determine the effects of the extended trading hours."""

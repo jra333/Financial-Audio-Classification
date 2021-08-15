@@ -1,5 +1,0 @@
-NEUT0|"""Today, 7th."
-NEUT1|April, 2021.
-NEUT2|Global stock market predictions.
-NEUT3|Please kindly compare my prediction with the graph.
-NEUT4|"Then Saturday may."""

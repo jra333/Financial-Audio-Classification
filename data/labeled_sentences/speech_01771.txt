@@ -1,5 +1,0 @@
-NEUT0|"""You know, if I see something, I see opportunity, I'm going to go for it."
-NEUT1|Yeah, you know saying we only.
-NEUT2|We know we're all going to die one day.
-NEUT3|Yeah, it's true.
-NEUT4|"So we live like that live like you could die tomorrow, you know, go for it."""

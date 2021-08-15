@@ -1,7 +1,0 @@
-NEUT0|"""Good morning, I'm Chuck Pierce and you're watching the financial news network."
-BULL1|Coca-Cola is making an unexpected move this morning, the world's largest beverage maker, announced A2 for one stock split for the first time in 16 years.
-BULL2|The split is in line with its plan to double revenue over the next decade.
-BULL3|If approved, the split would increase the number of Coke shares to 11.2 billion from 5.6 billion.
-NEUT4|The move is subject to approval by shareholders on July 10th.
-BULL5|Currently though, the company is trading higher on the news up almost 3/4 of 1% to $74.65 for further updates.
-NEUT6|"Keep it right here to the financial news network at F doubleno.com."""

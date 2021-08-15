@@ -1,8 +1,0 @@
-NEUT0|"""Welcome to trade a stock I sold EPM today as you could see the stock."
-BEAR1|Basically one up today early in the morning went up to what what one hive like 177, bounced off that and there was resistance here there, there and there and there couldn't get past that resistance and it closed a lot lower than I would like.
-NEUT2|So I got out of it with $100 profit or 100 and something dollar profit.
-BULL3|So not bad for a day.
-NEUT4|I was hoping that I would just blow past that trend line and take out the 180 level so I'm gonna keep it.
-BULL5|I on this if this is able to break out through this one and that one, I'll probably get back into the stock, so hopefully you guys made a trade with me and made some money.
-NEUT6|Don't forget to subscribe right here for all of our news alerts or watch list and our stock alerts.
-BULL7|"Alright have a good night?"""

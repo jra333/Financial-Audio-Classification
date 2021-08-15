@@ -1,3 +1,0 @@
-NEUT0|"""Nexus stock market analysis and prediction in NASDAQ for today is Lisa Young Education Holding Company Limited, and their symbol is known as LXEHI."
-NEUT1|Repeat again next.
-NEUT2|"This analysis and prediction for today is Lisa Jung Education Holding Company Limited LX H. The price to buy now is 8 U.S. dollars and $0.20 and good luck everyone."""

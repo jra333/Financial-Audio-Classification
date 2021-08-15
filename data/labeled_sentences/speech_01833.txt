@@ -1,7 +1,0 @@
-NEUT0|The Fed Reserve chairman Jerome Powell said that people need to stop worrying about inflation and risk inflation in the short term is very low right now and that there will not be any changes to interest rates because inflation is expected to stay or low in the coming future.
-BEAR1|But that still did not prevent the stock market from going down.
-BEAR2|You can see the NASDAQ actually went down two point 1% today and raised his yearly gains in saying that that's over 100 and the Dow Jones.
-BULL3|So the market is still expecting that there will be a case of higher interest rates in the short term.
-BEAR4|And that may affect valuations for stocks.
-NEUT5|Let me know in the comment down below if you think inflation is expected to rise in short term or not.
-NEUT6|Thank you.

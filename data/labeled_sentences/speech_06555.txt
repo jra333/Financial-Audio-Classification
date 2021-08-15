@@ -1,7 +1,0 @@
-BULL0|"""Today we're announcing that we're going to invest an incremental 1 billion U.S. dollars in digitising small and medium businesses."
-NEUT1|We are going to use again try to use Amazon's size, scope and scale.
-NEUT2|We're going to use our global footprint.
-NEUT3|This is going to be the Indian century and I'll make one more prediction for you.
-NEUT4|In this 21st century, the most important alliance is going to be the alliance between India and the United States.
-NEUT5|The world's oldest democracy.
-NEUT6|"And the world's largest democracy."""

@@ -1,9 +1,0 @@
-BULL0|"""Hello Traders and welcome to AAA trades."
-NEUT1|Intraday technical analysis session.
-NEUT2|Today's instruments is the Disney stock traded in the New York Stock Exchange under the ticker DIS.
-BEAR3|Looking at the four hour charts, we conceded after a downward correction due to the fears of a second covid wave and 2nd lock down.
-NEUT4|It is currently trading at $124.03.
-BULL5|Today, if it manages to hold its price above the support level of around $122, we could see it traded higher towards a resistance level of around $126 and if it manages to breakthrough then we can see it approaching the next resistance level of around $127.50.
-BEAR6|If it fails to hold that price above the support level, then we should see it falling towards the next support level of around $120.00, which is one of its strongest support levels.
-NEUT7|Thank you for watching AAA trades intraday technical analysis from all of us here.
-BULL8|"We wish you a successful and responsible trading."""

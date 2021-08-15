@@ -1,9 +1,0 @@
-NEUT0|"""But let's take the Apple stock we see here."
-BULL1|We can see here today I've had managed to go back to the positive area at the closing.
-BULL2|The market is a good sign.
-NEUT3|Constructive side, if we change the chart into daily chart, we can see here we got another green candle, followed the three red candle before it.
-NEUT4|So it sounds of the improved.
-BULL5|But we're still below the first year my line, so we need another candle to test to confirm that we have go back up to the positive area.
-NEUT6|So here.
-NEUT7|It's still a indecision, so let's wait and see.
-BULL8|"Thank you."""

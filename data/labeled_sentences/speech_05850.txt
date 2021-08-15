@@ -1,7 +1,0 @@
-NEUT0|"""From FX Empire, this is Chris taking a look at the S&P 500 and as you can see."
-NEUT1|2800 seems to be an area of interest as the 50 day Ma is sitting here.
-NEUT2|That being said, this is a market that we go back and forth if we break down below the lows of earlier in the week, then we go to the 2640 handle.
-BEAR3|However, if we break above the recent highs here in the last couple of days, then I think we go to the 61.8% FIB 200 AMA and the gap.
-NEUT4|That makes a lot of sense.
-NEUT5|But it's difficult to imagine that we continue to just break out to the upside.
-NEUT6|"So I think more range bound trading until we make a decision is probably what we're going to see."""

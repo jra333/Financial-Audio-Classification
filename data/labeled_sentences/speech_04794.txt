@@ -1,7 +1,0 @@
-BULL0|"""February 6th is in the books on Wall Street and it has been another day of tempered activity in equities alongside of rally in Haven assets."
-BEAR1|The S and P500 edge lower early in the morning and then stayed there throughout the day, with analysts pointing to hesitation from investors due to continued political and legal wrangling over President Donald Trump's proposed travel ban.
-BEAR2|Even financial stocks were unable to hold on to their Friday gains despite renewed optimism for the banking sector after Mr. Trump signed an executive order to review aspects of financial regulation.
-BEAR3|In bond markets, the benchmark 10 year U.S. Treasury yield, which moves inversely to price move lower dipping under its 50 day moving average.
-BEAR4|In a further sign that the so-called Trump Flation trade is back on pause gold, another haven asset continued to climb, boosting the stock price of gold miners oil, on the other hand, took a downward turn, dragging energy stocks along for the ride.
-BEAR5|The CBO is VIX volatility index remains subdued, as does the Meryl Lynch Treasury Volatility Index, which is trading around levels last seen before the US election.
-NEUT6|"And that's the New York minute."""

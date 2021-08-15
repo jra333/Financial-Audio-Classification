@@ -1,7 +1,0 @@
-BEAR0|"""In its August Crypto Outlook, Bloomberg remained unimpressed with Ethereum, calling its rally speculative."
-BULL1|The publication contends, however, that Bitcoins BTC rises based on solid ground.
-BULL2|Athyrium has extended last year's highs and left to one of the top performing major crypto assets in 2020, but we view its rally is more speculative versus the favorable demand versus supply conditions supporting Bitcoin.
-BULL3|The report points out that Ethereum faces plenty of competition from similar crypto platforms and about 6000 tradeable coins.
-BULL4|On the other hand, Bloomberg has remained consistently bullish about Bitcoin, noting its gold like qualities and increased institutional demand.
-BULL5|The success of the device space has led to the appreciation of ether, with some comparing it to the ICO boom as more smart contract platforms mature competition will only get tougher when it comes to the world of professional investors.
-NEUT6|"Ether does not have a clear selling point like Bitcoins limited supply."""

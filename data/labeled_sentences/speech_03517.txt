@@ -1,9 +1,0 @@
-BULL0|"""Gold rates in Calcutta have moved up almost 20% since the start of the year, and we expect the gold rates to now stabilize and not do too much unless there is a cut from the US Federal Reserve on interest rates, we don't expect it to go too low from here."
-NEUT1|Apart from this, the trend looks pretty much the same.
-NEUT2|We expected to move around.
-BULL3|28 to 30,000 in the last one year, we've seen gains of almost 30% in gold prices.
-NEUT4|If you bought and sold gold in the last one year, you need to pay a capital gains tax.
-NEUT5|Also, not many people are aware that if they're jewellery and gold crosses 30 lacs, they have to pay a wealth tax.
-NEUT6|People have lots of gold and they don't do generally not aware that they pay tax or 1% on the value of the gold.
-NEUT7|Apart from this, we suggest that you keep reading.
-NEUT8|"Our gold rates and to stay updated on the latest gold prices in Calcutta."""

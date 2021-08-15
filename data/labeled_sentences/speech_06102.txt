@@ -1,8 +1,0 @@
-BEAR0|"""Just like their counterparts in Silicon Valley startups in Asia, also facing a tougher fund raising environment weakness in the global economy and volatility in China's stock market have made venture capitalists more cautious."
-BEAR1|Now, startups in the region adapting to the new reality by making changes to their businesses, cutting jobs and expenses in China, a karaoke booking startup called Ichi Chan has reduced its workforce to 200 from 600.
-BEAR2|Since it failed to raise new funds in January, Shanghai based crowdsourcing startup Weichai, she has cut even small expenses like snacks and beverages for employees.
-BULL3|That's a big change from 2014 when the company treated its employees to a trip to Thailand.
-BEAR4|Changing business plans in Singapore online grocery store Red MoD suspended its plans to expand overseas in markets like Hong Kong because of funding challenges.
-BULL5|Accepting modest valuations, online, hotel aggregator, Oyo Rooms in India is in talks to raise more funds from its existing investors at the same valuation as its previous fund raising or only slightly higher.
-BEAR6|Despite all the efforts to survive, some startups are closing down a fashion ecommerce startup.
-BEAR7|"Parapluie in Indonesia has shut down in recent months, attributed the closure to a tight fund raising environment."""

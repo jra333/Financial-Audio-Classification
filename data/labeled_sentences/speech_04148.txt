@@ -1,9 +1,0 @@
-NEUT0|"""Hello traders and walk into AAA trades intraday technical analysis session."
-NEUT1|Today's instruments is the Apple stock which is traded in the NASDAQ an included in the Dow Jones.
-NEUT2|When we look at Apple's one hour charts, we can see that it's currently traded at $498.94.
-NEUT3|It's big resistance level is located around $500.
-NEUT4|However, due to today's stock split adjustments, these prices are numbers and levels should change today the current price should be translated to $124.73.
-NEUT5|Therefore the resistance level is a strict conversion term should be $125.
-BULL6|Due to the new attractive and affordable share price, which should attract more investors, we expect its price to move upwards to the range of 125 and $130.
-NEUT7|Thank you for watching AAA trades intraday technical analysis for all of us.
-BULL8|"Here we wish you a successful and responsible trading."""

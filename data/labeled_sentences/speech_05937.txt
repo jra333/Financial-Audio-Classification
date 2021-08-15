@@ -1,9 +1,0 @@
-BEAR0|"""Shares of Cigna ended Monday's trading data."
-BULL1|The upside by almost 12% and the stock is the streets move of the day.
-BEAR2|Alright shares were lifted after report in the Wall Street Journal said Anthem offered to buy Cigna for 175 per share.
-BEAR3|Now, while both health insurance Giants have been in talks for months, the Journal reports this is the second offer over the past 10 days, which signal rejected, now, according to unnamed sources in the Wall Street Journal.
-NEUT4|David Cordani, the CEO of Cigna, is looking to remain at the top of the new anthem Cigna firm.
-BEAR5|Which has interrupted the progress of the deal.
-NEUT6|Now this comes just a few weeks after the Journal reported that Humana had been in talks with Cigna and Aetna over a possible merger.
-BULL7|Are shares of Cigna have returned over 49% since the start of the year with a market cap of just under $40 billion and check back on thestreet.com for Tuesday's move of the day.
-NEUT8|"I'm Scott Gam in New York."""

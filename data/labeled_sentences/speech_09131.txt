@@ -1,5 +1,0 @@
-NEUT0|"""Well, I think the most maligned thing is where you start to attack your own experts."
-NEUT1|An you know suggest that maybe politicians know better than disease experts.
-NEUT2|In this case the CDC has not been allowed to really speak out.
-NEUT3|You know when they tried to put information on their website that got edited by politicians, we now have a pseudo expert.
-NEUT4|"Advising the president."""

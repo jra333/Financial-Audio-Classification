@@ -1,1 +1,0 @@
-NEUT0|"""If Nifty goes above 14540, then if nifty goes below 14245, then if nifty goes near 14000, then if bank Nifty goes above 33450 ten if bank Nifty goes below 32400 ten."""

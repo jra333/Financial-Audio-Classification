@@ -1,9 +1,0 @@
-NEUT0|"""Alright, let's take a look at the Apple stock."
-NEUT1|We can see from the daily chart here.
-BEAR2|During your spring time it formed a red candle here and it dropped a lot.
-BULL3|It's 4.2% for the Apple.
-NEUT4|If we check the lower part of this counter is still above the law, it made the day before yesterday, so actually it hasn't made a new law.
-BEAR5|And if we checked the volume, the volume is comparatively low.
-BEAR6|So in my opinion, it's still likely that got that Apple can have a bottom here, so as long as we have a higher low and have a smaller volume is possible for Apple to have a bottom here.
-BEAR7|So even though it has dropped 4.2, is it still possible?
-BULL8|"Thank you."""

@@ -1,5 +1,0 @@
-NEUT0|"""Hi guys, just this is a simple linear regression model for because I didn't have much time in my tracking numbers, don't have much nicer."
-NEUT1|It's just a simple linear regression model and I hope it fits pretty good.
-NEUT2|Prediction, lexie.
-NEUT3|So yeah, it's that that's all we have done.
-NEUT4|"But yeah, we'll do something else if possible."""

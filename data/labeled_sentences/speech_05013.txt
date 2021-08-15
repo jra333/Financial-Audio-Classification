@@ -1,8 +1,0 @@
-NEUT0|"""Netflix technical analysis for April, the 21st of 2014."
-NEUT1|Please pause the video and read the video disclaimer.
-NEUT2|As you can see, Netflix is that the point of control, which is that 336 level, and it looks like it wants to trend higher into a retrace.
-NEUT3|Possible target will be the 300 and 73177 and anywhere between the 388 level, which is a 50% and the value area high, which is at 396.
-NEUT4|Keep in mind that tomorrow is earnings, so it could.
-BULL5|Be very volatile if it's going to trend lower, will possibly find support that 315.
-NEUT6|The 297.
-NEUT7|"269 and the last pivot low I have is 189."""

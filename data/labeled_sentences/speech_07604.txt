@@ -1,5 +1,0 @@
-NEUT0|"""I bought my first stock when I was 11 years old."
-NEUT1|It was the first quarter of 1942, shortly after Pearl Harbor.
-NEUT2|I spent $114.75 create three shares hundred 1475.
-NEUT3|If I put that 114 into the S&P 500 at that time and reinvested the dividends.
-NEUT4|"Think about figures to what it might be would be worth today, Oman."""

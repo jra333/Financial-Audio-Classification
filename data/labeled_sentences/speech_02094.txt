@@ -1,9 +1,0 @@
-NEUT0|"""This is March on news on Christy Duffy."
-BULL1|Coca Cola shares are trading higher after its profit rose by 8% in the third quarter, aided by volume growth that Blue by its long term target.
-NEUT2|The company also said it expects to purchase about $2 billion worth of its shares by year's end on August 2nd.
-BULL3|Coca Cola was upgraded to overweight from neutral with a $66 price target at JP Morgan.
-NEUT4|The stock is trading at $60.41.
-BULL5|Which is 7% higher than the upgrade price of $56.41.
-NEUT6|For further updates, make sure subscribe to our YouTube channel.
-NEUT7|This is smart run news.
-NEUT8|"I'm Christy Duffy."""

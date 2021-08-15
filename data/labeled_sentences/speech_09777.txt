@@ -1,6 +1,0 @@
-NEUT0|"""If you're going to invest in Apple stock, you need to hear this video till the end."
-NEUT1|Apple almost generated 142 billion U.S. dollars from the sales of iPhone alone in 2019 and the number of iPhone users is going to suppress 110,000,000 users in 2021.
-NEUT2|And out of this 110,000,000 users, 85 million users use the app called Tick Tock.
-BEAR3|And if Trump is going to block this app, Tik T.O.K or we chat is going to be a huge problem for Apple, Apple will not be able to sell its Apple iPhones and will not be able to generate so much of revenue that it used to generate using iPhones.
-NEUT4|So there's a risk in investing in Apple stocks if the Tick Tock app doesn't get banned, Apple will have a search in its sales of iPhones as it used to and the stock will surge in value.
-BEAR5|"But if the Tick Tock app gets banned, it's going to be a huge problem for Apple stocks."""

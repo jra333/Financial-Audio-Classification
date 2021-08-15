@@ -1,6 +1,0 @@
-NEUT0|"""I'm Christy Duffy."
-NEUT1|First smart trend news.
-NEUT2|Billionaire entrepreneurs salmon Charles, while have been charged by the SEC of using a quote elaborate sham system to hide $550 million in trading profits offshore I'm Christy Duffy for Smart Trend News.
-NEUT3|For more updates on this headline as the story unfolds, make sure you subscribe to our YouTube channel.
-NEUT4|That's trade the trend.
-NEUT5|"Also visit our website tradethetrend.com for more news and market analysis."""

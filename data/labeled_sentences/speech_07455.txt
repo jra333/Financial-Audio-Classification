@@ -1,7 +1,0 @@
-NEUT0|"""This is the financial news network."
-NEUT1|I'm Christy Duffy, AOL and a consortium of private equity firms are exploring the idea of making a bid to acquire Yahoo sources indicated to the Wall Street Journal in a plan that would emerge the two embattled, but still huge Internet brands, Silver Lake Partners and Blackstone Group are among the consortium of potential bidders that indicated they were interested in joining AOL in its bid to acquire the faltering Internet search giant.
-NEUT2|The firms added that at least two or three other firms may be interested in participating in the deal should a formal proposal be created.
-NEUT3|However, the sources emphasized that the discussions were only preliminary.
-NEUT4|For further updates on this story, make sure subscribe to our YouTube channel.
-NEUT5|This is the financial news network.
-NEUT6|"I'm Christy Duffy."""

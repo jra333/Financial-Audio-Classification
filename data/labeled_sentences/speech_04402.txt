@@ -1,9 +1,0 @@
-NEUT0|"""Long range model which can now go for an estimated."
-NEUT1|One mile and hey, why wait till Monday from Earth right?
-BULL2|First Citizens Bank buying commercial lender CIT in a $2.2 billion all stock deal, creating the countries 19th largest bank.
-NEUT3|Shares of both companies.
-BULL4|As you can see surging intraday Morgan Stanley boosting its price target on Netflix to 630 bucks.
-BULL5|Damn.
-NEUT6|I like Netflix big time.
-NEUT7|I'm gonna buy a Technic Netflix.
-NEUT8|"Well, winter."""

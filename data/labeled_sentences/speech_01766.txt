@@ -1,6 +1,0 @@
-NEUT0|"""Welcome to watchmojo.com."
-NEUT1|In today's Business School bit, we continue to take a look at the most popular business magazines out there for both students and young professionals.
-NEUT2|Today we examine Forbes, Forbes magazine that tries to cater to the most affluent of readers out there.
-NEUT3|The magazine is synonymous with the Forbes 400, which breaks down the 400 most wealthy people both in America and around the world.
-NEUT4|The magazine gets a special Business School bid hats off because of the fantastic coverage that they provide on forbes.com.
-NEUT5|"If you're looking for an example of a traditional publication that has crossed over very, very well to the digital world, forbes.com is just that site that has been today's Business School bit on watchmojo.com"""

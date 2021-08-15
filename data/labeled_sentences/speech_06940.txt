@@ -1,7 +1,0 @@
-BULL0|"""I think that probably there is still a lot of anticipation of fiscal stimulus."
-NEUT1|I think that's still probably the consensus view.
-NEUT2|There's this idea that tax reform is easier than healthcare.
-NEUT3|I take the other side of that, that.
-NEUT4|Health care like tax policy, affects everybody in the economy.
-NEUT5|There's vested interests and and it's not simpler.
-NEUT6|"It's one reason we haven't seen it in 30 years."""

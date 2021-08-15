@@ -1,2 +1,0 @@
-NEUT0|"""This is Alan Farley from FX empire."
-NEUT1|"No, do not."""

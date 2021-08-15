@@ -1,6 +1,0 @@
-BEAR0|"""From FX Empire, this is Chris taking a look at the S&P 500 and you can see that the S&P 500 has broken down just a bit during the trading session here on Thursday."
-BULL1|Just more salt too thin right around the 200 day MA is a great way to lose money right now to play this market 3000 looks like it's going to try to offer support.
-BEAR2|If we break down below there, I think we break down significantly at this point, if we break the highs which is 3150 ish over the last three sessions, we should go higher.
-BEAR3|However, Friday's jobs number and that's going to cause a lot of nonsense and noise as well.
-NEUT4|Keep an eye on these two levels.
-NEUT5|"That'll be your clue as to where to go next."""

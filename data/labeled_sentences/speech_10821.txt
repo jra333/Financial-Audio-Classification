@@ -1,5 +1,0 @@
-NEUT0|"""Alright, let's take another Apple stock."
-NEUT1|We can see her date has made the hammer pattern.
-BEAR2|It means in short term the bottom has been out this area in the.
-BEAR3|The 120 area it has found the bottom so even though it has found a bottom but it still have a time to reverse because we can see the moment is still weak, so it's still not time to add your stock.
-BULL4|"Thank you."""

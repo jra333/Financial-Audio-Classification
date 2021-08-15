@@ -1,1 +1,0 @@
-NEUT0|"""If 50 opens above 14800, then if NIFTY makes any dip till 14710 then if bank Nifty makes any deep till 34650 then and if bank nifty goes below 34646 then if bank Nifty opens above 35600 then."""

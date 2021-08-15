@@ -1,7 +1,0 @@
-NEUT0|"""First time in 16 years and an American has been named the world's richest, richest person, according to Forbes Magazine's annual billionaire list."
-NEUT1|The Mexican Mexican telecoms giant Carlos Slim is now at the top of the list with a fortune of 53 and a half billion dollars.
-NEUT2|He's now ahead of Microsoft founder Bill Gates, who's reported well stands at $53 billion.
-NEUT3|Gates has only come in second one on one other occasion since 1995.
-NEUT4|During last year's economic slump, 793 people were declared billionaires.
-BULL5|This year, that figure has now topped 1000 around the same number as were there before the recession.
-BEAR6|"On region that's leading in that recovery, if we can call it that is here in the Asia Pacific there were 130 billionaires last year compared to 234 today."""

@@ -1,6 +1,0 @@
-NEUT0|"""Netflix will be the first of the fangs to report."
-BULL1|Its got its fourth quarter.
-NEUT2|Earnings will be coming out on the 21st of January.
-BULL3|Now, these, time amid increasing competition in the sector in a newly competitive era with the likes of Apple TV Plus and Disney Plus joining the streaming game in domestic viewing numbers of subscribing numbers and also international subscribing numbers will be particularly important.
-BULL4|Analysts are expecting earnings to come in the region of.
-NEUT5|"$0.52 per share on revenues of around 5.45 billion."""

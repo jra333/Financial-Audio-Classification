@@ -1,6 +1,0 @@
-BEAR0|"""The US plan to force Tik T.O.K to sell its American operations to a group, including Oracle and Walmart, has been shelved indefinitely, according to the Wall Street Journal."
-BEAR1|The sale was pushed by the Trump administration over security concerns.
-NEUT2|No decision on how to resolve the issues surrounding Tick Tock is expected as the Biden team determines its own response to the potential security risk posed by its data collection.
-NEUT3|The biggest story is the moment they happen from around the globe.
-NEUT4|Subscribe to Bloomberg.
-NEUT5|"Quicktake now for insight in an instant."""

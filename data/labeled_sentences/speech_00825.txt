@@ -1,8 +1,0 @@
-BULL0|"""This is charting futures this week after U.S. President Donald Trump and Chinese President Xi Jinping reached a trade war truce."
-BEAR1|Gold, slumping back below $1400 an ounce.
-NEUT2|We're also watching crude oil and Bitcoin.
-BEAR3|The cryptocurrency crashed on Monday, undoing some of this year's rallies.
-BULL4|Despite that, it's still up about 200% since the start of the year.
-NEUT5|We continue with a technical analysis on Bitcoin.
-BULL6|A Mike Mcglone with Bloomberg intelligence focusing on Bitcoin, the ease with which Bitcoin in Orange broke above the bear markets, most traded Price 6500 indicates full recovery futures open interest in white reaching new highs reflects increasing institutional exposure.
-BEAR7|"This puts the next big resistance near 20,000, sustaining below 6500 is a good definition of risk as it would indicate failure holding should prevail in volatile Bitcoin."""

@@ -1,9 +1,0 @@
-BULL0|"""A swell of funds is surging into emerging market equities over the last week, some 5.1 billion U.S. dollars flowed into emerging market shares."
-NEUT1|That was the high watermark for the past 58 weeks, and it's part of a broader trend.
-BULL2|Emerging market bonds are experiencing a similar bonanza.
-NEUT3|There is more than a touch of the great escape about this.
-BEAR4|Some 13 trillion U.S. dollars in developed market bonds are yielding less than zero, so investors are desperately searching for an investment return and have alighted on mass on emerging market assets.
-BULL5|That being said, the macro economic picture in emerging markets is also looking slightly more positive as this chart from the IMF shows the differential in emerging market and developed market growth rates.
-BULL6|Is starting to move in favor of emerging markets again and this spread looks likely to widen further in coming years.
-BEAR7|They are creating a sharp loosening in liquidity conditions in emerging markets in the past such loosening has boosted the GDP growth performance, but this is a risky cycle given to boom and bust.
-NEUT8|"The challenge for emerging markets will be to use the money wisely by investing in infrastructure and other things that create value rather than just going on a big collective shopping spree."""

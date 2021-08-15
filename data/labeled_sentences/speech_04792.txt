@@ -1,7 +1,0 @@
-NEUT0|"""September 27th is in the books on Wall Street and it has been a day characterized by the 1st presidential election debate held on Monday night."
-BULL1|Equity, derivatives markets trading after hours, with the first to react, seeing some gains immediately after the debate, the S&P 500 followed suit, shrugging off declines in the price of oil.
-NEUT2|It might seem peculiar that markets are already beginning to react to election speak, but the expectation of volatility.
-BULL3|Should Donald Trump triumph in November means markets are reacting positively to any indication of strength for the Clinton campaign, analysts point to the Mexican peso is one way in which markets have been expressing their view on the election.
-BULL4|It strengthened today, suggesting that a win for Mrs. Clinton is more likely and that Mr. Trump's policies on Mexican trade agreements will not get a chance to come to fruition.
-BULL5|Bond markets also reacted positively with representative investment grade and junk bond exchange traded funds, both seeing price increases while the benchmark 10 year Treasury yield, which moves inversely to price dips slightly for the day the market moves are relatively calm this far out from the election.
-BEAR6|"With the VIX Volatility Index remaining muted after Monday night, and that's a New York minute."""

@@ -1,3 +1,0 @@
-BEAR0|"""SmarTrend identified a downtrend for Veolia Environnement New York Stock exchange symbol VE on January 28th, 2010 at $33.91 in approximately 2 weeks."
-BULL1|Veolia Environnement has returned 4.3% as of today's recent price of $32.44.
-NEUT2|"Trade your way to success with smart trend for more news and market analysis like this click below."""

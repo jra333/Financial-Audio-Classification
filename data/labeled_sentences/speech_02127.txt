@@ -1,7 +1,0 @@
-BULL0|"""Hi friends."
-NEUT1|Coke and Pepsi.
-NEUT2|The carbonated cost drinks CSF is denominated by two major players, main Coke and Pepsi, that dominated the major share in the market and year 2000.
-NEUT3|Coca Cola annual sales were $20.5 billion and in same year Pepsi sales were $20 billion.
-NEUT4|Coca Cola is the largest manufacturer, distributor and marketer of soft drinks and non carbonated drinks.
-BULL5|Pepsi was also a leader in both carbonated and non carbonated drinks.
-BULL6|"Thanks for watching this video."""

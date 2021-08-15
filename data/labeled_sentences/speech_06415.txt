@@ -1,5 +1,0 @@
-NEUT0|Can you give me a warning warning?
-NEUT1|Here comes your ticket.
-NEUT2|EBay.
-NEUT3|A car that doesn't get distracted.
-BEAR4|Auto emergency breaking with pedestrian detection on the all new Hyundai Elantra.

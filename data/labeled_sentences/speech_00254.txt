@@ -1,9 +1,0 @@
-BEAR0|"""If it has broken its major support of 1200."
-NEUT1|Yes, I don't.
-BEAR2|So it is expected to fall further.
-NEUT3|Somewhere around 11.
-BEAR4|11:20 and if it doesn't take that support, then you can fall further till 1000.
-NEUT5|So this two could be the buying region and on the other side if it crosses the.
-NEUT6|Major resistance of 1340.
-NEUT7|Then it will be a bye.
-NEUT8|"So now we do not have any folding previous."""

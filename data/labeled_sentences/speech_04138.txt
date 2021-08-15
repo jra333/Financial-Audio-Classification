@@ -1,9 +1,0 @@
-NEUT0|"""Hello and welcome to AAA trades technical analysis."
-NEUT1|Our second instrument for the day is the Apple stock.
-NEUT2|We are just one day before the major iPhone 8 announcement.
-BEAR3|We conceive rapid downward movement in Apple stock and approaching an uptrend trendline.
-NEUT4|Now this can also be translated into a likwidation of some of the investors positions.
-BULL5|We're also keen to see how well or how good the iPhone 8 will be, and based on the charts we might also observe corrections up to the 50% or even the 61.8 Fibonacci retracement levels.
-BULL6|Even though we have an insight support at the same level of the 50%, we strongly believe that this will hold and we will see further upward movement.
-NEUT7|Thank you for watching our intraday technical analysis.
-BULL8|"From all of us here at AAA trade, where wish you successful and responsible trading."""

@@ -1,6 +1,0 @@
-NEUT0|"""Fast charging is something that the entire market now understands that is critical, so almost everybody is now saying that they are FC fast charging, but fast charging really is not half an hour or even 20 minutes."
-NEUT1|Fast charging is the ability to really charge your car fast, so to differentiate, so delivers the solution of five minutes charging.
-NEUT2|This is not just fast charging, this is extreme fast charging.
-NEUT3|Extreme fast charging requires much more effort in terms of cooling and engineering and also the infrastructure of the charging that is required in order to charge your vehicle very fast so the entire market needs to transition from fast charging which is maybe.
-NEUT4|Half an hour or an hour to five minutes or 10 minutes, which is extreme, fast charging with the new cooling.
-NEUT5|"The new charging stations and the new standards that are required for charging your vehicle really, really fast."""

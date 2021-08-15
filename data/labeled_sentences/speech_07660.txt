@@ -1,8 +1,0 @@
-BULL0|"""Warren Buffett this week added to his already massive stake in Bank of America at a time when the Corona virus pandemic still clouds the US and global economic Outlook, a Securities and Exchange Commission filing showed buffets conglomerate Berkshire Hathaway bought 33 nine million shares of the banking giant between Monday and Wednesday that increased Berkshire stake in Bank of America by 813 dollars 3,000,000 to more than $24 billion."
-BULL1|Bank of America shares rose nearly 1%.
-BEAR2|Bucking the broader markets negative trend Thursday and outperforming other major banks such as JP Morgan Chase, Citigroup and Wells Fargo, Berkshire also has stakes in JP Morgan and Wells Fargo.
-BULL3|In May, Buffett struck an optimistic tone at Berkshire's annual shareholders Meeting, which was held virtually due to the coronavirus pandemic.
-NEUT4|Nothing can basically stop America, Buffett told shareholders the American miracle.
-NEUT5|The American Magic has always prevailed and it will do so again.
-BEAR6|However, the Oracle of Omaha also revealed he sold out of his airline Holdings due to the uncertainty caused by the outbreak.
-NEUT7|"Subscribe to CNBC Pro for exclusive Insights and analysis and Live Business Day programming from around the world."""

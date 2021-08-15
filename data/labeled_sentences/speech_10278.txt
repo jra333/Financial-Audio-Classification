@@ -1,7 +1,0 @@
-NEUT0|"""Everyone, let's take weather, Apple, Apple stock."
-BEAR1|We can see on Apple has very fluctuate today and nearly flirt with the neutral position in the day.
-NEUT2|If China charting the daily chart we can see here regarding the third.
-BEAR3|Right kind of followed the dodgy before it so it's very indecision and we are well about young support online but it's very likely for it to drop down to test the supporting level.
-NEUT4|If so here will be the first supporting because this top is the breakout point, so here.
-BEAR5|And now we can see the weakness of Apple stock.
-NEUT6|"There's actually no bull sentiment should be very careful, thank you."""

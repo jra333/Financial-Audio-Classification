@@ -1,4 +1,0 @@
-NEUT0|"""Alphabet Inc is a holding company which engages in the business of acquisition and operation of different companies."
-NEUT1|It operates through the Google and other bets segments.
-BULL2|On Wednesday analyst firm Wolf Research initiated coverage on Alphabet giving an outperform rating on the company.
-BULL3|"The firm also set a $2450 price target on the stock, suggesting a potential upside of 14% compared to its current price."""

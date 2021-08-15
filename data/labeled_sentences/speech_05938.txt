@@ -1,9 +1,0 @@
-BEAR0|"""I'm sorry how Samaris were smart trend news and here are the top five companies in the Internet retail industry as measured by lowest relative performance."
-NEUT1|This analysis was based on yesterday's trading activity as we search for stocks that could be relative bargains.
-BEAR2|Netflix ranks first with the loss of 5.88%.
-BEAR3|Amazon.com ranks second with the loss of 2.61% and Expedia ranks third with the loss of 2.53%.
-BEAR4|Nutrisystem follows with the loss of 2.35% and priceline.com rounds out the top five with the loss of 1.99%.
-BULL5|Smart trend is bullish on shares of Netflix and our subscribers were alerted to buy on May 26, 2010 at $106.20.
-BULL6|The stock has risen 12% since that alert was issued and Sarah has a Morris for Smart Trend News.
-NEUT7|For more news and market analysis throughout the day visit our website tradethetrend.com or subscribe to our YouTube channel trade.
-NEUT8|"The trends."""

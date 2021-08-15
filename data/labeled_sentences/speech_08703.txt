@@ -1,5 +1,0 @@
-BEAR0|"""Tesla and Elon Musk are being sued."
-BEAR1|A Tesla Investor sued CEO Elon Musk and its board, claiming Musk has exposed the company to billions of potential liability, an market losses by continuing to send erratic tweets.
-BEAR2|The lawsuit also accuses Tesla's board of failing to stop Elon's behavior online.
-NEUT3|Some people have expressed concern over this, but in my opinion this is not news because anyone can Sue Tesla and anyone can technically be an investor if they hold one share.
-NEUT4|"The situation can change, but unless we get more clarity on the investor suing Tesla this isn't anything big, at least for now."""

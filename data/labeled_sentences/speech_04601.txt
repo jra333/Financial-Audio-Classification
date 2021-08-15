@@ -1,6 +1,0 @@
-NEUT0|This prediction is for Korea.
-NEUT1|This is ongoing process the uptrend.
-NEUT2|See how my uptrend is achieved.
-NEUT3|See the graph.
-NEUT4|After year.
-BULL5|It goes up.

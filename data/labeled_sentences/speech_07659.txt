@@ -1,5 +1,0 @@
-NEUT0|"""You've got to understand accounting."
-NEUT1|That's gotta be like a language to you, and so you have to know what you're reading.
-NEUT2|I mean, and let you know that language you have to do that.
-NEUT3|And you have to have the attitude that you're buying part of a business.
-NEUT4|"And if you buy intelligently into a business, you can make money."""

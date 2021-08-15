@@ -1,9 +1,0 @@
-NEUT0|"""Another trading day is in the books."
-NEUT1|This is the New York minute.
-BEAR2|Friday began as a relatively calm day on Wall Street, but that changed abruptly on news that the FBI was investigating new emails discovered in connection with Hillary Clinton's private email server.
-BEAR3|The new center fresh wave of nervousness about the US election through the financial markets.
-BEAR4|The S&P 500 immediately reversed an earlier rise to close down Zero point 3%, leaving it lower on the week.
-BEAR5|The yield on the policy sensitive two year Treasury also moved lower as investors see the US Federal Reserve.
-BEAR6|As less likely to go ahead with the December rate rise if Donald Trump wins the election, the Mexican peso, which has become a proxy for the Republican nominees election prospects, fell as much as one point 4% against the dollar.
-BEAR7|Some relief came by way of data showing the US economy had grown at an annualized pace of 2.9% in the third quarter, ahead of expectations earlier in the day, the focus was on some big earnings reports from Alphabet and Amazon Alphabet beat, while Amazon missed and shares of the online retailer ended the day down 5%.
-NEUT8|"New York minute"""

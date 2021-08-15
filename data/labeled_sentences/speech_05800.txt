@@ -1,5 +1,0 @@
-NEUT0|"""Hello, this is Ladd emerging coskey with."
-NEUT1|Here's a thought.
-BEAR2|The European Union is planning to bring formal antitrust charges against Amazon.com in its recently announced investigation, the investigators have been examining for about two years.
-BEAR3|If the Seattle based company violated the blocks rules by being both a marketplace and a seller at the marketplace at the same time, and the charges could be filed as soon as next week, Amazon could be required to pay as much as 10% of its annual global revenue.
-NEUT4|"Or 28 billion according to 2019 figures conclusion, European law remains strict in breaking up not only gas monopolies, but also less prominent marketplace monopolies."""

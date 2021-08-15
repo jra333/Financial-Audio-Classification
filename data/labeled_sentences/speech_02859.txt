@@ -1,9 +1,0 @@
-NEUT0|"""Here's what we're watching is a trading day, gets going in London, shares under pressure across the board as we await a meeting of the European Central Bank and look ahead to Friday's US employment report."
-NEUT1|We're not expecting policy surprises from the ECB.
-NEUT2|Our attention will focus on Mario Draghi's press conference, the Elephant in the room for the ECB is how long can they keep buying bonds under QE when inflation is rising?
-BEAR3|That has some on watch for any hints of an early taper to QE.
-NEUT4|Then there's a question of what the ECB has planned.
-BEAR5|If France's presidential election does deliver a shock result or told a tough afternoon possibly awaits Mr. Draghi as that unfolds US, WTI oil prices hovered just above $50 a barrel and the market is showing signs of breaking down after being held up by last year's OPEC production deal.
-NEUT6|The other key level that we're watching is 2.6% on the 10 year Treasury yield.
-BEAR7|No matter solid investor demand for a new 10 year sale on Wednesday, yields are bleeding higher still, it will require a very strong U.S. jobs report number tomorrow to take out that December peak.
-BULL8|"Of 2.63%."""

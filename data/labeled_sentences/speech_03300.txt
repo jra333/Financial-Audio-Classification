@@ -1,9 +1,0 @@
-NEUT0|"""I don't know are we a master?"
-NEUT1|Hey, I've got a prediction for you tomorrow.
-BEAR2|Something's going to happen to Facebook stock.
-NEUT3|It's going to go up or it's going to go down, but no matter what, it's a goodbye.
-NEUT4|Check out the interview with Gokal.
-NEUT5|The guy in charge of Facebook's ad products and take a look at their hiring board.
-NEUT6|They're looking for supply chain management.
-BULL7|E-commerce is the future on Facebook is going to win.
-NEUT8|"I'd buy."""

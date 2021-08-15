@@ -1,2 +1,0 @@
-BULL0|"""SmarTrend identified an uptrend for Websense NASDAQ symbol WBSN on December 23rd 2009 at $17.69 in approximately 2 months, Websense has returned 12.5% as of today's recent price of $19.90."
-NEUT1|"Trade your way to success with smart trend for more news and market analysis like this, click below."""

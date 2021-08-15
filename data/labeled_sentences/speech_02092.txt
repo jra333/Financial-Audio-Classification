@@ -1,8 +1,0 @@
-NEUT0|"""Now, but we have some earnings jokes that are just crossing the wires."
-BEAR1|We have Coca Cola, which is a mistake in the Dow component.
-BULL2|Adjusted earnings per share of $0.56 a share, right in line with Wall Street forecast revenue of nine and a half billion dollars slightly above consensus.
-BULL3|There's a lot of metrics to look at with Coca to to delve into case volume around the planet obviously, but so far up about 2% in premarket trading.
-NEUT4|So at first blush it looks pretty good, but we get much more detail.
-NEUT5|These just crossed the tape.
-NEUT6|And we were expecting them right at 7:00 o'clock.
-NEUT7|"And they came right on time."""

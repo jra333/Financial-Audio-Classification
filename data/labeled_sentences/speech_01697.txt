@@ -1,4 +1,0 @@
-BULL0|"""Shares of Facebook and dumped on Thursday with the social networking giant on track for its biggest one day pop in about 5 months, though it is also set to close out its worst month in three years, the stock FB 4.42% gained three point 8% which would represent its biggest one day percentage gain since October."
-BEAR1|The move represents something of a rebound from heavy losses as Facebook has been under heavy pressure following a controversy over how it has handled user data.
-BEAR2|For the month of March it has lost 10.9% its steepest monthly drop since March 2014.
-BULL3|"The Dow Jones Industrial Average, DJI a 1.07% Rose Zero point 8%, while the S."""

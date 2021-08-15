@@ -1,4 +1,0 @@
-NEUT0|Does Berkshire Hathaway B stock pay dividends?
-NEUT1|Berkshire Hathaway Brka BRKB does not pay a dividend because its Chairman and CEO Warren Buffett believes it is more beneficial to allocate the company's earnings in other ways.
-BULL2|Thanks for watching.
-NEUT3|Please subscribe.

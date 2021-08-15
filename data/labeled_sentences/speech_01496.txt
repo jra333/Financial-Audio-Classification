@@ -1,8 +1,0 @@
-BEAR0|"""Two stocks moving as a result of this filing include Chevron and Verizon Berkshire Hathaway revealing stakes in both of them."
-NEUT1|About 48 million shares worth $4 billion in Chevron, that's as of December 31st, and in Verizon 147,000,000 shares worth nearly $9 billion as of the end of December.
-NEUT2|Now these two names they had actually held the stock.
-NEUT3|Both stocks as of September 30th the previous quarter, but they had been kept confidential before, so this is the first we're learning about these two names.
-NEUT4|Although it appears that Berkshire Hathaway has been holding them for quite some time.
-NEUT5|Also took a much smaller knew stake in Marsh and McLennan, guys.
-NEUT6|Shepard Smith here.
-NEUT7|"Thanks for watching CNBC on YouTube."""

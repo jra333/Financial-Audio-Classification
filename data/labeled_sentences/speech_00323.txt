@@ -1,9 +1,0 @@
-BEAR0|"""Ladies and gentlemen, Jimmy John here and according to an article on finance.yahoo.com, apparently Robin Hood Market Incorporated reduced the number of companies with trading restrictions to 8 from 50 ahead of Monday's trading session, according to an update on its website."
-NEUT1|The current list includes GameStop Corp. AMC Entertainment Holdings Black Berry Express Inc, Genius Brands International Inc, Cross Corporation, Naked Brand Group, An Nokia opening, new positions in these securities is limited according to Robin Hood's website, which lists.
-NEUT2|The maximum number of shares and options contracts each user can hold.
-NEUT3|Ladies and gentlemen, let's take a minute and pause for the ******** that I just read.
-NEUT4|Route mile.
-BEAR5|Robin Hood put buying restrictions in place after its clearinghouse deposit requirements for equities increase last week.
-BEAR6|The trading app popular among retail investors who fostered the rise of GameStop stock, has been under fire across the political spectrum for its decision to restrict trading of high flying stocks that surged after being touted on social media.
-BEAR7|Senator Elizabeth Warren on Sunday called for a border review.
-NEUT8|"Of the US Securities and Exchange Commission or recent trading swings and said a broker dealer like Robin Hood that invites a lot of individual investors needs to operate under same basic rules."""

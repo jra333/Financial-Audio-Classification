@@ -1,2 +1,0 @@
-BULL0|"""Netflix, Netflix the company announces its raising prices by between 13 and 18%."
-BULL1|"Now we know why the stocks up 1318%."""

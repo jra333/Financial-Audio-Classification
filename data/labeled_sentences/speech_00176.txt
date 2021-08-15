@@ -1,9 +1,0 @@
-NEUT0|"""All of the things I want to do."
-BULL1|Vastly outweighs the capital that I have.
-NEUT2|So at the end of last year you know my family office called and said, hey dummy, you know you need to put a little bit of money here just to like make sure that we have liquidity and we can keep doing all these things and so I had to sell, you know, a couple million shares of virtue.
-NEUT3|I don't want to.
-NEUT4|I haven't sold a single share of anything that I've done in this bad platform in the pipes other than those few million shares of Virgin.
-NEUT5|So if given my druthers, Eric and it's like you know.
-NEUT6|If I if I could, if I could really just go for it, I wouldn't sell the share of anything I buy 'cause I believe in you.
-NEUT7|But every now and then I run up into liquidity constraints like everybody else and I get a call and they say Jim up, stop slow down and I say no.
-BULL8|"And then they say OK. Then at least give us, give us a little buffer here so that we can continue to do all the things you want."""

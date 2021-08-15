@@ -1,8 +1,0 @@
-NEUT0|"""News alert on Southwest Airlines."
-BEAR1|The Wall Street Journal says a government report is set to save the company failed to prioritize safety, and the FAA hasn't done enough about it.
-NEUT2|The Journal reviewed the Transportation Department report, which will be released soon.
-NEUT3|It's a Southwest pilots flew more than 17 million passengers on planes with unconfirmed maintenance records over a period of about two years.
-BEAR4|The report also says Southwest Smash, both wing tips of a jet on a runway last year, or repeatedly trying to land in Gale force winds.
-BEAR5|The Transportation Department will also call out the FAA characterizing its oversight of Southwest as LAX, ineffective and inconsistent.
-BEAR6|A Southwest spokeswoman says the company reviewed the draft of the report strongly disagrees with it and what she calls quote.
-BULL7|"UB substantiated references to Southwest safety culture shares afoul Southwest or marginally higher at this point."""

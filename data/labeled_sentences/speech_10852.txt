@@ -1,7 +1,0 @@
-NEUT0|"""He hasn't yet appeared on a debate stage, but one Democratic presidential candidate is making his moves in Florida."
-NEUT1|Supporters of my Bloomberg opening a new campaign office in West Palm Beach, the former mayor of New York City getting an endorsement from the current mayor of West Palm Beach, Mike Bloomberg knows what cities leave.
-NEUT2|OK, he's been a mayor.
-NEUT3|He's been a mayor for three terms, and as I said when I saw him, mayors are required to get stuff done.
-NEUT4|Mike knows how to fight for gun safety.
-NEUT5|He knows how to fight for climate change, which is very important to our city.
-BULL6|"This location is one of seven new field offices across the Sunshine State, making a total of 10 field offices in Florida for Bloomberg."""

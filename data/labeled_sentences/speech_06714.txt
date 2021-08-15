@@ -1,9 +1,0 @@
-NEUT0|"""I'm Christy Defever smart try news."
-BEAR1|March rent has detected that shares of Berkshire Hathaway have Bearishly opened below the pivot of 108 thousand, $296 today and have reached the first level of support at one Hundred 6743.
-BEAR2|Should the shares continue to fall, we are monitoring the next support pivots hundred 4486 and 100,676.
-BEAR3|Also, the shares are currently trading below the 50 day moving average of 100, nineteen, $1341.00 and below the 200 day moving average 100 seven $1612.00 smart trying to proprietary pattern recognition system alerted subscribers to sell shares of Berkshire Hathaway on May 6 of this year when the stock was at a price of 112 thousand 145.
-BEAR4|Since that call, the stock has fallen almost 5%.
-NEUT5|I'm Christy Duffy for smart trend news from Warren.
-NEUT6|How you can become a subscriber of our smart Trend Alert system?
-NEUT7|Visit our website thatstradethetrend.com.
-NEUT8|"You can also receive more news and market analysis by subscribing to our YouTube channel trade the trend."""

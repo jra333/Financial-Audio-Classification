@@ -1,6 +1,0 @@
-BEAR0|"""Hi, this is bled from affect."
-BULL1|Some file Verizon shares gained upside momentum after Berkshire Hathaway disclosed that it had initiated an 8.6 billion position in the stock.
-BULL2|The STACK receives support near the 20 year May at 55.60 and this trying to get closer to the 50 MA at $57.
-NEUT3|If the stock manage is to settle above their 50 ma, it will continue its upside, move and head towards the next resistance level at 57.50.
-NEUT4|Now the support site their twenty year may will serve as the first material support level for the stock if it manages to settle below this level, it will head towards the next support level at 54.70.
-BULL5|"Have a nice day and good luck."""

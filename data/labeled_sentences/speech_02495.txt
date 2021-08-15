@@ -1,5 +1,0 @@
-NEUT0|"""It was a dark and stormy night where there were children who didn't know the magic of books."
-NEUT1|They didn't have stories to transport them to imaginative faraway places introduce them to inspiring characters and empower them to unlock their inner strength.
-NEUT2|When you open your mind to new things, you never know what you might find.
-NEUT3|Now you can give stories that change lives, go to magicofstorytelling.com to give new books to children who need them, and be a part of something out of this world.
-BULL4|"Be inspired to give all children the chance to reach for the stars."""

@@ -1,5 +1,0 @@
-NEUT0|"""The 24th of January 2020, which in price today is 0.00563755 dollars."
-BEAR1|V chain prices down half a percent in the last 24 hours and 6% price came in last 14 hour's last 24 hour trading volume of $122,990,485.
-NEUT2|It has a circulating supply of 63 billion coins and a Max supply of 86.7 billion coins.
-NEUT3|The blockchain infrastructure for reborns powered by Vechain Reborns is now the first fashion technology and online luxury marketplace company to provide an end to end tracking service for their entire product inventory.
-NEUT4|"If you like this video please subscribe my channel."""

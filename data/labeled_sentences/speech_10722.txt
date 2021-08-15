@@ -1,5 +1,0 @@
-NEUT0|"""Alright, let's take the Apple stock we can see here today."
-NEUT1|We still stuck between the yummy lines, not a real breakout from the.
-BEAR2|50s yummy so as long as we keep below this line, there's possibility for us to go down even though we have formed frying pan bottom in shorter, but it's not definite thing that we can pre cut from here even though today fight has announced that it will keep the rates low.
-BEAR3|But we can see it only try to break out to the positive side for very short momentum here and then dropped back down again at the closing of the market is not a good sign weakness.
-BULL4|"Thank you."""

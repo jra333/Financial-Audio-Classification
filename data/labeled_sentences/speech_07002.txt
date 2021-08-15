@@ -1,2 +1,0 @@
-NEUT0|"""The question of what is economics, and in particular what economics means to me?"
-BULL1|"Certainly a fair one."""

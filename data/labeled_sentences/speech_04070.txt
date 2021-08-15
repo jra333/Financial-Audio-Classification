@@ -1,9 +1,0 @@
-NEUT0|"""Since the attack in the capital on January the 6th, the new cycle seemed to be going from 30 minutes to five minutes in order to stay updated, I gathered the Google trends every morning to see what people are searching for a Forbes article with the headline."
-BEAR1|Twitter is the worst company on the planet Earth.
-NEUT2|Here's how to bet against the stock and deactivate your account after clicking through the article fades to white and it says this page is no longer active.
-NEUT3|We regret any inconvenience and then it directs you to the terms and conditions or you can be redirected back to the main form site.
-NEUT4|I immediately send this article to multiple friends and every single person sent back a screenshot.
-NEUT5|Saying that the link was broken, but I knew Forbes was trolling people and I needed to prove it.
-NEUT6|So I reached out to my favorite web Dev UI expert Robert Haverly was able to send me a version of the article in its entire T and there's a huge ******* surprise at the end.
-NEUT7|Go ahead and click subscribe.
-NEUT8|"Click on the link in the pinned comment and I'll show you what I'm talking about."""

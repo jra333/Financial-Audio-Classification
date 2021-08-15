@@ -1,6 +1,0 @@
-BEAR0|"""While we're watching Coca-Cola, I'm Anders kites with real money's filler, kill team shares of the food and beverage Giants lift Wednesday after sales fell short of expectations and the company cut its 2016 outlook."
-BULL1|Coca Cola reported earnings of $0.60 per share, slightly above Wall Street estimates, but revenue of $11.54 billion.
-BEAR2|Missed analyst predictions.
-BEAR3|Coke also cut its outlook as global soda volume faces pressure from rougher economic conditions.
-BEAR4|In emerging markets, the company now expects full year organic revenue to grow just 3% in 2016.
-BEAR5|"That's down from its previous outlook of four to 5% growth with real money's filler kill team I'm Anders Kites."""

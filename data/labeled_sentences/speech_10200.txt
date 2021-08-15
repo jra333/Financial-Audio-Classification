@@ -1,8 +1,0 @@
-NEUT0|"""Alright, let's take out the Apple stock."
-BEAR1|We can see Apple has opened a high but dropped sharply down at the beginning of the market and then closed at a small gain at closing the market.
-NEUT2|If China chart into daily chart, we can see here it made a indecision Dodge it means across pattern.
-BEAR3|Below the yummy supporting and also we can see the MX online has been a death dead cross here so it means very Berry sign for Apple.
-BEAR4|So I don't think here is a buy point because it's so very weakness for the Apple stock.
-BEAR5|Even in mid term agency there still in a downtrend.
-NEUT6|So don't buy here.
-BULL7|"Thank you."""

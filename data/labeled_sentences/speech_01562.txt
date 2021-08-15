@@ -1,7 +1,0 @@
-NEUT0|"""Big tech showdown."
-NEUT1|We got Apple, Microsoft, Facebook, Google, Amazon and Alibaba.
-BULL2|Three year annualized growth rate is expected to be double digits for all of them, with Facebook growing 21% and Alibaba growing 32%.
-NEUT3|Then I have some of these other metrics from their financial statements and what you look at is if you look at the PE ratio for the 2023 net income, Alibaba.
-BEAR4|Seem to be trading at 13.4 times, which is way lower than all of these other players.
-BULL5|Google and Facebook are closed with trading under 18 times, so it does seem like Alibaba and Facebook and Google are better investments than these other three players.
-NEUT6|"But you also have to look at the regulatory scrutiny there under specially Facebook, Google and Alibaba and Alibaba has some Chinese risk there as well."""

@@ -1,6 +1,0 @@
-BULL0|"""Welcome to Disney."
-NEUT1|This day I'm going bonkers and on this day in 1981, actually texting was born.
-NEUT2|You might know her 'cause she used to work at the Walt Disney World Resort.
-NEUT3|She also voiced Ahsoka Tano in Star Wars, the Clone Wars, and founded the very popular clothing line her universe.
-NEUT4|Happy birthday Ashley.
-BULL5|"We love you."""

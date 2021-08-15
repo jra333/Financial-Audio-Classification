@@ -1,5 +1,0 @@
-NEUT0|"""We can identify bullish moves using these market profiles."
-NEUT1|This is showing us the ES mini for a 5 hour time frame because as prices taking out resistance, what will happen to bullish moves?
-NEUT2|Price will take out resistance but won't take out support in bearish moves.
-NEUT3|What we will see is price will begin trading below support the black dashed line and won't take out resistance now I always have a 2 bar rule when one area gets broken I wait for another bar in order to confirm that.
-NEUT4|"Similar to what we see right here, similar to what we see right here."""

@@ -1,9 +1,0 @@
-NEUT0|"""Hey Sarah, Robin Hood will now allow limited buying of some securities starting tomorrow."
-NEUT1|They say they will continue to monitor the situation.
-NEUT2|They may make some adjustments as needed, but in a statement we just got they say to be clear, this was a risk management decision.
-NEUT3|It was not made on the direction of market makers, they're out too.
-BULL4|It's a nod to some of the payment for order flow discussions today around Citadel.
-BEAR5|They say we're beginning to open up trading for some of these securities in a responsible manner and remember they had banned 8 securities today, including GameStop American.
-BEAR6|Airlines am see some of those highly shorted names and this comes after a ton of blowback on social media an from lawmakers.
-NEUT7|Shepard Smith here.
-NEUT8|"Thanks for watching CNBC on YouTube."""

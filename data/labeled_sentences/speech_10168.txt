@@ -1,8 +1,0 @@
-BULL0|"""Stimulus hopes and fed monetary policy have helped gold regain its luster in the future."
-BULL1|May be ripe for a breakout.
-BULL2|Gold is rallied almost 6% in the last several weeks.
-BULL3|Is trading near one month highs and is nearing significant resistance at the 1895 level.
-NEUT4|If it can breakthrough the next challenge for bulls will be about 19 and a quarter and then the highs we saw up around 1950.
-NEUT5|The size of any potential stimulus package.
-BEAR6|Is likely to determine whether buyers push gold through these levels and a failure to agree on a package will be bad news for bulls in the most recent Fed comments, Chairman Powell clearly stated the central banks accommodative stance all bullish for gold.
-BULL7|"Any pullback, barring a breakdown in stimulus talks, may set up a buying opportunity."""

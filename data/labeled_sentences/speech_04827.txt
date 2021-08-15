@@ -1,1 +1,0 @@
-NEUT0|At Google we have an internal document that our engineers have written to help each other out with getting started on machine learning and number one is you don't need machine learning and the reason why it's stated so strongly is actually to get the mindset of uncovering the richness of the problem.

@@ -1,8 +1,0 @@
-NEUT0|"""And of course, we're all thinking about the election."
-NEUT1|That of course, is coming up tomorrow and this one stat that I've been thinking bout of last few days is the idea that the White House flips party control.
-BEAR2|If the S&P is down three months before the election and it retains control the incoming party if the S&P is up.
-NEUT3|And we've seen this happen in every election since 1984, and, well, the S&P 500 closed on August, the third at 3294, and today it sits at 3311.
-BULL4|So we're up 17 points over that.
-NEUT5|I guess history says this means Trump's going to win.
-NEUT6|On the other hand, you could say it's basically flat and who knows what's going to happen.
-NEUT7|"And of course, that is a very 2020 thing to be thinking about as we head towards this day."""

@@ -1,5 +1,0 @@
-NEUT0|"""We thought 20 years ahead."
-NEUT1|They didn't think short term.
-BULL2|I think it was pioneering in every respect.
-NEUT3|My favorite quote was Wendy Lou Hobby telling me that, you know, we all have music within us and we must play it and there's nothing that stops a woman from being being there.
-BULL4|"You know, being at the forefront and they have been the perfect examples for that."""

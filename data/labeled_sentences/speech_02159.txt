@@ -1,8 +1,0 @@
-NEUT0|"""Our brand analytics overview is great if you are selling multiple brands."
-NEUT1|The data provided here helps you compare how one brand is performing over another.
-NEUT2|This chart shows you the brand in which you have the most active SKUs.
-NEUT3|In revenue you see your money makers, the brands that generate the most revenue.
-NEUT4|Here you see the brands that have the highest asset value and the brand comparison graph allows you to compare the different brands that you sell.
-BULL5|This is a great way for you to quickly see which brand is performing better.
-NEUT6|We encourage you to use this data to analyze the brands that yield higher profits and make adjustments to those that are not performing as well.
-NEUT7|"Thank you for watching solar mobiles brand analysis mobile app video."""

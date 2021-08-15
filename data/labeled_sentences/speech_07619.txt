@@ -1,6 +1,0 @@
-NEUT0|"""When you buy a farm."
-NEUT1|You look at the crop every year and and what prices are and you decide whether it was satisfactory investment.
-NEUT2|I mean you look to the asset itself and what it produces for you when we buy a business, we look at what the business burns and decide how we feel about it in terms of what we paid.
-NEUT3|But we are buying something that at the end of the period we not only have what we bought in the 1st place, but we have something that the asset produced.
-NEUT4|And when you buy nonproductive assets.
-NEUT5|"You're counting on is whether the next person is going to pay you more because they are even more excited about another next person coming along, but the asset itself is creating nothing."""

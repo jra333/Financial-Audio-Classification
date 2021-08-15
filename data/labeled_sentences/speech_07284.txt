@@ -1,9 +1,0 @@
-BEAR0|"""Shares of Twitter dropped 11% in early trading Monday, knocking more than $3 billion off its market value."
-BEAR1|Some investors dumped their shares after the social media company suspended President Donald Trump's popular account on Friday, citing the risk of further violence after he helped provoke a riot at the Capitol.
-BEAR2|Some Republicans cried foul.
-BEAR3|Traders pointed to signs of the social media shut out of Trump was further fueling calls to tighten regulation on big tech.
-BEAR4|European Union Commissioner Terry Britain compared the storming of the capital to the global crackdown on terrorism after the 9/11 attacks, writing in political the fact that a CEO can pull the plug on produces loudspeaker without any checks and balances is perplexing.
-BEAR5|Other tech Giants such as Facebook, Google, Apple and Amazon have also taken their strongest actions against Trump to limit his reach.
-BEAR6|Their shares also declined Monday, but not by as much as Twitters.
-BEAR7|Trump had more than 88 million followers on Twitter, and analysts say many of those eyeballs will go away if Trump is permanently banned.
-BULL8|"Investors will also keep an eye on downtown San Francisco Monday amid reports that local police were bracing for a possible protest by Pro Trump supporters outside Twitter's headquarters."""

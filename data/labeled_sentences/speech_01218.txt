@@ -1,6 +1,0 @@
-NEUT0|"""Speaking of former central bankers Janet Yellen takes her first public steps to deal with the volatility in GameStop shares and the role of Robin Hood."
-NEUT1|The Treasury Secretary has summoned financial regulators to discuss the recent market swings.
-NEUT2|Yellen, who is the former head of the Fed, wants to know if recent activities are consistent with investor protection and fair and efficient markets.
-NEUT3|The biggest story is the moment they happen from around the globe.
-NEUT4|Subscribe to Bloomberg.
-NEUT5|"Quicktake now for insight in an instant."""

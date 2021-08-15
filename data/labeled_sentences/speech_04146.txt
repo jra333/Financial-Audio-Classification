@@ -1,9 +1,0 @@
-BULL0|"""Hello Traders and welcome to AAA trades."
-NEUT1|Intraday technical analysis session.
-NEUT2|Today's instrument is the Apple stock.
-NEUT3|If we look at the Apple One day chart we can see that its share price is at the inner resistance of $315.00.
-BULL4|If it maintains its price above $300, we are expecting it to reach resistance of around the area of $327.00.
-NEUT5|Otherwise should it fail to hold its price.
-NEUT6|Above $300, the next level to watch will be the support near $282.
-NEUT7|Thank you for watching AAA trades intraday technical analysis from all of us here.
-BULL8|"We wish you successful and responsible trading."""

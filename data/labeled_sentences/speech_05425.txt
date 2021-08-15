@@ -1,8 +1,0 @@
-NEUT0|"""Here's what we're watching."
-NEUT1|Is trading gets underway in London at the start of a new week.
-BEAR2|Oil remains on the defensive.
-BEAR3|Equities are softer while the euro losses just shy of 114 against the dollar.
-BEAR4|Single currency was around 1:12 in late March and its rise reflects a reassessment of the dollars prospects when the US Federal Reserve shows a marked reluctance not to tighten policy from the perspective European equities, nothing appears to be working at all in macro terms, growth forecasts for eurozone profits have fallen to their lowest level since early 2009.
-BEAR5|Sales and revenues for the region's big companies are clearly suffering from weak global demand.
-BEAR6|Add a stronger euro into the mix and it's no surprise that eurozone equities are down around 9% this year.
-BEAR7|"Now, analysts may be Lowballing earnings estimates, setting the stage for a pop in prices should companies beat load expectations, but the mood also depends greatly on the direction of the euro which was showing signs of consolidating on Monday after its recent run, but one clear takeaway is that for all the Seabees firepower, negative rates, the currency is not weakening, and that's not good news for European companies."""

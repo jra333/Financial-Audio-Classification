@@ -1,4 +1,0 @@
-NEUT0|"""The hottest stock IPO of 2021 is about to go public."
-NEUT1|Coinbase, the biggest cryptocurrency exchange platform, plans to start trading on April 14th.
-NEUT2|This is an IPO that you're not going to want to miss.
-NEUT3|"Let me know if you plan on buying Coinbase stock or if you're sitting this one out."""

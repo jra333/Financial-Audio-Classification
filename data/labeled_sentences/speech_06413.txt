@@ -1,8 +1,0 @@
-NEUT0|"""From fno.com, you're watching the financial news network."
-NEUT1|I'm Julia.
-NEUT2|Sun SunTrust Bank has announced that it will be selling off its remaining shares in the Coca Cola Company, which it has had for almost a century.
-BULL3|The deal will see the bank sell its remaining sixty million shares in an attempt to compensate for financial woes.
-NEUT4|According to the Wall Street Journal, SunTrust has had a stake in the soft drink giant since it helped Coca Cola to go public.
-BULL5|In 1919, the deal will see SunTrust receive $1.9 billion before taxes despite the large surge of cash, the bank will receive in the sale.
-BEAR6|It has said it will lose 40 millions a year from the loss of returns on the stock.
-NEUT7|"For news and updates, please follow us on Twitter at FN Online or check us out at our website at fno.com."""

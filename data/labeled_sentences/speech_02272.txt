@@ -1,6 +1,0 @@
-BULL0|"""Watching Centene shares Spike right now and shares of WellCare Group taking a move to the downside and this on the heels of Dow Jones headlines saying that hedge fund Third Point, which is run by activist investor Dan Loeb, has built a senten stake worth at least $300 million."
-NEUT1|That's according to sources familiar with the matter over there at the Wall Street Journal.
-NEUT2|He wants Centene to consider selling itself, and you may recall that Centene agreed earlier this year to buy WellCare for about $15.3 billion.
-NEUT3|As a result of all of this, the shares are moving in reaction to those headlines.
-NEUT4|We are in the process right now of reaching out to both Dan Lowpan Third Point as well as what's happening with Centene.
-NEUT5|"We will let you know any details as we know them here, but that is the reason why Scott, both of these managed care companies that deal mostly with government contracts, are moving on those headlines."""

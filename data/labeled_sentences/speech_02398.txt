@@ -1,7 +1,0 @@
-NEUT0|"""What's up guys?"
-NEUT1|Quick update on Disney?
-NEUT2|She can see at $193.00.
-BULL3|Rubber 115%, almost $1000 and a crazy ride.
-BULL4|The earnings, even though they fell short of what it should have been with Covid, is expected.
-BULL5|I'm going strong.
-NEUT6|"See you guys next time."""

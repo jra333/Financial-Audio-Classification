@@ -1,9 +1,0 @@
-BEAR0|"""What were less than three weeks away from Super Tuesday?"
-NEUT1|That's when more than a dozen states, including Virginia, vote on a Democratic nominee to challenge President Trump.
-NEUT2|One of those candidates spoke at Hardywood Craft Park just a few moments ago.
-NEUT3|Former New York City Mayor Michael Bloomberg is targeting Virginia.
-BEAR4|His campaign is hopeful they can capitalize off slumping poll numbers and poor performances by former Vice President Joe Biden.
-BULL5|Bloomberg told the crowd his platform is realistic, saying that makes him the best candidate to beat President Trump in swing states come November.
-NEUT6|As we all know, Trump strategy attack Democrats make their plans look unrealistic, unaffordable, and undoable, but that won't work against me and it won't work against you.
-BEAR7|RealClearPolitics polling data shows that nationally Bernie Sanders has an edge in Super Tuesday states, with Biden and Bloomberg trailing behind the senator from Vermont again.
-NEUT8|"Virginia's primary is March the 3rd."""

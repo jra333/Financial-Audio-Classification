@@ -1,9 +1,0 @@
-BEAR0|"""Technical analysis on Apple was for the last few weeks showing a conflicting set of patterns."
-NEUT1|On the one hand, we have this support with bounces, three solid touches, an one slight little breach here and on the other hand, a downward channel that was forming.
-NEUT2|Now this downward channel didn't fully form because we didn't have three touches on the support, although we had several touches on the resistance as it got closer to the support.
-NEUT3|You could still breach and hit the support, but as each day has gone by, I have come to the belief that that's not what's happening.
-BEAR4|Partly because as the price action moved down, the volume went down, meaning that the lower price action that we just had is not a strong price action.
-NEUT5|Meaning to me that it's probably going to continue to go up, so I'm for the moment I'm calling the this downward channel, not a real channel, and I'm taking away my toe.
-BULL6|I think we're still in the midst of a support and a bounce we bought right here.
-NEUT7|Somewhere around 1:20 we waited for what we consider a four day confirmation of this bounds, but our goal is to get 5% gains minimum, and we'll see how it goes from there.
-NEUT8|"Stay tuned and we'll let you know how this pans out over the next few days."""

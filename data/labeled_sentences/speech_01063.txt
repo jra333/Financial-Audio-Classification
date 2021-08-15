@@ -1,9 +1,0 @@
-NEUT0|"""What could the general election mean for the pound?"
-BULL1|How will likely rise against both the euro and the dollar if the Conservatives win investors think a Tory government will lead to progress on Brexit, as Boris Johnson will be able to get his Brexit deal through Parliament.
-BEAR2|However, if Boris Johnson only gets a small majority in Parliament upside for the pound would be limited.
-BEAR3|Many people think that a Jeremy Corbyn government would be bad news for the pound.
-BEAR4|Businesses fear that Labour policies such as nationalizing many industries.
-BEAR5|Would harm the UK economy.
-BEAR6|However there is one situation where a Labour government could boost Sterling that if they form a minority government, coalition partners would likely block Jeremy Corbyn's most radical policies while supporting a second referendum that would pave the way for Brexit to be potentially cancelled.
-BEAR7|The worst outcome for Sterling is a hung parliament.
-BEAR8|"It would essentially leave us in the same position we were before the general election with no clear path to resolving Brexit."""

@@ -1,8 +1,0 @@
-NEUT0|"""Now will consider this candle largely bearish."
-BULL1|A third candle, the dodgy displays a bullish rejection of lower prices.
-BEAR2|Driving prices up from the low point to the clothes and a bearish rejection of higher prices driving them from the high back down to the close.
-NEUT3|In the end, the price closed where it opened at mid range of the candle with equal tails above and below.
-NEUT4|This displays a matching of both bullish and bearish sentiment, nor the Bulls nor the Bears are in control at this point in time.
-BEAR5|Same for the 4th Candle, although the Bulls were able to score a slide victory in finishing with a small range green body, there is significant rejection of both prices above and below.
-NEUT6|With the clothes at approximately mid range right near the open.
-BULL7|"Once again this is no definitive victory for either the Bulls or the Bears."""

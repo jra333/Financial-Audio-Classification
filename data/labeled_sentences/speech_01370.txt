@@ -1,6 +1,0 @@
-NEUT0|"""Jeff New guard here President, CEO of Bank of Idaho."
-BULL1|I'm excited to announce that Bank of Idaho has been named to the Forbes List of America's best Banks in Idaho.
-NEUT2|We have a staff of more than 120 individuals who come to work every day with a genuine desire to serve customers in the best way they can.
-BULL3|Being included on the Forbes List of America's best banks is proof that our team is succeeding were the bank with the heart and that means we put people first.
-NEUT4|Bank of Idaho, member FDIC.
-NEUT5|"Equal housing lender."""

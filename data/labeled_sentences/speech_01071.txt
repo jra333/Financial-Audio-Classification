@@ -1,8 +1,0 @@
-NEUT0|"""What is an exit poll?"
-NEUT1|Exit polls are huge undertaking with thousands of interviews taking place with voters outside polling stations after they've cast their vote.
-NEUT2|Individuals are asked by Anonymous poll which party they voted for alongside their age, ethnicity and gender is mainly used to estimate the turn out and electoral swing, which is the extent of change in voter support compared to the previous election.
-NEUT3|Results are typically revealed at 10:00 PM.
-NEUT4|When voting is finished on the day of the election, the polling focuses on more marginal and swing seats.
-NEUT5|As these are the most important.
-BEAR6|In determining the election result in 2017, the exit polls surprisingly suggested that Theresa May was about to lose her majority, and indeed it was accurate as the country was saddled with another hung parliament.
-NEUT7|"However, while exit polls are a good indicator of results to come, they are not completely foolproof."""

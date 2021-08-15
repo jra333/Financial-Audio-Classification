@@ -1,8 +1,0 @@
-NEUT0|"""The FTSE 100, also known as the Financial Times Stock Exchange 100 share index is the average share price of the 100 largest publicly traded companies on the London Stock Exchange."
-NEUT1|It measures the combined daily share performance of those 100 firms.
-NEUT2|Investors use the FTC to also predict where the UK economy is going, and as such it's a very big deal.
-NEUT3|The FTSE 100 includes companies such as.
-NEUT4|EasyJet, Experian and HSBC.
-BEAR5|If the FTC 100 is down, this means there are more people selling shares of companies in the FTSE 100 then there are of people buying shares of FTS Z100 companies.
-BULL6|If more people are buying the shares of companies from the FTC 100, then the FTC 100 will be up.
-NEUT7|"There are many other industries, such as the FTC 250 or the FTC 350."""

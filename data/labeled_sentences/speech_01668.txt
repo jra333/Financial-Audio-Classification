@@ -1,4 +1,0 @@
-BULL0|"""Hi Bob, Forbes and the question before us is will global global growth be restored in 2009?"
-BEAR1|Certainly here at Davos there seems to be a lot of gloom and doom, but a certain amount of pessimism, pessimism, pessimism is being offset by optimism.
-BULL2|I personally think that by 2009 that markets will be up that I have 100 Swiss franc vet saying that this time next year the markets are going to be higher than they are today.
-BULL3|"Thanks."""
