@@ -3,7 +3,7 @@
 
 Sentiment analysis and natural language processing is a growing practice within the financial industry. Using NLP, many analysts generate their reports from textual data (ex. News articles, Twitter tweets etc) and now with “transformers,” these analyses can be powerful in understanding market volatility and momentum. However, one can argue that traditional sentiment analysis can sometimes lack in depth, as we can misconstrue written language, not being able to capture the many facets that contribute to an individual’s genuine expression that which we mark as sentiment. It is our thought that by utilizing NLP with audio feature extraction, classifying received sentiment into categories should be more realistic for “ground truth.”  
 
-Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, from them we extract audio specific features. Further, because these YouTube videos contained over 130,000 useful sentence segements (utterances) annotating each audio individually would be a tedious task. To remedy this, we implemented an automated method that makes use of Googles BERT transformer. From the audio speech to text transcription + annotation, we then performed a series of steps that created audio sentence/phrase segments paired with its respective class. The final training/validation dataset after augmentations resulted in more than 300,000 "bullish", "bearish" and "neutral" audio signals and mel-spectrograms. By automating the process we have developed an end to end approach for audio annotation with respect to financial based speech, significantly improving workflow efficency.
+Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, from them we extract audio specific features. Because these YouTube videos contained over 130,000 useful sentence segements (utterances) annotating each audio individually would be a tedious task. To remedy this, we implemented an automated method that makes use of Googles BERT transformer. From the audio speech to text transcription + annotation, we then performed a series of steps that created audio sentence/phrase segments paired with its respective class. The final training/validation dataset after augmentations resulted in more than 300,000 "bullish", "bearish" and "neutral" audio signals and mel-spectrograms. By automating the process we have developed an end to end approach for audio annotation with respect to financial based speech, significantly improving workflow efficency.
 
 **We trained our data using four classical models:**
 - Logistic Regression
@@ -15,7 +15,7 @@ Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, 
 - Tested: 4 unique architectures from scratch
 <br>
 
-**_The notebooks in this repository contain redacted cells since the project is ongoing. To view the full code, email me at: aranciojr@gmail.com._**
+**_The notebooks in this repository contain redacted cells for privacy. The report and presentation is also password protected. If you'd like to view the full code and summaries, email me at: aranciojr@gmail.com._**
 <br>
 <br>
 
