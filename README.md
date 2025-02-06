@@ -30,7 +30,7 @@ Our data was self-ensembled and extracted from over 11,0000 YouTube videos and, 
     - [Results](https://github.com/jra333/Financial-Audio-Classification#results)
       - [AUG 2021](https://github.com/jra333/Financial-Audio-Classification#aug-2021)
     - [Report](https://github.com/jra333/Financial-Audio-Classification/blob/main/FASC(report).pdf)
-    - [Presentation](https://github.com/jra333/Financial-Audio-Classification/blob/main/FASC(presentation).pdf)
+    - [Presentation](https://github.com/jra333/Financial-Audio-Classification/blob/main/FASC(ppt).pdf)
 - [**Future Work**](https://github.com/jra333/Financial-Audio-Classification#future-work)
 <br>
 
